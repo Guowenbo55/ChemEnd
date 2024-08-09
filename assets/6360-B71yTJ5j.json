@@ -1,0 +1,126 @@
+{
+    "_id": {
+        "$oid": "6682e843c4e5dba5ffba24b7"
+    },
+    "CID": {
+        "$numberInt": "6360"
+    },
+    "Name": "Isobutane",
+    "IUPACName": "2-methylpropane",
+    "CanonicalSMILES": "CC(C)C",
+    "Synonyms": [
+        "ISOBUTANE",
+        "2-Methylpropane",
+        "75-28-5",
+        "Trimethylmethane",
+        "Propane",
+        "2-methyl-",
+        "1,1-Dimethylethane",
+        "iso-butane",
+        "R 600a",
+        "Caswell No. 503A",
+        "HSDB 608",
+        "R-600a",
+        "EINECS 200-857-2",
+        "Isobutane [NF]",
+        "UNII-BXR49TP611",
+        "EPA Pesticide Chemical Code 097101"
+    ],
+    "IsomericSMILES": "CC(C)C",
+    "INCHI": "InChI=1S/C4H10/c1-4(2)3/h4H,1-3H3",
+    "INCHIKEY": "NNPPMTNAJDCUHE-UHFFFAOYSA-N",
+    "Formula": "C4H10",
+    "MolecularWeight": {
+        "$numberDouble": "58.12"
+    },
+    "Description": "Isobutane is an alkane that is propane substituted by a methyl group at position 2. It has a role as a food propellant and a refrigerant. It is an alkane and a gas molecular entity.",
+    "XlogP": {
+        "$numberDouble": "2.1"
+    },
+    "Complexity": {
+        "$numberInt": "4"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR (consult ed) Washington,DC: Amer Chem Soc p. 10 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Jan 10, 2018: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 30 was calculated in fish for isobutane(SRC), using a log Kow of 2.76(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Solano-Serena F et al; Appli Microbiol Biotechnol 54: 121-125 (2000)",
+            "Value": "AEROBIC: Isobutane, present at 10.1 mg/L, reached 49% mineralization after 20 days (with a 5.7 day lag period) using an activated sludge inoculum from an urban WWTP; the reported degradation rate was 67 umol/L-h(1)."
+        },
+        {
+            "References": "(1) Bopp RF et al; Org Geochem 3: 9-14 (1981)",
+            "Value": "AEROBIC: Biodegradation half-lives for isobutane were 16-26 days at 20 \u00b0C and 33-139 days at 10 \u00b0C, using brackish water in a gas-exchange degradation experiment simulating biological conditions and nutrient levels of Narrangansett Bay, RI. The removal rate constant of isobutane is 0.061/day (standard deviation 0.005/day) at 20 \u00b0C and 0.030/day (standard deviation 0.006/day) at 10 \u00b0C(1). The respective half-lives are 11 days and 23 days(SRC). The results indicate that gas exchange is the dominant removal mechanism for isobutane gases from the water column following a hypothetical input. Scaling up the predicted gas exchange rate constants (0.26/day and 0.017/day at 20 and 10 \u00b0C, respectively) so they are consistent with natural estuaries, the volatilization half-lives for isobutane from the water columns in natural estuaries(1) are estimated to be 4.4 and 6.8 days at 20 and 10 \u00b0C, respectively(SRC). Isobutane also biodegrades in the  microcosm at a rate that is slower than for n-butane and falls between propane and ethane in susceptibility. Biodegradation of isobutane is significantly slower than the loss predicted by gas exchange from typical natural estuaries. However, after a lag of 2-4 weeks, the biodegradation rate increases markedly so that in the case of chronic inputs, biodegradation can become the dominant removal mechanism(1)."
+        },
+        {
+            "References": "(1) Hou CT et al; Appl Environ Microbiol 46: 178-84 (1983)  (2) Jamison VW et al; pp. 187-96 in Proc Int Biodeg Symp 3rd Sharpley JM, Kapalan AM, eds Essex, England (1976)",
+            "Value": "PURE CULTURE: Pure cultures of C2-C4 alkane-utilizing methylotropic bacteria isolated from soil and water were found to catalyze the oxidation of isobutane to isobutanol(1). Pure cultures of bacteria (Nocardia, Pseudomonas, Actinobacter, Micrococcus, Flavobacterium) isolated from groundwater contaminated with high-octane gasoline as a result of a pipeline break near Amber, PA did not degrade isobutane after 8 days incubation(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 10",
+            "Value": "log Kow = 2.76"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 18",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Studies in rabbits exposed in the eyes to undiluted hairspray containing 22% isobutane showed that irritation of the eye was immediately evident with transient iritis and mild conjunctivitis."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 18",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In dogs, 55 mg/L /isobutane/ were fatal, and 45 mg/L caused anesthesia."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 18",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... 2-hr exposures of mice to 41 mg/L /isobutane/ caused death in 60% of the exposed animals, whereas exposure to 52 mg/L was lethal to 100% of the animals within an average of 28 min."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 18",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The 1-hr LC50 /of isobutane/ for the mouse is 52 mg/L. At concentrations in the range of the LC50, mice exhibit CNS depression, rapid and shallow respiration, and apnea."
+        },
+        {
+            "References": "Friedman et al; Toxicol 1 (4): 345-55 (1973)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ All 7 propellants, which included isobutane, caused apnea and finally cardiac arrest in anesthetized rats."
+        },
+        {
+            "References": "PMID:3787643",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Ninety-day inhalation studies were conducted on 50:50 weight percent (wt %) mixtures of n-butane, n-pentane, and isobutane, isopentane, respectively, and on a distillation cut boiling below 145 \u00b0F of a reference unleaded gasoline blend to assess the nephrotoxicity of these volatile mixtures. The mixtures of butanes and pentanes were selected because these four hydrocarbons are the most prevalent components of gasoline vapors encountered under typical occupational exposures. The 0-145 \u00b0F gasoline distillation fraction was tested because it reasonably approximates the composition of gasoline vapors measured under occupational settinqs. Male and female F-344 rats were exposed to 2 levels of each mixture, 6 hr/day, 5 days/wk, for 13 weeks. The target concentrations for the butane:pentane mixtures were 4500 and 1000 ppm, while 5200 and 1200 ppm were set for the gasoline distillation fraction. An interim sacrifice was conducted after 28 days. The rats were not significantly affected by the exposures, and there was no evidence of hydrocarbon-induced nephropathy in either sex at the termination of each study. However, at the 28-day interim sacrifice period for both butane:pentane mixtures, mild ... kidney effects were observed in the male rats. These perturbations were absent at the interim sacrifice period for the gasoline distillation fraction."
+        },
+        {
+            "References": "PMID:3706143",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ The nephrotoxicity of 4 and 5 carbon containing gasoline components was studied in rats. Sprague-Dawley rats were exposed to a blend containing 25% (weight/weight) each of n-butane, n-pentane, isobutane, and isopentane by inhalation at concentrations of 0, 44, 432, or 4,437 ppm for 6 hr/day, 5 days/wk for 3 weeks. The animals were observed for clinical signs of toxicity. At the end of the study period, the rats were killed and necropsied. Blood was collected from the abdominal aorta for hematologic and serum chemistry analysis. No clinical signs of toxicity were seen. No gross or histopathological lesions were noted and no evidence of nephrotoxicity was observed. All hematologic and clinical chemistry parameters were within normal limits. The authors note that the 4,437 ppm exposure approaches 30% of the lower explosive limit of the hydrocarbon blend. ..."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 18",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Isobutane is a CNS depressant in the mouse at 15% in 60 min, and at 23% in 26 min."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 18",
+            "Value": "/GENOTOXICITY/ Isobutane tested negative in the Ames Salmonella mutagenicity assay."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 18",
+            "Value": "/OTHER TOXICITY INFORMATION/ No effects were noted in anesthetized dogs at concentrations of </= 2%, but decreased myocardial contractility was noted at 2.5%; exaggerated effects, at 5%, with a decrease in ventricular and aortic pressure; and at 10%, decreased left ventricular pressure, mean arterial flow, and stroke volume, with increased pulmonary vascular resistance."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Kvenvolden KA, Redden GD; Geochim Cosmochim Acta 44: 1145-50 (1988)",
+            "Value": "SEDIMENT: Hydrocarbon gases are present in low concentrations in the upper 2 m of sediment from the shelf, slope and basin of the Bering Sea; the concentration range of isobutane in the 19 core samples analyzed were 4 to 340 nL/L interstitial water, with a median of 9 nL/L. It is believed that these chemicals are derived from low temperature biological and chemical processes on the sea floor(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 10 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Jan 10, 2018: https://www2.epa.gov/tsca-screening-tools (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of isobutane is estimated as 250(SRC), using a log Kow of 2.76(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that isobutane is expected to have moderate mobility in soil."
+        }
+    ]
+}

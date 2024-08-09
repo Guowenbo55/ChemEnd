@@ -1,0 +1,70 @@
+{
+    "_id": {
+        "$oid": "6682e833c4e5dba5ffba2469"
+    },
+    "CID": {
+        "$numberInt": "6057"
+    },
+    "Name": "L-TYROSINE",
+    "IUPACName": "(2S)-2-amino-3-(4-hydroxyphenyl)propanoic acid",
+    "CanonicalSMILES": "C1=CC(=CC=C1CC(C(=O)O)N)O",
+    "Synonyms": [
+        "L-tyrosine",
+        "tyrosine",
+        "60-18-4",
+        "(S)-Tyrosine",
+        "p-Tyrosine",
+        "H-Tyr-OH",
+        "L-p-Tyrosine",
+        "(2S)-2-amino-3-(4-hydroxyphenyl)propanoic acid",
+        "4-Hydroxy-L-phenylalanine",
+        "Tyrosine",
+        "L-",
+        "Tyrosinum [Latin]",
+        "Tyrosine (VAN)",
+        "Tirosina [Spanish]",
+        "L-(-)-Tyrosine",
+        "(-)-alpha-Amino-p-hydroxyhydrocinnamic acid"
+    ],
+    "IsomericSMILES": "C1=CC(=CC=C1C[C@@H](C(=O)O)N)O",
+    "INCHI": "InChI=1S/C9H11NO3/c10-8(9(12)13)5-6-1-3-7(11)4-2-6/h1-4,8,11H,5,10H2,(H,12,13)/t8-/m0/s1",
+    "INCHIKEY": "OUYCCCASQSFEME-QMMMGPOBSA-N",
+    "Formula": "C9H11NO3",
+    "MolecularWeight": {
+        "$numberDouble": "181.19"
+    },
+    "Description": "L-tyrosine is an optically active form of tyrosine having L-configuration. It has a role as an EC 1.3.1.43 (arogenate dehydrogenase) inhibitor, a nutraceutical, a micronutrient and a fundamental metabolite. It is an erythrose 4-phosphate/phosphoenolpyruvate family amino acid, a proteinogenic amino acid, a tyrosine and a L-alpha-amino acid. It is functionally related to a L-tyrosinal. It is a conjugate base of a L-tyrosinium. It is a conjugate acid of a L-tyrosinate(1-). It is an enantiomer of a D-tyrosine. It is a tautomer of a L-tyrosine zwitterion.",
+    "XlogP": {
+        "$numberDouble": "-2.3"
+    },
+    "Complexity": {
+        "$numberInt": "176"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Lehninger, AL; Biochemistry 2nd ed. NY: Worth Publishers, Inc. pp. 1104 (1975)",
+            "Value": "Tyrosine is a non-essential amino-acid found in both proteins and the free form in most living organisms(1). It is involved in microbial, plant and animal metabolism and metabolic processes tend to regulate amino acid concentrations within the cell(1). Therefore, it is not likely to bioconcentrate in aquatic organisms(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Lehninger, AL; Biochemistry 2nd ed. NY: Worth Publishers, Inc. pp. 1104 (1975) (2) Kassim G et al; Soil Sci Soc Am J 45: 1106-12 (1981) (3) Chudoba J et al; Sb Vyp Sk Chem-technol, Praze Technol Vody 13: 45-63 (1968) (4) Malaney GW, Gerhold RM; J Water Pollut Control Fed 41: R18-R33 (1969) (5) Placak OR, Ruchhoft CC; Sewage Works J 19: 423-40 (1947)",
+            "Value": "Tyrosine is a non-essential amino-acid found in both proteins and the free form in most living organisms(1). Soil grab sample data, using radiolabeled tyrosine and an acidic and basic Mollic Haploxeralf soils (Steinbeck loam and Greenfield sandy loam), demonstrated that tyrosine should biodegrade rapidly in the environment(2). Tests were incubated for 12 weeks at a temperature of 22 \u00b0C. In Greenfield sandy loam, mineralization rates (CO2 evolved) in 1, 8 and 12 weeks were 83, 90 and 92%, respectively. In Steinbeck loam, mineralization rates (CO2 evolved) in 1, 8 and 12 weeks were 80, 89 and 91%, respectively. Microbial uptake was also measured with overall utilization of the substrate. About 6.1% was incorporated into the microbial population of the Greenfield sandy loam. In Steinbeck loam. 2.9% was reported as microbial biomass. A number of aerobic biological screening studies, which utilized settled waste water, sewage, or activated sludge for inocula, have also demonstrated that tyrosine is readily biodegradable(2-5). A 5 day BOD was 64.7%(3). In 24 hrs, the BOD ranged from 22.6 to 30.7%(4-5)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Verschueren, K. Handbook of Environmental Data of Organic Chemicals. 2nd ed. New York, NY: Van Nostrand Reinhold Co., 1983., p. 1174",
+            "Value": "log Kow= 2.26"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Lehninger, AL; Biochemistry 2nd ed. NY: Worth Publishers, Inc. pp. 1104 (1975) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods NY: McGraw-Hill pp. 6-1 to 6-27, 15-15 to 15-29 (1982)",
+            "Value": "Tyrosine is a nonessential amino acid. With pK values of 2.20, 9.11 and 10.07 for the acid, base and phenol groups, respectively, tyrosine will exist in environmental media as series of ions in varying proportions that are pH dependent(1). The adsorption of organic molecules in soil with both negative and positive charges is difficult to predict(2,SRC)."
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "66927113303528b49832d7d2"
+    },
+    "CID": {
+        "$numberInt": "93483"
+    },
+    "Name": "Imibenconazole",
+    "IUPACName": "(4-chlorophenyl)methyl N-(2,4-dichlorophenyl)-2-(1,2,4-triazol-1-yl)ethanimidothioate",
+    "CanonicalSMILES": "C1=CC(=CC=C1CSC(=NC2=C(C=C(C=C2)Cl)Cl)CN3C=NC=N3)Cl",
+    "Synonyms": [
+        "Imibenconazole",
+        "86598-92-7",
+        "Manage",
+        "Imibenconazole [ISO]",
+        "HF 6305",
+        "HF 8505",
+        "UNII-KQY333M0BE",
+        "KQY333M0BE",
+        "4-Chlorobenzyl N-2,4-dichlorophenyl-2-(1H-1,2,4-triazol-1-yl)thioacetamidate",
+        "(4-chlorophenyl)methyl N-(2,4-dichlorophenyl)-2-(1,2,4-triazol-1-yl)ethanimidothioate",
+        "1H-1,2,4-Triazole-1-ethanamidothioic acid",
+        "N-(2,4-dichlorophenyl)-",
+        "(4-chlorophenyl)methyl ester",
+        "Imibenconazole 10 microg/mL in Acetone",
+        "Imibenconazole 100 microg/mL in Acetone",
+        "(4-chlorophenyl)methyl N-(2,4-dichlorophenyl)-1H-1,2,4-triazole-1-ethanimidothioate",
+        "IMIBENCONAZOLE [MI]"
+    ],
+    "IsomericSMILES": "C1=CC(=CC=C1CSC(=NC2=C(C=C(C=C2)Cl)Cl)CN3C=NC=N3)Cl",
+    "INCHI": "InChI=1S/C17H13Cl3N4S/c18-13-3-1-12(2-4-13)9-25-17(8-24-11-21-10-22-24)23-16-6-5-14(19)7-15(16)20/h1-7,10-11H,8-9H2",
+    "INCHIKEY": "AGKSTYPVMZODRV-UHFFFAOYSA-N",
+    "Formula": "C17H13Cl3N4S",
+    "MolecularWeight": {
+        "$numberDouble": "411.7"
+    },
+    "Description": "Imibenconazole is a member of the class of imidothioates that is the S-4-chlorobenzyl thioester of N-(2,4-dichlorophenyl)-2-(1H-1,2,4-triazol-1-yl)ethanimidothioic acid. Used to control a range of fungal diseases affecting fruit, vegetables, turf and ornamentals. It has a low mammalian toxicity and shows a moderate level of toxicity to fish, daphnia and earthworms but is relatively non-toxic to honey bees, birds and algae. It has a role as an EC 1.14.13.70 (sterol 14alpha-demethylase) inhibitor and an antifungal agrochemical. It is a dichlorobenzene, a member of triazoles, a member of monochlorobenzenes, an imidothioate, a conazole fungicide and a triazole fungicide.",
+    "XlogP": {
+        "$numberDouble": "5.8"
+    },
+    "Complexity": {
+        "$numberInt": "446"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The systemic activity of simeconazole (RS-2-(4-fluorophenyl)-1-(1H-1,2,4-triazol-1-yl)-3-trimethylsilylpropan-2-ol) in plants was compared with that of eight other sterol demethylation inhibitor (DMI) fungicides. Simeconazole prevented the infection of Blumeria graminis (DC) Speer f. sp. hordei Marchal on barley leaves within a radius of several centimeters from the edge of local treatment on the leaves when the compound was separated from the leaves by glass coverslips. This reveals that simeconazole has prominent vapor-phase activity. Simeconazole showed excellent curative activity against barley powdery mildew when treated 1\u20133 days after inoculation. Furthermore, this indicates that simeconazole has notable translaminar activity because, when the compound was applied onto either the adaxial or abaxial leaf surface, it showed excellent efficacy against powdery mildew on the opposite side of the leaf surface of barley and cucumber. Simeconazole also showed excellent efficacy against barley powdery mildew by soil drench 24 h after inoculation. This suggests that simeconazole was absorbed very quickly into the barley plant after treatment. The permeability of the compound through cuticular membranes prepared from tomato fruits was about 20% at 22 h after treatment and was much superior to that of the other DMI fungicides tested.",
+            "reference": "Tsuda, M., Itoh, H., & Kato, S. (2004). Evaluation of the systemic activity of simeconazole in comparison with that of other DMI fungicides. Pest management science, 60(9), 875-880.",
+            "method": {
+                "Test Plant": "Barley (Hordeum vulgare cv. Akashinriki) and cucumber (Cucumis sativus cv. Sagamihanpaku) seedlings",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Barley and cucumber seedlings were grown in 4-cm and 5-cm square pots respectively until the one-true-leaf stage.",
+                "Chemical Preparation": "The DMI fungicides tested were simeconazole (200 g/kg wettable powder), difenoconazole (100 g/kg WP), fenbuconazole (220 g/L SC), hexaconazole (20 g/L SC), imibenconazole (150 g/kg WP), oxpoconazole fumarate (200 g/kg WP), tebuconazole (100 g/L SC), tetraconazole (116 g/L ME) and triflumizole (300 g/kg WP).",
+                "Pesticide Application Details for the Plant": "For fungicidal activity, the compounds were sprayed uniformly on barley and cucumber leaves at 0.2-40 mg AI/L. 3 hours after treatment, plants were inoculated by dusting spores of Blumeria graminis (barley) or Sphaerotheca cucurbitae (cucumber).",
+                "Other Information": "Fungicidal activity tests had 3 replicates. Non-treated leaf area tests had 6 replicates."
+            },
+            "result": "[{\"Abaxial of translaminar activity (mm) Adaxial of translaminar activity (mm)\": 2.7, \"Proximal of vapour-phase activity (mm)\": 4.7, \"Distal of vapour phase activity (mm)\": 2.6}]"
+        }
+    ]
+}

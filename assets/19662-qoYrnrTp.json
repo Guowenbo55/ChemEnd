@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "669270fe303528b49832d77e"
+    },
+    "CID": {
+        "$numberInt": "19662"
+    },
+    "Name": "Benazolin",
+    "IUPACName": "2-(4-chloro-2-oxo-1,3-benzothiazol-3-yl)acetic acid",
+    "CanonicalSMILES": "C1=CC2=C(C(=C1)Cl)N(C(=O)S2)CC(=O)O",
+    "Synonyms": [
+        "BENAZOLIN",
+        "3813-05-6",
+        "Metizolin",
+        "Eunasin",
+        "Cornox CWK",
+        "Benazalox",
+        "Benopan",
+        "Bensecal",
+        "Cresopur",
+        "Galipan",
+        "Herbazolin",
+        "Herbitox",
+        "Benzar",
+        "Leymin",
+        "Ben-cornox"
+    ],
+    "IsomericSMILES": "C1=CC2=C(C(=C1)Cl)N(C(=O)S2)CC(=O)O",
+    "INCHI": "InChI=1S/C9H6ClNO3S/c10-5-2-1-3-6-8(5)11(4-7(12)13)9(14)15-6/h1-3H,4H2,(H,12,13)",
+    "INCHIKEY": "HYJSGOXICXYZGS-UHFFFAOYSA-N",
+    "Formula": "C9H6ClNO3S",
+    "MolecularWeight": {
+        "$numberDouble": "243.67"
+    },
+    "Description": "Benazolin is a member of the class of benzothiazoles that is 4-chloro-1,3-benzothiazol-2(3H)-one which is substituted on the nitrogen by a carboxymethyl group and at position 4 by chlorine. A post-emergence herbicide used (generally as a salt or ester) for the control of annual weeds in wheat and oilseed rape. It is not approved for use with the European Union. It has a role as a herbicide and a synthetic auxin. It is a member of benzothiazoles, a monocarboxylic acid and an organochlorine pesticide. It is a conjugate acid of a benazolin(1-).",
+    "XlogP": {
+        "$numberDouble": "2.1"
+    },
+    "Complexity": {
+        "$numberInt": "299"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The fate of 4-chloro-2-oxobenzothiazolin-3-ylacetic acid (benazolin) in wild mustard [Brassica kaber (DC.) L.C. Wheeler var. pinnatifida (Stokes) L.C. Wheeler], turnip rape (Brassica campestris L. \u2018Echo\u2019), and rape (Brassica napus L. \u2018Target\u2019) was investigated with the aid of 14C-benazolin. The label was more mobile in wild mustard than the rape species following leaf treatment and accumulated in young leaves, stem, and stem apex. The label was also found in foliage after root treatment. In both cases, the translocated label was primarily that of 14C-benazolin, implying phloem and xylem transport. The susceptibility of wild mustard and tolerance of the rape species to foliar-applied benazolin can be partly explained by different rates of transport to susceptible meristematic sites. Root exudation of the label following leaf treatment was greater in wild mustard than in the rape species and was not correlated with selectivity. Labeled benazolin was rapidly metabolized by the Brassica species to four derivatives which appear to be less toxic than benazolin. Specific differences in metabolism were not sufficient to explain selectivity. Negligible amounts of 14CO2 were released by the three species following treatment with 14C-benazolin.",
+            "reference": "Schafer, D. E., & Stobbe, E. H. (1973). Translocation and metabolism of benazolin in wild mustard and rape species. Weed Science, 21(1), 48-51.",
+            "method": {
+                "Test Plant": "Wild mustard, turnip rape, and rape.",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Growth chamber at a light intensity of 14,000 lux maintained over a 16-hr photoperiod, with temperatures maintained at 24\u00b0C during the day and 16\u00b0C during the night, grown in a mixture of loam:peat:sand (3:1:1).",
+                "Chemical Preparation": "Benazolin labeled in the carboxyl group with 14C, with a specific activity of 3.9 \u00b5Ci/mg, formulated as an aqueous solution of the dimethylamine salt.",
+                "Pesticide Application Details for the Plant": "20 \u00b5L of solution containing 0.02 \u00b5Ci (44,000 dpm) 14C-benazolin applied to the second leaf. Five 10-\u00b5L drops of 14C-benazolin solution containing a total of 0.1 \u00b5Ci (220,000 dpm) applied to leaves. Root treatment with 150 ml of half-strength Hoaglands nutrient solution containing 1.0 pCi (2.2 X 106 dpm) radioactivity.",
+                "Other Information": "Each treatment had at least three replications of one plant each. Translocation of the label over periods of 1 to 8 days was followed by autoradiography. Radioactivity in various plant parts was quantified by the Schoeniger combustion flask method. The influence of site of application on translocation was studied. Transport of label following root treatment was followed over periods of 2 to 8 days. Root exudation was studied by treating expanded leaves with 14C-benazolin solution at intervals ranging from 2 to 10 days."
+            },
+            "result": "[{\"Plant\": \"Wild mustard\", \"Days after application\": 1, \"Leaf washing (% of applied)\": 45.3, \"Fourth leaf and stem apex (%)\": 15.5, \"Third leaf (%)\": 3.8, \"Second leaf (treated leaf, %)\": 20.3, \"First leaf (%)\": 0.4, \"Stem and cotyledons (%)\": 7.6, \"Root (%)\": 1.2}, {\"Plant\": \"Wild mustard\", \"Days after application\": 2, \"Leaf washing (% of applied)\": 42.4, \"Fourth leaf and stem apex (%)\": 26.3, \"Third leaf (%)\": 7.4, \"Second leaf (treated leaf, %)\": 9.2, \"First leaf (%)\": 0.4, \"Stem and cotyledons (%)\": 8.0, \"Root (%)\": 1.1}, {\"Plant\": \"Turnip rape\", \"Days after application\": 1, \"Leaf washing (% of applied)\": 77.9, \"Fourth leaf and stem apex (%)\": 1.5, \"Third leaf (%)\": 0.4, \"Second leaf (treated leaf, %)\": 13.9, \"First leaf (%)\": 0.2, \"Stem and cotyledons (%)\": 2.1, \"Root (%)\": 0.3}, {\"Plant\": \"Turnip rape\", \"Days after application\": 2, \"Leaf washing (% of applied)\": 65.7, \"Fourth leaf and stem apex (%)\": 4.1, \"Third leaf (%)\": 1.3, \"Second leaf (treated leaf, %)\": 18.8, \"First leaf (%)\": 0.1, \"Stem and cotyledons (%)\": 2.1, \"Root (%)\": 0.4}, {\"Plant\": \"Rape \", \"Days after application\": 1, \"Leaf washing (% of applied)\": 88.3, \"Fourth leaf and stem apex (%)\": 0.2, \"Third leaf (%)\": 0.4, \"Second leaf (treated leaf, %)\": 2.4, \"First leaf (%)\": 0.0, \"Stem and cotyledons (%)\": 0.5, \"Root (%)\": 0.0}, {\"Plant\": \"Rape\", \"Days after application\": 2, \"Leaf washing (% of applied)\": 78.1, \"Fourth leaf and stem apex (%)\": 0.3, \"Third leaf (%)\": 0.2, \"Second leaf (treated leaf, %)\": 2.0, \"First leaf (%)\": 0.0, \"Stem and cotyledons (%)\": 0.2, \"Root (%)\": 0.2}]"
+        }
+    ]
+}

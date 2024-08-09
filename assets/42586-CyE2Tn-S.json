@@ -1,0 +1,92 @@
+{
+    "_id": {
+        "$oid": "6682e97fc4e5dba5ffba2aed"
+    },
+    "CID": {
+        "$numberInt": "42586"
+    },
+    "Name": "METALAXYL",
+    "IUPACName": "methyl 2-(N-(2-methoxyacetyl)-2,6-dimethylanilino)propanoate",
+    "CanonicalSMILES": "CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)COC",
+    "Synonyms": [
+        "METALAXYL",
+        "57837-19-1",
+        "Ridomil",
+        "Allegiance",
+        "Metalaxil",
+        "Metanaxin",
+        "Metasyl",
+        "Metaxanin",
+        "Apron",
+        "Jiashuangling",
+        "Ridomil 72WP",
+        "Subdue",
+        "Ridomil Vino",
+        "Apron FL",
+        "Apron SD 35"
+    ],
+    "IsomericSMILES": "CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)COC",
+    "INCHI": "InChI=1S/C15H21NO4/c1-10-7-6-8-11(2)14(10)16(13(17)9-19-4)12(3)15(18)20-5/h6-8,12H,9H2,1-5H3",
+    "INCHIKEY": "ZQEIXNIJLIKNTD-UHFFFAOYSA-N",
+    "Formula": "C15H21NO4",
+    "MolecularWeight": {
+        "$numberDouble": "279.33"
+    },
+    "Description": "Methyl N-(2,6-dimethylphenyl)-N-(methoxyacetyl)alaninate is an alanine derivative that is methyl alaninate in which one of the hydrogens attached to the nitrogen is substituted by a methoxyacetyl group, while the other is substituted by a 2,6-dimethylphenyl group. It is an alanine derivative, an aromatic amide, a carboxamide, an ether and a methyl ester.",
+    "XlogP": {
+        "$numberDouble": "1.6"
+    },
+    "Complexity": {
+        "$numberInt": "335"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "sediment_soil_concentrations": [
+        {
+            "References": "PMID:8130408",
+            "Value": "SEDIMENT: The mean concentration of metalaxyl in sediments from the Sarno river in Italy was 1,560 ng/g dry wt(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "Metalaxyl is a systemic fungicide that can be absorbed by plant roots and translocated to stems and leaves. It showed a tendency of increasing concentration in stems and leaves corresponding to the treatment concentration. After 4 hours of continuous administration, metalaxyl was detected in roots, stems, and leaves, and the concentrations in these plant parts increased significantly within 72 hours. Initially, the concentrations in stems and leaves were lower than in roots, but after 48 hours, there was no significant difference in concentration among these plant parts. After 72 hours, the concentration in leaves was significantly higher than in stems and roots. The enrichment sites of metalaxyl differed from those of LH-2010A. For LH-2010A, the concentrations in stems and leaves were still significantly lower than in roots, and the concentration in stems became higher than in leaves after 48 hours. However, for metalaxyl, the concentrations in stems and leaves were significantly lower than in roots within the first 24 hours, and after 48 hours, there was no significant difference in concentration among stems, leaves, and roots. Additionally, the concentration of metalaxyl in stems became lower than in leaves after 48 hours.",
+            "reference": "Zhang, R., Wang, H. Y., Xv, H., Wang, J., & Wang, K. Y. (2014). Uptake and transportation behavior of a new fungicidal agent LH-2010A in cucumber plants. Journal of Pesticide Science, 39(1), 43-47.",
+            "method": {
+                "Test Plant": "Cucumber (Cucumis sativus)",
+                "Apply Location": "Root application",
+                "Plant Grown Condition": "Cucumber leaves bearing zoosporangia of the pathogen were collected from a suburb of Tai\u2019san, Shandong Province, China. The backs of the diseased single leaves were washed with distilled water and then kept in moist petri dishes at 20\u00b0C for a 12-hr photoperiod until new mold emerged after 24 hr.",
+                "Chemical Preparation": "LH-2010A (purity: 98%), fluopicolide (purity: 96%), thiram (purity: 95%), and metalaxyl (purity: 98%) were dissolved in methanol and diluted with distilled water to prepare solutions at concentrations of 1.25, 2.5, 5, 10, and 20 \u00b5g/mL active ingredient (a.i.). Methanol concentration in the solution never exceeded 1%.",
+                "Pesticide Application Details for the Plant": "Leaf disks (1 cm in diameter) were cut from healthy cucumber leaves and placed on the surface of 10 mL fungicide solution in a petri dish. The abaxial side of the disks was inoculated with a 10 \u00b5L sporangia suspension using a microPette plus (Eppendorf). There were 10 disks per dish and 5 replications per concentration. The dishes were kept at 20\u00b0C in a light incubator for 7 days.",
+                "Other Information": "5 replications per concentration"
+            },
+            "result": "[{\"Time after application\": \"4 hours\", \"Roots (ug/g)\": 18.6, \"Stems (ug/g)\": 6.2, \"Leaves (ug/g)\": 7.1}, {\"Time after application\": \"12 hours\", \"Roots (ug/g)\": 37.6, \"Stems (ug/g)\": 14.8, \"Leaves (ug/g)\": 10.8}, {\"Time after application\": \"24 hours\", \"Roots (ug/g)\": 49.5, \"Stems (ug/g)\": 27.9, \"Leaves (ug/g)\": 29.4}, {\"Time after application\": \"48 hours\", \"Roots (ug/g)\": 48.7, \"Stems (ug/g)\": 45.8, \"Leaves (ug/g)\": 49.9}, {\"Time after application\": \"72 hours\", \"Roots (ug/g)\": 51.2, \"Stems (ug/g)\": 46.7, \"Leaves (ug/g)\": 58.6}]"
+        },
+        {
+            "content": "Soybean seed treatment with fungicides is a common practice for disease management, but the movement of these fungicides within seedlings is not always well understood. This study aimed to determine the translocation pattern of three fungicides with different modes of action applied as seed treatments and the effect of soil type on translocation. Results showed that most of the absorbed radioactivity was concentrated in the cotyledons, with the maximum sum of absorption rates by roots, stems, and leaves of the plants being 15%. Absorption by roots, stems, and leaves was generally lower than 5% for 14C-pyraclostrobin and 14C-metalaxyl, and 1.6% for 14C-carbendazim. Fungicide absorption by roots and whole seedlings was higher in soil with lower organic matter content. Fungicides absorbed by cotyledons are unlikely to be redistributed and are lost when cotyledons fall off. These findings enhance our understanding of seed treatment fungicide movement in soybean seedlings and may aid in developing seed treatment strategies for managing seed and soilborne pathogens.",
+            "reference": "Fadel Sartori, F., Floriano Pimpinato, R., Tornisielo, V. L., Dieminger Engroff, T., de Souza Jaccoud\u2010Filho, D., Menten, J. O., ... & Dourado\u2010Neto, D. (2020). Soybean seed treatment: how do fungicides translocate in plants?. Pest management science, 76(7), 2355-2359.",
+            "method": {
+                "Test Plant": "Soybean (cv. TMG 7062 RR2 IPRO)",
+                "Apply Location": "Seed treatment",
+                "Plant Grown Condition": "Seeds planted in 150 mL pots with organic substrate (71 g dm-3 organic matter), grown in glasshouse.",
+                "Chemical Preparation": "14C-pyraclostrobin, 14C-carbendazim, 14C-metalaxyl (166,700 Bq each) mixed separately with respective commercial products",
+                "Pesticide Application Details for the Plant": "100 seeds treated for each 14C-fungicide by mixing with respective commercial product",
+                "Other Information": "10 plants analyzed at 14 days after planting (DAP) for radioactivity in roots, hypocotyl+cotyledons, epicotyl, leaves"
+            },
+            "result": "[{\"Days after application\": 16, \"Root (%)\": 0.5, \"Stem + petioles (%)\": 0.7, \"Cotyledon (%)\": 11.2, \"Unifoliateleaves (%)\": 1.2, \"First trifoliate leaf (%)\": 0.2}]"
+        },
+        {
+            "content": "We conducted uptake experiments with 12 different organic chemicals using 16 plant species and observed variations in their ability to take up and translocate these chemicals. The shoot and root concentrations of each chemical varied among the plant species. Root concentration factor values increased with an increasing log of the n-octanol-water partition coefficient (log Kow) of the organic chemicals, suggesting that root concentrations may be predicted to some extent based on log Kow. Root-to-shoot translocation was also related to log Kow, as the shoot-to-root concentration ratio decreased with increasing log Kow. However, the relationship between shoot concentration factor value and log Kow was not clear and differed among plant species.",
+            "reference": "Namiki, S., Otani, T., Motoki, Y., Seike, N., & Iwafune, T. (2018). Differential uptake and translocation of organic chemicals by several plant species from soil. Journal of pesticide science, 43(2), 96-107.",
+            "method": {
+                "Test Plant": "Hordeum distichon, Zea mays L., Glycine max Merrill, Phaseolus vulgaris L., Brassica oleracea L. var. capitata, Brassica rapa L. war. peruviridis, Chrysanthemum coronarium L., Lactuca sativa L., Allissms wakegi Araki, Apium graveolens L. war. dulce, Solanum lycopersicum Mill., Capsicum grossism, Cucumtis sativis L., Cucurbita maxima Duch., Spinacia oleracea L., and Beta vulgaris L. var. cicla.",
+                "Apply Location": "Soil application",
+                "Plant Grown Condition": "Seeds germinated in nursery soil in growth chamber at 20\u00b0C, 14:10 hr light:dark cycle. Seedlings transplanted at 7-28 days into test soil pots and grown for 21 more days under same conditions. Soil moisture maintained at 50-70% water holding capacity (WHC).",
+                "Chemical Preparation": "12 organic chemicals (10 pesticides, \u03b2-HCH, dieldrin) with log Kow -0.6 to 5 dissolved in acetone at 50 mg/L. 1 L mixture added to 278g Celite powder, acetone evaporated leaving 92.6-133.6 \u03bcg/g of each chemical on Celite.",
+                "Pesticide Application Details for the Plant": "450g uncontaminated soil mixed with 5g chemical-loaded Celite in 600 mL pots. Fertilized with chemical fertilizer and dolomite. Final concentrations ranged 81.0-129.7 \u03bcg/pot.",
+                "Other Information": "Plants grown to obtain 1-2g root dry weight per species. At 21 days, shoots and roots harvested, fresh weights measured, divided into subsamples to determine moisture content and chemical concentrations."
+            },
+            "result": "[{\"Plant\": \"Hordeum distichon\", \"Shoot (mg/kg)\": 1.04, \"Root (mg/kg)\": 0.06, \"Uptake (mg/kg)\": 4.18}, {\"Plant\": \"Zea mays L.\", \"Shoot (mg/kg)\": 2.37, \"Root (mg/kg)\": 0.2, \"Uptake (mg/kg)\": 4.29}, {\"Plant\": \"Glycine max Merrill\", \"Shoot (mg/kg)\": 2.41, \"Root (mg/kg)\": 0.39, \"Uptake (mg/kg)\": 9.07}, {\"Plant\": \"Phaseolus vulgaris L.\", \"Shoot (mg/kg)\": 0.13, \"Root (mg/kg)\": 0.17, \"Uptake (mg/kg)\": 0.46}, {\"Plant\": \"Brassica oleracea L. var. capitata\", \"Shoot (mg/kg)\": 2.47, \"Root (mg/kg)\": 0.07, \"Uptake (mg/kg)\": 16.95}, {\"Plant\": \"Brassica rapa L. war. peruviridis\", \"Shoot (mg/kg)\": 0.87, \"Root (mg/kg)\": 0.11, \"Uptake (mg/kg)\": 4.27}, {\"Plant\": \"Chrysanthemum coronarium L.\", \"Shoot (mg/kg)\": 9.29, \"Root (mg/kg)\": 0.07, \"Uptake (mg/kg)\": 32.36}, {\"Plant\": \"Lactuca sativa L.\", \"Shoot (mg/kg)\": 0.26, \"Root (mg/kg)\": 0.09, \"Uptake (mg/kg)\": 1.58}, {\"Plant\": \"Allissms wakegi Araki\", \"Shoot (mg/kg)\": 0.1, \"Root (mg/kg)\": 0.27, \"Uptake (mg/kg)\": 0.41}, {\"Plant\": \"Apium graveolens L. war. dulce\", \"Shoot (mg/kg)\": 1.09, \"Root (mg/kg)\": 0.07, \"Uptake (mg/kg)\": 2.53}, {\"Plant\": \"Solanum lycopersicum Mill.\", \"Shoot (mg/kg)\": 0.04, \"Root (mg/kg)\": 0.12, \"Uptake (mg/kg)\": 0.19}, {\"Plant\": \"Capsicum grossism\", \"Shoot (mg/kg)\": 0.2, \"Root (mg/kg)\": 0.06, \"Uptake (mg/kg)\": 0.78}, {\"Plant\": \"Cucumtis sativis L.\", \"Shoot (mg/kg)\": 0.93, \"Root (mg/kg)\": 0.35, \"Uptake (mg/kg)\": 5.83}, {\"Plant\": \"Cucurbita maxima Duch.\", \"Shoot (mg/kg)\": 1.36, \"Root (mg/kg)\": 0.5, \"Uptake (mg/kg)\": 10.03}, {\"Plant\": \"Spinacia oleracea L.\", \"Shoot (mg/kg)\": 0.1, \"Root (mg/kg)\": 0.1, \"Uptake (mg/kg)\": 0.3}, {\"Plant\": \"Beta vulgaris L. var. cicla\", \"Shoot (mg/kg)\": 1.68, \"Root (mg/kg)\": 0.06, \"Uptake (mg/kg)\": 6.42}]"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "6682e7e6c4e5dba5ffba22e9"
+    },
+    "CID": {
+        "$numberInt": "1775"
+    },
+    "Name": "PHENYTOIN",
+    "IUPACName": "5,5-diphenylimidazolidine-2,4-dione",
+    "CanonicalSMILES": "C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3",
+    "Synonyms": [
+        "phenytoin",
+        "5,5-DIPHENYLHYDANTOIN",
+        "57-41-0",
+        "Diphenylhydantoin",
+        "Dilantin",
+        "5,5-diphenylimidazolidine-2,4-dione",
+        "Phenytoine",
+        "Zentropil",
+        "Epamin",
+        "Lepitoin",
+        "Dihydantoin",
+        "Aleviatin",
+        "Dilabid",
+        "Diphantoin",
+        "Diphenylan"
+    ],
+    "IsomericSMILES": "C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3",
+    "INCHI": "InChI=1S/C15H12N2O2/c18-13-15(17-14(19)16-13,11-7-3-1-4-8-11)12-9-5-2-6-10-12/h1-10H,(H2,16,17,18,19)",
+    "INCHIKEY": "CXOFVDLJLONNDW-UHFFFAOYSA-N",
+    "Formula": "C15H12N2O2",
+    "MolecularWeight": {
+        "$numberDouble": "252.27"
+    },
+    "Description": "Phenytoin is a imidazolidine-2,4-dione that consists of hydantoin bearing two phenyl substituents at position 5. It has a role as an anticonvulsant, a teratogenic agent, a drug allergen and a sodium channel blocker. It is functionally related to a hydantoin.",
+    "XlogP": {
+        "$numberDouble": "2.5"
+    },
+    "Complexity": {
+        "$numberInt": "350"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 129",
+            "Value": "log Kow = 2.47"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Thomson/Micromedex. Drug Information for the Health Care  Professional. Volume 1,  Greenwood Village, CO. 2007., p. 259",
+            "Value": "The mechanism of action is not completely known, but it is thought to involve stabilization of neuronal membranes at the cell body, axon, and synapse and limitation of the spread of neuronal or seizure activity. In neurons, phenytoin decreases sodium and calcium ion influx by prolonging channel inactivation time during generation of nerve impulses. Phenytoin blocks the voltage-dependant sodium channels of neurons and inhibits the calcium flux across neuronal membranes, thus helping to stabilize neurons. It also decreases synaptic transmission, and decreases post-tetanic potentiation at the synapse. Phenytoin enhances the sodium ATPase activity of neurons and/or glial cells. It also influences second messenger systems by inhibiting calcium-calmodulin protein phosphorylation and possibly altering cyclic nucleotide production or metabolism."
+        },
+        {
+            "References": "Thomson/Micromedex. Drug Information for the Health Care  Professional. Volume 1,  Greenwood Village, CO. 2007., p. 259",
+            "Value": "Phenytoin may act to normalize influx of sodium and calcium to cardiac Purkinje fibers. Abnormal ventricular automaticity and membrane responsiveness are decreased. Also, phenytoin shortens the refractory period, and therefore shortens the QT interval and the duration of the action potential."
+        },
+        {
+            "References": "Thomson/Micromedex. Drug Information for the Health Care  Professional. Volume 1,  Greenwood Village, CO. 2007., p. 259",
+            "Value": "Exact mechanism is unknown. Phenytoin may act in the CNS to decrease synaptic transmission or to decrease summation of temporal stimulation leading to neuronal discharge (antikindling). Phenytoin raises the threshold of facial pain and shortens the duration of attacks by diminishing self-maintenance of excitation and repetitive firing."
+        },
+        {
+            "References": "Thomson/Micromedex. Drug Information for the Health Care  Professional. Volume 1,  Greenwood Village, CO. 2007., p. 260",
+            "Value": "Phenytoin's mechanisms of action as a muscle relaxant is thought to be similar to its anticonvulsant action. In movement disorders, the membrane stabilizing effect reduces abnormal sustained repetitive firing and potentiation of nerve and muscle cells."
+        },
+        {
+            "References": "PMID:11352631",
+            "Value": "A number of studies suggest that keratinocyte growth factor (KGF) plays a major part in reepithelialization after injury, via binding to the specific KGF receptor (KGFR). Several pharmacological agents, including the anti-epileptic drug phenytoin (PHT), have been widely used clinically to promote wound healing. Although the mechanism of action of PHT in this process is still not well understood, it is possible that the activity of PHT in wound healing is mediated via KGF and the KGFR. In the present study, using the enzyme-linked immunosorbant assay and flow cytometry we have shown that PHT increases KGF secretion and KGFR expression by more than 150% in gingival fibroblasts and epithelial cells, respectively. Moreover, semi-quantitative reverse transcriptase-polymerase chain reaction analysis showed that PHT also markedly increased both KGF and KGFR gene transcription by these cells."
+        }
+    ]
+}

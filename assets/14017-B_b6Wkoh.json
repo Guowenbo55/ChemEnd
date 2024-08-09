@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "669270fd303528b49832d779"
+    },
+    "CID": {
+        "$numberInt": "14017"
+    },
+    "Name": "(Aminomethyl)phosphonic acid",
+    "IUPACName": "aminomethylphosphonic acid",
+    "CanonicalSMILES": "C(N)P(=O)(O)O",
+    "Synonyms": [
+        "(Aminomethyl)phosphonic acid",
+        "1066-51-9",
+        "AMINOMETHYLPHOSPHONIC ACID",
+        "1-Aminomethylphosphonic acid",
+        "Aminomethanephosphonic acid",
+        "AMeP",
+        "Phosphonic acid",
+        "(aminomethyl)-",
+        "Amino methane phosphoric acid",
+        "Phosphaglycine",
+        "(1-Aminomethyl)phosphonic acid",
+        "MFCD00008105",
+        "Aminomethylphosphonic acid (AMPA)",
+        "CHEBI:28812",
+        "Ammonium-methanephosphonic acid anion",
+        "NSC-30076"
+    ],
+    "IsomericSMILES": "C(N)P(=O)(O)O",
+    "INCHI": "InChI=1S/CH6NO3P/c2-1-6(3,4)5/h1-2H2,(H2,3,4,5)",
+    "INCHIKEY": "MGRVRXRGTBOSHW-UHFFFAOYSA-N",
+    "Formula": "CH6NO3P",
+    "MolecularWeight": {
+        "$numberDouble": "111.04"
+    },
+    "Description": "(aminomethyl)phosphonic acid is a member of the class of phosphonic acids that is phosphonic acid substituted by an aminomethyl group. It is a metabolite of the herbicide glyphosate. It is a one-carbon compound and a member of phosphonic acids. It is functionally related to a phosphonic acid. It is a conjugate acid of an (aminomethyl)phosphonate(1-).",
+    "XlogP": {
+        "$numberDouble": "-4.7"
+    },
+    "Complexity": {
+        "$numberInt": "74"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The study focuses on addressing the environmental concerns associated with the herbicide glyphosate and its metabolite aminomethylphosphonic acid (AMPA). The research investigates the binding capacity of activated carbon (AC) and calcium montmorillonite (CM) clay to reduce the bioavailability of AMPA in soil and its translocation to plants. Adsorption studies reveal that both AC and CM exhibit strong binding affinity for AMPA, with high capacities based on the Langmuir model. Additionally, the inclusion of 1% AC and CM in the hydra assay demonstrates a significant 90% protection against AMPA toxicity. Further experiments in glyphosate-contaminated soil and genetically modified (GM) corn plants demonstrate that AC and CM effectively decrease AMPA bioavailability and residue levels in roots and sprouts. These findings highlight the potential of AC and CM as efficient sorbents for reducing the environmental impact of AMPA, offering a promising strategy for mitigating the effects of glyphosate and its metabolites in agricultural settings.",
+            "reference": "Hearon, S. E., Wang, M., McDonald, T. J., & Phillips, T. D. (2021). Decreased bioavailability of aminomethylphosphonic acid (AMPA) in genetically modified corn with activated carbon or calcium montmorillonite clay inclusion in soil. journal of environmental sciences, 100, 131-143.",
+            "method": {
+                "Test Plant": "Hybrid Seed Corn (217-76STX)",
+                "Apply Location": "Soil",
+                "Plant Grown Condition": "Germinated and sprouted for 7 days before being moved to hydroponic systems",
+                "Chemical Preparation": "The AMPA stock solution was prepared by dissolving pure powder in deionized water to yield 1000 \u00b5g/mL.",
+                "Pesticide Application Details for the Plant": "standard solutions of the analytes were prepared in distilled water at concentrations between 10 \u00b5g/mL and 0.05 \u00b5g/mL to measure standard curves for each set of samples.",
+                "Other Information": "-"
+            },
+            "result": "[{\"Days after application\": 1, \"Root dry weight (g)\": 0.031, \"Sprout dry weight (g)\": 0.08}, {\"Days after application\": 2, \"Root dry weight (g)\": 0.031, \"Sprout dry weight (g)\": 0.106}, {\"Days after application\": 4, \"Root dry weight (g)\": 0.041, \"Sprout dry weight (g)\": 0.143}, {\"Days after application\": 6, \"Root dry weight (g)\": 0.052, \"Sprout dry weight (g)\": 0.221}, {\"Days after application\": 8, \"Root dry weight (g)\": 0.046, \"Sprout dry weight (g)\": 0.293}, {\"Days after application\": 10, \"Root dry weight (g)\": 0.046, \"Sprout dry weight (g)\": 0.313}]"
+        }
+    ]
+}

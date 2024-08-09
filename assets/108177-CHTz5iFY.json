@@ -1,0 +1,110 @@
+{
+    "_id": {
+        "$oid": "6682e98fc4e5dba5ffba2b3c"
+    },
+    "CID": {
+        "$numberInt": "108177"
+    },
+    "Name": "HEXACHLORONAPHTHALENE",
+    "IUPACName": "1,2,3,4,5,6-hexachloronaphthalene",
+    "CanonicalSMILES": "C1=CC(=C(C2=C1C(=C(C(=C2Cl)Cl)Cl)Cl)Cl)Cl",
+    "Synonyms": [
+        "1,2,3,4,5,6-Hexachloronaphthalene",
+        "HEXACHLORONAPHTHALENE",
+        "58877-88-6",
+        "PCN 63",
+        "1335-87-1",
+        "Naphthalene",
+        "1,2,3,4,5,6-hexachloro",
+        "SCHEMBL1077252",
+        "DTXSID00871838",
+        "Naphthalene",
+        "1,2,3,4,5,6-hexachloro-",
+        "DB-300865",
+        "NS00007120",
+        "NS00114223"
+    ],
+    "IsomericSMILES": "C1=CC(=C(C2=C1C(=C(C(=C2Cl)Cl)Cl)Cl)Cl)Cl",
+    "INCHI": "InChI=1S/C10H2Cl6/c11-4-2-1-3-5(7(4)13)8(14)10(16)9(15)6(3)12/h1-2H",
+    "INCHIKEY": "CTLMCQOGOWNFHA-UHFFFAOYSA-N",
+    "Formula": "C10H2Cl6",
+    "MolecularWeight": {
+        "$numberDouble": "334.8"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "6.9"
+    },
+    "Complexity": {
+        "$numberInt": "260"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "animal_concentrations": [
+        {
+            "References": "(1) Falandysz J et al; Chemosphere 33: 51-69 (1996) (2) Jarnberg U et al; Environ Sci Technol 27: 1364-74 (1993) (3) Koistinen J; Chemosphere 20: 1043-8 (1990)",
+            "Value": "Total hexachloronaphthalene isomer concn ranges of 700-33,000 pg/g lipid weight and 390-2,400 pg/g lipid weight were measured in tissues collected from three Baltic coastal and two in-land white-tailed eagles (Haliaeetus albicilla) recovered in Poland from 1991-1992(1). Hexachloronaphthalene was detected in Swedish marine bird samples, guillemot (Uria aalge), at concns ranging from 1.0 to 170 ng/g lipid weight(2). The compound was detected in seal blubber samples, ranging from 0.08-0.2 ng/g fat in grey seal (Halichoerus grypus) and not detected to 0.04 ng/g fat in ringed seal (Pusa hispida) collected from the Baltic Sea(3)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Meylan WM, Howard PH; J Pharm Sci 84: 83-92 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 240,000 was calculated for hexachloronaphthalene(SRC), using an estimated log Kow of 7.0(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is very high(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Koda Y et al; Nagoya Kogyo Gijutsu Shikensho Hokoku 31: 299-305 (1982) (2) Lerche D et al; Chemosphere 47: 577-82 (2002)",
+            "Value": "AEROBIC: Hexachloronaphthalene is reported to have \"poor\" biodegradability(1). According to a UN-ECE POP (United Nations Economic Commission for Europe Persistent Organic Pollutants) criteria, hexachloronaphthalene is classified as being resistant to biodegradation with half-lives in water, sediment, or soil being greater than 2, 6, or 6 months, respectively(2)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "PMID:734441",
+            "Value": "Content of chlorinated fat-sol aromatic hydrocarbons was determined in fish from the Frierfjord and the Eidangerfjord near Oslo, Norway, areas polluted by industrial effluents. The fish species investigated are used for human consumption. Two components of halowax 1014 (pentachloronaphthalene and hexachloronaphthalene) were  identified but not quantified."
+        },
+        {
+            "References": "(1) Falandysz J et al; Organohalogen Compd 28: 446-51 (1998) (2) Jarnberg U et al; Environ Sci Technol 27: 1364-74 (1993) (3) Koistinen J; Chemosphere 20: 1043-8 (1990)",
+            "Value": "The lipid content of total hexachloronaphthalene isomers in three-spined sticklebacks (Gasterosteus aculeatus) collected from June 2 to July 1, 1992 were 0.79, 1.3, 0.58, and 1.9 ng/g lipid wt from the Gorki Zachodnei, Westerplatte, Relowo, and Oksywie regions of the Gulf of Gdansk, respectively(1). Hexachloronaphthalene was detected in Swedish fresh water fish samples at concns ranging from not detected (detection limit not specified) to 120 ng/g lipid weight(2); and in marine fish samples, not detected to 7.8 ng/g lipid weight(2). The compound was detected in salmon samples (Salmo salar) and cod (Gadus morhua), ranging from not detected-8.0 ng/g fat and <1 ng/g fat, respectively, collected from the Baltic Sea(3). In cod liver fat from the Arctic coast of Norway, concns ranged from 0.8 to 1.1 ng/g fat(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "PMID:7714751",
+            "Value": "log Kow = 7.0 /Estimated/"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "International Programme on Chemical Safety's Concise International Chemical Assessment Documents. Available from, as of July 18, 2003: https://www.inchem.org/pages/cicads.html",
+            "Value": "At least some of the biochemical (e.g., drug-metabolizing enzyme induction, hormonal changes) and toxic (e.g., skin disorders, weight loss, hepatotoxicity, reproductive toxicity) responses of PCNs are believed to be mediated via the cytosolic Ah receptor . Due to the lack of sufficient experimental data up to now, PCNs are not included in an internationally agreed toxic equivalency factor (TEF) system, which estimates the overall dioxin-like toxicity of the compound relative to TCDD. However, some congeners, in particular those with a planar structure (four lateral chlorines at 2,3,6,7, i.e., congeners 2,3,6,7-tetrachloronaphthalene, 1,2,3,6,7-pentachloronaphthalene, 1,2,3,4,6,7-hexachloronaphthalene, 1,2,3,5,6,7-hexachloronaphthalene, 1,2,3,6,7,8-hexachloronaphthalene, 1,2,3,4,5,6,7-heptachloronaphthalene, and 1,2,3,4,5,6,7,8-octachloronaphthalene) similar to TCDD, may exert a toxicity comparable to the more toxic PCBs. /Polychlorinated naphthalenes/"
+        },
+        {
+            "References": "PMID:6857695",
+            "Value": "Pretreatment of immature male wistar rats with 1,2,3,4,5,6-hexachloronaphthalene resulted in induction of several hepatic microsomal drug-metabolizing enzymes. The enzymic activities, reduced Cytochrome p450:co & ethylisocyanide binding difference spectra & electrophoretic mobilities of induced microsomal proteins were comparable to those observed after admin of the classical inducer of microsomal aryl hydrocarbon hydroxylase, 3-methylcholanthrene. The 1,2,3,4,5,6,7-heptachloronaphthalene congener, which is fully substituted in lateral 2,3,6 & 7 positions, was more potent than the 1,2,3,4,5,6,8-hepta- & the 1,2,3,4,5,6-hexachloronaphthalene congeners which contain only 3 lateral chloro substituents. The effect of structure on induction activities of the polychlorinated naphthalenes were similar to those observed for other halogenated Aryl hydrocarbons."
+        },
+        {
+            "References": "International Programme on Chemical Safety's Concise International Chemical Assessment Documents. Available from, as of July 18, 2003: https://www.inchem.org/pages/cicads.html",
+            "Value": "As observed for other halogenated aryl hydrocarbons, the relative induction potencies of PCNs appear to depend on the degree and position of chlorine substitution of the naphthalene ring ... In several different test systems, the most potent EROD and AHH inducers include 1,2,3,4,6,7/1,2,3,5,6,7-hexachloronaphthalene, 1,2,3,4,5,6,7-heptachloronaphthalene, and some unidentified congeners present in Halowax 1014. Octachloronaphthalene was also found to cause a dose-dependent AHH increase in microsomes of rats."
+        },
+        {
+            "References": "International Programme on Chemical Safety's Concise International Chemical Assessment Documents. Available from, as of July 18, 2003: https://www.inchem.org/pages/cicads.html",
+            "Value": "Of the individual PCN congeners tested, penta-, hexa-, and heptachloronaphthalenes gave full dose- response curves, whereas most of the lower chlorinated congeners as well as octachloronaphthalene were inactive in  /the rat hepatoma H4IIE-luc cell (luciferase) assay . The most potent congener was 1,2,3,4,6,7-hexachloronaphthalene . Similar results have been obtained by another study testing individual PCN congeners using the luciferase (and the EROD) assay with recombinant H4IIE rat hepatoma cells. Again, hexa- and heptachloronaphthalenes tested were the most potent congeners, /followed by/ Pentachlorinated congeners .Tetra, tri-, di-, and monochloronaphthalenes were found to be less active. There was also a rank order of potency within the penta- and hexachloronaphthalene isomers, in a manner suggesting that the presence of meta-substituted chlorines is linked to decreased potency. For example, for hexachloronaphthalenes, an approximate ranking order was given as 1,2,3,6,7,8 greater than 1,2,3,4,6,7 greater than 1,2,3,5,6,7 greater than 1,2,3,5,6,8."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Koistinen J et al; Chemosphere 21: 1371-9 (1990) (2) Eljarrat E et al; Chemosphere 38: 1901-12 (1999) (3) Jarnberg U et al; Environ Sci Technol 27: 1364-74 (1993)",
+            "Value": "SEDIMENT: Hexachloronaphthalene concns of 30-250 ng/kg were detected in surface sediments collected from 10 lakes in central Finland in 1988(1); sediments from eight other lakes had no detectable levels (detection limit not reported) of hexachloronaphthalene(1). The compound was detected in sediments collected in 1995 from 5 sites selected in the Venice Lagoon, Italy (pg/g, use characteristic): Giudeca Island - 17.20, heavy boat traffic and sewage; Peelestrina - 4.24, undeveloped; Chioggia Harbor - 7.46, harbor activity; Porto Marghera - 102.93, chemical and oil refining plants; and Dese River - 9.45, agricultural impact(2). Water exchange is with the Adriatic Sea(2). Hexachloronaphthalene was also detected in sediments collected in 1995 from 4 sites selected in the Orbetallo Lagoon, Italy, which drains to the Mediterranean Sea(2). Concentrations were as follows (pg/g, use characteristic): Santa Liberata - 5.63, connecting channel; Orbetello - 67.78, sewage treatment plant; fish farm station - 0.90; and Albegua River - 2.13, undeveloped(2). Hexachloronaphthalene was detected in sediment samples from the River Eman, River Dalalven, River Gota and Lake Vanern, Sweden at concns ranging from not detected (detection limit not specified) to 37 ng/g dry weight(3)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992) (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc for hexachloronaphthalene can be estimated to be 3.7X10+4(SRC). According to a classification scheme(2), this estimated Koc value suggests that hexachloronaphthalene is expected to be immobile in soil."
+        }
+    ]
+}

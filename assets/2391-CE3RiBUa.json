@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "6682e7edc4e5dba5ffba230b"
+    },
+    "CID": {
+        "$numberInt": "2391"
+    },
+    "Name": "BISACODYL",
+    "IUPACName": "[4-[(4-acetyloxyphenyl)-pyridin-2-ylmethyl]phenyl] acetate",
+    "CanonicalSMILES": "CC(=O)OC1=CC=C(C=C1)C(C2=CC=C(C=C2)OC(=O)C)C3=CC=CC=N3",
+    "Synonyms": [
+        "bisacodyl",
+        "603-50-9",
+        "Dulcolax",
+        "Bicol",
+        "Theralax",
+        "Sk-bisacodyl",
+        "Brocalax",
+        "Durolax",
+        "Fenilaxan",
+        "Sanvacual",
+        "Dulcolan",
+        "Endokolat",
+        "Hillcolax",
+        "Stadalax",
+        "Eulaxan"
+    ],
+    "IsomericSMILES": "CC(=O)OC1=CC=C(C=C1)C(C2=CC=C(C=C2)OC(=O)C)C3=CC=CC=N3",
+    "INCHI": "InChI=1S/C22H19NO4/c1-15(24)26-19-10-6-17(7-11-19)22(21-5-3-4-14-23-21)18-8-12-20(13-9-18)27-16(2)25/h3-14,22H,1-2H3",
+    "INCHIKEY": "KHOITXIGCFIULA-UHFFFAOYSA-N",
+    "Formula": "C22H19NO4",
+    "MolecularWeight": {
+        "$numberDouble": "361.4"
+    },
+    "Description": "Bisacodyl is a diarylmethane.",
+    "XlogP": {
+        "$numberDouble": "3.8"
+    },
+    "Complexity": {
+        "$numberInt": "457"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "US EPA; Estimation Programs Interface (EPI). ver. 3.11. U.S. EPA version for Windows. Washington, DC: U.S. EPA (2003). Available from, as of Feb 23, 2005: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm",
+            "Value": "log Kow = 3.37 /Estimated/"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Physicians Desk Reference. 58th ed. Thomson PDR. Montvale, NJ 2004., p. 1285",
+            "Value": "Bisacodyl is a stimulant laxative, ... acting directly on the colonic mucosa-where it stimulates sensory nerve endings to produce parasympathetic reflexes resulting in increased peristaltic contractions of the colon. The contact action of the drug is restricted to the colon, and motility of the small intestine is not appreciably influenced."
+        },
+        {
+            "References": "Thomson.Micromedex. Drug Information for the  Health Care Professional. 24th ed. Volume 1.  Plus Updates. Content Reviewed by the United States Pharmacopeial Convention, Inc. Greenwood Village, CO. 2004., p. 1731",
+            "Value": "/Bisacodyl/ increases water retention in the stool by coating surfaces of stool and intestines with a water-immisicible film. Lubricant effect eases passage of contents through intestines. Emulsification of lubricant tends to enhance its ability to soften stool mass. /Laxatives/"
+        },
+        {
+            "References": "McEvoy, G.K. (ed.). American Hospital Formulary Service-  Drug Information 2005. Bethesda, MD: American Society of  Health-System Pharmacists, Inc. 2005 (Plus Supplements)., p. 2782",
+            "Value": "Recent studies show that these drugs alter fluid and electrolyte absorption producing net intestinal fluid accumulation and laxation. Some of these drugs may directly stimulate active intestinal ion secretion. Increased concentrations of cyclic 3',5'-adenosine monophosphate (cAMP), occurring in colonic mucosa cells following administration of stimulant laxatives, may alter the permeability of these cells and mediate active ion secretion thereby producing net fluid accumulation and laxative action. /Stimulant Laxatives/"
+        },
+        {
+            "References": "Schubert et al; Mode of Action of Bisacodyl on the Smooth Muscle of the Small and Large Intestine of the Guinea Pig; Arzneim-Forsch 25(7) 1053 (1975)",
+            "Value": "Bisacodyl caused dose-dependent contractions in isolated guinea pig ileum & taenia coli which was not prevented by atropine or pheniramine. It prevented acetylcholine- & histamine-induced contractions. Bisacodyl-induced contractions were not caused by a decrease in endogenous cyclic amp level. However, both endogenous cyclic amp & verapamil (a calcium transport inhibitor) inhibited bisacodyl-induced contractions, suggesting site of action on calcium-dependent contractile system of smooth muscle cells."
+        },
+        {
+            "References": "Moreto M et al; Effects of Secretagogues on the Potassium Ion Permeability of Mucosal and Serosal Borders of Rabbit Colonic Mucosa; Biochim Biophys Acta 648(29) 215 (1981)",
+            "Value": "Intestinal secretagogues as well as the laxative, bisacodyl, raise the K+ efflux rate across the mucosal border by 200-300%. Results suggest that laxatives may increase rate of K+ secretion into the colonic lumen by raising the K+ permeability of the mucosal border."
+        }
+    ]
+}

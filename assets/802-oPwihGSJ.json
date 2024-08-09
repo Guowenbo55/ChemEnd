@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "66927114303528b49832d7d4"
+    },
+    "CID": {
+        "$numberInt": "802"
+    },
+    "Name": "Indole-3-acetic acid",
+    "IUPACName": "2-(1H-indol-3-yl)acetic acid",
+    "CanonicalSMILES": "C1=CC=C2C(=C1)C(=CN2)CC(=O)O",
+    "Synonyms": [
+        "indole-3-acetic acid",
+        "87-51-4",
+        "indoleacetic acid",
+        "3-Indoleacetic acid",
+        "Heteroauxin",
+        "1H-Indole-3-acetic acid",
+        "1H-indol-3-ylacetic acid",
+        "2-(1H-Indol-3-yl)acetic acid",
+        "Rhizopin",
+        "auxin",
+        "Rhizopon A",
+        "3-Indolylacetic acid",
+        "Indol-3-ylacetic acid",
+        "3-(Carboxymethyl)indole",
+        "Hexteroauxin"
+    ],
+    "IsomericSMILES": "C1=CC=C2C(=C1)C(=CN2)CC(=O)O",
+    "INCHI": "InChI=1S/C10H9NO2/c12-10(13)5-7-6-11-9-4-2-1-3-8(7)9/h1-4,6,11H,5H2,(H,12,13)",
+    "INCHIKEY": "SEOVTRFCIGRIMH-UHFFFAOYSA-N",
+    "Formula": "C10H9NO2",
+    "MolecularWeight": {
+        "$numberDouble": "175.18"
+    },
+    "Description": "Indole-3-acetic acid is a monocarboxylic acid that is acetic acid in which one of the methyl hydrogens has been replaced by a 1H-indol-3-yl group. It has a role as a plant hormone, a human metabolite, a plant metabolite, a mouse metabolite and an auxin. It is a monocarboxylic acid and a member of indole-3-acetic acids. It is a conjugate acid of an indole-3-acetate.",
+    "XlogP": {
+        "$numberDouble": "1.4"
+    },
+    "Complexity": {
+        "$numberInt": "205"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The application of 10 to 100 \u00b5g indol-3-ylacetic acid (IAA) to the leaves of rooted cuttings of aspen inhibited root growth after three hours, with recovery within 24 hours. Swelling of the root tips occurred during the inhibition period. Similar root responses were observed when IAA was applied to the cut stem surface above the mature leaves. IAA-1-14C applied through a cut stem surface or to mature leaves was translocated downwards in the plants, and labeled IAA could be isolated from the roots 3 to 24 hours after application. The ethanol-soluble activity of IAA decreased rapidly, indicating rapid metabolism or binding of IAA. IAA-1-14C applied to growing leaves was not translocated. The rapid response of root growth suggests that IAA is translocated into the roots at a rate of about 7 cm per hour, implicating the involvement of sieve tubes in translocation. The results have implications for the translocation of endogenous auxin into the roots.",
+            "reference": "ELIASSON, L. (1972). Translocation of shoot\u2010applied indolylacetic acid into the roots of Populus tremula. Physiologia Plantarum, 27(3), 412-416.",
+            "method": {
+                "Test Plant": "Populus tremula L. (Aspen tree)",
+                "Apply Location": "Application to cut stem surface above mature leaves",
+                "Plant Grown Condition": "Rooted cuttings grown in nutrient solution or with roots on moist filter paper in polythene bags. 18h light (5000-8000 lx fluorescent tubes)/6h dark photoperiod. 22\u00b0C light period, 18\u00b0C dark period, 70% relative humidity",
+                "Chemical Preparation": "Radiolabeled: 14C-IAA with 57 mCi/mmol specific activity",
+                "Pesticide Application Details for the Plant": "Stem application: 2 cm glass tube fitted to cut stem, IAA solution pipetted into tube and absorbed in 1 hour",
+                "Other information and Other Information": "Root growth marked on polythene bags at intervals, measured later. Plant parts extracted with ethanol, 14C measured by liquid scintillation counting"
+            },
+            "result": "[{\"Hours after application\": 3, \"Upper half of stem (%)\": 34, \"Lower half of stem (%)\": 7.4, \"Roots (%)\": 3.4, \"Stem + Roots (%)\": 44.8}, {\"Hours after application\": 5, \"Upper half of stem (%)\": 24, \"Lower half of stem (%)\": 3.9, \"Roots (%)\": 1.9, \"Stem + Roots (%)\": 29.8}, {\"Hours after application\": 24, \"Upper half of stem (%)\": 13, \"Lower half of stem (%)\": 3.3, \"Roots (%)\": 1.0, \"Stem + Roots (%)\": 17.3}]"
+        }
+    ]
+}

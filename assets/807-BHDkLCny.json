@@ -1,0 +1,75 @@
+{
+    "_id": {
+        "$oid": "6682e7dbc4e5dba5ffba22ae"
+    },
+    "CID": {
+        "$numberInt": "807"
+    },
+    "Name": "IODINE, ELEMENTAL",
+    "IUPACName": "molecular iodine",
+    "CanonicalSMILES": "II",
+    "Synonyms": [
+        "7553-56-2",
+        "I",
+        "Iodine",
+        "Molecular iodine",
+        "Diiodine",
+        "Iodine crystals",
+        "Iodine sublimed",
+        "Tincture iodine",
+        "Vistarin",
+        "Eranol",
+        "Iodio",
+        "Iode",
+        "Iosan superdip",
+        "Jood",
+        "Iodine-127"
+    ],
+    "IsomericSMILES": "II",
+    "INCHI": "InChI=1S/I2/c1-2",
+    "INCHIKEY": "PNDPGZBMCMUPRI-UHFFFAOYSA-N",
+    "Formula": "I2",
+    "MolecularWeight": {
+        "$numberDouble": "253.8089"
+    },
+    "Description": "Diiodine is molecule comprising two covalently bonded iodine atoms with overall zero charge.. It has a role as a nutrient.",
+    "XlogP": {
+        "$numberDouble": "1.7"
+    },
+    "Complexity": {
+        "$numberInt": "0"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 3",
+            "Value": "log Kow = 2.49"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "DHHS/ATSDR; Toxicological Profile for Iodine p. 51 (2004)",
+            "Value": "An acute iodide excess (above the preexisting dietary intake) transiently decreases the production of thyroid hormones in the thyroid gland; this is referred to as the acute Wolff-Chaikoff effect. In normal people, this is followed by a return to normal levels of hormone synthesis, referred to as escape from the acute Wolff-Chaikoff effect, without a significant change in circulating hormone levels. Escape is thought to be the result of down regulation of the sodium-iodide symport (NIS), the iodide transporter in the thyroid gland, resulting in a decrease in the intrathyroidal iodine and the resumption of normal hormone synthesis. An acute or chronic excess of iodide can also decrease circulating T4 and T3 levels and induce a hypothyroid state in some people who have underlying thyroid disorders. These effects are the result of a failure to escape from the acute Wolff-Chaikoff effect. Most people who experience iodine-induced hypothyroidism recover when the excess iodine intake is discontinued."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 519",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Injection of tincture of iodine into the vitreous humor of dogs has produced severe damage to retina, choroid, ciliary body, and lens ... ."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-1634 2005., p. 1",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Pulmonary edema has been observed in dogs exposed to large but unspecified concentrations of the vapor. Dogs exposed to iodine vapor superimposed on respiratory disease died sooner than healthy dogs."
+        },
+        {
+            "References": "Clarke, E.G., and M. L. Clarke. Veterinary Toxicology. Baltimore, Maryland: The Williams and Wilkins Company, 1975., p. 72",
+            "Value": "/OTHER TOXICITY INFORMATION/ Prolonged use of iodine preparations (as in the treatment of actinobacillosis in cattle) may lead to iodism. Symptoms include nasal catarrh, lachrimation, scurfiness, skin rashes ... And loss of appetite."
+        },
+        {
+            "References": "Begishev A  et al; Zdravookhr, Turkm 20 (7): 13 (1976)",
+            "Value": "/OTHER TOXICITY INFORMATION/ Short term and long term exposure of rats and guinea pigs to iodine vapors. Disrupted thyroid activity and reduced oxygen uptake in lung. Changes in lung included perivascular edema, scaling of bronchial epithelium, and hemorrhaging."
+        }
+    ]
+}

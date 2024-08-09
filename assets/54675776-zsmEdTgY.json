@@ -1,0 +1,77 @@
+{
+    "_id": {
+        "$oid": "6682e9d5c4e5dba5ffba2c9e"
+    },
+    "CID": {
+        "$numberInt": "54675776"
+    },
+    "Name": "TETRACYCLINE",
+    "IUPACName": "(4S,4aS,5aS,6S,12aR)-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",
+    "CanonicalSMILES": "CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O",
+    "Synonyms": [
+        "tetracycline",
+        "60-54-8",
+        "Deschlorobiomycin",
+        "Tsiklomitsin",
+        "Abramycin",
+        "Tetracyclinum",
+        "Tsiklomistsin",
+        "Achromycin",
+        "Tetraciclina",
+        "Tetracyclin",
+        "Solvocin",
+        "Sumycin",
+        "Ambramycin",
+        "Tetrazyklin",
+        "Cyclopar"
+    ],
+    "IsomericSMILES": "C[C@@]1([C@H]2C[C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O",
+    "INCHI": "InChI=1S/C22H24N2O8/c1-21(31)8-5-4-6-11(25)12(8)16(26)13-9(21)7-10-15(24(2)3)17(27)14(20(23)30)19(29)22(10,32)18(13)28/h4-6,9-10,15,25-26,29,31-32H,7H2,1-3H3,(H2,23,30)/t9-,10-,15-,21+,22-/m0/s1",
+    "INCHIKEY": "NWXMGUDVXFXRIG-WESIUVDSSA-N",
+    "Formula": "C22H24N2O8",
+    "MolecularWeight": {
+        "$numberDouble": "444.4"
+    },
+    "Description": "Tetracycline is a broad-spectrum polyketide antibiotic produced by the Streptomyces genus of actinobacteria. It has a role as an antimicrobial agent, an antibacterial drug, an antiprotozoal drug, a protein synthesis inhibitor and an Escherichia coli metabolite. It is a tertiary alpha-hydroxy ketone and a member of tetracyclines. It is a conjugate acid of a tetracycline(1-) and a tetracycline zwitterion.",
+    "XlogP": {
+        "$numberDouble": "-2"
+    },
+    "Complexity": {
+        "$numberInt": "971"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 177",
+            "Value": "log Kow= -1.37"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B. Molinoff, R.W. Ruddon, A.G. Goodman (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 9th ed. New York, NY: McGraw-Hill, 1996., p. 1125",
+            "Value": "TETRACYCLINES ARE THOUGHT TO INHIBIT PROTEIN SYNTH BY BINDING SPECIFICALLY TO 30 S RIBOSOMES AND PREVENTING ACCESS OF AMINOACYL TRNA TO... MRNA-RIBOSOME COMPLEX. /TETRACYCLINES/"
+        },
+        {
+            "References": "Goodman, L.S., and A. Gilman. (eds.) The Pharmacological Basis of Therapeutics. 5th ed. New York: Macmillan Publishing Co., Inc., 1975., p. 1185",
+            "Value": "... IT IS POSSIBLE THAT REVERSIBLY BOUND ANTIBIOTIC IS RESPONSIBLE FOR ANTIBACTERIAL ACTION. /TETRACYCLINES/"
+        },
+        {
+            "References": "Thienes, C., and T.J. Haley. Clinical Toxicology. 5th ed. Philadelphia: Lea and Febiger, 1972., p. 141",
+            "Value": "TETRACYCLINE COMBINES WITH CELLULAR & INTRACELLULAR MATERIAL TO FORM A FLUOROPHORE WHICH UNDER UV LIGHT GLOWS WITH YELLOW-GOLD FLUORESCENCE. THE FLUOROPHORE REMAINS IN BONE FOR MANY MO."
+        },
+        {
+            "References": "Osol, A. and J.E. Hoover, et al. (eds.). Remington's Pharmaceutical Sciences. 15th ed. Easton, Pennsylvania: Mack Publishing Co., 1975., p. 1276",
+            "Value": "PHOTOALLERGIC REACTIONS ARE BELIEVED TO RESULT FROM LIGHT ENERGY ACTING ON OR ALTERING DRUG & SKIN PROTEINS IN SUCH MANNER AS TO FORM AN ANTIGEN. THESE ERUPTIONS REQUIRE PREVIOUS CONTACT WITH OFFENDING SUBSTANCE, ARE NOT DOSE-RELATED, & EXHIBIT CROSS-SENSITIVITY WITH CHEM RELATED COMPD. /TETRACYCLINES/"
+        },
+        {
+            "References": "PMID:6329954",
+            "Value": "DNA sequence specifying tetracycline resistance (Tcr) has been identified in Streptococcus mutans."
+        },
+        {
+            "References": "Bocker R et al; Arzeim Forsch 32 (3): 237-241 (1982)",
+            "Value": "The hepatotoxic effects of tetracycline (I), rolitetracycline, and doxycycline were studied in male and female mice. All antibiotics (25-100 ug/g) increased the amount of unconjugated and total bilirubin. This effect was most pronounced after tetracycline, which also reduced the level of conjugated bilirubin. All drugs increased serum transaminase enzyme levels; this effect was more pronounced in females."
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "_id": {
+        "$oid": "66927110303528b49832d7c7"
+    },
+    "CID": {
+        "$numberInt": "33257"
+    },
+    "Name": "Fosamine",
+    "IUPACName": "carbamoyl(ethoxy)phosphinic acid",
+    "CanonicalSMILES": "CCOP(=O)(C(=O)N)O",
+    "Synonyms": [
+        "FOSAMINE",
+        "59682-52-9",
+        "carbamoyl(ethoxy)phosphinic acid",
+        "Ethyl hydrogen carbamoylphosphonate",
+        "Phosphonic acid",
+        "(aminocarbonyl)-",
+        "monoethyl ester",
+        "RS22J9RP83",
+        "CHEBI:81962",
+        "Fosamine [BSI:ISO]",
+        "Ethyl carbamoylphosphonic acid",
+        "Monoethyl (aminocarbonyl)phosphonate",
+        "BRN 2206645",
+        "UNII-RS22J9RP83",
+        "Fosamine [ISO]",
+        "SCHEMBL64451",
+        "CHEMBL3306792"
+    ],
+    "IsomericSMILES": "CCOP(=O)(C(=O)N)O",
+    "INCHI": "InChI=1S/C3H8NO4P/c1-2-8-9(6,7)3(4)5/h2H2,1H3,(H2,4,5)(H,6,7)",
+    "INCHIKEY": "UCHDFLNGIZUADY-UHFFFAOYSA-N",
+    "Formula": "C3H8NO4P",
+    "MolecularWeight": {
+        "$numberDouble": "153.07"
+    },
+    "Description": "Fosamine is a phosphonic ester.",
+    "XlogP": {
+        "$numberDouble": "-1.5"
+    },
+    "Complexity": {
+        "$numberInt": "156"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The absorption, translocation, and exudation of 14C-glyphosate, 14C-fosamine, and 14C-amitrole in field horsetail were examined in glasshouse experiments. Amitrole was absorbed more readily than fosamine or glyphosate, and while initial translocation of amitrole was faster, eventually more 14C was recovered from plants treated with glyphosate and fosamine. Radioactivity from all three compounds was translocated to areas of meristematic activity, such as shoot and rhizome apices and rhizome nodes, but the amounts recovered from roots and rhizomes were small relative to the amounts applied. Root exudation and guttation may have contributed to herbicide loss, with radioactivity from amitrole being particularly prevalent in guttation fluid.",
+            "reference": "Coupland, D., & Peabody, D. V. (1981). Absorption, translocation, and exudation of glyphosate, fosamine, and amitrole in field horsetail (Equisetum arvense). Weed Science, 29(5), 556-560.",
+            "method": {
+                "Test Plant": "Field horsetail (Equisetum arvense) plants",
+                "Apply Location": "Foliar application to shoot surface",
+                "Plant Grown Condition": "Rhizome fragments planted in coarse sand, watered daily with liquid fertilizer. Plants with 4-6 shoots, main shoot ~15 cm long and 1-2 developing rhizomes were selected for treatment.",
+                "Chemical Preparation": "Herbicides applied at 20 g ai/L in aqueous solutions. Glyphosate (commercial liquid concentrate with wetting agent). Fosamine and amitrole formulated with non-ionic surfactants. 14C-labeled herbicides added to give ~110,000 dpm/\u03bcL.",
+                "Pesticide Application Details for the Plant": "Two 1-\u03bcL drops applied to shoot surface of main stem between 3rd and 4th nodes.",
+                "Other Information": "Experiments under 20-25\u00b0C/50-70% RH day, 15\u00b0C/70% RH night, 14h daylength with fluorescent+tungsten lamps. Completely randomized design with 4 replicates per treatment"
+            },
+            "result": "[{\"Days after application\": 1, \"Apical section in treated shoots (dpm/mg)\": 85, \"Sub-apical section of treated shoots (dpm/mg)\": 14, \"Apical section in untreated shoots (dpm/mg)\": 2, \"Sub-apical section of untreated shoots (dpm/mg)\": 0}, {\"Days after application\": 4, \"Apical section in treated shoots (dpm/mg)\": 78, \"Sub-apical section of treated shoots (dpm/mg)\": 19, \"Apical section in untreated shoots (dpm/mg)\": 2, \"Sub-apical section of untreated shoots (dpm/mg)\": 1}, {\"Days after application\": 8, \"Apical section in treated shoots (dpm/mg)\": 164, \"Sub-apical section of treated shoots (dpm/mg)\": 31, \"Apical section in untreated shoots (dpm/mg)\": 3, \"Sub-apical section of untreated shoots (dpm/mg)\": 2}]"
+        },
+        {
+            "content": "Fosamine, formulated as a low-concentration solution in Tween 20, was absorbed slowly by detached leaves of Rumex patientia, with 35% of the applied herbicide absorbed after 8 hours. It was found to be not rainfast, as up to 80% of the applied herbicide and 99.9% of the removable herbicide were washed off the leaves with distilled water. Translocation of fosamine was rapid in small R. patientia plants, following a pattern similar to assimilates, while 2,4,5-T did not translocate to the root system as readily as fosamine or assimilates.",
+            "reference": "Richardson, R. G. (1980). Foliar absorption and translocation of fosamine and 2, 4, 5\u2010T in blackberry (Rubus proceras PJ Muell.). Weed Research, 20(3), 159-163.",
+            "method": {
+                "Test Plant": "Rhubarb (Reynoutria sachalinensis = Polygonum sachalinense)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Mature leaves from rhubarb plants grown in a shadeehouse.",
+                "Chemical Preparation": "Fosamine labeled with 14C at the carboxyl position, 9.53 \u03bcCi/mg specific activity. Dissolved in 0.25% v/v Tween 20 solution to make 0.1% w/v fosamine solution. 14C-2,4,5-T used for translocation study.",
+                "Pesticide Application Details for the Plant": "25 \u03bcL of fosamine solution applied as ~25 droplets on terminal leaflet of selected mature leaf for translocation study.",
+                "Other Information": "Translocation study - 3 replicate plants treated with fosamine, 14C-2,4,5-T, or 14CO2 and placed in growth cabinet. 14CO2 applied by sealing leaf in bottle with Ba14CO3 + lactic acid for 2h."
+            },
+            "result": "[{\"Days after application\": 1, \"Treated leaves (nmol/mg, 10**(-9))\": 707.0, \"Leaves (nmol/mg, 10**(-9))\": 32.9, \"Cane (nmol/mg, 10**(-9))\": 65.4, \"Crown (nmol/mg, 10**(-9))\": 6.8, \"Roots (nmol/mg, 10**(-9))\": 13.4}, {\"Days after application\": 7, \"Treated leaves (nmol/mg, 10**(-9))\": 475.0, \"Leaves (nmol/mg, 10**(-9))\": 71.6, \"Cane (nmol/mg, 10**(-9))\": 61.7, \"Crown (nmol/mg, 10**(-9))\": 8.1, \"Roots (nmol/mg, 10**(-9))\": 21.6}]"
+        },
+        {
+            "content": "In a 2-yr field study, selective application of a 2.5% (v/v) solution of the ammonium salt of fosamine [ethyl hydrogen(aminocarbonyl)phosphonate] plus 0.5% (v/v) nonionic surfactant to multiflora rose (Rosa multiflora Thunb. # ROSMU) demonstrated leaves to be the major site of uptake for suppressing growth. In greenhouse studies, 14C-fosamine was absorbed in decreasing order by axillary bud, leaf, and stem treatments, respectively. 14C was rapidly translocated throughout multiflora rose plants when applied to leaf, stem, or bud tissue. The highest 14C concentration always occurred at the site of uptake. In a 32-day study, the treated leaf, the treated bud, and treated stem had the highest 14C concentration when 14C-fosamine was leaf, bud, or stem applied, respectively.",
+            "reference": "Mann, R. K., Witt, W. W., & Rieck, C. E. (1986). Fosamine absorption and translocation in multiflora rose (Rosa multiflora). Weed Science, 34(6), 830-833.",
+            "method": {
+                "Test Plant": "Multiflora rose (Rosa multiflora)",
+                "Apply Location": "Foliar, stem, bud applications",
+                "Plant Grown Condition": "Rose cuttings propagated in greenhouse, transplanted to pots when rooted. Grown under 16h daylength with supplemental lighting. Field grown in spring in two 1-year studies.",
+                "Chemical Preparation": "For translocation study, 14C-fosamine aqueous solution at 0.1 \u03bcCi/\u03bcL",
+                "Pesticide Application Details for the Plant": "Translocation study - 1 \u03bcL to axillary bud, 6 \u03bcL to 2 cm2 leaf area, 3 \u03bcL to 1 cm2 stem area of plants pre-treated with non-labeled fosamine solution.",
+                "Other Information": "Following year, 20 stem samples collected per plant to determine dry weight. Translocation study on greenhouse grown plants pruned to 3 canes 1 month before treatment"
+            },
+            "result": "[{\"Tratment\": \"Foliar apply\", \"Days after application\": 1, \"Treated area (% of absorbed)\": 89, \"Leaves and stems above treated area (%)\": 3, \"Leaves and stems below treated area (%)\": 2, \"Other canes (%)\": 1, \"Roots (%)\": 1, \"Shoot apex (%)\": \"4\", \"Subtending leaf (%)\": \"-\", \"Leaf and bud of treated stem (%)\": \"-\"}, {\"Tratment\": \"Foliar apply\", \"Days after application\": 4, \"Treated area (% of absorbed)\": 85, \"Leaves and stems above treated area (%)\": 6, \"Leaves and stems below treated area (%)\": 2, \"Other canes (%)\": 1, \"Roots (%)\": 0, \"Shoot apex (%)\": \"5\", \"Subtending leaf (%)\": \"-\", \"Leaf and bud of treated stem (%)\": \"-\"}, {\"Tratment\": \"Foliar apply\", \"Days after application\": 8, \"Treated area (% of absorbed)\": 72, \"Leaves and stems above treated area (%)\": 8, \"Leaves and stems below treated area (%)\": 5, \"Other canes (%)\": 9, \"Roots (%)\": 0, \"Shoot apex (%)\": \"3\", \"Subtending leaf (%)\": \"-\", \"Leaf and bud of treated stem (%)\": \"-\"}, {\"Tratment\": \"Foliar apply\", \"Days after application\": 16, \"Treated area (% of absorbed)\": 74, \"Leaves and stems above treated area (%)\": 9, \"Leaves and stems below treated area (%)\": 7, \"Other canes (%)\": 4, \"Roots (%)\": 6, \"Shoot apex (%)\": \"2\", \"Subtending leaf (%)\": \"-\", \"Leaf and bud of treated stem (%)\": \"-\"}, {\"Tratment\": \"Foliar apply\", \"Days after application\": 32, \"Treated area (% of absorbed)\": 58, \"Leaves and stems above treated area (%)\": 4, \"Leaves and stems below treated area (%)\": 7, \"Other canes (%)\": 27, \"Roots (%)\": 5, \"Shoot apex (%)\": \"2\", \"Subtending leaf (%)\": \"-\", \"Leaf and bud of treated stem (%)\": \"-\"}, {\"Tratment\": \"Buds apply\", \"Days after application\": 1, \"Treated area (% of absorbed)\": 3, \"Leaves and stems above treated area (%)\": 6, \"Leaves and stems below treated area (%)\": 28, \"Other canes (%)\": 3, \"Roots (%)\": 2, \"Shoot apex (%)\": \"-\", \"Subtending leaf (%)\": \"58\", \"Leaf and bud of treated stem (%)\": \"-\"}, {\"Tratment\": \"Buds apply\", \"Days after application\": 4, \"Treated area (% of absorbed)\": 22, \"Leaves and stems above treated area (%)\": 19, \"Leaves and stems below treated area (%)\": 26, \"Other canes (%)\": 1, \"Roots (%)\": 1, \"Shoot apex (%)\": \"-\", \"Subtending leaf (%)\": \"32\", \"Leaf and bud of treated stem (%)\": \"-\"}, {\"Tratment\": \"Buds apply\", \"Days after application\": 16, \"Treated area (% of absorbed)\": 4, \"Leaves and stems above treated area (%)\": 30, \"Leaves and stems below treated area (%)\": 16, \"Other canes (%)\": 12, \"Roots (%)\": 3, \"Shoot apex (%)\": \"-\", \"Subtending leaf (%)\": \"34\", \"Leaf and bud of treated stem (%)\": \"-\"}, {\"Tratment\": \"Buds apply\", \"Days after application\": 32, \"Treated area (% of absorbed)\": 7, \"Leaves and stems above treated area (%)\": 37, \"Leaves and stems below treated area (%)\": 11, \"Other canes (%)\": 13, \"Roots (%)\": 5, \"Shoot apex (%)\": \"-\", \"Subtending leaf (%)\": \"28\", \"Leaf and bud of treated stem (%)\": \"-\"}, {\"Tratment\": \"Stem apply\", \"Days after application\": 1, \"Treated area (% of absorbed)\": 46, \"Leaves and stems above treated area (%)\": 20, \"Leaves and stems below treated area (%)\": 25, \"Other canes (%)\": 0, \"Roots (%)\": 1, \"Shoot apex (%)\": \"-\", \"Subtending leaf (%)\": \"-\", \"Leaf and bud of treated stem (%)\": \"9\"}, {\"Tratment\": \"Stem apply\", \"Days after application\": 4, \"Treated area (% of absorbed)\": 43, \"Leaves and stems above treated area (%)\": 34, \"Leaves and stems below treated area (%)\": 11, \"Other canes (%)\": 1, \"Roots (%)\": 1, \"Shoot apex (%)\": \"-\", \"Subtending leaf (%)\": \"-\", \"Leaf and bud of treated stem (%)\": \"12\"}, {\"Tratment\": \"Stem apply\", \"Days after application\": 8, \"Treated area (% of absorbed)\": 69, \"Leaves and stems above treated area (%)\": 26, \"Leaves and stems below treated area (%)\": 2, \"Other canes (%)\": 1, \"Roots (%)\": 1, \"Shoot apex (%)\": \"-\", \"Subtending leaf (%)\": \"-\", \"Leaf and bud of treated stem (%)\": \"2\"}, {\"Tratment\": \"Stem apply\", \"Days after application\": 16, \"Treated area (% of absorbed)\": 23, \"Leaves and stems above treated area (%)\": 21, \"Leaves and stems below treated area (%)\": 11, \"Other canes (%)\": 15, \"Roots (%)\": 4, \"Shoot apex (%)\": \"-\", \"Subtending leaf (%)\": \"-\", \"Leaf and bud of treated stem (%)\": \"25\"}, {\"Tratment\": \"Stem apply\", \"Days after application\": 32, \"Treated area (% of absorbed)\": 40, \"Leaves and stems above treated area (%)\": 17, \"Leaves and stems below treated area (%)\": 8, \"Other canes (%)\": 13, \"Roots (%)\": 11, \"Shoot apex (%)\": \"-\", \"Subtending leaf (%)\": \"-\", \"Leaf and bud of treated stem (%)\": \"9\"}]"
+        }
+    ]
+}

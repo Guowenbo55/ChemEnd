@@ -1,0 +1,95 @@
+{
+    "_id": {
+        "$oid": "6682e82dc4e5dba5ffba2448"
+    },
+    "CID": {
+        "$numberInt": "5959"
+    },
+    "Name": "Chloramphenicol",
+    "IUPACName": "2,2-dichloro-N-[(1R,2R)-1,3-dihydroxy-1-(4-nitrophenyl)propan-2-yl]acetamide",
+    "CanonicalSMILES": "C1=CC(=CC=C1C(C(CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-]",
+    "Synonyms": [
+        "chloramphenicol",
+        "56-75-7",
+        "Chloromycetin",
+        "Chlornitromycin",
+        "Levomycetin",
+        "Chloroamphenicol",
+        "Globenicol",
+        "Halomycetin",
+        "Levomicetina",
+        "Oleomycetin",
+        "Alficetyn",
+        "Chloramex",
+        "Chlorocid",
+        "Chlorocol",
+        "Fenicol"
+    ],
+    "IsomericSMILES": "C1=CC(=CC=C1[C@H]([C@@H](CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-]",
+    "INCHI": "InChI=1S/C11H12Cl2N2O5/c12-10(13)11(18)14-8(5-16)9(17)6-1-3-7(4-2-6)15(19)20/h1-4,8-10,16-17H,5H2,(H,14,18)/t8-,9-/m1/s1",
+    "INCHIKEY": "WIIZWVCIJKGZOK-RKDXNWHRSA-N",
+    "Formula": "C11H12Cl2N2O5",
+    "MolecularWeight": {
+        "$numberDouble": "323.13"
+    },
+    "Description": "Chloramphenicol is an organochlorine compound that is dichloro-substituted acetamide containing a nitrobenzene ring, an amide bond and two alcohol functions. It has a role as an antimicrobial agent, an antibacterial drug, a protein synthesis inhibitor, an Escherichia coli metabolite, a Mycoplasma genitalium metabolite and a geroprotector. It is an organochlorine compound, a diol, a C-nitro compound and a carboxamide.",
+    "XlogP": {
+        "$numberDouble": "1.1"
+    },
+    "Complexity": {
+        "$numberInt": "342"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 84",
+            "Value": "log Kow = 1.14"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Brunton, L. Chabner, B, Knollman, B. Goodman and Gillman's The Pharmaceutical Basis of Therapeutics, Twelth Edition, McGraw Hill Medical, New York, NY. 2011, p. 1527",
+            "Value": "Chloramphenicol inhibits protein synthesis in bacteria, and to a lesser extent, in eukaryotic cells. The drug readily penetrates bacterial cells, probably by facilitated diffusion. Chloramphenicol acts primarily by binding reversibly to the 50S ribosomal subunit (near the binding site for the macrolide antibiotics and clindamycin, which chloramphenicol inhibits competitively). Although binding of tRNA at the codon recognition site on the 30S ribosomal subunit is undisturbed, the drug apparently prevents the binding of the amino acid-containing end of the aminoacyl tRNA to the acceptor site on the 50S ribosomal subunit. The interaction between peptidyltransferase and its amino acid substrate cannot occur, and peptide bond formation is inhibited."
+        },
+        {
+            "References": "Brunton, L. Chabner, B, Knollman, B. Goodman and Gillman's The Pharmaceutical Basis of Therapeutics, Twelth Edition, McGraw Hill Medical, New York, NY. 2011, p. 1527",
+            "Value": "Chloramphenicol ... can inhibit mitochondrial protein synthesis in mammalian cells, perhaps because mitochondrial ribosomes resemble bacterial ribosomes (both are 70S) more than they do the 80S cytoplasmic ribosomes of mammalian cells. The peptidyltransferase of mitochondrial ribosomes, but not of cytoplasmic ribosomes, is inhibited by chloramphenicol. Mammalian erythropoietic cells are particularly sensitive to the drug."
+        },
+        {
+            "References": "NIH; DailyMed. Current Medication Information for Chloramphenicol sodium succinate injection (Updated: January 2017). Available from, as of April 12, 2017: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aed29594-211d-49ef-813f-131975a8d0e3",
+            "Value": "/Chloramphenicol/ inhibits bacterial protein synthesis by interfering with the transfer of activated amino acids from soluble RNA to ribosomes. In vitro, chloramphenicol exerts mainly a bacteriostatic effect on a wide range of gram-negative and gram-positive bacteria."
+        },
+        {
+            "References": "NIH; DailyMed. Current Medication Information for Chloromycetin Ophthalmic Ointment (Updated: October 2006). Available from, as of April 13, 2017: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=698aaa0a-9fd3-40c2-ec93-0dc2170a75ba&audience=consumer3",
+            "Value": "/Chloramphenicol/ acts by inhibition of protein synthesis by interfering with the transfer of activated amino acids from soluble RNA to ribosomes."
+        },
+        {
+            "References": "NIH; DailyMed. Current Medication Information for Viceton- chloramphenicol tablet, coated (veterinary drug) (Updated: November 2015). Available from, as of April 13, 2017: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=698aaa0a-9fd3-40c2-ec93-0dc2170a75ba&audience=consumer3",
+            "Value": "Chloramphenicol exerts its bacteriostatic action by inhibiting protein synthesis in susceptible organisms. Complete suppression of the assimilation of ammonia and of the incorporation of amino acids, particularly glutamic acid, together with an increased formation of ribonucleic acid (RNA), lead to an inhibition of bacterial growth."
+        },
+        {
+            "References": "American Society of Health-System Pharmacists 2017; Drug Information 2017. Bethesda, MD. 2017, p. 195",
+            "Value": "Chloramphenicol usually is bacteriostatic in action, but may be bactericidal in high concentrations or against highly susceptible organisms. Chloramphenicol sodium succinate is inactive until hydrolyzed to free chloramphenicol. This hydrolysis occurs rapidly in vivo. Chloramphenicol appears to inhibit protein synthesis in susceptible organisms by binding to 50S ribosomal subunits; the primary effect is inhibition of peptide bond formation. The site of action appears to be the same as that of erythromycin, clindamycin, lincomycin, oleandomycin, and troleandomycin. Chloramphenicol also appears to inhibit protein synthesis in rapidly proliferating mammalian cells; reversible bone marrow depression due to chloramphenicol may be the result of inhibition of protein synthesis in mitochondria of bone marrow cells. Chloramphenicol has been shown to possess immunosuppressive activity when the drug is administered systemically prior to an antigenic stimulus; however, antibody response may not be significantly affected when the drug is administered following the antigen."
+        },
+        {
+            "References": "PMID:23167761",
+            "Value": "Mucopolysaccharidosis I (MPS I) is a genetic disorder caused by mutations on alpha-L-iduronidase (IDUA) gene, leading to low or null enzyme activity. As nonsense mutations are present in about two thirds of the patients, stop codon read through (SCRT) is a potential alternative to achieve enhanced enzyme activity. This mechanism suppresses premature stop codon mutations allowing the protein to be fully translated. Chloramphenicol is a peptidyl transferase inhibitor able to induce readthrough and is efficient in cross the blood brain barrier. In this work, fibroblasts from MPS I patients (p.W402X/p.W402X; p.R89W/p.W402X and p.Q70X/c.1739-1g > t) were treated with chloramphenicol, which resulted in 100-fold increase on IDUA activity on compound heterozygous fibroblasts. cDNA sequencing showed that only the alleles without the nonsense mutation were being amplified, even after treatment, leading us to suggest that the nonsense alleles were targeted to nonsense-mediated mRNA decay and that chloramphenicol acts through a mechanism other than SCRT."
+        },
+        {
+            "References": "PMID:20338993",
+            "Value": "Overuse and abuse of antibiotics can increase the risk of cancer. Chloramphenicol can inhibit both bacterial and mitochondrial protein synthesis, causing mitochondrial stress and decreased ATP biosynthesis. Chloramphenicol can accelerate cancer progression; however, the underlying mechanisms of chloramphenicol in carcinogenesis and cancer progression are still unclear. We found that chloramphenicol can induce matrix metalloproteinase (MMP)-13 expression and increase MMP-13 protein in conditioned medium, resulting in an increase in cancer cell invasion. Chloramphenicol also activated c-Jun N-terminal kinases (JNK) and phosphatidylinositol 3-kinase (PI-3K)/Akt signaling, leading to c-Jun protein phosphorylation. The activated c-Jun protein has been proven to activate binding to the MMP-13 promoter and also upregulate the amount of MMP-13. Both the SP 600125 (JNK inhibitor) and LY 294002 (PI-3K/Akt inhibitor) can inhibit chloramphenicol-induced c-Jun phosphorylation, MMP-13 expression, and cell invasion. Overexpression of the dominant-negative JNK and PI-3K p85 subunit also negate chloramphenicol-induced responses. Other antibiotics that cause mitochondrial stress and a decrease in ATP biosynthesis also induce MMP-13 expression. These findings suggest that chloramphenicol-induced PI-3K/Akt, JNK phosphorylation, and activator protein 1 activation might function as a novel mitochondrial stress signal that result in an increase of MMP-13 expression and MMP-13-associated cancer cell invasion. The findings of this study confirms that chloramphenicol, and other 70S ribosomal inhibitors, should be administered with caution, especially during cancer therapy."
+        },
+        {
+            "References": "PMID:18559535",
+            "Value": "... By investigating the effects of chloramphenicol on the activation of mouse T cells stimulated with anti-CD3 antibody or staphylococcal enterotoxin B, we found that chloramphenicol induces the differentiation of activated T cells into lymphoblastic leukemia-like cells, characterized by large cell size, multiploid nuclei, and expression of CD7, a maker for immature T cells and T-cell lymphocytic leukemia, thus phenotypically indicating differentiation toward leukemogenesis. High expression of cyclin B1, but not p53, c-myc, and CDC25A, was detected in chloramphenicol-treated activated T cells, which may relate to abnormal cell differentiation. Chloramphenicol inhibited the activation-induced cell death of mouse and human T-cell receptor-activated T cells by down-regulating the expression of Fas ligand. Our findings show that abnormal cell differentiation and inhibition of apoptosis may contribute to the development of leukemia associated with clinical applications of chloramphenicol."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Silva BF et al; Chemosphere 85: 1331-9 (2011) (2) Maranho LA et al; Ecotoxicology 24: 368-80 (2015) (3) Carmona E et al; Sci Total Environ 484: 53-63 (2014)",
+            "Value": "SEDIMENT: Chloramphenicol was detected at <LOQ-5.35 ng/g in 13 sediment samples collected Dec 2009 from the Ebro River Basin, Spain(1). Sediment samples collected Mar and Sep 2011 from the Bay of Cadiz, Spain, contained chloramphenicol at <0.10-4.30 ng/g(2). Sediment samples collected Oct 2012 from the Turia River Basin, Spain, contained chloramphenicol at an average concentration of 6 ng/g in 16 of 22 samples(3)."
+        }
+    ]
+}

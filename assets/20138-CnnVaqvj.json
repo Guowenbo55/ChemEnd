@@ -1,0 +1,293 @@
+{
+    "_id": {
+        "$oid": "6682e936c4e5dba5ffba297d"
+    },
+    "CID": {
+        "$numberInt": "20138"
+    },
+    "Name": "Crotonaldehyde",
+    "IUPACName": "but-2-enal",
+    "CanonicalSMILES": "CC=CC=O",
+    "Synonyms": [
+        "Butenal",
+        "but-2-enal",
+        "4170-30-3",
+        "(Z)-2-Butenal",
+        ".beta.-Methylacrolein",
+        "Crotonaldehyde (Contains ~0.1% BHT stabilizer)(Mixture of cis/trans isomers)",
+        "2-buten-1-one",
+        "(2EZ)-crotonaldehyde",
+        "Isavuconazole Impurity 33",
+        "CHEMBL3561468",
+        "MFCD07780582",
+        "AKOS030228150",
+        "SY320784",
+        "DB-041741",
+        "Q60193372"
+    ],
+    "IsomericSMILES": "CC=CC=O",
+    "INCHI": "InChI=1S/C4H6O/c1-2-3-4-5/h2-4H,1H3",
+    "INCHIKEY": "MLUCVPSAIODCQM-UHFFFAOYSA-N",
+    "Formula": "C4H6O",
+    "MolecularWeight": {
+        "$numberDouble": "70.09"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "0.5"
+    },
+    "Complexity": {
+        "$numberInt": "45"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Isidorov VA et al; Atmos Environ 19: 1-8 (1985) (2) US Dept Agric; US Dept Agric, Agric Res Service. 1992-2016. Dr. Duke's Phytochemical and Ethnobotanical Databases. Allyl Alcohol. Available from, as of Jan 11, 2018: https://phytochem.nal.usda.gov/phytochem/search (3) Tani A, Hewitt CN; Environ Sci Technol 43: 8338-43 (2009) (4) Tani A et al; Environ Sci Technol 44: 7096-101 (2010)",
+            "Value": "Crotonaldehyde has been identified as a volatile emission product from the arboreous plant Chinese arbor vitae(1). Crotonaldehyde is reported in the plant of potato (Solanum tuberosum)(2). In plants exposed to 70-130 ppbv of crotonaldehyde, the normalized uptake rate was 19.1 mmol/sq m/s in peace lily (Spathiphyllum clevelandii), uptake by golden pothos (Epipremnum aureum) was not detected(3). Uptake of crotonaldehyde by broad leaf tree saplings was 29.5 and 25.4 mmol/sq m/s in Quercus myrsinaefolia and Quercus philyraeoides, respectively(4)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Jan 16, 2018: https://www2.epa.gov/tsca-screening-tools/ (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for crotonaldehyde(SRC), using an estimated log Kow of 0.60(1) and a regression-derived equation(1). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is low."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Dore M et al; Trib Cebedeau 28: 3-11 (1975) (2) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Jan 11, 2018: https://www.safe.nite.go.jp/english/db.html",
+            "Value": "AEROBIC: Crotonaldehyde was observed to have a 5-day BODT of 37% using the AFNOR T.90 test protocol(1). Crotonaldehyde, present at 100 mg/L, reached 73% of its Theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(2)."
+        },
+        {
+            "References": "(1) Chou WL et al; Biotechnol Bioeng Symp 8: 391-414 (1979) (2) Speece RE; Environ Sci Technol 17: 416A-27A (1983)",
+            "Value": "ANAEROBIC: Crotonaldehyde has been found to be degradable via anaerobic (methane fermentation) biotechnology(1,2)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Yasuhara A, Morita M; Chemosphere 16: 2559-2565 (1987)",
+            "Value": "Crotonaldehyde was detected in a bulk (486.5 g total) mussel sample (Mytilus edulis) collected July 31, 1985 at the Oarai Coast in Ibaraki, Japan at 11.5 ug/g; it was not detected in a second bulk sample taken one year later at the same site (278.4 g total)(1)."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:23535401",
+            "Value": "Crotonaldehyde, a highly electrophilic a, b-unsaturated aldehyde, is a ubiquitous environmental pollutant and a risk factor for multiple respiratory diseases. Crotonaldehyde is highly volatile and hydrophilic, so it is efficiently absorbed in the respiratory tract. Alveolar macrophages are major effector cells of the nonspecific host defence in the lung. The aim of this study was to investigate the molecular mechanisms and signaling pathways responsible for cell death of alveolar macrophage induced by crotonaldehyde. Our results show that crotonaldehyde induces apoptosis in alveolar macrophages, as indicated by phosphatidylserine externalization and DNA fragmentation. Pretreatment of alveolar macrophages with N-acetylcysteine, ascorbic acid, a-tocopherol, superoxide dismutase inhibited crotonaldehyde-induced apoptosis. Crotonaldehyde-induced apoptosis was characterized by ROS generation, GSH depletion, loss of mitochondrial membrane potential, the release of cytochrome c from mitochondria, caspase-3/7 and caspase-9 activation, elevation of intracellular Ca(2+) concentration and the increase of p53 expression. Furthermore, pretreatment with either p53 inhibitor pifithrin-a or calcium chelator BAPTA-AM effectively attenuated apoptosis induced by crotonaldehyde. Taken together, our results showed that crotonaldehyde induce apoptosis in alveolar macrophages through intracellular calcium, mitochondria and p53 signaling pathways. These results would help to illustrate the mechanism of toxicity induced by crotonaldehyde and to look for a novel treatment for diseases induced by exposure to crotonaldehyde-rich pollutants such as cigarette smoke."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The LC50 for a 30 minute exposure of rats was 1500 ppm for crotonaldehyde. Pulmonary edema was observed in the rats after the fatal exposure at 1500 ppm."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 284",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Crotonaldehyde liquid causes severe injury to rabbit eyes similar to that caused by acetic anhydride."
+        },
+        {
+            "References": "Ikeda A et al; Kanagawa-Ken Taiki Osen Chosa Kenkyu Hokoku 22: 193-6 (1980)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The effects of the environmental pollutants, including crotonaldehyde, on the respiration and heart beat of male rabbits were studied. Most of the unsaturated aldehydes (2.4-5.0 ppm) markedly decrease the parameters."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-1634  2007.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... 100 ppm of crotonaldehyde /was found/ to be a lethal concentration for rats for a 4 hour exposure. Changes in pulmonary performance resulted from single exposures at 10 ppm for 200 minutes. Rats did not survive exposure at 1650 ppm for 10 minutes; effects include respiratory distress, an excitatory stage, and terminal convulsions."
+        },
+        {
+            "References": "PMID:6715120",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The irritating aldehyde acrolein was injected intraperitoneally into mice. A single injection at 4 mg/kg gave rise to a 5-fold increase in plasma total lactate dehydrogenase (LDH) activity, with the peak after approximately 10 hr. The pattern of LDH isoenzymes was not altered. Repeated injections (daily or weekly) caused a progressively less pronounced effect on the LDH activity. ... The LD50 for acrolein ip in mice was increased from a level of 7 mg/kg to a level of 12 mg/kg by pretreatment with sublethal doses of 4 mg/kg/day for 5 days. Thus, the response to repeated acrolein injections, in terms of LDH and LD50, indicates an acquired tolerance against the irritant. Likewise, pretreatment with ... crotonaldehyde could induce tolerance, in terms of LDH activity, towards a subsequent injection of acrolein. Histopathological examination revealed that spleen, adrenals and thymus were affected. The thymus markedly decreased in size after repeated injections of acrolein, crotonaldehyde or formaldehyde. Adrenalectomized mice given acrolein showed no thymus atrophy. A single injection of aldehyde caused an increased level of the adrenal hormone corticosterone in blood plasma. Adrenalectomized mice still showed a certain tolerance, in terms of LDH activity, after repeated injections of acrolein, but the increase in plasma LDH activity was smaller than for normal animals. Treatment with acrolein for six days did not change the level of reduced glutathione or the glutathione S-transferase activity in liver cytosol, but the rate of glutathione synthesis was increased. It is concluded that adrenalectomy does not completely prevent the development of tolerance in mice."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V63 380 (1995",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ After crotonaldehyde was administered by gavage to male and female Fischer 344 rats and B6C3F1 mice at doses of 2.5, 5, 10, 20, or 40 mg/kg bw/day on 5 days/wk for 13 weeks, dose-related mortality was observed in rats at doses = or >5 mg/kg bw/day, but no deaths were seen in mice. Dose-related lesions of the forestomach (hypertension, inflammation, hyperkeratosis and necrosis) were seen in rats at doses = or >10 mg/kg bw/day and in mice at 40 mg/kg bw/day. Acute inflammation of the nasal cavity was seen in rats at doses = or >5 (males) and 20 mg/kg bw/day (females)."
+        },
+        {
+            "References": "PMID:3002613",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ The tumorigenic activities in F344 rats of crotonaldehyde, a representative alpha, beta-unsaturated carbonyl compound, and N-nitrosopyrrolidine, which could produce crotonaldehyde upon metabolism, were compared. Groups of rats were treated with either crotonaldehyde (0.6 mM or 6.0 mM) or N-nitrosopyrrolidine (0.6 mM) in their drinking water for 113 or 84 weeks, respectively. At the 0.6 mM dose, crotonaldehyde induced neoplastic lesions of the liver in 9 of 27 rats; 2 rats had hepatocellular carcinomas, and 9 rats had neoplastic nodules. It also caused altered liver cell foci in 23 of 27 rats. The incidences of tumors and foci were significantly higher than those of the control group. N-Nitrosopyrrolidine induced hepatocellular carcinomas in 20 of 23 rats, liver neoplastic nodules in 16 of 23 rats, and altered liver cell foci in 23 of 23 rats. Thus, crotonaldehyde appears to be a weaker tumorigen than N-nitrosopyrrolidine. At the 6.0 mM dose, crotonaldehyde treatment caused moderate to severe liver damage in 10 of 23 rats. No preneoplastic or neoplastic lesions were observed in these rats. The remaining 13 rats of this group developed altered liver cell foci. ..."
+        },
+        {
+            "References": "PMID:12142074",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ The tumorigenicity of ... crotonaldehyde ... was tested in the B6C3F(1) neonatal mouse. Mice were administered ip injections of ... crotonaldehyde (1500 and 3000 nmol) ... at 8 and 15 days of age. At 12 months, only male mice treated with the positive control chemicals, 4-aminobiphenyl (500 and 1000 nmol) and benzo[a]pyrene (150 and 300 nmol), had incidences of tumors in the liver significantly higher than the solvent control."
+        },
+        {
+            "References": "PMID:16442836",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ... Whether or not exposure to crotonaldehyde results in a significant increase in the frequency of abnormal sperm heads in male Swiss albino mice /was examined/. Adult male mice were treated with 8, 16 and 32 uL/kg bw of crotonaldehyde as a single intraperitoneal injection. The animals were killed 1, 3 and 5 weeks after treatment. Five animals were sacrificed per dose and time tested. Crotonaldehyde induced dose related increase in the percentage of abnormal sperm heads. Statistically significant increase in percentage of abnormal sperm heads was recorded at 16 and 32 uL/kg bw after 1 and 3 weeks of treatment and only at 32 uL/kg bw after 5 weeks of treatment."
+        },
+        {
+            "References": "PMID:6167233",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Changes in excitability and conduction properties of frog sciatic nerve under the influence of crotonaldehyde was examined in concentration range 0.01-1.00% (wt/vol) and at 20, 25, 30 and 35 \u00b0C. It irreversibly reduced the amplitude of compounded action potential of the nerve and decreased conduction velocity up to complete block."
+        },
+        {
+            "References": "PMID:19397281",
+            "Value": "/GENOTOXICITY/ The alpha,beta-unsaturated aldehydes (enals) acrolein, crotonaldehyde, and trans-4-hydroxynonenal (4-HNE) are products of endogenous lipid peroxidation, arising as a consequence of oxidative stress. The addition of enals to dG involves Michael addition of the N(2)-amine to give N(2)-(3-oxopropyl)-dG adducts, followed by reversible cyclization of N1 with the aldehyde, yielding 1,N(2)-dG exocyclic products. The 1,N(2)-dG exocyclic adducts from acrolein, crotonaldehyde, and 4-HNE exist in human and rodent DNA. The enal-induced 1,N(2)-dG lesions are repaired by the nucleotide excision repair pathway in both Escherichia coli and mammalian cells. Oligodeoxynucleotides containing structurally defined 1,N(2)-dG adducts of acrolein, crotonaldehyde, and 4-HNE were synthesized via a postsynthetic modification strategy. Site-specific mutagenesis of enal adducts has been carried out in E. coli and various mammalian cells. In all cases, the predominant mutations observed are G-->T transversions, but these adducts are not strongly miscoding. When placed into duplex DNA opposite dC, the 1,N(2)-dG exocyclic lesions undergo ring opening to the corresponding N(2)-(3-oxopropyl)-dG derivatives. Significantly, this places a reactive aldehyde in the minor groove of DNA, and the adducted base possesses a modestly perturbed Watson-Crick face. Replication bypass studies in vitro indicate that DNA synthesis past the ring-opened lesions can be catalyzed by pol eta, pol iota, and pol kappa. It also can be accomplished by a combination of Rev1 and pol zeta acting sequentially. However, efficient nucleotide insertion opposite the 1,N(2)-dG ring-closed adducts can be carried out only by pol iota and Rev1, two DNA polymerases that do not rely on the Watson-Crick pairing to recognize the template base. The N(2)-(3-oxopropyl)-dG adducts can undergo further chemistry, forming interstrand DNA cross-links in the 5'-CpG-3' sequence, intrastrand DNA cross-links, or DNA-protein conjugates. NMR and mass spectrometric analyses indicate that the DNA interstand cross-links contain a mixture of carbinolamine and Schiff base, with the carbinolamine forms of the linkages predominating in duplex DNA. The reduced derivatives of the enal-mediated N(2)-dG:N(2)-dG interstrand cross-links can be processed in mammalian cells by a mechanism not requiring homologous recombination. Mutations are rarely generated during processing of these cross-links. In contrast, the reduced acrolein-mediated N(2)-dG peptide conjugates can be more mutagenic than the corresponding monoadduct. DNA polymerases of the DinB family, pol IV in E. coli and pol kappa in human, are implicated in error-free bypass of model acrolein-mediated N(2)-dG secondary adducts, the interstrand cross-links, and the peptide conjugates."
+        },
+        {
+            "References": "PMID:21763450",
+            "Value": "/GENOTOXICITY/ Lipid-peroxidation products are formed by the thermal treatment of foodstuffs, as well as by endogenous processes. In addition, they are also common environmental pollutants originating from many different sources. Since conflicting data exist on their possible risk for humans, we have selected four lipid-peroxidation products namely acrolein, crotonaldehyde, 4-hydroxy-hexenal (4-HHE) and 4-oxo-2-nonenal (4-ONE) to determine their ability to induce mutagenicity in mammalian cells. There is an important lack of mutagenicity data on mammalian cells for such products, which presents an important gap for any risk-assessment estimation. We have used the mouse lymphoma assay (MLA) to determine the mutagenic potential of these four compounds. This assay detects a broad spectrum of mutational events, from point mutations to chromosome alterations. The results obtained indicate that the four selected compounds are mutagenic in the MLA assay, showing a direct dose-effect relationship. The relative mutagenic potencies according to the induced mutant frequency (IMF) are as follows: crotonaldehyde (IMF=758.5x10(-6)), 4-ONE (IMF=700.5x10(-6)), acrolein (IMF=660.5x10(-6)) and 4-HHE (IMF=572x10(-6)). Although the differences between the induced mutant frequencies for these compounds are not very large, the a,b-unsaturated aldehyde 4-oxo-2-nonenal turned out to be the agent most mutagenic. This is because its induced mutant frequency was reached after treatment with 10 uM, while 50 uM of the other compounds was needed to reach the reported frequencies."
+        },
+        {
+            "References": "PMID:3930237",
+            "Value": "/GENOTOXICITY/ Crotonaldehyde was tested for the induction of sex-linked recessive lethal mutations in Drosophila melanogaster using a standard protocol approved by the National Toxicology Program. Canton-S wild-type males were tested with concentrations that result in approximately 30% mortality after 72 hr of feeding or 24 hr after injection. Following treatment, males were mated individually to 3 harems of Basc virgin females to produce 3 broods for analysis. Crotonaldehyde was negative for lethal mutations after feeding of 4000 ppm to males but positive for lethal mutations and translocations after injection of 3500 ppm."
+        },
+        {
+            "References": "Moutschen-Dahmen J et al; Bull Soc R Sci Liege 45 (1-2): 58-72 (1976)",
+            "Value": "/GENOTOXICITY/ Oral or ip administration of crotonaldehyde damaged the spermatogenic cells of the mouse seminiferous tubules. Besides gross degeneration, polyploidy was observed at all stages of spermatogenesis. Abnormal pairing of sex chromosomes occurred at diakinesis or metaphase I."
+        },
+        {
+            "References": "PMID:7010151",
+            "Value": "/GENOTOXICITY/ It displayed strong mutagenic activity for Salmonella typhimurium TA100 when tested in a modified liquid suspension procedure instead of the standard plate-incorporation Ames assay. A distinct dose-response relation was observed, showing that crotonaldehyde is mutagenic even in the absence of S9 mix."
+        },
+        {
+            "References": "Lutz D et al; Mutat Res 93 (2): 305-15 (1982)",
+            "Value": "/GENOTOXICITY/ Several alpha, beta-unsaturated carbonylic compounds and their corresponding allylic alcohols were tested in Salmonella typhimurium assay with and without metabolic activation by S9 mix. The mutagenic activities of the test substances were correlated with their chemical structures. Crotonaldehyde was clearly mutagenic."
+        },
+        {
+            "References": "PMID:7008261",
+            "Value": "/GENOTOXICITY/ 239 compounds, representative of gaseous and semivolatile phase of tobacco smoke, were assayed for mutagenicity towards 4 histidine-requiring mutants of Salmonella typhimurium (TA98, TA100, TA1535 and TA1537). Tested qualitatively both with and without metabolic activation using a liver fraction (S-9) from aroclor 1254 or methylcholanthrene induced rats. At 3 umol/plate, 2-butenal was found not to be mutagenic."
+        },
+        {
+            "References": "PMID:3930237",
+            "Value": "/GENOTOXICITY/ Fifty three coded chemical compounds were tested for mutagenicity in Drosophila melanogaster germ cells under the auspices of the National Toxicology Program. Tests were carried out by adult feeding. Adult injection for the induction of sex linked recessive lethal mutations in the meiotic and post meiotic germ cell stages of Drosophila-melanogaster males were additionally performed when negative feeding results were obtained. ...Crotonaldehyde induced chromosome breakage as well as reciprocal translocations..."
+        },
+        {
+            "References": "PMID:7703365",
+            "Value": "/GENOTOXICITY/ The reaction of 2-alkenals with GSH to form GSH conjugates by Michael addition is a major detoxification pathway. The reaction proceeds at a much higher rate under catalysis by glutathione S-transferase (GST) than the non-enzymatic reaction. ... Primary rat hepatocytes rich in GSH and proficient for GST and other metabolic enzymes consume much more alkenal than human lymphoblastoid cells (Namalva cells), that are poor in GSH and in metabolic activities. In Namalva cells DNA single strand breaks were induced by much lower concentrations of acrolein, crotonaldehyde and (E)-2-hexenal than in primary rat hepatocytes. In both cell systems intracellular GSH depletion by 2-alkenals proceeds in a dose dependent manner, approaching about 20% of pretreatment level before DNA damage becomes detectable. ..."
+        },
+        {
+            "References": "PMID:18550580",
+            "Value": "/GENOTOXICITY/ Crotonaldehyde is a representative alpha,beta-unsaturated aldehyde endowed of mutagenic and carcinogenic properties related to its propensity to react with DNA. Cyclic crotonaldehyde-derived deoxyguanosine (CrA-PdG) adducts can undergo ring opening in duplex DNA to yield a highly reactive aldehydic moiety. ... Site-specifically modified DNA oligonucleotides containing a single CrA-PdG adduct can form crosslinks with topoisomerase I (Top1), both directly and indirectly. Direct covalent complex formation between the CrA-PdG adduct and Top1 is detectable after reduction with sodium cyanoborohydride, which is consistent with the formation of a Schiff base between Top1 and the ring open aldehyde form of the adduct. In addition, we show that the CrA-PdG adduct alters the cleavage and religation activities of Top1. It suppresses Top1 cleavage complexes at the adduct site and induces both reversible and irreversible cleavage complexes adjacent to the CrA-PdG adduct. The formation of stable DNA-Top1 crosslinks and the induction of Top1 cleavage complexes by CrA-PdG are mutually exclusive. Lastly, ...  crotonaldehyde induces the formation of DNA-Top1 complexes in mammalian cells, which suggests a potential relationship between formation of DNA-Top1 crosslinks and the mutagenic and carcinogenic properties of crotonaldehyde."
+        },
+        {
+            "References": "PMID:17543575",
+            "Value": "/GENOTOXICITY/ Genotoxicity of crotonaldehyde was evaluated by employing bone marrow and spermatocyte chromosomal aberration and dominant lethal mutation assays in Swiss albino mice. For bone marrow chromosomal aberration assay, animals were treated with 0.2 mL olive oil containing 8, 16 and 32 uL per kg bw of crotonaldehyde for 6, 12 and 24 hr through single intraperitoneal injection. Treatment induced dose-dependent and statistically significant decrease in mitotic index and increase in chromosome aberrations per cell (CAs/cell excluding gaps and stickiness and pulverizations) and percent aberrant metaphase (excluding gaps) in the bone marrow cells at 6, 12 and 24 hr after treatment. For spermatocyte chromosomal aberration assay, male mice were treated with 8, 16 and 32 uL/kg bw of crotonaldehyde for 24 hr through single intraperitoneal injection. The percentage of the induced chromosome aberrations in diakinesis-metaphase-I cells showed dose-dependent increase. For dominant lethal mutation assay, adult male mice were injected intraperitoneally with 0.2 mL olive oil containing crotonaldehyde at the rate of 8, 16 and 32 uL/kg bw for 5 consecutive days. The negative control animals received 0.2 mL olive oil as above. In the dominant lethal mutation assay after the last dose, the treated males were allowed to mate with untreated virgin females. The mating continued for 5 consecutive weeks. At pregnancy Days 14-16, the females were killed and uterine contents were examined for live and dead implants. Treatment of mice resulted in statistically significant decrease in the fertility indices and total number of implants per female. Statistically significant decrease in the number of live implants per female and increase in the number of dead implants per female were recorded in females mated with males during 8-14, 15-21 and 22-28 Days post-treatment mating. Crotonaldehyde treatment of males induced appreciably higher frequencies of dominant lethal mutation during 8-14, 15-21 and 22-28 Days post-treatment mating periods. Percent dominant lethal mutation increased concomitantly with the dose. Dominant lethality was maximum in females mated with males treated with 5x32 uL/kg bw during the 15-21 Days post-treatment mating."
+        },
+        {
+            "References": "PMID:16820187",
+            "Value": "/GENOTOXICITY/ A rapid screening assay to detect chemically-induced DNA damage resulting from exposure of surrogate DNA to genotoxic compounds is reported. This assay is based on changes in the melting and annealing behavior observed for damaged DNA. Exposure of calf thymus DNA to genotoxic industrial chemicals reduced the extent to which the DNA annealed as measured using a double strand DNA selective fluorescent indicator dye. Formaldehyde, acrolein, crotonaldehyde and bromoethane showed the most prominent effects ... . The assay response for formaldehyde and crotonaldehyde were measured over the concentration range of 10-100 mM and 50-300 mM, respectively..."
+        },
+        {
+            "References": "PMID:15690339",
+            "Value": "/GENOTOXICITY/ Vinyl chloride and crotonaldehyde are known mutagens and carcinogens that, through their reaction with DNA, form specific deoxyguanosine adducts. To investigate the mutagenic potential of a subset of the possible deoxyguanosine lesions, site-specific adducts of vinyl chloride and crotonaldehyde were synthesized, inserted into a shuttle vector, and replicated in mammalian cells. Mutation yields of the DNA adducts of vinyl chloride and crotonaldehyde were found to be 2% and 5-6%, respectively."
+        },
+        {
+            "References": "PMID:14505656",
+            "Value": "/GENOTOXICITY/ Chemical modification of 2'-deoxyguanosine and DNA by excessive acetaldehyde and crotonaldehyde were significantly accelerated by the presence of histones, which are nuclear proteins very rich in the basic amino acids such as L-arginine and L-lysine, resulting in the smooth and selective formation of the corresponding cyclic 1,N(2)-propanoguanine adducts under physiological conditions. Thus, histones have a very close connection with the genotoxic and carcinogenic effects of these aldehydes."
+        },
+        {
+            "References": "PMID:12813574",
+            "Value": "/GENOTOXICITY/ ... Reactive electrophilic compounds are formed during lipid peroxidation, mainly alpha,beta-unsaturated aldehydes. These compounds yield a number of adducts with DNA. Among them, propeno and substituted propano adducts of deoxyguanosine with malondialdehyde (MDA), acrolein, crotonaldehyde and etheno adducts, resulting from the reactions of DNA bases with epoxy aldehydes, are a very important group of adducts. The epoxy aldehydes are more reactive towards DNA than the parent unsaturated aldehydes. The compounds resulting from lipid peroxidation mostly react with DNA showing both genotoxic and mutagenic action; among them, 4-hydroxynonenal is the most genotoxic, while MDA is the most mutagenic. DNA damage caused by the adducts of lipid peroxidation products with DNA can be removed by the repairing action of glycosylases..."
+        },
+        {
+            "References": "PMID:10837009",
+            "Value": "/GENOTOXICITY/ ... Crotonaldehyde is genotoxic, mutagenic and carcinogenic and forms 1,N(2)-propanodeoxyguanosine adducts as the main DNA adducts. ... A (32)P-post-labeling method /was developed/ for these adducts based on nuclease P1 enrichment and polyethyleneimine-cellulose TLC which allows reliable detection with a detection limit of 3 adducts/10+9 nucleotides, a labeling efficiency of 80-90% and a recovery of 38%. ...This method ... found crotonaldehyde adducts in different organs of Fischer 344 rats after a single gavage of high doses of 300 and 200 mg/kg body wt in the range 0.3-3.2 +/- 0.4 adducts/10+8 nucleotides and after repeated gavage of low doses of 10 and 1 mg/kg body wt (five times a week for 6 weeks) 6.2 +/- 0.2 and 2.0 +/- 0.4 adducts/10+8 nucleotides, but not in untreated animals nor in calf thymus DNA not treated with crotonaldehyde. In contrast to /these/ results, Chung and co-workers found adducts in tissue of untreated Fischer 344 rats. This discrepancy could depend on the different methods used but also on differences in exposure of the animals via food or due to animal housing, etc."
+        },
+        {
+            "References": "PMID:3552648",
+            "Value": "/GENOTOXICITY/ The ... studies were undertaken to test the mutagenicity and toxicity of two novel alpha,beta-unsaturated aldehydes, specifically trans, trans-muconaldehyde and trans-4-hydroxynonenal, and to re-examine the mutagenicity of crotonaldehyde. ... Compounds were tested in S. typhimurium strain TA 100 using a 30-min liquid preincubation procedure. The present mutagenicity studies indicate that these alpha, beta-unsaturated aldehydes at first appear to be mutagenic, although only at concentrations which decrease survival counts, and result in a disappearance of the bacterial lawn. The colonies observed on mutagenicity test plates are not mutants but rather pin point survivors."
+        },
+        {
+            "References": "PMID:2676526",
+            "Value": "/GENOTOXICITY/ The mutagenicity of crotonaldehyde in Salmonella typhimurium TA100 cannot be demonstrated in the standard plate incorporation assay. However, ...  this alpha,beta-unsaturated aldehyde is clearly mutagenic in the liquid assay modification of this testing procedure. ... This study confirms that this compound is clearly a direct (without activation by mammalian microsomes)-acting mutagen in S. typhimurium TA100 under appropriate conditions in the preincubation assay. The observed mutagenicity is increased by extended preincubation time and increased bacterial cell densities."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5:1019",
+            "Value": "/GENOTOXICITY/ When administered to Drosophila melanogaster, crotonaldehyde was clastogenic and produced sex-linked recessive lethal mutations and reciprocal translocations..."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5:1019",
+            "Value": "/GENOTOXICITY/ ... Crotonaldehyde reacts with deoxyguanosine and forms DNA adducts in CHO cells, rat primary hepatocytes, ... ."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5:1019",
+            "Value": "/GENOTOXICITY/ ...Crotonaldehyde has been proven mutagenic without metabolic activation. It can modify DNA by forming cyclic 1,N2-propanodeoxyguanosine adducts and can also induce micronuclei production and sister chromatid exchange..."
+        },
+        {
+            "References": "PMID:23046928",
+            "Value": "/GENOTOXICITY/ AIM: To investigate the effect of overexpressing rat aldo-keto reductases (AKR7A1) in V79-4 cells on crotonaldehyde-induced mutagenicity.  METHODS: The expression level and enzyme activity of AKR7A1 protein expressed in V79-4 cells were measured by Western blotting and AKR enzyme assay, respectively. HGPRT assay was applied to evaluate the effect of AKR7A1 overexpression on crotonaldehyde-induced mutagenicity in V79-4 cells.  RESULTS: Western blotting confirmed a high expression level of AKR7A1 protein in V79-4 cells. AKR enzyme assay showed that the overexpressed AKR7A1 protein was functionally active. HGPRT assay demonstrated that cells overexpressing AKR7A1 exhibited a significant increase in resistance to crotonaldehyde-induced mutagenicity compared to control cells. CONCLUSION: Overexpression of AKR7A1 can protect V79-4 cells against crotonaldehyde-induced mutagenicity."
+        },
+        {
+            "References": "PMID:23238235",
+            "Value": "/GENOTOXICITY/ The human diet is an important factor in the development of different diseases. Lipid peroxidation during frying in edible vegetable liquid oils of food components is a mechanism leading to the formation of free radicals. Such radicals induce tissue damage and are implicated in diverse pathological conditions, including aging, atherosclerosis, brain disorders, cancer, lung disorders and various liver disorders. In the present study, we decided to investigate the genotoxic effects of four lipid peroxidation products in the in vivo Drosophila wing somatic mutation and recombination test. In this test, point mutation, chromosome breakage and mitotic recombination produce single spots; while twin spots are produced only by mitotic recombination. Drosophila is a suitable eukaryotic organism for mutagenicity studies and also its metabolism is quite similar to that of mammalians. Since conflicting data exist on the possible risk of several lipid peroxidation products for humans, we have selected four of them, namely acrolein, crotonaldehyde, 4-hydroxy-hexenal (4-HHE) and 4-oxo-2-nonenal (4-ONE). Especially at the highest concentrations tested all exert both mutagenic and recombinogenic effects in the Drosophila SMART assay, showing a direct dose-effect relationship. ..."
+        },
+        {
+            "References": "PMID:17042508",
+            "Value": "/GENOTOXICITY/ The repair of acetaldehyde/crotonaldehyde-induced guanine (N2)-guanine (N2) interstrand cross-links (ICLs), 3-(2-deoxyribos-1-yl)-5,6,7,8-(N2-deoxyguanosyl)-6(R or S)-methylpyrimido[1,2-alpha]purine-10(3H)-one, was studied using a shuttle plasmid bearing a site-specific ICL. Since the authentic ICLs can revert to monoadducts, a chemically stable model ICL, 1,3-bis(2'-deoxyguanos-N2-yl)butane derivative, was also employed to probe the ICL repair mechanism. Since the removal of ICL depends on the nucleotide excision repair (NER) mechanism in Escherichia coli, the plasmid bearing the model ICL failed to yield transformants in NER-deficient host cells, proving the stability of this ICL in cells. The authentic ICLs yielded transformants in the NER-deficient hosts; therefore, these transformants are produced by plasmid bearing spontaneously reverted monoadducts. In contrast, in NER-deficient human cells, the model ICL was removed by an NER-independent repair pathway, which is unique to higher eukaryotes. This repair did not associate with a transcriptional event, but with replication. The analysis of repaired molecules revealed that the authentic and model ICLs were repaired mostly (>94%) in an error-free manner in both hosts. The major mutations that were observed were G --> T transversions targeting the cross-linked dG located in the lagging strand template. These results support one of the current models for the mammalian NER-independent ICL repair mechanism, in which a DNA endonuclease(s) unhooks an ICL from the leading strand template at a stalled replication fork site by incising on both sides of the ICL and then translesion synthesis is conducted across the \"half-excised\" ICL attached to the lagging strand template to restore DNA synthesis."
+        },
+        {
+            "References": "PMID:2225341",
+            "Value": "/GENOTOXICITY-DNA ADDUCTS/ ... This study used immunoassay and 32P-postlabeling methods to determine if acrolein and crotonaldehyde form these adducts in cultured mammalian cells. Adduct levels were highest in Chinese hamster ovary cells exposed to acrolein (1 mM) with 162 umol adduct/mol deoxyguanosine. Crotonaldehyde (10 mM) formed adduct at a level of 75 umol/mol deoxyguanosine. 32P-Postlabeling analysis confirmed the presence of adducts in crotonaldehyde-treated cells. Persistence studies showed that adduct levels were unchanged if the cells were cultured for 6 hr before DNA isolation. Mutagenicity studies were performed to determine the biological consequences of these adducts. Mutations were not observed due to the toxicity of the compounds."
+        },
+        {
+            "References": "PMID:1860170",
+            "Value": "/GENOTOXICITY-DNA ADDUCTS/ ... Adducts /were/ found in DNA isolated from peripheral blood lymphocytes obtained from a dog 1 hr after receiving a therapeutic dose of 6.6 mg/kg of cyclophosphamide. This study /identified/ the presence of acrolein and crotonaldehyde DNA adducts."
+        },
+        {
+            "References": "PMID:17319283",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Growing evidence documents oxidative stress involvement in amyotrophic lateral sclerosis (ALS). ... Accumulation of a protein-bound form of ... crotonaldehyde (CRA) in the spinal cord of sporadic ALS patients /was previously demonstrated/. In the present study, to determine the role for CRA in the disease processes of superoxide dismutase-1 (SOD1) mutation-associated familial ALS (FALS), ... immunohistochemical and semi-quantitative cell count analyses of protein-bound CRA (P-CRA) in the spinal cord of SOD1-mutated FALS and its transgenic mouse model /was performed/. ... In the transgenic mice, P-CRA immunoreactivity was localized in only a few ventral horn glia in the presymptomatic stage, in almost all of the vacuolated motor neurons and cordlike swollen axons and some of the ventral horn reactive astrocytes and microglia in the onset stage, and in many of the ventral horn reactive astrocytes and microglia in the advanced stage. Cell count analysis on mouse spinal cord sections disclosed a statistically significant increase in the density of P-CRA-immunoreactive glia in the ventral horns of the young to old G93A mice compared to the age-matched control mice. The present results indicate that enhanced CRA formation occurs in motor neurons and reactive glia in the spinal cord of SOD1-mutated FALS and its transgenic mouse model as well as sporadic ALS, suggesting implications for CRA in the pathomechanism common to these forms of ALS."
+        },
+        {
+            "References": "PMID:5554885",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/  Investigations of ciliostatic effect of aldehydes are of special interest since many have irritating effect on tracheal mucosa. Comparison of ciliostatic effect showed formaldehyde to be most toxic followed by acetaldehyde and acrolein. Crotonaldehyde and methacrolein showed weakest effect. The in vitro technique used for observing tracheal ciliary activity."
+        },
+        {
+            "References": "PMID:7429629",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ The in vitro effects of water soluble fraction of whole cigarette smoke and crotonaldehyde on polymorphonuclear leukocyte (PMNL) adherence were determined with nylon fiber columns. It caused a dose-dependent inhibition of PMNL adherence. However, approximately 5-fold higher concentrations of these agents were necessary to inhibit adherence as compared with those necessary to achieve the same level of inhibition of PMNL chemotaxis."
+        },
+        {
+            "References": "PMID:5799505",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ A series of aldehydes of varying protein crosslinking strengths were tested on intact and internally perfused crayfish axons. Strong crosslinking compounds such as crotonaldehyde, widened the action potential significantly while reducing its amplitude."
+        },
+        {
+            "References": "Holmberg B, Malmfors T; Environ Res 7 (2): 183-92 (1974)",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Of 33 organic solvents tested for cytotoxicity using Ehrlich-Landschultz diploid (ELD) ascites tumor cells, crotonicaldehyde and others were most toxic during short-term in vitro incubations. After crotonic aldehyde-treated ELD cultures were reinoculated ip in mice, the body weight of the animals increased up to max of 20 days post-inoculation, and then decreased resulting from a general cachexia preceding cell death."
+        },
+        {
+            "References": "PMID:7089984",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ The ciliotoxicity of 316 individual compounds representative of the gaseous and semivolatile phases of tobacco smoke was investigated using chicken tracheal organ cultures. When examined at 5 mmolar concentrations and measuring the time to complete ciliostasis, crotonaldehyde was a potent inhibitor of the ciliary activity at 5 min."
+        },
+        {
+            "References": "PMID:3103627",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ ... /Sprague-Dawley/ rat hepatic microsomes were incubated with the aldehydes, and enzyme activity was assayed. Spectrophotometric results indicate that treatment with acrolein, crotonaldehyde, and trans,trans-muconaldehyde decreased cytochrome P450. ... Nicotinamide adenine dinucleotide phosphate cytochrome-c activity was decreased by 40 and 50%, respectively, by acrolein (0.5 millimolar (mM) and trans,trans-muconaldehyde (0.5 mM), whereas this activity was decreased by only 25% by a ten-fold greater concentration of crotonaldehyde. ..."
+        },
+        {
+            "References": "PMID:3030333",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ A study was performed to evaluate whether pulmonary alveolar macrophages are susceptible to inhibition of superoxide anion radical production by reactive aldehydes, and whether such an effect is produced by interaction with membrane sulfhydryl groups. Pulmonary alveolar macrophages were isolated from female Sprague-Dawley rats, and polymorphonuclear leukocytes were isolated from healthy human volunteers. Aldehydes tested included acrolein, muconaldehyde, 4-hydroxynonenal, crotoaldehyde, and propionaldehyde. There was a dose-related decrease in surface sulfhydryls and soluble sulfhydryls in polymorphonuclear leukocytes and pulmonary alveolar macrophages after treatment with acrolein and crotonaldehyde. ..."
+        },
+        {
+            "References": "Dalhamn T, Rosengren A; Arch Otolarygol 93 (5): 496-500 (1971)",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ The ciliotoxicity of formaldehyde, acrolein, acetaldehyde, crotonaldehyde, and methacrolein on tracheal mucosa was investigated. Tracheas were exposed in vitro to five different concentrations of each substance. Ciliary activity after exposure was compared to that measured before exposure. Aerosols of the test substances, designed to simulate cigarette smoke, were passed over tracheal tissue in an observation chamber. ... The concentration of the irritant was the primary factor affecting its effect. ... A marked increase in formaldehyde toxicity was achieved with only a slight increase in concentration, while toxicity of acetaldehyde and acrolein increased more slowly with increasing concentration. Crotonaldehyde and methacrolein toxicity increased least with increasing concentration ... ."
+        },
+        {
+            "References": "PMID:12396875",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Thirteen chemicals present in tobacco smoke were assessed for their effect on viability and proliferation of mouse lymphocytes in vitro. Acetaldehyde, benzene, butyraldehyde, isoprene, styrene, and toluene produced no effect on either viability or proliferation after 3 hr of exposure. Formaldehyde, catechol, acrylonitrile, propionaldehyde, and hydroquinone significantly inhibited T-lymphocyte and B-lymphocyte proliferation with IC50 values ranging from 1.19x10(-5) M to 8.20x10(-4) M after 3 hr of exposure. Acrolein and crotonaldehyde not only inhibited T-cell and B-cell proliferation, but also acted on viability with IC50 values ranging from 2.06x10-5 M to 4.26x10-5 M. Mixtures of acrolein, formaldehyde, and propionaldehyde or crotonaldehyde were tested and interactive effects at 0.5 and 1 x IC50 were observed. Two mixtures significantly inhibited T-cell proliferation when compared to the control at 0.1 x IC50 concentration. The present study shows that some chemicals known to be present in tobacco smoke exert an effect on lymphocyte viability and proliferation in vitro."
+        },
+        {
+            "References": "PMID:10626216",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ alpha-Acetoxy-N-nitrosopyrrolidine (alpha-acetoxyNPYR) is a stable precursor to alpha-hydroxyNPYR, the initial product of metabolism and proposed proximate carcinogen of NPYR. Crotonaldehyde (2-butenal) is a metabolite of NPYR and also a mutagen and carcinogen. Both alpha-acetoxyNPYR and crotonaldehyde are known to form DNA adducts, but these reactions have not been completely characterized. ... Previous studies ...detected substantial amounts of unidentified radioactivity in hydrolysates of DNA that had been reacted with radiolabelled alpha-acetoxyNPYR. ... These products /have been characterized/ as 2-hydroxytetrahydrofuran, the cyclic form of 4-hydroxybutanal, and paraldol, the dimer of 3-hydroxybutanal. They were characterized by comparison with standards and by comparison of their derived 2,4-dinitrophenylhydrazones with standards. (3H)H2O was also identified. 2-Hydroxytetrahydrofuran is the major product in neutral thermal hydrolysates of alpha-acetoxyNPYR-treated DNA and is derived predominantly from N2-(tetrahydrofuran-2-yl)deoxyguanosine 8. Paraldol is present to a lesser extent than 2-hydroxytetrahydrofuran in these reactions and is formed from paraldol-releasing adducts, which in turn are produced by the reaction of crotonaldehyde or paraldol, solvolysis products of alpha-acetoxyNPYR, with DNA. Paraldol is a major product in hydrolysates of crotonaldehyde-treated DNA, being present in amounts 100 times greater than those of previously identified adducts."
+        },
+        {
+            "References": "PMID:8564951",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ ... This study ... examined a variety of tissues from untreated rats and mice (lung, kidney, brain, breast, prostate, colon, skin, and leukocytes) and detected AdG and CdG in the DNA of these tissues. More significantly, ... evidence for the presence of these adducts in the DNA of human leukocytes and mammary glands. The identities of these adducts were verified by comigration of 3', 5'-bisphosphates of the (32)P-labeled adduct from DNA with the synthetic standards in a reversed-phased high-performance liquid chromatography. Additional proof of identities was provided by enzymatic conversion of AdG and CdG 3',5'-bisphosphates to the corresponding 5'-monophosphates, followed by comigration with their synthetic standards. The estimated ranges of total AdG and CdG modifications in DNA of various tissues were from 0.10 to 1.60 mumol/mol guanine for humans, based on the recoveries of external standards. This study demonstrated the ubiquity of these adducts in various tissues."
+        },
+        {
+            "References": "PMID:23000924",
+            "Value": "/IMMUNOTOXICITY/ Crotonaldehyde, a highly toxic a, b-unsaturated aldehyde, is a major component of cigarette smoke (CS) and a ubiquitous environmental pollutant. Exposure to crotonaldehyde-rich pollutants such as CS is associated with suppression of respiratory host defense against infections. The aim of this study was to evaluate the apoptotic and immunological effects of crotonaldehyde exposure in a rat alveolar macrophage (AM) cell line, NR8383. Our studies showed that crotonaldehyde induced AM cell death mainly via the apoptotic process. Crotonaldehyde also decreased the phagocytic activity of AMs. Crotonaldehyde caused inhibition of NO, TNF-a, IL-1b and IL-12 production in AMs treated with lipopolysaccharide (LPS), which is probably related to inhibition of NF-kappaB activation. These results indicate that crotonaldehyde can cause adverse effects in AMs via multiple mechanisms, and may contribute to compromised lung immunological response in smokers."
+        },
+        {
+            "References": "PMID:26580244",
+            "Value": "/OTHER TOXICITY INFORMATION/ The Texas Commission on Environmental Quality (TCEQ) conducted a chronic inhalation non-cancer toxicity assessment for crotonaldehyde (CRO). Since there were limited toxicity data for CRO, a reference value (ReV) was derived using a relative potency factor (RPF) approach with acrolein as the index chemical. Both CRO and acrolein are a,b-unsaturated carbonyls and share common steps in their mode of action (MOA). Only studies that investigated the effects of CRO and acrolein in the same study were used to calculate a CRO:acrolein RPF. In vivo findings measuring both 50% respiratory depression in rats and two species of mice and subcutaneous 50% lethality in rats and mice were used to calculate an RPF of 3 (rounded to one significant figure). In vitro data were useful to compare the MOA of CRO and acrolein and to support the RPF determined using in vivo data. In vitro cell culture studies investigating cytotoxicity in normal human lung fibroblast cultures using the propidium iodide cytotoxicity assay and in mouse lymphocyte cultures using the 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) cytotoxicity assay were used to calculate an in vitro RPF of 3, which supports the in vivo RPF. The chronic ReV for acrolein of 1.2 ppb derived by TCEQ was multiplied by the RPF of 3 to calculate the ReV for CRO of 3.6 ppb (10 ug/cu m). The ReV for CRO was developed to protect the general public from adverse health effects from chronic exposure to CRO in ambient air."
+        },
+        {
+            "References": "ATSDR; Medical Management Guidelines for Crotonaldehyde (C4H6O) Available from, as of December 18, 2017: https://www.atsdr.cdc.gov/mmg/mmg.asp?id=947&tid=197",
+            "Value": "/OTHER TOXICITY INFORMATION/ In animal studies, ingestion has led to systemic toxicity."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Jan 16, 2018: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of crotonaldehyde can be estimated to be 2(SRC). According to a classification scheme(2), this estimated Koc value suggests that crotonaldehyde is expected to have very high mobility in soil."
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "6692710e303528b49832d7bf"
+    },
+    "CID": {
+        "$numberInt": "11057755"
+    },
+    "Name": "Flumorph",
+    "IUPACName": "(E)-3-(3,4-dimethoxyphenyl)-3-(4-fluorophenyl)-1-morpholin-4-ylprop-2-en-1-one",
+    "CanonicalSMILES": "COC1=C(C=C(C=C1)C(=CC(=O)N2CCOCC2)C3=CC=C(C=C3)F)OC",
+    "Synonyms": [
+        "Flumorph",
+        "211867-47-9",
+        "3-(3,4-Dimethoxyphenyl)-3-(4-fluorophenyl)-1-morpholinoprop-2-en-1-one",
+        "(E)-flumorph",
+        "Flumorph 100 microg/mL in Acetonitrile",
+        "3-(3,4-dimethoxyphenyl)-3-(4-fluorophenyl)-1-morpholin-4-ylprop-2-en-1-one",
+        "Morpholine,4-[3-(3,4-dimethoxyphenyl)-3-(4-fluorophenyl)-1-oxo-2-propenyl]-",
+        "Flumorph [ISO]",
+        "AV4LX5WS5P",
+        "SYP-L190",
+        "UNII-AV4LX5WS5P",
+        "CCRIS 9057",
+        "SCHEMBL1389289",
+        "CHEBI:83428",
+        "CHEBI:83430"
+    ],
+    "IsomericSMILES": "COC1=C(C=C(C=C1)/C(=C/C(=O)N2CCOCC2)/C3=CC=C(C=C3)F)OC",
+    "INCHI": "InChI=1S/C21H22FNO4/c1-25-19-8-5-16(13-20(19)26-2)18(15-3-6-17(22)7-4-15)14-21(24)23-9-11-27-12-10-23/h3-8,13-14H,9-12H2,1-2H3/b18-14+",
+    "INCHIKEY": "BKBSMMUEEAWFRX-NBVRZTHBSA-N",
+    "Formula": "C21H22FNO4",
+    "MolecularWeight": {
+        "$numberDouble": "371.4"
+    },
+    "Description": "Flumorph is a mixture comprising approximately equal amounts of (E)- and (Z)-fluomorph. It is used as an agrochemical fungicide for the control oomcyetes such as downey mildew on vegetables and grapes. It has a role as an antifungal agrochemical. It is a mixture and a morpholine fungicide. It contains a (Z)-flumorph and an (E)-flumorph.",
+    "XlogP": {
+        "$numberDouble": "3.4"
+    },
+    "Complexity": {
+        "$numberInt": "512"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The absorption, transmission, and distribution behavior and mechanism of flumorpholine in cucumber plants were studied using bioassay techniques and high-performance liquid chromatography. The results showed that flumorpholine can be passively absorbed by cucumber plants and transmitted and distributed in vivo through the xylem",
+            "reference": "Shu-Sheng, Z., **-Li, L., Jian-Qiang, L., & Nai-Guo, S. (2006). Uptake and translocation behavior of new fungicide flumorph in cucumber plant. CHEMICAL JOURNAL OF CHINESE UNIVERSITIES-CHINESE, 27(10), 1887-1890.",
+            "method": {
+                "Test Plant": "Cucumber (Cucumis sativus L.)",
+                "Apply Location": "Foliar application on detached leaves and root and leaf application on live plants",
+                "Plant Grown Condition": "Plants were grown in a growth chamber at 100% humidity, 19\u00b0C, and 12-hour light-dark cycles for 7 days after inoculation with cucumber downy mildew fungus using the drop method",
+                "Chemical Preparation": "Different concentrations of flumorph (100, 150, and 200g/mL) and control fungicides metalaxyl (systemic fungicide) and mancozeb (non-systemic fungicide) were used for root immersion of cucumber plants in groups of five plants each.",
+                "Pesticide Application Details for the Plant": ": flumorph and control fungicides with bidirectional activity were sprayed on the leaves of cucumber plants at concentrations of 500 and 1000g/mL after they reached the three-leaf stage. In another set of plants at the three-leaf stage, flumorph and control fungicides were sprayed on the second leaf at concentrations of 100, 200, and 300g/mL, respectively. Samples were taken at different time points for each treatment.",
+                "Other Information": "Each treatment step was repeated three times."
+            },
+            "result": "[{\"Time (hours)\": 4, \"Concentration (\\u03bcg/ml)\": 100, \"Steam (ug/mg)\": 10, \"Leaf (ug/mg)\": 0}, {\"Time (hours)\": 4, \"Concentration (\\u03bcg/ml)\": 150, \"Steam (ug/mg)\": 50, \"Leaf (ug/mg)\": 10}, {\"Time (hours)\": 4, \"Concentration (\\u03bcg/ml)\": 200, \"Steam (ug/mg)\": 50, \"Leaf (ug/mg)\": 20}, {\"Time (hours)\": 8, \"Concentration (\\u03bcg/ml)\": 100, \"Steam (ug/mg)\": 20, \"Leaf (ug/mg)\": 25}, {\"Time (hours)\": 8, \"Concentration (\\u03bcg/ml)\": 150, \"Steam (ug/mg)\": 100, \"Leaf (ug/mg)\": 95}, {\"Time (hours)\": 8, \"Concentration (\\u03bcg/ml)\": 200, \"Steam (ug/mg)\": 90, \"Leaf (ug/mg)\": 80}, {\"Time (hours)\": 16, \"Concentration (\\u03bcg/ml)\": 100, \"Steam (ug/mg)\": 30, \"Leaf (ug/mg)\": 60}, {\"Time (hours)\": 16, \"Concentration (\\u03bcg/ml)\": 150, \"Steam (ug/mg)\": 100, \"Leaf (ug/mg)\": 180}, {\"Time (hours)\": 16, \"Concentration (\\u03bcg/ml)\": 200, \"Steam (ug/mg)\": 100, \"Leaf (ug/mg)\": 180}, {\"Time (hours)\": 24, \"Concentration (\\u03bcg/ml)\": 100, \"Steam (ug/mg)\": 30, \"Leaf (ug/mg)\": 100}, {\"Time (hours)\": 24, \"Concentration (\\u03bcg/ml)\": 150, \"Steam (ug/mg)\": 110, \"Leaf (ug/mg)\": 250}, {\"Time (hours)\": 24, \"Concentration (\\u03bcg/ml)\": 200, \"Steam (ug/mg)\": 100, \"Leaf (ug/mg)\": 380}, {\"Time (hours)\": 36, \"Concentration (\\u03bcg/ml)\": 100, \"Steam (ug/mg)\": 30, \"Leaf (ug/mg)\": 150}, {\"Time (hours)\": 36, \"Concentration (\\u03bcg/ml)\": 150, \"Steam (ug/mg)\": 150, \"Leaf (ug/mg)\": 300}, {\"Time (hours)\": 36, \"Concentration (\\u03bcg/ml)\": 200, \"Steam (ug/mg)\": 150, \"Leaf (ug/mg)\": 410}, {\"Time (hours)\": 48, \"Concentration (\\u03bcg/ml)\": 100, \"Steam (ug/mg)\": 30, \"Leaf (ug/mg)\": 200}, {\"Time (hours)\": 48, \"Concentration (\\u03bcg/ml)\": 150, \"Steam (ug/mg)\": 150, \"Leaf (ug/mg)\": 400}, {\"Time (hours)\": 48, \"Concentration (\\u03bcg/ml)\": 200, \"Steam (ug/mg)\": 180, \"Leaf (ug/mg)\": 700}]"
+        }
+    ]
+}

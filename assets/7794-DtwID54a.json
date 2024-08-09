@@ -1,0 +1,121 @@
+{
+    "_id": {
+        "$oid": "6682e88ec4e5dba5ffba262d"
+    },
+    "CID": {
+        "$numberInt": "7794"
+    },
+    "Name": "CITRONELLAL",
+    "IUPACName": "3,7-dimethyloct-6-enal",
+    "CanonicalSMILES": "CC(CCC=C(C)C)CC=O",
+    "Synonyms": [
+        "CITRONELLAL",
+        "106-23-0",
+        "3,7-Dimethyloct-6-enal",
+        "3,7-Dimethyl-6-octenal",
+        "Rhodinal",
+        "2,3-Dihydrocitral",
+        "6-Octenal",
+        "3,7-dimethyl-",
+        "Citronellel",
+        "(+/-)-Citronellal",
+        "beta-Citronellal",
+        "Citronella",
+        "3,7-Dimethyl-6-octen-1-al",
+        "8000-29-1",
+        "D-Rhodinal",
+        "CITRONELLOL,(D)"
+    ],
+    "IsomericSMILES": "CC(CCC=C(C)C)CC=O",
+    "INCHI": "InChI=1S/C10H18O/c1-9(2)5-4-6-10(3)7-8-11/h5,8,10H,4,6-7H2,1-3H3",
+    "INCHIKEY": "NEHNMFOYXAPHSD-UHFFFAOYSA-N",
+    "Formula": "C10H18O",
+    "MolecularWeight": {
+        "$numberDouble": "154.25"
+    },
+    "Description": "Citronellal is a monoterpenoid, the main component of citronella oil which gives it its distinctive lemon aroma. It has a role as a metabolite and an antifungal agent. It is a monoterpenoid and an aldehyde.",
+    "XlogP": {
+        "$numberDouble": "3"
+    },
+    "Complexity": {
+        "$numberInt": "132"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Citronellal. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of July 7, 2015: https://www.ars-grin.gov/duke/",
+            "Value": "Citronellal detections in various plants(1).",
+            "Table": "[{'Genus species': 'Citrus limon (L.)', 'Family': 'Rutaceae', 'Common name': 'Lemon', 'Part': 'Leaf Essent. Oil', 'Concn (ppm)': '89,000'}, {'Genus species': 'Eucalyptus citriodora', 'Family': 'Myrtaceae', 'Common name': 'Citron-Scented Gum, Lemon Eucalyptus, Lemon-Scented Gum, Spotted Gum', 'Part': 'Leaf', 'Concn (ppm)': '18,020'}, {'Genus species': 'Cymbopogon winterianus', 'Family': 'Poaceae', 'Common name': 'Java Citronella, Mahapengiri', 'Part': 'Plant', 'Concn (ppm)': '2,289'}, {'Genus species': 'Hedeoma drummondii', 'Family': 'Lamiaceae', 'Common name': \"Drummond's Pennyroyal\", 'Part': 'Plant', 'Concn (ppm)': '2,180'}, {'Genus species': 'Melissa officinalis L.', 'Family': 'Lamiaceae', 'Common name': 'Balm, Bee Balm, Lemonbalm, Melissa', 'Part': 'Shoot', 'Concn (ppm)': '18'}, {'Genus species': 'Juniperus communis L.', 'Family': 'Cupressaceae', 'Common name': 'Common Juniper, Juniper', 'Part': 'Fruit', 'Concn (ppm)': '160'}, {'Genus species': 'Zingiber officinale', 'Family': 'Zingiberaceae', 'Common name': 'Ginger', 'Part': 'Rhizome', 'Concn (ppm)': '145'}, {'Genus species': 'Citrus aurantiifolia', 'Family': 'Rutaceae', 'Common name': 'Lime', 'Part': 'Fruit', 'Concn (ppm)': '140'}, {'Genus species': 'Citrus sinensis (L.)', 'Family': 'Rutaceae', 'Common name': 'Orange', 'Part': 'Fruit', 'Concn (ppm)': '55'}, {'Genus species': 'Teucrium cyprium', 'Family': 'Lamiaceae', 'Common name': \"'Cyprus' Germander\", 'Part': 'Leaf', 'Concn (ppm)': '0-80'}, {'Genus species': 'Citrus reticulata', 'Family': 'Rutaceae', 'Common name': 'Mandarin, Tangerine', 'Part': 'Fruit', 'Concn (ppm)': '20'}, {'Genus species': 'Satureja parvifolia', 'Family': 'Lamiaceae', 'Common name': 'Small-Leaf Pampa Savory', 'Part': 'Shoot', 'Concn (ppm)': '0-15'}, {'Genus species': 'Lavandula latifolia', 'Family': 'Lamiaceae', 'Common name': 'Aspic, Broad-Leaved Lavender, Spike Lavender', 'Part': 'Plant', 'Concn (ppm)': '7'}, {'Genus species': 'Satureja odora', 'Family': 'Lamiaceae', 'Common name': 'Scented Pampa Savory', 'Part': 'Shoot', 'Concn (ppm)': '0-10'}, {'Genus species': 'Thymus x citriodorus', 'Family': 'Lamiaceae', 'Common name': \"Funk's thyme, Lemon Thyme\", 'Part': 'Plant', 'Concn (ppm)': '0-10'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Griffin S et al; Environ Health Perspect 107: 481-7 (1999) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Jul 7, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm/ (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 160 was calculated in fish for citronellal(SRC), using a log Kow of 3.83(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is high(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) ECHA; Registered Substances. Citronellal 106-23-0. Full; Joint Submission. European Chemicals Agency. Available from as of July 7, 2015: https://www.echa.europa.eu/information-on-chemicals/registered-substances",
+            "Value": "AEROBIC: Citronellal, present at 26 mg/L in activated sewage sludge, achieved 83% biodegradation in 29 days using a Modified Sturm test measuring carbon dioxide evolution and is considered readily biodegradable(1)."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Opdyke, D.L.J. (ed.). Monographs on Fragrance Raw Materials. New York: Pergamon Press, 1979., p. 233",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Citronellal applied full strength to intact or abraded rabbit skin for 24 hr under occlusion was moderately irritating."
+        },
+        {
+            "References": "PMID:23795810",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Citronellal is a monoterpene present in the oil of many species, including Cymbopogon winterianus Jowitt (Poaceae). The present study investigated the effect of citronellal on inflammatory nociception induced by different stimuli and examined the involvement of the NO-cGMP-ATP-sensitive K+ channel pathway. This study used male Swiss mice (n=6 per group) that were treated intraperitoneally with citronellal(25, 50 or 100 mg/kg) 0.5 hr after the subplantar injection of 20 uL of carrageenan (CG; 30 ug/paw), tumor necrosis factor-alpha (TNF-a; 100 pg/paw), prostaglandin E2 (PGE2; 100 ng/paw) or dopamine (DA; 30 ug/paw). The mechanical nociception was evaluated at 0.5, 1, 2 and 3 hr after the injection of the agents, using a digital analgesimeter (von Frey). The effects of citronellal were also evaluated in the presence of L-NAME (30 mg/kg) or glibenclamide (5 mg/kg). At all times, citronellal in all doses inhibited the development of mechanical nociception induced by CG (p<0.001 and p<0.01) and TNF-a (p<0.001, p<0.01, and p<0.05). The citronellal was able to increase the pain threshold in the DA test (p<0.001, p<0.01, and p<0.05) and in the PGE2 test at all times (p<0.001 and p<0.05). L-NAME and glibenclamide reversed the antinociceptive effects of the citronellal at higher doses in the PGE2 test. These data suggest that citronellal attenuated mechanical nociception, mediated in part by the NO-cGMP-ATP-sensitive K+ channel pathway."
+        },
+        {
+            "References": "ABRAMOVICI A; ADV EXP MED BIOL 27 161 (1972)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Citronellal injected into white leghorn embryos caused dose-dependent teratogenesis. Morphological malformation occurred mainly in the craniofacial area."
+        },
+        {
+            "References": "PMID:20664833",
+            "Value": "/BEHAVIORAL STUDIES/ To evaluate the antinociceptive effects of citronellal (CTL) on formalin-, capsaicin-, and glutamate-induced orofacial nociception in mice and to investigate whether such effects might involve a change in neural excitability, male mice were pretreated with CTL (50, 100, and 200 mg/kg, ip), morphine (5 mg/kg, ip), or vehicle (distilled water plus one drop of Tween 80 0.2%) before formalin (20 microL, 2%), capsaicin (20 microL, 2.5 microg) or glutamate (40 microL, 25 microM) injection into the right vibrissa. Sciatic nerve recordings were made using the single sucrose gap technique in rats. The data obtained were analyzed by ANOVA followed by Dunnett's test for the behavioral analyses and by the Student t test for CAP evaluation. Pretreatment with CTL was effective in reducing nociceptive face-rubbing behavior in both phases of the formalin test, which was also naloxone-sensitive. CTL produced significantly antinociceptive effect at all doses in the capsaicin- and glutamate- tests. Rota-rod testing indicated that such results were unlikely to be provoked by motor abnormality. Recordings using the single sucrose gap technique revealed that CTL (10 mM) could reduce the excitability of the isolated sciatic nerve through a diminution of the compound action potential amplitude by about 42.4% from control recordings. These results suggest that CTL might represent an important tool for management and/or treatment of orofacial pain."
+        },
+        {
+            "References": "PMID:9725999",
+            "Value": "/GENOTOXICITY/ The essential oils and their monoterpenoid constituents have been widely used as fragrances in cosmetics, as flavouring food additives, as scenting agents in a variety of household products, as active ingredients in some old drugs, and as intermediates in the synthesis of perfume chemicals. The present study was undertaken to investigate the mutagenic potential of six monoterpenoid compounds: two aldehydes (citral and citronellal), a ketone ((+/-)-camphor), an oxide (1,8-cineole, also known as eucalyptol), and two alcohols (terpineol and (-)-menthol). It is part of a more comprehensive toxicological screening of monoterpenes under way at our laboratory. Mutagenicity was evaluated by the Salmonella/microsome assay (TA97a, TA98, TA100 and TA102 tester strains), without and with addition of an extrinsic metabolic activation system (lyophilized rat liver S9 fraction induced by Aroclor 1254). In all cases, the upper limit of the dose interval tested was either the highest non-toxic dose or the lowest dose of the monoterpene toxic to TA100 strain in the preliminary toxicity test. No mutagenic effect was found with (+/-) camphor, citral, citronellal, 1,8-cineole, and (-) menthol. Terpineol caused a slight but dose-related increase in the number of his+ revertants with TA102 tester strain both without and with addition of S9 mixture. The results from this study therefore suggest that, with the exception of terpineol, the monoterpenoid compounds tested are not mutagenic in the Ames test."
+        },
+        {
+            "References": "PMID:9242356",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Beta-myrcene (MYR) is an acyclic monoterpene found in the essential oils of several useful plants such as lemongrass (Cymbopogon citratus), hop, bay, verbena and others. Recently it has been reported that MYR as well as lemongrass oil blocked the metabolic activation of some promutagens (e.g., cyclophosphamide and aflatoxin B1) in in vitro genotoxicity assays. The present study was performed to evaluate the inhibitory effects of MYR and some other monoterpenoid compounds on microsomal enzymes involved in the activation of genotoxic substances. The effects of MYR and other monoterpenes on the activity of pentoxyresorufin-O-depenthylase (PROD), a selective marker for CYP2B1, was determined in a pool of liver microsomes prepared from phenobarbital-treated rats. The effect of MYR on the activity of ethoxyresorufin-O-deethylase (EROD), a marker for CYP4501A1, was investigated in liver microsomes of untreated rats. Results revealed that MYR had almost no effect on EROD (IC50 > 50 microM), but produced a concentration-dependent inhibition of PROD activity (IC50 =0.14 microM). The analysis of alterations produced by MYR on PROD kinetic parameters (Lineweaver-Burk plot) suggested that inhibition is competitive (Ki = 0.14 microM). The inhibitory effects of seven other monoterpenes on PROD activity (pentoxyresorufin 5 microM) were also studied and the IC50 were as follows: (-)-alpha-pinene, 0.087 microM; (+)-alpha-pinene, 0.089 microM; d-limonene, 0.19 microM; alpha-terpinene, 0.76 microM; citral, 1.19 microM; citronellal, 1.56 microM, and (+/-) camphor, 7.89 microM. The potent inhibitory effects on CYP4502B1 suggest that MYR, and other monoterpenes, interfere with the metabolism of xenobiotics which are substrates for this isoenzyme."
+        },
+        {
+            "References": "PMID:8365149",
+            "Value": "/IMMUNOTOXICITY/ The effect of cyclophosphamide on the adjuvant and 24 hour occlusive patch times 2 (AP2) test was examined. The AP2 test method for detecting contact hypersensitivity in guinea-pigs. Hartley guinea pigs were injected intraperitoneally with 200 mg/kg cyclophosphamide 3 days before performing the AP2 test using the strong skin sensitizers bromostyrol, citronellal, p-phenylenediamine, and formaldehyde and the weak sensitizers benzyl-salicylate and p-aminobenzoic acid ethyl ester as test compounds. The results were compared with those obtained by the regular AP2 test, the guinea-pig maximization test, and the cumulative contact enhancement test. Administering cyclophosphamide before the AP2 test resulted in a lOO% rate of positivity after the first challenge with all test agents except p-aminobenzoic-acid ethyl-ester. The cyclophosphamide modified AP2 protocol can detect contact hypersensitivity induced by strong sensitizers as well as the standard AP2, guinea pig maximization test, and cumulative contact enhancement test. It can also detect allergenicity of weak sensitizers."
+        },
+        {
+            "References": "PMID:2324519",
+            "Value": "/IMMUNOTOXICITY/ The histology of allergic contact dermatitis reactions to potent allergens in guinea pigs and humans have indicated that there is significant tissue infiltration with basophilic leukocytes. This study determined whether the histologic finding could be of value in distinguishing weak sensitization reactions from primary irritation, thereby aiding in the predictive identification of weak or moderate contact allergens. Guinea pigs were sensitized by the Buehler test method. Skin reactions were graded 24, 48, and 72 hr post-challenge with duplicate patch sites biopsied at the 24- or 72-hr grading timepoints. The number of basophils per 400 leukocytes were counted along the upper dermis just below the dermal/epidermal junction. Challenge patch sites from animals sensitized to a relatively low dose of the strong contact allergen oxazolone were compared with patch sites from animals challenged only with a strong irritant, sodium lauryl sulfate. Compared to normal skin only the oxazolone patch sites showed significant basophil infiltration despite the fact that the skin reactions to the low oxazolone challenge dose were relatively weak. Subsequent blinded studies compared weak/moderate presumptive sensitization reactions (as defined by accepted visual skin grading criteria) to various chemicals (citronellal, vanillin, cinnamic aldehyde, and ethylenediamine) to primary irritation reactions to the same chemicals. In each case low-challenge-dose sensitization sites on previously treated (induced) animals showed mean basophil infiltration significantly greater than higher-dose irritant reactions."
+        },
+        {
+            "References": "PMID:17383062",
+            "Value": "/IMMUNOTOXICITY/ The popliteal lymph node assay (PLNA) has been proposed as a screening test for detecting chemicals with potential of inducing allergic and auto-immune-like reactions in humans. In the present study, we used the rat PLNA to evaluate the immuno-sensitizing potential of 10 monoterpenes found in the essential oils of a variety of aromatic, edible and medicinal plants. The primary or direct PLNA was performed with the monoterpenes, and chlorpromazine (CPZ) and barbital were used as positive and negative controls, respectively. Female, 7-8 week-old Wistar rats were injected subcutaneously (50 microL) with the test substance (0.5, 2.5 or 5mg) into the right hind footpad while the contralateral footpad was injected with the vehicle (DMSO) alone. Weight (WI) and cellularity (CI) indices for draining PLNs were determined 7 days after treatment. PLNA was positive (WI >or= 2 and CI >or= 5) for CPZ, citral, alpha-terpinene, beta-myrcene and (-)-alpha-pinene, and negative for barbital, DMSO, (-)-menthol, 1,8-cineole, (+/-) citronellal, (+)-limonene, (+/-) camphor and terpineol. A secondary PLNA, a T-cell priming test, was carried out with the four substances that had been positive in the primary assay. Six weeks after being locally primed with 5 mg/paw, rats were sc injected into the same footpad with a dose (0.5 mg/paw) of the substance that had been previously found to be insufficient to cause a positive response. WI and CI were then calculated 4 and 7 days after the second injection. CPZ was also positive in the secondary assay thereby confirming that it is a sensitizing agent. Citral, alpha-terpinene, beta-myrcene and (-)-alpha-pinene, however, were negative in the secondary assay. In summary, citral, alpha-terpinene, beta-myrcene and (-)-alpha-pinene induced a clear immuno-stimulatory response due to their irritant properties but no monoterpene proved to be a sensitizing agent in the PLNA."
+        },
+        {
+            "References": "PMID:10330686",
+            "Value": "/IMMUNOTOXICITY/ In order to develop an in vitro predictive assay for the detection of contact sensitizers, we investigated the possible modulation of the expression of cell-surface molecules in the early phases of treatment of murine epidermal cells (EC) with known contact sensitizers. After in vitro treatment of Balb/c EC with the strong contact sensitizer, TNBS, Langerhans cells (LCs) demonstrated a rapid up-regulation of CD45, CD40, CD32/16 (Fc gamma RII/III) and CD23 (Fc epsilon RII) molecules. CD45 and CD40 were also rapidly up-regulated on the dendritic epidermal T cells. Interestingly, after treatment with this severe sensitizer, a marked induction of CD40 expression was found on a CD45 negative population, most probably keratinocytes. In contrast to these cell-surface molecules, I-Ad/I-Ed and CD90.2 expression were unchanged. No change was observed on the expression of CD45 and CD40 after treatment with a mild or a weak contact sensitizer, citral and citronellal respectively. In contrast, like TNBS, they up-regulated the expression of CD32/16 and CD23 on LCs. The irritant sodium dodecyl sulfate had no effect on all these cell-surface molecules. Our results indicated that in vitro, chemicals with allergic potential induced early specific phenotype changes that may represent an early-activated state of the cells. This state may be responsible for initiating the afferent phase of contact sensitivity in vivo. Based on these findings, it might be possible to develop an in vitro assay to reduce the number of experimental animals for a fast screening of contact sensitizers and for discriminating between mild contact sensitizers and irritants."
+        },
+        {
+            "References": "PMID:5138742",
+            "Value": "/OTHER TOXICITY INFORMATION/ Citronellal when inhaled by rabbits exhibited ... significant bronchomucotropic activity."
+        },
+        {
+            "References": "PMID:6049303",
+            "Value": "/OTHER TOXICITY INFORMATION/ The effects of essential oils isolated from Douglas fir needles on sheep and deer rumen microbial activity were tested by use of an anaerobic manometric technique. Rumen microorganisms were obtained from a sheep which had been fed mainly on alfalfa hay and dried range grass. One deer used in this study had access to Douglas fir trees the year around, whereas the other deer had no access to Douglas fir. All of the monoterpene hydrocarbons isolated from Douglas fir needles-alpha-pinene, beta-pinene, limonene, myrcene, camphene, Delta(3)-carene, and terpinolene-promoted only slightly or had no effect on deer rumen microbial activity, whereas all of them promoted activity in sheep rumen microbes, except Delta(3)-carene and terpinolene, which inhibited activity. Of the oxygenated monoterpenes, all monoterpene alcohols-alpha-terpineol, terpinen-4-ol, linalool, citronellol, and fenchyl alcohol-strongly inhibited the rumen microbial activity of both sheep and deer. Monoterpene esters (bornyl acetate) produced mild inhibition for both sheep and deer microbes, and citronellyl acetate inhibited rumen microbial activity in sheep, whereas it promoted activity in both deer. Monoterpene aldehyde (citronellal) inhibited the activity of rumen microbes from both sheep and deer having no access to Douglas fir from the Hopland Field Station, whereas they produced no effect upon the deer having access to Douglas fir from the Masonite forest. Rumen microbial activity for sheep and deer was promoted slightly with aliphatic ester (ethyl-n-caproate). There was a marked difference between sheep and deer rumen microbes as affected by addition of the various essential oils. The monoterpene hydrocarbons promoted activity more on sheep rumen microbes than on deer, and the monoterpene alcohols inhibited sheep rumen microbial activity more than that of deer. Furthermore, the deer rumen microbes from Hopland Field Station were affected more than the deer from Masonite forest."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Griffin S et al; Environ Health Perspect 107: 481-7 (1999) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of July 7, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of citronellal is estimated as 650(SRC), using a log Kow of 3.83(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that citronellal is expected to have low mobility in soil(SRC)."
+        }
+    ]
+}

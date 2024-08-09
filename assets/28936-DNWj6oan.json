@@ -1,0 +1,89 @@
+{
+    "_id": {
+        "$oid": "6682e965c4e5dba5ffba2a66"
+    },
+    "CID": {
+        "$numberInt": "28936"
+    },
+    "Name": "BROMOPROPYLATE",
+    "IUPACName": "propan-2-yl 2,2-bis(4-bromophenyl)-2-hydroxyacetate",
+    "CanonicalSMILES": "CC(C)OC(=O)C(C1=CC=C(C=C1)Br)(C2=CC=C(C=C2)Br)O",
+    "Synonyms": [
+        "Bromopropylate",
+        "18181-80-1",
+        "ACAROL",
+        "Phenisobromolate",
+        "\"Isopropyl 4,4-dibromobenzilate\"",
+        "Neoron",
+        "Folbex VA",
+        "Isopropyl dibromobenzilate",
+        "Geigy 19851",
+        "Benzeneacetic acid",
+        "4-bromo-alpha-(4-bromophenyl)-alpha-hydroxy-",
+        "1-methylethyl ester",
+        "\"Benzilic acid",
+        "4,4-dibromo-",
+        "isopropyl ester\"",
+        "propan-2-yl 2,2-bis(4-bromophenyl)-2-hydroxyacetate",
+        "3U468ZM257",
+        "Ascarol 2E",
+        "Benzeneacetic acid",
+        "4-bromo-.alpha.-(4-bromophenyl)-.alpha.-hydroxy-",
+        "1-methylethyl ester"
+    ],
+    "IsomericSMILES": "CC(C)OC(=O)C(C1=CC=C(C=C1)Br)(C2=CC=C(C=C2)Br)O",
+    "INCHI": "InChI=1S/C17H16Br2O3/c1-11(2)22-16(20)17(21,12-3-7-14(18)8-4-12)13-5-9-15(19)10-6-13/h3-11,21H,1-2H3",
+    "INCHIKEY": "FOANIXZHAMJWOI-UHFFFAOYSA-N",
+    "Formula": "C17H16Br2O3",
+    "MolecularWeight": {
+        "$numberDouble": "428.1"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "4.8"
+    },
+    "Complexity": {
+        "$numberInt": "348"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Tomlin CDS, ed; The Pesticide Manual World Compendium. 11th ed., Surrey, England: British Crop Protection Council p. 147 (1997) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 2,900 was calculated for bromopropylate(SRC), using a log Kow of 5.40(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is very high(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Wheeler WB et al; J Environ Qual 2: 115-8 (1973)",
+            "Value": "AEROBIC: Two sandy soil types from Florida were treated with bromopropylate and sampled at various intervals over 16 weeks(1); representative rates of biodegradation are given below. In the Lakeland soil sample with higher organic matter content, the concentration was reduced from 1.01 ppm to 0.65 after 1 week and 0.33 ppm after 8 weeks(1). In the Leon soil sample with lower organic matter content, bromopropylate was degraded more slowly from an initial concentration of 1.12 ppm to 0.99 after 1 week and 0.47 after 8 weeks(1). Half-lives of bromopropylate in Lakeland soil were 2.5, 8, and 12 weeks at bromopropylate concentrations of 1.0, 0.6, and 0.3 ppm, respectively(1). Half-lives of bromopropylate in Leon soil were 4, 13, and 12 weeks at bromopropylate concentrations of 1.0, 0.6, and 0.3 ppm, respectively(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium, 11 th ed., British Crop Protection Council, Surrey, England 1997, p. 147",
+            "Value": "log Kow = 5.40"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "PMID:11731836",
+            "Value": "SOIL: A study in the Jordan Valley in 1998 found 1 of 5 sampled areas was contaminated with 0.22-0.34 ppm bromopropylate while no bromopropylate was detected at the other 4 test sites(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Tomlin CDS, ed; The Pesticide Manual World Compendium. 11th ed., Surrey, England: British Crop Protection Council p. 147 (1997) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of bromopropylate is estimated as 21,000(SRC), using a log Kow of 5.40(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that bromopropylate is expected to be immobile in soil."
+        }
+    ],
+    "plant_translocation": [
+        {
+            "References": "Wessels, A. B. (1971). Studies on the biological activity of a new miticide Acarol 500.",
+            "Value": "Bromopropylate acts only as a contact acaricide and has no systemic effect; good coverage is therefore of the utmost importance. In tests in Rhodesia in which experimental plots were treated 19 times at intervals of about six days, the yields of seed cotton were significantly higher from plots receiving 0.075% bromopropylate or 0.25% Milbex [which contains chlorfensulphide and chlorfenethol] than from those receiving 0.1% binapacryl; sprays of dimethoate and thiometon did not result in increased yields."
+        }
+    ]
+}

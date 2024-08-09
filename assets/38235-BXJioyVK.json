@@ -1,0 +1,66 @@
+{
+    "_id": {
+        "$oid": "66927123303528b49832d810"
+    },
+    "CID": {
+        "$numberInt": "38235"
+    },
+    "Name": "2-Butanone, 3,3-dimethyl-1-(methylthio)-, O-[(methylamino)carbonyl]oxime",
+    "IUPACName": "[(3,3-dimethyl-1-methylsulfanylbutan-2-ylidene)amino] N-methylcarbamate",
+    "CanonicalSMILES": "CC(C)(C)C(=NOC(=O)NC)CSC",
+    "Synonyms": [
+        "THIOFANOX",
+        "39196-18-4",
+        "[(3,3-dimethyl-1-methylsulfanylbutan-2-ylidene)amino] N-methylcarbamate",
+        "2-Butanone",
+        "3,3-dimethyl-1-(methylthio)-",
+        "O-[(methylamino)carbonyl]oxime",
+        "DTXSID4042468",
+        "CHEBI:38549",
+        "3,3-Dimethyl-1-(methylthio)-2-butanone O-(methylcarbamoyl)oxime; DS 15647; Dacamox; Thiofanox; 2-Butanone",
+        "3,3-dimethyl-1-(methylthio)-",
+        "O-[(methylamino)carbonyl]oxime",
+        "DS 15647",
+        "SCHEMBL122112",
+        "3,3-Dimethyl-1-(methylthio)-2-butanone O-(methylcarbamoyl)oxime",
+        "CHEMBL3184740",
+        "3,3-Dimethyl-2-(([(methylamino)carbonyl]oxy)imino)-1-(methylsulfanyl)butane #",
+        "Thiofanox 10 microg/mL in Cyclohexane",
+        "Thiofanox 1000 microg/mL in Methanol",
+        "NS00006956"
+    ],
+    "IsomericSMILES": "CC(C)(C)C(=NOC(=O)NC)CSC",
+    "INCHI": "InChI=1S/C9H18N2O2S/c1-9(2,3)7(6-14-5)11-13-8(12)10-4/h6H2,1-5H3,(H,10,12)",
+    "INCHIKEY": "FZSVSABTBYGOQH-UHFFFAOYSA-N",
+    "Formula": "C9H18N2O2S",
+    "MolecularWeight": {
+        "$numberDouble": "218.32"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "2.2"
+    },
+    "Complexity": {
+        "$numberInt": "221"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Acid-delinted cottonseeds were treated with 0.5% (w/w) [35S]- or [N-Me-14C] thiofanox (P), 3,3-dimethyl-1(methylthio)-2-butanone [(methylamino)carbonyl]oxime, before planting. This insecticide was readily taken up by the young seedlings and translocated to the cotyledons and developing leaves where it was rapidly metabolized to its sulfoxide (P1), 3,3-dimethyl-1-(methylsulfinyl)-2-butanone [(methylamino)carbonyl]oxime. The level of P1 declined in the cotton leaves with time, resulting in the formation of the sulfone (P2), 3,3-dimethyl-1-(methylsulfonyl)-2-butanone [(methylamino)carbonyl]oxime, and water-soluble metabolites. Cottonseeds from laboratory and field plants grown from thiofanox-treated seeds contained less than 5 ppb of carbamate residues.",
+            "reference": "Holm, R. E., Chin, W. T., Wagner, D. H., & Stallard, D. E. (1975). Metabolism of thiofanox in cotton plants. Journal of Agricultural and Food Chemistry, 23(6), 1056-1060.",
+            "method": {
+                "Test Plant": "Cotton (Gossypium hirsutum L. var. Stoneville 213) seeds",
+                "Apply Location": "Seed treatment",
+                "Plant Grown Condition": "Cotton seeds weighing 100 mg each were treated with 500 \u03bcg of [35S]P or [N-Me-14C]P in 10 ml of benzene, amounting to 0.5% P by seed weight. Four treated seeds were planted 2.54 cm deep in sterilized greenhouse potting soil contained in 22.9 cm diameter styrofoam pots. The test was replicated 25 times. After 4 weeks, the seedlings were thinned to one per pot. The plants were grown in an environmental growth chamber with 14-hour 30\u00b0C day and 10-hour 21\u00b0C night temperatures under a mixture of fluorescent and incandescent lamps yielding 43,200 lx at the top of the plants.",
+                "Chemical Preparation": "Labeled chemicals [35S]P, [N-Me-14C]P, and nonlabeled oximes O, O1, and O2 were used. The radioactive and nonradioactive compounds were greater than 99% pure as shown by thin-layer chromatography (TLC).",
+                "Pesticide Application Details for the Plant": "500 \u03bcg of [35S]P or [N-Me-14C]P in 10 ml of benzene was applied to 100 mg cotton seeds, resulting in 0.5% P treatment by seed weight.",
+                "Other Information": "The test was replicated 25 times. Plants were harvested after various periods of radioisotope exposure and stages of development."
+            },
+            "result": "[{\"Days after application\": 7, \"Uptake (% of applied)\": 9.0, \"Cotyledons (% of absorbed)\": 92.3, \"1st leaf (%)\": \"-\", \"2nd leaf (%)\": \"-\", \"3rd leaf (%)\": \"-\", \"Stem (%)\": 5.5, \"Roots (%)\": 2.2}, {\"Days after application\": 17, \"Uptake (% of applied)\": 10.0, \"Cotyledons (% of absorbed)\": 94.0, \"1st leaf (%)\": \"2.1\", \"2nd leaf (%)\": \"-\", \"3rd leaf (%)\": \"-\", \"Stem (%)\": 1.0, \"Roots (%)\": 3.0}, {\"Days after application\": 27, \"Uptake (% of applied)\": 15.2, \"Cotyledons (% of absorbed)\": 87.5, \"1st leaf (%)\": \"9.2\", \"2nd leaf (%)\": \"0.7\", \"3rd leaf (%)\": \"-\", \"Stem (%)\": 0.6, \"Roots (%)\": 2.0}, {\"Days after application\": 42, \"Uptake (% of applied)\": 16.7, \"Cotyledons (% of absorbed)\": 78.4, \"1st leaf (%)\": \"10.8\", \"2nd leaf (%)\": \"6.0\", \"3rd leaf (%)\": \"3.0\", \"Stem (%)\": 0.6, \"Roots (%)\": 1.2}]"
+        }
+    ]
+}

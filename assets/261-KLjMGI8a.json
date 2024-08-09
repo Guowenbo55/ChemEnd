@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "6682e7d0c4e5dba5ffba2277"
+    },
+    "CID": {
+        "$numberInt": "261"
+    },
+    "Name": "BUTYRALDEHYDE",
+    "IUPACName": "butanal",
+    "CanonicalSMILES": "CCCC=O",
+    "Synonyms": [
+        "butyraldehyde",
+        "butanal",
+        "123-72-8",
+        "n-butyraldehyde",
+        "Butyral",
+        "1-butanal",
+        "Butyric aldehyde",
+        "Butaldehyde",
+        "Butanaldehyde",
+        "Butylaldehyde",
+        "Butal",
+        "n-Butanal",
+        "Butalyde",
+        "Butyraldehyd",
+        "Butyl aldehyde"
+    ],
+    "IsomericSMILES": "CCCC=O",
+    "INCHI": "InChI=1S/C4H8O/c1-2-3-4-5/h4H,2-3H2,1H3",
+    "INCHIKEY": "ZTQSAGDEMFDKMZ-UHFFFAOYSA-N",
+    "Formula": "C4H8O",
+    "MolecularWeight": {
+        "$numberDouble": "72.11"
+    },
+    "Description": "Butanal is a member of the class of butanals that consists of propane bearing a formyl substituent at the 1-position. The parent of the class of butanals. It has a role as a biomarker, an Escherichia coli metabolite and a mouse metabolite.",
+    "XlogP": {
+        "$numberDouble": "0.9"
+    },
+    "Complexity": {
+        "$numberInt": "24"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "PMID:12489721",
+            "Value": "Butyraldehyde was emitted from rape during the blooming period at a rate of 0.042-2.87 and 0.030-3.41 ppbv during May 8 and 9, 1998(1)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available at https://www.safe.nite.go.jp/english/db.html as of Feb 2009. (2) Dore M et al; Trib Cebedeau 28: 3-11 (1975) (3) Heukelekian H, Rand MC; J Water Pollut Control Assoc 27: 1040-53 (1955) (4) Ettinger MB; Ind Eng Chem 48: 256-9 (1956) (5) Stafford W, Northrup HJ; Amer Dyestuff Reporter 44: 355-9 (1955) (6) Urano K, Kato Z; J Hazardous Mater 13: 135-45 (1986)",
+            "Value": "AEROBIC: Butyraldehyde, present at 100 mg/L, reached 100% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L and the Japanese MITI test(1). Butyraldehyde had a 5-day theoretical BOD of 28% using the AFNOR T test and an inoculum from 3 polluted surface waters(2). Using a sewage inocula and standard dilution water, butyraldehyde had a 5-day theoretical BOD of 43%(3). Theoretical BODs of 43.4, 59.8, and 68% were measured after 5, 10, and 50 days, respectively, using a sewage seed(4). A 5-day theoretical BOD of 106% was reported for a sewage inocula(5). Using an electrolytic respirometer and an activated sludge inocula, theoretical BODs of 46-57% were observed after 90-135 hr of incubation(6)."
+        },
+        {
+            "References": "(1) Chou WL et al; Biotechnol Bioeng Symp 8: 391-414 (1979) (2) Speece RE; Environ Sci Technol 17: 416A-27A (1983)",
+            "Value": "ANAEROBIC: Butyraldehyde underwent 99% degradation (7 day lag period) under anaerobic conditions using the Hungate serum bottle technique(1). Butyraldehyde degradation in an anaerobic reactor (after 52 days of acclimation) was 82%(1). Butyraldehyde is considered amendable to anaerobic biodegradation(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 9",
+            "Value": "log Kow = 0.88"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:8313516",
+            "Value": "Inhibition of intercellular communication is an important feature in the tumor promotion phase of a multistage carcinogenesis model. In atherosclerosis inhibition of cell-cell communication by atherogenic compounds, e.g., low density lipoproteins (LDL), also seems to be important. For testing atherogenic compounds we used an atherosclerosis relevant cell type, namely human smooth muscle cells. In order to investigate which part of the LDL particle would be involved in inhibition of metabolic co-operation between human smooth muscle cells in culture ... several fatty acids and their breakdown products /were tested/, namely aldehydes. Unsaturated C-18 fatty acids markedly influenced gap-junctional intercellular communication (GJIC), whereas saturated (C18:0, C16:0) and unsaturated fatty acids with > 20 carbon atoms did not inhibit GJIC. In the case of oleic and elaidic acid, orientation seemed important; however, after exposure to palmitoleic and palmitelaidic acid no differences were found. The most potent inhibitor of GJIC was linoleic acid, which inhibited GJIC by 75%. No correlation was found between degrees of unsaturation and ability to inhibit GJIC. Of the tested aldehydes, hexanal, propanal, butanal and 4-hydroxynonenal did significantly inhibit GJIC, while pentanal had no effect. Since modification of LDL was shown to be important in order for LDL to inhibit GJIC, these results show that fatty acids and their oxidative breakdown products may be of importance for the inhibition of GJIC by LDL."
+        }
+    ]
+}

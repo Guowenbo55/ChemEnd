@@ -1,0 +1,70 @@
+{
+    "_id": {
+        "$oid": "6682e850c4e5dba5ffba24f7"
+    },
+    "CID": {
+        "$numberInt": "6535"
+    },
+    "Name": "TRIETHYL PHOSPHATE",
+    "IUPACName": "triethyl phosphate",
+    "CanonicalSMILES": "CCOP(=O)(OCC)OCC",
+    "Synonyms": [
+        "TRIETHYL PHOSPHATE",
+        "78-40-0",
+        "Triethylphosphate",
+        "Phosphoric acid",
+        "triethyl ester",
+        "Tris(ethyl) phosphate",
+        "Triethoxyphosphine oxide",
+        "Triethylfosfat",
+        "TEP",
+        "Ethyl phosphate ((EtO)3PO)",
+        "Phosphoric Acid Triethyl Ester",
+        "o-Phosphoric acid triethyl ester",
+        "NSC 2677",
+        "QIH4K96K7J",
+        "DTXSID8026228",
+        "CHEBI:45927"
+    ],
+    "IsomericSMILES": "CCOP(=O)(OCC)OCC",
+    "INCHI": "InChI=1S/C6H15O4P/c1-4-8-11(7,9-5-2)10-6-3/h4-6H2,1-3H3",
+    "INCHIKEY": "DQWPFSLDHJDLRL-UHFFFAOYSA-N",
+    "Formula": "C6H15O4P",
+    "MolecularWeight": {
+        "$numberDouble": "182.15"
+    },
+    "Description": "Triethyl phosphate is a trialkyl phosphate that is the triethy ester derivative of phosphoric acid. It is functionally related to an ethanol.",
+    "XlogP": {
+        "$numberDouble": "0.8"
+    },
+    "Complexity": {
+        "$numberInt": "113"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Japan Chemical Industry Ecology-Toxicology and Information Center. ISBN 4-89074-101-1 (1992)",
+            "Value": "AEROBIC: Triethyl phosphate, present at 100 mg/L, reached 0% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L and the Japanese MITI test(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 25",
+            "Value": "log Kow = 0.80"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Kjolholt J; Chemosphere 14: 1763-70 (1985)",
+            "Value": "SEDIMENT: Sediment samples from 23 sampling stations in a shallow marine inlet near an organophosphorus pesticide and intermediate chemicals production plant in Jutland, Denmark were collected during 1982-1983(1); total samples taken were 39, triethyl phosphate was detected in samples from 11 of 23 positions at levels ranging from a few hundred ng/kg to 1.7 ug/kg except for two sites close to the plant where the levels were 2.7 and 8.5 ug/kg dry weight(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 25 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Yalkowsky SH, He Y; Handbook of Aqueous Solubility  Data. CRC Press LLC, Boca Raton, FL. p. 338 (2003) (5) Kawagoshi Y, Fukunaga I; Kankyo Kagaku 4:797-804 (1994) (6) Oman C, Hynning P-A; Environ Poll 80: 265-71 (1993) (7) Piet GJ, Morra CF; in Artificial Groundwater Recharge (Water Resources Engineering Series) Huiisman L, Olsthorn TN, eds. Pitman Pub p. 31-42 (1983) (8) Hutchins SR et al; Water Res 18: 1025-36 (1984)",
+            "Value": "The Koc of triethyl phosphate is estimated as 65(SRC), using a log Kow of 0.80(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that triethyl phosphate is expected to have high mobility in soil. Leaching through soil may be possible(SRC) as this compound has a very high water solubility of 5.0X10+5 mg/L(4). Triethyl phosphate has been detected in leachates from several landfills(5,6). During rapid infiltration studies, surface water was passed through infiltration terrain consisting of fine-ground dune sand mixed with clay and lens-shaped peat layers. A 70% reduction in the amount of triethyl phosphate initially found in the surface water was found in water which had passed through the dune(7); the loss of triethyl phosphate could be due to biotic and/or abiotic transformations(SRC). In a second rapid infiltration study, triethyl phosphate was detected in a down-gradient monitoring well after primary effluent was placed in basins situated on a kame consisting of poorly graded sands or gravelly sands with interspersed lenses of silty and sandy gravels(8)."
+        }
+    ]
+}

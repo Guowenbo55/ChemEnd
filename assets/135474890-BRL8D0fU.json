@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "66927124303528b49832d812"
+    },
+    "CID": {
+        "$numberInt": "135474890"
+    },
+    "Name": "2-[1-(Ethoxyimino)propyl]-3-hydroxy-5-(2,4,6-trimethylphenyl)cyclohex-2-enone",
+    "IUPACName": "2-(N-ethoxy-C-ethylcarbonimidoyl)-3-hydroxy-5-(2,4,6-trimethylphenyl)cyclohex-2-en-1-one",
+    "CanonicalSMILES": "CCC(=NOCC)C1=C(CC(CC1=O)C2=C(C=C(C=C2C)C)C)O",
+    "Synonyms": [
+        "87820-88-0",
+        "DTXSID1034973",
+        "2-[1-(ETHOXYIMINO)PROPYL]-3-HYDROXY-5-(2,4,6-TRIMETHYLPHENYL)CYCLOHEX-2-ENONE",
+        "NCGC00163930-04",
+        "CHEMBL2355904",
+        "DQFPEYARZIQXRM-UHFFFAOYSA-N",
+        "AKOS030236428",
+        "NCGC00163930-02",
+        "NCGC00163930-03",
+        "DB-057028",
+        "NS00098683",
+        "T2916",
+        "Q19843298",
+        "2-(N-ethoxypropanimidoyl)-3-hydroxy-5-mesitylcyclohex-2-en-1-one",
+        "2-[1-(ethoxyimino)propyl]-3-hydroxy-5-mesitylcyclohex-2-en-1-one"
+    ],
+    "IsomericSMILES": "CCC(=NOCC)C1=C(CC(CC1=O)C2=C(C=C(C=C2C)C)C)O",
+    "INCHI": "InChI=1S/C20H27NO3/c1-6-16(21-24-7-2)20-17(22)10-15(11-18(20)23)19-13(4)8-12(3)9-14(19)5/h8-9,15,22H,6-7,10-11H2,1-5H3",
+    "INCHIKEY": "DQFPEYARZIQXRM-UHFFFAOYSA-N",
+    "Formula": "C20H27NO3",
+    "MolecularWeight": {
+        "$numberDouble": "329.4"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "4.1"
+    },
+    "Complexity": {
+        "$numberInt": "511"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "In growth chamber experiments, tralkoxydim's activity against Avena fatua (wild oat) was significantly reduced by the addition of metsulfuron methyl to the spray solution. This reduction was particularly noticeable at low rates of tralkoxydim (e.g., 125 g a.i. ha-1) and at high rates of metsulfuron methyl (8 or 12 g a.i. ha-1). Metsulfuron methyl alone significantly reduced A. fatua growth. Chlorsulfuron, which did not reduce A. fatua growth at rates of up to 33 g a.i. ha-1, caused only a slight loss in tralkoxydim activity. When applied together, metsulfuron methyl reduced the uptake of foliar-applied 14C-tralkoxydim 6 hours after application, but it did not affect the uptake or translocation of 14C-tralkoxydim at subsequent sampling times. In in vitro assays, metsulfuron methyl at 10 or 100 nM in the assay medium did not affect acetyl-coenzyme A carboxylase (ACCase) activity in A. fatua, nor did it interfere with the inhibition of ACCase by tralkoxydim. Additionally, treatment of A. fatua plants with metsulfuron methyl at 4, 8, or 12 g ha-1 did not reduce the level of extractable ACCase activity when the plants were harvested 24-96 hours after spraying. Thus, no apparent physiological or biochemical basis for the antagonism of tralkoxydim was identified. The temporary growth inhibition induced by metsulfuron methyl may be of sufficient duration for most of the tralkoxydim to be metabolized to inactive products, thereby reducing tralkoxydim-induced injury.",
+            "reference": "Devine, M. D., & Rashid, A. (1993). Antagonism of tralkoxydim activity in Avena fatua by metsulfuron methyl. Weed Research, 33(2), 97-104.",
+            "method": {
+                "Test Plant": "Wild oat (Avena fatua)",
+                "Apply Location": "Foliar application as 1 \u00b5l droplets on the mid-portion of the adaxial surface of the second fully expanded leaf",
+                "Plant Grown Condition": "Seeds germinated and planted in pots containing soil:coarse sand:peat (3:1:1) mixture. Four plants per 12.5 x 12.5 x 6 cm deep pot. Grown in controlled environment chamber (16 h photoperiod, 20/18\u00b0C day/night, 500 \u00b5mol/m2/s PPFD, 70-75% RH).",
+                "Chemical Preparation": "Tralkoxydim 250 g/L EC formulation. 14C-tralkoxydim (phenyl-14C, 17.01 Bq/\u00b5mol, 87% radiochemical purity)",
+                "Pesticide Application Details for the Plant": "10 \u00b5l radiolabeled droplets applied at the 2.5-3 leaf stage. Metsulfuron included at 4 g ai/ha for some treatments.",
+                "Other Information": "Absorption measured by leaf rinsing at 6, 12, 24, 48 h after treatment (HAT). Translocation quantified by combustion and LSS of treated leaf sections and remaining shoot tissue at same timepoints."
+            },
+            "result": "[{\"Hours after application\": 6, \"Absorption (% of applied)\": 0.5}, {\"Hours after application\": 12, \"Absorption (% of applied)\": 0.9}, {\"Hours after application\": 24, \"Absorption (% of applied)\": 0.5}, {\"Hours after application\": 48, \"Absorption (% of applied)\": 1.9}]"
+        }
+    ]
+}

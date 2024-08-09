@@ -1,0 +1,71 @@
+{
+    "_id": {
+        "$oid": "6682e88fc4e5dba5ffba2633"
+    },
+    "CID": {
+        "$numberInt": "7810"
+    },
+    "Name": "4-CHLOROTOLUENE",
+    "IUPACName": "1-chloro-4-methylbenzene",
+    "CanonicalSMILES": "CC1=CC=C(C=C1)Cl",
+    "Synonyms": [
+        "4-Chlorotoluene",
+        "106-43-4",
+        "1-Chloro-4-methylbenzene",
+        "P-CHLOROTOLUENE",
+        "Benzene",
+        "1-chloro-4-methyl-",
+        "p-Tolyl chloride",
+        "Toluene",
+        "p-chloro-",
+        "1-Methyl-4-chlorobenzene",
+        "4-Chloro-1-methylbenzene",
+        "para-Chlorotoluene",
+        "4-methylchlorobenzene",
+        "NSC 404114",
+        "1-chloranyl-4-methyl-benzene",
+        "DTXSID8024814",
+        "CHEBI:34401"
+    ],
+    "IsomericSMILES": "CC1=CC=C(C=C1)Cl",
+    "INCHI": "InChI=1S/C7H7Cl/c1-6-2-4-7(8)5-3-6/h2-5H,1H3",
+    "INCHIKEY": "NPDACUSDTOMAMK-UHFFFAOYSA-N",
+    "Formula": "C7H7Cl",
+    "MolecularWeight": {
+        "$numberDouble": "126.58"
+    },
+    "Description": "4-Chlorotoluene is a member of monochlorobenzenes.",
+    "XlogP": {
+        "$numberDouble": "3.3"
+    },
+    "Complexity": {
+        "$numberInt": "62"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Japan Chemical Industry Ecology-Toxicology and Information Center. ISBN 4-89074-101-1 (1992) (2) Hansch C, Leo AJ; Medchem Project Issue No. 26 Claremont, CA: Pomona College (1985) (3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (4) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "Carp exposed to 4-chlorotoluene at 0.03 and 0.3 mg/L had measured BCF values of 14-101.6 and 21.9-76.5, respectively(1). An estimated BCF value of 200 was calculated for 4-chlorotoluene(SRC), using a measured log Kow of 3.33(2) and a recommended regression-derived equation(3). According to a recommended classification scheme(4), these BCF values suggest that some bioconcentration in aquatic organisms will occur(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Kawasaki M; Ecotox Environ Safet 4: 444-54 (1980) (2) Sasaki S; pp. 283-98 in Aquatic Pollutants; Hutzinger O et al eds Oxford: Pergamon Press (1978) (3) Chemicals Inspection and Testing Institute; Japan Chemical Industry Ecology-Toxicology and Information Center. ISBN 4-89074-101-1 (1992) (4) Goulding C et al; J Appl Bacteriol 65: 1-5 (1988) (5) Kondo M et al; Eisei Kagaku 34: 188-95 (1988) (6) Gibson DT et al; Biochemistry 7: 3795-802 (1968) (7) Gibson DT; pp. 187-204 in Aquatic Pollutants; Hutzinger O et al eds Oxford: Pergamon Press (1978)",
+            "Value": "In the Japanese MITI test, using an initial concn of 100 ppm 4-chlorotoluene, <30% of the theoretical BOD was reached in 14 days using an activated sludge inoculum(1,2). In the modified MITI test, using an initial concentration of 100 ppm 4-chlorotoluene, 0% of the theoretical BOD was reached in 14 days(3). A microbial blend of 10 different bacteria and 2 fungi was used to degrade 4-chlorotoluene at a concentration of 200 mg/l; complete biodegradation occurred in 3 days(4). Using the cultivation method, 4-chlorotoluene at 20 mg/l was 44% and 64% biodegraded in three days using a river water and a seawater inoculum, respectively(5). An isolated strain of Pseudomonas putida 39/D oxidized 4-chlorotoluene to (+)-cis-4-chloro-2,3-dihydroxy-1-methylcyclohexa-4,6-diene (6). 4-Chlorotoluene is metabolized via cis-dihydrodiol to its respective catechol which is resistant to further degradation(7)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 29",
+            "Value": "Log Kow = 3.33"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Yalkowsky SH, Dannenfelser RM; Aquasol Database of Aqueous Solubility. Version 5. College of Pharmacy, University of Arizona-Tucson, AZ. PC Version. (1992) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 23 (1983)",
+            "Value": "The Koc of 4-chlorotoluene is estimated as approximately 340(SRC), using an experimental water solubility of 106 mg/l at 20 \u00b0C(1,SRC) and a regression-derived equation(2,SRC). According to a recommended classification scheme(3), this estimated Koc value suggests that 4-chlorotoluene will have moderate mobility in soil(SRC)."
+        }
+    ]
+}

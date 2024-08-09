@@ -1,0 +1,81 @@
+{
+    "_id": {
+        "$oid": "6682e9b1c4e5dba5ffba2be9"
+    },
+    "CID": {
+        "$numberInt": "5280795"
+    },
+    "Name": "CHOLECALCIFEROL",
+    "IUPACName": "(1S,3Z)-3-[(2E)-2-[(1R,3aS,7aR)-7a-methyl-1-[(2R)-6-methylheptan-2-yl]-2,3,3a,5,6,7-hexahydro-1H-inden-4-ylidene]ethylidene]-4-methylidenecyclohexan-1-ol",
+    "CanonicalSMILES": "CC(C)CCCC(C)C1CCC2C1(CCCC2=CC=C3CC(CCC3=C)O)C",
+    "Synonyms": [
+        "Vitamin D3",
+        "cholecalciferol",
+        "67-97-0",
+        "Colecalciferol",
+        "Calciol",
+        "Ricketon",
+        "Oleovitamin D3",
+        "Deparal",
+        "Arachitol",
+        "Delsterol",
+        "Trivitan",
+        "Ebivit",
+        "Vigantol",
+        "Vigorsan",
+        "vitamin d-3"
+    ],
+    "IsomericSMILES": "C[C@H](CCCC(C)C)[C@H]1CC[C@@H]\\2[C@@]1(CCC/C2=C\\C=C/3\\C[C@H](CCC3=C)O)C",
+    "INCHI": "InChI=1S/C27H44O/c1-19(2)8-6-9-21(4)25-15-16-26-22(10-7-17-27(25,26)5)12-13-23-18-24(28)14-11-20(23)3/h12-13,19,21,24-26,28H,3,6-11,14-18H2,1-2,4-5H3/b22-12+,23-13-/t21-,24+,25-,26+,27-/m1/s1",
+    "INCHIKEY": "QYSXJUFSXHHAJI-YRZJJWOYSA-N",
+    "Formula": "C27H44O",
+    "MolecularWeight": {
+        "$numberDouble": "384.6"
+    },
+    "Description": "Calciol is a hydroxy seco-steroid that is (5Z,7E)-9,10-secocholesta-5,7,10(19)-triene in which the pro-S hydrogen at position 3 has been replaced by a hydroxy group. It is the inactive form of vitamin D3, being hydroxylated in the liver to calcidiol (25-hydroxyvitamin D3), which is then further hydroxylated in the kidney to give calcitriol (1,25-dihydroxyvitamin D3), the active hormone. It has a role as a human metabolite and a geroprotector. It is a seco-cholestane, a hydroxy seco-steroid, a member of D3 vitamins, a secondary alcohol and a steroid hormone.",
+    "XlogP": {
+        "$numberDouble": "7.9"
+    },
+    "Complexity": {
+        "$numberInt": "610"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Meylan WM, Howard PH; J Pharm Sci 84: 83-92 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated for cholecalciferol(SRC), using an estimated log Kow of 10.24(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "McEvoy, G.K. (ed.). American Hospital Formulary Service-  Drug Information 2005. Bethesda, MD: American Society of  Health-System Pharmacists, Inc. 2005 (Plus Supplements)., p. 3542",
+            "Value": "The principal biologic function of vitamin D is to maintain serum calcium and phosphorus concentrations within the normal range by enhancing the efficiency of the small intestine to absorb these minerals from the diet. Calcitriol (activated vitamin D) enhances the efficiency of intestinal calcium absorption along the entire small intestine, but principally in the duodenum and jejunum. Calcitriol also enhances phosphorus absorption along the entire small intestine, but principally in the jejunum and ileum. The activated forms of ergocalciferol, doxercalciferol, and cholecalciferol may have a negative feedback effect on parathyroid hormone (PTH) production."
+        },
+        {
+            "References": "Gilman, A. G., L. S. Goodman, and A. Gilman. (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 6th ed. New York: Macmillan Publishing Co., Inc. 1980., p. 1541",
+            "Value": "The most two important mechanisms by which vitamin D acts to maintain normal concentration of calcium and phosphate in plasma are to facilitate their absorption by the small intestine and to enhance their mobilization from bone. /Vitamin D/"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Clarke, E.G., and M. L. Clarke. Veterinary Toxicology. Baltimore, Maryland: The Williams and Wilkins Company, 1975., p. 176",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Massive doses of vitamin D can induce acute toxicity. The lethal dose in dog is said to be about 13 mg/kg/body weight ... immediate effects are bloody diarrhea, anorexia, thirst, polyuria and prostration. In surviving animals calcium is deposited as in chronic hypervitaminosis-D. /Vitamin D/"
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 1730",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Many offspring of pregnant rabbits that have been treated with large doses of vitamin D have lesions anatomically similar to those of supravalvular aortic stenosis. In addition ... offsprings with no aortic narrowing show vasculotoxicity similar to ... adults following acute vitamin D toxicity. /Vitamin D/"
+        },
+        {
+            "References": "Mortelmans K et al; Environ Mutagen 8:1-119 (1986)",
+            "Value": "/GENOTOXICITY/ Vitamin D3 was tested for mutagenicity in the Salmonella/microsome using the standard protocol approved by the National Toxicology Program. Vitamin D3 was tested at doses of 0.033, 0.10, 0.33, 1.0, 3.3, and 10 mg/plate in as many as 5 Salmonella typhimurium strains (TA1535, TA1537, TA97, TA98, and TA100) in the presence and absence of rat or hamster liver S-9. Vitamin D3 was negative in these tests and the highest ineffective dose tested in any S. typhimurium strain was 10 mg/plate in strain TA98. Doses above 1.0 mg/plate exhibited slight toxicity in most strains."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992) (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of cholecalciferol can be estimated to be 1.5X10+6(SRC). According to a classification scheme(2), this estimated Koc value suggests that cholecalciferol is expected to be immobile in soil."
+        }
+    ]
+}

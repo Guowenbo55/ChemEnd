@@ -1,0 +1,76 @@
+{
+    "_id": {
+        "$oid": "6682e83fc4e5dba5ffba24a4"
+    },
+    "CID": {
+        "$numberInt": "6328"
+    },
+    "Name": "METHYL IODIDE",
+    "IUPACName": "iodomethane",
+    "CanonicalSMILES": "CI",
+    "Synonyms": [
+        "IODOMETHANE",
+        "Methyl iodide",
+        "74-88-4",
+        "Monoiodomethane",
+        "Methane",
+        "iodo-",
+        "Methyljodid",
+        "Jod-methan",
+        "Methyliodide",
+        "Methyl iodine",
+        "Methyljodide",
+        "Iodometano",
+        "Joodmethaan",
+        "Metylu jodek",
+        "Iodure de methyle",
+        "CH3I"
+    ],
+    "IsomericSMILES": "CI",
+    "INCHI": "InChI=1S/CH3I/c1-2/h1H3",
+    "INCHIKEY": "INQOMBQAUSQDDS-UHFFFAOYSA-N",
+    "Formula": "CH3I",
+    "MolecularWeight": {
+        "$numberDouble": "141.939"
+    },
+    "Description": "Iodomethane is a member of the class of iodomethanes that is methane in which one of the hydrogens is replaced by iodine. It has a role as a fumigant insecticide. It is a member of methyl halides and a member of iodomethanes.",
+    "XlogP": {
+        "$numberDouble": "1.5"
+    },
+    "Complexity": {
+        "$numberInt": "2"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 3 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994) (4) Dickson AG, Riley JP; Mar Pollut Bull 7: 167-9 (1976)",
+            "Value": "An estimated BCF of 2.9 was calculated for methyl iodide(SRC), using a log Kow of 1.51(1,SRC) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low. While methyl iodide has been detected in various fish and shellfish, it is thought that the chemical may have been formed biogenically(4)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Dickson AG, Riley JP; Mar Pollut Bull 7: 167-9 (1976)",
+            "Value": "Irish Sea - 3 species of mollusks 3-188 ppb methyliodide, 10 ppb median(1). Irish Sea - 5 species of fish 4-166 ppb, 17 ppb median(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 3",
+            "Value": "log Kow= 1.51"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "USEPA/OTS; Investigation of Selected Potential Environmental Contaminants: Monohalomethanes (1977) EPA 560/2-77-007 as cited in USEPA; Ambient Water Quality Criteria Doc: Halomethanes p.C-30 (1980) EPA 442/5-80-051",
+            "Value": "Toxicologic and metabolic similarities among the monohalomethanes (chloride, bromide, iodide substituted) suggest a common mechanism of toxic action, probably methylation and disturbance or inactivation of essential proteins (rather than presence of the parent compound or free halide per se)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992) (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Gan J, Yates SR; J Agric Food Chem 44: 4001-8 (1996) (4) Gan J et al; J Environ Qual 26: 1107-15 (1997)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc for methyl iodide can be estimated to be 14(SRC). According to a classification scheme(2), this estimated Koc value suggests that methyl iodide should have very high mobility in soil. The soil/water distribution coefficient of methyl iodide in various soils were (soil, Kd): Greenfield sandy loam, 0.09; Linne clay loam, 0.15; Carsetas loamy sand, 0.16; and potting mix, 0.55(3)."
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "_id": {
+        "$oid": "6682e7dbc4e5dba5ffba22b1"
+    },
+    "CID": {
+        "$numberInt": "878"
+    },
+    "Name": "METHYL MERCAPTAN",
+    "IUPACName": "methanethiol",
+    "CanonicalSMILES": "CS",
+    "Synonyms": [
+        "methanethiol",
+        "METHYL MERCAPTAN",
+        "Methylmercaptan",
+        "Mercaptomethane",
+        "74-93-1",
+        "Methyl sulfhydrate",
+        "Thiomethanol",
+        "Methanthiol",
+        "Thiomethyl alcohol",
+        "Metilmercaptano",
+        "Methvtiolo",
+        "Methylmercaptaan",
+        "Mercaptan methylique",
+        "Methaanthiol",
+        "Thiomethane"
+    ],
+    "IsomericSMILES": "CS",
+    "INCHI": "InChI=1S/CH4S/c1-2/h2H,1H3",
+    "INCHIKEY": "LSDPWZHWYPCBBB-UHFFFAOYSA-N",
+    "Formula": "CH4S",
+    "MolecularWeight": {
+        "$numberDouble": "48.11"
+    },
+    "Description": "Methanethiol is an alkanethiol. It has a role as a human metabolite and a Saccharomyces cerevisiae metabolite.",
+    "XlogP": {
+        "$numberDouble": "0.5"
+    },
+    "Complexity": {
+        "$numberInt": "2"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Reid EE: Organic Chem of Bivalent Sulfur. NY, NY: Chem Pub Co, 1: 15-262 (1958)",
+            "Value": "Trace amounts of methyl mercaptan are present in the roots and leaves of some plants(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2011. Available from, as of July 19, 2012: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for methyl mercaptan(SRC), using an estimated log Kow of 0.78(1) and a regression-derived equation(1). According to a classification scheme(2, this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Lomans BP et al; App Environ Microbiol 65: 438-43 (1999)",
+            "Value": "AEROBIC: Aerobic degradation of methyl mercaptan is insignificant compared to anaerobic degradation(1)."
+        },
+        {
+            "References": "(1) Kiene RP, Capone DG; Microb Ecol 15: 275-91 (1988) (2) Kelly DP, Smith NA; Adv Microb Ecol 11: 345-85 (1990) (3) Zinder SH, Brock TD, Nature 273: 226-8 (1978)",
+            "Value": "ANAEROBIC: Methyl mercaptan is produced by a variety of organisms and is often liberated during the decay of sulfur-containing organic matter under anoxic conditions(1). Methyl mercapatan appears to be produced ubiquitously by a majority of heterotrophic bacteria by enzymatic sulfide-dependant thiol methyltransferase activity(2). It may be formed by sulfate-reducing and methane-producing bacteria from methionine, or reversibly formed from dimethyl sulfide and dimethyldisulfide(1). Ultimately, methyl mercaptan may be mineralized to methane, carbon dioxide, and hydrogen sulfide(1). When incubated in anaerobic lake sediment from Lake Mendota, WI for 4 hr, methyl mercaptan was rapidly mineralized(3). Addition of methyl mercaptan to sediment slurries from seven chemically different anoxic aquatic environments stimulated methane production without any noticeable lag(1). These sediments included two estuarine salt marshes, a freshwater lake, and two hypersaline alkaline lakes(1). For the one sediment in which rate information was presented, biodegradation was completed within a week(1). Methyl mercaptan is produced anaerobically from dimethylsulfide (and 3-methiolpropionate) in salt marshes(2). The oxidation and consequent dimerization of methyl mercaptan to dimethyldisulfide occurs for soils supplemented with methionine and its sulfoxide, and sulfone or S-methylcysteine(2). This results in part from the formation of methyl mercaptan and subsequent dimerization to dimethyldisulfide(2)."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-4148 2010.",
+            "Value": "... The primary mechanisms by which methyl mercaptan has caused death and induces coma appear to reside with its reversible inhibition of cytochrome c oxidase (as in cyanide and hydrogen sulfide poisoning) and its inhibition of brain sodium and potassium ATPase activity."
+        },
+        {
+            "References": "PMID:6319665",
+            "Value": "Methanethiol (CH3SH) has been implicated in the pathogenesis of hepatic coma. Studies are presented to identify the possible biochemical basis of anesthesia-like effects of methanethiol and those features, which distinguish such effects from common anesthetics and may represent the basis of its toxicity. CH3SH was found to stabilize erythrocyte membranes against hypotonic hemolysis at relatively low concentrations. At 37 degrees C the AH25 value for human erythrocyte antihemolysis was observed at a concentration of 0.34 mumol of CH3SH bound per mg of erythrocyte protein. Similar results were obtained with rat erythrocytes. This property of CH3SH is in common with other anesthetic agents. Anesthetic agents also inhibit the membrane-associated Na+, K+-adenosine triphosphatase (ATPase); however, for effective and nontoxic agents of this type the inhibition of ATPase activity is elicited at concentrations which are at least an order of magnitude higher than those which influence the membrane stability characterized by the antihemolysis effect. CH3SH was also found to inhibit the membrane Na+,K+-ATPase activity. The I25 value for the inhibition of human erythrocyte ATPase activity was obtained at CH3SH concentration of 0.12 mM which corresponded to 0.3 umol of CH3SH bound per mg of erythrocyte membrane protein. Rat erythrocyte membrane ATPase was somewhat more sensitive to CH3SH. In all cases, the binding of CH3SH to erythrocytes occurred primarily on the membrane. These results indicate that no differential exists with respect to the dose-response of these two activities associated with human erythrocyte membrane."
+        },
+        {
+            "References": "PMID:14977303",
+            "Value": "Pulpal disease is intimately associated with the immune system's response to bacteria products. Clinical pathology is mediated in part by the production of pyrogenic cytokines, especially interleukin (IL)-1, tumor necrosis factor (TNF)-alpha, and IL-6. Methyl mercaptan (CH3SH), a volatile sulfur compound produced by anaerobic Gram-negative bacteria, has been shown to contribute to the production of IL-1 by human mononuclear cells. In this report, /the authors/ investigated the production of IL-1, TNF-alpha, and IL-6 by human pulp fibroblasts when stimulated for various periods of time with lipopolysaccharide (LPS) with or without the presence of CH3SH. We found that LPS and CH3SH had no effect on the production of IL-1 or TNF-alpha. However, LPS stimulated IL-6 production, and this production was augmented when CH3SH was present. /It was concluded/ that the volatile sulfur compound CH3SH plays a role in activation and modulation of the immune response through its role in production of IL-6."
+        },
+        {
+            "References": "PMID:6588090",
+            "Value": "Hydrogen sulfide (H2S) and methyl mercaptan (CH3SH) are the volatile sulfur compounds (VSC) that were investigated for a possible role in the etiology of periodontal disease. The results show that the permeability of porcine non-keratinized sublingual mucosa is increased by up to 75% or 103% following exposure to H2S and CH3SH, respectively. The effect may be attributed to VSC reaction with tissue components resulting in alteration in the integrity of the tissue barrier. The increase in permeability of the mucosa to (35)S-Na2SO4 was dependent on both the time of exposure and concentration of VSC in the head-space. The (35)S-H2S was retained by the mucosal tissue and was able to penetrate the intact layers consisting of non-keratinized epithelium, basal membrane, and connective tissue. Treatment of the mucosa with 0.22% ZnCl2, either prior to or after exposure to CH3SH, nullified the effect of CH3SH and restored the permeability to a state similar to that observed in control 95% air/5% CO2 systems."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Methanethiol (74-93-1) (2000 CD-ROM edition). Available from, as of May 08, 2012: https://esis.jrc.ec.europa.eu/",
+            "Value": "If methanethiol introduction into the system exceeds the saturation and normal metabolizable capacity, it becomes bound to protein and erythrocytes. Thus it indirectly decreases the vascular oxygen carrying capacity. Methylmercaptan also inhibits several enzyme systems such as carbonic anhydrase, beta-tyrosinase, and Na+, K+ -ATPase. The enzyme inhibition appears to be related to a thiol-metal interference. Thus in turn affects the bioelectric activity of various systems, such as the respiratory muscles of mammals."
+        },
+        {
+            "References": "PMID:201048",
+            "Value": "Methanethiol strongly inhibited rat liver mitochondrial respiration, apparently by reacting with cytochrome C oxidase."
+        },
+        {
+            "References": "PMID:225090",
+            "Value": "... Methanethiol inhibited cytochrome c oxidase and was an effective of mitochondrial electron transfer, both in /isolated/ liver & brain /mitochondria/. /Electron transfer inhibition/ by mercaptans may be relevant to the mechanism by which energy  production in brain is depressed during hepatic coma."
+        },
+        {
+            "References": "Ratkay L et al; Archives of Oral Biology 40(4): p.337-344 (1995)",
+            "Value": "The volatile sulphur compound methyl mercaptan (CH3SH) is a by-product of protein metabolism and a principal component of oral malodor....  CH3SH alone, or in combination with interleukin-1 (IL-1) or lipopolysaccharide, can significantly enhance the secretion of PGE2, cAMP and procollagenase by human gingival fibroblasts. CH3SH also stimulated mononuclear cells to produce IL-1, which can increase cAMP production, and act in synergism with the direct effect of CH3SH on cAMP. CH3SH also significantly enhanced the activity of cathepsin B, moderately suppressed that of cathepsin G, but did not significantly affect elastase. These results provide evidence that CH3SH could be a contributing factor in the enzymatic and immunological cascade of events leading to tissue degradation in periodontal diseases."
+        },
+        {
+            "References": "PMID:3003292",
+            "Value": "... A 10 min exposure to methyl mercaptan depressed hepatic cytochrome C oxidase activity to 28% of the incubated control value, while hepatic, splenic and erythrocyte catalase activities were depressed, respectively, to 53, 52 and 71% of the incubated control."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-4148 2010.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ /Rats were/ exposed to various concentrations of methyl mercaptan for 4 hours. No deaths occurred after inhalation of 400 ppm; however, all rats exposed at 700 ppm died. An LC50 of 675 ppm was determined. By way of comparison, an LC50 of 444 ppm was determined for hydrogen sulfide."
+        },
+        {
+            "References": "PMID:6698445",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... When rats were injected with 40-120 umol methanethiol a range of responses was obtained which varied between normal consciousness and coma. The minimum blood concentration of methanethiol associated with coma (200 nmol/mL) was at least 10-fold greater than in patients with hepatic encephalopathy but brain concentrations were similar in comatose rats and those which remained awake. Blood methanethiol concentrations were similar in control and germ free rats and did not rise in cirrhotics or controls after ingestion of 2 g methionine. It is concluded that while methanethiol may accumulate in hepatic coma, it is unlikely to be of major pathogenetic importance. Endogenous mercaptans are unlikely to originate from bacterial metabolism in the gut."
+        },
+        {
+            "References": "PMID:6491466",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In normal rats in a coma induced by NH4+ alone or by methanethiol alone, the brain and blood levels of ammonia or methanethiol are much higher than those observed in rats in experimental hepatic coma. When various smaller dosage combinations of NH4+, methanethiol, and octanoic acid were injected simultaneously, coma occurred at lower brain and blood concentrations of ammonia and methanethiol. Brain ammonia and methanethiol concentrations in normal rats receiving 0.75 mmol NH4+ plus 0.15 mmol octanoic acid plus 18 umol methanethiol were comparable with those observed in 24 rats in hepatic coma after fulminant hepatic failure caused by acute massive ischemic liver necrosis. The normal rats became comatose. In these rats and in the rats in hepatic coma, the ammonia level in the brain was increased threefold and the methanethiol level in the brain was increased fivefold. Because these levels of ammonia and methanethiol were sufficient to induce coma in normal rats, they should also have been sufficient to induce coma in rats with damaged livers. Therefore, the accumulation of ammonia and methanethiol in the central nervous system after the acute massive ischemic necrosis may have been sufficient to account for the coma that ensued, without the involvement of other factors."
+        },
+        {
+            "References": "DHHS/ATSDR; Toxicological Profile for Methyl Mercapatan (1992). Available from, as of May 08, 2012: https://www.atsdr.cdc.gov/toxprofiles/tp.asp?id=224&tid=40",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Two studies that investigated the neurological effects of ip administration of methyl mercaptan have been located. An injection equivalent to 4.8 mg/kg was sufficient to induce coma in 100% of treated rats in 2-4 minutes. In germ-free rats administered methyl mercaptan at 9.6-28.8 mg/kg, 200 nmol/mL was the minimum blood concentration associated with coma. It is interesting to note that this level was much higher than the blood level of 0.5 nmol/mL in comatose rats reported ... in inhalation studies."
+        },
+        {
+            "References": "Ng W et al; J Dent Res 63(7): p.994-997 (1984)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Hydrogen sulfide (H2S) and methyl mercaptan (CH3SH) are volatile sulfur compounds (VSC)... investigated for a possible role in the etiology of periodontal disease. The ... permeability of porcine non-keratinized sublingual mucosa is increased by up to 75% or 103% following exposure to H2S and CH3SH, respectively. Treatment of the mucosa with 0.22% ZnCl2, either prior to or after exposure to CH3SH, nullified the effect of CH3SH and restored the permeability to a state similar to that observed in control ... systems."
+        },
+        {
+            "References": "DHHS/ATSDR; Toxicological Profile for Methyl Mercapatan (1992). Available from, as of May 08, 2012: https://www.atsdr.cdc.gov/toxprofiles/tp.asp?id=224&tid=40",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ An LC50 of 675 ppm was reported for male and female rats exposed to methyl mercaptan for 4 hours. However, no deaths (0/10) occurred in rats exposed to 400 ppm for 4 hours, and there was 100% mortality at 700 ppm and above. These authors also reported that no mortality was observed in male rats exposed to methyl mercaptan at doses up to 57 ppm for 3 months."
+        },
+        {
+            "References": "PMID:908872",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Eleven rats in experimental hepatic coma following acute massive hepatic necrosis had /methanethiol/ blood levels four to 18 times the average normal. ..."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-4148 2010.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Rats that inhaled methyl mercaptan at 1400 ppm for 15 minutes became lethargic or lapsed into a reversible coma; the effective concentration that produced coma in 50% of these animals (EC50) was 0.16% methyl mercaptan in air. ... /Investigators/ exposed female rats for 30 to 35 minutes and found no effects at 500 ppm. At 700 ppm, the animals were lethargic, but recovery was instantaneous after termination of the exposure. At 1500 ppm, the righting reflex was abolished; histologically, alveolar hemorrhage and thickening were observed. After exposure at 10,000 ppm for 1 minute, convulsions with central nervous system (CNS) depression, paralysis of locomotor muscles, and mucous membrane irritation were recorded. Death occurred within 14 minutes. Necropsy revealed a small area of hemorrhaging in the lungs. Most investigators have agreed that methyl mercaptan acts like hydrogen sulfide on the respiratory center, producing death by respiratory paralysis."
+        },
+        {
+            "References": "EPA/Office of Pollution Prevention and Toxics; High Production Volume (HPV) Challenge Program's Robust Summaries and Test Plans. Methyl Mercaptan and Methyl Mercaptide. Available from, as of May 08, 2012: https://www.epa.gov/hpv/pubs/hpvrstp.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Groups of male Sprague-Dawley rats (31/group) were exposed whole-body to concentrations of 0, 2, 17 or 57 ppm methyl mercaptan for 7 hr/day, 5 days/wk for an overall period of 3 months. ...A subset of 10 animals from each group was designated for special metabolic performance studies...at the end of the 3-month experimental period ... Biological data obtained from the balance of the animals included terminal body weight, oxygen consumption, SMA 12/60 blood analyses, and organ weights (brain, lung, liver, spleen, heart, kidneys, and adrenals). Complete histopathologies of livers of the 84 remaining sham and exposed rats were performed. No mortality response was observed in any sham or exposed population of rats during the 3-month period. Average terminal body weights were lower than those of sham controls for all rats in the exposed groups. This difference was statistically significant in the 57 ppm group and showed a statistically significant dose-related trend... The same was true when average rates of body weight increases were determined by regression analyses for the metabolic subsets. ... Statistically significant changes were observed in serum components of terminal blood samples from animals of all exposed groups subjected to SMA 12/60 analysis... Average total serum proteins were significantly higher for all exposed groups. Average albumin concentrations were significantly lower for all exposed groups. Significant reductions in inorganic phosphate occurred in the 2 and 17 ppm groups. Cholesterol was significantly elevated in the 2 ppm group and total bilirubin was significantly higher in the 2 and 17 ppm groups. Blood urea N was significantly lower in the 57 ppm group and lactate dehydrogenase was significantly lower in all three exposed groups. None of these trends were dose-related at the 95% confidence level. No significant differences in intestinal transit performance parameters were observed in any of the metabolic performance subsets. No consistent patterns were observed in average values of systolic blood pressure in the metabolic subset rats. ... Routine histopathological examination was conducted for five rats per dose group and was negative for the heart, small bowel, and kidneys. Lungs exhibited the pneumonia, emphysematic changes, and occasional fibrosis that are characteristic of rat colonies. ...Some evidence of pathological changes was noted in liver sections from 31 rats each in the 2, 17, and 57 ppm groups. In all cases there was evidence of inflammatory cells and possibly enlarged bile ductules. Hyperplastic nodules were observed in one liver section from the 2 ppm and in three liver sections from the 57 ppm group. One hepatic carcinoma was ... observed ... on the ventral surface of the liver of a rat in the 17 ppm group. /Similar results were observed in 31/ ...sham control/s/...  Therefore, the treatment relationship of the hyperplastic nodules observed in the treated animals can be ruled out."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 689",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Methyl mercaptan is a CNS depressant and acts like hydrogen sulfide on the respiratory center to produce death by respiratory paralysis. Lower concns produce pulmonary edema."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Methanethiol (74-93-1) (2000 CD-ROM edition). Available from, as of May 08, 2012: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ /In an/ Ames test /conducted in/ Salmonella typhimurium strains TA 1535, TA 1537, TA 102, TA 98, and TA 100, sodium methyl mercaptan at concentrations of 312.5 to 5000 ug/plate was /non-mutagenic/ ..."
+        },
+        {
+            "References": "EPA/Office of Pollution Prevention and Toxics; High Production Volume (HPV) Challenge Program's Robust Summaries and Test Plans. Methyl Mercaptan and Methyl Mercaptide. Available from, as of May 08, 2012: https://www.epa.gov/hpv/pubs/hpvrstp.htm",
+            "Value": "/GENOTOXICITY/ The genotoxic potential of nose-only inhalation exposure of methyl mercaptan to induce micronucleus formation in bone marrow erythrocytes was determined in Swiss-Webster mice. ... Fifteen mice/sex/treatment group were exposed to methyl mercaptan by nose-only inhalation at 114, 258, or 512 ppm. Five mice/sex/group were sacrificed 24,48, and 72 hours cytotoxicity and micronucleus formation. ... Clinical observations in this experiment included shallow breathing and hypoactivity at the fourth and fifth hours, respectively, of exposure at 258 ppm in all mice. All mice at 258 ppm appeared normal on Day 2 and on all subsequent experiment days. Shallow breathing at the third and fourth hours of exposure, and hypoactivity at the fifth hour of exposure were observed at 512 ppm in all mice. One female mouse was found dead after 2 hours of exposure at 512 ppm, and two female and two male mice were found dead at 512 ppm on Day 2. All surviving mice at 512 ppm appeared normal on Day 2 and on all subsequent experiment days. Mice treated with 114 ppm methyl mercaptan, air control, or urethane /(positive control)/ appeared normal throughout the experiment. The percentages of PCEs /RNA-positive erythrocytes/  among RBCs in groups treated with methyl mercaptan did not differ significantly from those of the air control groups in any of the dose groups for either sex. In male mice, none of the individual dose groups had a statistically significant increase in MN frequency. Using the Cochran-Armitage test for a trend in binomial proportions, a statistically significant upward trend in micronucleus (MN) frequency was observed in female mice sacrificed at 24 hr after exposure to the methyl mercaptan. However, the MN frequency in the control group was lower than the laboratory historical value (0.21%) for females of this strain of mice, and none of the individual dose groups had a statistically significant increase in MN frequency."
+        },
+        {
+            "References": "PMID:1980867",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ The effects of methanethiol (MT), DL-dithiothreitol (DTT) and N-ethyl-maleimide (NEM) were studied on the electrical activities of the frog cord. Methanethiol depressed spontaneous dorsal and ventral root potentials, whereas no effects were observed on evoked responses. ... It is suggested that interneuronal membrane sulphydryl groups of dorsal horn cell population are involved in the origin of spontaneous electrical cord activities and that MT interacts with these interneurons, probably oxidizing membrane SH groups."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Methanethiol (74-93-1) (2000 CD-ROM edition). Available from, as of May 08, 2012: https://esis.jrc.ec.europa.eu/",
+            "Value": "/OTHER TOXICITY INFORMATION/ In rats with acute hepatic encepahaopathy caused by liver ischemia and in dogs suffering from hepatic encephalopathy resulting from chronic liver disease, large and significant increases in ammonia levels were measured. However, the mean levels of methanethiol mised disulfides in rats and dogs with hepatic encephalopathy were not different from the mean normal levels in these animals. It is concluded that in these animal models of liver failure the role of methanethiol in the pathogenesis of encephalopathy is probably minor or insignificant."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Methanethiol (74-93-1) (2000 CD-ROM edition). Available from, as of May 08, 2012: https://esis.jrc.ec.europa.eu/",
+            "Value": "/OTHER TOXICITY INFORMATION/ Methanethiol inhbited glutaminase activity of the synaptosomal mitochondria from the cerebrum and brain stem of rats. These neurotoxic substances might cause hepatic encephalopathy by decreasing the synthesis and release of the excitatory neurotransmitters such as glutamic acid."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2011. Available from, as of July 19, 2012: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Smith KA et al; Soil Sci 116: 313-9 (1973)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of methyl mercaptan can be estimated to be 13(SRC). According to a classification scheme(2), this estimated Koc value suggests that methyl mercaptan is expected to have very high mobility in soil. Gaseous methyl mercaptan has been observed to partition to soils(3). For example, when gaseous methyl mercaptan was passed over six air-dried and moist (50% field capacity) soils, 2.4-32.1 mg/g and 2.2-21.4 mg/g of methyl mercaptan rapidly adsorbed to the dry and moist soils, respectively(3). Neither the capacity or rate of sorption was correlated to soil pH, organic matter content, or clay content; sterile controls ruled out the involvement of  microorganisms(3); it was suggested that adsorption to soil surfaces might be an environmental sink for gaseous methyl mercaptan(3)."
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "6692710f303528b49832d7c3"
+    },
+    "CID": {
+        "$numberInt": "86417"
+    },
+    "Name": "Fluquinconazole",
+    "IUPACName": "3-(2,4-dichlorophenyl)-6-fluoro-2-(1,2,4-triazol-1-yl)quinazolin-4-one",
+    "CanonicalSMILES": "C1=CC2=C(C=C1F)C(=O)N(C(=N2)N3C=NC=N3)C4=C(C=C(C=C4)Cl)Cl",
+    "Synonyms": [
+        "Fluquinconazole",
+        "136426-54-5",
+        "Castellan",
+        "Fluquinconazole [ISO]",
+        "4(3H)-Quinazolinone",
+        "3-(2,4-dichlorophenyl)-6-fluoro-2-(1H-1,2,4-triazol-1-yl)-",
+        "3-(2,4-dichlorophenyl)-6-fluoro-2-(1,2,4-triazol-1-yl)quinazolin-4-one",
+        "0AE2N0JNI1",
+        "CHEBI:83923",
+        "3-(2,4-Dichlorophenyl)-6-fluoro-2-(1H-1,2,4-triazol-1-yl)-4(3H)-quinazolinone",
+        "3-(2,4-dichlorophenyl)-6-fluoro-2-(1H-1,2,4-triazol-1-yl)quinazolin-4(3H)-one",
+        "Fluquinconazole 10 microg/mL in Isooctane",
+        "3-(2,4-dichlorophenyl)-6-fluoro-2-(1H-1,2,4-triazol-1-yl)-3,4-dihydroquinazolin-4-one",
+        "UNII-0AE2N0JNI1",
+        "JOCKEY",
+        "VISTA"
+    ],
+    "IsomericSMILES": "C1=CC2=C(C=C1F)C(=O)N(C(=N2)N3C=NC=N3)C4=C(C=C(C=C4)Cl)Cl",
+    "INCHI": "InChI=1S/C16H8Cl2FN5O/c17-9-1-4-14(12(18)5-9)24-15(25)11-6-10(19)2-3-13(11)22-16(24)23-8-20-7-21-23/h1-8H",
+    "INCHIKEY": "IJJVMEJXYNJXOJ-UHFFFAOYSA-N",
+    "Formula": "C16H8Cl2FN5O",
+    "MolecularWeight": {
+        "$numberDouble": "376.2"
+    },
+    "Description": "Fluquinconazole is a member of the class of quinazolines that is 6-fluoroquinazolin-4-one carrying additional 1,2,4-triazol-1-yl and 2,4-dichlorophenyl substituents at positions 2 and 3 respectively. A fungicide used to control Ascomycetes, Deuteromycetes and Basidiomycetes spp. on cereals, beets and fruit. It has a role as an EC 1.14.13.70 (sterol 14alpha-demethylase) inhibitor and an antifungal agrochemical. It is a member of quinazolines, a dichlorobenzene, a member of triazoles, an organofluorine compound, a conazole fungicide and a triazole fungicide.",
+    "XlogP": {
+        "$numberDouble": "4"
+    },
+    "Complexity": {
+        "$numberInt": "565"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Translocation of 14C-labeled fluquinconazole was studied in seedling wheat leaves, both uninfected and infected with Mycosphaerella graminicola, using combustion analysis and radio thin-layer chromatographic analysis. Fluquinconazole was found to translocate acropetally but not basipetally, accumulating around infection sites within 6 days after treatment. This accumulation occurred before M. graminicola hyphae had spread beyond one host cell around the invasion site, suggesting a host response to infection. Inoculated leaves showed increased rates of transpiration and stomatal conductance but decreased net photosynthesis, indicating a complex response to infection and fungicide treatment. The exact mechanism of fungicide accumulation was not determined.",
+            "reference": "Metcalfe, R. J., Shaw, M. W., & Russell, P. E. (2000). Effects of infection by Mycosphaerella graminicola on translocation of fluquinconazole in wheat seedlings. Phytopathology, 90(12), 1345-1351.",
+            "method": {
+                "Test Plant": "Wheat (cv. Riband)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Wheat seedlings were sown in 125 mm square and 100 mm deep pots filled with John Innes number two compost plus Osmocote slow release fertilizer (N:P:K, 14:13:13). Plants were kept in a growth chamber with 16-h photoperiod at 20\u00b0C constant temperature and 80-90% relative humidity.",
+                "Chemical Preparation": "Two 14C-radiolabeled fungicides were used - prochloraz (>99% purity, specific activity 14.6 \u03bcCi/mg) and fluquinconazole (>99% purity, specific activities 128 or 168 \u03bcCi/mg). Experimental solutions were diluted in 85% aqueous acetone with 1 g/liter Hostarex phosphonate adjuvant.",
+                "Pesticide Application Details for the Plant": "Fungicide drops at 0.3 g ai/liter and ~1900 Bq/\u03bcl were applied to leaves. For fluquinconazole movement study, Hostarex was reduced to 0.5 g/liter.",
+                "Other Information": "Foliar uptake was quantified by removing surface deposits at different days post-treatment (dpt) by acetate stripping and liquid scintillation counting."
+            },
+            "result": "[{\"Days after application\": 18.52, \"2 cm below the application site (% of applied)\": 54.36, \"2 cm above the application site (% of applied)\": 9.06, \"4 cm above the application site (% of applied)\": 5.23, \"6 cm above the application site (% of applied)\": 3.62}, {\"Days after application\": 6.84, \"2 cm below the application site (% of applied)\": 49.12, \"2 cm above the application site (% of applied)\": 18.32, \"4 cm above the application site (% of applied)\": 12.88, \"6 cm above the application site (% of applied)\": 9.46}, {\"Days after application\": 5.43, \"2 cm below the application site (% of applied)\": 33.22, \"2 cm above the application site (% of applied)\": 19.73, \"4 cm above the application site (% of applied)\": 17.31, \"6 cm above the application site (% of applied)\": 18.72}, {\"Days after application\": 4.22, \"2 cm below the application site (% of applied)\": 19.73, \"2 cm above the application site (% of applied)\": 17.91, \"4 cm above the application site (% of applied)\": 17.51, \"6 cm above the application site (% of applied)\": 20.73}, {\"Days after application\": 3.62, \"2 cm below the application site (% of applied)\": 16.3, \"2 cm above the application site (% of applied)\": 15.7, \"4 cm above the application site (% of applied)\": 17.91, \"6 cm above the application site (% of applied)\": 22.95}]"
+        }
+    ]
+}

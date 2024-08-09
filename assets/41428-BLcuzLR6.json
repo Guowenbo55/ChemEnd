@@ -1,0 +1,87 @@
+{
+    "_id": {
+        "$oid": "66927124303528b49832d814"
+    },
+    "CID": {
+        "$numberInt": "41428"
+    },
+    "Name": "Triclopyr",
+    "IUPACName": "2-(3,5,6-trichloropyridin-2-yl)oxyacetic acid",
+    "CanonicalSMILES": "C1=C(C(=NC(=C1Cl)Cl)OCC(=O)O)Cl",
+    "Synonyms": [
+        "TRICLOPYR",
+        "55335-06-3",
+        "Garlon",
+        "Redeem",
+        "Garlon 2",
+        "Trichlopyr",
+        "Confront",
+        "Dowco 233",
+        "Turflon",
+        "Garlon 250",
+        "2-((3,5,6-Trichloropyridin-2-yl)oxy)acetic acid",
+        "3,5,6-Trichloro-2-pyridyloxyacetic acid",
+        "2-(3,5,6-trichloropyridin-2-yl)oxyacetic acid",
+        "Acetic acid",
+        "[(3,5,6-trichloro-2-pyridinyl)oxy]-",
+        "NSC 190671"
+    ],
+    "IsomericSMILES": "C1=C(C(=NC(=C1Cl)Cl)OCC(=O)O)Cl",
+    "INCHI": "InChI=1S/C7H4Cl3NO3/c8-3-1-4(9)7(11-6(3)10)14-2-5(12)13/h1H,2H2,(H,12,13)",
+    "INCHIKEY": "REEQLXCGVXDJSQ-UHFFFAOYSA-N",
+    "Formula": "C7H4Cl3NO3",
+    "MolecularWeight": {
+        "$numberDouble": "256.5"
+    },
+    "Description": "Trichlopyr is a monocarboxylic acid that is (pyridin-2-yloxy)acetic acid substituted by chloro groups at positions 3, 5 and 6. It is an agrochemical used as a herbicide. It has a role as an environmental contaminant, a xenobiotic, a herbicide and an agrochemical. It is an aromatic ether, a chloropyridine and a monocarboxylic acid.",
+    "XlogP": {
+        "$numberDouble": "3"
+    },
+    "Complexity": {
+        "$numberInt": "216"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Hydrilla and Eurasian watermilfoil (EWM) are invasive aquatic plants that aggressively compete with native plants, forming dense, monotypic stands. Previous studies have established the selectivity and concentration exposure time requirements for aquatic herbicides used to control hydrilla and EWM; therefore, the objective of this research was to conduct a comparative study evaluating fluridone, triclopyr, and penoxsulam absorption and translocation in these two aquatic plants. Using 14C-labeled herbicides, absorption and translocation were measured over a 192-h time course. On the basis of differences in lipophilicity among the three herbicides (fluridone, penoxsulam, triclopyr), it was expected that fluridone would have the highest accumulation, with significantly lower accumulation for penoxsulam and triclopyr. However, experimental results did not support this hypothesis. Triclopyr accumulation was highest in EWM and was equivalent to fluridone in hydrilla. Penoxsulam absorption and translocation were low in both species. Additionally, accumulation after shoot exposure was approximately three times greater for EWM compared with hydrilla. Shoot-to-root translocation was limited, with a maximum of 12.5% of absorbed triclopyr reaching hydrilla roots 192 h after treatment.",
+            "reference": "Vassios, J. D., Nissen, S. J., Koschnick, T. J., & Heilman, M. A. (2017). Fluridone, penoxsulam, and triclopyr absorption and translocation by Eurasian watermilfoil (Myriophyllum spicatum) and hydrilla (Hydrilla verticillata). J Aquat Plant Manage, 55, 58-64.",
+            "method": {
+                "Test Plant": "Eurasian watermilfoil (EWM) biotype from Colorado and a fluridone-susceptible dioecious hydrilla population from Florida",
+                "Apply Location": "Shoot application",
+                "Plant Grown Condition": "EWM maintained in 1000L tanks year-round. Hydrilla maintained from tubers in 1000L tank year-round. Grown in greenhouse under 400W sodium halide lamps providing ~200 \u03bcmol/m2/s supplemental light. Mid-Nov to late Jan - 10h day length. Late Jan to mid-Nov - 10-15h day length (normal seasonal variation). 24\u00b0C day/18\u00b0C night temperatures. For absorption/translocation study, 15cm apical shoots transferred to 5cm diam jars with topsoil/fertilizer, allowed to root for ~14 days in 30L tanks before treatment.",
+                "Chemical Preparation": "10 \u03bcg/L fluridone with 41.67 kBq 14C-fluridone (1357.9 kBq/mg), 10 \u03bcg/L penoxsulam with 66.67 kBq 14C-penoxsulam (2273.3 kBq/mg), 1 mg/L triclopyr with 66.67 kBq 14C-triclopyr (2689.5 kBq/mg) plus supplemental technical triclopyr.",
+                "Pesticide Application Details for the Plant": "Rooted shoot cuttings transferred to 5cm jars with silica sand/fertilizer, agarose gel layer on top. 3 plants per 4L tank with 3L water. Treated with herbicide solutions.",
+                "Other Information": "3 replicate tanks per species per herbicide treatment. Plants harvested at 6, 12, 24, 48, 96, 192 hours after treatment (HAT). Shoots and roots separated, rinsed. Root exudates collected from sand washings."
+            },
+            "result": "[{\"Plant\": \"Hydrilla\", \"Hours after application\": 6, \"Shoot (ug/g)\": 28.169, \"Root (ug/g)\": 5.633, \"Translocation to roots (% of absorbed)\": 6.008}, {\"Plant\": \"Hydrilla\", \"Hours after application\": 12, \"Shoot (ug/g)\": 22.535, \"Root (ug/g)\": 5.633, \"Translocation to roots (% of absorbed)\": 4.838}, {\"Plant\": \"Hydrilla\", \"Hours after application\": 24, \"Shoot (ug/g)\": 50.704, \"Root (ug/g)\": 5.633, \"Translocation to roots (% of absorbed)\": 1.975}, {\"Plant\": \"Hydrilla\", \"Hours after application\": 48, \"Shoot (ug/g)\": 61.971, \"Root (ug/g)\": 5.633, \"Translocation to roots (% of absorbed)\": 3.588}, {\"Plant\": \"Hydrilla\", \"Hours after application\": 96, \"Shoot (ug/g)\": 90.14, \"Root (ug/g)\": 33.802, \"Translocation to roots (% of absorbed)\": 10.0}, {\"Plant\": \"Hydrilla\", \"Hours after application\": 192, \"Shoot (ug/g)\": 95.774, \"Root (ug/g)\": 42.253, \"Translocation to roots (% of absorbed)\": 10.645}, {\"Plant\": \"Eurasian watermilfoil\", \"Hours after application\": 6, \"Shoot (ug/g)\": 174.647, \"Root (ug/g)\": 61.971, \"Translocation to roots (% of absorbed)\": 7.389}, {\"Plant\": \"Eurasian watermilfoil\", \"Hours after application\": 12, \"Shoot (ug/g)\": 169.014, \"Root (ug/g)\": 56.338, \"Translocation to roots (% of absorbed)\": 8.232}, {\"Plant\": \"Eurasian watermilfoil\", \"Hours after application\": 24, \"Shoot (ug/g)\": 256.338, \"Root (ug/g)\": 78.873, \"Translocation to roots (% of absorbed)\": 7.349}, {\"Plant\": \"Eurasian watermilfoil\", \"Hours after application\": 48, \"Shoot (ug/g)\": 312.676, \"Root (ug/g)\": 67.605, \"Translocation to roots (% of absorbed)\": 4.257}, {\"Plant\": \"Eurasian watermilfoil\", \"Hours after application\": 96, \"Shoot (ug/g)\": 473.239, \"Root (ug/g)\": 64.788, \"Translocation to roots (% of absorbed)\": 2.971}, {\"Plant\": \"Eurasian watermilfoil\", \"Hours after application\": 192, \"Shoot (ug/g)\": 349.295, \"Root (ug/g)\": 64.605, \"Translocation to roots (% of absorbed)\": 2.891}]"
+        },
+        {
+            "content": "Old World climbing fern is one of the most invasive plants in natural areas of central and southern Florida. The fern spreads across the landscape by wind-blown spores and invades isolated and undisturbed habitats such as interior portions of the Florida Everglades. Land managers in Florida have reported that multiple herbicide treatments are required to control the fern, which could indicate that herbicides do not translocate throughout the plant in long-established populations. We conducted a greenhouse study to determine the absorption and translocation patterns in Old World climbing fern using the three herbicides most commonly used for management of this plant by land managers in Florida. Using 14C-labeled herbicides, we evaluated absorption and translocation of glyphosate (2.25 kg ai ha\u22121), metsulfuron (0.10 kg ai ha\u22121), and triclopyr (1.68 kg ai ha\u22121) in Old World climbing fern using five different application scenarios (cut-and-spray, basal spray, 25% foliar spray, 50% foliar spray, and 100% foliar spray). Triclopyr was absorbed to the greatest extent (60.3%) of applied radioactive compounds compared to glyphosate (31.2%) and metsulfuron (19.8%). The majority of radioactivity remained in treated leaves for all herbicides with only small percentages of the absorbed radioactivity being detected in other plant parts. All three herbicides translocated acropetally and basipitally to some extent. Radioactivity, for the most part, translocated evenly throughout the plants but the greatest amount of radioactivity derived from triclopyr occurred in rhizomes when the cut-and-spray and basal applications were used. The radioactivity in rhizomes derived from glyphosate was greater in those treated using cut-and-spray. Based on autoradiographs, there was limited horizontal movement of any herbicide in the rhizomes of Old World climbing fern which could explain why resprouts are observed several weeks following treatment.",
+            "reference": "Hutchinson, J. T., Langeland, K. A., MacDonald, G. E., & Querns, R. (2010). Absorption and translocation of glyphosate, metsulfuron, and triclopyr in old world climbing fern (Lygodium microphyllum). Weed science, 58(2), 118-125.",
+            "method": {
+                "Test Plant": "Old World climbing fern (Lygodium microphyllum)",
+                "Apply Location": "Five different application scenarios were used - (1) cut-and-spray (plants cut 6 cm from base and remaining foliage sprayed), (2) basal spray (0-6 cm above base), (3) 25% foliar (0-25 cm above base), (4) 50% foliar (0-50 cm above base), and (5) 100% foliar spray.",
+                "Plant Grown Condition": "Old World climbing fern was grown from rhizomes or spores in Okeelanta muck soil in 0.5 L plastic pots in a greenhouse with 21-37\u00b0C temperature range and natural photoperiod under 50% shade cloth. Plants were grown to 1 m height prior to treatment.",
+                "Chemical Preparation": "Glyphosate at 1.67 kg ae/ha, metsulfuron at 0.10 kg ai/ha, and triclopyr at 1.20 kg ae/ha were used. Herbicides were applied with 0.5% v/v non-ionic surfactant. For absorption and translocation studies, 14C-labeled glyphosate (specific activity 1998.0 kBq/mg), metsulfuron (1845.2 kBq/mg), and triclopyr (895.4 kBq/mg) were used by applying 5 ml droplets on adaxial surface immediately after spraying.",
+                "Pesticide Application Details for the Plant": "Total of 12.12 kBq/mg 14C-glyphosate, 11.84 kBq/mg 14C-metsulfuron, and 12.95 kBq/mg 14C-triclopyr were applied per plant by spotting on pinnae or rachis at respective heights for each application scenario.",
+                "Other Information": "Plants were harvested at 9 days after treatment (DAT). Radiolabeled leaflets were excised and washed to determine % uptake from rinsate. Autoradiographs were obtained and plants sectioned into rhizomes/stolons, lower 50% rachis/leaves, and upper 50% rachis/leaves to quantify radioactivity and translocation by liquid scintillation spectrometry"
+            },
+            "result": "[{\"Treatment\": \"Cut and spray\", \"Leaf weash (% of applied)\": 5.8, \"Absorbed (%)\": 51.1, \"Treated leaves (%)\": 38.4, \"Translocated to Top 50% (%)\": \"-\", \"Translocated to Bottom 50% (%)\": 4.6, \"Translocated to Rhizomes(%)\": 8.1}, {\"Treatment\": \"Basal\", \"Leaf weash (% of applied)\": 6.9, \"Absorbed (%)\": 53.3, \"Treated leaves (%)\": 36.2, \"Translocated to Top 50% (%)\": \"2.8\", \"Translocated to Bottom 50% (%)\": 7.0, \"Translocated to Rhizomes(%)\": 7.3}, {\"Treatment\": \"25% foliar\", \"Leaf weash (% of applied)\": 11.1, \"Absorbed (%)\": 64.6, \"Treated leaves (%)\": 52.0, \"Translocated to Top 50% (%)\": \"4.4\", \"Translocated to Bottom 50% (%)\": 5.9, \"Translocated to Rhizomes(%)\": 1.9}, {\"Treatment\": \"50% foliar\", \"Leaf weash (% of applied)\": 12.8, \"Absorbed (%)\": 64.3, \"Treated leaves (%)\": 49.4, \"Translocated to Top 50% (%)\": \"5.5\", \"Translocated to Bottom 50% (%)\": 6.3, \"Translocated to Rhizomes(%)\": 1.5}, {\"Treatment\": \"100% foliar\", \"Leaf weash (% of applied)\": 6.8, \"Absorbed (%)\": 68.3, \"Treated leaves (%)\": 57.7, \"Translocated to Top 50% (%)\": \"4.2\", \"Translocated to Bottom 50% (%)\": 9.7, \"Translocated to Rhizomes(%)\": 0.7}]"
+        },
+        {
+            "content": "The study aimed to understand the translocation, toxicity, and fate of dicamba, picloram, and triclopyr in horsenettle through greenhouse experiments. Results showed that roots of horsenettle were the major sink for photosynthate accumulation during the 0.2- to 0.5-bloom growth stages, as seen through autoradiography. Dicamba, picloram, and triclopyr were translocated into the roots of horsenettle, with accumulation continuing for at least 16 days. The amount of carbon associated with each herbicide found in the roots ranged from 1.3% at 4 days to 3.8% at 16 days. After 16 days, slightly more carbon from plants treated with dicamba and triclopyr (3.8% and 3.6%, respectively) than picloram (3.0%) was translocated to the roots. These compounds were metabolized slowly in the foliage and roots, as determined by thin-layer chromatography (TLC) and autoradiography. In translocation studies, picloram at 1.12 kg/ha killed both treated and untreated shoots and roots, while dicamba and triclopyr at the highest rates killed the treated shoots and partially destroyed the root system. Symptoms were observed on the untreated shoots, but full recovery occurred at 8 weeks. The study suggests that the relatively higher herbicidal effectiveness of picloram must be attributed to its greater inherent potency, despite only slight differences in translocation observed between the herbicides.",
+            "reference": "Gorrell, R. M., Bingham, S. W., & Foy, C. L. (1988). Translocation and fate of dicamba, picloram, and triclopyr in horsenettle, Solanum carolinense. Weed science, 36(4), 447-452.",
+            "method": {
+                "Test Plant": "Horsenettle (Solanum carolinense)",
+                "Apply Location": "Foliar spray application",
+                "Plant Grown Condition": "Plants grown from seed in greenhouse, transplanted to 15 cm pots at 2-3 leaf stage. Grown in potting mix of expanded shale:vermiculite:peat (2:1:1 v/v/v) with fertilizers until early flowering stage.",
+                "Chemical Preparation": "Solutions prepared by mixing radiolabeled herbicides (4 \u00b5Ci dicamba-14C, picloram-14C, triclopyr-14C) with commercial formulations (Banvel 4-S, Tordon 22K, Garlon 3A) in water to 280 L/ha spray volume.",
+                "Pesticide Application Details for the Plant": "Triclopyr at 3.36 kg/ha",
+                "Other Information": "Completely randomized design with 4 harvest dates."
+            },
+            "result": "[{\"Concentration (kg/ha)\": 1.68, \"Weeks after application\": 1, \"Treated (phytotoxicity ratings)\": 80, \"Untreated (Phytotoxicity ratings)\": 20}, {\"Concentration (kg/ha)\": 1.68, \"Weeks after application\": 4, \"Treated (phytotoxicity ratings)\": 80, \"Untreated (Phytotoxicity ratings)\": 30}, {\"Concentration (kg/ha)\": 1.68, \"Weeks after application\": 8, \"Treated (phytotoxicity ratings)\": 100, \"Untreated (Phytotoxicity ratings)\": 0}, {\"Concentration (kg/ha)\": 1.68, \"Weeks after application\": 18, \"Treated (phytotoxicity ratings)\": 100, \"Untreated (Phytotoxicity ratings)\": 0}, {\"Concentration (kg/ha)\": 3.36, \"Weeks after application\": 1, \"Treated (phytotoxicity ratings)\": 80, \"Untreated (Phytotoxicity ratings)\": 20}, {\"Concentration (kg/ha)\": 3.36, \"Weeks after application\": 4, \"Treated (phytotoxicity ratings)\": 80, \"Untreated (Phytotoxicity ratings)\": 30}, {\"Concentration (kg/ha)\": 3.36, \"Weeks after application\": 8, \"Treated (phytotoxicity ratings)\": 100, \"Untreated (Phytotoxicity ratings)\": 0}, {\"Concentration (kg/ha)\": 3.36, \"Weeks after application\": 18, \"Treated (phytotoxicity ratings)\": 100, \"Untreated (Phytotoxicity ratings)\": 0}]"
+        }
+    ]
+}

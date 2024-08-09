@@ -1,0 +1,241 @@
+{
+    "_id": {
+        "$oid": "6682e847c4e5dba5ffba24cb"
+    },
+    "CID": {
+        "$numberInt": "6391"
+    },
+    "Name": "DICHLORODIFLUOROMETHANE",
+    "IUPACName": "dichloro(difluoro)methane",
+    "CanonicalSMILES": "C(F)(F)(Cl)Cl",
+    "Synonyms": [
+        "DICHLORODIFLUOROMETHANE",
+        "75-71-8",
+        "Difluorodichloromethane",
+        "Genetron 12",
+        "Refrigerant 12",
+        "Freon 12",
+        "Halon",
+        "Eskimon 12",
+        "Frigen 12",
+        "dichloro(difluoro)methane",
+        "Electro-CF 12",
+        "Chlorofluorocarbon 12",
+        "Algofrene type 2",
+        "Isotron 2",
+        "Propellant 12"
+    ],
+    "IsomericSMILES": "C(F)(F)(Cl)Cl",
+    "INCHI": "InChI=1S/CCl2F2/c2-1(3,4)5",
+    "INCHIKEY": "PXBRQCKWGAHEHS-UHFFFAOYSA-N",
+    "Formula": "CCl2F2",
+    "MolecularWeight": {
+        "$numberDouble": "120.91"
+    },
+    "Description": "Dichlorodifluoromethane is an organochlorine compound and an organofluorine compound.",
+    "XlogP": {
+        "$numberDouble": "2.3"
+    },
+    "Complexity": {
+        "$numberInt": "30"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. n3 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2010. Available from, as of Feb 15, 2013: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 12 was calculated in fish for dichlorodifluoromethane(SRC), using a log Kow of 2.16(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Bopp RF et al; Org Geochem 3: 9-14 (1981) (2) Scheutz C et al; J Environ Qual 33: 61-71 (2004)",
+            "Value": "AEROBIC: No evidence of dichlorodifluoromethane biodegradation was found in a microcosm designed to simulate Narragansett Bay in a month-long experiment(1). Dichlorodifluormethane was not biodegraded in soil samples from the Skellinggsted Landfall, Holbaek, Denmark(2). The soil at the site was a loamy sand - 5.7% silt, 88.1% sand, 5.3% gravel; 3.2% w/w organic content, 25% w/w moisture content(2)."
+        },
+        {
+            "References": "(1) Deipser A, Stegmann R; Environ Sci Pollut Res 4: 209-16 (1997) (2) Lovely DR, Woodward JC; Environ Sci Technol 26: 925-29 (1992) (3) Scheutz C et al; Environ Sci Technol 41: 7714-7722 (2007)",
+            "Value": "ANAEROBIC: Dichlorodifluoromethane was degraded under anaerobic landfill conditions in laboratory test digesters(1). The degradation product observed was dichlorofluoromethane(1). Dichlorodifluoromethane was degraded under anaerobic conditions over a 100 day incubation period using sediment from the Potomac River, but was not biodegraded by an aerobic soil(2). Using batch landfill microcosms employing organic household waste, refuse excavated from a landfill and an experimental digestor simulating a landfill, biodegradation of dichlordifluoromethane release was studied. Dichlorodifluoromethane, present at 225 ug/L exhibited a degradation rate constant of 0.029/day, corresponding to a half-life of 23.9 days when incubated anaerobically in fresh organic waste collected from Danish households. The time required to achieve methane production of 20% volume in the headspace was 15 days(3)."
+        },
+        {
+            "References": "(1) Sylvestre M et al; Crit Rev Environ Sci Technol 27: 87-111 (1997) (2) Lovely DR, Woodward JC; Environ Sci Technol 26: 925-29 (1992)",
+            "Value": "PURE CUTLURE: Pure cultures of Methanosarcina barkerii and Methanobacterium thermoautotrophicum were shown to biodegrade dichlorodifluoromethane via reductive dehalogenation(1). Pure bacterial cultures isolated from soils obtained from Rockville, MD were shown to biodegrade dichlorodifluoromethane(2)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Staples CA et al; Environ Toxicol Chem 4: 131-42 (1985)",
+            "Value": "None of the 47 stations in EPA's STORET database reported any dichlorodifluoromethane in biota(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 3",
+            "Value": "log Kow = 2.16"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Haddad, L.M., Clinical Management of Poisoning and Drug Overdose. 2nd ed. Philadelphia, PA: W.B. Saunders Co., 1990., p. 1281",
+            "Value": "Freons are toxic to humans by several mechanisms. Inhaled fluorocarbons sensitized the myocardium to catecholamines, frequently resulting in lethal ventricular arrhythmias. Because they are gases heavier than air, fluorocarbons can displace atmospheric oxygen, thus resulting in asphyxiation. These compounds also have a central nervous system (CNS) anesthetic effect analogous to a structurally similar general anesthetic, halothane. Pressurized refrigerant or liquid fluorocarbons with a low boiling point have a cryogenic effect on exposed tissues, causing frostbite, laryngeal or pulmonary edema, and gastrointestinal perforation. Certain fluorocarbons degrade at high temperatures into toxic products of chlorine, hydrofluoric acid, or phosgene gases. /Freons/"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "National Research Council. Drinking Water and Health. Volume 3. Washington, DC: National Academy Press, 1980., p. 102",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ After acute exposure by inhalation to a 13.5% concentration for 30 sec, myocardium in unanesthetized dogs was sensitized to subsequent injection of epinephrine. In contrast, a 2.5% concentration that was inhaled 6 hr/day for 5 days resulted in no cardiac sensitization in dogs."
+        },
+        {
+            "References": "PMID:6449983",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The cardiotoxicity of high concentrations of inhaled difluorodichloromethane (FC 12) has now been acknowledged. In the present study, the effects of FC 12 on the electrical activity of cells in the atrial and ventricular myocardium of anesthetized rats were recorded with \"flexibly mounted\" intracellular microelectrodes. The major phenomena observed in both types of cells were: a distinct decrease in the diastolic potential, a decrease in the amplitude of the action potential, modifications in the shape of the action potential. Analysis of the simultaneously obtained electrocardiogram specifies the rhythm abnormalities which consist of an important decrease in the atrio-ventricular conduction and changes in the myocardial excitability. The cardiotoxicity of FC 12 is assumed to affect passive or active transmembrane ionic movements. ..."
+        },
+        {
+            "References": "PMID:3006429",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... /Investigators/ measured phosphocreatine (PC), adenosine triphosphate (ATP) and cyclic adenosine monophosphate (AMPc) in rat hearts. Rats were randomly divided into 4 groups; 2 control groups: one breathing a mixture of oxygen (21%) and nitrogen (79%) (group C) and the other breathing the same mixture but simultaneously perfused with 1 ug/kg/min. epinephrine (groupe E-C); 2 trial groups T and E-T where nitrogen was replaced by FC 12. The maximal FC 12 concentration of 720 ug/mL in arterial blood produced no significant difference in the concentrations of these three metabolites compared with controls."
+        },
+        {
+            "References": "Patty, F. (ed.). Industrial Hygiene and Toxicology: Volume II: Toxicology. 2nd ed. New York: Interscience Publishers, 1963., p. 1325",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Twitching & tremors /observed in rats at/ concn of 30-40%, loss of reflex at 50% & above. At 70 & 80%, corneal reflex was absent & animals were in deep anesthesia. A few of the animals were exposed as long as 4-6 hr at 80% and ... suffered no permanent effects."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 322",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Dogs, monkeys, & guinea pigs exposed to 20% of gas in air for several hr a day for several days showed temporary intoxication with tremors, ataxia, and tendency to stare, salivate, & lacrimate, but no cumulative toxic effect & no specific ocular disturbance."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 323",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In gaseous or vapor form at room temperature or body temperature, F 12 has very little toxicity to the eye, inside or outside. A bubble of the gas injected into the anterior chamber of rabbit eyes has not proved damaging to the cornea. Exposure of a rabbit eye to pure F 12 gas at room temperature for one and one-half minutes induced a slight irregularity of the corneal epithelium, but the eye was completely normal the next day."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 323",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ When the lids of a rabbit's eye have been held open and a blast of a mixture of liquid F-12 and lubricating oil from a refrigerator has been applied directly to the open eye continously for a second or two, this has caused momentary freezing of the anterior segment of the eye followed by slight epithelial edema and partial loss of epithelium, but complete recovery in three days. Spraying of rabbit eyes with pure liquified F-12 for five to ten seconds caused damage of the corneal endothelium, shedding in gray sheets from the posterior surface of the cornea, and this led to swelling of the stroma. However, there was gradual recovery so that only a small axial nebula persisted after six weeks. Exposure to the liquid spray continuously for thirty seconds caused much more severe corneal damage, the cornea ultimately becoming opaque and the globe /atrophic/ ... ."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's 7th Edition. Dichlorodifluoromethane p.1 CD-ROM Cincinnati, OH 45240-4148 2012.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Studies on the skin of rats and rabbits and on the eyes of rabbits with a 30/70 CFC-12/trichlorofluoromethane mixture showed no significant irritation."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's 7th Edition. Dichlorodifluoromethane p.1 CD-ROM Cincinnati, OH 45240-4148 2012.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ When inhaled, CFC-12 has very low acute toxicity and act like a weak narcotic. /Investigators/ indicated that deaths occurred in rats, but not in guinea pigs, after 2-hour exposures at 600,000 ppm. In various other experiments where concentrations of CFC-12 ranged as high as 300,000 to 800,000 ppm, rats, guinea pigs, and cats all survived exposures of several hours duration."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's 7th Edition. Dichlorodifluoromethane p.1 CD-ROM Cincinnati, OH 45240-4148 2012.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Cardiac sensitization can be induced with endogenous epinephrine at levels of 100,00 to 800,000 ppm CFC-12. /Investigators/ found that CFC-12 produced respiratory and circulatory effects, including bronchoconstriction and tachycardia, at concentrations of 50,000 to 100,000 ppm."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's 7th Edition. Dichlorodifluoromethane p.2 CD-ROM Cincinnati, OH 45240-4148 2012.",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ At 200,000 ppm CFC-12, guinea pigs, dogs and monkeys exposed some 40 hr weekly for 10-12 weeks showed generalized tremors and other signs of mild /CNS depression/, as well as slight blood changes, but no pathologic effects."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's 7th Edition. Dichlorodifluoromethane p.2 CD-ROM Cincinnati, OH 45240-4148 2012.",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Mice exposed for 3 or 6 weeks, 30 min/day to 40,000 ppm, showed some respiratory  pathology."
+        },
+        {
+            "References": "USEPA; Ambient Water Quality Criteria Doc: Halomethanes p.C-52-5 (1980) EPA 440/5-80-051",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Pathologic liver changes were reported in guinea pigs chronically exposed (continuous for 90 days; or eight hr daily, 5 days weekly, for six wk) to F 12 at levels of about 4,000 mg/cu m (0.08 % by vol)."
+        },
+        {
+            "References": "USEPA; Ambient Water Quality Criteria Doc: Halomethanes p.C-56 (1980) EPA 440/5-80-051",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In one chronic (90 day) feeding study of F-12 in rats at 35 and 350 mg/kg/day ... somewhat elevated urinary fluoride and plasma alkaline phosphatase levels. No changes in dogs at 10 and 100 mg/kg/day were observed."
+        },
+        {
+            "References": "WHO; Environmental Health Criteria 113: Fully Halogenated Chlorofluorocarbons p.73 (1990)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ CFC-11, CFC-12, CFC-113, and CFC-114 at 40% in sesame oil were sprayed onto shaved rabbit skin for 12 exposures with no effect."
+        },
+        {
+            "References": "WHO; Environmental Health Criteria 113: Fully Halogenated Chlorofluorocarbons p.74 (1990)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ CFC-11, CFC-12, CFC-114, and mixtures of CFC-11 and CFC-12 and of CFC-11 and CFC-22 /were applied/ to the skin, tongue, soft palate and auditory canal of rats, 1-2 times/day, 5 days/week, for 5-6 weeks. The same compounds were applied once a day, 5 days/week for 1 month to the eye of rabbits. Slight irritation was noted only in the skin of the rats and in the eye of the rabbits. The healing rate of experimental burns on the skin of rabbits, however, was noticeably retarded by all of the compounds."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's 7th Edition. Dichlorodifluoromethane  p.2 CD-ROM Cincinnati, OH 45240-4148 2012.",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Chronic studies of CFC-12 by oral and other routes reveal few biological effects. Dogs fed up to 3000 ppm, equivalent to 150 mg/kg body weight per day, for 2 years showed no evidence of toxicity. Carcinogenicity studies in rats fed 3000 ppm CFC-12 for 2 years showed no adverse effect. The World Health Organization has estimated the dietary level of CFC-12 causing no toxicologic effect in rats as 0.3%."
+        },
+        {
+            "References": "National Research Council. Drinking Water and Health. Volume 3. Washington, DC: National Academy Press, 1980., p. 103",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ ... Administration by gavage to /groups of 50 male & female albino/ rats at 15 or 150 mg/kg/day for 2 yr, /control groups of 50 rats of each sex received vehicle by intubation/; & in food to beagle dogs at 8 or 80 mg/kg/day for 2 yr. Except for slight adverse effect on growth of rats that received high doses, no clinical, biochemical, urinary, hematological, or histopathological changes ... found in either species. No evidence of carcinogenic response ... observed."
+        },
+        {
+            "References": "PMID:3389660",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ ... Dichlorodifluoromethane ... /was/ tested by inhalation on Sprague-Dawley rats and Swiss mice. The animals were exposed for 4 hr a day, 5 days a week; rats were exposed for 104 weeks, and mice were exposed for 78 weeks. Animals were observed until spontaneous death. Exposure of rats to dichlorodifluoromethane resulted in no noticeable differences in the incidence of total benign and malignant tumors, and of the most frequently expected or rate of tumors. Exposure of mice to dichlorodifluoromethane resulted in a higher number of total tumors in males and females which was dose related in males, pulmonary adenomas in males and females at 5000 ppm, and leukemias in males at 5000 and 1000 ppm and in females at 1000 ppm."
+        },
+        {
+            "References": "WHO; Environmental Health Criteria 113: Fully Halogenated Chlorofluorocarbons p.76 (1990)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of four male and four female beagle dogs were orally administered CFC-12 (in frozen dog food) at measured doses of 0, 8, or 80 mg/kg per day for 2 years. None of the dogs died or showed signs of toxicity. No significant differences between treated and control groups were found in food consumption, body weight, periodic hematology, clinical chemistry and urine testing, organ weights, or histopathological findings. An adrenal function test (urinary 17-ketosteroid excretion) also revealed no effects. There was no evidence of carcinogenicity."
+        },
+        {
+            "References": "WHO; Environmental Health Criteria 113: Fully Halogenated Chlorofluorocarbons p.76 (1990)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Long term oral studies of CFC-12 /were conducted/ on rats and dogs. As part of a multi-generation reproductive and chronic toxicity study, groups of 50 male and 50 female Charles River rats of the F1a generation remained in the test for 2 years, with an interim kill at 1 year. Starting at 6 weeks of age controls, low dose, and high dose groups were administered CFC-12 in corn oil or corn oil alone daily by gavage for 6 weeks and 5 times per week thereafter. Over the course of the study, actual daily doses of CFC-12 for low dose males and females declined from 27 to 11 and 25 to 11 mg/kg per day respectively and, for the high dose males and females, declined from 273 to 130 and 242 to 128 mg/kg per day, respectively. Average doses were 15 mg/kg per day for the low dose groups and 150 mg/kg per day for the high dose groups. Body weight gain was depressed in the high dose groups, particularly among the females, and a slight decline in food efficiency was noted in high dose females, relative to controls. No overt signs of toxicity were seen, and there were no significant differences between treated and control groups in survival, periodic measurements of hematological, clinical chemistry, and urinalysis values, or in organ weights and histopathological findings. No evidence of carcinogenicity was seen."
+        },
+        {
+            "References": "WHO; Environmental Health Criteria 113: Fully Halogenated Chlorofluorocarbons p.82 (1990)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ When administered to groups of 90 male and 90 female /Sprague-Dawley/ rats and 60 male and 60 female /Swiss/ mice at concentrations of 1000 or 5000 ppm (57 or 285 g CFC-11/cu m; 49 or 247 g CFC-12/cu m), 4 hr/day, 5 days/week /for 104 and 78 weeks for rats and mice, respectively/, neither compound was found to have induced statistically significant differences in the incidence of total benign or malignant tumors when compared with groups of unexposed rats or mice. The incidence of all tumors and of some particularly frequently occurring spontaneous tumors in mice showed a tendency to increase in animals exposed to CFC-11 and CFC-12 and that the increased incidence was usually observed in one sex and was not always dose related, possibly due to a longer survival of the treated mice compared with controls."
+        },
+        {
+            "References": "Rom, W.N. (ed.). Environmental and Occupational Medicine. 2nd ed. Boston, MA: Little, Brown and Company, 1992., p. 1300",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Three propellant chlorofluorocarbons (FC-11, FC-12 /dichlorodifluoromethane/, FC-22) administered by inhalation at concentrations of 5000 and 1000 ppm for 4 hours daily, 5 days weekly for 78 to 104 weeks to rats and mice had no carcinogenic effects."
+        },
+        {
+            "References": "National Research Council. Drinking Water and Health. Volume 3. Washington, DC: National Academy Press, 1980., p. 103",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ... Inseminated wistar albino rats & albino rabbits ... /were/ administered mixtures of 90% freon 12 ... & 10% freon 11 by inhalation for 2 hr/day. Rats were exposed on days 4 to 16 of gestation & rabbits on days 5 to 20. Mixture was administered in 20% concentration (200,000 ppm). No indications of any embryotoxic, fetotoxic or teratogenic changes were found when dams were sacrificed & fetuses removed on day 20 of gestation (rats) or day 30 of gestation (rabbits)."
+        },
+        {
+            "References": "WHO; Environmental Health Criteria 113: Fully Halogenated Chlorofluorocarbons p.77 (1990)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ In a three-generation, oral gavage study in rats using CFC-12 (in corn oil) at average doses of 15 and 150 mg/kg per day. No adverse effects /were found/ on reproductive capability as measured by the fertility index (percentage of matings resulting in pregnancy), gestation index (percentage of pregnancies resulting in birth of live litters), viability index (percentage of rats born that survived four days), and lactation index (percentage of rats alive at 4 days that survived to be weaned at 21 days)."
+        },
+        {
+            "References": "WHO; Environmental Health Criteria 113: Fully Halogenated Chlorofluorocarbons p.78 (1990)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/Groups of 25 to 27 pregnant Charles River rats were given CFC-12 in corn oil by gavage at doses of 16.6 or 179 mg/kg per day on days 6-15 of gestation. Neither dose induced any evidence of embryotoxicity or teratogenicity."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's 7th Edition. Dichlorodifluoromethane p.2 CD-ROM Cincinnati, OH 45240-4148 2012.",
+            "Value": "/GENOTOXICITY/ The mutagenic potential of CFC-12 has been evaluated using the Salmonella assay with negative results."
+        },
+        {
+            "References": "KRAHN DF; BANBURY REP 2 (MAMM CELL MUTAGEN: MATURATION TEST SYSTEM) 251-61 (1979)",
+            "Value": "/GENOTOXICITY/ Freon 12 was not mutagenic to Chinese Hamster Ovary cells in the presence or absence of activation system."
+        },
+        {
+            "References": "WHO; Environmental Health Criteria 113: Fully Halogenated Chlorofluorocarbons p.79 (1990)",
+            "Value": "/GENOTOXICITY/ Negative results were obtained for CFC-11, CFC-12, and CFC-115 in a cell transformation assay and for CFC-11 and CFC-12 in a mammalian cell mutagenicity test. CFC-12 was also tested in a plant assay using Tradescantia, and found to be negative."
+        },
+        {
+            "References": "WHO; Environmental Health Criteria 113: Fully Halogenated Chlorofluorocarbons p.79 (1990)",
+            "Value": "/GENOTOXICITY/ A dominant lethal assay was performed as part of a reproduction study on rats using CFC-12 at doses of 15 and 150 mg/kg per day (gavage) for several weeks. ... Negative results were obtained /in this in vivo assay/ ... ."
+        },
+        {
+            "References": "USEPA; Ambient Water Quality Criteria Doc: Halomethanes p.C-59 (1980) EPA 440/5-80-051",
+            "Value": "/GENOTOXICITY/ Significant mutagenic activity of F-12 at 2.47x10+6 mg/cu m (50%) in air in a Neurospora crassa test system."
+        },
+        {
+            "References": "WHO; Environmental Health Criteria 113: Fully Halogenated Chlorofluorocarbons p.87 (1990)",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ CFC-12 and CFC-114 do not markedly affect oxygen consumption or oxidative phosphorylation in mitochondria isolated from the liver, lung, brain, heart, or kidney of rats exposed to about 7.5% chlorofluorocarbons prior to mitochondrial isolation. Further in vitro studies were conducted with liver and heart mitochondria in which measurements were taken during exposure of the mitochondria to CFC-12 at 990 g/cu m (20%) (time of exposure not specified). No effects on either oxidation or phosphorylation were noted."
+        },
+        {
+            "References": "WHO; Environmental Health Criteria 113: Fully Halogenated Chlorofluorocarbons p.87 (1990)",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ On the basis of an electrophysiological analysis of the action of CFC-12 on different types of cardiac cells from rats and sheep, the authors conclude that: 1. the cardiac depression observed during inhalation of CFC-12 (and many other volatile liposoluble compounds) is the consequence of a non-specific impairment of the membrane properties and notably the inhibition of trans-membrane ionic currents; 2, CFC-12 action on ionic currents is variable: at high concentrations, depending on the type of cardiac cell, it can oppose or favor the action of adrenaline, giving rise to many factors that lead to arrhythmia."
+        },
+        {
+            "References": "LESSARD Y ET AL; CR SEANCES SOC BIOL SES FIL 174 (1): 52-7 (1980)",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Effects of FC-12 on electrical activity of cells in atrial & ventricular myocardium of anesthetized rats were recorded. Major decrease in diastolic potential, amplitude of action potential, & modification in shape of the action potential was observed. Rhythm abnormalities consisted of a decr in atrioventricular conduction & changes in the myocardial passive excitability. Cardiotoxicity of FC-12 is assumed to affect passive or active transmembrane ionic movements."
+        },
+        {
+            "References": "PMID:982473",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Two series of experiments were conducted to determine the effects of bromotrifluoromethane, bromochlorodifluoromethane, and dichlorodifluoromethane on the isolated, perfused rabbit heart. Hearts were perfused through the aorta. Left ventricular mechanical activity was monitored concurrently with action potentials recorded from left ventricular myocardial fibers. In the first series, mechanical performance curves were determined for each of 7 hearts using intraventricular balloons to control end diastolic pressure. The relative effectiveness of these compounds as negative isotropic agents was bromochlorodifluoromethane > dichlorodifluoromethane > bromotrifluoromethane. In the 2nd series of experiments, hearts were exposed to increasing concentrations of each fluorocarbon. Controls were exposed to equivalent concentrations of nitrogen. Exposure to increasing concentrations of bromotrifluoromethane decreased peak left ventricular pressure, the integral of the pressure curve, and the time 20% repolarization of the action potential. Exposure to increasing concentrations of bromochlorodifluoromethane reduced peak left ventricular pressure and the maximal rate of rise of the pressure curve and exposure to increasing levels of dichlorodifluoromethane decreased peak left ventricular pressure and the maximal rate of rise of the pressure curve."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Kuo MCT et al; Bull Environ Contam Toxicol 65: 654-59 (2000)",
+            "Value": "SOIL: Thirty industrial sites in Taiwan (8 chemical and petrochemical industrial districts, 2 technology industrial parks, 11 general industrial districts, 2 metal processing areas, 2 oil refinery plants, 1 pesticide manufacturing, and 4 landfills) were analyzed for volatile compounds, including dichlorodifluoromethane. Dichlordifluoromethane was detected in 3% of 214 groundwater samples(1)."
+        },
+        {
+            "References": "(1) Staples CA et al; Environ Toxicol Chem 4: 131-42 (1985)",
+            "Value": "None of the 204 stations in EPA's STORET database reported dichlorodifluoromethane in sediment(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 3 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2010. Available from, as of Feb 14, 2013: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Chu W, Chan K-w; Sci Total Environ 248: 1-10 (2000) (4) Swann RL et al; Res Rev 85: 17-28 (1983) (5) Scheutz C et al; J Environ Qual 33: 61-71 (2004)",
+            "Value": "The Koc of dichlorodifluoromethane is estimated as 75(SRC), using a log Kow of 2.16(1) and a regression-derived equation(2). A Koc of 85 mL/g has also been reported, test conditions not specified(3). According to a classification scheme(4), these Koc values suggest that dichlorodifluoromethane is expected to have high mobility in soil. A log Koc value of 2.05 has been reported, using a batch experiment incubated with methane and a soil water content of 25% w/w(5)."
+        }
+    ]
+}

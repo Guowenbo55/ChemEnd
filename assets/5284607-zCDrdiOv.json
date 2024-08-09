@@ -1,0 +1,59 @@
+{
+    "_id": {
+        "$oid": "6682e9b7c4e5dba5ffba2c06"
+    },
+    "CID": {
+        "$numberInt": "5284607"
+    },
+    "Name": "PHYTONADIONE",
+    "IUPACName": "2-methyl-3-[(E,7R,11R)-3,7,11,15-tetramethylhexadec-2-enyl]naphthalene-1,4-dione",
+    "CanonicalSMILES": "CC1=C(C(=O)C2=CC=CC=C2C1=O)CC=C(C)CCCC(C)CCCC(C)CCCC(C)C",
+    "Synonyms": [
+        "Phylloquinone",
+        "Vitamin K1",
+        "phytonadione",
+        "84-80-0",
+        "Phytomenadione",
+        "Phytylmenadione",
+        "3-Phytylmenadione",
+        "Aquamephyton",
+        "Phyllochinon",
+        "Konakion",
+        "Mephyton",
+        "Monodion",
+        "Synthex P",
+        "2-Methyl-3-phytyl-1,4-naphthoquinone",
+        "Mono-Kay"
+    ],
+    "IsomericSMILES": "CC1=C(C(=O)C2=CC=CC=C2C1=O)C/C=C(\\C)/CCC[C@H](C)CCC[C@H](C)CCCC(C)C",
+    "INCHI": "InChI=1S/C31H46O2/c1-22(2)12-9-13-23(3)14-10-15-24(4)16-11-17-25(5)20-21-27-26(6)30(32)28-18-7-8-19-29(28)31(27)33/h7-8,18-20,22-24H,9-17,21H2,1-6H3/b25-20+/t23-,24-/m1/s1",
+    "INCHIKEY": "MBWXNTAXLNYFJB-NKFFZRIASA-N",
+    "Formula": "C31H46O2",
+    "MolecularWeight": {
+        "$numberDouble": "450.7"
+    },
+    "Description": "Phylloquinone is a member of the class of phylloquinones that consists of 1,4-naphthoquinone having methyl and phytyl groups at positions 2 and 3 respectively. The parent of the class of phylloquinones. It has a role as a cofactor, a plant metabolite and a human metabolite. It is a vitamin K and a member of phylloquinones.",
+    "XlogP": {
+        "$numberDouble": "10.9"
+    },
+    "Complexity": {
+        "$numberInt": "696"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "mechanism_of_action": [
+        {
+            "References": "Osol, A. and J.E. Hoover, et al. (eds.). Remington's Pharmaceutical Sciences. 15th ed. Easton, Pennsylvania: Mack Publishing Co., 1975., p. 943",
+            "Value": "Vit k is necessary for formation of prothrombinogen & other blood clotting factors in liver. During clotting, circulating prothrombin is required for production of thrombin; in turn, thrombin converts fibrinogen to fibrin, network of which constitutes clot. /vit k/"
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 1783",
+            "Value": "In normal animals and man, phyltonadione ... /is/ virtually devoid of pharmacodynamic activity. In Animals and man deficient in vitamin k, the pharmacological action of vitamin k is identical to its normal physiological function, that is, to promote hepatic biosynthesis of prothrombin (factor ii), proconvertin (factor vii), plasma thromboplastin component (ptc, christmas factor, factor ix), and Stuart factor (factor x)."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V76 472 (2000)",
+            "Value": "On the basis of studies of microsomal metabolism in vitro and studies in rats and mice in vivo, /it was suggested/ that vitamin K may be mutagenic by affecting the mixed-function oxidase system which metabolizes benzo(a)pyrene. Phylloquinone at a high concentration (200 umol/l) inhibited the conversion of benzo(a)pyrene to its more polar metabolites, ... . Paradoxically, at a lower concentration of phylloquinone (25 umol/l), ... the metabolism of benzo(a)pyrene was increased. In this system, therefore, .... phylloquinone could either potentiate or inhibit it, depending on the concentration. This overall weaker inhibitory effect of phylloquinone could be due to the low solubility of this lipophilic compound, but it is difficult to explain the mechanism of the enhanced metabolism of benzo(a)pyrene at lower concentrations of phylloquinone."
+        }
+    ]
+}

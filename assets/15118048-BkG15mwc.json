@@ -1,0 +1,66 @@
+{
+    "_id": {
+        "$oid": "66927104303528b49832d798"
+    },
+    "CID": {
+        "$numberInt": "15118048"
+    },
+    "Name": "Cyhalofop",
+    "IUPACName": "(2R)-2-[4-(4-cyano-2-fluorophenoxy)phenoxy]propanoic acid",
+    "CanonicalSMILES": "CC(C(=O)O)OC1=CC=C(C=C1)OC2=C(C=C(C=C2)C#N)F",
+    "Synonyms": [
+        "Cyhalofop",
+        "122008-78-0",
+        "Cyhalofop acid",
+        "Cyhalofop [ISO]",
+        "(2R)-2-[4-(4-cyano-2-fluorophenoxy)phenoxy]propanoic acid",
+        "Propanoic acid",
+        "2-[4-(4-cyano-2-fluorophenoxy)phenoxy]-",
+        "(2R)-",
+        "58150F267D",
+        "(R)-2-(4-(4-Cyano-2-fluorophenoxy)phenoxy)propanoic acid",
+        "(R)-(+)-2-(4-(2-Fluoro-4-cyanophenoxy)phenoxy)propanoic acid",
+        "Propanoic acid",
+        "2-[4-(4-cyano-2-fluorophenoxy)phenoxy]-",
+        "(R)-; (2R)-2-[4-(4-Cyano-2-fluorophenoxy)phenoxy]propanoic acid; (R)-(+)-2-[4-(2-Fluoro-4-cyanophenoxy)phenoxy]propanoic acid; Cyhalofop; Cyhalofop acid",
+        "SCHEMBL118030",
+        "DTXSID701022032",
+        "UNII-58150F267D",
+        "AMY12527",
+        "MFCD28015762"
+    ],
+    "IsomericSMILES": "C[C@H](C(=O)O)OC1=CC=C(C=C1)OC2=C(C=C(C=C2)C#N)F",
+    "INCHI": "InChI=1S/C16H12FNO4/c1-10(16(19)20)21-12-3-5-13(6-4-12)22-15-7-2-11(9-18)8-14(15)17/h2-8,10H,1H3,(H,19,20)/t10-/m1/s1",
+    "INCHIKEY": "ROBSGBGTWRRYSK-SNVBAGLBSA-N",
+    "Formula": "C16H12FNO4",
+    "MolecularWeight": {
+        "$numberDouble": "301.27"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "3.2"
+    },
+    "Complexity": {
+        "$numberInt": "427"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Field experiments conducted in 2001 and 2002 at Stuttgart, AR, demonstrated that cyhalofop applied post-emergence controlled propanil-susceptible barnyardgrass, propanil-resistant barnyardgrass, and broadleaf signalgrass by 67%, 65%, and 71%, respectively, 28 days after treatment (DAT). Halosulfuron applied 1 day before cyhalofop or applied in a tank mixture reduced broadleaf signalgrass and propanil-resistant or propanil-susceptible barnyardgrass by 35 to 59 percentage points. Triclopyr applied 5, 3, or 1 day before, or mixed with, cyhalofop reduced control of propanil-resistant and propanil-susceptible barnyardgrass by 16 to 41 percentage points, respectively. Triclopyr applied 1 day before cyhalofop or combined with cyhalofop reduced broadleaf signalgrass control by 38 and 18 percentage points, respectively, compared with cyhalofop alone. Propanil reduced cyhalofop grass control only when mixed with cyhalofop.b Application timings, averaged across halosulfuron, propanil, and triclopyr, made 1 day before cyhalofop or tank-mixed with cyhalofop, reduced grass control more compared with other application timings made before or after cyhalofop. Barnyardgrass absorption of 14C-cyhalofop alone or mixed with propanil was 86% and 75%, respectively, with 14C-cyhalofop translocation being reduced by 10-fold when propanil was mixed with cyhalofop. Reductions in cyhalofop translocation in combination with propanil may have partially explained the reductions in grass control observed in the field.",
+            "reference": "Scherder, E. F., Talbert, R. E., & Lovelace, M. L. (2005). Antagonism of cyhalofop grass activity by halosulfuron, triclopyr, and propanil. Weed Technology, 19(4), 934-941.",
+            "method": {
+                "Test Plant": "Propanil-resistant barnyardgrass (Echinochloa crus-galli)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Seeds planted 1 cm deep in Styrofoam cups with quartz sand. Thinned to 1 plant/cup after emergence. Watered every other day with 1/4 strength Hoagland's solution (pH 5.3). Glasshouse conditions: 32/22\u00b0C day/night, 550 \u03bcmol/m2/s for 16 h, 80% RH",
+                "Chemical Preparation": "[14C]-cyhalofop (parent compound radiolabeled). Stock solution in acetone, spiked into spray solutions to give 333 Bq/\u03bcL",
+                "Pesticide Application Details for the Plant": "Cyhalofop 0.22 kg/ha + 2.5% v/v COC, alone or tank-mixed with:halosulfuron 0.053 kg/ha + 2.5% COC, propanil 4.48 kg/ha, triclopyr 0.28 kg/ha,Tank-mixes applied at 3-leaf stage. 4 x 1 \u03bcL droplets of spiked solution applied to adaxial surface of 2nd leaf",
+                "Other Information": "4 replications, 2 experimental runs. Exposure times: 0, 3, 6, 24, 72, 168 h"
+            },
+            "result": "[{\"Treatment\": \"Cyhalofop alone\", \"Timing\": \"-\", \"Treated leaf (% of absorbed)\": 97.7, \"Above treated leaf (%)\": 0.48, \"Below treated leaf (%)\": 1.6, \"Roots (%)\": 0.16, \"Total translocation\": 2.24}, {\"Treatment\": \"With Halosulfuron\", \"Timing\": \"3 d before\", \"Treated leaf (% of absorbed)\": 97.9, \"Above treated leaf (%)\": 0.42, \"Below treated leaf (%)\": 1.35, \"Roots (%)\": 0.2, \"Total translocation\": 1.97}, {\"Treatment\": \"With Halosulfuron\", \"Timing\": \"1 d before\", \"Treated leaf (% of absorbed)\": 97.8, \"Above treated leaf (%)\": 0.32, \"Below treated leaf (%)\": 1.35, \"Roots (%)\": 0.24, \"Total translocation\": 1.9}, {\"Treatment\": \"With Halosulfuron\", \"Timing\": \"Tank mix\", \"Treated leaf (% of absorbed)\": 98.1, \"Above treated leaf (%)\": 0.76, \"Below treated leaf (%)\": 1.49, \"Roots (%)\": 0.32, \"Total translocation\": 2.57}, {\"Treatment\": \"With Triclopyr\", \"Timing\": \"3 d before\", \"Treated leaf (% of absorbed)\": 98.0, \"Above treated leaf (%)\": 0.31, \"Below treated leaf (%)\": 1.57, \"Roots (%)\": 0.17, \"Total translocation\": 2.04}, {\"Treatment\": \"With Triclopyr\", \"Timing\": \"1 d before\", \"Treated leaf (% of absorbed)\": 98.0, \"Above treated leaf (%)\": 0.26, \"Below treated leaf (%)\": 1.49, \"Roots (%)\": 0.35, \"Total translocation\": 2.1}, {\"Treatment\": \"With Triclopyr\", \"Timing\": \"Tank mix\", \"Treated leaf (% of absorbed)\": 97.4, \"Above treated leaf (%)\": 0.41, \"Below treated leaf (%)\": 1.17, \"Roots (%)\": 0.32, \"Total translocation\": 1.88}, {\"Treatment\": \"With propanil\", \"Timing\": \"3 d before\", \"Treated leaf (% of absorbed)\": 98.8, \"Above treated leaf (%)\": 0.4, \"Below treated leaf (%)\": 0.72, \"Roots (%)\": 0.07, \"Total translocation\": 1.18}, {\"Treatment\": \"With propanil\", \"Timing\": \"1 d before\", \"Treated leaf (% of absorbed)\": 99.5, \"Above treated leaf (%)\": 0.16, \"Below treated leaf (%)\": 0.32, \"Roots (%)\": 0.04, \"Total translocation\": 0.51}, {\"Treatment\": \"With propanil\", \"Timing\": \"Tank mix\", \"Treated leaf (% of absorbed)\": 99.7, \"Above treated leaf (%)\": 0.1, \"Below treated leaf (%)\": 0.17, \"Roots (%)\": 0.02, \"Total translocation\": 0.29}]"
+        }
+    ]
+}

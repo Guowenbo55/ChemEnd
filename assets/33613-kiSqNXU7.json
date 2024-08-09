@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "6682e976c4e5dba5ffba2abd"
+    },
+    "CID": {
+        "$numberInt": "33613"
+    },
+    "Name": "AMOXICILLIN",
+    "IUPACName": "(2S,5R,6R)-6-[[(2R)-2-amino-2-(4-hydroxyphenyl)acetyl]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid",
+    "CanonicalSMILES": "CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)C(=O)O)C",
+    "Synonyms": [
+        "amoxicillin",
+        "Amoxycillin",
+        "26787-78-0",
+        "Amoxicillin anhydrous",
+        "Amoxicilline",
+        "p-Hydroxyampicillin",
+        "Amopenixin",
+        "Amolin",
+        "Moxal",
+        "D-Amoxicillin",
+        "Amoxil",
+        "Amoxicillinum",
+        "Amoxicilina",
+        "Clamoxyl",
+        "Amoxiden"
+    ],
+    "IsomericSMILES": "CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=C(C=C3)O)N)C(=O)O)C",
+    "INCHI": "InChI=1S/C16H19N3O5S/c1-16(2)11(15(23)24)19-13(22)10(14(19)25-16)18-12(21)9(17)7-3-5-8(20)6-4-7/h3-6,9-11,14,20H,17H2,1-2H3,(H,18,21)(H,23,24)/t9-,10-,11+,14-/m1/s1",
+    "INCHIKEY": "LSQZJLSUYDQPKJ-NJBDSQKTSA-N",
+    "Formula": "C16H19N3O5S",
+    "MolecularWeight": {
+        "$numberDouble": "365.4"
+    },
+    "Description": "Amoxicillin is a penicillin in which the substituent at position 6 of the penam ring is a 2-amino-2-(4-hydroxyphenyl)acetamido group. It has a role as an antibacterial drug. It is a penicillin and a penicillin allergen. It is a conjugate acid of an amoxicillin(1-).",
+    "XlogP": {
+        "$numberDouble": "-2"
+    },
+    "Complexity": {
+        "$numberInt": "590"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Boxall ABA et al; J Agric Food Chem 54: 2288-97 (2006)",
+            "Value": "Amoxicillin, present at 1 mg/kg soil, was not detected in carrots and lettuce grown on light loamy sand soil (90.14% sand, 6.26% silt, 3.60% clay, pH 6.3, 0.4% organic carbon; Church Warsop, Nottinghamshire, UK collected in summer 2004); the study simulated soil treated with manure from animals administered veterinary medicines(1)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Padula DJ et al; Chemosphere 86(7): 709-717 (2012)",
+            "Value": "Amoxicillin was tested for but not detected in Australian farmed yellowtail kingfish (Seriola lalandi) and mulloway (Argyrosomus hololepidotus), from operations located in Arno Bay and Whyalla in the Spencer Gulf region of South Australia, sampled between Spet 2003 and July 2004(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Sangster J; LOGKOW Databank. A databank of evaluated octanol-water partition coefficients (Log P) on microcomputer diskette. Montreal, Quebec, Canada: Sangster Research Laboratories (1994)",
+            "Value": "log Kow = 0.87"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Haddad, L.M., Clinical Management of Poisoning and Drug Overdose. 2nd ed. Philadelphia, PA: W.B. Saunders Co., 1990., p. 953",
+            "Value": "The penicillins and their metabolites are potent immunogens because of their ability to combine with proteins and act as haptens for acute antibody-mediated reactions. The most frequent (about 95 percent) or \"major\" determinant of penicillin allergy is the penicilloyl determinant produced by opening the beta-lactam ring of the penicillin. This allows linkage of the penicillin to protein at the amide group. \"Minor\" determinants (less frequent) are the other metabolites formed, including native penicillin and penicilloic acids. /Penicillins/"
+        },
+        {
+            "References": "NIH; DailyMed. Current Medication Information for Amoxicillin Capsule (Updated: October 2016). Available from, as of November 17, 2016: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4d0f063a-d896-4757-8f22-9614e2ad71d4",
+            "Value": "Amoxicillin is similar to penicillin in its bactericidal action against susceptible bacteria during the stage of active multiplication. It acts through the inhibition of cell wall biosynthesis that leads to the death of the bacteria."
+        }
+    ]
+}

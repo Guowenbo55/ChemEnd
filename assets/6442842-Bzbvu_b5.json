@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "66927126303528b49832d81c"
+    },
+    "CID": {
+        "$numberInt": "6442842"
+    },
+    "Name": "Bifenthrin",
+    "IUPACName": "(2-methyl-3-phenylphenyl)methyl (1R,3R)-3-[(Z)-2-chloro-3,3,3-trifluoroprop-1-enyl]-2,2-dimethylcyclopropane-1-carboxylate",
+    "CanonicalSMILES": "CC1=C(C=CC=C1C2=CC=CC=C2)COC(=O)C3C(C3(C)C)C=C(C(F)(F)F)Cl",
+    "Synonyms": [
+        "BIFENTHRIN",
+        "Biphenthrin",
+        "Kappa-bifenthrin",
+        "Capture",
+        "82657-04-3",
+        "Biphentrin",
+        "Biphenate",
+        "Empower",
+        "Talstar",
+        "Bifenthrine",
+        "Discipline",
+        "Brigade",
+        "Fanfare",
+        "(R)-Bifenthrin",
+        "439680-76-9"
+    ],
+    "IsomericSMILES": "CC1=C(C=CC=C1C2=CC=CC=C2)COC(=O)[C@@H]3[C@@H](C3(C)C)/C=C(/C(F)(F)F)\\Cl",
+    "INCHI": "InChI=1S/C23H22ClF3O2/c1-14-16(10-7-11-17(14)15-8-5-4-6-9-15)13-29-21(28)20-18(22(20,2)3)12-19(24)23(25,26)27/h4-12,18,20H,13H2,1-3H3/b19-12-/t18-,20-/m0/s1",
+    "INCHIKEY": "OMFRMAHOUUJSGP-IRHGGOMRSA-N",
+    "Formula": "C23H22ClF3O2",
+    "MolecularWeight": {
+        "$numberDouble": "422.9"
+    },
+    "Description": "Bifenthrin is a carboxylic ester obtained by formal condensation of cis-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylic acid and [(2-methyl-1,1'-biphenyl)-3-yl]methanol. It has a role as a pyrethroid ester insecticide and a pyrethroid ester acaricide. It is an organochlorine compound, an organofluorine compound and a cyclopropanecarboxylate ester. It is functionally related to a cis-chrysanthemic acid.",
+    "XlogP": {
+        "$numberDouble": "6"
+    },
+    "Complexity": {
+        "$numberInt": "622"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The widespread use of pesticides in agriculture can lead to increased residues in soil and vegetables. Nanoparticles (NPs) are now being used extensively and can enter soil, but their effects on the translocation of pesticides from soil to vegetables and the mechanisms involved are not well understood. This study investigated the simultaneous addition of bifenthrin (200 g/kg) and nano CuO (0, 10, 50, and 100 mg/kg) to soil for cultivating rape (Brassica napus L.) to determine the influence of nano CuO on the translocation of bifenthrin to the plant. Results showed that the highest concentration of bifenthrin in rape roots on day 40 reached 111.6 ng/g in the treatment with 100 mg/kg nano CuO, which was 1.65 times higher than that in the single bifenthrin treatment. This indicates that a high concentration of nano CuO (100 mg/kg) in soil promoted the absorption of bifenthrin by rape roots. The increased accumulation of CuO in the roots resulted in cell membrane lipid peroxidation and increased levels of malondialdehyde (MDA), leading to higher electrolytic leakage in root tissue and root damage. Consequently, extra bifenthrin may enter rape plants through the damaged roots. These findings underscore the importance of considering plant physiology and the effects of mixtures when studying the accumulation of NPs and pesticides in plants.",
+            "reference": "Li, M., Xu, G., Huang, F., Hou, S., Liu, B., & Yu, Y. (2021). Influence of nano CuO on uptake and translocation of bifenthrin in rape (Brassica napus L.). Food Control, 130, 108333.",
+            "method": {
+                "Test Plant": "Rape (Brassica napus, obtained from Jilin Province Seed Company, Changchun, China)",
+                "Apply Location": "Soil application",
+                "Plant Grown Condition": "Soil pH 7.15, organic matter 2.21%, Cu2+ concentration 11.35 mg/kg. Soil air-dried and sieved through 2 mm mesh",
+                "Chemical Preparation": "Bifenthrin (97% purity) dissolved in 200 mL acetone and mixed into 50 kg soil to achieve 200 \u03bcg/kg concentration. Nano CuO suspensions (0, 10, 50, 100 mg/kg doses) sonicated for 30 min before adding to soil",
+                "Pesticide Application Details for the Plant": "BF (200 \u03bcg/kg bifenthrin), CuO 100 (100 mg/kg nano CuO), BF + CuO with bifenthrin and 10, 50, 100 mg/kg nano CuO combinations",
+                "Other Information": "Soil and plant samples collected at 15, 25, 30, 40 days after transplanting. Roots and leaves separated, lyophilized and analyzed"
+            },
+            "result": "[{\"Treatment\": \"BF + CuO 10\", \"Days after application\": 15, \"Root (ug/g)\": 1.932, \"Foliage (ug/g)\": 2.032, \"RCF\": 0.104, \"TF\": 0.689}, {\"Treatment\": \"BF + CuO 10\", \"Days after application\": 25, \"Root (ug/g)\": 2.608, \"Foliage (ug/g)\": 2.258, \"RCF\": 0.135, \"TF\": 0.553}, {\"Treatment\": \"BF + CuO 10\", \"Days after application\": 30, \"Root (ug/g)\": 3.091, \"Foliage (ug/g)\": 2.741, \"RCF\": 0.157, \"TF\": 0.735}, {\"Treatment\": \"BF + CuO 10\", \"Days after application\": 40, \"Root (ug/g)\": 4.347, \"Foliage (ug/g)\": 3.451, \"RCF\": 0.207, \"TF\": 0.696}, {\"Treatment\": \"BF + CuO 50\", \"Days after application\": 15, \"Root (ug/g)\": 5.217, \"Foliage (ug/g)\": 2.774, \"RCF\": 0.088, \"TF\": 0.282}, {\"Treatment\": \"BF + CuO 50\", \"Days after application\": 25, \"Root (ug/g)\": 7.053, \"Foliage (ug/g)\": 3.87, \"RCF\": 0.114, \"TF\": 0.41}, {\"Treatment\": \"BF + CuO 50\", \"Days after application\": 30, \"Root (ug/g)\": 8.792, \"Foliage (ug/g)\": 4.645, \"RCF\": 0.142, \"TF\": 0.425}, {\"Treatment\": \"BF + CuO 50\", \"Days after application\": 40, \"Root (ug/g)\": 10.531, \"Foliage (ug/g)\": 6.483, \"RCF\": 0.172, \"TF\": 0.542}, {\"Treatment\": \"BF + CuO 100\", \"Days after application\": 15, \"Root (ug/g)\": 9.565, \"Foliage (ug/g)\": 2.838, \"RCF\": 0.087, \"TF\": 0.132}, {\"Treatment\": \"BF + CuO 100\", \"Days after application\": 25, \"Root (ug/g)\": 11.014, \"Foliage (ug/g)\": 4.0, \"RCF\": 0.101, \"TF\": 0.235}, {\"Treatment\": \"BF + CuO 100\", \"Days after application\": 30, \"Root (ug/g)\": 15.265, \"Foliage (ug/g)\": 6.0, \"RCF\": 0.137, \"TF\": 0.31}, {\"Treatment\": \"BF + CuO 100\", \"Days after application\": 40, \"Root (ug/g)\": 18.26, \"Foliage (ug/g)\": 7.193, \"RCF\": 0.165, \"TF\": 0.332}]"
+        }
+    ]
+}

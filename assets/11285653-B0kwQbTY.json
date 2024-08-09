@@ -1,0 +1,63 @@
+{
+    "_id": {
+        "$oid": "669270f8303528b49832d769"
+    },
+    "CID": {
+        "$numberInt": "11285653"
+    },
+    "Name": "Picoxystrobin",
+    "IUPACName": "methyl (E)-3-methoxy-2-[2-[[6-(trifluoromethyl)pyridin-2-yl]oxymethyl]phenyl]prop-2-enoate",
+    "CanonicalSMILES": "COC=C(C1=CC=CC=C1COC2=CC=CC(=N2)C(F)(F)F)C(=O)OC",
+    "Synonyms": [
+        "Picoxystrobin",
+        "117428-22-5",
+        "Picoxystrobin [ISO]",
+        "(E)-Methyl 3-methoxy-2-(2-(((6-(trifluoromethyl)pyridin-2-yl)oxy)methyl)phenyl)acrylate",
+        "62DH7GEL1P",
+        "Methyl (E)-3-methoxy-2-[2-[[6-(trifluoromethyl)pyridin-2-yl]oxymethyl]phenyl]prop-2-enoate",
+        "DTXSID9047542",
+        "CHEBI:83197",
+        "Picoxystrobin 100 microg/mL in Acetonitrile",
+        "methyl (2E)-3-methoxy-2-(2-(6-(trifluoromethyl)-2-pyridyloxymethyl)phenyl)acrylate",
+        "Benzeneacetic acid",
+        "alpha-(methoxymethylene)-2-[[[6-(trifluoromethyl)-2-pyridinyl]oxy]methyl]-",
+        "methyl ester",
+        "(alphaE)-",
+        "UNII-62DH7GEL1P",
+        "methyl (2E)-3-methoxy-2-{2-[6-(trifluoromethyl)-2-pyridyloxymethyl]phenyl}acrylate",
+        "PICOXYSTROBIN [MI]",
+        "SCHEMBL18977"
+    ],
+    "IsomericSMILES": "CO/C=C(\\C1=CC=CC=C1COC2=CC=CC(=N2)C(F)(F)F)/C(=O)OC",
+    "INCHI": "InChI=1S/C18H16F3NO4/c1-24-11-14(17(23)25-2)13-7-4-3-6-12(13)10-26-16-9-5-8-15(22-16)18(19,20)21/h3-9,11H,10H2,1-2H3/b14-11+",
+    "INCHIKEY": "IBSNKSODLGJUMQ-SDNWHVSQSA-N",
+    "Formula": "C18H16F3NO4",
+    "MolecularWeight": {
+        "$numberDouble": "367.3"
+    },
+    "Description": "Picoxystrobin is an enoate ester that is the methyl ester of (2E)-3-methoxy-2-[2-({[6-(trifluoromethyl)pyridin-2-yl]oxy}methyl)phenyl]prop-2-enoic acid. A cereal fungicide used to control a wide range of diseases including brown rust, tan spot, powdery mildew and net blotch. It has a role as a mitochondrial cytochrome-bc1 complex inhibitor and an antifungal agrochemical. It is an aromatic ether, an enoate ester, an enol ether, an organofluorine compound, a member of pyridines and a methoxyacrylate strobilurin antifungal agent.",
+    "XlogP": {
+        "$numberDouble": "3.6"
+    },
+    "Complexity": {
+        "$numberInt": "495"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Mean accumulation of the systemic compound thifluzamide was twice as great at 48 h as at 24 h, whereas accumulation of picoxystrobin in distal zone 1 decreased from 24 to 48 h. Picoxystrobin is more systemic than thifluzamide, and at 48 h translocation may have moved much of the compound beyond distal zone 2 where it would not be detected. Published results of tests with radiolabeled fungicides fluoxastrobin and prothioconazole in a dropline application demonstrated an increase in distal accumulation between 1 and 2 days, similar to thifluzamide. This suggests translocation of systemic fungicides generally increases over time as the compound moves further within the plant.",
+            "reference": "Klittich, C. J., Green, F. R., Ruiz, J. M., Weglarz, T., & Blakeslee, B. A. (2008). Assessment of fungicide systemicity in wheat using LC-MS/MS. Pest Management Science, n/a\u2013n/a. doi:10.1002/ps.1628\u00a0",
+            "method": {
+                "Test Plant": "Wheat plants (Triticum aestivum L. variety 'Yuma' or 'Anza')",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Grown in 50% steamed soil/50% soil-free potting mix (Metro-Mix\u00ae) in 4-inch pots to the two-leaf stage",
+                "Chemical Preparation": "The formulation was agitated to dissolve all solids, and acetone was removed by blowing nitrogen over the solution. The remaining EC was diluted with tap water colored with Trypan Blue dye (0.5 g/L) to a final volume of 1.0 mL and vortexed.",
+                "Pesticide Application Details for the Plant": "A drop (2 \u00b5L) of the formulated compound was applied to each leaf at the marked spot (four leaves per pot). The treatment was replicated 3 times (12 leaf applications per treatment).",
+                "Other Information": "Each treatment was replicated 3 times."
+            },
+            "result": "[{\"Time after application\": \"24 hours\", \"Application Zone (ug/ml)\": \"9.6 (23%)\", \"Distal Zone (ug/ml)\": \"0.057 (35%)\", \"Accumulation in Distal Zone (%)\": 59}]"
+        }
+    ]
+}

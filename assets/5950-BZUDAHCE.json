@@ -1,0 +1,89 @@
+{
+    "_id": {
+        "$oid": "6682e82cc4e5dba5ffba2445"
+    },
+    "CID": {
+        "$numberInt": "5950"
+    },
+    "Name": "(L)-ALANINE",
+    "IUPACName": "(2S)-2-aminopropanoic acid",
+    "CanonicalSMILES": "CC(C(=O)O)N",
+    "Synonyms": [
+        "L-alanine",
+        "56-41-7",
+        "alanine",
+        "(S)-Alanine",
+        "L-alpha-alanine",
+        "H-Ala-OH",
+        "(S)-2-Aminopropanoic acid",
+        "(2S)-2-Aminopropanoic acid",
+        "L-2-Aminopropionic acid",
+        "2-Aminopropionic acid",
+        "L-(+)-Alanine",
+        "L-2-Aminopropanoic acid",
+        "alpha-Alanine",
+        "(L)-Alanine",
+        "L-alpha-Aminopropionic acid"
+    ],
+    "IsomericSMILES": "C[C@@H](C(=O)O)N",
+    "INCHI": "InChI=1S/C3H7NO2/c1-2(4)3(5)6/h2H,4H2,1H3,(H,5,6)/t2-/m0/s1",
+    "INCHIKEY": "QNAYBMKLOCPYGJ-REOHCLBHSA-N",
+    "Formula": "C3H7NO2",
+    "MolecularWeight": {
+        "$numberDouble": "89.09"
+    },
+    "Description": "L-alanine is the L-enantiomer of alanine. It has a role as an EC 4.3.1.15 (diaminopropionate ammonia-lyase) inhibitor and a fundamental metabolite. It is a pyruvate family amino acid, a proteinogenic amino acid, a L-alpha-amino acid and an alanine. It is a conjugate base of a L-alaninium. It is a conjugate acid of a L-alaninate. It is an enantiomer of a D-alanine. It is a tautomer of a L-alanine zwitterion.",
+    "XlogP": {
+        "$numberDouble": "-3"
+    },
+    "Complexity": {
+        "$numberInt": "61"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "animal_concentrations": [
+        {
+            "References": "(1) Drauz K et al; Ullmann's Encyclopedia of Industrial Chemistry. 7th ed. (2006). NY, NY: John Wiley & Sons; Amino Acids. Online Posting Date: 3/15/2001.",
+            "Value": "Typical raw materials for the isolation of amino acids include swine bristles, blood meal, collagen, and horn chips(1). The content in percentage of dried substance for these materials is 4%, 7.1%, 10%, and 4.2%, respectively(1). /Amino acids/"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Sangster J; LOGKOW Database. A databank of evaluated octanol-water partition coefficients (Log P). Available from database query at https://logkow.cisti.nrc.ca/logkow/search.html as of Sept 5, 2006. (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 0.004 in fish was calculated for L-alanine(SRC), using an estimated log Kow of -2.85(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Engelbrecht RS, McKinney RE; Sew Indust Wastes 29: 1350 (1957) (2) Urano K, Kato Z; J Hazardous Materials 13: 147-59 (1986) (3) Placak OR, Ruchhoft CC; Sewage Works J 19: 423-40 (1947) (4) McKinney RE et al; Sew Indust Wastes 28: 547-57 (1956) (5) Malaney GW, Gerhold RM; J Water Pollut Microbiol 41: R18-R33 (1969) (6) Takemoto S et al; Suishitsu Odaku Kenkyu 4: 80-90 (1981) (7) Symons JM et al; Int J Air Water Pollut 4: 115 (1961)",
+            "Value": "AEROBIC: An initial alanine concentration of 333 mg/L in an activated sludge inoculum (71.4 mL/L) was reduced by 96% after 23 days as measured by BOD(1). L-Alanine, at an initial concentration of 100 mg/L, reached 40-53% of its theoretical oxygen demand after 3.3-3.75 days in an activated sludge inoculum at 30 mg/L(2). L-Alanine, at an initial concentration of 500 mg/L, reached 96.2-96.6% of its theoretical oxygen demand after 5 days in an activated sludge inoculum at 1,296-1,316 mg/L(3). Alanine at 500 mg/L reached 40% of its theoretical oxidation after 12 hours of aeration in acclimated activated sludge(4). alpha-DL-Alanine, at an initial concentration of 500 mg/L, reached 43% of its theoretical oxygen demand after 24 hours in an activated sludge inoculum at 2,500 mg/L(5). alpha-DL-Alanine at 2-10 mg/L reached approximately 39% of its theoretical oxygen demand after 5 days in tests using a sea water dilution method and a standard dilution method(6). A proposed pathway for the metabolic degradation of alanine in activated sludge is through hydrolysis to lactic acid followed by oxidation through pyruvic acid to formic acid and acetic acid followed by complete oxidation(7)."
+        },
+        {
+            "References": "(1) Kassim G et al; Soil Sci Soc Am J 45: 1106-12 (1981)",
+            "Value": "AEROBIC: C-14 labeled alanine was applied at 3,000 ppm to a closed, constantly aerated system in Steinbeck loam (pH 5.0) and Greenfield sandy loam (pH 7.0)(1). After 1 week, 61-81% of the carbon applied to the Steinbeck loam and 79% of the carbon applied to the Greenfield sandy loam was lost as CO2(1)."
+        },
+        {
+            "References": "(1) van Ginkel GC et al; Chemosphere 31: 4057-66 (1995)",
+            "Value": "ANAEROBIC: Alanine was listed among organic compounds that were utilized as energy substrates in batch cultures inoculated with activated sludge (2 mg dry weight/L) under chlorate-reducing conditions(1). Additional information was not provided(1)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Secor CL et al; Chemosphere 26: 1559-75 (1993)",
+            "Value": "The concentration of alanine measured in zebra mussels collected from 6 locations across NY state was 4.00 g/100g dry weight(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Sangster J; LOGKOW Database. A databank of evaluated octanol-water partition coefficients (Log P). Available from, as of Sept 5, 2006: https://logkow.cisti.nrc.ca/logkow/search.html",
+            "Value": "log Kow = -2.85"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Wang XC, Lee C; Mar Chem 44: 1-23 (1993) (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Araki K, Ozeki T; Kirk-Othmer Encyclopedia of Chemical Technology. (2005). NY, NY: John Wiley & Sons; Amino Acids. Online Posting Date: July 18, 2003.",
+            "Value": "Koc values of 35.7 and 31.7-65 have been measured for alanine in surface sediment(1). According to a classification scheme(2), these Koc values suggest that L-alanine is expected to have very high to high mobility in soil. Measured pKa values of 2.34 (carboxylic acid) and 9.69 (primary amine)(3), indicate that this compound will exist as a zwitterion in the environment."
+        }
+    ]
+}

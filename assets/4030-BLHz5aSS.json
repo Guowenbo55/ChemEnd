@@ -1,0 +1,65 @@
+{
+    "_id": {
+        "$oid": "6682e809c4e5dba5ffba2396"
+    },
+    "CID": {
+        "$numberInt": "4030"
+    },
+    "Name": "MEBENDAZOLE",
+    "IUPACName": "methyl N-(6-benzoyl-1H-benzimidazol-2-yl)carbamate",
+    "CanonicalSMILES": "COC(=O)NC1=NC2=C(N1)C=C(C=C2)C(=O)C3=CC=CC=C3",
+    "Synonyms": [
+        "mebendazole",
+        "31431-39-7",
+        "Vermox",
+        "Pantelmin",
+        "Telmin",
+        "Ovitelmin",
+        "Mebenvet",
+        "Vermicidin",
+        "Vermirax",
+        "Mebenoazole",
+        "Mebutar",
+        "MBDZ",
+        "Bantenol",
+        "Besantin",
+        "Verpanyl"
+    ],
+    "IsomericSMILES": "COC(=O)NC1=NC2=C(N1)C=C(C=C2)C(=O)C3=CC=CC=C3",
+    "INCHI": "InChI=1S/C16H13N3O3/c1-22-16(21)19-15-17-12-8-7-11(9-13(12)18-15)14(20)10-5-3-2-4-6-10/h2-9H,1H3,(H2,17,18,19,21)",
+    "INCHIKEY": "OPXLLQIJSORQAM-UHFFFAOYSA-N",
+    "Formula": "C16H13N3O3",
+    "MolecularWeight": {
+        "$numberDouble": "295.29"
+    },
+    "Description": "Mebendazole is a carbamate ester that is methyl 1H-benzimidazol-2-ylcarbamate substituted by a benzoyl group at position 5. It has a role as an antinematodal drug, a tubulin modulator and a microtubule-destabilising agent. It is a member of benzimidazoles, a carbamate ester and an aromatic ketone. It derives from a hydride of a 1H-benzimidazole.",
+    "XlogP": {
+        "$numberDouble": "2.8"
+    },
+    "Complexity": {
+        "$numberInt": "423"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Sangster J; LOGKOW Database. A databank of evaluated octanol-water partition coefficients (Log P). Available from, as of May 2, 2006: https://logkow.cisti.nrc.ca/logkow/search.html",
+            "Value": "log Kow = 2.83"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "McEvoy, G.K. (ed.). American Hospital Formulary Service.   AHFS Drug Information. American Society of Health-System   Pharmacists, Bethesda, MD. 2006., p. 53",
+            "Value": "Although the exact mechanism of anthelmintic activity of mebendazole has not been fully elucidated, the drug appears to cause selective and irreversible inhibition of the uptake of glucose and other low molecular weight nutrients in susceptible helminths; inhibition of glucose uptake appears to result in endogenous depletion of glycogen stores in the helminth. Mebendazole does not inhibit glucose uptake in mammals. Mebendazole appears to cause degenerative changes in the intestine of nematodes and in the absorptive cells of cestodes. The principal anthelmintic effect of the drug appears to be degeneration of cytoplasmic microtubules within these intestinal and absorptive cells. Microtubular deterioration results in inhibition of organelle movement and interferes with the absorptive and secretory function. As a result of excessive accumulation of intracellular transport secretory granules, hydrolytic and proteolytic enzymes are released and cause cellular autolysis. This irreversible damage leads to death of the parasite."
+        },
+        {
+            "References": "Thomson/Micromedex. Drug Information for the Health Care Professional. Volume 1,  Greenwood Village, CO. 2006., p. 1993",
+            "Value": "Vermicidal; may also be ovicidal for ova or most helminths; mebendazole causes degeneration of parasite's cytoplasmic microtubules and thereby selectively and irreversibly blocks glucose uptake in susceptible adult intestine-dwelling helminths and their tissue-dwelling larvae; inhibition of glucose uptake apparently results in depletion of the parasite's glycogen stores; this, in turn, results in reduced formation of adenosine triphosphate (ATP) required for survival and reproduction of the helminth; corresponding energy levels are gradually reduced until death of the parasite ensues; mebendazole does not appear to affect serum glucose concentrations in humans, however."
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 1126",
+            "Value": "Benzimidazoles produce many biochemical changes in susceptible nematodes, eg, inhibition of mitochondrial fumarate reductase, reduced glucose transport, and uncoupling of oxidative phosphorylation ... /but/ the primary action ... /should be/ to inhibit microtubule polymerization by binding to beta-tubulin. The selective toxicity of these agents derives from the fact that specific, high-affinity binding to parasite beta-tubulin occurs at much lower concn than does binding to the mammalian protein ... Benzimidazole-resistant Haemonchus contortus display reduced high-affinity drug binding to beta-tubulin and alterations in beta-tubulin isotype gene expression that correlate with drug resistance ... Two identified mechanisms of drug resistance in nematodes involve both a progressive loss of \"susceptible\" beta-tubulin gene isotypes together with emergence of a \"resistant\" isotype with a conserved point mutation that encodes a tyrosine instead of phenylalanine at position 200 of beta-tubulin. While this mutation may not be required for benzimidazole resistance in all parasites, eg, Giardia lamblia, benzimidazole resistance in parasitic nematodes is unlikely to be overcome by novel benzimidazole analogs, because tyrosine also is present at position 200 of human beta-tubulin. /Benzimidazoles/"
+        }
+    ]
+}

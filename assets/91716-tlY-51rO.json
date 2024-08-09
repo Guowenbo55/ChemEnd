@@ -1,0 +1,66 @@
+{
+    "_id": {
+        "$oid": "66927117303528b49832d7e0"
+    },
+    "CID": {
+        "$numberInt": "91716"
+    },
+    "Name": "Mefenacet",
+    "IUPACName": "2-(1,3-benzothiazol-2-yloxy)-N-methyl-N-phenylacetamide",
+    "CanonicalSMILES": "CN(C1=CC=CC=C1)C(=O)COC2=NC3=CC=CC=C3S2",
+    "Synonyms": [
+        "Mefenacet",
+        "73250-68-7",
+        "2-(Benzo[d]thiazol-2-yloxy)-N-methyl-N-phenylacetamide",
+        "2-(1,3-Benzothiazol-2-yloxy)-N-methylacetanilide",
+        "2-(Benzothiazol-2-yloxy)-N-methyl-N-phenylacetamide",
+        "2-(1,3-Benzothiazol-2-yloxy)-N-methyl-N-phenylacetamide",
+        "QI0QTA02DG",
+        "2-(2-Benzothiazolyloxy)-N-methyl-N-phenylacetamide",
+        "CHEBI:34830",
+        "Mefenacet 10 microg/mL in Isooctane",
+        "rancho",
+        "BTMPA; FOE 1976;NTN 801; Rancho",
+        "Mefenacet [BSI:ISO]",
+        "NTN 801",
+        "FOE 1976"
+    ],
+    "IsomericSMILES": "CN(C1=CC=CC=C1)C(=O)COC2=NC3=CC=CC=C3S2",
+    "INCHI": "InChI=1S/C16H14N2O2S/c1-18(12-7-3-2-4-8-12)15(19)11-20-16-17-13-9-5-6-10-14(13)21-16/h2-10H,11H2,1H3",
+    "INCHIKEY": "XIGAUIHYSDTJHW-UHFFFAOYSA-N",
+    "Formula": "C16H14N2O2S",
+    "MolecularWeight": {
+        "$numberDouble": "298.4"
+    },
+    "Description": "Mefenacet is a member of benzothiazoles and a tertiary carboxamide. It has a role as an antimitotic and a herbicide.",
+    "XlogP": {
+        "$numberDouble": "3.2"
+    },
+    "Complexity": {
+        "$numberInt": "360"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "In a long-term study conducted in rice paddies, [aniline-14C]mefenacet, a herbicide, was applied to a lysimeter containing loamy soil with a depth of 1 meter. Rice plants were cultivated using conventional methods for 6 consecutive years in Korea. The results showed that during the initial 23 weeks after application, 12.01% of the [14C]mefenacet was mineralized to 14CO2, while only 0.02% volatilized from the soil surface. Over the 6-year period, 0.778% of the originally applied radioactivity leached through the lysimeter soil. The rice plants absorbed and translocated 2.46% of the applied 14C throughout the 6 years, with the highest concentration found in the straw, which was 25.87 times higher than in the brown rice grain. After 6 years, 44.58% of the applied 14C-radioactivity remained in the soil, with 91.45% of it distributed in the upper 0-20 cm layer. These findings indicate that mefenacet exhibited slow downward movement in the soil and that more than half of the applied herbicide was released into the air through mineralization to CO2 in the soil over the course of the study.",
+            "reference": "Kyung, K. S., Ahn, K. C., Kwon, J. W., Lee, Y. P., Lee, E. Y., Kim, Y. J., ... & Lee, J. K. (2015). Long-term fate of the herbicide mefenacet in a rice-grown lysimeter over a period of 6 consecutive years. Journal of the Korean Society for Applied Biological Chemistry, 58, 35-43.",
+            "method": {
+                "Test Plant": "Rice plants (Oryza sativa cv. Akibare)",
+                "Apply Location": "Soil",
+                "Plant Grown Condition": "Cultivated under flooded conditions, typical for rice paddies in Korea",
+                "Chemical Preparation": "[Aniline-14C]mefenacet with a specific radioactivity of 3.4 MBq/mg and a radiochemical purity greater than 98%",
+                "Pesticide Application Details for the Plant": "[14C]Mefenacet applied as a mixture of the commercial granular formulation (Mannyang) at the recommended application rate of 1.05 kg a.i. mefenacet/ha in Korea. The commercial granular formulation was macerated to powder before mixing with soil.",
+                "Other information and Other Information": "Soil core obtained from rice paddy fields in Korea. Fertilization with N-P-K at 150-90-110 kg/ha. Rice seedlings transplanted every year at the rate of nine hills of three seedlings per hill. Rice plants grown for 136 days until harvest. Leachates collected biweekly and volume and radioactivity measured. Mineralization and volatilization of mefenacet measured using a special device made of Pyrex glass."
+            },
+            "result": "[{\"Year after application\": \"1st year\", \"Straw (%)\": 1.855, \"Ears (%)\": 0.006, \"Chaff (%)\": 0.08, \"Brown rice grain (%)\": 0.037}, {\"Year after application\": \"2nd year\", \"Straw (%)\": 0.188, \"Ears (%)\": 0.004, \"Chaff (%)\": 0.009, \"Brown rice grain (%)\": 0.026}, {\"Year after application\": \"3rd year\", \"Straw (%)\": 0.097, \"Ears (%)\": 0.001, \"Chaff (%)\": 0.002, \"Brown rice grain (%)\": 0.003}, {\"Year after application\": \"4th year\", \"Straw (%)\": 0.078, \"Ears (%)\": 0.002, \"Chaff (%)\": 0.007, \"Brown rice grain (%)\": 0.006}, {\"Year after application\": \"5th year\", \"Straw (%)\": 0.02, \"Ears (%)\": 0.001, \"Chaff (%)\": 0.003, \"Brown rice grain (%)\": 0.01}, {\"Year after application\": \"6th year\", \"Straw (%)\": 0.016, \"Ears (%)\": 0.002, \"Chaff (%)\": 0.002, \"Brown rice grain (%)\": 0.006}]"
+        }
+    ],
+    "plant_translocation": [
+        {
+            "References": "Krauskopf, B., Fedtke, C., & Feucht, D. (1989). Uptake, translocation, and metabolism of mefenacet in rice and Echinochloa, and the mechanism of the synergistic interaction with edifenphos.",
+            "Value": "Mefenacet was rapidly absorbed by leaves of rice and Echinochloa crus-galli, whereas root uptake was very slow, especially in rice. Due to its low mobility and availability to plants in soil, uptake via the basal parts of the stem, in contact with the paddy water, was important. Although translocation was poor in both species, enough herbicide appeared to reach the meristematic tissues, where mefenacet inhibited cell division and cell growth. Mefenacet at 500-100 g/ha in combination with the fungicide edifenphos at 250 g/ha was synergistic for E. crus-galli and E. oryzoides control by inhibition of the primary detoxification step of splitting the mefenacet amide-bond. Rice on the other hand was extremely tolerant to the combination treatment. Mefenacet degradation was similarly inhibited in soil."
+        }
+    ]
+}

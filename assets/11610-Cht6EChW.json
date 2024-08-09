@@ -1,0 +1,88 @@
+{
+    "_id": {
+        "$oid": "6682e8f6c4e5dba5ffba283a"
+    },
+    "CID": {
+        "$numberInt": "11610"
+    },
+    "Name": "1-HEPTENE",
+    "IUPACName": "hept-1-ene",
+    "CanonicalSMILES": "CCCCCC=C",
+    "Synonyms": [
+        "1-HEPTENE",
+        "Hept-1-ene",
+        "592-76-7",
+        "HEPTENE",
+        "n-Hept-1-ene",
+        "1-n-Heptene",
+        "Heptylene",
+        "n-Heptene",
+        "NSC 74130",
+        "O748KJ11V7",
+        "MFCD00009531",
+        "NSC-74130",
+        "68526-53-4",
+        "1-Heptene",
+        "analytical standard",
+        "25339-56-4(n-Heptene)592-76-7(1-Heptene)"
+    ],
+    "IsomericSMILES": "CCCCCC=C",
+    "INCHI": "InChI=1S/C7H14/c1-3-5-7-6-4-2/h3H,1,4-7H2,2H3",
+    "INCHIKEY": "ZGEGCLOFRBLKSE-UHFFFAOYSA-N",
+    "Formula": "C7H14",
+    "MolecularWeight": {
+        "$numberDouble": "98.19"
+    },
+    "Description": "1-Heptene is a hydrocarbon.",
+    "XlogP": {
+        "$numberDouble": "4"
+    },
+    "Complexity": {
+        "$numberInt": "37"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR Fundamentals and Applications in Chemistry and Biology. Washington,DC: Amer Chem Soc (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington,DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 630 was calculated for 1-heptene(SRC), using a log Kow of 3.99(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is high(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "PMID:5766669",
+            "Value": "THE MICROBIAL OXIDATION OF HYDROCARBONS WAS MEASURED BY OXYGRAPHY. PENTANE TO N-OCTANE OXIDIZED WITH INCR IN SPECIFIC ACTIVITY, FOLLOWED BY DECR AS HYDROCARBON CHAIN INCR TO HEPTADECANE. N-ALKENES OXIDIZE @ LOWER RATES THAN N-ALKANES."
+        },
+        {
+            "References": "(1) Perry JJ; The Role of Co-Oxidation and Commensalism in the Biodegradation of Recalcitrant Molecules. NTIS PB-80-28-034. US Army Res Office (1980) (2) Buswell JA, Iurtshuk P; Arch Mikrobiol 64: 215-22 (1969) (3) Boethling RS et al; Environ Sic Technol 28: 469-65 (1994)",
+            "Value": "Pure cultures isolated from soil and water samples of Yellowstone National Park were unable to utilize 1-heptene as a sole carbon and energy growth source(1). Corynebacterium sp was unable to utilize 1-heptene as a sole carbon and energy growth source(2). However, 1-heptene's linear hydrocarbon structure would suggest that biodegradation is an important process in soil and water(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 35",
+            "Value": "log Kow= 3.99"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "PMID:7412756",
+            "Value": "HEPATIC MICROSOMAL CYTOCHROME P-450 FROM PHENOBARBITAL-PRETREATED RATS IS DESTROYED IN VITRO, IN PRESENCE OF NADPH BY 1-HEPTENE. HEPATIC GREEN PIGMENTS FORMED ON ADMIN OF TERMINAL OLEFINS."
+        },
+        {
+            "References": "PMID:728469",
+            "Value": "STUDY ON MUTAGENIC ACTIVITY OF 1-HEPTENE, USING AMES TEST WITH TA100 STRAIN OF S TYPHIMURIUM, 1-HEPTENE WAS INACTIVE AS A MUTAGEN."
+        },
+        {
+            "References": "BRINGMANN G ET AL; Z WASSER ABWASSER FORSCH 13 (1): 26 (1980)",
+            "Value": "THE HARMFUL EFFECTS OF WATER POLLUTANTS ON PROTOZOA WAS DETERMINED. A STUDY LISTING VARIOUS TOXICITY THRESHOLDS TO URONEMA PARDUCZI REVEALED 1-HEPTENE TO BE LESS THAN 10 MG/L."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR Fundamentals and Applications in Chemistry and Biology. Washington, DC: Amer Chem Soc (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of 1-heptene is estimated as 3,500(SRC), using a log Kow of 3.99(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that 1-heptene is expected to have slight mobility in soil(SRC)."
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "_id": {
+        "$oid": "66927110303528b49832d7c4"
+    },
+    "CID": {
+        "$numberInt": "91715"
+    },
+    "Name": "Flurazole",
+    "IUPACName": "benzyl 2-chloro-4-(trifluoromethyl)-1,3-thiazole-5-carboxylate",
+    "CanonicalSMILES": "C1=CC=C(C=C1)COC(=O)C2=C(N=C(S2)Cl)C(F)(F)F",
+    "Synonyms": [
+        "Flurazole",
+        "72850-64-7",
+        "Benzyl 2-chloro-4-(trifluoromethyl)thiazole-5-carboxylate",
+        "Flurazole [ISO]",
+        "2-CHLORO-4-(TRIFLUOROMETHYL)-5-THIAZOLECARBOXYLIC ACID PHENYLMETHYL ESTER",
+        "benzyl 2-chloro-4-(trifluoromethyl)-1,3-thiazole-5-carboxylate",
+        "Phenylmethyl 2-chloro-4-(trifluoromethyl)-5-thiazolecarboxylate",
+        "07H7L3RT69",
+        "5-Thiazolecarboxylic acid",
+        "2-chloro-4-(trifluoromethyl)-",
+        "phenylmethyl ester",
+        "Screen",
+        "EINECS 276-942-3",
+        "BRN 1019538",
+        "UNII-07H7L3RT69",
+        "Flurazole; Screen",
+        "Benzyl 2-chloro-4-(trifluoromethyl)-5-thiazolecarboxylate"
+    ],
+    "IsomericSMILES": "C1=CC=C(C=C1)COC(=O)C2=C(N=C(S2)Cl)C(F)(F)F",
+    "INCHI": "InChI=1S/C12H7ClF3NO2S/c13-11-17-9(12(14,15)16)8(20-11)10(18)19-6-7-4-2-1-3-5-7/h1-5H,6H2",
+    "INCHIKEY": "MKQSWTQPLLCSOB-UHFFFAOYSA-N",
+    "Formula": "C12H7ClF3NO2S",
+    "MolecularWeight": {
+        "$numberDouble": "321.7"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "4.5"
+    },
+    "Complexity": {
+        "$numberInt": "350"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The site of uptake, absorption, and distribution of flurazole and acetochlor in grain sorghum plants (Sorghum bicolor \"G-522 DR\") was investigated in laboratory and growth chamber studies conducted at Southern Illinois University. The results showed that acetochlor, which is a herbicide, was primarily absorbed through the shoots of the sorghum plants. The uptake of acetochlor into the plant was rapid and followed a linear pattern. By 7 days, the radiolabeled form of acetochlor (i.e., 14C) was concentrated in the primary roots of the sorghum plants. On the other hand, flurazole, which is a safener, was predominantly taken up by the roots of the sorghum plants. The absorption of radiolabeled flurazole (14C) occurred immediately after application and reached a plateau after 4 days. Similar to acetochlor, the 14C of flurazole was concentrated in the primary roots of the sorghum plants by 7 days. The presence of one chemical did not significantly affect the absorption and distribution of the other chemical in the sorghum plants. This suggests that the uptake and distribution mechanisms of flurazole and acetochlor in grain sorghum are independent of each other. It is worth noting that this information is specific to the experimental conditions and plant species mentioned in the study conducted at Southern Illinois University. The results may vary under different environmental conditions or with other plant species",
+            "reference": "Jackson, L. A., Yopp, J. H., & Kapusta, G. (1986). Absorption and distribution of flurazole and acetochlor in grain sorghum. Pesticide Biochemistry and Physiology, 25(3), 373-380.",
+            "method": {
+                "Test Plant": "Sorghum (Sorghum bicolor)",
+                "Apply Location": "seed application",
+                "Plant Grown Condition": "Growth chamber at 26/18\u00b0C (day/night) with a 14-hr photoperiod, light intensity approximately 600 \u00b5Em-2sec-1",
+                "Chemical Preparation": "Acetochlor (99.4% pure) or flurazole (99.7% pure) at concentrations of 10 \u00b5M were applied in 200 ml of half-strength Hoagland\u2019s solution to the root or shoot zone. Preliminary concentration studies indicated that 10 \u00b5M acetochlor was injurious to sorghum and 10 \u00b5M flurazole prevented the injury.",
+                "Pesticide Application Details for the Plant": "Silica sand was placed in the bottom halves of pans with plastic disks and charcoal barriers to prevent chemical movement between the upper shoot zone and the lower root zone. Sorghum seeds were planted through the holes in the plastic disks, covered with activated charcoal, and the remainder of each pan was filled with silica sand.",
+                "Other Information": "Six replications per treatment"
+            },
+            "result": "[{\"Time after application\": \"1 day\", \"Root (%)\": 5, \"Shoot (%)\": 0, \"Seed (%)\": 95}, {\"Time after application\": \"2 days\", \"Root (%)\": 21, \"Shoot (%)\": 3, \"Seed (%)\": 76}, {\"Time after application\": \"4 days\", \"Root (%)\": 41, \"Shoot (%)\": 6, \"Seed (%)\": 53}, {\"Time after application\": \"7 days\", \"Root (%)\": 55, \"Shoot (%)\": 14, \"Seed (%)\": 31}]"
+        }
+    ]
+}

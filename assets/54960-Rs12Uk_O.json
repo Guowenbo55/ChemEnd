@@ -1,0 +1,86 @@
+{
+    "_id": {
+        "$oid": "669270ff303528b49832d781"
+    },
+    "CID": {
+        "$numberInt": "54960"
+    },
+    "Name": "Bensulfuron-methyl",
+    "IUPACName": "methyl 2-[(4,6-dimethoxypyrimidin-2-yl)carbamoylsulfamoylmethyl]benzoate",
+    "CanonicalSMILES": "COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)CC2=CC=CC=C2C(=O)OC)OC",
+    "Synonyms": [
+        "BENSULFURON-METHYL",
+        "Bensulfuron methyl",
+        "83055-99-6",
+        "Londax",
+        "Methyl bensulfuron",
+        "Bensulfuron methyl ester",
+        "methyl 2-[(4,6-dimethoxypyrimidin-2-yl)carbamoylsulfamoylmethyl]benzoate",
+        "Bensulfuron-methyl [ISO]",
+        "104466-83-3",
+        "QWL4I737BL",
+        "CHEBI:3017",
+        "CHEMBL2313154",
+        "DTXSID7024164",
+        "Methyl alpha-((4,6-dimethoxypyrimidin-2-yl)ureidosulfonyl)-o-toluate",
+        "methyl 2-((N-((4,6-dimethoxypyrimidin-2-yl)carbamoyl)sulfamoyl)methyl)benzoate"
+    ],
+    "IsomericSMILES": "COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)CC2=CC=CC=C2C(=O)OC)OC",
+    "INCHI": "InChI=1S/C16H18N4O7S/c1-25-12-8-13(26-2)18-15(17-12)19-16(22)20-28(23,24)9-10-6-4-5-7-11(10)14(21)27-3/h4-8H,9H2,1-3H3,(H2,17,18,19,20,22)",
+    "INCHIKEY": "XMQFTWRPUQYINF-UHFFFAOYSA-N",
+    "Formula": "C16H18N4O7S",
+    "MolecularWeight": {
+        "$numberDouble": "410.4"
+    },
+    "Description": "Bensulfuron-methyl is the methyl ester of bensulfuron. An acetolactate synthase inhibitor, it is used as a herbicide for the control of a variety of both annual and perennial weeds in crops, particularly wheat and rice. It is not licensed for use within the UK. It has a role as a herbicide, an agrochemical and an EC 2.2.1.6 (acetolactate synthase) inhibitor. It is a N-sulfonylurea, a member of pyrimidines, a methyl ester and an aromatic ether. It is functionally related to a bensulfuron.",
+    "XlogP": {
+        "$numberDouble": "1.6"
+    },
+    "Complexity": {
+        "$numberInt": "627"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "A serial study was conducted to investigate the differential response in absorption and translocation of i*C-bensulfuron-methyl in a group of selected rice cultivars categorized as either tolerant or susceptible to bensulfuron-methyl. In Trial 1, the susceptible cultivar group exhibited higher rates of root absorption per seedling, per unit dry weight, and the rate of translocation from root to shoot, reaching values of 102%, 113%, 115%, 127%, and 113% respectively, compared to the tolerant cultivar group. In Trial 2, regardless of the leaf stage, the susceptible cultivar (cv. IR 1846) demonstrated higher absorption per seedling and per unit dry weight compared to the tolerant cultivar (cv. Chinsurah Boro II). However, when analyzing different portions of the plants, the tolerant cultivar showed a higher rate of absorption in the roots, while the susceptible cultivar exhibited a higher rate in the shoots. Additionally, the translocation rate from root to shoot, based on the individual seedling's radioactivity in the shoot relative to the total radioactivity, was significantly higher in the susceptible cultivar compared to the tolerant cultivar. This suggests that the susceptible cultivar (cv. IR 1846), despite similar rates of absorption and translocation, appeared to be more sensitive due to its higher rate of seedling growth during the chemical treatment.",
+            "reference": "Guh, J., Pyon, J. Y., & Ishizuka, K. (1988). Differential absorption and translocation of bensulfuron-methyl between selected rice cultivars. Korean Journal of Weed Science, 8(1), 45-52.",
+            "method": {
+                "Test Plant": "Bensulfuron-methyl resistance varieties (H93(3) FA, H94(9) FA, Padilabou Alumbis, KH17854, IR 1846-284-1-1) and susceptible varieties (Gunma Kohashi Wasanae, Fadah Pur, UCP 28, Fukunohana, IR 14252-13-2-2-55) of rice.",
+                "Apply Location": "Root application",
+                "Plant Grown Condition": "-",
+                "Chemical Preparation": "14C-bensulfuron-methyl with specific activity of 15 pci/mmol was prepared in 1.3\u00d710^-6 M solution.",
+                "Pesticide Application Details for the Plant": "The rice seedlings were treated by soaking the roots and 1.5 cm of lower stem for 2 hours in 1.3\u00d710^-6 M 14C-bensulfuron-methyl solution.",
+                "Other Information": "In a separate experiment, a resistant variety (Chinsurah Boro II) and a susceptible variety (IR 1836-284-1-1) at 2-leaf and 4-leaf stages were treated by soaking roots in 10^-6 M 14C-bensulfuron-methyl solution for 3, 6, 12, 24, and 48 hours. Autoradiography was performed as described for the oxyfluorfen experiment."
+            },
+            "result": "[{\"Plant\": \"Tolerant\", \"Seeding leaf stage\": 2, \"Hours after application\": 3, \"Shoot (DPM/plant)\": 152, \"Root (DPM/plant)\": 805, \"Total DPM/plant\": 957}, {\"Plant\": \"Tolerant\", \"Seeding leaf stage\": 2, \"Hours after application\": 6, \"Shoot (DPM/plant)\": 287, \"Root (DPM/plant)\": 1151, \"Total DPM/plant\": 1438}, {\"Plant\": \"Tolerant\", \"Seeding leaf stage\": 2, \"Hours after application\": 12, \"Shoot (DPM/plant)\": 492, \"Root (DPM/plant)\": 2581, \"Total DPM/plant\": 3073}, {\"Plant\": \"Tolerant\", \"Seeding leaf stage\": 2, \"Hours after application\": 24, \"Shoot (DPM/plant)\": 1630, \"Root (DPM/plant)\": 4692, \"Total DPM/plant\": 6321}, {\"Plant\": \"Tolerant\", \"Seeding leaf stage\": 2, \"Hours after application\": 48, \"Shoot (DPM/plant)\": 4807, \"Root (DPM/plant)\": 7932, \"Total DPM/plant\": 12739}, {\"Plant\": \"Tolerant\", \"Seeding leaf stage\": 4, \"Hours after application\": 3, \"Shoot (DPM/plant)\": 430, \"Root (DPM/plant)\": 1619, \"Total DPM/plant\": 2050}, {\"Plant\": \"Tolerant\", \"Seeding leaf stage\": 4, \"Hours after application\": 6, \"Shoot (DPM/plant)\": 1114, \"Root (DPM/plant)\": 2560, \"Total DPM/plant\": 3673}, {\"Plant\": \"Tolerant\", \"Seeding leaf stage\": 4, \"Hours after application\": 12, \"Shoot (DPM/plant)\": 1871, \"Root (DPM/plant)\": 4792, \"Total DPM/plant\": 6663}, {\"Plant\": \"Tolerant\", \"Seeding leaf stage\": 4, \"Hours after application\": 24, \"Shoot (DPM/plant)\": 4428, \"Root (DPM/plant)\": 9416, \"Total DPM/plant\": 13844}, {\"Plant\": \"Tolerant\", \"Seeding leaf stage\": 4, \"Hours after application\": 48, \"Shoot (DPM/plant)\": 12741, \"Root (DPM/plant)\": 17113, \"Total DPM/plant\": 29854}, {\"Plant\": \"Susceptible\", \"Seeding leaf stage\": 2, \"Hours after application\": 3, \"Shoot (DPM/plant)\": 226, \"Root (DPM/plant)\": 910, \"Total DPM/plant\": 1136}, {\"Plant\": \"Susceptible\", \"Seeding leaf stage\": 2, \"Hours after application\": 6, \"Shoot (DPM/plant)\": 387, \"Root (DPM/plant)\": 1109, \"Total DPM/plant\": 1496}, {\"Plant\": \"Susceptible\", \"Seeding leaf stage\": 2, \"Hours after application\": 12, \"Shoot (DPM/plant)\": 726, \"Root (DPM/plant)\": 2696, \"Total DPM/plant\": 3423}, {\"Plant\": \"Susceptible\", \"Seeding leaf stage\": 2, \"Hours after application\": 24, \"Shoot (DPM/plant)\": 2368, \"Root (DPM/plant)\": 3951, \"Total DPM/plant\": 6319}, {\"Plant\": \"Susceptible\", \"Seeding leaf stage\": 2, \"Hours after application\": 48, \"Shoot (DPM/plant)\": 4070, \"Root (DPM/plant)\": 5006, \"Total DPM/plant\": 10743}, {\"Plant\": \"Susceptible\", \"Seeding leaf stage\": 4, \"Hours after application\": 3, \"Shoot (DPM/plant)\": 824, \"Root (DPM/plant)\": 2140, \"Total DPM/plant\": 2964}, {\"Plant\": \"Susceptible\", \"Seeding leaf stage\": 4, \"Hours after application\": 6, \"Shoot (DPM/plant)\": 1426, \"Root (DPM/plant)\": 2609, \"Total DPM/plant\": 4035}, {\"Plant\": \"Susceptible\", \"Seeding leaf stage\": 4, \"Hours after application\": 12, \"Shoot (DPM/plant)\": 3211, \"Root (DPM/plant)\": 5429, \"Total DPM/plant\": 8641}, {\"Plant\": \"Susceptible\", \"Seeding leaf stage\": 4, \"Hours after application\": 24, \"Shoot (DPM/plant)\": 8394, \"Root (DPM/plant)\": 8208, \"Total DPM/plant\": 16602}, {\"Plant\": \"Susceptible\", \"Seeding leaf stage\": 4, \"Hours after application\": 48, \"Shoot (DPM/plant)\": 22263, \"Root (DPM/plant)\": 20471, \"Total DPM/plant\": 42736}]"
+        },
+        {
+            "content": "The uptake and distribution of bensulfuron methyl, the active ingredient in the \"Londax\" herbicide, were examined in rice roots and shoots. When roots were directly exposed to a solution containing 14C-bensulfuron methyl (short-term uptake), a considerable amount of 14C material was taken up by the roots. However, in a simulated paddy environment where rice was grown in soil (long-term uptake), the shoots tended to accumulate more 14C material than the roots. Extraction of 14C material from the roots and shoots of plants exposed to bensulfuron methyl for 24 hours revealed that the compound was rapidly metabolized by the shoots but not by the roots. The shoots converted 72% of the accumulated 14C material into a polar metabolite, while in the roots, 76% of the extracted 14C was associated with the parent compound. These findings suggest that rice roots have the capacity to accumulate bensulfuron methyl to a significant extent when directly exposed to the compound. However, in the paddy ecosystem, where soil binding kinetics play a role, there is relatively less uptake of bensulfuron methyl by the roots compared to the shoots when plants are grown in soil. It is noteworthy that bensulfuron methyl is commonly used on direct-seeded Indica rice with minimal crop phytotoxicity observed. This indicates that root exposure to the herbicide is maximized in such cases.",
+            "reference": "ACKERSON, R. C. (1987). Uptake and distribution of bensulfuron methyl (DPX F5384) in rice. \u96d1\u8349\u7814\u7a76, 32(3), 173-179.",
+            "method": {
+                "Test Plant": "Rice (Oryza sativa L. var. \"Nihonbare\") seedlings at the 2.5-leaf stage",
+                "Apply Location": "Root application (roots exposed) and shoot+root application (roots + 3.0 cm shoot exposed)",
+                "Plant Grown Condition": "Plants were placed in a growth chamber at 25/20\u00b12\u00b0C (day/night, 14-hour photoperiod) and 70\u00b15% relative humidity.",
+                "Chemical Preparation": "14C-bensulfuron methyl (phenyl labeled; specific activity 29.8 mg^-1) was added to achieve 0.515 ppm (15.4 x 10^-3 mM) concentration in 20 ml nutrient solution at pH 5.8.",
+                "Pesticide Application Details for the Plant": "Rice seedlings were exposed to the herbicide solution for up to 24 hours by placing them in test tubes containing the solution.",
+                "Other information and Other Information": "Two plants per test tube were used based on uniformity of height and fresh weight. Samples were harvested at specific time points (0-24 h), washed, frozen and analyzed for total 14C by combustion/liquid scintillation counting. 24 h samples were also extracted and analyzed for 14C-bensulfuron methyl and metabolites by solvent partitioning. Duplicate sets of plants were used at each time point."
+            },
+            "result": "[{\"Concentraion\": \"100 g a.i./ha\", \"Days after application\": 0, \"Shoots (DPM)\": 222.89, \"Roots (DPM)\": 162.1}, {\"Concentraion\": \"100 g a.i./ha\", \"Days after application\": 1, \"Shoots (DPM)\": 1024.39, \"Roots (DPM)\": 601.12}, {\"Concentraion\": \"100 g a.i./ha\", \"Days after application\": 4, \"Shoots (DPM)\": 531.33, \"Roots (DPM)\": 405.25}, {\"Concentraion\": \"100 g a.i./ha\", \"Days after application\": 7, \"Shoots (DPM)\": 421.01, \"Roots (DPM)\": 132.83}, {\"Concentraion\": \"400 g a.i./ha\", \"Days after application\": 0, \"Shoots (DPM)\": 616.38, \"Roots (DPM)\": 81.22}, {\"Concentraion\": \"400 g a.i./ha\", \"Days after application\": 1, \"Shoots (DPM)\": 872.01, \"Roots (DPM)\": 224.57}, {\"Concentraion\": \"400 g a.i./ha\", \"Days after application\": 4, \"Shoots (DPM)\": 1120.47, \"Roots (DPM)\": 274.74}, {\"Concentraion\": \"400 g a.i./ha\", \"Days after application\": 7, \"Shoots (DPM)\": 795.56, \"Roots (DPM)\": 114.67}]"
+        },
+        {
+            "content": "In the present study, the effects of dimepiperate on the herbicidal activity of root-applied bensulfuron methyl (BSM) and its absorption, translocation, and metabolism were investigated. BSM is known to selectively control most annual and perennial broadleaf weeds and sedges in paddy rice. The mode of action study showed that BSM inhibits acetolactate synthase, a key enzyme in branched-chain amino acid biosynthesis, and rice leaves metabolize the herbicide into an inactive form. However, BSM's phytotoxic effect on rice plants has been observed in the field, particularly in japonica cultivars, which are more susceptible than indica cultivars. This growth retardation by BSM can be reduced in the field by simultaneous application of certain thiocarbamate herbicides, which increase the rate of BSM degradation in rice leaves. The specific effects of dimepiperate on BSM and its safening action have not been well studied.",
+            "reference": "\u767d\u5009\u4f38\u4e00, \u6e6f\u5c71\u731b, & \u77f3\u585a\u7693\u9020. (1988). Safening effect of dimepiperate on root-growth inhibition in rice caused by bensulfuron methyl. \u96d1\u8349\u7814\u7a76, 33(4), 271-277.",
+            "method": {
+                "Test Plant": "Rice (Oryza sativa L. cv. Nihonbare).",
+                "Apply Location": "Root application.",
+                "Plant Grown Condition": "Rice seeds were initially germinated in an incubator at 25\u00b0C for 2 days, then grown in plastic trays for 14 days, and subsequently transferred to plastic pots containing Kasugai's nutrient solution. The growth chamber conditions were maintained at 25/20\u00b0C (day/night) with a 12-hour photoperiod and 70% relative humidity. The seedlings were grown up to the 2.8 leaf stage, after which the roots were cut 1 cm below the basal part of the stem, and the seedlings were further grown to 3-3.2 leaf stages.",
+                "Chemical Preparation": "Herbicides BSM and dimepiperate were used. The newly formed roots of operated seedlings were exposed to either 0.41 ppm BSM or a mixture of 0.41 ppm BSM and 16.4 ppm dimepiperate in an aqueous solution containing 1% acetone.",
+                "Pesticide Application Details for the Plant": "Herbicide treatments involved an initial exposure of the roots to the herbicide solution for 24 hours. Post-exposure, the roots were washed with distilled water and the plants were transferred to a herbicide-free nutrient solution and monitored for an additional 7 days.",
+                "Other Information": "roots were exposed to a labeled 14C-BSM solution, and after a set absorption period, plants were removed, washed, sectioned into roots and shoots, dried, and combusted to measure 14C-radioactivity using a liquid scintillation spectrometer."
+            },
+            "result": "[{\"Pretreatment\": \"BSM alone\", \"Hours after application\": 1, \"Shoots (dpm/mg)\": 13.39, \"Roots (dpm/mg)\": 324.2}, {\"Pretreatment\": \"BSM alone\", \"Hours after application\": 3, \"Shoots (dpm/mg)\": 98.21, \"Roots (dpm/mg)\": 586.75}, {\"Pretreatment\": \"BSM alone\", \"Hours after application\": 6, \"Shoots (dpm/mg)\": 64.73, \"Roots (dpm/mg)\": 607.3}, {\"Pretreatment\": \"BSM alone\", \"Hours after application\": 24, \"Shoots (dpm/mg)\": 417.41, \"Roots (dpm/mg)\": 972.6}, {\"Pretreatment\": \"BSM + dimepiperate\", \"Hours after application\": 1, \"Shoots (dpm/mg)\": 24.55, \"Roots (dpm/mg)\": 312.78}, {\"Pretreatment\": \"BSM + dimepiperate\", \"Hours after application\": 3, \"Shoots (dpm/mg)\": 33.48, \"Roots (dpm/mg)\": 363.01}, {\"Pretreatment\": \"BSM + dimepiperate\", \"Hours after application\": 6, \"Shoots (dpm/mg)\": 84.82, \"Roots (dpm/mg)\": 397.26}, {\"Pretreatment\": \"BSM + dimepiperate\", \"Hours after application\": 24, \"Shoots (dpm/mg)\": 214.28, \"Roots (dpm/mg)\": 732.87}]"
+        }
+    ]
+}

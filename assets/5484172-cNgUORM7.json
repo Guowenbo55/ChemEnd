@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "66927130303528b49832d842"
+    },
+    "CID": {
+        "$numberInt": "5484172"
+    },
+    "Name": "Quizalofop-P",
+    "IUPACName": "(2R)-2-[4-(6-chloroquinoxalin-2-yl)oxyphenoxy]propanoic acid",
+    "CanonicalSMILES": "CC(C(=O)O)OC1=CC=C(C=C1)OC2=CN=C3C=C(C=CC3=N2)Cl",
+    "Synonyms": [
+        "Quizalofop-P",
+        "94051-08-8",
+        "(R)-(+)-Quizalofop",
+        "Quizalofop-P (free acid)",
+        "DPX-Y 6202-31",
+        "(2R)-2-[4-(6-chloroquinoxalin-2-yl)oxyphenoxy]propanoic acid",
+        "QE95U4A594",
+        "(2R)-2-{4-[(6-chloroquinoxalin-2-yl)oxy]phenoxy}propanoic acid",
+        "Propanoic acid",
+        "2-[4-[(6-chloro-2-quinoxalinyl)oxy]phenoxy]-",
+        "(2R)-",
+        "Propaquizafop free acid",
+        "(r)-2-[4-(6-chloroquinoxalin-2-yloxy)phenoxy]propionic acid",
+        "UNII-QE95U4A594",
+        "(2R)-2-[4-[(6-chloro-2-quinoxalinyl)oxy]phenoxy]propanoic acid",
+        "(2R)-2-(4-((6-CHLORO-2-QUINOXALINYL)OXY)PHENOXY)PROPANOIC ACID",
+        "(R)-2-(4-(6-CHLOROQUINOXALIN-2-YLOXY)PHENOXY)PROPIONIC ACID"
+    ],
+    "IsomericSMILES": "C[C@H](C(=O)O)OC1=CC=C(C=C1)OC2=CN=C3C=C(C=CC3=N2)Cl",
+    "INCHI": "InChI=1S/C17H13ClN2O4/c1-10(17(21)22)23-12-3-5-13(6-4-12)24-16-9-19-15-8-11(18)2-7-14(15)20-16/h2-10H,1H3,(H,21,22)/t10-/m1/s1",
+    "INCHIKEY": "ABOOPXYCKNFDNJ-SNVBAGLBSA-N",
+    "Formula": "C17H13ClN2O4",
+    "MolecularWeight": {
+        "$numberDouble": "344.7"
+    },
+    "Description": "Quizalofop-P is a 2-{4-[(6-chloroquinoxalin-2-yl)oxy]phenoxy}propanoic acid that has R configuration. An acetyl-CoA carboxylase inhibitor, it is used (generally as the corresponding ethyl or tefuryl ester proherbicides) for the control of annual and perennial grass weeds in sugar beet. It has a role as an EC 6.4.1.2 (acetyl-CoA carboxylase) inhibitor. It is a 2-{4-[(6-chloroquinoxalin-2-yl)oxy]phenoxy}propanoic acid and a quinoxaline herbicide. It is an enantiomer of a (S)-quizalofop.",
+    "XlogP": {
+        "$numberDouble": "3.6"
+    },
+    "Complexity": {
+        "$numberInt": "431"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Antagonism of quizalofop-P efficacy on annual grasses by bromoxynil has been noted in both the field and greenhouse. Laboratory experiments were conducted on yellow foxtail (Setaria glauca) to determine the effect of mixing bromoxynil with the ethyl ester of quizalofop-P on absorption, translocation, and metabolism of 14C-quizalofop-P Applying bromoxynil in mixture with quizalofop-P reduced 14C-label absorption from 63 to 51%, 73 to 52%, 77 to 68%, and 90 to 80% at 4, 8, 24, and 96 h after treatment, respectively. Translocation of 14C-label from the treated leaf into the shoot above or shoot below was unaffected by bromoxynil. However, translocation into the roots was reduced from 0.9 to 0.4% and 1.0 to 0.5% at 4 and 8 h after treatment, respectively, but differences were not noted at 0.5, 1, 24, and 96 h after treatment. Bromoxynil increased deesterification of quizalofop-P-ethyl into quizalofop-P acid from 45 to 60% in the shoot above the treated leaf. However, bromoxynil did not affect metabolism of quizalofop-P in the treated leaf or shoot below the treated leaf. These results suggest that antagonism of quizalofop-P activity by bromoxynil is primarily due to decreased absorption of quizalofop-P, whereas effects on translocation and metabolism were minor.",
+            "reference": "Culpepper, A. S., York, A. C., Jordan, D. L., Corbin, F. T., & Sheldon, Y. S. (1999). Basis for antagonism in mixtures of bromoxynil plus quizalofop-P applied to yellow foxtail (Setaria glauca). Weed technology, 13(3), 515-519.",
+            "method": {
+                "Test Plant": "Grass seeds",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Grasses were grown in 10 x 10 cm square plastic pots containing quartz sand in a greenhouse with day/night temperatures of approximately 33/20\u00b0C. Plants were subirrigated and supplemented with 14 h of sunlight plus metal halide lamps (300 \u03bcmol/m2/s photosynthetic photon flux). All pots received 10 ml of 25 g/L commercial fertilizer at emergence and 11 d later.",
+                "Chemical Preparation": "Unlabeled quizalofop-P-ethyl at 84 g ai/ha and a commercial mixture of the octanoic acid ester of bromoxynil (28.7%) plus the heptanoic acid ester of bromoxynil (27.6%) at 560 g ai/ha were sprayed.",
+                "Pesticide Application Details for the Plant": "At the 4-leaf stage, unlabeled herbicides were sprayed using a chamber with a 8001E flat fan nozzle calibrated to deliver 160 L/ha at 200 kPa and 2.4 km/h. Then 10 x 1 \u03bcl droplets of the 14C-quizalofop solution, alone or mixed with bromoxynil, were applied on the adaxial side of the most fully expanded leaf.",
+                "Other Information": "-"
+            },
+            "result": "[{\"Hours after application\": 0.5, \"Treated leaf (% of recovered)\": 90.8, \"Shoot above (%)\": 6.7, \"Shoot below (%)\": 2.5, \"Root (%)\": 0.0}, {\"Hours after application\": 1.0, \"Treated leaf (% of recovered)\": 91.0, \"Shoot above (%)\": 7.4, \"Shoot below (%)\": 1.6, \"Root (%)\": 0.0}, {\"Hours after application\": 4.0, \"Treated leaf (% of recovered)\": 89.4, \"Shoot above (%)\": 8.7, \"Shoot below (%)\": 1.0, \"Root (%)\": 0.9}, {\"Hours after application\": 8.0, \"Treated leaf (% of recovered)\": 90.9, \"Shoot above (%)\": 7.4, \"Shoot below (%)\": 0.7, \"Root (%)\": 1.0}, {\"Hours after application\": 24.0, \"Treated leaf (% of recovered)\": 92.1, \"Shoot above (%)\": 6.6, \"Shoot below (%)\": 0.8, \"Root (%)\": 0.5}, {\"Hours after application\": 96.0, \"Treated leaf (% of recovered)\": 92.3, \"Shoot above (%)\": 6.3, \"Shoot below (%)\": 1.4, \"Root (%)\": 0.7}]"
+        }
+    ]
+}

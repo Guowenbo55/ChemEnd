@@ -1,0 +1,57 @@
+{
+    "_id": {
+        "$oid": "6682e967c4e5dba5ffba2a75"
+    },
+    "CID": {
+        "$numberInt": "31070"
+    },
+    "Name": "FENAMIPHOS",
+    "IUPACName": "N-[ethoxy-(3-methyl-4-methylsulfanylphenoxy)phosphoryl]propan-2-amine",
+    "CanonicalSMILES": "CCOP(=O)(NC(C)C)OC1=CC(=C(C=C1)SC)C",
+    "Synonyms": [
+        "FENAMIPHOS",
+        "Phenamiphos",
+        "22224-92-6",
+        "Nemacur",
+        "Methaphenamiphos",
+        "Nemacur P",
+        "BAY 68138",
+        "BAY sra 3886",
+        "Fenamiphos [BSI:ISO]",
+        "Fenamiphos 90%",
+        "Ethyl 4-(methylthio)-m-tolyl isopropylphosphoramidate",
+        "N-[ethoxy-(3-methyl-4-methylsulfanylphenoxy)phosphoryl]propan-2-amine",
+        "Bayer 68138",
+        "SRA 3886",
+        "ENT 27572"
+    ],
+    "IsomericSMILES": "CCOP(=O)(NC(C)C)OC1=CC(=C(C=C1)SC)C",
+    "INCHI": "InChI=1S/C13H22NO3PS/c1-6-16-18(15,14-10(2)3)17-12-7-8-13(19-5)11(4)9-12/h7-10H,6H2,1-5H3,(H,14,15)",
+    "INCHIKEY": "ZCJPOPBZHLUFHF-UHFFFAOYSA-N",
+    "Formula": "C13H22NO3PS",
+    "MolecularWeight": {
+        "$numberDouble": "303.36"
+    },
+    "Description": "Fenamiphos is a phosphoramidate ester, an organophosphate insecticide and an organophosphate nematicide. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, an agrochemical and an acaricide. It is functionally related to a 4-(methylsulfanyl)-m-cresol.",
+    "XlogP": {
+        "$numberDouble": "3.2"
+    },
+    "Complexity": {
+        "$numberInt": "314"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Yang L et al; J Agric Food Chem 60(8): 1906-13 (2012)",
+            "Value": "Fenamiphos was not detected (detection limit 0.025 mg/kg) in 17 fish samples. However, fenamiphos sulfone, a degradation product of fenamiphos was detected in fish at 0.057 mg/kg(1)."
+        }
+    ],
+    "plant_translocation": [
+        {
+            "References": "Romeh, A. A., & Hendawi, M. Y. (2017). Biochemical interactions between Glycine max L. silicon dioxide (SiO2) and plant growth-promoting bacteria (PGPR) for improving phytoremediation of soil contaminated with fenamiphos and its degradation products. Pesticide biochemistry and physiology, 142, 32-43.",
+            "Value": "Fenamiphos is a systematic nematicide-insecticide extensively used for controlling soil nematodes. Its oxidation products have been known to induce water and soil pollution, as well as ecotoxicological effects on aquatic organisms and health issues. Phytoremediation can remove this contaminant, and we tested several strategies to improve its effectiveness. A combination of *Glycine max* (G. max) plus *Pseudomonas fluorescens* was more efficient than *G. max* plus *Serratia marcescens* or *G. max* alone in degrading fenamiphos to other metabolites. Three major metabolites, fenamiphos sulfoxide (FSO), fenamiphos sulfone (FSO2), and fenamiphos phenol (F-phenol), were detected in roots and leaves. *G. max* amended with *P. fluorescens* or *S. marcescens* produced a significant accumulation of FSO and FSO2, with higher amounts than for *G. max* alone. Leaf concentrations of FSO were higher than in roots, while FSO2 accumulated significantly more in *G. max* roots than in leaves. In soil treated with fenamiphos, *G. max* roots and leaves alone, and in combined effects of plant and microorganisms, resulted in the disappearance of fenamiphos and the appearance of FSO, FSO2, and F-phenol, causing toxic stress in *G. max* and the production of reactive oxygen species such as H2O2, with higher content and an increase in antioxidant GPX activity. A batch equilibrium technique showed that the use of SiO2 efficiently removed fenamiphos compared with other treatments for removing adsorbed fenamiphos from soil. However, a fewer amount of fenamiphos was removed by *G. max* with SiO2. H2O2 content and GPX activity increased in *G. max* under fenamiphos treatment and its degradation products, while amended *G. max* with SiO2 or Argal led to a decrease in GPX activity and H2O2 content."
+        }
+    ]
+}

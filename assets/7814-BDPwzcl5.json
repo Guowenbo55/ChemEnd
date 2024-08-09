@@ -1,0 +1,69 @@
+{
+    "_id": {
+        "$oid": "6682e890c4e5dba5ffba2637"
+    },
+    "CID": {
+        "$numberInt": "7814"
+    },
+    "Name": "1,4-BENZENEDIAMINE",
+    "IUPACName": "benzene-1,4-diamine",
+    "CanonicalSMILES": "C1=CC(=CC=C1N)N",
+    "Synonyms": [
+        "p-Phenylenediamine",
+        "106-50-3",
+        "benzene-1,4-diamine",
+        "1,4-BENZENEDIAMINE",
+        "1,4-Diaminobenzene",
+        "1,4-Phenylenediamine",
+        "4-Aminoaniline",
+        "para-phenylenediamine",
+        "p-Diaminobenzene",
+        "p-Aminoaniline",
+        "Orsin",
+        "4-Phenylenediamine",
+        "Paraphenylenediamine",
+        "p-Benzenediamine",
+        "Fouramine D"
+    ],
+    "IsomericSMILES": "C1=CC(=CC=C1N)N",
+    "INCHI": "InChI=1S/C6H8N2/c7-5-1-2-6(8)4-3-5/h1-4H,7-8H2",
+    "INCHIKEY": "CBCKQZAAMUWICA-UHFFFAOYSA-N",
+    "Formula": "C6H8N2",
+    "MolecularWeight": {
+        "$numberDouble": "108.14"
+    },
+    "Description": "1,4-phenylenediamine is a phenylenediamine in which the amino functions are at positions 1 and 4 of the benzene nucleus. It has a role as a hapten, a dye, a reagent and an allergen.",
+    "XlogP": {
+        "$numberDouble": "-0.3"
+    },
+    "Complexity": {
+        "$numberInt": "54"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Chambers CW et al; J Water Pollut Control Fed 35: 1517-28 (1963) (2) Pitter P; Water Res 10: 231-5 (1976) (3) Malaney GW; J Water Pollut Control Fed 32: 1300-11 (1960) (4) Marion CV, Malaney GW; Proc Ind Waste Conf 18: 297-308 (1964) (5) Wotzka J et al; Dtsc Gewaesserkd Mitt 37: 106-113 (1993) (6) Freitag D et al; Chemosphere 14: 1589-1616 (1985)",
+            "Value": "Biodegradation of 1,4-benzenediamine (60 ng/l) with an adapted mixed culture from soil, compost or mud from a waste lagoon capable of rapid degradation of phenol led to a 9% theoretical BOD in 3hr at 30 \u00b0C (phenol reference - 70% theoretical BOD)(1). An 80% degradation of 1,4-benzenediamine (25-30 mg/l) with acclimated activated sludge in 120 hr at 20 \u00b0C has been reported(2). Aniline-acclimated activated sludge led to 8% theoretical BOD in 190 hr at 20 \u00b0C(3). No degradation of 500 mg/l 1,4-benzenediamine was observed with 3 activated sludges in 24 hr at 20 \u00b0C, the test compound was toxic to the 3 sludges(4). A 0% theoretical BOD was observed for 1,4-benzenediamine in a Warburg apparatus during a 5 day incubation period(5). 3.8% Biodegradation was observed when 1,4-diaminobenzene dihydrochloride (initial concentration unspecified) was incubated with an activated sludge inoculum obtained from a municipal sewage treatment facility over a 5 day incubation period(6)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "USEPA; Fed Reg 47: 937-83 (1982)",
+            "Value": "log Kow= -0.25"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V16 133 (1978)",
+            "Value": "FROM STUDIES OF THE INTRACUTANEOUS SENSITIZATION OF GUINEA-PIGS USING PARA-PHENYLENEDIAMINE, HYDROQUINONE, QUINHYDRONE AND BENZOQUINONE, IT HAS BEEN SUGGESTED THAT BENZOQUINONE FORMATION PLAYS AN IMPORTANT ROLE IN THE ALLERGIC ACTION OF PARA-PHENYLENEDIAMINE."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Swann RL et al; Res Rev 85: 23 (1983) (2) Hansch C, Leo A; Exploring QSAR Fundamentals and Applications in Chemistry and Biology. Washington, DC: Amer Chem Soc (1995) (3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (4) Adrian P et al; Chemosphere 18: 1599-1609 (1989)",
+            "Value": "Based on a recommended classification scheme(1), an estimated Koc value of 16(SRC), determined from a measured log Kow of -0.3(2) and a recommended regression-derived equation(3), indicates that 1,4-benzenediamine is expected to have high mobility in soil(SRC); however it may form covalent bonds to humic material which would limit movement through soil(4)."
+        }
+    ]
+}

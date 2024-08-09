@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "66927107303528b49832d7a4"
+    },
+    "CID": {
+        "$numberInt": "31573"
+    },
+    "Name": "Dimethametryn",
+    "IUPACName": "4-N-ethyl-2-N-(3-methylbutan-2-yl)-6-methylsulfanyl-1,3,5-triazine-2,4-diamine",
+    "CanonicalSMILES": "CCNC1=NC(=NC(=N1)SC)NC(C)C(C)C",
+    "Synonyms": [
+        "DIMETHAMETRYN",
+        "22936-75-0",
+        "Dimethametorin",
+        "Dimethametryne",
+        "Belclene 310",
+        "CG 7103",
+        "\"1,3,5-Triazine-2,4-diamine",
+        "N-(1,2-dimethylpropyl)-N-ethyl-6-(methylthio)-\"",
+        "C 18898",
+        "DTXSID3041873",
+        "CHEBI:81813",
+        "044DE9GA31",
+        "2-((1,2-Dimethylpropyl)amino)-4-(ethylamino)-6-(methylthio)-s-triazine",
+        "2-(Methylthio)-4-(ethylamino)-6-((1,2-dimethylpropyl)amino)-s-triazine",
+        "4-N-ethyl-2-N-(3-methylbutan-2-yl)-6-methylsulfanyl-1,3,5-triazine-2,4-diamine",
+        "s-Triazine",
+        "2-((1,2-dimethylpropyl)amino)-4-ethylamino-6-methylthio-"
+    ],
+    "IsomericSMILES": "CCNC1=NC(=NC(=N1)SC)NC(C)C(C)C",
+    "INCHI": "InChI=1S/C11H21N5S/c1-6-12-9-14-10(13-8(4)7(2)3)16-11(15-9)17-5/h7-8H,6H2,1-5H3,(H2,12,13,14,15,16)",
+    "INCHIKEY": "IKYICRRUVNIHPP-UHFFFAOYSA-N",
+    "Formula": "C11H21N5S",
+    "MolecularWeight": {
+        "$numberDouble": "255.39"
+    },
+    "Description": "Dimethametryn is a member of 1,3,5-triazines.",
+    "XlogP": {
+        "$numberDouble": "3.9"
+    },
+    "Complexity": {
+        "$numberInt": "214"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The herbicide dimethametryn has been found to exhibit higher phytotoxicity to rice cultivars and barnyardgrass compared to simetryn. Their difference in electron transport inhibition during photosynthesis was identified as a factor influencing their phytotoxic effects, which varied between plant species. While barnyardgrass and the rice cultivar Choseng Tongil showed little difference in growth response between simetryn and dimethametryn, the Nihonbare rice cultivar exhibited greater tolerance to simetryn but relatively low tolerance to dimethametryn. In an experiment, two rice cultivars, Nihonbare and Choseng Tongil, and barnyardgrass were exposed to simetryn or dimethametryn at a concentration of 10-5M, chosen based on previous observations of differential phytotoxicity. The absorption, translocation, and metabolism of 14C-labeled simetryn and dimethametryn were compared to elucidate the mechanism underlying the herbicides' differential phytotoxic activity.",
+            "reference": "\u677e\u672c\u5b8f, \u30c1\u30ca\u30a6\u30a9\u30f3\u30bd\u30f3\u30d0\u30c3\u30c8, & \u77f3\u585a\u7693\u9020. (1987). Mechanism of differential phytotoxicity of simetryn and dimethametryn on rice cultivars and barnyardgrass. \u96d1\u8349\u7814\u7a76, 32(2), 129-135.",
+            "method": {
+                "Test Plant": "Two rice cultivars (Oryza sativa L. cvs. Nihonbare and Choseng Tongil) and barnyardgrass (Echinochloa oryzicola Vasing.)",
+                "Apply Location": "Root application",
+                "Plant Grown Condition": "Details on how the plants were grown were not provided.",
+                "Chemical Preparation": "14C-labeled simetryn and dimethametryn were used with specific activities adjusted to 1.00 mCi/mmole by diluting with non-radiolabeled herbicides. 10^-5 M solutions of simetryn or dimethametryn with 2.00 mCi/mmole specific activity were prepared.",
+                "Pesticide Application Details for the Plant": "Roots were soaked for up to 24 hours in nutrient solutions containing 10^-5 M simetryn or dimethametryn. This concentration was chosen based on previous observation of differential phytotoxicity between the two herbicides.",
+                "Other Information": "After treatment, plants were washed, separated into roots and shoots, oven-dried,"
+            },
+            "result": "[{\"Plant Hours after application\": 26.63, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 0.51}, {\"Plant Hours after application\": 36.44, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 1.04}, {\"Plant Hours after application\": 46.82, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 1.91}, {\"Plant Hours after application\": 58.59, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 2.79}, {\"Plant Hours after application\": 68.13, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 4.74}, {\"Plant Hours after application\": 24.67, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 0.53}, {\"Plant Hours after application\": 29.99, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 0.88}, {\"Plant Hours after application\": 38.13, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 1.39}, {\"Plant Hours after application\": 47.94, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 1.86}, {\"Plant Hours after application\": 63.64, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 4.41}, {\"Plant Hours after application\": 27.75, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 0.53}, {\"Plant Hours after application\": 38.13, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 1.06}, {\"Plant Hours after application\": 50.46, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 2.05}, {\"Plant Hours after application\": 63.08, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 2.6}, {\"Plant Hours after application\": 75.14, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 6.8}]"
+        }
+    ]
+}

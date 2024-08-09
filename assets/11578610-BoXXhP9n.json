@@ -1,0 +1,87 @@
+{
+    "_id": {
+        "$oid": "66927104303528b49832d797"
+    },
+    "CID": {
+        "$numberInt": "11578610"
+    },
+    "Name": "Cyantraniliprole",
+    "IUPACName": "5-bromo-2-(3-chloropyridin-2-yl)-N-[4-cyano-2-methyl-6-(methylcarbamoyl)phenyl]pyrazole-3-carboxamide",
+    "CanonicalSMILES": "CC1=CC(=CC(=C1NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br)C(=O)NC)C#N",
+    "Synonyms": [
+        "Cyantraniliprole",
+        "736994-63-1",
+        "Cyazypyr",
+        "Cyantraniliprole [ISO]",
+        "LO6K6H48FD",
+        "3-bromo-1-(3-chloropyridin-2-yl)-n-[4-cyano-2-methyl-6-(methylcarbamoyl)phenyl]-1h-pyrazole-5-carboxamide",
+        "3-Bromo-1-(3-chloro-2-pyridinyl)-N-[4-cyano-2-methyl-6-[(methylamino)carbonyl]phenyl]-1H-pyrazole-5-carboxamide",
+        "1H-Pyrazole-5-carboxamide",
+        "3-bromo-1-(3-chloro-2-pyridinyl)-N-(4-cyano-2-methyl-6-((methylamino)carbonyl)phenyl)-",
+        "1H-Pyrazole-5-carboxamide,3-bromo-1-(3-chloro-2-pyridinyl)-N-[4-cyano-2-methyl-6-[(methylamino)carbonyl]phenyl]-",
+        "3-bromo-1-(3-chloro-2-pyridinyl)-N-(4-cyano-2-methyl-6-((methylamino)carbonyl)phenyl)-1H-pyrazole-5-carboxamide",
+        "5-bromo-2-(3-chloropyridin-2-yl)-N-[4-cyano-2-methyl-6-(methylcarbamoyl)phenyl]pyrazole-3-carboxamide",
+        "\"3-bromo-1-(3-chloro-2-pyridyl)-4-cyano-2-methyl-6-(methylcarbamoyl)pyrazole-5-carboxanilide\"",
+        "3-bromo-1-(3-chloropyridin-2-yl)-n-(4-cyano-2-methyl-6-(methylcarbamoyl)phenyl)-1h-pyrazole-5-carboxamide",
+        "C19H14BrClN6O2",
+        "UNII-LO6K6H48FD"
+    ],
+    "IsomericSMILES": "CC1=CC(=CC(=C1NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br)C(=O)NC)C#N",
+    "INCHI": "InChI=1S/C19H14BrClN6O2/c1-10-6-11(9-22)7-12(18(28)23-2)16(10)25-19(29)14-8-15(20)26-27(14)17-13(21)4-3-5-24-17/h3-8H,1-2H3,(H,23,28)(H,25,29)",
+    "INCHIKEY": "DVBUIBGJRQBEDP-UHFFFAOYSA-N",
+    "Formula": "C19H14BrClN6O2",
+    "MolecularWeight": {
+        "$numberDouble": "473.7"
+    },
+    "Description": "Cyantraniliprole is a carboxamide that is chlorantraniliprole in which the chlorine atom attached to the phenyl ring has been replaced by a cyano group. A ryanodine receptor agonist, it is used as insecticide for the control of whitefly, thrips, aphids, fruitflies, and fruit worms in crops such as onions, potatoes and tomatoes. It is highly toxic to honeybees. It has a role as a ryanodine receptor agonist. It is a pyrazole insecticide, a nitrile, an organochlorine compound, an organobromine compound, a member of pyridines and a secondary carboxamide.",
+    "XlogP": {
+        "$numberDouble": "3.9"
+    },
+    "Complexity": {
+        "$numberInt": "672"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The uptake, translocation, and distribution of cyantraniliprole in wheat plants grown in hydroponics and soil conditions were investigated. In the hydroponics experiment, cyantraniliprole was found to be absorbed by wheat roots primarily through the apoplastic pathway and predominantly distributed in the cell-soluble fraction (81.4\u221283.6%). It was ultimately transferred upward to the leaves (translocation factor leave/stem = 4.84, which was greater than the translocation factor stem/root). In wheat-soil systems, the uptake of cyantraniliprole was similar to that in hydroponics. The accumulation of cyantraniliprole in wheat tissues was mainly influenced by the content of soil organic matter and clay, leading to increased adsorption of cyantraniliprole onto soils (R2 > 0.991, P < 0.01). The accumulation was positively related to the concentration of cyantraniliprole in soil pore water (R2 > 0.991, P < 0.001). Additionally, the absorption of cyantraniliprole by wheat was well predicted by the partition-limited model.",
+            "reference": "Cao, D., Zhang, Y., Fu, X., Wang, F., Wei, H., Zhou, Q., ... & Peng, W. (2023). Uptake, translocation, and distribution of cyantraniliprole in a wheat planting system. Journal of Agricultural and Food Chemistry, 71(13), 5127-5135.",
+            "method": {
+                "Test Plant": "Wheat (Jimai 22)",
+                "Apply Location": "Hydroponic exposure",
+                "Plant Grown Condition": "Seeds soaked in 5% NaClO, germinated for 5 days.Grown in sterile nutrient solution (pH 6.5) for 7 days in incubator (16:8 h light/dark, 250 \u03bcmol/m2/s, 25/20\u00b0C day/night, 70% RH). Seedlings with similar size (root 12\u00b11 cm, shoot 16\u00b11 cm) selected",
+                "Chemical Preparation": "Analytical grade cyantraniliprole (99.2% purity).Exposure concentration 10 mg/L in nutrient solution",
+                "Pesticide Application Details for the Plant": "25 seedlings transferred to glass box with 1.5 L nutrient solution containing 10 mg/L cyantraniliprole",
+                "Other Information": "Triplicate treatments, randomized in growth chamber.Solution weight loss monitored and replenished."
+            },
+            "result": "[{\"Days after application\": 0.5, \"Roots (mg/kg)\": 7.27, \"Stems (mg/kg)\": 1.96, \"Leaves (mg/kg)\": 1.28, \"RCF\": 0.71, \"SCF\": 0.13, \"LCF\": 0.2, \"TF(stem/root)\": 0.74, \"TF(leaves/stem)\": 0.1}, {\"Days after application\": 1.0, \"Roots (mg/kg)\": 7.27, \"Stems (mg/kg)\": 4.31, \"Leaves (mg/kg)\": 2.57, \"RCF\": 0.72, \"SCF\": 0.28, \"LCF\": 0.46, \"TF(stem/root)\": 0.86, \"TF(leaves/stem)\": 0.19}, {\"Days after application\": 2.0, \"Roots (mg/kg)\": 7.19, \"Stems (mg/kg)\": 9.31, \"Leaves (mg/kg)\": 3.18, \"RCF\": 0.73, \"SCF\": 0.35, \"LCF\": 1.01, \"TF(stem/root)\": 1.57, \"TF(leaves/stem)\": 0.26}, {\"Days after application\": 3.0, \"Roots (mg/kg)\": 7.12, \"Stems (mg/kg)\": 11.21, \"Leaves (mg/kg)\": 3.48, \"RCF\": 0.77, \"SCF\": 0.42, \"LCF\": 1.26, \"TF(stem/root)\": 1.67, \"TF(leaves/stem)\": 0.29}, {\"Days after application\": 5.0, \"Roots (mg/kg)\": 6.51, \"Stems (mg/kg)\": 20.0, \"Leaves (mg/kg)\": 4.16, \"RCF\": 0.83, \"SCF\": 0.52, \"LCF\": 2.54, \"TF(stem/root)\": 2.62, \"TF(leaves/stem)\": 0.35}, {\"Days after application\": 7.0, \"Roots (mg/kg)\": 6.13, \"Stems (mg/kg)\": 20.9, \"Leaves (mg/kg)\": 4.24, \"RCF\": 0.83, \"SCF\": 0.55, \"LCF\": 2.81, \"TF(stem/root)\": 2.62, \"TF(leaves/stem)\": 0.37}]"
+        },
+        {
+            "content": "While cyantraniliprole has been frequently used in rice fields, knowledge of its uptake, translocation, and distribution in rice planting systems is still largely unexplored. Plant uptake is crucial in determining how cyantraniliprole moves through the food chain. Understanding these processes is essential for predicting its accumulation in rice and potential human exposure. In a hydroponic-rice system, cyantraniliprole was found to be easily absorbed by rice roots via passive diffusion through the apoplastic pathway. It was then translocated upward through the xylem, but its acropetal translocation was limited. Cyantraniliprole in shoots could also be downward translocated through the phloem, although to a limited extent, indicating rice plants' weak phloem movement capacity. Additionally, cyantraniliprole exhibited a short half-life in sediment-water systems and dissipated faster in anaerobic than aerobic conditions. At the equilibrium stage of a sediment-water system, cyantraniliprole preferentially partitioned to the solid phase.",
+            "reference": "Zhang, C., Fang, N., Li, Y., Wang, X., He, H., Jiang, J., ... & Li, Y. (2022). Uptake, translocation and distribution of cyantraniliprole in rice planting system. Journal of Hazardous Materials, 436, 129125.",
+            "method": {
+                "Test Plant": "Rice (E1677)",
+                "Apply Location": "Root exposure in hydroponic solution.",
+                "Plant Grown Condition": "Rice seedlings (shoot height 20 \u00b1 2 cm) transplanted to 1/4 strength Hoagland's nutrient solution (pH 6) for 10 days. Grown in mesocosm at 25/20\u00b0C day/night, 70% RH, 16:8 h light/dark cycle, 76,000 LUX. Nutrient solution aerated and renewed every 3 days.",
+                "Chemical Preparation": "Analytical grade cyantraniliprole (99.2% purity). Stock solution 1000 mg/L in acetonitrile. Working solutions prepared by diluting stock.",
+                "Pesticide Application Details for the Plant": "Seedlings transplanted into PVC boxes with nutrient solution containing 0.4 mg/L (1x field rate) or 4 mg/L (10x field rate) cyantraniliprole. Roots immersed in solution, gaps sealed.",
+                "Other Information": "Triplicate boxes for each treatment and control."
+            },
+            "result": "[{\"Concentration (mg/L)\": \"0.4 1\", \"Days after application\": 1.01, \"Uptake (mg/kg)\": 2.67, \"RCF\": NaN}, {\"Concentration (mg/L)\": \"0.4 5\", \"Days after application\": NaN, \"Uptake (mg/kg)\": 1.55, \"RCF\": 4.04}, {\"Concentration (mg/L)\": \"0.4 10\", \"Days after application\": NaN, \"Uptake (mg/kg)\": 1.79, \"RCF\": 8.45}, {\"Concentration (mg/L)\": \"0.4 14\", \"Days after application\": NaN, \"Uptake (mg/kg)\": 1.73, \"RCF\": 9.16}, {\"Concentration (mg/L)\": \"0.4 28\", \"Days after application\": NaN, \"Uptake (mg/kg)\": 1.73, \"RCF\": 9.76}, {\"Concentration (mg/L)\": \"4\", \"Days after application\": 1.0, \"Uptake (mg/kg)\": 9.19, \"RCF\": 2.67}, {\"Concentration (mg/L)\": \"4\", \"Days after application\": 5.0, \"Uptake (mg/kg)\": 11.88, \"RCF\": 4.04}, {\"Concentration (mg/L)\": \"4\", \"Days after application\": 10.0, \"Uptake (mg/kg)\": 13.49, \"RCF\": 4.88}, {\"Concentration (mg/L)\": \"4\", \"Days after application\": 14.0, \"Uptake (mg/kg)\": 13.67, \"RCF\": 6.01}, {\"Concentration (mg/L)\": \"4\", \"Days after application\": 28.0, \"Uptake (mg/kg)\": 13.67, \"RCF\": 7.61}]"
+        },
+        {
+            "content": "Production of chrysanthemum (Dendranthema grandiflora) in greenhouses often requires intensive pesticide use, raising concerns about food safety and human health. This study investigated the uptake, translocation, and residue dissipation of typical fungicides (metalaxyl-M and fludioxonil) and insecticides (cyantraniliprole and thiamethoxam) in greenhouse chrysanthemum when applied to soils. Chrysanthemum plants absorbed these pesticides from soils to various degrees, with bioconcentration factors (BCF) positively correlated with the lipophilicity (log Kow) of pesticides. The highly lipophilic fludioxonil (log Kow = 4.12) had the greatest BCF (2.96 \u00b1 0.41 g/g), while the hydrophilic thiamethoxam (log Kow = 0.13) had the lowest (0.09 \u00b1 0.03 g/g). Translocation factors (TF) from roots to shoots followed the order of TF_leaf > TF_stem > TF_flower. Metalaxyl-M and cyantraniliprole, with medium lipophilicity (log Kow of 1.71 and 2.02, respectively), and hydrophilic thiamethoxam showed relatively strong translocation potentials with TF values in the range of 0.29\u20130.81, 0.36\u20132.74, and 0.30\u20131.03, respectively.",
+            "reference": "Gong, W., Jiang, M., Zhang, T., Zhang, W., Liang, G., Li, B., ... & Han, P. (2020). Uptake and dissipation of metalaxyl-M, fludioxonil, cyantraniliprole and thiamethoxam in greenhouse chrysanthemum. Environmental pollution, 257, 113499.",
+            "method": {
+                "Test Plant": "Chrysanthemun",
+                "Apply Location": "Root application (soil application)",
+                "Plant Grown Condition": "Plants were cultivated in plastic pots (500 \u00d7 340 \u00d7 263 mm) filled with dry soil mass of 6 \u00b1 0.5 kg, with a temperature of 21 \u00b1 2\u00b0C and relative humidity of 75 \u00b1 2% in a greenhouse.",
+                "Chemical Preparation": "A commercial formulation of 62.5 g/L metalaxyl-M fludioxonil SC (37.5 g/L for metalaxyl-M and 25 g/L for fludioxonil), and a commercial formulation of 40% cyantraniliprole thiamethoxam SC (20% for each) were used. A mixed pesticide solution (200 mL) was prepared at the manufacturer-recommended dose (3.2, 2.1, 4.3, and 4.3 kg/ha for metalaxyl-M, fludioxonil, cyantraniliprole, and thiamethoxam, respectively).",
+                "Pesticide Application Details for the Plant": "Chrysanthemun plants received a mixed pesticide solution (200 mL) once at the manufacturer-recommended dose (low dose) or at the high dose (doubling the recommended dose) two or three times with a 7-day interval.",
+                "Other Information": "The experiment was designed in a randomized block design with two adjacent blocks separated by a 0.5-m alley."
+            },
+            "result": "[{\"Days after application\": 1, \"Flower (mg/kg)\": 0.035, \"Leaf (mg/kg)\": 0.331, \"Stem (mg/kg)\": 0.058}, {\"Days after application\": 2, \"Flower (mg/kg)\": 0.078, \"Leaf (mg/kg)\": 0.347, \"Stem (mg/kg)\": 0.128}, {\"Days after application\": 3, \"Flower (mg/kg)\": 0.109, \"Leaf (mg/kg)\": 0.522, \"Stem (mg/kg)\": 0.32}, {\"Days after application\": 5, \"Flower (mg/kg)\": 0.066, \"Leaf (mg/kg)\": 0.62, \"Stem (mg/kg)\": 0.21}, {\"Days after application\": 7, \"Flower (mg/kg)\": 0.046, \"Leaf (mg/kg)\": 0.827, \"Stem (mg/kg)\": 0.171}, {\"Days after application\": 14, \"Flower (mg/kg)\": 0.027, \"Leaf (mg/kg)\": 0.729, \"Stem (mg/kg)\": 0.128}, {\"Days after application\": 21, \"Flower (mg/kg)\": 0.031, \"Leaf (mg/kg)\": 0.643, \"Stem (mg/kg)\": 0.12}]"
+        }
+    ]
+}

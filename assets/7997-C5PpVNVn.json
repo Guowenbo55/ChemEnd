@@ -1,0 +1,88 @@
+{
+    "_id": {
+        "$oid": "6682e8a0c4e5dba5ffba2689"
+    },
+    "CID": {
+        "$numberInt": "7997"
+    },
+    "Name": "N-PROPYL ACETATE",
+    "IUPACName": "propyl acetate",
+    "CanonicalSMILES": "CCCOC(=O)C",
+    "Synonyms": [
+        "Propyl acetate",
+        "109-60-4",
+        "N-PROPYL ACETATE",
+        "Acetic acid",
+        "propyl ester",
+        "Propyl ethanoate",
+        "1-Acetoxypropane",
+        "1-Propyl acetate",
+        "n-Propyl ethanoate",
+        "Octan propylu",
+        "Acetic acid n-propyl ester",
+        "Acetate de propyle normal",
+        "n-Propyl acetate (natural)",
+        "Acetic acid propyl ester",
+        "FEMA No. 2925",
+        "Propylester kyseliny octove"
+    ],
+    "IsomericSMILES": "CCCOC(=O)C",
+    "INCHI": "InChI=1S/C5H10O2/c1-3-4-7-5(2)6/h3-4H2,1-2H3",
+    "INCHIKEY": "YKYONYBAUNKHLG-UHFFFAOYSA-N",
+    "Formula": "C5H10O2",
+    "MolecularWeight": {
+        "$numberDouble": "102.13"
+    },
+    "Description": "Propyl acetate is an acetate ester obtained by the formal condensation of acetic acid with propanol. It has a role as a fragrance and a plant metabolite. It is functionally related to a propan-1-ol.",
+    "XlogP": {
+        "$numberDouble": "1.2"
+    },
+    "Complexity": {
+        "$numberInt": "59"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 14 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for n-propyl acetate(SRC), using a log Kow of 1.24(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Price KS et al; J Water Poll Control Fed 46: 63-77 (1974) (2) Dorigan J et al; Preliminary scoring of selected organic air pollutants. Appendix IV - Chemistry, Production and Toxicity of Chemicals O through Z. USEPA-450/3-77-008e. Research Triangle Park, NC USEPA pp 331 (1976) (3) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Oct 19, 2011: https://www.safe.nite.go.jp/english/db.html",
+            "Value": "AEROBIC: n-Propyl acetate gave a 5-day theoretical BOD of 62% using a settled domestic wastewater seed, the 10-day theoretical BOD was 80%(1). When the same inoculum was added to sea water, the percent theoretical BOD was 50% (5-day) and 70% (10-day)(1). n-Propyl acetate had a theoretical BOD of 72% after 20 days at 20 \u00b0C(2). n-Propyl acetate, present at 100 mg/L, reached 81.0% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(3)."
+        },
+        {
+            "References": "(1) Marion CV, Malaney GW; J Water Poll Control Fed 35: 1269-84 (1963)",
+            "Value": "PURE CULTURE: Pure cultures of Alcaligenes faecalis, isolated from activated sludge, were found to oxidize n-propyl acetate after a short lag period(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 14",
+            "Value": "log Kow = 1.24"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "American Conference of Governmental Industrial Hygienists, Inc. Documentation of the Threshold Limit Values and Biological Exposure Indices. 6th ed. Volumes I, II, III. Cincinnati, OH: ACGIH, 1991., p. 1300",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... THE LIMITING /SRP: CNS DEPRESSANT/ CONCN FOR 5-HR EXPOSURE WAS 9,000 PPM FOR CATS & 6,000 PPM FOR MICE. ... /SRP: CNS DEPRESSANT/ ACTION, RELATIVE TO THAT OF ETHYL ACETATE, WAS STATED TO BE 1.3. EXPOSURES AT 2600 PPM CAUSED SALIVATION AND EYE IRRITATION IN CATS. ... A 4-HR EXPOSURE AT 8,000 PPM WAS FATAL TO FOUR OF SIX RATS."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V6 562",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Cats exposed to a concn of 5300 ppm propyl acetate for 6 hr/day resulted in moderate irritation, salivation. Exposures to 7400 ppm propyl acetate for 5.5 hrs resulted in staggering within 30-45 min, deep /SRP: CNS depression/ 4.5-5.5 hr, 25% died after 5.5 hr. Exposures to 24000 ppm propyl acetate for 0.5 hr resulted in /SRP: CNS depression/ within 13-18 min and 25% died 4-days post exposure. /From table/"
+        },
+        {
+            "References": "Browning, E. Toxicity and Metabolism of Industrial Solvents. New York: American Elsevier, 1965., p. 534",
+            "Value": "/OTHER TOXICITY INFORMATION/ ... CAT EXPOSED TO LETHAL CONCN SHOWED TRACHEITIS, BRONCHITIS AND FATTY CHANGES IN LIVER."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2011. Available from, as of Oct 19, 2011: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of n-propyl acetate can be estimated to be 10(SRC). According to a classification scheme(2), this estimated Koc value suggests that n-propyl acetate is expected to have very high mobility in soil."
+        }
+    ]
+}

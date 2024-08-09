@@ -1,0 +1,87 @@
+{
+    "_id": {
+        "$oid": "6682e969c4e5dba5ffba2a7e"
+    },
+    "CID": {
+        "$numberInt": "31237"
+    },
+    "Name": "DODECYLBENZENE",
+    "IUPACName": "dodecylbenzene",
+    "CanonicalSMILES": "CCCCCCCCCCCCC1=CC=CC=C1",
+    "Synonyms": [
+        "DODECYLBENZENE",
+        "123-01-3",
+        "1-Phenyldodecane",
+        "Benzene",
+        "dodecyl-",
+        "n-Dodecylbenzene",
+        "Phenyldodecane",
+        "25265-78-5",
+        "Laurylbenzene",
+        "Dodecane",
+        "phenyl-",
+        "Marlican",
+        "1-dodecylbenzene",
+        "Dodecane",
+        "1-phenyl-",
+        "Phenyldodecan",
+        "29986-57-0",
+        "Dodecylbenzene",
+        "crude"
+    ],
+    "IsomericSMILES": "CCCCCCCCCCCCC1=CC=CC=C1",
+    "INCHI": "InChI=1S/C18H30/c1-2-3-4-5-6-7-8-9-10-12-15-18-16-13-11-14-17-18/h11,13-14,16-17H,2-10,12,15H2,1H3",
+    "INCHIKEY": "KWKXNDCHNDYVRT-UHFFFAOYSA-N",
+    "Formula": "C18H30",
+    "MolecularWeight": {
+        "$numberDouble": "246.4"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "8.8"
+    },
+    "Complexity": {
+        "$numberInt": "155"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Connell DW et al; Chemosphere 36: 2019-2030 (1999) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-672 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994) (4) Werner AF, Kimerle RA; Environ Toxicol Chem 1: 143-146 (1982)",
+            "Value": "An estimated BCF of 38 was calculated for dodecylbenzene(SRC), using a log Kow of 8.26(1), and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests bioconcentration in aquatic organisms is moderate. The BCF value of bluegill sunfish exposed to dodecylbenzene in a flow-through aquarium was 35(4)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) McKenna EJ, Kallio RE; pp. 73-97 in Principles and Applications in Aquatic Microbiology. Henkelekian H, Dondero NC eds. NY,NY: Wiley and Sons (1964) (2) Sariaslani FS et al; Biochem J 140: 31-45 (1974) (3) Marion CV, Malaney GW; Proc Indust Waste Cong 18: 297-308 (1964) (4) Geldhill WE et al; Environ Toxicol Chem 10: 169-78 (1991)",
+            "Value": "Various pure cultures of bacteria were shown to degrade dodecylbenzene(1,2). An activated sludge compound was shown to oxidize dodecylbenzene during a 180 hour incubation period(3). River die-away tests have shown linear alkylbenzenes are readily biodegradable, with half-lives of 4.8 and 10.1 days for C-12 isomers in river water(4)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Connell DW et al; Chemosphere 36; 2019-2030 (1999)",
+            "Value": "log Kow= 8.26"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Clayton, G.D., F.E. Clayton (eds.) Patty's Industrial Hygiene and Toxicology. Volumes 2A, 2B, 2C, 2D, 2E, 2F: Toxicology. 4th ed. New York, NY: John Wiley & Sons Inc., 1993-1994., p. 1351",
+            "Value": "ORAL TOXICITY...IS VERY LOW; 5 G/KG SINGLE ORAL DOSE CAUSED NO DEATHS IN RATS."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Takada H, Ishiwatari R; Environ Sci Technol 21: 875-883 (1987)",
+            "Value": "Dodecylbenzene was detected in suspended sediment from rivers in Tokyo, Japan at concns of 0.042-0.626 ug/g(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Connell DW et al; Chemosphere 36; 2019-2030 (1999) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington,DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of dodecylbenzene is estimated as 7.4X10+5(SRC), using a log Kow of 8.26(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that dodecylbenzene is expected to be immobile in soil."
+        }
+    ]
+}

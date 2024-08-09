@@ -1,0 +1,92 @@
+{
+    "_id": {
+        "$oid": "6682e88cc4e5dba5ffba2625"
+    },
+    "CID": {
+        "$numberInt": "7758"
+    },
+    "Name": "SEC-BUTYL ACETATE",
+    "IUPACName": "butan-2-yl acetate",
+    "CanonicalSMILES": "CCC(C)OC(=O)C",
+    "Synonyms": [
+        "SEC-BUTYL ACETATE",
+        "105-46-4",
+        "dl-sec-Butyl acetate",
+        "2-Butyl acetate",
+        "Acetic acid",
+        "1-methylpropyl ester",
+        "butan-2-yl acetate",
+        "1-Methylpropyl acetate",
+        "sec-Butyl ethanoate",
+        "2-Butanol acetate",
+        "1-Methylpropyl ethanoate",
+        "Acetic acid",
+        "sec-butyl ester",
+        "sec-Butyl alcohol acetate",
+        "Acetic acid",
+        "2-butoxy ester",
+        "Acetate de butyle secondaire",
+        "Acetic acid secondary butyl ester"
+    ],
+    "IsomericSMILES": "CCC(C)OC(=O)C",
+    "INCHI": "InChI=1S/C6H12O2/c1-4-5(2)8-6(3)7/h5H,4H2,1-3H3",
+    "INCHIKEY": "DCKVNWZUADLDEH-UHFFFAOYSA-N",
+    "Formula": "C6H12O2",
+    "MolecularWeight": {
+        "$numberDouble": "116.16"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "1.7"
+    },
+    "Complexity": {
+        "$numberInt": "78"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 24 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 6 was calculated in fish for sec-butyl acetate(SRC), using a log Kow of 1.72(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Oct 24, 2011: https://www.safe.nite.go.jp/english/db.html",
+            "Value": "AEROBIC: sec-Butyl acetate, present at 100 mg/L, reached 86% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 24",
+            "Value": "log Kow = 1.72"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "International Labour Office. Encyclopedia of Occupational Health and Safety. Vols. I&II. Geneva, Switzerland: International Labour Office, 1983., p. 783",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Exposure to a concentration of 10000 ppm for 5 hr caused irritation and death in guinea-pigs."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 163",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Application of the liquid to rabbit eyes caused superficial reversible injury, graded 5 on a scale of 1 to 10. /Butyl acetate/"
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 163",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Exposure of albino rabbits to 500 ppm for twenty days and to 1000 ppm for four days, and exposure of guinea pigs to 500 ppm for ten days, and 1000 ppm for four days caused no corneal or conjuctival injury detectable by slit- lamp biomicroscopy, and corneal sensation was not altered. /Butyl acetate/"
+        },
+        {
+            "References": "PMID:4381662",
+            "Value": "/OTHER TOXICITY INFORMATION/ SEC-BUTYL ACETATE INHIBITED /SRP: THE EFFECT OF/ ACETYLCHOLINE IN THE GUINEA PIG ILEUM."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2011. Available from, as of Oct 24, 2011: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of sec-butyl acetate can be estimated to be 16(SRC). According to a classification scheme(2), this estimated Koc value suggests that sec-butyl acetate is expected to have very high mobility in soil."
+        }
+    ]
+}

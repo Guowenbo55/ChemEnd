@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "66927102303528b49832d790"
+    },
+    "CID": {
+        "$numberInt": "91745"
+    },
+    "Name": "Cinmethylin",
+    "IUPACName": "(1S,2R,4R)-1-methyl-2-[(2-methylphenyl)methoxy]-4-propan-2-yl-7-oxabicyclo[2.2.1]heptane",
+    "CanonicalSMILES": "CC1=CC=CC=C1COC2CC3(CCC2(O3)C)C(C)C",
+    "Synonyms": [
+        "Cinmethylin",
+        "Argold",
+        "Cinch",
+        "Cinmethylin [ISO]",
+        "87818-31-3",
+        "Caswell No. 731G",
+        "SD 95481",
+        "DTXSID3034456",
+        "ZV3871E43Y",
+        "Cinmethylin 10 microg/mL in Cyclohexane",
+        "(1S,2R,4R)-1-methyl-2-[(2-methylbenzyl)oxy]-4-(propan-2-yl)-7-oxabicyclo[2.2.1]heptane",
+        "(1S,2R,4R)-1-methyl-2-[(2-methylphenyl)methoxy]-4-(propan-2-yl)-7-oxabicyclo[2.2.1]heptane",
+        "EPA Pesticide Chemical Code 128837",
+        "SD95481",
+        "UNII-ZV3871E43Y"
+    ],
+    "IsomericSMILES": "CC1=CC=CC=C1CO[C@@H]2C[C@]3(CC[C@@]2(O3)C)C(C)C",
+    "INCHI": "InChI=1S/C18H26O2/c1-13(2)18-10-9-17(4,20-18)16(11-18)19-12-15-8-6-5-7-14(15)3/h5-8,13,16H,9-12H2,1-4H3/t16-,17+,18-/m1/s1",
+    "INCHIKEY": "QMTNOLKHSWIQBE-FGTMMUONSA-N",
+    "Formula": "C18H26O2",
+    "MolecularWeight": {
+        "$numberDouble": "274.4"
+    },
+    "Description": "Exo-(+)-cinmethylin is a 1-methyl-2-[(2-methylbenzyl)oxy]-4-(propan-2-yl)-7-oxabicyclo[2.2.1]heptane that is the exo-(+)-isomer of cinmethylin. It is an enantiomer of an exo-(-)-cinmethylin.",
+    "XlogP": {
+        "$numberDouble": "3.8"
+    },
+    "Complexity": {
+        "$numberInt": "353"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "A pressure chamber technique was employed to investigate the root uptake and xylem translocation of nonradiolabeled cinmethylin and its analogs in detopped soybean (Glycine max) roots. Gas chromatography analysis with mass spectrometry detection under selected ion monitoring was used for compound quantification. The compounds, with octanol-water partition coefficients (log Kow values) from 0.96 to 5.3, were nonionizable under the experimental conditions. Root efflux curves showed a steady-state kinetic profile, and the time to reach steady-state efflux correlated with log Kow values, similar to the root binding profile. The transpiration stream concentration factor (TSCF) exhibited a nonlinear relationship with log Kow values, with the highest TSCF values between 0.6 to 0.8 for compounds with log Kow between 2.5 to 3.5. Adjusting for soil binding, the apparent optimal log Kow value for root-to-shoot translocation was around 1. The study also discussed the relationship between root-to-shoot and phloem translocation, aiming to enhance the understanding of soil-applied xenobiotic uptake and translocation at the whole plant level.",
+            "reference": "Hsu, F. C., Marxmiller, R. L., & Yang, A. Y. (1990). Study of root uptake and xylem translocation of cinmethylin and related compounds in detopped soybean roots using a pressure chamber technique. Plant Physiology, 93(4), 1573-1578.",
+            "method": {
+                "Test Plant": "Soybean (Glycine max, cultivar McCall)",
+                "Apply Location": "Root pressure chamber (xylem sap collection)",
+                "Plant Grown Condition": "Seeds germinated in vermiculite, seedlings shaded to promote internode elongation. 1-week old seedlings transferred to hydroponic Hoagland solution. Grown in Conviron growth chamber until R4-R6 growth stage (approx. 2 months)",
+                "Chemical Preparation": "Dissolved in xylem sap collection solution.",
+                "Pesticide Application Details for the Plant": "Roots bathed in Hoagland solution in pressure chamber. Test compounds presumably introduced into root solution. 0.27-0.45 MPa pressure applied to force xylem sap exudation",
+                "Other Information": "Plants decapitated below cotyledonary node. 50 mm internode segment sealed into pipette tip with dental impression material. Xylem sap collected from pipette tip under applied pressure. Temperature maintained at 25\u00b10.2\u00b0C"
+            },
+            "result": "[{\"Hours after application\": 4, \"Concentration in Xylem Sap (PPM)\": 0.004}, {\"Hours after application\": 8, \"Concentration in Xylem Sap (PPM)\": 0.015}, {\"Hours after application\": 12, \"Concentration in Xylem Sap (PPM)\": 0.026}, {\"Hours after application\": 16, \"Concentration in Xylem Sap (PPM)\": 0.028}, {\"Hours after application\": 20, \"Concentration in Xylem Sap (PPM)\": 0.034}, {\"Hours after application\": 24, \"Concentration in Xylem Sap (PPM)\": 0.038}]"
+        },
+        {
+            "content": "Background: Cinmethylin, a pre-emergence herbicide inhibiting fatty acid thioesterase activity, has recently been introduced to Australian cereal cropping for the control of Lolium rigidum Gaud. (annual ryegrass). To date, there have been no confirmed cases of cinmethylin resistance identified in this species, but some populations exhibit reduced sensitivity to this herbicide. To explore the mechanism which contributes to reduced sensitivity of annual ryegrass to cinmethylin, the extent and nature of cinmethylin metabolism, using carbon-14 (14C)-labelled herbicide, were analysed in three reduced-sensitivity annual ryegrass populations, alongside a susceptible population and cinmethylin-tolerant wheat as controls.\nResults: All samples showed the same metabolite profile, with the extent of production of a specific water-soluble metabolite being correlated to the level of herbicide sensitivity. Application of the cytochrome P450 inhibitor phorate caused a decrease in water-soluble metabolite production as well as seedling growth in the presence of cinmethylin, indicating that reduced cinmethylin sensitivity in annual ryegrass could be wholly or partially due to oxidative modification of cinmethylin.\nConclusion: Because annual ryegrass has the potential to metabolize cinmethylin in the same way as wheat, careful stewardship is required to ensure the longevity of this herbicide.",
+            "reference": "Goggin, D. E., Cawthray, G. R., Busi, R., Porri, A., & Beckie, H. J. (2022). Enhanced production of water\u2010soluble cinmethylin metabolites by Lolium rigidum populations with reduced cinmethylin sensitivity. Pest Management Science, 78(7), 3173-3182.",
+            "method": {
+                "Test Plant": "Annual ryegrass population VLR1",
+                "Apply Location": "foliar application",
+                "Plant Grown Condition": "-",
+                "Chemical Preparation": "-",
+                "Pesticide Application Details for the Plant": "[14C]-cinmethylin was applied to the coleoptile base, with or without the addition of phorate.",
+                "Other Information": "For the translocation experiments on wheat, samples of 8 to 10 seedlings were collected at 2, 8, 24, and 72 hours after application, with 4 replicates per treatment. Replicates were pooled for radio-HPLC analysis due to low signal strength."
+            },
+            "result": "[{\"Pretreatment\": \"With phorate\", \"Radicle (% of recovered)\": 2.74, \"Seed (%)\": 22.34, \"Coleoptile base (%)\": 7.05, \"Coleoptile (%)\": 1.74}, {\"Pretreatment\": \"Without phorate\", \"Radicle (% of recovered)\": 1.24, \"Seed (%)\": 5.64, \"Coleoptile base (%)\": 2.24, \"Coleoptile (%)\": 1.16}]"
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "_id": {
+        "$oid": "6682e892c4e5dba5ffba2642"
+    },
+    "CID": {
+        "$numberInt": "7845"
+    },
+    "Name": "1,3-BUTADIENE",
+    "IUPACName": "buta-1,3-diene",
+    "CanonicalSMILES": "C=CC=C",
+    "Synonyms": [
+        "1,3-BUTADIENE",
+        "Buta-1,3-diene",
+        "106-99-0",
+        "Divinyl",
+        "BUTADIENE",
+        "Biethylene",
+        "Vinylethylene",
+        "Erythrene",
+        "Bivinyl",
+        "Pyrrolylene",
+        "Butadieen",
+        "Butadien",
+        "Buta-1,3-dien",
+        "Buta-1,3-dieen",
+        "alpha,gamma-Butadiene"
+    ],
+    "IsomericSMILES": "C=CC=C",
+    "INCHI": "InChI=1S/C4H6/c1-3-4-2/h3-4H,1-2H2",
+    "INCHIKEY": "KAKZBPTYRLMSJV-UHFFFAOYSA-N",
+    "Formula": "C4H6",
+    "MolecularWeight": {
+        "$numberDouble": "54.09"
+    },
+    "Description": "Buta-1,3-diene is a butadiene with unsaturation at positions 1 and 3. It has a role as a carcinogenic agent and a mutagen.",
+    "XlogP": {
+        "$numberDouble": "2"
+    },
+    "Complexity": {
+        "$numberInt": "21"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 8 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Mar 9, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Franke C et al; Chemosphere 29: 1501-14 (1994) (4) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Mar 9, 2015: https://www.safe.nite.go.jp/english/db.html",
+            "Value": "An estimated BCF of 7 was calculated in fish for 1,3-butadiene(SRC), using a log Kow of 1.99(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC). 1,3-Butadiene is reported to have low bioconcentration based on tests using carp (Cyprinus carpio)(4), however, actual BCF values were not reported(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Thom NS, Agg AR; Proc Roy Soc Lond B 189: 347-57 (1975) (2) Capel PD, Larson SJ; Chemosphere 30: 1097-1107 (1995) (3) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Mar 9, 2015: https://www.safe.nite.go.jp/english/db.html (4) ECHA; Search for Chemicals. 1,3-Butadiene (CAS 106-99-0) Registered Substances Dossier. European Chemical Agency. Available from, as of Mar 9, 2015: https://echa.europa.eu/",
+            "Value": "AEROBIC: 1,3-Butadiene was listed in a group of chemicals which should be biodegraded by biological sewage treatment as long as suitable acclimatization is achieved(1). The biodegradation half-life of 1,3-butadiene in aerobic waters has been reported as 7 days and the half-life in anaerobic waters was reported as 28 days(2). Using a test similar to OECD Guideline 301D (Ready Biodegradability: Closed Bottle Test), initial 1,3-butadiene concentrations 2.06 and 4.95 ppm achieved 4% of its theoretical BOD in 4 weeks using a sludge inoculum of 1 drop/liter(3,4); the results failed the \"readily biodegradable\" criteria(3,4), but lack of test details make assessment of the degradation problematic(4)."
+        },
+        {
+            "References": "(1) Hou CT et al; Appl Environ Microbiol 38: 127-134 (1979) (2) Hou CT et al; Appl Environ Microbiol 46: 171-177 (1983)",
+            "Value": "PURE CULTURE: Methane-utilizing bacteria (Methylosinus trichosporium, Methylococcus capsulatus, and facultative Methylobacterium organophilum) isolated from a lake in Warinanco Park, Linden NJ and from soil samples from Bayway Refinery, Linden, NJ were shown to degrade 1,3-butadiene to 1,2-epoxybutene(1). Sixteen species of propane-utilizing bacteria (Mycobacterium, Brevibacterium, Pseodomonas, Nocardia, Arthrobacter, Algicenes and Acinetobacter ssp) isolated from a lake in Warinanco Park, Linden NJ and from soil samples from Bayway Refinery, Linden, NJ were shown to degrade 1,3-butadiene to 1,2-epoxybutene(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 8",
+            "Value": "log Kow = 1.99"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "DHHS/National Toxicology Program; Report on Carcinogens, Thirteenth Edition: 1,3-Butadiene (106-99-0) (2014). Available from, as of February 12, 2015: https://ntp.niehs.nih.gov/go/roc13",
+            "Value": "1,3-Butadiene appears to cause tumors in humans and rodents through its metabolism to DNA-reactive epoxide intermediates, which cause genetic alterations in proto-oncogenes or tumor-suppressor genes... Mouse, rat, and human liver microsomes have been shown to oxidize 1,3-butadiene to epoxybutene... and to further oxidize the monoepoxide to diepoxybutane... These metabolites form N-alkylguanine adducts that have been detected in liver DNA of mice exposed to 1,3-butadiene and in the urine of a worker exposed to 1,3-butadiene. Activated K-ras oncogenes and inactivated tumor-suppressor genes observed in 1,3.butadiene-induced tumors in mice are analogous to genetic alterations frequently observed in a wide variety of human cancers. Dose-related increases in hprt mutations have been observed in lymphocytes isolated from mice exposed to 1,3-butadiene or its epoxide metabolites and in occupationally exposed workers. The mutational spectra for 1,3-butadiene and its epoxide metabolites at the hprt locus in mouse lymphocytes are similar to the mutational spectrum for ethylene oxide, an alkylating agent listed in the Report on Carcinogens as known to be a human carcinogen."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "PMID:2763304",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Whether butadiene or isoprene administration would result in the formation of adducts with blood hemoglobin and whether such adducts can be used as a measure of previous exposure(s) were studied. Male B6C3F1 mice & male Sprague-Dawley rats were injected with 1, 10, 100, or 1000 umol (14)C butadiene or 0.3, 3.0, 300, or 3000 umol (14)C isoprene/kg. Animals were killed 24 hr later. Globin was isolated from blood samples & was analyzed for (14)C by liquid scintillation spectroscopy. Hemoglobin adduct formation was linearly related to admin doses up to 100 umol (14)C butadiene or 500 umol (14)C isoprene/kg for mice & rats, resp. For (14)C butadiene, the efficiency of hemoglobin adduct formation in mice & rats within the linear response range was 0.177 & 0.407 (pmol of (14)C-adducts/mg globin)/(umol of retained (14)C butadiene/kg), resp. For (14)C isoprene, these values for mice & rats were 0.158 & 0.079 (pmol of (14)C-adducts/mg globin)/ (umol of retained (14)C isoprene/kg), respectively. Hemoglobin adducts also accumulated linearly after repeated daily admin of 100 umol (14)C butadiene or 500 umol (14)C isoprene/kg to mice & rats, respectively, for 3 days. (14)C Butadiene-derived hemoglobin adducts in blood showed lifetimes of approx 24 & approx 65 days for mice & rats, respectively, which correlate with the reported lifetimes for red blood cell in these rodent species. Thus, levels of butadiene- or isoprene-derived adducts on hemoglobin in circulating blood may be a useful measure of prior exposures to these cmpds."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V71 163 (1999)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In female rats exposed to 1-30 mg/cu m butadiene for 81 days, morphological changes were observed in liver, kidney, spleen, nasopharynx & heart.... Rats exposed to 2200-17600 mg/cu m butadiene for 6 hr/day on 5 days/wk for 3 months showed no treatment-related effect other than incr salivation in females."
+        },
+        {
+            "References": "HHS/ATSDR; Toxicological Profile for 1,3-butadiene p. 7 (September 2012). Available from, as of February 12, 2015: https://www.atsdr.cdc.gov/toxprofiles/index.asp",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ In rats, 2-year exposure to 1,000 or 8,000 ppm resulted in increased incidences of tumors of the testes, pancreas, uterus, mammary gland, Zymbal gland, and thyroid. In mice, exposure to 200 ppm for 40 weeks resulted in increased tumor incidences of lymphopoietic system, heart, lung, stomach, liver, and eye. These same tumors developed in mice in as little as 13 weeks after exposure to 625 ppm. Chronic exposure of mice to concentrations of 20 ppm (males) and 6.25 ppm (females) of 1,3-butadiene resulted in increased tumor development in the lymphopoietic system, heart, lung, stomach, liver, eye, mammary glands, and ovaries."
+        },
+        {
+            "References": "HHS/ATSDR; Toxicological Profile for 1,3-butadiene p. 7 (September 2012). Available from, as of February 12, 2015: https://www.atsdr.cdc.gov/toxprofiles/index.asp",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Decreases in red blood cell counts and hemoglobin concentration occurred at 65 ppm in mice, progressing to macrocytic megaloblastic anemia from exposures of 200 ppm. These effects are likely associated with observed changes in normal bone marrow function, as indicated by reduced circulation of erythrocytes and leukocytes, and increased proliferative activity with no associated change in bone marrow cellularity. Lymphoreticular toxicity in mice was indicated by significant changes in thymus weight and lesions in lymphoid organs following intermediate-duration exposures to 625-1,250 ppm in mice. A reversible suppression of cytotoxic T-lymphocyte generation to mastocytoma cells and a depression of spleen cellularity were observed at these exposures. The changes in spleen and thymus weights, lymphocytic differentiation, and appearance of lymphoid lesions comport with the onset of lymphoma in mice after chronic exposure to 1,3-butadiene."
+        },
+        {
+            "References": "HHS/ATSDR; Toxicological Profile for 1,3-butadiene p. 9 (September 2012). Available from, as of February 12, 2015: https://www.atsdr.cdc.gov/toxprofiles/index.asp",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Lesions of the respiratory tract (olfactory tissues and lungs), liver, kidney, stomach, and eyes have been seen in mice exposed to >/= 200 ppm for intermediate durations, but these lesions are typically epithelial or endothelial hyperplasias and are precancerous in nature. Non-neoplastic lesions of the liver (necrosis) in rats and kidney (renal nephrosis) in mice occurred following intermediate-duration exposure to 625 or 8,000 ppm, respectively."
+        },
+        {
+            "References": "Health Council of the Netherlands; 1,3-Butadiene. Health-based calculated occupational cancer risk values. (2013) p. 17; Available from, as of February 11, 2015: https://gezondheidsraad.nl/en/publications",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Studies with mice showed increased tumor formation in various organs in both sexes at 1,3-butadiene exposures to approximately 14 mg/cu m (females) and 44 mg/cu m (males). This was not observed in rats at exposures up to 2,200 mg/cu m, likely due to the crucial role of oxidative metabolism: 1,3-butadiene requires metabolic activation to generate electrophilic epoxides in which important species differences exist (mice are more efficient in the production of epoxide metabolites of butadiene, while rats and humans are more efficient in the hydrolytic detoxification of these metabolites)."
+        },
+        {
+            "References": "PMID:517438",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ The available toxicological data for 1,3-butadiene are limited and contradictory. Three month toxicity and two year carcinogenicity studies have therefore been initiated to identify any potential hazard to occupationally exposed personnel. The results of the 3 month study are reported in this paper. Five groups of Sprague-Dawley rats were exposed to 1,3-butadiene gas at atmospheric concentrations of 0, 1000, 2000, 4000 and 8000 ppm v/v respectively, 6 hours/day, 5 days/week for 13 weeks. Forty male and forty female animals were used in each group, of which 10 of each sex were killed at 2 and 6 weeks. Exposure took place in 5 chambers, in an area prepared specifically for the handling of a potentially explosive gas-air mixture at concentrations just below the lower explosive limit. No untoward effects attributable to exposure were observed, except a moderately increased salivation, particularly in female animals during the last 5--8 weeks of exposure, at higher concentrations of butadiene. No effects considered to be attributable to treatment were seen in growth rate, food consumption, hematological and blood biochemical investigations or urine analysis after 2, 6 and 13 weeks exposure. Macroscopic and histopathological examination after 2, 6 and 13 weeks exposure showed no untoward changes related to exposure to butadiene gas. Erythrocyte and brain cholinesterase, erythrocyte osmotic fragility and neutrophil phagocytosis were also unaffected by treatment."
+        },
+        {
+            "References": "PMID:3966163",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 50 male and 50 female B6C3F1 mice were exposed 6 hours per day, 5 days per week, for 60 to 61 weeks to air containing 0, 625, or 1250 parts per million 1,3-butadiene. These concentrations are somewhat below and slightly above the Occupational Safety and Health Administration standard of 1000 parts per million for butadiene. The study was designed for 104-week exposures but had to be ended early due to cancer-related mortality in both sexes at both exposure concentrations. There were early induction and significantly increased incidences of hemangiosarcomas of the heart, malignant lymphomas, alveolar-bronchiolar neoplasms, squamous cell neoplasms of the forestomach in males and females and acinar cell carcinomas of the mammary gland, granulosa cell neoplasms of the ovary, and hepatocellular neoplasms in females. Current workplace standards for exposure to butadiene should be reexamined in view of these findings."
+        },
+        {
+            "References": "PMID:3591659",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 110 male and 110 female CD (Sprague-Dawley) rats were exposed to atmospheres containing 0 (control), or 1000 or 8000 ppm (vol/ vol) butadiene for 6 hr/day, 5 days/wk. Ten of each sex from each group were killed at 52 wk. The study was terminated when it was predicted that survival would drop to 20-25% (105 wk for females and 111 wk for males). High-dose rats had wet, ruffled fur and showed slight incoordination during the first exposure each week. During the second year, mortality in both treated female groups was accompanied by an increase of the severity of nephropathy. Body wt was slightly lower than controls in both sexes at the high dose over the first 12 wk. Liver weights at both doses were increased in both sexes with no associated. pathological change. Kidney wt was increased in males at the high dose, together with an increase in the severity of nephrosis. There were increases in the incidences of pancreatic exocrine adenoma (high dose, male); uterine sarcoma (both doses, female); Zymbal gland carcinoma (high dose, female); mammary tumors (both doses, female); thyroid follicular cell tumors; and testis Leydig cell tumors (high dose). Apparently, the butadiene is a weak oncogen to the rat under the conditions of exposure used in this study."
+        },
+        {
+            "References": "Rom, W.N. (ed.). Environmental and Occupational Medicine. 2nd ed. Boston, MA: Little, Brown and Company, 1992., p. 1005",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Rats and guinea pigs /were exposed/ to 6700 ppm 1,3-butadiene daily for 8 months. The only observed effect was a slight decr in weight gain ... ."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V71 132 (1999)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 60 male B6C3F and 60 male NIH Swiss mice, 4-6 weeks of age, were exposed to 0 or 1250 ppm (2760 mg/cu m) butadiene (>99.5% pure) by whole-body inhalation for 6 hr/day on 5 days/wk for 52 wk. An additional group of 50 male B6C3F mice was exposed similarly to butadiene for 12 wk & held until termination of the experiment at 52 wk. The incidence of thymic lymphomas in B6C3f mice was 1/60 control, 10/48 exposed for 12 wk and 34/60 exposed for 52 wk &, in NIH Swiss mice, 8/57 exposed for 52 wk. Hemangiosarcomas of the heart were observed in 5/60 B6C3f mice & 1/57 NIH Swiss mice."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V71 133 (1999)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 70-90 male and 70-90 female B6C3F mice, 6.5 weeks of age, were exposed to butadiene (purity, > 99%) at concentrations of 1, 6.25, 20, 62.5, 200 or 625 ppm (0, 14, 44, 138, 440 or 1380 mg/cu m) for 6 hours per day on five days per week for up to two years. Ten animals per group were killed and evaluated after 40 and 65 weeks of exposure. Survival was significantly reduced (p < 0.05) in all groups of mice exposed at 20 ppm or higher; terminal survivors were: males: 35/70 control, 39/70 at 6.25 ppm, 24/70 at 20 ppm, 22/70 at 62.5 ppm, 3/70 at 200 ppm and 0/90 at 625 ppm; females: 37/70 controls, 33/70 at 6.25 ppm, 24/70 at 20 ppm; 11/70 at 62.5 ppm; 0/70 at 200 ppm and 0/90 at 625 ppm. Exposure to butadiene produced increases in the incidences in both sexes of lymphomas, heart hemangiosarcomas, lung alveolar/bronchiolar adenomas and carcinomas, forestomach papillomas and carcinomas, Harderian gland adenomas and adenocarcinomas and hepatocellular adenomas and carcinomas. The incidences of mammary gland adenocarcinomas and benign and malignant ovarian granulosa-cell tumors were increased in females."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V71 133 (1999)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 60 male and 60 female B6C3F mice, 8-10 weeks old, were exposed to butadiene (purity unspecified) by whole-body inhalation for a single 2 hour period at concentrations of 0, 1000, 5000, or 10000 ppm (0, 2200, 11000 or 22000 mg/cu m). The mice were then held for two years, at which time all survivors were killed and tissues and organs examined histopathologically. Survival, weight gains and tumor incidences of exposed mice were not affected by butadiene exposure (survival: males - 28/60 control, 34/60 low-dose, 44/60 mid-dose, 34/60 high-dose; females - 45/60, 36/60, 38/60, 45/60)."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V71 164 (1999)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Enhanced susceptibility to butadiene induced leukemogenesis as a result of an ability to express the retrovirus was suggested by the finding that exposure to 1250 ppm butadiene for one year resulted in a 57% incidence of thymic lymphoma in B6C3F1 mice (with expression of the virus) and a 14% incidence in NIH Swiss (without viral expression)."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V71 163 (1999)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ In gourps of 24 rats exposed to 600-6700 ppm (1300-14800 mg/cu m) butadiene for 7.5 hr/day on 6 days/wk for eight months, no adverse effect was noted, except for a slight retardation in growth at the highest concn."
+        },
+        {
+            "References": "Health Council of the Netherlands; 1,3-Butadiene. Health-based calculated occupational cancer risk values. (2013) p. 17; Available from, as of February 11, 2015: https://gezondheidsraad.nl/en/publications",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ In mice, a decrease in fetal body weight gain in males was observed following exposure of dams to 88 - 2,210 mg/cu m during GD 6-15. Increased incidences of of extra ribs and reduced ossification of sternebrae were found in groups exposed to 442 and 2,210 mg/cu m, respectively. Fetal toxicity was seen following mating untreated female mice with males exposed to 27.5 mg/cu m (6 hr/day, 5 days/week, 10 weeks). Observed effects included increased late fetal death, exencephaly and skull abnormalities."
+        },
+        {
+            "References": "Health Council of the Netherlands; 1,3-Butadiene. Health-based calculated occupational cancer risk values. (2013) p. 17; Available from, as of February 11, 2015: https://gezondheidsraad.nl/en/publications",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ In developmental studies with pregnant rats which were exposed to concentrations of 2,230 or 17,680 mg/cu m during gestational days (GD) 6-15, the fetuses showed minor or major abnormalities, respectively."
+        },
+        {
+            "References": "Health Council of the Netherlands; 1,3-Butadiene. Health-based calculated occupational cancer risk values. (2013) p. 17; Available from, as of February 11, 2015: https://gezondheidsraad.nl/en/publications",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Reproductive studies with rats exposed to 2,200 mg/cu m showed decreased weight gain during pregnancy."
+        },
+        {
+            "References": "Health Council of the Netherlands; 1,3-Butadiene. Health-based calculated occupational cancer risk values. (2013) p. 17; Available from, as of February 11, 2015: https://gezondheidsraad.nl/en/publications",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Reproductive studies with rats exposed to 2,200 mg/cu m showed decreased weight gain during pregnancy. In mice testicular and ovarian atrophy were observed following long-term exposure to 1,375 and 13.8 mg/cu m, respectively. Male mice exposed to 2,200-11,000 mg/cu m showed abnormal sperm head morphology."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V71 164 (1999)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Groups of 70 male and female B6C3F1 mice were exposed to 0, 6.25, 62.5, 200 or 625 ppm (0, 14, 44, 138, 440 or 1380 mg/cu m) butadiene for 6 hours per day on five days per week for up to 103 weeks. Groups of 10 males and 10 females were killed at 40 and 65 weeks. Ovarian atrophy was noted in female mice at 65 weeks of exposure (after completion of the reproductive life of this species) at 20 ppm and higher. Testicular atrophy occurred after 65 weeks in the male mice at 625 ppm."
+        },
+        {
+            "References": "Spencer F et al; Toxicol Appl Pharmacol 197 (3): 354 (2004)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ The reproductive toxicity in rodents of 1,3-butadiene, an industrial chemical, is attributed to its metabolism to diepoxybutane (DEB), and other reactive epoxides. The study compared the molecular [matrix metalloproteinase- 9 (MMP-9) and pituitary adenylate cyclase-activating polypeptide (PACAP)] and endocrine (estrogen and progesterone) mechanisms during pseudopregnancy (PPG) and pregnancy (PG), with gestational molecular and endocrine-related responses in DEB-treated rats. Female Sprague-Dawley rats (220-250 grams) underwent vagino-cervical stimulation to induce PPG, followed by bilateral surgical uterine trauma on PPG day 4 for deciduoma induction. Other female rats were impregnated through cohabitation with fertile males. Both PPG and PG rats were exposed to 4 daily (0900-1000 hr on PPG or PG days 5-8) intraperitoneal doses of DEB (0.25, 0.30, 0.35 or 0.40 mmol/kg). Rats (4-6/group) were euthanized on PPG day 9 or PG days 9 and 12 for retrieval of tissues for bioassays: uterine/placental MMP-9 activity by zymography; PACAP and estrogen receptor mRNA expressions by RT-PCR; serum progesterone by RIA; microscopic evaluation of corpora lutea; and visual inspection of implantation sites and fetuses. In response to DEB, serum progesterone concentrations were comparatively reduced in both PPG and PG rats (p<0.05 to 0.001) on day 9 in dose-dependent manners. Decidual estrogen receptor mRNA expression was unaffected by DEB in both PPG and PG rats. In both animal groups, decidual and placental MMP-9 activity levels displayed dose-dependent declines (p<0.001) on day 9, and consistently unchanged levels on day 12. Decidual and placental levels of PACAP mRNA were comparatively expressed on both days 9 and 12 in stable, consistently reduced manners (p<0.001). In PG rats, ovarian corpora lutea remained unchanged, implantations declined, and resorptions were increased in the gravid uterus in dose-dependent manners. In conclusion, the comparative anti-deciduogenic and anti-gravid uterine actions of DEB on biochemical mechanisms appear functionally correlated with the DEBimpaired placental development."
+        },
+        {
+            "References": "Health Council of the Netherlands; 1,3-Butadiene. Health-based calculated occupational cancer risk values. (2013) p. 17; Available from, as of February 11, 2015: https://gezondheidsraad.nl/en/publications",
+            "Value": "/GENOTOXICITY/ Many tests on mutagenicity, genotoxicity and mechanism of action clearly indicate that 1,3-butadiene is a genotoxic compound in humans and in experimental animals, requiring metabolic activation to generate electrophilic and DNA-reactive epoxides (epoxybutene, epoxybutanediol and diepoxybutane), one or more of which are considered to be the ultimate carcinogens"
+        },
+        {
+            "References": "PMID:341894",
+            "Value": "/GENOTOXICITY/ Incubation of Salmonella typhimurium strains TA1530 & TA1535 in presence of gaseous butadiene incr number of his+ revertants/plate in absence of fortified S-9 rat liver fraction."
+        },
+        {
+            "References": "PMID:3569168",
+            "Value": "/GENOTOXICITY/ Groups of male B6C3F1 mice were exposed to ambient air or to gaseous 1,3-butadiene (at 6.25, 62.5, & 625 ppm for 10 exposure days (6 hr/day). Exposure to 1,3-butadiene induced in bone marrow: a significant incr in the frequency of chromosomal aberrations; a significant elevation in the frequency of sister chromatid exchanges, a significant lengthening of the average generation time (AGT); a significant depression in the mitotic index(MI); &, as measured in the peripheral blood, a significant incr in the proportion of circulating polychromatic erythrocytes, & a significant incr in the level of micronucleated polychromatic erythrocytes & micronucleated normochromatic erythrocytes. The most sensitive indicator of genotoxic damage was the frequency of sister chromatid exchanges (significant at 6.25 ppm), followed by micronucleated-polychromatic erythrocytes levels (significant at 62.5 ppm). The most sensitive measure of cytotoxic damage ... (significant at 62.5 ppm), followed by % polychromatic erythrocytes (significant by trend test only). Because each cytogenetic endpoint was evaluated in every animal, a correlation analysis was conducted to evaluate the degree of concordance among the various indicators of genotoxic & cytotoxic damage. The extent of concordance ranged from a very good correlation between the induction of micronucleated-polychromatic erythrocytes & the induction of sister chromatid exchanges to the lack of a significant correlation between the depression in the mitotic index & any other endpoint."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V39 167 (1986)",
+            "Value": "/GENOTOXICITY/ 1,2-Epoxybutene was mutagenic to Salmonella typhimurium TA1530, TA1535 and TA100, but not to TA1537, TA1538 or TA98. It was reported to be mutagenic to Escherichia coli WP2 uvrA in the absence of an exogenous metabolic system. 1,2:3,4-Diepoxybutane /SRP: metabolite/ induced prophage in Bacillus megaterium, Pseudomonas pyocyanea and Escherichia coli k-12. It was mutagenic to S. typhimurium TA1535 (0.01-0.1 ul/plate) and TA100 (2-15 mM) in the absence of a metabolic system. At concentrations of 0.05-1 mM, 1,2:3,4-diepoxybutane /SRP: metabolite/ induced streptomycin resistance in fluctuation test with Klebsiella pneumoniae, in the absence of a metabolic system. /Butadiene metabolites/"
+        },
+        {
+            "References": "Rom, W.N. (ed.). Environmental and Occupational Medicine. 2nd ed. Boston, MA: Little, Brown and Company, 1992., p. 1007",
+            "Value": "/GENOTOXICITY/ 1,3-Butadiene is mutagenic following activation by liver microsomes in bacterial species. Ip admin of 1,3-butadiene monoxide induced sister chromatid exchanges & chromosome abnormalities in B6C3F1 mice, as did 10 days' inhalation at levels of 6.25, 62.5, & 625 ppm."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V71 175 (1999)",
+            "Value": "/GENOTOXICITY/ Butadiene increased the frequency of sister chromatid exchanges and micronuclei in mouse but not rat bone marrow. Micronucleus frequency also increased in peripheral erythrocytes and splenocytes. Butadiene also induced chromosomal aberrations in mouse bone marrow, and dominant lethal mutations, heritable translocations and spermhead abnormalities in mice. It did not induce aneuploidy in bone marrow cells in vivo."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V71 175 (1999)",
+            "Value": "/GENOTOXICITY/ Mutations were induced at the hprt locus in mice exposed to butadiene for 6 hours per day on five days per week at 625 ppm (1380 mg/cu m) for two weeks or at 1300 ppm (2760 mg/cu m) for one week. Butadiene was mutagenic in the mouse spot test (500 ppm (1100 mg/cu m) 6 hours per day for five days) and in two transgenic mouse models. Exposure to 62.5 or 1250 ppm (138 or 2760 mg/cu m) butadiene for 6 hours per day on five days per week for four weeks increased the frequency of mutation induced at A:T base pairs in bone marrow of lacI mice, while exposure to 625 ppm for 6 hours per day for five days increased the lacZ mutation frequency in lung but not liver or bone marrow of the MutaMouse."
+        },
+        {
+            "References": "DHHS/National Toxicology Program; Report on Carcinogens, Thirteenth Edition: 1,3-Butadiene (106-99-0) (2014). Available from, as of February 12, 2015: https://ntp.niehs.nih.gov/go/roc13",
+            "Value": "/GENOTOXICITY/ 1,3-Butadiene appears to cause tumors in humans and rodents through its metabolism to DNA-reactive epoxide intermediates, which cause genetic alterations in proto-oncogenes or tumor-suppressor genes ... Mouse, rat, and human liver microsomes have been shown to oxidize 1,3-butadiene to epoxybutene ... and to further oxidize the monoepoxide to diepoxybutane ... These metabolites form N-alkylguanine adducts that have been detected in liver DNA of mice exposed to 1,3-butadiene and in the urine of a worker exposed to 1,3-butadiene. Activated K-ras oncogenes and inactivated tumor-suppressor genes observed in 1,3-butadiene-induced tumors in mice are analogous to genetic alterations frequently observed in a wide variety of human cancers. Dose-related increases in hprt mutations have been observed in lymphocytes isolated from mice exposed to 1,3-butadiene or its epoxide metabolites and in occupationally exposed workers. The mutational spectra for 1,3-butadiene and its epoxide metabolites at the hprt locus in mouse lymphocytes are similar to the mutational spectrum for ethylene oxide, an alkylating agent listed in the Report on Carcinogens as known to be a human carcinogen."
+        },
+        {
+            "References": "PMID:3787617",
+            "Value": "/IMMUNOTOXICITY/ Mice were exposed to 1250 ppm 1,3-butadiene by inhalation 6 hr/day, 5 days/wk for 6 or 12 wk. Immune function asays were selected to evaluate specific humoral & cell- mediated immunity & spontaneous cytotoxicity; lymphoid organ histopathology was also evaluated. A slight decr in antibody plaque-forming cells/spleen was observed in exposed mice, although plaque-forming cells/10(6) splenic lymphocytes was normal. Significant extramedullary hematopoiesis & erythroid hyperplasia was observed in spleens from exposed mice, & correlated with a 2-fold incr in thymidine incorporation in spontaneusly proliferating splenocytes. No differences in proliferation to alloantigens were demonstrable between control & 1,3-butadiene-exposed splenocytes. Mitogenesis by phytohemaglutinin, concanavalin A, & lipopolysaccharide was suppressed in splenocytes from exposed mice, but may have been due to the cellular dilution effect of hematopoietic activity. Cytotoxic T-lymphocyte generation was suppressed afer a 6-wk exposure to 1,3-butadiene, but was comparable to controls after 12 wk of exposure. No differences in spontaneous cytotoxicity were observed between control & exposed mice. Overall, no persistent immunology defects were detectable after inhalation exposure to this tumorigenic agent."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 161",
+            "Value": "/OTHER TOXICITY INFORMATION/ Dogs and rabbits exposed experimentally to as much as 6700 ppm 7.5 hr a day for 8 months have developed no histologically demonstrable abnormality in any part of eyes. ..."
+        },
+        {
+            "References": "Health Council of the Netherlands; 1,3-Butadiene. Health-based calculated occupational cancer risk values. (2013) p. 17; Available from, as of February 11, 2015: https://gezondheidsraad.nl/en/publications",
+            "Value": "/OTHER TOXICITY INFORMATION/ Long-term exposure of animals to 1,3-butadiene resulted (in addition to cancer) in biochemical alterations such as glutathione depletion in liver, lungs and heart, which was more extensive in mice than in rats. In exposed mice toxicity of the haematopoietic system also was seen: semi-chronic exposure to 2,750 mg/cu m resulted in anaemia, while also leukopenia and an increase in the number of circulating erythrocyte micronuclei were seen."
+        },
+        {
+            "References": "Health Council of the Netherlands; 1,3-Butadiene. Health-based calculated occupational cancer risk values. (2013) p. 17; Available from, as of February 11, 2015: https://gezondheidsraad.nl/en/publications",
+            "Value": "/OTHER TOXICITY INFORMATION/ Clinical signs of intoxication of animals included hyperventilation, twitching, excitation, anaesthesia and /CNS depression/. LC50 values ranged from 270 (mice) to 550 g/cu m (rabbits)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Mar 9, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of 1,3-butadiene can be estimated to be 40(SRC). According to a classification scheme(2), this estimated Koc value suggests that 1,3-butadiene is expected to have very high mobility in soil."
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "_id": {
+        "$oid": "6682e9adc4e5dba5ffba2bd5"
+    },
+    "CID": {
+        "$numberInt": "3032791"
+    },
+    "Name": "THIOPHANATE METHYL",
+    "IUPACName": "methyl N-[[2-(methoxycarbonylcarbamothioylamino)phenyl]carbamothioyl]carbamate",
+    "CanonicalSMILES": "COC(=O)NC(=S)NC1=CC=CC=C1NC(=S)NC(=O)OC",
+    "Synonyms": [
+        "Thiophanate-methyl",
+        "23564-05-8",
+        "THIOPHANATE METHYL",
+        "Thiophanate M",
+        "Methylthiofanate",
+        "Methylthiophanate",
+        "Mildothane",
+        "Methyl topsin",
+        "Methyl thiophanate",
+        "Caligran",
+        "Neotopsin",
+        "Metoben",
+        "Fungo",
+        "Cercobin methyl",
+        "Topsin Methyl"
+    ],
+    "IsomericSMILES": "COC(=O)NC(=S)NC1=CC=CC=C1NC(=S)NC(=O)OC",
+    "INCHI": "InChI=1S/C12H14N4O4S2/c1-19-11(17)15-9(21)13-7-5-3-4-6-8(7)14-10(22)16-12(18)20-2/h3-6H,1-2H3,(H2,13,15,17,21)(H2,14,16,18,22)",
+    "INCHIKEY": "QGHREAKMXXNCOA-UHFFFAOYSA-N",
+    "Formula": "C12H14N4O4S2",
+    "MolecularWeight": {
+        "$numberDouble": "342.4"
+    },
+    "Description": "Thiophanate-methyl is a member of the class of thioureas that is the dimethyl ester of (1,2-phenylenedicarbamothioyl)biscarbamic acid. A fungicide effective against a broad spectrum of diseases in fruit, vegetables, turf and other crops including eyespot, scab, powdery mildew and grey mould. It has a role as an antifungal agrochemical. It is a member of thioureas, a carbamate ester, a benzimidazole precursor fungicide and a carbamate fungicide. It is functionally related to a 1,2-phenylenediamine.",
+    "XlogP": {
+        "$numberDouble": "2.6"
+    },
+    "Complexity": {
+        "$numberInt": "407"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Netzer D, Dishon I; Phytoparasitica 1: 33-7 (1973)",
+            "Value": "Thiophanate-methyl applied to soil at an unspecified concn was taken up in tomatoes, peppers, and eggplants and persisted up to 8 weeks following application(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "The toxicities of five systemic fungicides [benomyl, carbendazim, methyl 4-(2-aminophenyl)-3-thioallophanate (NF48), thiabendazole, and thiophanate-methyl] and of two non-systemic fungicides (guazatine and phenylmercury acetate) against Fusarium culmorum were compared on agar plates; their performance as seed treatments was measured by inoculating the shoot bases of wheat seedlings with F. culmorum in pot experiments. The two most effective compounds, benomyl and thiabendazole, and the less effective thiophanate-methyl, were evaluated in further seed treatment experiments in which leaf sheaths and roots of slightly older plants were infected. The three fungicides protected the first leaf sheath for more than 5 weeks, but thiophanate-methyl was least effective. Against root disease, they were effective when infection was mild, but only thiabendazole significantly controlled severe infection. Bioautography confirmed that fungicide levels in shoots were greater after benomyl and thiabendazole than after carbendazim and thiophanate-methyl treatments, and that concentrations of fungicide after benomyl, carbendazim, and thiophanate-methyl treatments generally declined between 5-13 weeks after treatment. Thiabendazole produced a second fungitoxic component detectable in plants after 34 days.",
+            "reference": "Bateman, G. L. (1980). Uptake and translocation of fungicides in wheat after seed treatment, as measured by disease response to Fusarium culmorum. Pesticide science, 11(6), 651-659.",
+            "method": {
+                "Test Plant": "Wheat (Triticum aestivum cv. Chalk)",
+                "Apply Location": "Seed treatment",
+                "Plant Grown Condition": "Seeds were sown 1.5 cm deep in Kettering loam soil. For shoot infection experiments, plants were grown in plastic boxes (10x10x6 cm) with 16 seeds per box and 10 replicate boxes.",
+                "Chemical Preparation": "The following fungicide formulations were used: phenylmercury acetate (PMA) 1% Hg powder seed dressing, guazatine 40% powder seed dressing, thiabendazole 60% w.p., benomyl 50% w.p., carbendazim 50% w.p., thiophanate-methyl 50% w.p., and methyl 4-(2-aminophenyl)-3-thioallophanate (NF48) 50% w.p.",
+                "Pesticide Application Details for the Plant": "Seeds were mixed with 3% methylcellulose solution as a sticker at 60 ml/kg of seed before adding the fungicide powder.Tthiophanate-methyl were applied at equal rates of 3 g a.i./kg seed (full rate) and 0.3 g a.i./kg seed (one-tenth rate).",
+                "Other Information": "The plant growth experiments had 10 replicates for shoot and root infection tests."
+            },
+            "result": "[{\"Days after application\": 11, \"Roots (nmol/g)\": 3.3, \"Shoots (nmol/g)\": 7.7, \"Coleoptiles (nmol/g)\": \"14.9\"}, {\"Days after application\": 34, \"Roots (nmol/g)\": 2.6, \"Shoots (nmol/g)\": 6.2, \"Coleoptiles (nmol/g)\": \"86.4\"}, {\"Days after application\": 91, \"Roots (nmol/g)\": 2.1, \"Shoots (nmol/g)\": 0.3, \"Coleoptiles (nmol/g)\": \"-\"}]"
+        }
+    ]
+}

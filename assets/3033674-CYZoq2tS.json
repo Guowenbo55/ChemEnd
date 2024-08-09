@@ -1,0 +1,63 @@
+{
+    "_id": {
+        "$oid": "6692710d303528b49832d7bb"
+    },
+    "CID": {
+        "$numberInt": "3033674"
+    },
+    "Name": "Fluazifop-P-butyl",
+    "IUPACName": "butyl (2R)-2-[4-[5-(trifluoromethyl)pyridin-2-yl]oxyphenoxy]propanoate",
+    "CanonicalSMILES": "CCCCOC(=O)C(C)OC1=CC=C(C=C1)OC2=NC=C(C=C2)C(F)(F)F",
+    "Synonyms": [
+        "FLUAZIFOP-P-BUTYL",
+        "79241-46-6",
+        "Fusilade II",
+        "Fusilade super",
+        "Fusilade 2000",
+        "Fluazifop-P-butyl [ISO]",
+        "butyl (2R)-2-[4-[5-(trifluoromethyl)pyridin-2-yl]oxyphenoxy]propanoate",
+        "Propanoic acid",
+        "2-[4-[[5-(trifluoromethyl)-2-pyridinyl]oxy]phenoxy]-",
+        "butylester",
+        "(2R)-",
+        "N99K0AJ91S",
+        "DTXSID0034855",
+        "Butyl (R)-2-[4-(5-trifluoromethyl-2-pyridyloxy)phenoxy]propionate",
+        "Fusilade S",
+        "Fusilade DX",
+        "Fluazifop-P-butyl 10 microg/mL in Acetone",
+        "butyl (2R)-2-(4-{[5-(trifluoromethyl)pyridin-2-yl]oxy}phenoxy)propanoate"
+    ],
+    "IsomericSMILES": "CCCCOC(=O)[C@@H](C)OC1=CC=C(C=C1)OC2=NC=C(C=C2)C(F)(F)F",
+    "INCHI": "InChI=1S/C19H20F3NO4/c1-3-4-11-25-18(24)13(2)26-15-6-8-16(9-7-15)27-17-10-5-14(12-23-17)19(20,21)22/h5-10,12-13H,3-4,11H2,1-2H3/t13-/m1/s1",
+    "INCHIKEY": "VAIZTNZGPYBOGF-CYBMUJFWSA-N",
+    "Formula": "C19H20F3NO4",
+    "MolecularWeight": {
+        "$numberDouble": "383.4"
+    },
+    "Description": "Fluazifop-P-butyl is a butyl 2-(4-{[5-(trifluoromethyl)pyridin-2-yl]oxy}phenoxy)propanoate that has R configutation. The active enantiomer of the herbicide fluazifop-butyl, it is used as a post-emergence herbicide for the control grass weeds in various broad-leaved crops. It has a role as an agrochemical, a herbicide and an EC 6.4.1.2 (acetyl-CoA carboxylase) inhibitor. It is functionally related to a fluazifop-P. It is an enantiomer of a (S)-fluazifop-butyl.",
+    "XlogP": {
+        "$numberDouble": "4.5"
+    },
+    "Complexity": {
+        "$numberInt": "453"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Breeding herbicide tolerance into new cultivars can improve safety and weed control in turfgrass systems. The sensitivity to fluazifop-P-butyl of 27 zoysiagrass (Zoysia spp.) lines was screened under greenhouse conditions to identify potential tolerant germplasm for breeding programs. The herbicide rate that caused 50% biomass reduction (GR50) and the rate that caused 50% injury (ID50) were calculated to select the three most-tolerant and the five most-susceptible lines for studying the physiological mechanisms responsible for fluazifop-P-butyl tolerance. The differences in GR50 and ID50 between susceptible and tolerant lines ranged from 4-fold to more than 10-fold. Cytochrome P450\u2013mediated metabolism was not detected in fluazifop-P-butyl\u2013tolerant lines. Sequencing of the ACCase gene confirmed that none of the seven previously reported mutations conferring resistance to acetyl-CoA carboxylase (ACCase)-inhibiting herbicides in other species were present in any of the tolerant or susceptible zoysiagrass lines studied. An Ala-2073-Thr substitution was identified in two tolerant lines, but this mutation did not completely explain the tolerant phenotype. No clear differences in absorption and translocation rates of 14C-radiolabeled fluazifop-P-butyl were observed among most lines, with the exception of a susceptible line that exhibited greater translocation than two of the tolerant lines. Metabolite profiles did not differ between tolerant and susceptible lines. Our results suggest that the diversity in tolerance to fluazifop-P-butyl in zoysiagrass germplasm is most likely the result of a combination of different, minor, additive non\u2013target site mechanisms such as translocation rate and compartmentation after absorption.",
+            "reference": "Liu, W., MacDonald, G. E., Unruh, J. B., Kenworthy, K. E., Trenholm, L. E., & Leon, R. G. (2019). Variation in tolerance mechanisms to fluazifop-P-butyl among selected zoysiagrass lines. Weed science, 67(3), 288-295.",
+            "method": {
+                "Test Plant": "Zoysiagrass lines (6 selected lines)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Greenhouse conditions with daily irrigation and weekly fertilization",
+                "Chemical Preparation": "[14C]fluazifop-P-butyl (specific activity 87.9 \u03bcCi mg\u22121)",
+                "Pesticide Application Details for the Plant": "1-\u03bcL droplet of [14C]fluazifop-P-butyl on a fully expanded leaf, followed by a broadcast application of fluazifop-P-butyl at 88 g ha\u22121",
+                "Other Information": "3 replications"
+            },
+            "result": "[{\"Line                    Treated Leaf (%)\": 96.8, \"Shoots (%)\": 2.1, \"Roots (%)\": 1.2}, {\"Line                    Treated Leaf (%)\": 97.5, \"Shoots (%)\": 1.0, \"Roots (%)\": 1.5}, {\"Line                    Treated Leaf (%)\": 93.8, \"Shoots (%)\": 2.2, \"Roots (%)\": 4.0}, {\"Line                    Treated Leaf (%)\": 91.0, \"Shoots (%)\": 3.7, \"Roots (%)\": 5.3}, {\"Line                    Treated Leaf (%)\": 97.4, \"Shoots (%)\": 0.7, \"Roots (%)\": 1.9}, {\"Line                    Treated Leaf (%)\": 94.8, \"Shoots (%)\": 3.3, \"Roots (%)\": 2.2}]"
+        }
+    ]
+}

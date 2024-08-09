@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "669270f0303528b49832d749"
+    },
+    "CID": {
+        "$numberInt": "50516"
+    },
+    "Name": "Fluvalinate",
+    "IUPACName": "[cyano-(3-phenoxyphenyl)methyl] 2-[2-chloro-4-(trifluoromethyl)anilino]-3-methylbutanoate",
+    "CanonicalSMILES": "CC(C)C(C(=O)OC(C#N)C1=CC(=CC=C1)OC2=CC=CC=C2)NC3=C(C=C(C=C3)C(F)(F)F)Cl",
+    "Synonyms": [
+        "FLUVALINATE",
+        "69409-94-5",
+        "Apistan",
+        "Kartan",
+        "Mavrik aquaflow",
+        "Minadox",
+        "SPUR",
+        "ZR 3210",
+        "Mavrik 2E",
+        "Mavrik 25EC",
+        "Spur 22EW",
+        "DL-Valine",
+        "N-(2-chloro-4-(trifluoromethyl)phenyl)-",
+        "cyano(3-phenoxyphenyl)methyl ester",
+        "CHEBI:5135",
+        "DTXSID7024110",
+        "364G5G03VC"
+    ],
+    "IsomericSMILES": "CC(C)C(C(=O)OC(C#N)C1=CC(=CC=C1)OC2=CC=CC=C2)NC3=C(C=C(C=C3)C(F)(F)F)Cl",
+    "INCHI": "InChI=1S/C26H22ClF3N2O3/c1-16(2)24(32-22-12-11-18(14-21(22)27)26(28,29)30)25(33)35-23(15-31)17-7-6-10-20(13-17)34-19-8-4-3-5-9-19/h3-14,16,23-24,32H,1-2H3",
+    "INCHIKEY": "INISTDXBRIBGOC-UHFFFAOYSA-N",
+    "Formula": "C26H22ClF3N2O3",
+    "MolecularWeight": {
+        "$numberDouble": "502.9"
+    },
+    "Description": "Fluvalinate is an organochlorine insecticide, an organochlorine acaricide, an organofluorine insecticide, an organofluorine acaricide, a member of monochlorobenzenes, a nitrile, a member of (trifluoromethyl)benzenes and an aromatic ether. It has a role as a pyrethroid ester insecticide, a pyrethroid ester acaricide and an agrochemical. It is functionally related to a valine.",
+    "XlogP": {
+        "$numberDouble": "7.7"
+    },
+    "Complexity": {
+        "$numberInt": "735"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Fluvalinate, studied at field use rates on various plants, predominantly undergoes hydrolysis, resulting in an anilino acid (2) primarily found in small quantities as the free acid or as conjugated metabolites. Minimal translocation within plants was observed for fluvalinate and its metabolites. Even though some metabolites like 4\u2019-Hydroxyfluvalinate (4) and 2-chloro-4-(trifluoromethyl)aniline (3) were detected in plant tissues, they were found in limited amounts (up to 4% of the applied dose) and were not significantly translocated. The pesticide residues in stems, seeds, or other parts of the plants remained notably low, indicating negligible movement within the plant system. This limited internal mobility aligns with observations from other pyrethroids like permethrin and fenvalerate in different plants. Despite some metabolites being found in various plant parts, the overall conclusion is that fluvalinate and its breakdown products exhibit minimal translocation within treated plants.",
+            "reference": "Quistad, G. B., Staiger, L. E., Mulholland, K. M., & Schooley, D. A. (1982). Plant metabolism of fluvalinate [.alpha.-cyano-3-phenoxybenzyl 2-[2-chloro-4-(trifluoromethyl)anilino]-3-methylbutanoate]. Journal of Agricultural and Food Chemistry, 30(5), 888\u2013895. doi:10.1021/jf00113a022\u00a0",
+            "method": {
+                "Test Plant": "Cotton, tomato, cabbage plants",
+                "Apply Location": "Upper leaf surfaces of cotton plants, upper surfaces of all leaves except those touching the head of cabbage plants, green fruit and small branches of tomato plants",
+                "Plant Grown Condition": "Plants were maintained in a greenhouse at temperatures ranging from 1\u00b0C to 32\u00b0C.",
+                "Chemical preparation": "[14C]fluvalinate diluted with unlabeled fluvalinate (99% purity) to a dose rate of 1 pg/cm2 (0.1 kg/ha).",
+                "Received pesticide of plant": "Cotton, tomato, and cabbage plants were treated with [14C] fluvalinate diluted with unlabeled fluvalinate (99% purity) to a dose rate of 1 pg/cm2 (0.1 kg/ha).",
+                "Other Information": "Two cotton plants, two cabbage plants, and two tomato plants were used for the experiment."
+            },
+            "result": "[{\"Plant\": \"Cotton\", \"Type\": \"Leaves\", \"Time After Application\": \"2 weeks\", \"Location\": \"Cotton Leaves\", \"Translocated\": \"71%\"}, {\"Plant\": \"Cotton\", \"Type\": \"Bolls\", \"Time After Application\": \"9 weeks\", \"Location\": \"Cotton Leaves\", \"Translocated\": \"15%\"}, {\"Plant\": \"Cotton\", \"Type\": \"Bolls\", \"Time After Application\": \"9 weeks\", \"Location\": \"Cotton Bolls\", \"Translocated\": \"40%\"}, {\"Plant\": \"Cotton\", \"Type\": \"Squares\", \"Time After Application\": \"10 weeks\", \"Location\": \"Cotton Squares\", \"Translocated\": \"27%\"}, {\"Plant\": \"Lettuce\", \"Type\": \"Green Ice\", \"Time After Application\": \"12 days\", \"Location\": \"Lettuce (Green Ice)\", \"Translocated\": \"86%\"}, {\"Plant\": \"Lettuce\", \"Type\": \"Romaine\", \"Time After Application\": \"5 weeks\", \"Location\": \"Lettuce (Romaine)\", \"Translocated\": \"77%\"}, {\"Plant\": \"Tomato\", \"Type\": \"Leaves\", \"Time After Application\": \"6 weeks\", \"Location\": \"Tomato Leaves\", \"Translocated\": \"61%\"}, {\"Plant\": \"Tomato\", \"Type\": \"Fruits\", \"Time After Application\": \"3 weeks\", \"Location\": \"Tomato Fruits\", \"Translocated\": \"72%\"}]"
+        }
+    ]
+}

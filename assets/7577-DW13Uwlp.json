@@ -1,0 +1,68 @@
+{
+    "_id": {
+        "$oid": "6682e885c4e5dba5ffba2600"
+    },
+    "CID": {
+        "$numberInt": "7577"
+    },
+    "Name": "4,4'-DIAMINODIPHENYLMETHANE",
+    "IUPACName": "4-[(4-aminophenyl)methyl]aniline",
+    "CanonicalSMILES": "C1=CC(=CC=C1CC2=CC=C(C=C2)N)N",
+    "Synonyms": [
+        "\"4,4-Methylenedianiline\"",
+        "101-77-9",
+        "\"4,4-DIAMINODIPHENYLMETHANE\"",
+        "Dadpm",
+        "Methylenedianiline",
+        "Dianilinomethane",
+        "Tonox",
+        "4-[(4-aminophenyl)methyl]aniline",
+        "Bis(4-aminophenyl)methane",
+        "\"p,p-Methylenedianiline\"",
+        "\"Benzenamine",
+        "4,4-methylenebis-\"",
+        "Dianilinemethane",
+        "4,4-Methylenedianiline",
+        "\"p,p-Diaminodiphenylmethane\"",
+        "Bis(p-aminophenyl)methane"
+    ],
+    "IsomericSMILES": "C1=CC(=CC=C1CC2=CC=C(C=C2)N)N",
+    "INCHI": "InChI=1S/C13H14N2/c14-12-5-1-10(2-6-12)9-11-3-7-13(15)8-4-11/h1-8H,9,14-15H2",
+    "INCHIKEY": "YBRVSVVVWCFQMG-UHFFFAOYSA-N",
+    "Formula": "C13H14N2",
+    "MolecularWeight": {
+        "$numberDouble": "198.26"
+    },
+    "Description": "4,4'-diaminodiphenylmethane is an aromatic amine that is diphenylmethane substituted at the 4-position of each benzene ring by an amino group. It has a role as a carcinogenic agent and an allergen. It derives from a hydride of a diphenylmethane.",
+    "XlogP": {
+        "$numberDouble": "1.6"
+    },
+    "Complexity": {
+        "$numberInt": "157"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available at https://www.safe.nite.go.jp/english/db.html as of March 5, 2009. (2) Cowen WF et al; Environ Sci Technol 32: 598-603 (1998)",
+            "Value": "AEROBIC: 4,4'-Diaminodiphenylmethane, present at 100 mg/L, reached 0% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1). Aerobic biodegradation of 4,4'-diaminodiphenylmethane in a silt loam soil (measured as the fraction of CO2 recovered) was 2, 10, 11.2, and 11.6% after 3, 14, 28, and 56 days, respectively(2). Apparent biodegradation after 365 days in the silt loam soil was reported as 40.1%(2)."
+        },
+        {
+            "References": "(1) Cowen WF et al; Environ Sci Technol 32: 598-603 (1998)",
+            "Value": "ANAEROBIC: After 71 days of incubation in anaerobic digester sludge mixed with silt loam soil, no biodegradation was observed for 4,4'-diaminodiphenylmethane(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995.",
+            "Value": "log Kow = 1.59"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Cowen WF et al; Environ Sci Technol 32: 598-603 (1998) (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Parris GE; Environ Sci Technol 14: 1099-106 (1980)",
+            "Value": "After an 8 hour sorption period, Koc values of 5681 and 3825 were measured for 4,4'-diaminodiphenylmethane in sandy loam under aerobic and anaerobic conditions, respectively(1). Koc values of 4015 and 3831 were measured in silt loam under aerobic and anaerobic conditions, respectively(1). According to a classification scheme(2), these measured Koc values suggest that 4,4'-diaminodiphenylmethane is expected to have slight to no mobility in soil. The reaction of 4,4'-diaminodiphenylmethane with soil humics was studied by allowing the substance to remain in contact with soil for 7 days and then measuring desorption in 1 day. The results suggested that 4,4'-diaminodiphenylmethane sorbed onto soil may be in a relatively facile equilibrium with the surrounding solution as shown by the similarity of distribution ratios (sorbed compound (in ug/g of soil)/concentrated in solution (in ug/mL)) for both sorption and desorption with Rdesorb/Rsorb ranging from 1.1 to 1.4(1). In this study the average ratio of aerobic/anaerobic soil sorption coefficients for 4,4'-diaminodiphenylmethane was 1.27, suggesting little difference between the behavior of 4,4'-diaminodiphenylmethane with soil under oxidizing and reducing conditions(1). Aromatic amines have been observed to undergo rapid and reversible covalent bonding with humic materials in aqueous solution; the initial bonding reaction is followed by a slower and much less reversible reaction believed to represent the addition of the amine to quinoidal structures followed by oxidation of the product to give an amino-substituted quinone; these processes represent pathways by which aromatic amines may be converted to latent forms in the biosphere(3)."
+        }
+    ]
+}

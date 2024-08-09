@@ -1,0 +1,64 @@
+{
+    "_id": {
+        "$oid": "669270f8303528b49832d767"
+    },
+    "CID": {
+        "$numberInt": "5364079"
+    },
+    "Name": "Cymoxanil",
+    "IUPACName": "(1E)-2-(ethylcarbamoylamino)-N-methoxy-2-oxoethanimidoyl cyanide",
+    "CanonicalSMILES": "CCNC(=O)NC(=O)C(=NOC)C#N",
+    "Synonyms": [
+        "CYMOXANIL",
+        "Curzate",
+        "57966-95-7",
+        "1-(2-Cyano-2-methoxyiminoacetyl)-3-ethylurea",
+        "Dpx 3217",
+        "DPX 3217M",
+        "2-Cyano-N-(ethylcarbamoyl)-2-(methoxyimino)acetamide",
+        "QJO7SS7R8U",
+        "2-Cyano-N-((ethylamino)carbonyl)-2-(methoxyimino)-acetamide",
+        "Acetamide",
+        "2-cyano-N-((ethylamino)carbonyl)-2-(methoxyimino)-",
+        "Acetamide",
+        "2-cyano-N-[(ethylamino)carbonyl]-2-(methoxyimino)-",
+        "166900-80-7",
+        "acetamide",
+        "2-cyano-N-[(ethylamino)carbonyl]-2-(methoxyimino)-",
+        "(2E)-",
+        "Cymoxanil [ISO]",
+        "Cymoxanil [ANSI:BSI:ISO]"
+    ],
+    "IsomericSMILES": "CCNC(=O)NC(=O)/C(=N/OC)/C#N",
+    "INCHI": "InChI=1S/C7H10N4O3/c1-3-9-7(13)10-6(12)5(4-8)11-14-2/h3H2,1-2H3,(H2,9,10,12,13)/b11-5+",
+    "INCHIKEY": "XERJKGMBORTKEO-VZUCSPMQSA-N",
+    "Formula": "C7H10N4O3",
+    "MolecularWeight": {
+        "$numberDouble": "198.18"
+    },
+    "Description": "Cymoxanil is a member of the class of ureas that is urea in which the two nitrogen atoms are substituted by an ethyl group and a 2-cyano-2-(methoxyimino)acetyl group respectively. A fungicide used to control Peronosporales on a range of crops including vines, hops and potatoes. It has a role as an environmental contaminant, a xenobiotic and an antifungal agrochemical. It is a member of ureas, a nitrile, an oxime O-ether and an aliphatic nitrogen antifungal agent.",
+    "XlogP": {
+        "$numberDouble": "0.7"
+    },
+    "Complexity": {
+        "$numberInt": "301"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "[14C]Cymoxanil was applied to either the root system or to the foliage of tomato plants and its uptake, translocation and degradation was followed using autoradiography, combustion and thin-layer chromatographic analyses of water or mcthanolic extracts. Cymoxanil was taken up by the root system within 1 h and translocated to cotyledons, stem and leaves within 16 h, where it was degraded mostly to glycine within 16-44 h. When applied to leaf surfaces, plants treated with a mixture of oxadixyl and [14C]cymoxanil showed enhanced uptake, translocation and degradation (mainly to glycine) of [14C]cymoxanil compared to plants treated with [lnC]cymoxanil alone. Root application data confirm that cymoxanil is a systemic compound with short persistence in tomato plants. Foliage application data suggest the synergism between cymoxanil, oxadixyl and mancozeb in controlling plant diseases caused by Peronosporales does not result from delayed cymoxanil degradation; the mechanism of synergism remains unelucidated.",
+            "reference": "Cohen, Y., & Gisi, U. (1993). Uptake, translocation and degradation of [14C]cymoxanil in tomato plants. Crop Protection, 12(4), 284\u2013292. doi:10.1016/0261-2194(93)90048-n\u00a0",
+            "method": {
+                "Test Plant": "tomato plants (Lycopersicon esculentum L.) cultivar Baby",
+                "Apply Location": "foliar application",
+                "Plant Grown Condition": "grown in the greenhouse at 20 \u00b1 1\u00b0C, with a humidity of 90% and a day/night cycle of 12 h/12 h",
+                "Chemical Preparation": "radiolabelled cymoxanil, 1-(2-cyano-2-methoxyimino-acetyl)-3-ethylurea, with a radiochemical purity of 99.0% and a specific activity of 9.48 pCi mg-1 (1.9 mCi/mmol)",
+                "Pesticide Application Details for the Plant": "500 \u03bcl of the formulated [14C]cymoxanil (100 \u03bcg a.i. ml-1) were applied as a spray to leaf 2 of tomato plants. In another experiment, 200 \u03bcl [14C]cymoxanil alone, or mixed with other fungicides, were applied to leaf 2 as 40 droplets of 5 \u03bcl each.",
+                "Other Information": "each sample consisted of two plants"
+            },
+            "result": "[{\"Time after application\": \"1 hour\", \"Recovered (ng)\": 759, \"Root (%)\": \"28.4 (14053 d.p.m.)\", \"Hypocotyl (%)\": \"25.1 (12448 d.p.m.)\", \"Cotyledons (%)\": \"6.6 (3263 d.p.m.)\", \"Internode 1 (%)\": \"12.1 (5973 d.p.m.)\", \"Internode 2 (%)\": \"7.1 (3503 d.p.m.)\", \"Leaf 1 (%)\": \"6.1 (3000 d.p.m.)\", \"Leaf 2 (%)\": \"9.3 (4598 d.p.m.)\", \"Leaf 3 (%)\": \"3.3 (1640 d.p.m.)\", \"Leaf 4 + Apex (%)\": \"2.1 (1053 d.p.m.)\"}, {\"Time after application\": \"16 hours\", \"Recovered (ng)\": 3131, \"Root (%)\": \"9.6 (28590 d.p.m.)\", \"Hypocotyl (%)\": \"14.0 (41590 d.p.m.)\", \"Cotyledons (%)\": \"7.1 (21050 d.p.m.)\", \"Internode 1 (%)\": \"9.6 (28400 d.p.m.)\", \"Internode 2 (%)\": \"4.4 (13040 d.p.m.)\", \"Leaf 1 (%)\": \"13.9 (41335 d.p.m.)\", \"Leaf 2 (%)\": \"27.0 (80120 d.p.m.)\", \"Leaf 3 (%)\": \"9.6 (28640 d.p.m.)\", \"Leaf 4 + Apex (%)\": \"4.7 (14025 d.p.m.)\"}, {\"Time after application\": \"44 hours\", \"Recovered (ng)\": 2433, \"Root (%)\": \"212.7 (105315 d.p.m.)\", \"Hypocotyl (%)\": \"14.9 (124095 d.p.m.)\", \"Cotyledons (%)\": \"6.2 (51530 d.p.m.)\", \"Internode 1 (%)\": \"6.9 (57535 d.p.m.)\", \"Internode 2 (%)\": \"4.0 (32870 d.p.m.)\", \"Leaf 1 (%)\": \"11.8 (98120 d.p.m.)\", \"Leaf 2 (%)\": \"23.6 (195770 d.p.m.)\", \"Leaf 3 (%)\": \"12.6 (104810 d.p.m.)\", \"Leaf 4 + Apex (%)\": \"7.4 (61095 d.p.m.)\"}]"
+        }
+    ]
+}

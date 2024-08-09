@@ -1,0 +1,156 @@
+{
+    "_id": {
+        "$oid": "6682e7d7c4e5dba5ffba229b"
+    },
+    "CID": {
+        "$numberInt": "650"
+    },
+    "Name": "DIACETYL",
+    "IUPACName": "butane-2,3-dione",
+    "CanonicalSMILES": "CC(=O)C(=O)C",
+    "Synonyms": [
+        "2,3-butanedione",
+        "diacetyl",
+        "biacetyl",
+        "Butane-2,3-dione",
+        "431-03-8",
+        "dimethylglyoxal",
+        "Butanedione",
+        "dimethyl diketone",
+        "2,3-diketobutane",
+        "Dimethyl glyoxal",
+        "2,3-Butadione",
+        "2,3-dioxobutane",
+        "butadione",
+        "Glyoxal",
+        "dimethyl-",
+        "2,3-butandione"
+    ],
+    "IsomericSMILES": "CC(=O)C(=O)C",
+    "INCHI": "InChI=1S/C4H6O2/c1-3(5)4(2)6/h1-2H3",
+    "INCHIKEY": "QSJXEFYPDANLFS-UHFFFAOYSA-N",
+    "Formula": "C4H6O2",
+    "MolecularWeight": {
+        "$numberDouble": "86.09"
+    },
+    "Description": "Butane-2,3-dione is an alpha-diketone that is butane substituted by oxo groups at positions 2 and 3. It is a metabolite produced during the malolactic fermentation. It has a role as a Saccharomyces cerevisiae metabolite and an Escherichia coli metabolite.",
+    "XlogP": {
+        "$numberDouble": "-1.3"
+    },
+    "Complexity": {
+        "$numberInt": "71"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Takeoka GR et al; J Agric Food Chem 36:553-60 (1988) (2) Tatsuka K et al; J Agric Food Chem 38:2176-80 (1990)",
+            "Value": "Diacetyl was found in tree ripened whole nectarine(1) and as a volatile constituent of kiwi fruit flower(2)."
+        },
+        {
+            "References": "(1) US Dept Agric; US Dept Agric, Agric Res Service. 1992-2016. Dr. Duke's Phytochemical and Ethnobotanical Databases. Diacetyl. Available from, as of June 13, 2016: https://phytochem.nal.usda.gov/phytochem/search",
+            "Value": "Diactyl occurrence in plants(1).",
+            "Table": "[{'Genus species': 'Angelica archangelica', 'Family': 'Apiaceae', 'Common name(s)': 'Garden Angelica; Angelica; Wild Parsnip', 'Part': 'Root'}, {'Genus species': 'Apium graveolens', 'Family': 'Apiaceae', 'Common name(s)': 'Celery', 'Part': 'Shoot; Leaf'}, {'Genus species': 'Carum carvi', 'Family': 'Apiaceae', 'Common name(s)': 'Comino de prado; Kummel; Carum; Caraway; Comino', 'Part': 'Fruit; Seed'}, {'Genus species': 'Cistus ladaniferus', 'Family': 'Cistaceae', 'Common name(s)': 'Ambreine; Gum Cistus; Labdanum; Rockrose', 'Part': 'Leaf'}, {'Genus species': 'Cymbopogon winterianus', 'Family': 'Poaceae', 'Common name(s)': 'Java Citronella; Mahapengiri', 'Part': 'Plant'}, {'Genus species': 'Cymbopogon citratus', 'Family': 'Poaceae', 'Common name(s)': 'Lemongrass; West Indian Lemongrass', 'Part': 'Plant'}, {'Genus species': 'Iris x germanica', 'Family': 'Iridaceae', 'Common name(s)': 'Orris', 'Part': 'Rhizome'}, {'Genus species': 'Juniperus sabina', 'Family': 'Cupressaceae', 'Common name(s)': 'Sabine', 'Part': 'Plant'}, {'Genus species': 'Lavandula x intermedia', 'Family': 'Lamiaceae', 'Common name(s)': 'Lavadin; Dutch Lavender', 'Part': 'Plant'}, {'Genus species': 'Lycopersicon esculentum', 'Family': 'Solanaceae', 'Common name(s)': 'Tomato', 'Part': 'Fruit'}, {'Genus species': 'Mentha spicata', 'Family': 'Lamiaceae', 'Common name(s)': 'Hortela da Folha Miuda; Spearmint', 'Part': 'Leaf; Essential Oil'}, {'Genus species': 'Rubus idaeus', 'Family': 'Rosaceae', 'Common name(s)': 'Red Raspberry; Raspberry', 'Part': 'Fruit'}, {'Genus species': 'Sesamum indicum', 'Family': 'Pedaliaceae', 'Common name(s)': 'Sasamo; Ajonjoli; Sesame; Beni; Bennseed', 'Part': 'Seed Oil'}, {'Genus species': 'Theobroma cacao', 'Family': 'Sterculiaceae', 'Common name(s)': 'Cacao', 'Part': 'Plant'}, {'Genus species': 'Vanilla planifolia', 'Family': 'Orchidaceae', 'Common name(s)': 'Vanilla; Bourbon Vanilla', 'Part': 'Fruit'}, {'Genus species': 'Vetiveria zizanioides', 'Family': 'Poaceae', 'Common name(s)': 'Cus-Cus; Cuscus grass; Veiver', 'Part': 'Root'}]"
+        }
+    ],
+    "animal_concentrations": [
+        {
+            "References": "(1) Grey TC, Shrimpton DH Brit Poultry Sci 8: 23-33 (1967)",
+            "Value": "Diacetyl was found in raw chicken breast muscle(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 9 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Jun 2, 2016: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for diacetyl(SRC), using a log Kow of -1.34(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Lijmbach GWM, Brinkhuis E; Antonie von Leeuwenhoek 39: 415-23 (1973) (2) Bridie AL et al; Water Res 13: 627-30 (1979) (3) Dore M et al; Trib Cebedeau 28: 3-11 (1975) (4) Pitter P et al; Water Res 10: 231-5 (1976) (5) Hammerton C; J Appl Chem 5: 517-24 (1955)",
+            "Value": "AEROBIC: A bacterium that was isolated from Amsterdam harbor water using 2-butanol and tentatively identified as a Pseudomonas was able to degrade diacetyl(1). Diacetyl was identified as an intermediate in the microbial oxidation of 2-butanol(1). Since 2-butanol is biodegradable using river water or sewage inoculums with extensive mineralization(2-5), it is plausible for diacetyl to be biodegradable(SRC)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Chung HY; J Agric Food Chem 47: 2280-7 (1999) (2) Cha YJ, Cadwallader KR; J Food Sci 60: 19-24 (1995) (3) Leguen S et al; J Agric Food Chem 48:1307-14 (2000)",
+            "Value": "Diacetyl was found in Charybdis feriatus crabs at 95.7 ug/kg, 129 ug/kg, and 563.2 ug/kg in the leg, body and carapace, respectively(1). Diacetyl was measured at 512 ng/g, 260 ng/g, 2470 ng/g and 791 ng/g in anchovy paste (Engraulis japonica), big eyed herring paste (Harengula zunasi), hair tail viscera paste (Trichiurus japonica) and shrimp paste (Acetes chinensis), respectively(2), and in cooked mussels (Mytilus edulis)(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 9",
+            "Value": "log Kow = -1.34"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Morgan DL et al; Toxicol Sci 90 (1-S): 210 (2006)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... The potential use of diacetyl (DA) as a model of chemical-induced OB is ... being evaluated. Male C57BL/6 mice were exposed by inhalation to 200 or 400 ppm DA 6 hr/day for 5 days. 400 ppm caused deaths and acute necrotizing rhinitis, laryngitis and bronchitis (proximal large bronchi). Exposure to 200 ppm caused a few deaths and acute necrotizing rhinitis and erosive or necrotizing laryngitis in all mice. There were no lung or bronchiolar lesions in the DA exposed mice. To reduce the nasal cavity toxicity the daily exposure duration was reduced to 1 hr/day, 5 days/week and the study duration increased to 4 weeks (100, 200, 400 ppm). Chronic bronchitis, laryngitis, and rhinitis were present after 2 and 4 weeks of exposure. The lesion severity was concentration related and ranged from minimal to moderate. Because of the sensitivity of the nasal cavity to inhaled DA, mice (5/group) were administered 100, 200, or 400 mg/kg DA by oropharyngeal aspiration. Two mice in the 400 mg/kg group died 2 days after aspiration. On day 4 after aspiration of 400 mg/kg, foci of fibrosis without inflammation were present at the junction of the terminal bronchiole and alveolar duct in all 3 remaining mice. Similar lesions with mild inflammation were noted in 1/5 mice treated with 200 mg/kg. Although the histological appearance of these lesions is not identical to OB these lesions may progress to OB with continued exposure. In addition to longer exposure durations other DA exposure routes and exposure regimens are being evaluated."
+        },
+        {
+            "References": "PMID:23847039",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Inhalation of diacetyl, a butter flavoring, causes airway responses potentially mediated by sensory nerves. This study examines diacetyl-induced changes in sensory nerves of tracheal epithelium. Rats (n = 6/group) inhaled 0-, 25-, 249-, or 346-ppm diacetyl for 6 hr. Tracheas and vagal ganglia were removed 1-day postexposure and labeled for substance P (SP) or protein gene product 9.5 (PGP9.5). Vagal ganglia neurons projecting to airway epithelium were identified by axonal transport of fluorescent microspheres intratracheally instilled 14 days before diacetyl inhalation. End points were SP and PGP9.5 nerve fiber density (NFD) in tracheal epithelium and SP-positive neurons projecting to the trachea. PGP9.5-immunoreactive NFD decreased in foci with denuded epithelium, suggesting loss of airway sensory innervation. However, in the intact epithelium adjacent to denuded foci, SP-immunoreactive NFD increased from 0.01 +/- 0.002 in controls to 0.05 +/- 0.01 after exposure to 346-ppm diacetyl. In vagal ganglia, SP-positive airway neurons increased from 3.3 +/- 3.0% in controls to 25.5 +/- 6.6% after inhaling 346-ppm diacetyl. Thus, diacetyl inhalation increases SP levels in sensory nerves of airway epithelium. Because SP release in airways promotes inflammation and activation of sensory nerves mediates reflexes, neural changes may contribute to flavorings-related lung disease pathogenesis."
+        },
+        {
+            "References": "PMID:25145656",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... /The/ sensitivity of respiratory/transitional nasal (RTM) and tracheobronchial (TBM) mucosa to two electrophilic irritant vapors, diacetyl and acrolein, /was examined/. Computational fluid dynamic physiologically based pharmacokinetic modeling was coupled with biomarker assessment to establish delivered dose-response relationships in RTM and TBM in male F344 rats following 6 hr exposure to diacetyl or acrolein. Biomarkers included glutathione status, proinflammatory and antioxidant gene mRNA levels, and nuclear translocation of nuclear factor (erythroid-derived 2)-like 2 (Nrf2). Modeling revealed that 0.0094-0.1653 ug acrolein/min-sq cm and 3.9-21.6 ug diacetyl/min-sq cm were deposited into RTM/TBM. Results indicate RTM and TBM were generally of similar sensitivity to diacetyl and acrolein. For instance, both tissues displayed induction of antioxidant and proinflammatory genes, and nuclear accumulation of Nrf2 after electrophile exposure. Hierarchical cellular response patterns were similar in RTM and TBM but differed between vapors. Specifically, diacetyl exposure induced proinflammatory and antioxidant genes concomitantly at low exposure levels, whereas acrolein induced antioxidant genes at much lower exposure levels than that required to induce proinflammatory genes. Generally, diacetyl was less potent than acrolein, as measured by maximal induction of transcripts. In conclusion, the upper and lower extrapulmonary airways are of similar sensitivity to inhaled electrophilic vapors. Dosimetrically based extrapolation of nasal responses in nose-breathing rodents may provide an approach to predict risk to the lower airways of humans during mouth-breathing."
+        },
+        {
+            "References": "PMID:12490137",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Rats were exposed to vapors liberated from heated butter flavoring. Rats were exposed for 6 hr by inhalation and were necropsied 1 day after exposure. The exposure was found by GC-MS analysis to be a complex mixture of various organic gases with the major peaks consisting of diacetyl (2,3-butanedione), acetic acid, acetoin (3-hydroxy-2-butanone), butyric acid, acetoin dimers, 2-nonanone, and delta-alkyl lactones. Diacetyl was used as a marker of exposure concentration. In the lung, butter flavoring vapors containing 285-371 ppm diacetyl caused multifocal, necrotizing bronchitis, which was most consistently present in the mainstem bronchus. Alveoli were unaffected. Butter flavoring vapors containing 203-371 ppm diacetyl caused necrosuppurative rhinitis, which affected all four levels of the nose. Within the posterior two nasal levels (T3 and T4), necrosis and inflammation was principally localized to the nasopharyngeal duct. Control rats were unaffected. Therefore, concentrations of butter flavoring vapors that can occur during the manufacture of foods are associated with epithelial injury in the nasal passages and pulmonary airways of rats."
+        },
+        {
+            "References": "CAS No. 513-86-0] p. iv (2007). Available from, as of April 29, 2016: https://ntp.niehs.nih.gov/ntp/htdocs/chem_background/exsumpdf/artificial_butter_flavoring_508be.pdf",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ When given i.p. to mice once weekly for 24 weeks, diacetyl (1.70 or 8.40 mg/kg [0.0197 or 0.0976 mmol/kg]) did not induce any lung tumors.[Integrated Laboratory Systems, Inc.; Chemical Information Review Document for Artificial Butter Flavoring and Constituents Diacetyl [CAS No. 431-03-8] and Acetoin"
+        },
+        {
+            "References": "FAO/WHO Joint Expert Committee on Food Additives; WHO Food Additives Series 42: Safety evaluation of aliphatic acyclic and alicyclic alpha-diketones and related alpha-hydroxyketones (1999). Available from, as of April 28, 2016: https://www.inchem.org/pages/jecfa.html",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Groups of 25-27 Syrian golden hamsters, 21-24 CD-1 mice, and 21-23 albino Wistar rats were given a solution containing 90% diacetyl by gavage on days 6-10 of gestation for hamsters and days 6-15 of gestation for mice and rats. The doses for all species were 16, 74, 345, or 1600 mg/kg bw per day. No effects were seen on maternal survival, weight, or reproductive parameters or on fetal survival or microscopic appearance of external, skeletal, or soft tissues."
+        },
+        {
+            "References": "Food & Drug Res Lab. Teratologic Eval of FDA 71-73. USFDA Rep No. FDABF-GRAS-152; NTIS # PB-223833 (1973)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ The administration of up to 1.6 g starter distillate/kg by oral intubation to pregnant mice for ten consecutive days did not affect maternal or fetal survival or /implantation/, and the number of fetal abnormalities was not /statistically/ significant when compared to control animals. Similar results were observed in hamsters and rats. /Starter distillate (diacetyl is a major component)/"
+        },
+        {
+            "References": "CAS No. 513-86-0] p. iv (2007). Available from, as of April 29, 2016: https://ntp.niehs.nih.gov/ntp/htdocs/chem_background/exsumpdf/artificial_butter_flavoring_508be.pdf",
+            "Value": "/GENOTOXICITY/ In several bacterial assays, diacetyl generally showed mutagenic activity in Salmonella typhimurium strains TA100, 102, and 104 with and without metabolic activation but none against strain TA98. Conflicting results were obtained in Escherichia coli strain WP2 uvra, but nonmutagenicity was demonstrated in the SOS-chromotest using E. coli PQ37. Diacetyl was also negative in a micronucleus test using mouse bone marrow cells.[Integrated Laboratory Systems, Inc.; Chemical Information Review Document for Artificial Butter Flavoring and Constituents Diacetyl [CAS No. 431-03-8] and Acetoin"
+        },
+        {
+            "References": "PMID:3932277",
+            "Value": "/GENOTOXICITY/ The potential initiating and promoting activities in the rat glandular stomach of the dicarbonyl compounds diacetyl (DA) and glyoxal (G), which are found in various heated foods, were studied. Administration of DA at doses of 300 to 1500 mg/kg body weight and of G at doses of 150 to 400 mg/kg body weight by gastric intubation to male F344 rats induced up to 100-fold increase in ornithine decarboxylase activity (formation of 195 pmol CO2/30 min/mg protein by DA and 302 pmol CO2/30 min/mg protein by G) with maxima after 16 hr. These treatments also induced a more than 10-fold increase in DNA synthesis (incorporation of 11,400 dpm of [(3)H]dThd/microgram DNA by DA and 15,100 dpm of [(3)H]dThd/microgram DNA by G) with maxima after 16 hr, and induced apparent unscheduled DNA synthesis in the pyloric mucosa of the stomach within 3 hr after administration. These results suggest that DA and G have potential tumor-promoting activities and may also have initiating activities in carcinogenesis in the glandular stomach."
+        },
+        {
+            "References": "PMID:3556021",
+            "Value": "/GENOTOXICITY/ In the in vivo/in vitro unscheduled DNA synthesis (UDS) assay methods described here, chemicals are given to experimental animals and the induction of UDS in target organs is determined by in vitro organ culture or primary cell culture in the presence of (3)HdThd. Incorporation of (3)HdThd into DNA is measured with liquid scintillation counter or by autoradiography. ... The review shows that the induction of UDS in various organs correlated well with the induction of cancer in these organs. ... Three dicarbonyl compounds, glyoxal, methylglyoxal and diacetyl induced apparent UDS. ..."
+        },
+        {
+            "References": "FAO/WHO Joint Expert Committee on Food Additives; WHO Food Additives Series 42: Safety evaluation of aliphatic acyclic and alicyclic alpha-diketones and related alpha-hydroxyketones (1999). Available from, as of April 28, 2016: https://www.inchem.org/pages/jecfa.html",
+            "Value": "/GENOTOXICITY/ Diacetyl did not induce mutation in Saccharomyces cerevisiae.",
+            "Table": "[{'Test object': 'S. typhimurium TA100, TA104; E.coli', 'Dose': 'not reported', 'Result': 'Positive', 'Metabolic activation': 'with'}, {'Test object': 'S. typhimurium TA104', 'Dose': '530 ug/plate', 'Result': 'Positive', 'Metabolic activation': 'not indicated'}, {'Test object': 'S. typhimurium TA100', 'Dose': '90 ug/plate', 'Result': 'Negative', 'Metabolic activation': 'with and without'}, {'Test object': 'S. typhimurium TA104', 'Dose': '5-500 ug/plate', 'Result': 'Positive', 'Metabolic activation': 'with'}, {'Test object': 'S. typhimurium TA104', 'Dose': '5-500 ug/plate', 'Result': 'Negative', 'Metabolic activation': 'without'}, {'Test object': 'S. typhimurium TA100', 'Dose': '152-900 ug/plate', 'Result': 'Negative', 'Metabolic activation': 'without'}, {'Test object': 'S. typhimurium TA100', 'Dose': '10, 100, 1000, 10000 ug/plate', 'Result': 'Positive', 'Metabolic activation': 'with and without'}, {'Test object': 'S.typhimurium TA98', 'Dose': '10, 100, 1000, 10000 ug/plate', 'Result': 'Negative', 'Metabolic activation': 'with and without'}, {'Test object': 'S. typhimurium TA1535, TA1537, TA 1538', 'Dose': '1%', 'Result': 'Negative', 'Metabolic activation': 'with and without'}, {'Test object': 'S. typhimurium TA102, TA98, TA100', 'Dose': '0.17-17200 ug/plate', 'Result': 'Negative', 'Metabolic activation': 'with and without'}, {'Test object': 'S. typhimurium TA100', 'Dose': '2 or 4 mmol/plate', 'Result': 'Positive', 'Metabolic activation': 'not indicated'}]"
+        },
+        {
+            "References": "PMID:2507914",
+            "Value": "/GENOTOXICITY/ ... The induction of sister chromatid exchanges and endoreduplicated cells /were measured/ to determine the genotoxicity of various 1,2-dicarbonyl compounds in Chinese hamster ovary (CHO) AUXB1 cells and human peripheral lymphocytes. The 1,2-dicarbonyls glyoxal, methylglyoxal and kethoxal induced sister chromatid exchanges and endoreduplicated cells. ... Glyoxal and kethoxal induced sister chromatid exchanges but not endoreduplicated cells in human peripheral lymphocytes. ... These in vitro results suggest that 1,2-dicarbonyls may play an important role in the genotoxicity of some foods and beverages."
+        },
+        {
+            "References": "PMID:405268",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ ... Diacetyl uncouples oxidative phosphorylation in normal rat liver mitochondria ... . Diacetyl totally abolishes respiratory control with substrates, the oxidation of which involves the NADH leads to CoQ segment, but only partially with succinate which bypasses this segment."
+        },
+        {
+            "References": "PMID:24816162",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Diacetyl (DA), a component of artificial butter flavoring, has been linked to the development of bronchiolitis obliterans (BO), a disease of airway epithelial injury and airway fibrosis. The epidermal growth factor receptor ligand, amphiregulin (AREG), has been implicated in other types of epithelial injury and lung fibrosis. We investigated the effects of DA directly on the pulmonary epithelium, and we hypothesized that DA exposure would result in epithelial cell shedding of AREG. ... We demonstrate supportive in vivo results showing increased AREG transcript and protein levels in the lungs of rodents with DA-induced BO. ..."
+        },
+        {
+            "References": "PMID:16545411",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ ... The effects of diacetyl on epithelium of guinea pig isolated airway preparations and the effects of diacetyl in vitro on reactivity to bronchoactive agents /were examined/. In the isolated, perfused trachea preparation, diacetyl added to the intraluminal (mucosal) bath elicited responses that began with contraction (threshold ca. 3 mM) and ended with relaxation. After a 4-hr incubation with intraluminal diacetyl (3 mM), contractions to extraluminal (serosal) methacholine (MCh) were slightly increased; however, sensitivity to intraluminally (mucosally) applied MCh was increased by 10-fold. Relaxation responses of MCh (3 x 10(-7) M)-contracted tracheas to extraluminally applied terbutaline and intraluminally applied 120 mM KCl, to evoke epithelium-derived relaxing factor release, were unaffected by diacetyl. Exposure of the tracheal epithelium in Ussing chambers to diacetyl decreased transepithelial potential difference and resistance. These findings suggest that diacetyl exposure compromised epithelial barrier function, leading to hyperreactivity to mucosally applied MCh. The respiratory epithelium appears to serve as an initial target for the toxic effects of diacetyl in the airways."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 9 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of May 31, 2016: https://www2.epa.gov/tsca-screening-tools (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of diacetyl is estimated as 1(SRC), using a log Kow of -1.34(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that diacetyl is expected to have very mobility in soil."
+        }
+    ]
+}

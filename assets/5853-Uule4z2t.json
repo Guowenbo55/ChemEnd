@@ -1,0 +1,413 @@
+{
+    "_id": {
+        "$oid": "6682e829c4e5dba5ffba2436"
+    },
+    "CID": {
+        "$numberInt": "5853"
+    },
+    "Name": "Trichlorfon",
+    "IUPACName": "2,2,2-trichloro-1-dimethoxyphosphorylethanol",
+    "CanonicalSMILES": "COP(=O)(C(C(Cl)(Cl)Cl)O)OC",
+    "Synonyms": [
+        "TRICHLORFON",
+        "Metrifonate",
+        "Chlorophos",
+        "52-68-6",
+        "Metriphonate",
+        "Trichlorphon",
+        "Methyl chlorophos",
+        "Trichlorofon",
+        "Chloroxyphos",
+        "Bilarcil",
+        "Chlorofos",
+        "Chloroftalm",
+        "Dylox",
+        "DETF",
+        "Chlorophthalm"
+    ],
+    "IsomericSMILES": "COP(=O)(C(C(Cl)(Cl)Cl)O)OC",
+    "INCHI": "InChI=1S/C4H8Cl3O4P/c1-10-12(9,11-2)3(8)4(5,6)7/h3,8H,1-2H3",
+    "INCHIKEY": "NFACJZMKEDPNKN-UHFFFAOYSA-N",
+    "Formula": "C4H8Cl3O4P",
+    "MolecularWeight": {
+        "$numberDouble": "257.43"
+    },
+    "Description": "Trichlorfon is a phosphonic ester that is dimethyl phosphonate in which the hydrogen atom attched to the phosphorous is substituted by a 2,2,2-trichloro-1-hydroxyethyl group. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, an agrochemical, an EC 3.1.1.8 (cholinesterase) inhibitor, an anthelminthic drug and an insecticide. It is an organic phosphonate, a phosphonic ester and an organochlorine compound.",
+    "XlogP": {
+        "$numberDouble": "0.5"
+    },
+    "Complexity": {
+        "$numberInt": "183"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Maitlen JC, Halfhill JE; J Agric Food Chem 33: 754-7 (1985) (2) Dierksmeier G et al; pp 400-24 in Pesticide Residues in Coastal Tropical Ecosystems. Taylor MD et al, eds. Boca Raton, FL: CRC Press (2003",
+            "Value": "Trichlorfon was detected at 0.05 ppm in seeds harvested from plants treated with twice the registered rate of foliar spray application, it was not detected (detection limit 0.02 ppm) in alfalfa plants germinated from those seeds(1). Trichlorfon was not detected (detection limit not reported) in 8 tomato, 12 cucumber or 4 onion samples from Cuba, but was detected at 0.08-0.12 ug/kg in 12 pepper crop samples(2)."
+        }
+    ],
+    "animal_concentrations": [
+        {
+            "References": "(1) IARC; Miscellaneous Pesticides. 30: 207-31 (1983) Monographs on the Evaluation of the Carcinogenic Risk of Chemicals to Humans. Geneva: World Health Organization, International Agency for Research on Cancer, 1972-PRESENT. (Multivolume work). Available, from, as of Jun 1, 2017: https://monographs.iarc.fr/ENG/Classification/index.php (2) Niell S et al; J Agric Food Chem 59: 7601-8 (2011)",
+            "Value": "Trichlorfon was not detected in the liver tissue of 23 food-producing animals in 1980(1). Trichlorfon was not detected (detection limit 0.2 mg/kg) in four raw wool samples(2)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 9 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of June 13, 2017: https://www2.epa.gov/tsca-screening-tools/ (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for trichlorfon(SRC), using a log Kow of 0.51(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Verschueren K; Handbook of Environmental Data on Organic Chemicals. Volumes 1-2. 4th ed. New York, NY: John Wiley & Sons (2001) (2) Purdue University; National Pesticide Information Retrieval System (1987) (3) Kawamoto K, Urano K; Chemosphere 21: 1141-60 (1990) (4) Sobina NA et al; Mater Vses Simp Sovrem Probl Samoochishcheniya Regul Kach Vody 5th 3: 85-90 (1975)",
+            "Value": "AEROBIC: Complete biodegradation of trichlorfon in river water occurred within 5 days at 10 mg/L, 13 days at 20 mg/L, and 20 days at 30 mg/L(1). Persistence of trichlorfon in soils has been reported as 2 weeks or less and is degraded by ammonifying microorganisms(1). Trichlorfon degrades rapidly in aerobic soils with reported half-lives of approximately 1-27 days under non-sterile conditions(2). The biodegradation rate constant and half-life for trichlorfon was determined to be 0.28/day and 2.5 days, respectively, in an aerobic biodegradability test using an activated sludge inoculum incubated at 20 \u00b0C for 50 days(3). The decomposition rate of trichlorfon in river water at pH 7.39 was higher than in distilled water at pH 7.3-7.5 indicating that biodegradation aided in trichlorfon's decomposition in water(4)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Padula DJ et al; Chemosphere 86: 709-17 (2012)",
+            "Value": "Trichlorfon was not detected (detection limit 0.05 mg/kg) in Australian farmed yellowtail kingfish (Seriola lalandi) or Mulloway (Argyrosomus hololepidotus); fish were collected Sept 2003 to July 2004(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 9",
+            "Value": "log Kow = 0.51"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V30 215 (1983)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In rats given daily oral doses of 300 mg/kg body weight technical trichlorfon for 5 days, brain edema, congestion of organs, fatty degeneration, and glycogen depletion of the liver, glycogen depletion of the heart muscle and emphysema and local inflammation in the lungs were observed."
+        },
+        {
+            "References": "Flores A et al; Arch Med Vet 14 (1): 23-7 (1982)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Trichlorfon (200 mg/kg, orally) decreased blood acetylcholinesterase and pseudocholinesterase activities in dogs by up to approximately 3.5 and approximately 4 fold, respectively, within 0.5 hours of its administration."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 927",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ When rats were given single oral doses of 10, 30, /or/ 100 mg/kg trichlorfon, the 100-mg/kg dose of trichlorfon caused salivation, tremor, diarrhea, ptosis, flat body, decreased body temperature, and decreased pentylenetetrazole seizure threshold, whereas the 30- or 10-mg/kg doses did not."
+        },
+        {
+            "References": "Howe GE et al; Environ Toxicol Chem 13 (1): 51-66 (1994)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Acute toxicity tests were conducted to determine (a) the individual and interactive effects of water temperature (7, 12, 17 \u00b0C), pH (6.5, 7.5, 8.5, 9.5), and time on the toxicity of terbufos, trichlorfon, 4-nitrophenol, and 2,4-dinitrophenol to rainbow trout (Oncorhynchus mykiss) and the amphipod Gammarus pseudolimnaeus, and (b) the individual and interactive effects of water temperature and pH on chemical bioconcentration during acute tests with rainbow trout and Gammarus exposed to terbufos, 4-nitrophenol, and 2,4-dinitrophenol. The toxicity of all four chemicals was significantly affected by pH in all tests, except for Gammarus exposed to terbufos. The toxicity of terbufos to rainbow trout and Gammarus was less at pH 7.5 than at higher or lower pH. The toxicity of both nitrophenols decreased as pH increased, whereas the toxicity of trichlorfon increased with pH. The effect of pH on trichlorfon toxicity decreased with temperature. Temperature significantly affected the toxicity of all four chemicals to both species. Toxicity increased with temperature in all tests, except for rainbow trout exposed to nitrophenols; toxicity decreased as temperature increased for rainbow trout. Chemical bioconcentration was also significantly affected by temperature and pH and was directly related to toxicity in most tests. Significant interactive effects between toxicity-modifying factors were also frequently observed. Temperature and pH effects on chemical toxicity need to be considered in chemical hazard assessment to ensure adequate protection of aquatic organisms."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 933",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ When applied to eyes of rabbits it has short lasting miotic effect and produces little or no irritation."
+        },
+        {
+            "References": "WHO; Environ Health Criteria 132: Trichlorfon p. 53 (1992)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rats (13/sex per group) were fed trichlorfon at dietary levels of 0, 20, 100, or 300 mg/kg diet for 16 weeks.  Significant cholinesterase depression was noted at 300 mg/kg.  No effects were observed at the 100 mg/kg level on growth, behavior, food consumption, or on gross and microscopic examination of tissues."
+        },
+        {
+            "References": "WHO; Environ Health Criteria 132: Trichlorfon p. 54 (1992)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rats (10/sex per group) were exposed for 6 hours a day over a 3-week period (total of 15 exposures) to an atmosphere containing trichlorfon at concentrations of 0, 12.7, 35.4, /or/ 103.5 mg/cu m. ... Body weight gain, parameters of hematological and clinical chemistry examinations, and urinalyses were not influenced at any exposure level.  Cholinesterase inhibition of 42, 31, and 22% was found in the plasma, erythrocytes, and the brain, respectively, in male animals at 103.5 mg/cu m; female animals showed dose-dependent inhibition values of 39, 26, and 26% at 35.4 mg/cu m and 48, 44, and 47% at 103.5 mg/cu m in the plasma, erythrocyte, and brain, respectively.  The only significant alteration in relative organ weight was found in male animals showing dose-related increases in relative spleen weights of about 20 and 25% at the 35.4 and 103.5 mg/cu m exposure levels, respectively.  No abnormal histological findings were observed in any of the tissues examined microscopically."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 928",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Trichlorfon does not have a cumulative effect. Repeated intraperitoneal doses of 50 mg/kg/day ... (about one-fourth of the ip LD50) for a period of 60 days had no effect on mortality. But repeated doses of 100 mg/kg/day (about one-half LD50) produced 40% mortality by 60 days, and repeated doses of 150 mg/kg produced 100% mortality by 60 days."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 928",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ When rats were given diets that contained 100, 500, or 2500 ppm trichlorfon (about 6-7, 31-35, and 165-189 mg/kg/day) for 13 wk, cholinergic toxicity and inhibition of RBC and brain cholinesterase activities occurred in male rats given 2500 ppm, and RBC and brain cholinesterase inhibition occurred in females given 500 or 2500 ppm."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 928",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ No signs of cholinergic or other toxicity were seen in dogs fed 42 mg/kg/day trichlorfon for 6 days/wk for 3 mo or in dogs given diets that contained 50, 200, or 500 ppm trichlorphon for 12 wk. The dietary level of 500 ppm (about 10.5 mg/kg/day) inhibited RBC cholinesterase activity."
+        },
+        {
+            "References": "PMID:15110333",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Changes of serum C-reactive protein (CRP) levels in rainbow trout (Oncorhynchus mykiss) were studied after exposure to formalin, metriphonate or potassium permanganate, which are used in aquaculture as anti-ectoparasitic chemicals. The CRP level in normal trout sera is 88+/-5 ug/mL according to sandwich enzyme-linked immunosorbent assay. CRP levels increased to a maximum at six or nine days after exposure to formalin for 3.5 hr at 300 ppm or 9.5 hr at 30 ppm, respectively; these levels are 4.3 and 18 times higher than normal. At 18 days after treatment, the CRP level had decreased to significantly below the normal level. After exposure to metriphonate (0.4 ppm for 30 min), the CRP level increased significantly to a maximum at three days after exposure (9.9 times higher than normal), then decreased to below normal. With exposure to potassium permanganate at 40 ppm for 45 min, fish showed significantly lower CRP levels than the normal level at 14 days after exposure. Fish reared at a water temperature of 16.5-19.5 degrees C showed significantly higher CRP levels than those reared at 13 degrees C. Measurement of CRP levels in trout serum can be used as a bioindicator of the health condition of the fish."
+        },
+        {
+            "References": "National Research Council. Drinking Water and Health, Volume 6. Washington, D.C.: National Academy Press, 1986., p. 401",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Spraque Dawley rats (25 of each sex) /were given/ diets containing 0 to 1,000 ppm concentrations of technical grade trichlorfon. The dosing was intended to last for 24 mo, but it was shortened to 17 mo in males (due to mortality). Males in the 1000 ppm (100 mg/kg/day) group failed to gain weight equivalent to other groups, and life span was shortened in both sexes at the high dose. Serum cholinesterase, but not brain, submaxillary gland, or red blood cell cholinesterase, was inhibited by 25% in the group fed 250 ppm (25 mg/kg/day). Vascular lesions, including fibrous changes and necrotizing inflammation, were reported, but the dosing group in which they occurred was not identified. Histopathology was done on only five rats of each sex from each dose group."
+        },
+        {
+            "References": "National Research Council. Drinking Water and Health, Volume 6. Washington, D.C.: National Academy Press, 1986., p. 402",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ /Investigators administered/ Sprague-Dawley rats (25 males and 50 females per group) 100, 200, or 400 ppm concentrations of technical grade trichlorfon in feed. The study was intended to last 18 months, but was apparently curtailed at about 70 weeks due to mortality in both the treated and control groups. There was a sex difference in cholinesterase inhibition: slight depression of RBC/(red blood cell)/ cholinesterase occurred in males at 200 ppm but not at 100 ppm (10 mg/kg/day), whereas there was \"very slightly\" depressed RBC cholinesterase in females fed 100 ppm. Spleen and liver weights were reported to be reduced in the 400 ppm group (40 mg/kg/day), and four females in the high dose group had pulmonary changes."
+        },
+        {
+            "References": "National Research Council. Drinking Water and Health, Volume 6. Washington, D.C.: National Academy Press, 1986., p. 405",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ No increased incidence in malignant tumors /was found/ in Long Evans rats given up to 1000 ppm concentrations of trichlorfon in feed for 2 yr. Forty Wistar rats (unspecified sex) /were gavaged/ with 15 mg/kg doses of trichlorfon twice weekly for life. The average life span for treated animals was shortened, and 7 of 28 treated animals had malignant tumors (of unspecified type) as compared to no tumors in controls. Benign tumors were found in 19 of 28 rats and in 3 of 36 controls."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data, Trichlorfon, Chemical Code No. 88 p.7 (July 8, 1988, last revised January 6, 1999). Available from, as of July 10, 2017: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Technical grade Trichlorfon (Dylox), >/= 97.3% purity, was fed in the diet for 104 weeks at 0, 300, 900, and 2700 ppm (nominal) to 50 CD-1 mice/sex/group. ... Plasma and red blood cell cholinesterase inhibition occured at 900 to 2700 ppm. NOEL for effects other than cholinesterase inhibition was 300 ppm (liver relative weight increases in females at 900 to 2700 ppm). Common findings at 2700 ppm included increased urine staining in males, possibly caused by cholinesterase inhibition. Mammary tumors (adenomas, adenocarcinomas, or adenoacanthomas) were elevated in high dose females: incidences of 0, 300, 900, and 2700 ppm females were 1,2,0, and 8, respectively. These are considered treatment-related and thus a possible adverse effect."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 931",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ There were no effects on mortality or body weights nor was there any cholinergic toxicity in dogs given diets that contained 0, 50, 250, 500, or 1000 ppm (equivalent to 0, 1.25, 6.25, 12.5, or 25 mg/kg/day, respectively) for 1 yr. There was mild to moderate enlargement of the spleen in dogs fed the 1000-ppm diet, as well as congestion of the spleen and lymphoid atrophy and foci of inflammatory liver cells. Dogs given the 500- or 1000-ppm diet exhibited decreases in RBC cholinesterase activity."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 931",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ When dogs were fed diets that contained 0, 50, 200, 800, or 3200 ppm for 4 yr, dogs fed the 50-ppm diet were unaffected; dogs fed the 200-ppm diet had depressed RBC cholinesterase activity; dogs fed the 800- or 3200-ppm diet had depressed RBC cholinesterase activity, reduced food intake, retarded body weight gain, and increased mortality; and dogs fed the 3200-ppm diet also exhibited tremors, cramps, and salivation."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data, Trichlorfon, Chemical Code No. 88 p.5 (July 8, 1988, last revised January 6, 1999). Available from, as of July 10, 2017: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Trichlorfon, 98.6% purity, was administered 6 days/week for 10 years by imbibition from a syringe at 0 (Tang orange-flavored drink), 0.2, 1.0, or 5.0 mg/kg/day with 5/sex/group. No adverse chronic effect. Cholinesterase NOEL = 0.2 mg/kg/day (dose-related cholinesterase inhibition, over 20% in RBC and brain in both sexes, and in plasma of males). Brain cholinesterase inhibition at 10-yr termination was noteworthy: at dose levels of 1 and 5 mg/kg/day, respectively, brain cholinesterase inhibition was 53 and 83% of controls in males, and 24 and 78% of controls in females. Cholinesterase-related clinical signs NOEL = 1.0 mg/kg/day, based on pupillary constriction (2 high dose females only, both limited to the first month of study), muscle fasciculations (limited to 1 high dose female on one occasion: day 15 of study), and a noticeable increase in incidence of soft stools or diarrhea in high dose monkeys throughout the study, in comparison with other groups. There were no gross or microscopic findings attributed to treatment, despite periodic biopsies of liver tissue during the first 3 years of the study, and complete gross and histopathology examinations at termination. Thus the NOEL for chronic effects (other than those plausibly related to cholinesterase inhibition) was >/= 5 mg/kg/day."
+        },
+        {
+            "References": "Searle, C. E. (ed.). Chemical Carcinogens. ACS Monograph 173. Washington, DC: American Chemical Society, 1976., p. 170",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ In Sprague Dawley rats, 50-150 mg/kg by ip route, daily for 60 days: 0/15 had tumors. /From table, control data not reported/"
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V30 212 (1983)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ A group of 30 male and 28 female 8 week old AB/JENA strain mice received 30 mg/kg body weight trichlorfon ... by gavage twice weekly for 75 weeks, with a 2 week break after the 45th week (cumulative dose: males, 157.5 mg; females, 154 mg).  All surviving animals were sacrificed at 80 weeks.  A group of 30 male and 29 female mice served as controls.  There was no significant difference in the incidence of tumors between treated and control mice."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V30 213 (1983)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ A group of 30 male and 30 female 8 week old AB/JENA mice received 28.2 mg/kg body weight trichlorfon ... by ip injection twice weekly for 75 weeks, with a 2 week break at 45 weeks.  The cumulative doses were 160.8 mg in males and 149.7 mg in females.  All surviving animals were killed at 80 weeks.  A group of 30 male and 30 female controls were given saline by ip injections.  There was no significant difference in the incidence of tumors between treated and control mice."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V30 213 (1983)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ A group of 30 male and 35 female 10 week old albino rats were given 12 mg/kg body weight trichlorfon ... by ip injection twice weekly for 90 weeks. The average cumulative dose was 1.16 g in males and 1.1 g in females. A group of 25 male and 25 female controls received saline injections. All surviving animals were killed at 118 weeks. No statistically significant difference was found in the incidence of tumors between treated and control rats. A group of 23 male and 25 female Syrian golden hamsters, 7 to 8 weeks of age, were given 20 mg/kg body weight trichlorfon ... as a 2% solution in isotonic saline by ip injection once weekly for 90 weeks. A group of 22 male and 23 female controls received saline injections. All surviving animals were killed at 100 weeks. There was no significant difference in the incidence of tumors between treated and control hamsters."
+        },
+        {
+            "References": "Searle, C. E. (ed.). Chemical Carcinogens. ACS Monograph 173. Washington, DC: American Chemical Society, 1976., p. 170",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ In BD rats, 50 mg/kg by sc route for 800 days induced 2/24 injection site sarcomas ... . /From table, control data not reported/"
+        },
+        {
+            "References": "Searle, C. E. (ed.). Chemical Carcinogens. ACS Monograph 173. Washington, DC: American Chemical Society, 1976., p. 170",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ ... In Wistar rats, 30 mg/kg, 3 times weekly, /by gavage/, for up to 705 days induced 3/52 papilloma of forestomach. /From table, control data not reported/"
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V30 212 (1983)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ A group of 30 male and 35 female 10 week old albino rats received 22 mg/kg body weight trichlorfon ... in saline by gavage twice weekly for 90 weeks; all surviving animals were killed at 118 weeks (cumulative dose: males, 2.08 g; females, 1.98 g).  A group of 25 male and 26 female control rats were given saline.  There was no significant difference in the incidence of tumors between treated and control groups."
+        },
+        {
+            "References": "Searle, C. E. (ed.). Chemical Carcinogens. ACS Monograph 173. Washington, DC: American Chemical Society, 1976., p. 170",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity: Initiation-Promotion/ In AB mice skin application and promotion with croton oil at 30 mg/kg, 3 times weekly for up to 781 days induced 1/19 liver carcinoma, 2/19 papillomas of forestomach and 1/19 local sarcoma. /From table, control data not reported/"
+        },
+        {
+            "References": "PMID:18069051",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Trichlorfon (TCF) is a widely used pesticide, which according to some epidemiological and experimental data, is suspected of being aneugenic in human and mouse cells. In particular, in vitro studies in mouse oocytes showed the induction of aneuploidy and polyploidy at the first meiotic division and of severe morphological alterations of the second meiotic spindle. We have tested the hypothesis that an acute treatment of mice with TCF might similarly affect chromosome segregation in maturing oocytes. Superovulated MF-1 mice were intraperitoneally injected with 400 mg/kg TCF or orally administered with 600 mg/kg TCF either at the time of or 4 hr after human chorionic gonadotrophin (HCG) injection. Oocytes were harvested 17 hr after HCG and metaphase II chromosomes were cytogenetically analyzed. No significant increase of aneuploid or polyploid cells was detected at any treatment condition. A significant (p<0.001) decrease of metaphases showing premature chromatid separation or premature anaphase II in all TCF-treated groups with respect to controls suggested that TCF treatment may have delayed the first meiotic division. To evaluate possible effects of the pesticide upon the second meiotic division, a group of females orally treated with 600 mg/kg TCF at resumption of meiosis was mated with untreated males and zygotes were collected for cytogenetic analysis. No evidence of aneuploidy induction was obtained, but the frequency of polyploid zygotes was increased fivefold over the control level (p<0.01). Such polyploid embryos might have arisen from fertilization of oocytes that were either meiotically delayed and still in metaphase I at fertilization or progressed through anaphase II without cytokinesis. These findings show that in vivo studies on aneuploidy induction in oocytes may yield results different from those obtained by in vitro experiments and that both kinds of data may be necessary for risk assessment of environmentally relevant exposures."
+        },
+        {
+            "References": "PMID:21771630",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Trichlorfon is a widely used broad-spectrum agricultural insecticide. Few studies have evaluated the effects of trichlorfon on developing fetuses, especially at early stages of development after low-level maternal exposures. In this study, we evaluated the direct effects of trichlorfon on preimplantation mouse embryos after 30 days of maternal exposure (2, 10 and 50 mg/kg/day) via drinking water. On gestation day 3 (dg3), blastocysts were collected and evaluated for changes in gross morphology; cell number; the presence of interphase, metaphase, micronuclei (MN) cells and fragmented and pycnotic nuclei. Embryos in the 50 mg/kg/day group had a significantly reduced mean cell number per embryo. Furthermore, there was a significant increase in the frequency of pycnotic nuclei and an absence of metaphase cells in the 50 mg/kg/day treated group. None of the developmental endpoints evaluated were observed in the 2 and 10 mg/kg/day trichlorfon-treated groups. A simultaneous decrease in the cell number and an increase in the frequencies of absent metaphases and pycnotic nuclei indicate that embryonic developmental deficits observed in the 50 mg/kg/day exposure group were associated with cytotoxicity."
+        },
+        {
+            "References": "PMID:21828958",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Trichlorfon (TCF) is a widely used broad-spectrum agricultural organophosphate (OP) pesticide. Few studies have evaluated the effects of TCF on reproductive toxicity after low-level exposure, especially after long-term exposure. This study assessed the direct effects of TCF on estrous cycle, oocyte maturation in female mice, and developmental outcome in near-term fetuses after 30 consecutive days of maternal exposure to 2, 10, or 50 mg/kg body weight/d TCF via drinking water. Both male and female fetuses in the 50 mg/kg/d TCF-treated group had significantly reduced body weights; but this did not occur in the 2 mg/kg/d and 10 mg/kg/d TCF-treated groups. No difference in oocyte maturation, including the percentages of germinal vesicle breakdown (GVBD) and first polar body (PB1) extrusion, or in estrous cycle was found between the control and TCF-treated groups. No increased incidence of fetal external malformations was observed in the TCF-treated groups. Significant decreases in maternal liver weights occurred in the 10 and 50 mg/kg/d TCF-treated groups in a dose-dependent manner. No significant changes were found in the weight of organs such as the ovaries, thymus, kidneys, spleen, lungs, heart or brain. The lack of effects of 2 mg/kg/d and 10 mg/kg/d TCF on any in vivo reproductive and developmental endpoints examined suggest that no TCF reproductive toxicity occurs at exposures less than 10 mg/kg/d."
+        },
+        {
+            "References": "PMID:19531917",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ The organophosphate pesticide trichlorfon is a widely used agricultural broad spectrum insecticide. The health effects on a developing fetus of low level exposure to trichlorofon ingested by the mother in contaminated foods are unclear. We assessed reproductive and developmental toxicity in pregnant female mice following gavage-administered exposure to distilled water or to low levels (12.5, 25, or 50 mg/kg body weight/d) of trichlorofon during organogenesis (gestation days 6-15). Following sacrifice on day 17, reproductive outcomes and teratogenesis were assessed. Trichlorfon exposure did not affect maternal weight gain, organ weights, corpora lutea, implantation sites, or reproductive success, nor where external or skeletal abnormalities evident. The lack of effects of trichlorfon on any in vivo reproductive and fetuses endpoints above suggested that for trichlorfon, a hazard of reproductive toxicity below 50 mg/kg body weight/d maybe not expected. However, a well-designed epidemiological study is necessary for further risk assessment of human developing fetus exposed to trichlorfon at a lower level."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data, Trichlorfon, Chemical Code No. 88 p.12 (July 8, 1988, last revised January 6, 1999). Available from, as of July 10, 2017: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Trichlorfon technical, 99% purity, was administered by gavage to 20 to 25 artificially inseminated American Dutch female rabbits per group on gestation days 6-18 at 0 (distilled water), 10, 35, and 110 mg/kg/day. By gestation day 18, 14 of 25 inseminated females at 110 mg/kg/day died. Maternal clinical symptoms at 35 and 110 mg/kg/day included tremors, rapid respiration, ataxia, salivation, and prostration. No Adverse effects. Maternal NOEL = 10 mg/kg/day (clinical symptoms of ChE inhibition in the mid and high dose groups). Developmental NOEL = 35 mg/kg/day (reduced fetal weights and increased resorptions at 110 mg/kg/day)."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data, Trichlorfon, Chemical Code No. 88 p.12-3 (July 8, 1988, last revised January 6, 1999). Available from, as of July 10, 2017: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Animals considered pregnant (30) were dosed at 400 mg/kg/day during days 7-11 of gestation and subsequently, lower dose levels were added (20, 5, 25, 10 at 0-gavaged with distilled water, 100, 200, 300 mg/kg/day) and additional hamsters (23) were administered 400 mg/kg/day only on day 8 to determine fetal sensitivity to exposure on a single day of gestation. There was an increase in fetal malformations at the highest dosage (400 mg/kg/day, days 7-11), primarily edema, cleft palate, patagium (fold of skin connecting forelimbs and hindlimbs), and fused ribs. Increases in fetal death, also an increase in the numbers of runted fetuses and a decrease in mean fetal weight (all significant, p < 0.05) were noted at 400 mg/kg/day. The parental NOEL was apparently 100 mg/kg/day, as signs of cholinesterase inhibition were observed at 200 mg/kg/day. Food intake of dams was decreased in a dose-related fashion at 300 to 400 mg/kg/day. The high dosages administered were made possible by giving the daily dose in three portions, 3.5 hours apart."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data, Trichlorfon, Chemical Code No. 88 p.8 (July 8, 1988, last revised January 6, 1999). Available from, as of July 10, 2017: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Trichlorfon technical, 98.5% purity, was administered in the diet to 30 Sprague-Dawley rats/sex/group at nominal doses of 0, 150, 500 and 1750 ppm beginning at seven weeks of age for the F0 parents and at weaning for the F1 parents. Treatment-related reductions in birth weight in F1a pups continued into adulthood with F1 adults showing lower premating and gestation body weight; food consumption was reduced in F0 and F1 dams during lactation. Dose-related kidney effects dilated renal pelves were seen in F1a (F1a + F1 = 5, 7, 10 and 23 at 0, 150, 500 and 1750 ppm) and F2a pups (F2a = 2, 8, 6 and 31 at 0, 150, 500 and 1750 ppm). Gross and microscopic lesions were noted in the lungs (eg pneumonia) and kidneys (eg chronic nephropathy and hydronephrosis) of high-dose F0 and F1 adults. Cholinesterase (ChE) was inhibited in adult brain, plasma and RBC (NOEL = 150 ppm) and in pup brain and plasma at the high-dose. Possible Adverse Effect: Reduction in the birth and viability indices together with reductions in weight and kidney lesions in pups; Reproductive NOEL = 500 ppm."
+        },
+        {
+            "References": "PMID:11080659",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ... We examined cytogenetic and developmental effects on early mouse zygotes exposed to trichlorfon in vivo. Pregnant female mice were intraperitoneally administered a single dose of trichlorfon (100 or 200 mg/kg) at 6 hr post presumed conception and either sacrificed on day of gestation (dg) 3, 9 or 17 to assess the developmental toxicity and mutagenic effects on embryos. Mean cell number (dg 3) and somite number (dg 9) of embryos in the two trichlorfon-treated groups were significantly fewer than in the control group and the mean micronucleus (MN) number (dg 3) and the frequency of mosaic aneuploidies including monosomic or trisomic cell lines (dg 9) was significantly increased in both trichlorfon-treated groups compared with the control group. However, there was no difference in fetal body weight (dg 17) between the control and trichlorfon-treated groups and no increased incidence of external malformations was observed in the trichlorfon-treated groups."
+        },
+        {
+            "References": "PMID:446441",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Dipterex was teratogenic after administration by gavage /3 times per day/ at a dose level of 480 mg/kg/day to CP rats on days 6 through 15 of gestation, but not when administered only on days 8 or 10 of gestation. /Dipterex administration on days 6 through 15 of gestation was followed by a substantial, although not a statistically significant, decrease in the maintenance of pregnancy, an increase in the fetal mortality rate among rats in which pregnancy was maintained, and a significant decrease in the body weight of the surviving fetuses. Furthermore, an average of 76.4% of the fetuses in each litter of the experimental group was malformed. The malformations occurred in all of the 19 litters exposed to Dipterex and consisted mostly of generalized edema, various types of herniation of the brain and cerebrospinal fluid through the skull, internal hydrocephaly, micrognathia, cleft palate, severely shortened radius and ulna, and hypophalangism and syndactyly. Other alterations noted were hematomas, extensive doubling of the thoracic centra, fusions of the sternebrae and of the ribs, umbilical hernias, small kidneys and common truncus./ Positive teratogenic response also occurred in the hamster after admin on days 7 through 11 of gestation at 400 mg/kg/day; the apparent no-effect level for the criteria studied was 200 mg/kg/day. /The incidence of fetal death, stunted, and malformed fetuses was significantly increased among the litters of the 400 mg/kg/day Dipterex group. Most of the malformations consisted of edema, cleft palate, patagium, and fused ribs. The hemimelic fetus had no radius or ulna in the left front limb, and the tibia in the left hind limb was only one-half the length of that in the right hind limb; the distal portion was missing. In addition, this stunted fetus had a cleft palate, bilateral cleft lip, micrognathia, and both fused and doubled thoracic and lumbar centra. The pulmonary trunk of another fetus led from the right ventricle under the aortic arch and inserted into the right subclavian artery instead of into the descending aorta via the ductus arteriosus. The ectrodactyly seen in both the Cv control and Dipterex groups consisted of missing thumbs./ Embryotoxicity, but not teratogenicity, occured after admin of 400 mg/kg/day on day 8 of gestation.  The mouse was less susceptible to dipterex than were the rat and hamster, but a significant increase in the incidence of cleft palates resulted from exposure on days 10 through 14, or on days 12 through 14 of gestation."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V30 216 (1983)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/  A single 80 mg/kg body weight dose admin to rats orally by gavage on day 13 of pregnancy caused an increased number of embryonic deaths, a decreased number of live fetuses and increased fetal anomalies, such as exencephaly and failure of eyelids to close; administration of 8 mg/kg body weight throughout pregnancy produced no teratogenic manifestations."
+        },
+        {
+            "References": "Khaitov RK et al; Tr Uznivi 32 (1): 127-30 (1982)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Daily oral administration of 1,2, or 5 mg chlorophos/kg, or administration of 5 mg/kg in weekly intervals, for 6 months caused hemodynamic disturbances in the brain and other organs of bulls, and dystrophic changes in the liver, kidneys, spleen, lungs, and testicles. The severity of the pathological changes depended on the dose. Swelling and hyperplasia of the interstitial tissue occured in the testicles. Spermatogenic epithelium desquamated from the seminiferous tubules. Ejaculate volume decreased, the proportion of pathological spermatozoids increased, sperm respiration was inhibited, and fertility decreased. Administration of 1-2 mg chlorophos/kg caused no pathological changes. Tolerance threshold of chlorophos is 2 mg/kg feed."
+        },
+        {
+            "References": "Shepard, T.H. Catalog of Teratogenic Agents. 13th ed. Baltimore, MD: The Johns Hopkins University Press, 2010., p. 453",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ /Trichlorfon/ was given to pregnant hamsters and mice during active organogenesis (300 mg/kg daily) ... . A low incidence of cleft palate and some skeletal defects in hamster fetuses were found. All of the abnormal fetuses occurred in hamsters treated on day 8. Neither embryotoxicity nor teratogenicity was found in mice."
+        },
+        {
+            "References": "PMID:3741140",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Pregnant guinea pigs were administered trichlorfon at doses of of 0 or 100 mg/kg body weight on days 36, 37, 38, 51, 52, and 53 of gestation. The number of abortions and still-born fetuses, and the mean fetal wt, were lower than in controls. Some pups from different litters had marked trembling and locomotor disturbances. Symmetrical atrophy of the skeletal muscles, and cardiovascular abnormalities were found in the treated group. There was a decrease in total brain and cerebellum weights. The activities of choline-acetyl transferase and glutamate decarboxylase were both significantly reduced in the cerebellum, as compared to control values."
+        },
+        {
+            "References": "Courtney KD et al; J Environ Sci Health Part B, B21 (3): 207-27 (1986)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Trichlorfon was evaluated for its teratogenic potential in the mouse (200, 300, or 400 mg/kg/day) after administration by gavage on days 7-16 of gestation. /The compound/ was teratogenic, fetotoxic, and lethal at the two highest doses which were also maternally lethal. There was a decrease in the number of calcified centers in the forepaws and hindpaws indicating fetotoxicity and a delay in maturation. /Trichlorfon/ was administered (50, 100, or 200 mg/kg/day) to rats by gavage on gestational days 7-19 or 8-20 (groups A and B respectively). In both groups the highest dose was maternally lethal. In group A, /the compound/ was teratogenic with a shift in rib profile. In group B, /the compound/ was teratogenic with an increased incidence in malformations of the urinary system. /Trichlorfon/ was fetotoxic with reduced ossification of the skulls at the lowest and highest dose levels."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 930",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ When rats were fed diets that contained 0, 300, 1000, or 3000 ppm for three generations, 3000 ppm (about 150 mg/kg/day) caused a marked decrease in the pregnancy rate and early deaths in pups, 1000 ppm (about 50 mg/kg/day) caused reduced numbers of pups per litter and weight of individual pups, and 300 ppm (about 15 mg/kg/day) had no detectable effect on reproduction. There was no indication of teratogenesis, even at dosages that were highly toxic."
+        },
+        {
+            "References": "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 1, 2nd ed. 2001. Academic Press, San Diego, California., p. 399",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ A review of this insecticide and anthelmintic demonstrated a potent developmental toxicity profile in laboratory animals such as the rat (oral and inhalation), mouse (oral), and hamster (oral), but teratogenicity was not noted if the exposure was via the intraperitoneal route."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 930",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ When trichlorfon (125 mg/kg/day) ... was administered to guinea pigs between day 42 and 46 of gestation, offspring exhibited severe reductions in brain weight that was most pronounced in the cerebellum, medulla oblongata, thalamus/hypothalamus, and quadrigemina."
+        },
+        {
+            "References": "PMID:499029",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Adult white leghorn hens were given oral or sc doses of 50-300 mg/kg. Signs of neurological dysfunction (ataxia, paralysis) appeared 12-28 days later. Multifocal neuropathy affecting CNS and peripheral nervous system was observed about 1 month after dosing."
+        },
+        {
+            "References": "PMID:6860140",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Changes in the electrophysiologic activity of the rat sciatic nerve were examined after repeated dosing with parathion and trichlorfon. Trichlorfon produced dose-dependent changes in the duration, rise time, relative area, and refractory period of the sciatic nerve compound action potential. The observed changes indicated an increased excitability of the nerve. During the early development of these electrophysiologic changes there were no accompanying histololgic changes in the nerve. This suggests that changes in nerve excitability may be a sensitive indicator of neurotoxicity, and that continued trichlorfon exposure may lead to a cumulative alteration in nerve function."
+        },
+        {
+            "References": "PMID:15474645",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ The aim of these experiments was to assess whether the clinically validated cognition enhancers donepezil (Aricept, E2020) and metrifonate antagonize scopolamine-induced deficits in the cone field, a complex spatial discrimination task. The cone field task allows measurement of the effects of experimental manipulations on working and reference memory (WM and RM), search strategies, and on the speed and latency to execute the task. The effects of a single administration of donepezil (0.1, 0.3, and 1.0 mg/kg, p.o.) and metrifonate (30, 60, and 120 mg/kg, p.o.) were investigated in adult Harlan-Wistar rats trained to a stable level of performance and pretreated with scopolamine (0.5 mg/kg, i.p. 30 min before training). Scopolamine impaired WM without inducing overt non-cognitive side-effects. Donepezil did not antagonize the scopolamine-induced deficits, whereas metrifonate antagonized the WM deficits at the dose of 60 mg/kg, but not at 30 or 120 mg/kg. Thus, a cholinesterase inhibitor with proven clinical efficacy can antagonize scopolamine-induced spatial memory deficits."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data, Trichlorfon, Chemical Code No. 88 p.21 (July 8, 1988, last revised January 6, 1999). Available from, as of July 10, 2017: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Trichlorfon technical (Dylox purity of 98.4%, dissolved in corn oil) was administered in the feed to 18 Fischer 344 rats/sex/dose at 0, 100, 500 and 2500 ppm for 13 weeks. Clinical observations (at 2500 ppm) consisted of perianal stain (males) and increased incidence of urine stain (females). High-dose males showed lower body weights (4-5%) compared to controls lower during most of the study. Functional Observational Battery (FOB) high-dose males had perianal staining (week 4) and decreased righting response (week 8); females at this level showed increased urine stain for weeks 8 and 13. Reduced motor and locomotor activity (18 to 28%) was noted during weeks 4 and 8 for 2500 ppm males and during week 4 for 2500 ppm females. ChE Inhibition High-dose rats showed >20% reductions in plasma, erythrocyte and brain ChE activity and reductions in plasma and erythrocyte ChE at 4 weeks were similar in magnitude to those at 13 weeks. At 500 ppm, inhibitions of plasma and erythrocyte ChE ranged from 22-31% during week 4. NOEL(M/F)=100 ppm, ((M)=6 mg/kg, (F)=7 mg/kg, based on ChE inhibition). Microscopic lesions (segmental, ballooning separation of myelin lamellae from the axon, ie, primary myelinopathy) were reported in the cervical and lumbar spinal nerve roots of high-dose rats. [NOAEL(M/F)=500 ppm; (M)=35 mg/kg/day, (F)=31 mg/kg/day] based on degeneration of myelin in cervical and lumbar spinal nerve roots."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data, Trichlorfon, Chemical Code No. 88 p.20 (July 8, 1988, last revised January 6, 1999). Available from, as of July 10, 2017: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Technical trichlorfon (purity = 98.8%) was given to White Leghorn hens by gavage for 90 consecutive days at dose levels of 0 (vehicle = corn oil:acetone 9:1), 3, 9 or 18 mg/kg/day (12/group). TOCP was used as a positive control. No adverse effect. NOEL for delayed neurotoxicity parameters = 18 mg/kg/day (no clinical signs of delayed neurotoxic damage, no related histopathology findings, no alterations seen in ladder and turf test). There was no \"NOEL\" for whole blood cholinesterase inhibition (consistently reduced by about 20-30% at 9-18 mg/kg/day: slight but statistically significant reduction at 3 mg/kg/day in latter weeks of the study). Clinical signs typical of cholinesterase inhibition (ataxia and decreased activity) were common at 18 mg/kg/day. Hypertrophy of the esophagus (and often in one or more structures of the upper alimentary tract such as the crop, gizzard or proventriculus) was the only histopathology change, occurring at 18 mg/kg/day."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data, Trichlorfon, Chemical Code No. 88 p.19 (July 8, 1988, last revised January 6, 1999). Available from, as of July 10, 2017: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ In subacute studies, hens were dosed with trichlorfon (100 mg/kg) every 72 hours for a total of 6 doses. 72 hours after the final dose, the hens were euthanized and the brains, spinal cords and distal sciatic nerves were removed for enzymatic and/or histological examination. ... Trichlorfon markedly inhibited tissue cholinesterase activities but elicited /no/ significant neurotoxic esterase (NTE) inhibition. ...Trichlorfon caused little or no obvious neurotoxicity, an observation that was supported by minimal morphological changes and impairment of walking ability and no inhibition of brain or spinal cord NTE."
+        },
+        {
+            "References": "PMID:12425964",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Measurements of plasma cholinesterase (pl.ChE), brain cholinesterase (Br.ChE) and brain Neuropathy Target Esterase (Br.NTE) were made in three different lineages of chickens. All birds received toxicants through gavage in a single oral dose between 08:00 and 09:00 hr, after overnight fast. Babcock chickens were treated with 800 mg/kg tri-ortho-cresyl phosphate (TOCP) or 80 mg/kg trichlorfon. The TOCP group had 82% Br.NTE inhibition, when compared to the control group, and no birds displayed symptoms of clinical organophosphate-induced delayed neuropathy (OPIDN). Hy-line w36 lineage chickens were given 1600 mg/kg TOCP and despite this higher dose, Br.NTE inhibition was similar that presented by Babcock chickens. Isabrown chickens were given 1600 mg/kg TOCP or 80 mg/kg trichlorfon. At 36 h all trichlorfon treated birds had from 80 to 90% inhibition of Pl.ChE and Br.ChE, when compared to controls. However, Br.NTE was inhibited less than 20%, and there were no clinical signs of OPIDN. All TOCP treated isabrown chickens had more than 80% Br.NTE inhibition while one of them exhibited just light signs of OPIDN, two chickens became totally paralyzed. This finding suggested that chicken strain was important in the appearance of OPIDN. In addition, 70-80% of NTE inhibition was necessary but was not sufficient to produce OPIDN in chickens, since babcock and hy-line w36 chickens exhibited NTE inhibition in the range of 70-80% without clinical signs of OPIDN."
+        },
+        {
+            "References": "PMID:17150236",
+            "Value": "/DEVELOPMENTAL NEUROTOXICITY/ The pesticide trichlorfon (125 mg/kg on days 42-44 in gestation) gives hypoplasia of the brain of the offspring without any significant reduction in their body weights. The hypoplasia may be caused by trichlorfon itself or by its metabolite dichlorvos. This period of development coincides with the growth spurt period of guinea pig brain. The largest changes occurred in the cerebellum. Electron microscopic examination of the cerebellar cortex showed increased apoptotic death of cells in the granule cell layer after trichlorfon treatment. A reduction in thickness of the external germinal layer of the cerebellar cortex and an elevated amount of pyknotic and karyorrhexic cells in the granule cell layer was found. There was a significant reduction in choline esterase, choline acetyltransferase and glutamate decarboxylase activities in the cerebellum. Methylazoxymethanol (15 mg/kg body weight, day 43) was examined for comparison and caused similar hypoplasia of the guinea pig cerebellum, but did also induce a reduction in body weight. Trichloroethanol, the main metabolite of trichlorfon, did not give brain hypoplasia."
+        },
+        {
+            "References": "PMID:18065258",
+            "Value": "/GENOTOXICITY/ Trichlorfon (TCF), an organophosphate insecticide and potent inhibitor of choline esterases, was previously shown to induce first meiotic nondisjunction and spindle aberrations in isolated, follicle cell-denuded mouse oocytes maturing in vitro. To explore dose-response and direct and indirect, potentially synergistic effects of TCF on the somatic cells and the oocyte within a follicle, we presently employed preantral follicle culture. 100 ug/mL TCF added at the time of hormonally stimulated resumption of meiosis of follicle cell-enclosed mouse oocytes, 16 hr before in vitro ovulation, induced significant rises in first meiotic nondisjunction in oocytes from preantral follicle culture. Lower concentrations (6 ug/mL TCF) disturbed polar body formation. Nuclear maturation to meiosis II in absence of cytokinesis resulted in significant increases in polyploidy. Oocytes maturing in follicles in the presence of TCF had aberrant second meiotic spindles. Influences of TCF on somatic cell function were evident by reduced follicular mucification in vitro and deceased progesterone production. In contrast to TCF, acetylcholine (0.1-100 uM) increased progesterone production. The observations therefore suggest that TCF influences oocyte maturation and folliculogenesis directly and indirectly. High TCF is aneugenic at first meiotic division in oocytes, irrespective of the presence or absence of follicle cells. At lower concentrations TCF interferes with spindle formation, chromosome congression at meiosis II, and coordination of nuclear and cytoplasmic maturation, posing risks for second meiotic errors. The observations suggest that chronic TCF exposure during maturation in the follicle may predispose oocytes to the formation of chromosomally unbalanced preimplantation embryos after fertilization."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V30 218 (1983)",
+            "Value": "/GENOTOXICITY/ Trichlorfon (purity not specified) did not induce mutation in Drosophila malanogaster, but because of high toxicity, only low doses could be tested."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data, Trichlorfon, Chemical Code No. 88 p.15 (July 8, 1988, last revised January 6, 1999). Available from, as of July 10, 2017: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/GENOTOXICITY/ Trichlorfon (98.5% purity) was administered to 5 male Chinese hamsters/dose/sampling period through single intraperitoneal injections of 0 (0.5% aqueous Cremophor) or 100 mg/kg; sampling of gonadal cells was performed 6, 24, and 48 hours after treatment (24 hr only for controls). No Adverse effects: no increases in chromosomal aberrations were reported."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data, Trichlorfon, Chemical Code No. 88 p.14-5 (July 8, 1988, last revised January 6, 1999). Available from, as of July 10, 2017: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/GENOTOXICITY/ Trichlorfon, 98.9% purity, single dose administered by gavage at 0 (distilled water), 30, 100, and 300 mg/kg with 6 Chinese hamsters/sex/group. Bone marrow of 5/sex/group was sampled at 24 hours (colcemide 2.5 hours prior to sacrifice). No increase in sister chromatid exchange frequency."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data, Trichlorfon, Chemical Code No. 88 p.13 (July 8, 1988, last revised January 6, 1999). Available from, as of July 10, 2017: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/GENOTOXICITY/ Trichlorfon technical /in a/ gene mutation, Salmonella (TA1535, TA1537, TA1538, TA98, and TA100) and E. coli WP2 (uvrA). 0-10,000 ug/plate. Repeat trials with TA100 and with E. coli WP2 (uvrA). Increases in revertants with TA100 and with E. coli WP2 (uvrA) at higher concentrations, but not with other Salmonella strains."
+        },
+        {
+            "References": "WHO; Environ Health Criteria 132: Trichlorfon p. 60-1 (1992)",
+            "Value": "/GENOTOXICITY/ Trichlorfon induces gene mutation in S. typhimurium and E. coli and in S. cerevisiae. It also induces a mitotic crossing over, gene conversion, and mitotic recombination. The positive results in microorganisms indicate that trichlorfon induces mainly base-pair substitution or mutation in the absence of metabolic activation. Trichlorfon also induces a chlorophyll mutation and chromosomal damage in plants."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 932",
+            "Value": "/GENOTOXICITY/ In a recombinant DNA study, trichlorfon did not inhibit the growth of Bacillus subtillis ... Trichlorfon was inactive in inducing unscheduled DNA synthesis in rat hepatocytes up to levels of severe cytoxicity ..."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 932",
+            "Value": "/GENOTOXICITY/ Under physiological conditions, trichlorfon alkylates DNA (through its conversion to dichlorvos which is more easily demethylated) ... In mice that received a single dose of trichlorfon, liver DNA adducts increased maximally 6 hr after dosing, were substantially reduced 24 hr after dosing, and were undetectable by 48 hr after dosing. Increases in sister chromatid exchanges occurred in the bone marrow of mice treated 24 hr earlier with 120 mg/kg, but not with 30 or 50 mg/kg trichlorfon ... No chromosomal aberrations occurred in the bone marrow or spermatogonia of mice treated with acute doses of 100 mg/kg trichlorfon, and dominant lethal mutations did not significantly increase in mice given 5 ppm trichlorfon for 5 days/wk for 7 wk."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data, Trichlorfon, Chemical Code No. 88 p.18 (July 8, 1988, last revised January 6, 1999). Available from, as of July 10, 2017: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/GENOTOXICITY/ Trichlorfon, technical /was studied with/ Saccharomyces cerevisiae D3 /in a/ mitotic recombination test. Two trials with and without rat liver activation at 0.1, 0.5, 1.0, 2.0, 4.0 or 5.0% concentration; clear and dose-related increase in mitotic recombinants with and without activation/was observed/."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data, Trichlorfon, Chemical Code No. 88 p.17 (July 8, 1988, last revised January 6, 1999). Available from, as of July 10, 2017: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/GENOTOXICITY/ Rat hepatocytes were tested for unscheduled DNA synthesis (UDS) at 0-50 ug/mL (100 ug/mL was toxic), 20 hours, counted grains in 3x50 cells per concentration. No evidence of UDS /was observed/."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data, Trichlorfon, Chemical Code No. 88 p.15 (July 8, 1988, last revised January 6, 1999). Available from, as of July 10, 2017: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/GENOTOXICITY/ Dylox technical (purity = 97.3%) was tested in a sister chromatid exchange assay using Chinese hamster ovary cells at 0 (vehicle = distilled water), 10, 25, 50 and 100 ug/mL (no S-9) or 0, 30, 75, 150 and 300 ug/mL (with S-9). Possible adverse effect. Under conditions of this study, Dylox technical produced a statistically significant increase in sister chromatid exchange both with S-9 (>/= 75 ug/mL) and without S-9 (>/= 50 ug/mL). Positive controls functioned as expected."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data, Trichlorfon, Chemical Code No. 88 p.13 (July 8, 1988, last revised January 6, 1999). Available from, as of July 10, 2017: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/GENOTOXICITY/ Mouse lymphoma 0-125 (-S9) and 0-145 (+S9) ug/mL, cytotoxic at concentrations higher than these; 4 hours incubation, two trials. A significant increase in mutation frequency occurred with and without activation in both trials."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 933",
+            "Value": "/GENOTOXICITY/ Trichlorfon ... produced aneuploidy in genetically engineered human lymphoblastoid cell lines."
+        },
+        {
+            "References": "PMID:12106657",
+            "Value": "/GENOTOXICITY/ ... In the present EU research project, DNA-probes for mouse chromosomes 8, X and Y were employed each labelled with different colours. Male mice were treated with the test chemicals and sperm were sampled from the Caudae epididymes 22-24 days later to allow spermatocytes exposed during meiosis to develop into mature sperm."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V30 218 (1983)",
+            "Value": "/GENOTOXICITY/ Trichlorfon is genotoxic in cultured mammalian cells. It induced unscheduled DNA synthesis in a human epithelloid cell line and in W138 human fibroblasts with and without an uninduced mouse liver microsomal preparation."
+        },
+        {
+            "References": "PMID:6835257",
+            "Value": "/GENOTOXICITY/ Twelve organophosphorus insecticides, including trichlorfon, were tested for toxicity and mutagenicity in the foward mutation test system at the Adeo locus of Schizosaccharomyces pombe. Trichlorfon showed a linear dose-response relation. Trichlorfon tested in combination with malathion, methyl parathion, or azinphos-methyl, produced clearly synergistic effects for toxicity and mutagenicity."
+        },
+        {
+            "References": "PMID:3964078",
+            "Value": "/GENOTOXICITY/ Insecticides ... were examined for their ability to induce chromosomal aberrations in the bone marrow cells of Syrian hamster (Mesocricetus auratus) treated in vivo. Mutagenicity of commercial preparations were examined at four doses: LD50; 1/2, 1/5, 1/10 LD50. The positive control was an ip injection of cyclophosphamide to hamsters at a dose of 40 mg/kg body weight. ... Trichlorfon ... was negative in this test."
+        },
+        {
+            "References": "PMID:17350742",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Trichlorfon, a widely used organophosphorus pesticide, has been reported to disrupt reproductive function in humans. However, the mechanisms have not been clearly elucidated. In the present study, mouse Leydig tumor cells (MLTC-1) was used to evaluate the effect of trichlorfon on progesterone synthesis. After the various concentrations of trichlorfon treatment (0, 0.04, 0.2, 1, 5 or 25 umol/L) for 24 hr, the progesterone production presented a dose-dependent decrease in the presence of some stimulators such as human chorionic gonadotrophin (hCG), cholera toxin (CT) or forskolin. However, the levels of intracellular cAMP remained unaltered, which suggested that trichlorfon suppressed steroidogenesis occurred after PKA activation along cAMP/PKA pathway. Moreover, trichlorfon suppressed the expression of the steroidogenic acute regulatory protein (StAR) mRNA and protein, and also profoundly inhibited the activity of P450 side chain cleavage enzyme (P450scc), rather than 3beta-hydorxysteroid dehydrogenase (3beta-HSD). The suppressive expression of P450scc mRNA and protein further accounted for the inhibitory action of trichlorfon on steroidogenesis. These results indicated that trichlorfon suppressed progesterone synthesis in MLTC-1 cells, at least in part, via inhibiting StAR expression and P450scc activity."
+        },
+        {
+            "References": "PMID:19775726",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Trichlorfon, an organophosphorus pesticide, can disrupt metabolism, reproduction and immune functions of some aquatic animals. In the present study, the effect of trichlorfon on apoptosis and the underlying apoptotic mechanism were investigated in primary cultures of Carassius auratus gibelio hepatocytes. Analyses of cultures exposed to 0, 0.01, 0.1, and 1.0 mg/L trichlorfon concentrations for 24 hr indicated that trichlorfon induced apoptosis and caused nuclear shrinkage, cell membrane rupture, cytoskeletal collapse, loss of cytoplasm, mitochondria vacuolization, and apoptotic body formation, as well as lipid droplet accumulation. Trichlorfon increased intracellular reactive oxygen species and malondialdehyde concentrations and caused cytochrome c release from mitochondria into the cytoplasm, leading to caspase-3 activation. These findings contributed to a better understanding of the mechanisms underlying trichlorfon-induced apoptosis via activation of mitochondrial pathways while clearly indicating that trichlorfon-induced cell death was via apoptosis accompanied by mitochondrial cytochrome c release and consequent caspase-3 activation."
+        },
+        {
+            "References": "PMID:24948063",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Metrifonate is an inhibitor of acetylcholinesterase (AChE). Several studies confirmed its positive effects on cognitive impairment in Alzheimer's disease but it was due to adverse events withdrawn from clinical trials. Based on the importance of astrocytes in physiological and pathological brain activities we investigated the impact of metrifonate and, for comparison, acetylcholine on intrinsic neurotrophic activity in these cells. Metabolic activity, intracellular adenosine 5'-triphosphate (ATP) levels and lactate dehydrogenase (LDH) release was measured to examine the impact of metrifonate on viability and integrity of cultured rat cortical astrocytes. The influence of metrifonate, acetylcholine and selective cholinergic ligands on nerve growth factor (NGF), brain-derived neurotrophic factor (BDNF) and neurotrophin-3 (NT-3) synthesis and secretion was determined by specific two-site enzyme immunoassays. Exposure of cultured astrocytes to metrifonate displayed no toxic effects on cell viability. Metrifonate and acetylcholine potently and transiently elevated NGF and BDNF, but not NT-3, protein levels and secretion with different intensity and time frame of their maximal response. Stimulatory effect on NGF was mimicked by selective nicotinic receptor agonist nicotine and completely blocked by nicotinic antagonist mecamylamine. The impact on BDNF synthesis was mimicked by muscarinic receptor agonist pilocarpine and abolished by selective muscarinic antagonist scopolamine. Metrifonate up-regulates astrocytic NGF and BDNF synthesis in the same manner as acetylcholine, their effect depends on different cholinergic pathways. These results suggest a trophic role of metrifonate, based on a well-known neurotrophic activity of NGF and BDNF in vivo."
+        },
+        {
+            "References": "PMID:15507381",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ To assess the aneugenic activity of TCF in oogenesis, we presently analysed maturation, spindle assembly, and chromosome constitution in mouse oocytes maturing in vitro in the presence of 50 or 100 ug/mL TCF for 16 hr or in pulse-chase experiments. TCF stimulated maturation to meiosis II at 50 microg/ml, but arrested meiosis in some oocytes at 100 ug/mL. TCF at 100 ug/mL was aneugenic causing non-disjunction of homologous chromosomes at meiosis I, a significant increase of the hyperploidy rate at metaphase II, and a significant rise in the numbers of oocytes that contained a 'diploid' set of metaphase II chromosomes (dyads). TCF elevated the rate of precocious chromatid segregation (predivision) at 50 and 100 ug/mL. Pulse-chase experiments with 100 ug/mL TCF present during the first 7 hr or the last 9 hr of maturation in vitro did not affect meiotic progression and induced intermediate levels of hyperploidy at metaphase II. Exposure to > or =50 ug/mL TCF throughout maturation in vitro induced severe spindle aberrations at metaphase II, and over one-third of the oocytes failed to align all chromosomes at the spindle equator (congression failure). These observations suggest that exposure to high concentrations of TCF induces non-disjunction at meiosis I of oogenesis, while lower doses may preferentially cause errors in chromosome segregation at meiosis II due to disturbances in spindle function, and chromosome congression as well as precocious separation of chromatids prior to anaphase II. The data support evidence from other studies that TCF has to be regarded as a germ cell aneugen."
+        },
+        {
+            "References": "PMID:10593598",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ The ability of the carbamate pesticide carbaryl (CB) and the organophosphate pesticide trichlorphon (TCL) to inhibit the outgrowth of axon-like processes was studied using mouse N2a neuroblastoma cells induced to differentiate by serum withdrawal. At concentrations of 1 and 2 ug/mL (4.97 and 9.94 uM), CB did not cause cell death but inhibited the outgrowth of axon-like processes from N2a cells. This effect was noted as early as 24 hr after exposure of the cells to CB. A similar effect was observed with TCL at concentrations of 1 and 2 mug/ml (3.89 and 7.78 uM). Western blot analysis of cell extracts treated with the pesticides showed decreased cross reactivities with the monoclonal antibody RMd09 compared to control extracts. The results indicate that CB and TCL are both able to inhibit axon development and that this effect is associated with reduced levels of the neurofilament high molecular weight protein subunit (NFH)."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 928",
+            "Value": "/IMMUNOTOXICITY/ Trichlorfon ... was a moderate contact allergen in the skin."
+        },
+        {
+            "References": "Rossoff, I.S. Handbook of Veterinary Drugs. New York: Springer Publishing Company, 1974., p. 615",
+            "Value": "/VETERINARY CASE REPORTS/ Do not use in conjunction with or within few days of (before or after) any other cholinesterase inhibitors; avoid use with phenothiazine, phenothiazine tranquilizers, arsenicals, purgatives or drugs producing purgation as side effect. Possibility of adverse reactions in heartworm infested dogs ... suggested. Do not contaminate feed or water except as in product use directions. Apply to cattle as directed only after milking. Skin sensitivity ... reported ... on pets wearing \"flea collars.\"  Avoid use in very young, debilitated, and constipated animals, or those with cirrhotic livers or acute infectious diseases."
+        },
+        {
+            "References": "Humphreys, D.J. Veterinary Toxicology. 3rd ed. London, England: Bailliere Tindell, 1988., p. 171",
+            "Value": "/OTHER TOXICITY INFORMATION/ The oral toxic dose for calves is 5-10 mg/kg, for cattle is 50-100 mg/kg and for sheep is 100-200 mg/kg.  A 1% spray is non-toxic to calves. While single doses of up to 125 mg/kg of trichlorophon are non-toxic, 150 mg/kg will produce intoxication in horses. Single exposure to sprays was non-toxic up to 240 mg/kg."
+        },
+        {
+            "References": "Humphreys, D.J. Veterinary Toxicology. 3rd ed. London, England: Bailliere Tindell, 1988., p. 157",
+            "Value": "/OTHER TOXICITY INFORMATION/ The muscarinic signs of /organophosphorus compounds/ ... consist of hypersalivation, lacrimation, sweating and nasal discharge. Miosis, dyspnea, vomiting, diarrhea and frequent urination also occur. The nicotinic effects consist of fasciculation of the muscles, weakness and paralysis. The central /nervous system/ effects include nervousness, apprehension, ataxia, convulsions and coma. Death is due to respiratory failure, or sometimes cardiac arrest. ... /Organophosphorus compounds/"
+        },
+        {
+            "References": "PMID:9914385",
+            "Value": "/OTHER TOXICITY INFORMATION/ Mouse oocytes exposed for 3 hr during fertilization to 50 ug/mL trichlorfon /were examined/. Spindle morphology was not visibly altered by the pesticide. Chromosomes segregated normally at anaphase II with no induction of aneuploidy. However, formation of a spindle was disturbed in many oocytes resuming meiosis I in the presence of trichlorfon. In spite of the spindle aberrations and the failure of bivalents to align properly at the equator, oocytes did not become meiotically arrested but progressed to metaphase II. At this stage, spindles were highly abnormal, and chromosomes were often totally unaligned, unattached or dispersed on the elongated and disorganized spindle. By causing spindle aberrations and influencing chromosome congression, trichlorfon appears, therefore, to predispose mammalian oocytes to random chromosome segregation, especially when they undergo a first division and develop to metaphase II during exposure."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Schafer RB et al; Environ Sci Technol 45: 1665-72 (2011)",
+            "Value": "SEDIMENT: Trichlorfon was not detected (detection limit 2.0 ug/kg) in sediment samples collected Sep 2008 to Mar 2009 from 24 stream systems in southeast Australia(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Chu W, Chan K-H; Sci Total Environ 248: 1-10 (2000) (2) Dowd JF et al; Environ Toxicol Chem 12: 429-39 (1993) (3) Petrovic AM et al; Chemosphere 27: 1272-7 (1993) (4) Lohniger H; Chemosphere 29: 1611-26 (1994) (5) Sabljic A et al; Chemosphere 31: 4489-514 (1995) (6) Kawamoto K, Urano K; Chemosphere 19: 1223-31 (1989) (7) Swann RL et al; Res Rev 85: 17-28 (1983) (8) Odanaka Y et al; J Pesticide Sci 19: 1-10 (1994)",
+            "Value": "The Koc of trichlorfon has been reported to be 6-79(1-6). According to a classification scheme(7), these Koc values suggests that trichlorfon is expected to have high to very high mobility in soil(SRC). In lysimeter studies designed to simulate golf course fairways and greens, trichlorfon was found to migrate quickly and was detected in the leachate after the first watering event(8)."
+        }
+    ],
+    "plant_translocation": [
+        {
+            "References": "Li, Q., Wang, P., Zou, C., Ge, F., Li, F., Liu, Y., ... & Tian, J. (2023). Dynamics of dominant rhizospheric microbial communities responsible for trichlorfon absorption and translocation in maize seedlings. Journal of Hazardous Materials, 451, 131096.",
+            "Value": "In this study, the available phosphorus (AP) and TCF concentrations in soils and maize (Zea mays) seedling tissues were measured in response to escalating TCF concentrations during 216 hr of culture. Maize seedlings growth considerably enhanced soil TCF degradation, reaching the highest of 73.2% and 87.4% at 216 hr in 50 and 200 mg/kg TCF treatments, respectively, and increased AP contents in all the seedling tissues. Soil TCF was majorly accumulated in seedling roots, reaching maximum concentration of 0.017 and 0.076 mg/kg in TCF-50 and TCF-200, respectively. The hydrophilicity of TCF might hinder its translocation to the aboveground shoot and leaf. Using bacterial 16 S rRNA gene sequencing, we found that TCF addition drastically lessened bacterial community interactions and hindered the complexity of their biotic networks in rhizosphere than in bulk soils, leading to the homogeneity of bacterial communities that were resistant or prone to TCF biodegradation. Mantel test and redundancy analysis suggested a significant enrichment of dominant species Massilia belonging to Proteobacteria phyla, which in turn affecting TCF translocation and accumulation in maize seedling tissues. This study provided new insight into the biogeochemical fate of TCF in maize seedling and the responsible rhizobacterial community in soil TCF absorption and translocation."
+        }
+    ]
+}

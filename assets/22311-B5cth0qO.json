@@ -1,0 +1,111 @@
+{
+    "_id": {
+        "$oid": "6682e93bc4e5dba5ffba2992"
+    },
+    "CID": {
+        "$numberInt": "22311"
+    },
+    "Name": "LIMONENE",
+    "IUPACName": "1-methyl-4-prop-1-en-2-ylcyclohexene",
+    "CanonicalSMILES": "CC1=CCC(CC1)C(=C)C",
+    "Synonyms": [
+        "LIMONENE",
+        "Dipentene",
+        "138-86-3",
+        "Cinene",
+        "Cajeputene",
+        "DL-Limonene",
+        "Kautschin",
+        "Dipenten",
+        "Eulimen",
+        "Nesol",
+        "p-Mentha-1,8-diene",
+        "1,8-p-Menthadiene",
+        "Cajeputen",
+        "Limonen",
+        "Cinen"
+    ],
+    "IsomericSMILES": "CC1=CCC(CC1)C(=C)C",
+    "INCHI": "InChI=1S/C10H16/c1-8(2)10-6-4-9(3)5-7-10/h4,10H,1,5-7H2,2-3H3",
+    "INCHIKEY": "XMGQYMWWDOXHJM-UHFFFAOYSA-N",
+    "Formula": "C10H16",
+    "MolecularWeight": {
+        "$numberDouble": "136.23"
+    },
+    "Description": "Limonene is a monoterpene that is cyclohex-1-ene substituted by a methyl group at position 1 and a prop-1-en-2-yl group at position 4 respectively. It has a role as a human metabolite. It is a cycloalkene and a p-menthadiene.",
+    "XlogP": {
+        "$numberDouble": "3.4"
+    },
+    "Complexity": {
+        "$numberInt": "163"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Tani A et al; Atmos Environ 36: 3391-3402 (2002) (2) He C et al; Chemosphere 2: 65-76 (2000) (3) Winters AJ et al; Atmos Environ 43: 3035-43 (2009) (4) Sakulyanontvittaya T et al; Environ Sci Technol 42: 1623-29 (2008)",
+            "Value": "The flux of combined limonene and beta-phellandrene from a red pine (Pinus densiflora) forest in Japan was measured from May-November 2000(1). The largest values observed were in June with an average flux rate of 1.1 nmol/sq m-sec(1). The measured average emission rate of alpha-pinene and limonene in eucalyptus (Eucalyptus spp) was reported as 3.25 ug/g-hour(2). Limonene emission concentrations were 18, 10, 9, 17 nmol/sq m-min from Eucalyptus camaldulensis, E globulus, E grandis and E viminalis, respectively, in southern Australia(3). Estimated limonene emissions were 40.7, 98.9, 173.9, and 41.5 ug/sq m-hr for broadleaf trees, needle leaf trees, shrubs and bushes, and grasses and crops, respectively, for the United States were between July 2001 and January 2002(4)."
+        },
+        {
+            "References": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Limonene. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Apr 23, 2015: https://www.ars-grin.gov/duke/",
+            "Value": "Limonene concentrations in plants(1).",
+            "Table": "[{'Genus species': 'Citrus limon', 'Family': 'Rutaceae', 'Common name': 'Lemon', 'Part': 'Paricarp essential oil', 'Concn (ppm)': '774,000'}, {'Genus species': 'Apium graveolens', 'Family': 'Apiaceae', 'Common name': 'Celery', 'Part': 'Fruit essential oil; ET', 'Concn (ppm)': '754,000; 695,000'}, {'Genus species': 'Canarium indicum', 'Family': 'Busaraceae', 'Common name': 'Java olive', 'Part': 'Essential oil', 'Concn (ppm)': '135,250'}, {'Genus species': 'Apium graveolens', 'Family': 'Apiaceae', 'Common name': 'Celery', 'Part': 'Root essential oil', 'Concn (ppm)': '117,000'}, {'Genus species': 'Carum carvi', 'Family': 'Apiaceae', 'Common name': 'Caraway', 'Part': 'Fruit', 'Concn (ppm)': '30,180'}, {'Genus species': 'Apium graveolens', 'Family': 'Apiaceae', 'Common name': 'Celery', 'Part': 'Seed', 'Concn (ppm)': '24,000'}, {'Genus species': 'Pycnanthemum virginianum', 'Family': 'Lamiaceae', 'Common name': 'Virginia mountain mint', 'Part': 'Shoot', 'Concn (ppm)': '14,674'}, {'Genus species': 'Pycanthemum clinopodiodes', 'Family': 'Lamiaceae', 'Common name': 'Clinopod mountain mint', 'Part': 'Shoot', 'Concn (ppm)': '10,780'}, {'Genus species': 'Citrus sinensis', 'Family': 'Rutaceae', 'Common name': 'Orange', 'Part': 'Fruit', 'Concn (ppm)': '9,700'}, {'Genus species': 'Elettaria cardamomum', 'Family': 'Zingiberaceae', 'Common name': 'Cardamom', 'Part': 'Fruit', 'Concn (ppm)': '9,481'}, {'Genus species': 'Foeniculum vulgare', 'Family': 'Apiaceae', 'Common name': 'Fennel', 'Part': 'Fruit', 'Concn (ppm)': '9,420'}, {'Genus species': 'Citrus reticulata', 'Family': 'Rutaceae', 'Common name': 'Mandarin', 'Part': 'Fruit', 'Concn (ppm)': '9,400'}, {'Genus species': 'Mentha spicata', 'Family': 'Lamiaceae', 'Common name': 'Spearmint', 'Part': 'Plant', 'Concn (ppm)': '9,075'}, {'Genus species': 'Pycanthemum tenuifolium', 'Family': 'Lamiaceae', 'Common name': 'Slenderleaf mountain mint', 'Part': 'Shoot', 'Concn (ppm)': '8,520'}, {'Genus species': 'Citrus aurantium', 'Family': 'Rutaceae', 'Common name': 'Bitter orange', 'Part': 'Plant', 'Concn (ppm)': '8,000'}, {'Genus species': 'Citrus limon', 'Family': 'Rutaceae', 'Common name': 'Lemon', 'Part': 'Essential oil', 'Concn (ppm)': '8,000'}, {'Genus species': 'Citrus aurantiifolia', 'Family': 'Rutaceae', 'Common name': 'Lime', 'Part': 'Fruit', 'Concn (ppm)': '7,500'}, {'Genus species': 'Zea mays', 'Family': 'Poaceae', 'Common name': 'Corn', 'Part': 'Silk essential oil', 'Concn (ppm)': '7,000'}, {'Genus species': 'Pimenta racemosa', 'Family': 'Myrtaceae', 'Common name': 'Bayrum tree', 'Part': 'Leaf', 'Concn (ppm)': '6,870'}, {'Genus species': 'Pycanthemum pycanthemoides', 'Family': 'Lamiaceae', 'Common name': 'Typical mountain mint', 'Part': 'Shoot', 'Concn (ppm)': '5,800'}, {'Genus species': 'Myristica fragrans', 'Family': 'Myristicaceae', 'Common name': 'Mace', 'Part': 'Seed', 'Concn (ppm)': '5,760'}, {'Genus species': 'Pycnanthemum albescens', 'Family': 'Lamiaceae', 'Common name': 'White mountain mint', 'Part': 'Shoot', 'Concn (ppm)': '5,697'}, {'Genus species': 'Illicium verum', 'Family': 'Illiciaceae', 'Common name': 'Chinese star anise', 'Part': 'Fruit', 'Concn (ppm)': '5,220'}, {'Genus species': 'Thymus vulgaris', 'Family': 'Lamiaceae', 'Common name': 'Common thyme', 'Part': 'Plant', 'Concn (ppm)': '5,200'}, {'Genus species': 'Monarda punctata', 'Family': 'Lamiaceae', 'Common name': 'Horsemint', 'Part': 'Plant', 'Concn (ppm)': '2,874'}, {'Genus species': 'Pycanthemum loomisii', 'Family': 'Lamiaceae', 'Common name': 'Loomis mountain mint', 'Part': 'Shoot', 'Concn (ppm)': '2,520'}, {'Genus species': 'Agastache urticifolia', 'Family': 'Lamiaceae', 'Common name': 'Nettle-leaf giant hyssop', 'Part': 'Plant', 'Concn (ppm)': '2,464'}, {'Genus species': 'Saliva officinalis', 'Family': 'Lamiaceae', 'Common name': 'Sage', 'Part': 'Plant', 'Concn (ppm)': '2,380'}, {'Genus species': 'Pilocarpus jaborandi', 'Family': 'Rutaceae', 'Common name': 'Indian hemp', 'Part': 'Leaf', 'Concn (ppm)': '2,350'}, {'Genus species': 'Pycanthemum curvipes', 'Family': 'Lamiaceare', 'Common name': 'Curver mountain mint', 'Part': 'Shoot', 'Concn (ppm)': '2,323'}, {'Genus species': 'Curcuma longa', 'Family': 'Zingiberaceae', 'Common name': 'Indian saffron', 'Part': 'Essential oil', 'Concn (ppm)': '2,300'}, {'Genus species': 'Mentha pulegium', 'Family': 'Lamiaceae', 'Common name': 'European pennyroyal', 'Part': 'Plant', 'Concn (ppm)': '2,200'}, {'Genus species': 'Trachyspermum ammi', 'Family': 'Apiaceae', 'Common name': 'Ajwan', 'Part': 'Fruit', 'Concn (ppm)': '2,040'}, {'Genus species': 'Rosmarinus officinalis', 'Family': 'Lamiaceae', 'Common name': 'Rosemary', 'Part': 'Plant', 'Concn (ppm)': '1,950'}, {'Genus species': 'Foeniculum vulgare', 'Family': 'Apiaceae', 'Common name': 'Fennel', 'Part': 'Plant', 'Concn (ppm)': '1,800'}, {'Genus species': 'Abies balsamea', 'Family': 'Pinaceae', 'Common name': 'Balsam fir', 'Part': 'Plant', 'Concn (ppm)': '1,800'}, {'Genus species': 'Satureja douglasii', 'Family': 'Lamiaceae', 'Common name': 'Douglas savory', 'Part': 'Plant', 'Concn (ppm)': '1,508'}, {'Genus species': 'Daucus carota', 'Family': 'Apiaceae', 'Common name': 'Carrot', 'Part': 'Seed', 'Concn (ppm)': '1,500'}, {'Genus species': 'Monarda media', 'Family': 'Lamiaceae', 'Common name': 'Mean monarda', 'Part': 'Plant', 'Concn (ppm)': '1,484'}, {'Genus species': 'Petroselinum crispum', 'Family': 'Apiaceae', 'Common name': 'Parsley', 'Part': 'Seed', 'Concn (ppm)': '1,470'}, {'Genus species': 'Eucalyptus citriodora', 'Family': 'Myrtaceae', 'Common name': 'Lemon eucalyptus', 'Part': 'Leaf', 'Concn (ppm)': '1,420'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Li J, Perdue EM; Physicochemical properties of selected monoterpenes. Preprints of papers presented at the 209th ACS National Meeting Anaheim, CA April 2-7, 35(1): 134-7 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Apr 24, 2015:  (3) Franke C et al; Chemosphere 29: 1501-14 (1994)  https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm/",
+            "Value": "An estimated BCF of 480 was calculated for limonene(SRC), using a log Kow of 4.57(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is high, provided the compound is not metabolized by the organism(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Perry JJ; The role of Co-Oxidation and Commensalism in the Biodegradation of Recalcitrant Molecules. US Army Res Off DAAG-29-76-G0159 (1980) (2) Abrams EF et al; Identification of Organic Compounds in Effluents from Industrial Sources. Washington, DC: USEPA-560/3-75-002 (1975) (3) Wilson D, Hrutfiord B; Pulp and Paper Canada 76: 91-3 (1975) (4) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Apr 24, 2015: https://www.safe.nite.go.jp/english/db.html (5) Misra G et al; Appl Microbiol Biotechnol 45: 831-8 (1996)",
+            "Value": "AEROBIC: Organisms isolated from soil and water were unable to oxidize limonene in laboratory experiments(1). Limonene was listed as a compound difficult to biodegrade and was classified in level 3 (difficult to biodegrade) in a 5 tiered rating system on ease of biodegradability(2). The concentration of limonene between the influent and effluent of aerated treatment lagoons was found to decrease significantly which the author ascribed to a biological removal process although complete documentation was not provided(3). Other studies have indicated that limonene is readily biodegradable under aerobic conditions. Limonene, present at 100 mg/L, reached 73% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(4). Terpene-acclimated inocula prepared from soil obtained from a coniferous forest and hardwood forest in North Carolina degraded limonene with a half-life of approximately 9-20 hours at 23 \u00b0C following a lag period of 15-23 hours(5). Degradation by unacclimated inocula did not begin until after a 182-hour lag period(5)."
+        },
+        {
+            "References": "(1) WHO; International Programme on Chemical Safety Concise International Chemical Assessment Document No. 5. Limonene. ISBN 92 4 153005 7 (1998)",
+            "Value": "ANAEROBIC: Limonene is reported to undergo biodegradation under aerobic conditions, but is resistant to biodegradation under anaerobic conditions(1). In a test on methanogenic degradation (batch bioassay inoculated with granular sludge, maintained at 30 \u00b0C), there was no indication of any metabolism of limonene, possibly because of toxicity to the microorganisms(1)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "PMID:10794623",
+            "Value": "Limonene (unspecified isomer) was detected in the leg, body, and carapace of crabs (Charybdis feriatus) at average concentrations of 2.0, 1.1, and 7.6 ug/kg, respectively(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Li J, Perdue EM; Physicochemical properties of selected monoterpenes. Preprints of papers presented at the 209th ACS National Meeting Anaheim, CA April 2-7, 35(1): 134-7 (1995)",
+            "Value": "log Kow = 4.57"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:1934293",
+            "Value": "The anticarcinogenic effects of monocyclic monoterpenes such as limonene were demonstrated when given during the initiation phase of 7,12-dimethylbenz[a]anthracene induced mammary cancer in Wistar-Furth rats. The possible mechanisms for this chemoprevention activity including limonene's effects on 7,12-dimethylbenz(a)anthracene-DNA adduct formation and hepatic metabolism of 7,12-dimethylbenz[a]anthracene were investigated. Twenty four hours after carcinogen administration, there were approx 50% decreases in 7,12-dimethylbenz(a)anthracene-DNA adducts found in control animals formed in the liver, spleen, kidney and lung of limonene fed animals. While circulating levels of 7,12-dimethylbenz(a)anthracene and/or its metabolites were not different in control and limonene fed rats, there was a 2.3 fold increase in 7,12-dimethylbenz(a)anthracene and/or 7,12-dimethylbenz(a)anthracene derived metabolites in the urine of the limonene fed animals. Limonene and sobrerol, a hydroxylated monocyclic monoterpenoid with increased chemoprevention activity, modulated cytochrome p450 and epoxide hydrolyase activity. The 5% limonene diet increased total cytochrome p450 to the same extent as phenobarbital treatment, while 1% sobrerol (isoeffective in chemoprevention to 5% limonene) did not. However, both 5% limonene and 1% sobrerol diets greatly increased the levels of microsomal epoxide hydrolyase protein and associated hydrating activities towards benzo[a]pyrene 4,5-oxide when compared to control and phenobarbital treatment. These changes also modified the rate and regioselectivity of in vitro microsomal 7,12-dimethylbenz(a)anthracene metabolism when compared to phenobarbital treatment or control. Identification of the specific isoforms of cytochrome p450 induced by these terpenoids was performed with antibodies to cytochrome p450 isozymes in Western blot analysis and inhibition studies of microsomal 7,12-dimethylbenz(a)anthracene metabolism. Five percent limonene was more effective than 1% sobrerol at increasing the levels of members of the cytochrome p450 2B and 2C families but was equally effective at increasing epoxide hydrolyase. Furthermore, both terpenoid diets caused increased formation of the proximate carcinogen, 7,12-dimethylbenz(a)anthracene 3,4-dihydrodiol."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) McCreary JJ et al; Chemosphere 12: 1619-32 (1983)",
+            "Value": "SOIL: Limonene was detected in soil samples at the site of a former pine-tar manufacturer in Gainesville, FL, at a concentration ranging from not detected to 920 ug/g(1)."
+        },
+        {
+            "References": "(1) Tassi F et al; Sci Total Environ 407(15): 4513-25 (2009)",
+            "Value": "SOIL: Limonene concentrations at 30, 50, and 70 cm soil depths at the Case Passerini landfill in Florence, Italy. Concentrations in 2 gas recovery wells were <2 ppbV(1).",
+            "Table": "[{'Sample No.': 1, '30 cm depth': 266, '50 cm depth': 180, '70 cm depth': 16}, {'Sample No.': 2, '30 cm depth': 656, '50 cm depth': 605, '70 cm depth': 410}, {'Sample No.': 3, '30 cm depth': 200, '50 cm depth': 249, '70 cm depth': 352}, {'Sample No.': 4, '30 cm depth': 48, '50 cm depth': 22, '70 cm depth': 241}, {'Sample No.': 5, '30 cm depth': 201, '50 cm depth': 30, '70 cm depth': 219}]"
+        },
+        {
+            "References": "(1) Schwarzbauer J et al; Org Geochem 31: 1713-1731 (2000)",
+            "Value": "SEDIMENT: Limonene was identified, not quantified, in sediment samples obtained from the German Bight(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Apr 24, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc for limonene can be estimated to be 1,100(SRC). According to a classification scheme(2), this estimated Koc value suggests that limonene is expected to have low mobility in soil(SRC)."
+        }
+    ]
+}

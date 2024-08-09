@@ -1,0 +1,65 @@
+{
+    "_id": {
+        "$oid": "6682e9a6c4e5dba5ffba2baf"
+    },
+    "CID": {
+        "$numberInt": "667490"
+    },
+    "Name": "Mercaptopurine",
+    "IUPACName": "3,7-dihydropurine-6-thione",
+    "CanonicalSMILES": "C1=NC2=C(N1)C(=S)N=CN2",
+    "Synonyms": [
+        "6-Mercaptopurine",
+        "mercaptopurine",
+        "50-44-2",
+        "Purinethol",
+        "Mercapurin",
+        "6-Thiopurine",
+        "7H-purine-6-thiol",
+        "Mercaleukin",
+        "Leukerin",
+        "Leupurin",
+        "6-Thioxopurine",
+        "Ismipur",
+        "Mern",
+        "6-Thiohypoxanthine",
+        "6-Mercaptopurin"
+    ],
+    "IsomericSMILES": "C1=NC2=C(N1)C(=S)N=CN2",
+    "INCHI": "InChI=1S/C5H4N4S/c10-5-3-4(7-1-6-3)8-2-9-5/h1-2H,(H2,6,7,8,9,10)",
+    "INCHIKEY": "GLVAUDGFNGKCSF-UHFFFAOYSA-N",
+    "Formula": "C5H4N4S",
+    "MolecularWeight": {
+        "$numberDouble": "152.18"
+    },
+    "Description": "Purine-6-thiol is a thiol that is the tautomer of mercaptopurine. It has a role as an antineoplastic agent and an antimetabolite. It is a tautomer of a mercaptopurine. It derives from a hydride of a 7H-purine.",
+    "XlogP": {
+        "$numberDouble": "0"
+    },
+    "Complexity": {
+        "$numberInt": "190"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 11",
+            "Value": "log Kow = 0.01 at pH 7.4"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:27075886",
+            "Value": "The pathogenesis of several neurodegenerative diseases often involves the microglial activation and associated inflammatory processes. Activated microglia release pro-inflammatory factors that may be neurotoxic. 6-Mercaptopurine (6-MP) is a well-established immunosuppressive drug. Common understanding of their immunosuppressive properties is largely limited to peripheral immune cells. However, the effect of 6-MP in the central nervous system, especially in microglia in the context of neuroinflammation is, as yet, unclear. Tumor necrosis factor-alpha (TNF-a) is a key cytokine of the immune system that initiates and promotes neuroinflammation. The present study aimed to investigate the effect of 6-MP on TNF-a production by microglia to discern the molecular mechanisms of this modulation. Lipopolysaccharide (LPS) was used to induce an inflammatory response in cultured primary microglia or murine BV-2 microglial cells. Released TNF-a was measured by enzyme-linked immunosorbent assay (ELISA). Gene expression was determined by real-time reverse transcription polymerase chain reaction (RT-PCR). Signaling molecules were analyzed by western blotting, and activation of NF-kB was measured by ELISA-based DNA binding analysis and luciferase reporter assay. Chromatin immunoprecipitation (ChIP) analysis was performed to examine NF-kB p65 and coactivator p300 enrichments and histone modifications at the endogenous TNF-a promoter. Treatment of LPS-activated microglia with 6-MP significantly attenuated TNF-a production. In 6-MP pretreated microglia, LPS-induced MAPK signaling, I?B-a degradation, NF-kB p65 nuclear translocation, and in vitro p65 DNA binding activity were not impaired. However, 6-MP suppressed transactivation activity of NF-?B and TNF-a promoter by inhibiting phosphorylation and acetylation of p65 on Ser276 and Lys310, respectively. ChIP analyses revealed that 6-MP dampened LPS-induced histone H3 acetylation of chromatin surrounding the TNF-a promoter, ultimately leading to a decrease in p65/coactivator-mediated transcription of TNF-a gene. Furthermore, 6-MP enhanced orphan nuclear receptor Nur77 expression. Using RNA interference approach, we further demonstrated that Nur77 upregulation contribute to 6-MP-mediated inhibitory effect on TNF-a production. Additionally, 6-MP also impeded TNF-a mRNA translation through prevention of LPS-activated PI3K/Akt/mTOR signaling cascades. These results suggest that 6-MP might have a therapeutic potential in neuroinflammation-related neurodegenerative disorders through downregulation of microglia-mediated inflammatory processes."
+        },
+        {
+            "References": "NIH; DailyMed. Current Medication Information for Mercaptopurine (Updated: October 2016). Available from, as of February 6, 2017: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c3b5b8b0-bc5c-4ce9-bbdc-febba60c2658",
+            "Value": "Mercaptopurine (6-MP) competes with hypoxanthine and guanine for the enzyme hyphoxanthine-guanine phosphoribosyltransferase (HGPRTase) and is itself converted to thioinosinic acid (TIMP). This intracellular nucleotide inhibits several reactions involving inosinic acid (IMP), including the conversion of IMP to xanthylic acid (XMP) and the conversion of IMP to adenylic acid (AMP) via adenylosuccinate (SAMP). In addition, 6-methylthioinosinate (MTIMP) is formed by the methylation of TIMP. Both TIMP and MTIMP have been reported to inhibit glutamine-5-phosphoribosylpyrophosphate amidotransferase, the first enzyme unique to the de novo pathway for purine ribonucleotide synthesis. Experiments indicate that radiolabeled mercaptopurine may be recovered from the DNA in the form of deoxythioguanosine. Some mercaptopurine is converted to nucleotide derivatives of 6-thioguanine (6-TG) by the sequential actions of inosinate (IMP) dehydrogenase and xanthylate (XMP) aminase, converting TIMP to thioguanylic acid (TGMP). Animal tumors that are resistant to mercaptopurine often have lost the ability to convert mercaptopurine to TIMP. However, it is clear that resistance to mercaptopurine may be acquired by other means as well, particularly in human leukemias. It is not known exactly which of any one or more of the biochemical effects of mercaptopurine and its metabolites are directly or predominantly responsible for cell death."
+        },
+        {
+            "References": "PMID:25029617",
+            "Value": "Inflammatory bowel disease is characterized by chronic intestinal inflammation. Azathioprine and its metabolite 6-mercaptopurine (6-MP) are effective immunosuppressive drugs that are widely used in patients with inflammatory bowel disease. ... Azathioprine and 6-MP have been shown to affect small GTPase Rac1 in T cells and endothelial cells, whereas the effect on macrophages and gut epithelial cells is unknown. Macrophages (RAW cells) and gut epithelial cells (Caco-2 cells) were activated by cytokines and the effect on Rac1 signaling was assessed in the presence or absence of 6-MP.   Rac1 is activated in macrophages and epithelial cells, and treatment with 6-MP resulted in Rac1 inhibition. In macrophages, interferon-gamma induced downstream signaling through c-Jun-N-terminal Kinase (JNK) resulting in inducible nitric oxide synthase (iNOS) expression. iNOS expression was reduced by 6-MP in a Rac1-dependent manner. In epithelial cells, 6-MP efficiently inhibited tumor necrosis factor-a-induced expression of the chemokines CCL2 and interleukin-8, although only interleukin-8 expression was inhibited in a Rac1-dependent manner. In addition, activation of the transcription factor STAT3 was suppressed in a Rac1-dependent fashion by 6-MP, resulting in reduced proliferation of the epithelial cells due to diminished cyclin D1 expression. These data demonstrate that 6-MP affects macrophages and gut epithelial cells beneficially, in addition to T cells and endothelial cells. Furthermore, mechanistic insight is provided to support development of Rac1-specific inhibitors for clinical use in inflammatory bowel disease."
+        }
+    ]
+}

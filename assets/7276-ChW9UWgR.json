@@ -1,0 +1,68 @@
+{
+    "_id": {
+        "$oid": "6682e874c4e5dba5ffba25ab"
+    },
+    "CID": {
+        "$numberInt": "7276"
+    },
+    "Name": "STYRENE-7,8-OXIDE",
+    "IUPACName": "2-phenyloxirane",
+    "CanonicalSMILES": "C1C(O1)C2=CC=CC=C2",
+    "Synonyms": [
+        "Styrene oxide",
+        "2-Phenyloxirane",
+        "96-09-3",
+        "Phenyloxirane",
+        "1,2-Epoxyethylbenzene",
+        "Epoxystyrene",
+        "Phenylethylene oxide",
+        "Oxirane",
+        "phenyl-",
+        "Styrene epoxide",
+        "Styryl oxide",
+        "Phenethylene oxide",
+        "Styrene 7,8-oxide",
+        "1-Phenyloxirane",
+        "Styreneoxide",
+        "Phenyl oxirane"
+    ],
+    "IsomericSMILES": "C1C(O1)C2=CC=CC=C2",
+    "INCHI": "InChI=1S/C8H8O/c1-2-4-7(5-3-1)8-6-9-8/h1-5,8H,6H2",
+    "INCHIKEY": "AWMVMTVKBNGEAK-UHFFFAOYSA-N",
+    "Formula": "C8H8O",
+    "MolecularWeight": {
+        "$numberDouble": "120.15"
+    },
+    "Description": "Styrene oxide is an epoxide that is oxirane in which one of the hydrogens has been replaced by a phenyl group. It has a role as a human xenobiotic metabolite. It derives from a hydride of a styrene.",
+    "XlogP": {
+        "$numberDouble": "1.6"
+    },
+    "Complexity": {
+        "$numberInt": "94"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Biodegradation and bioaccumulation data of existing chemicals based on the CSCL Japan. Japan Chemical Industry Ecology - Toxicology and Information Center. ISBN 4-89074-101-1 p. 3-85 (1992)",
+            "Value": "AEROBIC: Styrene-7,8-oxide, present at 100 mg/L, reached 80-82% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L and the Japanese MITI test(1); however, the test results might be for the hydrolysis product, styrene glycol(SRC)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 41",
+            "Value": "log Kow = 1.61"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:16311010",
+            "Value": "The measurement of primary DNA damage caused by oxirane chemicals can be confounded by apoptotic-generated DNA autolysis. The apoptogenic potential of oxiranes requires knowledge of the relationship between the apoptotic threshold dose and cytotoxic dose for interpretation of DNA damage assays. This research determined the relationship between cytotoxic and apoptotic doses for seven simple oxiranes of varying structure. This relationship between cytotoxic and apoptotic thresholds was determined simultaneously in in vitro cell culture. L929 cells in log-phase growth were exposed to the oxiranes for 24 hr in 25 sq cm and then assayed fluorometrically in 96-well plates for Caspase 3. Viability was assessed using Trypan Blue exclusion and loss of Caspase 3 activity. Ranked apoptotic potency was: diepoxybutane (DEB)>styrene oxide (SO)>phenyl glycidyl ether (PGE)>epichlorhydrin (EPI)>glycidol (GLY)>epoxybutane (EB)>epoxycyclohexane (ECH). Relative cytotoxicity was significantly correlated (r(s)=0.86, p=0.02) with potencies: DEB>EPI>PGE>SO>GLY>EB>ECH. These structurally-diverse, simple oxiranes were all capable of inducing apoptosis at doses several-fold below their cytotoxic concentrations. Difunctionality and aromaticity were key predictors of potency for both. Caspase 3 activity was an accurate indicator of necrosis which correlated with Trypan Blue results."
+        },
+        {
+            "References": "DHHS/NTP; SUBSTANCE PROFILES REPORT ON CARCINOGENS, ELEVENTH EDITION: Styrene-7,8-Oxide CAS No. 96-09-3 p.1. Available from, as of July 19, 2008: https://ntp.niehs.nih.gov/",
+            "Value": "Styrene oxide-DNA adducts have been found in several organs in mice and in cultured mammalian cells exposed to styrene oxide ... . A study of workers in a boat-making facility where styrene concentrations ranged from 1 to 235 mg/cu m (mean of 65.6 mg/cu m, or 13.3 ppm) found elevated levels of styrene oxide-DNA adducts in mononuclear cells ... . DNA adducts in rodents and humans appear to be similar. ... DNA and albumin adducts were found in the blood of plastics workers exposed to styrene oxide ... . Low levels of covalent binding of styrene oxide to DNA were observed in the stomachs of rats given styrene oxide orally ... ."
+        }
+    ]
+}

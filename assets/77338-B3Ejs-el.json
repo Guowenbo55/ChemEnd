@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "66927127303528b49832d81f"
+    },
+    "CID": {
+        "$numberInt": "77338"
+    },
+    "Name": "4,6-Dichloro-2-phenylpyrimidine",
+    "IUPACName": "4,6-dichloro-2-phenylpyrimidine",
+    "CanonicalSMILES": "C1=CC=C(C=C1)C2=NC(=CC(=N2)Cl)Cl",
+    "Synonyms": [
+        "4,6-Dichloro-2-phenylpyrimidine",
+        "Fenclorim",
+        "3740-92-9",
+        "Pyrimidine",
+        "4,6-dichloro-2-phenyl-",
+        "Fenclorim [ISO]",
+        "CHEBI:81993",
+        "2-Phenyl-4,6-dichloropyrimidine",
+        "53665T9BHJ",
+        "MFCD00754193",
+        "NSC-27713",
+        "Fenclorime",
+        "NSC 27713",
+        "CGA-123407",
+        "BRN 0142293",
+        "Fenchlorim"
+    ],
+    "IsomericSMILES": "C1=CC=C(C=C1)C2=NC(=CC(=N2)Cl)Cl",
+    "INCHI": "InChI=1S/C10H6Cl2N2/c11-8-6-9(12)14-10(13-8)7-4-2-1-3-5-7/h1-6H",
+    "INCHIKEY": "NRFQZTCQAYEXEE-UHFFFAOYSA-N",
+    "Formula": "C10H6Cl2N2",
+    "MolecularWeight": {
+        "$numberDouble": "225.07"
+    },
+    "Description": "Fenclorim is a member of pyrimidines and an organohalogen compound.",
+    "XlogP": {
+        "$numberDouble": "4.2"
+    },
+    "Complexity": {
+        "$numberInt": "173"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Under greenhouse conditions, the influence of the safener fenclorim and the synergist tridiphane on the uptake, translocation, and metabolism of the herbicide pretilachlor was studied in 15-day-old rice seedlings. Water-sown rice (Oryza sativa L., var. \"Lemont\") was hydroponically grown in a nutrient solution containing 10 pM of [14C]pretilachlor, and seedlings were harvested after 6, 24, and 48 hours of exposure. Fenclorim and tridiphane were also used at 10 pM in the nutrient solution when needed. The uptake of root-applied pretilachlor by control or fenclorim-treated rice seedlings increased steadily with time. However, fenclorim and tridiphane significantly reduced the root uptake of pretilachlor by rice seedlings at 24 and 48 hours after application of [14C]pretilachlor. TLC analysis of water-soluble pretilachlor extracts from rice roots and shoots revealed five major metabolites of pretilachlor. Fenclorim enhanced the metabolism of pretilachlor via conjugation to reduced glutathione (GSH) at all time intervals. This safener-induced enhancement of the glutathione-mediated metabolism of pretilachlor was coupled with a concomitant decrease in the amount of radioactivity corresponding to the parent herbicide, and was more pronounced in root extracts than in shoot extracts. Tridiphane slightly reduced the formation of the glutathione conjugate of pretilachlor in both roots and shoots of treated rice seedlings, but only at the 48-hour time period. The effect of fenclorim on the nonenzymatic formation of the glutathione conjugate of pretilachlor was also studied. Fenclorim, used over a range of concentrations (1 to 160 \u03bcM), increased the reactivity of pretilachlor with GSH in a concentration-dependent manner. These results suggest that the protection afforded by fenclorim to rice appears to result from a fenclorim-mediated reduction in the root uptake of pretilachlor and an enhancement of the metabolism of pretilachlor via enzymatic or nonenzymatic conjugation with GSH.",
+            "reference": "Han, S., & Hatzios, K. K. (1991). Uptake, translocation, and metabolism of [14C] pretilachlor in fenclorim-safened and unsafened rice seedlings. Pesticide biochemistry and physiology, 39(3), 281-290.",
+            "method": {
+                "Test Plant": "\"Lemont\" rice",
+                "Apply Location": "Root application (hydroponic)",
+                "Plant Grown Condition": "Seeds screened in salted water, washed, imbibed for 48 h. Germinated in dark at 30\u00b0C for 2 days. Maintained in greenhouse at 25 \u00b1 5\u00b0C, 16 h photoperiod.Three-leaf stage seedlings selected for experiments",
+                "Chemical Preparation": "Analytical grade pretilachlor (99% pure). Radiolabelled [14C]pretilachlor (uniformly ring-labeled, 12.0 mCi/mmol specific activity). Analytical grade fenclorim (99.6% pure) and tridiphane",
+                "Pesticide Application Details for the Plant": "0.25 \u03bcCi of 10 \u03bcM [14C]pretilachlor applied to hydroponic nutrient solution. Fenclorim and tridiphane also used at 10 \u03bcM when required. Seedlings harvested at 6, 24, 48 h after treatment",
+                "Other information and Other Information": "Roots washed to remove surface radioactivity. Uptake/translocation quantified by combustion oxidation and liquid scintillation spectrometry"
+            },
+            "result": "[{\"Hours after application\": 6, \"Roots (ratio of water-soluble to dichloromethane-soluble fraction)\": 1.107, \"Shoots (ratio)\": 1.476}, {\"Hours after application\": 24, \"Roots (ratio of water-soluble to dichloromethane-soluble fraction)\": 1.256, \"Shoots (ratio)\": 1.399}, {\"Hours after application\": 48, \"Roots (ratio of water-soluble to dichloromethane-soluble fraction)\": 1.415, \"Shoots (ratio)\": 1.559}]"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "6692710b303528b49832d7b0"
+    },
+    "CID": {
+        "$numberInt": "43226"
+    },
+    "Name": "Fenarimol",
+    "IUPACName": "(2-chlorophenyl)-(4-chlorophenyl)-pyrimidin-5-ylmethanol",
+    "CanonicalSMILES": "C1=CC=C(C(=C1)C(C2=CC=C(C=C2)Cl)(C3=CN=CN=C3)O)Cl",
+    "Synonyms": [
+        "FENARIMOL",
+        "60168-88-9",
+        "Rubigan",
+        "Rimidin",
+        "BLOC",
+        "(2-Chlorophenyl)(4-chlorophenyl)(pyrimidin-5-yl)methanol",
+        "EL 222",
+        "(+/-)-Fenarimol",
+        "EL 222;Rubigan",
+        "CHEMBL28971",
+        "DTXSID2032390",
+        "CHEBI:83686",
+        "O088GU930Q",
+        "5-Pyrimidinemethanol",
+        ".alpha.-(2-chlorophenyl)-.alpha.-(4-chlorophenyl)-",
+        "Fenarimol 1000 microg/mL in Acetone"
+    ],
+    "IsomericSMILES": "C1=CC=C(C(=C1)C(C2=CC=C(C=C2)Cl)(C3=CN=CN=C3)O)Cl",
+    "INCHI": "InChI=1S/C17H12Cl2N2O/c18-14-7-5-12(6-8-14)17(22,13-9-20-11-21-10-13)15-3-1-2-4-16(15)19/h1-11,22H",
+    "INCHIKEY": "NHOWDZOIZKMVAI-UHFFFAOYSA-N",
+    "Formula": "C17H12Cl2N2O",
+    "MolecularWeight": {
+        "$numberDouble": "331.2"
+    },
+    "Description": "(2-chlorophenyl)(4-chlorophenyl)pyrimidin-5-ylmethanol is a member of the class of pyrimidines that is pyrimidin-5-ylmethanol in which one of the hydrogens attached to the carbon bearing the hydroxy group is replaced by a 2-chlorophenyl group while the other is replaced by a 4-chlorophenyl group. It is a tertiary alcohol, a member of monochlorobenzenes and a member of pyrimidines.",
+    "XlogP": {
+        "$numberDouble": "3.6"
+    },
+    "Complexity": {
+        "$numberInt": "357"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The systemic movement of several xenobiotics was compared in soybean and barley. The more symplastic compounds were also compared to the movement of sucrose. The uptake and efflux from potato tuber tissue were studied and related to the in vivo translocation patterns. The patterns of translocation ranged from primarily apoplastic to ambimobile to symplastic. When the percentage of xenobiotic available for translocation was evaluated, there were major differences in patterns of translocation, primarily between plant genera. In barley, fenapanil, fenarimol, and oxamyl exhibited apoplastic transport, while all three were more ambimobile in soybean. Basipetal transport of oxamyl was 4.2% in barley compared to 30.8% in soybean. Basipetal translocation of benomyl remained very low at 3.0% and 4.1% in barley and soybean, respectively, while sucrose was about 60% in both species. Glyphosate and sucrose were translocated in a similar pattern. The transport of 2,4-D was primarily symplastic; however, retention in the tissue appeared to limit the rate of movement compared to sucrose. Uptake and efflux of fenapanil, fenarimol, and 2,4-D illustrated the possible role that cellular binding or partitioning may play in systemic translocation. In conjunction with the uptake and efflux, the octanol-water coefficients, log P, for fenarimol and fenapanil, 0.67 and -0.03, respectively, are correlated with the possible role of cellular binding or partitioning in the systemic movement of xenobiotics.",
+            "reference": "Martin, R. A., & Edgington, L. V. (1981). Comparative systemic translocation of several xenobiotics and sucrose. Pesticide Biochemistry and Physiology, 16(2), 87-96.",
+            "method": {
+                "Test Plant": "Barley (Hordeum vulgare L. cv. Fergus) and soybean (Glycine max L. cv. Evans)",
+                "Apply Location": "Foliar (abraded band on barley 2nd leaf or soybean unifoliate leaf)",
+                "Plant Growth Condition": "Grown in silica sand, supplied with half-strength Hoagland's solution every 2-3 days. 16h photoperiod with 350 \u03bceinsteins/m2/s from cool white fluorescent + incandescent lights at 22\u00b0C day/18\u00b0C night, 65-75% RH.",
+                "Chemical Preparation": "See Table 1 for test compounds, specific activities, amounts applied, label position, and sources. Treatment solutions made in 50% ethanol with 0.05% Tween 20.",
+                "Pesticide Application Details for the Plant": "20 \u03bcL treatment solution applied to 20mm abraded band on barley 2nd leaf at 3-leaf stage or soybean unifoliate leaf.",
+                "Other Information": "Two series - 1) fenapanil, fenarimol, benomyl, oxamyl, glyphosate; 2) oxamyl, glyphosate, 2,4-D, sucrose. 6-8 reps per treatment. Harvests after 3d (series 1) or 6h (series 2). Treated bands washed with acetone or ethanol to measure penetration. Plants sectioned into treated band, above, below, remaining shoots, roots."
+            },
+            "result": "[{\"Plant\": \"Barley\", \"Recovered in treat zone (% of applied)\": 60.4, \"Above treated area (% of total translocated)\": 97.0, \"Below treated area (%)\": 1.4, \"Rest of shoot (%)\": 0.5, \"Roots (%)\": 1.1, \"Opposite (%)\": \"-\", \"Apex (%)\": \"-\"}, {\"Plant\": \"Soybean\", \"Recovered in treat zone (% of applied)\": 96.8, \"Above treated area (% of total translocated)\": 86.6, \"Below treated area (%)\": 9.9, \"Rest of shoot (%)\": 0.7, \"Roots (%)\": 0.3, \"Opposite (%)\": \"0.2\", \"Apex (%)\": \"2.4\"}]"
+        }
+    ]
+}

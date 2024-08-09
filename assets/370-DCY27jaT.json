@@ -1,0 +1,71 @@
+{
+    "_id": {
+        "$oid": "6682e7d4c4e5dba5ffba228c"
+    },
+    "CID": {
+        "$numberInt": "370"
+    },
+    "Name": "GALLIC ACID",
+    "IUPACName": "3,4,5-trihydroxybenzoic acid",
+    "CanonicalSMILES": "C1=C(C=C(C(=C1O)O)O)C(=O)O",
+    "Synonyms": [
+        "Gallic acid",
+        "149-91-7",
+        "3,4,5-Trihydroxybenzoic acid",
+        "gallate",
+        "Benzoic acid",
+        "3,4,5-trihydroxy-",
+        "Gallic acid",
+        "tech.",
+        "Kyselina gallova",
+        "Pyrogallol-5-carboxylic acid",
+        "GALOP",
+        "HSDB 2117",
+        "CCRIS 5523",
+        "3,4,5-Trihydroxybenzoate",
+        "MFCD00002510",
+        "NSC 674319",
+        "CHEBI:30778"
+    ],
+    "IsomericSMILES": "C1=C(C=C(C(=C1O)O)O)C(=O)O",
+    "INCHI": "InChI=1S/C7H6O5/c8-4-1-3(7(11)12)2-5(9)6(4)10/h1-2,8-10H,(H,11,12)",
+    "INCHIKEY": "LNTHITQWFMADLM-UHFFFAOYSA-N",
+    "Formula": "C7H6O5",
+    "MolecularWeight": {
+        "$numberDouble": "170.12"
+    },
+    "Description": "Gallic acid is a trihydroxybenzoic acid in which the hydroxy groups are at positions 3, 4, and 5. It has a role as an astringent, a cyclooxygenase 2 inhibitor, a plant metabolite, an antioxidant, an antineoplastic agent, a human xenobiotic metabolite, an EC 1.13.11.33 (arachidonate 15-lipoxygenase) inhibitor, an apoptosis inducer and a geroprotector. It is a conjugate acid of a gallate.",
+    "XlogP": {
+        "$numberDouble": "0.7"
+    },
+    "Complexity": {
+        "$numberInt": "169"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, And Steric Constants. ACS Prof Ref Book. Washington, DC: American Chemical Society (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF value of 2 was calculated for gallic acid(SRC), using an experimental log Kow of 0.70(1,SRC) and a recommended regression-derived equation(2). According to a classification scheme(3), this BCF value suggests that bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Heukelekian H, Rand MC; J Water Pollut Contr Assoc 27:1040- 53 (1955) (2) Pitter P; Water Res 10: 231-5 (1976) (3) Niemi GJ et al; Environ Toxicol Chem 6: 515-27 (1987) (4) Huntjens JLM et al; Plant and Soil 61: 227-42 (1981) (5) Kaiser JP, Hanselmann KW; Experinetia 38: 167-76 (1982)",
+            "Value": "AEROBIC: An aerobic biodegradation study of gallic acid, based on BOD measurements, using a sewage inoculum at 20 \u00b0C and an unknown gallic acid concentration, indicated 0.08 percent BODT, over a period of 5 days(1). An aerobic biodegradation study of gallic acid, based on COD measurements, using an activated sludge inoculum of 100 mg/l and an initial pyrogallic acid concentration of 200 ppm, indicated 90.5 percent COD removal over a period of 5 days at pH=7.2 and 20 \u00b0C(2). An aerobic biodegradation study of gallic acid, based on BOD measurements, using an acclimated sewage inoculum at and an unknown gallic acid concentration, indicated 0 percent BODT, over a period of 5 days(3). The carbon dioxide evolution from pasture soil (pH=6.7) and arable sandy soil (pH=6.2) was studied after addition of gallic acid to the soil and an incubation period of 300 hours at 13 \u00b0C and 20 \u00b0C(4). The decomposition of gallic acid, reflected as carbon dioxide production, became exponential within 10 hours(4). ANAEROBIC: Under both aerobic and anaerobic conditions, gallic acid is mineralized to methane and carbon dioxide in the presence of certain Rhodospirillaceae(5)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 29",
+            "Value": "log Kow = 0.70"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, And Steric Constants. ACS Prof Ref Book. Washington, DC: American Chemical Society (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 23 (1983)",
+            "Value": "The Koc of gallic acid is estimated as approximately 57(SRC), using a measured log Kow of 0.70(1) and a regression-derived equation(2,SRC). According to a recommended classification scheme(3), this estimated Koc value suggests that gallic acid is expected to have high mobility in soil(SRC)."
+        }
+    ]
+}

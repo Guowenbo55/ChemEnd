@@ -1,0 +1,74 @@
+{
+    "_id": {
+        "$oid": "6692711d303528b49832d7f7"
+    },
+    "CID": {
+        "$numberInt": "32154"
+    },
+    "Name": "Propyzamide",
+    "IUPACName": "3,5-dichloro-N-(2-methylbut-3-yn-2-yl)benzamide",
+    "CanonicalSMILES": "CC(C)(C#C)NC(=O)C1=CC(=CC(=C1)Cl)Cl",
+    "Synonyms": [
+        "Propyzamide",
+        "23950-58-5",
+        "PRONAMIDE",
+        "3,5-dichloro-N-(2-methylbut-3-yn-2-yl)benzamide",
+        "3,5-Dichloro-N-(1,1-dimethylpropynyl)benzamide",
+        "KERB",
+        "Pronamid",
+        "3,5-Dichloro-N-(1,1-dimethyl-2-propynyl)benzamide",
+        "Pronamide (Kerb)",
+        "KERB 50W",
+        "RH 315",
+        "3,5-Dichloro-N-(1,1-dimethylprop-2-ynyl)benzamide",
+        "Promamide",
+        "N-(1,1-Dimethylpropynyl)-3,5-dichlorobenzamide",
+        "Benzamide",
+        "3,5-dichloro-N-(1,1-dimethyl-2-propynyl)-"
+    ],
+    "IsomericSMILES": "CC(C)(C#C)NC(=O)C1=CC(=CC(=C1)Cl)Cl",
+    "INCHI": "InChI=1S/C12H11Cl2NO/c1-4-12(2,3)15-11(16)8-5-9(13)7-10(14)6-8/h1,5-7H,2-3H3,(H,15,16)",
+    "INCHIKEY": "PHNUZKMIPFFYSO-UHFFFAOYSA-N",
+    "Formula": "C12H11Cl2NO",
+    "MolecularWeight": {
+        "$numberDouble": "256.12"
+    },
+    "Description": "Propyzamide is a member of the class of benzamides resulting from the formal condensation of the carboxy group of 3,5-dichlorobenzoic acid with the amino group of 2-methylbut-3-yn-2-amine. It is used as a systemic post-emergent herbicide for the control grass and broadleaf weeds in a wide range of in a wide variety of fruit and root crops. It has a role as a herbicide and an agrochemical. It is a dichlorobenzene, a terminal acetylenic compound and a member of benzamides.",
+    "XlogP": {
+        "$numberDouble": "3.2"
+    },
+    "Complexity": {
+        "$numberInt": "308"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Witloof chicory {Cichorium intybus L.) is tolerant to propyzamide and common amaranth (Amaranthus retroflexus L.) is sensitive. The absorption, translocation. and metabolism of propyzamide was studied in seedlings of witloof chicory and common amaranth to determine if differences in these processes cause the differential sensitivity. At 24, 48, and 72 h after root treatment, there was no difference in the concentration of propyzamide in common amaranth and witloof chicory. Approximately 50% of the absorbed 14C was translocated out of the roots to shoots of both species at 24 and 48 h after treatment. After 72 h about 55 and 74% of the absorbed propyzamide was translocated to shoots of witloof chicory and common amaranth, respectively. Distribution of propyzamide in plant parts of witloof chicory and common amaranth seedlings was similar. Roots of both species accumulated the highest concentration of total propyzamide whereas shoots contained the lowest. Thin-layer chromatography revealed that the herbicide was metabolized in neither species 48 h after treatment. No differences were found in absorption, translocation. or metabolism between witloof chicory and common amaranth with regard to propyzamide.",
+            "reference": "MERSIE, W. (1995). Absorption, translocation, and fate of propyzamide in witloof chicory (Cichorium intybus L.) and common amaranth (Amaranthus retroflexus L.). Weed Research, 35(1), 15\u201318. doi:10.1111/j.1365-3180.1995.tb02011.x\u00a0",
+            "method": {
+                "Test Plant": "Witloof chicory cv. Bea and common amaranth",
+                "Apply Location": "Roots partially immersed into Hoagland & Arnon solution",
+                "Plant Grown Condition": "Germinated in trays containing vermiculite, grown in a laboratory under incandescent and fluorescent light supplying 250 \u00b5mol s^-1 m^-2 at 28/18\u00b0C day/night temperature, 70% relative humidity, and a 14-h photoperiod. Irrigated with half-strength Hoagland & Arnon solution every second day.",
+                "Chemical Preparation": "Nutrient solution containing ring-labelled ['^14C]propyzamide (198-3 kBq M^-1mol^-1) with 99.8% purity, final ethanol concentration of 0.08% (v/v).",
+                "Pesticide Application Details for the Plant": "One seedling of witloof chicory or common amaranth was transferred to a 125-ml flask covered with aluminum foil containing Hoagland & Arnon solution. Plants were treated with [14C]propyzamide and harvested 24, 48, or 72 h after treatment. Volume of the nutrient solution remaining in each flask was measured, and radioactivity was quantified using a liquid scintillation spectrometer (LSS) with correction for quenching. Roots were washed, and radioactivity was measured. Witloof chicory seedlings were sectioned into roots and shoots, whereas common amaranth plants were partitioned into root, stem, and leaves.",
+                "Other Information": "-"
+            },
+            "result": "[{\"Plant            Time After Application  Total Absorbed (Bq/g)  % Translocated  Root (Bq/g)  Shoot (Bq/g)  Stem (Bq/g)  Leaves (Bq/g)\": \"Witloof Chicory  24 hours               6700                   51              6052         740           -            -\"}, {\"Plant            Time After Application  Total Absorbed (Bq/g)  % Translocated  Root (Bq/g)  Shoot (Bq/g)  Stem (Bq/g)  Leaves (Bq/g)\": \"Witloof Chicory  48 hours               10500                  48              9745         941           -            -\"}, {\"Plant            Time After Application  Total Absorbed (Bq/g)  % Translocated  Root (Bq/g)  Shoot (Bq/g)  Stem (Bq/g)  Leaves (Bq/g)\": \"Witloof Chicory  72 hours               10000                  55              7881         1484          -            -\"}, {\"Plant            Time After Application  Total Absorbed (Bq/g)  % Translocated  Root (Bq/g)  Shoot (Bq/g)  Stem (Bq/g)  Leaves (Bq/g)\": \"Common Amaranth  24 hours               11500                  57              8551         -             2271         547\"}, {\"Plant            Time After Application  Total Absorbed (Bq/g)  % Translocated  Root (Bq/g)  Shoot (Bq/g)  Stem (Bq/g)  Leaves (Bq/g)\": \"Common Amaranth  48 hours               10000                  50              7022         -             1162         1122\"}, {\"Plant            Time After Application  Total Absorbed (Bq/g)  % Translocated  Root (Bq/g)  Shoot (Bq/g)  Stem (Bq/g)  Leaves (Bq/g)\": \"Common Amaranth  72 hours               11000                  74              6978         -             3018         773\"}]"
+        },
+        {
+            "content": "The study investigated the absorption, translocation, and metabolism of [14C]pronamide, [14C]glyphosate, and [14C]imazapyr in the Orobanche cumana\u2013sunflower system. [14C]Pronamide was applied as a sunflower seed treatment by coating or soaking, affecting herbicide absorption but not the subsequent distribution within the plant. Translocation of [14C]pronamide from treated seed to the plant was greater for the coating treatment, with leaves containing the largest amount of herbicide. For [14C]glyphosate and [14C]imazapyr applied post-emergence to sunflower, translocation within the host plant did not differ between parasitized and non-parasitized plants, with most radioactivity remaining in the treated leaf. Translocation of [14C]glyphosate to O. cumana reached 5.5% at 3 days after treatment (DAT). [14C]Imazapyr was absorbed more by the treated leaf than [14C]glyphosate at 1 DAT, with higher levels accumulated by O. cumana. Metabolism of [14C]imazapyr showed a constant presence in the treated leaf but a higher proportion of the parent compound in O. cumana, suggesting its control by this herbicide.",
+            "reference": "D\u0131az-Sanchez, J., Lopez-Mart\u0131nez, N., L\u00f3pez-Granados, F., De Prado, R., & Garc\u0131a-Torres, L. (2002). Absorption, translocation, and fate of herbicides in Orobanche cumana\u2013sunflower system. Pesticide Biochemistry and Physiology, 74(1), 9-15.",
+            "method": {
+                "Test Plant": "Sunflower (Helianthus annuus L. var. Vyp)",
+                "Apply Location": "Seed treatment (coating and soaking) for pronamide,",
+                "Plant Grown Condition": "Seeds were germinated in petri dishes at 21\u00b0C, then seedlings transplanted to 20x20 cm plastic pots with peat soil (sand:loam 1:1 mix). Growing conditions were 25/20\u00b0C day/night, 70% relative humidity, 220 \u03bcmol/m2/s light intensity for 14 h photoperiod. For infested plants, 50 mg Orobanche cumana seeds were inoculated per pot at transplanting. Plants were watered as needed and given Hoagland solution weekly.",
+                "Chemical Preparation": "[14C]Pronamide stock of 0.1 \u03bcCi/\u03bcL in methanol",
+                "Pesticide Application Details for the Plant": "Seeds coated by stirring in 2:1 dressing substance:water with radioactive solution at 1 g seeds/mL for 3 min, or soaked for 5 min in 5 mL solution",
+                "Other Information": "Radioactivity was measured by combustion and liquid scintillation counting in seed coat, embryo, leaves, roots and Orobanche plants at different time points up to 8 weeks after treatment."
+            },
+            "result": "[{\"Treatment\": \"Coating + infested\", \"Leaves (% of applied)\": 2.45, \"Root (%)\": \"0.20\", \"Seed coat (%)\": 0.21}, {\"Treatment\": \"Coating + Non-infested\", \"Leaves (% of applied)\": 3.24, \"Root (%)\": \"1.1.\", \"Seed coat (%)\": 0.32}, {\"Treatment\": \"Soaking + Infested\", \"Leaves (% of applied)\": 0.64, \"Root (%)\": \"0.15\", \"Seed coat (%)\": 0.1}, {\"Treatment\": \"Soaking + Non-infested\", \"Leaves (% of applied)\": 0.7, \"Root (%)\": \"0.42\", \"Seed coat (%)\": 0.11}]"
+        }
+    ]
+}

@@ -1,0 +1,323 @@
+{
+    "_id": {
+        "$oid": "6682e941c4e5dba5ffba29b2"
+    },
+    "CID": {
+        "$numberInt": "24085"
+    },
+    "Name": "MERCURIC CHLORIDE",
+    "IUPACName": "dichloromercury",
+    "CanonicalSMILES": "Cl[Hg]Cl",
+    "Synonyms": [
+        "MERCURIC CHLORIDE",
+        "Dichloromercury",
+        "Mercury(II) chloride",
+        "Sublimate",
+        "Mercury bichloride",
+        "Corrosive sublimate",
+        "Mercury dichloride",
+        "Mercuric bichloride",
+        "Mercury perchloride",
+        "7487-94-7",
+        "Sublimat",
+        "Chlorure mercurique",
+        "HgCl2",
+        "Calochlor",
+        "Fungchex"
+    ],
+    "IsomericSMILES": "Cl[Hg]Cl",
+    "INCHI": "InChI=1S/2ClH.Hg/h2*1H;/q;;+2/p-2",
+    "INCHIKEY": "LWJROJCJINYWOX-UHFFFAOYSA-L",
+    "Formula": "Cl2Hg",
+    "MolecularWeight": {
+        "$numberDouble": "271.5"
+    },
+    "Description": "Mercury dichloride is a mercury coordination entity made up of linear triatomic molecules in which a mercury atom is bonded to two chlorines. Water-soluble, it is highly toxic. Once used in a wide variety of applications, including preserving wood and anatomical specimens, embalming and disinfecting, as an intensifier in photography, as a mordant for rabbit and beaver furs, and freeing gold from lead, its use has markedly declined as less toxic alternatives have been developed. It has a role as a sensitiser.",
+    "XlogP": {
+        "$numberDouble": "NaN"
+    },
+    "Complexity": {
+        "$numberInt": "2"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) WHO; Mercury - Environmental Aspects - Geneva. NY, NY: World Health Organization. WHO Publications Center U.S.A. pp. 115 (1989)",
+            "Value": "The accumulation of mercury in plants increases with increasing soil mercury concn. Soil type has a considerable influence on this process with a high organic matter content decreasing the uptake(1). Generally, the highest concns of mercury are found at the roots, but translocation to other organs (e.g. leaves) occurs(1). In contrast to higher plants, mosses take up mercury via the atmosphere(1). In one study, 8 types of food were grown on soil amended with 4 or 20 mg/kg of mercuric chloride and later analyzed for uptake(1). Higher concns were found in the roots compared to the above-ground samples. At the highest treatment level, the mercury content of the roots ranged from 0.387 mg/kg for lettuce to 2.447 mg/kg for cauliflower(1). Spinach and radish tubers contained the highest concns of mercury(0.695 and 0.663 mg/kg respectively) in their edible portions."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "USEPA/OWRS; Quality Criteria for Water 1986 (1986) EPA 440/5-86-001",
+            "Value": "Bioconcentration factors of 10,000 and 40,000 have been obtained for mercuric chloride and methylmercury with oyster."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 3",
+            "Value": "log Kow= 0.22"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:3705072",
+            "Value": "Unilateral nephrectomy induces a dramatic change in single-kidney structure and function. Therefore, the effects of nephrotoxins may be altered. To evaluate this possibility, mercuric chloride (2 mg/kg, subcutaneous was given to male, Sprague-Dawley rats 2 days following either unilateral nephrectomy or sham surgery. Nonoliguric acute renal failure developed and was qualitatively similar in both groups. Glomerular filtration rate reached a nadir on day 2 and was reduced to a greater extent in the unilateral nephrectomy group. Furthermore, recovery of glomerular filtration was slower and occurred to lesser extent by day 10 in the animals subjected to unilateral nephrectomy. Evidence of significant tubular dysfunction was present during the acute phase in both groups, as reflected by changes in the fractional excretion of sodium or lysozyme. Persistent tubular dysfunction was noted on day 10 in both the sham and unilateral nephrectomy groups, but the degree of dysfunction was greater in the unilateral nephrectomy animals. The in vitro uptake of organic ions by renal cortical slices was reduced 24 hr following the injection of mercuric chloride although no difference was seen between the experimental groups. Merury content within renal cortex was not increased in the unilateral nephrectomy group at 1 or 3 hr but was higher 24 hr postinjection. Total urinary mercury excretion during the first day was not altered by unilateral nephrectomy although single-kidney excretion was increased dramatically."
+        },
+        {
+            "References": "PMID:3612527",
+            "Value": "Six day old rats were treated subcutaneously with the proximal tubule toxicant mercuric chloride (1 or 3.2 mg/kg) or saline. Twenty four hours later, when evidence of mercury nephrotoxicity is detectable, creatinine clearance, and the fractonal excretion of water and various components of the filtrate were determined using a 2 hr clearance priod immediately after injection of a diuretic. The effects of mercury (3.2 mg/kg) were consistent with its ability to cause acute renal failure and proximal tubular necrosis and also indicated an apparent disruption of the cycling of urea in the nephron. A decrease in the fractional excretion of water, combined sodium and potassium and total osmotic solutes indicated that the diuretic response tho acetazolamide was markedly attenuated in the mercuric chloride-treated pups whereas the responses to furosemide, chlorothiazide and amiloride were not altered by mercury treatment."
+        },
+        {
+            "References": "PMID:3533525",
+            "Value": "Cultures of some aerobically grown strains of Salmonella typhimurium and Escherichia coli contain up to 24 uM extracellular glutathione ... in addition to having intracellular glutathione concentrations in the millimolar range. The addition of 26 uM glutathione to cultures of S typhimurium strain TA1534 partially protected the bacteria from the toxic effects causing growth delay by 54 uM N-methyl-N'-nitro-N-nitrosoguanidine. ... The addition of micromolar glutathione to cultures of an Escherichia coli glutathione strain protected the cells from growth inhibition by micromolar concentrations of mercuric chloride, methyl mercuric chloride, silver nitrate, cisplatin, cadmium chloride, cadmium sulfate, and iodoacetamide. In the cases of mercuric chloride, cisplatin, N-methyl-N'nitro-nitorsoguanidine, silver nitrate, and iodoacetamide, reaction products with glutathione were detected by paper chromatography."
+        },
+        {
+            "References": "PMID:3656937",
+            "Value": "As manifest by tubular collapse and the virtual absence of flow into the glomerulotubular junction, filtration in most nephrons (SNGFR) of rats poisoned with 9 mg/kg body wt mercuric chloride 16 to 28 hours earlier was virtually absent. Arterial colloid osmotic pressure and Bowman's space pressure were modestly depressed (p < 0.05) and mean blood pressure was reduced from 115 +/- mm mercury (SEM) to 97 +/- 1 mm mercury (p < 0.001). Glomerular capillary hydraulic pressure (Pg), 25.6 +/- 1.3 mm mercury was some 24 mm mercury lower than control (p < 0.001) and yielded a net afferent effective filtration pressure (Pnet) of 4.1 +/- 1.2 mm mercury. Excluding three rats with values greater than 10 mm mercury net afferent effective filtration pressure averaged 2.0 +/- 0.9 mm mercury (n= 7 rats) versus 20.0 +/- 1.8 mm mercury in controls (n= 10, p < 0.001), the former being statistically almost indistinguishable from 0 mm mercury and barely able to support any filtration. This decrease in Hg was caused by a major increase in preglomerular resistance and a reciprocal fall in efferent arteriolar resistance, the preglomerular resistance/efferent arteriolar resistance ratio of 7.2 +/- 0.8 being four fold higher than control (p < 0.001). Renocortical blood flow was not different from control (p > 0.2)."
+        },
+        {
+            "References": "Farmanfarmanian A, Socci R; Aquat Toxicol 7 (1-2): 107-18 (1985)",
+            "Value": "... Using an in vivo technique /in fish/, the effects of mercuric chloride, mercurous chloride, and cadmium chloride on the absorption of the essential amino acid L-leucine absorption /were studied/. Among the heavy metal cmpd tested, mercuric chloride appears to act on the active transport and facilitated diffusion components of uptake. ..."
+        },
+        {
+            "References": "Dwivedi RS, Kaur G; J Environ Sci Health Part A 21 (8): 759-68 (1987)",
+            "Value": "Partially hepatectomized rats were exposed to an acute dose of mercury (5 mg Hg+2/kg ip as mercuric chloride and its influence on renal glutathione redox system, 24 hr later was studied. Significant loss of glutathione reductase, glutathione peroxidase and G-6-P-dehydrogenase occurred in mercury exposed non-hepatectomized (sham) and hepatectomized rats. Mercury intoxicated hepatectomized rats had a considerable decrease in total shame and glutathione levels. Further, the process of lipid peroxidation was significantly enhanced."
+        },
+        {
+            "References": "PMID:6496253",
+            "Value": "Administration of mercuric chloride at a dose of 5 mg/kg body weight/day for 15 days to male albino rats brought about a marked depression of the scavenging enzymes via glutathione peroxidase and glutathione S-transferase, in the kidney. There was an adaptive rise in the levels of catalase and no incr in lipid peroxidation was observed. The levels of both glutathione and glutathione reductase were decreased, whereas total thiol increased. In the intoxicated rats, vitamin E was effective in glutathione levels returning to normal. The adaptation in this group of animals is reflected by increased superoxide dimutase activities."
+        },
+        {
+            "References": "PMID:6329640",
+            "Value": "The effects of 1.5 ppm of mercuric chloride (LC50/48 hr) on some enzymes and organic substances of liver tissue of Sarotherodon mossambicus were studied. Significant decreases in the activities of succinate dehydrogenase, lactate dehydrogenase, glucose-6-phosphate dehydrogenases, alkaline phosphatase, and acid phosphatase and in the levels of organic substances like total anthrine-positive substances, glycogen, and total ninhydrin-positive substances were observed. The results indicate impaired oxidative and transphosphorylative activities and utilization of carbohydrates during acute mercury toxicosis in fish."
+        },
+        {
+            "References": "PMID:6147034",
+            "Value": "Mercuric chloride (HgCl2) was administered at 3 dosage levels (0.5, 1, and 2.5 mg/kg sc) daily to newborn rats beginning at 1 day and continuing through weaning. HgCl2 produced a dose-dependent inhibition of body growth which was apparent only after weaning and which worsened as the animals approached adulthood; brain growth was also adversely affected, but less so than was body weight. Growth of other tissues (heart, kidney, liver) was influenced in a different manner, with initial increases over control organ weights and a subsequent decline toward normal (kidney) or to subnormal levels (heart, liver). Examination of ornithine decarboxylase (ODC) activity, an index of cellular maturation, confirmed that HgCl2 produced separable types of effects in different organ systems. Although the patterns of growth alterations caused by HgCl2 resembled those seen with methylmercury, the effects on ODC were dissimilar, suggesting that there were some differences in the underlying biochemical mechanisms. In addition to causing generalized alterations of cellular development, HgCl2 produced specific effects on catecholamine neurotransmitter systems, with increases in brain norepinephrine levels and turnover as well as elevations in synaptosomal uptake capabilities for norepinephrine. Dopamine levels and turnover were slightly reduced or unchanged, but synaptosomal uptake was still elevated. Target-specific effects were also apparent in the peripheral sympathetic nervous system, where renal but not cardiac norepinephrine was elevated in the HgCl2 group. Again, some but not all of these changes can be produced by comparable exposure to methyl mercury; many of the neuronal effects in the animals exposed to HgCl2 were in the opposite direction from those seen with the organomercurial."
+        },
+        {
+            "References": "PMID:2426844",
+            "Value": "Mercuric chloride was administered once intraperitoneally to female fischer 344 rats at doses of 0, 0.2, 0.6 and 1.8 mg/kg. Although there were no alterations in the urinary excretion of lactate dehydrogenase, significant elevations in the activities of urinary alkaline phosphatase, glutamic-pyruvic transaminase and glutamic- oxalacetic transaminase indicated that mercuric chloride was nephrotoxic. There was no evidence of hepatotoxicity as hepatic glucose-6-phosphatase and serum sorbitol dehydrogenase were esentially unaffected by mercuric chloride administration. Of the four phase-II reactions measured, only the glucuronidation of chloramphenicol was diminished by treatment with mercuric chloride."
+        },
+        {
+            "References": "Verma SR, Chand R; Indian J Environ Health 18 (1): 1-7 (1986)",
+            "Value": "Specimens of Notopterus notopterus were exposed to 0.088, 0.044, 0.029, 0.022 and 0.018 mg/l of mercuric chloride for 30 and 60 days, and their effects on metabolic enzymes succinic dehydrogenase (SDH) < pyruvate dehydrogenase (PDH) and lactic dehydrogenase (LDH) in liver and gills were evaluated. SDH and PDH inhibited significantly in both the tissues, while LDH elevated significantly (p < 0.01; p < 0.05) in liver and insignificantly in gills of Notopterus notoptrus."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Browning, E. Toxicity of Industrial Metals. 2nd ed. New York: Appleton-Century-Crofts, 1969., p. 230",
+            "Value": "IN ACUTE LETHAL POISONING BY SC OR IV INJECTION OF MERCURY BICHLORIDE NEPHROTOXIC ACTION IS ESP PROMINENT. WHEN DEATH OCCURS WITHIN 48 HR, KIDNEYS ARE CONGESTED AND CYANOTIC BUT TOXIC ACTION IS EXERTED CHIEFLY ON TUBULAR EPITHELIUM. ..."
+        },
+        {
+            "References": "Friberg, L., Nordberg, G.F., Kessler, E. and Vouk, V.B. (eds). Handbook of the Toxicology of Metals. 2nd ed. Vols I, II.: Amsterdam: Elsevier Science Publishers B.V., 1986., p. 414",
+            "Value": "... INHIBITION OF SPERMATOGENESIS IN MICE GIVEN MERCURIC CHLORIDE, 1 MG/KG BODY WT INTRAPERITONEALLY."
+        },
+        {
+            "References": "Venugopal, B. and T.D. Luckey. Metal Toxicity in Mammals, 2. New York: Plenum Press, 1978., p. 96",
+            "Value": "... REPRODUCTIVE DYSFUNCTION IN JAPANESE QUAIL WHEN ... FED HGCL2 (125 PPM HG) IN DRINKING WATER; FERTILITY & HATCHABILITY OF THEIR EGGS WERE REDUCED. THINNING OF EGG SHELLS OF MIGRATORY BIRDS & HEAVY MORTALITY IN THEIR YOUNG ..."
+        },
+        {
+            "References": "PMID:6222515",
+            "Value": "ADULT B6C3F1 MALE MICE WERE GIVEN WATER CONTAINING 3, 15 & 75 PPM MERCURY (AS MERCURIC CHLORIDE) FOR 7 WK. NONSPECIFIC TOXICITY OCCURRED AT 75 PPM, CONSISTING OF SMALL DIFFERENCES IN BODY & ORGAN WEIGHTS, HEMATOLOGICAL CHANGES & GENERAL ENZYME INHIBITION IN BONE MARROW & SPLEEN. HOWEVER, THERE WERE SPECIFIC IMMUNOTOXIC & BIOCHEMICAL ALTERATIONS IN LYMPHOID ORGANS OF MICE TREATED AT LOWER DOSES. IMMUNOLOGICAL DEFECTS WERE CONSISTENT WITH ALTERED T-CELL FUNCTION."
+        },
+        {
+            "References": "PMID:6227108",
+            "Value": "EFFECTS OF MERCURIC CHLORIDE ON RENAL FUNCTION DURING POSTNATAL MATURATION WERE STUDIED. SPRAGUE-DAWLEY RATS WERE TREATED WITH SINGLE INJECTION OF 5 MG/KG MERCURIC CHLORIDE ON DAY 1, 8, 15, 22 OR 29 AFTER BIRTH. RENAL SENSITIVITY INCR THROUGHOUT MATURATION FOR EVERY PARAMETER MEASURED. NO PUPS TREATED ON DAY 1 DIED, BUT MORTALITY INCR TO ALMOST 20% IN THOSE TREATED 22 & 29 DAYS AFTER BIRTH. NEONATAL KIDNEY WAS LARGELY INSENSITIVE; HOWEVER, A TREND TOWARD INCR SENSITIVITY WITH INCR AGE WAS DEMONSTRATED."
+        },
+        {
+            "References": "PMID:6519465",
+            "Value": "Mercuric iodide, and mercuric chloride ... were administered via stomach to male and female rats (1-20 days of pregnancy) to study the toxic effects on the male gonads and embryogenesis, respectively. In the second series, Hg salts were given to male rats daily for 2 mo. All the cmpd were markedly embryotoxic and the severity depended on the dose and the intake schedule. ... Mercuric iodide was more toxic than mercuric chloride. These materials characteristically decreased the size of the placenta. They showed no teratogenic activity. The embryolethal effect of mercuric iodide (1/8 LD50) was most pronounced when it was administered during 1-4 days of pregnancy. The embryo deaths were not practically any different from the control if mercuric iodide was administered on other days. Thus, these Hg cmpd are sufficiently effective with reference to intrauterine development (cause embryo death but show no teratogenicity), whereas the embryolethal effect is most evident during the initial stage of embryogenesis."
+        },
+        {
+            "References": "Vernberg WB, Vernberg J; Fish Bull 70: 415 (1972) as cited in USEPA; Ambient Water Quality Criteria Doc: Mercury p.69 (1984) EPA 440/5-84-026",
+            "Value": "Uca pugilator (fiddler crab, adult) exposed to 180 ug/l of mercuric chloride over a 24 hr 6 day period exhibited a 20-25% reduction in percent survival and an increase in oxygen consumption."
+        },
+        {
+            "References": "Stromgren T; J Exp Mar Biol Ecol 43: 107 (1980) as cited in USEPA; Ambient Water Quality Criteria Doc: Mercury p.64 (1984) EPA 440/5-84-026",
+            "Value": "Five seaweed species, Ascophyllum nodosum, Fucus spiralis, Fucus versiculosus, Fucus serratus, and Pelvetia canaliculata exposed to 10 ug/l of mercuric chloride over a 10 day period, caused a 10-30% reduction in growth."
+        },
+        {
+            "References": "Lee SS et al; Pest Biochem Physiol 3: 225-9 (1973) as cited in Nat'l Research Council Canada; Effects of Mercury in the Canadian Environment p.105 (1979) NRCC No. 16739",
+            "Value": "50% inhibition of the Hill reaction occurred when isolated spinach chloroplasts were exposed at pH 7.8 to 3.6 uM solutions of mercuric chloride ... ."
+        },
+        {
+            "References": "Nat'l Research Council Canada; Effects of Mercury in the Canadian Environment p.115 (1979) NRCC No. 16739",
+            "Value": "Chromosome anomalies were increased after exposure of dry seeds (Hordeum sativum, Vicia faba or Nigella damascera) to 1x10-5 M mercuric chloride (inorganic mercury). This effect was strongly synergistic with previous treatment using the carcinogens ethylmethane sulfonate or N-nitroso-N-methyl urea. ... Mercuric chloride interfered with DNA repair."
+        },
+        {
+            "References": "Thain JE; Mar Environ Res 12 (4): 285-309 (1984)",
+            "Value": "Exposure to a mercury (Hg)-equilibrated algal suspension containing 0.25, 0.42, and 1 ug mercury/l as mercuric chloride (HgCl2) in solution reduced the growth and condition of pairs of adult slipper limpet mollusk, Crepidula foricata, in a 16 wk period. Reproduction rates and larval survival to settlement were also reduced over the first 3 spawnings when the exposed pairs reached sexual maturity. The adult and larval 96 hr median lethal concn (LC50s) were 330 and 60 ug Hg/l respectively, as HgCl2 in solution, indicating that a safety factor of 10-1 needs to be applied to adult data to protect the most sensitive stage in the life cycle. However, the chronic exposure of the maturing adults showed that levels of Hg below the safe concn derived from the adult 96 hr LC50 affected growth and reproductive success."
+        },
+        {
+            "References": "PMID:3985680",
+            "Value": "Five groups of four wk old male chickens were exposed to 0 or 500 mg/l (ppm) of Hg(2+) as mercuric chloride in their drinking water for 3, 6, 9, 12 and 15 days. Rates of growth and feed and water consumption decreased within 3 days of Hg(2+) treatment. Mortality increased in the groups receiving Hg(2+). Red blood cell numbers, hematocrit, mean corpuscular volume, and Hg level increased within 3 days of treatment with Hg(2+). While mean corpuscular Hb concn decreased within the same treatment period. Mean corpuscular Hb level was not influenced by Hg(2+) treatment."
+        },
+        {
+            "References": "Selypes A et al; Munkavedelem, Munka-Uzemegeszsegugy 29 (7-9): 152-4 (1983)",
+            "Value": "Mice were exposed to 0.02, 0.23, or 2.1 mg mercuric chloride/cu m fumes for 4 hr/day for 4 days, starting from day 9 of pregnancy. The 0.23 and 2.1 mg/cu m dose caused fetal mortality. The surviving fetuses showed retarded growth, disturbances of the bone system and chromosome aberrations in the liver."
+        },
+        {
+            "References": "Katayama S et al; Acta Obstet Gynaecol 36 (10): 1957-62 (1984)",
+            "Value": "The effects of mercuric compounds on the proliferation and protein synthesis of mouse blastocysts were examined in vitro by treating the embryos with ... mercuric chloride. Late blastocysts were exposed to various concentrations of mercuric compounds for 24 hr and incubated for another 24 hr in a mercury-free medium. The protein synthesis of the mercury-treated blastocysts was measured by counting the incorporation of L-(35)S-methionine into the acid-insoluble protein fraction of a cell; 0.1 uM of methyl mercury (MMC) was equivalent to 20 uM of MC with regard to the inhibitory effect on proliferation, and equivalent to 2 to 5 uM of MC after 24 hr culture, and 10-20 muM after 48 hr culture with regard to the inhibitory effect on protein synthesis of the blastocysts. Methyl mercury was more toxic than mercuric chloride with regard to cell number proliferation, and 20-50 times so with regard to protein synthesis capability."
+        },
+        {
+            "References": "Marszalek K; Acta Biol Cracov Ser Zool 25: 1-14 (1984)",
+            "Value": "The influence of inorganic mercury (Hg) on the erythrocytes and leukocytes was studied in pregnant female rats injected with labeled and unlabeled mercuric chloride (635 ug/rat, im). On day 20 of pregnancy the formed blood elements were counted in the blood of mothers and fetuses. The number of erythrocytes decreased slightly in mothers and fetuses. Leukocyte counts, especially lymphocytes, eosinophils, and monocytes, increased slightly as a reflection of toxicity of Hg. Slight change in the hematocrit index accompanied the change in numbers of formed blood elements."
+        },
+        {
+            "References": "PMID:6086307",
+            "Value": "The freshwater murrel, Channa punctatus, was exposed to a sublethal concn of mercuric chloride (3 micrograms/liter) for 120 days. ... Mercury-treated fish were hypoglycemic and hypolactemic. The glycogen content of liver and muscles remained unaltered but the muscle lactic acid level decreased significantly. The rate of intestinal absorption of glucose was reduced significantly by exposure to mercury. G-6-Pase activity was decreased in all the tissues. Hexokinase activity also decreased in mercury-exposed fish but it was significant only in intestine, kidney, and liver. The activities of lactate dehydrogenase (LDH), pyruvate dehydrogenase (PDH), succinate dehydrogenase (SDH), and malate dehydrogenase (MDH) also were decreased significantly except LDH in brain and MDH in kidney where an insignificant decrease and an insignificant increase, respectively, were recorded. Glutamate dehydrogenase (GDH) and L-amino acid oxidase (AO) activities were elevated in most of the tissues except GDH in gills, and AO in gills and muscles where a decrease was observed. Xanthine oxidase (XO) activity in brain, gills, and kidneys was significantly elevated, but no marked alteration was noted in other tissues."
+        },
+        {
+            "References": "Mohamed FHA et al; Acta Vet 33 (4): 209-14 (1983)",
+            "Value": "Bilateral ligation of the ureter in Nubian goats caused arching of the back, pica, convulsions, anuria, and cystic dilation of the kidneys and degeneration of the renal tubules and death within 4-6 days. Kidney damage was accompanied by an increase in the concn of creatinine, NH3 and K, and a decr in the levels of calcium in the serum. Mercuric chloride caused necrosis of the renal tubules, hemorrhagic enteritis and congestion and or minimal fatty changes in the liver when given intraruminally at 60 mg/kg once or 5 times at weekly intervals. Mercuric chloride to a great extent potentiated the mentioned effects of bilateral ligation of the ureter. This was shown by the short survival times of goats with ligated ureters following the administration of mercuric chloride, the degree of damage to the kidneys and further pathologic changes in serum constituents."
+        },
+        {
+            "References": "PMID:6096112",
+            "Value": "The effects of mercuric chloride intoxication on the activities of acid and alkaline phosphatases and glucose-6-phosphatase in the hepatopancreas of a freshwater prawn Macrobrachium lamarrei were determined after 24, 48, 72, and 96 hr. Mercuric chloride intoxication resulted in elevation of acid phosphatase and inhibition of alkaline phosphatase activities, but glucose-6-phosphatase activity was elevated up to 72 hr after which (ie, after 96 hr of exposure) inhibition in the enzyme activity was noted at two higher concn. Alterations in the activities of these enzymes after mercuric chloride intoxication have been shown to adversely affect the general metabolism of the freshwater prawn."
+        },
+        {
+            "References": "PMID:6233017",
+            "Value": "Mercuric chloride (HgCl2) is extremely cytotoxic to Chinese hamster ovary cells in culture since a 1 hr exposure to a 75 uM concn of this compound reduced cell plating efficiency to 0 and cell growth was completely inhibited at 7.5 uM. The level of HgCl2 toxicity depended upon the culture incubation medium and has previously been shown to be inversely proportional to the extracellular concn of metal chelating amino acids such as cysteine. Thus, HgCl2 toxicity in a minimal salts/ glucose maintenance medium was about ten-fold greater than the toxicity in McCoy's culture medium. The HgCl2 toxicity in the latter medium was three-fold greater than that in alpha-MEM /alpha-minimum essential medium/ which contains more of the metal chelating amino acids. When cells were exposed to HgCl2 there was a rapid and pronouced induction of single strand breaks in the DNA at time intervals and concn that paralleled the cellular toxicity. The DNA damage was shown to be true single strand breaks and not alkaline sensitive sites or double strand breaks by a variety of techniques. Consistent with the toxicity of HgCl2, the DNA damage under an equivalent exposure situation was more pronounced in the salts/glucose than in the McCoy's medium and more striking in the latter medium than in alpha-MEM. Most of the single strands breaks occurred within 1 hr exposure to the metal."
+        },
+        {
+            "References": "Carmignani M, Boscolo P; Arch Toxicol 7: 338-83 (1984)",
+            "Value": "Two groups of male Sprague-Dawley rats received from weaning 50 ug/ml of mercuric chloride (HgCl2) in drinking water for 320 and 350 days. Mercury (Hg) exposure increased cardiac inotropism, without chronotropic changes, in both groups, and induced arterial hypertension in the rats exposed for 350 days. In the exposed rats, cardiovascular responses to the stimulation of peripheral alpha and beta adenoceptors were decreased and increased, respectively, possibly through an intracellular availability of calcium ions for contractile mechanisms. Hg exposure did not affect either vagal or sympathetic activity or cardiovascular reactivity to several physiological agonists. On the other hand, Hg exposure induced baroreflex hyposensitivity and produced a drastic alteration of the levels of copper and zinc in brain and kidney."
+        },
+        {
+            "References": "PMID:6230186",
+            "Value": "In Brown-Norway (BN) rats, oral administration of mercuric chloride (HgCl2) induced morphological lesions of the ileum and, in lesser degree, of the colon, with abnormal deposits of IgA in the basement membranes of the intestinal glands and of IgG in the basement membranes and in the lamina propria. IgG is reactive with renal and intestinal basement membranes and in the lamina propia. IgG reactive with renal and intestinal basement membranes and with the lamina propia of a normal BN rat was found in the serum and IgG deposits were present in renal glomeruli of Brown-Norway rats receiving HgCl2. Thus, it is conceivable that the deposits of the IgG present in the intestine resulted from local fixation of circulating autoantibodies. In contrast, IgA with basement membrane reactivity was not detected in the sera nor in the renal glomeruli, suggesting that the intestinal deposits of IgA were formed in situ. This IgA-IgG intestinal disease inducible in Brown-Norway rats may provide a model for the study of alterations of the secretory IgA system, as well as for testing the possiblity that abnormal deposits IgA-IgG in the intestinal structures are associated with local functional changes."
+        },
+        {
+            "References": "Miszta H; Folia Haematol (Leipzig) 3 (5): 638-44 (1985)",
+            "Value": "Administration of inorg and org mercury (Hg) (0.6 Hg/kg as mercuric chloride and phenylmercury acetate for 10 days affected reduced glutathione (GSH) reductase and glucose 6-phosphate dehydrogenase of the bone marrow and erythrocytes. The activity of the enzymes of the bone marrow and GSH reductase in the erythrocyte increased. Bone marrow was more resistant to the action of Hg cmpd and org Hg was much more toxic."
+        },
+        {
+            "References": "Mukhiya YK et al; Int J Environ Stud 20 (3-4): 323-7 (1983)",
+            "Value": "The toxic effects of various mercury cmpd (eg, mercurous chloride, mercuric chloride, mercuric acetate, and phenylmercury acetate) on percentage germination, pigment concn, root-shoot lengths, and fresh wt & dry wt of 7 day old seedlings of barley were investigated. Phenylmercury acetate was the most toxic, followed by mercuric acetate, while mercurous chloride was the least toxic."
+        },
+        {
+            "References": "USEPA/OWRS; Quality Criteria for Water 1986 (1986) EPA 440/5-86-001",
+            "Value": "Mercuric chloride in both a life-cycle test and an early life-stage test on mercuric chloride with the fathead minnow, the chronic value was less than 0.26 mg/l and the acute-chronic ratio was over 600."
+        },
+        {
+            "References": "PMID:3731785",
+            "Value": "Serum and urinary biochemical changes were recorded in 5 ponies in which acute tubular nephrosis had been induced over 5 days with mercuric chloride and potassium dichromate. Serum osmolality, the serum concentrations of urea nitrogen, creatinine, sodium, potassium, and chloride, and blood pH and blood gases were measured daily for 14 days or until humane euthanasia was performed. Levels of the same substances were quantitated daily in urine. In addition, routine urinalyses and determination of urinary gamma glutamyl transferase activity were performed on each sample. Changes in the values of the urinary variables preceded alterations in the serum value of the same substance by at least one day. The first notable abnormality detected was in urinary gamma glutamyl transferase activities. These changes occurred up to 6 days before the detection of azotemia."
+        },
+        {
+            "References": "PMID:4024701",
+            "Value": "Histopathological changes induced by mixture of pollutants were studied at 2, 15, 30 and 45 days of exposure in fish to a concentration of 0.033 ppm mercuric chloride, 33.3 ppm cadmium chloride, 3.33 ppm phenol and 9 ppm ammonia where no mortality was recorded. Marked abnormalities in the renal histology and interrenal tissues could be discerned. In the case of trunk kidney, the epithelial cells of the renal tubules were desquamated and vacuolated. Irregular orientation of the nuclei, shrinkage of the glomerular tuft and capsule were noted. After 45 days, glomerular cells developed vacuolations as observed in tubular cells. The interrenal tissues lost their regular arrangement, rupturing the blood sinusoids, blood cells remaining intermingled with hemopoietic cells. This degeneration was more severe at 15 days of exposure but on 30 and 45 days, the histopathological condition of the head kidney was found to improve giving place to normalization of the histological picture."
+        },
+        {
+            "References": "PMID:3958570",
+            "Value": "Glomerular dynamicas tubular integrity, and whole kidney function were examined at 24 hr in rats given either mercuric chloride, 3.5 mg/kg, or a similar vol of 0.9% saline soln im. Arterial blood pressure was elevated in mercuric chloride injected rats, but renal blood flow and its distribution were similar to those of controls. Inulin clearance, however, was reduced by 89% in mercuric chloride injected animals. Glomerular dynamics expts demonstrated similar glomrular plasma flows (QA) and glomerular capillary an tubular pressures in control and mercuric chloride injected animals but a higher net afferent ultrafiltration pressure and lower ultrafiltration coeff (Kf) in the mercuric chloride injected group. Single- nephron glomerular filtration rate, when measured from Bowman's space in mercuric chloride rats, was similar to that measured from late proximal tubules in controls. However, single-nephron glomerular filtration rate determined from the late proximal tubules in mercuric chloride injected rats was only one third of that measured from Bowman's space."
+        },
+        {
+            "References": "PMID:2881769",
+            "Value": "Isolated rat nephron segments were used for the evaluation of nephrotoxicity by chemical glomerular specificity of metabolic changes was demonstrated in rats following puromycin aminonucleoside (80 mg/kg) treatment. Intraproximal nephrotoxic sites of mercury chloride and gentamicin were identified via urinalysis and detection of enzyme activities along single nephrons form untreated rats."
+        },
+        {
+            "References": "PMID:3750810",
+            "Value": "... Mercury chloride was administered subcutaneously in gradually increasing amt over a period of 21 wk. The dose ranged from 1.125 mg/kg once a week to 2.0 mg/kg twice a week. Measured parameters of renal function included plasma urea nitrogen, plasma creatinine, 24 hr urine output vol, and 24 hr urinary protein excretion. When compared to pretreatment values and the age/wt matched control animals, the mercury chloride treated rats exhibited no abnormalities in these parameters with the exception of a mild proteinuria at 21 wk. Light microscopic exam of the kidneys of the mercury treated rats revealed mild tubular, interstitial, and glomerular lesions which were worse than in the kidneys of the controls."
+        },
+        {
+            "References": "Heisinger JF, Scott L; Comp Biochem Physiol Comp Pharmacol Toxicol 80 (2): 295-8 (1985)",
+            "Value": "The relationship between coelomic injections of mercuric chloride doses and osmoregulatory responses was measured. Response parameters were weight increases and blood osmolarity decreases 72 hr after dose administration. Edema and large decreases in blood osmolarity could be completely prevented by subcutaneous injections of equimolar sodium selenite. Mercury induced damage did not involve alterations of either selenium dependent or non-selenium dependent glutathione peroxidase activities."
+        },
+        {
+            "References": "Hilmy AM et al; Comp Biochem Physiol Comp Pharmacol Toxicol 85 (1): 253-4 (1986)",
+            "Value": "Studies have been carried out on the ability of calcium disodium-ethylenediaminetetraacetate to offset the acute toxicity of mercuric chloride. The lethality of mercury was tested in female Bufo regularis species (amphibia) which were given calcium disodium-ethylenediaminetetracetate immediately after the Hg2+ injection. The results show that the inherent toxicity of the calcium disodium-ethylenediaminetetraacetate mercury complex is sufficiently high for it to be ineffective as an antidote."
+        },
+        {
+            "References": "Khan AT, Weis JS; Mar Pollut Bull 18 (9): 504-5 (1987)",
+            "Value": "The 20 min median lethal concn (LC50) of mercuric chloride in killifish (Fundulus heteroclitus) eggs from Pile Creek (1.0 ppm) was significantly lower than in those from Long Island (1.6 ppm). Exposure of both Pile Creek and Long Island eggs prior to insemination to 0.5 ppm mercuric chloride did not effect the mean percent fertilization success or embryonic development. However, exposure of both Pile Creek and Long Island eggs to 1.0 ppm before insemination caused a significant reduction in mean percent fertilization success, but Pile Creek eggs showed only 45% fertilization success. Pile Creek eggs also showed higher (38%) malformations in the craniofacial, cardiovascular, and skeletal systems than Long Island killifish eggs (16%) after exposure to 2.5 ppm prior to fertilization. The 96 hr LC50 values were 0.7 ppm for Pile Creek and 0.6 ppm on a Long Island juvenile fish."
+        },
+        {
+            "References": "Muthukrishnan J et al; Environ Ecol 4 (4): 526-32 (1986)",
+            "Value": "Rates of feeding and feed absorption, and conversion of Cyprinus carpio reared in media containing sublethal concn of mecury chloride significantly decreased. Efficiencies of absorption and conversion of the ingested food decreased with increasing concn of mercury chloride in the medium. At the highest tested sublethal concn (0.304 ppm), the gross production efficiency of the fish was approximately 8-fold less than that reared in tap water. Energy, protein, and lipid contents of the fish reared in mercury chloride media were below controls. At the highest sublethal concn, the fish displayed a neg nitrogen balance. With increasing concn of mercury chloride, rate of oxygen consumption by the fish decreased, while NH3 quotient increased."
+        },
+        {
+            "References": "Saha AK et al; Environ Ecol 4 (2): 320-3 (1986)",
+            "Value": "An injection of 0.01% mercuric chloride into fully adult male grasshopers, Spathosternum prasiniferum, induced chromosomal abnormalities which included stretching and elongation of bivalents, dispiralization of chromatids, sticky bridge, and elongation of X-chromosome, pulverizaton etc. There was a preponderance of chromosome breaks over chromatid breaks. Mercuric chloride induced spermatocytic chromosome aberrations may be caused by its reactin with the -SH groups of nucleoproteins or due to inhibition of enzyme system responsible or chromosome reduplication or break repair."
+        },
+        {
+            "References": "PMID:4096410",
+            "Value": "The pharmacological effects of methyl mercury chloride and mercuric chloride (2-16 mg/kg per day subcutaneously, for 6 days) upon the growth were studied in the incisors and proximal tibiae of immature rats histologically. Lead acetate was used as a time marker. Mercury compounds slightly affected the body weight gains of the rats but apparently inhibited the longitudinal growth of proximal tibia and the effect increased with higher dosages. Mercury compounds definitely inhibited not only the longitudinal growth (incisor growth) but also the appositional growth (dentin formation) of incisal dentin. The inhabitory efect on the growth was ranked as follows: bone growth > dentine formation > incisor growth. In mercuric chloride groups, the inhibitory effect on the growth appeared rapidly. The effect increased with higher dosages and became stronger as the injections were repeated. However, this effect was weakened promptly after the injection was discontinued. The repeated injections of mercury compounds hardly affected the level of serum calcium but disturbed the calcification of incisal dentin."
+        },
+        {
+            "References": "Fletcher TC, White A; Aquat Toxicol 8 (2): 77-84 (1986)",
+            "Value": "Exposure of plaice (Pleuronectes platessa) a marine teleost, to 0.3 ppm mercury (as mercuric chloride) resulted in a reduction in blood hematocrit values over seven days due to erythrocyte lysis. The decrease was significant within four days of exposure and by seven days there was a 72% reduction in prebleed hematocrit values. There was also a steady decline in serum lysozyme but not in serum protein concentration. The spleen is actively phagocytic for affected erythrocytes and although not erythropoietic, splenomegaly occurred by day 6. Urine analysis showed significant proteinuria by day 3, but although kidney proximal tubule damage was severe, the onset of lysozymuria was not observed until the seventh day of exposure, presumably only occurring when tubular damage extended to the absorptive area of the first proximal segment."
+        },
+        {
+            "References": "Schmidt GH; Agric Ecosys Environ 16 (3-4): 175-88 (1986)",
+            "Value": "Species of Acrididae (Acrotylus patuelis, Acrotylus halassinus, and Oedipoda caerulescens) were used as test animals, which deposit their eggs in the soil. The chem tested wer mercuric chloride, urea, phenol, perylene, methanol and ETOAc. The insect number decreased in concn of > 0.001% mercuric chloride/kg dry sand in the lab tests and of > 0.0001% under field conditions; mercury mainly affected the embryonic development taking place in the soil. Urea at > 0.055 g nitrogen/kg dry sand decreased the number of deposited egg pods and the number of eggs laid; increasing am+ of urea also decreased the hatching of the larvae."
+        },
+        {
+            "References": "Chaudhary BR, Singh HV; J Basic Microbiol 26 (1): 3-7 (1986)",
+            "Value": "The effect of mercuric chloride on akinete germination and sporulation with respect to time lapse and extent was studied in Pithophora oedogonia. At mercuric chloride concn from 1.25 to 45 mg/l akinetes showed progressive delay in the initiation and reduction in the extent of germination. Mercuric chloride concn of greater than or equal to 60 mg/l were lethal to the spores as they failed to germinate. The time necessary for the initiation of akinete formation and the percentage sporulation also decreased with an increase in the concn of mercuric chloride from 1.25 to 45 mg/l where spore germination was encountered."
+        },
+        {
+            "References": "PMID:2434300",
+            "Value": "Juvenile rainbow trout (Salmo gairdner) were exposed to 100 ppb mercury (as mercuric chloride in the water for 14 days. Concn of mercury(Hg) in water and fish organs were monitored using radiolabeled mercury. Tissues from kidney and liver were fixed, and sections were developed by autometallogy, a method whereby accumulations of mercury sulfides and/or mercury selenides are silver amplified. In the kidney, mercury was found within lysosomes and extracellularly in the basal lamina of proximal tubules. In the liver, mercury was found in lysosomes of the hepatocytes. Additional groups of mercury exposed trout were subjected to selenium (as Na2SeO3), administered ip 2 hr before fixation. Following this treatment, mercury could be visualized in the kidney circulatory system, including glomeruli, and in the nucleus and endoplasmic reticulum of liver cells. Hg visualized prior to selenium treatment may represent inorg Hg, whereas additional Hg visualized after selenium administration may represent an organic form."
+        },
+        {
+            "References": "PMID:3806696",
+            "Value": "The lethal toxicity of inorg (mercuric chloride) and org (methyl mercury chloride) mercury was compared for Coturnix coturnix japonica of different ages from hatch through adulthood by single-dose acute and intramuscularly injection and by a 5 day dietary trial. Sublethal mercury toxicity was studied by evaluation of plasma and brain cholinesterase activity. Methyl mercury chloride was more toxic than mercuric chloride in all tests at each age tested. LD50s consistently increased over the 1st 4 wk for both acute methods and both mercurials and then stabilized. The striking difference between single-dose acute and 5 day tests was that methyl mercury chloride averaged about twice as toxic as mercury chloride by both acute methods, compared to 100 times as toxic by the dietary method. For example, at 2 wk of age, the oral LD50s for methyl mercury chloride and mercuric chloride were 18 and 42 mg/kg and the dietary LC50s were 47 and 5086 ppm. When birds were fed mercuric chloride and developed clinical signs of intoxication, they could recover once treatment was withdrawn."
+        },
+        {
+            "References": "Betz M; Mar Biol 41:89 (1977) as cited in USEPA; Ambient Water Quality Criteria Doc: Mercury p.63 (1984) EPA 440/5-84-026",
+            "Value": "Dunaliella tertiolecta (alga) exposed to 100-200 ug/l/8 days of mercuric chloride exhibited about a 10-45% incr in maximum chlorophyll-a concn."
+        },
+        {
+            "References": "Okubo K, Okubo T; Bull Tokai Reg Fish Res Lab 32: 131 (1962) as cited in USEPA; Ambient Water Quality Criteria Doc: Mercury p.66 (1984) EPA 440/5-84-026",
+            "Value": "Mytilus edulis (blue mussel larva) exposed to 32 ug/l/24 hr of mercuric chloride exhibited abnormal development."
+        },
+        {
+            "References": "Cloutier-Mantha L, Harrison PJ; Mar Biol 56: 219 (1980) as cited in USEPA; Ambient Water Quality Criteria Doc: Mercury p.63 (1984) EPA 440/5-84-026",
+            "Value": "Skeletonema costatum (diatom) exposed to 0.08 ug/l/15 days of mercuric chloride exhibited reduced cell density."
+        },
+        {
+            "References": "Davies AG; J Mar Biol Assoc 56: 39 (1976) as cited in USEPA; Ambient Water Quality Criteria Doc: Mercury p.63 (1984) EPA 440/5-84-026",
+            "Value": "Dunaliella tertiolecta (alga) exposed to 10 ug/l/3 days of mercuric chloride exhibited about 15% reduction in growth."
+        },
+        {
+            "References": "Davies AG; J Mar Biol Assoc 56: 39 (1976) as cited in USEPA; Ambient Water Quality Criteria Doc: Mercury p.63 (1984) EPA 440/5-84-026",
+            "Value": "Dunaliella tertioloecta (alga) exposed to 2 ug/l/8 days of mercuric chloride exhibited no effect on growth."
+        },
+        {
+            "References": "Hopkins R, Kain JM; Mar Pollut Bull 2: 75 (1971) as cited in USEPA; Ambient Water Quality Criteria Doc: Mercury p.63 (1984) EPA 440/5-84-026",
+            "Value": "Laminaria hyperborea (kelp), zoospores, gametophytes and sporophytes exposed to 10 ug/l/28 days of mercuric chloride. This was the lowest concn causing growth inhibition."
+        },
+        {
+            "References": "USEPA; Ambient Water Quality Criteria Doc: Mercury p.48 (1984) EPA 440/5-84-026",
+            "Value": "Scenedesmus quadricauda (green algae) exposed to 30 ug/l/96 hr of mercury chloride exhibited incipient inhibition."
+        },
+        {
+            "References": "Biesinger KE, Christensen GM; Jour Fish Res Board Can 29: 1691 (1972) as cited in USEPA; Ambient Water Quality Criteria Doc: Mercury p.49 (1984) EPA 440/5-84-026",
+            "Value": "Daphnia magna (cladoceran) exposed to 34 ug/l/3 wk of mercuric chloride exhibited reproductive impairment."
+        },
+        {
+            "References": "Huckabee JW, Griffin NA; Trans Am Fish Soc 103:822 (1974) as cited in USEPA; Ambient Water Quality Criteria Doc: Mercury p.52 (1984) EPA 440/5-84-026",
+            "Value": "Cyprinus carpio (common carp) exposed to 13,000 ug/l/60-72 hr mercuric chloride exhibited reduced hatching success."
+        },
+        {
+            "References": "PMID:6222515",
+            "Value": "Adult B6C3F1 male mice were given water containing 3, 15, and 75 ppm mercury (Hg) (as mercuric chloride (HgCl2)) for 7 wk. There were dose-related increases in blood and kidney Hg levels, but only the former showed a time-dependent change. Hg was not detected in any of the lymphoid organs except for the spleen. There was no mortality, and only minimal histological changes occurred in kidneys of dosed mice. Non-specific toxicity occurred at the 75 ppm dose level, consisting of small differences in body and organ weights, hematological changes, and general enzyme inhibition in the bone marrow and spleen. There were specific immunotoxic and biochemical alterations in lymphoid organs of mice treated at the lower doses of Hg. The immunological defects were consistent with altered T-cell function, as evidenced by decreases in both T-cell mitogen and mixed leukocyte responses. There was a particular association between the T-cell defects and inhibition of thymic pyruvate kinase, the rate-limiting enzyme for glycolysis. The differences in the pattern of enzyme responses among lymphoid organs implied that 2 mechanisms of Hg physiochemical enzyme inhibiton and another at low concentrations that caused indirect enzyme inhibition."
+        },
+        {
+            "References": "Toxicology & Carcinogenesis Studies of Mercuric Chloride in F344/N Rats and B6C3F1 Mice (Gavage Studies). Technical Report Series No. 408 (1993) NIH Publication No. 93-3139 U.S. Department of Health and Human Services, National Toxicology Program, National Institute of Environmental Health Sciences, Research Triangle Park, NC 27709",
+            "Value": "... CONCLUSIONS Under the conditions of these 2 year gavage studies, there was some evidence of carcinogenic activity of mercuric chloride in male F344 rats based on the increased incidence of squamous cell papillomas of the forestomach. Marginally increased incidences of thyroid follicular cell adenomas and carcinomas may have been related to mercuric chloride exposure. There was equivocal evidence of carcinogenic activity of mercuric chloride in female F344 rats based on two squamous cell papillomas of the forestomach. There was equivocal evidence of carcinogenic activity of mercuric chloride in male B6C3F1 mice based on the occurrences of two renal tubule adenomas and one renal tubule adenocarcinoma. There was no evidence of carcinogenic activity of mercuric chloride in female B6C3F1 mice receiving 5 or 10 mg/kg."
+        },
+        {
+            "References": "WHO; Environmental Health Criteria 118: Inorganic Mercury p. 77 (1991)",
+            "Value": "Mercuric chloride was found to induce gene mutations in mouse lymphoma cells ... and DNA damage in rat and mouse fibroblasts"
+        },
+        {
+            "References": "Samoilov AP et al; Vrach Delo (9): 107-9 (1983)",
+            "Value": "Repeated oral admin of monovalent & divalent mercury compounds to rats 5 times/wk produced similar changes in affected organs. Most of the compounds primarily caused dystrophic changes of different degree in kidney, liver & myocardium. In remaining organs the changes were insignificant. Monovalent compounds were more toxic than divalent compounds. /An exception being/ mercuric chloride was more toxic than mercurous chloride. Varying degrees of lesions & selective toxic effects are due to the anions."
+        }
+    ]
+}

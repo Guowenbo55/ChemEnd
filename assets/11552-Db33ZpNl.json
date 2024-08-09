@@ -1,0 +1,110 @@
+{
+    "_id": {
+        "$oid": "6682e8f5c4e5dba5ffba2833"
+    },
+    "CID": {
+        "$numberInt": "11552"
+    },
+    "Name": "3-METHYLBUTANAL",
+    "IUPACName": "3-methylbutanal",
+    "CanonicalSMILES": "CC(C)CC=O",
+    "Synonyms": [
+        "3-Methylbutanal",
+        "ISOVALERALDEHYDE",
+        "590-86-3",
+        "3-Methylbutyraldehyde",
+        "Isovaleral",
+        "Isopentaldehyde",
+        "Isoamylaldehyde",
+        "Isopentanal",
+        "Butanal",
+        "3-methyl-",
+        "Isovalerylaldehyde",
+        "Isovaleric aldehyde",
+        "beta-Methylbutanal",
+        "Isoamyl aldehyde",
+        "2-Methylbutanal-4",
+        "3-Methyl-1-butanal"
+    ],
+    "IsomericSMILES": "CC(C)CC=O",
+    "INCHI": "InChI=1S/C5H10O/c1-5(2)3-4-6/h4-5H,3H2,1-2H3",
+    "INCHIKEY": "YGHRJJRRZDOVPD-UHFFFAOYSA-N",
+    "Formula": "C5H10O",
+    "MolecularWeight": {
+        "$numberDouble": "86.13"
+    },
+    "Description": "3-methylbutanal is a methylbutanal that is butanal substituted by a methyl group at position 3. It occurs as a volatile constituent in olives. It has a role as a flavouring agent, a plant metabolite, a volatile oil component and a Saccharomyces cerevisiae metabolite.",
+    "XlogP": {
+        "$numberDouble": "1"
+    },
+    "Complexity": {
+        "$numberInt": "39"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Falbe J, Lappe P; in Ullmann's Encycl Indust Chem 5th ed. Gerhartz W, ed Deerfield Beach, FL: VCH Publishers A1: 321-52 (1985) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 5-5 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for 3-methylbutanal(SRC), using a water solubility of 1.4X10+4 mg/L(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Gerhold RM, Malaney GW; J Water Contr Fed 38: 562-79 (1966)",
+            "Value": "AEROBIC: In activated sludge from waste treatment plants, 3-methylbutanal had a theoretical oxygen demand of 9.2, 14.2, and 16.1% after 6, 12, and 24 hours, respectively(1)."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5:995",
+            "Value": "...inhibits oxidation of other mitochondrial substrates, including acetaldehyde"
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5:995",
+            "Value": "...Isovaleraldehyde is also a degradation product of leucine that is associated with hepatic encephalopathy."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 2643",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Irritant effects: guinea pig, moderate skin irritant. /From table/"
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 1044",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The compound was tested externally on the eyes of rabbits, and, according to the degree of injury observed after 24 hours, rated on a scale of 1 to 10. The most severely injurious substances have been rated 10. 3-Methylbutyraldehyde rated 4 on rabbit eyes."
+        },
+        {
+            "References": "Steinhagen WH, Barrow CS; Toxicol and Appl Pharmacol 72 (3): 495-503 (1984)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The sensory irritation potential of aldehydes was investigated in B6C3Fl-mice and Swiss-Webster-mice. Aldehydes studied included isovaleraldehyde. Mice were exposed to test atmospheres in a 2.7 liter head only exposure chamber for 10 minutes. Sensory irritation was quantified by measuring respiratory rate depression before, during, and after exposure. Five concentrations of each aldehyde were used to construct a concentration response curve, and the concentration eliciting a 50% decrease in respiratory rate (RD50) value was determined. Unsaturated aliphatic aldehydes produced RD50 values ranging from 1 to 5 ppm, cyclic aldehydes produced RD50 values ranging from 60 to 400 ppm, and saturated aliphatic aldehydes produced RD50 values ranging from 750 to 4200 ppm. Alpha, beta unsaturated aliphatic aldehydes were about two orders of magnitude more potent than saturated aliphatic aldehydes, and cyclic aldehydes were one order of magnitude more potent than saturated aliphatic aldehydes. No statistically significant differences in response were found between the two strains of mice."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on 3-Methylbutanal (590-86-3) Available from, as of January 14, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ Isovaleraldehyde /was tested/ in S. typhimurium strains TA98, TA100, and TA102 in concentrations of 0,01 - 1,000 nmol/plate; there was no increase in the number of revertants."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on 3-Methylbutanal (590-86-3) Available from, as of January 14, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ Isovaleraldehyde / was tested/ in S. typhimurium strains TA98, TA100, TA1535, and TA1537 in concentrations of 0.03, 0.3, 3 and 30 umol/plate; no increase in the number of revertants were found."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on 3-Methylbutanal (590-86-3) Available from, as of January 14, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ In a mouse micronucleus test after single intraperitoneal administration according to OECD /Test Guideline/ No. 474 isovaleraldehyde does not have any chromosome-damaging (clastogenic) effect, and there were no indications of any impairment of chromosome distribution in the course of mitosis. The test substance was administered once to male animals at dose levels of 25 mg/kg bw, 50 mg/kg bw and 100 mg/kg bw. The administration of the test substance led to evident signs of toxicity (piloerection, squatting posture, poor general state)."
+        },
+        {
+            "References": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-186",
+            "Value": "/OTHER TOXICITY INFORMATION/ The saturated aldehydes by inhalation show decreasing toxicity with increasing chain length in the order acetaldehyde, propionaldehyde, isobutyraldehyde, n-butyraldehyde, n-valeraldehyde and isovaleraldehye."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Whelan JK et al; Geochim Cosmochim Acta 44: 1767-85 (1980)",
+            "Value": "Three gravity cores taken from Walvis Bay (near Southwest Africa) contained 3-methylbutanal at the following concentrations and depths (ng/g (cm)): station 1 (46 meter water depth): 0.54 (4-8), 3.2 (28-32), 0.67 (52-56), 0.12 (76-80); station 2 (146 meter water depth): 0.36 (50), 1.6 (87-92), 1.0 (107-112), 2.7 (147-152), 1.5 (187-192), 1.1 (222-230); station 3 (97 meter water depth): 9.0 (4-8), 10.4 (8-12), 2.7 (12-16), 2.7 (16-20), 0.9 (20-24), 1.1 (24-28), 0.5 (28-32), 0.2 (32-36), 0.5 (36-40), and 0.5 (40)(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Falbe J, Lappe P; in Ullmann's Encycl Indust Chem 5th ed. Gerhartz W, ed Deerfield Beach, FL: VCH Publishers A1: 321-52 (1985) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-5 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of 3-methylbutanal is estimated as 23(SRC), using a water solubility of 1.4X10+4 mg/L(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that 3-methylbutanal is expected to have very high mobility in soil."
+        }
+    ]
+}

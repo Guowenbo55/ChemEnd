@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "66927112303528b49832d7cf"
+    },
+    "CID": {
+        "$numberInt": "91770"
+    },
+    "Name": "Imazapic",
+    "IUPACName": "5-methyl-2-(4-methyl-5-oxo-4-propan-2-yl-1H-imidazol-2-yl)pyridine-3-carboxylic acid",
+    "CanonicalSMILES": "CC1=CC(=C(N=C1)C2=NC(C(=O)N2)(C)C(C)C)C(=O)O",
+    "Synonyms": [
+        "Imazapic",
+        "104098-48-8",
+        "Imazameth",
+        "Imazmethapyr",
+        "Imazamethapyr",
+        "Imazapic [ISO]",
+        "2-(4-Isopropyl-4-methyl-5-oxo-2-imidazolin-2-yl)-5-methylnicotinic acid",
+        "3-Pyridinecarboxylic acid",
+        "2-(4,5-dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1H-imidazol-2-yl)-5-methyl-",
+        "81334-60-3",
+        "DTXSID5034270",
+        "K98N09T10R",
+        "5-methyl-2-(4-methyl-5-oxo-4-propan-2-yl-1H-imidazol-2-yl)pyridine-3-carboxylic acid",
+        "Cadre (trade name)",
+        "3-Pyridinecarboxylic acid,2-[4,5-dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1H-imidazol-2-yl]-5-methyl-",
+        "2-(4-isopropyl-4-methyl-5-oxo-4,5-dihydro-1h-imidazol-2-yl)-5-methylnicotinic acid"
+    ],
+    "IsomericSMILES": "CC1=CC(=C(N=C1)C2=NC(C(=O)N2)(C)C(C)C)C(=O)O",
+    "INCHI": "InChI=1S/C14H17N3O3/c1-7(2)14(4)13(20)16-11(17-14)10-9(12(18)19)5-8(3)6-15-10/h5-7H,1-4H3,(H,18,19)(H,16,17,20)",
+    "INCHIKEY": "PVSGXWMWNRGTKE-UHFFFAOYSA-N",
+    "Formula": "C14H17N3O3",
+    "MolecularWeight": {
+        "$numberDouble": "275.3"
+    },
+    "Description": "5-methyl-2-[4-methyl-5-oxo-4-(propan-2-yl)-4,5-dihydro-1H-imidazol-2-yl]pyridine-3-carboxylic acid is a pyridinemonocarboxylic acid that is 5-methylpyridine-3-carboxylic acid which is substituted at position 2 by a 4,5-dihydro-imidazol-2-yl group, which in turn is substituted at positions 4, 4, and 5 by isopropyl, methyl, and oxo groups, respectively. It is a pyridinemonocarboxylic acid, an imidazolone, a member of imidazolines and a member of methylpyridines.",
+    "XlogP": {
+        "$numberDouble": "1.6"
+    },
+    "Complexity": {
+        "$numberInt": "461"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Field studies conducted over three years evaluated the effectiveness of imazapic, applied alone or in combination with other herbicides, for peanut weed control. Imazapic applied early postemergence alone at 71 g/ha provided excellent weed control, maximum yields, and optimum economic returns. Variations of this treatment, such as using a half rate of imazapic alone, tank mixing with other herbicides, or supplementing with other herbicides, often resulted in equivalent weed control and yield but did not improve economic return. Greenhouse studies on Florida beggarweed control showed that control was independent of application type when seedlings were less than 20 days old, with foliage-only and foliage plus soil applications equally effective. Imazapic was less effective against seedlings older than 20 days, which produced trifoliate leaves instead of unifoliate leaves. Absorption of 14C-imazapic by unifoliate and trifoliate leaves was equivalent, but translocation was greater in unifoliate leaves, contributing to imazapic tolerance in older Florida beggarweed seedlings.",
+            "reference": "Wehtje, G., Padgett, D., & Martin Jr, N. R. (2000). Imazapic-based herbicide systems for peanut and factors affecting activity on Florida beggarweed. Peanut Science, 27(1), 17-22.",
+            "method": {
+                "Test Plant": "Florida beggarweed (Desmodium tortuosum)",
+                "Apply Location": "Foliar applicatin",
+                "Plant Growth Condition": "Plants grown in cups, details not provided.",
+                "Chemical Preparation": "Non-radiolabeled: Imazapic at 18, 35, 54, 71, 87 g ai/ha.Solution containing formulated and 14C-imazapic at 38 \u03bcg/ml and 800,000 dpm/ml respectively (2230 dpm/mM specific activity), equivalent to 71 g ai/ha spray solution.",
+                "Pesticide Application Details for the Plant": "Applied with a moving belt sprayer at 140 L/ha, 220 kPa.For absorption study, 5 ml radiolabeled drop applied to youngest fully expanded uni/trifoliate leaf confined by lanolin 'O' ring.",
+                "Other Information": "For absorption study, 6 replicates, harvested at 48 HAT."
+            },
+            "result": "[{\"Treatment\": \"Unifoliate\", \"1-cm diameter target (dpm/g)\": 338.6, \"Remainder of treated leaf (dpm/g)\": 4.9, \"Remaining leaflets (dpm/g)\": \"-\", \"Apical bud (dpm/g)\": 5.6}, {\"Treatment\": \"Trifoliate\", \"1-cm diameter target (dpm/g)\": 373.8, \"Remainder of treated leaf (dpm/g)\": 1.9, \"Remaining leaflets (dpm/g)\": \"1.5\", \"Apical bud (dpm/g)\": 0.7}]"
+        }
+    ]
+}

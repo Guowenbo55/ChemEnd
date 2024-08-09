@@ -1,0 +1,188 @@
+{
+    "_id": {
+        "$oid": "6682e7ccc4e5dba5ffba2264"
+    },
+    "CID": {
+        "$numberInt": "34"
+    },
+    "Name": "2-CHLOROETHANOL",
+    "IUPACName": "2-chloroethanol",
+    "CanonicalSMILES": "C(CCl)O",
+    "Synonyms": [
+        "2-chloroethanol",
+        "Ethylene chlorohydrin",
+        "107-07-3",
+        "Ethanol",
+        "2-chloro-",
+        "Glycol chlorohydrin",
+        "2-Chloroethyl alcohol",
+        "Chloroethanol",
+        "Glycol monochlorohydrin",
+        "2-Monochloroethanol",
+        "Ethylchlorohydrin",
+        "2-Chlorethanol",
+        "2-Chloro-1-ethanol",
+        "2-Hydroxyethyl chloride",
+        "Glycomonochlorhydrin",
+        "beta-Chloroethyl alcohol"
+    ],
+    "IsomericSMILES": "C(CCl)O",
+    "INCHI": "InChI=1S/C2H5ClO/c3-1-2-4/h4H,1-2H2",
+    "INCHIKEY": "SZIFAVKTNFCBPC-UHFFFAOYSA-N",
+    "Formula": "C2H5ClO",
+    "MolecularWeight": {
+        "$numberDouble": "80.51"
+    },
+    "Description": "2-chloroethanol is a chloroethanol carrying a chloro substituent at position 2. It has a role as a xenobiotic metabolite.",
+    "XlogP": {
+        "$numberDouble": "-0.1"
+    },
+    "Complexity": {
+        "$numberInt": "10"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C, Leo AJ; Medchem Project Issue No.26 Claremont,CA: Pomona College (1985) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. NY: McGraw-Hill Chapt 5 (1982)",
+            "Value": "Using the log octanol/water partition coefficient for 2-chloroethanol, 0.03(1), one can estimate a BCF of 0.62 using a recommended regression equation(2,SRC). Therefore, 2-chloroethanol would not be expected to bioconcentrate in aquatic organisms."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Conway RA et al; Environ Sci Technol 17: 107-12 (1983) (2) Heukelekian H, Rand MC; J Water Pollut Contr Assoc 29: 1040-53 (1955) (3) Lamb CB, Jenkins GF; pp. 326-9 in Proc 8th Industrial Waste Conf Purdue Univ (1952) (4) Matsui S et al; Prog Water Technol 7: 645-59 (1975) (5) Mills EJ Jr, Stack VT Jr; pp. 492-517 in Proc 8th Indust Waste Conf Eng Bull Purdue Univ Eng Ext Ser (1954) (6) Klockner D; Chem Ind 39: 92-4 (1987)",
+            "Value": "2-Chloroethanol is readily biodegradable in screening tests and biological treatment simulations using sewage and activated sludge inocula(1-6). Various investigators have obtained the following results in percent of theoretical BOD in screening tests using sewage inocula: 57% in 20 days(1); 50% in 10 days(2); and 87% in 10 days(3). The results of these screening tests indicate that acclimation is important in the biodegradation process."
+        },
+        {
+            "References": "(1) Matsui S et al; Prog Water Technol 7: 645-59 (1975) (2) Mills EJ Jr, Stack VT Jr; pp. 492-517 in Proc 8th Indust Waste Conf Eng Bull Purdue Univ Eng Ext Ser (1954) (3) Stucki G et al; FEMS Symp 12 (Microb Degrad Zenobiotics Recalcitrant Cmpds: 131-7 (1981) (4) Klockner D; Chem Ind 39: 92-4 (1987)",
+            "Value": "In two simulated biological treatment plants using activated sludge, 45% removal of 2-chloroethanol in 24 hr was obtained with about 5% due to evaporation(1) and 45% of theoretical BOD was removed in 10 days(2). Results obtained in a biodegradability test performed using process wastewater and activated sludge found a 20% COD removal in conflict to a 1% total organic carbon (TOC) removal in 24 hours(4). 2-Chloroethanol's degradation pathway is via 2-chloroacetaldehyde and monochloroacetate to glycolic acid(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 4",
+            "Value": "log Kow = -0.06"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "American Conference of Governmental Industrial Hygienists, Inc. Documentation of the Threshold Limit Values and Biological Exposure Indices. 6th ed. Volumes I, II, III. Cincinnati, OH: ACGIH, 1991., p. 600",
+            "Value": "... EXPOSURES OF 15 MIN A DAY AT CONCENTRATIONS OF 900 TO 1000 PPM ETHYLENE CHLOROHYDRIN WERE FATAL TO RATS WITHIN A FEW DAYS."
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 4683",
+            "Value": "... IV INJECTION (BUT NOT INHALATION) OF 2-CHLOROETHANOL INDUCED A DECREASE IN BLOOD PRESSURE AND INHIBITION OF RESPIRATION IN CATS, BUT ... VAGAL ACTION AND CARDIOVASCULAR REFLEXES WERE NOT ALTERED."
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 4681",
+            "Value": "RATS MAINTAINED ON DIETS CONTAINING ... CONCN RANGING FROM 0.01 TO 0.08% FOR AT LEAST 220 DAYS GREW NORMALLY, BUT THOSE FED ON DIETS FROM 0.12 TO 0.24% HAD RETARDED GROWTH. THE TISSUES OF THE RATS AT ALL LEVELS WERE WITHOUT HISTOPATHOLOGICAL ALTERATION."
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 4680",
+            "Value": "... MICROSCOPIC EXAMINATION OF THE LIVER, KIDNEYS, AND LUNGS OF A MOUSE THAT DIED FOLLOWING INHALATION OF 2-CHLOROETHANOL ... /REVEALED/ EDEMA, CAPILLARY ENGORGEMENT, AND INTERSTITIAL HEMORRHAGES OF ALL THESE ORGANS. ... THE KIDNEYS WERE THE EARLIEST FOCUS OF STRESS, SINCE FOLLOWING EXPOSURE TO THE VAPOR THERE WERE LARGE NUMBERS OF HEMORRHAGES ... AND ... COMPLETE DISINTEGRATION OF THE CEL OF THE CONVOLUTED TUBULES. CONGESTION, FORMATION OF PIGMENT, AND FATTY DEGENERATION WERE OBSERVED IN THE LIVER."
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 4680",
+            "Value": "GUINEA PIGS SURVIVED A DOSE OF 5.0 MG/L BY INHALATION FOR A PERIOD OF 0.9 HR. MICE WERE KILLED WHEN EXPOSED TO A DOSE OF 4.5 MG/L BY INHALATION FOR 0.5 HR. CATS DIED AFTER EXPOSURE BY INHALATION TO A DOSE OF 2.5 MG/L FOR 4 HR (THREE TIMES). /FROM TABLE/"
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 212",
+            "Value": "IN CATS, POISONING IS ATTENDED BY TEMPORARY SLUGGISH REACTION OF THE PUPIL TO LIGHT, AND BY NYSTAGMUS."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 212",
+            "Value": "Aq soln injected into the anterior chamber of rabbit eyes daily for 5 days at conc from 1% to 20% produced iritis, and corneal opacification at the high conc. At 10% and 20% conc there was also cataract and rupture of the lens."
+        },
+        {
+            "References": "PMID:5435606",
+            "Value": "PURE, UNDILUTED 2-CHLOROETHANOL APPLIED TO INTACT OR ABRADED RABBIT SKIN FOR 2 HR PRODUCED ONLY BARELY PERCEPTIBLE ERYTHEMA, BUT PENILE MUCOSAL, OCULAR, SC, & MUSCULAR TISSUE WERE MORE SENSITIVE AND THE PURE SUBSTANCE PRODUCED MODERATE TO SEVERE IRRITATION. 2-CHLOROETHANOL WAS TOXIC TO MOUSE FIBROBLAST & 10-DAY-OLD CHICK EMBRYO CULTURES @ DIL UP TO 1:10."
+        },
+        {
+            "References": "PMID:5127088",
+            "Value": "ADMIN OF 6.4 MG/KG/DAY 2-CHLOROETHANOL IP FOR 1 MO OR 12.8 MG/KG GIVEN 3 TIMES/WK FOR 3 MO HAD NO EFFECT IN RATS. CARDIOVASCULAR, RESP & NEUROMUSCULAR FUNCTIONS IN RABBITS @ HIGH IV DOSES (606.5 MG/KG) CAUSED DECR IN SYSTOLIC & DIASTOLIC PRESSURE CAUSING DEATH DUE TO FAILURE OF THE RESP CENTER OF THE MEDULLA."
+        },
+        {
+            "References": "PMID:5128366",
+            "Value": "2-CHLOROETHANOL WAS CYTOTOXIC IN CELL CULTURE & HAD AN INHIBITORY EFFECT UPON CELL GROWTH IN CULTURES."
+        },
+        {
+            "References": "PMID:5034987",
+            "Value": "INTRACUTANEOUS INJECTIONS OF SEVERAL CONCN TO SHAVED BACK OF ALBINO RABBITS PRODUCED INFLAMMATORY REACTION. IN HIGHER CONCN COAGULATIVE NECROSIS OF COLLAGEN & DERMAL CELLULAR STRUCTURES WAS PRESENT. LOWER CONCN CAUSED POLYMORPHONUCLEAR LEUKOCYTES & EDEMA."
+        },
+        {
+            "References": "PMID:926208",
+            "Value": "ALBINO WISTAR RATS WERE ADMIN 2-CHLOROETHANOL SC AT 0-20 MG/KG DAILY FOR 7 DAYS. IT CAUSED IMPAIRMENT OF DRUG METABOLIZING ENZYMES & PHOSPHATASES IN THE LIVER."
+        },
+        {
+            "References": "Edelhauser HF et al; J Toxicol, Cutaneous Ocul Toxicol 2 (1): 7-39 (1983)",
+            "Value": "The corneal endothelial toxicity of ethylene chlorohydrin was studied. Isolated rabbit corneas were mounted in a specular microscope and the endothelia perfused with a balanced salt soln containing varying concentrations of ethylene chlorohydrin (0-2500 ppm). Some corneas were also perfused with a solution of mannitol or urea in a balanced salt solution as osmotic controls. Despite marked changes in corneal thickness, cellular ultrastructure remained intact except in corneas perfused with 2500 ppm ethylene chlorohydrin. The maximum nondamaging concn for the corneal endothelium was 1250 ppm ethylene chlorohydrin."
+        },
+        {
+            "References": "PMID:6230087",
+            "Value": "In rats, the administration of chloroethanol (50 mg/kg) caused 63 and 59% decreases in the glutathione levels in the liver and kidney, respectively. In the kidney, the levels of glucose, glucose 6-phosphate, fructose 1,6-diphosphate, and triose phosphates were decreased while pyruvate was increased."
+        },
+        {
+            "References": "Courtney KD et al; J Environ Sci Health, Part B; B17 (4): 381-91 (1982)",
+            "Value": "Ethylene chlorohydrin administered intragastrically to pregnant CD-1 mice from the 6th to the 16th day of gestation at a dose of 100 mg/kg produced a significant reduction in maternal wt gain and a decrease in fetal body wt and liver wt. A dose of 150 mg/kg was maternally lethal."
+        },
+        {
+            "References": "Sheu CW et al; J Am Coll Toxicol 2 (2): 221-3 (1983)",
+            "Value": "Ethylene chlorohydrin (given ip for 5 days at 90 mg/kg) was lethal to 5 of 12 male mice within 1 wk. When chlorohydrin at 30 and 60 mg/kg (5 days/wk for 5 wk) was injected ip into male mice, mating ability and fertility were not affected and cytogenetic analysis of 1051 male progeny indicated no increase over control levels of heritable translocation heterozygotes."
+        },
+        {
+            "References": "Friedman L et al; J AM Coll Toxicol 1 (3): 37-56 (1982)",
+            "Value": "The effects of 2-chloroethanol (2-CE) on rat tissue following in vitro and in vivo exposure were studied. At concn about 2.5 mg/mL, protein synthesis in liver slices was inhibited; at concn of about 25 mg/mL, RNA synthesis and respiration were also impaired. Single oral doses to young adult rats at levels of 15-40 mg/kg depressed liver nonprotein sulfhydryl GSH concn and liver protein but not RNA synthesis. Liver lipid was increased by 7 hr after a single oral dose of 30 mg/kg. Female rats were more sensitive than male rats. Protein synthesis was also depressed in kidneys of 2-CE-treated male rats but at higher doses than those needed for this effect to occur in the livers. Liver polysome disaggregation also occurred after oral 2-CE doses of 20 mg/kg and greater. The effects of 2-CE on ribosome profiles and protein synthesis were at least partially reversed by concurrent ip administration of cysteine."
+        },
+        {
+            "References": "Andrews JE et al; J Environ Sci Health Part B B18 (3): 351-67 (1983)",
+            "Value": "Chicks received an acute dose or 8 doses intragastrically of 60 or 40 mg/kg ethylene chlorohydrin (ECH), respectively, and were sacrificed 18 hr after the last dose. Mitochondrial elongation of fatty acids decreased. Cytochrome c oxidase activity in fresh whole liver homogenate was higher suggesting that the mitochondrial membrane integrity is compromised by the ECH treatment. Plasma and liver triglyceride levels were elevated in both the single and multiple ECH dose groups. Liver to body wt ratios were higher in both treatment groups when compared to their controls. Histological examination of the liver of ECH-treated chicks showed cytoplasmic clearing of the cells but no vacuolization or centrilobular necrosis. Serum isocitrate dehydrogenase levels were higher in the multiple treatment ECH group."
+        },
+        {
+            "References": "PMID:6322476",
+            "Value": "The carcinogenicity of 2-chloroethanol was investigated in NMRI mice & rats. 2-Chloroethanol was administered sc once weekly to groups of 100 female NMRI mice (3.0 mg/kg, 1.0 mg/kg and 0.3 mg/kg, respectively). Tricaprylin was the solvent. The mean total dose/mouse was 175.9 mg/kg, 76.3 mg/kg and 23.0 mg/kg, respectively. Rats were admin 10.0 & 2.5 mg/kg body wt (in single dosage) intragastrically. Solvent was salad oil. No carcinogenic effect observed."
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 4680",
+            "Value": "INHALATION OF 2-CHLOROETHANOL BY ANIMALS /MICE, RATS, GUINEA PIGS/ RESULTED IN NASAL IRRITATION, INCOORDINATION, CONVULSIONS, PROSTRATION, & RESPIRATORY FAILURE."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists, Inc. Documentation of the Threshold Limit Values and Biological Exposure Indices. 6th ed. Volumes I, II, III. Cincinnati, OH: ACGIH, 1991., p. 601",
+            "Value": "/Investigators/ observed increased chromosome aberrations in bone marrow of rats exposed at 0.22 ppm of ethylene chlorohydrin. Cytogenic analysis of the bone marrow from rats exposed to ethylene chlorohydrin at conc below 0.22 ppm had negative results."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists, Inc. Documentation of the Threshold Limit Values and Biological Exposure Indices. 6th ed. Volumes I, II, III. Cincinnati, OH: ACGIH, 1991., p. 601",
+            "Value": "In 2-yr dermal study with ethylene chlorohydrin, there was no evidence of carcinogenicity in rats given 50 or 100 mg/kg/day or in mice given 7.5 or 15 mg/animal/day."
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 4679",
+            "Value": "... Rats /were exposed/ to air that was bubbled through aqueous solutions of beta-chloroethyl alcohol maintained at 40 \u00b0C. Rats exposed for 1 hr to air passed through 12.5, 25, or 50 percent aqueous beta-chloroethyl alcohol died 1 or 2 hr after the exposure. Rats that were exposed, during three periods each of 1 hr duration over a total period of less that 2 days, to air bubbled through a 6.25 percent aqueous solution of this alcohol died ... /following/ the third exposure. A total of four exposure periods to air bubbled through a 3.13 percent solution, each of 2 hr duration on two consecutive days, resulted in morbidity, depression, paralysis, and mortality among rats."
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 4681",
+            "Value": "Rats were injected three times weekly for 3 months with doses of 32, 12.8, or 6.4 mg/kg with no effect except increased mortality at 32 mg/kg. Rats that were injected for 30 days with a dose of 12.8 mg/kg showed increased mortality and marked decrease in body weight, but no histopathologic changes in the major organs examined. No effects were obseved at the 6.4 mg/kg dose level."
+        },
+        {
+            "References": "O'Donoghue, J.L. (ed.). Neurotoxicity of Industrial and Commercial Chemicals. Volume II. Boca Raton, FL: CRC Press, Inc., 1985., p. 87",
+            "Value": "Ethylene chlorhydrin or 2-chloroethanol, a reaction product of ethylene oxide and sodium chloride, /was administered/ to dogs, rats, and monkeys for 90 days without evidence of neurotoxicity."
+        },
+        {
+            "References": "Allavena A et al; Teratogenesis, Carcinogenesis, and Mutagenesis, 12 (1): 31-41 (1992)",
+            "Value": "The genotoxic effects of 2-chloroethanol, 8-hydroxyquinoline, 2,6-toluenediamine, and eugenol were studied in Sprague-Dawley-rats. Animals were treated with half of the 50%; lethal dose of each substance by gavage. One group was treated 20 hours after partial hepatectomy, and liver and bone marrow cells examined after 48 hours; another group was treated 30 and 6 hours prior to sacrifice and bone marrow cells examined and primary cultures prepared from the liver; and a third group was sacrificed 2 hours after treatment and hepatocyte primary cultures prepared. No increases in the appearance of micronucleated hepatocytes were seen in any treated animals after partial hepatectomy. No increases in the numbers of micronucleated polychromatic erythrocytes or changes in the frequencies of polychromatic erythrocytes were seen in the bone marrow of animals in either of the first two experimental groups. No significant increases in unscheduled DNA synthesis were seen in the third group of animals upon autoradiographic evaluation of hepatocyte primary cultures and no evidence of DNA fragmentation was found. Treatment of rat primary hepatocyte cultures with the four test compounds for 20 hours did not result in DNA fragmentation or unscheduled DNA synthesis. /It was/ concluded that contrary to their actions in in-vitro carcinogenicity tests the tested compounds do not produce significant in-vivo genotoxic effects."
+        },
+        {
+            "References": "Bhat HK et al; Toxicol Lett (AMST) 59 (1-3)203-12 (1993)",
+            "Value": "The effect of 2-chloroethanol (CE), 2,2-dichloroethanol (DCE) and 2,2,2-trichloroethanol (TCE) on rat liver mitochondrial respiration was studied. Rat liver mitochondria were isolated in a medium consisting of 250 mM sucrose, 10 mM Tris-HCl and 1 mM EDTA (pH 7.4). Mitochondrial respiration was determined with an oxygen electrode at 30 \u00b0C and the polarographic buffer consisted of 250 mM mannitol, 10 mM potassium chloride, 10 mM potassium phosphate, 5 mM magnesium chloride, 0.2 mM EDTA and 10 mM Tris-hydrochloric acid (pH 7.4). With succinate as the respiratory substrate and using chloroethanols (150 mM), 2-chloroethanol stimulated respiration by 28.2 + or - 6 5% and 2,2-dichloroethanol by 202.7 + or - 8.2% while 2,2,2-trichloroethanol inhibited mitochondrial respiration (> 95%). The effect of change in the concentration of chloroethanols on mitochondrial respiration was also studied. Chloroethanol showed maximum stimulation at 600 mM (97.6%), 2,2-dichloroethanol at 150 mM (202.6%) and 2,2,2-trichloroethanol at 30 mM (313.6%). Respiratory stimulation was independent of mitochondrial protein concentration. Chloroethanols (optimal concentrations for respiratory stimulation with succinate) inhibited mitochondrial respiration when glutamate-malate was used as the respiratory substrate. Estimation of adenosine triphosphate (ATP) showed that chloroethanols inhibited the synthesis of adenosine triphosphate. These results indicate that chloroethanols stimulate mitochondrial respiration by uncoupling oxidative phosphorylation and that the uncoupling potency is proportional to the extent of chlorination at the beta-position of haloethanol."
+        },
+        {
+            "References": "Toxicology & Carcinogenesis Studies of 2-Chloroethanol (Ethylene Chlorohydrin in F344/N Rats and Swiss CD-1 Mice. Technical Report Series No. 275 (1985) NTIS Publication No. PB86-145513/AS U.S. Department of Health and Human Services, National Toxicology Program, National Institute of Environmental Health Sciences, Research Triangle Park, NC 27709",
+            "Value": "... Under the conditions of these 2 yr dermal studies, there was no evidence of carcinogenicity of 2-chloroethanol for male and female F344/N rats given 50 or 100 mg/kg per day or for male and female Swiss CD-1 mice given 7.5 or 15 mg/kg day."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 26: 1560-7 (1992) (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc for 2-chloroethanol estimated from molecular structure is 1.33(1). According to a suggested classification scheme, a Koc of this magnitude indicates that 2-chloroethanol will exhibit very high mobility in soil(2)."
+        }
+    ]
+}

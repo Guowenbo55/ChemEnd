@@ -1,0 +1,123 @@
+{
+    "_id": {
+        "$oid": "6682e98fc4e5dba5ffba2b3a"
+    },
+    "CID": {
+        "$numberInt": "107526"
+    },
+    "Name": "D(+)-Glucose",
+    "IUPACName": "(2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanal",
+    "CanonicalSMILES": "C(C(C(C(C(C=O)O)O)O)O)O",
+    "Synonyms": [
+        "50-99-7",
+        "D(+)-Glucose",
+        "(2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanal",
+        "D-(+)-Glucose",
+        "Dextrose Anhydrous",
+        "aldehydo-D-glucose",
+        "Glucose Anhydrous",
+        "DL-Glucose",
+        "Dextrose",
+        "anhydrous",
+        "58367-01-4",
+        "Glucose",
+        "anhydrous",
+        "Glucose [JAN]",
+        "5SL0G7R0OK",
+        "Sirup",
+        "Glucose liquid"
+    ],
+    "IsomericSMILES": "C([C@H]([C@H]([C@@H]([C@H](C=O)O)O)O)O)O",
+    "INCHI": "InChI=1S/C6H12O6/c7-1-3(9)5(11)6(12)4(10)2-8/h1,3-6,8-12H,2H2/t3-,4+,5+,6+/m0/s1",
+    "INCHIKEY": "GZCGUPFRVQAUEE-SLPGGIOYSA-N",
+    "Formula": "C6H12O6",
+    "MolecularWeight": {
+        "$numberDouble": "180.16"
+    },
+    "Description": "Aldehydo-D-glucose is the open chain form of D-glucose. It is a D-glucose and an aldehydo-glucose. It is an enantiomer of an aldehydo-L-glucose.",
+    "XlogP": {
+        "$numberDouble": "-2.9"
+    },
+    "Complexity": {
+        "$numberInt": "138"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Glucose. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of March 14, 2016: https://phytochem.nal.usda.gov/phytochem/search",
+            "Value": "D(+)-Glucose levels in some plants(1).",
+            "Table": "[{'Genus species': 'Phoenix dactylifera', 'Family': 'Arecaceae', 'Common name(s)': 'Date Palm', 'Part': 'Fruit', 'Low/High concn (ppm)': 'not reported/357000.0'}, {'Genus species': 'Prosopis juliflora', 'Family': 'Fabaceae', 'Common name(s)': 'Mesquite', 'Part': 'Fruit', 'Low/High concn (ppm)': 'not reported/302500.0'}, {'Genus species': 'Tamarindus indica', 'Family': 'Fabaceae', 'Common name(s)': 'Kilytree, Tamarind, Indian Tamarind', 'Part': 'Fruit', 'Low/High concn (ppm)': '210000.0/280000.0'}, {'Genus species': 'Curcuma longa', 'Family': 'Zingiberaceae', 'Common name(s)': 'Indian Saffron, Turmeric', 'Part': 'Rhizome', 'Low/High concn (ppm)': 'not reported/280000.0'}, {'Genus species': 'Annona squamosa', 'Family': 'Annonaceae', 'Common name(s)': 'Sweetsop, Sugar-Apple', 'Part': 'Fruit', 'Low/High concn (ppm)': '72900.0/272500.0'}, {'Genus species': 'Teucrium montanum', 'Family': 'Lamiaceae', 'Common name(s)': 'Mountain Germander', 'Part': 'Leaf', 'Low/High concn (ppm)': 'not reported/260000.0'}, {'Genus species': 'Sambucus nigra', 'Family': 'Adoxaceae', 'Common name(s)': 'Elder, European Elderberry', 'Part': 'Fruit', 'Low/High concn (ppm)': '31000.0/221410.0'}, {'Genus species': 'Schinus molle', 'Family': 'Anacardiaceae', 'Common name(s)': 'Mastic-Tree, California Peppertree', 'Part': 'Fruit', 'Low/High concn (ppm)': 'not reported/190000.0'}, {'Genus species': 'Asimina triloba', 'Family': 'Annonaceae', 'Common name(s)': 'Pawpaw', 'Part': 'Fruit', 'Low/High concn (ppm)': '18000.0/170940.0'}, {'Genus species': 'Linum usitatissimum', 'Family': 'Linaceae', 'Common name(s)': 'Flax, Linseed', 'Part': 'Seed', 'Low/High concn (ppm)': '111000.0/146000.0'}]"
+        },
+        {
+            "References": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. d-Glucose. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Jun 13, 2016: https://phytochem.nal.usda.gov/phytochem/search",
+            "Value": "d-Glucose has been identified in 37 plants. Levels in some plants are as follows(1): /d-Glucose/",
+            "Table": "[{'Genus species': 'Rehmannia glutinosa', 'Family': 'Scrohulariaceae', 'Common name(s)': 'Chinese Foxglove', 'Part': 'Root', 'Low/High concn (ppm)': '17000/91000'}, {'Genus species': 'Daucus carota', 'Family': 'Apiaceae', 'Common name(s)': 'Carrot', 'Part': 'Root', 'Low/High concn (ppm)': 'not reported/80000'}, {'Genus species': 'Panax quinquefolius', 'Family': 'Araliaceae', 'Common name(s)': 'Ginseng', 'Part': 'Plant', 'Low/High concn (ppm)': '5340/1500'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Mazzobre MF et al; Carbohydrate Research 340: 1207-11 (2005) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of March 10, 2016: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for D(+)-glucose(SRC), using a log Kow of -3.00(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Zahn R, Wellens H; Zeitschrift fur Wasser und Abwasser Forschung. 13: 1-7 (1980) (2) Van Beelen P; Stygologia 5(4): 199-212 (1990) (3) Urano K, Kato Z; J Hazard Materials 13: 147-159 (1986) (4) Takemoto S et al; Suishitsu Odaku Kenkyu 4: 80-90 (1981) (5) Pitter P; Water Research 10:231-235 (1976) (6) Konopka A, Turco R; Appl Environ Microbiol 57(8): 2260-2268 (1991)",
+            "Value": "AEROBIC: D(+)-Glucose, present at 1000 mg/L, reached >90% of its theoretical BOD in 2 days using a non-adapted activated sludge inoculum at 1 g/L (dry matter) in a Zahn-Wellens static test(1). The biodegradation half-life of D(+)-glucose in aerobic aquifer material (not heavily polluted), including Ontario loam and sand, South Carolina sand and Holland sand, is reported to range from 0.6-1.1 days(2). Using an electrolytic respirometry method with a 100 mg/L compound concentration and an activated sludge inoculum, D(+)-glucose was easily biodegraded with a 46-56% theoretical BOD in 100-110 hours(3). Using standard and seawater dilution methods, the 5-day BOD of D(+)-glucose was determined as 74.8 and 75.2% respectively(4). D(+)-Glucose was readily biodegradable in batch tests using adapted activated sludge with a biodegradation rate of 180.0 mg COD/g-hour(5). Biodegradation of D(+)-glucose in various samples of aquifer, saturated zone, and surface soils was found to occur rapidly with somewhat slower rates in till soil samples(6); based on measured rate constants(6), the biodegradation half-life ranged from 0.25 to 19 days."
+        },
+        {
+            "References": "(1) Nuck BA, Federle TW; Environ Sci Technol 30: 3597-3603 (1996)",
+            "Value": "ANAEROBIC: An anaerobic test system using digester sludge was used to assess the mineralization 14C-radio-labeled compounds. D(+)-Glucose had a first-order rate constant of 0.53/day(1) which corresponds to a half-life of 1.3 days(SRC)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Mazzobre MF et al; Carbohydrate Research 340(6): 1207-1211 (2005)",
+            "Value": "log Kow = -3.00"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:26277062",
+            "Value": "Vascular calcification is a hallmark of type 2 diabetes. Glucose stimulates calcification in culture of vascular smooth muscle cells (VSMCs) but the underlying mechanisms remain obscure. We observed that high glucose levels stimulated mouse and human VSMC trans-differentiation into chondrocytes, with increased levels of Sox9, type II collagen, glycosaminoglycan and Runx2 expression, and increased alkaline phosphatase activity and mineralization. These effects were associated with increased expression of IL-1beta, which stimulated alkaline phosphatase and calcification, suggesting that glucose induces chondrocyte differentiation of VSMCs, possibly through IL-1beta activation."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "PMID:25837224",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ We previously reported that refeeding after a 48-hr fast, used as a study model of starvation and refeeding, promotes acute liver inflammatory gene expression, which is at least partly mediated by toll-like receptor 2 (TLR2). We also previously demonstrated that dietary carbohydrates play critical roles in this process. The aim of this study was to compare the outcomes of refeeding with different carbohydrate sources. Mice were fasted for 46 hr and then refed with 1.5% (w/w) agar gel containing 19% carbohydrate (sources: alpha-cornstarch, glucose, sucrose, or fructose). The liver expression of inflammatory and other specific genes was then sequentially measured for the first 14 hr after refeeding initiation. Fasting for 46 hr up-regulated the liver expression of endogenous ligands for TLRs (HspA5, Hsp90 aa1, and Hspd1). Refeeding with agar gel containing alpha-cornstarch or glucose increased the liver expression of Tlr2, proinflammatory genes (Cxcl2, Cxcl10, Cxcl1, Nfkb1, Nfkb2, RelB, Sectm1alpha, Il1beta), stress response genes (Atf3, Asns, Gadd45 a, Perk, Inhbe), detoxification genes (Hmox1, Gsta1, Abca8b), genes involved in tissue regeneration (Gdf15, Krt23, Myc, Tnfrsf12a, Mthfd2), and genes involved in tumor suppression (p53, Txnrd1, Btg2). This refeeding also moderately but significantly elevated the serum levels of alanine aminotransferase. These effects were attenuated in mice refed with agar gel containing sucrose or fructose. Dietary glucose, rather than fructose, plays a critical role in refeeding-induced acute liver inflammatory gene expression and moderate hepatocyte destruction."
+        },
+        {
+            "References": "PMID:26427872",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ DNA damage and DNA damage response (DDR) in neurulation stage embryos under maternal diabetes conditions are not well understood. The purpose of this study was to investigate whether maternal diabetes and high glucose in vitro induce DNA damage and DDR in the developing embryo through oxidative stress. In vivo experiments were conducted by mating superoxide dismutase 1 (SOD1) transgenic male mice with wild-type (WT) female mice with or without diabetes. Embryonic day 8.75 (E8.75) embryos were tested for the DNA damage markers, phosphorylated histone H2A.X (p-H2A.X) and DDR signaling intermediates, including phosphorylated checkpoint 1 (p-Chk1), phosphorylated checkpoint 2 (p-Chk2), and p53. Levels of the same DNA damage markers and DDR signaling intermediates were also determined in the mouse C17.2 neural stem cell line. Maternal diabetes and high glucose in vitro significantly increased the levels of p-H2A.X. Levels of p-Chk1, p-Chk2, and p53, were elevated under both maternal diabetic and high glucose conditions. SOD1 overexpression blocked maternal diabetes-induced DNA damage and DDR in vivo. Tempol, a SOD1 mimetic, diminished high glucose-induced DNA damage and DDR in vitro. In conclusion, maternal diabetes and high glucose in vitro induce DNA damage and activates DDR through oxidative stress, which may contribute to the pathogenesis of diabetes-associated embryopathy."
+        },
+        {
+            "References": "PMID:26277062",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Vascular calcification is a hallmark of type 2 diabetes. Glucose stimulates calcification in culture of vascular smooth muscle cells (VSMCs) but the underlying mechanisms remain obscure. We observed that high glucose levels stimulated mouse and human VSMC trans-differentiation into chondrocytes, with increased levels of Sox9, type II collagen, glycosaminoglycan and Runx2 expression, and increased alkaline phosphatase activity and mineralization. These effects were associated with increased expression of IL-1beta, which stimulated alkaline phosphatase and calcification, suggesting that glucose induces chondrocyte differentiation of VSMCs, possibly through IL-1beta activation."
+        },
+        {
+            "References": "PMID:25898949",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Neurotensin (NT) is a neurohormone produced in the central nervous system and in the gut epithelium by the enteroendocrine N cell. NT may play a role in appetite regulation and may have potential in obesity treatment. Glucose ingestion stimulates NT secretion in healthy young humans, but the mechanisms involved are not well understood. Here, we show that rats express NT in the gut and that glucose gavage stimulates secretion similarly to oral glucose in humans. Therefore, we conducted experiments on isolated perfused rat small intestine with a view to characterize the cellular pathways of secretion. Luminal glucose (20% wt/vol) stimulated secretion but vascular glucose (5, 10, or 15 mmol/L) was without effect. The underlying mechanisms depend on membrane depolarization and calcium influx, since the voltage-gated calcium channel inhibitor nifedipine and the KATP channel opener diazoxide, which causes hyperpolarization, eliminated the response. Luminal inhibition of the sodium-glucose cotransporter 1 (SGLT1) (by phloridzin) eliminated glucose-stimulated release as well as secretion stimulated by luminal methyl-alpha-D-glucopyranoside (20% wt/vol), a metabolically inactive SGLT1 substrate, suggesting that glucose stimulates secretion by initial uptake by this transporter. However, secretion was also sensitive to GLUT2 inhibition (by phloretin) and blockage of oxidative phosphorylation (2-4-dinitrophenol). Direct KATP channel closure by sulfonylureas stimulated secretion. Therefore, glucose stimulates NT secretion by uptake through SGLT1 and GLUT2, both causing depolarization either as a consequence of sodium-coupled uptake (SGLT1) or by closure of KATP channels (GLUT2 and SGLT1) secondary to the ATP-generating metabolism of glucose."
+        },
+        {
+            "References": "Humphreys, D.J. Veterinary Toxicology. 3rd ed. London, England: Bailliere Tindell, 1988., p. 205",
+            "Value": "/VETERINARY CASE REPORTS/ Calves fed with a mixture of glucose and milk substitute in the ratio of 2:1 instead of the recommended 1:1 showed depression and diarrhea, with four animals dying overnight. The post-mortem findings included dehydration, sunken eyes, congested abomasal mucosa, and distended intestines. The lungs were congested and the urinary bladder distended, the urine having a glucose content of over 0.5 g/dL."
+        },
+        {
+            "References": "PMID:26156991",
+            "Value": "/OTHER TOXICITY INFORMATION/ Sleep-active neurons located in the ventrolateral preoptic nucleus (VLPO) play a crucial role in the induction and maintenance of slow-wave sleep (SWS). However, the cellular and molecular mechanisms responsible for their activation at sleep onset remain poorly understood. Here, we test the hypothesis that a rise in extracellular glucose concentration in the VLPO can promote sleep by increasing the activity of sleep-promoting VLPO neurons. We find that infusion of a glucose concentration into the VLPO of mice promotes SWS and increases the density of c-Fos-labeled neurons selectively in the VLPO. Moreover, we show in patch-clamp recordings from brain slices that VLPO neurons exhibiting properties of sleep-promoting neurons are selectively excited by glucose within physiological range. This glucose-induced excitation implies the catabolism of glucose, leading to a closure of ATP-sensitive potassium (KATP) channels. The extracellular glucose concentration monitors the gating of KATP channels of sleep-promoting neurons, highlighting that these neurons can adapt their excitability according to the extracellular energy status. Together, these results provide evidence that glucose may participate in the mechanisms of SWS promotion and/or consolidation. Although the brain circuitry underlying vigilance states is well described, the molecular mechanisms responsible for sleep onset remain largely unknown. Combining in vitro and in vivo experiments, we demonstrate that glucose likely contributes to sleep onset facilitation by increasing the excitability of sleep-promoting neurons in the ventrolateral preoptic nucleus (VLPO). We find here that these neurons integrate energetic signals such as ambient glucose directly to regulate vigilance states accordingly. Glucose-induced excitation of sleep-promoting VLPO neurons should therefore be involved in the drowsiness that one feels after a high-sugar meal. This novel mechanism regulating the activity of VLPO neurons reinforces the fundamental and intimate link between sleep and metabolism."
+        },
+        {
+            "References": "PMID:26086618",
+            "Value": "/OTHER TOXICITY INFORMATION/ Hyperglycemia is common in critically ill and surgical patients, as are core temperature disturbances. The effect of hyperglycemia on thermoregulatory defenses remains unknown. We determined the effect of blood glucose concentration on the shivering threshold in rabbits. Twenty-seven rabbits lightly anesthetized with isoflurane were randomly assigned to infusions of (1) saline, (2) insulin titrated to produce blood glucose concentrations 60 to 100 mg/dL, or (3) 50% dextrose titrated to produce blood glucose concentrations 200 to 300 mg/dL. Core temperature was reduced at a rate of 2 to 3 \u00b0C/h by perfusing water at 10 \u00b0C through a plastic tube positioned in the colon. Cooling continued until shivering was observed by an investigator blinded to treatment or until esophageal (core) temperature reached 34 \u00b0C. Core temperatures at the onset of shivering defined the threshold. All analyses were conducted using SAS version 9.3 (SAS Institute Inc., Cary, NC). Rabbits given saline shivered at 37.2 +/- 0.5 \u00b0C (mean +/- SD). Rabbits given insulin shivered at 36.3 +/- 1.1 \u00b0C. Rabbits given dextrose shivered at 38.0 +/- 0.6 \u00b0C. The shivering threshold increased as a function of blood glucose concentration: shivering threshold (deg C) = 0.009 [blood glucoseconcentration (mg/dL)] + 35.6, r = 0.53. The shivering threshold thus increased approximately 1 \u00b0C for each 100 mg/dL increase in blood glucoseconcentration. Hyperglycemia increases the threshold for shivering, whereas hypoglycemia lowers the threshold on rabbits."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of March 10, 2016: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of D(+)-glucose can be estimated to be 10(SRC). According to a classification scheme(2), this estimated Koc value suggests that D(+)-glucose is expected to have very high mobility in soil."
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "6692711d303528b49832d7f8"
+    },
+    "CID": {
+        "$numberInt": "6451142"
+    },
+    "Name": "Prothioconazole",
+    "IUPACName": "2-[2-(1-chlorocyclopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl]-1H-1,2,4-triazole-3-thione",
+    "CanonicalSMILES": "C1CC1(C(CC2=CC=CC=C2Cl)(CN3C(=S)N=CN3)O)Cl",
+    "Synonyms": [
+        "Prothioconazole",
+        "178928-70-6",
+        "2-(2-(1-Chlorocyclopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl)-1H-1,2,4-triazole-3(2H)-thione",
+        "3H-1,2,4-Triazole-3-thione",
+        "2-[2-(1-chlorocyclopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl]-1,2-dihydro-",
+        "2-[2-(1-Chlorocyclopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl]-1,2-dihydro-3H-1,2,4-triazole-3-thione",
+        "JAU 6476",
+        "27B9FV58IY",
+        "2-(2-(1-chlorocyclopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl)-1,2-dihydro-3H-1,2,4-triazole-3-thione",
+        "DTXSID4034869",
+        "CHEBI:84008",
+        "Prothioconazole [ISO:BSI]",
+        "UNII-27B9FV58IY",
+        "PROLINE 480 SC Fungicide",
+        "2-[2-(1-chlorocyclopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl]-1H-1,2,4-triazole-3-thione",
+        "HSDB 7893"
+    ],
+    "IsomericSMILES": "C1CC1(C(CC2=CC=CC=C2Cl)(CN3C(=S)N=CN3)O)Cl",
+    "INCHI": "InChI=1S/C14H15Cl2N3OS/c15-11-4-2-1-3-10(11)7-14(20,13(16)5-6-13)8-19-12(21)17-9-18-19/h1-4,9,20H,5-8H2,(H,17,18,21)",
+    "INCHIKEY": "MNHVNIJQQRJYDH-UHFFFAOYSA-N",
+    "Formula": "C14H15Cl2N3OS",
+    "MolecularWeight": {
+        "$numberDouble": "344.3"
+    },
+    "Description": "2-[2-(1-chlorocyclopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl]-1,2-dihydro-1,2,4-triazole-3-thione is a member of the class of triazoles that is 1,2,4-triazole-3-thione substituted at position 2 by a 2-(1-chlorocyclopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl group. It is a member of monochlorobenzenes, a member of triazoles, a tertiary alcohol, a member of cyclopropanes and a thiocarbonyl compound.",
+    "XlogP": {
+        "$numberDouble": "2.7"
+    },
+    "Complexity": {
+        "$numberInt": "458"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The study examined the translocation and degradation kinetics of prothioconazole and tebuconazole, two fungicides effective against Fusarium head blight (FHB) in wheat. In greenhouse experiments, minimal translocation of the fungicides (<1%) was observed from flag leaves to ears and a maximum of 3.55% from ears to flag leaves. Field experiments showed that degradation kinetics were faster in flag leaf blades than in ears, with varying rates depending on cultivar. Despite differences in degradation rates, both fungicides resulted in significant decreases (42.6\u2013100%) in FHB traits. The findings suggest that while there is limited translocation of these fungicides, moderate redistribution in the ears occurs, which can be crucial for FHB management. Cultivar and environmental factors also influenced degradation kinetics, but overall, effective protection against FHB was maintained.",
+            "reference": "Lehoczki\u2010Krsjak, S., Varga, M., Szab\u00f3\u2010Hev\u00e9r, \u00c1., & Mesterh\u00e1zy, \u00c1. (2013). Translocation and degradation of tebuconazole and prothioconazole in wheat following fungicide treatment at flowering. Pest management science, 69(11), 1216-1224.",
+            "method": {
+                "Test Plant": "Three wheat cultivars differing in Fusarium resistance were used - GK B\u00e9kes (susceptible to FHB with awns), GK Kal\u00e1sz (susceptible, awnless) and GK F\u00e9ny (moderately resistant to FHB, awnless).",
+                "Apply Location": "Foliar application (ears, flag leaves and spikelets were treated)",
+                "Plant Grown Condition": "Wheat seedlings were grown in plastic tubes containing 1:1 peat and sandy soil mix. After vernalization, plants were grown in PVC containers with 1:1 peat and sandy soil mix in a semi-automatic greenhouse under 16h photoperiod at 25-32\u00b0C day and 15-19\u00b0C night temperature. Plants were fertilized 3 times with Volld\u00fcnger fertilizer.",
+                "Chemical Preparation": "A triazole fungicide mixture containing 125g/L prothioconazole and 125g/L tebuconazole (Prosaro from Bayer CropScience) was diluted in distilled water to be equivalent to 1L Prosaro in 250L solution.",
+                "Pesticide Application Details for the Plant": "The fungicide mixture was applied by brushing at mid-flowering stage (GS65) to complete ears, flag leaf blades and outer spikelets on same side of ears separately to study basipetal and acropetal translocation.",
+                "Other Information": "Field trials were conducted in 2010 and 2011 in Szeged, Hungary with the same 3 wheat cultivars sown at 550 seeds/m2 in 5.2m2 plots with 3 replicates per treatment in randomized design"
+            },
+            "result": "[{\"Plant\": \"GK Kalasz\", \"Hours after application\": 2, \"Treated side of ear (% of absorbed)\": 79.2, \"Untreated side of ear (%)\": 15.9, \"Flag leaf blade (%)\": 4.9}, {\"Plant\": \"GK Kalasz\", \"Hours after application\": 48, \"Treated side of ear (% of absorbed)\": 88.8, \"Untreated side of ear (%)\": 8.1, \"Flag leaf blade (%)\": 3.1}, {\"Plant\": \"GK Kalasz\", \"Hours after application\": 96, \"Treated side of ear (% of absorbed)\": 88.4, \"Untreated side of ear (%)\": 8.7, \"Flag leaf blade (%)\": 2.9}, {\"Plant\": \"GK Bekes\", \"Hours after application\": 2, \"Treated side of ear (% of absorbed)\": 82.6, \"Untreated side of ear (%)\": 12.7, \"Flag leaf blade (%)\": 4.7}, {\"Plant\": \"GK Bekes\", \"Hours after application\": 48, \"Treated side of ear (% of absorbed)\": 81.3, \"Untreated side of ear (%)\": 12.7, \"Flag leaf blade (%)\": 6.4}, {\"Plant\": \"GK Bekes\", \"Hours after application\": 96, \"Treated side of ear (% of absorbed)\": 90.0, \"Untreated side of ear (%)\": 7.7, \"Flag leaf blade (%)\": 2.3}, {\"Plant\": \"GK Feny\", \"Hours after application\": 2, \"Treated side of ear (% of absorbed)\": 85.7, \"Untreated side of ear (%)\": 13.2, \"Flag leaf blade (%)\": 1.1}, {\"Plant\": \"GK Feny\", \"Hours after application\": 48, \"Treated side of ear (% of absorbed)\": 88.1, \"Untreated side of ear (%)\": 8.2, \"Flag leaf blade (%)\": 3.7}, {\"Plant\": \"GK Feny\", \"Hours after application\": 96, \"Treated side of ear (% of absorbed)\": 90.3, \"Untreated side of ear (%)\": 7.1, \"Flag leaf blade (%)\": 2.6}]"
+        }
+    ]
+}

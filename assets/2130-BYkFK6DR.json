@@ -1,0 +1,69 @@
+{
+    "_id": {
+        "$oid": "6682e7e9c4e5dba5ffba22f4"
+    },
+    "CID": {
+        "$numberInt": "2130"
+    },
+    "Name": "AMANTADINE",
+    "IUPACName": "adamantan-1-amine",
+    "CanonicalSMILES": "C1C2CC3CC1CC(C2)(C3)N",
+    "Synonyms": [
+        "amantadine",
+        "1-Adamantanamine",
+        "768-94-5",
+        "adamantan-1-amine",
+        "1-Adamantylamine",
+        "1-Aminoadamantane",
+        "Adamantanamine",
+        "Adamantylamine",
+        "Aminoadamantane",
+        "Amantidine",
+        "Symmetrel",
+        "Pk-merz",
+        "Adamantamine",
+        "Symadine",
+        "1-Adamantamine"
+    ],
+    "IsomericSMILES": "C1C2CC3CC1CC(C2)(C3)N",
+    "INCHI": "InChI=1S/C10H17N/c11-10-4-7-1-8(5-10)3-9(2-7)6-10/h7-9H,1-6,11H2",
+    "INCHIKEY": "DKNWSYNQZKUICI-UHFFFAOYSA-N",
+    "Formula": "C10H17N",
+    "MolecularWeight": {
+        "$numberDouble": "151.25"
+    },
+    "Description": "Amantadine is a member of the class of adamantanes that is used as an antiviral and antiparkinson drug. It has a role as an antiviral drug, an antiparkinson drug, a dopaminergic agent, an analgesic, a NMDA receptor antagonist and a non-narcotic analgesic. It is a primary aliphatic amine and a member of adamantanes. It is a conjugate base of an adamantan-1-aminium. It derives from a hydride of an adamantane.",
+    "XlogP": {
+        "$numberDouble": "2.4"
+    },
+    "Complexity": {
+        "$numberInt": "144"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 79",
+            "Value": "log Kow  = 2.44"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "McEvoy, G.K. (ed.). American Hospital Formulary Service-  Drug Information 2005. Bethesda, MD: American Society of  Health-System Pharmacists, Inc. 2005 (Plus Supplements)., p. 593",
+            "Value": "Amantadine, like rimantadine, inhibits viral replication by interfering with the influenza A virus M2 protein, an integral membrane protein. The M2 protein of influenza A functions as a ion channel and is important in at least 2 aspects of virus replication, disassembly of the infecting virus particle and regulation of the ionic environment of the transport pathway. By interfering with the ion channel function of the M2 protein, amantadine inhibits 2 stages in the replicative cycle of influenza A. Early in the virus replicative cycle, amantadine inhibits uncoating of the virus particle, presumably by inhibiting the acid-mediated dissociation of the virion nucleic acid and proteins, which prevents nuclear transport of viral genome material. Amantadine also prevents viral maturation in some strains of influenza A (e.g., H7 strains) by promoting pH-induced conformational changes in influenza A hemagglutinin during its intracellular transport late in the replicative cycle. Adsorption of the virus to and penetration into cells do not appear to be affected by amantadine. In addition, amantadine does not interfere with the synthesis of viral components (e.g., RNA-directed RNA polymerase activity)."
+        },
+        {
+            "References": "Physicians Desk Reference 60th ed, Thomson PDR, Montvale, NJ 2006., p. 1116",
+            "Value": "The mechanism of action of amantadine in the treatment of Parkinson's disease and drug-induced extrapyramidal reactions is not known. Data from earlier animal studies suggest that symmetrel may have direct and indirect effects on dopamine neurons. More recent studies have demonstrated that amantadine is a weak, non-competitive NMDA receptor antagonist (Ki = 10 uM). Although amantadine has not been shown to possess direct anticholinergic activity in animal studies, clinically, it exhibits anticholinergic-like side effects such as dry mouth, urinary retention, and constipation."
+        },
+        {
+            "References": "Physicians Desk Reference 60th ed, Thomson PDR, Montvale, NJ 2006., p. 1115",
+            "Value": "The mechanism by which amantadine exerts its antiviral activity is not clearly understood. It appears to mainly prevent the release of infectious viral nucleic acid into the host cell by interfering with the function of the transmembrane domain of the viral M2 protein. In certain cases, amantadine is also known to prevent virus assembly during virus replication. It does not appear to interfere with the immunogenicity of inactivated influenza A virus vaccine."
+        },
+        {
+            "References": "PMID:6982787",
+            "Value": "In isolated ventricular muscle preparations (frog, rabbit, cat, dog, and calf) amantadine increased the action potential duration, decreased the amplitude and max diastolic potential, and induced phase 4 depolarization. These changes may be due to the effect of amantadine on potassium ion conductance."
+        }
+    ]
+}

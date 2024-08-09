@@ -1,0 +1,165 @@
+{
+    "_id": {
+        "$oid": "6682e92dc4e5dba5ffba294f"
+    },
+    "CID": {
+        "$numberInt": "17531"
+    },
+    "Name": "AZINPHOS ETHYL",
+    "IUPACName": "3-(diethoxyphosphinothioylsulfanylmethyl)-1,2,3-benzotriazin-4-one",
+    "CanonicalSMILES": "CCOP(=S)(OCC)SCN1C(=O)C2=CC=CC=C2N=N1",
+    "Synonyms": [
+        "Azinphos-ethyl",
+        "Ethyl azinphos",
+        "2642-71-9",
+        "Azinphos ethyl",
+        "Bionex",
+        "Cotnion-ethyl",
+        "Ethyl Gusathion",
+        "Gusathion A",
+        "Gusathion H",
+        "Gusathion K",
+        "Crysthion",
+        "Azinos",
+        "Gutex",
+        "Athyl-gusathion",
+        "Azinophos-ethyl"
+    ],
+    "IsomericSMILES": "CCOP(=S)(OCC)SCN1C(=O)C2=CC=CC=C2N=N1",
+    "INCHI": "InChI=1S/C12H16N3O3PS2/c1-3-17-19(20,18-4-2)21-9-15-12(16)10-7-5-6-8-11(10)13-14-15/h5-8H,3-4,9H2,1-2H3",
+    "INCHIKEY": "RQVGAIADHNPSME-UHFFFAOYSA-N",
+    "Formula": "C12H16N3O3PS2",
+    "MolecularWeight": {
+        "$numberDouble": "345.4"
+    },
+    "Description": "Azinphos-ethyl is an organothiophosphate insecticide and an organic thiophosphate. It has a role as an acaricide, an EC 3.1.1.7 (acetylcholinesterase) inhibitor and an agrochemical. It derives from a hydride of a 1,2,3-benzotriazine.",
+    "XlogP": {
+        "$numberDouble": "3.4"
+    },
+    "Complexity": {
+        "$numberInt": "440"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Tejada AW et al; Trop Pest Manage 36: 237-43 (1990)",
+            "Value": "Azinphos ethyl residues were not detected (detection limit 0.01 ppm) in whole grains, leaves, and stalks of rice plants at harvest time (day 120) that were treated with azinphos ethyl at 5, 15, 45, and 60 days after planting(1)."
+        }
+    ],
+    "animal_concentrations": [
+        {
+            "References": "(1) Ghini S et al; Arch Environ Contam Toxicol 47: 479-88 (2004)",
+            "Value": "Azinphos ethyl was detected in 2% of honeybee samples at concentrations of 0.020 to 0.094 mg/kg, dead bee samples were collected in bags suspended under beehives (only worker bees were analyzed) in the district of Bologna, Italy(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 102 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 80 was calculated in fish for azinphos ethyl(SRC), using a log Kow of 3.40(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is moderate(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Engelhardt G et al; J Agric Food Chem 32: 102-8 (1984) (2) Barik S et al; Agric Wastes 10: 81-94 (1984) (3) Lartiges SB et al; Environ Sci Technol 29: 1246-54 (1995)",
+            "Value": "AEROBIC: The methyl analogue, azinphos methyl, biodegraded in laboratory tests and in soil(1,2) which suggests that azinphos ethyl would also be degraded in the environment(SRC). The half-life of azinphos ethyl in seawater (pH 8.1), river water (pH 7.3) and filtered river water (pH 7.3) was 58, 65 and 36 days, respectively when incubated in the absence of light, in closed 2.5 Liter amber bottles at 22 \u00b0C(3)."
+        },
+        {
+            "References": "MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Azinphos-ethyl (2642-71-9) (2008-2010)",
+            "Value": "Metabolites formed in soil under aerobic and anaerobic conditions are: desethyl azinphos-ethyl, sulfonmethylbenzazimid, bis(benzazimidmethyl)ether, methylthiomethylsulfoxide, and methylthiomethylsulfone."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Porte C et al; Chemosphere 24: 735-43 (1992)",
+            "Value": "In a year-long study, with bimonthly sampling for pollutants in the Ebro Delta in Spain, mosquitofish contained azinphos ethyl at 2, 17 and 31 ng/g wet weight in September, November and February, respectively. By April azinphos ethyl was not detected in any mosquitofish samples(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 102",
+            "Value": "log Kow = 3.40"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "IPCS, Joint Meeting on Pesticide Residues; Azinphos-ethyl (WHO Pesticide Residues Series 3, 1973). Available from, as of November 21, 2003: https://www.inchem.org/documents/jmpr/jmpmono/v073pr02.htm",
+            "Value": "Azinphos-ethyl inhibits acetylcholinesterase activity in plasma, erythrocyte, brain and submaxillary gland and a series of low doses causes the plasma activity of rats and dogs to fall rapidly to a stable level while erythrocyte acetylcholinesterase tends to fall more gradually over a longer period."
+        },
+        {
+            "References": "Olson, K.R. (ed.) Poisoning & Drug Overdose. 3rd edition. Lange Medical Books/McGraw-Hill, New York, NY. 1999., p. 244",
+            "Value": "Organophosphates and their potent sulfoxidation ('-oxon') derivatives inhibit the enzyme acetylcholinesterase, allowing the accumulation of excessive acetylcholine at muscarinic receptors (cholinergic effector cells), at nicotinic receptors (skeletal neuromuscular junctions and autonomic ganglia), and in the central nervous system. Permanent damage to the acetylcholinesterase enzyme ('aging') may occur after a variable delay unless antidotal treatment with enzyme reactivator is given."
+        },
+        {
+            "References": "Dreisbach, R.H. Handbook of Poisoning. 12th ed. Norwalk, CT: Appleton and Lange, 1987., p. 113",
+            "Value": "Organophosphorus derivatives act by combining with and inactivating the enzyme acetylcholinesterase (AChE). ... The inactivation of cholinesterase by cholinesterase inhibitor pesticides allows the accumulation of large amounts of acetylcholine, with resultant widespread effects that may be ... separated into 4 categories: (1) Potentiation of postganglionic parasympathetic activity. ... (2) Persistent depolarization of skeletal muscle ... (3) Initial stimulation following depression of cells of central nervous system ... (4) Variable ganglionic stimulation or blockade ... /Cholinesterase inhibitor pesticides/"
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 177",
+            "Value": "The characteristic pharmacological effects of the anti-ChE agents are due primarily to the prevention of hydrolysis of ACh by AChE at sites of cholinergic transmission. Transmitter thus accumulates, and the response to ACh that is liberated by cholinergic impulses or that is spontaneously released from the nerve ending is enhanced. With most of the organophosphorus agents ... virtually all the acute effects of moderate doses are attributable to this action. /Anticholinesterase agents/"
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 183",
+            "Value": "The cardiovascular actions of anticholinesterase agents are complex, since they reflect both ganglionic and postganglionic effects of accumulated ACh on the heart and blood vessels. The predominant effect on the heart from the peripheral action of accumulated ACh is bradycardia, resulting in a fall in cardiac output. Higher doses usually cause a fall in blood pressure, often as a consequence of effects of anticholinesterase agents on the medullary vasomotor centers of the CNS. /Anticholinesterase agents/"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Spencer, E. Y. Guide to the Chemicals Used in Crop Protection. 7th ed. Publication 1093. Research Institute, Agriculture Canada, Ottawa, Canada: Information Canada, 1982., p. 26",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ /There was/ no skin irritation when compress of cotton wool treated with active ingredient plus emulsifier... /was/ placed for 24 hr inside the external ear of a rabbit."
+        },
+        {
+            "References": "IPCS, Joint Meeting on Pesticide Residues; Azinphos-ethyl (WHO Pesticide Residues Series 3, 1973). Available from, as of November 21, 2003: https://www.inchem.org/documents/jmpr/jmpmono/v073pr02.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Groups of 15 male and 15 female rats received diet containing 0, 1, 2, 4 and 8 ppm (0, 0.0001, 0.0002, 0.0004 and 0.0008%) for three months. No effects were found on growth rate, food consumption, mortality rate or on the results of hematological investigations and analysis of blood. The 4 ppm (0.0004%) level had no significant effect on plasma enzyme but depressed the erythrocyte cholinesterase activity after one month. The 8 ppm (0.0008%) level depressed plasma enzyme after only one week's exposure and prolonged exposure caused no further depression; erythrocyte enzyme activity continued to fall during the first month's exposure. In general, females appeared to be more sensitive than males. Autopsy, determination of organ weights and histological examination of organs and tissues detected no abnormality in animals fed azinphos-ethyl."
+        },
+        {
+            "References": "Hayes, W.J., Jr., E.R. Laws, Jr., (eds.). Handbook of Pesticide Toxicology. Volume 2. Classes of Pesticides. New York, NY: Academic Press, Inc., 1991., p. 1076",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Male rats receiving 50 ppm (about 2.5 mg/kg/day) azinphos-ethyl in the diet for 16 wk suffered a decrease in body weight. Rats of both sexes showed decreased cholinesterase activities at this dose. Daily dietary doses of 10 ppm resulted in decreased serum and erythrocyte cholinesterase activities. Only erythrocyte cholinesterase activity was depressed at dietary doses of 5 ppm (about 0.25 mg/kg/day)."
+        },
+        {
+            "References": "Hayes, W.J., Jr., E.R. Laws, Jr., (eds.). Handbook of Pesticide Toxicology. Volume 2. Classes of Pesticides. New York, NY: Academic Press, Inc., 1991., p. 1076",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Young dogs receiving 10 ppm azinphos-ethyl in the diet developed clinical signs of cholinesterase poisoning after 1 wk, and those receiving 3 ppm developed the same symptoms after 6 wk. Normal cholinesterase activity resumed 3-4 wk following a return to a normal diet. Cholinesterase activities were reduced in these groups, as well as at doses of 2.1 and 0.5 ppm."
+        },
+        {
+            "References": "Hayes, W.J., Jr., E.R. Laws, Jr., (eds.). Handbook of Pesticide Toxicology. Volume 2. Classes of Pesticides. New York, NY: Academic Press, Inc., 1991., p. 1076",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Female rats receiving ip doses of 2 or 3 mg/kg/day azinphos-ethyl for 60 days showed increased mortality and reduced weight gains."
+        },
+        {
+            "References": "IPCS, Joint Meeting on Pesticide Residues; Azinphos-ethyl (WHO Pesticide Residues Series 3, 1973). Available from, as of November 21, 2003: https://www.inchem.org/documents/jmpr/jmpmono/v073pr02.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Twenty-four male rats received an oral dose of 1 mg azinphos-ethyl/kg bw on each of 28 consecutive working days. The rate of weight gain was normal and signs of poisoning did not occur. Erythrocyte cholinesterase showed 50% depression after 2, 82% after 3 and 90% after 28 days' treatment. Activity had returned to normal 35 days after treatment stopped."
+        },
+        {
+            "References": "Hayes, W.J., Jr., E.R. Laws, Jr., (eds.). Handbook of Pesticide Toxicology. Volume 2. Classes of Pesticides. New York, NY: Academic Press, Inc., 1991., p. 971",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Although some anticholinergic compounds are teratogenic, most are not. /Organic phosphorous pesticides/"
+        },
+        {
+            "References": "IPCS, Joint Meeting on Pesticide Residues; Azinphos-ethyl (WHO Pesticide Residues Series 3, 1973). Available from, as of November 21, 2003: https://www.inchem.org/documents/jmpr/jmpmono/v073pr02.htm",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Groups of three hens received a single dose of 10 or 25 mg azinphos-ethyl/kg and were observed for five weeks. One bird on the 25 mg/kg level died after 26 days but no signs of demyelinating disease developed. Groups of four hens were fed on diet containing 0, 75, 150, 300 and 600 ppm (0, 0.0075, 0.015, 0.03 and 0.06%) azinphos-ethyl for 30 days. Loss of body weight occurred at the two highest dosage levels and a significant depression of whole blood cholinesterase activity at the 600 ppm (0.06%) level. No signs of neurological damage occurred during the dosage period or during the subsequent four-week observation period. Histological examination of femoral fixed brain, spinal cord and femoral nerve failed to detect evidence of demyelination or nerve damage."
+        },
+        {
+            "References": "Degraeve N et al; Mutat Res 74 (3): 201-2 (1980)",
+            "Value": "/GENOTOXICITY/ The mutagenic acitivity of 11 organophosphorus insecticides ... /was/ comparatively tested  in the mouse (dominant lethal mutations) and in the yeast S. pombe (forward mutations ad 6). After  single ip injections of azinophos ethyl (1 mg/kg) the number of preimplantation losses were increased in mice during the first week of treatment."
+        },
+        {
+            "References": "PMID:8340099",
+            "Value": "/GENOTOXICITY/ A total of 22 organophosphorus pesticides (OPPs), including 8 ethyl-, 9 methyl-, and 5 other OPPs, were tested for mutagenicity in micronucleus assay system both in 615 mouse marrow cells in vivo with multi-intraperitoneal administrations and in cultured Chinese hamster lung (CHL) cells in vitro; and structure-mutagenicity relationship of OPPs was analyzed. Among the OPPs tested in vivo, 5 ethyl-(diazinon, chlorpyrifos, disulfoton, ethion, and parathion), and only 1 methyl-(dimethoate) were found mutagenic, while the other OPPs were negative. Six ethyl- (azinphos ethyl, chlorpyrifos, ethion, parathion, phosaione, and quinaphos), 8 methyl- (azinophos methyl, chlorpyrifos methyl, dichlorvos, dimethoate, fenitrothion, malathion, parathion methyl, and trimethyl phosphate), and 2 other OPPs (EII and MIA), however, induced micronucleus in CHL cells in vitro. The results indicated that most of the ethyl-OPPs tested showed the ability to induce micronucleus both in vivo and in vitro, and that most of the methyl-OPPs were positive only in vitro."
+        },
+        {
+            "References": "IPCS, Joint Meeting on Pesticide Residues; Azinphos-ethyl (WHO Pesticide Residues Series 3, 1973). Available from, as of November 21, 2003: https://www.inchem.org/documents/jmpr/jmpmono/v073pr02.htm",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Brain cholinesterase activity in vitro was reduced by 50% by 1.4 x 10-5 molar azinphos-ethyl; this was considered to be due to the presence of impurities with anticholinesterase activity. A single IP dose of 3.4 mg azinphos-ethyl/kg reduced serum, brain and submaxillary gland cholinesterase activity to approximately the same extent. Maximum inhibition occurred within an hour and activity returned to normal gradually, reversal not being complete by 70 hours. On incubation with liver preparation, azinphos-ethyl was transformed into a potent anticholinesterase compound, probably the oxygen analogue."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "PMID:826875",
+            "Value": "SEDIMENT: Azinphos-ethyl was not detected in sediment samples in the upper Great Lakes collected in the summer of 1974(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2011. Available from, as of Jun 11, 2012: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Haefner M; in Chemistry of Plant Protection. Borner H, ed, Berlin, Germany: Springer-Verlag 9: 247-88 (1994)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of azinphos ethyl can be estimated to be 170(SRC). According to a classification scheme(2), this estimated Koc value suggests that azinphos ethyl is expected to have moderate mobility in soil. Using a lysimeter to measure the leachability of various pesticides, azinphos ethyl was not detected in leachate from 3,000 individual analyses conducted from 1977-1986 (detection limit 0.001 mg/L)(3). These tests were conducted using 1-1.3 m in height by 0.5 sq m of top soil with a catch base of 1 sq m(3). For soil material, loamy or silty sand with a low humus content was used where the sum of clay and silt amounted to a maximum of 30% (clay below 10%) and the content of organic bound carbon did not exceed 1.5%(3)."
+        }
+    ]
+}

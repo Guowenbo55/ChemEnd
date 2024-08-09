@@ -1,0 +1,79 @@
+{
+    "_id": {
+        "$oid": "6682e7d3c4e5dba5ffba2287"
+    },
+    "CID": {
+        "$numberInt": "323"
+    },
+    "Name": "COUMARIN",
+    "IUPACName": "chromen-2-one",
+    "CanonicalSMILES": "C1=CC=C2C(=C1)C=CC(=O)O2",
+    "Synonyms": [
+        "coumarin",
+        "91-64-5",
+        "2H-Chromen-2-one",
+        "2H-1-Benzopyran-2-one",
+        "cumarin",
+        "1,2-Benzopyrone",
+        "chromen-2-one",
+        "Rattex",
+        "Coumarinic anhydride",
+        "Tonka bean camphor",
+        "Coumarine",
+        "cis-o-Coumarinic acid lactone",
+        "Coumarinic lactone",
+        "o-Hydroxycinnamic acid lactone",
+        "Benzo-alpha-pyrone"
+    ],
+    "IsomericSMILES": "C1=CC=C2C(=C1)C=CC(=O)O2",
+    "INCHI": "InChI=1S/C9H6O2/c10-9-6-5-7-3-1-2-4-8(7)11-9/h1-6H",
+    "INCHIKEY": "ZYGHJZDHTFUPRJ-UHFFFAOYSA-N",
+    "Formula": "C9H6O2",
+    "MolecularWeight": {
+        "$numberDouble": "146.14"
+    },
+    "Description": "Coumarin is a chromenone having the keto group located at the 2-position. It has a role as a fluorescent dye, a plant metabolite and a human metabolite.",
+    "XlogP": {
+        "$numberDouble": "1.4"
+    },
+    "Complexity": {
+        "$numberInt": "196"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Freitag D et al; Ecotox Environ Saf 6: 60-81 (1982) (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "The BCF in golden orfe was <10 after 3 days exposure(1). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC). The BCF of coumarin in green algae (Chlorella sp.) after exposure to 50 ug/l of coumarin for 24 hr was 42(1)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Freitag D et al; Chemosphere 14: 1589-616 (1985) (2) Chemicals Inspection and Testing Institute; Biodegradation and bioaccumulation data of existing chemicals based on the CSCL Japan. Japan Chemical Industry Ecology-Toxicology and Information Center. ISBN 4-89074-101-1 (1992) (3) Langbehn A, Steinhart H; Chemosphere 30: 855-68 (1995)",
+            "Value": "AEROBIC: In a 5 day biodegradation screening test using an activated sludge inoculum, 29.5% of coumarin was mineralized(1). Coumarin, present at 100 mg/l, reached 100% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/l and the Japanese MITI test(2). Coumarin degraded after one week in soil contaminated with diesel fuel which was then incubated in the dark at ambient temperature for 25 weeks(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 51",
+            "Value": "log Kow = 1.39"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V10 116",
+            "Value": "Coumarin and some of its metabolites have been shown to inhibit glucose-6-phosphatase in liver and in liver microsomal preparation. It interferes with excision repair processes on ultra-violet-damaged DNA and with host cell reactivation of ultra-violet-irradiated phage T1 in E coli WP2."
+        },
+        {
+            "References": "WHO; Environ Health Criteria 175: Anticoagulant Rodenticides p.46 (1995)",
+            "Value": "Both 4-hydroxycoumarin derivatives and indandiones (also known as oral anticoagulants) are antagonists of vitamin K. Their use as rodenticides is based on the inhibition of the vitamin K-dependent step in the synthesis of a number of blood coagulation factors. The vitamin K-dependent proteins ...in the coagulation cascade... are the procoagulant factors II (prothrombin), VII (proconvertin), IX (Christmas factor) and X (Stuart-Prower factor), and the coagulation-inhibiting proteins C and S. All these proteins are synthesized in the liver. Before they are released into the circulation the various precursor proteins undergo substantial (intracellular) post-translational modification. Vitamin K functions as a co-enzyme in one of these modifications, namely the carboxylation at well-defined positions of 10-12 glutamate residues into gamma-carboxyglutamate (Gla). The presence of these Gla residues is essential for the procoagulant activity of the various coagulations factors. Vitamin K hydroquinone (KH2) is the active co-enzyme, and its oxidation to vitamin K 2,3-epoxide (KO) provides the energy required for the carboxylation reaction. The epoxide is than recycled in two reduction steps mediated by the enzyme KO reductase... . The latter enzyme is the target enzyme for coumarin anticoagulants. Their blocking of the KO reductase leads to a rapid exhaustion of the supply of KH2, and thus to an effective prevention of the formation of Gla residues. This leads to an accumulation of non-carboxylated coagulation factor precursors in the liver. In some cases these precursors are processed further without being carboxylated, and (depending on the species) may appear in the circulation. At that stage the under-carboxylated proteins are designated as descarboxy coagulation factors. Normal coagulation factors circulate in the form of zymogens, which can only participate in the coagulation cascade after being activated by limited proteolytic degradation. Descarboxy coagulation factors have no procoagulant activity (i.e. they cannot be activated) and neither they can be converted into the active zymogens by vitamin K action. Whereas in anticoagulated humans high levels of circulating descarboxy coagulation factors are detectable, these levels are negligible in warfarin-treated rats and mice. /Anticoagulant rodenticides/"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 51 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of coumarin is estimated as 140(SRC), using a log Kow of 1.39(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that coumarin is expected to have high mobility in soil."
+        }
+    ]
+}

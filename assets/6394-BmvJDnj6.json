@@ -1,0 +1,93 @@
+{
+    "_id": {
+        "$oid": "6682e847c4e5dba5ffba24ce"
+    },
+    "CID": {
+        "$numberInt": "6394"
+    },
+    "Name": "TETRAMETHYL LEAD",
+    "IUPACName": "tetramethylplumbane",
+    "CanonicalSMILES": "C[Pb](C)(C)C",
+    "Synonyms": [
+        "Tetramethyllead",
+        "Tetramethylplumbane",
+        "75-74-1",
+        "Plumbane",
+        "tetramethyl-",
+        "TETRAMETHYL LEAD",
+        "Lead",
+        "tetramethyl-",
+        "Lead tetramethyl",
+        "Tetramethylolovo",
+        "Piombo tetra-metile",
+        "Bleitetramethyl",
+        "C7J62Z32IW",
+        "TML",
+        "Tetramethylolovo [Czech]",
+        "Piombo tetra-metile [Italian]",
+        "CCRIS 5940"
+    ],
+    "IsomericSMILES": "C[Pb](C)(C)C",
+    "INCHI": "InChI=1S/4CH3.Pb/h4*1H3;",
+    "INCHIKEY": "XOOGZRUBTYCLHG-UHFFFAOYSA-N",
+    "Formula": "C4H12Pb",
+    "MolecularWeight": {
+        "$numberDouble": "267"
+    },
+    "Description": "Tetramethyllead is an organolead compound. It has a role as a NMR chemical shift reference compound.",
+    "XlogP": {
+        "$numberDouble": "NaN"
+    },
+    "Complexity": {
+        "$numberInt": "19"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Cruz RB et al; Spectrochim Acta 35: 775-83 (1980) (2) Chau YK et al; Anal Chem 56: 271-4 (1984) (3) Chau YK et al; Bull Environ Contam Toxicol 24: 265-9 (1980)",
+            "Value": "Tetramethyl lead was not detected (detection limit 0.5 ng/g) in vegetation collected from Lake Ontario(1). Tetramethyl lead was not detected (detection limit 7.5 ng/g) in aquatic weeds collected from the St. Lawrence River near Maitland, Ontario(2). Tetramethyl lead was not detected (detection limit 0.1 ng/g) in 44 vegetation, algae, and weed samples collected from various lakes and rivers in Ontario(3)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Maddock BG, Taylor D; p. 233-62 in Lead in the Marine Environment. Branica M, Konrad Z, eds., Oxford, UK: Pergamon Press (1980) (2) Wong PTS et al; Water Res 15: 621-5 (1981) (3) Franke C et al; Chemosphere 29: 1501-14 (1994) (4) USEPA; Status Report 8EHQ-1078-0249 (1979)",
+            "Value": "BCF values of 20-170 in shrimp, mussel, and plaice, and 100 to 700 in fish have been measured for tetramethyl lead(1,2). According to a classification scheme(3), this range of BCF values suggests bioconcentration of tetramethyl lead in aquatic organisms is low to high(SRC). Exposure of eastern oysters to tetraethyl lead concentrations of 0.1-0.8 ug Pb/L resulted in bioconcentration factors (BCF) of 17,600-18,138; however, similar exposure to tetramethyl lead showed little bioaccumulation(4)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Rhue RD et al; Crit Rev Environ Control 22: 169-93 (1992)",
+            "Value": "Microorganisms capable of degrading tetraalkyl lead compounds have not been reported. Failure to isolate tetraalkyl lead degrading microorganisms from waters, soils, and sediments may result from low water solubilities for this group of chemicals(1)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Cruz RB et al; Spectrochim Acta 35: 775-83 (1980) (2) Chau YK et al; Anal Chem 56: 271-4 (1984) (3) Tiravanti G, Passino R; p. 25-45 in NATO Conf Ser, 1(Ecoaccidents) (1985) (4) Neves AG et al; Environ Sci Technol 11: 877-82 (1990)",
+            "Value": "Four fish samples collected from Lake Ontario contained tetramethyl lead at levels of 0.5-1.7 ppb(1). The concentration of tetramethyl lead measured in carp collected from the St. Lawrence River near Maitland, Ontario was 137 ng/g wet weight(2). Tetramethyl lead was not detected (detection limit 7.5 ng/g) in pike, white sucker, or small mouth bass collected at this location(2). Tetramethyl lead was detected in fish caught within five miles off the coast of Eastern England near Essex. The mean concentration (wet weight) in herring was 0.2 ng/g, skate 0.2 ng/g, squid 0.06 ng/g, and cod 0.06 ng/g(2). In July 1974 the cargo ship Cavtat sank in the Adriatic Sea with a cargo of tetramethyl lead and tetraethyl lead drums(3). Salvaging operations reclaimed all but 7% of the cargo(3). Analysis of various fish at the site of the accident 3 years after the sinking detected tetramethyl lead levels ranging from below detection limits (0.002 ppm) to 0.11 ppm(3)."
+        },
+        {
+            "References": "(1) Mikac N et al; Environ Sci Technol 30: 499-508 (1996)",
+            "Value": "Mussels collected from off the coast of Roving, Croatia from Feb 1992-June 1994 in the Adriatic Sea contained levels of tetramethyl lead ranging from 0.7-1.0 ng/g wet weight(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 10",
+            "Value": "log Kow = 2.97"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Cruz RB et al; Spectrochim Acta 35: 775-83 (1980) (2) Chau YK et al; Bull Environ Contam Toxicol 24: 265-9 (1980) (3) Chau YK et al; Anal Chem 56: 271-4 (1984) (4) Potter HR et al; Water Pollut Control 76: 123-8 (1977) (5) Radojevic M, Harrison RM; Environ Technol Lett 7: 525-30 (1986)",
+            "Value": "SEDIMENT: Tetramethyl lead was not detected (detection limit 0.5 ng/g) in sediments collected from Lake Ontario(1). Tetramethyl lead was not detected (detection limit 0.1 ng/g) in 50 sediment samples collected from various lakes and rivers in Ontario(2). Tetramethyl lead was not detected (detection limit 15 ng/g) in sediment collected from the St. Lawrence River near Maitland, Ontario(3). Tetramethyl lead levels of 0.36-5.3 mg/kg (dry wt basis) were detected in sediments from drainage grids at two gasoline stations in England(4). Analysis of roadside dust, roadside soil and sediment from various locations in England for alkylleads found tetramethyl lead concentrations varying from below detection limits (0.2 ng Pb/g) to 12 ng Pb/g(5)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Rhue RD et al; Crit Rev Environ Control 22: 169-93 (1992)",
+            "Value": "Mobility of tetramethyl lead may be inhibited by sorption to soil organic matter; however, it may also be enhanced by the formation of soluble chelate complexes with soluble organic anions(1). During spills of leaded gasoline onto soils, the nonpolar nature of gasoline serves as a mobile solvent capable of transporting lead alkyl compounds through the soil(1)."
+        }
+    ]
+}

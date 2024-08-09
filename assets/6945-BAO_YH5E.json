@@ -1,0 +1,76 @@
+{
+    "_id": {
+        "$oid": "6682e863c4e5dba5ffba2558"
+    },
+    "CID": {
+        "$numberInt": "6945"
+    },
+    "Name": "1-CHLORO-2-NITROBENZENE",
+    "IUPACName": "1-chloro-2-nitrobenzene",
+    "CanonicalSMILES": "C1=CC=C(C(=C1)[N+](=O)[O-])Cl",
+    "Synonyms": [
+        "2-Chloronitrobenzene",
+        "1-CHLORO-2-NITROBENZENE",
+        "88-73-3",
+        "o-Chloronitrobenzene",
+        "2-Nitrochlorobenzene",
+        "Chloronitrobenzene",
+        "o-Nitrochlorobenzene",
+        "2-Chloro-1-nitrobenzene",
+        "ONCB",
+        "Benzene",
+        "1-chloro-2-nitro-",
+        "Nitrochlorobenzene",
+        "1-Nitro-2-chlorobenzene",
+        "ortho-chloronitrobenzene",
+        "NSC 36934",
+        "Chloro-o-nitrobenzene"
+    ],
+    "IsomericSMILES": "C1=CC=C(C(=C1)[N+](=O)[O-])Cl",
+    "INCHI": "InChI=1S/C6H4ClNO2/c7-5-3-1-2-4-6(5)8(9)10/h1-4H",
+    "INCHIKEY": "BFCFYVKQTRLZHA-UHFFFAOYSA-N",
+    "Formula": "C6H4ClNO2",
+    "MolecularWeight": {
+        "$numberDouble": "157.55"
+    },
+    "Description": "1-chloro-2-nitrobenzene is a C-nitro compound that is nitrobenzene in which one of the ortho- hydrogens has been replaced by chlorine. It is a C-nitro compound and a member of monochlorobenzenes.",
+    "XlogP": {
+        "$numberDouble": "2.2"
+    },
+    "Complexity": {
+        "$numberInt": "134"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) National Institute of Technology and Evlauation. Japan Chemical Industry Ecology - Toxicology and Information Center. Avialable at: https://www.safe.nite.go.jp/english/kizon/KIZON_start_hazkizon.html as of July 2, 2007. (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "Carp exposed to solutions containing 0.25 ppm 1-chloro-2-nitrobenzene for 8 weeks had BCF values ranging from 7.0-20.8, and carp exposed to solutions containing 0.025 ppm 1-chloro-2-nitrobenzene had BCF values ranging from 7.4-22.3(1). According to a classification scheme(2), these BCF values suggest bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Ludzack FJ, Ettinger MB; Eng Bull Ext Ser No 115: 278-82 (1963) (2) National Institute of Technology and Evaluation. Japan Chemical Industry Ecology - Toxicology and Information Center. Available at: https://www.safe.nite.go.jp/english/kizon/KIZON_start_hazkizon.html as of July 2, 2007.",
+            "Value": "AEROBIC: 21.1 ppm 1-Chloro-2-nitrobenzene in Ohio River water inoculated weekly with settled sewage underwent no degradation in 175 days(1). 1-Chloro-2-nitrobenzene, present at 100 mg/L, reached 0 percent of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L and the Japanese MITI test(2)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Yurawecz MP, Puma BJ; J Assoc Off Anal Chem 66: 1345-52 (1983) (2) Hendriks AJ et al; Environ Toxicol Chem 17: 1885-1898 (1998)",
+            "Value": "Less than 0.005-0.24 ppm 1-chloro-2-nitrobenzene was found in the edible portion of various species of fish taken from the Mississippi River at a location 0.60 and 150 miles south of St. Louis, MO(1). 1-Chloro-2-nitrobenzene was not detected in fish taken from the Mississippi River 100 miles north of St. Louis (2 samples) or 260-400 miles south of St. Louis (3 samples) or taken from the Missouri River (6 samples)(1). Zebra mussel (Dreissena polymorpha) and eel (Anguilla anguilla) collected from the Rhine and Meuse Rivers in Germany tested positive for chloronitrobenzenes (isomers not specified) at average concentrations up to 0.00009 and 0.0001 mmol/kg fat weight, respectively, sampling conducted in 1993 through 1994(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 17",
+            "Value": "log Kow = 2.52"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992) (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of 1-chloro-2-nitrobenzene can be estimated to be 316(SRC). According to a classification scheme(2), this estimated Koc value suggests that 1-chloro-2-nitrobenzene is expected to have moderate mobility in soil(SRC)."
+        }
+    ]
+}

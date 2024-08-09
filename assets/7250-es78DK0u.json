@@ -1,0 +1,70 @@
+{
+    "_id": {
+        "$oid": "6682e871c4e5dba5ffba259e"
+    },
+    "CID": {
+        "$numberInt": "7250"
+    },
+    "Name": "2,4-XYLIDINE",
+    "IUPACName": "2,4-dimethylaniline",
+    "CanonicalSMILES": "CC1=CC(=C(C=C1)N)C",
+    "Synonyms": [
+        "2,4-Dimethylaniline",
+        "95-68-1",
+        "2,4-XYLIDINE",
+        "m-Xylidine",
+        "1-Amino-2,4-dimethylbenzene",
+        "m-4-Xylidine",
+        "Benzenamine",
+        "2,4-dimethyl-",
+        "2,4-Dimethylbenzenamine",
+        "2,4-Dimethylphenylamine",
+        "2-Methyl-p-toluidine",
+        "4-Methyl-o-toluidine",
+        "4-Amino-1,3-xylene",
+        "4-Amino-3-methyltoluene",
+        "4-Amino-1,3-dimethylbenzene",
+        "2,4-Dimethyl aniline"
+    ],
+    "IsomericSMILES": "CC1=CC(=C(C=C1)N)C",
+    "INCHI": "InChI=1S/C8H11N/c1-6-3-4-8(9)7(2)5-6/h3-5H,9H2,1-2H3",
+    "INCHIKEY": "CZZZABOKJQXEBO-UHFFFAOYSA-N",
+    "Formula": "C8H11N",
+    "MolecularWeight": {
+        "$numberDouble": "121.18"
+    },
+    "Description": "2,4-dimethylaniline is a primary arylamine that is aniline in which the hydrogens at the 2- and 4-positions are replaced by methyl groups. A clear to yellow liquid, it is used in production of certain dyes, pesticides and other chemicals. It is a primary arylamine and a dimethylaniline.",
+    "XlogP": {
+        "$numberDouble": "1.7"
+    },
+    "Complexity": {
+        "$numberInt": "90"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Amer Chem Soc, Washington, DC. p. 45 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF value of 11 was calculated for 2,4-xylidine(SRC), using a measured log Kow of 1.68(1) and a recommended regression-derived equation(2). According to a classification scheme(3), this BCF value suggests that bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Medvedev VA, Davidov VD; pp. 254-54 in Decomposition of Toxic and Nontoxic Organic Compounds in Soil. Overcash, MR (ed), Ann Arbor, MI: Ann Arbor Sci Publ (1981) (2) Baird R et al; J Water Pollut Control Fed 49: 1609-15 (1977) (3) Kitano M; Biodegration and Bioaccumulation Test on Chemical Substances. OECD Tokyo Meeting. Reference Book Tsu-No. 3 (1978)",
+            "Value": "2,4-Xylidine, incubated in chernozem soil at 500 ppm/kg, was biodegraded within 2 days; its transformation product was stable for >90 days(1). 2,4-Xylidine, initially present at 20 mg/l, was degraded by 36% in 6 hours using an activated sludge inoculum under aerobic conditions(2). In the Japanese MITI test, 2,4-xylidine (present at 100 mg/l) was classified as slow to biodegrade indicating that only 0-29% of the theoretical BOD was reached in 2 weeks using an activated sludge inoculum(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 45",
+            "Value": "log Kow = 1.68 at pH of 7.5"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Amer Chem Soc, Washington, DC. p. 45 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 23 (1983) (4) Bollag JM et al; J Agric Food Chem 26: 1302-1306 (1978) (5) Adrian P et al; Toxicol Environ Chem 20-21: 109-120 (1989)",
+            "Value": "The Koc of 2,4-xylidine is estimated as approximately 200(SRC), using a measured log Kow of 1.68(1) and a regression-derived equation(2,SRC). According to a recommended classification scheme(3), this estimated Koc value suggests that 2,4-xylidine has moderate mobility in soil(SRC). However, adsorption to soil due to the high reactivity of the aromatic amino group to humus or soil organic matter rather than to clay particles may cause decreased mobility of this compound(4,5). Low adsorption is observed at a neutral pH with pure clay minerals or soils for substituted anilines(5)."
+        }
+    ]
+}

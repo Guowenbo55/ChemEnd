@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "66927125303528b49832d818"
+    },
+    "CID": {
+        "$numberInt": "33565"
+    },
+    "Name": "Triforine",
+    "IUPACName": "N-[2,2,2-trichloro-1-[4-(2,2,2-trichloro-1-formamidoethyl)piperazin-1-yl]ethyl]formamide",
+    "CanonicalSMILES": "C1CN(CCN1C(C(Cl)(Cl)Cl)NC=O)C(C(Cl)(Cl)Cl)NC=O",
+    "Synonyms": [
+        "TRIFORINE",
+        "26644-46-2",
+        "Triforin",
+        "Saprol",
+        "Funginex",
+        "Biformylchlorazin",
+        "CELA 50",
+        "1,4-bis(1-formamido-2,2,2-trichloroethyl)-piperazine",
+        "Biformychlorazin",
+        "CW 524",
+        "CA 70203",
+        "1,4-Bis(2,2,2-trichloro-1-formamidoethyl)piperazine",
+        "\"N,N-Bis(1-formamido-2,2,2-trichloroethyl)piperazine\"",
+        "W 524",
+        "N1A4W8U0HH"
+    ],
+    "IsomericSMILES": "C1CN(CCN1C(C(Cl)(Cl)Cl)NC=O)C(C(Cl)(Cl)Cl)NC=O",
+    "INCHI": "InChI=1S/C10H14Cl6N4O2/c11-9(12,13)7(17-5-21)19-1-2-20(4-3-19)8(18-6-22)10(14,15)16/h5-8H,1-4H2,(H,17,21)(H,18,22)",
+    "INCHIKEY": "RROQIUMZODEXOR-UHFFFAOYSA-N",
+    "Formula": "C10H14Cl6N4O2",
+    "MolecularWeight": {
+        "$numberDouble": "435"
+    },
+    "Description": "Triforine is a member of the class of N-alkylpiperazines in which the two amino groups of piperazine are replaced by 1-formamido-2,2,2-trichloroethyl groups. A fungicide active against a range of diseases including powdery mildew, scab and rust. It has a role as an EC 1.14.13.70 (sterol 14alpha-demethylase) inhibitor, an allergen and an antifungal agrochemical. It is a N-alkylpiperazine, a member of formamides, an organochlorine compound and an amide fungicide.",
+    "XlogP": {
+        "$numberDouble": "2.8"
+    },
+    "Complexity": {
+        "$numberInt": "345"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "After short-term root treatment of plants with SH-triforine (labeled in the piperazine ring) or 14C-triforine (labeled in the side chain), the label was primarily translocated to the leaves present at the time of treatment, with no redistribution of the label occurring after treatment termination. Autoradiography showed the radioactivity to be evenly distributed over the leaf blades, with no significant accumulation in leaf margins. However, in infected leaves, there was a tendency for increased accumulation at the infection sites. In dilute aqueous solution, triforine was rapidly decomposed, with a chemical half-life of only three days. Several non-fungitoxic degradation products were isolated from these solutions, and their chemical structures were determined. In plants, the decomposition of triforine was slower than in aqueous solutions, with the half-life of the compound varying depending on the plant species. At least four conversion products were demonstrated in plants, one of which is piperazine. It is not yet known whether the other three compounds are identical to or structurally related to the breakdown products found in aqueous solution. The low persistence and low animal toxicity of triforine suggest that it does not pose serious hazards to the environment.",
+            "reference": "Fuchs, A., & Ost, W. (1976). Translocation, distribution and metabolism of triforine in plants. Archives of Environmental Contamination and Toxicology, 4, 30-43.",
+            "method": {
+                "Test Plant": "Different plant species (not specified)",
+                "Apply Location": "Immersing roots in aqueous solutions",
+                "Plant Grown Condition": "-",
+                "Chemical Preparation": "14C-triforine (uniformly labeled in trichloroethyl side chains), Aqueous solutions used for root exposures",
+                "Pesticide Application Details for the Plant": "-",
+                "Other Information": "Plants harvested after \"appropriate incubation periods\", sectioned into roots, hypocotyls, cotyledons, etc."
+            },
+            "result": "[{\"Hours after application\": 6, \"Roots (dpm/mg)\": 1972, \"Stem (dpm/mg)\": 182, \"Leaf 1 (dpm/mg)\": 213, \"Leaf 2 (dpm/mg)\": 130, \"Leaf 3 (dpm/mg)\": 106, \"Leaf 4 (dpm/mg)\": 69, \"Leaf 5 (dpm/mg)\": 38, \"Leaf 6 (dpm/mg)\": 16, \"Leaf 7 (dpm/mg)\": 27, \"Tiller 1 (dpm/mg)\": 63, \"Tiller 2 (dpm/mg)\": 89, \"Tiller 3 (dpm/mg)\": 65}, {\"Hours after application\": 12, \"Roots (dpm/mg)\": 1999, \"Stem (dpm/mg)\": 219, \"Leaf 1 (dpm/mg)\": 347, \"Leaf 2 (dpm/mg)\": 161, \"Leaf 3 (dpm/mg)\": 157, \"Leaf 4 (dpm/mg)\": 119, \"Leaf 5 (dpm/mg)\": 54, \"Leaf 6 (dpm/mg)\": 26, \"Leaf 7 (dpm/mg)\": 32, \"Tiller 1 (dpm/mg)\": 93, \"Tiller 2 (dpm/mg)\": 111, \"Tiller 3 (dpm/mg)\": 86}, {\"Hours after application\": 18, \"Roots (dpm/mg)\": 1896, \"Stem (dpm/mg)\": 311, \"Leaf 1 (dpm/mg)\": 497, \"Leaf 2 (dpm/mg)\": 244, \"Leaf 3 (dpm/mg)\": 208, \"Leaf 4 (dpm/mg)\": 208, \"Leaf 5 (dpm/mg)\": 128, \"Leaf 6 (dpm/mg)\": 71, \"Leaf 7 (dpm/mg)\": 63, \"Tiller 1 (dpm/mg)\": 203, \"Tiller 2 (dpm/mg)\": 233, \"Tiller 3 (dpm/mg)\": 159}, {\"Hours after application\": 42, \"Roots (dpm/mg)\": 1162, \"Stem (dpm/mg)\": 292, \"Leaf 1 (dpm/mg)\": 347, \"Leaf 2 (dpm/mg)\": 512, \"Leaf 3 (dpm/mg)\": 532, \"Leaf 4 (dpm/mg)\": 277, \"Leaf 5 (dpm/mg)\": 200, \"Leaf 6 (dpm/mg)\": 100, \"Leaf 7 (dpm/mg)\": 77, \"Tiller 1 (dpm/mg)\": 210, \"Tiller 2 (dpm/mg)\": 254, \"Tiller 3 (dpm/mg)\": 171}]"
+        }
+    ]
+}

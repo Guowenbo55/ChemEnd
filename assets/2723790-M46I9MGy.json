@@ -1,0 +1,84 @@
+{
+    "_id": {
+        "$oid": "6682e9a9c4e5dba5ffba2bc1"
+    },
+    "CID": {
+        "$numberInt": "2723790"
+    },
+    "Name": "THIOUREA",
+    "IUPACName": "thiourea",
+    "CanonicalSMILES": "C(=S)(N)N",
+    "Synonyms": [
+        "THIOUREA",
+        "Thiocarbamide",
+        "62-56-6",
+        "2-Thiourea",
+        "Isothiourea",
+        "Pseudothiourea",
+        "Sulfourea",
+        "Thiuronium",
+        "Sulourea",
+        "2-Thiopseudourea",
+        "Carbamimidothioic acid",
+        "Thiocarbonic acid diamide",
+        "Urea",
+        "thio-",
+        "beta-Thiopseudourea",
+        "Thiomocovina"
+    ],
+    "IsomericSMILES": "C(=S)(N)N",
+    "INCHI": "InChI=1S/CH4N2S/c2-1(3)4/h(H4,2,3,4)",
+    "INCHIKEY": "UMGDCJDMYOKAJW-UHFFFAOYSA-N",
+    "Formula": "CH4N2S",
+    "MolecularWeight": {
+        "$numberDouble": "76.12"
+    },
+    "Description": "Thiourea is the simplest member of the thiourea class, consisting of urea with the oxygen atom substituted by sulfur. It has a role as a chromophore and an antioxidant. It is a member of ureas, a member of thioureas and a one-carbon compound. It is functionally related to a carbonothioic O,O-acid and a urea.",
+    "XlogP": {
+        "$numberDouble": "-0.8"
+    },
+    "Complexity": {
+        "$numberInt": "29"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) WHO; Concise International Chemical Assessment Document 49, Thiourea. World Health Organization, Geneva, 2003. Available from, as of Mar 2, 2015: https://www.who.int/ipcs/publications/cicad/en/cicad49.pdf",
+            "Value": "Thiourea has been detected but not quantified in laburnum shrubs (Laburnum anagyroides) and is a natural metabolite of the fungi Verticillium alboatrum and Bortrylius cinerea(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Mar 2, 2015: https://www.safe.nite.go.jp/english/db.html (2) Franke C et al; Chemosphere 29: 1501-14 (1994) (3) Geyer H et al; Chemosphere 13: 269 (1984)]",
+            "Value": "BCF values of <0.2 and <2 were measured in fish for thiourea at concentrations of 3 and 0.3 ppm, respectively, using carp (Cyprinus carpio) which were exposed over an 6-week period(1). According to a classification scheme(2), these BCF values suggest the potential for bioconcentration in aquatic organisms is low(SRC). A 24-hour static test BCF of 54 was measured in Alga chlorella(3)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Mar 2, 2015: https://www.safe.nite.go.jp/english/db.html (2) WHO; Concise International Chemical Assessment Document 49, Thiourea. World Health Organization, Geneva, 2003. Available from, as of Mar 2, 2015: https://www.who.int/ipcs/publications/cicad/en/cicad49.pdf (3) ECHA; Search for Chemicals. Thiourea (CAS 62-56-6) Registered Substances Dossier. European Chemical Agency. Available from, as of Mar 2, 2015: https://echa.europa.eu/ (4) Rott B et al; Chemosphere 11: 531 (1982) (5) Malaney GW et al; J Water Pollut Control Fed 39: 2020 (1967) (6) Kolyada TI; Vests; Akad Navuk Belarus 3: 36 (1969)",
+            "Value": "AEROBIC: Thiourea, present at 30 mg/L, reached 2.6% of its theoretical BOD in two weeks using an activated sludge inoculum at 100 mg/L in the Japanese MITI test(1). Using a modified MITI test (OECD 301C guideline) and a 34-day incubation period, thiourea was also found to be not readily biodegradable(2). Four separate OECD 302A (SCAS TEST, inherent biodegradation) studies observed thiourea removal of 45-97% over 13-84 days test durations in which the inoculum was very slowly adapted to increasing thiourea concentrations prior to incubation(2). Using a low initial concentration of thiourea (50 ug/L), thiourea had a 5-day CO2 evolution of 17% using an activated inoculum and a German GSF Biodegradation Test(3,4). A 27-day Zahn-Wellens Test resulted in no degradation(4). Using the Warburg technique, a concentration of 500 mg/L thiourea was found to be toxic or very poorly oxidized by various activated sludges(5). In studies using sterilized versus non-sterilized soils, microorganisms were believed to take an active part in the transformation of thiourea, although high initial concentration of thiourea suppressed microflora activity for a period of up to 60 days(6)."
+        },
+        {
+            "References": "(1) WHO; Concise International Chemical Assessment Document 49, Thiourea. World Health Organization, Geneva, 2003. Available from, as of Mar 2, 2015: https://www.who.int/ipcs/publications/cicad/en/cicad49.pdf (2) ECHA; Search for Chemicals. Thiourea (CAS 62-56-6) Registered Substances Dossier. European Chemical Agency. Available from, as of Mar 2, 2015: https://echa.europa.eu/",
+            "Value": "AEROBIC: The aerobic biodegradability of thiourea was tested in water and sediment samples of the Elbe River (including its estuary) and the western reaches of the Baltic Sea(1). In all water samples from the Elbe estuary, very slow but continuous degradation of thiourea was observed over the incubation period of 85 days (maximum 9% within the first 8 days, maximum 68% at the end of observation; based on carbon dioxide production)(1). In sediment samples, 40-70% degradation was observed(1). In samples taken from the Baltic Sea, biodegradation varied widely between 50 and 87% in water and between 28 and 72% in sediment(1). The Elbe River and Baltic Sea die-away tests demonstrate that thiourea serves as nitrogen source for degrading microorganisms with thiourea more easily biodegraded in nitrogen-limited environments(2). In aerobic batch laboratory microcosm experiments, thiourea half-lives of 12.8 days (basic soil) and 18.7 days (acid soil) were determined(1,2), however, no abiotic controls were performed, and removal of thiourea was attributed mainly to biotic processes, assuming abiotic mechanisms to be of minor importance(1). In a soil microorganism degradation study, 22% of an initial thiourea (1.5 g/L) was degraded within 1 week and 96% within 15 weeks of incubation(1); thiourea concentrations exceeding 7.6 g/L inhibited microbial transformation(1). After applying thiourea concentrations of 5 and 200 mg/L to soil in a plant growth test, a marked increase in mineral nitrogen was observed within 4 weeks of incubation, which was explained by primary degradation of thiourea(1)."
+        },
+        {
+            "References": "(1) Lashen ES; Diss Abstr 25: 6162 (1965)",
+            "Value": "ANAEROBIC: Very little degradation of thiourea was observed in a solution medium inoculated with sewage sludge(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Govers H et al; Chemosphere 15: 383-93 (1986)",
+            "Value": "log Kow = -1.08"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) ECHA; Search for Chemicals. Thiourea (CAS 62-56-6) Registered Substances Dossier. European Chemical Agency. Available from, as of Mar 2, 2015: https://echa.europa.eu/ (2) Schuurmann G et al; Environ Sci Technol 40: 7005-11 (2006) (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Bi E et al; Environ Sci Technol 40: 5962-70 (2006)",
+            "Value": "Using OECD Guideline 106 (Adsorption - Desorption Using a Batch Equilibrium Method), thiourea had measured Koc values of 28, 26 and 36 in Alfisol (neutral loam), Spodosol (acidic sandy) and Entisol (slightly basic loam) soils respectively(1). A measured Koc value of 7 has also been reported(2). According to a classification scheme(3), these Koc values suggest that thiourea is expected to have very high mobility in soil. In soil column adsorption studies using five Eurosoils, thiourea was used as a tracer due to its minimum interaction with the solid matrix and had Kd values of 0.00 in all five soils(4)."
+        }
+    ]
+}

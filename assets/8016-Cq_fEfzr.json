@@ -1,0 +1,108 @@
+{
+    "_id": {
+        "$oid": "6682e8a2c4e5dba5ffba2691"
+    },
+    "CID": {
+        "$numberInt": "8016"
+    },
+    "Name": "2-Methylaminoethanol",
+    "IUPACName": "2-(methylamino)ethanol",
+    "CanonicalSMILES": "CNCCO",
+    "Synonyms": [
+        "2-(Methylamino)ethanol",
+        "109-83-1",
+        "N-Methylethanolamine",
+        "2-METHYLAMINOETHANOL",
+        "Methylethanolamine",
+        "Methylethylolamine",
+        "Ethanol",
+        "2-(methylamino)-",
+        "N-Methylaminoethanol",
+        "N-Methyl-2-aminoethanol",
+        "N-Methylmonoethanolamine",
+        "N-Monomethylethanolamine",
+        "(2-Hydroxyethyl)methylamine",
+        "Monomethylaminoethanol",
+        "Monomethylethanolamine",
+        "2-(N-Methylamino)ethanol"
+    ],
+    "IsomericSMILES": "CNCCO",
+    "INCHI": "InChI=1S/C3H9NO/c1-4-2-3-5/h4-5H,2-3H2,1H3",
+    "INCHIKEY": "OPKOKAMJFNKNAS-UHFFFAOYSA-N",
+    "Formula": "C3H9NO",
+    "MolecularWeight": {
+        "$numberDouble": "75.11"
+    },
+    "Description": "N-methylethanolamine is an ethanolamine compound having an N-methyl substituent.",
+    "XlogP": {
+        "$numberDouble": "-0.9"
+    },
+    "Complexity": {
+        "$numberInt": "16"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 7 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Dec 20, 2016: https://www2.epa.gov/tsca-screening-tools/ (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for 2-methylaminoethanol(SRC), using a log Kow of -0.94(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Dec 21, 2016: https://www.safe.nite.go.jp/english/db.html",
+            "Value": "AEROBIC: 2-Methylaminoethanol, present at 100 mg/L, reached 68% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test, which classified the compound as readily biodegradable(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 7",
+            "Value": "log Kow = -0.94"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "PMID:8948072",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The acute handling hazards of several alkylalkanolamines were determined by investigating their potential acute toxicity and primary irritancy. Materials studied were N-methylethanolamine (MEA), N, N, -dimethylethanolamine (DMEA), N, N, -dimethylisopropanolamine (DMIPA), N-methyldiethanolamine (MDEA), and tertbutyldiethanolamine (BDEA). All these alkylalkanolamines were of comparable acute peroral toxicity in the rat (LD50 range 1.48-2.83 mL/kg). By 24 hr occluded epicutaneous contact in the rabbit, MEA, DMEA and DMIPA were of moderate acute percutaneous toxicity (LD50 range 1.13-2.0 mL/kg), MDEA was of slight acute percutaneous toxicity (LD50 male 9.85 mL/kg, female 10.90 mL/kg), and BDEA of intermediate toxicity (LD50 6.4 mL/kg). Due to differences in vapor pressure the acute vapor exposure toxicity of the alkylalkanolamines to rats varied; MEA, MDEA and BDEA were of a low order of acute toxicity, and DMIPA was moderately toxic with an LT50 of 3.2 hr for a saturated vapor atmosphere exposure. A 4 hr-LC50 (rat combined sex) of 1461 ppm was determined for DMEA. All alkylalkanolamines studied, except MDEA, were moderately to markedly irritating and caused variable degrees of skin corrosivity; MDEA caused only transient minor skin irritation. In accord with the skin irritancy results, the eye irritancy from 0.005 mL MEA, DMEA, DMIPA and BDEA was severe, and that from MDEA was slight. ..."
+        },
+        {
+            "References": "PMID:9554055",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The skin sensitization potential of 4 alkylalkanolamines (N-methylethanolamine, N,N-dimethylethanolamine, N-methyldiethanolamine and N,N-diethylethanolamine), was evaluated in a guinea pig maximation procedure by the method of Magnusson and Kligman. While all 4 alkylalkanolamines tested were irritating to the guinea pig skin, only N-methylethanolamine showed potential to induce allergic contact dermatitis. None of the remaining 3 alkylalkanolamines exhibited clear skin responses suggestive of sensitization."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 793",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... In male Sprague-Dawley rats ... /monomethylethanolamine/ is ... irritating to the skin, eyes, and mucous membranes."
+        },
+        {
+            "References": "Kobayashi M; J Vitaminol 16 (2): 119 (1970)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Young guinea pigs fed choline-deficient diet supplemented with 0.117% N-methylethanolamine showed as good growth and survival rates as those on control choline-supplemented diet, but addition of 0.328% N-methylethanolamine in diet reduced growth and increased mortality."
+        },
+        {
+            "References": "PMID:6499812",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Previous research demonstrated the inhalation teratogenicity of the solvent 2-ethoxyethanol in rats and rabbits. As this is one of a class of widely used industrial solvents, ... the teratogenicity of five structurally related compounds /was investigated/. Each chemical was vaporized and administered to approximately 15 pregnant rats in one to three concentrations for 7 hr/day on gestation days 7 to 15, and dams were sacrificed on day 20. Fetuses were individually weighed, and two-thirds of them were fixed in Bouin's solution and examined for soft-tissue anomalies. The other one-third were fixed in alcohol, stained with Alizarin Red and examined for skeletal defects. Data were analyzed on a litter basis; three solvents were compared with a pooled group (N = 34) of sham-exposed controls, and the remaining two were compared with a group of 15 controls. At concentrations which were apparently not maternally toxic, 2-methoxyethanol was highly embryotoxic, producing complete resorptions at 200 ppm; increased resorptions, reduced fetal weights and skeletal and cardiovascular defects occurred at both 100 and 50 ppm. 2-ethoxyethyl acetate at 600 ppm induced complete resorption of litters; 390 ppm reduced fetal weights and induced skeletal and cardiovascular defects, but only a single defect was observed at 130 ppm. 2-Butoxyethanol evidenced slight maternal toxicity at 200 ppm but produced no increase in congenital defects at that concentration. Neither 2-(2-ethoxyethoxy)ethanol (100 ppm) nor 2-methylaminoethanol (150 ppm) was maternally toxic or embryotoxic. In summary, shorter alkyl chained glycol ethers produced greater embryotoxicity than those having longer chains, and the ester produced effects equivalent to the ether, both patterns predictable from the biochemical literature."
+        },
+        {
+            "References": "Zahniser NR et al; J Neurochem 30 (6): 1245 (1978)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Pregnant rats were fed for 15 days pre-delivery until 15 days postpartum a choline-deficient diet supplemented with 1% N-methylaminoethanol. All pups died within 36 hr. Levels of choline and acetylcholine were elevated."
+        },
+        {
+            "References": "European Chemicals Agency (ECHA); Registered Substances, 2-methylaminoethanol (CAS Number: 109-83-1) (EC Number: 203-710-0) (Last updated: December 30, 2015). Available from, as of December 13, 2016: https://echa.europa.eu/",
+            "Value": "/GENOTOXICITY/ A chromosome-aberration test was performed according to OECD guideline 473. Under the experimental conditions ... , the conclusion is drawn that Methylaminoethanol is not a chromosome-damaging (clastogenic) substance under in vitro conditions using V79 cells in the absence and the presence of metabolic activation."
+        },
+        {
+            "References": "European Chemicals Agency (ECHA); Registered Substances, 2-methylaminoethanol (CAS Number: 109-83-1) (EC Number: 203-710-0) (Last updated: December 30, 2015). Available from, as of December 13, 2016: https://echa.europa.eu/",
+            "Value": "/GENOTOXICITY/ A bacterial gene mutation assay was performed /on S. typhimurium TA 1535, TA 1537, TA 98 and TA 100/ with and without metabolic activation. N-Methylethanolamine is stated to be nonmutagenic."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 793",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ ... Methylaminoethanol was demonstrated to inhibit plasma cholinesterase in vitro in a comparative study of mono- and dimethyl-, ethyl, and butyl aminoethanols; methylaminoethanol demonstrated relatively weak activity ..."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Dec 20, 2016: https://www2.epa.gov/tsca-screening-tools/ (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Littel RJ et al; J Chem Eng Data 35: 276-7 (1990) (4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of 2-methylaminoethanol can be estimated to be 1(SRC). According to a classification scheme(2), this estimated Koc value suggests that 2-methylaminoethanol is expected to have very high mobility in soil. The pKa of 2-methylaminoethanol is 9.95(3), indicating that this compound will exist almost entirely in cation form in the environment and cations generally adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(4)."
+        }
+    ]
+}

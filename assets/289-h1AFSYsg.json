@@ -1,0 +1,102 @@
+{
+    "_id": {
+        "$oid": "6682e7d2c4e5dba5ffba2280"
+    },
+    "CID": {
+        "$numberInt": "289"
+    },
+    "Name": "CATECHOL",
+    "IUPACName": "benzene-1,2-diol",
+    "CanonicalSMILES": "C1=CC=C(C(=C1)O)O",
+    "Synonyms": [
+        "pyrocatechol",
+        "catechol",
+        "120-80-9",
+        "1,2-dihydroxybenzene",
+        "1,2-benzenediol",
+        "benzene-1,2-diol",
+        "pyrocatechin",
+        "2-hydroxyphenol",
+        "o-Benzenediol",
+        "o-Dihydroxybenzene",
+        "o-Dioxybenzene",
+        "o-Hydroquinone",
+        "o-Hydroxyphenol",
+        "Phthalhydroquinone",
+        "Pyrocatechine"
+    ],
+    "IsomericSMILES": "C1=CC=C(C(=C1)O)O",
+    "INCHI": "InChI=1S/C6H6O2/c7-5-3-1-2-4-6(5)8/h1-4,7-8H",
+    "INCHIKEY": "YCIMNLLNPGFGHC-UHFFFAOYSA-N",
+    "Formula": "C6H6O2",
+    "MolecularWeight": {
+        "$numberDouble": "110.11"
+    },
+    "Description": "Catechol is a benzenediol comprising of a benzene core carrying two hydroxy substituents ortho to each other. It has a role as a genotoxin, an allelochemical and a plant metabolite. It is a conjugate acid of a catecholate(1-).",
+    "XlogP": {
+        "$numberDouble": "0.9"
+    },
+    "Complexity": {
+        "$numberInt": "62"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Catechol. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Aug 12, 2014: https://www.ars-grin.gov/duke/",
+            "Value": "Catechol occurrence in plants(1).",
+            "Table": "[{'Genus species': 'Allium cepa L', 'Common name': 'Onion, shallot', 'Part': 'Bulb'}, {'Genus species': 'Anadenanthera peregrina (L) SPEG', 'Common name': 'Cohoba, Niopo', 'Part': 'Plant'}, {'Genus species': 'Citrus paradisi MacFad', 'Common name': 'Grapefruit', 'Part': 'Plant'}, {'Genus species': 'Fragaria spp', 'Common name': 'Strawberry', 'Part': 'Fruit'}, {'Genus species': 'Nicotiana tabacum L', 'Common name': 'Tobacco', 'Part': 'Leaf'}, {'Genus species': 'Origanum vulgare L', 'Common name': 'Oregano', 'Part': 'Plant'}, {'Genus species': 'Portulaca oleracea L', 'Common name': 'Purslane, Verdolaga', 'Part': 'Plant'}, {'Genus species': 'Prerocarpus marsupium ROXB', 'Common name': 'Indian Kiino, Malabar Kino, bijasal', 'Part': 'Wood'}, {'Genus species': 'Theobromoa caco L', 'Common name': 'Caco', 'Part': 'Plant'}, {'Genus species': 'Uncaria catechu (L.f.) WILLD', 'Common name': 'Gambir, Pale Catechu', 'Part': 'Branches'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 20 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Aug 7, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm/ (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated for catechol(SRC), using a log Kow of 0.88(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Medvedev VA, Davidov VD; pp. 245-54 in Decomposition of Toxic and Nontoxic Organic Compounds in Soil. Overcash MR ed Ann Arbor, MI: Ann Arbor Sci Publ (1981) (2) Stott DE et al; Soil Soc Am J 47: 66-70 (1983) (3) Nadarajah K, Tian TS; J Pure Appl Microb 7: 881-90 (2013). Available from, as of Jan 30, 2015: https://www.academia.edu/7109401",
+            "Value": "AEROBIC: Catechol is moderately to readily biodegraded in soils based on a residence time of 1 day for 500 mg of catechol in chernozem soil on hard carbonaceous woody loam (pH 7.1-7.5, 19 \u00b0C)(1). The percent biodegradation (measured as percentage of recovered 14CO2 activity) after 6 months at 23 \u00b0C in Steinbeck loam (pH 5.0), Fallbrook sandy loam (pH 5.5), Greenfield sandy loam (pH 7.0), and Sorrento loam (pH 7.4) were 24, 50, 28, and 26%, respectively(2). The soil bacteria Agrobacterium radiobacter was shown to biodegrade catechol(3)."
+        },
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Aug 7, 2014: https://www.safe.nite.go.jp/english/db.html (2) Gerike P, Fischer WK; Ecotox Environ Safety 3: 159-73 (1979) (3) Chudoba J et al; Sb Vys Sk Chem-Technol Praze Technol Vody 13: 45-63 (1968) (4) Pitter P; Water Res 10: 231-5 (1976) (5) Urushigawa Y et al; Kogai Shigen Kenyusho Iho 12: 37-46 (1983)",
+            "Value": "AEROBIC: Catechol, present at 100 mg/L, reached 83% of its theoretical BOD in two weeks using an activated sludge inoculam at 30 mg/L in the Japanese MITI test(1). When present at 50 mg/L, catechol reached 80% of its theoretical BOD in two weeks using an activated sludge inoculam at 30 mg/L in the Japanese MITI test(2). 100% theoretical BOD was reported using activated sludge incubated 96 hrs at 16-20 \u00b0C(3). A chemical oxygen demand rate of 55.5 mg COD/g-hr was obtained, corresponding to 96% degradation in 5 days at 20 \u00b0C using acclimated activated sludge and a catechol concentration of 200 mg/L(4). Using non-acclimated activated sludge, a rate of 1.31X10-5/hr was reported corresponding to a half-life of 0.22 days(5). Catechol, at a concentration of 2 ppm, was degraded by sewage seed using the Closed Bottle test resulting in 89% theoretical BOD  following a 30 day incubation(2); 62% mineralization as evolved CO2 in 28 days (including a 14-day lag period) at 25 \u00b0C was reported using the Sturm-CO2 evolution test(2). Using the OECD Coupled-Units test, 98% DOC removal was observed following 7 days acclimation of 2500 mg/L synthetic sewage under continuous feed operation and 12 ppm carbon catechol concentration(2)."
+        },
+        {
+            "References": "(1) Healy JB Jr, Young LY; Food Microbiol Toxicol 35: 216-8 (1978) (2) Healy JB Jr, Young LY; Appl Environ Microbiol 38: 84-9 (1979) (3) Shelton DR, Tiedje JM; Development of Tests for Determining Anaerobic Biodegradation Potential USEPA-560/5-81-013 (1981)",
+            "Value": "ANAEROBIC: Anaerobic biodegradation of 39% (as CH4 produced) reported after 42 days (including 31 day lag period) using digester sludge; respiking this medium at 4 days gave 99% biodegradation after 21 days (including a 14-day lag period)(1). Anaerobic biodegradation of catechol using digester sludge reported to be 67% (as CH4/CO2 produced) in 13 days following a 21-day lag period(3) and 98% biodegradation (as CH4 produced) in 28 days (incl a 21-day lag period)(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 20",
+            "Value": "log Kow = 0.88"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:2427692",
+            "Value": "The effects of catechol on various ionic channels of isolated primary afferent neurons of the bull frog were examined by a single suction electrode clamp system, which combined internal perfusion and current or voltage clamp using an electronic switching circuit. Catechol was found to inhibit rather specifically the fast potassium(+) current as does 4-aminopyridine. Calcium(2+), sodium(+) and slow potassium(+) currents were not affected. Although both 4-aminopyridine and catechol were inhibitors of the fast potassium(+) channels, their sites of action were quite different. Catechol was effective when applied on the external surface of the cell membrane whereas 4-aminopyridine acted preferably internally. We assumed that a single fast potassium(+) channel has two distinct sites for blockers: the catechol site is exposed to the external medium or situated at the outer orifice of the pore, and the 4-aminopyridine site is located within the same channel but is more easily accessible from inside the nerve cell than outside. The 4-aminopyridine and catechol sites were not, however, completely separate and independent of each other since a synergistic interaction was observed between catechol and 4-aminopyridine."
+        },
+        {
+            "References": "PMID:11470755",
+            "Value": "Catechol, a naturally occurring and an important industrial chemical, has been shown to have strong promotion activity and induce glandular stomach tumors in rodents. In addition, catechol is a major metabolite of carcinogenic benzene. To clarify the carcinogenic mechanism of catechol, we investigated DNA damage using human cultured cell lines and 32P-labeled DNA fragments obtained from the human p53 and p16 tumor suppressor genes and the c-Ha-ras-1 proto-oncogene. Catechol increased the amount of 8-oxo-7,8-dihydro-2'-deoxyguanosine (8-oxodG), which is known to be correlated with the incidence of cancer, in a human leukemia cell line HL-60, whereas the amount of 8-oxodG in its hydrogen peroxide (H2O2)-resistant clone HP100 was not increased. The formation of 8-oxodG in calf thymus DNA was increased by catechol in the presence of Cu(2+). Catechol caused damage to 32P-labeled DNA fragments in the presence of Cu(2+). When NADH was added, DNA damage was markedly enhanced and clearly observed at relatively low concentrations of catechol (<1 microM). DNA cleavage was enhanced by piperidine treatment, suggesting that catechol plus NADH caused not only deoxyribose phosphate backbone breakage but also base modification. Catechol plus NADH frequently modified thymine residues. Bathocuproine, a specific Cu(+) chelator and catalase inhibited the DNA damage, indicating the participation of Cu(+) and H2O2 in DNA damage. Typical hydroxyl radical scavengers did not inhibit catechol plus Cu(2+)-induced DNA damage, whereas methional completely inhibited it. These results suggest that reactive species derived from the reaction of H2O2 with Cu(+) participates in catechol-induced DNA damage. Therefore, /the authors/ conclude that oxidative DNA damage by catechol through the generation of H2O2 plays an important role in the carcinogenic process of catechol and benzene."
+        },
+        {
+            "References": "PMID:11800599",
+            "Value": "We examined the redox properties of the \"carcinogenic\" catechol and the \"noncarcinogenic\" hydroquinone in relation to different DNA damaging activities and carcinogenicity using 32P-labeled DNA fragments obtained from the human genes. In the presence of endogenous NADH and Cu2+, catechol induces stronger DNA damage than hydroquinone, although the magnitudes of their DNA damaging activities were reversed in the absence of NADH. In both cases, DNA damage resulted from base modification at guanine and thymine residues in addition to strand breakage induced by Cu+ and H2O2, generated during the oxidation of catechol and hydroquinone into 1,2-benzoquinone and 1,4-benzoquinone, respectively. EPR and 1H NMR studies indicated that 1,2-benzoquinone is converted directly into catechol through a nonenzymatic two-electron reduction by NADH whereas 1,4-benzoquinone is reduced into hydroquinone through a semiquinone radical intermediate through two cycles of one-electron reduction. The reduction of 1,2-benzoquinone by NADH proceeds more rapidly than that of 1,4-benzoquinone. This study demonstrates that the rapid 1,2-benzoquinone two-electron reduction accelerates the redox reaction turnover between catechol and 1,2-benzoquinone, resulting in the enhancement of DNA damage. These results suggest that the differences in NADH-mediated redox properties of catechol and hydroquinone contribute to their different carcinogenicities"
+        },
+        {
+            "References": "PMID:20832456",
+            "Value": "Catechol is possibly carcinogenic to humans (International Agency for Research on Cancer, IARC). The key mechanism could include its oxidative DNA-damaging effect in combination with reductive-oxidative metals like Cu. We found that DNA damage was suppressed by introducing an alpha-carbonyl group to catechol at C4-position to produce carbonyl catechols. During the oxidative DNA-damaging process, catechols but not carbonyl catechols were oxidized to o-quinone; however, coexisting Cu(II) was reduced to Cu(I). Carbonyl catechols were possibly arrested at the oxidation step of semiquinones in the presence of Cu(II). Cu(I)-binding to DNA was stronger than Cu(II)-binding, on the basis of the circular dichroism spectral change. None of the carbonyl catechols induced such change, suggesting sequestration of Cu(I) from DNA. Solid-phase extraction experiments and spectrophotometric analyses showed the formation of semiquinone chelates with Cu(I). Thus, chelate formation could explain the suppression mechanism of the Cu-catechol-dependent DNA damage by terminating the reduction-oxidation cycle. Structural modifications such as introducing an alpha-carbonyl group to catechol at C4-position would contribute to reducing the risk and improving industrial and medical potentials of aromatic/phenolic compounds ... ."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Boyd SA; Soil Sci 134: 337-43 (1982) (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of catechol in Brookston clay loam has been reported to be 118(1). According to a classification scheme(2), this Koc value suggests that catechol is expected to have high mobility in soil."
+        }
+    ]
+}

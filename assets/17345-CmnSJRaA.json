@@ -1,0 +1,109 @@
+{
+    "_id": {
+        "$oid": "6682e92cc4e5dba5ffba2947"
+    },
+    "CID": {
+        "$numberInt": "17345"
+    },
+    "Name": "FORMOTHION",
+    "IUPACName": "2-dimethoxyphosphinothioylsulfanyl-N-formyl-N-methylacetamide",
+    "CanonicalSMILES": "CN(C=O)C(=O)CSP(=S)(OC)OC",
+    "Synonyms": [
+        "FORMOTHION",
+        "2540-82-1",
+        "Anthio",
+        "Toprose",
+        "Aflix",
+        "Antio",
+        "Anthio 25",
+        "Spencer S-6900",
+        "Sandoz S-6900",
+        "OMS-968",
+        "SAN 244 I",
+        "J-38",
+        "SAN 6913 I",
+        "SAN 7107 I",
+        "VEL 4284"
+    ],
+    "IsomericSMILES": "CN(C=O)C(=O)CSP(=S)(OC)OC",
+    "INCHI": "InChI=1S/C6H12NO4PS2/c1-7(5-8)6(9)4-14-12(13,10-2)11-3/h5H,4H2,1-3H3",
+    "INCHIKEY": "AIKKULXCBHRFOS-UHFFFAOYSA-N",
+    "Formula": "C6H12NO4PS2",
+    "MolecularWeight": {
+        "$numberDouble": "257.3"
+    },
+    "Description": "Formothion is a dicarboximide.",
+    "XlogP": {
+        "$numberDouble": "1.5"
+    },
+    "Complexity": {
+        "$numberInt": "252"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Tomlin C; The Pesticide Manual: A World Compendium Incorporating The Agrochemicals Handbook, 10th ed. Bath, UK: The Bath Press (1994)",
+            "Value": "In plants, formothion is metabolized to dimethoate, (dimethoxyphosphinthioylthio)acetic acid, bis(dimethylthiophosphoryl) disulfide, omethoate, and O,O-dimethyl hydrogen phosphorodithioate(1)."
+        },
+        {
+            "References": "PMID:95990",
+            "Value": "After spraying an apple orchard with 1.5 kg/ha, the levels of formothion was <0.55 mg/kg fruit, leaves, branches, and soil. Ten days after the spray the levels of formothion was 0 mg/kg(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Yalkowsky SH, Dannenfelser RM; The AQUASOL dATAbASE of Aqueous Solubility. Fifth ed, Tucson, AZ: Univ Az, College of Pharmacy (1992) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for formothion(SRC), using a log Kow of 1.48(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "ANTHIO 33 INSECTICIDE, SANDOZ LTD BASLE, AGROCHEM DEPT INFO SERVICE, AGRO DOK E-4028/DG, 1971",
+            "Value": "IN SOIL 1 DAY AFTER APPLICATION OF APPROX 30 PPM FORMOTHION, ONLY 0.24 PPM UNCHANGED FORMOTHION REMAINED. THE DEGRADATION PRODUCTS WERE 12 PPM DIMETHOATE & 4 PPM O,O-DIMETHYL-S-CARBOXYMETHYLPHOSPHORODITHIOATE; 50 DAYS AFTER APPLICATION LESS THAN 0.07 PPM FORMOTHION & LESS THAN 0.07 PPM O,O-DIMETHYL-S-CARBOXYMETHYLPHOSPHORODITHIOATE & 4 PPM DIMETHOATE WERE FOUND."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 24",
+            "Value": "log Kow = 1.48"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 153",
+            "Value": "The signs of poisoning due to organophosphorus cmpd are those due to accumulation of acetylcholine & hence overstimulation of parasympathetic nervous system. It is usual to divide them under 3 headings: muscarinic, nicotinic & central. Muscarinic signs ... consist of hypersalivation, lacrimation, sweating & nasal discharge. Miosis, dyspnea, vomiting, diarrhea & frequency of urination ... Nicotinic effects consist of fasciculation of muscles, weakness & paralysis. Central nervous system effects include nervousness, apprehension, ataxia, convulsions & coma. Death is due to resp failure, or sometimes cardiac arrest. There is little difference between signs produced by different organophosphorus compounds, but route of absorption may influence one system more than another. /Organophosphorus cmpd/"
+        },
+        {
+            "References": "Dreisbach, R.H. Handbook of Poisoning. 12th ed. Norwalk, CT: Appleton and Lange, 1987., p. 113",
+            "Value": "Organophosphorus derivatives act by combining with and inactivating the enzyme acetylcholinesterase. ... The inactivation of cholinesterase by cholinesterase inhibitor pesticides allows the accumulation of large amounts of acetylcholine, with resultant widespread effects that may be ... separated into 4 categories: (1) Potentiation of postganglionic parasympathetic activity. ... (2) Persistent depolarization of skeletal muscle ... (3) Initial stimulation following depression of cells of central nervous system ... (4) Variable ganglionic stimulation or blockade ... /Cholinesterase inhibitor pesticides/"
+        },
+        {
+            "References": "International Labour Office. Encyclopedia of Occupational Health and Safety. Vols. I&II. Geneva, Switzerland: International Labour Office, 1983., p. 1638",
+            "Value": "The main feature of the toxic mechanism of organophosphorus pesticides is inhibition of the esterase enzyme activity, in particular of cholinesterase, which plays an important physiological part. Organophosphorus pesticides can also indirectly interact with the biochemical receptors of acetylcholine. /Organophosphorus pesticides/"
+        },
+        {
+            "References": "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 2",
+            "Value": "Organophosphates poison insects and humans primarily by phosphorylation of the acetylcholinesterase enzyme at nerve endings. /Organophosphate Cholinesterase-inhibiting pesticides/"
+        },
+        {
+            "References": "Morgan, D. P. Recognition and Management of Pesticide Poisonings. 2nd ed. EPA 540/9-76-011, Washington, DC: U.S. Government Printing Office, Aug. 1976., p. 4",
+            "Value": "Toxicants of this class phosphorylate almost irreversibly varying amt of acetylcholinesterase enzyme of tissues, allowing accum of acetylcholine at cholinergic neuro-effector junctions (muscarinic effects), & at skeletal muscle myoneural junctions & in autonomic ganglia (nicotinic effects). /Organophosphate pesticides/"
+        },
+        {
+            "References": "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 153",
+            "Value": "The signs of poisoning due to organophosphorus cmpd are those due to accumulation of acetylcholine & hence overstimulation of parasympathetic nervous system. It is usual to divide them under 3 headings: muscarinic, nicotinic & central. Muscarinic signs ... consist of hypersalivation, lacrimation, sweating & nasal discharge. Miosis, dyspnea, vomiting, diarrhea & frequency of urination ... Nicotinic effects consist of fasciculation of muscles, weakness & paralysis. Central nervous system effects include nervousness, apprehension, ataxia, convulsions & coma. Death is due to resp failure, or sometimes cardiac arrest. There is little difference between signs produced by different organophosphorus compounds, but route of absorption may influence one system more than another. /Organophosphorus cmpd/"
+        },
+        {
+            "References": "Dreisbach, R.H. Handbook of Poisoning. 12th ed. Norwalk, CT: Appleton and Lange, 1987., p. 113",
+            "Value": "Organophosphorus derivatives act by combining with and inactivating the enzyme acetylcholinesterase (AChE). ... The inactivation of cholinesterase by cholinesterase inhibitor pesticides allows the accumulation of large amounts of acetylcholine, with resultant widespread effects that may be ... separated into 4 categories: (1) Potentiation of postganglionic parasympathetic activity. ... (2) Persistent depolarization of skeletal muscle ... (3) Initial stimulation following depression of cells of central nervous system ... (4) Variable ganglionic stimulation or blockade ... /Cholinesterase inhibitor pesticides/"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 24 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of formothion is estimated as 150(SRC), using a log Kow of 1.48(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that formothion is expected to have high mobility in soil(SRC)."
+        }
+    ]
+}

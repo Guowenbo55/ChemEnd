@@ -1,0 +1,66 @@
+{
+    "_id": {
+        "$oid": "6682e976c4e5dba5ffba2abf"
+    },
+    "CID": {
+        "$numberInt": "33775"
+    },
+    "Name": "NORFLURAZON",
+    "IUPACName": "4-chloro-5-(methylamino)-2-[3-(trifluoromethyl)phenyl]pyridazin-3-one",
+    "CanonicalSMILES": "CNC1=C(C(=O)N(N=C1)C2=CC=CC(=C2)C(F)(F)F)Cl",
+    "Synonyms": [
+        "NORFLURAZON",
+        "27314-13-2",
+        "Norflurazone",
+        "Solicam",
+        "Zorial",
+        "Evital",
+        "Telok",
+        "SAN 9789",
+        "Monometflurazone",
+        "4-Chloro-5-(methylamino)-2-(alpha,alpha,alpha-trifluoro-m-tolyl)-3(2H)-pyridazinone",
+        "SAN 9789 H",
+        "4-Chloro-5-(methylamino)-2-[3-(trifluoromethyl)phenyl]-3(2H)-pyridazinone",
+        "H 9789",
+        "H 52143",
+        "KES1HB07E4"
+    ],
+    "IsomericSMILES": "CNC1=C(C(=O)N(N=C1)C2=CC=CC(=C2)C(F)(F)F)Cl",
+    "INCHI": "InChI=1S/C12H9ClF3N3O/c1-17-9-6-18-19(11(20)10(9)13)8-4-2-3-7(5-8)12(14,15)16/h2-6,17H,1H3",
+    "INCHIKEY": "NVGOPFQZYCNLDU-UHFFFAOYSA-N",
+    "Formula": "C12H9ClF3N3O",
+    "MolecularWeight": {
+        "$numberDouble": "303.67"
+    },
+    "Description": "Norflurazon is a pyridazinone that is pyridazin-3(2H)-one which is substituted at positions 2, 4, and 5 by m-(trifluoromethyl)phenyl, chloro, and methylamino groups, respectively. A pre-emergence herbicide used to control grasses and broad-leafed weeds in a variety of crops. Not approved for use within the European Union. It has a role as a carotenoid biosynthesis inhibitor, a herbicide and an agrochemical. It is a pyridazinone, a member of (trifluoromethyl)benzenes, an organochlorine compound and a secondary amino compound.",
+    "XlogP": {
+        "$numberDouble": "2.3"
+    },
+    "Complexity": {
+        "$numberInt": "461"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "sediment_soil_concentrations": [
+        {
+            "References": "PMID:9175497",
+            "Value": "SEDIMENT: Norflurazon was not detected in sediment samples from  a survey of south Florida canals conducted from November 1991 to June 1995 (detection limit 10 ug/kg)(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "Five varieties of 3-month-old citrus rootstocks were grown for 1 month in a nutrient solution containing different concentrations of norflurazon (0, 1x10^-3 M, 10^-4 M, or 10^-5 M). The aim was to assess the impact of this herbicide on growth and chlorophyll levels in the rootstocks, as well as examine the uptake, translocation, and metabolism of C-norflurazon in the roots. The results showed that norflurazon treatment led to reduced chlorophyll levels and overall growth in sour orange, Swingle, Milam, and Cleopatra mandarin rootstocks. However, Carrizo rootstock was relatively unaffected by the herbicide in terms of chlorophyll levels and growth. In Cleopatra, chlorosis was observed mainly along the midrib and major veins. Swingle rootstock exhibited higher total absorption of 14C-norflurazon and greater presence of the herbicide in the roots compared to other rootstocks. Translocation of 14C-norflurazon to the foliage was limited in all rootstocks, and stem and taproot contained only small amounts of C-norflurazon. Metabolism of norflurazon showed minor differences among the citrus rootstocks but did not explain their varying sensitivity to the herbicide.",
+            "reference": "Achhireddy, N. R., & Singh, M. (1986). Toxicity, uptake, translocation, and metabolism of norflurazon in five citrus rootstocks. Weed Science, 34(2), 312-317.",
+            "method": {
+                "Test Plant": "Sour orange (Citrus aurantium L.), Carrizo citrange (Citrus sinensis (L.) Osb. X Poncirus trifoliata (L.) Raf.), Swingle citrumelo (Poncirus trifoliata (L.) Raf. X Citrus paradisi Macf.), Cleopatra mandarin (Citrus reshni Hort. ex Tan.), Milam (Citrus jambhiri Lush, hybrid)",
+                "Apply Location": "Hydroponic system in 0.9-L Mason jars",
+                "Plant Grown Condition": "Seedlings were raised from seed in the greenhouse for 3 months in planter flats using Promix-Bx4 as the growing medium. Plants were watered as needed and fertilized with 1% (w/v) Nutrileaf (20N:20P:20K) once every week.",
+                "Chemical Preparation": "Norflurazon (Solicam, 80% W.P.) was used at concentrations of 0, 10^-5, 10^-4, and 10^-3 M in half-strength Hoagland and Arnon nutrient solution.",
+                "Pesticide Application Details for the Plant": "Seedlings were transferred to 0.9-L Mason jars containing 900 ml of nutrient solution with various concentrations of norflurazon. The roots were constantly aerated during the experiments by bubbling air through the solution. There were four replicates for each rootstock per treatment, arranged in a completely randomized block design.",
+                "Other Information": "The experiment ran for 1 month under a 14-h photo period with an average photosynthetic photon flux density (PPFD) of 150 \u00b5mol m^-2 s^-1 at the plant level. Day and night temperatures were 25 and 26\u00b0C, respectively, with a relative humidity of 55/80% (day/night). Growth measurements included the appearance of the first visible symptom of chlorosis along the veins of the leaf."
+            },
+            "result": "[{\"Species\": \"Carrizo\", \"Weeks after treatment\": 2, \"Leaves (% of applied)\": 1.2, \"Stem (%)\": 0.1, \"Feeder roots (%)\": 6.8, \"Taproot (%)\": 0.6, \"Root Washings (%)\": 0.8, \"Nutrient solution (%)\": 75.0}, {\"Species\": \"Carrizo\", \"Weeks after treatment\": 4, \"Leaves (% of applied)\": 0.6, \"Stem (%)\": 0.2, \"Feeder roots (%)\": 16.6, \"Taproot (%)\": 1.4, \"Root Washings (%)\": 0.8, \"Nutrient solution (%)\": 48.2}, {\"Species\": \"Cleo\", \"Weeks after treatment\": 2, \"Leaves (% of applied)\": 2.0, \"Stem (%)\": 0.1, \"Feeder roots (%)\": 8.6, \"Taproot (%)\": 0.6, \"Root Washings (%)\": 0.3, \"Nutrient solution (%)\": 71.5}, {\"Species\": \"Cleo\", \"Weeks after treatment\": 4, \"Leaves (% of applied)\": 2.6, \"Stem (%)\": 0.2, \"Feeder roots (%)\": 16.5, \"Taproot (%)\": 1.3, \"Root Washings (%)\": 0.3, \"Nutrient solution (%)\": 45.0}, {\"Species\": \"Milam\", \"Weeks after treatment\": 2, \"Leaves (% of applied)\": 0.6, \"Stem (%)\": 0.1, \"Feeder roots (%)\": 6.7, \"Taproot (%)\": 0.5, \"Root Washings (%)\": 0.1, \"Nutrient solution (%)\": 79.0}, {\"Species\": \"Milam\", \"Weeks after treatment\": 4, \"Leaves (% of applied)\": 0.6, \"Stem (%)\": 0.3, \"Feeder roots (%)\": 13.5, \"Taproot (%)\": 2.2, \"Root Washings (%)\": 0.1, \"Nutrient solution (%)\": 60.6}, {\"Species\": \"Swingle\", \"Weeks after treatment\": 2, \"Leaves (% of applied)\": 1.2, \"Stem (%)\": 0.1, \"Feeder roots (%)\": 10.9, \"Taproot (%)\": 0.4, \"Root Washings (%)\": 0.5, \"Nutrient solution (%)\": 60.3}, {\"Species\": \"Swingle\", \"Weeks after treatment\": 4, \"Leaves (% of applied)\": 1.9, \"Stem (%)\": 0.3, \"Feeder roots (%)\": 26.2, \"Taproot (%)\": 0.7, \"Root Washings (%)\": 0.5, \"Nutrient solution (%)\": 27.3}, {\"Species\": \"Sour orange\", \"Weeks after treatment\": 2, \"Leaves (% of applied)\": 2.5, \"Stem (%)\": 0.1, \"Feeder roots (%)\": 3.3, \"Taproot (%)\": 0.7, \"Root Washings (%)\": 1.0, \"Nutrient solution (%)\": 75.8}, {\"Species\": \"Sour orange\", \"Weeks after treatment\": 4, \"Leaves (% of applied)\": 4.9, \"Stem (%)\": 0.2, \"Feeder roots (%)\": 11.6, \"Taproot (%)\": 2.2, \"Root Washings (%)\": 1.0, \"Nutrient solution (%)\": 49.4}]"
+        }
+    ]
+}

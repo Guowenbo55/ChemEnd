@@ -1,0 +1,110 @@
+{
+    "_id": {
+        "$oid": "6682e7ecc4e5dba5ffba2307"
+    },
+    "CID": {
+        "$numberInt": "2345"
+    },
+    "Name": "Benzyl benzoate",
+    "IUPACName": "benzyl benzoate",
+    "CanonicalSMILES": "C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2",
+    "Synonyms": [
+        "BENZYL BENZOATE",
+        "120-51-4",
+        "Ascabiol",
+        "Benylate",
+        "Benzoic acid",
+        "phenylmethyl ester",
+        "Benzoic acid benzyl ester",
+        "Scabiozon",
+        "Benzoic acid",
+        "benzyl ester",
+        "Novoscabin",
+        "Scabitox",
+        "Scobenol",
+        "Phenylmethyl benzoate",
+        "Ascabin",
+        "Scabagen",
+        "Benzyl phenylformate"
+    ],
+    "IsomericSMILES": "C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2",
+    "INCHI": "InChI=1S/C14H12O2/c15-14(13-9-5-2-6-10-13)16-11-12-7-3-1-4-8-12/h1-10H,11H2",
+    "INCHIKEY": "SESFRYSPDFLNCH-UHFFFAOYSA-N",
+    "Formula": "C14H12O2",
+    "MolecularWeight": {
+        "$numberDouble": "212.24"
+    },
+    "Description": "Benzyl benzoate is a benzoate ester obtained by the formal condensation of benzoic acid with benzyl alcohol. It has been isolated from the plant species of the genus Polyalthia. It has a role as a scabicide, an acaricide and a plant metabolite. It is a benzyl ester and a benzoate ester. It is functionally related to a benzoic acid.",
+    "XlogP": {
+        "$numberDouble": "4"
+    },
+    "Complexity": {
+        "$numberInt": "213"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) US Dept Agric; US Dept Agric, Agric Res Service. 1992-2016. Dr. Duke's Phytochemical and Ethnobotanical Databases. Benzyl-benzoate. Available from, as of Oct 3, 2018: https://phytochem.nal.usda.gov/phytochem/search",
+            "Value": "Benzyl benzoate concentrations in plants(1).",
+            "Table": "[{'Genus species': 'Cinnamomum verum', 'Family': 'Lauraceae', 'Common name(s)': 'Ceylon Cinnamon; Cinnamon', 'Part': 'Leaf essential oil; Bark', 'Concn (ppm)': '840,000; 400'}, {'Genus species': 'Cinnamomum aromaticum', 'Family': 'Lauraceae', 'Common name(s)': 'Chinese Cinnamon', 'Part': 'Leaf', 'Concn (ppm)': '22,500'}, {'Genus species': 'Dianthus caryophyllus', 'Family': 'Caryophyllaceae', 'Common name(s)': 'Clove Pink; Carnation', 'Part': 'Flower', 'Concn (ppm)': '1,160'}, {'Genus species': 'Jasminum officinale', 'Family': 'Oleaceae', 'Common name(s)': \"Jasmine; Poet's Jasmine\", 'Part': 'Flower', 'Concn (ppm)': '247'}, {'Genus species': 'Hyacinthus orientalis', 'Family': 'Liliaceae', 'Common name(s)': 'Hyacinth', 'Part': 'Flower', 'Concn (ppm)': '138'}, {'Genus species': 'Peumus boldus', 'Family': 'Monimiaceae', 'Common name(s)': 'Boldo', 'Part': 'Leaf', 'Concn (ppm)': '100'}, {'Genus species': 'Telosma cordata', 'Family': 'Asclepiadaceae', 'Common name(s)': 'Merrill flowers', 'Part': 'Flower', 'Concn (ppm)': '47'}, {'Genus species': 'Sideritis scardica', 'Family': 'Lamiaceae', 'Common name(s)': 'Balkan Sideritis', 'Part': 'Shoot', 'Concn (ppm)': '36'}, {'Genus species': 'Lonicera japonica', 'Family': 'Caprifolizceae', 'Common name(s)': 'Japanese Honeysuckle', 'Part': 'Flower', 'Concn (ppm)': '0.602'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 120 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Oct 3, 2018: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 190 was calculated in fish for benzyl benzoate(SRC), using a log Kow of 3.97(1) and a regression-derived equation(1). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is high(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Oct 3, 2018: https://www.safe.nite.go.jp/english/db.html",
+            "Value": "AEROBIC: Benzyl benzoate, present at 100 mg/L, reached 90% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 120",
+            "Value": "log Kow = 3.97"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "USEPA/Office of Prevention, Pesticides and Toxic Substances; Reregistration Eligibility Decision Document - Benzyl Benzoate (Benzoic Acid case 4013) p.6, EPA-HQ-OPP-2007-0470-0002 (June 2007). Available from, as of December 19, 2018: https://iaspub.epa.gov/apex/pesticides/f?p=chemicalsearch:1",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ 13-week /oral/ study in rats: Decreased body weight gain and mortality at 800 mg/kg/day. Neurotoxicity signs such as staggering, respiratory difficulty, and lethargy. Hemorrhages around the mouth and nose, and histologic lesions in the brain, thymus, skeletal muscle, and kidney. /From table/"
+        },
+        {
+            "References": "USEPA/Office of Prevention, Pesticides and Toxic Substances; Reregistration Eligibility Decision Document - Benzyl Benzoate (Benzoic Acid case 4013) p.6, EPA-HQ-OPP-2007-0470-0002 (June 2007). Available from, as of December 19, 2018: https://iaspub.epa.gov/apex/pesticides/f?p=chemicalsearch:1",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Benzyl benzoate was not tested for carcinogenicity, but the metabolite benzyl alcohol was tested in rats and mice. No evidence of carcinogenic activity was found in benzyl alcohol, and therefore benzyl benzoate is not expected to be carcinogenic. /Benzyl alcohol, metabolite/"
+        },
+        {
+            "References": "PMID:21922633",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ The maternal and fetal toxicity of benzyl benzoate, commonly used as antiparasitic insecticide, was evaluated in pregnant rats after a daily oral dose of 25 and 100 mg/kg. Biochemical, histopathological, and morphological examinations were performed. Dams were observed for maternal body weights and food and water consumption and subjected to cesarean section on (GD) 20. Maternal and fetal liver, kidney, heart, brain, and placenta were examined histopathologically under light microscope. Maternal and fetal liver and placenta were stained immunohistochemically for vascular endothelial growth factor (VEGF). Morphometric analysis of fetal body lengths, placental measurements, and fetal skeletal stainings was performed. Statistically significant alterations in biochemical parameters and placental and skeletal measurements were determined in treatment groups. In addition to histopathological changes, considerable differences were observed in the immunolocalization of VEGF in treatment groups. These results demonstrated that benzyl benzoate and its metabolites can transport to the placenta and eventually enter the fetuses."
+        },
+        {
+            "References": "USEPA/Office of Prevention, Pesticides and Toxic Substances; Reregistration Eligibility Decision Document - Benzyl Benzoate (Benzoic Acid case 4013) p.6, EPA-HQ-OPP-2007-0470-0002 (June 2007). Available from, as of December 19, 2018: https://iaspub.epa.gov/apex/pesticides/f?p=chemicalsearch:1",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Incidental oral short-term (1-30 days): No material toxicity occurred at 1000 mg/kg/day. /From table/"
+        },
+        {
+            "References": "USEPA/Office of Prevention, Pesticides and Toxic Substances; Reregistration Eligibility Decision Document - Benzyl Benzoate (Benzoic Acid case 4013) p.6, EPA-HQ-OPP-2007-0470-0002 (June 2007). Available from, as of December 19, 2018: https://iaspub.epa.gov/apex/pesticides/f?p=chemicalsearch:1",
+            "Value": "/GENOTOXICITY/ Benzyl benzoate was tested for mutagenicity and found to be negative in inducing unscheduled glycol nucleic acid (GNA) synthesis in rat liver cells. The chemical did not cause damage to hormones nor did it cause mammalian cell mutations in vitro."
+        },
+        {
+            "References": "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of Chemicals, Drugs, and Biologicals. Cambridge, UK:  Royal Society of Chemistry, 2013., p. 199",
+            "Value": "/OTHER TOXICITY INFORMATION/ Potential symptoms of overexposure by ingestion in experimental animals are progressive incoordination, CNS excitation, convulsions."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Ricking M et al; Water Res 37: 2607-2617 (2003)",
+            "Value": "SEDIMENT: Benzyl benzoate was reported at a range of not detected to 0.5 ng/g dry wt in sediments of the Havel and Spree Rivers, Berlin, Germany, sampled from 1993-1994(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Oct 3, 2018: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of benzyl benzoate can be estimated to be 2500(SRC). According to a classification scheme(2), this estimated Koc value suggests that benzyl benzoate is expected to have slight mobility in soil(SRC)."
+        }
+    ]
+}

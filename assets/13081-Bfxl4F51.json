@@ -1,0 +1,127 @@
+{
+    "_id": {
+        "$oid": "6682e908c4e5dba5ffba2896"
+    },
+    "CID": {
+        "$numberInt": "13081"
+    },
+    "Name": "CARBOPHENOTHION",
+    "IUPACName": "(4-chlorophenyl)sulfanylmethylsulfanyl-diethoxy-sulfanylidene-lambda5-phosphane",
+    "CanonicalSMILES": "CCOP(=S)(OCC)SCSC1=CC=C(C=C1)Cl",
+    "Synonyms": [
+        "CARBOPHENOTHION",
+        "Carbofenotion",
+        "786-19-6",
+        "Oleoakarithion",
+        "Trithion",
+        "Dagadip",
+        "Carbofenothion",
+        "Carbofenthion",
+        "Acarithion",
+        "Garrathion",
+        "Hexathion",
+        "Akarithion",
+        "Nephocarp",
+        "Ethyl carbophenothion",
+        "Trithion miticide"
+    ],
+    "IsomericSMILES": "CCOP(=S)(OCC)SCSC1=CC=C(C=C1)Cl",
+    "INCHI": "InChI=1S/C11H16ClO2PS3/c1-3-13-15(16,14-4-2)18-9-17-11-7-5-10(12)6-8-11/h5-8H,3-4,9H2,1-2H3",
+    "INCHIKEY": "VEDTXTNSFWUXGQ-UHFFFAOYSA-N",
+    "Formula": "C11H16ClO2PS3",
+    "MolecularWeight": {
+        "$numberDouble": "342.9"
+    },
+    "Description": "Carbophenothion is an organic sulfide.",
+    "XlogP": {
+        "$numberDouble": "5.3"
+    },
+    "Complexity": {
+        "$numberInt": "263"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) DeBatista GC et al; Bull Environ Contam 35: 213-21 (1985)",
+            "Value": "Dislodgeable residues of carbophenothion were identified 1-28 days postapplication (January 24, 1983) at a concn range of 0.02-1.98 ug/sq cm on leaf samples from an orange grove in Florida(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 89 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994) (4) USEPA; Acetate, aldicarb, carbophenothion, DEF, EPN, ethoprop, methyl parathion, and pharate. Environ Res Labs, Gulf Breeze, FL: USEPA 600/4-81-041 NTIS PB81-244477. pp. 275 (1981)",
+            "Value": "An estimated BCF of 2500 was calculated for carbophenothion(SRC), using a log Kow of 5.33(1) and a regression-derived equation(2). An average BCF of 950 was reported for carbophenothion(4). According to a classification scheme(3), these BCFs suggest the potential for bioconcentration in aquatic organisms is high to very high."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Eichelberger JW, Lichtenberg JJ; Environ Sci Technol 5: 541-4 (1971) (2) USEPA; Acetate, aldicarb, carbophenothion, DEF, EPN, ethoprop, methyl parathion, and pharate. Environ Res Labs, Gulf Breeze, FL: USEPA 600/4-81-041 NTIS PB81-244477. pp. 275 (1981)",
+            "Value": "AEROBIC: Carbophenothion may be susceptible to biodegradation in water; after 2 weeks, approximately 10% of an initial concn of 10 mg/l carbophenothion remained in raw river water samples(1). However, untreated and sterile sediment water systems retained 57% after 5 days and 51% after 7 days, respectively, suggesting that biological processes are not responsible for the degradation of carbophenothion(2)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "PMID:101966",
+            "Value": "For the period 1972-1976, carbophenothion was detected at an average concn of 109 ug/kg in 2 out of 140 fish sampled from Maryland waters and at a concn of 103 ug/kg in 1 out of 51 fish sampled from Texas waters(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 89",
+            "Value": "log Kow = 5.33"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. 2nd ed. Lechworth, Herts, England: The Royal Society of Chemistry, 1987., p. A061/Aug 87",
+            "Value": "Cholinesterase inhibitor."
+        },
+        {
+            "References": "Hayes, W.J., Jr., E.R. Laws, Jr., (eds.). Handbook of Pesticide Toxicology. Volume 2. Classes of Pesticides. New York, NY: Academic Press, Inc., 1991., p. 224",
+            "Value": "Some organic compounds (e.g. ...carbophenothion ...) inhibit aliesterases (diethylsuccinase and tributyrinase) at substantially lower daily dosage levels than they require to inhibit cholinesterases to the same degree."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Martin, H. and C.R. Worthing (eds.). Pesticide Manual. 4th ed. Worcestershire, England: British Crop Protection Council, 1974., p. 84",
+            "Value": "IT IS LESS TOXIC THAN DDT TO HONEY BEES & MUCH LESS TOXIC THAN PARATHION TO PREDATORY & PARASITIC INSECTS."
+        },
+        {
+            "References": "Clayton, G.D., F.E. Clayton (eds.) Patty's Industrial Hygiene and Toxicology. Volumes 2A, 2B, 2C, 2D, 2E, 2F: Toxicology. 4th ed. New York, NY: John Wiley & Sons Inc., 1993-1994., p. 748-9",
+            "Value": "EXPOSURE OF RATS & DOGS TO NEAR SATURATED VAPOR ... OF TRITHION FOR 4 WK RESULTED IN PLASMA CHOLINESTERASE DEPRESSION IN DOGS. ... THERE WAS NO REDN IN ENZYME ACTIVITY IN RATS. ANIMALS APPEARED NORMAL THROUGHOUT EXPOSURE. IT WOULD APPEAR THAT TRITHION IS NOT VOLATILE ENOUGH TO BE A HAZARD BY INHALATION ROUTE. ... DOSAGE OF 100 PPM BY WT IN DIET OF RATS PRODUCED TREMORS & REDUCED BODY WT GAINS. CHOLINESTERASE ACTIVITY WAS MARKEDLY DEPRESSED, BUT NO GROSS OR MICROSCOPIC MORPHOLOGICAL CHANGES OCCURRED. DOSAGES OF 5.0 PPM (WT) PRODUCED NO EFFECT. DOSAGE OF 1.0 PPM (WT) IN DOGS PRODUCED NO EFFECT WHILE HIGHER DOSAGE, UP TO 30 PPM (WT) PRODUCED PLASMA & RED CELL CHOLINESTERASE DEPRESSION WITHOUT OVERT SIGNS OF PATHOLOGY."
+        },
+        {
+            "References": "The Chemical Society. Foreign Compound Metabolism in Mammals Volume 3. London: The Chemical Society, 1975., p. 678",
+            "Value": "WHEN ACUTE TOXICITY ... IN 23 DAY OLD WEANLING MALE RATS WAS COMPARED WITH THAT IN THE ADULTS, THE WEANLINGS WERE FOUND TO BE APPROX ... 4 TIMES MORE SUSCEPTIBLE TO TRITHION. ... STRONG SUPPOSITION THAT ... AGE DIFFERENCES IN SUSCEPTIBILITY ARE PROBABLY DUE TO INCOMPLETE DEVELOPMENT OF ... /HEPATIC MICROSOMAL/ ENZYME ACTIVITIES IN YOUNG ANIMALS."
+        },
+        {
+            "References": "U.S. Department of the Interior, Fish and Wildlife Service. Handbook of Toxicity of Pesticides to Wildlife. Resource Publication 153. Washington, DC: U.S. Government Printing Office, 1984., p. 20",
+            "Value": "Acute symptoms /in male mallards 3-4 mo old after oral admin/: rubber-legged goose-stepping ataxia, wing-drop, ataxia, imbalance, high carriage, using wings to aid pedestrian locomotion, jitteriness, hyperexcitability, falling, nutation, lacrimation, tremors, immobility with wings spread, convulsions, and dyspnea. Signs appeared as soon as 25 min and mortalities usually occurred between 1 and 3 hr or overnight after treatment. Signs persisted up to 34 days in pheasants and 14 days in mallards."
+        },
+        {
+            "References": "Hayes, W.J., Jr., E.R. Laws, Jr., (eds.). Handbook of Pesticide Toxicology. Volume 2. Classes of Pesticides. New York, NY: Academic Press, Inc., 1991., p. 1061",
+            "Value": "/Carbophenothion/ ... was fed to hens at concn up to 100 ppm; although this dosage (about 5.8 mg/kg/day) affected egg production, it did not cause neurotoxicity. ... In a 2 year study at a dietary level of 80 ppm ... there was some reduction of hemoglobin and increased adrenal weights in ... /female rats/."
+        },
+        {
+            "References": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. 2nd ed. Lechworth, Herts, England: The Royal Society of Chemistry, 1987., p. A061 Aug 87",
+            "Value": "Moderately toxic to bees."
+        },
+        {
+            "References": "Hayes, W.J., Jr., E.R. Laws, Jr., (eds.). Handbook of Pesticide Toxicology. Volume 2. Classes of Pesticides. New York, NY: Academic Press, Inc., 1991., p. 1061",
+            "Value": "Carbophenothion was fed to rats for three generations at a single dietary level of 20 ppm, which determines dosages of about 1 and 2 mg/kg/day in adults and weanlings, respectively. This procedure was toxic to the young but not teratogenic. Toxicity (reduced birth weight, increased stillbirths, decreased survival to weaning) was present in all generations but not in all litters."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) DeBatista GC et al; Bull Environ Contam 35: 213-21 (1985) (2) Albright R et al; Bull Environ Contam Toxicol 12: 378-84 (1974)",
+            "Value": "Carbophenothion was qualitatively identified in surface soil samples collected from Tuscaloosa Co., Pickens Co. and Greene Co., Alabama(2). Dislodgeable residues of carbophenothion were identified 1-28 days postapplication (January 24, 1983) at a concn range of 0.8 to 17.2 ppm on soil samples taken midway between trees in an orange grove in Florida(1). In the same study, residues were identified 1-28 days postapplication (January 24, 1983) at concns ranging from 0.06 to 26.6 ppm on soil samples taken at the dripline(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 89 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Kenaga EE; Ecotox Environ Safety 4: 26-38 (1980) (5) Rao PSC, Davidson JM; Retention and Transformation of Selected Pesticides and Phosphorus in Soil-Water Systems. USEPA-600/S3-82-060 (1982)",
+            "Value": "The Koc of carbophenothion is estimated as 19,000(SRC), using a log Kow of 5.33(1) and a regression-derived equation(2). Average Koc values of about 45,400(4) and 46,800(5) have been experimentally determined. According to a classification scheme(3), these Koc values suggest that carbophenothion is expected to be immobile."
+        }
+    ]
+}

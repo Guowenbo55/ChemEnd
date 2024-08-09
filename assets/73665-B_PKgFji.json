@@ -1,0 +1,86 @@
+{
+    "_id": {
+        "$oid": "669270ec303528b49832d739"
+    },
+    "CID": {
+        "$numberInt": "73665"
+    },
+    "Name": "Prochloraz",
+    "IUPACName": "N-propyl-N-[2-(2,4,6-trichlorophenoxy)ethyl]imidazole-1-carboxamide",
+    "CanonicalSMILES": "CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2",
+    "Synonyms": [
+        "Prochloraz",
+        "67747-09-5",
+        "Mirage",
+        "Octave",
+        "Prelude",
+        "Ascurit",
+        "Sportak",
+        "Sporgon",
+        "Mirage (pesticide)",
+        "N-Propyl-N-(2-(2,4,6-trichlorophenoxy)ethyl)-1H-imidazole-1-carboxamide",
+        "BTS 40542",
+        "KI 835",
+        "BTS 40542-7877",
+        "N-Propyl-N-[2-(2,4,6-trichlorophenoxy)ethyl]-1H-imidazole-1-carboxamide",
+        "CHEBI:8434"
+    ],
+    "IsomericSMILES": "CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2",
+    "INCHI": "InChI=1S/C15H16Cl3N3O2/c1-2-4-20(15(22)21-5-3-19-10-21)6-7-23-14-12(17)8-11(16)9-13(14)18/h3,5,8-10H,2,4,6-7H2,1H3",
+    "INCHIKEY": "TVLSRXXIMLFWEO-UHFFFAOYSA-N",
+    "Formula": "C15H16Cl3N3O2",
+    "MolecularWeight": {
+        "$numberDouble": "376.7"
+    },
+    "Description": "Prochloraz is a member of the class of ureas that is 1H-imidazole-1-carboxamide substituted by a propyl and a 2-(2,4,6-trichlorophenoxy)ethyl group at the amino nitrogen atom. A fungicide active against a wide range of diseases affecting field crops, fruit, turf and vegetables. It has a role as a xenobiotic, an environmental contaminant, an EC 1.14.13.70 (sterol 14alpha-demethylase) inhibitor and an antifungal agrochemical. It is an aromatic ether, a trichlorobenzene, a member of ureas, a member of imidazoles, an amide fungicide, a conazole fungicide and an imidazole fungicide.",
+    "XlogP": {
+        "$numberDouble": "4.6"
+    },
+    "Complexity": {
+        "$numberInt": "377"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The study investigated the application of nanotechnology in pesticide loading onto mesoporous silica nanoparticles (p-MSNs) to improve the uptake, translocation, distribution, and degradation of the pesticide prochloraz in cucumber plants. Fluorescein isothiocyanate labeled p-MSNs were used to track particle distribution, and four hours after leaf treatment, nanoparticles were detected in leaves, stems, petioles, and roots, demonstrating translocation. Fourteen days later, high performance liquid chromatography tandem mass spectrometry was used to measure prochloraz and metabolite levels in different plant parts. Compared to the conventional suspension concentrate, p-MSNs had similar fungicidal activity against the target pathogen but showed better deposition performance in cucumber plants. Final residue levels of prochloraz in cucumbers were below maximum residue levels, indicating low risk from p-MSNs application to plants. Therefore, nanotechnology loading of pesticides onto particles like p-MSNs can enhance delivery and performance in plants.",
+            "reference": "Zhao, P., Cao, L., Ma, D., Zhou, Z., Huang, Q., & Pan, C. (2018). Translocation, distribution and degradation of prochloraz-loaded mesoporous silica nanoparticles in cucumber plants. Nanoscale, 10(4), 1798\u20131806. doi:10.1039/c7nr08107c\u00a0",
+            "method": {
+                "Test Plant": "Cucumber plants (Cucumis sativus L.)",
+                "Apply Location": "Middle leaves",
+                "Plant Grown Condition": "Grown in plastic pots with potting soil",
+                "Chemical Preparation": "FITC-labeled MSN aqueous suspension (5 mg/mL), Prochloraz (97.5 %) was obtained from Beijing Mindleader Agroscience Co., Ltd (Beijing, China).",
+                "Pesticide Application Details for the Plant": "1 mL of FITC-labeled MSN aqueous suspension was added dropwise on one of the middle leaves. The concentration of the active ingredient in the prochloraz SC was 2 mg/mL, and 0.5 mL of the aqueous suspension was added dropwise on one of the middle leaves.",
+                "Other Information": "-."
+            },
+            "result": "[{\"Days after application\": 0.2, \"Leaves (mg/kg)\": 0.01, \"Lower leaves (mg/kg)\": 0.17, \"Treated leaves (mg/kg)\": 19, \"Roots (mg/kg)\": 0.003}, {\"Days after application\": 1.0, \"Leaves (mg/kg)\": 0.05, \"Lower leaves (mg/kg)\": 0.055, \"Treated leaves (mg/kg)\": 25, \"Roots (mg/kg)\": 0.012}, {\"Days after application\": 3.0, \"Leaves (mg/kg)\": 0.025, \"Lower leaves (mg/kg)\": 0.03, \"Treated leaves (mg/kg)\": 8, \"Roots (mg/kg)\": 0.003}, {\"Days after application\": 5.0, \"Leaves (mg/kg)\": 0.01, \"Lower leaves (mg/kg)\": 0.02, \"Treated leaves (mg/kg)\": 8, \"Roots (mg/kg)\": 0.002}, {\"Days after application\": 7.0, \"Leaves (mg/kg)\": 0.008, \"Lower leaves (mg/kg)\": 0.1, \"Treated leaves (mg/kg)\": 1, \"Roots (mg/kg)\": 0.002}, {\"Days after application\": 10.0, \"Leaves (mg/kg)\": 0.008, \"Lower leaves (mg/kg)\": 0.1, \"Treated leaves (mg/kg)\": 1, \"Roots (mg/kg)\": 0.002}, {\"Days after application\": 14.0, \"Leaves (mg/kg)\": 0.008, \"Lower leaves (mg/kg)\": 0.1, \"Treated leaves (mg/kg)\": 1, \"Roots (mg/kg)\": 0.002}]"
+        },
+        {
+            "content": "Brown root rot disease (BRRD), caused by Phellinus noxius, is a significant tree disease in tropical and subtropical regions. To enhance the chemical control of BRRD and prevent the emergence of fungicide resistance in P. noxius, this study examined the control efficacy and systemic activity of fungicides with various modes of action. Fourteen fungicides with different modes of action were tested for their inhibitory effects on 39 P. noxius isolates from multiple regions. Cyproconazole, epoxiconazole, and tebuconazole (target-site G1) exhibited colony growth inhibition of P. noxius by 99.9% to 100% at 10 ppm and 97.7% to 99.8% at 1 ppm. Another effective fungicide was cyprodinil + fludioxonil (target-site D1 + E2), which showed growth inhibition of 96.9% at 10 ppm and 88.6% at 1 ppm. Acropetal translocation of six selected fungicides was evaluated in bishop wood (Bischofia javanica) seedlings, with cyproconazole and tebuconazole being the most efficiently absorbed by roots and transported acropetally. Greenhouse experiments indicated that cyproconazole, tebuconazole, and epoxiconazole have slightly higher potential for controlling BRRD compared to mepronil, prochloraz, and cyprodinil + fludioxonil. Since all tested fungicides lacked basipetal translocation, soil drenching should be considered over trunk injection for their use in BRRD control.",
+            "reference": "Liao, T. Z., Chen, Y. H., Tsai, J. N., Chao, C., Huang, T. P., Hong, C. F., ... & Chung, C. L. (2023). Translocation of fungicides and their efficacy in controlling Phellinus noxius, the cause of brown root rot disease. Plant Disease, 107(7), 2039-2053.",
+            "method": {
+                "Test Plant": "Bischofia javanica (bishop wood seedlings), 6-12 months old used due to abundant roots, tender tissues, high susceptibility",
+                "Apply Location": "Root immersion (acropetal) or stem injection (bidirectional)",
+                "Plant Grown Condition": "Maintained at 35\u00b0C day/30\u00b0C night, 55-95% RH in phytotron. Under natural light. Leaves trimmed to 3-5 trifoliate leaves per plant before assays",
+                "Chemical Preparation": "Root immersion - 100 ppm solutions of fungicides. Stem injection - Stock solutions ranging 75,000-625,000 ppm injected at 3 \u03bcL",
+                "Pesticide Application Details for the Plant": "Acropetal - 5 root tips immersed in 50 mL fungicide solution. Bidirectional - 3 \u03bcL fungicide stock injected into stem",
+                "Other Information": "Sampling at 7 and 21 days after treatment. Plant dissected into 5 cm segments (roots, stems, leaves). Fungicide concentrations measured by LC/GC-MS/MS. 2 independent trials with 6 plants per treatment (3 per timepoint)"
+            },
+            "result": "[{\"Pretreatment\": \"Root-tip immersion\", \"RCF\": \"++++\", \"Acropetal\": \"+\", \"Basipetal\": NaN}, {\"Pretreatment\": \"Stem-injection\", \"RCF\": \"NA ++\", \"Acropetal\": \"-\", \"Basipetal\": NaN}]"
+        },
+        {
+            "content": "Stimuli-responsive carriers, such as mesoporous silica nanoparticles coated with pectin, can effectively deliver pesticides like prochloraz into plants, enhancing their efficacy against target pests while minimizing risks to non-target organisms and the environment. This study successfully developed and characterized the prochloraz-loaded nanoparticles, demonstrating their efficient uptake and translocation in rice plants. The nanoparticles showed controlled release of prochloraz, improving its antifungal activity against rice blast disease compared to commercial formulations. These findings highlight the potential of stimuli-responsive carriers in enhancing pesticide delivery systems for sustainable agriculture.\n",
+            "reference": "Abdelrahman, T. M., Qin, X., Li, D., Senosy, I. A., Mmby, M., Wan, H., ... & He, S. (2021). Pectinase-responsive carriers based on mesoporous silica nanoparticles for improving the translocation and fungicidal activity of prochloraz in rice plants. Chemical Engineering Journal, 404, 126440.",
+            "method": {
+                "Test Plant": "Rice",
+                "Apply Location": "Roots (hydroponic exposure) and foliar (leaf dip) application",
+                "Plant Growth Condition": "Rice seedlings grown in 50 mL Falcon tubes with hydroponic nutrient solution in plant growth chamber at 70% RH, 28\u00b0C, 16/8 h light/dark cycle.",
+                "Chemical Preparation": "FITC-labeled MSNs prepared for tracking translocation. Prochloraz (Pro) loaded into amino-functionalized mesoporous silica nanoparticles (MSNs) coated with pectin (Pro@MSN-Pec) at 30% loading. Pro EC 45% formulation also used.",
+                "Pesticide Application Details for the Plant": "seedlings exposed to 2 mg/mL MSN-FITC in 3 mL nutrient solution.",
+                "Other Information": "MSN-FITC translocation visualized by confocal microscopy in leaves, stems, roots after 24h exposure. For Pro translocation, plant tissues sampled at 4h, 1d, 3d, 7d, 10d, 14d after foliar exposure. Pro extracted by QuEChERS and quantified by HPLC in different tissues."
+            },
+            "result": "[{\"Compound\": \"Prochloraz@mesoporous silica nanoparticle-Pectin (1g/L)\", \"Leaves (mg/kg)\": 0.004, \"Stems (mg/kg)\": 0.004, \"Roots (mg/kg)\": 0.015, \"Rice seeds (mg/kg)\": 0.004, \"Soil (mg/kg)\": 0.004}, {\"Compound\": \"Prochloraz@mesoporous silica nanoparticle-Pectin (2g/L)\", \"Leaves (mg/kg)\": 0.02, \"Stems (mg/kg)\": 0.004, \"Roots (mg/kg)\": 0.017, \"Rice seeds (mg/kg)\": 0.004, \"Soil (mg/kg)\": 0.004}, {\"Compound\": \"Prochloraz@mesoporous silica nanoparticle-Pectin (4g/L)\", \"Leaves (mg/kg)\": 0.027, \"Stems (mg/kg)\": 0.004, \"Roots (mg/kg)\": 0.026, \"Rice seeds (mg/kg)\": 0.011, \"Soil (mg/kg)\": 0.004}, {\"Compound\": \"Prochloraz EC (2ml/L)\", \"Leaves (mg/kg)\": 0.006, \"Stems (mg/kg)\": 0.009, \"Roots (mg/kg)\": 0.015, \"Rice seeds (mg/kg)\": 0.004, \"Soil (mg/kg)\": 0.004}]"
+        }
+    ]
+}

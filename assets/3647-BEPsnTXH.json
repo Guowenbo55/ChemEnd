@@ -1,0 +1,97 @@
+{
+    "_id": {
+        "$oid": "6682e805c4e5dba5ffba2383"
+    },
+    "CID": {
+        "$numberInt": "3647"
+    },
+    "Name": "HYDROFLUMETHIAZIDE",
+    "IUPACName": "1,1-dioxo-6-(trifluoromethyl)-3,4-dihydro-2H-1lambda6,2,4-benzothiadiazine-7-sulfonamide",
+    "CanonicalSMILES": "C1NC2=C(C=C(C(=C2)C(F)(F)F)S(=O)(=O)N)S(=O)(=O)N1",
+    "Synonyms": [
+        "hydroflumethiazide",
+        "135-09-1",
+        "Diuredemina",
+        "Glomerulin",
+        "Robezon",
+        "Saluron",
+        "Hidroflumetiazid",
+        "Hydroflumethizide",
+        "Diucardin",
+        "Diurometon",
+        "Flutizide",
+        "Hidroalogen",
+        "Spandiuril",
+        "Bristab",
+        "Enjit"
+    ],
+    "IsomericSMILES": "C1NC2=C(C=C(C(=C2)C(F)(F)F)S(=O)(=O)N)S(=O)(=O)N1",
+    "INCHI": "InChI=1S/C8H8F3N3O4S2/c9-8(10,11)4-1-5-7(2-6(4)19(12,15)16)20(17,18)14-3-13-5/h1-2,13-14H,3H2,(H2,12,15,16)",
+    "INCHIKEY": "DMDGGSIALPNSEE-UHFFFAOYSA-N",
+    "Formula": "C8H8F3N3O4S2",
+    "MolecularWeight": {
+        "$numberDouble": "331.3"
+    },
+    "Description": "Hydroflumethiazide is a benzothiadiazine consisting of a 3,4-dihydro-HH-1,2,4-benzothiadiazine bicyclic system dioxygenated on sulfur and carrying trifluoromethyl and aminosulfonyl groups at positions 6 and 7 respectively. A diuretic with actions and uses similar to those of hydrochlorothiazide. It has a role as a diuretic and an antihypertensive agent. It is a benzothiadiazine and a thiazide.",
+    "XlogP": {
+        "$numberDouble": "0.4"
+    },
+    "Complexity": {
+        "$numberInt": "578"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 40",
+            "Value": "log Kow = 0.36"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Gilman, A. G., L. S. Goodman, and A. Gilman. (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 6th ed. New York: Macmillan Publishing Co., Inc. 1980., p. 899",
+            "Value": "...BENZOTHIADIAZIDES HAVE DIRECT EFFECT ON RENAL TUBULAR TRANSPORT OF SODIUM & CHLORIDE...INDEPENDENT OF ANY EFFECT ON CARBONIC ANHYDRASE. /THIAZIDE DIURETICS/"
+        },
+        {
+            "References": "Gilman, A. G., L. S. Goodman, and A. Gilman. (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 6th ed. New York: Macmillan Publishing Co., Inc. 1980., p. 901",
+            "Value": "NATURE OF CHEM INTERACTION BETWEEN THIAZIDES & SPECIFIC RENAL RECEPTORS RESPONSIBLE FOR CHLORURETIC EFFECT IS NOT KNOWN; NO CRITICAL ENZYMATIC REACTIONS HAVE BEEN IDENTIFIED. /THIAZIDES/"
+        },
+        {
+            "References": "Gilman, A. G., L. S. Goodman, and A. Gilman. (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 6th ed. New York: Macmillan Publishing Co., Inc. 1980., p. 901",
+            "Value": "THIAZIDES INHIBIT REABSORPTION OF SODIUM &...CHLORIDE IN DISTAL SEGMENT. ... AS CLASS...HAVE IMPORTANT ACTION ON EXCRETION OF POTASSIUM THAT RESULTS FROM INCR SECRETION OF CATION BY DISTAL TUBULE. ... GLOMERULAR FILTRATION RATE MAY BE REDUCED BY THIAZIDES, PARTICULARLY WITH IV ADMIN FOR EXPTL PURPOSES. /THIAZIDES/"
+        },
+        {
+            "References": "Gilman, A. G., L. S. Goodman, and A. Gilman. (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 6th ed. New York: Macmillan Publishing Co., Inc. 1980., p. 901",
+            "Value": "THIAZIDES MAY DECR EXCRETION OF URIC ACID IN MAN, THUS INCR ITS CONCN IN PLASMA. HYPERURICEMIC EFFECT RESULTS PRIMARILY FROM INHIBITION OF TUBULAR SECRETION OF URATE. ... UNLIKE MOST OTHER NATRIURETIC AGENTS...DECR RENAL EXCRETION OF CALCIUM RELATIVE TO THAT OF SODIUM... /ENHANCE/ EXCRETION OF MAGNESIUM... /THIAZIDES/"
+        },
+        {
+            "References": "Gilman, A. G., L. S. Goodman, and A. Gilman. (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 6th ed. New York: Macmillan Publishing Co., Inc. 1980., p. 901",
+            "Value": "UNILATERAL RENAL INTRA-ARTERIAL INJECTION OF THIAZIDES PRODUCES A UNILATERAL DIURETIC RESPONSE, INDICATING A DIRECT RENAL ACTION. ...THIAZIDES...ACTIVELY SECRETED IN PROXIMAL TUBULE. ... DEPENDING ON THIAZIDE, ITS DOSAGE & SOLUTES MEASURED, ITS ACTION ON ELECTROLYTE TRANSPORT MAY OR MAY NOT BE BLOCKED. /THIAZIDES/"
+        },
+        {
+            "References": "Gilman, A. G., L. S. Goodman, and A. Gilman. (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 6th ed. New York: Macmillan Publishing Co., Inc. 1980., p. 901",
+            "Value": "/DOMINANT ACTION OF THIAZIDES IS TO INCR/ RENAL EXCRETION OF SODIUM & CHLORIDE & ACCOMPANYING VOL OF WATER. ...VIRTUALLY INDEPENDENT OF ACID-BASE BALANCE. ... EVOKE SIGNIFICANT AUGMENTATION OF POTASSIUM EXCRETION. THEY VARY WIDELY IN THEIR POTENCY AS INHIBITORS OF CARBONIC ANHYDRASE. /THIAZIDES/"
+        },
+        {
+            "References": "Gilman, A. G., L. S. Goodman, and A. Gilman. (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 6th ed. New York: Macmillan Publishing Co., Inc. 1980., p. 803",
+            "Value": "...BENEFICIAL EFFECTS /OF THIAZIDES/ APPEAR TO RESULT FROM ALTERED SODIUM BALANCE. ...INITIATION OF TREATMENT...CARDIAC OUTPUT IS DECR & BLOOD VOL... DIMINISHED. ...CHRONIC THERAPY CARDIAC OUTPUT RETURNS TO NORMAL, PERIPHERAL VASCULAR RESISTANCE FALLS &...SMALL REDN IN EXTRACELLULAR WATER & PLASMA VOL. /BENZOTHIADIAZIDES/"
+        },
+        {
+            "References": "USP Convention. USPDI - Drug Information for the Health Care Professional. 17th ed. Volume I. Rockville, MD: Convention, Inc., 1997. (Plus Updates)., p. 1258",
+            "Value": "Thiazide diuretics increase urinary excretion of sodium and water by inhibiting sodium reabsorption in the early distal tubules. They increase the rate of delivery of tubular fluid and electrolytes to the distal sites of hydrogen and potassium ion secretion, while plasma volume contraction increases aldosterone production. The increased delivery and increase in aldosterone levels promote sodium reabsorption at the distal tubules, thus increasing the loss of potassium and hydrogen ions. /Thiazide diuretics/"
+        },
+        {
+            "References": "USP Convention. USPDI - Drug Information for the Health Care Professional. 17th ed. Volume I. Rockville, MD: Convention, Inc., 1997. (Plus Updates)., p. 1258",
+            "Value": "Diuretics lower blood pressure initially by reducing plasma and extracellular fluid volume; cardiac output also decreases. Eventually, cardiac output returns to normal. Thiazide diuretics decrease peripheral resistance by a direct peripheral effect on blood vessels. /Thiazide diuretics/"
+        },
+        {
+            "References": "USP Convention. USPDI - Drug Information for the Health Care Professional. 17th ed. Volume I. Rockville, MD: Convention, Inc., 1997. (Plus Updates)., p. 1258",
+            "Value": "The antidiuretic effect of thiazide diuretics is a result of mild sodium and water depletion leading to increased reabsorption of glomerular filtrate in the proximal renal tubule and reduced delivery of tubular fluid available for excretion. /Thiazide diuretics/"
+        },
+        {
+            "References": "USP Convention. USPDI - Drug Information for the Health Care Professional. 17th ed. Volume I. Rockville, MD: Convention, Inc., 1997. (Plus Updates)., p. 1258",
+            "Value": "Thiazide diuretics decrease urinary calcium excretion by a direct action on the distal tubule, which may prevent recurrence of calcium-containing renal calculi. /Thiazide diuretics/"
+        }
+    ]
+}

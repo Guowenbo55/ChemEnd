@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "66927117303528b49832d7e2"
+    },
+    "CID": {
+        "$numberInt": "41632"
+    },
+    "Name": "Mepronil",
+    "IUPACName": "2-methyl-N-(3-propan-2-yloxyphenyl)benzamide",
+    "CanonicalSMILES": "CC1=CC=CC=C1C(=O)NC2=CC(=CC=C2)OC(C)C",
+    "Synonyms": [
+        "MEPRONIL",
+        "55814-41-0",
+        "Basitac",
+        "\"3-Isopropoxy-2-methylbenzanilide\"",
+        "Mepronil [ISO]",
+        "\"3-Isopropoxy-o-toluanilide\"",
+        "Benzamide",
+        "2-methyl-N-(3-(1-methylethoxy)phenyl)-",
+        "\"2-Methyl-3-isopropoxybenzanilide\"",
+        "2-Methyl-N-(3-(1-methylethoxy)phenyl)benzamide",
+        "2-methyl-N-(3-propan-2-yloxyphenyl)benzamide",
+        "QJK1MXY8DW",
+        "B1-2459",
+        "DTXSID1037565",
+        "CHEBI:81823",
+        "Benzamide",
+        "2-methyl-N-[3-(1-methylethoxy)phenyl]-"
+    ],
+    "IsomericSMILES": "CC1=CC=CC=C1C(=O)NC2=CC(=CC=C2)OC(C)C",
+    "INCHI": "InChI=1S/C17H19NO2/c1-12(2)20-15-9-6-8-14(11-15)18-17(19)16-10-5-4-7-13(16)3/h4-12H,1-3H3,(H,18,19)",
+    "INCHIKEY": "BCTQJXQXJVLSIG-UHFFFAOYSA-N",
+    "Formula": "C17H19NO2",
+    "MolecularWeight": {
+        "$numberDouble": "269.34"
+    },
+    "Description": "Mepronil is a member of the class of benzamides, obtained by formal condensation of the carboxy group of 2-methylbenzoic acid with the amino group of 3-(ispropyloxy)aniline. A fungicide used to control diseases caused by Basidomycetes including Rhizoctonia and Puccinia spp. It has a role as an EC 1.3.5.1 [succinate dehydrogenase (quinone)] inhibitor and an antifungal agrochemical. It is a member of benzamides, an aromatic ether and a benzanilide fungicide.",
+    "XlogP": {
+        "$numberDouble": "3.7"
+    },
+    "Complexity": {
+        "$numberInt": "316"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Brown root rot disease (BRRD), caused by Phellinus noxius, is a significant tree disease in tropical and subtropical regions. To enhance the chemical control of BRRD and prevent the emergence of fungicide resistance in P. noxius, this study examined the control efficacy and systemic activity of fungicides with various modes of action. Fourteen fungicides with different modes of action were tested for their inhibitory effects on 39 P. noxius isolates from multiple regions. Cyproconazole, epoxiconazole, and tebuconazole (target-site G1) exhibited colony growth inhibition of P. noxius by 99.9% to 100% at 10 ppm and 97.7% to 99.8% at 1 ppm. Another effective fungicide was cyprodinil + fludioxonil (target-site D1 + E2), which showed growth inhibition of 96.9% at 10 ppm and 88.6% at 1 ppm. Acropetal translocation of six selected fungicides was evaluated in bishop wood (Bischofia javanica) seedlings, with cyproconazole and tebuconazole being the most efficiently absorbed by roots and transported acropetally. Greenhouse experiments indicated that cyproconazole, tebuconazole, and epoxiconazole have slightly higher potential for controlling BRRD compared to mepronil, prochloraz, and cyprodinil + fludioxonil. Since all tested fungicides lacked basipetal translocation, soil drenching should be considered over trunk injection for their use in BRRD control.",
+            "reference": "Liao, T. Z., Chen, Y. H., Tsai, J. N., Chao, C., Huang, T. P., Hong, C. F., ... & Chung, C. L. (2023). Translocation of fungicides and their efficacy in controlling Phellinus noxius, the cause of brown root rot disease. Plant Disease, 107(7), 2039-2053.",
+            "method": {
+                "Test Plant": "Bischofia javanica (bishop wood seedlings), 6-12 months old used due to abundant roots, tender tissues, high susceptibility",
+                "Apply Location": "Root immersion (acropetal) or stem injection (bidirectional)",
+                "Plant Grown Condition": "Maintained at 35\u00b0C day/30\u00b0C night, 55-95% RH in phytotron. Under natural light. Leaves trimmed to 3-5 trifoliate leaves per plant before assays",
+                "Chemical Preparation": "Root immersion - 100 ppm solutions of fungicides. Stem injection - Stock solutions ranging 75,000-625,000 ppm injected at 3 \u03bcL",
+                "Pesticide Application Details for the Plant": "Acropetal - 5 root tips immersed in 50 mL fungicide solution. Bidirectional - 3 \u03bcL fungicide stock injected into stem",
+                "Other Information": "Sampling at 7 and 21 days after treatment. Plant dissected into 5 cm segments (roots, stems, leaves). Fungicide concentrations measured by LC/GC-MS/MS. 2 independent trials with 6 plants per treatment (3 per timepoint)"
+            },
+            "result": "[{\"Pretreatment\": \"Root-tip immersion\", \"RCF\": \"++\", \"Acropetal\": \"+\", \"Basipetal\": NaN}, {\"Pretreatment\": \"Stem-injection\", \"RCF\": \"NA +\", \"Acropetal\": \"-\", \"Basipetal\": NaN}]"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "6682e8b9c4e5dba5ffba2706"
+    },
+    "CID": {
+        "$numberInt": "8371"
+    },
+    "Name": "CHLORANIL",
+    "IUPACName": "2,3,5,6-tetrachlorocyclohexa-2,5-diene-1,4-dione",
+    "CanonicalSMILES": "C1(=C(C(=O)C(=C(C1=O)Cl)Cl)Cl)Cl",
+    "Synonyms": [
+        "Chloranil",
+        "118-75-2",
+        "p-Chloranil",
+        "Tetrachloro-p-benzoquinone",
+        "Tetrachloro-1,4-benzoquinone",
+        "2,3,5,6-tetrachlorocyclohexa-2,5-diene-1,4-dione",
+        "Spergon",
+        "Tetrachlorobenzoquinone",
+        "Vulklor",
+        "Coversan",
+        "Reranil",
+        "Tetrachloroquinone",
+        "2,3,5,6-TETRACHLORO-1,4-BENZOQUINONE",
+        "Khloranil",
+        "Psorisan"
+    ],
+    "IsomericSMILES": "C1(=C(C(=O)C(=C(C1=O)Cl)Cl)Cl)Cl",
+    "INCHI": "InChI=1S/C6Cl4O2/c7-1-2(8)6(12)4(10)3(9)5(1)11",
+    "INCHIKEY": "UGNWTBMOAKPKBL-UHFFFAOYSA-N",
+    "Formula": "C6Cl4O2",
+    "MolecularWeight": {
+        "$numberDouble": "245.9"
+    },
+    "Description": "Tetrachloro-1,4-benzoquinone is a member of the class of 1,4-benzoquiones that is 1,4-benzoquinone in which all four hydrogens are substituted by chlorines. It has a role as a metabolite and an EC 2.7.1.33 (pantothenate kinase) inhibitor. It is an organochlorine compound and a member of 1,4-benzoquinones.",
+    "XlogP": {
+        "$numberDouble": "3.4"
+    },
+    "Complexity": {
+        "$numberInt": "278"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Yalkowsky SH, Dannenfelser RM; Aquasol Database of Aqueous Solubility. Version 5. College of Pharmacy, University of Arizona - Tucson, AZ. PC Version (1992) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF value of 30 was calculated for chloranil(SRC), using a measured water solubility of 250 mg/l(1) and a recommended regression-derived equation(2). According to a classification scheme(3), this BCF value suggests that moderate, not high bioconcentration in aquatic organisms may occur(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Oduntan D, Odeyemi O; Environ Pollut 36: 327-35 (1984)",
+            "Value": "Chloranil at 50 ug/ml had half-lives of 6, 4, and 5 days in non-sterile samples of soil, sewage, and fresh water, respectively. The rates of disappearance of chloranil were slightly lower in the sterilized samples. In sea water, complete disappearance required 28 weeks in both sterile and non-sterile samples; degradation was faster initially, through the first 15 weeks, in non-sterile samples suggesting some biodegradation was occurring(1). Non-sterile samples in all cases gave an increased number of degradation products(1)."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Spencer, E. Y. Guide to the Chemicals Used in Crop Protection. 7th ed. Publication 1093. Research Institute, Agriculture Canada, Ottawa, Canada: Information Canada, 1982., p. 97",
+            "Value": "FUNGICIDAL PROPERTIES... ACTIVITY ATTRIBUTED TO ROLE IN OXIDATION-REDUCTION PROCESSES AND TO INHIBITION OF CARBOXYLASES."
+        },
+        {
+            "References": "PMID:2714292",
+            "Value": "... Tetrachloro-1,4-benzoquinone, a cmpd previously shown to inactivate glutathione S-transferases very efficiently by covalent binding in or close to the active site, completely prevented the alkylation of the enzyme by iodoacetamide, indicating that the reaction had taken place with the cysteine residues. ... Evidence was obtained for the covalent binding of three benzoquinone molecules per subunit, ie equivalent to the number of cysteine residues present. This threefold binding /resulted/ with a fourfold molar excess of the benzoquinone, illustrating high reactivity of this cmpd. Comparison of the number of amino acid residues modified by tetrachloro-1,4-benzoquinone with the decr of catalytic activity revealed an almost complete inhibition after modification of one cysteine residue."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1)Helling CS et al; Phytopathology 64: 1091-1100 (1974) (2) Martinez-Inigo MJ, Almendros G; Commun Soil Sci Plant Anal 23: 1717-29 (1992) (3) Melcer ME et al; Chemosphere 16: 1115-21 (1987)",
+            "Value": "An average Rf value of 0.00, obtained in a soil TLC bioassay (Hagerstown silty clay loam with 2.5% organic matter, 39.5% clay, pH of 6.8), indicates that chloranil is immobile in this soil system(1). Chloranil adsorbed strongly onto two soil samples (A= pH 7.4, organic carbon of 0.5%; B= pH 8.2, organic carbon 1.0%); adsorption was increased when the two soil samples were amended with humic material. Retention of chloranil was believed due to the chemical reactivity characteristic of its quinonic structure(2). Chloranil was shown to bind to dissolved humic acids in water through either a charge-transfer or electron donor-acceptor mechanism(3)."
+        }
+    ]
+}

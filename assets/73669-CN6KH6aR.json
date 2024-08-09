@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "66927128303528b49832d824"
+    },
+    "CID": {
+        "$numberInt": "73669"
+    },
+    "Name": "Tridiphane",
+    "IUPACName": "2-(3,5-dichlorophenyl)-2-(2,2,2-trichloroethyl)oxirane",
+    "CanonicalSMILES": "C1C(O1)(CC(Cl)(Cl)Cl)C2=CC(=CC(=C2)Cl)Cl",
+    "Synonyms": [
+        "Tridiphane",
+        "58138-08-2",
+        "Nelpon",
+        "Dowco 356",
+        "2-(3,5-Dichlorophenyl)-2-(2,2,2-trichloroethyl)oxirane",
+        "Z5677LQE6J",
+        "Oxirane",
+        "2-(3,5-dichlorophenyl)-2-(2,2,2-trichloroethyl)-",
+        "(RS)-2-(3,5-Dichlorophenyl)-2-(2,2,2-trichloroethyl)oxirane",
+        "(.+/-.)-2-(3,5-Dichlorophenyl)-2-(2,2,2-trichloroethyl)oxirane",
+        "Tridiphane [ANSI:BSI:ISO]",
+        "EPA Pesticide Chemical Code 123901",
+        "UNII-Z5677LQE6J",
+        "Oxirane",
+        "2-(3,5-dichlorophenyl)-2-(2,2,2-trichloroethyl)-; Dowco 356; Nelpon; Tridiphane",
+        "Tridiphane 10 microg/mL in Isooctane",
+        "TRIDIPHANE [MI]"
+    ],
+    "IsomericSMILES": "C1C(O1)(CC(Cl)(Cl)Cl)C2=CC(=CC(=C2)Cl)Cl",
+    "INCHI": "InChI=1S/C10H7Cl5O/c11-7-1-6(2-8(12)3-7)9(5-16-9)4-10(13,14)15/h1-3H,4-5H2",
+    "INCHIKEY": "IBZHOAONZVJLOB-UHFFFAOYSA-N",
+    "Formula": "C10H7Cl5O",
+    "MolecularWeight": {
+        "$numberDouble": "320.4"
+    },
+    "Description": "Tridiphane is a dichlorobenzene.",
+    "XlogP": {
+        "$numberDouble": "4.7"
+    },
+    "Complexity": {
+        "$numberInt": "256"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The joint action of metribuzin and tridiphane was investigated in metribuzin-tolerant (T) and metribuzin-susceptible (S) soybean and tomato cultivars within species, respectively, under growth room studies. Maple Arrow (T) and Maple Amber (S) exhibited similar tolerance to tridiphane applied at soybean emergence. Vision (T) tomato was more sensitive to tridiphane than was Springset (S) tomato, the reverse of the relative tolerance to metribuzin. A phytotoxic interaction was demonstrated following application of tridiphane and metribuzin at the respective rates (kg ai ha-1) of 0.1 and 1.1 in Maple Arrow (T) soybeans, 0.05 and 0.25 in Maple Amber (S) soybeans, and 0.25 and 0.2 in Springset (S) tomato. Tridiphane applied 1 or 4 h before metribuzin caused the greatest phytotoxicity in Maple Amber (S) soybeans. Soybean field results generally supported those of growth-room studies. Foliar spray pretreatment with tridiphane increased total radioactivity in Springset (S), decreased the total root radioactivity and increased total shoot radioactivity in both Vision (T) and Springset (S), and decreased metabolism of metribuzin to water-soluble conjugates in Springset (S) roots over 24 h following 14C-metribuzin application to roots of intact tomato seedlings. The increased uptake, translocation to the shoots, and decreased root metabolism of metribuzin in Springset when pretreated with tridiphane could explain the phytotoxic interaction (which was unexpected, based only on the glucose detoxification pathway of metribuzin in tomato).",
+            "reference": "Gaul, S. O., Stephenson, G. R., & Solomon, K. R. (1995). Phytotoxic interaction of tridiphane and metribuzin in metribuzin sensitive and tolerant soybean (Glycine max) and tomato (Lycopersicon esculentum). Weed Science, 43(3), 358-364.",
+            "method": {
+                "Test Plant": "Soybean [Glycine max (L.) Merr.]",
+                "Apply Location": "Foliar application.",
+                "Plant Grown Condition": "Seedlings were grown hydroponically in double styrofoam cups filled with vermiculite and perforated for drainage, under 16h light (26\u00b0C) and 8h dark (22\u00b0C) conditions, with 310 \u03bcE/m2/s PPFD and 46% relative humidity. Liquid fertilizer was applied twice weekly.",
+                "Chemical Preparation": "Freshly prepared stock solutions were used for each application.",
+                "Pesticide Application Details for the Plant": "Sprays were applied at 208 L/ha at 175 kPa using a moving nozzle pot sprayer, 46 cm below the nozzle tip. Tomatoes were treated when cotyledonary leaves were fully expanded and first true leaves were emerging.",
+                "Other Information": "Experiments were completely randomized design with 5 replicates and repeated."
+            },
+            "result": "[{\"Hous after application\": 1, \"Root (dpm/mg)\": 310, \"Shoot (dpm/mg)\": 187}, {\"Hous after application\": 2, \"Root (dpm/mg)\": 811, \"Shoot (dpm/mg)\": 1511}, {\"Hous after application\": 4, \"Root (dpm/mg)\": 947, \"Shoot (dpm/mg)\": 1310}, {\"Hous after application\": 8, \"Root (dpm/mg)\": 1405, \"Shoot (dpm/mg)\": 6324}, {\"Hous after application\": 12, \"Root (dpm/mg)\": 2957, \"Shoot (dpm/mg)\": 9795}, {\"Hous after application\": 24, \"Root (dpm/mg)\": 4352, \"Shoot (dpm/mg)\": 48373}]"
+        }
+    ]
+}

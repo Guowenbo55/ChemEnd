@@ -1,0 +1,113 @@
+{
+    "_id": {
+        "$oid": "6682e9abc4e5dba5ffba2bc7"
+    },
+    "CID": {
+        "$numberInt": "2724385"
+    },
+    "Name": "Digoxin",
+    "IUPACName": "3-[(3S,5R,8R,9S,10S,12R,13S,14S,17R)-3-[(2R,4S,5S,6R)-5-[(2S,4S,5S,6R)-5-[(2S,4S,5S,6R)-4,5-dihydroxy-6-methyloxan-2-yl]oxy-4-hydroxy-6-methyloxan-2-yl]oxy-4-hydroxy-6-methyloxan-2-yl]oxy-12,14-dihydroxy-10,13-dimethyl-1,2,3,4,5,6,7,8,9,11,12,15,16,17-tetradecahydrocyclopenta[a]phenanthren-17-yl]-2H-furan-5-one",
+    "CanonicalSMILES": "CC1C(C(CC(O1)OC2C(OC(CC2O)OC3C(OC(CC3O)OC4CCC5(C(C4)CCC6C5CC(C7(C6(CCC7C8=CC(=O)OC8)O)C)O)C)C)C)O)O",
+    "Synonyms": [
+        "digoxin",
+        "20830-75-5",
+        "Lanoxin",
+        "12beta-Hydroxydigitoxin",
+        "Rougoxin",
+        "Digacin",
+        "Dilanacin",
+        "Dynamos",
+        "Vanoxin",
+        "Fargoxin",
+        "Lanoxicaps",
+        "Mapluxin",
+        "Natigoxin",
+        "Davoxin",
+        "Digosin"
+    ],
+    "IsomericSMILES": "C[C@@H]1[C@H]([C@H](C[C@@H](O1)O[C@@H]2[C@H](O[C@H](C[C@@H]2O)O[C@@H]3[C@H](O[C@H](C[C@@H]3O)O[C@H]4CC[C@]5([C@@H](C4)CC[C@@H]6[C@@H]5C[C@H]([C@]7([C@@]6(CC[C@@H]7C8=CC(=O)OC8)O)C)O)C)C)C)O)O",
+    "INCHI": "InChI=1S/C41H64O14/c1-19-36(47)28(42)15-34(50-19)54-38-21(3)52-35(17-30(38)44)55-37-20(2)51-33(16-29(37)43)53-24-8-10-39(4)23(13-24)6-7-26-27(39)14-31(45)40(5)25(9-11-41(26,40)48)22-12-32(46)49-18-22/h12,19-21,23-31,33-38,42-45,47-48H,6-11,13-18H2,1-5H3/t19-,20-,21-,23-,24+,25-,26-,27+,28+,29+,30+,31-,33+,34+,35+,36-,37-,38-,39+,40+,41+/m1/s1",
+    "INCHIKEY": "LTMHDMANZUZIPE-PUGKRICDSA-N",
+    "Formula": "C41H64O14",
+    "MolecularWeight": {
+        "$numberDouble": "780.9"
+    },
+    "Description": "Digoxin is a cardenolide glycoside that is digitoxin beta-hydroxylated at C-12. A cardiac glycoside extracted from the foxglove plant, Digitalis lanata, it is used to control ventricular rate in atrial fibrillation and in the management of congestive heart failure with atrial fibrillation, but the margin between toxic and therapeutic doses is small. It has a role as an epitope, an anti-arrhythmia drug, a cardiotonic drug and an EC 3.6.3.9 (Na(+)/K(+)-transporting ATPase) inhibitor. It is a cardenolide glycoside and a steroid saponin. It is a conjugate acid of a digoxin(1-).",
+    "XlogP": {
+        "$numberDouble": "1.3"
+    },
+    "Complexity": {
+        "$numberInt": "1450"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Dr. Duke's Phytochemical and Ethnobotanical Databases. Digoxin. Available from, as of August 28, 2018: https://phytochem.nal.usda.gov/phytochem/search (2)  O'Neil MJ, ed; The Merck Index. 15th ed., Cambridge, UK: Royal Society of Chemistry, p. 575 (2013) (3) IARC Monographs on the Evaluation of the Carcinogenic Risk of Chemicals to Man. Some Drugs and Herbal Products. 108: 381. Available from, as of Aug 29, 2018: https://monographs.iarc.fr/ENG/Classification/index.php",
+            "Value": "Digoxin was reported present at a concentration range of 50 to 200 ppm in the leaf of Grecian foxglove (Digitalis lanata; Scrophulariaceae)(1). It has also been obtained from D. orientalis /yellow foxglove/(2) and D. purpurea (purple foxglove)(3)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Sangster J; LOGKOW Databank. Sangster Res. Lab., Montreal Quebec, Canada (1993) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Aug 29, 2018: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for digoxin(SRC), using a log Kow of 1.26(1) and a regression-derived equation(2) According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Sangster J; LOGKOW Databank. Sangster Res. Lab., Montreal Quebec, Canada (1994)",
+            "Value": "log Kow = 1.26"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:29643254",
+            "Value": "Cardiac glycosides have been used in the treatment of arrhythmias for more than 200 years. Two-pore-domain (K2P) potassium channels regulate cardiac action potential repolarization. Recently, K2P3.1 [tandem of P domains in a weak inward rectifying K+ channel (TWIK)-related acid-sensitive K+ channel (TASK)-1] has been implicated in atrial fibrillation pathophysiology and was suggested as an atrial-selective antiarrhythmic drug target. We hypothesized that blockade of cardiac K2P channels contributes to the mechanism of action of digitoxin and digoxin. All functional human K2P channels were screened for interactions with cardiac glycosides. Human K2P channel subunits were expressed in Xenopus laevis oocytes, and voltage clamp electrophysiology was used to record K+ currents. Digitoxin significantly inhibited K2P3.1 and K2P16.1 channels. By contrast, digoxin displayed isolated inhibitory effects on K2P3.1. K2P3.1 outward currents were reduced by 80% (digitoxin, 1 Hz) and 78% (digoxin, 1 Hz). Digitoxin inhibited K2P3.1 currents with an IC50 value of 7.4 uM. Outward rectification properties of the channel were not affected. Mutagenesis studies revealed that amino acid residues located at the cytoplasmic site of the K2P3.1 channel pore form parts of a molecular binding site for cardiac glycosides. In conclusion, cardiac glycosides target human K2P channels. The antiarrhythmic significance of repolarizing atrial K2P3.1 current block by digoxin and digitoxin requires validation in translational and clinical studies."
+        },
+        {
+            "References": "PMID:30251696",
+            "Value": "Low concentrations of cardiac glycosides including ouabain, digoxin, and digitoxin block cancer cell growth without affecting Na+,K+-ATPase activity, but the mechanism underlying this anti-cancer effect is not fully understood. Volume-regulated anion channel (VRAC) plays an important role in cell death signaling pathway in addition to its fundamental role in the cell volume maintenance. Here, we report cardiac glycosides-induced signaling pathway mediated by the crosstalk between Na+,K+-ATPase and VRAC in human cancer cells. Submicromolar concentrations of ouabain enhanced VRAC currents concomitantly with a deceleration of cancer cell proliferation. The effects of ouabain were abrogated by a specific inhibitor of VRAC (DCPIB) and knockdown of an essential component of VRAC (LRRC8A), and they were also attenuated by the disruption of membrane microdomains or the inhibition of NADPH oxidase. Digoxin and digitoxin also showed anti-proliferative effects in cancer cells at their therapeutic concentration ranges, and these effects were blocked by DCPIB. In membrane microdomains of cancer cells, LRRC8A was found to be co-immunoprecipitated with Na+,K+-ATPase a1-isoform. These ouabain-induced effects were not observed in non-cancer cells. Therefore, cardiac glycosides were considered to interact with Na+,K+-ATPase to stimulate the production of reactive oxygen species, and they also apparently activated VRAC within membrane microdomains, thus producing anti-proliferative effects."
+        },
+        {
+            "References": "American Society of Health-System Pharmacists; Drug Information 2018. Bethesda, MD. 2018, p. 1818",
+            "Value": "Cardiac glycosides inhibit the activity of sodium-potassium-activated adenosine triphosphatase (Na+-K+-ATPase), an enzyme required for active transport of sodium across myocardial cell membranes. Inhibition of this enzyme in cardiac cells results in an increase in the contractile state of the heart and it was believed that benefits of cardiac glycosides in heart failure were mainly associated with inotropic action. However, it has been suggested that benefits of cardiac glycosides may be in part related to enzyme inhibition in noncardiac tissues. Inhibition of Na+-K+-ATPase in vagal afferents acts to sensitize cardiac baroreceptors which may in turn decrease sympathetic outflow from the CNS. In addition, by inhibiting Na+-K+-ATPase in the kidney, cardiac glycosides decrease the renal tubular reabsorption of sodium; the resulting increase in the delivery of sodium to the distal tubules leads to the suppression of renin secretion from the kidneys.  These observations led to the hypothesis that cardiac glycosides act in heart failure principally by attenuating the activation of the neurohormonal system, rather than by a positive inotropic action. Toxic doses of cardiac glycosides cause efflux of potassium from the myocardium and concurrent influx of sodium. Toxicity results in part from loss of intracellular potassium associated with inhibition of Na+-K+-ATPase. With therapeutic doses, augmentation of calcium influx to the contractile proteins with resultant enhancement of excitation-contraction coupling is involved in the positive inotropic action of cardiac glycosides; the role of Na+-K+-ATPase in this effect is controversial. /Cardiac glycosides/"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "PMID:2704594",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Minute ventilation, arterial blood gases and pH, cardiac output, and transdiaphragmatic force generation were measured in eight anesthetized, tracheostomized piglets before and after administration of 40 ug/kg body wt of digoxin. No changes were noted in cardiac output, heart rate, tidal vol, respiratory rate or minute ventilation. Blood pressure decr from baseline to 60 min postinfusion. No change was noted in the force frequency curves at 30 and 60 min postinfusion. Serum digoxin levels avg 10.4 ng/mL at 30 min and 5.6 ng/mL at 60 min. In seven control animals, no changes were noted in any ventilatory or hemodynamic parameter from baseline to 60 min. In contrast to the reported effects of digoxin on the diaphragm of adult humans and animals, digoxin did not augment diaphragmatic contractility in normal infant swine."
+        },
+        {
+            "References": "PMID:9703203",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Digoxin exposure of rat fetuses at the 15th, 17th and 19th day of pregnancy by treating the mother (with 9 microg digoxin altogether) caused alterations in the sexual behavior of adult rats (3-month-old males and six-month-old ovariectomized and hormone-treated females). The number of active males was significantly higher in the treated group and ejaculation as well as multiple ejaculation occurred only here. Females also were more receptable after fetal digoxin treatment. It is known from the literature that long-term digoxin treatment in adult age influences (reduces) the male sexual activity in humans. In the rat, the opposite effect was observed after fetal treatment. The experiments call attention to the prolonged effect of fetal digoxin exposure caused by the treatment of the mother."
+        },
+        {
+            "References": "PMID:24436189",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ PURPOSE: To investigate functional alteration of the retina induced by digoxin in monkeys.  METHODS: Digoxin was intravenously administered to cynomolgus monkeys and standard full-field electroretinograms (ERGs) were serially recorded. In other digoxin-treated monkeys, the rod and cone a-waves to high-intensity flashes were obtained and analyzed by the a-wave fitting model (a-wave analysis). The following responses were also recorded: dark- and light-adapted responses to flashes of different intensities (dark- and light-adapted luminance responses), photopic ERG elicited by long-duration stimulus (ON-OFF response), and the photopic negative response (PhNR).  RESULTS: Delayed b-wave was observed in all responses of the standard full-field ERGs; amplitude of the b-wave was increased in the rod response, but was decreased in the single-flash cone response and the 30-Hz flicker. These changes recovered gradually after elimination of digoxin from the blood. Digoxin enhanced and delayed the b-wave in the dark-adapted luminance-response analysis regardless of stimulus intensity. In the light-adapted luminance-response analysis, digoxin attenuated the a- and b-waves only at high and middle stimulus intensity, respectively. The a-wave analysis revealed selective decrease in the maximum response parameter (Rmax) in the cone a-wave. Both the b- and d-waves of the ON-OFF response were delayed.  CONCLUSIONS: The selectively reduced Rmax in the cone a-wave indicated dysfunction of the cone photoreceptors in digoxin-treated monkeys. Meanwhile, the enhanced and delayed rod response suggested alteration of retinal components other than the cone photoreceptors. These results may contribute to the understanding of digoxin-induced visual disturbances in humans. It is suggested that the cone function is markedly, but not exclusively, affected in the retina of such patients."
+        },
+        {
+            "References": "PMID:2472517",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ The influence of digoxin on the autonomic nervous system was studied in male Wistar rats by examining its effects on the levels of acetylcholine, a parasympathetic marker, and norepinephrine, a sympathetic marker, in the rat myocardium. ... Digoxin was injected sc every day for 4 wk. The administration of 0.35, 0.75, and 2.5 mg/kg of digoxin reduced acetylcholine concentrations in the right atrium to 80 to 90% of the control (115 +/- 0.2 nmol/g). However, there was no change in the activity of choline acetyltransferase or acetylcholinesterase, or in the concentration of choline. Injection of 0.1 mg/kg of digoxin had no significant effect on acetylcholine concentration. When 0.75 mg/kg of digoxin was injected daily the norepinephrine concentration in the right atrium increased, reaching a maximum of 23.9 nmol/g at 2 weeks and declining to 22.1 nmol/g at 3 wk (control about 19.5 nmol/g). Daily injections of 2.5 mg/kg digoxin caused decreases in norepinephrine concentration at 6 hrs, followed by increases at wks 1 and 2 (about 23 nmol/g). Neither 0.1 or 0.35 mg/kg caused any changes. Digoxin (0.75 and 2.5 mg/kg) increased heart rate to about 110% of the control values after 1 and 2 wks of administration. Weight gain measurements showed weight loss and toxic symptoms at daily dose of 0.75 and 2.5 mg/kg, 0.35 mg/kg was considered subtoxic, and 0.1 mg/kg did not exhibit toxicity."
+        },
+        {
+            "References": "PMID:12112021",
+            "Value": "/ENDOCRINE MODULATION/ Previous studies have shown that digoxin decreases testosterone secretion in testicular interstitial cells. However, the effect of digoxin on progesterone secretion in luteal cells is unclear. Progesterone is known as an endogenous digoxin-like hormone (EDLH). This study investigates how digitalis affected progesterone production and whether progesterone antagonized the effects of digitalis. Digoxin or digitoxin, but not ouabain, decreased the basal and human chorionic gonadotropin (hCG)-stimulated progesterone secretion as well as the activity of cytochrome P450 side chain cleavage enzyme (P450scc) in luteal cells. 8-Br-cAMP and forskolin did not affect the reduction. Neither the amount of P450scc, the amount of steroidogenic acute regulatory (StAR) protein, nor the activity of 3beta-hydroxysteroid dehydrogenase (3beta-HSD) was affected by digoxin or digitoxin. Moreover, in testicular interstitial and luteal cells, progesterone partially attenuated the reduction of pregnenolone by digoxin or digitoxin and the progesterone antagonist, RU486, blocked this attenuation. These new findings indicated that (1) digoxin or digitoxin inhibited pregnenolone production by decreasing the activity of P450scc enzyme, but not Na(+)-K(+)-ATPase, resulting in a decrease on progesterone secretion in rat luteal cells, and (2) the inhibitory effect on pregnenolone production by digoxin or digitoxin was reversed partially by progesterone. In conclusion, digoxin or digitoxin decreased progesterone production via the inhibition of pregnenolone by decreasing P450scc activity. Progesterone, an EDLH, could antagonize the effects of digoxin or digitoxin in luteal cells."
+        },
+        {
+            "References": "NIH; DailyMed. Current Medication Information for Digoxin Tablet (Updated: February 29, 2016). Available from, as of September 4, 2018: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dfac7f13-28be-423d-9389-9089da29da17",
+            "Value": "/GENOTOXICITY/ Digoxin showed no genotoxic potential in in vitro studies (Ames test and mouse lymphoma)."
+        },
+        {
+            "References": "Plumb D.C. Veterinary Drug Handbook. 8th ed. (pocket). Ames, IA: Wiley-Blackwell, 2015., p. 441",
+            "Value": "/VETERINARY STUDIES/ In dogs the acute toxic dose after IV administration has been reported to be 0.177 mg/kg."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Aug 29, 2018: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Cordy GE et al; Ground Water Monit Remed 24: 58-69 (2004)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of digoxin can be estimated to be 1.0X10+5(SRC). According to a classification scheme(2), this estimated Koc value suggests that digoxin is expected to be immobile in soil(SRC). In a 23-day soil column study using secondarily treated municipal waste water treatment effluent containing digoxin, the compound was not detected in the column outflow; reporting limit = 0.26 ug/L(3)."
+        }
+    ]
+}

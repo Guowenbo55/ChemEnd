@@ -1,0 +1,87 @@
+{
+    "_id": {
+        "$oid": "66927104303528b49832d795"
+    },
+    "CID": {
+        "$numberInt": "15553"
+    },
+    "Name": "Clopyralid",
+    "IUPACName": "3,6-dichloropyridine-2-carboxylic acid",
+    "CanonicalSMILES": "C1=CC(=NC(=C1Cl)C(=O)O)Cl",
+    "Synonyms": [
+        "CLOPYRALID",
+        "1702-17-6",
+        "3,6-Dichloropyridine-2-carboxylic acid",
+        "3,6-Dichloropicolinic acid",
+        "3,6-Dichloro-2-pyridinecarboxylic acid",
+        "Lontrel",
+        "2-Pyridinecarboxylic acid",
+        "3,6-dichloro-",
+        "Clopyralide",
+        "Dowco 290",
+        "Benzalox",
+        "Cirtoxin",
+        "Matrigon",
+        "Transline",
+        "Versatill",
+        "Cyronal"
+    ],
+    "IsomericSMILES": "C1=CC(=NC(=C1Cl)C(=O)O)Cl",
+    "INCHI": "InChI=1S/C6H3Cl2NO2/c7-3-1-2-4(8)9-5(3)6(10)11/h1-2H,(H,10,11)",
+    "INCHIKEY": "HUBANNPOLNYSAD-UHFFFAOYSA-N",
+    "Formula": "C6H3Cl2NO2",
+    "MolecularWeight": {
+        "$numberDouble": "192"
+    },
+    "Description": "Clopyralid is an organochlorine pesticide having a 3,6-dichlorinated picolinic acid structure. It has a role as a herbicide. It is a member of pyridines and an organochlorine pesticide. It is functionally related to a picolinic acid.",
+    "XlogP": {
+        "$numberDouble": "2.3"
+    },
+    "Complexity": {
+        "$numberInt": "165"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Aminopyralid is a new auxinic herbicide that provides Canada thistle control at lower use rates than clopyralid. Studies were conducted to determine if differences in absorption, translocation, or metabolism account for aminopyralid\u2019s greater biological activity. Radiolabeled aminopyralid and clopyralid were applied to individual leaves of rosette-stage Canada thistle plants. Nonionic surfactant was used for the absorption studies because it provided higher aminopyralid absorption than methylated seed oil or crop oil concentrate. Clopyralid was absorbed very rapidly, reaching 72% 24 h after treatment (HAT) and remaining near or above 80% during a 192-h time course. During the same time period, aminopyralid absorption increased from 34 to 60%. Clopyralid translocation out of the treated leaf was significantly higher than aminopyralid, 39% compared with 17%, respectively, 192 HAT. More of applied clopyralid translocated to aboveground tissue 192 HAT (27%) than to roots (12%), whereas aminopyralid translocation was similar in aboveground tissue (10%) and roots (7%) 192 HAT. Neither aminopyralid nor clopyralid was metabolized 192 HAT. Although aminopyralid is effective at lower use rates than clopyralid, clopyralid absorption and translocation were higher in Canada thistle. These results suggest that aminopyralid\u2019s chemical structure may provide for greater biological activity at the target site than clopyralid.",
+            "reference": "Bukun, Bekir; Gaines, Todd A.; Nissen, Scott J.; Westra, Philip; Brunk, Galen; Shaner, Dale L.; Sleugh, Byron B.; Peterson, Vanelle F.  (2009). Aminopyralid and Clopyralid Absorption and Translocation in Canada Thistle (Cirsium arvense). Weed Science, 57(1), 10\u201315.doi:10.1614/ws-08-071.1  \u00a0    ",
+            "method": {
+                "Test Plant": "Canada thistle (Cirsium arvense)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Root segments were acclimated in a growth chamber for 10 days at 24\u00b0C/15\u00b0C day/night temperature and 12-h photoperiod. Plants were then transferred to 656-ml pots filled with sand and slow-release fertilizer (14-14-14) was added. Pots were placed outside and exposed to ambient weather conditions during September, and then transferred to a greenhouse.",
+                "Chemical Preparation": "Aminopyralid: Commercial formulation at 0.12 kg/ha with 0.25% v/v NIS (non-ionic surfactant). Clopyralid: Commercial formulation at 0.42 kg/ha with 0.25% v/v NIS",
+                "Pesticide Application Details for the Plant": "Aminopyralid: 4,170 Bq per 10-ml treatment. Clopyralid: [2,6-14C]clopyralid at specific activity 1.103 x 10^6 kBq mmol^-1",
+                "Other Information": "Randomized complete block with three replications, and the experiment was repeated"
+            },
+            "result": "[{\"Time after application\": \"24 hours\", \"Absorption Rate (%)\": 70, \"Translocation Rate (%)\": 28, \"Applied Above Ground (%)\": 15, \"Applied Below Ground (%)\": 3}, {\"Time after application\": \"48 hours\", \"Absorption Rate (%)\": 81, \"Translocation Rate (%)\": 40, \"Applied Above Ground (%)\": 28, \"Applied Below Ground (%)\": 10}, {\"Time after application\": \"96 hours\", \"Absorption Rate (%)\": 70, \"Translocation Rate (%)\": 38, \"Applied Above Ground (%)\": 25, \"Applied Below Ground (%)\": 13}, {\"Time after application\": \"192 hours\", \"Absorption Rate (%)\": 80, \"Translocation Rate (%)\": 38, \"Applied Above Ground (%)\": 27, \"Applied Below Ground (%)\": 11}]"
+        },
+        {
+            "content": "Both C-clopyralid (3,6-dichloropicolinic acid) and 14C-chlorsulfuron {2-chloro-N- [ [(4-methoxy-6-methyl-1,3,5-triazin-2-yl)amino] carbonyl] benzenesulfonamide} were readily absorbed by Canada thistle [Cirsium arvense (L.) Scop. #CIRAR] leaves, with 99% and 75% of the applied doses absorbed, respectively, 144 hours after application. Absorbed 14C-clopyralid was rapidly exported from the treated leaves, whereas 14C-chlorsulfuron was translocated much more slowly. After 144 hours, 29% of the applied 14C-clopyralid and 5% of the applied 14C-chlorsulfuron were recovered in the roots and developing root buds of Canada thistle plants. Smaller amounts of the two herbicides were absorbed and translocated in perennial sowthistle (Sonchus arvensis L. #SONAR) than in Canada thistle. More 14C-clopyralid than 14C-chlorsulfuron was absorbed and translocated out of treated leaves of perennial sowthistle, but equal amounts, 3 to 4% of the applied doses, were recovered in the roots and root buds 144 hours after application. Foliar applications of clopyralid, followed by removal of the treated shoot 24, 72, or 144 hours after application, markedly reduced shoot regrowth in both Canada thistle and perennial sowthistle. Similar treatment with chlorsulfuron did not prevent shoot regrowth in either species.",
+            "reference": "Devine, M. D., & Born, W. H. V. (1985). Absorption, translocation, and foliar activity of clopyralid and chlorsulfuron in Canada thistle (Cirsium arvense) and perennial sowthistle (Sonchus arvensis). Weed Science, 33(4), 524-530.",
+            "method": {
+                "Test Plant": "Canada thistle (Cirsium arvense) and quackgrass (Elytrigia repens)",
+                "Apply Location": "Foliar application on young, expanded leaf (5th-7th oldest leaf)",
+                "Plant Grown Condition": "Grown from 5 cm root cuttings in vermiculite.Transplanted to silica sand in 9 cm pots when shoots ~2 cm tall. Grown in growth cabinet at 20/18\u00b0C day/night, 16 h photoperiod, ~500 \u03bcE/m2/s light, 70% RH. Supplied with 1/2 strength Hoagland's nutrient solution",
+                "Chemical Preparation": "14C-clopyralid (sp. act. 429 MBq/mmol) or 14C-chlorsulfuron (phenyl-14C, sp. act. 79.6 MBq/mmol). Dissolved in 10% aqueous ethanol with 0.5% surfactant ~940 Bq in 10 \u03bcl application solution",
+                "Pesticide Application Details for the Plant": "10 \u03bcl applied as 8-10 droplets on both sides of midrib of young expanded leaf when shoot had 8-10 leaves",
+                "Other Information": "Treated leaf rinsed 3x with 10% aqueous ethanol to determine unabsorbed 14C.Plants separated into treated leaf, shoots above, shoots below, fibrous roots, rest of root system, new buds/shoots on roots. Plant parts air-dried, weighed, combusted and 14C quantified by liquid scintillation spectrometry"
+            },
+            "result": "[{\"Plant\": \"Canada thistle 144\", \"Hours after application\": 0.2, \"Leaf wash (% of applied)\": 1.7, \"Treated leaf (%)\": 39.8, \"Upper shoot (%)\": 9.7, \"Lower shoot (%)\": 11.0, \"Taproot (%)\": 6.4, \"Fibrous roots (%)\": 11.7, \"Developing root buds (%)\": 19.6, \"Unaccounted for (%)\": NaN}, {\"Plant\": \"Perennial sowthistle\", \"Hours after application\": 144.0, \"Leaf wash (% of applied)\": 15.1, \"Treated leaf (%)\": 19.6, \"Upper shoot (%)\": 57.3, \"Lower shoot (%)\": 4.8, \"Taproot (%)\": 1.3, \"Fibrous roots (%)\": 1.9, \"Developing root buds (%)\": 0.1, \"Unaccounted for (%)\": \"-\"}]"
+        },
+        {
+            "content": "Experiments were conducted to determine whether differences in sensitivity of sunflower (Helianthus annuus L.), and rapeseed (Brassica napus L.) to 14C-picloram (4-amino-3,5,6-trichloro-2-pyridinecarboxylic acid) and 14C-clopyralid (3,6-dichloro-2-pyridinecarboxylic acid) can be attributed to differences in absorption, translocation, or metabolism of the herbicides. Within 24 h, more than 97% of the radioactivity from picloram or clopyralid was absorbed by the foliage of both plant species. Acropetal transport of both herbicides was similar in the two plant species, with approximately 60% or more of the recovered radioactivity from picloram and clopyralid treatments moving acropetally out of the treated leaf 144 h after application. Less than 6% of the 14C-label from either herbicide treatment moved basipetally in both species. Therefore, differences in absorption and translocation did not account for intra- or inter-species sensitivity differences to the two herbicides. Significantly more 14C-picloram and 14C-clopyralid was converted to water-soluble metabolites in rapeseed than in sunflower plants. However, in rapeseed plants, the pattern of metabolism of both herbicides was similar, indicating that the difference between the metabolism of picloram and clopyralid did not account for the sensitivity difference within this species. It appears that only one picloram and clopyralid metabolite was formed in both plant species as determined by TLC. The metabolite of picloram or clopyralid was a water-soluble conjugate that yielded the carboxylic acid amide of the respective herbicide upon ammonolysis.\n",
+            "reference": "Hall, J. C., & Born, W. H. V. (1988). The absence of a role of absorption, translocation, or metabolism in the selectivity of picloram and clopyralid in two plant species. Weed Science, 36(1), 9-14.",
+            "method": {
+                "Test Plant": "Rapeseed and Sunflower plants",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Plants were grown in a controlled-environment growth cabinet maintained at 20/16 \u00b1 1 C day/night with a 16-h photoperiod and relative humidity of 65%. Light intensity (400 to 725 nm) was constant throughout the chamber at 250\u03bcE/m2/s.",
+                "Chemical Preparation": "Radiolabeled 14C-clopyralid (2,6-14C; sp. act. 11.6 mCi/mmol; radiochemical purity > 99%) and 14C-picloram (2,6-14C; sp. act. 10.0 mCi/mmol; radiochemical purity > 99%) were dissolved in 10% (v/v) ethanol containing 0.5% (v/v) Tween 20.",
+                "Pesticide Application Details for the Plant": "For rapeseed, 10 \u03bcl solution (7.7 x 10-3 \u03bcmol for 14C-clopyralid or 8.9 x 10-3 \u03bcmol for 14C-picloram) was applied as 8-10 drops across the mid-section of the third leaf at the five-leaf stage. For sunflower, 10 \u03bcl solution was applied to one leaf of the second leaf-pair at the three-leaf stage.",
+                "Other Information": "The experiments had a randomized design with four plants per treatment and were conducted twice."
+            },
+            "result": "[{\"Plant\": \"Rapeseed\", \"Hours after application\": 24, \"Leaf wash (% of recovered)\": 1.7, \"Treated leaf (%)\": 52.7, \"Tissue above treated leaf (%)\": 42.9, \"Tissue below treated leaf including roots (%)\": 2.7}, {\"Plant\": \"Rapeseed\", \"Hours after application\": 72, \"Leaf wash (% of recovered)\": 0.4, \"Treated leaf (%)\": 42.7, \"Tissue above treated leaf (%)\": 55.4, \"Tissue below treated leaf including roots (%)\": 1.6}, {\"Plant\": \"Rapeseed\", \"Hours after application\": 144, \"Leaf wash (% of recovered)\": 0.1, \"Treated leaf (%)\": 34.7, \"Tissue above treated leaf (%)\": 63.8, \"Tissue below treated leaf including roots (%)\": 1.5}, {\"Plant\": \"Sunflower\", \"Hours after application\": 24, \"Leaf wash (% of recovered)\": 1.4, \"Treated leaf (%)\": 47.8, \"Tissue above treated leaf (%)\": 50.5, \"Tissue below treated leaf including roots (%)\": 0.3}, {\"Plant\": \"Sunflower\", \"Hours after application\": 72, \"Leaf wash (% of recovered)\": 1.4, \"Treated leaf (%)\": 20.2, \"Tissue above treated leaf (%)\": 78.3, \"Tissue below treated leaf including roots (%)\": 0.0}, {\"Plant\": \"Sunflower\", \"Hours after application\": 144, \"Leaf wash (% of recovered)\": 0.2, \"Treated leaf (%)\": 19.9, \"Tissue above treated leaf (%)\": 79.9, \"Tissue below treated leaf including roots (%)\": 0.1}]"
+        }
+    ]
+}

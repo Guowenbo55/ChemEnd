@@ -1,0 +1,112 @@
+{
+    "_id": {
+        "$oid": "6682e8afc4e5dba5ffba26d2"
+    },
+    "CID": {
+        "$numberInt": "8174"
+    },
+    "Name": "1-DECANOL",
+    "IUPACName": "decan-1-ol",
+    "CanonicalSMILES": "CCCCCCCCCCO",
+    "Synonyms": [
+        "1-DECANOL",
+        "Decan-1-ol",
+        "Decyl alcohol",
+        "112-30-1",
+        "Decanol",
+        "n-Decyl alcohol",
+        "n-Decanol",
+        "Capric alcohol",
+        "Nonylcarbinol",
+        "Antak",
+        "Caprinic alcohol",
+        "Royaltac",
+        "n-Decan-1-ol",
+        "Agent 504",
+        "Alcohol C-10"
+    ],
+    "IsomericSMILES": "CCCCCCCCCCO",
+    "INCHI": "InChI=1S/C10H22O/c1-2-3-4-5-6-7-8-9-10-11/h11H,2-10H2,1H3",
+    "INCHIKEY": "MWKFXSUHUHTGQN-UHFFFAOYSA-N",
+    "Formula": "C10H22O",
+    "MolecularWeight": {
+        "$numberDouble": "158.28"
+    },
+    "Description": "Decan-1-ol is a fatty alcohol consisting of a hydroxy function at C-1 of an unbranched saturated chain of ten carbon atoms. It has a role as a metabolite, a protic solvent and a pheromone. It is a primary alcohol and a decanol.",
+    "XlogP": {
+        "$numberDouble": "4.6"
+    },
+    "Complexity": {
+        "$numberInt": "61"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Yajima I et al; Agric Biol Chem 48: 849-55 (1984) (2) Nolte CG et al; Environ Sci Technol 36: 4273-81 (2002)",
+            "Value": "1-Decanol was qualitatively detected as a volatile flavor component in the juice of Kogyoku apples(1). 1-Decanol emission rates from green leaf composite samples and dead leaves were 11 ug/g and 7 ug/g, respectively(2)."
+        },
+        {
+            "References": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Decanol, n-Decanol. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Sept 22, 2015: https://www.ars-grin.gov/duke/",
+            "Value": "1-Decanol detections in plants(1).",
+            "Table": "[{'Genus species': 'Citrus aurantiifolia', 'Family': 'Rutaceae', 'Common name': 'Lime', 'Part': 'Fruit', 'Concn (ppm)': '6'}, {'Genus species': 'Citrus reticulata', 'Family': 'Rutaceae', 'Common name': 'Tangerine', 'Part': 'Fruit', 'Concn (ppm)': '4'}, {'Genus species': 'Origanum vulgare var. viride', 'Family': 'Lamiaceae', 'Common name': 'Greek Turkish Oregano', 'Part': 'Plant', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Origanum vulgare', 'Family': 'Lamiaceae', 'Common name': 'Common Turkish Oregano', 'Part': 'Plant', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Citrus limon', 'Family': 'Rutaceae', 'Common name': 'Lemon', 'Part': 'Essential Oil', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Salvia canariensis', 'Family': 'Lamiaceae', 'Common name': 'Canary Island Sage', 'Part': 'Leaf', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Makus domestica', 'Family': 'Roseaceae', 'Common name': 'Apple', 'Part': 'Plant', 'Concn (ppm)': 'not reported'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 81 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of April 22, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm/ (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 20 was calculated in fish for 1-decanol(SRC), using a log Kow of 4.57(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Vaishnav DD et al; Chemosphere 16: 695-703 (1987) (2) Babeu L, Vaishnav DD; J Industr Microbiol 2: 107-15 (1987) (3) Gerhold RM, Malaney GW; J Water Pollut Control Fed 38: 562-79 (1966) (4) Yonezawa Y et al; Kogai Shigen Kenkyusho Iho 11: 77-82 (1981) (5) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of April 22, 2015: https://www.safe.nite.go.jp/english/db.html",
+            "Value": "AEROBIC: A 5-day theoretical BOD of 36.3% was observed for 1-decanol in a standard BOD dilution test using a mixed microbial inoculum(1-2). Using a Warburg respirometer technique and various activated sludge inoculum, respective 6-hr, 12-hr and 24-hr theoretical BODs of 0.9, 9.2 and 29.3% were observed(3). In an aerobic screening test using a sewage inoculum, a first-order biodegradation rate of 7.1X10-3/hr was observed(4) which corresponds to a half-life of about 4 days(SRC). 1-Decanol was found to be readily biodegraded(5)."
+        },
+        {
+            "References": "(1) Ejlertsson J et al; Environ Sci Technol 31: 2761-4 (1997)",
+            "Value": "ANAEROBIC: 1-Decanol produced 73% theoretical methane after 274 days incubation in the dark at 37 \u00b0C using a sewage inoculum obtained from a Swedish pilot plant biogas reactor treating municipal solid waste(1)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "PMID:3978262",
+            "Value": "A mean 1-decanol concn of 4.0 ppb was detected in 5 Chef Menteur clams (Rangia cuneata) collected from Lake Pontchartrain (LA) during May-June 1980(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 81",
+            "Value": "log Kow= 4.57"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "USEPA; Office of Prevention, Pesticides and Toxic Substances; Reregistration Eligibility Decision (RED) for Aliphatic Alcohols p.6.  EPA 738-R-07-004 (March 2007).  Available from, as of July 8, 2015: https://www.epa.gov/pesticides/reregistration/status.htm",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ /In an/ acute eye irritation (rabbit) /test the/ most severe effect reported was corneal opacity in all treated eyes at 7 days. Conjunctive irritation until 7 and 14 days. Irreversible vascularization in one eye until day 21"
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 1028",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Rated 2 on rabbit eyes. The compound was tested externally on the eyes of rabbits, and according to the degree of injury observed after 24 hours, and rated on a scale of 1 to 10. The most severely injurious substances have been rated 10."
+        },
+        {
+            "References": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. III-14",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Rat aspiration test suggests that decyl... alcohol ... /is/ dangerous if... /it/ enters trachea. In the rat... a small quantity (0.2 mL) behaves like the hydrocarbon solvents ... /such as kerosene/ in causing death from pulmonary edema."
+        },
+        {
+            "References": "Nelson BK et al; J Am Coll Toxicol 9 (1): 93-7 (1990)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Fifteen pregnant female Sprague-Dawley rats were exposed for 7 hr/day on gestation days 1-19 (sperm = 0) to one of three long-chain alcohols at the maximum concn that could be generated as a vapor. These concentrations were 400 mg/cu m 1-octanol, 150 mg/cu m 1-nonanol, and 100 mg/cu m 1-decanol. Dams were weighed daily for the first week of exposure, and weekly thereafter. On gestation day 20, rats were sacrificed. Fetuses were serially removed, blotted dry, examined for external malformations, sexed, weighed, placed in appropriate fixatives, and subsequently examined for visceral or skeletal abnormalities. No treatment-related effects were observed in pregnant females, frequency of resorptions, fetal weights, or skeletal/visceral malformations. Thus, long-chain alcohols at these vapor concn appear not to be toxic as evidenced by these fetal and maternal parameters."
+        },
+        {
+            "References": "PMID:2144347",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ The effect of various alkanols on the central nervous system was studied by using rat brain synaptosomal membranes as an in vitro model. The n-alkanols exhibited an increased molar inhibition of the ATPase activity with an increase in the carbon chain length up to 1-octanol. 1-octanol and l-decanol caused a biphasic effect on the ATPase activity depending on the alkanol concentration, whereas l-dodecanol caused stimulation of the ATPase activity. All alkanols studied caused an increased fluidity of the membrane. Our results indicate that the effect of alkanols on the ATPase activity depends on changes in the border layer between the membrane and the surrounding medium and of the alkanols to enzyme molecule. Furthermore, the two-way effect of 1-octanol and l-decanol and stimulatory effect of 1-dodecanol indicate that more mechanisms are involved."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Schuurmann G et al; Environ Sci Technol 40:7005-11 (2006) (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The log Koc of 1-decanol has been reported as 2.59(1). According to a classification scheme(2), this log Koc value suggests that 1-decanol is expected to have moderate mobility in soil."
+        }
+    ]
+}

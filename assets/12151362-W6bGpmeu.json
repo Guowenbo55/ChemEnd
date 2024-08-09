@@ -1,0 +1,55 @@
+{
+    "_id": {
+        "$oid": "669270f4303528b49832d756"
+    },
+    "CID": {
+        "$numberInt": "12151362"
+    },
+    "Name": "Pyribambenz-propyl",
+    "IUPACName": "propyl 4-[[2-(4,6-dimethoxypyrimidin-2-yl)oxyphenyl]methylamino]benzoate",
+    "CanonicalSMILES": "CCCOC(=O)C1=CC=C(C=C1)NCC2=CC=CC=C2OC3=NC(=CC(=N3)OC)OC",
+    "Synonyms": [
+        "Pyribambenz-propyl",
+        "420138-40-5",
+        "propyl 4-(2-(4,6-dimethoxypyrimidin-2-yloxy)benzylamino)benzoate",
+        "Pyribambenz-propyl; Benzoic acid",
+        "4-[[[2-[(4,6-dimethoxy-2-pyrimidinyl)oxy]phenyl]methyl]amino]-",
+        "propyl ester; 4-[[[2-[(4,6-Dimethoxy-2-pyrimidinyl)oxy]phenyl]methyl]amino]benzoic acid propyl ester; Propyl 4-[2-(4,6-dimethoxypyrimidin-2-yloxy)benzylamino]benzoate; Pyribambenz-propyl; ZJ 0273",
+        "SCHEMBL725189",
+        "propyl 4-[[2-(4,6-dimethoxypyrimidin-2-yl)oxyphenyl]methylamino]benzoate"
+    ],
+    "IsomericSMILES": "CCCOC(=O)C1=CC=C(C=C1)NCC2=CC=CC=C2OC3=NC(=CC(=N3)OC)OC",
+    "INCHI": "InChI=1S/C23H25N3O5/c1-4-13-30-22(27)16-9-11-18(12-10-16)24-15-17-7-5-6-8-19(17)31-23-25-20(28-2)14-21(26-23)29-3/h5-12,14,24H,4,13,15H2,1-3H3",
+    "INCHIKEY": "ZHYPDEKPSXOZKN-UHFFFAOYSA-N",
+    "Formula": "C23H25N3O5",
+    "MolecularWeight": {
+        "$numberDouble": "423.5"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "4.9"
+    },
+    "Complexity": {
+        "$numberInt": "517"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The study on the novel herbicide pyribambenz-propyl in oilseed rape plants showcased intriguing translocation characteristics within different growth stages. In seedlings, the herbicide was absorbed mainly by the leaves, with over 89% remaining within the treated leaf, indicating limited mobility within the young plants. Despite both acropetal and basipetal movement, a significant portion stayed within the treated leaf, indicating constrained mobility. As for mature plants, around 94% of the absorbed herbicide remained in the treated leaf, albeit slightly lower than in seedlings. The distribution within mature plants showed accumulation primarily in leaves, especially in the treated leaf and leaves above it, with lesser translocation to roots and other parts. These findings highlight limited mobility of pyribambenz-propyl within oilseed rape plants, predominantly retained in the treated leaves, which could influence its efficacy against targeted pests and its potential environmental impact.",
+            "reference": "Han, A., Ye, Q., Wang, H., Wang, W., & Lu, L. (2009). Absorption, translocation, and residue of 14C-ZJ0273 in oilseed rape. Journal of agricultural and food chemistry, 57(10), 4398-4402.",
+            "method": {
+                "Test Plant": "Oilseed rape (HO 605)",
+                "Apply Location": "Foliar treatment on the second fully expanded leaf",
+                "Plant Grown Condition": "Seeds were germinated in Petri dishes and then sowed in 500-mL pots containing fluvio-marine yellow loamy soil. Plants were grown under laboratory conditions with a temperature range of 25-28/22-25 \u00b0C (day/night), humidity of 80%, and a light cycle of 12 hours.",
+                "Chemical preparation": "[A ring-U-14C] ZJ0273 (specific activity 4.8 \u00d7 104 Bq/mg) was dissolved in 10 mL of chromatographic pure acetonitrile to a volume of 100 mL to prepare a 100 mg/L solution. This solution was then diluted to prepare a series of solutions ranging from 12.5 to 0.02 mg/L.",
+                "Received pesticide of plant": "[A ring-U-14C] ZJ0273 solution containing 4445 Bq of radioactivity was applied to the second fully expanded leaf of oilseed rape plants.",
+                "Other Information": "Ten plants were harvested at each time point."
+            },
+            "result": "[{\"Time after apply\": \"3 hours\", \"Total absorbed in treated leaf\": \"89.2%\", \"Above treated leaf\": \"6.8%\", \"Below treated leaf\": \"2.28%\", \"Stalks\": \"0.8%\", \"Roots\": \"0.87%\"}, {\"Time after apply\": \"9 hours\", \"Total absorbed in treated leaf\": \"93.4%\", \"Above treated leaf\": \"4.07%\", \"Below treated leaf\": \"1.85%\", \"Stalks\": \"0.29%\", \"Roots\": \"0.48%\"}, {\"Time after apply\": \"12 hours\", \"Total absorbed in treated leaf\": \"94.1%\", \"Above treated leaf\": \"3.69%\", \"Below treated leaf\": \"1.62%\", \"Stalks\": \"0.27%\", \"Roots\": \"0.34%\"}, {\"Time after apply\": \"24 hours\", \"Total absorbed in treated leaf\": \"94.1%\", \"Above treated leaf\": \"3.56%\", \"Below treated leaf\": \"1.65%\", \"Stalks\": \"0.29%\", \"Roots\": \"0.37%\"}, {\"Time after apply\": \"42 hours\", \"Total absorbed in treated leaf\": \"94.4%\", \"Above treated leaf\": \"3.21%\", \"Below treated leaf\": \"1.62%\", \"Stalks\": \"0.22%\", \"Roots\": \"0.36%\"}, {\"Time after apply\": \"78 hours\", \"Total absorbed in treated leaf\": \"95.5%\", \"Above treated leaf\": \"2.31%\", \"Below treated leaf\": \"1.61%\", \"Stalks\": \"0.25%\", \"Roots\": \"0.35%\"}, {\"Time after apply\": \"96 hours\", \"Total absorbed in treated leaf\": \"95.7%\", \"Above treated leaf\": \"2.19%\", \"Below treated leaf\": \"1.56%\", \"Stalks\": \"0.32%\", \"Roots\": \"0.29%\"}]"
+        }
+    ]
+}

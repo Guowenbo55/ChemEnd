@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "6692711a303528b49832d7ec"
+    },
+    "CID": {
+        "$numberInt": "27189"
+    },
+    "Name": "Napropamide",
+    "IUPACName": "N,N-diethyl-2-naphthalen-1-yloxypropanamide",
+    "CanonicalSMILES": "CCN(CC)C(=O)C(C)OC1=CC=CC2=CC=CC=C21",
+    "Synonyms": [
+        "Napropamide",
+        "15299-99-7",
+        "Napropamid",
+        "Devrinol",
+        "Racemic devrinol",
+        "N,N-Diethyl-2-(1-naphthyloxy)propanamide",
+        "N,N-Diethyl-2-(naphthalen-1-yloxy)propanamide",
+        "Napropamide [ISO]",
+        "Propionamide",
+        "N,N-diethyl-2-(1-naphthyloxy)-",
+        "N,N-Diethyl-2-(1-naphthyloxy)propionamide",
+        "N,N-Diethyl-2-(1-naphthalenyloxy)propionamide",
+        "Propanamide",
+        "N,N-diethyl-2-(1-naphthalenyloxy)-",
+        "2-(1-Naphthoxy)-N,N-diethylpropionamide",
+        "N,N-Diethyl-2-(1-Naphthyloxy)propanamde",
+        "2-(alpha-Naphthoxy)-N,N-diethylpropionamide"
+    ],
+    "IsomericSMILES": "CCN(CC)C(=O)C(C)OC1=CC=CC2=CC=CC=C21",
+    "INCHI": "InChI=1S/C17H21NO2/c1-4-18(5-2)17(19)13(3)20-16-12-8-10-14-9-6-7-11-15(14)16/h6-13H,4-5H2,1-3H3",
+    "INCHIKEY": "WXZVAROIGSFCFJ-UHFFFAOYSA-N",
+    "Formula": "C17H21NO2",
+    "MolecularWeight": {
+        "$numberDouble": "271.35"
+    },
+    "Description": "N,N-diethyl-2-(naphthalen-1-yloxy)propanamide is a monocarboxylic acid amide that is propanamide substituted by two ethyl groups at the nitrogen atom and a naphthalen-1-yloxy group at position 2. It is an aromatic ether, a monocarboxylic acid amide and a member of naphthalenes.",
+    "XlogP": {
+        "$numberDouble": "3.4"
+    },
+    "Complexity": {
+        "$numberInt": "314"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Napropamide [2-(\u03b1-napthoxy)-N,N-diethylpropionamide] inhibited root and shoot growth in corn (Zea mays L. \u2018NC+ 59\u2019) and tomato (Lycopersicon esculentum Mill. \u2018Niagara VF315\u2019) seedlings. Shoot growth was reduced less than root growth in both species. Corn roots were approximately 10 times more sensitive to napropamide than were tomato roots. Translocation of napropamide from the roots to the shoot of tomato occurred within 0.5 h and followed an apoplastic pattern. Little movement of napropamide from the roots to the shoots occurred in corn. Metabolism of napropamide was not evident in either species during an 8-h exposure. Absorption studies showed that total napropamide levels were 60% higher in corn root tissue than in tomato root tissue. The greater napropamide content in the corn roots was associated with a tightly bound fraction of the total napropamide influx.",
+            "reference": "Barrett, M., & Ashton, F. M. (1981). Napropamide uptake, transport, and metabolism in corn (Zea mays) and tomato (Lycopersicon esculentum). Weed Science, 29(6), 697-703.",
+            "method": {
+                "Test Plant": "Corn and tomato",
+                "Apply Location": "Root application",
+                "Plant Grown Condition": "Seeds were sown on cheesecloth supported by stainless-steel screen suspended above the treatment solution. For phytotoxicity study, plants were grown for 3 days in dark at 27\u00b12\u00b0C followed by 2 days of alternating light (16 hours) and dark (8 hours) periods at ambient temperature. For transport study, alternating light and dark period was extended to 5 days after initial 3 days of dark growth.",
+                "Chemical Preparation": "napropamide concentrations of 0, 0.10, 1.0, and 10.0 \u03bcM were prepared using formulated napropamide (0.24 kg/L emulsifiable concentrate) and 25% (v/v) Hoagland solution. For transport study, radioactive napropamide (14C-labeled at 1 position of naphthyl ring) solutions of 0.10 \u03bcM and 1.0 \u03bcM with specific activity 7.3 mCi/mmol in 25% Hoagland solution were used.",
+                "Pesticide Application Details for the Plant": "-",
+                "Other Information": "Solutions were aerated throughout. Volume lost due to evapotranspiration was replaced daily with 25% Hoagland solution in phytotoxicity study."
+            },
+            "result": "[{\"Plant\": \"Tomato\", \"Root(% of dpm)\": 58, \"Shoot (% of dpm)\": 42}, {\"Plant\": \"Corn\", \"Root(% of dpm)\": 98, \"Shoot (% of dpm)\": 2}]"
+        }
+    ]
+}

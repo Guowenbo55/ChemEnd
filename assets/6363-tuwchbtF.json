@@ -1,0 +1,142 @@
+{
+    "_id": {
+        "$oid": "6682e843c4e5dba5ffba24b8"
+    },
+    "CID": {
+        "$numberInt": "6363"
+    },
+    "Name": "Isopropylamine",
+    "IUPACName": "propan-2-amine",
+    "CanonicalSMILES": "CC(C)N",
+    "Synonyms": [
+        "ISOPROPYLAMINE",
+        "propan-2-amine",
+        "75-31-0",
+        "2-Propanamine",
+        "2-Aminopropane",
+        "Monoisopropylamine",
+        "2-Propylamine",
+        "sec-Propylamine",
+        "1-Methylethylamine",
+        "isopropyl amine",
+        "Propane",
+        "2-amino-",
+        "Isopropilamina",
+        "2-Aminopropan",
+        "2-Amino-propaan",
+        "2-Amino-propano"
+    ],
+    "IsomericSMILES": "CC(C)N",
+    "INCHI": "InChI=1S/C3H9N/c1-3(2)4/h3H,4H2,1-2H3",
+    "INCHIKEY": "JJWLVOIRVHMVIS-UHFFFAOYSA-N",
+    "Formula": "C3H9N",
+    "MolecularWeight": {
+        "$numberDouble": "59.11"
+    },
+    "Description": "Isopropylamine is a member of the class of alkylamines that is propane carrying an amino group at position 2. It is a member of alkylamines and a primary aliphatic amine. It is a conjugate base of an isopropylaminium.",
+    "XlogP": {
+        "$numberDouble": "0.1"
+    },
+    "Complexity": {
+        "$numberInt": "10"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 7 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Feb 15, 2018: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3.2 was calculated in fish for isopropylamine(SRC), using a log Kow of 0.26(1) and a regression-derived equation(2). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Slave T et al; Rev Chim 25: 666-70 (1974) (2) Malaney GW; J Water Pollut Control Fed 32: 1300-11 (1960) (3) ECHA; Search for Chemicals. Isopropylamine (75-31-0) Registered Substances Dossier. European Chemical Agency. Available from, as of Feb 15, 2018: https://echa.europa.eu/",
+            "Value": "AEROBIC: Isopropylamine was completely degraded within a 2 day period using an activated sludge inoculum in an aerobic screening test which suggests isopropylamine should biodegrade rapidly in the environment(1). Isopropylamine, present at 500 mg/L, reached approximately 26% of its theoretical BOD after 8 days in a closed bottle Warburg respirometer using an activated sludge, acclimated to aniline, at 2,500 mg/L(2). Isopropylamine, present at 100 mg/L, reached 70-80% of its theoretical BOD in 28 days using an activated sludge inoculum in the Manometric Respirometry test and was confirmed to be readily biodegradable(3). Isopropylamine reached greater than 95% degradation after 14 days using industrial, non-adapted sludge in an inherent Zahn-Wellens/EMPA test; based on the high degradation rate after 5 days, isopropylamine was considered readily biodegradable(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 7",
+            "Value": "log Kow = 0.26"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Health Council of the Netherlands, Committee on Updating of Occupational Exposure Limits; Health-Based Reassessment of Administrative Occupational Exposure Limits: Isopropylamine p.6 (June 8, 2004). Available from, as of January 12, 2018: https://www.gezondheidsraad.nl/sites/default/files/0015122_0.pdf",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ When rats (n=6/sex/group) were exposed to 5000 or 5100 mg/cu m (2050 and 2100 ppm), only one male animal exposed to 5100 mg/cu m died (on day 2). During exposure, labored breathing, discharges around nose and mouth, lachrymation, and hypoactivity were noted. Post-exposure observations included labored breathing, encrustation of the nose and eyes, opacity of eyes, urine-stained fur. Opacity of the eyes persisted throughout the 14-day observation period, as did one observation of labored respiration and encrustation of the nose. At day 2, there was a decrease in mean body weight. Although animals gained weight until sacrifice, only female animals had body weights comparable to control animals. At necropsy, only focal corneal opacity was found."
+        },
+        {
+            "References": "Health Council of the Netherlands, Committee on Updating of Occupational Exposure Limits; Health-Based Reassessment of Administrative Occupational Exposure Limits: Isopropylamine p.6 (June 8, 2004). Available from, as of January 12, 2018: https://www.gezondheidsraad.nl/sites/default/files/0015122_0.pdf",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ A 4-hour exposure to 10,000 mg/cu m (4000 ppm) was not lethal to 6 out of 6 rats while all 6 rats died due to exposure to 20,000 mg/cu m (8000 ppm). Exposure to a saturated vapor caused the death of all rats within 2 minutes."
+        },
+        {
+            "References": "Health Council of the Netherlands, Committee on Updating of Occupational Exposure Limits; Health-Based Reassessment of Administrative Occupational Exposure Limits: Isopropylamine p.5 (June 8, 2004). Available from, as of January 12, 2018: https://www.gezondheidsraad.nl/sites/default/files/0015122_0.pdf",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Isopropylamine scored an injury grade of 10 (ie, a severe burn from 0.5 mL of a 1% solution) on a scale from 1 to 10."
+        },
+        {
+            "References": "Health Council of the Netherlands, Committee on Updating of Occupational Exposure Limits; Health-Based Reassessment of Administrative Occupational Exposure Limits: Isopropylamine p.5 (June 8, 2004). Available from, as of January 12, 2018: https://www.gezondheidsraad.nl/sites/default/files/0015122_0.pdf",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Instillation of 0.005 mL of undiluted compound resulted in severe corneal opacity while 0.5 mL of a 1% solution in water caused severe corneal opacity and iritis (no details available)."
+        },
+        {
+            "References": "Health Council of the Netherlands, Committee on Updating of Occupational Exposure Limits; Health-Based Reassessment of Administrative Occupational Exposure Limits: Isopropylamine p.5 (June 8, 2004). Available from, as of January 12, 2018: https://www.gezondheidsraad.nl/sites/default/files/0015122_0.pdf",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ When 0.1 mL of undiluted test compound was instilled into the cupped conjunctival sac of the right eye of male and female rabbits (n=3/sex), severe redness (grade 3) and swelling (grades 2-4) of the conjunctiva and maximum corneal opacity (grade 4) were observed at all observation points (i.e., at 1 hour and 1, 2, 3, 7, and 14 days; washout after 24 hours) in all animals. By day 14, after which the study was terminated because of the severity and probable irreversibility of the effects, there were eschar tissue formation on the cornea and/or conjunctivae and corneal ulcerations in all animals, as well as scar tissue on the conjunctivae or eye lid in 2."
+        },
+        {
+            "References": "Health Council of the Netherlands, Committee on Updating of Occupational Exposure Limits; Health-Based Reassessment of Administrative Occupational Exposure Limits: Isopropylamine p.6 (June 8, 2004). Available from, as of January 12, 2018: https://www.gezondheidsraad.nl/sites/default/files/0015122_0.pdf",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The upper respiratory tract irritation was evaluated in mice (male Swiss OF1) during a 15-minute oronasal exposure to increasing concentrations of isopropylamine. The airborne concentration resulting in a 50% decrease in the respiratory rate (RD50) was 393 mg/cu m (157 ppm). Isopropylamine was also tested for pulmonary toxicity in mice and for the effects of a 120-minute exposure on the respiratory rates of non-anesthetized, tracheally cannulated mice (RD50TC). The RD50TC value for isopropylamine was found to be 1223 mg/cu m (489 ppm). From these results, it was concluded that isopropylamine is essentially an upper respiratory tract-irritating compound."
+        },
+        {
+            "References": "Health Council of the Netherlands, Committee on Updating of Occupational Exposure Limits; Health-Based Reassessment of Administrative Occupational Exposure Limits: Isopropylamine p.6 (June 8, 2004). Available from, as of January 12, 2018: https://www.gezondheidsraad.nl/sites/default/files/0015122_0.pdf",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Applying 0.01 mL of undiluted material to the uncovered, clipped, ventral skin of rabbits for 30 minutes (or less depending on absorption or evaporation) induced necrosis while moderate capillary injection was found in 1/5 animals following similar treatment with a 10% solution (in water) (no more details available). In an older study, isopropylamine scored an injury grade of 6 (ie, necrosis) on a scale from 1 to 10."
+        },
+        {
+            "References": "Health Council of the Netherlands, Committee on Updating of Occupational Exposure Limits; Health-Based Reassessment of Administrative Occupational Exposure Limits: Isopropylamine p.5 (June 8, 2004). Available from, as of January 12, 2018: https://www.gezondheidsraad.nl/sites/default/files/0015122_0.pdf",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The potential skin-irritating properties were tested by applying 0.5 mL of undiluted material to 2 intact clipped sites per male and female rabbit (n=3/sex) under semi-occluded and occluded conditions for 4 and 24 hours, respectively. At all observation points (i.e., 30 minutes, 24, 48, and 72 hours, and 7 days after removal of the patches), maximum (Draize) scores for erythema and edema and dark discoloration of the entire test site at all sites were observed in all animals. For all animals, there was eschar formation at the observation time of 24 and 48 hours at the occluded and semi-occluded sites, respectively. This persisted throughout the study, which was terminated after post-treatment day 7 because of the maximum irritation observed and the probable irreversibility of the damage."
+        },
+        {
+            "References": "PMID:7086693",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In dogs, following iv infusion of 2.5 mg/kg/min the positive chronotropic responses to preganglionic cardioaccelerator nerve stimulation were reduced, whereas the responses to postganglionic nerve stimulation were essentially unchanged. Isopropylamine has both ganglion stimulating and blocking properties and is similar in its action to the classical nicotinic ganglion stimulant drugs."
+        },
+        {
+            "References": "PMID:7086693",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Previous studies ... have demonstrated that the acute sympathomimetic effects of isopropylamine are due to stimulation of autonomic ganglia. The present studies were designed to determine whether isopropylamine produced ganglionic blockade after its initial stimulation of autonomic ganglia. Infusion of isopropylamine (2.5 mg/kg/min) produced an initial increase in arterial pressure and heart rate which was followed by a prolonged hypotension and bradycardia; lower doses produced only a hypotensive response. After infusion of isopropylamine, the positive chronotropic responses to preganglionic cardioaccelerator nerve stimulation were significantly reduced, whereas the responses to postganglionic nerve stimulation were essentially unchanged. Similarly, the negative chronotropic responses to peripheral vagal stimulation were significantly reduced after isopropylamine administration. Moreover, isopropylamine reduced the cardiovascular responses to iv injections of the ganglion nicotinic stimulant, dimethylphenylpiperazinium iodide. Studies on the disposition of isopropylamine indicated that there was significant accumulation of isopropylamine in all tissues as compared to plasma. When the relationship between plasma isopropylamine and the decreases in mean arterial pressure was examined, a significant positive correlation (r = 0.87) was found. These results indicate that isopropylamine has both ganglion stimulation and blocking properties and is similar in its action to the classical nicotinic ganglion stimulant drugs such as dimethylphenylpiperazinium iodide and tetramethylammonium."
+        },
+        {
+            "References": "Australian Department of Health, National Industrial Chemicals Notification and Assessment Scheme (NICNAS); Human Health Tier II Assessment for Short Chain (C2-3) Alkyl Amines. Available from, as of January 12, 2018: https://www.nicnas.gov.au/chemical-information",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In a 125-day study in SD rats ... 2-propanamine vapor was administered at concentrations of 20, 101 or 500 mg/cu m. Limited results were reported in the study summary. Slight reductions in male body weights (<7 %) and female serum-glucose levels were observed in the high dose group. Inflammation of the nasal mucosa was observed in females in the high dose group. A no-observed adverse effect concentration (NOAEC) for systemic effects of 500 mg/cu m was reported. A NOAEC for local effects of 100 mg/cu m was reported."
+        },
+        {
+            "References": "Australian Department of Health, National Industrial Chemicals Notification and Assessment Scheme (NICNAS); Human Health Tier II Assessment for Short Chain (C2-3) Alkyl Amines. Available from, as of January 12, 2018: https://www.nicnas.gov.au/chemical-information",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ In a one generation reproduction study (GLP-compliant, non-guideline study), SD rats were exposed to 2-propanamine (CAS No. 75-31-0) at analytical concentrations of 20, 100 or 499 mg/cu m for 6 hr per day (5 days/week) by inhalation (whole body exposure; /males up to 15 weeks, females 17-18 weeks/). Clinical signs included incidental fur discoloration and focal hair loss. There were no significant differences in mating and fertility parameters, number of corpora lutea, implantations and resorptions. The was a reduction in mean body weight gain in males in the high dose group. A reported NOAEC of 499 mg/cu m was determined for maternal and developmental toxicity."
+        },
+        {
+            "References": "Australian Department of Health, National Industrial Chemicals Notification and Assessment Scheme (NICNAS); Human Health Tier II Assessment for Short Chain (C2-3) Alkyl Amines. Available from, as of January 12, 2018: https://www.nicnas.gov.au/chemical-information",
+            "Value": "/GENOTOXICITY/ Negative results were reported for 2-propanamine in a hypoxanthine-guanine phosphoribosyl transferase (HPRT) assay in mouse lymphoma cells, ... with and without metabolic activation."
+        },
+        {
+            "References": "Hussain S, Ehrenberg L; Mutat Res Sect Environ Mutagenesis Relat Subj 26 (5): 419-22 (1974)",
+            "Value": "/GENOTOXICITY/ /While/ methyl and ethylamine in combination with nitrite were significantly mutagenic, the Escherichia coli mutagenicity test of carcinogenic isopropylamine in combination with nitrite did not yield a detectable increase in mutation frequency over that due to nitrite alone."
+        },
+        {
+            "References": "Australian Department of Health, National Industrial Chemicals Notification and Assessment Scheme (NICNAS); Human Health Tier II Assessment for Short Chain (C2-3) Alkyl Amines. Available from, as of January 12, 2018: https://www.nicnas.gov.au/chemical-information",
+            "Value": "/GENOTOXICITY/ Negative results were reported in bacterial reverse mutation tests for mutagenicity in Salmonella typhimurium (strains included TA1535, TA1537, TA98 and TA100) ... with and without metabolic activation.  The highest non-toxic dose tested was 3333 mg/plate (32.94 mmol/plate)."
+        },
+        {
+            "References": "Valiev AG; Vopr Biokhim Immunol Chel Zhivotn 33-7 (1974)",
+            "Value": "/OTHER TOXICITY INFORMATION/ Administered ip to rats, isopropylamine was moderate in its inhibitory activity with respect to liver monoamine oxidase."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Golovnya RV et al; Amines in Soil as Possible Precusors of Nitroso Compounds. USSR Acad Med Sci pp. 327-35 (1987)",
+            "Value": "SOIL: Isopropylamine was detected in a mixture of soils from the Chuvash Autonomous Socialist Republic (Moscow) which contain chernozem, sandy, sandy loam, alluvial, dark grey forest and acid grey soils on unknown dates at unknown concentrations(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 7 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Feb 15, 2018: https://www2.epa.gov/tsca-screening-tools (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Perrin CL, Fabian MA; Anal Chem 68: 2127-34 (1996) (5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "The Koc of isopropylamine is estimated as 11(SRC), using a log Kow of 0.26(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that isopropylamine is expected to have very high mobility in soil. The pKa of isopropylamine is 10.6(4), indicating that this compound will exist almost entirely in the cation form in the environment and cations generally adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(5)."
+        }
+    ]
+}

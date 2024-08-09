@@ -1,0 +1,90 @@
+{
+    "_id": {
+        "$oid": "6682e870c4e5dba5ffba2597"
+    },
+    "CID": {
+        "$numberInt": "7242"
+    },
+    "Name": "2-Aminotoluene",
+    "IUPACName": "2-methylaniline",
+    "CanonicalSMILES": "CC1=CC=CC=C1N",
+    "Synonyms": [
+        "o-Toluidine",
+        "2-Methylaniline",
+        "95-53-4",
+        "2-Toluidine",
+        "o-Tolylamine",
+        "2-Methylbenzenamine",
+        "o-Methylaniline",
+        "ortho-toluidine",
+        "2-AMINOTOLUENE",
+        "2-Methyl-1-aminobenzene",
+        "o-Aminotoluene",
+        "o-Methylbenzenamine",
+        "Benzenamine",
+        "2-methyl-",
+        "1-Amino-2-methylbenzene",
+        "2-Amino-1-methylbenzene"
+    ],
+    "IsomericSMILES": "CC1=CC=CC=C1N",
+    "INCHI": "InChI=1S/C7H9N/c1-6-4-2-3-5-7(6)8/h2-5H,8H2,1H3",
+    "INCHIKEY": "RNVCVTLRINQCPJ-UHFFFAOYSA-N",
+    "Formula": "C7H9N",
+    "MolecularWeight": {
+        "$numberDouble": "107.15"
+    },
+    "Description": "O-toluidine is an aminotoluene in which the amino substituent is ortho to the methyl group. It has a role as a carcinogenic agent.",
+    "XlogP": {
+        "$numberDouble": "1.3"
+    },
+    "Complexity": {
+        "$numberInt": "70"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 42 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver.4.0. Jan, 2009. Available from, as of March 30, 2010: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3.5 was calculated for 2-aminotoluene(SRC), using a log Kow of 1.32(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Baird R et al; J Water Pollut Control Fed 49: 1609-15 (1977) (2) Heukelekian H, Rand MC; J Water Pollut Contr Assoc 29: 1040-53 (1955) (3) Malaney GW; J Water Pollut Control Fed 32: 1300-11 (1960) (4) Pitter P; Water Res 10: 231-5 (1976) (5) Matsui S et al; Prog Water Technol 7: 645-59 (1975) (6) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of March 30, 2010: https://www.safe.nite.go.jp/english/db.html. (7) Alexander M, Lustigman BK; J Agric Food Chem 14: 410-3 (1966) (8) Brown D, Laboureur P; Chemosphere 12: 405-14 (1983) (9) Medvedev VA, Davidov VD; pp. 245-54 in Decomposition of Toxic and Nontoxic Organic Compounds in Soil Overcash MR, ed. Ann Arbor, MI: Ann Arbor Sci Publ (1981) (10) Yamaguchi N et al; Jpn J Toxicol Environ Health 43: 209-14 (1997) (11) Lu GH et al; Environ Contam Toxicol 69: 111-6 (2002) (12) Ekici P et al; Chemosphere 44: 721-8 (2001)",
+            "Value": "AEROBIC: Biodegradation results of 2-aminotoluene showed: 100% degradation in 6 hr using an activated sludge inoculum(1); 56% of theoretical BOD utilized in 5 days with a sewage seed(2); 100% of theoretical BOD in 8 days using an activated sludge inoculum acclimated to aniline(3); 97.7% removal in 5 days with activated sludge(4). Using activated sludge from the wastewater treatment plant used to treat effluent known to contain 2-aminotoluene, 92% chemical oxygen demand removal was obtained in a 24 hr incubation with the chemical(5). 2-Aminotoluene, present at 100 mg/L, reached 65% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L and the Japanese MITI test(6). Complete degradation was obtained in 64 days with a soil inoculum(7). Six laboratories obtained >90% degradation of 2-aminotoluene in 7 days in two screening tests designed to simulate surface waters and polluted river water(8). 500 ppm of 2-aminotoluene completely degraded in 3 days in a Chernozem soil, leaving degradation products that persisted for over 90 days(9). Approximately 90% of 2-aminotoluene was degraded in 15 days under aerobic conditions using an inoculum prepared from water samples collected from a polluted river; less than 20% degradation was observed in 15 days using an inoculum prepared from water samples collected from a non-polluted river(10). 2-Aminotoluene, present at 2 mg/L, reached 41% of its theoretical BOD in 5 days using water from the Songhua River in China as an inoculum(11). The mean biodegradation rate constant and half-life measured for 50 ug/L 2-aminotoluene in a sludge inoculum were 8.8X10-6/sec and 22 hours, respectively(12). These data indicate that biodegradation of 2-aminotoluene will be an important environmental fate process(SRC)."
+        },
+        {
+            "References": "(1) Ekici P et al; Chemosphere 44: 721-8 (2001) (2) Kuhn EP, Suflita JM; Haz Waste Haz Mat 6: 121-33 (1989) (3) Medvedev VA, Davydov VD; Pochvovedenie 11: 22-8 (1972)",
+            "Value": "ANAEROBIC: The mean biodegradation rate constant and half-life measured for 50 ug/L 2-aminotoluene in a sludge inoculum under anaerobic conditions were 4.4X10-6/sec and 43 hours, respectively(1). 2-Aminotoluene was not biodegraded in an anaerobic aquifer slurry over a 10 month incubation period(2). Degradation of 2-aminotoluene in soil was observed although degradation products persisted for greater than three months(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 32",
+            "Value": "log Kow = 1.32"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:10562421",
+            "Value": "Mechanisms of DNA damage by metabolites of carcinogenic o-toluidine in the presence of metals were investigated by the DNA sequencing technique using (32)P-labeled human DNA fragments. 4-Amino-3-methylphenol, a major metabolite, caused DNA damage in the presence of Cu(II). Predominant cleavage sites were thymine and cytosine residues. o-Nitrosotoluene, a minor metabolite, did not induce DNA damage even in the presence of Cu(II), but addition of NADH induced DNA damage very efficiently. The DNA cleavage pattern was similar to that in the case of 4-amino-3-methylphenol. Bathocuproine and catalase inhibited DNA damage by these o-toluidine metabolites, indicating the participation of Cu(I) and H(2)O(2) in the DNA damage. Typical free hydroxyl radical scavengers showed no inhibitory effects on the DNA damage. o-Toluidine metabolites increased the formation of 8-oxo-7,8-dihydro-2'-deoxyguanosine in calf thymus DNA in the presence of Cu(II). UV-visible and ESR spectroscopic studies have demonstrated that 4-amino-3-methylphenol is autoxidized to form the aminomethylphenoxyl radical and o-nitrosotoluene is reduced by NADH to the o-toluolhydronitroxide radical in the presence and absence of Cu(II). Consequently, it is considered that these radicals react with O(2) to form O(-)(2) and subsequently H(2)O(2), and that the reactive species generated by the reaction of H(2)O(2) with Cu(I) participate in the DNA damage. Metal-mediated DNA damage by o-toluidine metabolites through H(2)O(2) seems to be relevant for the expression of the carcinogenicity of o-toluidine."
+        },
+        {
+            "References": "PMID:1701932",
+            "Value": "The in vivo covalent binding of o- and p-toluidine to rat hepatic macromolecules was investigated to determine if a relationship exists between the degree of binding for each isomer and its carcinogenic potency. The ortho-isomer has been shown to be a more potent hepatocarcinogen than the para-isomer. In addition to the macromolecular binding, the tissue distribution of each isomer was also measured. The degree of binding to hepatic macromolecules appeared to be at maximum for both at 24-28 hr following dosing. At 24 hr following dosing, the level of DNA binding of o-toluene was approximately 1.2-fold lower than that of p-toluene. The binding to RNA and protein was also lower for o-toluene than p-toluene, although the differences were not as great as that observed for DNA binding. There were subtle differences in tissue distribution for each isomer. However, in contrast to the macromolecular binding data, the area under the plasma concentration curve for o-toluene was approximately 1.8-fold greater than that for p-toluene. Based on the results of these studies, there was no direct correlation between the degree of macromolecular binding and carcinogenic potency."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Kubota Y; Ecotox Environ Safety 3: 256-268 (1979)",
+            "Value": "SEDIMENT: 2-Aminotoluene was found in 27 out of 68 sediment samples collected in industrial and remote areas of Japan between 1974-1976 at an average concentration of 72 ppb(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Yoshida K et al; Ecotox Environ Safety 7: 179-90 (1983) (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Essington ME et al; Adsorption of aniline and toluidines on montmorillonite: Implications for the disposal of shale oil production wastes. Western Res Inst, Laramie WY Report 1992, DOE\\MC\\11076-3198; DE93000237, pp. 21 (1992) (4) Huyskens P et al; Bull Soc Chim Belg 84: 253-62 (1975) (5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000) (6) Bollag JM et al; J Agric Food Chem 26: 1302-6 (1978) (7) Adrian P et al; Toxicol Environ Chem 20-21: 109-20 (1989)",
+            "Value": "The measured partition coefficient between sediment and water for 2-aminotoluene ranged from 40 to 250(1). According to a classification scheme(2), these Koc values suggest that 2-aminotoluene is expected to have very high to moderate mobility in soil. A group of investigators found the movement of toluidines through clay (montmorillonite) was not inhibited by sorption(3). The pKa of 2-aminotoluene is 4.44(4), indicating that this compound will exist partially in the cation form in the environment and cations generally adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(5). Aromatic amines are expected to bind strongly to humus or organic matter in soils due to the high reactivity of the aromatic amino group(6,7), suggesting that mobility may be much lower in some soils(SRC)."
+        }
+    ]
+}

@@ -1,0 +1,370 @@
+{
+    "_id": {
+        "$oid": "6682e880c4e5dba5ffba25e8"
+    },
+    "CID": {
+        "$numberInt": "7503"
+    },
+    "Name": "BENZYL CHLORIDE",
+    "IUPACName": "chloromethylbenzene",
+    "CanonicalSMILES": "C1=CC=C(C=C1)CCl",
+    "Synonyms": [
+        "BENZYL CHLORIDE",
+        "(Chloromethyl)benzene",
+        "100-44-7",
+        "Chloromethylbenzene",
+        "Benzylchloride",
+        "alpha-Chlorotoluene",
+        "Benzylchlorid",
+        "Tolyl chloride",
+        "Chlorophenylmethane",
+        "Chlorure de benzyle",
+        "alpha-Chlortoluol",
+        "a-Chlorotoluene",
+        "Benzene",
+        "(chloromethyl)-",
+        "omega-Chlorotoluene",
+        "RCRA waste number P028"
+    ],
+    "IsomericSMILES": "C1=CC=C(C=C1)CCl",
+    "INCHI": "InChI=1S/C7H7Cl/c8-6-7-4-2-1-3-5-7/h1-5H,6H2",
+    "INCHIKEY": "KCXMKQUNVWSEMD-UHFFFAOYSA-N",
+    "Formula": "C7H7Cl",
+    "MolecularWeight": {
+        "$numberDouble": "126.58"
+    },
+    "Description": "Benzyl chloride is a member of the class of benzyl chlorides that is toluene substituted on the alpha-carbon with chlorine.",
+    "XlogP": {
+        "$numberDouble": "2.3"
+    },
+    "Complexity": {
+        "$numberInt": "55"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 29 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Feb 11, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 20 was calculated in fish for benzyl chloride(SRC), using a log Kow of 2.30(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Feb 11, 2014: https://www.safe.nite.go.jp/english/db.html (2) Jacobson SN, Alexander M; Appl Environ Microbiol 42: 1062-6 (1981) (3) Robertson RE, Scott JMW; J Chem Soc 1961: 1596-604 (1961) (4) Koskikallio J; Acta Chem Scand 21: 397-407 (1967) (5) Albery WJ, Curran JS; J Chem Soc Chem Comm 1972: 425-6 (1972)",
+            "Value": "AEROBIC: Benzyl chloride, present at 100 mg/L, reached 70.9% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1). Benzyl chloride biodegraded readily with the formation of dechlorinated products during a 2-day incubation period using raw sewage and raw sewage acclimated to non-chlorinated compounds(2). However, since benzyl chloride is subject to hydrolysis(3-5), it is probably the biodegradation of benzyl alcohol that is measured in these studies(SRC)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 29",
+            "Value": "log Kow = 2.30"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V11 220 (1976)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ It is a strong skin sensitizing agent for guinea-pigs & leukopenia has also been observed."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 144",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Cats exposed to 2 mg/liter of air showed immediate irritation and turbidity of cornea was noted the day after exposure for seven and one-half hours at this concentration. Guinea pigs have shown remarkably less irritation of eyes than cats."
+        },
+        {
+            "References": "PMID:7330899",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ (14)C-benzyl chloride was given iv to male mice. The alkylation of guanine-n-7 of DNA in various organs and alkylation of hemoglobin were determined 1, 6, and 24 hr after injection of benzyl chloride. There was a decrease with time of the degree of alkylation of DNA in brain, testis and liver, but an increase in lung and probably also spleen. The degree of alkylation of hemoglobin also increased. The expected degree of alkylation of DNA was calculated from the degree of alkylation of hemoglobin. The ratio of found and expected degree of alkylation of DNA was approx 3 times higher for testis and brain than for the other organs 1 hr after admin of benzyl chloride."
+        },
+        {
+            "References": "OECD; SIDS Initial Assessment Report for Benzyl Chloride, 100-44-7 (1998). Available from, as of November 11, 2003: https://www.chem.unep.ch/irptc/sids/volume7/v7_part1/benzylchloride.pdf",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Exposure of the rabbit ear skin to 0.5 mL benzyl chloride for 24 hours resulted in severe reddening, swelling and subsequent necrotic changes."
+        },
+        {
+            "References": "PMID:2362083",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Leucopenia without any change in differential or red blood cell counts was observed in rats exposed for 4 hr to increasing concentrations of the following airborne irritants: acetic acid, benzyl chloride, 1,2-dichlorobenzene, ethyl acetate, ethyl acrylate, formaldehyde, isophorone, mesityl oxide, phenol, styrene, toluene diisocyanate and vinyl toluene. This effect was abolished by adrenalectomy. .... With the exception of 1,2-dichlorobenzene, the tested compounds caused leucopenia only when exposure reached the irritant level."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.37 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Female CD-1 mice exposed to the test substance /benzyl chloride/ or filtered air (control) were simultaneously challenged with an aerosol of viable Streptococcus zooepidemicus, ensuing deaths were recorded daily over a 14-day observation period. Exposure period was 5 days and frequency of treatment was 3 hr/day with doses of 0.005 mg/L. 355-Klebsiella pneumonia disseminated with a disposable nebulizer were used for the determination of the in vivo bactericidal activity of alveolar macrophages. Bacterial clearance was determined from treated and control mice that simultaneously inhaled the test substance and the viable bacteria. ..."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.31 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Exposure of dogs to benzyl chloride /by inhalation/ at the rate of 1.95 mg/L was lethal, deaths occurred during the night after exposure."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.31 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Cats were exposed to benzyl choride at 0.9 mg/L for 8 hrs resulted in severe irritation and inflammation of respiratory tract; some deaths occurred. When exposed to 2.1 mg/L for 7.5 hrs, irritation of respiratory tract, coughing, opacity of the cornea, lung edema, pneumonia, deaths occurred 2-3 days after exposure. When exposed to 5.3 mg/L for 2 hrs, severe irritation of respiratory tract and paralysis occurred.. When exposed to 7.3-18.5 mg/L for 8 hrs, all cats died of lung edema."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.80 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Radiolabeled test substance /benzyl chloride/ was given iv to male mice. The mice were killed 1-6 days after ... /administration/ and the elimination of the radioactivity from various organs was studied. Also the alkylation of guanine-N-7 of DNA and the alkylation of hemoglobin were determined 1, 6 and 24 hr after dosing. There was a decr with time of the degree of alkylation of DNA in brains, testis, and liver (significant for brain and testis at 6 and 24 hr, p < 0.05) and an incr in lung and probably in spleen. Also the degree of alkylation in hemoglobin incr (at 24 hr, p < 0.05). The expected degree of alkylation was calculated from the degree of alkylation of hemoglobin. 1 hr after injection of test substance the ratio of found and expected degree of alkylation of DNA was about 3 times higher for testis and brain than for other organs."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.79 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Test substance /benzyl chloride/ was administered once iv to rats in doses of 25 and 250 ug/kg. Serum enzyme test were used to evaluate hepatic injury. 10 min after dosing serum glutamatic-pyruvic transaminase and lactic dehydrogenase activities were significantly incr compared to controls. Values returned to normal within 1 hr after application. Also the ornithine carbamyl transferase activity was significantly incr and reached a maximum at 0.5 hr after dosing. the clearance of bromosulphthalein was significantly slower compared to controls throughout the 24 hr studied. Significantly decreased liver and blood glutathione values. The authors stated that test substance has the potential to cause hepatomalfunction."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.79 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ A single im injection of 50 mg/kg test substance /benzyl chloride/ to rats caused an increase of SGOT /Serum glutamic oxaloacetic transaminase/ and SGPT /Serum glutamic pyruvic transaminase/."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-1634 2005., p. 1",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Rabbits and cats exposed 8 hr/day for 6 days at 95 ppm showed eye and respiratory tract irritation, while dog died following 8 hr at 380 ppm."
+        },
+        {
+            "References": "OECD; SIDS Initial Assessment Report for SIAM 8. Report on Benzyl chloride (CAS No. 100 - 44 - 7). UNEP Publications (October 5, 1998). Available from, as of August 25, 2014: https://www.inchem.org/pages/sids.html",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Oral toxicity study for 26 weeks was performed (3 times per week) in 10 male and 10 female F-344 rats at doses of 0 (vehicle; corn oil), 15, 30, 62, 125, 250 mg/kg (calculated daily doses: 6.4, 12.9, 26.6, 53.6, 107.1 mg/kg/day). All rats died within 2 weeks in males at 250 mg/kg and in females at 250, 125 mg/kg. All rats died within 3 weeks in males at 125 mg/kg. The cause of death was mainly severe acute and chronic gastritis of the forestomach, often with ulcers. In addition, acute myocardial necrosis and edema of the heart were also observed frequently, which were probably the common causes of death at the highest dose. In female rats at 62 mg/kg, only 4 of which survived to 26 week, there were acute myocardial necrosis (in 4) and hyperplasia of the forestomach. A few female rats at 30 mg/kg had hyperkeratosis of the forestomach. A statistically significant depression of weight gain was observed in male rats at 62 mg/kg, while in female rats it was smaller. NOEL was considered to be 30 mg/kg for male (12.9 mg/kg/day) and 15 mg/kg for female (6.4 mg/kg/day)."
+        },
+        {
+            "References": "Gribble GW; Chem Brit 10 (3): 101 (1974)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Single 50 mg/kg or weekly 10 mg/kg sc injections of benzyl chloride into rats produced massive local sarcomas."
+        },
+        {
+            "References": "OECD; SIDS Initial Assessment Report for SIAM 8. Report on Benzyl chloride (CAS No. 100 - 44 - 7). UNEP Publications (October 5, 1998). Available from, as of August 25, 2014: https://www.inchem.org/pages/sids.html",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Inhalation toxicity study was performed in Swiss OF1 mice at concentrations of 22 and 46 ppm for 4, 9, 14 days (6 hr/day). As a result, pathological change in both the anterior respiratory epithelium adjacent to vestibule and the olfactory epithelium in the dorsal meatus was observed at 46 ppm. This change was severe in 4-day and 14-day exposure groups and very severe in 9-day exposure group. No change of trachea and lungs was observed. Based on pathological change, NOEL was considered to be 22 ppm (107 mg/cu m), equivalent to roughly 40 mg/kg/day."
+        },
+        {
+            "References": "OECD; SIDS Initial Assessment Report for SIAM 8. Report on Benzyl chloride (CAS No. 100 - 44 - 7). UNEP Publications (October 5, 1998). Available from, as of August 25, 2014: https://www.inchem.org/pages/sids.html",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Oral toxicity study for 26 weeks was performed (three times per week) in B6C3F1 mice at doses of 0, 6.3, 12.5, 50.0, 100.0 mg/kg (calculated daily doses: 2.7, 5.4, 10.7, 21.4, 42.9 mg/kg/day). ... /Body weights were not affected in any treatment group./ In histopathologic examination, severe hyperplasia of the liver was frequently observed at 100 mg/kg dose. At 50 mg/kg and the lower dose levels, the hyperplasia was occasionally severe, but was more usually moderate."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.39 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ 10 male hamsters were exposed by inhalation to /benzyl chloride/ in 10 cu m inhalation chambers for 4 weeks, 6 hr/day, 7 days/wk, 28 exposures total at doses of 0.0, 0.06, 0.18, or 0.54 mg/L. At 0.54 mg/L: eye irritation, sneezing and depression in body weight; at autopsy lung congestion was apparent in 2 hamsters. NOEL: = 0.18 mg/L."
+        },
+        {
+            "References": "OECD; SIDS Initial Assessment Report for SIAM 8. Report on Benzyl chloride (CAS No. 100 - 44 - 7). UNEP Publications (October 5, 1998). Available from, as of August 25, 2014: https://www.inchem.org/pages/sids.html",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Oral toxicity study for 26 wks was performed (3 times per wk) in 10 male and 10 female F-344 rats at doses of 0 (vehicle; corn oil), 15, 30, 62, 125, 250 mg/kg (calculated daily doses: 6.4, 12.9, 26.6, 53.6, 107.1 mg/kg/day). All rats died within 2 wks in males at 250 mg/kg. The cause of death was mainly severe acute and chronic gastritis of the forestomach, often with ulcers. In addition, acute myocardial necrosis and edema of the heart were also observed frequently, which were probably the common causes of death at the highest dose. In female rats at 62 mg/kg, only 4 of which survived to 26 wk, there were acute myocardial necrosis (in 4) and hyperplasia of the forestomach. A few female rats at 30 mg/kg had hyperkeratosis of the forestomach. A statistically significant depression of weight gain was observed in male rats at 62 mg/kg, while in female rats it was smaller. NOEL /no observed effect level/ was considered to be 30 mg/kg for male (12.9 mg/kg/day) and 15 mg/kg for female (6.4 mg/kg/day)."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.87 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ 10 male guinea-pigs were exposed in 10 cu M inhalation chambers. Exposure period: 4 wks. Frequency of treatment: 6 hr/days, 7 days/wk, total 28 exposures. Doses: 0.06, 0.18, or 0.54 mg/L. Control group: yes. NOEL /no observed effect level/ : = .06 mg/L. At 0.54 mg/L: eye, nasal, and dermal irritation, miscellaneous respiratory difficulties, and alopecia was observed. In the mid and high dose group diffuse distension of the alveoli with thinning of the interstitium was diagnosed microscopically."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.39 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ 10 male and 10 female Sprague-Dawley were exposed in 10cu M inhalation chambers /with benzyl chloride/ for 4 wks at 6 hr/day, 7 day/wk constituting 24 exposures. At 0.06 mg/L: 1 rat died at study day 12. At 0.54 mg/L, depression in body weight, miscelaneous respiraory difficulties, nasal irritation, and excitation was observed."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Benzyl Chloride (100-44-7). Available from, as of February 14, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ C57 black mice were given each 4 intradermal injections of 0.05 mL test substance /benzyl chloride/ on the ventral surface, animals were examined twice weekly over 6 mos for any changes. Test substance caused depigmentation (effective dose: 50 ug)"
+        },
+        {
+            "References": "U.S. Environmental Protection Agency's Integrated Risk Information System (IRIS) on Benzyl chloride, 100-44-7 (March 1999). Available from: https://www.epa.gov/iris/index.html on the Substance File List as of November 5, 2003.",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Efforts to assess the potency of benzyl chloride as a carcinogen and skin tumor initiator provided predominantly negative results. /In one study/ ...1.0 mg benzyl chloride in toluene /was applied/ to the backs of 40 T.O. (Swiss- Webster derived Theiler's Original) mice, followed by twice weekly treatments of croton oil in toluene for 10 months. While 8/19 positive controls treated with 0.4 mg benzo[a]pyrene developed skin tumors, none (0/37) of the benzyl chloride-treated mice did. In a second initiation-promotion test, ...10, 100, or 1000 ug benzyl chloride in acetone /was topically applied/, followed by twice weekly applications of the promotor 12-O-tetra-'3-decanoyl- phorbol-'3-acetate. At the end of 11 weeks, all of the positive controls treated with (7,12-dimethylbenz[a]anthracene) had skin tumors, whereas at 6 months (approximately 12 weeks later), only 20% of the mice treated with benzyl chloride showed similar changes. ...Groups of 20 Swiss mice /were treated/ with 100 ug benzyl chloride in toluene twice weekly. After 7.5 months, none of the treated mice had skin tumors compared with 18/20 of the positive controls treated with benzo[a]pyrene."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V29 55 (1982)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Eight 14-wk-old BD rats ...were given weekly sc injections of 80 mg/kg purified benzyl chloride in arachis oil for 51 weeks (total dose, 3.9 g/kg bw). Six developed sarcomas at the injection site, with an average induction time of 500 days; lung metastases were observed in most animals. Of 14 rats given 40 mg/kg bw weekly for 51 weeks (total dose, 2.1 g/kg bw), 3 developed sarcomas at the injection site, with an average induction time of 500 days. Arachis oil alone did not 'usually' produce local tumors at the injection site in otherwise untreated animals."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V29 55 (1982)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Three groups of 20 A/HE mice of both sexes, 6-8 wk old, received 8-12 ip injections ...in tricaprylin as thrice weekly injections (total doses, 0.6, 1.5 and 2 g/kg bw). All survivors were killed 24 wk after first injection. Lung tumors were found in 4/15, 7/16 and 2/8 surviving mice in the 3 groups, respectively, with averages of 0.26, 0.50 and 0.25 lung tumors/mouse. The incidences were reported to be not statistically different from that in controls that received tricaprylin alone (0.22 lung tumors/mouse) or no treatment (0.21 lung tumors/mouse). (An unbiased assessment of the lung tumor incidence with increasing dose was not possible on the basis of the reported figures, due to obvious intercurrent mortality. The working group also noted that a negative effect observed in the Strain A mouse assay cannot be taken as evidence of lack of carcinogenesis.)"
+        },
+        {
+            "References": "PMID:6276739",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ 4-Chloromethylbiphenyl (4CMB), 4-hydroxymethylbiphenyl (4HMB), benzyl chloride (BC) and benzo(a)pyrene (BP, positive control) dissolved in toluene were applied twice weekly to the shaved dorsal region of groups of 20 Alderley Park Swiss Albino mice. After 7 months of treatment, 6/20 of the BP test group were confirmed as having developed squamous cell carcinoma of the skin. However, none of the animals in the /other/ test groups appeared to have been affected by the test chemicals. This interim observation was supplemented by intercurrent sacrifice of 1 animal from each of the test groups, followed by histopathological examination of sections of the subcutaneous tissue. No neoplastic changes were discerned."
+        },
+        {
+            "References": "PMID:7161830",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Results of acute toxicity and organ histopathological studies in rats dosed orally with benzyl chloride for 27-37 wk are compatible with the organ distribution and excretion of (14)C-benzyl chloride. Histopathological finding included severe acute and chronic gastritis, hyperkeratosis, hyperplasia of the squamous stomach and progressive lesions of the heart ranging from proliferation of interstitial cells to acute necrosis of myocardial fibers. Both studies suggest that the squamous stomach is a target for benzyl chloride or 1 of its metabolites."
+        },
+        {
+            "References": "U.S. Environmental Protection Agency's Integrated Risk Information System (IRIS) on Benzyl chloride, 100-44-7 (March 1999). Available from: https://www.epa.gov/iris/index.html on the Substance File List as of November 5, 2003.",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ ...Two skin-painting studies on specific- pathogen-free ICR mice, using benzyl chloride dissolved in benzene /were conducted/. Benzene- only controls were included for vehicle comparison. In the first study, no tumors were observed in 11 mice treated with 10 uL benzyl chloride 3 times/wk for 4 weeks, followed by 2 times/wk until termination at 40 weeks. In the second study, 2.3 uL benzyl chloride was diluted to a final volume of 25 uL with benzene and applied to the skin of 7-wk-old mice 2 times/wk for 50 weeks. Two of 20 control animals developed lung adenomas, while 5/20 treated mice developed tumors, including 2 lung adenomas and 3 skin carcinomas. Two of the skin carcinomas metastasized to the primary lymphatic organs, liver, or kidneys. Although these tumor incidences are not statistically significantly greater than controls, the authors considered benzyl chloride to be a weak carcinogen when applied topically. The short duration of the studies limited their sensitivity."
+        },
+        {
+            "References": "PMID:3458959",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Benzyl chloride was administered to groups of 52 male and 52 female F344 rats and (C57BL/6J x BALB/c)F1 mice at two dose levels by gavage in corn oil three times a week for 2 years. Survivors were sacrificed a few weeks later and examined histopathologically. On the basis of a subchronic study at a range of doses, the doses of benzyl chloride in the chronic study were 100 and 50 mg/kg body weight for mice and 30 and 15 mg/kg body weight for rats. In mice of both sexes there was a high and statistically significant incidence of carcinomas and papillomas of the forestomach. In the livers of male mice, but not of females, there was a significantly increased incidence of hepatocellular neoplasms at the low dose but not at the maximally tolerated dose (MTD). In rats the only neoplasms showing a statistically significant increase compared with controls were C-cell neoplasms of the thyroid gland in females. A significant incidence of neoplasms was not found in the forestomachs of F344 rats, but it is possible that true MTD was not used for rats."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.39 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ 30 male guinea-pigs were exposed in 10 cu M inhalation chambers  for 27 wks. Frequency of treatment: 6 hr/day, 5 days/wk, total of 129 exposures. Doses: 0.005, 0.062 or 0.148 mg/L. Control group: yes. NOEL /no observed efect level/ = .005 mg/L. Decrease in mean corpuscular volume in high dose group, increased kidney weights in mid- and high dose group; but no other substance-related effects were observed."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.37 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ 10 male and 10 female B6C3F1 mice were exposed by gavage to benzyl chloride once daily, 3 times/wk for 26 wks. Doses: 6.3, 12.5, 25, 50 or 100 mg/kg. Control group was also included. At 50 mg/kg: moderate to severe hyperplasisa of the liver was observed. At 100 mg/kg: severe hyperplasia of the liver was observed. There were no substance-related deaths."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.35 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ 10 male and 10 female Fisher 344 rats were given by gavage a single dose of /benzyl chloride/ 250 mg/kg or 4 doses of 125 mg/kg which were lethal for 100% females; male rats  tolerated up to 5 doses of 250 mg/kg or 6-9 doses of 125 mg/kg. Exposure period 27 weeks (females), 37 weeks (males). Histopathological examination revealed severe congestion and edema of the heart, lungs and liver in females and acute myocardial necrosis in males. Severe acute gastritis and ulceration of the squamous stomach was the probable cause of death in both sexes receiving 125 mg/kg. Histopathologic changes in both sexes given 15, 30, or 62 mg/kg: hyper keratosis and hyperplasia of the squamous stomach, hyperplasia and focal necrosis of the heart, one female rat (62 mg/kg) developed a basal carcinoma in situ of the squamous stomach."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.73 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ 20 ICR mice/group were treated with /benzyl chloride/ for 50 weeks . Total dose: 255/animal was given intradermally. Frequency of treatment: twice weekly.  Post observation period: 32 weeks. Doses: 2.3 uL (2.6 mg/treatment = ca. 65-130mg/kg. Control group: yes, concurrent vehicle. 20% of the controls and 50% of the treated mice were dead at the end of the study. 3 mice of the test group developed squamous-cell carcinomas of the skin, 1 had a leoimyosarcoma of the uterus. 2 treated and 2 control mice had lung adenomas. The differences in skin cancer incidence was not statistically significant between the two groups. ... Animal motor activity decreased; erythema and swelling were the earliest symptoms noted at the painted area, then alopecia and induration of the skin . Marked keratinization and, in some mice, ulcers and or necrosis were observed."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.77 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ BD rats were exposed for 51 wks at the rate of once weekly with sc doses of 40 or 80 mg/kg of benzyl chloride. 14 rats were treated with low dose and 8 rats with the high dose (total doses: 2100, 3900 mg/kg). Average induction time was 500 days. 3 rats treated with 40 mg/kg developed sarcomas at the injection site. 6 rats treated with 40 mg/kg developed sarcomas at the injection site. Lung metastasis were observed in most animals."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.75 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ B6C3F1 mice  were exposed through gavage 50 or 100 mg/kg of benzyl chloride once daily, 3 times/wk for 104 wks. Animals were sacrificed at 107 or 108 wks.  52 male and 52 female mice/group were treated. The maximally tolerated dose (100 mg/kg) (MTD) and 0.5 MTD (50 mg/kg) were chosen as doses for the long-term experiment. The weight development and the survival were not affected by the treatment. In mice of both sexes there was a high and statistically significant incidence of carcinomas and papillomas of the forestomach (100 mg/kg: p < 0.001), in the livers of male mice a significantly increased incidence of hepatocellular neoplasms were seen in the low dose group. A number of neoplasms of the lung were observed in both male and female mice (statistically significant in males 0.5 MTD: hemangioma and hemangiosarcoma and female MTD-group: alveolar-bronchiolar adenoma and carcinoma."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.75 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Fischer 344 rat  were given through gavage 15 or 30 mg/kg of benzyl chloride once daily, 3 times/wk for 104  wks. Animals were sacrificed at 107 or 108 wks.  52 male and 52 female rats/group were treated. 0.5 maximally tolerated dose (NTD) were chosen as doses for the long-term experiment. The weight development and the survival were not affected by the treatment. The only neoplasm showing a statistically significant increase compared with controls were C-cell neoplasms of the thyroid gland in females, all other neoplastic and nonneoplastic lesions were not significantly different from controls. However, 3 male rats receiving MTD had squamous cell tumors of the forestomach (2 carcinomas, 1 papilloma), and 1 female rat of MTD-group had a squamous cell papilloma in the oral cavity, none of which were seen in controls."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.74 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Swiss strain of mice were given 100uL of benzyl chloride dermally twice weekly for 28 wks. 20 mice/group were treated. Positive controls received benzo(a)pyrene and negative controls received toulene. Interim report (7 month) of an ongoing experiment showed no induction of skin tumors after 28 wks, and none were seen after 85 wks of treatment."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.73 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ ICR strain of mice were given a dermal dose of 10uL = ca. 280-740 mg/kg of benzyl chloride for 43 wks then twice weekly thereafter. 11 mice were treated with total dose of 977 mg/animal. Control group received benzene. No death occurred and no tumor was found in benzene-treated controls or in test animals. ... Animal motor activity decreased. Erythema and swelling were the earliest symptoms noted in painted area, then alopecia and induration of the skin, marked keratinization of the epidermis and, in some, mice, ulcers and/or necrosis were observed"
+        },
+        {
+            "References": "OECD; SIDS Initial Assessment Report for SIAM 8. Report on Benzyl chloride (CAS No. 100 - 44 - 7). UNEP Publications (October 5, 1998). Available from, as of August 25, 2014: https://www.inchem.org/pages/sids.html",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Sperm head abnormality test was performed for 5 days in male F1 mice subcutaneously at doses of 0 (vehicle; Tween), 125, 250, 500 mg/kg and intraperitoneally at doses of 0, 50, 100, 200, 400 mg/kg. Small increase in sperm head abnormalities was seen with the lethal dose (500 mg/kg in subcutaneous study, 200 and 400 mg/kg in intraperitoneal study). NOEL /no observed effect level/ was considered to be 250 mg/kg in subcutaneous study and 100 mg/kg in intraperitoneal study."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.79 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Mice were given sc doses of 0, 125, 250, or 500 mg/kg once daily for 5 days. 35 days after the last dosing all surviving mice were killed and scored for sperm-head abnormalities. The results were negative (tested up to lethal doses)."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.87 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Mice were dosed intraperitoneally once daily for 5 days. Doses: 0, 50, 100, 200 or 400 mg/kg. 35 days after the last dosing all surviving mice were killed and scored for sperm-head abnormalities. The results were negative (tested up to lethal doses)."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.87 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Wister rats were exposed to benzyl chloride orally between 1 to 19 days of gestation with doses of 0.00006, 0.0006, 0.006, or 208  mg/kg. Groups of 20 rats were given  solns of test substance /benzyl chloride/. 208 mg/kg produced a high incidence of embryo lethality; 0.006 mg/kg also increased embryo lethality, the two low dose groups had no adverse effects. No malformations were observed. In rats given 208 mg/kg, post natal development was retarded and their resistance to anorexia and fertility impaired. No adverse postnatal effect was seen in the lowest dose group."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.80 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Sprague-Dawley rats were exposed to benzyl chloride through gavage between 6 to 15 day of gestation, once daily with dose of 50 or 100 mg/kg. Dams were sacrificed on day 20 of gestation. Untreated female rats were mated overnight. Test substance /benzyl chloride/ was applied to groups of 8 pregnant rats. No maternal toxicity was observed. Fetotoxicity in form of reduced fetal length was observed when dams were treated with 100 mg/kg. Test substance did not statistically increase the number of skeletal malformations and variations."
+        },
+        {
+            "References": "Holmberg B, Malmfors T; Wenner-Gren Cent Int Symp Ser 22 (Dyn Degeneration Growth Neurons, Proc Int Symp): 191-200 (1974)",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Benzyl chloride had significant potentiating effects on adrenergic transmission, apparently due to an increased sensitivity of the effector cells to noradrenaline; turnover in CNS of noradrenaline was also effected."
+        },
+        {
+            "References": "PMID:6845368",
+            "Value": "/BEHAVIORAL STUDIES/ Behavioral changes of male Swiss-OF-1 mice were observed after inhalation exposure to 12, 17, 18 or 22 ppm benzyl chloride or fresh air for 4 hours. After exposure, swimming tests were conducted in a cylinder filled with water. Initially, avoidance behavior was observed, then a resting stage set in, during which they only made movements to keep their heads above water (immobility phase). The duration of the immobility phase was measured, and a change in the length of this phase was considered as the criterion for an effect of benzyl chloride on CNS-controlled behavior. As a result, benzyl chloride caused a concentration-dependent extension of the immobility phase by 32, 52, 71 and 84%."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.87 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/BEHAVIORAL STUDIES/ The effects of acute inhalation exposure to neurotoxic cmpds on the total duration of immobility in mice during a 3-min behavioral swimming test were tested. 10 mice/group were exposed during a single 4-h period to vapors of test substance /benzyl chloride/ in concentrations of 0.06, 0.08, 0.09 and 0.12 mg/L. then the mice were forced to swim in a cylinder (mice forced to swim exhibit two types of behavior: an escape-directed behavior during the first time followed by a continuous immobile posture). In treated mice the duration of immobility was reduced in a concn-related manner. The decrease in duration of immobility is caused by prolongation of escape directed activity. Such a state of reinforced swimming activity may result from neurotoxic effects."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.55 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ The test substance solns were pipetted directly on the food surface of the culture bottles with the late embryos and newly hatched larvae of Drosophila melanogaster; the treated stages were then left to develop into adults in the presence of the chemical; the induced somatic events on the test locus in the developing eye discs were scored as the percentage eye sectors with aberrant pigmentation in the emerging adults. The results were positive."
+        },
+        {
+            "References": "https://www.inchem.org/documents/sids/sids/100447.pdf",
+            "Value": "/GENOTOXICITY/ In Drosophila melanogaster, benzyl chloride was found to induce somatic mutations more readily than sex-linked alterations."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.56 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ Test substance /benzyl chloride/ solutions were pipetted directly on the food surface of the cultured bottles with the late embryos and the newly hatched larvae of Drosophila melanogaster. The treated stages were then left to develop into adults in the presence of the chemical. The sex-linked recessive mutations induced in the testes of males were scored. The results were weakly positive."
+        },
+        {
+            "References": "Pienta RJ; Chem Mutagens: Prin Methods their detection 6: 175-202 (1980)",
+            "Value": "/GENOTOXICITY/ Hamster embryonal cell transformation: positive; lowest transforming dose 0.1 ug/mL; bacterial mutagenesis: positive."
+        },
+        {
+            "References": "PMID:7035902",
+            "Value": "/GENOTOXICITY/ The addition of benzyl chloride (31.25-4000 ug/plate) to agar layer cultures of Salmonella typhimurium resulted in no increase in the reverse gene-mutation frequency in strains TA1535, TA1537, TA1538, or TA98; however, in the TA100 strain, there was a reproducible, dose-related increase both in the presence and absence of the S9 fraction. The magnitude of the response was greater in the presence of the S9 fraction."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V29 57 (1982)",
+            "Value": "/GENOTOXICITY/ It increases mitotic recombination in Saccharomyces cerevisiae D3 and transformation in Syrian hamster embryo cells in vitro; the lowest transformative dose was 0.1 ug/mL."
+        },
+        {
+            "References": "PMID:3338442",
+            "Value": "/GENOTOXICITY/  An evaluation was made of the ability of benzofuran, benzyl-chloride, bromodichloromethane, tert-butyl-alcohol, butylated-hydroxytoluene, chlorendic-acid, o-chlorobenzalmalonitrile, 1,2,3,4-diepoxybutane, dimethylformamide, dimethyl-hydrogen-phosphite, furfural, glutaraldehyde, hydroquinone, 8-hydroxyquinoline, pyridine, resorcinol, distilled water, and witch-hazel to induce forward mutations at the thymidine-kinase locus (tk) in L5178Y-mouse-lymphoma cells in the presence of 5-trifluorothymidine (TFT). ... Only tert-butyl-alcohol, witch hazel, distilled water, and pyridine were found to be nonmutagenic. Of the 14 chemicals shown to be mutagenic, only bromodichloromethane, butylated-hydroxytoluene, and dimethyl-hydrogen-phosphite required metabolic activation before mutagenic activity could be demonstrated."
+        },
+        {
+            "References": "PMID:17631040",
+            "Value": "/GENOTOXICITY/ ... In previous studies BCl /benzyl chloride/ has shown weak and inconsistent mutagenicity in the Ames/Salmonella assay. The aim of the present study was to investigate the potential mutagenic activity of BCl using modifications of the standard Ames test in order to adapt the method to the volatile nature of the test item. Test were performed using (i) the standard plate incorporation method, (ii) incubation of the treated plates in closed containers, (iii) a vaporization-diffusion method to expose Ames test plates to volatilized BCl and (iv) the pre-incubation method. BCl showed mutagenic activity towards Salmonella typhimurium tester strain TA100 in the absence and presence of S9 metabolism. The use of the pre-incubation method did not improve detection of mutagenic activity of BCl. The use of closed containers significantly increased the response. The most marked response to BCl was obtained by testing BCl in volatilized form in the vaporization-diffusion method. Using this approach there appeared to be less toxicity of the BCl treatments to the tester bacteria. Our findings suggest that BCl may show greater mutagenic activity in the gaseous phase. This work underlines the importance of using appropriate methods for the evaluation of volatile compounds. The modifications described are easy to put into practice and should prove useful for the investigation of other volatile materials or atmospheric contaminants."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.45 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ Test substance /benzyl chloride/ was mutagenic in Escherichia coli  WP2 try hcr mix without S9-mix using bacterial reverse mutation assay."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.46 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ Test substance /benzyl chloride/ at concentration of 31.25-4000 ug/plate induced a reproducible, dose-related increase of revertants only in Salmonella typhimurium TA 100, the magnitude of response was greater in the presence of S9-mix. /Ames Test/"
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.45 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ Salmonella typhimurium TA 100 was incubated with test substance /benzyl chloride/ in Salmonella typhimurium reverse mutation assay at concentration 0-2 uM/plate. Test substance showed dose-dependent mutagenic activity without metabolic activation, while metabolic activation decreased mutagenicity."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.49 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ Salmonella typhimurium TA 98, TA 100 was incubated with test substance /benzyl chloride/ in Salmonella typhimurium reverse mutation assay at concentration of 0.1-250 ug/mL. Test substance was reported as non-mutagenic, however at 50 ug/mL (TA 100 activated) the reversion rate was significantly greater than that of the control (1% level of probability)."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.58 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ Test substance /benzyl chloride/ induced mutations in Chinese hamster lung cells V79 at concentration from 80-200 uM at the HGPRT-locus. It also induced levels of mutation at the 6TG and Oua-sensitive loci, but these results were ambiguous."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.58 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ Cultured Chinese hamster ovary cells were treated with the test substance /benzyl chloride/ at concentration of 10-50 ug/mL for 24 hrs on cytogenetic assay and then subjected to tests for survival, Sister-chromatid exchange (SCE) and mutation to thioguanine resistance. Test substance induced SCE and chromosome damage. It was a weakly inducer of point mutations."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.59 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ Rat epithelial cells were treated with test substance on cytogenetic assay at concentrations of 60, 120, 180, 240 uM for 4 hrs test substance /benzyl chloride/ induced a dose-dependent increase in the number of chromatid aberrations."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.59 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ Test substance /benzyl chloride/ at concentration of 10-1000 ug/plate was a direct mutagen of low potency in Salmonella typhimurium strains TA 98 and TA 100; it was cytotoxic at 225 ug/plate. /Ames Test/"
+        },
+        {
+            "References": "OECD; SIDS Initial Assessment Report for SIAM 8. Report on Benzyl chloride (CAS No. 100 - 44 - 7). UNEP Publications (October 5, 1998). Available from, as of August 25, 2014: https://www.inchem.org/pages/sids.html",
+            "Value": "/GENOTOXICITY/ In cultured rodent cells, benzyl chloride was slightly mutagenic to DNA excision-repair deficient strains of CHO /Chinese hamster ovary/ cells, and weakly induced sister chromatid exchanges of CHO cells."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.65 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ The test substance /benzyl chloride/ was administered twice orally to mice, 24 hr apart. The animals were killed 6 hrs apart after the last dose. The femora were removed and in the bone marrow 500 polychromatic erythrocytes/mouse were scored for the presence of micronuclei. The results were negative."
+        },
+        {
+            "References": "PMID:2802671",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ ... Male Sprague-Dawley-rats were fed single 50 mg/kg doses of carbon-14 (C-14) tagged BCL /benzyl chloride/.  ... Peak plasma levels of BCl were reached at 30 minutes; half life was 1.3 hours, and elimination  took 58.5 hours. Distribution of BCl was highest in stomach tissues and gastric washings and  contents. The highest fraction of excreted initial dose was found in the urine, with 53.5 percent  excreted during the first 12 hours. The primary metabolite over the entire 72 hour collection period  was mercapturic-acid. Liver glutathione was decreased and glutathione-S-arylkyl-transferase activity  was increased in rats exposed to 100 mg/kg BCl, compared to a control group which received no BCl.  In pancreas and liver cells exposed to BCl for 1 hour, protein and RNA synthesis in both acinar  cells and hepatocytes were inhibited, although pancreatic cells were more sensitive to BCl; a dose  response effect was exhibited."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.65 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ the possible potential of test substance /benzyl chloride/ to induce lipid peroxidation in rat liver, kidney spleen and testes slices was investigated. Lipid peroxidation was measured by release of thiobarbituric acid-reactive substances from the slices. Test substance induced lipid peroxidation in liver and kidney slices (p < 0.01)"
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.65 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Rat hepatocytes were isolated and incubated for 10, 30, 60, and 120 min with test substance /benzyl chloride/ (1.8, 3.6 nM). Exposure to test substance resulted in a significant decrease of cell viability and a significant increase in leakage of cytosolic enzymes (lactate dehydrogenase, aspartate transaminase, alanine transaminase) compared to the controls."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.65 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ In vitro after incubation of liver homogenate with 1 mM benzylchloride a decrease of glutathione (45 %) was observed within 15 min."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.65 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ The effect of test substance /benzyl chloride/ on the adrenergic transmission was studied in vitro in two models. The mechanical response of mouse vas deferens and the uptake of noradrenaline by the adrenergic nerves. Test substance had a marked potentiating effect on the adrenergic transmission (mechanical response: 250 %). The main reason for this appeared to be an incr sensitivity of the effector cells to noradrenaline."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.65 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ In rat liver slices influence of test substance /benzyl chloride/ on protein synthesis (evaluated by H3-leucine incorporation into the trichloroacetic acid insoluble-material) and lipid peroxidation (evaluated by thiobarbituric acid-reactive substance released into the incubation medium) was conducted. Test substance caused damage of protein synthesis and induced lipid peroxidation (p < 0.05)"
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.65 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Rat red blood cells incubation with test substance /benzyl chloride/ (1 mM, 2 hr) induced hemoglobin degradation (decr in oxyhemoglobin (p < 0.01), incr in methemoglobin (p < 0.05)), but did not significantly induced lipid peroxidation (evaluated by measuring the release of thiobarbituric acid-reactive substance from red blood cells into the incubation medium)."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.60 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/IMMUNOTOXICITY/ Test substance /benzyl chloride/ was given orally for 30 days to groups of 10 rats in doses of 0.00006, 0.0006, 0.006 and 31 mg/kg. The following tests were made: complement fixation test, degranulation of basophiles, formation of plaques. Antigen: extract of the liver tissue of the rats treated with the highest dose. All tests were reported as positive."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.65 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/OTHER TOXICITY INFORMATION/ 30 male and 30 female Sprague-Dawley rats were exposed /benzyl chloride/ in 10 cu M inhalation chambers for 27 wks. Frequency of treatment: 6 hr/day, 5 day/wk, 129 exposures. Control group was present.  NOEL = .062 mg/L. Increased spleen weights in high exposure level female rats; no other substance-related effects were observed."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, alpha-Chlorotoluene (100-44-7) p.65 (2000 CD-ROM edition). Available from, as of August 25, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/OTHER TOXICITY INFORMATION/ A decrease of glutathione values was observed in rats after oral administration or inhalation of test substance."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Hauser TR, Bromberg Sm; Env Monit Assess 2: 249-72 (1982)",
+            "Value": "Benzyl chloride has been detected, not quantified in the soil-sediment-water matrix of the Love Canal near Niagara, NY(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 29 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Feb 11, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of benzyl chloride is estimated as 100(SRC), using a log Kow of 2.30(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that benzyl chloride is expected to have high mobility in soil."
+        }
+    ]
+}

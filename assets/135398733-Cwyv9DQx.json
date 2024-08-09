@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "6692712e303528b49832d83b"
+    },
+    "CID": {
+        "$numberInt": "135398733"
+    },
+    "Name": "2-Hydroxyatrazine",
+    "IUPACName": "4-(ethylamino)-6-(propan-2-ylamino)-1H-1,3,5-triazin-2-one",
+    "CanonicalSMILES": "CCNC1=NC(=O)NC(=N1)NC(C)C",
+    "Synonyms": [
+        "Hydroxyatrazine",
+        "2-Hydroxyatrazine",
+        "Atrazine-2-hydroxy",
+        "2163-68-0",
+        "Hydroxy Atrazine",
+        "hydroxydechloroatrazine",
+        "4-(Ethylamino)-2-hydroxy-6-(isopropylamino)-1,3,5-triazine",
+        "4-(ethylamino)-6-(isopropylamino)-s-triazin-2-ol",
+        "4-ethylamino-6-isopropylamino-1,3,5-triazin-2-ol",
+        "4-(ethylamino)-6-(isopropylamino)-1,3,5-triazin-2-ol",
+        "D9Y04ELA63",
+        "2-hydroxy-4-(ethylamino)-6-(isopropylamino)-s-triazine",
+        "2-(ethylamino)-6-(propan-2-ylamino)-1H-1,3,5-triazin-4-one",
+        "4-(ethylamino)-6-[(propan-2-yl)amino]-1,3,5-triazin-2-ol",
+        "4-(Ethylamino)-6-((1-methylethyl)amino)-1,3,5-triazin-2(1H)-one"
+    ],
+    "IsomericSMILES": "CCNC1=NC(=O)NC(=N1)NC(C)C",
+    "INCHI": "InChI=1S/C8H15N5O/c1-4-9-6-11-7(10-5(2)3)13-8(14)12-6/h5H,4H2,1-3H3,(H3,9,10,11,12,13,14)",
+    "INCHIKEY": "NFMIMWNQWAWNDW-UHFFFAOYSA-N",
+    "Formula": "C8H15N5O",
+    "MolecularWeight": {
+        "$numberDouble": "197.24"
+    },
+    "Description": "4-ethylamino-6-isopropylamino-1,3,5-triazin-2-ol is a monohydroxy-1,3,5-triazine that is atrazine in which the chloro group has been replaced by a hydroxy group. It has a role as a human xenobiotic metabolite and a marine xenobiotic metabolite. It is a diamino-1,3,5-triazine and a monohydroxy-1,3,5-triazine. It is functionally related to an atrazine.",
+    "XlogP": {
+        "$numberDouble": "0.1"
+    },
+    "Complexity": {
+        "$numberInt": "282"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Barley plants were exposed to six herbicides and a systemic fungicide (four triazines, diuron, 2,4-dichlorophenoxyacetic acid (2,4-D), and ethirimol). The relationships between uptake and transpiration rate were discussed in the light of the physico-chemical properties of these compounds, notably their partition coefficients in oil/water systems and their dissociation constants. Apart from 2,4-D, sorption of these compounds appears to be a passive process. At pH 4, the uptake of 2,4-D seems to be influenced by metabolism; not only may the concentration of this compound in the transpiration stream be considerably greater than that in the medium surrounding the roots, but absorption by roots is markedly reduced at low temperatures and by sodium azide. The initial rate of uptake of these compounds correlates reasonably well with their partition coefficients in olive oil/water or ra-dodecane/water systems; likewise, the concentration in the transpiration stream is greater for lipophilic than for lipophobic substances. The hydrogen ion and calcium concentrations of the ambient medium appear to have no effect on the uptake of compounds with low pK's, but the uptake of those substances which protonate between pH 4 and pH 6 is affected by them. These findings are discussed from the viewpoint that the pathways of transport of lipophilic and lipophobic compounds across the roots may differ.",
+            "reference": "Shone, M. G. T., & WOOD, A. V. (1974). A comparison of the uptake and translocation of some organic herbicides and a systemic fungicide by barley: I. Absorption in eelation to physico-chemical properties. Journal of experimental botany, 25(2), 390-400.",
+            "method": {
+                "Test Plant": "One-week-old barley plants (Hordeum vulgare var. Proctor)",
+                "Apply Location": "-",
+                "Plant Growth Condition": "Solution culture conditions not explicitly described. Previous methods referenced (Shone and Wood, 1972a).",
+                "Chemical Preparation": "Simazine, atrazine (ring-14C labeled), atratone (prepared from atrazine), hydroxyatrazine (prepared from atrazine method of Castelfranco et al. 1961), diuron (14C-carbonyl labeled), ethirimol (ring-14C labeled), 2,4-D (side chain-14C labeled, diluted to 5-25 \u03bcCi/mg). Concentrations ~10^-6 M or 5x10^-7 M in solution.",
+                "Pesticide Application Details for the Plant": "The compounds were applied to the barley plants in solution, with concentrations ranging from 0.1 to 0.2 parts per million (ppm) or approximately 10^-6 to 5x10^-7 M, unless otherwise specified.",
+                "Other Information": "24 hour absorption period"
+            },
+            "result": "[{\"PH\": 6.5, \"Transpiration Stream Concentration Factor (TSCF)\": 0.09, \" Root Concentration Factor (RCF)\": 0.661}, {\"PH\": 4.0, \"Transpiration Stream Concentration Factor (TSCF)\": 0.191, \" Root Concentration Factor (RCF)\": 0.879}]"
+        }
+    ]
+}

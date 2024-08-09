@@ -1,0 +1,66 @@
+{
+    "_id": {
+        "$oid": "66927100303528b49832d785"
+    },
+    "CID": {
+        "$numberInt": "5360962"
+    },
+    "Name": "3-(Methylthio)-2-butanone O-(methylcarbamoyl)oxime",
+    "IUPACName": "[(E)-3-methylsulfanylbutan-2-ylideneamino] N-methylcarbamate",
+    "CanonicalSMILES": "CC(C(=NOC(=O)NC)C)SC",
+    "Synonyms": [
+        "BUTOCARBOXIM",
+        "34681-10-2",
+        "3-(Methylthio)-2-butanone O-(methylcarbamoyl)oxime",
+        "2-Butanone",
+        "3-(methylthio)-",
+        "O-(N-methylcarbamoyl)oxime",
+        "3-(Methylthio)-2-butanone O-((methylamino)carbonyl)oxime",
+        "[(E)-3-methylsulfanylbutan-2-ylideneamino] N-methylcarbamate",
+        "2-(([(Methylamino)carbonyl]oxy)imino)-3-(methylsulfanyl)butane",
+        "SCHEMBL119869",
+        "SFNPDDSJBGRXLW-WEVVVXLNSA-N",
+        "AKOS006282747",
+        "AKOS040744522",
+        "NS00009331",
+        "C18645",
+        "Butocarboxim",
+        "PESTANAL(R)",
+        "analytical standard",
+        "J-019707"
+    ],
+    "IsomericSMILES": "CC(/C(=N/OC(=O)NC)/C)SC",
+    "INCHI": "InChI=1S/C7H14N2O2S/c1-5(6(2)12-4)9-11-7(10)8-3/h6H,1-4H3,(H,8,10)/b9-5+",
+    "INCHIKEY": "SFNPDDSJBGRXLW-WEVVVXLNSA-N",
+    "Formula": "C7H14N2O2S",
+    "MolecularWeight": {
+        "$numberDouble": "190.27"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "1.2"
+    },
+    "Complexity": {
+        "$numberInt": "182"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The isomeric systemic carbamoyloximes, aldicarb, and butocarboxim, were used in young peach and plum groves at different dose rates to control the green leafhopper Asymmetrasca decedem Paoli. The effectiveness of the treatments was evaluated by measuring shoot growth rate and assessing adult leafhopper mortality. In the laboratory, leafhoppers collected from the field were placed on detached peach leaves for 24 hours. Residues of the insecticides and their sulphoxide and sulphone metabolites were analyzed in the peach tree leaves 18 and 31 days after treatment. Only the sulphoxide and sulphone metabolites were detected, constituting 70-80% of the toxic residues after 18 days and 50-70% after 31 days. Peach leaves treated with aldicarb had higher concentrations of these toxic metabolites and exhibited greater toxicity to leafhoppers compared to leaves treated with butocarboxim, even when the application rate was identical.",
+            "reference": "Klein, M., Aharonson, N., & Muszkat, L. (1984). Foliar residues and toxicity to green leafhoppers of the systemic insecticides aldicarb and its isomer butocarboxim in young peach and plum groves. Pesticide science, 15(5), 520-525.",
+            "method": {
+                "Test Plant": "Peach (var. Jubilee), plum (var. Sweet Elinor)",
+                "Apply Location": "Soil application around tree base (5-10 cm deep beneath drip irrigation point)",
+                "Plant Grown Condition": "2-year-old peach grove with trees ~2 m high, 1.5 m canopy diameter, spaced 3 x 4.5 m. Young peach and plum trees (varieties not specified)Heavy clay soil, pH 7.8, irrigated by drip system twice weekly",
+                "Chemical Preparation": "Butocarboxim 50% emulsifiable concentrate formulation. Aldicarb 10% granular formulation",
+                "Pesticide Application Details for the Plant": "Butocarboxim: 1.5, 3.0, 6.0, 7.5, 15.0 g ai/tree. Aldicarb: 0.75, 1.5, 2.0, 3.0 g ai/tree. 4 replicates of 3 trees each per treatment",
+                "Other information and Other Information": "Evaluated shoot/terminal growth, leaf bioassays, leaf residue analysis. Replicate details provided (4 reps of 3 trees each)"
+            },
+            "result": "[{\"Plant\": \"Peach\", \"Concentraion (g a.i. per tree)\": 7.5, \"Days after application\": 7, \"Mortality of green leafhopper\": 100}, {\"Plant\": \"Peach\", \"Concentraion (g a.i. per tree)\": 7.5, \"Days after application\": 14, \"Mortality of green leafhopper\": 100}, {\"Plant\": \"Peach\", \"Concentraion (g a.i. per tree)\": 7.5, \"Days after application\": 20, \"Mortality of green leafhopper\": 93}, {\"Plant\": \"Peach\", \"Concentraion (g a.i. per tree)\": 7.5, \"Days after application\": 35, \"Mortality of green leafhopper\": 87}, {\"Plant\": \"Peach\", \"Concentraion (g a.i. per tree)\": 7.5, \"Days after application\": 42, \"Mortality of green leafhopper\": 53}, {\"Plant\": \"Peach\", \"Concentraion (g a.i. per tree)\": 15.0, \"Days after application\": 7, \"Mortality of green leafhopper\": 100}, {\"Plant\": \"Peach\", \"Concentraion (g a.i. per tree)\": 15.0, \"Days after application\": 14, \"Mortality of green leafhopper\": 100}, {\"Plant\": \"Peach\", \"Concentraion (g a.i. per tree)\": 15.0, \"Days after application\": 20, \"Mortality of green leafhopper\": 90}, {\"Plant\": \"Peach\", \"Concentraion (g a.i. per tree)\": 15.0, \"Days after application\": 35, \"Mortality of green leafhopper\": 93}, {\"Plant\": \"Peach\", \"Concentraion (g a.i. per tree)\": 15.0, \"Days after application\": 42, \"Mortality of green leafhopper\": 80}, {\"Plant\": \"Plum\", \"Concentraion (g a.i. per tree)\": 7.5, \"Days after application\": 5, \"Mortality of green leafhopper\": 87}, {\"Plant\": \"Plum\", \"Concentraion (g a.i. per tree)\": 7.5, \"Days after application\": 8, \"Mortality of green leafhopper\": 100}, {\"Plant\": \"Plum\", \"Concentraion (g a.i. per tree)\": 7.5, \"Days after application\": 18, \"Mortality of green leafhopper\": 83}, {\"Plant\": \"Plum\", \"Concentraion (g a.i. per tree)\": 7.5, \"Days after application\": 24, \"Mortality of green leafhopper\": 37}, {\"Plant\": \"Plum\", \"Concentraion (g a.i. per tree)\": 15.0, \"Days after application\": 5, \"Mortality of green leafhopper\": 90}, {\"Plant\": \"Plum\", \"Concentraion (g a.i. per tree)\": 15.0, \"Days after application\": 8, \"Mortality of green leafhopper\": 100}, {\"Plant\": \"Plum\", \"Concentraion (g a.i. per tree)\": 15.0, \"Days after application\": 18, \"Mortality of green leafhopper\": 63}, {\"Plant\": \"Plum\", \"Concentraion (g a.i. per tree)\": 15.0, \"Days after application\": 24, \"Mortality of green leafhopper\": 57}]"
+        }
+    ]
+}

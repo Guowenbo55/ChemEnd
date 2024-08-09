@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "669270ee303528b49832d73e"
+    },
+    "CID": {
+        "$numberInt": "91772"
+    },
+    "Name": "Tribenuron",
+    "IUPACName": "2-[[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)-methylcarbamoyl]sulfamoyl]benzoic acid",
+    "CanonicalSMILES": "CC1=NC(=NC(=N1)OC)N(C)C(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)O",
+    "Synonyms": [
+        "Tribenuron",
+        "106040-48-6",
+        "Tribenuron [ISO]",
+        "2-[[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)-methylcarbamoyl]sulfamoyl]benzoic acid",
+        "S929E7O41Q",
+        "UNII-S929E7O41Q",
+        "SCHEMBL66383",
+        "CHEBI:83571",
+        "DTXSID20147486",
+        "BQZXUHDXIARLEO-UHFFFAOYSA-N",
+        "MFCD08458464",
+        "AKOS015901091",
+        "2-{[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)(methyl)carbamoyl]sulfamoyl}benzoic acid",
+        "AC-18021",
+        "HY-136357"
+    ],
+    "IsomericSMILES": "CC1=NC(=NC(=N1)OC)N(C)C(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)O",
+    "INCHI": "InChI=1S/C14H15N5O6S/c1-8-15-12(17-13(16-8)25-3)19(2)14(22)18-26(23,24)10-7-5-4-6-9(10)11(20)21/h4-7H,1-3H3,(H,18,22)(H,20,21)",
+    "INCHIKEY": "BQZXUHDXIARLEO-UHFFFAOYSA-N",
+    "Formula": "C14H15N5O6S",
+    "MolecularWeight": {
+        "$numberDouble": "381.37"
+    },
+    "Description": "Tribenuron is an N-sulfonylurea that is N-(2-carboxybenzenesulfonyl)urea bearing additional methyl and 4-methoxy-6-methyl-1,3,5-triazin-2-yl substituents at position N3. A foliar acting, post-emergence herbicide used to control broad-leaved weeds in cereals, normally used as the methyl variant. It has a role as a herbicide. It is a N-sulfonylurea, a methoxy-1,3,5-triazine and a member of benzoic acids.",
+    "XlogP": {
+        "$numberDouble": "0.9"
+    },
+    "Complexity": {
+        "$numberInt": "624"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Experiments were conducted to study absorption, translocation, and activity of clopyralid and tribenuron in perennial sowthistle. Absorption and translocation were compared in perennial sowthistle at the rosette and bud stage over a period of 9 d. Both 14C-clopyralid and tribenuron were absorbed slowly by perennial sowthistle leaves with 60 and 30% absorption, respectively, 216 h after application. Limited movement of the absorbed 14C was observed for both herbicides with less than 28% of either herbicide exported from the treated leaf. Primary movement of 14C-herbicide within the plant was acropetal; however, no more than 18% of either herbicide was recovered in the upper shoot or buds. After 216 h, 4.4% of the applied 14C-clopyralid and 2.5% of the applied 14C-tribenuron were recovered in the roots and secondary shoots of plants at the rosette stage. Application of either herbicide to perennial sowthistle resulted in a decrease in net carbon assimilation and leaf conductance. Transpiration was reduced in rosette stage plants by both herbicides; however, transpiration in plants at the bud stage was not reduced until 216 h after treatment. Plants treated with tribenuron had lower net carbon assimilation, leaf conductance, and transpiration rates than plants treated with clopyralid. Application of clopyralid at 150 and 300 g ha-1 resulted in visual injury ratings of 65 and 95%, respectively. Tribenuron applied at 10 and 20 g ha-1 gave similar results. Dry weight accumulation was reduced at all application rates compared to untreated plants. Limited absorption and translocation along with high herbicidal activity suggests that small amounts of either herbicide are sufficient to inhibit perennial sowthistle growth.",
+            "reference": "Zollinger, R. K., Penner, D., & Kells, J. J. (1992). Absorption, translocation, and foliar activity of clopyralid and tribenuron in perennial sowthistle (Sonchus arvensis). Weed science, 40(4), 528-533.",
+            "method": {
+                "Test Plant": "Perennial sowthistle.",
+                "Apply Location": "Foliar application.",
+                "Plant Grown Condition": "Plants were at the rosette and bud growth stages during treatment.",
+                "Chemical Preparation": "Used 14C-labeled clopyralid and tribenuron, with specific details of metabolic rates observed in other studies, indicating variations in metabolism between different plant species and herbicides.",
+                "Pesticide Application Details for the Plant": "Clopyralid and tribenuron were applied to the foliage. Detailed application rates aren't specified in the provided text, but significant comparisons between absorption rates at different times post-application were discussed.",
+                "Other Information and Other Information": "Translocation patterns were both acropetal and basipetal, with most radioactivity remaining in the treated leaf. Differences in radioactivity distribution among plant parts were noted, especially between rosette and bud stages."
+            },
+            "result": "[{\"Plant\": \"Rosette\", \"Hours after application\": 216, \"Leaf wash (% of applied)\": 51.3, \"Treated leaf (%)\": 24.2, \"Upper shoot (%)\": 5.2, \"Buds (%)\": \"-\", \"Lower Shoot (%)\": 4.8, \"Root section (%)\": 0.6, \"Fibrous roots (%)\": 0.9, \"Thickened roots (%)\": 0.7, \"Secondary shoots (%)\": 0.3}, {\"Plant\": \"Bud\", \"Hours after application\": 216, \"Leaf wash (% of applied)\": 54.5, \"Treated leaf (%)\": 11.9, \"Upper shoot (%)\": 9.8, \"Buds (%)\": \"0.3\", \"Lower Shoot (%)\": 6.4, \"Root section (%)\": 0.5, \"Fibrous roots (%)\": 1.1, \"Thickened roots (%)\": 0.7, \"Secondary shoots (%)\": 0.1}]"
+        }
+    ]
+}

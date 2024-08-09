@@ -1,0 +1,63 @@
+{
+    "_id": {
+        "$oid": "6682e99dc4e5dba5ffba2b84"
+    },
+    "CID": {
+        "$numberInt": "456190"
+    },
+    "Name": "BLEOMYCIN",
+    "IUPACName": "3-[[2-[2-[2-[[(2S,3R)-2-[[(2S,3S,4R)-4-[[(2S)-2-[[6-amino-2-[(1S)-3-amino-1-[[(2S)-2,3-diamino-3-oxopropyl]amino]-3-oxopropyl]-5-methylpyrimidine-4-carbonyl]amino]-3-[(2R,3S,4S,5S,6S)-3-[(2R,3S,4S,5R,6R)-4-carbamoyloxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-4,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-3-(1H-imidazol-5-yl)propanoyl]amino]-3-hydroxy-2-methylpentanoyl]amino]-3-hydroxybutanoyl]amino]ethyl]-1,3-thiazol-4-yl]-1,3-thiazole-4-carbonyl]amino]propyl-dimethylsulfanium",
+    "CanonicalSMILES": "CC1=C(N=C(N=C1N)C(CC(=O)N)NCC(C(=O)N)N)C(=O)NC(C(C2=CN=CN2)OC3C(C(C(C(O3)CO)O)O)OC4C(C(C(C(O4)CO)O)OC(=O)N)O)C(=O)NC(C)C(C(C)C(=O)NC(C(C)O)C(=O)NCCC5=NC(=CS5)C6=NC(=CS6)C(=O)NCCC[S+](C)C)O",
+    "Synonyms": [
+        "bleomycin",
+        "Bleocin",
+        "Blenoxane",
+        "bleomycin a2",
+        "11056-06-7",
+        "Zhengguangmycin A2",
+        "Bleomycin A2 & Bleomycin B2.",
+        "Bleomycin chloride",
+        "Pingyangmyvin A2",
+        "NSC125066",
+        "SCHEMBL2385791",
+        "GLXC-21094",
+        "67763-87-5"
+    ],
+    "IsomericSMILES": "CC1=C(N=C(N=C1N)[C@H](CC(=O)N)NC[C@@H](C(=O)N)N)C(=O)N[C@@H](C(C2=CN=CN2)O[C@H]3[C@H]([C@H]([C@@H]([C@@H](O3)CO)O)O)O[C@@H]4[C@H]([C@H]([C@@H]([C@H](O4)CO)O)OC(=O)N)O)C(=O)N[C@H](C)[C@H]([C@H](C)C(=O)N[C@@H]([C@@H](C)O)C(=O)NCCC5=NC(=CS5)C6=NC(=CS6)C(=O)NCCC[S+](C)C)O",
+    "INCHI": "InChI=1S/C55H83N17O21S3/c1-20-33(69-46(72-44(20)58)25(12-31(57)76)64-13-24(56)45(59)82)50(86)71-35(41(26-14-61-19-65-26)91-54-43(39(80)37(78)29(15-73)90-54)92-53-40(81)42(93-55(60)88)38(79)30(16-74)89-53)51(87)66-22(3)36(77)21(2)47(83)70-34(23(4)75)49(85)63-10-8-32-67-28(18-94-32)52-68-27(17-95-52)48(84)62-9-7-11-96(5)6/h14,17-19,21-25,29-30,34-43,53-54,64,73-75,77-81H,7-13,15-16,56H2,1-6H3,(H13-,57,58,59,60,61,62,63,65,66,69,70,71,72,76,82,83,84,85,86,87,88)/p+1/t21-,22+,23+,24-,25-,29-,30+,34-,35-,36-,37+,38+,39-,40-,41?,42-,43-,53+,54-/m0/s1",
+    "INCHIKEY": "OYVAGSVQBOHSSS-QRQYLRPSSA-O",
+    "Formula": "C55H84N17O21S3+",
+    "MolecularWeight": {
+        "$numberDouble": "1415.6"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "-7.5"
+    },
+    "Complexity": {
+        "$numberInt": "2580"
+    },
+    "Charge": {
+        "$numberInt": "1"
+    },
+    "mechanism_of_action": [
+        {
+            "References": "Gilman, A.G., T.W. Rall, A.S. Nies and P. Taylor (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 8th ed. New York, NY. Pergamon Press, 1990., p. 1244",
+            "Value": "Cytotoxic action of bleomycins results from their ability to cause fragmentation of DNA. Studies in vitro indicate that bleomycin causes accumulation of cells in the G2 phase of the cell cycle, and many of these cells display chromosomal aberrations, incl chromatid breaks, gaps, and fragments, as well as translocations. Bleomycin appears to cause scission of DNA by interacting with oxygen and iron(2+). In the presence of oxygen and a reducing agent, such as dithiothreitol, the metallobleomycin complex becomes activated and functions mechanistically as a ferrous oxidase, transferring electrons from iron(2) to molecular oxygen to produce activated species of oxygen. It has also been shown that metallobleomycin complexes can be activated by reaction with the flavin enzyme, NADPH-cytochrome p450 reductase. Bleomycin binds to DNA through its amino terminal peptide, and the activated complex generates free radicals that are responsible for scission of the DNA chain."
+        },
+        {
+            "References": "American Society of Health System Pharmacists. AHFS Drug   Information 2008. Bethesda, Maryland 2008, p. 947",
+            "Value": "Bleomycin is an antineoplastic antibiotic. The drug is active against gram-positive and gram-negative bacteria and fungi, but its cytotoxicity precludes its use as an anti-infective agent. The precise mechanism(s) of action of bleomycin is not fully known. Several studies in Escherichia coli and HeLa cells suggest that the drug inhibits the incorporation of thymidine into DNA. In these in vitro studies, DNA synthesis was inhibited to a greater extent than was RNA or protein synthesis. Bleomycin also appears to labilize the DNA structure, resulting in scission of both single- and double-stranded DNA. The drug has no immunosuppressive activity in mice."
+        },
+        {
+            "References": "Thomson/Micromedex. Drug Information for the Health Care  Professional. Volume 1,  Greenwood Village, CO. 2007., p. 580",
+            "Value": "Bleomycin is classed as an antibiotic but is not used as an antimicrobial agent. Although bleomycin is effective against both cycling and non-cycling cells, it seems to be most effective in the G2 phase of cell division. Its exact mechanism of antineoplastic action is unknown but may involve binding to DNA, inducing lability of the DNA structure, and reduced synthesis of DNA, and to a lesser extent RNA and ptoteins."
+        },
+        {
+            "References": "US Natl Inst Health; DailyMed. Current Medication Information. Bleomycin (03/2007). Available from, as of July 5, 2008: https://dailymed.nlm.nih.gov/dailymed/about.cfm",
+            "Value": "When administered into the pleural cavity in the treatment of malignant pleural effusion, /bleomycin/ acts as a sclerosing agent."
+        }
+    ]
+}

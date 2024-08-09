@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "66927118303528b49832d7e5"
+    },
+    "CID": {
+        "$numberInt": "38854"
+    },
+    "Name": "Metamitron",
+    "IUPACName": "4-amino-3-methyl-6-phenyl-1,2,4-triazin-5-one",
+    "CanonicalSMILES": "CC1=NN=C(C(=O)N1N)C2=CC=CC=C2",
+    "Synonyms": [
+        "METAMITRON",
+        "41394-05-2",
+        "Goltix",
+        "4-Amino-3-methyl-6-phenyl-1,2,4-triazin-5-one",
+        "4-Amino-3-methyl-6-phenyl-1,2,4-triazin-5(4H)-one",
+        "Herbrak",
+        "Metamiton",
+        "1,2,4-Triazin-5(4H)-one",
+        "4-amino-3-methyl-6-phenyl-",
+        "Metamitron [German]",
+        "Methiamitron",
+        "DRW 1139",
+        "BAY-DRW 1139",
+        "4-Amino-4,5-dihydro-3-methyl-6-phenyl-1,2,4-triazin-5-one",
+        "H69RGO1QO6",
+        "as-Triazin-5(4H)-one",
+        "4-amino-3-methyl-6-phenyl-"
+    ],
+    "IsomericSMILES": "CC1=NN=C(C(=O)N1N)C2=CC=CC=C2",
+    "INCHI": "InChI=1S/C10H10N4O/c1-7-12-13-9(10(15)14(7)11)8-5-3-2-4-6-8/h2-6H,11H2,1H3",
+    "INCHIKEY": "VHCNQEUWZYOAEV-UHFFFAOYSA-N",
+    "Formula": "C10H10N4O",
+    "MolecularWeight": {
+        "$numberDouble": "202.21"
+    },
+    "Description": "Metamitron is a member of the class of 1,2,4-triazines that is 1,2,4-triazin-5(4H)-one substituted by an amino group at position 4, a methyl group at position 3 and a phenyl group at position 6. It has a role as an environmental contaminant, a xenobiotic and a herbicide.",
+    "XlogP": {
+        "$numberDouble": "0.7"
+    },
+    "Complexity": {
+        "$numberInt": "328"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "In recent years, common lambsquarters (Chenopodium album L.) populations from sugar beet fields in different European countries have shown resistance to the as-triazinone metamitron, with the same D1 point mutation (Ser264 to Gly) as atrazine-resistant biotypes. However, pot experiments have indicated that metamitron resistance is not as straightforward as observed with triazine resistance in the past. This study aimed to clarify the absorption, translocation, and metabolic fate of metamitron in C. album. Results from root absorption and foliar absorption experiments showed minor differences in absorption, translocation, and metabolism of metamitron between susceptible and resistant C. album populations. Rapid metabolism of metamitron was observed in C. album populations when absorbed by the roots. The primary products of metamitron metabolism were identified as deamino-metamitron and metamitron-N-glucoside. PABA, known to inhibit the deamination of metribuzin, did not alter the metabolism of metamitron, nor did the cytochrome P450 inhibitor PBO. However, the presence of the cytochrome P450 inhibitor ABT demonstrated inhibition of metamitron metabolism.",
+            "reference": "Aper, J., Mechant, E., Rubin, B., Heyerick, A., Callebaut, G., Mangelinckx, S., ... & Reheul, D. (2012). Absorption, translocation and metabolism of metamitron in Chenopodium album. Pest management science, 68(2), 209-216.",
+            "method": {
+                "Test Plant": "Chenopodium album (C. album) and sugar beet variety 'Coyote' (SB)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Plants were grown in a growth chamber with a 12h day/12h night regime.",
+                "Chemical Preparation": "Metamitorn (Goltix SC, 700 g/L; Goltix WG, 70%), technical metamitorn (98%), ring-U-[14C]-labelled metamitorn (0.20 GBq mmol\u22121, 99.3% radiochemically pure), and ring-U-[14C]-labelled deamino-metamitorn (0.20 GBq mmol\u22121, 99.6% radiochemically pure) were used.",
+                "Pesticide Application Details for the Plant": "Each leaf of the second pair of true leaves was treated with two drops (1 \u03bcL) containing 3.41 \u00b1 0.29 \u03bcM of [14C]metamitorn (+2.5% oil, v/v) in experiment MR3 and 1.99 \u00b1 0.49 \u03bcM of [14C]metamitorn (+2.5% oil, v/v) in experiment MR4.",
+                "Other Information": "The experiment was conducted with 20 plants per population, and plants were harvested and sectioned into shoot above treated leaf, treated leaves, shoot below treated leaf, and roots at different time intervals (4, 8, 12, and 24 HAT in experiment MR3 and 12, 24, 48, and 96 HAT in experiment MR4)."
+            },
+            "result": "[{\"Biotype\": \"Atrazine-resistant\", \"Wash (% of absorbed)\": 7.7, \"Roots (%)\": 0.03, \"Below treated leaves (%)\": 1.76, \"Treated leaves (%)\": 83.0, \"Above treated leaves (%)\": 7.5}, {\"Biotype\": \"Metamitron-resistant\", \"Wash (% of absorbed)\": 5.4, \"Roots (%)\": 0.02, \"Below treated leaves (%)\": 0.54, \"Treated leaves (%)\": 91.6, \"Above treated leaves (%)\": 2.5}, {\"Biotype\": \"Susceptible\", \"Wash (% of absorbed)\": 5.5, \"Roots (%)\": 0.02, \"Below treated leaves (%)\": 2.01, \"Treated leaves (%)\": 88.7, \"Above treated leaves (%)\": 3.7}, {\"Biotype\": \"Sugar beet\", \"Wash (% of absorbed)\": 1.4, \"Roots (%)\": 0.73, \"Below treated leaves (%)\": 0.74, \"Treated leaves (%)\": 96.8, \"Above treated leaves (%)\": 0.3}]"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "_id": {
+        "$oid": "6682e995c4e5dba5ffba2b59"
+    },
+    "CID": {
+        "$numberInt": "213021"
+    },
+    "Name": "Acetamiprid",
+    "IUPACName": "N-[(6-chloropyridin-3-yl)methyl]-N'-cyano-N-methylethanimidamide",
+    "CanonicalSMILES": "CC(=NC#N)N(C)CC1=CN=C(C=C1)Cl",
+    "Synonyms": [
+        "Acetamiprid",
+        "135410-20-7",
+        "160430-64-8",
+        "Mospilan",
+        "Intruder",
+        "Assail",
+        "Piorun",
+        "Stonkat",
+        "Prize",
+        "Acetamiprid [ISO]",
+        "\"(E)-N-((6-Chloropyridin-3-yl)methyl)-N-cyano-N-methylacetimidamide\"",
+        "(E)-acetamiprid",
+        "\"N-[(6-chloropyridin-3-yl)methyl]-N-cyano-N-methylethanimidamide\"",
+        "NI 25",
+        "NI-25"
+    ],
+    "IsomericSMILES": "CC(=NC#N)N(C)CC1=CN=C(C=C1)Cl",
+    "INCHI": "InChI=1S/C10H11ClN4/c1-8(14-7-12)15(2)6-9-3-4-10(11)13-5-9/h3-5H,6H2,1-2H3",
+    "INCHIKEY": "WCXDHFDTOYPNIE-UHFFFAOYSA-N",
+    "Formula": "C10H11ClN4",
+    "MolecularWeight": {
+        "$numberDouble": "222.67"
+    },
+    "Description": "Acetamiprid is a carboxamidine that is acetamidine in which the amino hydrogens are substituted by a (6-chloropyridin-3-yl)methyl and a methyl group while the hydrogen attached to the imino nitrogen is replaced by a cyano group. It has a role as a neonicotinoid insectide, an environmental contaminant and a xenobiotic. It is a monochloropyridine, a nitrile and a carboxamidine. It is functionally related to a 2-chloropyridine.",
+    "XlogP": {
+        "$numberDouble": "1.4"
+    },
+    "Complexity": {
+        "$numberInt": "280"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "PMID:27960287",
+            "Value": "The half-life of acetamiprid in cotton leaves grown from treated seeds is about 3 days(1)."
+        }
+    ],
+    "animal_concentrations": [
+        {
+            "References": "PMID:28376431",
+            "Value": "Acetamiprid was not detected (quantification limit 2-10 ng/mL) in blood samples from 30 nestlings of Eurasian eagle owl (Bubo Bubo) in Spain(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "Acetamiprid (ACE) and cyromazine (CYR) are the two pesticides that are used relatively frequently and in large quantities in cowpea growing areas in Hainan. The uptake, translocation and metabolic patterns and subcellular distribution of these two pesticides in cowpea are important factors affecting pesticide residues in cowpea and assessing the dietary safety of cowpea. In this study, we investigated the uptake, translocation, subcellular distribution, and metabolic pathway of ACE and CYR in cowpea under laboratory hydroponic conditions. The distribution trends of both ACE and CYR in cowpea plants were leaves > stems > roots. The distribution of both pesticides in subcellular tissues of cowpea was cell soluble fraction > cell wall > cell organelle, and both transport modes were passive. A multiplicity of metabolic reactions of both pesticides occurred in cowpea, including dealkylation, hydroxylation and methylation. The results of the dietary risk assessment indicate that ACE is safe for use in cowpeas, but CYR poses an acute dietary risk to infants and young children. This study provided a basis for insights into the transport and distribution of ACE and CYR in vegetables and contributes to the assessment of whether pesticide residues in vegetables could pose a potential threat to human health at high concentrations of pesticides in the environment.",
+            "reference": "Zhang, S., Zhang, Y., Ren, S., Lu, H., Li, J., Liang, X., ... & Zhang, C. (2023). Uptake, translocation and metabolism of acetamiprid and cyromazine by cowpea (Vigna unguiculata L.). Environmental Pollution, 331, 121839.",
+            "method": {
+                "Test Plant": "Cowpea (Vigna unguiculata).",
+                "Apply Location": "Root application.",
+                "Plant Grown Condition": "Cowpea seeds were germinated and grown in an incubator at 25\u00b0C with a 16-hour light period per day. They were nurtured in a nursery basin containing 15 L of nutrient solution with a pH of 6.5, refreshed every 3 days. The incubation chamber maintained a day/night temperature of 25/20 \u00b0C and 70% relative humidity.",
+                "Chemical Preparation": "ACE being 98.6% pure. Other chemicals included acetonitrile and methanol of HPLC grade from Sigma-Aldrich, China.",
+                "Pesticide Application Details for the Plant": "Root adsorption studies used varying concentrations of ACE and CYR (0.1, 0.5, 1, 5, and 10 mg/L) to analyze pesticide absorption pathways in cowpea roots, following methods by Ju et al. (2020b).",
+                "Other Information and Other Information": "Studies also investigated the role of energy metabolism and aquaporins in pesticide uptake using NaN3 and AgNO3 as agents affecting oxidative phosphorylation and aquaporin development, respectively."
+            },
+            "result": "[{\"Hours after application\": 12, \"Leaf (mg/kg)\": 5.82, \"Steam (mg/kg)\": 2.16, \"Root (mg/kg)\": 12.08}, {\"Hours after application\": 24, \"Leaf (mg/kg)\": 8.55, \"Steam (mg/kg)\": 9.92, \"Root (mg/kg)\": 12.57}, {\"Hours after application\": 48, \"Leaf (mg/kg)\": 14.33, \"Steam (mg/kg)\": 10.94, \"Root (mg/kg)\": 12.88}, {\"Hours after application\": 72, \"Leaf (mg/kg)\": 21.04, \"Steam (mg/kg)\": 14.95, \"Root (mg/kg)\": 12.39}, {\"Hours after application\": 91, \"Leaf (mg/kg)\": 24.7, \"Steam (mg/kg)\": 14.82, \"Root (mg/kg)\": 12.48}, {\"Hours after application\": 120, \"Leaf (mg/kg)\": 25.27, \"Steam (mg/kg)\": 15.26, \"Root (mg/kg)\": 12.97}, {\"Hours after application\": 144, \"Leaf (mg/kg)\": 25.5, \"Steam (mg/kg)\": 15.08, \"Root (mg/kg)\": 12.79}, {\"Hours after application\": 168, \"Leaf (mg/kg)\": 25.41, \"Steam (mg/kg)\": 14.82, \"Root (mg/kg)\": 12.61}]"
+        },
+        {
+            "content": "Acetamiprid (ACE) and cyromazine (CYR) are the two pesticides that are used relatively frequently and in large quantities in cowpea growing areas in Hainan. The uptake, translocation and metabolic patterns and subcellular distribution of these two pesticides in cowpea are important factors affecting pesticide residues in cowpea and assessing the dietary safety of cowpea. In this study, we investigated the uptake, translocation, subcellular distribution, and metabolic pathway of ACE and CYR in cowpea under laboratory hydroponic conditions. The distribution trends of both ACE and CYR in cowpea plants were leaves >stems >roots. The distribution of both pesticides in subcellular tissues of cowpea was cell soluble fraction >cell wall >cell organelle, and both transport modes were passive. A multiplicity of metabolic reactions of both pesticides occurred in cowpea, including dealkylation, hydroxylation and methylation. The results of the dietary risk assessment indicate that ACE is safe for use in cowpeas, but CYR poses an acute dietary risk to infants and young children. This study provided a basis for insights into the transport and distribution of ACE and CYR in vegetables and contributes to the assessment of whether pesticide residues in vegetables could pose a potential threat to human health at high concentrations of pesticides in the environment.",
+            "reference": "Zhang, S., Zhang, Y., Ren, S., Lu, H., Li, J., Liang, X., ... & Zhang, C. (2023). Uptake, translocation and metabolism of acetamiprid and cyromazine by cowpea (Vigna unguiculata L.). Environmental Pollution, 331, 121839.",
+            "method": {
+                "Test Plant": "Cowpea (Vigna unguiculata) seeds",
+                "Apply Location": "Hydroponic application",
+                "Plant Grown Condition": "Incubator at 25\u00b0C with 16 hours of light per day, day and night temperatures of 25\u00b0C and 20\u00b0C, respectively, and 70% relative humidity",
+                "Chemical Preparation": "Acetamiprid (ACE) and cyromazine (CYR) were used. ACE had a molecular weight of 222.68 g/mol, log Kow of 0.8, and water solubility of 2950 mg/L at 20\u00b0C. CYR had a molecular weight of 166.18 g/mol, log Kow of 0.069, and water solubility of 13,000 mg/L at 20\u00b0C.",
+                "Pesticide Application Details for the Plant": "Nominal concentration of ACE and CYR in the exposure solution was 20 mg/L. The hydroponic cultivation containers were covered with aluminum foil to prevent algal growth and nutrient solution evaporation. Nutrient solution was refreshed every 3 days.",
+                "Other Information": "At least 300 cowpea plants were replicated at a time, and each treatment was repeated three times. Samples of seedling roots, stems, and leaves were taken at 6, 12, 24, 48, 72, 96, 120, 144, and 168 hours after exposure. The bioconcentration factor (BCF) and translocation factor (TF) of both pesticides in cowpea roots, stems, and leaves were calculated. Dietary risk assessment methods posed by acetamiprid and cyromazine were performed according to the method of Fu et al. (2020a)."
+            },
+            "result": "[{\"Time after application\": \"6 hours\", \"TF leaves/stems\": 1.335, \"TF stems/roots\": 0.311}, {\"Time after application\": \"12 hours\", \"TF leaves/stems\": 1.204, \"TF stems/roots\": 0.557}, {\"Time after application\": \"24 hours\", \"TF leaves/stems\": 1.041, \"TF stems/roots\": 0.741}, {\"Time after application\": \"48 hours\", \"TF leaves/stems\": 1.396, \"TF stems/roots\": 0.777}, {\"Time after application\": \"72 hours\", \"TF leaves/stems\": 1.555, \"TF stems/roots\": 1.074}, {\"Time after application\": \"96 hours\", \"TF leaves/stems\": 1.671, \"TF stems/roots\": 1.034}, {\"Time after application\": \"120 hours\", \"TF leaves/stems\": 1.653, \"TF stems/roots\": 1.078}, {\"Time after application\": \"144 hours\", \"TF leaves/stems\": 1.7, \"TF stems/roots\": 1.092}, {\"Time after application\": \"168 hours\", \"TF leaves/stems\": 1.704, \"TF stems/roots\": 1.005}]"
+        },
+        {
+            "content": "A laboratory study was undertaken to investigate the leaf systemic properties and the translaminar aphicidal activity of two commercialised neonicotinoid (chloronicotinyl) insecticides. For that purpose [14C]imidacloprid was subjected to uptake and translocation studies in cabbage and cotton after foliar application. Foliar penetration and short-term translocation patterns of imidacloprid were similar in both plant species. Nevertheless imidacloprid penetrated twice as much into cabbage leaves as it did into cotton leaves. It showed a comparable translaminar behaviour and was entirely translocated acropetally, indicating its well-known xylem mobility. The translaminar and acropetal movement of imidacloprid and acetamiprid were quantified by simple laboratory bioassays using the green peach aphid, Myzus persicae (Sulzer), and the cotton aphid, Aphis gossypii (Glover), as typical homopteran pests for cabbage and cotton, respectively. A single dose (7.5 micrograms AI per leaf) applied to the upper leaf surface of cabbage and cotton was tested against aphids feeding on the lower leaf surface both close to and distant from the site of application 1, 5 and 12 days after treatment. The translaminar residual activity of imidacloprid on cabbage leaves was superior to that of acetamiprid, whereas its translaminar efficacy against A gossypii on cotton was inferior to that of acetamiprid. However, oral ingestion bioassays using an artificial double membrane feeding system revealed no significant differences in intrinsic activity between the two neonicotinoids tested.",
+            "reference": "Buchholz, A., & Nauen, R. (2002). Translocation and translaminar bioavailability of two neonicotinoid insecticides after foliar application to cabbage and cotton. Pest Management Science: Formerly Pesticide Science, 58(1), 10-16.",
+            "method": {
+                "Test Plant": "Cabbage and Cotton",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Savoy cabbage, Brassica oleracea sabauda Lcv 'Fischenicher Advent', and cotton, Gossypium hirsutum L cvStoneville 474\u2019,were cultivated under greenhouseconditions at 22'C and 65% RH under a 16:8 hlight:dark photoperiod and were artifcially illuminated by sodium vapour lamps (400W) if ambient light intensity dropped below 35000 lux(630\u03bcE m**-2 S**-1). The plants were watered daily by a special feece irrigation technique. Plants with two nearly fully expanded true leaves and a third true leaf having aquarter of its final size were used for the translocation experiments and the systemic bioassay.",
+                "Chemical Preparation": "Radiolabelled (4.64 MBq/mg ) was of analytical grade (purity>99%). Unlabelled imidacloprid and acetamiprid were obtained in-house and of highest purity available, ie at least 97%.",
+                "Pesticide Application Details for the Plant": "Spared on the upper side (three droplets of 5 ul, each containing 2.5\u03bcg Al).Translaminar efficacy determined from the mortality (\u00b1SD) of aphids feeding close to the application sites, and 'acropetal' efficacy from the mortality (\u00b1SD) of aphids feeding distant from the application sites.  The water of the applied droplets evaporated within 1 hour of application.",
+                "Other Information": "Three repliactes"
+            },
+            "result": "[{\"Plant\": \"Cabbage\", \"Time after application\": \"1 day\", \"Mortality of Aphids Close to Application Sites (%)\": 100, \"Mortality of Aphids Distant to Application Sites (%)\": 100}, {\"Plant\": \"Cabbage\", \"Time after application\": \"5 days\", \"Mortality of Aphids Close to Application Sites (%)\": 70, \"Mortality of Aphids Distant to Application Sites (%)\": 78}, {\"Plant\": \"Cabbage\", \"Time after application\": \"12 days\", \"Mortality of Aphids Close to Application Sites (%)\": 38, \"Mortality of Aphids Distant to Application Sites (%)\": 45}, {\"Plant\": \"Cotton\", \"Time after application\": \"1 day\", \"Mortality of Aphids Close to Application Sites (%)\": 100, \"Mortality of Aphids Distant to Application Sites (%)\": 100}, {\"Plant\": \"Cotton\", \"Time after application\": \"5 days\", \"Mortality of Aphids Close to Application Sites (%)\": 90, \"Mortality of Aphids Distant to Application Sites (%)\": 43}, {\"Plant\": \"Cotton\", \"Time after application\": \"12 days\", \"Mortality of Aphids Close to Application Sites (%)\": 82, \"Mortality of Aphids Distant to Application Sites (%)\": 30}]"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "_id": {
+        "$oid": "6682e892c4e5dba5ffba2641"
+    },
+    "CID": {
+        "$numberInt": "7844"
+    },
+    "Name": "1-Butene",
+    "IUPACName": "but-1-ene",
+    "CanonicalSMILES": "CCC=C",
+    "Synonyms": [
+        "1-BUTENE",
+        "But-1-ene",
+        "Ethylethylene",
+        "106-98-9",
+        "BUTENE",
+        "1-Butylene",
+        "Butene-1",
+        "alpha-Butylene",
+        "alpha-Butene",
+        "9003-28-5",
+        "1-C4H8",
+        "CCRIS 8970",
+        "HSDB 179",
+        "25167-67-3",
+        ".alpha.-Butene"
+    ],
+    "IsomericSMILES": "CCC=C",
+    "INCHI": "InChI=1S/C4H8/c1-3-4-2/h3H,1,4H2,2H3",
+    "INCHIKEY": "VXNZUUAINFGPBY-UHFFFAOYSA-N",
+    "Formula": "C4H8",
+    "MolecularWeight": {
+        "$numberDouble": "56.11"
+    },
+    "Description": "But-1-ene is a butene with unsaturation at position 1.",
+    "XlogP": {
+        "$numberDouble": "2.4"
+    },
+    "Complexity": {
+        "$numberInt": "14"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Fuentes JD et al; J Atmos Chem 25: 67-95 (1996)",
+            "Value": "Experiments were conducted in 1993 to monitor the hydrocarbon emissions from a mixed deciduous forest approximately 80 km northwest of Toronto, Canada(1). 1-Butene was the fourth most abundantly measured hydrocarbon above the Borden forest from April 29-June 3, 1993(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, And Steric Constants. ACS Professional Reference Book. Washington, DC: American Chemical Society p. 9 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Dec 20, 2017: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 18 was calculated in fish for 1-butene(SRC), using a log Kow of 2.40(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Dec 18, 2017: https://www.safe.nite.go.jp/english/db.html",
+            "Value": "AEROBIC: 1-Butene, present at 2.64 mg/L, reached 3% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 1 drop/L in the Japanese MITI test(1), suggesting that 1-butene is not readily biodegradable."
+        },
+        {
+            "References": "(1) Jones KC, ed; Organic Contaminants in the Environment. New York, NY: Elsevier Science pp. 329 (1991) (2) DeBont JAM et al; FEMS Microbiol Lett 6: 183-8 (1979) (3) Hou CT et al; App Environ Microbiol 38: 127-34 (1979) (4) Patel RW et al; Rev Ind Microbiol 23: 187-205 (1982) (5) May SW et al; Biochim Biophys Acta 403: 245-55 (1975) (6) Hou CT et al; App Environ Microbiol 46: 171-7 (1983)",
+            "Value": "PURE CULTURE: Alkenes can be utilized by a wide range of microorganisms and are catabolized via several routes(1). These include the oxidation of a terminal methyl group leaving the double bond intact and resulting in unsaturated alcohol, aldehyde and fatty acid or oxidation of the double bond resulting in the formation of epoxide, diol compounds and possibly hydroxyacids(1). Cell free extracts and suspensions of microorganisms isolated from soil or water and acclimated to ethylene were found to epoxidize 1-butene to butene-1,2-epoxide(2,3). Methanotrophic bacteria isolated from water were found to epoxidize 1-butene(4). Pure cultures of Pseudomonas oleovorans grown on octane oxidized 1-butene to 1-butene-3-ol(5). Bacteria isolated from soil and water and acclimated to propane were found to epoxidize 1-butene(6)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 9",
+            "Value": "log Kow = 2.40"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "EHCA; Registration for Bu-1-ene (CAS 106-98-9); Available from, as of December 12, 2017: https://echa.europa.eu/registration-dossier/-/registered-dossier/15510/7/3/3",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Exposure to 1-butene at target concentrations of 500, 2000, 8000 ppm (approximately 1147, 4589, 18359 mg/cu m) did not induce systemic toxicity in male and female rats exposed for 28 days or in pregnant female rats exposed for 14 days pre-mating, through mating and gestation to day 19. No treatment-related effects on body weight, clinical chemistry, organ weights or histopathology were found. Neurotoxicity screening also showed no effects on motor activity or functional observation battery. The NOAECs were at the highest concentration level tested"
+        },
+        {
+            "References": "EHCA; Registration for Bu-1-ene (CAS 106-98-9); Available from, as of December 12, 2017: https://echa.europa.eu/registration-dossier/-/registered-dossier/15510/7/3/3",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Male and female rats were exposed to 1-butene at target concentrations of 500, 2000, 8000 ppm (1147, 4589, 18359 mg/cu m) for two weeks prior to breeding, during breeding and until day 19 of gestation. The dams were then allowed to deliver their litters, which were retained until post-natal day 4. There was no evidence of systemic toxicity in the parents.There were no effects on mating behavior, fertility and gestation indices, the number of implantation sites and corpora lutea per dam, numbers of pups delivered, viability of pups at and after birth and the pup sex ratio when compared to the control group. Based on these data, the NOAEC for reproductive toxicity was the highest concentration tested (18359 mg/cu m). There were no treatment-related effects on the development of pups. There were no effects on body weight gain or observed during macroscopic examination of pups at post mortem. Based on these data, the NOAEC for developmental toxicity was also the highest concentration tested (18359 mg/cu m)."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 P83",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Exposure of mice to concentrations of 15% butene resulted in reversible signs of incoordination, confusion, and hyperexcitability; at 20% deep anesthesia in 8 to 15 min, with subsequent respiratory failure in 2 hr; and at 30% in 2 to 4 min and 40 min, respectively. A concentration of 40% resulted in profound anesthesia in 30 sec, with no CNS symptoms but with death in 10 to 15 min."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 9 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of December 20, 2017: https://www2.epa.gov/tsca-screening-tools (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of 1-butene is estimated as 120(SRC), using a log Kow of 2.40(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that 1-butene is expected to have high mobility in soil."
+        }
+    ]
+}

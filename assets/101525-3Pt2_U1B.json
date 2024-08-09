@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "6682e98ec4e5dba5ffba2b37"
+    },
+    "CID": {
+        "$numberInt": "101525"
+    },
+    "Name": "PRIMISULFURON-METHYL",
+    "IUPACName": "methyl 2-[[4,6-bis(difluoromethoxy)pyrimidin-2-yl]carbamoylsulfamoyl]benzoate",
+    "CanonicalSMILES": "COC(=O)C1=CC=CC=C1S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC(F)F)OC(F)F",
+    "Synonyms": [
+        "Primisulfuron-methyl",
+        "86209-51-0",
+        "Beacon",
+        "Tell",
+        "methyl 2-[[4,6-bis(difluoromethoxy)pyrimidin-2-yl]carbamoylsulfamoyl]benzoate",
+        "Primisulfuron-methyl [ISO]",
+        "3TN6B6S8JP",
+        "Rifle",
+        "Benzoic acid,2-[[[[[4,6-bis(difluoromethoxy)-2-pyrimidinyl]amino]carbonyl]amino]sulfonyl]-",
+        "methyl ester",
+        "Benzoic acid",
+        "2-(((((4,6-bis(difluoromethoxy)-2-pyrimidinyl)amino)carbonyl)amino)sulfonyl)-",
+        "methyl ester",
+        "Benzoic acid",
+        "2-[[[[[4,6-bis(difluoromethoxy)-2-pyrimidinyl]amino]carbonyl]amino]sulfonyl]-",
+        "methyl ester",
+        "Primisulfuron methyl",
+        "HSDB 7062",
+        "UNII-3TN6B6S8JP",
+        "CGA 136872"
+    ],
+    "IsomericSMILES": "COC(=O)C1=CC=CC=C1S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC(F)F)OC(F)F",
+    "INCHI": "InChI=1S/C15H12F4N4O7S/c1-28-11(24)7-4-2-3-5-8(7)31(26,27)23-15(25)22-14-20-9(29-12(16)17)6-10(21-14)30-13(18)19/h2-6,12-13H,1H3,(H2,20,21,22,23,25)",
+    "INCHIKEY": "ZTYVMAQSHCZXLF-UHFFFAOYSA-N",
+    "Formula": "C15H12F4N4O7S",
+    "MolecularWeight": {
+        "$numberDouble": "468.3"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "3.6"
+    },
+    "Complexity": {
+        "$numberInt": "707"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "sediment_soil_concentrations": [
+        {
+            "References": "Farm Chemicals Handbook 2002. Meister Publishing Co., 2002., p. C56",
+            "Value": "Weakly adsorbed by soil components and accordingly leaching can occur in soils. Short-to-moderate soil persistence."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "Annual bluegrass is a problematic weed of Kentucky bluegrass turf that can be selectively controlled with POST applications of primisulfuron-methyl. The objective of this research was to evaluate physiological behavior of primisulfuron-methyl attributed to selectivity in these species. In application placement experiments, annual bluegrass shoot weight reductions from the nontreated from high to low were treatments including: foliar + soil \u2265 soil only \u2265 foliar. Annual bluegrass averaged 33 and 52% shoot weight reductions from the nontreated after 4 wk from primisulfuron-methyl at 40 and 80 g ha\u22121, respectively. Kentucky bluegrass shoot weight was not reduced from the nontreated, and application placements were similar. From five harvests ranging 1 to 168 h after treatment (HAT), annual and Kentucky bluegrass absorbed up to 25 and 32% of foliar applied 14C-primisulfuron-methyl, respectively. Both grasses distributed 15% of foliar absorbed 14C to nontreated shoots with minimal translocation (\u2264 2%) to roots after 168 h. Annual bluegrass translocated 2 times more root-absorbed 14C to shoots than Kentucky bluegrass at 24, 72, and 168 HAT. From foliar uptake, the time required for annual and Kentucky bluegrass to degrade 50% of the absorbed herbicide to the major metabolite detected (Rf 0.1) measured > 168 and 93 h, respectively. In root metabolism experiments, annual bluegrass had \u2248 3 times and 2 times more primisulfuron acid in roots and shoots, respectively, than Kentucky bluegrass at 24, 72, and 168 HAT. The isolated acetolactate synthase (ALS) enzymes from the two grasses were equally susceptible to inhibition by primisulfuron-methyl. Overall, selectivity of primisulfuron-methyl for annual bluegrass control in Kentucky bluegrass is attributed to differential translocation and metabolism between species.",
+            "reference": "McCullough, P. E., Singh, R., Czarnota, M. A., & Johnston, C. R. (2015). Primisulfuron-methyl efficacy and fate in annual bluegrass (Poa annua) and Kentucky bluegrass. Weed science, 63(2), 388-398.",
+            "method": {
+                "Test Plant": "Annual bluegrass and Kentucky bluegrass cultivar 'Midnight'",
+                "Apply Location": "Root application",
+                "Plant Grown Condition": "Plants were grown in pots with 80:20 sand:peat moss soil in a greenhouse set at 23/17\u00b0C day/night temperatures. For treatment, single plants with 4-7 tillers were transplanted into smaller pots.",
+                "Chemical Preparation": "Primisulfuron-methyl (Beacon 75DF) was used at 40 or 80 g ai/ha rates, applied in 10 mL water to the soil surface.",
+                "Pesticide Application Details for the Plant": "Applied by pipetting herbicide solution onto the soil surface.",
+                "Other Information": "The study had 4 replicates in a randomized complete block design and was repeated (runs pooled for analysis).plants were grown hydroponically with 14C-primisulfuron added to a nutrient solution along with non-labeled herbicide simulating 40 g/ha rate."
+            },
+            "result": "[{\"Plant\": \"Annual bluegrass\", \"Translocation (% of absorbed)\": 74, \"Roots (bq/g)\": 317, \"Shoots (bp/g)\": 218}, {\"Plant\": \"Kentucky bluegrass\", \"Translocation (% of absorbed)\": 37, \"Roots (bq/g)\": 1846, \"Shoots (bp/g)\": 223}]"
+        }
+    ]
+}

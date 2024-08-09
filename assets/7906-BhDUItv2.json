@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "6682e898c4e5dba5ffba2660"
+    },
+    "CID": {
+        "$numberInt": "7906"
+    },
+    "Name": "Methylmercury Cation",
+    "IUPACName": "methylmercury",
+    "CanonicalSMILES": "C[Hg]",
+    "Synonyms": [
+        "16056-34-1",
+        "J7U55S5JQ0",
+        "Mercury",
+        "methyl-",
+        "Methyl mercury",
+        "Methylmercury",
+        "Monomethylmercury",
+        "UNII-J7U55S5JQ0",
+        "methylmercury(.)",
+        "DTXSID2031615",
+        "methylemercury",
+        "methylmercury hydride",
+        "CH3Hg(.)",
+        "DTXCID0011615",
+        "CHEBI:30785",
+        "HSDB 3930"
+    ],
+    "IsomericSMILES": "C[Hg]",
+    "INCHI": "InChI=1S/CH3.Hg/h1H3;",
+    "INCHIKEY": "JJWSNOOGIUMOEE-UHFFFAOYSA-N",
+    "Formula": "CH3Hg",
+    "MolecularWeight": {
+        "$numberDouble": "215.63"
+    },
+    "Description": "Methylmercury(.) is a methylmercury compound.",
+    "XlogP": {
+        "$numberDouble": "NaN"
+    },
+    "Complexity": {
+        "$numberInt": "2"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "animal_concentrations": [
+        {
+            "References": "(1) Surma-Aho K et al; Chemosphere 15: 353-72 (1986) (2) Ohlendorf HM, Harrison CS; Environ Pollut Ser B 11: 169-91 (1986) (3) King KA et al; J Field Ornithol 54: 295-303 (1983) (4) Kim EY et al; Arch Environ Contam Toxicol 30: 259-66 (1996) (5) Storelli MM et al; Bull Environ Contam Toxicol 63: 703-10 (1999) (6) Holsbeek L et al; Mar Pollut Bull 38: 304-13 (1999) (7) Pieters H, Geuke V; Wat Sci Tech 30: 213-9 (1994)",
+            "Value": "From 1980-1984, fish-eating birds (goldeneye) collected at Finnish lakes and reservoirs, 4 sites (organic mercury content assumed to be almost entirely in the form of monomethylmercury), showed a mean concentration range of 0.10-0.38 mg/kg fresh weight(1). In 1980, total mercury content of Hawaiian seabird eggs sampled was 0.122-0.359 ug/g wet wt(2). In 1978, total mercury content of Royal Tern eggs from the central Texas coast had a mean concentration range of 1.11-1.27 ppm(3). Liver, muscle, and kidney samples from nine species of seabirds were analyzed for methylmercury, with mean percentages of 35, 36, and 66% of total mercury, respectively(4). Methylmercury concentrations in livers from cormorant and duck from the Rhine River delta in the Netherlands were 2.92 and 0.19-0.42 mg/kg Hg wet wt, representing 98 and 79-100% methylmercury to total Hg, respectively(5). Methylmercury levels in tissues of two Risso's Dolphins (Grampus priseus) and one Cuvier's Beaked Whale (Ziphius cavirostris) stranded in Italy on the South Adriatic Sea between June and September 1996 were measured(6); mg/kg wet wt in muscle: 15.68, 14.96, and 7.00; in the lung: 5.84, 7.41, and 3.61; in the liver: 14.70; 7.35, and 9.85; and in the kidney: 5.80, 5.32, and 4.51, respectively(6). Levels of methylmercury in the muscle, liver, and kidney from 7 stranded sperm whales in the southern North Sea during the winter of 1994/95 ranged from (ug/g dry wt) 2.5-3-7, 0.8-3.0, and 0.2-1.4, respectively(7). These are lower than values reported for other toothed whales, possible due to their open ocean niche and diet of deep-sea cephalopods(7)."
+        },
+        {
+            "References": "(1) Tremblay A et al; Sci Total Environ 219: 209-221 (1998) (2) Pieters H, Geuke V; Wat Sci Tech 30: 213-9 (1994)",
+            "Value": "Insects may be an important source of methylmercury for predators that rely on them as a food source and consequently are an important vector in the transfer of methylmercury from flooded soils and sediments into the food chain(1). Littoral zone insects (emerging) from a dam impoundment, the Laforge hydroelectric reservoir, and a natural lake in northern Quebec, Canada were collected during the summer of 1994 and measured for methylmercury(1). Concentration ranges were as follows: not detected to 296 ng/g dry wt (flooded peat) and not detected to 300 ng/g dry wt (flooded forest soil), not detected to 279 ng/g dry wt (flooded forest soil and not detected to 800 ng/g dry wt (flooded peat), and not detected to 90 ng/g dry wt, respectively(1). Methylmercury concentrations in Daphnia from the Rhine River delta in the Netherlands ranged from 0.015-0.142 mg/kg Hg wet wt, representing 3-33% methylmercury to total Hg(2)."
+        },
+        {
+            "References": "PMID:19174879",
+            "Value": "Lake-dwelling Arctic char (Salvelinus alpinus) are monitored internationally as a sentinel species for effects of atmospheric mercury deposition on Arctic fresh waters. Studies were conducted on 3 islands of the Canadian High Arctic, specifically Cornwallis, Devon, and Somerset, 74-76 deg N latitude in July and August of 2005 and 2006; seventeen lakes and five ponds were sampled. Chironomid larvae, pupae, and adults are distinct mercury sources for these landlocked fish, and evidence from nitrogen stable isotopes and published feeding studies suggest differential consumption of these stages may affect methylmercury uptake by Arctic char. Methylmercury concentrations (ng/g dry weight) were 5-100, 25-280, and 60-280 for larvae, pupae, and adults, respectively. It is concluded that biological and food web processes have a greater impact on methylmercury transfer to fish than atmospheric mercury deposition in High Arctic lakes(1)."
+        }
+    ]
+}

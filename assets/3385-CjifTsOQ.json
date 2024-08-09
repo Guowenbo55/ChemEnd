@@ -1,0 +1,81 @@
+{
+    "_id": {
+        "$oid": "6682e802c4e5dba5ffba2372"
+    },
+    "CID": {
+        "$numberInt": "3385"
+    },
+    "Name": "FLUOROURACIL",
+    "IUPACName": "5-fluoro-1H-pyrimidine-2,4-dione",
+    "CanonicalSMILES": "C1=C(C(=O)NC(=O)N1)F",
+    "Synonyms": [
+        "5-Fluorouracil",
+        "fluorouracil",
+        "51-21-8",
+        "5-FU",
+        "Fluoroplex",
+        "Efudex",
+        "Adrucil",
+        "Carac",
+        "Fluracil",
+        "Fluoroblastin",
+        "Queroplex",
+        "5-fluoropyrimidine-2,4(1H,3H)-dione",
+        "Phthoruracil",
+        "Carzonal",
+        "Kecimeton"
+    ],
+    "IsomericSMILES": "C1=C(C(=O)NC(=O)N1)F",
+    "INCHI": "InChI=1S/C4H3FN2O2/c5-2-1-6-4(9)7-3(2)8/h1H,(H2,6,7,8,9)",
+    "INCHIKEY": "GHASVSINZRGABV-UHFFFAOYSA-N",
+    "Formula": "C4H3FN2O2",
+    "MolecularWeight": {
+        "$numberDouble": "130.08"
+    },
+    "Description": "5-fluorouracil is a nucleobase analogue that is uracil in which the hydrogen at position 5 is replaced by fluorine. It is an antineoplastic agent which acts as an antimetabolite - following conversion to the active deoxynucleotide, it inhibits DNA synthesis (by blocking the conversion of deoxyuridylic acid to thymidylic acid by the cellular enzyme thymidylate synthetase) and so slows tumour growth. It has a role as a xenobiotic, an environmental contaminant, a radiosensitizing agent, an antineoplastic agent, an immunosuppressive agent and an antimetabolite. It is a nucleobase analogue and an organofluorine compound. It is functionally related to a uracil.",
+    "XlogP": {
+        "$numberDouble": "-0.9"
+    },
+    "Complexity": {
+        "$numberInt": "199"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 7",
+            "Value": "log Kow = -0.89"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 1405",
+            "Value": "5-FU requires enzymatic conversion to the nucleotide (ribosylation and phosphorylation) in order to exert its cytotoxic activity. Several routes are available for the formation of the 5'-monophosphate nucleotide (F-UMP) in animal cells. 5-FU may be converted to fluorouridine by uridine phosphorylase and then to F-UMP by uridine kinase, or it may react directly with 5-phosphoribosyl-1-pyrophosphate (PRPP), in a reaction catalyzed by ... orotate phosphoribosyl transferase, to form F-UMP. Many metabolic pathways are available to F-UMP, including incorporation in to RNA. A reaction sequence crucial for antineoplastic activity involves reduction of the diphosphate nucleotide by the enzyme ribonucleoside diphosphate reductase to the deoxynucleotide level and the eventual formation of 5-fluoro-2'-deoxyuridine-5'-phosphate (F-dUMP). 5-FU also may be converted directly to the deoxyriboside 5-FUdR by the enzyme thymidine phosphorylase and further to F-dUMP, a potent inhibitor of thymidylate synthesis, by thymidine kinase ... The interaction between F-dUMP and the enzyme thymidylate synthase leads to depletion of TTP, a necessary constituent of DNA ... The folate cofactor, 5,10-methylenetetrahydrofolate, and F-dUMP form a covalently bound ternary complex with the enzyme. The inhibitory complex resembles the transition state formed during the normal enzymatic reaction when dUMP is converted to thymidylate. Although the physiological complex progresses to the synthesis of thymidylate by transfer of the methylene group and 2 hydrogen atoms from folate to dUMP, this reaction is blocked in the inhibitory complex by the stability of the fluorine carbon bond on F-dUMP; sustained inhibition of the enzyme results ..."
+        },
+        {
+            "References": "McEvoy, G.K. (ed.). American Hospital Formulary Service.     AHFS Drug Information. American Society of Health-System     Pharmacists, Bethesda, MD. 2007., p. 1048",
+            "Value": "Although the precise mechanisms of action of fluorouracil have not been fully elucidated, the main mechanism is thought to be the binding of the deoxyribonucleotide of the drug (FdUMP) and the folate cofactor, N5-10-methylenetetrahydrofolate, to thymidylate synthase (TS) to form a covalently bound ternary complex, which inhibits the formation of thymidylate from uracil, thereby interfering with DNA synthesis. In addition, FUTP can be incorporated into RNA in place of uridine triphosphate (UTP), producing a fraudulent RNA and interfering with RNA processing and protein synthesis."
+        },
+        {
+            "References": "Thomson/Micromedex. Drug Information for the Health Care  Professional. Volume 1,  Greenwood Village, CO. 2007., p. 1430",
+            "Value": "Fluorouracil is an antimetabolite of the pyrimidine analog type. Fluorouracil is considered to be cell cycle-specific for the S phase of cell division. Activity results from its conversion to an active metabolite in the tissues, and includes inhibition of DNA and RNA synthesis."
+        },
+        {
+            "References": "Physicians Desk Reference 61st ed, Thomson PDR, Montvale, NJ   2007., p. 3363",
+            "Value": "There is evidence that the metabolism of fluorouracil in the anabolic pathway blocks the methylation reaction of deoxyuridylic acid to thymidylic acid. In this manner fluorouracil interferes with the synthesis of deoxyribonucleic acid (DNA) and to a lesser extent inhibits the formation of ribonucleic acid (RNA). Since DNA and RNA are essential for cell division and growth, the effect of fluorouracil may be to create a thymine deficiency which provokes unbalanced growth and death of the cell. The effects of DNA and RNA deprivation are most marked on those cells which grow more rapidly and take up fluorouracil at a more rapid rate. The catabolic metabolism of fluorouracil results in degradation products (eg, CO2 , urea, (alpha)-fluoro-(beta)-alanine) which are inactive. /Efudex Solutions/"
+        },
+        {
+            "References": "Hansen DK, Grafton TF; In Vitro Toxicol 2 (4): 249-58 (1988)",
+            "Value": "The chemotherapeutic agent 5-fluorouracil is a known developmental toxicant in the rat both in vivo and in vitro. The mechanism of the drug's embryotoxic effect is unclear, but it has been postulated that 5-fluorouracil inhibits thymidylate synthase activity, leading to a deficiency of thymidine and a decrease in DNA synthesis. If this is the case, addition of excess exogenous thymidine should reverse the drug's embryotoxicity. Rat embryos were cultured beginning on day 10 of gestation (for 48 hr) in a whole embryo culture system. For the initial three hr of the culture period, 5-fluorouracil was present at a final concentration of 3 ug/ml. Following removal of 5-fluorouracil, various concentrations of thymidine were added for the remainder of the culture period. Treatment with 5-fluorouracil decreased the morphological score, number of somite pairs, crown-rump and head lengths, as well as DNA and protein contents; the incidence of malformations, particularly those affecting the tail, hindlimb bud, and brain, was increased. With addition of thymidine, there was attenuation of all parameters examined and fewer malformations. Exogenous thymidine was not able to reverse the effects of 5-fluorouracil completely, even if it was present for the entire 48 hr culture period, including the three hr 5-fluorouracil treatment phase. These results suggest that 5-fluorouracil may induce a thymidine deficiency in treated rat embryos, but some other effect(s) also appear to be involved in the embryotoxicity induced by the drug."
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 1404",
+            "Value": "/Among/ halogenated pyrimidines ... if one compares the van der Waals radii of the various 5-position substituents, the dimension of the fluorine atom resembles that of hydrogen, whereas the bromine and iodine atoms are larger and close in size to the methyl group ... In 5-FU, the smaller fluorine at position 5 allows the molecule to mimic uracil biochemically. However, the fluorine-carbon bond is much tighter than that of C-H and prevents the methylation of the 5 position of 5-FU by thymidylate synthase. Instead, in the presence of the physiological cofactor 5,10-methylene tetrahydrofolate, the fluoropyrimidine locks the enzyme in an inhibited state. Thus, substitution of a halogen atom of the correct dimensions can produce a molecule that sufficiently resembles a natural pyrimidine to interact with enzymes of pyrimidine metabolism but at the same time interferes drastically with certain other aspects of pyrimidine action."
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 1406",
+            "Value": "5-FU ... is incorporated into both RNA and DNA. In 5-FU-treated cells, both F-dUTP and dUTP (the substrate that accumulates behind the blocked thymidylate synthase reaction) incorporate into DNA in place of the depleted physiological TTP. The significance of the incorporation of F-dUTP and dUTP into DNA is unclear ... Presumably, the incorporation of deoxyuridylate and/or fluorodeoxyuridylate into DNA would call into action the excision-repair process. This requires TTP, but this substrate is lacking as a result of thymidylate synthase inhibition ... 5-FU incorporation into RNA also causes toxicity as the result of major effects on both the processing and functions of RNA ..."
+        }
+    ]
+}

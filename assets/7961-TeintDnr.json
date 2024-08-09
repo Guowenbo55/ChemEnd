@@ -1,0 +1,176 @@
+{
+    "_id": {
+        "$oid": "6682e89ec4e5dba5ffba267c"
+    },
+    "CID": {
+        "$numberInt": "7961"
+    },
+    "Name": "BROMOBENZENE",
+    "IUPACName": "bromobenzene",
+    "CanonicalSMILES": "C1=CC=C(C=C1)Br",
+    "Synonyms": [
+        "BROMOBENZENE",
+        "108-86-1",
+        "Phenyl bromide",
+        "Monobromobenzene",
+        "Benzene",
+        "bromo-",
+        "1-Bromobenzene",
+        "PhBr",
+        "NCI-C55492",
+        "C6H5Br",
+        "BROMO-BENZENE",
+        "4-bromobenzene",
+        "BROMOBENZOL",
+        "HSDB 47",
+        "Phenylbromide",
+        "CCRIS 5887"
+    ],
+    "IsomericSMILES": "C1=CC=C(C=C1)Br",
+    "INCHI": "InChI=1S/C6H5Br/c7-6-4-2-1-3-5-6/h1-5H",
+    "INCHIKEY": "QARVLSVVCXYDNA-UHFFFAOYSA-N",
+    "Formula": "C6H5Br",
+    "MolecularWeight": {
+        "$numberDouble": "157.01"
+    },
+    "Description": "Bromobenzene is the simplest member of the class of bromobenzenes, that is benzene in which a single hydrogen has been substituted by a bromine. A liquid at room temperature (m.p. -30??; b.p.760 156??), it is used as a solvent, particularly for large-scale crystallisations, and for the introduction of phenyl groups in organic synthesis. It has a role as a non-polar solvent, a hepatotoxic agent and a mouse metabolite. It is a member of bromobenzenes, a bromoarene and a volatile organic compound.",
+    "XlogP": {
+        "$numberDouble": "3"
+    },
+    "Complexity": {
+        "$numberInt": "46"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Chem Inspect Test Inst; Biodegradation and Bioaccumulation Data of Existing Chemicals Based on the CSCL Japan. Japan: Japan Chemical Industrial Ecology - Toxicology and Information Center ISBN 4-89074-101-1 p. 3-10 (1992) (2) Freitag L et al; Chemosphere 14: 1589-616 (1985) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "When exposed to 50 ug/l of bromobenzene, the experimental BCF in carp ranged from 8.8 to 34. When exposed to 5 ug/l of bromobenzene, the experimental BCF in carp ranged from 12 to 33(1). The experimental BCF in algae (Chlorella fusca) was 190 for one day. The experimental BCF for the fish golden ide (Leuciscus idus melanotus) was determined to be 50 after three days(2). Concentration of bromobenzene in the water for the algae and the golden ide was unreported(2). According to a classification scheme(3), these BCF values suggest that bioconcentration in aquatic organisms ranges from low to moderately high(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Chem Inspect Test Inst; Biodegradation and Bioaccumulation Data of Existing Chemicals Based on the CSCL Japan. Japan: Japan Chemical Industrial Ecology - Toxicology and Information Center ISBN 4-89074-101-1 p. 3-10 (1992)",
+            "Value": "Using the MITI Test, 30 mg/l of bromobenzene was innoculated with 100 mg/l activated sludge. After an incubation period of four weeks, a theoretical BOD of 0 percent was obtained(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 17",
+            "Value": "log Kow = 2.99"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:6838624",
+            "Value": "FOLLOWING BROMOBENZENE (1.0 MMOL) ADMIN TO RAT HEPATOCYTES, LIPID PEROXIDATION OCCURRED ONLY AT A LATER STAGE, COMPARED TO TREATMENT WITH CCL4, AND ONLY AFTER CELL DEATH. APPARENTLY LIPID PEROXIDATION DURING BROMOBENZENE TOXICITY WAS MERELY A CONSEQUENCE OF GSH DEPLETION AND CELL DEATH. APPARENTLY, ARYLATION OF CRITICAL CELLULAR NUCLEOPHILES IS MORE IMPORTANT THAN LIPID PEROXIDATION IN BROMOBENZENE HEPATOTOXICITY."
+        },
+        {
+            "References": "SMITH MT ET AL; SCIENCE (WASH DC) 213 (4513): 1257 (1981)",
+            "Value": "FRESHLY ISOLATED HEPATOCYTES FROM PHENOBARBITAL-TREATED RATS WERE INCUBATED IN THE PRESENCE OR ABSENCE OF EXTRACELLULAR CALCIUM WITH BROMOBENZENE. IN THE ABSENCE OF CALCIUM IT WAS FAR MORE TOXIC TO THE CELLS THAN IN ITS PRESENCE. THIS RESULT IS INCONSISTENT WITH THE HYPOTHESIS THAT AN INFLUX OF EXTRACELLULAR CALCIUM IS REQUIRED AS THE FINAL STEP IN TOXIC LIVER CELL INJURY."
+        },
+        {
+            "References": "DENT JG, SUN JD; ADV EXP MED BIOL 136A(BIOL REACT INTERMED-2, CHEM MECH BIOL EFF, PT A) 275 (1982)",
+            "Value": "A NOVEL METHOD IS DESCRIBED FOR MEASURING THE COVALENT BINDING OF BROMOBENZENE TO MACROMOLECULES IN RAT HEPATIC MICROSOMES OF HEPATOCYTES. COVALENT BINDING IN HEPATOCYTES SUGGESTS THAT THE BINDING OCCURS FIRST WITH MACROMOLECULES IN 20000-40000 DALTON RANGE."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Gosselin, R.E., H.C. Hodge, R.P. Smith, and M.N. Gleason. Clinical Toxicology of Commercial Products. 4th ed. Baltimore: Williams and Wilkins, 1976., p. II-114",
+            "Value": "DOGS TOLERATED ORAL...3-5 G SEVERAL DAYS BEFORE...VOMITING, DIARRHEA & EVENTUALLY DEATH. RATS GIVEN 3 G/KG SHOWED TOXIC SYMPTOMS AFTER 6-10 DAYS... WIDESPREAD HEPATIC NECROSIS NOT ONLY AROUND CENTROLOBULAR VEINS BUT ALSO AROUND ALL TRIBUTARIES OF THE HEPATIC VEINS. LESIONS RESEMBLE THOSE.../OF/ THIOACETAMIDE & TANNIC ACID."
+        },
+        {
+            "References": "National Research Council. Drinking Water & Health Volume 1. Washington, DC: National Academy Press, 1977., p. 695",
+            "Value": "...IN AN INHALATION STUDY IN RATS, BROMOBENZENE WAS ADMIN DAILY FOR 4-HR PERIOD @ 3 UG/CU M, WITHOUT TOXIC EFFECTS; 20 UG/CU M WAS A DEFINITE-EFFECT DOSAGE IN SIMILAR TESTS... BROMOBENZENE WAS NOT MUTAGENIC IN SALMONELLA/MICROSOME TEST... THERE IS NO EVIDENCE THAT BROMOBENZENE IS CARCINOGENIC IN ANIMALS..."
+        },
+        {
+            "References": "International Labour Office. Encyclopedia of Occupational Health and Safety. Volumes I and II. New York: McGraw-Hill Book Co., 1971., p. 212",
+            "Value": "REPEATED EXPOSURE OF RATS TO...250 MG/CU M CAUSED NERVOUS SYSTEM DISORDERS &... (NEUTROPHIL LEUKOPENIA & LYMPHOPENIA). ...EXPOSED TO...20 MG/CU M...FOR 4.5 MO...ARRESTED GROWTH...INHIBITION OF NERVOUS SYSTEM, DISORDERS OF LIVER FUNCTION & REDN OF SULFHYDRYL GROUPS IN SERUM & LIVER HOMOGENATE.../& IN/ SERUM ALBUMIN CONCN."
+        },
+        {
+            "References": "PMID:720545",
+            "Value": "TIME COURSE & ACINAR DISTRIBUTION OF BROMOBENZENE-INDUCED HEPATIC NECROSIS: LIGHT & ELECTRON MICROSCOPY IN RAT. ZONE 3 /SRP: CENTRILOBULAR REGION/ SHOWED CONFORMATIONAL CHANGES IN SMOOTH ENDOPLASMIC RETICULUM 6 HR AFTER ADMIN, & HEPATOCYTE CYTOPLASMIC VACUOLAR DEGENERATION & NECROSIS @ 48 HR."
+        },
+        {
+            "References": "THOR H ET AL, ARCH BIOCHEM BIOPHYS 188 (1): 122 (1978)",
+            "Value": "IN ISOLATED RAT HEPATOCYTES BROMOBENZENE METAB LED TO GSH DEPLETION, PROGRESSIVE DECR IN COENZYME A & NICOTINAMIDE NUCLEOTIDE LEVELS & MODERATE INCR IN FORMATION OF METABOLITES COVALENTLY BOUND TO PROTEIN."
+        },
+        {
+            "References": "PMID:220753",
+            "Value": "BROMOBENZENE AT A DOSE OF 5.0 MMOL/KG, IP, INCR BILE DUCT-PANCREATIC FLUID FLOW AND DECR ITS PROTEIN CONCN 24 HR AFTER TREATMENT OF RATS."
+        },
+        {
+            "References": "PMID:7281177",
+            "Value": "THE HEPATOTOXIC EFFECT AS DETERMINED BY SERUM ACTIVITIVIES OF GLUTAMIC OXALOACETIC TRANSAMINASE, GLUTAMIC PYRUVIC TRANSAMINASE AND SORBITOL DEHYDROGENASE WERE INVESTIGATED IN NORMALLY FED AND 24 HR FASTED MICE. FASTING ENHANCED SERUM ENZYME ELEVATIONS INDUCED BY BROMOBENZENE. THE HEPATOTOXIC EFFECTS OF ALLYL ALCOHOL WERE ONLY MODERATELY INCREASED BY FASTING. FASTING FOR 24 HR DECREASED LIVER HEPATIC GLUTATHIONE BY 50%."
+        },
+        {
+            "References": "PMID:7222057",
+            "Value": "IN RATS, IP ADMIN OF BROMOBENZENE DECR GLUTATHIONE LEVELS IN LIVER AND KIDNEY BEFORE DOUBLING THE METALLOTHIONEIN CONCN IN THE LIVER AND INCR THAT IN KIDNEYS BY 40% STARTING FROM 6 HR AFTER ADMIN."
+        },
+        {
+            "References": "PMID:6836619",
+            "Value": "AFTER ORAL ADMIN OF 1.5 OR 3.0 G/KG BROMOBENZENE IN HAMSTERS, A DECR OF AMINOPYRINE N-DEMETHYLASE AS WELL AS AN INCR OF HYDROPEROXIDE FORMATION OCCURRED. AT 3.0 G/KG, MOST MIXED-FUNCTION OXIDASE WAS INHIBITED WITH THE EXCEPTION OF KETAMINE N-DEMETHYLASE, METHYLAYAPANINE O-DEMETHYLASE, AND COUMARIN 7-HYDROXYLASE. LIPOPEROXIDATION WAS REDUCED."
+        },
+        {
+            "References": "The Chemical Society. Foreign Compound Metabolism in Mammals Volume 3. London: The Chemical Society, 1975., p. 530",
+            "Value": "HEPATIC CENTRILOBULAR NECROSIS INDUCED BY BROMOBENZENE IS THOUGHT TO BE CAUSED BY FORMATION OF BROMOBENZENE.../SRP: OXIDES & THEIR/ SUBSEQUENT REACTION WITH LIVER PROTEINS, THE PRODUCTS OF WHICH CAN BE FOUND IN NECROTIC AREAS OF LIVER."
+        },
+        {
+            "References": "REID WD ET AL; EXP MOL PATHOL 15(3) 362 (1971)",
+            "Value": "MALE SPRAGUE-DAWLEY RATS AND MALE C57 BLACK 6 MICE WERE ADMIN 3 DOSES OF 20 MG/KG IP 3-METHYLCHOLANTHRENE (3-MC) 88, 72, AND 64 HR BEFORE THE IP INJECTION OF BROMOBENZENE DISSOLVED IN SESAME OIL. CONTROLS WERE GIVEN 3 DOSES OF SESAME OIL (0.5 ML RATS; 0.2 ML MICE). ADMIN OF 7.16 MMOL/KG BROMOBENZENE TO RATS PRODUCED MARKED CENTROLOBULAR NECROSIS OF THE LIVER WHICH WAS MAXIMAL AFTER 48 HR. PRIOR TREATMENT WITH 3-MC COMPLETELY BLOCKED THE HEPATOTOXICITY OF BROMOBENZENE IN MORE THAN 85% OF RATS. HOWEVER, 3-MC ADMIN FAILED TO BLOCK NECROSIS INDUCED BY BROMOBENZENE IN MICE, AND IN SOME EXPT IT EVEN ENHANCED THE SEVERITY OF NECROSIS."
+        },
+        {
+            "References": "PMID:7548756",
+            "Value": "Male Sprague-Dawley rats were admin bromobenzene intraperitoneally to investigate the possible covalent binding to histidine and lysine side chains of rat liver protein, and to estimate the contributions of these metabolites under toxicologically relevant conditions. Rats were administered unlabeled or radiolabeled bromobenzene at 2.5 mmole/kg. 4 hours later the rat livers were removed, hydrolyzed, and the presence of bromobenzene adduct structures was determined. Synthesized N(tau)-(p-bromophenyl)histidine and N(epsilon)-(p-bromophenyl)lysine were used to assist in the chromatographic analysis and recognition of these natural products in the rat liver. Radio liquid chromatography and gas chromatography/mass spectrometry yielded low levels (less than 1% of total covalent binding) of the epoxide adducts. /It was concluded that/ while the epoxide adducts contribute very little to the total covalent binding relative to quinone metabolites, this does not represent a comparison of the relative importance of epoxide adducts to toxicology. The identification of the protein targets is as important as the type of electrophilic metabolite."
+        },
+        {
+            "References": "Ferrandiz ML et al; Life Sciences 55 (8): 145-50 1994",
+            "Value": "The effects of the natural flavonoid hispidulin (6-methoxy-5,7,4'-trihydroxyflavons) on bromobenzene-induced hepatotoxicity in mice were investigated. The authors found a correlation between liver injury and hepatic lipid peroxidation besides a strong liver glutathione depletion due to the toxicant. Hispidulin at doses between 50 and 150 mg/kg ip compared favourably with the reference compound N-acetyl-L-cysteine for inhibition of liver injury and lipid peroxidation. The flavonoid at the highest dose tested was also able to counteract reduced glutathione depletion induced by bromobenzene in starved mice. These hepatoprotective effects can be related to the antioxidant properties of hispidulin."
+        },
+        {
+            "References": "PMID:8086225",
+            "Value": "Bromobenzene biotransformation and bromobenzene induced cytotoxicity were studied in primary cultures of cynomolgus-monkey and human hepatocytes. Hepatocytes were exposed to bromobenzene at concentrations up to 2 mM for 4 or 24 hours following preincubation periods of 2 to 24 hours. Bromobenzene cytotoxicity and glutathione depletion occur following exposure to 2 mM bromobenzene. There were major interindividual differences which could not be attributed to differences in cytochrome p450 mediated bioactivation rates. The variation in individual susceptibility to bromobenzene may be a factor of the interindividual differences in the activity of deactivating pathways."
+        },
+        {
+            "References": "PMID:8403079",
+            "Value": "The liver slice system to examine the relationship between toxicity, metabolism and covalent binding amongst a series of (3)H/14(C) dual labelled bromobenzene derivatives including (in order of increasing hepatotoxicity o-bromoanisole, o-bromotoluene, o-bromobenzonitrile, bromobenzene and o-dibromobenzene. Among these congeners apparent relative rates of metabolism varied only 4-fold, but the most extensively metabolized compounds were the least toxic. Covalent binding varied 7-fold across the series, and those compounds which bound the most frequently were the most toxic. For each compound the relative binding index = pmol bound/nmol metabolized) and the average retention of tritium relative to (14)C in the covalent binding fraction were constant throughout the 24 hr incubations, suggesting that the metabolic profile of each compound remained constant with time. The RBI values, however, did not reflect relative toxicity as well as total covalent binding values. The T/C ratios of the covalent binding residues varied from 0.36 (for o-bromoanisole) to 0.81 (for o-bromobenzonitrile, indicating that ortho-substitution on bromobenzene exerts important qualitative as well as quantitative effects on overall metabolism and reactive metabolite formation. The finding that relative toxicity among a series of bromobenzene congeners is paralleled by their relative covalent binding adds support to the hypothesis that covalent binding contributes to the observed toxicity, rather than merely being a correlated epiphenomenon."
+        },
+        {
+            "References": "PMID:8052801",
+            "Value": "A study of mice bronchiolar epithelium following bromobenzene exposure, shows 3 cell types following bromobenzene exposure: Clara cells, ciliated cells, and newly discovered bromobenzene-resistant nonciliated cells. Through electron microscopic autoradiography. The authors found the proliferative ability of bromobenzene-resistant nonciliated cells. This finding suggests that bromobenzene-resistant nonciliated cells may function as progenitor cells. In addition to the new cell type, results also demonstrate and confirm the proliferative ability of modified Clara cells."
+        },
+        {
+            "References": "PMID:1397801",
+            "Value": "To differentiate pulmonary from hepatic bioactivation, bromobenzene was administered alone and in combination with p-xylene, which inhibits pulmonary but induces hepatic cytochromes p450. Exposure to p-xylene alone (3400 ppm for 4 hr) produced no changes in bronchoalveolar lavage fluid measurements (gamma-glutamyl transpeptidase, lactate dehydrogenase, protein, white blood cell count or serum sorbitol dehydrogenase. p-Xylene increased hepatic microsomal benzyloxy-(BROD), pentoxy- (PROD), and ethoxy- (EROD) resorfuin O-dealkylase activities but decreased pulmonary microsomal benzyloxy- and pentoxy-. Immunoblot analysis revealed an induction of hepatic but not pulmonary microsomal apoprotein. When rats were exposed to p-xylene (2800 ppm) or corn air for 4 hr, treated 12 hr later with bromobenzene (0.5 ml/kg, ip) or corn oil, and killed after 12 hr, p-xylene increased hepatic p450IIB (27-fold) concomittant with a similar increase in benzyloxy- activity. p-Xylene also increased hepatic p450IA apoprotein (3.4-fold) with a complimentary increase in ethyloxy- activity. p-Xylene potentiated bromobenzene-induced hepatotoxicity. In pulmonary microsomes p-xylene and bromobenzene each produced similar decreases in both ethyloxy- and benzyloxy- activities. The combination of p-xylene and bromobenzene had an additive effect on pulmonary p450IAl reduction. BALF analysis and histopathology revealed no pneumotoxicity with any treatment. p-Xylene potentiation of bromobenzene-induced hepatotoxicity without pneumotoxicity suggests that the liver does not produce metabolites of bromobenzene which are directly involved in pulmonary damage."
+        },
+        {
+            "References": "PMID:1535033",
+            "Value": "beta-N-Acetylhexosaminidase isoenzymes were separated from the kidney, serum and urine of normal mice and mice intoxicated with bromobenzene, DEAE-cellulose chromatography. Both mouse serum and urine showed hexosaminidase profiles similar to the human counterparts with the presence of B (basic), I (intermediate) and A (acidic) isoenzymes. There was a high proportion of an intermediate form in mouse urine which is not always present in human urine. Hexosaminidase activity increased significantly in urine of mice intoxicated with bromobenzene. Its increase was time-dependent and due to kidney damage with a release in the urine of hexosaminidase A, I and, in higher proportion, B. No significant differences were observed in mouse kidney and serum profiles following intoxication with bromobenzene. The total activity of hexosaminidase did not increase in the serum of mice intoxicated with bromobenzene. Both hexosaminidase activity and the isoenzyme pattern in urine can be used as indicators of kidney damage by bromobenzene intoxication."
+        },
+        {
+            "References": "PMID:1747070",
+            "Value": "The effects of subchronic exposure to bromobenzene on bromobenzene acute hepatotoxicity were studied in male Sprague-Dawley-rats. Rats were injected intraperitoneally (ip) with 0, 0.3, or 0.5 mmol/kg bromobenzene daily 5 days a week for 4 weeks. They were then injected ip with O or 2.5 mmol/kg bromobenzene. Twenty four hour urine samples were collected and analyzed for bromobenzene metabolites. Hepatotoxicity was assessed by measuring serum glutamic-oxaloacetic-transaminase, glutamic-pyruvic-transaminase, and sorbital-dehydrogenase activity and by histopathological examination of liver tissue samples. Significant increases in serum glutamic-oxaloacetic-transaminase, glutamic-pyruvic-transaminase, and sorbital-dehydrogenase activity induced by 2.5 mmol/kg bromobenzene were significantly reduced by pretreatment with 0.5 mmol/kg, but not 0.3 mmol/kg, bromobenzene. Sorbital-dehydrogenase and glutamic-pyruvic-transaminase activity was not significantly affected by pretreatment with 0.3 or 0.5 mmol/kg bromobenzene alone. The livers of rats given bromobenzene alone demonstrated pronounced centrilobular necrosis, moderate pyknosis, and minimal cytoplasmic vacuolation. These changes were not observed in rats pretreated with 0.5 mmol/kg bromobenzene. The 2.5 mmol/kg dose alone caused a significant increase in urinary excretion of thioethers and small increases in o-bromophenol, m-bromophenol, p-bromophenol, and p-bromocatechol excretion. Pretreatment with 0.5 mmol/kg bromobenzene significantly increased thioether and p-bromocatechol excretion. Subchronic pretreatment with low doses of bromobenzene induces a partial tolerance to bromobenzene hepatotoxicity. The increased formation of thioethers and p-bromocatechol induced by pretreatment contribute to the partial tolerance against bromobenzene hepatotoxicity."
+        },
+        {
+            "References": "Mennes WC et al; Toxicol in Vitro 5 (1): 63-70 (1991)",
+            "Value": "Primary cultures of rat and hamster hepatocytes were exposed to 0.5-2 mM-bromobenzene. Exposure to 2 mM-bromobenzene within 2 hr after isolation caused cellular damage to hepatocytes from both species. Exposure to bromobenzene also resulted in reduced glutathione levels. In hamster hepatocytes glutathione was depleted by 60-85% with 0.5 mM bromobenzene, whereas in rat hepatocytes 2 mM caused a glutathione depletion of about 50%. Liver cell cultures from both species converted bromobenzene into three bromophenols. Hamster hepatocytes and microsomes appeared to metabolize bromobenzene more rapidly than those from rat liver. However, in hamster hepatocytes at bromobenzene concentrations of less than 2 mM no cytotoxicity could be detected, despite a rapid biotransformation of bromobenzene and a vast depletion of glutathione; both factors are thought to be prerequisites for bromobenzene-induced hepatotoxicity. The results emphasize the importance of detoxification mechanisms other than conjugation to glutathione, such as a high epoxide hydrolase activity, in the determination of sensitivity to bromobenzene."
+        },
+        {
+            "References": "Ueda T et al; Acta Histochem Cytochem 24 (6): 545-61 (1991)",
+            "Value": "The paper investigates by electron microscopy the mechanism of regeneration of Clara cells killed selectively and completely by bromobenzene in mouse terminal bronchioles. Male mice received an intraperitoneal injection of 0.76 g/kg bromobenzene. Within 24 hr Clara cells showed vacuolization of the massive smooth endoplasmic reticulum followed by severe cell damage, and all Clara cells then exfoliated into the airway. Only cilitated cells remained intact; 99.9% of the lining cells were ciliated cells, which flattened and covered all of the terminal bronchioles. Many ciliated cells then lost the cilia and basal bodies; concurrently, nonciliated cells occurred although cell proliferation was negligible. Between 3 and 5 days, these nonciliated cells divided and increased in number, but some of them still maintained a few basal bodies, strongly suggesting that they are \"post-ciliated\" cells. At the same time, some cells showed ciliogenesis to replenish the decreased cilitated cell population, and at day 5 some formed a cluster of smooth endoplasmic reticulum. After eight days, granules were formed in the smooth endoplasmic reticulum-containing cells, and resulted in Clara cell development. At day 2 when Clara cells were thoroughly destroyed, (3H)-thymidine was incorporated into some ciliated cells, which transformed into nonciliated cells at days 3 and 4. A bronchiolar regeneration mechanism involves differentiation of cilitated cells to form nonciliated cells, from which columnar epithelium regenerates."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "PMID:287406",
+            "Value": "In 1979, environmental samples (number unknown) were collected off site of bromine industry plants near El Dorado and Magnolia, Arkansas. Unreported concentrations of bromobenzene were identified in the soil and sediment(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. Washington DC: Amer Chem Soc p.17 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 23 (1983)",
+            "Value": "The Koc of bromobenzene is estimated as approximately 268 (SRC), using an experimental log Kow of 2.99 (1,SRC) and a regression-derived equation(2,SRC). According to a recommended classification scheme(3), this estimated Koc value suggests that bromobenzene has moderate mobility in soil(SRC)."
+        }
+    ]
+}

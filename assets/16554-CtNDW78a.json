@@ -1,0 +1,91 @@
+{
+    "_id": {
+        "$oid": "6682e926c4e5dba5ffba292b"
+    },
+    "CID": {
+        "$numberInt": "16554"
+    },
+    "Name": "CYCLURON",
+    "IUPACName": "3-cyclooctyl-1,1-dimethylurea",
+    "CanonicalSMILES": "CN(C)C(=O)NC1CCCCCCC1",
+    "Synonyms": [
+        "CYCLURON",
+        "2163-69-1",
+        "3-Cyclooctyl-1,1-dimethylurea",
+        "Cyclouron",
+        "\"Urea",
+        "N-cyclooctyl-N,N-dimethyl-\"",
+        "\"N-Cyclooctyl-N,N-dimethylurea\"",
+        "HS 61",
+        "Urea",
+        "3-cyclooctyl-1,1-dimethyl-",
+        "V8K90CTK5Q",
+        "1-cyclooctyl-3,3-dimethylurea",
+        "CHEBI:82231",
+        "3-Cyclooctyl-1,1-dimethylharnstoff",
+        "OMU",
+        "Caswell No. 271A",
+        "Cycluron [BSI:ISO]"
+    ],
+    "IsomericSMILES": "CN(C)C(=O)NC1CCCCCCC1",
+    "INCHI": "InChI=1S/C11H22N2O/c1-13(2)11(14)12-10-8-6-4-3-5-7-9-10/h10H,3-9H2,1-2H3,(H,12,14)",
+    "INCHIKEY": "DQZCVNGCTZLGAQ-UHFFFAOYSA-N",
+    "Formula": "C11H22N2O",
+    "MolecularWeight": {
+        "$numberDouble": "198.31"
+    },
+    "Description": "Cycluron is a member of ureas.",
+    "XlogP": {
+        "$numberDouble": "2.4"
+    },
+    "Complexity": {
+        "$numberInt": "172"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "Kenaga EE; Ecotoxicology and Environmental Safety 4: 33 (1980)",
+            "Value": "Bioconcentration factor = 12 (calculated from water solubility by regression equations). /From table/"
+        },
+        {
+            "References": "(1) Meylan WM, Howard PH; J Pharm Sci 84: 83-92 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994) (4) Yalkowsky SH, Dannenfelser RM; Aquasol Database of Aqueous Solubility. Version 5. College of Pharmacy, Univ of Ariz - Tucson, AZ. PC Version (1992)",
+            "Value": "An estimated BCF value of 79 was calculated for cycluron(SRC), using an estimated log Kow of 2.8(1,SRC) and a recommended regression-derived equation(2). According to a classification scheme(3), this BCF value suggests that bioconcentration in aquatic organisms is moderate, not high(SRC). An estimated BCF value of 11 was calculated for cycluron(SRC), using an experimental water solubility of 1200 mg/l at 20 \u00b0C(4,SRC) and a recommended regression-derived equation(2). According to a classification scheme(3), this BCF value suggests that bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "Buchel KH (ed); Chemistry of Pesticides p.350 (1983)",
+            "Value": "... Some plants such as cotton are able to degrade herbicidal ureas relatively rapidly to nonphytotoxic compounds. /Ureas/"
+        },
+        {
+            "References": "Kirk-Othmer Encyclopedia of Chemical Technology. 3rd ed., Volumes 1-26. New York, NY: John Wiley and Sons, 1978-1984., p. 21(83) 263-294",
+            "Value": "Urea herbicides readily undergo photolysis. /Urea herbicides/"
+        },
+        {
+            "References": "(1) Kearney PC, Kaufman DD; Herbicides: Chemistry, Degradation, and Mode of Action, Vol 1. NY,NY: Marcel Dekker, Inc p. 231 (1975) (2) Hocombe SD et al; Proc Brit Weed Control Conf Eighth 2: 605-13 (1966)",
+            "Value": "A decrease in degradation of urea herbicides after soil sterilization was observed; approx. 30% of diuron was degraded after 4 weeks in nonsterilized soil samples, <15% of diuron was degraded after 4 weeks in sterile soil(1). The soil persistence of cycluron was reported as 4.5 to 60 weeks at doses of 0.125 to 2.0 lb/acre, based on the time taken for its activity to decrease below levels giving 50% and 20% growth inhibition in Italian ryegrass(2)."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Buchel KH (ed); Chemistry of Pesticides p.350 (1983)",
+            "Value": "Their herbicidal activity depends on inhibition of photosynthesis by blocking of electron transport in Photosystem II. /Ureas/"
+        },
+        {
+            "References": "Kirk-Othmer Encyclopedia of Chemical Technology. 3rd ed., Volumes 1-26. New York, NY: John Wiley and Sons, 1978-1984., p. 12(80) 297-351",
+            "Value": "/In photosynthesis/ ... The urea herbicides interfere with the mechanism of oxygen evolution ... A flavin-containing enzyme may be involved in the photosynthetic reaction sequence in which oxygen is produced. Blocking this enzyme by urea results in the destruction of the plant by starvation or as a result of accumulation of a phytotoxic product. /Urea herbicides/"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "Kenaga EE; Ecotoxicology and Environmental Safety 4: 33 (1980)",
+            "Value": "Koc = 93 (calculated from water solubility by regression equations). /From table/"
+        },
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992) (2) Swann RL et al; Res Rev 85: 23 (1983) (3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 4-5, 4-9, 5-4, 5-10, 15-1 to 15-29 (1990) (4) Yalkowsky SH, Dannenfelser RM; Aquasol Database of Aqueous Solubility. Version 5. College of Pharmacy, Univ of Ariz - Tucson, AZ. PC Version (1992) (5) Harris CI; Weeds 15: 214-6 (1967)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc for cycluron can be estimated to be about 160(SRC). According to a recommended classification scheme(2), this estimated Koc value suggests that cycluron is expected to have moderate mobility in soil(SRC). An estimated Koc value of 88(3,SRC) was calculated from a measured water solubility of 1200 mg/l at 20 \u00b0C(4). According to a recommended classification scheme(2), this estimated Koc value suggests that cycluron is expected to have high mobility in soil(SRC)."
+        }
+    ]
+}

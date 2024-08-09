@@ -1,0 +1,79 @@
+{
+    "_id": {
+        "$oid": "6682e861c4e5dba5ffba254b"
+    },
+    "CID": {
+        "$numberInt": "6877"
+    },
+    "Name": "ETHYL ANTHRANILATE",
+    "IUPACName": "ethyl 2-aminobenzoate",
+    "CanonicalSMILES": "CCOC(=O)C1=CC=CC=C1N",
+    "Synonyms": [
+        "ETHYL ANTHRANILATE",
+        "Ethyl 2-aminobenzoate",
+        "87-25-2",
+        "Ethyl o-aminobenzoate",
+        "Anthranilic acid",
+        "ethyl ester",
+        "2-Aminobenzoic acid ethyl ester",
+        "2-Carboethoxyaniline",
+        "o-(Ethoxycarbonyl)aniline",
+        "Benzoic acid",
+        "o-amino-",
+        "ethyl ester",
+        "Benzoic acid",
+        "2-amino-",
+        "ethyl ester",
+        "2-(Ethoxycarbonyl)aniline",
+        "FEMA No. 2421",
+        "ethyl-o-aminobenzoate",
+        "1333-08-0",
+        "2-Aminobenzoic acid",
+        "ethyl ester"
+    ],
+    "IsomericSMILES": "CCOC(=O)C1=CC=CC=C1N",
+    "INCHI": "InChI=1S/C9H11NO2/c1-2-12-9(11)7-5-3-4-6-8(7)10/h3-6H,2,10H2,1H3",
+    "INCHIKEY": "TWLLPUMZVVGILS-UHFFFAOYSA-N",
+    "Formula": "C9H11NO2",
+    "MolecularWeight": {
+        "$numberDouble": "165.19"
+    },
+    "Description": "Ethyl 2-aminobenzoate is a benzoate ester.",
+    "XlogP": {
+        "$numberDouble": "2.6"
+    },
+    "Complexity": {
+        "$numberInt": "159"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 59 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 19 was calculated in fish for ethyl anthranilate(SRC), using a log Kow of 2.57(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 59",
+            "Value": "log Kow = 2.57"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Mortelmans K et al; Environ Mutagen 8:1-119 (1986)",
+            "Value": "/GENOTOXICITY/ Ethyl anthranilate was tested for mutagenicity in the Salmonella/ microsome preincubation assay using the standard protocol approved by the National Toxicology Program. Ethyl anthranilate was tested at doses of 0.01, 0.033, 0.10, 0.33, 0.50, and 0.80 mg/plate in as many as 5 Salmonella typhimurium strains (TA 1535, TA 1537, TA 97, TA 98, and TA 100) in the presence and absence of rat or hamster liver S-9. Ethyl anthranilate was negative in these tests and the highest ineffective dose tested without significant toxicity in any S. typhimurium strain was 0.33 mg/plate. Total clearing of the background bacterial lawn occurred in nearly all cultures tested at doses above this level."
+        },
+        {
+            "References": "FDA Center for Food Safety and Applied Nutrition (CFSAN); EAFUS: A Food Additive Database. Search for ethyl anthranilate. Available from, as of August 1, 2007: https://vm.cfsan.fda.gov/~dms/eafus.html",
+            "Value": "/OTHER TOXICITY INFORMATION/ Listed in FDA's Food Additive Database as a chemical for which fully up-to-date toxicology information has been sought."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 59 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of ethyl anthranilate is estimated as 600(SRC), using a log Kow of 2.57(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that ethyl anthranilate is expected to have low mobility in soil."
+        }
+    ]
+}

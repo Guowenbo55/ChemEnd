@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "669270f0303528b49832d748"
+    },
+    "CID": {
+        "$numberInt": "184900"
+    },
+    "Name": "Prohexadione",
+    "IUPACName": "3,5-dioxo-4-propanoylcyclohexane-1-carboxylic acid",
+    "CanonicalSMILES": "CCC(=O)C1C(=O)CC(CC1=O)C(=O)O",
+    "Synonyms": [
+        "Prohexadione",
+        "88805-35-0",
+        "Prohexadione [ISO]",
+        "DOCHC",
+        "3,5-Dioxo-4-propionylcyclohexanecarboxylic acid",
+        "3,5-dioxo-4-propanoylcyclohexane-1-carboxylic acid",
+        "Cyclohexanecarboxylicacid",
+        "3,5-dioxo-4-(1-oxopropyl)-",
+        "4PC163MD7L",
+        "3,5-dioxo-4-(1-oxopropyl)cyclohexanecarboxylic acid",
+        "3,5-dioxo-4-propanoylcyclohexanecarboxylic acid",
+        "Cyclohexanecarboxylic acid",
+        "3,5-dioxo-4-(1-oxopropyl)-",
+        "3,5-dioxo-4-propanoyl-cyclohexanecarboxylic acid",
+        "UNII-4PC163MD7L",
+        "DOCOC",
+        "PROHEXADIONE [MI]"
+    ],
+    "IsomericSMILES": "CCC(=O)C1C(=O)CC(CC1=O)C(=O)O",
+    "INCHI": "InChI=1S/C10H12O5/c1-2-6(11)9-7(12)3-5(10(14)15)4-8(9)13/h5,9H,2-4H2,1H3,(H,14,15)",
+    "INCHIKEY": "BUCOQPHDYUOJSI-UHFFFAOYSA-N",
+    "Formula": "C10H12O5",
+    "MolecularWeight": {
+        "$numberDouble": "212.2"
+    },
+    "Description": "Prohexadione is a 4-oxo monocarboxylic acid that is cyclohexanecarboxylic acid which is substituted by oxo groups at positions 3 and 5, and by a propanoyl group at position 4. A plant growth regulator, it is used (commonly as the corresponding calcium salt, known as prohexadione-calcium) as an anti-lodging agent in small-grain cereals. It has a role as an agrochemical, a plant growth regulator and a gibberellin biosynthesis inhibitor. It is a 4-oxo monocarboxylic acid and a beta-triketone. It is a conjugate acid of a prohexadione(2-).",
+    "XlogP": {
+        "$numberDouble": "-0.4"
+    },
+    "Complexity": {
+        "$numberInt": "313"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The study investigated the absorption and distribution of prohexadione in sunflowers to understand its impact on O. cumana emergence. When sunflower leaves were treated with prohexadione, the analysis revealed that a significant portion of the compound was absorbed by the leaves, reaching up to 65% of the applied prohexadione after 72 hours. The examination of different plant parts showed that while the amount of prohexadione in the leaf decreased over time, indicating absorption, its proportion in the acropetal part increased to 36%. This indicated movement within the plant from the applied leaf to other parts. Notably, prohexadione was also detected in the roots, escalating from 13% at 24 hours to 23% at 72 hours after application. This evidence strongly suggests that prohexadione is translocated within the sunflower plant, reaching not just the leaves but also the roots over time. Furthermore, the decline in detected prohexadione levels in all analyzed parts, including the leaf surface residue, after 72 hours indicates potential metabolism or excretion by the sunflower roots.",
+            "reference": "Lerner, F., Pfenning, M., Picard, L., Lerchl, J., & Hollenbach, E. (2020). Prohexadione calcium is herbicidal to the sunflower root parasite Orobanche cumana. Pest Management Science. doi:10.1002/ps.6216\u00a0",
+            "method": {
+                "Test Plant": "O. cumana seeds, Helianthus annuus variety Paraiso 1000 (sunflower)",
+                "Apply Location": "foliar apply",
+                "Plant Grown Condition": "Sunflowers were grown in a climate chamber at 24\u00b0C for 20 hours with a light intensity of 13,000 lm/m2, including a cool morning period for 4 hours with a ramp up to 24\u00b0C and 13,000 lm/m2. The night period temperature was 20\u00b0C.",
+                "Chemical preparation": "O. cumana seeds were sterilized with 5% (v/v) sodium hypochlorite for 8 minutes and then washed with sterile water. Sunflower seeds were sterilized for 1 hour in 5% (v/v) sodium hypochlorite and 0.1% Tween\u00ae 80. The pure active ingredient of prohexadione was used for germination assays, while prohexadione calcium formulated as Regalis\u00ae (100 g/kg prohexadione calcium) was used for all other studies.",
+                "Received pesticide of plant": "One leaf of each 20 day old soil-grown sunflower, at the 4 \u2013 6 leaf stage, was treated with 5 \u00b5L of 0.8 mg ai/mL Regalisby droplet application.",
+                "Other Information": "3 replicates"
+            },
+            "result": "[{\"Time After Application\": \"6h\", \"Absorption\": \"32%\", \"Leaf Distribution\": \"80% - 85%\", \"Root Distribution\": \"0 - 5%\", \"Basipetal Distribution\": \"0 - 5%\", \"Akropetal Distribution\": \"0 - 5%\"}, {\"Time After Application\": \"24h\", \"Absorption\": \"55%\", \"Leaf Distribution\": \"50% - 55%\", \"Root Distribution\": \"around 12%\", \"Basipetal Distribution\": \"around 10%\", \"Akropetal Distribution\": \"around 15%\"}, {\"Time After Application\": \"48h\", \"Absorption\": \"63%\", \"Leaf Distribution\": \"35% - 40%\", \"Root Distribution\": \"around 20%\", \"Basipetal Distribution\": \"around 10%\", \"Akropetal Distribution\": \"around 30%\"}, {\"Time After Application\": \"72h\", \"Absorption\": \"65%\", \"Leaf Distribution\": \"30% - 35%\", \"Root Distribution\": \"around 25%\", \"Basipetal Distribution\": \"around 10%\", \"Akropetal Distribution\": \"around 30%\"}]"
+        }
+    ]
+}

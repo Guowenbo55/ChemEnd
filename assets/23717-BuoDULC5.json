@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "6692711c303528b49832d7f5"
+    },
+    "CID": {
+        "$numberInt": "23717"
+    },
+    "Name": "Propaphos",
+    "IUPACName": "(4-methylsulfanylphenyl) dipropyl phosphate",
+    "CanonicalSMILES": "CCCOP(=O)(OCCC)OC1=CC=C(C=C1)SC",
+    "Synonyms": [
+        "PROPAPHOS",
+        "7292-16-2",
+        "4-Methylthiophenyl dipropyl phosphate",
+        "(4-methylsulfanylphenyl) dipropyl phosphate",
+        "0U4CU57BYP",
+        "Phosphoric acid",
+        "4-(methylthio)phenyl dipropyl ester",
+        "Kayphosnac",
+        "Propaphos 10 microg/mL in Isooctane",
+        "Propaphos 1000 microg/mL in Acetone",
+        "4-(methylthio)phenyl dipropyl phosphate",
+        "Kayaphos",
+        "4-(methylsulfanyl)phenyl dipropyl phosphate",
+        "Phosphoric acid",
+        "4-(methylthio)phenyl dipropyl ester (9CI)",
+        "Propafos",
+        "Propaphos [BSI:ISO]"
+    ],
+    "IsomericSMILES": "CCCOP(=O)(OCCC)OC1=CC=C(C=C1)SC",
+    "INCHI": "InChI=1S/C13H21O4PS/c1-4-10-15-18(14,16-11-5-2)17-12-6-8-13(19-3)9-7-12/h6-9H,4-5,10-11H2,1-3H3",
+    "INCHIKEY": "PWYIUEFFPNVCMW-UHFFFAOYSA-N",
+    "Formula": "C13H21O4PS",
+    "MolecularWeight": {
+        "$numberDouble": "304.34"
+    },
+    "Description": "Propaphos is an organophosphate insecticide and a dialkyl aryl phosphate. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor and an agrochemical. It is functionally related to a 4-(methylsulfanyl)phenol.",
+    "XlogP": {
+        "$numberDouble": "3.9"
+    },
+    "Complexity": {
+        "$numberInt": "268"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "14C-Propaphos, when applied foliarly, was quickly absorbed through the leaf surface and translocated primarily to the upper parts of the plant. When applied to the roots, it was readily absorbed and rapidly translocated to the shoots and leaves. However, when the roots were transferred to a propaphos-free solution, the radiocarbon was released into the culture solution, with the released compounds consisting of propaphos and propaphos SO in nearly equal amounts. Metabolic reactions included oxidation of the methylthio sulfur to sulfoxide and sulfone, hydrolysis of the phosphorus-0-phenyl ester, and identification of four metabolites. The recovery of radiocarbon from 4 and a half month old rice plants and soil treated with 14C-propaphos at 3g/are was estimated to be 3.7% in roots, 20% in shoots and leaves, 0.14% in hulls, 0.07% in hulled rice, and 58.2% in soil. The radioactive residue in hulled rice treated with 14C-propaphos was 0.02 ppm, which is below the residue limit of 0.05 ppm, and no intact propaphos was detected in it.",
+            "reference": "\u85e4\u4e95\u4fdd\u7537, \u6d45\u9999\u56db\u90ce, & \u898b\u91cc\u671d\u6b63. (1980). Fate of propaphos (Kayaphos\u00ae) in rice plants. Journal of Pesticide Science, 5(1), 55-62.",
+            "method": {
+                "Test Plant": "Rice (Oryza sativa L. cv. NIHONBARE)",
+                "Apply Location": "Foliar application on leaf surface",
+                "Plant Grown Condition": "Rice plants were grown from seeds in Kureha soil D for 2 weeks before treatment.",
+                "Chemical Preparation": "14C-propaphos labeled at phenyl ring with specific activity 5.99 mCi/mmol. Non-labeled propaphos and analogues synthesized in the laboratory",
+                "Pesticide Application Details for the Plant": "2 \u03bcl of 14C-propaphos (1 \u03bcg, 4.37x104 dpm) in 50% ethanol applied to 1 cm width of leaf surface",
+                "Other Information": "Treated plants were sectioned into treated zones and other parts after washing surface residues."
+            },
+            "result": "[{\"Hours after application\": 6, \"Total recovery (%)\": 94.689, \"Total absorption (%)\": 48.238, \"Applied zone (%)\": 27.394, \"Upper (%)\": 18.064, \"Lower (%)\": 2.183, \"Surface wash (%)\": 43.473}, {\"Hours after application\": 12, \"Total recovery (%)\": 84.962, \"Total absorption (%)\": 49.032, \"Applied zone (%)\": 21.24, \"Upper (%)\": 25.012, \"Lower (%)\": 1.786, \"Surface wash (%)\": 36.724}, {\"Hours after application\": 24, \"Total recovery (%)\": 81.191, \"Total absorption (%)\": 57.369, \"Applied zone (%)\": 15.285, \"Upper (%)\": 36.923, \"Lower (%)\": 2.183, \"Surface wash (%)\": 23.225}, {\"Hours after application\": 72, \"Total recovery (%)\": 68.486, \"Total absorption (%)\": 55.384, \"Applied zone (%)\": 6.352, \"Upper (%)\": 47.642, \"Lower (%)\": 0.397, \"Surface wash (%)\": 11.315}]"
+        }
+    ]
+}

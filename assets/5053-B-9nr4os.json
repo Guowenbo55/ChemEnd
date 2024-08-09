@@ -1,0 +1,131 @@
+{
+    "_id": {
+        "$oid": "6682e81bc4e5dba5ffba23f0"
+    },
+    "CID": {
+        "$numberInt": "5053"
+    },
+    "Name": "RESMETHRIN",
+    "IUPACName": "(5-benzylfuran-3-yl)methyl 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate",
+    "CanonicalSMILES": "CC(=CC1C(C1(C)C)C(=O)OCC2=COC(=C2)CC3=CC=CC=C3)C",
+    "Synonyms": [
+        "resmethrin",
+        "10453-86-8",
+        "Benzofuroline",
+        "Isathrine",
+        "Benzofuroline; Isathrine",
+        "Bioresmethrine",
+        "Resbuthrin",
+        "CHEBI:8811",
+        "DTXSID7022253",
+        "d-trans-Resmethrin",
+        "For-syn",
+        "5-Benzyl-3-furylmethyl (1RS,3RS;1RS,3SR)-2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropanecarboxylate",
+        "Resmethrin 10 microg/mL in Cyclohexane",
+        "Benzyfuroline",
+        "Penncapthrin"
+    ],
+    "IsomericSMILES": "CC(=CC1C(C1(C)C)C(=O)OCC2=COC(=C2)CC3=CC=CC=C3)C",
+    "INCHI": "InChI=1S/C22H26O3/c1-15(2)10-19-20(22(19,3)4)21(23)25-14-17-12-18(24-13-17)11-16-8-6-5-7-9-16/h5-10,12-13,19-20H,11,14H2,1-4H3",
+    "INCHIKEY": "VEMKTZHHVJILDY-UHFFFAOYSA-N",
+    "Formula": "C22H26O3",
+    "MolecularWeight": {
+        "$numberDouble": "338.4"
+    },
+    "Description": "Resmethrin is a member of furans and a cyclopropanecarboxylate ester. It has a role as a pyrethroid ester insecticide and an agrochemical. It is functionally related to a chrysanthemic acid.",
+    "XlogP": {
+        "$numberDouble": "6.1"
+    },
+    "Complexity": {
+        "$numberInt": "497"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Tomlin CDS, ed. Resmethrin (10453-86-8). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council. (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 98 was calculated for resmethrin(SRC), using a log Kow of 5.43(1) and a regression derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is moderate(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Demoute JP; Pestic Sci 27: 375-85 (1989) (2) Casida JE et al; Arch Environ Contam 3: 491-500 (1976)",
+            "Value": "AEROBIC: Although environmental biodegradation data specific to resmethrin are not available, the pyrethroid class of insecticides is readily degraded by environmental microorganisms(1,2). Pyrethroids are metabolized by both hydrolytic and oxidative processes(2). Both (+) cis and (+) trans undergo isomerization during the formation of metabolites by ester cleavage and oxidation(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Tomlin CDS, ed. Resmethrin (10453-86-8). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council.",
+            "Value": "log Kow = 5.43"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Gammon DW et al; Two classes of pyrethroid action in the cockroach. Pestic Biochem Physiol 15 (2): 181-91 (1981)",
+            "Value": "Pyrethroids are divided into 2 classes (types I and II) based on their effects on cercal sensory nerves and on symptomatology they produced in dosed cockroaches. Type I incl resmethrin."
+        },
+        {
+            "References": "Abbassy MA et al; Pestic Biochem Physiol 19 (3): 299-308 (1983)",
+            "Value": "The interactions of natural pyrethrins and 9 pyrethroids with the nicotinic acetylcholine (ACh) receptor/channel complex of Torpedo electronic organ membranes were studied. None reduced (3)H-ACh binding to the receptor sites, but all inhibited (3)H-labeled perhydrohistrionicotoxin ((3H)H12-HTX) binding to the channel sites in presence of carbamylcholine. Allethrin inhibited binding noncompetitively, but (3)H-labeled imipramine binding competitively, suggesting that allethrin binds to the receptor's channel sites that bind imipramine. The pyrethroids were divided into 2 types according to their action: type A, which included allethrin, was more potent in inhibiting (3)H-H12-HTX binding and acted more rapidly. Type B, which included permethrin, was less potent and their potency increased slowly with time. The high affinities that several pyrethroids have for this nicotinic ACh receptor suggest that pyrethroids may have for this nicotinic ACh receptor suggest that pyrethroids may have a synaptic site of action in addition to their well known effects on the axonal channels. /Pyrethroids/"
+        },
+        {
+            "References": "Doherty JD et al; Comp Biochem Physiol C Comp Pharm Toxicol 84 (2): 373-80 (1986)",
+            "Value": "/In rat brain in vitro/ resmethrin (at 30 uM) induced the release of transmitters was not affected by manipulation of the Na+ current with either choline or tetrodotoxin agents ... . Resmethrin (at 2.2 uM) inhibited the ATP-dependent uptake of Ca+ ... also it displaced Ca+ from crude synaptosomal membranes."
+        },
+        {
+            "References": "PMID:2546657",
+            "Value": "Phosphoinositide breakdown in guinea pig cerebral cortical synaptoneurosomes induced by the Type I pyrethroids allethrin, resmethrin, and permethrin and the Type II pyrethroid deltamethrin and fenvalerate were investigated with various receptor agonists as well as sodium channel blockers and agents. Phosphoinositide breakdown was determined from inositol-phosphate formation by tritiated inositol labeled synaptoneurosomes. All five pyrethroids dose dependently induced phosphoinositide breakdown. Type II pyrethroids exhibited higher potency and deltamethrin was more efficacious than the Type I pyrethroids. Five micromolar tetrodotoxin, a blocker of voltage dependent sodium channels, partially inhibited deltamethrin (85%) and fenvalerate (60%) responses but not allethrin or resmethrin. Fenvalerate induced stimulation of phosphoinositide breakdown was additive with stimulation elicited by the receptor agonists carbamylcholine (1 mM) and norepinephrine (1000 uM) but less than additive with the sodium channel agents batrachotoxin, pumiliotoxin-B, and scorpion venom. Allethrin (100 uM) was less than additive with receptor agonists or sodium channel agents and actually significantly inhibited response to scorpion venom. Effects for 100 uM allethrin with either fenvalerate or deltamethrin were not different from allethrin alone. Ten micromolar allethrin slightly decreased response to 10 to 100 uM deltamethrin. The local anesthetic dibucaine, a sodium channel activation inhibitor, completely blocked deltamethrin induced phosphoinositide breakdown but was much less effective in inhibiting allethrin response. It appears likely that Type-I pyrethroids induce phosphoinositide breakdown through a mechanism other than sodium channel activation while Type-II pyrethroids act in a manner analogous to other sodium channel agents."
+        },
+        {
+            "References": "Ellenhorn, M.J. and D.G. Barceloux. Medical Toxicology - Diagnosis and Treatment of Human Poisoning. New York, NY: Elsevier Science Publishing Co., Inc. 1988., p. 1081",
+            "Value": "The synthetic pyrethroids delay closure of the sodium channel, resulting in a sodium tail current that is characterized by a slow influx of sodium during the end of depolarization. Apparently the pyrethroid molecule holds the activation gate in the open position. Pyrethroids with an alpha-cyano group (e.g., fenvalerate) produce more prolonged sodium tail currents than do other pyrethroids (e.g., permethrin, bioresmethrin). The former group of pyrethroids causes more cutaneous sensations than the latter. /Synthetic pyrethroids/"
+        },
+        {
+            "References": "Hayes, W.J., Jr., E.R. Laws, Jr., (eds.). Handbook of Pesticide Toxicology. Volume 2. Classes of Pesticides. New York, NY: Academic Press, Inc., 1991., p. 588",
+            "Value": "Interaction with sodium channels is not the only mechanism of action proposed for the pyrethroids. Their effects on the CNS have led various workers to suggest actions via antagonism of gamma-aminobutyric acid (GABA)-mediated inhibition, modulation of nicotinic cholinergic transmission, enhancement of noradrenaline release, or actions on calcium ions. Since neurotransmitter specific pharmacological agents offer only poor or partical protection against poisoning, it is unlikely that one of these effects represents the primary mechanism of action of the pyrethroids, & most neurotransmitter release is secondary to incr sodium entry. /Pyrethroids/"
+        },
+        {
+            "References": "Matsumura, F. Toxicology of Insecticides. 2nd ed. New York, NY: Plenum Press, 1985., p. 147",
+            "Value": "The symptoms of pyrethrin poisoning follow the typical pattern ... : (1) excitation, (2) convulsions, (3) paralysis, and (4) death. The effects of pyrethrins on the insect nervous system closely resemble those of DDT, but are apparently much less persistent. Regular, rhythmic, and spontaneous nerve discharges have been observed in insect and crustacean nerve-muscle preparations poisoned with pyrethrins. The primary target of pyrethrins seems to be the ganglia of the insect central nervous system although some pyrethrin-poisoning effect can be observed in isolated legs. /Pyrethrins/"
+        },
+        {
+            "References": "McEvoy, G.K. (ed.). American Hospital Formulary Service - Drug Information 2000.Bethesda, MD: American Society of Health-System Pharmacists, Inc. 2000 (Plus Supplements)., p. 3203",
+            "Value": "/OTHER TERRESTRIAL SPECIES/ Following absorption through the chitinous exoskeleton of arthropods, pyrethrins stimulate the nervous system, apparently by competitively interfering with cationic conductances in the lipid layer of nerve cells, thereby blocking nerve impulse transmissions. Paralysis and death follow. /Pyrethrins/"
+        },
+        {
+            "References": "Matsumura, F. Toxicology of Insecticides. 2nd ed. New York, NY: Plenum Press, 1985., p. 147",
+            "Value": "Electrophysiologically, pyrethrins cause repetitive discharges and conduction block. /Pyrethrins/"
+        },
+        {
+            "References": "PMID:6299340",
+            "Value": "The interaction of a series of pyrethroid insecticides with the sodium channels in myelinated nerve fibers of the clawed frog, Xenopus laevis, was investigated using the voltage clamp technique. Of 11 pyrethroids, 9 insecticidally active cmpd induced a slowly decaying sodium tail current on termination of a step depolarization, whereas the sodium current during depolarization was hardly affected. /Pyrethroids/"
+        },
+        {
+            "References": "Hayes, Wayland J., Jr. Pesticides Studied in Man. Baltimore/London: Williams and Wilkins, 1982., p. 75",
+            "Value": "Mode of action of pyrethrum & related cmpd has been studied more in insects & in other invertebrates than in mammals. This action involves ion transport through the membrane of nerve axons &, at least in invertebrates & lower vertebrates, it exhibits a negative temperature coefficient. In both of these important ways & in many details, the mode of action of pyrethrin & pyrethroids resembles that of DDT. Esterases & mixed-function oxidase system differ in their relative importance for metabolizing different synthetic pyrethroids. The same may be true of the constituents of pyrethrum, depending on strain, species, & other factors. /Pyrethrins and pyrethroids/"
+        },
+        {
+            "References": "WHO; Environmental Health Criteria 99: Cyhalothrin p.89 (1990)",
+            "Value": "The primary target site of pyrethroid insecticides in the vertebrate nervous system is the sodium channel in the nerve membrane. Pyrethroids without an alpha-cyano group (allethrin, d-phenothrin, permethrin, and cismethrin) cause a moderate prolongation of the transient increase in sodium permeability of the nerve membrane during excitation. This results in relatively short trains of repetitive nerve impulses in sense organs, sensory (afferent) nerve fibers, and, in effect, nerve terminals. On the other hand the alpha-cyano pyrethroids cause a long lasting prolongation of the transient increase in sodium permeability of the nerve membrane during excitation. This results in long-lasting trains of repetitive impulses in sense organs and a frequency-dependent depression of the nerve impulse in nerve fibers. The difference in effects between permethrin and cypermethrin, which have identical molecular structures except for the presence of an alpha-cyano group on the phenoxybenzyl alcohol, indicates that it is this alpha-cyano group that is responsible for the long-lasting prolongation of the sodium permeability. Since the mechanisms responsible for nerve impulse generation and conduction are basically the same throughout the entire nervous system, pyrethroids may also induce repetitive activity in various parts of the brain. The difference in symptoms of poisoning by alpha-cyano pyrethroids, compared with the classical pyrethroids, is not necessarily due to an exclusive central site of action. It may be related to the long-lasting repetitive activity in sense organs and possibly in other parts of the nervous system, which, in a more advance state of poisoning, may be accompanied by a frequency-dependent depression of the nervous impulse. /Synthetic pyrethroids/"
+        },
+        {
+            "References": "WHO; Environmental Health Criteria 99: Cyhalothrin p.90 (1990)",
+            "Value": "Pyrethroids also cause pronounced repetitive activity and a prolongation of the transient increase in sodium permeability of the nerve membrane in insects and other invertebrates. Available information indicates that the sodium channel in the nerve membrane is also the most important target site of pyrethroids in the invertebrate nervous system. /Synthetic pyrethroids/"
+        },
+        {
+            "References": "Klaassen, C.D., M.O. Amdur, Doull J. (eds.). Casarett and Doull's Toxicology. The Basic Science of Poisons. 5th ed. New York, NY: McGraw-Hill, 1995., p. 668",
+            "Value": "Type I Pyrethroid esters /lacking the alpha-cyano substituents/ affect sodium channels in nerve membranes, causing repetitive (sensory, motor) neuronal discharge and a prolonged negative afterpotential, the effects being quite similar to those produced by DDT. /Pyrethroid esters lacking the alpha-cyano substituent/"
+        },
+        {
+            "References": "WHO; Environmental Health Criteria 92: Resemethrins - Resmethrin, Bioresmethrin, Cisresmethrin p.51 (1989). Available from, as of May 28, 2009: https://www.inchem.org/documents/ehc/ehc/ehc092.htm",
+            "Value": "Resmethrin (30 umol/L)-induced release of transmitters was not affected by manipulation of the Na+ current with either choline or tetrodotoxin agents, which readily reversed the effects of veratridine, deltamethrin, and cypermethrin. Resmethrin (I50: 2.2 umol/L) inhibited the ATP-dependent uptake of Ca2+ but deltamethrin and cypermethrin were much less effective. Resmethrin also displaced Ca2+ from crude synaptosomal membranes. The release-promoting effects of resmethrin in rat brain in vitro are better explained by its effects on Ca2+ rather than by a specific effect on the Na+ channel. In contrast, deltamethrin and cypermethrin promote transmitter release by a Na+ dependent process."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Tomlin CDS, ed. Resmethrin (10453-86-8). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council.(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.0. Jan, 2009. Available from https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm as of Jul 9, 2009. (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of resmethrin is estimated at 3.1X10+5(SRC), using a measured log Kow of 5.43(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that resmethrin is expected to be immobile in soil(SRC)."
+        }
+    ]
+}

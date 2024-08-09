@@ -1,0 +1,91 @@
+{
+    "_id": {
+        "$oid": "6682e998c4e5dba5ffba2b6a"
+    },
+    "CID": {
+        "$numberInt": "441071"
+    },
+    "Name": "Strychnine",
+    "IUPACName": "(4aR,5aS,8aR,13aS,15aS,15bR)-4a,5,5a,7,8,13a,15,15a,15b,16-decahydro-2H-4,6-methanoindolo[3,2,1-ij]oxepino[2,3,4-de]pyrrolo[2,3-h]quinolin-14-one",
+    "CanonicalSMILES": "C1CN2CC3=CCOC4CC(=O)N5C6C4C3CC2C61C7=CC=CC=C75",
+    "Synonyms": [
+        "strychnine",
+        "57-24-9",
+        "Strychnidin-10-one",
+        "(-)-Strychnine",
+        "Sanaseed",
+        "Strychnin",
+        "Strychninum",
+        "Estricnina",
+        "Strychinos",
+        "Gopher bait",
+        "Gopher-gitter",
+        "Boomer-rid",
+        "Hare-Rid",
+        "Caswell No. 805",
+        "CHEBI:28973"
+    ],
+    "IsomericSMILES": "C1CN2CC3=CCO[C@H]4CC(=O)N5[C@H]6[C@H]4[C@H]3C[C@H]2[C@@]61C7=CC=CC=C75",
+    "INCHI": "InChI=1S/C21H22N2O2/c24-18-10-16-19-13-9-17-21(6-7-22(17)11-12(13)5-8-25-16)14-3-1-2-4-15(14)23(18)20(19)21/h1-5,13,16-17,19-20H,6-11H2/t13-,16-,17-,19-,20-,21+/m0/s1",
+    "INCHIKEY": "QMGVPVSNSZLJIA-FVWCLLPLSA-N",
+    "Formula": "C21H22N2O2",
+    "MolecularWeight": {
+        "$numberDouble": "334.4"
+    },
+    "Description": "Strychnine is a monoterpenoid indole alkaloid that is strychnidine bearing a keto substituent at the 10-position. It has a role as an avicide, a glycine receptor antagonist, a cholinergic antagonist, a rodenticide and a neurotransmitter agent. It is a monoterpenoid indole alkaloid and an organic heteroheptacyclic compound. It is a conjugate base of a strychnine(1+). It derives from a hydride of a strychnidine.",
+    "XlogP": {
+        "$numberDouble": "1.9"
+    },
+    "Complexity": {
+        "$numberInt": "689"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) O'Neil MJ, ed; The Merck Index. 15th ed.,Cambridge, UK: Royal Society of Chemistry, p. 1637 (2013) (2) Franz DN; p. 359 in The Pharmacological Basis of Therapeutics 5th ed; Gilman LS, Goodman A eds New York, NY: MacMillan (1975) (3) Cordell GA; Kirk-Othmer Encycl Chem Tech. New York, NY: Wiley 1: 918 (1978) (4) Kametni T et al; Ullmann's Encycl Indust Chem. Deerfield Beach, FL: VCH Publ VA1: 590 (1985)",
+            "Value": "Strychnine is an alkaloid found in seeds of Strychnos nux vomica Loganiaceae, beans of Strychnos ignatii(1), Strychnos toxifera(4), and other species of Strychnos, Loganiaceae(2,3). The most important Strychnos species are S. nux vomica L. and S. ignatii Berg. Seeds from these species contain 2-3% of total alkaloids, of which approximately one-half of the first and two-thirds of the second is strychnine(3,4)."
+        },
+        {
+            "References": "(1) US Dept Agric; US Dept Agric, Agric Res Service. 1992-2016. Dr. Duke's Phytochemical and Ethnobotanical Databases. Strychnine.",
+            "Value": "Strychnine occurrence in nux-vomica(1).",
+            "Table": "[{'Genus species': 'Strychnos nux-vomica', 'Family': 'Loganiaceae', 'Common name(s)': 'Stychnine; Nux-Vomica', 'Part': 'bark', 'Concn (ppm)': '15,800'}, {'Genus species': nan, 'Family': nan, 'Common name(s)': nan, 'Part': 'seed', 'Concn (ppm)': '12,000'}, {'Genus species': nan, 'Family': nan, 'Common name(s)': nan, 'Part': 'seed', 'Concn (ppm)': '400-12,000'}, {'Genus species': nan, 'Family': nan, 'Common name(s)': nan, 'Part': 'leaf', 'Concn (ppm)': '8,000'}, {'Genus species': nan, 'Family': nan, 'Common name(s)': nan, 'Part': 'root', 'Concn (ppm)': '7,030'}, {'Genus species': nan, 'Family': nan, 'Common name(s)': nan, 'Part': 'plant', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Argyreia nervosa', 'Family': 'Convolvulaceae', 'Common name(s)': 'Silver Mornign Glory; Wood Rose', 'Part': 'Plant', 'Concn (ppm)': 'not reported'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR., consult. ed., Washington,DC: Amer Chem Soc (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of July 2, 2018: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994) (4) Kenaga EE; Ecotox Environ Safety 4: 26-38 (1980). Available from, as of July 3, 2018: https://www.ncbi.nlm.nih.gov/pubmed/7379718?dopt=Abstract",
+            "Value": "An estimated BCF of 9 was calculated for strychnine(SRC), using a log Kow of 1.93(1) and a regression derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC). A BCF of 2 based on a calculated water solubility by regression equations was reported for strychnine sulfate(4)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Starr RI et al; Inter Biodeter Biodeg 36: 103-24 (1995) (2) Rogers SL et al; Soil Biol Biochem 30: 129-34 (1998) (3) Starr RI et al; J Agric Food Chem 44: 1603-8 (1996)",
+            "Value": "AEROBIC: Ascolan series sandy loam (pH=7.6, %OM= 1.7) and sandy clay loam (pH=7.9, %OM= 2.3) from Larimaer County, CO were used in a soil biodegradation study. Moisture content was at 75% field capacity. Strychnine was added at 10 ppm and incubated at 25 \u00b0C in the dark for 56 days(1,3). After a lag of approximately 21 days, biodegradation proceeded rapidly with 97.6% and 92.3% removal after 56 days, respectively(1,3). The lag phase was attributed to combined microbial adaption and soil adsorption(1,3). Little or no degradation of strychnine at a concentration of 50 mg/kg was observed after 98 days in an acidic (pH= 5.9) Mintaro soil from South Australia(2). In contrast, >95% degradation was observed in Booleroo and Bute soils, pH of 6.72 and 7.32, respectively, from the same region(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 171",
+            "Value": "log Kow = 1.93"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 1, 2nd ed. 2001. Academic Press, San Diego, California., p. 156",
+            "Value": "Strychnine is a strong convulsant. The alkaloid excites the CNS by specifically antagonizing the inhibitory neurotransmitter amino acid, glycine, at postsynaptic receptors. Inhibitory glycine receptors are abundant in the spinal cord and brain stem where they are mainly involved in regulation of motor functions. Strychnine-binding glycine receptors were also found in the cortex, as well as in the auditory and visual systems. When inhibition is blocked, ongoing neuronal excitability is increased and sensory stimuli produce exaggerated reflex effects. Glycine receptors in higher brain centers such as the substantia nigra, neostriatum, and hippocampus are commonly insensitive to strychnine, explaining why strychnine symptoms are largely spinal in origin. Strychnine can also depress nicotinic-cholinergic responses through interaction with nicotinic receptors and at high concentrations in vitro binds to other receptors as well."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Starr RI et al; J Agric Food Chem 44: 1603-8 (1996) https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) O'Neil MJ, ed; The Merck Index. 15th ed., Cambridge, UK: Royal Society of Chemistry, p. 1637 (2013) (4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000) (5) Weber JB, Miller CT; pp. 305-33 in Reactions and Movement of Organic Chemicals in Soils. SSA Special Pub No. 22 (1989) (6) Rogers SL et al; Soil Biol Biochem 30: 129-34 (1998)",
+            "Value": "A mean Koc of 13,823 was reported for strychnine(1). According to a classification scheme(2), this Koc value suggests that strychnine is expected to be immobile soil. The pKa of strychnine is 8.26(3), indicating that this compound will exist partially in the cation form and cations generally adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(4). It has been suggested that strychnine is absorbed to such an extent, that no measurable amount remains in solution(5). It was concluded that strychnine soil adsorption may involve a combination of mechanisms, including surface adsorption and partitioning into the organic matter fraction, which may be pH dependent(6)."
+        },
+        {
+            "References": "(1) Starr RI et al; J Agric Food Chem 44: 1603-8 (1996)",
+            "Value": "Strychnine sorption in four Colorado soils. The mean Freundlich and Koc values were 106 and 13,823, respectively(1).",
+            "Table": "[{'Soil': 'Valent loamy sand', 'Characteristics': 'pH 6.7; 0.25% OC; 4% clay', 'Freundlich constant': 40, 'log Koc': 4.2}, {'Soil': 'Ascalon sandy loam', 'Characteristics': 'pH 8.3; 0.68% OC; 18% clay', 'Freundlich constant': 95, 'log Koc': 4.14}, {'Soil': 'Table Mtn sandy clay loam', 'Characteristics': 'pH 7.7; 1.26% OC; 12% clay', 'Freundlich constant': 119, 'log Koc': 3.97}, {'Soil': 'Kim loam', 'Characteristics': 'pH 8.0; 1.05% OC; 23% clay', 'Freundlich constant': 169, 'log Koc': 4.2}]"
+        }
+    ]
+}

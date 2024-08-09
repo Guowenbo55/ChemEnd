@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "669270fe303528b49832d77f"
+    },
+    "CID": {
+        "$numberInt": "27195"
+    },
+    "Name": "Benodanil",
+    "IUPACName": "2-iodo-N-phenylbenzamide",
+    "CanonicalSMILES": "C1=CC=C(C=C1)NC(=O)C2=CC=CC=C2I",
+    "Synonyms": [
+        "Benodanil",
+        "2-Iodo-N-phenylbenzamide",
+        "15310-01-7",
+        "2-IODOBENZANILIDE",
+        "Benzamide",
+        "2-iodo-N-phenyl-",
+        "Calirus",
+        "Benzanilide",
+        "2-iodo-",
+        "2-Iodobenzoic acid anilide",
+        "BAS 3170F",
+        "BAS-3170",
+        "NSC 100499",
+        "993ANP6B3R",
+        "DTXSID7041623",
+        "CHEBI:82052",
+        "NSC-100499"
+    ],
+    "IsomericSMILES": "C1=CC=C(C=C1)NC(=O)C2=CC=CC=C2I",
+    "INCHI": "InChI=1S/C13H10INO/c14-12-9-5-4-8-11(12)13(16)15-10-6-2-1-3-7-10/h1-9H,(H,15,16)",
+    "INCHIKEY": "LJOZMWRYMKECFF-UHFFFAOYSA-N",
+    "Formula": "C13H10INO",
+    "MolecularWeight": {
+        "$numberDouble": "323.13"
+    },
+    "Description": "Benodanil is a member of the class of benzamides, obtained by formal condensation of the carboxy group of 2-iodobenzoic acid with the amino group of aniline. An obsolete fungicide once used mainly to control rust diseases. It has a role as an EC 1.3.5.1 [succinate dehydrogenase (quinone)] inhibitor and an antifungal agrochemical. It is a member of benzamides, an anilide, an organoiodine compound and a benzanilide fungicide.",
+    "XlogP": {
+        "$numberDouble": "2.8"
+    },
+    "Complexity": {
+        "$numberInt": "238"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Damage to the underground part of tobacco seedling stems, treated with benodanil in the seedbeds and transplanted into field soil containing Rhizoctonia solani Kuhn, showed a negative correlation with the logarithm of the amount of benodanil applied. Over the initial 3-week growth period, the dry mass per seedling exhibited a positive correlation with the benodanil application rate and a negative correlation with stem damage. The concentrations of the fungicide found in the roots, stems, and leaves at transplantation and after 21 days were positively correlated with the application rates, but decreased by 94% in stems and roots within 21 days. Moreover, stem damage at 21 days post-planting showed a negative correlation with the logarithm of the benodanil concentration both at planting and 21 days later.",
+            "reference": "Cole, J. S., & Zvenyika, Z. (1981). Uptake of benodanil by tobacco seedlings and its relation to the rate of application and control of Rhizoctonia solani. Pesticide science, 12(2), 206-210.",
+            "method": {
+                "Test Plant": "Tobacco (cv. Kutsaga El)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Grown in beds of sandy soil fumigated with methyl bromide (50 g m-2), drenched with aqueous suspensions of benodanil (\u2018Calirus\u2019 50% w.P.) at 1, 2, and 4 g of active ingredient in 2.5 liters of water m-2, about 12 weeks after sowing.",
+                "Chemical Preparation": "Benodanil ('Calirus' 50% w.P.) was used.",
+                "Pesticide Application Details for the Plant": "Five two-plant samples were dug up each day for 10 days and the stems freeze-dried and milled. Plants were also drenched at a similar stage with benodanil at 0, 0.25, 0.5, 1, 2, 3, and 4 g m-2, 2 days before being pulled.",
+                "Other Information": "Plants were grown as in Experiment 1 and drenched at a similar stage with benodanil at 0, 0.25, 0.5, 1, 2, 3, and 4 g m-2, 2 days before being pulled. The experiment was arranged in four randomized blocks with plants spaced 26 cm apart in seven ridged-rows per plot. One control treatment was planted in soil that was not inoculated."
+            },
+            "result": "[{\"Concentraion (g/m\\u00b2)\": 102, \"Roots (ug/g) Stems (ug/g)\": 49, \"Leaves (ug/g)\": 286, \"Whole plant (ug/g)\": 209}, {\"Concentraion (g/m\\u00b2)\": 161, \"Roots (ug/g) Stems (ug/g)\": 54, \"Leaves (ug/g)\": 338, \"Whole plant (ug/g)\": 254}, {\"Concentraion (g/m\\u00b2)\": 222, \"Roots (ug/g) Stems (ug/g)\": 186, \"Leaves (ug/g)\": 704, \"Whole plant (ug/g)\": 524}, {\"Concentraion (g/m\\u00b2)\": 462, \"Roots (ug/g) Stems (ug/g)\": 334, \"Leaves (ug/g)\": 1539, \"Whole plant (ug/g)\": 1117}, {\"Concentraion (g/m\\u00b2)\": 662, \"Roots (ug/g) Stems (ug/g)\": 540, \"Leaves (ug/g)\": 1456, \"Whole plant (ug/g)\": 1137}, {\"Concentraion (g/m\\u00b2)\": 939, \"Roots (ug/g) Stems (ug/g)\": 614, \"Leaves (ug/g)\": 2799, \"Whole plant (ug/g)\": 2050}]"
+        }
+    ]
+}

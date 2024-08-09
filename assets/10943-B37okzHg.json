@@ -1,0 +1,191 @@
+{
+    "_id": {
+        "$oid": "6682e8ebc4e5dba5ffba2802"
+    },
+    "CID": {
+        "$numberInt": "10943"
+    },
+    "Name": "1,3-DICHLOROBENZENE",
+    "IUPACName": "1,3-dichlorobenzene",
+    "CanonicalSMILES": "C1=CC(=CC(=C1)Cl)Cl",
+    "Synonyms": [
+        "1,3-DICHLOROBENZENE",
+        "m-Dichlorobenzene",
+        "541-73-1",
+        "meta-Dichlorobenzene",
+        "Benzene",
+        "1,3-dichloro-",
+        "m-Phenylene dichloride",
+        "m-Dichlorobenzol",
+        "Metadichlorobenzene",
+        "Benzene",
+        "m-dichloro-",
+        "1,3-dichloro-benzene",
+        "2,4-dichlorobenzene",
+        "75W0WNE5FP",
+        "DTXSID6022056",
+        "CHEBI:36693",
+        "NSC-8754"
+    ],
+    "IsomericSMILES": "C1=CC(=CC(=C1)Cl)Cl",
+    "INCHI": "InChI=1S/C6H4Cl2/c7-5-2-1-3-6(8)4-5/h1-4H",
+    "INCHIKEY": "ZPQOPVIELGIULI-UHFFFAOYSA-N",
+    "Formula": "C6H4Cl2",
+    "MolecularWeight": {
+        "$numberDouble": "147"
+    },
+    "Description": "1,3-dichlorobenzene is a dichlorobenzene carrying chloro substituents at positions 1 and 3.",
+    "XlogP": {
+        "$numberDouble": "3.5"
+    },
+    "Complexity": {
+        "$numberInt": "64"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Webber MD et al; J Environ Qual 23: 1019-26 (1994)",
+            "Value": "1,3-Dichlorobenzene was identified, not quantified, in plant material grown in an Illinois coal refuse reclamation site(1)."
+        }
+    ],
+    "animal_concentrations": [
+        {
+            "References": "PMID:12547532",
+            "Value": "1,3-Dichlorobenzene combined with other chlorinated benzenes were identified in the blood of foxes from the Canadian Arctic(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute. Japan Chemical Industry Ecology - Toxicology and Information Center. ISBN 4-89074-101-1 (1992) (2) Oliver BG, Niimi AJ; Environ Sci Technol 17: 287-91 (1983) (3) Barrows ME et al; pp. 379-92 in Dyn Exposure Hazard Assess Toxic Chem Ann Arbor,MI: Ann Arbor Sci (1980) (4) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "BCF values of 60 to 230 were measured in carp exposed to 100 ug/L of 1,3-dichlorobenzene during an 8 week incubation period and BCF values of 60 to 370 were measured in carp exposed to 10 ug/L of 1,3-dichlorobenzene during an 8 week incubation period(1). Mean 1,3-dichlorobenzene BCF values of 420 to 740 were experimentally determined for rainbow trout exposed up to 119 days in laboratory aquaria(2). A whole body BCF of 90 was determined for bluegill sunfish exposed to 1,3-dichlorobenzene over a 28-day period in a continuous flow system(3). According to a classification scheme(4), these BCF values suggest that bioconcentration in aquatic organisms is moderate to high."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute. Japan Chemical Industry Ecology - Toxicology and Information Center. ISBN 4-89074-101-1 (1992) (2) Haider K et al; Arch Microbiol 9: 183-200 (1974)",
+            "Value": "AEROBIC: 1,3-Dichlorobenzene at 100 mg/L exhibited 0% of its theoretical BOD using an activated sludge inoculum at 30 mg/L over a 4 week incubation period in the Japanese MITI test(1). Dichlorobenzene isomers were slowly biodegraded (6.3% of theoretical CO2 evolution in 10 weeks) in an alkaline soil sample(2)."
+        },
+        {
+            "References": "(1) Masunga S et al; Wat Sci Technol 33: 173-80 (1996) (2) Bosma TNP et al; Org Micropollut Aquat Environ Proc Eur Supp 6th 184-192 (1990) (3) Arvin E et al; Org Micropollut Aquat Environ Proc Eur Supp 6th pp. 174-178 (1991)",
+            "Value": "ANAEROBIC: 1,3-Dichlorobenzene was slowly biodegraded by an acclimated anaerobic sediment slurry obtained from the Tsurumi River, Japan(1). The first-order biodegradation rate constant was 0.0016 days-1, corresponding to a half-life of about 433 days(1). No biotransformation of 1,3-dichlorobenzene was observed in an anaerobic Rhine River sediment column over a 12 month period(2). The first-order biodegradation rate of 1,3-dichlorobenzene in a biofilm system was 0.03-0.9X10-4 days-1, corresponding to half-lives on the order of several years(3)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Oliver BG, Nicol KD; Environ Sci Technol 16: 532-36 (1982) (2) Devault DS; Arch Environ Contam Toxicol 14: 587-94 (1989)",
+            "Value": "1,3-Dichlorobenzene was detected at concns of 0.6, 0.6, 0.3 and 2-3 ppb in trout taken from Lake Superior, Lake Huron, Lake Erie and Lake Ontario, respectively, during 1980(1). 1,3-Dichlorobenzene was identified, not quantified, in fish caught in the Great Lakes(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 17",
+            "Value": "log Kow = 3.53"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:3952733",
+            "Value": "Study of the relationship between the formation of 2,4- and 3,5- dichlorophenyl methyl sulfones, metabolites of m-dichlorobenzene (m-DCB), and their inducing effect on hepatic microsomal drug-metabolizing enzymes in rats. When m-DCB was injected ip into bile duct cannulated rats, little or no methyl sulfones were detected in blood, liver, kidneys, adipose tissue, or bile. In the antibiotic pretreated rats dosed with m-DCB, metabolite concentrations in the blood and the three tissues markedly decreased. These findings suggest that the formation of methylsulfonyl metabolites from m-DCB depends largely upon the metabolism by intestinal microflora. The increasing effects of m-DCB administration on the activities of aminopyrine and aniline metabolizing enzymes and the contents of cytochromes p450 and b5 in hepatic microsomes were scarcely observed in the bile duct cannulated and antibiotic pretreated rats, in which the drug metabolism enzymes were able to be induced by phenobarbital treatment. On the other hand, in rats administered 2,4- or 3,5-dichlorophenyl methyl sulfone, hepatic distribution of each methyl sulfone was similar to that in intact rats, and the degree of increase of the above four parameters was nearly the same as that in the intact rats. These findings provide evidence that the induction of drug metabolizing enzymes by m-DCB is not due to the action of m-DCB but is due to its methylsulfonyl metabolites."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Ariyoshi et al, Chem Pharm Bull 23 (4): 824-830 (1975)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Rats were treated with each isomer of dichlorobenzene (DCB) in an oral dose of 250 mg/kg once daily for 3 days. Activities of aminopyrine demethylase and aniline hydroxylase were enhanced markedly by treatment with m-dichlorobenzene, whereas cytochrome content was not altered significantly by treatment with any isomers of dichlorobenzene. Delta-amino levulinic acid synthetase activity was enhanced 63, 32 and 42% by treatment with o-, m-, p-DCB respectively, but these enhancements were not paralleled by cytochrome p450 change."
+        },
+        {
+            "References": "Poland A et al; Biochem Pharmacol 20: 1281 (1971) as cited in USEPA; Ambient Water Quality Criteria Doc: Dichlorobenzenes p.C-17 (1980) EPA 440/5-80-039",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Dosing rats with 1,3-dichlorobenzene at 1000 mg/kg was porphyrogenic, and at an 800 mg/kg dosage, a biphasic influence on hepatic metabolic activity was noted. /This was accompanied by/ ... an initial stimulation of delta-amino levulinic acid synthetase activity, and an increased urinary excretion of coproporphyrin, which peaked at one and three days respectively, and then declined."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V73 253 (1999)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The acute hepatotoxicity of the three isomers of dichlorobenzene was evaluated in male Fischer 344 rats at various times after intraperitoneal administration. Plasma alanine aminotransferase activity, measured 24 hr after treatment with 1.8-5.4 mmol/kg bw ortho-dichlorobenzene, was dramatically elevated. In contrast, equimolar doses of para-dichlorobenzene had no effect, and meta-dichlorobenzene had a clearly weaker effect on enzyme activity at doses > or =2.7 mmol/kg bw. Histopathological changes in the livers of treated animals correlated with the alterations in enzyme activities. Phenobarbital pretreatment potentiated the acute hepatotoxicity of ortho- and meta-dichlorobenzene but did not affect the toxicity of para-dichlorobenzene. Similarly, SKF-525A pretreatment inhibited the hepatotoxicity of ortho-dichlorobenzene. Equimolar doses of ortho- and meta-dichlorobenzene produced approximately equivalent depletion of intrahepatic glutathione, while para-dichlorobenzene had no effect on this parameter. Prior depletion of hepatic glutathione by pretreatment with phorone markedly potentiated the hepatotoxicity of ortho- and meta-dichlorobenzene but only slightly increased the toxicity of para-dichlorobenzene. These quantitative and qualitative differences could not be explained by differences in hepatic distribution or covalent binding to hepatic proteins."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V73 254 (1999)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Male Fischer 344 rats were injected intraperitoneally with 2, 3 or 4 mmol/kg bw ortho-, meta- or para-dichlorobenzene, and pair-fed control animals were injected intraperitoneally with corn oil (1 mL/kg bw). After 24 hr, plasma alanine aminotransferase activity was found to be increased by ortho-dichlorobenzene in a dose-dependent manner. Centrilobular necrosis was observed in rats treated with ortho-dichlorobenzene, while the morphological appearance was relatively normal in rats treated with meta- or para-dichlorobenzene. Kidney weights and blood urea nitrogen concentration were not altered by treatment with meta- or para-dichlorobenzene. Accumulation of para-aminohippurate in renal cortical slices was decreased by meta- (2 and 4 mmol/kg bw) and ortho-dichlorobenzene (3 and 4 mmol/kg bw), while accumulation of the cation tetraethylammonium was decreased by 4 mmol/kg bw para-dichlorobenzene ..."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V73 254 (1999)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The acute hepatotoxicity of the dichlorobenzene isomers was compared in the livers of male B6C3F1 mice at different times after a single intragastric administration of ortho-, meta- or para-dichlorobenzene at 300, 300 or 1800 mg/kg bw, respectively. Acute hepatic injury was assessed from serum alanine aminotransferase activity, histopathological appearance and hepatocyte replication (BrDU labelling). Both ortho- and meta-dichlorobenzene significantly increased liver weights and serum alanine aminotransferase activity and caused extensive liver-cell necrosis. In contrast, para-dichlorobenzene induced slight hepatocyte injury only at the sixfold higher dose of 1800 mg/kg bw; however, it induced hepatocyte proliferation at 1000 mg/kg bw, in the absence of any signs of hepatotoxicity while increased cell proliferation due to ortho- or meta-dichlorobenzene occurred only at doses that caused hepatic injury ..."
+        },
+        {
+            "References": "PMID:1853346",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The acute hepatotoxicity of the three isomers of dichlorobenzene (DCB) was evaluated in male Fischer-344 (F344) rats at various times following ip administration. Plasma alanine aminotransferase (ALT) activity, measured in F344 rats 24 hr postexposure, was dramatically elevated following doses of 1.8-5.4 mmol/kg of o-DCB. Conversely, equimolar doses of p-DCB produced no such toxicity, while m-DCB produced intermediate hepatic injury at or above doses of 2.7 mmol/kg. Histopathological changes in livers from treated animals qualitatively reflected elevations in 24-hr plasma ALT activity (time to maximal elevation). Phenobarbital pretreatment potentiated the acute hepatotoxicity of o- and m-DCB, but did not affect the toxicity of p-DCB. Likewise, SKF-525A pretreatment inhibited the hepatotoxicity of o-DCB. Equimolar doses of o- and m-DCB produced approximately equivalent depletion of intrahepatic glutathione, while p-DCB had no effect on hepatic GSH. Furthermore, prior depletion of hepatic glutathione by pretreatment with phorone markedly potentiated the hepatotoxicity of o- and m-DCB, while increasing the toxicity of p-DCB to a far lesser degree ... Interestingly, male Sprague-Dawley (SD) rats are relatively refractive to the acute hepatotoxicity of o-DCB following ip administration of 1.8 and 5.4 mmol/kg. ..."
+        },
+        {
+            "References": "PMID:8440869",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Male Fischer 344 (F344) rats were injected with 2, 3 or 4 mmol kg-1 of 1,2-dichlorobenzene (DCB), 1,3-DCB or 1,4-DCB (o-, m-, p-). Pair-fed control (PFC) animals were injected (ip) with corn oil (1 mL kg-1). Hepatic and renal toxicity was quantitated 24 hr after injection of DCB or vehicle. Plasma transaminase (ALT/GPT) activity was increased (P < 0.05) by 1,2-DCB as a function of dose administered. Centrilobular necrosis was observed in rats treated with 1,2-DCB while morphology was relatively normal in rats treated with m- or p-DCB. Administration of (2 or 4 mmol kg-1) 1,3-DCB or 1,4-DCB did not alter kidney weight or blood urea nitrogen (BUN) levels. Renal cortical slice accumulation of p-aminohippurate (PAH) was decreased (P < 0.05) by (2 and 4 mmol kg-1) 1,3-DCB and (3 and 4 mmol kg-1) 1,2-DCB while accumulation of the cation tetraethylammonium (TEA) was decreased by 4 mmol kg-1 1,4-DCB."
+        },
+        {
+            "References": "PMID:8661352",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The acute hepatotoxicity of isomers of dichlorobenzene (o-, m-, and p-DCB) was compared in livers of male B6C3F1 mice at different time points after a single intragastric administration. The highest doses of o-, m-, and p-DCB administered, 300, 300, and 1800 mg/kg, respectively, are below the lethal range. Acute hepatic injury was assessed by serum alanine aminotransferase (ALT) activity and hepatic histology. Hepatocyte replication was estimated by means of immunohistochemical demonstration of BrdU-labeled cells. Both o-DCB and m-DCB at a dose of 300 mg/kg produced significant elevations of liver weight and ALT activity as well as extensive liver cell necrosis. In contrast, p-DCB at a highest dose of 1800 mg/kg induced slight hepatocyte injury. Dose-response studies indicated that the rank order for acute hepatotoxicity of the isomers was m-DCB > o-DCB > or = p-DCB. However, p-DCB induced hepatocyte cell proliferation in spite of the lack of manifest hepatotoxicity. In contrast, increases of cell proliferation due to o-or m-DCB exposure occurred only after dosages that caused hepatic injury. These data suggest the hepatocyte proliferation induced by o- or m-DCB is compensatory regeneration while that induced by p-DCB is a response to mitogenic stimulation."
+        },
+        {
+            "References": "PMID:7497912",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Male and female Sprague-Dawley rats received 1,3-dichlorobenzene daily by corn oil gavage for 10 or 90 consecutive days. The 10-day study doses were 0, 37, 147, 368 and 735 mg/kg; the 90-day study doses were 0, 9, 37, 147 and 588 mg/kg. In the 10-day study, there was a significant depression of body weight in both sexes at 735 mg/kg. Liver weights were significantly increased in both sexes at 368 and 735 mg/kg. Serum cholesterol levels were significantly elevated in both sexes at 368 and 735 mg/kg. Histopathological evaluation revealed centrolobular hepatocellular degeneration at 368 mg/kg in males and 735 mg/kg in females. In the 90-day study, body weights were significantly depressed in both sexes at 588 mg/kg. Normalization of food and water consumption by final body weight indicated that at 588 mg/kg both sexes had increased food and water consumption relative to controls. Absolute and relative liver weights were significantly increased in both sexes at 147 and 588 mg/kg. Relative kidney weights were significantly higher in both sexes at 588 mg/kg and in males at 147 mg/kg. Serum cholesterol and calcium levels were significantly elevated over controls in females at 37, 147, and 588 mg/kg, and in males at all dose levels. Histopathological evaluation at 147 and/or 588 mg/kg demonstrated liver and thyroid lesions in both sexes, and pituitary and kidney lesions in males. A NOAEL was not firmly established."
+        },
+        {
+            "References": "U.S. Dept Health & Human Services/Agency for Toxic Substances & Disease Registry; Toxicological Profile for Dichlorobenzenes p.15 (August 2006) PB2007-100672. Available from, as of January 10, 2008: https://www.atsdr.cdc.gov/toxpro2.html#",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ The information on the developmental toxicity study of 1,3-DCB is from a gavage study reported without details as an abstract, which reported no treatment-related effects on prenatal development in rats."
+        },
+        {
+            "References": "Sipes IG et al; Arch Toxicol (Suppl 11): 20-33 (1987)",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ A dynamic liver culture system, using short term viable tissue culture of rat liver slices, is described. Following initial recovery periods of 2 to 6 hr; potassium ion and adenosine triphosphate (ATP) content were maintained for 16 to 20 hr, and protein synthesis increased linearly for 16 hr. The order of decreasing toxicity of dichlorobenzenes, measured by potassium ion content, protein synthesis, and release of lactic dehydrognase, was 1,2-dichlorobenzene, 1,3-dichlorobenzene, and 1,4-dichlorobenzene, in agreement with a similar order obtained in vivo. The dichlorobenzenes were less toxic in slices from Sprague-Dawley rats than in Fischer rats. This finding was confirmed by studies in vivo."
+        },
+        {
+            "References": "PMID:12558164",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ The estrogenicity of o-, m-, and p-dichlorobenzene (DCB) was evaluated with a yeast estrogen screen (YES) and zebrafish (Danio rerio) vitellogenin (VTG) assays. With the YES, p-DCB and m-DCB were found to be estrogenic in a concentration-responsive manner. The relative potency measured with the YES (relative to 17beta-estradiol) was 2.2 x 10(-7) for p-DCB and 1.04 x 10(-8) for m-DCB. Following acute toxicity tests with the zebrafish, plasma VTG production was measured to examine the in vivo estrogenic activity of the three compounds after a 14-day exposure. Adult zebrafish were exposed to different concentrations of o-, m- and p-DCB, ranging from 0.1 to 32 mg/L; ethynylestradiol ([EE2]; 5 ng/L, 10 ng/L, 50 ng/L, and 100 ng/L) was used as a positive control. After exposure, blood samples were taken and protein electrophoresis was performed to determine the relative VTG content. Gonadosomatic indices (GSI) and condition factors (CF) were also calculated. Elevated VTG levels and decreased female GSIs were found in fish exposed to > or = 5 ng EE2/L and in fish exposed to > or = 10 mg p-DCB/L. Low GSIs coincided with high levels of VTG in the blood of female zebrafish. This relation was not only found in fish exposed to EE2 but also in controls and fish exposed to DCB ... ."
+        },
+        {
+            "References": "PMID:1683550",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ The cytotoxicity of dichlorobenzenes in cultured rat liver slices has previously been shown to be strain specific and biotransformation related. In order to extrapolate animal models to humans, the dichlorobenzenes were incubated with human liver slices to try to clarify their hepatotoxic potential in man. The degree of hepatotoxicity observed with the dichlorobenzenes depended on whether Waymouth's or Krebs-Henseleit was used as the incubation medium. All three dichlorobenzenes (1 mM) produced no significant differences from control when incubated in Waymouth's medium. However, in the Krebs-Henseleit buffer there was a substantial increase in cytotoxicity. In both incubation mediums the dichlorobenzene isomers exhibited the following rank order 1,3-DCB greater than 1,2-DCB greater than 1,4-DCB. 1,2-dichlorobenzene hepatotoxicity was blocked by metyrapone, 1,3-dichlorobenzene toxicity was blocked by SKF 525-A and neither one of these inhibitors could block the 1,4-dichlorobenzene cytotoxicity. The use of human liver tissues to evaluate potential toxicants merits consideration since the hepatotoxicity of xenobiotics and drugs in man is the ultimate question."
+        },
+        {
+            "References": "PMID:2069046",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ A novel in vitro system was used to evaluate tissue specific toxicity. This system utilizes precision cut organ slices in dynamic organ culture and is viable for up to 24 hrs. The three isomers of dichlorobenzene were added to liver slices prepared from Sprague Dawley rats or human donors. The precursor dichlorobenzenes were radiolabelled and metabolites were separated by classes (i.e. glucuronides, sulfates and glutathione and cysteine conjugates). Covalent Binding of the dichlorobenzenes was also determined after extensive extraction of the tissue. The total amount of metabolism of the dichlorobenzenes varied depending on the isomer and the type of tissue. For example, the Sprague-Dawley rat liver slices metabolized 1,2-DCB and 1,3-DCB at approximately the same rate while 1,4-DCB was metabolized at a slower rate. This metabolism profile was also seen in the majority of the adult human liver slices. However, the fetal human slices showed that 1,4-DCB was metabolized to a greater extent than 1,3-DCB or 1,2-DCB while 1,3-DCB was metabolized at a faster rate than 1,2-DCB. Our results show that liver slices in organ culture are a suitable system for species comparisons and of structure/activity relationships in xenobiotic metabolism with an emphasis on the fate of reactive intermediates. In addition, this system is suitable for evaluation of hepatotoxic potency."
+        },
+        {
+            "References": "PMID:3887653",
+            "Value": "/GENOTOXICITY/ Mutagenicity was assayed with Salmonella typhimurium strains TA 100, TA 98, UTH 8414, and UTH 8413. None of the three dichlorobenzenes (1,2-, 1,3- and 1,4-) were mutagenic in any strain with or without S9 /SRP: rat liver metabolizing system/ from Aroclor treated rats."
+        },
+        {
+            "References": "PMID:3331700",
+            "Value": "/GENOTOXICITY/ Eight halogenated benzenes, including bromobenzene (BB), chlorobenzene (CB), three isomers of dichlorobenzene (DCB) and three isomers of trichlorobenzene (TCB) were tested for acute toxicity (LD50) and clastogenicity in 8 week old NMRI mice by ip administration. Four doses of each chemical (up to 70% of LD50) were tested for clastogenic activity. Each compound was administered in two equal doses, 24 hr apart. Increased formation of micronucleated polychromatic erythrocytes, observed in femoral bone marrow, 30 hr after the first injection, was considered to be due to the clastogenic activity of the test compound. All the halogenated benzenes tested were found to be clastogenic. The highest clastogenic activities were induced by m-DCB and BB. Among three isomers of DCB, m-DCB significantly induced more micronuclei than o-DCB or p-DCB. No significant differences were found between the clastogenic activities of TCB isomers."
+        },
+        {
+            "References": "Connor TH et al; Toxicol Lett 25 (1): 35-40 (1985)",
+            "Value": "/GENOTOXICITY/ The ... chemicals including p-dichlorobenzene, ... m-dichlorobenzene, o-dichlorobenzene, most commonly detected in a study of mobile homes in Texas (USA) were tested for mutagenicity using a battery of bacterial test strains. Formaldehyde was found to be present in 100% of the mobile homes and at the highest mean concentration (167 ppb). The organic chemicals were all present at much lower mean concentrations (<10 ppb) and at varying frequencies (2-95%). Of the nineteen chemicals tested for mutagenicity, only formaldehyde gave a positive response. ..."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V73 255 (1999)",
+            "Value": "/GENOTOXICITY/ meta-Dichlorobenzene ...had contrasting effects in differential toxicity assays with E. coli and Bacillus subtilis and caused gene conversion in Saccharomyces cerevisiae."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, 1,3-Dichlorobenzene (541-73-1) p.62 (2000 CD-ROM edition). Available from, as of January 10, 2008: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ Negative in the in vivo mammalian cytogenetic test using Chinese hamstere orally exposed to 1000 mg/kg bw."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, 1,3-Dichlorobenzene (541-73-1) p.62 (2000 CD-ROM edition). Available from, as of January 10, 2008: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ Positive in the micronucleus assay using NMRI mice exposed to 175, 300, 525, 700 mg/kg bw ip."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, 1,3-Dichlorobenzene (541-73-1) p.52 (2000 CD-ROM edition). Available from, as of January 10, 2008: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ Positive in a DNA damage and repair assay using Escherichia coli polyA+, polyA-."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Beurskens JEM et al; Water Sci Technol 29: 77-85 (1994) (2) Oliver BG, Nicol KD; Environ Sci Technol 16: 532-36 (1982) (3) Masunga S et al; Wat Res 25: 289-97 (1991) (4) Kawata K et al; Bull Environ Contam Toxicol 58: 893-900 (1997) (5) Oliver BG, Charleton MN; Environ Sci Technol 18: 903-908 (1984) (6) Terashi A et al; Bull Environ Contam Toxicol 50: 348-55 (1993) (7) van Zoest R, van Eck GTM; Sci total Environ 103: 57-71 (1991) (8) Tenhulscher TEM et al; Chemosphere 35: 2331-44 (1997) (9) Lee CL, Fang MD; Chemosphere 35: 2039-50 (1997)",
+            "Value": "SEDIMENT: 1,3-Dichlorobenzene was detected in the sediment of Lake Ketelmeer, Netherlands at concns of 280 and 110 ng/kg(1). Mean 1,3-dichlorobenzene concns of 2, 2, 4 and 74 ppb were detected in the superficial sediments from Lakes Superior, Huron, Erie, and Ontario, respectively(2). 1,3-Dichlorobenzene was detected at concns of 0-51 ng/g in sediment from Ise Bay, Japan(3). 1,3-Dichlorobenzene was identified, not quantified, in the sediment of 7 rivers and ports in Niigata, Japan(4). 1,3-Dichlorobenzene was detected at concns of 16-19 ng/g in suspended sediment from Lake Ontario, at depths of 20-68 meters and an avg concn of 15 ng/g for the bottom sediment(5). 1,3-Dichlorobenzene was identified, not quantified, in sediment from Dokai Bay, Japan(6). 1,3-Dichlorobenzene was detected at median concns of 18, 15, 4 and 36 ng/g in sediment taken from the Scheldt estuary, Netherlands(7). 1,3-Dichlorobenzene was detected in sediment at concns of 150-300 ug/kg in Lake Ketelmeer, Netherlands(8). 1,3-Dichlorobenzene was detected in sediment off the coast of Taiwan at concns of 4-15 ng/kg(9)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Chiou CT et al; Environ Sci Technol 17: 227-31 (1983) (2) Masunga S et al; J Environ Sci Health A31: 887-903 (1996) (3) Swann RL et al; Res Rev 85: 23 (1983) (4) ten Hulscher TEM et al; Chemosphere 35: 2331-44 (1997)",
+            "Value": "An experimental Koc value of 300(1) was determined for 1,3-dichlorobenzene in silt loam soil. According to a recommended classification scheme(3), these Koc values suggest that 1,3-dichlorobenzene has moderate to low mobility in soil. A log Koc value of 3.5 was reported for 1,3-dichlorobenzene in sediment obtained from the Ise Bay, Japan(2) and a log Koc value of 4.7 was measured from sediment of Lake Ketelmeer, Netherlands(4)."
+        }
+    ]
+}

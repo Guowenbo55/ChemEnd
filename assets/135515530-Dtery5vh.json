@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "669270f8303528b49832d766"
+    },
+    "CID": {
+        "$numberInt": "135515530"
+    },
+    "Name": "Cyflufenamid",
+    "IUPACName": "N-[(Z)-N-(cyclopropylmethoxy)-C-[2,3-difluoro-6-(trifluoromethyl)phenyl]carbonimidoyl]-2-phenylacetamide",
+    "CanonicalSMILES": "C1CC1CON=C(C2=C(C=CC(=C2F)F)C(F)(F)F)NC(=O)CC3=CC=CC=C3",
+    "Synonyms": [
+        "Cyflufenamid",
+        "Cyflufenamid [ISO]",
+        "180409-60-3",
+        "UNII-79ID05OQ82",
+        "79ID05OQ82",
+        "CHEBI:81797",
+        "(N(Z))-N-(((Cyclopropylmethoxy)amino)(2,3-difluoro-6-(trifluoromethyl)phenyl)methylene)benzeneacetamide",
+        "N-((Z)-((Cyclopropylmethoxy)imino)(2,3-difluoro-6-(trifluoromethyl)phenyl)methyl)-2-phenylacetamide",
+        "N-[(Z)-N-(cyclopropylmethoxy)-C-[2,3-difluoro-6-(trifluoromethyl)phenyl]carbonimidoyl]-2-phenylacetamide",
+        "(E)-Cyflufenamid",
+        "[N(Z)]-N-[[(cyclopropylmethoxy)amino][2,3-difluoro-6-(trifluoromethyl)phenyl]methylene]benzeneacetamide",
+        "Cyflufenamid 10 microg/mL in Cyclohexane",
+        "CYFLUFENAMID [MI]",
+        "SCHEMBL21751",
+        "CHEMBL2251733"
+    ],
+    "IsomericSMILES": "C1CC1CO/N=C(/C2=C(C=CC(=C2F)F)C(F)(F)F)\\NC(=O)CC3=CC=CC=C3",
+    "INCHI": "InChI=1S/C20H17F5N2O2/c21-15-9-8-14(20(23,24)25)17(18(15)22)19(27-29-11-13-6-7-13)26-16(28)10-12-4-2-1-3-5-12/h1-5,8-9,13H,6-7,10-11H2,(H,26,27,28)",
+    "INCHIKEY": "ACMXQHFNODYQAT-UHFFFAOYSA-N",
+    "Formula": "C20H17F5N2O2",
+    "MolecularWeight": {
+        "$numberDouble": "412.4"
+    },
+    "Description": "Cyflufenamid is a member of the class of (trifluoromethyl)benzenes that is 2,3-difluoro-6-(trifluoromethyl)benzenecarboxamidine in which the hydrogen attached to the imino nitrogen is replaced by a cyclopropylmethoxy group while one of the hydrogens attached to the other nitrogen is replaced by a phenylacetyl group. It is used as a fungicide for the control of powdery mildew in cereal crops as well as in apple and pear orchards. It has a role as an antifungal agrochemical. It is a carboxamidine, an oxime O-ether, a member of (trifluoromethyl)benzenes, a difluorobenzene and an amide fungicide.",
+    "XlogP": {
+        "$numberDouble": "5"
+    },
+    "Complexity": {
+        "$numberInt": "588"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The translaminar and translocative activities of cyflufenamid were evaluated. For translaminar activity, cyflufenamid exhibited excellent activity from adaxial to abaxial surfaces at 12.5 ppm against cucumber powdery mildew, while kresoxim-methyl did not show any translaminar activity even at 100 ppm. For translocative activity, cyflufenamid scarcely showed any activity against cucumber powdery mildew when evaluated using a root dipping method even at 50 ppm, whereas triadimefon showed excellent translocative activity at 3.1 ppm.",
+            "reference": "Haramoto, M., Yamanaka, H., Hosokawa, H., Sano, H., Sano, S., & Otani, H. (2006). Control efficacy of cyflufenamid in the field and its fungicidal properties. Journal of Pesticide Science, 31(2), 116-122.",
+            "method": {
+                "Test Plant": "Cucumber powdery mildew.",
+                "Apply Location": "Foliar apply.",
+                "Plant Grown Condition": "Cucumber seedlings (Cucumis sativus cv. Hokushin) were bedded out in the greenhouse at Haibara Agricultural Research Center, Nisso, Shizuoka, Japan, on Sep. 2, 2000.",
+                "Chemical Preparation": "Cyflufenamid was synthesized and formulated as a 10% WG.",
+                "Application Details for the Plant": "Foliar spraying was performed on Sep. 26 (1 application) or Sep. 26 and Oct. 3 (2 applications) using a knapsack-type power sprayer with a water volume of 200 liters per 10 a. Disease severity in the field was evaluated on Oct. 3, 10, 17, and 25 using a disease rating scale from 0 (no apparent symptoms) to 4 (severe disease). The evaluation of fungicidal activity involved determining the area of visible lesions, expressed as the percentage of diseased leaf area ranging from 0-100%. The control value (CV) was calculated using the following equation: CV = (1 - T/C) x 100 Where T represents the percentage of diseased leaf area in treated seedlings and C represents the percentage in non-treated seedlings.",
+                "Other Information": "The trial was laid out in randomized blocks with 3 replicates of 10 plants per plot."
+            },
+            "result": "[{\"Concentration (ppm)\": 50.0, \"Translaminar Activity (%)\": \"100\", \"Translocative Activity (%)\": \"25\"}, {\"Concentration (ppm)\": 25.0, \"Translaminar Activity (%)\": \"100\", \"Translocative Activity (%)\": \"-\"}, {\"Concentration (ppm)\": 12.5, \"Translaminar Activity (%)\": \"83\", \"Translocative Activity (%)\": \"25\"}, {\"Concentration (ppm)\": 3.1, \"Translaminar Activity (%)\": \"-\", \"Translocative Activity (%)\": \"13\"}]"
+        }
+    ]
+}

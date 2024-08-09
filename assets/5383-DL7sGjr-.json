@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "6682e820c4e5dba5ffba240a"
+    },
+    "CID": {
+        "$numberInt": "5383"
+    },
+    "Name": "TEBUTHIURON",
+    "IUPACName": "1-(5-tert-butyl-1,3,4-thiadiazol-2-yl)-1,3-dimethylurea",
+    "CanonicalSMILES": "CC(C)(C)C1=NN=C(S1)N(C)C(=O)NC",
+    "Synonyms": [
+        "tebuthiuron",
+        "34014-18-1",
+        "Spike",
+        "1-(5-tert-Butyl-1,3,4-thiadiazol-2-yl)-1,3-dimethylurea",
+        "Graslan",
+        "Perflan",
+        "Brulan",
+        "Tiurolan",
+        "Prefmid",
+        "Tebulan",
+        "1-(5-(tert-Butyl)-1,3,4-thiadiazol-2-yl)-1,3-dimethylurea",
+        "Spike 80W",
+        "Graslan 250 brush bullets",
+        "EL-103",
+        "\"Urea",
+        "N-[5-(1,1-dimethylethyl)-1,3,4-thiadiazol-2-yl]-N,N-dimethyl-\""
+    ],
+    "IsomericSMILES": "CC(C)(C)C1=NN=C(S1)N(C)C(=O)NC",
+    "INCHI": "InChI=1S/C9H16N4OS/c1-9(2,3)6-11-12-8(15-6)13(5)7(14)10-4/h1-5H3,(H,10,14)",
+    "INCHIKEY": "HBPDKDSFLXWOAE-UHFFFAOYSA-N",
+    "Formula": "C9H16N4OS",
+    "MolecularWeight": {
+        "$numberDouble": "228.32"
+    },
+    "Description": "Tebuthiuron is an organonitrogen heterocyclic compound and an organosulfur heterocyclic compound.",
+    "XlogP": {
+        "$numberDouble": "1.6"
+    },
+    "Complexity": {
+        "$numberInt": "241"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Bovey RW et al; J Environ Qual 7: 233-6 (1978)",
+            "Value": "The concn of tebuthiuron in the coastal bermuda grass after application of the herbicide at 2.24 kg/ha as broadcast spray and pellets was 23.5 and 0.82 ppm, respectively 1 mo after application, 1.40 and 0.57 ppm, respectively 3 mo after application and 0.14 and 0.17 ppm, respectively 6 mo after application(1)."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Bovey RW et al; J Environ Qual 7: 233-6 (1978)",
+            "Value": "SOIL: The amount of tebuthiuron, applied at 2.24 kg/ha as broadcast spray and pellets in the upper 15 cm of Texas Blacklands Prairie was 0.30 kg/ha and not detectable, 0.22 and 0.09 kg/ha and 0.120 and 0.56 kg/ha, 1 mo, 3 mo and 6 mo after application, respectively(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "Seedlings of winged elm (Ulmus data Michx.), bur oak (Quercus macrocarpa Michx.), black walnut (Juglans nigra L.), eastern redcedar (Juniperus virginiana L.), and loblolly pine (Pinus taeda L.) were treated in nutrient solution with ring-labeled 14C-tebuthiuron {N-[5-(1,1-dimethylethyl)-1,3,4-thiadiazol-2-yl]-N,N\u2032-dimethylurea} or 14C-hexazinone [3-cyclohexyl-6-(dimethylamino)-1-methyl-1,3,5-triazine-2,4(1H,3H)-dione]. Four hours later, 14C was detected in all sections of winged elm treated with 14C-tebuthiuron and 14C-hexazinone. Root absorption of the tebuthiuron label by the other species occurred in the order: loblolly pine > bur oak > black walnut = eastern redcedar. The sequence of 14C-hexazinone absorption was: loblolly pine > black walnut \u2265 bur oak = eastern redcedar. Foliar accumulation of the tebuthiuron label occurred in the order: bur oak > loblolly pine > eastern redcedar = black walnut, whereas the sequence with hexazinone was loblolly pine > bur oak > black walnut = eastern redcedar. The presence of the three metabolites of hexazinone in loblolly pine suggests that it may be resistant to hexazinone as a result of its ability to degrade hexazinone rather than its ability to limit uptake.",
+            "reference": "McNeil, W. K., Stritzke, J. F., & Basler, E. (1984). Absorption, translocation, and degradation of tebuthiuron and hexazinone in woody species. Weed Science, 32(6), 739-743.",
+            "method": {
+                "Test Plant": "Winged elm (Ulmus alata Michx.), bur oak (Quercus macrocarpa Michx.), black walnut (Juglans nigra L.), eastern redcedar (Juniperus virginiana L.), and loblolly pine (Pinus taeda L.)",
+                "Apply Location": "Root application (applied in nutrient solution)",
+                "Plant Grown Condition": "Winged elm seedlings were grown for 4 months in an organic compost before the experiment, bur oak, black walnut, eastern redcedar, and loblolly pine seedlings were 12-15 months old obtained from a nursery and grown in an organic compost in the greenhouse until needed.",
+                "Chemical Preparation": "14C-tebuthiuron (0.298 \u03bcCi, specific activity 17.4 \u03bcCi/mg, concentration 1 \u03bcM) or 14C-hexazinone (0.135 \u03bcCi, specific activity 7.11 \u03bcCi/mg, concentration 1 \u03bcM) for winged elm; 14C-tebuthiuron (0.898 \u03bcCi) or 14C-hexazinone (0.40 \u03bcCi) at 0.5 \u03bcM concentration for other species.",
+                "Pesticide Application Details for the Plant": "-",
+                "Other Information": "The experiment with winged elm was arranged as a split-plot design with two herbicides as main plots and two exposure time intervals as strips, replicated eight times."
+            },
+            "result": "[{\"Plant\": \"Black walnut\", \"Hours after application\": 4, \"Roots (nmoles/g)\": 1.93, \"Lower stem (nmoles/g)\": \"0.04\", \"Upper stem (nmoles/g)\": \"0\", \"Foliage (nmoles/g)\": 0.0}, {\"Plant\": \"Black walnut\", \"Hours after application\": 24, \"Roots (nmoles/g)\": 5.1, \"Lower stem (nmoles/g)\": \"0.65\", \"Upper stem (nmoles/g)\": \"0.42\", \"Foliage (nmoles/g)\": 0.42}, {\"Plant\": \"Bur oak\", \"Hours after application\": 4, \"Roots (nmoles/g)\": 1.78, \"Lower stem (nmoles/g)\": \"0.06\", \"Upper stem (nmoles/g)\": \"0.07\", \"Foliage (nmoles/g)\": 0.07}, {\"Plant\": \"Bur oak\", \"Hours after application\": 24, \"Roots (nmoles/g)\": 3.09, \"Lower stem (nmoles/g)\": \"1.33\", \"Upper stem (nmoles/g)\": \"1.22\", \"Foliage (nmoles/g)\": 0.53}, {\"Plant\": \"Bur oak\", \"Hours after application\": 72, \"Roots (nmoles/g)\": 3.08, \"Lower stem (nmoles/g)\": \"1.99\", \"Upper stem (nmoles/g)\": \"2.32\", \"Foliage (nmoles/g)\": 0.72}, {\"Plant\": \"Eastern redcedar\", \"Hours after application\": 4, \"Roots (nmoles/g)\": 1.19, \"Lower stem (nmoles/g)\": \"-\", \"Upper stem (nmoles/g)\": \"-\", \"Foliage (nmoles/g)\": 0.05}, {\"Plant\": \"Eastern redcedar\", \"Hours after application\": 24, \"Roots (nmoles/g)\": 1.49, \"Lower stem (nmoles/g)\": \"-\", \"Upper stem (nmoles/g)\": \"-\", \"Foliage (nmoles/g)\": 0.21}, {\"Plant\": \"Eastern redcedar\", \"Hours after application\": 72, \"Roots (nmoles/g)\": 2.38, \"Lower stem (nmoles/g)\": \"-\", \"Upper stem (nmoles/g)\": \"-\", \"Foliage (nmoles/g)\": 0.56}, {\"Plant\": \"Loblolly pine\", \"Hours after application\": 4, \"Roots (nmoles/g)\": 7.86, \"Lower stem (nmoles/g)\": \"-\", \"Upper stem (nmoles/g)\": \"-\", \"Foliage (nmoles/g)\": 0.05}, {\"Plant\": \"Loblolly pine\", \"Hours after application\": 24, \"Roots (nmoles/g)\": 11.47, \"Lower stem (nmoles/g)\": \"-\", \"Upper stem (nmoles/g)\": \"-\", \"Foliage (nmoles/g)\": 2.24}]"
+        }
+    ]
+}

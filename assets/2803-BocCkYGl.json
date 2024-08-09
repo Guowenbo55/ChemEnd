@@ -1,0 +1,69 @@
+{
+    "_id": {
+        "$oid": "6682e7f3c4e5dba5ffba232a"
+    },
+    "CID": {
+        "$numberInt": "2803"
+    },
+    "Name": "CLONIDINE",
+    "IUPACName": "N-(2,6-dichlorophenyl)-4,5-dihydro-1H-imidazol-2-amine",
+    "CanonicalSMILES": "C1CN=C(N1)NC2=C(C=CC=C2Cl)Cl",
+    "Synonyms": [
+        "clonidine",
+        "4205-90-7",
+        "Clonidin",
+        "Chlornidinum",
+        "N-(2,6-Dichlorophenyl)-4,5-dihydro-1H-imidazol-2-amine",
+        "Catapres-TTS",
+        "Adesipress",
+        "Catapres",
+        "Catarpres",
+        "Catarpresan",
+        "Duraclon",
+        "ST-155-BS",
+        "ST 155BS",
+        "2-(2,6-Dichloroanilino)-2-imidazoline",
+        "CATAPRES-TTS-1"
+    ],
+    "IsomericSMILES": "C1CN=C(N1)NC2=C(C=CC=C2Cl)Cl",
+    "INCHI": "InChI=1S/C9H9Cl2N3/c10-6-2-1-3-7(11)8(6)14-9-12-4-5-13-9/h1-3H,4-5H2,(H2,12,13,14)",
+    "INCHIKEY": "GJSURZIOUXUGAL-UHFFFAOYSA-N",
+    "Formula": "C9H9Cl2N3",
+    "MolecularWeight": {
+        "$numberDouble": "230.09"
+    },
+    "Description": "Clonidine (imino form) is a clonidine. It is a tautomer of a clonidine (amino form).",
+    "XlogP": {
+        "$numberDouble": "1.6"
+    },
+    "Complexity": {
+        "$numberInt": "222"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 54",
+            "Value": "log Kow = 1.57"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and   Gilman's The Pharmacological Basis of Therapeutics. 11th  ed.  New York, NY: McGraw-Hill, 2006., p. 255",
+            "Value": "Intravenous infusion of clonidine causes an acute rise in blood pressure, apparently because of activation of postsynaptic alpha2 receptors in vascular smooth muscle. The affinity of clonidine for these receptors is high, although the drug is a partial agonist with relatively low efficacy at these sites. The hypertensive response that follows parenteral administration of clonidine generally is not seen when the drug is given orally. However, even after intravenous administration, the transient vasoconstriction is followed by a more prolonged hypotensive response which results from decreased central outflow of impulses in the sympathetic nervous system. ... The effect appears to result from activation of alpha2 receptors in the lower brain stem region. This central action has been demonstrated by infusing small amounts of the drug into the vertebral arteries or by injecting it directly into the cisterna magna."
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and   Gilman's The Pharmacological Basis of Therapeutics. 11th  ed.  New York, NY: McGraw-Hill, 2006., p. 255",
+            "Value": "Clonidine decreases discharges in sympathetic preganglionic fibers in the splanchnic nerve as well as in postganglionic fibers of cardiac nerves. These effects are blocked by alpha2-selective antagonists ... Clonidine also stimulates parasympathetic outflow, and this may contribute to the slowing of heart rates as a consequence of increased vagal tone as well as diminished sympathetic drive."
+        },
+        {
+            "References": "PMID:6834272",
+            "Value": "THE SITES OF ACTION OF CLONIDINE INDUCED ADRENAL-SUPPRESSANT EFFECT WERE INVESTIGATED IN SPONTANEOUSLY HYPERTENSIVE RATS. FIVE TO 10 MINUTES AFTER IV ADMINISTRATION OF CLONIDINE (3-100 MG/KG), THERE WAS A DECREASE IN BOTH SYMPATHETIC ADRENAL NERVE ACTIVITY AND ADRENAL CATECHOLAMINE SECRETION RATES, ALONG WITH THE DECREASE IN ARTERIAL BLOOD PRESSURE AND HEART RATE. APPARENTLY, BOTH THE ADRENAL MEDULLA AND THE SPINAL AND SUPRASPINAL STRUCTURES ARE THE RESPONSIBLE SITES OF ACTION OF CLONIDINE-INDUCED ADRENAL SUPPRESSION. THE CENTRAL ACTION OF CLONIDINE APPEARS TO PREDOMINATE OVER THE PERIPHERAL ACTION IN THIS SUPPRESSION."
+        },
+        {
+            "References": "American Society of Health-System Pharmacists 2011; Drug Information 2011. Bethesda, MD. 2011, p. 1800",
+            "Value": "Clonidine appears to stimulate alpha2-adrenergic receptors in the CNS (mainly in the medulla oblongata), causing inhibition, but not blockade, of sympathetic vasomotor centers. Cardiovascular reflexes remain intact, and normal homeostatic mechanisms and hemodynamic responses to exercise are maintained. The central effects of the drug result in reduced peripheral sympathetic nervous system activity, reduced peripheral and renovascular resistance, reduction of systolic and diastolic blood pressure, and bradycardia. Peripheral venous pressure remains unchanged. It has been postulated that the hypotensive response to clonidine may result from reduced angiotensin II generation because of inhibition of renin release or from reduced stimulation of medullary vasomotor centers responsive to circulating angiotensin II; however, the exact relationship between the action of the drug in reducing renin activity and excretion of aldosterone and catecholamines and the hypotensive effect of the drug has not been fully elucidated."
+        }
+    ]
+}

@@ -1,0 +1,297 @@
+{
+    "_id": {
+        "$oid": "6682e8a6c4e5dba5ffba26a4"
+    },
+    "CID": {
+        "$numberInt": "8058"
+    },
+    "Name": "N-HEXANE",
+    "IUPACName": "hexane",
+    "CanonicalSMILES": "CCCCCC",
+    "Synonyms": [
+        "HEXANE",
+        "n-Hexane",
+        "110-54-3",
+        "Esani",
+        "Gettysolve-B",
+        "Skellysolve B",
+        "Hexyl hydride",
+        "hexan",
+        "Dipropyl",
+        "Hexanen",
+        "Heksan",
+        "92112-69-1",
+        "normal-hexane",
+        "Normal hexane",
+        "NCI-C60571"
+    ],
+    "IsomericSMILES": "CCCCCC",
+    "INCHI": "InChI=1S/C6H14/c1-3-5-6-4-2/h3-6H2,1-2H3",
+    "INCHIKEY": "VLKZOEOYAKHREP-UHFFFAOYSA-N",
+    "Formula": "C6H14",
+    "MolecularWeight": {
+        "$numberDouble": "86.18"
+    },
+    "Description": "Hexane is an unbranched alkane containing six carbon atoms. It has a role as a non-polar solvent and a neurotoxin. It is an alkane and a volatile organic compound.",
+    "XlogP": {
+        "$numberDouble": "3.9"
+    },
+    "Complexity": {
+        "$numberInt": "12"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Tatsuka K et al; J Agric Food Chem 38: 2176-80 (1990) (2) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Hexane. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Oct 15, 2012: https://www.ars-grin.gov/duke/",
+            "Value": "n-Hexane was identified, not quantified, in the volatile component of kiwi fruit flowers (Actinidia chinensis)(1). The compound was reported, not quantified in the stem of kohlrabi (Brassica oleracea var. gongylodes)(2)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 24 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2010. Available from, as of Oct 16, 2012: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 170 was calculated in fish for n-hexane(SRC), using a log Kow of 3.90(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is high(SRC), provided the compound is not metabolized by the organism(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "Parr, J.F., P.B. Marsh, and J.M. Kla (eds.). Land Treatment of Hazardous Wastes. Park Ridge, New Jersey: Noyes Data Corporation, 1983., p. 327",
+            "Value": "The degradation of n-alkanes by microorganisms is similar to the degradation of fatty acids. The terminal methyl group is enzymatically oxidized by incorporation of molecular oxygen by a monooxygenase producing a primary alcohol with further oxidation to an acid group, although involvement of a dioxygenase is also postulated. Once the fatty acid is produced, it is degraded into 2-carbon units via the beta-oxidation pathway. ... Another pathway for n-alkane degradation that is encountered less often is the oxidation of both terminal carbons to form a dioic acid with subsequent beta-oxidation. Subterminal oxidation of the 2-carbon atom is seen mainly in C3-C6 alkanes, although it does occur in longer chain alkanes also. ... A dehydrogenation of the n-alkane may also occur yielding an alkene which is then converted to an alcohol, although there is little evidence for this theory. Some microorganisms have been shown to have both terminal and subterminal oxidation, each having very different rates of activity. The different chain lengths of n-alkanes are degraded to different extents ... . /In a study comparing/ ... growth on long an short chain alkanes by some bacteria ... the initial oxygenase had a broad specificity and would oxidize C1-C8 alkanes ... /but/ cells grown on C4-C8 alkanes did not oxidize the shorter chain alkanes to a significant extent. ... /n-Alkanes/"
+        },
+        {
+            "References": "Verschueren, K. Handbook of Environmental Data on Organic Chemicals. Volumes 1-2. 4th ed. John Wiley & Sons. New York, NY. 2001, p. 1269",
+            "Value": "AEROBIC: Waste water treatment; Rotating disk contact aerator: influent 214.8 mg/L, elimination: > 99%  ... Incubation with natural flora in the groundwater, in presence of the other components of high octane gasoline (1gl/L): biodegradation: 46% after 8 days"
+        },
+        {
+            "References": "(1) Malaney GW, McKinney RE; Water Sewage Works 113: 302-9 (1966) (2) Gerhold RM, Malaney GW; J Water Pollut Contr Fed 38: 562-79 (1966) (3) Patel RN et al; Appl Environ Microbiol 39: 727-33 (1980) (4) Patel RN et al; Appl Environ Microbiol 39: 720-6 (1980) (5) Hou CT et al; Appl Environ Microbiol 46: 178-84 (1983) (6) Solano-Serena F et al; Appl Microbiol Biotechnol 54: 121-25 (2000) (7) Chemicals Inspection and Testing Institute. Japan Chemical Industry Ecology - Toxicology and Information Center. ISBN 4-89074-101-1 (1992)",
+            "Value": "AEROBIC: n-Hexane achieved 4.1, 7.6 and 16.9% of its theoretical BOD using a benzene acclimated activated sludge after 6, 24, and 72 hours, respectively(1). n-Hexane at 500 mg/L was toxic to microorganisms using 50 mg municipal sludge obtained at a sewage treatment facility(2). Within 24 hours, n-hexane was oxidized to its corresponding methyl ketone, 2-pentanone(3,5), and the corresponding alcohol, 2-pentanol(4,5), by cell suspensions of over 20 methyltrophic organisms isolated from lake water and soil samples(3-5). n-Hexane, and 12 other components of gasoline were completely degraded using an activated sludge inoculum in less than 30 days(6). n-Hexane, present at 100 mg/L, reached 100% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(7)."
+        },
+        {
+            "References": "(1) Pasteris G et al; Environ Sci Technol 36: 30-39 (2002)",
+            "Value": "AEROBIC: Biodegradation of n-hexane, present at 7% weight as part of a mixture of 13 volatile fuel compounds including methyl tert-butyl ether, was studied in large-scale lysimeter representing depth of a 2.3 m thick sandy unsaturated zone over a gravel aquifer and studied for 70 days. A first-order rate constant of 0.40/day was reported at day 7(1), corresponding to a half-life of 2 days(SRC). The compound was not detected by day-13(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 24",
+            "Value": "log Kow = 3.90"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Klaassen, C.D. (ed). Casarett and Doull's Toxicology. The  Basic Science of Poisons. 6th ed. New York, NY:  McGraw-Hill, 2001., p. 689",
+            "Value": "N-hexane ... causes peripheral polyneuropathy and testicular atrophy. The testicular toxicity is separate from its neurotoxicity. /The metabolite, 2,5-hexanedione (HD)/ produces gonadal toxicity by altering testicular tubulin. The HD testicular toxicity results from alterations in Sertoli cell microtubules and the altered microtubules result from pyrole-dependent cross-linking. HD toxicity is slow in onset. Initially, HD affects the cross-linking of cytoskeletal elements leading to altered protein secretions and trafficking in the Sertoli cell. Consequently, there is altered Sertoli cell-germ cell contacts and a loss of Sertoli cell paracrine support of the germ cells."
+        },
+        {
+            "References": "PMID:11764975",
+            "Value": "2,5-Hexanedione is the toxic metabolite resulting from oxidation of /n-hexane./ ... Exposure to 2,5-hexanedione or its precursors results in a slowly progressive peripheral polyneuropathy and testicular injury. The chemical basis of the injury involves reaction of 2,5-hexanedione with protein amines, such as the epsilon-amine of lysine, to form pyrroles which further react to form protein-protein crosslinks. The target cell of injury in the testis is the supportive cell in the seminiferous epithelium, the Sertoli cell. A major function of the Sertoli cell is to nurture the dependent germ cell population by secreting seminiferous tubule fluid. 2,5-Hexanedione-induced crosslinking of the microtubule subunit protein, tubulin, leads to altered Sertoli cell microtubule-dependent transport and deficient formation of seminiferous tubule fluid, compromising germ cell viability."
+        },
+        {
+            "References": "Ford MD, Delaney KA, Ling LJ, Erickson T; Clinical Toxicology. W.B. Saunders Company., Philadelphia, PA. 2001, p. 171",
+            "Value": "n-Hexane's metabolism to 2,5-hexanedione decreases phosphorylation of neurofilaments, which destroys the normal cytoskeletal matrix. Neurofilament proteins are then transported down the axon where they accumulate, crosslink, and produce the giant axonal swelling that characterizes this axonopathy."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 1",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Hexane is three times as acutely toxic to mice as is pentane; concentrations of 30,000 ppm produced... /CNS depression/ within 30-60 min, and convulsions and death resulted from inhalation of 34,000-42,000 ppm."
+        },
+        {
+            "References": "PMID:510271",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Epicutaneous administration of n-hexane to guinea pigs caused progressing nuclear pyknosis and junctional separation between the basement membrane and the basal cells of the skin."
+        },
+        {
+            "References": "PMID:6252662",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ...Sterologenesis was not inhibited in /isolated sciatic/ nerves of rats who had inhaled 1,000 ppm n-hexane for 6 hr. Incorporation of (14)C acetate into triacylglycerols of nerves from rats exposed to n-hexane was increased by 50%."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 34",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Dermal application of 2-5 mL/kg for 4 hr to rabbits resulted in ataxia and restlessness. No  deaths occurred at 2 mL/kg, but lethality was noted at 5 mL/kg."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 34",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Intramuscular injection of hexane in rabbits causes edema and hemorrhaging of the lungs and tissues, with polymorphonuclear leukocytic reactions."
+        },
+        {
+            "References": "Ellenhorn, M.J. and D.G. Barceloux. Medical Toxicology - Diagnosis and Treatment of Human Poisoning. New York, NY: Elsevier Science Publishing Co., Inc. 1988., p. 965",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... 0.2 mL of intratracheal n-hexane produces a fatal chemical pneumonitis in rats ... ."
+        },
+        {
+            "References": "PMID:20039541",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Thirty-two SD male rats were randomly divided into control group and four n-hexane groups. The rats in the four n-hexane groups inhaled 35.2 g/cu m n-hexane statically for 1, 3, 7 and 14 days respectively (6 rats in every group) while 8 rats in the control group inhaled air. Histopathology and ultrastructure changes of the retina of rats were analyzed. Rats in control group had clear layers of retinal structure, stained evenly and with regular cell shape. Retinal degeneration was observed in the rats exposed to n-hexane for 7 days and 14 days, and aggravated by degrees with time exposed to n-hexane. In the rats exposed to n-hexane for 14 days, the outer segments of photoreceptor were arranged in a confusing order, and topically there appeared dissolution; in the inner segments, mitochondria were swollen or disappeared. Pyknotic chromatin and cytoplasmic edema were observed in the outer nuclear layer. There were degeneration of horizontal cells, bipolar cells and amacrine cells in the inner nuclear layer. Cytoplasmic edema and organelle dissolution were observed in ganglionic cells. In the neurofibromas layer, outer and inner plexiform layers, there was neuron cell tuber edema, and the microfilament and vacuole of synapse decreased. The histopathology and ultrastructure of retina are damaged in the rats exposed to n-hexane, thus leading to ocular fundus disease."
+        },
+        {
+            "References": "PMID:20853679",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... 24 healthy mice were randomly divided into 4 groups: one control group and three n-hexane groups (4 w, 8 w and 12 w), 6 each group. Primary concentration of n-hexane was 17.6 g/cu m, 8 hr per day, 6 days per week. After inhalation, n-hexane concentration of blood from celiac artery was detected. The lungs were embedded with paraffin and HE staining in the routine. The ratio of Clara cells with CCSP reaction in bronchiole and the number of macrophage cells with lysozyme reaction were determined by immuno-histochemistry. In the poisoning groups, the average n-hexane concentration of blood was significantly higher than that of the control group (P < 0.01). There were apparent pathologic damages in lungs of the poisoning mice. In poisoning 4 w, 8 w and 12 w groups, the ratio of Clara cells was significantly decreased ((73.33 +/- 4.21)%, (60.98 +/- 4.94)%, (34.04 +/- 2.33)% in terminal bronchiole, and (75.44 +/- 7.91)%, (58.54 +/- 4.86)%, (33.35 +/- 2.67)% in respiratory bronchiole) as compared with the control mice ((80.26 +/- 6.43)% and (81.74 +/- 7.75)%, P < 0.05 or P < 0.01), meanwhile the numbers of macrophage cells were gradually increased ((21.39 +/- 7.41), (28.54 +/- 10.73), (48.97 +/- 19.55) per microscopic field at 200x) in poisoning mice than those in control mice ((7.84 +/- 3.12) per microscopic field at 200x, P < 0.05 or P < 0.01). In injury lungs after n-hexane inhalation, Clara cells are the target cells of n-hexane toxicity effect. Clara cells play an extensive protective role in lung inflammation."
+        },
+        {
+            "References": "PMID:7111868",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Adult rats were exposed to hexane at different concn. Lung tissue was then examined. The direct toxic effect to pneumocytes could be demonstrated as definite regressive alterations, such as fatty degeneration and change of lamellar bodies of type II pneumocytes as well as incr detachment of cells. After chronic inhalation of solvents conspicuous aggregation of lamellar discharge material of type II pneumocytes can be seen, and probably, as a result of an irritated fat metab, large lysosome like bodies with densely packed lipid material in type I pneumocytes."
+        },
+        {
+            "References": "PMID:7164950",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ The activity of lactate dehydrogenase, beta-glucuronidase, glucose-6-phosphate dehydrogenase, acid and alkaline phosphatase was studied in lung homogenate from New Zealand rabbits exposed to 3000 ppm of hexane 8 hr/day for 8 days or filtered air. In hexane treated animals, all enzymes examined, except alkaline phosphatase, were markedly incr. High values in lung lysosomal enzymes from treated rabbits reflect the acute inflammation while the incr in lung glucose-6-phosphate dehydrogenase may depend upon reparative process subsequent to hexane-induced lung damage."
+        },
+        {
+            "References": "PMID:6724193",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Male and female Fischer 344 rats were exposed to 0, 3000, 6500, or 10000 ppm n-hexane vapors  6 hr per day, 5 days per wk, for 13 wk. The mean body wt gain of male rats in the 10000 ppm group  was significantly lower than for controls at 4 wk of exposure and thereafter. In addn to depression  of body wt gain, the males exposed to 10000 ppm had slightly but significantly lower brain wt at  necropsy. Axonopathy was observed in the tibial nerve in 4 of 5 male rats from the 10000 ppm group  and one of five male rats in the 6500 ppm group and in the medulla from one male rat in the 10000  ppm group. These axonal changes were detectable only in teased nerve fiber preparations or in Epon embedded specimens."
+        },
+        {
+            "References": "Sheftel, V.O.; Indirect Food Additives and Polymers. Migration and Toxicology. Lewis Publishers, Boca Raton, FL. 2000., p. 740",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ CD rats were exposed with 99% pure or technical grade /hexane/ by gavage for 17 weeks, or until hindlimb paralysis was observed. The treatment with 4,000 mg technical grade /hexane//kg BW caused severe hindlimb weakness or paralysis, tibial nerve lesions, and atrophy of testicular germinal epithelium."
+        },
+        {
+            "References": "Sheftel, V.O.; Indirect Food Additives and Polymers. Migration and Toxicology. Lewis Publishers, Boca Raton, FL. 2000., p. 740",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Wistar rats received 0.04-5.0 g commercial /hexane//kg BW for 13 weeks. An incr in relative kidney and liver weights was noted at 0.2-5.0 g/kg BW level. Changes in plasma enzymes, indicative of liver damage and elevated cholesterol and triglyceride levels were also observed. Histological exam revealed changes in the liver and kidneys, adrenals, peripheral nerves, spleen, testes, and thymus at the highest dose level tested. The NOAEL of 0.04 g technical grade /hexane//kg BW was established in this study."
+        },
+        {
+            "References": "PMID:2837504",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/  ... n-hexane .../was/ administered i.p. (1 mL/kg body wt) ...in albino rats. After 1, 2, 7 and 45 days of treatment.../hepatic protein content decreased with n-heptane and total sulfhydryl content showed a significant decrease ... A significant increase in lipid peroxidation was observed after 24 hr and 48 hr exposure... A marked decrease in drug metabolizing activity and an increase in pentabarbitone sleeping time was also observed. Hepatic glucose-6-phosphatase, a microsomal marker enzyme, showed a significant decrease."
+        },
+        {
+            "References": "PMID:7403671",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ New Zealand rabbits were exposed in inhalation chambers to 3,000 ppm of n-hexane 8hr/d for 8 d, and the acute respiratory effects were studied by light and electron microscopy. Animals intoxicated showed morphological changes in the lung parenchyma characterized by centriacinar emphysema and scattered micro haemorrhages. Lung damage was most severe at the transition zone from terminal bronchiole to alveolar ducts. This centriacinar lesion consisted of degenerative and necrotic phenomena in bronchiolar epithelium with cellular desquamation, increased number of macrophages within proximal alveoli of alveolar ducts, increased number and size of lamellar bodies in alveolar type II cells, changes in the vascular endothelium. Focal subpleural atelectasis, alveolar and interstitial oedema were also found. The segmental distribution of the pulmonary lesions were confirmed by transmission electron microscopy."
+        },
+        {
+            "References": "PMID:8499314",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Specimens from the left ventricular myocardium of 10 rats that had been exposed to subcutaneously administered hexane for 30 days were morphometrically and morphologically examined. Other than the presence of occasional necrotic fibers in hexane-treated animals, there was little difference in the histological appearance of myofibers in control or experimental specimens. There was a slight reduction in the average diameter of cardiac myofibers after exposure to hexane. Pathological ultrastructural changes of the myofibers were noted in the experimental and not in the control groups. Mitochondrial edema and necrosis and myofilament disorganization and dissolution were significant changes noted in the experimental group. These pathological changes suggest that hexane ... is cardiotoxic."
+        },
+        {
+            "References": "PMID:2818202",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Two kinds of nervous system-specific and muscle-specific proteins, enolase and S-100 protein, were quantitatively determined in peripheral nerves and skeletal muscles of rats ... exposed to ... n-hexane... vapor at three different solvent concentrations (500 ppm, 1200 ppm, 3000 ppm) for 12 hr/day, 7 days/week for 16 weeks. The body weight gain and motor nerve conduction velocity (MCV) in exposure groups show progressively concentration-dependent decreases compared to control values. Histopathological examination also demonstrated the degeneration of peripheral nerves in 3000 ppm- and 1200 ppm-exposed rats. The significant decrease in the amount of S-100 protein in peripheral nerves was observed not only in the high level exposure groups (3000 ppm and 1200 ppm), but also in the lowest level group (500 ppm), although the MCV and morphological examination remained unchanged at this level. In addition, the muscle-specific S-100 protein in 3000 ppm exposed rats' soleus also displayed a significant reduction. In contrast to this, however, enolase isozymes were not significantly changed by either dosage level in both nervous tissue and skeletal muscle. The experiment suggests that beta- and alpha-S-100 proteins which are specifically localized in nervous system and muscles, respectively, are more vulnerable than enolase isozymes under treatment with n-hexane, and may possibly serve as a specific indicator to evaluate the neurotoxic effects..."
+        },
+        {
+            "References": "Doull, J., C.D. Klaassen, and M. D. Amdur (eds.). Casarett and Doull's Toxicology. 2nd ed. New York: Macmillan Publishing Co., 1980., p. 469",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ .../Technical grade/ ...hexane (2,000 ppm) ...exposures for one to six months produced neurophysiologic effects in Wistar rats and retractions of the myelin nerve sheaths and in some instances rupture of Schwann cell membranes."
+        },
+        {
+            "References": "PMID:7070572",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Male rats were exposed by inhalation to several concn of hexane, admin continuously or intermittently. The 5th component of the brainstem auditory-evoked response (BAER) incr in latency and decr in amplitude in rats exposed to 1000 ppm hexane 24 hr/day, 5 days/wk, for 11 wk, reflecting a brainstem dysfunction. Latency returned to normal within 5 wk after termination of exposures, but amplitude did not. Latency of the cmpd action potential of the ventral caudal nerve of the tail of these rats was also incr, and this effect was still present 22 wk after termination of the exposure."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 2",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ There was no evidence for any adverse effect among Wistar rats inhaling n-hexane 8 hours/day, 7 days/week for 40 weeks at 700 ppm. In contrast, nerve conduction velocity measures at 4,8,12,16,20, and 24 weeks in male Wistar rats inhaling n-hexane 12 hours/day at 200 or 500 ppm showed progressive degeneration; light microscopy confirmed myelin and axon degeneration."
+        },
+        {
+            "References": "Doull, J., C.D. Klaassen, and M. D. Amdur (eds.). Casarett and Doull's Toxicology. 2nd ed. New York: Macmillan Publishing Co., 1980., p. 469",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ ...Mice /were exposed/ to commercial hexane (65-70% n-hexane) for 24 hr a day, six days a week for one year. Exposure levels ranged from 100 to 2,000 ppm. Atrophy and degeneration of hind leg muscle fibers was present in animals exposed to 1,000 and 2,000 ppm. ..."
+        },
+        {
+            "References": "Doull, J., C.D. Klaassen, and M. D. Amdur (eds.). Casarett and Doull's Toxicology. 2nd ed. New York: Macmillan Publishing Co., 1980., p. 3187",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Inhalation of 100 ppm hexane by mice gave no evidence of peripheral polyneuropathy in 7 months; however, 250 ppm resulted in peripheral nerve injury."
+        },
+        {
+            "References": "PMID:6517698",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ New Zealand male rabbits were exposed in an inhalation chamber to 3,000 ppm of n-hexane 8 h/day, 5 days/week for 24 weeks, resulting in a total of 120 exposures. After a further 120 days in clean air, morphologic examination of lungs by light and transmission electron microscopy (TEM) revealed three important exposure-related lesions. These consisted of air space enlargement centered on respiratory bronchioles and alveolar ducts (centriacinar emphysema), scattered foci of pulmonary fibrosis, and papillary tumors of non-ciliated bronchiolar epithelial cells. At TEM examination these tumors were rather homogeneous and were found to consist of cells showing both small and large electron dense ovoid granules in their cytoplasmic matrix, a feature that has been described for Clara cells..."
+        },
+        {
+            "References": "PMID:10330680",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ The carcinogenic and chronic toxicity potential of commercial hexane solvent was evaluated in F-344 rats and B6C3F1 mice (50/sex/concentration/species) exposed by inhalation for 6 h/day, 5 days/week for 2 years. Target hexane vapor concentrations were 0, 900, 3000, and 9000 ppm. There were no significant differences in survivorship between control and hexane-exposed groups, and clinical observations were generally unremarkable. Small, but statistically significant decreases in body weight gain were seen in rats of both sexes in the mid- and high-exposure groups and in high-exposure female mice. The only noteworthy histopathological finding in rats was epithelial cell hyperplasia in the nasoturbinates and larynx of exposed groups. This response was judged to be indicative of upper respiratory tract tissue irritation. No significant differences in tumor incidence between control and hexane-exposed rats were found. In mice, uterine tissue from the high-exposure females exhibited a significant decrease in the severity of cystic endometrial hyperplasia compared to controls. An increase in the combined incidence of hepatocellular adenomas and carcinomas was observed in high-exposure female mice. The incidence of liver tumors was not increased in the mid- or low-exposure female mice or in male mice exposed to hexane. An increased incidence of pituitary adenomas was observed in female, but not male mice. This finding was not believed to have been treatment-related because the incidence in the control group was unusually low, and the incidence in exposed groups was not dose-related and was within the historical control range. No other neoplastic changes judged to be treatment-related were observed in tissues from male or female mice. ..."
+        },
+        {
+            "References": "PMID:7822690",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ .../Commercial hexane solvent/ CHS consisted of 52.2% n-hexane (110543) and smaller amounts of methylcyclopentane (96377), pentane (109660), butane (106978), and other hexane isomers. Male and female Sprague-Dawley-rats were exposed continuously to 0, 900, 3,000, or 9,000 parts per million (ppm)CHS vapor through two generations of mating, gestation, and lactation starting 10 weeks before mating of the F0 generation. Body weight gains and mortality were recorded. The effects on reproductive parameters such as the number of impregnated females, gestation length, number of live F1 and F2 generation litters, number of live F1 and F2 pups per litter, and number of F1 and F2 pups surviving for 4, 7, 14, and 28 days were determined. Selected rats from each generation were necropsied. No clinical signs of toxicity were observed in any of the rats and no exposure related changes in any of the reproductive parameters were detected. Exposure to 9,000ppm CHS vapor significantly decreased body weight gains in F1 and F2 offspring. The other concentrations did not affect body weight. Hyaline droplet nephropathy in both generations of adult males exposed to 9,000 ppm CHS vapor was the only treatment related pathological lesion observed. The authors conclude that exposure of rats to CHS vapor over two generations causes decreased body weight gain at the high dose of 9,000 ppm but no adverse effects on reproduction. The hyaline droplet nephropathy seen in high dose males ... is judged to be a phenomenon unique to male rats and not relevant for human risk assessment purposes. ..."
+        },
+        {
+            "References": "PMID:22998826",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ To investigate the toxic effects of n-hexane on the ovary of female mice, n-Hexane was administered to four groups of mice by inhalation at doses of 0, 3.0, 15.1, and 75.8 mL/cu m respectively for five weeks. Each group consisted of 10 mice, of which half were injected in first with 10 IU of pregnant mare serum gonadotrophin (PMSG) on the 33rd days, and then with 10 IU of human chorionic gonadotrophin (HCG) 48 hr later. After the treatment, mouse sera were sampled and ovulating hormone (LH), follicle-stimulating hormone (FSH), estradiol (E2), and progesterone (P4) levels were measured by electrochemiluminescence immunoassays (ECLIA). In each group, the right ovaries of the non-super-ovulated mice were stained with hematoxylin and eosin while ovaries on the left side were prepared with the TUNEL method in order to detect apoptotic cells. The duration of the diestrus stage decreased significantly (P < 0.05) in the 75.8 mL/cu m group. All super-ovulated mice in each treatment group produced fewer eggs than those in the control group (P < 0.05). The number of follicles in ovaries in the 75.8 mL/cu m group was smaller compared with the control group (P < 0.05).The serum P4 levels in each treatment group were lower than those in the control group (F = 6.196, P < 0.01). The cell apoptotic rate in the 75.8 mL/cu m group was higher (P < 0.05). n-Hexane may have directly mediated via alterations hormone secretion and promoted granulosal cell apoptotic, which may be one of the important mechanisms for n-hexane induced mouse ovary impairment."
+        },
+        {
+            "References": "PMID:20600790",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Solvent abuse /(toluene and n-hexane)/ during pregnancy may cause fetal solvent syndrome, which is characterized by mild brain atrophy and associated with behavioral, cognitive, and emotional abnormalities. The present study investigated whether solvent inhalation during the preweaning period (P2-P21) alters the morphological maturation of frontal, parietal, and occipital cortical neurons. Twelve hours after delivery (postnatal day 0, P0), litters were cross-fostered, culled to 8 pups/dam and housed together with a dam in standard laboratory cages. Litters were randomly assigned to the air-only group (n=64, 8 litters) and to the solvent-sniffer group (n=72, 9 litters). During P2-P21, each animal was exposed daily to either organic solvent vapors (75% toluene and 18% n-hexane, a solvent mixture commonly found in glues and adhesives) or clean air. To determine the impact of early solvent inhalation on cortical neuronal differentiation, brains were stained using the Golgi-Cox-Sholl procedure to quantitatively assess neocortical pyramidal cell dendrogenesis. Preweaning, solvent-exposed animals displayed dramatic impairments in dendritic growth as well as significant reductions in brain weight and size."
+        },
+        {
+            "References": "PMID:2764718",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Testicular and germ cell line morphology in rats were studied 2 weeks, 10 months and 14 months after cessation of a 61-day inhalation exposure to 1000 ppm n-hexane. Androgen biosynthetic capacity of testis, testosterone blood concentration, vas deferens morphology and noradrenaline (NA) concentration, epididymal sperm morphology, and fertility were also studied. Severe testicular atrophy involving the seminiferous tubules with loss of the nerve growth factor (NGF) immunoreactive germ cell line was found. Total loss of the germ cell line was found in a fraction of animals up to 14 months post-exposure, indicating permanent testicular damage. No impairment of androgen synthesis or androgen dependent accessory organs was observed. Simultaneous administration of 1000 ppm n-hexane and 1000 ppm toluene, or 1000 ppm n-hexane and 1000 ppm xylene, did not cause germ cell line alterations or testicular atrophy. Toluene and xylene were thus found to protect from n-hexane induced testicular atrophy."
+        },
+        {
+            "References": "PMID:3556533",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Testicular damage was induced in rats by respiratory treatment with n-hexane at a concentration of 5000 ppm. The earliest lesions were observed immediately after 24 hr of continuous treatment, and involved primary spermatocytes from the leptotene to the middle pachitene stages and spermatids at late stages of maturation; at the same time numerous exfoliated, injured germ cells reached the epididymis. After the 24-hr treatment was suspended, damage to the seminiferous epithelium increased for the first 7 days, while the epididymis showed also focal infiltration by inflammatory cells; recovery was completed from Days 14 to 30. Intermittent treatment (16 hr/day, 6 days/week) at the same concentration of 5000 ppm for up to 6 weeks induced progressive increases in testicular and epididymal lesions, which, after 5 weeks (when most animals began to show clinical symptoms of polyneuropathy), reached aplasia of the germinal epithelium involving also the spermatogonia. Recovery from clinical symptoms was not paralleled by a regression of testicular pathology. On the contrary, after interruption of the treatment, the testicular lesions became increasingly severe, up to complete atrophy of the seminiferous tubules, suggesting an irreversible sterility of the treated animals. Pair-fed controls did not show histological alterations of the testis or epididymis."
+        },
+        {
+            "References": "PMID:7215199",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Pregnant outbred albino mice (CD-1) received n-hexane once daily be gavage at doses up to 2.20 g/kg/day on days 6-15 of gestation. Other pregnant mice received higher hexane doses (up to 9.90 g/kg/day), employing a three times a day injection schedule. At the lower, once-daily doses only one dam died and no teratogenic effects occurred. Higher hexane doses (t.i.d.) were toxic: 2 of 25 dams treated with 2.83 g/kg/day, 3 of 34 treated with 7.92 g/kg/day and 5 of 33 treated with 9.90 g/kg/day died. At the 7.92 and 9.90 g/kg/day doses, the average fetal weight was significantly (p less than 0.05) reduced, but the incidence of malformations in treated and vehicle (cotton-seed oil) control groups did not differ significantly. Thus, n-hexane was not teratogenic even at doses toxic to the dam."
+        },
+        {
+            "References": "Hansen E; TA:KemI Report: 31-47 (1991)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ...Severe testicular effects were seen after exposure with n-hexane in concentrations at 1000 ppm and above, if the daily or weekly exposure was long e.g. 16 hr/day in 6 days or continual exposure. Even at the lowest concentration severe testicular atrophy has been described. A slight congestion of the testis was found in a single study with a concentration of 850 ppm 6 days/week for 20 weeks... In one study no effects on the androgen synthesis and accessory organs were found. Similar effects on the testes as found after n-hexane exposure are seen after 2,5-hexanedione(the main metabolite)exposure in rats. In studies with 2,5-hexanedione, the effect on testes is found in subneurotoxic doses. The degree of intoxication and not the total dose had an influence on the testicular injury. Studies on pregnancy and lactation in rats and mice after inhalation or oral administration do not show an increased incidence of malformations. In some of the studies a higher incidence of minor anomalies such as misaligned sternebra and reduction in fetal weight were seen. In one study in mice a statistically significant effect on early and late resorptions were seen. Most effects in these studies could be related to a toxic effect on the dams..."
+        },
+        {
+            "References": "Keenan T et al; Toxicologist 11 (1): 315 (1991)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Timed pregnant Sprague-Dawley rats (25/group) and CD-1 mice (30/group) were exposed to commercial hexane (CH) vapor for six hours/day on gestational days (gd) 6 through 15 at target concentrations of 0, 900, 3000, or 9000 ppm. Maternal clinical signs, body weights, food and water consumption were measured. At scheduled sacrifice, maternal liver, kidney and gravid uterine weight were taken. Ovarian corpora lutea of pregnancy were counted and all uterine implantation sites were identified. All live fetuses were examined externally and approximately 50% per litter were examined for craniofacial or skeletal malformations and variations. Maternal toxicity observed in rats at 9000 ppm included a significant reduction in body weight gain and food consumption. At 9000 ppm rats and mice exhibited treatment-related color changes in the lung at necropsy. Gestational parameters including number of viable and non-viable implantations per litter and sex ratio were unaffected by CH exposure for both species. Rat and mouse fetal body weights per litter were equivalent across exposure groups. There were no treatment-related increases in the incidence of individual external, visceral or skeletal malformations and variations at any exposure level for rats. There were treatment-related increases in the incidence of two minor individual skeletal variations at 9000 ppm for mice. In conclusion, exposure to CH vapor during organogenesis in rats resulted in maternal toxicity at 9000 ppm with no apparent developmental toxicity at any exposure level. Exposure to CH vapor during organogenesis in mice resulted in maternal effects at 9000 ppm accompanied by slight developmental toxicity in the absence of malformations at 9000 ppm."
+        },
+        {
+            "References": "PMID:531893",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Pregnant Fischer 344 rats were exposed for 6 hr/day to 1,000 ppm n-hexane on days 8-12, 12-16 or 8-16 of gestation. Postnatal growth of pups born to dams exposed to 1,000 ppm on days 8-16 of gestation was significantly depressed compared to controls."
+        },
+        {
+            "References": "Doull, J., C.D.Klassen, and M.D. Amdur (eds.). Casarett and Doull's Toxicology. 3rd ed., New York: Macmillan Co., Inc., 1986., p. 454",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Agents reported to affect male reproductive capacity: hexane. /From table/"
+        },
+        {
+            "References": "Doull, J., C.D.Klassen, and M.D. Amdur (eds.). Casarett and Doull's Toxicology. 3rd ed., New York: Macmillan Co., Inc., 1986., p. 455",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Agents reported to affect female reproductive capacity: hexane. /From table/"
+        },
+        {
+            "References": "Sheftel, V.O.; Indirect Food Additives and Polymers. Migration and Toxicology. Lewis Publishers, Boca Raton, FL. 2000., p. 740",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Exposure to high concns (1,000-5,000 ppm) caused progressive testicular toxicity."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 35",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Subchronic exposure of rats for 14 wk resulted in nervous system type disease, including cerebral peripheral distal axonopathy. ... Subchronic exposure of pigeons to 3000 ppm 5 hr/day, for 82 days over 17 wk has shown no pathological nerve tissue alterations. However, exposure of rats to 400-600 ppm, 5 days/wk has resulted in peripheral neuropathy in 45 days. Exposure of rats to 850 ppm for 143 days showed loss in wt and degeneration of myelin and axis cylinders in the sciatic nerve."
+        },
+        {
+            "References": "Snyder, R. (ed.) Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume 1: Hydrocarbons. Amsterdam - New York - Oxford: Elsevier, 1987., p. 330",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Rats orally admin > or = 650 mg/kg for 90 days or more showed axonal degeneration in peripheral nerve. ... /In another study/ neuropathy /was produced/ in 101 days after giving 3.98 g/kg, 5 days/wk."
+        },
+        {
+            "References": "PMID:1705155",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ ... mice and rats /were treated/ with n-hexane and its principle toxic metabolite 2,5-hexanedione. The mice underwent a chronic treatment intraperitoneum, the rats were treated stereotaxically into the substantia nigra. At biochemical analysis of the striata, dopamine and homovanillic acid levels were significantly lower compared with control animals; norepinephrine, serotonin, 5-hydroxindolacetic acid levels were unchanged. The rats treated with 2,5-hexanedione showed an apomorphine-induced rotational behavior significantly higher compared to controls..."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 2",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Definite reductions in peripheral nerve conduction velocity that occurred in male and female baboons given daily oral doses of n-hexane at 0.13 mg/kg/day."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 1",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ When Fischer rats inhaled 1000 ppm n-hexane continuously for three weeks, the animals lost 25% of their body weight. By week 11, the animals developed hindlimb paralysis with clear histological evidence of peripheral nerve degeneration."
+        },
+        {
+            "References": "Ellenhorn, M.J. and D.G. Barceloux. Medical Toxicology - Diagnosis and Treatment of Human Poisoning. New York, NY: Elsevier Science Publishing Co., Inc. 1988., p. 965",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Studies in animals show the following decreasing order of neurotoxic potency: 2,5-hexanedione, /methyl n-butyl ketone (MBK)/, 2-hexanol, and n-hexane. ... The pronounced giant anoxal swelling of hexacarbon neuropathy is unique ... Swelling occurs initially in the proximal sides of the nodes of Ranvier in the distal portions of the nerve fiber and then progresses proximally. Nerve fibers may degenerate distal to the swellings, or secondary demyelination may occur distally. Myelin sheaths are inappropriately thin for their axon diameter. Long, distal nerve sections are the most vulnerable. The abnormally large fibers with swollen axons display abnormal accumulations of 10-nm neurofilaments that are involved in rapid protein transport. Studies in cats indicate widespread axonal degeneration in the mammillary body, lateral geniculate nucleus, and superior colliculus in experimental n-hexane neurotoxicity. Greater changes in the peripheral nervous system probably reflect the differential vulnerabilities of the shorter and smaller central nervous system fiber tracts. Prolonged low-level exposure may cause premature deterioration of central nervous system areas responsible for visual perception and behavior."
+        },
+        {
+            "References": "PMID:186151",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Rats intoxicated with pure n-hexane ... by inhalation (400-600 ppm) developed clinical signs after forty-five days and displayed giant axonal swellings and fibre degeneration both in the central and peripheral nervous systems. The changes were most striking in tibial nerves supplying calf muscles and in selected areas of the cerebellum, medulla and spinal cord. In contrast to the usual picture associated with dying-back disease, the distal regions of proximal nerve fibres supplying calf muscles degenerated before equivalent regions of longer fibres supplying the hindfeet..."
+        },
+        {
+            "References": "PMID:1358145",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/  After long-term n-hexane exposure (2000 ppm, 12 hr/day, 6 days/wk, for 24 weeks) /of rats/, the content of neuron-specific enolase (gamma-enolase), creatine kinase-B and beta-S100 protein ... decreased significantly in the distal segment of sciatic nerve, whereas they remained unchanged in the brain and proximal sciatic nerve. The quantitative decline in these marker proteins in the distal sciatic nerve could be related to neurophysiological deficits in the peripheral nerves...The biochemical changes observed are consistent with the clinical and pathological findings of n-hexane neuropathy. These nerve-specific marker proteins can be used to assess solvent-related peripheral neurotoxicity."
+        },
+        {
+            "References": "Mortelmans K et al; Environ Mutagen 8:1-119 (1986)",
+            "Value": "/GENOTOXICITY/ Hexane was found to be negative when tested for mutagenicity using the Salmonella/microsome preincubation assay, using the standard protocol approved by the National Toxicology program (NTP). Hexane was tested in as many as 5 Salmonella typhimurium strains (TA1535, TA1537, TA97, TA98, and TA100) in the presence and absence of rat and hamster liver S9, at doses of 0.001, 0.0033, 0.010, 0.033, 0.100, and 0.333 mg/plate. The highest negative dose tested in any Salmonella typhimurium strain was 0.333 mg/plate. Some cultures exhibited slight clearing of the background bacterial lawn at the two highest doses tested."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 2",
+            "Value": "/GENOTOXICITY/ Hexane was positive for the induction of sister-chromatid exchanges in cultured Chinese hamster ovary cells; /n-hexane/ was negative for the induction of chromosomal aberrations in the Chinese hamster ovaries assay and in the Salmonella assay."
+        },
+        {
+            "References": "PMID:6620418",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ In vitro toxicity of n-hexane using isolated perfused rabbit heart is reported. The force of cardiac contraction was significantly reduced following 1 hr perfusion with 9.6 mg/L n-hexane."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Eiceman GA et al; Intern J Environ Anal Chem 24: 143-62 (1986)",
+            "Value": "SOIL: n-Hexane was identified, not quantified, in the soil surrounding an earthen disposal pit in the Duncan Oil Field, NM(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992) (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of n-hexane can be estimated to be 130(SRC). According to a classification scheme(2), this estimated Koc value suggests that n-hexane is expected to have high mobility in soil."
+        }
+    ]
+}

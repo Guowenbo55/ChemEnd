@@ -1,0 +1,71 @@
+{
+    "_id": {
+        "$oid": "6682e85fc4e5dba5ffba2545"
+    },
+    "CID": {
+        "$numberInt": "6838"
+    },
+    "Name": "N-Nitrosodiphenylamine",
+    "IUPACName": "N,N-diphenylnitrous amide",
+    "CanonicalSMILES": "C1=CC=C(C=C1)N(C2=CC=CC=C2)N=O",
+    "Synonyms": [
+        "N-NITROSODIPHENYLAMINE",
+        "86-30-6",
+        "Diphenylnitrosamine",
+        "Nitrosodiphenylamine",
+        "Benzenamine",
+        "N-nitroso-N-phenyl-",
+        "Vultrol",
+        "N-Nitroso-N-phenylaniline",
+        "Retarder J",
+        "Redax",
+        "Vulcatard A",
+        "Vulkalent A",
+        "Ortard",
+        "Sconoc",
+        "Diphenylamine",
+        "N-nitroso-",
+        "Vulcalent A"
+    ],
+    "IsomericSMILES": "C1=CC=C(C=C1)N(C2=CC=CC=C2)N=O",
+    "INCHI": "InChI=1S/C12H10N2O/c15-13-14(11-7-3-1-4-8-11)12-9-5-2-6-10-12/h1-10H",
+    "INCHIKEY": "UBUCNCOMADRQHX-UHFFFAOYSA-N",
+    "Formula": "C12H10N2O",
+    "MolecularWeight": {
+        "$numberDouble": "198.22"
+    },
+    "Description": "N-Nitrosodiphenylamine is a member of phenylhydrazines.",
+    "XlogP": {
+        "$numberDouble": "3.1"
+    },
+    "Complexity": {
+        "$numberInt": "178"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Kincannon DF, Lin YS; Proc Ind Waste Conf 40: 607-19 (1985) (2) Tabak HH et al; J Water Pollut Control Fed 53: 1503-18 (1981) (3) Patterson JW, Kodukala PS; Chem Eng Prog 77: 48-53 (1981) (4) Malik MAB, Tesfai K; Bull Environ Contam Toxicol 27: 115-21 (1981) (5) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Dec 6, 2018: https://www.safe.nite.go.jp/english/db.html",
+            "Value": "AEROBIC: The half-life of N-nitrosodiphenylamine in 86 g sludge/kg soil produced from a wood preserving process was determined to be 88.9 days, from an initial concentration of 697 mg/kg and a final concentration of 19 mg/kg after 287 days; the half-life of N-nitrosodiphenylamine in 172 g sludge/kg soil produced from a wood preserving process was determined to be 166.4 days, from an initial concentration of 887 mg/kg and a final concentration of 58 mg/kg after 287 days(1). In a static biodegradation test that used domestic wastewater as the inoculum, the N-nitrosodiphenylamine biodegraded in the original culture and first, second and third subcultures after 7 days incubation per culture was: (10 mg/L initial concentration N-nitrosodiphenylamine) 47, 63, 95, and 98%; at 5 mg/L initial concentration N-nitrosodiphenylamine: 87, 100, 92, and 100%, respectively(2). Removal of N-nitrosodiphenylamine at two industrial activated sludge treatment plants averaged >84% at an average influent concentration of 5.3 ug/L(3). At an industrial aerated lagoon, 67% of an initial N-nitrosodiphenylamine concentration of 3 ug/L was removed(3). N-Nitrosodiphenylamine, added to soil at a concentration of 354 ug/g soil, was degraded 68% by the end of a 30 day incubation at 30 \u00b0C in the dark(3). In soil amended with wheat straw (organic matter content increased from 2.16 to 17.5%), N-nitrosodiphenylamine disappeared completely by day 10 of the incubation(4). N-Nitrosodiphenylamine, present at 100 mg/L, reached 0% of its Theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(5)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Camanzo J et al; J Great Lakes Res 13: 296-309 (1987)",
+            "Value": "N-Nitrosodiphenylamine was monitored for, but not detected, in 9 species of fish collected from 14 locations on Lake Michigan and tributary streams during 1983(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 97",
+            "Value": "log Kow = 3.13"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Onuska FI et al; J Great Lakes Res 9: 169-82 (1983) (2) Suedel BC et al; Environ Sci Technol 41: 2594-601 (2007)",
+            "Value": "SEDIMENT: Sediment cores collected from five sampling stations of the western basin of Lake Ontario were found to contain no traces of N-nitrosodiphenylamine during analysis(1). N-Nitrosodiphenylamine was not detected (detection limit not reported) in sediment samples collected Feb 14-15, 2006 from 18 sampling sites located in Violet Marsh, LA after Hurricane Katrina(2)."
+        }
+    ]
+}

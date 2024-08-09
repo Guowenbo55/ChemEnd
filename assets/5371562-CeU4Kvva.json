@@ -1,0 +1,115 @@
+{
+    "_id": {
+        "$oid": "6682e9bdc4e5dba5ffba2c24"
+    },
+    "CID": {
+        "$numberInt": "5371562"
+    },
+    "Name": "MONOCROTOPHOS",
+    "IUPACName": "dimethyl [(E)-4-(methylamino)-4-oxobut-2-en-2-yl] phosphate",
+    "CanonicalSMILES": "CC(=CC(=O)NC)OP(=O)(OC)OC",
+    "Synonyms": [
+        "MONOCROTOPHOS",
+        "Azodrin",
+        "6923-22-4",
+        "Nuvacron",
+        "Monocron",
+        "Corophos",
+        "Monostar",
+        "Parryfos",
+        "Apadrin",
+        "Monocil",
+        "Pillardrin",
+        "Biloborn",
+        "Bilobran",
+        "Crisodrin",
+        "Hazodrin"
+    ],
+    "IsomericSMILES": "C/C(=C\\C(=O)NC)/OP(=O)(OC)OC",
+    "INCHI": "InChI=1S/C7H14NO5P/c1-6(5-7(9)8-2)13-14(10,11-3)12-4/h5H,1-4H3,(H,8,9)/b6-5+",
+    "INCHIKEY": "KRTSDMXIXPKRQR-AATRIKPKSA-N",
+    "Formula": "C7H14NO5P",
+    "MolecularWeight": {
+        "$numberDouble": "223.16"
+    },
+    "Description": "Monocrotophos is an alkenyl phosphate that is the 4-(methylamino)-4-oxobut-2-en-2-yl ester of dimethyl phosphate. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, an EC 3.1.1.8 (cholinesterase) inhibitor, an acaricide, an agrochemical, an avicide and an EC 1.4.3.4 (monoamine oxidase) inhibitor. It is a dialkyl phosphate, an organophosphate insecticide, an alkenyl phosphate and a monocarboxylic acid amide.",
+    "XlogP": {
+        "$numberDouble": "-0.2"
+    },
+    "Complexity": {
+        "$numberInt": "267"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Willis GH, McDowell LL; Reviews of Environm Contam Toxicol 100: 23-73 (1987)",
+            "Value": "Leaf surface residues of monocrotophos on mature cotton plants treated at 1.0 lb AI/acre were 12.8, 10.6, 6.3, and 4.3 mg/sq m at 0, 24, 48, and 72 hours after application(1)."
+        }
+    ],
+    "animal_concentrations": [
+        {
+            "References": "PMID:6469917",
+            "Value": "Monocrotophos was detected in dead blue-winged teal collected near two newly planted rice fields in Matagorda County, Texas, in March and May 1982, at levels ranging from 2 to 13 ppm wet weight(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR (consult ed) Washington, DC: Amer Chem Soc p 35 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF value of 0.41 was calculated for monocrotophos(SRC), using an estimated log Kow of -0.20(1,SRC) and a recommended regression-derived equation(2). According to a classification scheme(3), this BCF value suggests that bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Megharaj M et al; Bull Environ Contam Toxicol 39: 251-6 (1987) (2) Tomlin C; The Pesticide Manual. A World Compendium. Incorporating the Agrochemicals Handbook. 10th ed. Bath, UK: The Bath Press(1994) (3) Furmidge CGL, Osgerby JM; J Sci Food Agric 18: 269-73 (1967) (4) Eichelberger JW, Lichtenberg JJ; Environ Sci Technol 5: 541-4 (1971)",
+            "Value": "The soil algae, Chlorella vulgaris, Scenedesmus bijugatus, Synechococcus elongatus, Phormidium tenue, and Nostoc linckia, began metabolizing monocrotophos following 10 days of incubation(1). Monocrotophos is rapidly degraded in soil with half-lives ranging from 1 to 5 days(2). The half-life of azodrin in culture solution was 4.6 days(3). 100% of monocrotophos persisted after eight weeks incubation in raw river water(4)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 35",
+            "Value": "log Kow = -0.20"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 708",
+            "Value": "Cholinesterase inhibitor."
+        },
+        {
+            "References": "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 153",
+            "Value": "The signs of poisoning due to organophosphorus cmpd are those due to accumulation of acetylcholine & hence overstimulation of parasympathetic nervous system. It is usual to divide them under 3 headings: muscarinic, nicotinic & central. Muscarinic signs ... consist of hypersalivation, lacrimation, sweating & nasal discharge. Miosis, dyspnea, vomiting, diarrhea & frequency of urination ... Nicotinic effects consist of fasciculation of muscles, weakness & paralysis. Central nervous system effects include nervousness, apprehension, ataxia, convulsions & coma. Death is due to resp failure, or sometimes cardiac arrest. There is little difference between signs produced by different organophosphorus compounds, but route of absorption may influence one system more than another. /Organophosphorus cmpd/"
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B. Molinoff, R.W. Ruddon, A.G. Goodman (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 9th ed. New York, NY: McGraw-Hill, 1996., p. 163",
+            "Value": "The characteristic pharmacological effects of the anti-ChE agents are due primarily to the prevention of hydrolysis of ACh by AChE at sites of cholinergic transmission. Transmitter thus accumulates, and the response to ACh that is liberated by cholinergic impulses or that is spontaneously released from the nerve ending is enhanced. With most of the organophosphorus agents ... virtually all the acute effects of moderate doses are attributable to this action. /Anticholinesterase agents/"
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B. Molinoff, R.W. Ruddon, A.G. Goodman (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 9th ed. New York, NY: McGraw-Hill, 1996., p. 168",
+            "Value": "The cardiovascular actions of anticholinesterase agents are complex, since they reflect both ganglionic and postganglionic effects of accumulated ACh on the heart and blood vessels. The predominant effect on the heart from the peripheral action of accumulated ACh is bradycardia, resulting in a fall in cardiac output. Higher doses usually cause a fall in blood pressure, often as a consequence of effects of anticholinesterase agents on the medullary vasomotor centers of the CNS. /Anticholinesterase agents/"
+        },
+        {
+            "References": "Dreisbach, R.H. Handbook of Poisoning. 12th ed. Norwalk, CT: Appleton and Lange, 1987., p. 113",
+            "Value": "Organophosphorus derivatives act by combining with and inactivating the enzyme acetylcholinesterase. ... The inactivation of cholinesterase by cholinesterase inhibitor pesticides allows the accumulation of large amounts of acetylcholine, with resultant widespread effects that may be ... separated into 4 categories: (1) Potentiation of postganglionic parasympathetic activity. ... (2) Persistent depolarization of skeletal muscle ... (3) Initial stimulation following depression of cells of central nervous system ... (4) Variable ganglionic stimulation or blockade ... /Cholinesterase inhibitor pesticides/"
+        },
+        {
+            "References": "International Labour Office. Encyclopedia of Occupational Health and Safety. Vols. I&II. Geneva, Switzerland: International Labour Office, 1983., p. 1638",
+            "Value": "The main feature of the toxic mechanism of organophosphorus pesticides is inhibition of the esterase enzyme activity, in particular of cholinesterase, which plays an important physiological part. Organophosphorus pesticides can also indirectly interact with the biochemical receptors of acetylcholine. /Organophosphorus pesticides/"
+        },
+        {
+            "References": "Hayes, W.J., Jr., E.R. Laws, Jr., (eds.). Handbook of Pesticide Toxicology. Volume 2. Classes of Pesticides. New York, NY: Academic Press, Inc., 1991., p. 932",
+            "Value": "Phosphorylated enzymes, like acetylated acetylcholinesterase, are esters and may be hydrolyzed by nucleophilic agents, including water. The rate at which phosphorylated enzymes are reactivated by water is extremely low, compared to the rate for acetylcholinesterase combined with acetate. When inhibition is by isopropyl phosphate, the rate is essentially zero. /Organic phosphorous pesticides/"
+        },
+        {
+            "References": "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 2",
+            "Value": "Organophosphates poison insects and humans primarily by phosphorylation of the acetylcholinesterase enzyme at nerve endings. /Organophosphate Cholinesterase-inhibiting pesticides/"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR (consult ed) Washington, DC: Amer Chem Soc p 35 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 23 (1983)",
+            "Value": "The Koc of monocrotophos is estimated as approximately 19(SRC), using a measured log Kow of -0.20(1) and a regression-derived equation(2,SRC). According to a recommended classification scheme(3), this estimated Koc value suggests that monocrotophos is expected to have very high mobility in soil(SRC)."
+        }
+    ]
+}

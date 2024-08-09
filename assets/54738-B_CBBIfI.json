@@ -1,0 +1,75 @@
+{
+    "_id": {
+        "$oid": "6682e982c4e5dba5ffba2afc"
+    },
+    "CID": {
+        "$numberInt": "54738"
+    },
+    "Name": "Imazapyr",
+    "IUPACName": "2-(4-methyl-5-oxo-4-propan-2-yl-1H-imidazol-2-yl)pyridine-3-carboxylic acid",
+    "CanonicalSMILES": "CC(C)C1(C(=O)NC(=N1)C2=C(C=CC=N2)C(=O)O)C",
+    "Synonyms": [
+        "Imazapyr",
+        "81334-34-1",
+        "Imazapyr acid",
+        "Charper",
+        "Arsenal 250A",
+        "2-(4-Isopropyl-4-methyl-5-oxo-2-imidazolin-2-yl)nicotinic acid",
+        "3-Pyridinecarboxylicacid",
+        "2-[4,5-dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1H-imidazol-2-yl]-",
+        "2-(4-isopropyl-4-methyl-5-oxo-4,5-dihydro-1H-imidazol-2-yl)nicotinic acid",
+        "DTXSID8034665",
+        "787MX0M5A6",
+        "2-(4-methyl-5-oxo-4-propan-2-yl-1H-imidazol-2-yl)pyridine-3-carboxylic acid",
+        "MFCD00144470",
+        "3-Pyridinecarboxylic acid",
+        "2-(4,5-dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1H-imidazol-2-yl)-",
+        "(+/-)-Imazapyr",
+        "2-[4-methyl-5-oxo-4-(propan-2-yl)-4,5-dihydro-1H-imidazol-2-yl]pyridine-3-carboxylic acid"
+    ],
+    "IsomericSMILES": "CC(C)C1(C(=O)NC(=N1)C2=C(C=CC=N2)C(=O)O)C",
+    "INCHI": "InChI=1S/C13H15N3O3/c1-7(2)13(3)12(19)15-10(16-13)9-8(11(17)18)5-4-6-14-9/h4-7H,1-3H3,(H,17,18)(H,15,16,19)",
+    "INCHIKEY": "CLQMBPJKHLGMQK-UHFFFAOYSA-N",
+    "Formula": "C13H15N3O3",
+    "MolecularWeight": {
+        "$numberDouble": "261.28"
+    },
+    "Description": "2-(4-isopropyl-4-methyl-5-oxo-4,5-dihydro-1H-imidazol-2-yl)nicotinic acid is a pyridinemonocarboxylic acid that is nicotinic acid which is substituted at position 2 by a 4,5-dihydro-imidazol-2-yl group, which in turn is substituted at positions 4, 4, and 5 by isopropyl, ethyl, and oxo groups, respectively. It is a member of pyridines, a member of imidazolines, an imidazolone and a pyridinemonocarboxylic acid.",
+    "XlogP": {
+        "$numberDouble": "1.2"
+    },
+    "Complexity": {
+        "$numberInt": "433"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The study compared the absorption and translocation of the isopropylamine salts of 14C-glyphosate and 14C-imazapyr in established terrestrial alligatorweed. The results showed that alligatorweed absorbed more than twice as much imazapyr compared to glyphosate when applied to the leaves. Furthermore, imazapyr exhibited greater translocation to the underground storage tissues of alligatorweed compared to glyphosate. This disparity in translocation to roots and subterranean storage tissues is suggested as a potential mechanism for the tolerance of alligatorweed to glyphosate and its susceptibility to imazapyr.",
+            "reference": "Tucker, T. A., Langeland, K. A., & Corbin, F. T. (1994). Absorption and translocation of 14C-imazapyr and 14C-glyphosate in alligatorweed Alternanthera philoxeroides. Weed Technology, 8(1), 32-36.",
+            "method": {
+                "Test Plant": "Alligatorweed",
+                "Apply Location": "Adaxial surface of four expanded leaves near the shoot apex",
+                "Plant Grown Condition": "Cultured in a greenhouse for two years, then transferred to a field plot in Clayton, NC and grown under field conditions for 8 weeks in August and September 1986",
+                "Chemical Preparation": "14C-labeled glyphosate with a specific activity of 832 kBq/mg and 14C-labeled imazapyr with a specific activity of 1106 kBq/mg, both applied in water containing 0.5% surfactant",
+                "Pesticide Application Details for the Plant": "Non-radiolabeled herbicides applied post-emergence using a CO2-pressurized backpack sprayer equipped with tapered fan nozzles, delivering 1.12 kg/ha of each herbicide separately in 345 L/ha of total spray volume",
+                "Other Information": "Plants were arranged in a randomized complete block design with four replications. Absorption and translocation were analyzed at 0, 1, 2, 4, and 8 days after treatment. Plant sections were harvested and sectioned into treated leaves, shoots below treated leaves, axillary buds, and roots. External plant cuticles were removed by washing treated leaves in distilled water and chloroform. Radioactivity was measured by liquid scintillation spectrometry."
+            },
+            "result": "[{\"Days after application\": 1, \"Treated Leaf (%)\": 50.0, \"Axillary Buds (%)\": 0.2, \"Roots (%)\": 1.7}, {\"Days after application\": 2, \"Treated Leaf (%)\": 55.4, \"Axillary Buds (%)\": 1.2, \"Roots (%)\": 4.0}, {\"Days after application\": 4, \"Treated Leaf (%)\": 67.0, \"Axillary Buds (%)\": 1.5, \"Roots (%)\": 11.6}, {\"Days after application\": 8, \"Treated Leaf (%)\": 70.3, \"Axillary Buds (%)\": 2.2, \"Roots (%)\": 15.1}]"
+        },
+        {
+            "content": "The study investigated the absorption, translocation, and metabolism of [14C]pronamide, [14C]glyphosate, and [14C]imazapyr in the Orobanche cumana\u2013sunflower system. [14C]Pronamide was applied as a sunflower seed treatment by coating or soaking, affecting herbicide absorption but not the subsequent distribution within the plant. Translocation of [14C]pronamide from treated seed to the plant was greater for the coating treatment, with leaves containing the largest amount of herbicide. For [14C]glyphosate and [14C]imazapyr applied post-emergence to sunflower, translocation within the host plant did not differ between parasitized and non-parasitized plants, with most radioactivity remaining in the treated leaf. Translocation of [14C]glyphosate to O. cumana reached 5.5% at 3 days after treatment (DAT). [14C]Imazapyr was absorbed more by the treated leaf than [14C]glyphosate at 1 DAT, with higher levels accumulated by O. cumana. Metabolism of [14C]imazapyr showed a constant presence in the treated leaf but a higher proportion of the parent compound in O. cumana, suggesting its control by this herbicide.",
+            "reference": "D\u0131az-Sanchez, J., Lopez-Mart\u0131nez, N., L\u00f3pez-Granados, F., De Prado, R., & Garc\u0131a-Torres, L. (2002). Absorption, translocation, and fate of herbicides in Orobanche cumana\u2013sunflower system. Pesticide Biochemistry and Physiology, 74(1), 9-15.",
+            "method": {
+                "Test Plant": "Sunflower (Helianthus annuus L. var. Vyp)",
+                "Apply Location": "foliar application",
+                "Plant Grown Condition": "Seeds were germinated in petri dishes at 21\u00b0C, then seedlings transplanted to 20x20 cm plastic pots with peat soil (sand:loam 1:1 mix). Growing conditions were 25/20\u00b0C day/night, 70% relative humidity, 220 \u03bcmol/m2/s light intensity for 14 h photoperiod. For infested plants, 50 mg Orobanche cumana seeds were inoculated per pot at transplanting. Plants were watered as needed and given Hoagland solution weekly.",
+                "Chemical Preparation": "[14C]Imazapyr 0.1 \u03bcCi/\u03bcL in water with 0.1% Tween 20 surfactant",
+                "Pesticide Application Details for the Plant": "-",
+                "Other Information": "Radioactivity was measured by combustion and liquid scintillation counting in seed coat, embryo, leaves, roots and Orobanche plants at different time points up to 8 weeks after treatment. No replicate numbers provided."
+            },
+            "result": "[{\"Treatment\": \"Infested\", \"Days after application\": 1, \"Treated leaf (% of applied)\": 53.6, \"Other leaves (%)\": 5.4, \"Root (%)\": 2.1}, {\"Treatment\": \"Infested\", \"Days after application\": 3, \"Treated leaf (% of applied)\": 52.4, \"Other leaves (%)\": 20.1, \"Root (%)\": 5.1}, {\"Treatment\": \"Infested\", \"Days after application\": 6, \"Treated leaf (% of applied)\": 31.7, \"Other leaves (%)\": 34.3, \"Root (%)\": 5.4}, {\"Treatment\": \"Infested\", \"Days after application\": 12, \"Treated leaf (% of applied)\": 22.1, \"Other leaves (%)\": 330.0, \"Root (%)\": 5.9}, {\"Treatment\": \"Non-Infested\", \"Days after application\": 1, \"Treated leaf (% of applied)\": 59.3, \"Other leaves (%)\": 8.9, \"Root (%)\": 4.9}, {\"Treatment\": \"Non-Infested\", \"Days after application\": 3, \"Treated leaf (% of applied)\": 51.3, \"Other leaves (%)\": 28.4, \"Root (%)\": 8.1}, {\"Treatment\": \"Non-Infested\", \"Days after application\": 6, \"Treated leaf (% of applied)\": 40.2, \"Other leaves (%)\": 39.7, \"Root (%)\": 5.5}, {\"Treatment\": \"Non-Infested\", \"Days after application\": 12, \"Treated leaf (% of applied)\": 38.8, \"Other leaves (%)\": 39.1, \"Root (%)\": 6.1}]"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "_id": {
+        "$oid": "6682e96fc4e5dba5ffba2a99"
+    },
+    "CID": {
+        "$numberInt": "31307"
+    },
+    "Name": "TRIAMCINOLONE",
+    "IUPACName": "(8S,9R,10S,11S,13S,14S,16R,17S)-9-fluoro-11,16,17-trihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-3-one",
+    "CanonicalSMILES": "CC12CC(C3(C(C1CC(C2(C(=O)CO)O)O)CCC4=CC(=O)C=CC43C)F)O",
+    "Synonyms": [
+        "triamcinolone",
+        "124-94-7",
+        "Fluoxyprednisolone",
+        "Aristocort",
+        "Triamcinolon",
+        "Kenacort",
+        "Rodinolone",
+        "Delphicort",
+        "Ledercort",
+        "Tricortale",
+        "Adcortyl",
+        "Celeste",
+        "Triamcet",
+        "Volon",
+        "Triam-Tablinen"
+    ],
+    "IsomericSMILES": "C[C@]12C[C@@H]([C@]3([C@H]([C@@H]1C[C@H]([C@@]2(C(=O)CO)O)O)CCC4=CC(=O)C=C[C@@]43C)F)O",
+    "INCHI": "InChI=1S/C21H27FO6/c1-18-6-5-12(24)7-11(18)3-4-13-14-8-15(25)21(28,17(27)10-23)19(14,2)9-16(26)20(13,18)22/h5-7,13-16,23,25-26,28H,3-4,8-10H2,1-2H3/t13-,14-,15+,16-,18-,19-,20-,21-/m0/s1",
+    "INCHIKEY": "GFNANZIMVAIWHM-OBYCQNJPSA-N",
+    "Formula": "C21H27FO6",
+    "MolecularWeight": {
+        "$numberDouble": "394.4"
+    },
+    "Description": "Triamcinolone is a C21-steroid hormone that is 1,4-pregnadiene-3,20-dione carrying four hydroxy substituents at positions 11beta, 16alpha, 17alpha and 21 as well as a fluoro substituent at position 9. Used in the form of its 16,17-acetonide to treat various skin infections. It has a role as an anti-allergic agent and an anti-inflammatory drug. It is a fluorinated steroid, an 11beta-hydroxy steroid, a 20-oxo steroid, a 21-hydroxy steroid, a 3-oxo-Delta(4) steroid, a glucocorticoid, a 17alpha-hydroxy steroid, a 16alpha-hydroxy steroid, a C21-steroid hormone, a primary alpha-hydroxy ketone and a tertiary alpha-hydroxy ketone. It derives from a hydride of a pregnane.",
+    "XlogP": {
+        "$numberDouble": "1.2"
+    },
+    "Complexity": {
+        "$numberInt": "807"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 173",
+            "Value": "log Kow = 1.16"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Kahn, C.M. (Ed.); The Merck Veterinary Manual 9th ed. Merck & Co. Whitehouse Station, NJ. 2005, p. 2128",
+            "Value": "Glucocorticoids are capable of suppressing the inflammatory process through numerous pathways. They interact with specific intracellular receptor proteins in target tissues to alter the expression of corticosteroid-responsive genes. Glucocorticoid-specific receptors in the cell cytoplasm bind with steroid ligands to form hormone-receptor complexes that eventually translocate to the cell nucleus. There these complexes bind to specific DNA sequences and alter their expression. The complexes may induce the transcription of mRNA leading to synthesis of new proteins. Such proteins include lipocortin, a protein known to inhibit PLA2a and thereby block the synthesis of prostaglandins, leukotrienes, and PAF. Glucocorticoids also inhibit the production of other mediators including AA metabolites such as COX, cytokines, the interleukins, adhesion molecules, and enzymes such as collagenase. /Glucocorticoids/"
+        },
+        {
+            "References": "Thomson/Micromedex. Drug Information for the Health Care  Professional. Volume 1,  Greenwood Village, CO. 2007., p. 919",
+            "Value": "Corticosteroids diffuse across cell membranes and complex with specific cytoplasmic receptors. These complexes then enter the cell nucleus, bind to DNA (chromatin), and stimulate transcription of messenger RNA (mRNA) and subsequent protein synthesis of various inhibitory enzymes responsible for the anti-inflammatory effects of topical corticosteroids. These anti-inflammatory effects include inhibition of early processes such as edema, fibrin deposition, capillary dilatation, movement of phagocttes into the area, and phagocytic activities. Later processes, such as capillary production, collagen deposition, and keloid formation also are inhibited by corticosteroids. The overall actions of topical corticosteroids are catabolic. /Corticosteroids (topical)/"
+        },
+        {
+            "References": "Thomson/Micromedex. Drug Information for the Health Care  Professional. Volume 1,  Greenwood Village, CO. 2007., p. 890",
+            "Value": "The potent anti-inflammatory action may be due to an inhibition of the secretion of growth factors, endothelial activating and other cytokines from lymphocytes, eosinophils, macrophages, fibroblasts, and mast cells. The results are decreased influx of inflammatory cells into the bronchial walls, due in part to inhibition of expression of adhesion molecules on the endothelium and in the tissue. Decreased activation and survival of eosinophils in the lung tissue and a reduction in numbers of mast cells are further effects. Corticosteroids may inhibit release of mediators from basophils and enzymes from macrophages. There is decreased permeability through vasoconstriction and direct inhibition of endothelial cell contradiction. Beta-adrenergic-receptor numbers may be increased, which results in an enhanced response to beta-adrenergic bronchodilators and reduced down-regulation  of beta-receptors after prolonged beta-agonist exposure. Inhaled corticosteroids also inhibit mucus secretion in airways, possibly by a direct action on submucosal gland cells and an indirect  inhibitory effect caused by the reduction in inflammatory mediators that stimulate mucus secretion. The amount and viscosity of sputum are reduced.  /Corticosteroids (inhalation-local/"
+        }
+    ]
+}

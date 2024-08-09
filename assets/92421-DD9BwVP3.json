@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "66927125303528b49832d819"
+    },
+    "CID": {
+        "$numberInt": "92421"
+    },
+    "Name": "Trinexapac-ethyl",
+    "IUPACName": "ethyl 4-[cyclopropyl(hydroxy)methylidene]-3,5-dioxocyclohexane-1-carboxylate",
+    "CanonicalSMILES": "CCOC(=O)C1CC(=O)C(=C(C2CC2)O)C(=O)C1",
+    "Synonyms": [
+        "Trinexapac-ethyl",
+        "95266-40-3",
+        "Ethyl 4-(cyclopropyl(hydroxy)methylene)-3,5-dioxocyclohexanecarboxylate",
+        "Cimectacarb",
+        "Trinexapac-ethyl [ISO]",
+        "ethyl 4-[cyclopropyl(hydroxy)methylidene]-3,5-dioxocyclohexane-1-carboxylate",
+        "DTXSID9032535",
+        "CHEBI:81817",
+        "Q89W563T9J",
+        "Moddus",
+        "Primo",
+        "CGA 163935; Cimectacarb; Moddus; Primo; Primo Maxx",
+        "Ethyl 4-[cyclopropyl(hydroxy)methylene]-3,5-dioxocyclohexanecarboxylate",
+        "UNII-Q89W563T9J",
+        "cimectocarb-ethyl"
+    ],
+    "IsomericSMILES": "CCOC(=O)C1CC(=O)C(=C(C2CC2)O)C(=O)C1",
+    "INCHI": "InChI=1S/C13H16O5/c1-2-18-13(17)8-5-9(14)11(10(15)6-8)12(16)7-3-4-7/h7-8,16H,2-6H2,1H3",
+    "INCHIKEY": "RVKCCVTVZORVGD-UHFFFAOYSA-N",
+    "Formula": "C13H16O5",
+    "MolecularWeight": {
+        "$numberDouble": "252.26"
+    },
+    "Description": "Trinexapac-ethyl is an ethyl ester resulting from the formal condensation of the carboxy group of trinexapac with ethanol. It has a role as a xenobiotic, an environmental contaminant, a plant growth regulator, an agrochemical, a pro-agent and a gibberellin biosynthesis inhibitor. It is a member of cyclohexanones, a beta-hydroxy ketone, an enol, an ethyl ester and a member of cyclopropanes. It is functionally related to a trinexapac.",
+    "XlogP": {
+        "$numberDouble": "0.9"
+    },
+    "Complexity": {
+        "$numberInt": "411"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Trinexapac-ethyl (TriEt) is a systemic growth regulator belonging to the acylcyclohexanedione class, known for its ability to influence plant growth in graminaceous species like grasses. Its systemic action hinges on its absorption by plant tissues and subsequent transformation from its ester form to the biologically active acid form (trinexapac acid or TriH), which requires enzymatic hydrolysis. Once converted, TriH is transported within the plant, primarily moving acropetally toward the shoot apex. This systemic translocation allows TriH to impact actively growing meristematic regions, influencing growth processes. However, this systemic behavior introduces a delay in its onset of action compared to locally acting growth regulators. Additionally, the systemic nature of TriEt can lead to its dilution within larger plants, potentially affecting its overall efficacy. Understanding TriEt's systemic behavior is crucial for effective application and optimizing its growth-regulating effects in various plant species and environmental conditions.(Rademacher, W. (2014). PROHEXADIONE-CA AND TRINEXAPAC-ETHYL: SIMILARITIES IN STRUCTURE BUT DIFFERENCES IN BIOLOGICAL ACTION. Acta Horticulturae, (1042), 33\u201341. doi:10.17660/actahortic.2014.1042.3\u00a0)",
+            "reference": "Fagerness, M. J., & Penner, D. (1998). 14C\u2010trinexapac\u2010ethyl absorption and translocation in Kentucky bluegrass. Crop Science, 38(4), 1023-1027.",
+            "method": {
+                "Test Plant": "Kentucky bluegrass (Poa pratensis)",
+                "Apply Location": "Foliar application to leaf blades and plant bases (leaf sheaths surrounding stem).",
+                "Plant Grown Condition": "2-year-old sod pieces established in greenhouse flats with coarse soil (230 g/kg gravel, 770 g/kg sand). 25\u00b12\u00b0C, 1200 \u00b5mol/m2/s light for 18 h",
+                "Chemical Preparation": "1,2,6-14C-trinexapac-ethyl, 94.8% purity, 1.14 x 106 Bq/mg specific activity",
+                "Pesticide Application Details for the Plant": "2 \u00b5L droplet on leaf blade or plant base",
+                "Other information and Other Information": "Washed treated plant parts at 0, 1, 4, 8, 24 h after treatment (HAT) with 1:1 methanol:water"
+            },
+            "result": "[{\"Application site\": \"Leaf blade\", \"Roots (% of absorbed)\": 5, \"Foliage (%)\": \"-\", \"Plant base (%)\": 11, \"Treated leaf blade (%)\": \"67\", \"Leaf sheath for treated leaf blade (%)\": \"11\", \"Leaf blades above treated leaf blade (%)\": \"1\", \"Other tillers (%)\": \"5\"}, {\"Application site\": \"Plant base\", \"Roots (% of absorbed)\": 4, \"Foliage (%)\": \"78\", \"Plant base (%)\": 18, \"Treated leaf blade (%)\": \"-\", \"Leaf sheath for treated leaf blade (%)\": \"-\", \"Leaf blades above treated leaf blade (%)\": \"-\", \"Other tillers (%)\": \"-\"}, {\"Application site\": \"Roots\", \"Roots (% of absorbed)\": 50, \"Foliage (%)\": \"25\", \"Plant base (%)\": 25, \"Treated leaf blade (%)\": \"-\", \"Leaf sheath for treated leaf blade (%)\": \"-\", \"Leaf blades above treated leaf blade (%)\": \"-\", \"Other tillers (%)\": \"-\"}]"
+        }
+    ]
+}

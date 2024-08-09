@@ -1,0 +1,331 @@
+{
+    "_id": {
+        "$oid": "6682e7cfc4e5dba5ffba2275"
+    },
+    "CID": {
+        "$numberInt": "244"
+    },
+    "Name": "BENZYL ALCOHOL",
+    "IUPACName": "phenylmethanol",
+    "CanonicalSMILES": "C1=CC=C(C=C1)CO",
+    "Synonyms": [
+        "benzyl alcohol",
+        "phenylmethanol",
+        "benzenemethanol",
+        "100-51-6",
+        "phenylcarbinol",
+        "benzylalcohol",
+        "Benzoyl alcohol",
+        "Benzenecarbinol",
+        "alpha-Toluenol",
+        "Phenylmethyl alcohol",
+        "Hydroxytoluene",
+        "(Hydroxymethyl)benzene",
+        "Phenolcarbinol",
+        "Benzal alcohol",
+        "Methanol",
+        "phenyl-"
+    ],
+    "IsomericSMILES": "C1=CC=C(C=C1)CO",
+    "INCHI": "InChI=1S/C7H8O/c8-6-7-4-2-1-3-5-7/h1-5,8H,6H2",
+    "INCHIKEY": "WVDDGKGOMKODPV-UHFFFAOYSA-N",
+    "Formula": "C7H8O",
+    "MolecularWeight": {
+        "$numberDouble": "108.14"
+    },
+    "Description": "Benzyl alcohol is an aromatic alcohol that consists of benzene bearing a single hydroxymethyl substituent. It has a role as a solvent, a metabolite, an antioxidant and a fragrance.",
+    "XlogP": {
+        "$numberDouble": "1.1"
+    },
+    "Complexity": {
+        "$numberInt": "55"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Aubert C, Pitrat M; J Agric Food Chem 54: 8177-82 (2006)",
+            "Value": "Benzyl alcohol was quantitatively detected in the skin and pulp of Queen Anne's pocket melon (Cucumis melo L) at 164.5 and 25.5 ug/kg, respectively(1)."
+        },
+        {
+            "References": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Benzyl alcohol. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Sept 15, 2014: https://www.arsgrin.gov/duke/",
+            "Value": "Benzyl alcohol plant concentrations(1).",
+            "Table": "[{'Genus species': 'Camellia sinensis', 'Family': 'Theaceae', 'Common name': 'Tea', 'Part': 'Shoot', 'Quantity (ppm)': '1,400'}, {'Genus species': 'Hyacinthus orientalis', 'Family': 'Liliaceae', 'Common name': 'Hyacinth', 'Part': 'Flower', 'Quantity (ppm)': '920'}, {'Genus species': 'Narcissus tazetta', 'Family': 'Liliaceae', 'Common name': 'Daffodil', 'Part': 'Flower', 'Quantity (ppm)': '360'}, {'Genus species': 'Jasminum officinale', 'Family': 'Oleaceae', 'Common name': 'Jasmine', 'Part': 'Flower', 'Quantity (ppm)': '228'}, {'Genus species': 'Camellia sinensis', 'Family': 'Theaceae', 'Common name': 'Tea', 'Part': 'Leaf', 'Quantity (ppm)': '160'}, {'Genus species': 'Hyssopus officinalis', 'Family': 'Lamiaceae', 'Common name': 'Hyssop', 'Part': 'Flower', 'Quantity (ppm)': '32'}, {'Genus species': 'Rosmarinus officialis', 'Family': 'Lamiaceae', 'Common name': 'Rosemary', 'Part': 'Plant', 'Quantity (ppm)': '32'}, {'Genus species': 'Hyssopus officinalis', 'Family': 'Lamiaceae', 'Common name': 'Hyssop', 'Part': 'Leaf', 'Quantity (ppm)': '30'}, {'Genus species': 'Levisticum officinale', 'Family': 'Apiaceae', 'Common name': 'Lovage', 'Part': 'Root', 'Quantity (ppm)': '30'}, {'Genus species': 'Citrus reticulata', 'Family': 'Rutaceae', 'Common name': 'Mandarin', 'Part': 'Fruit', 'Quantity (ppm)': '2'}, {'Genus species': 'Origanum minutoflorum', 'Family': 'Lamiaceae', 'Common name': 'Small-flowered Oregano', 'Part': 'Shoot', 'Quantity (ppm)': '0-2'}, {'Genus species': 'Mentha x piperita subsp nothosubsp piperita', 'Family': 'Lamiaceae', 'Common name': 'Peppermint', 'Part': 'Leaf', 'Quantity (ppm)': nan}, {'Genus species': 'Vaccinium corymbosum', 'Family': 'Ericaceae', 'Common name': 'Blueberry', 'Part': 'fruit juice', 'Quantity (ppm)': nan}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 31 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Sept 15, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 1.4 was calculated in fish for benzyl alcohol(SRC), using a log Kow of 1.10(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Babeu L, Vaishnav DD; J Ind Microbiol 2: 107-15 (1987) (2) McKinney RE et al; Sew Indust Wastes 28: 547-57 (1956) (3) Thom NS, Agg AR; Proc Royal Soc Lond B 189: 347-57 (1975) (4) Marion CV, Malaney, GW; Proc Ind Waste Cong 18: 297-308 (1964) (5) Lutin PA et al; Purdue Univ Eng Bull Ext Series 118: 131-45 (1965) (6) Heukelekian H, Rand MC; J Water Pollut Contr Assoc 29: 1040-53 (1955) (7) Belly RT, Goodhue CT; Proc Int Biodegrad Symp 3: 1103-7 (1976) (8) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Sept 15, 2014: https://www.safe.nite.go.jp/english/db.html (9) Tabak HH, Govind R; in Proc Annu Meet Air Waste Manage Assoc, 85th 8B 92 29.05 (1992)",
+            "Value": "AEROBIC: Benzyl alcohol underwent 70% of theoretical biological oxygen demand in 5 days under aerobic conditions using an acclimated mixed microbial culture(1). At an initial concentration of 250 ppm, benzyl alcohol achieved 29% of the theoretical BOD after 12 hours in a sewage sludge acclimated to this compound, and 31% oxidation in a sludge acclimated to mandelic acid(2). At an initial concentration of 500 ppm, it achieved 52%, 42%, and 43% of the theoretical BOD in 12 hours using a settled sewage sludge acclimated to phenol, benzoic acid, and catechol, respectively(2). It is listed as a synthetic organic chemical easily biodegradable by biological sewage treatment(3). Benzyl alcohol at an initial concentration of 500 mg/L was shown to undergo rapid oxygen uptake under aerobic conditions when inoculated with municipal sewage sludge(4,5). Benzyl alcohol achieved 48% of the theoretical BOD in 5 days using a sewage sludge seed(6). Benzyl alcohol underwent 60.8% degradation using an industrial sludge inoculum under aerobic conditions in 5 days(7). Benzyl alcohol, present at 100 mg/L, reached 94% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(8). An experimentally-derived first-order aerobic biodegradation rate constant of 0.05 days was reported(9), corresponding to a half-life of about 13 days(SRC)."
+        },
+        {
+            "References": "Lyman, W.J., W.F. Reehl, D.H. Rosenblatt. Handbook of Chemical Property Estimation Methods-Environmental Behavior of Organic Compounds. New York, NY: McGraw-Hill Book Company, 1982., p. 9-64",
+            "Value": "AEROBIC: BOD5/COD ratio for benzyl alcohol: 0.091 /From table/"
+        },
+        {
+            "References": "(1) Horowitz A et al; Dev Ind Microbiol 23: 435-44 (1982) (2) Shelton DR, Tiedje JM; App Env Microbiol 47: 850-7 (1984) (3) Balba MTM et al; Biochem Soc Trans 9: 230-1 (1981) (4) Kawahara K et al; Chemosphere 39: 2007-18 (1999)",
+            "Value": "ANAEROBIC: Under anaerobic conditions, benzyl alcohol underwent 100% mineralization within 2 weeks when inoculated with a municipal digester sludge(1). Benzyl alcohol at an initial concentration of 50 ppm underwent greater than 75% mineralization to carbon dioxide and methane within 8 weeks using a municipal sewage sludge inoculum under anaerobic conditions(2). Using sediment from anoxic salt marsh, 10 mM benzyl alcohol underwent degradation to carbon dioxide and methane after a 2 month incubation period(3). Benzyl alcohol was shown to be readily biodegradable using a synthetic anaerobic sewage sludge(4)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Cha YJ, Cadwaller KR; J Food Sci 60: 19-24 (1995) (2) Kubota K et al; J Agric food Chem 39: 1127-30 (1991) (3) Chung HY; J Agric Food Chem 47: 2280-7 (1999)",
+            "Value": "Benzyl alcohol was detected in salt-fermented fish and shrimp pastes at concentrations of 352-1,230 ng/g(1). Benzyl alcohol was identified, not quantified, in the volatile emissions of cooked clams(2). Benzyl alcohol was found to be a volatile component of Southeast Asian crab meat (Charybdis feriatus) at concentrations of 4.4, 3.8 and 71.7 ug/kg from leg, body and carapace, respectively(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 31",
+            "Value": "log Kow = 1.10"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "PMID:11766131",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ A polyvinyl chloride (PVC) cup containing 10% w/v benzyl alcohol was fastened (using surgical tape) to the dorsal side of three male nude mice for 24 hours of contact. Following exposure, mice were immediately killed and specimens of the exposed areas and of an adjacent untreated area were taken for microscopic examination. The skin sections were fixed in formalin, dehydrated, and embedded in paraffin. Sections were stained with hematoxylin and eosin and scored using the Ingram & Grasso system. A typical section from benzyl alcohol-treated areas had severe compact hyperkeratosis, acanthosis, spongiosis, intracellular edema, and some areas of ulceration of the epidermis. The collagen bundles in the dermis appeared slightly fragmented and slight cell infiltration of the area was noted. The final score for benzyl alcohol was 22, the modal score for at least three animals. Scores greater than 21 were considered \"unacceptably severe damage.\" The investigators acknowledged that male nude mice were not an ideal model for human skin; however, the study was done to establish the relative dermal tolerance of various penetration enhancers."
+        },
+        {
+            "References": "PMID:11766131",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In a cumulative irritation study, three male albino guinea pigs received a daily open application of 10% benzyl alcohol in squalane (0.3 mL) on the back for 3 successive days. Sites were evaluated for erythema and edema 24 hours after each application and scored on a scale of 0 to 4. Benzyl alcohol in squalane received a cumulative score of 0.4, falling in the </=2.0 range of \"none to weak irritant\"."
+        },
+        {
+            "References": "PMID:11766131",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In a primary irritation study 10% benzyl alcohol in squalane was applied (0.3 mL) in a 24-hour occlusive patch to the back of eight male albino rabbits. The sites had been clipped free of hair and were abraded in four rabbits. Sites were evaluated according to the Draize scoring system at the time of patch removal and 72 hours later. No irritation was observed; there was a score of zero on a scale of 0 to 8."
+        },
+        {
+            "References": "PMID:11766131",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Undiluted benzyl alcohol /was administered/  intravenously (via the tail vein) to groups of 10 mice (5 of each sex). Three different mice strains were used with the following dose ranges. CD2F1 mice received 0.05 to 0.2 mL/kg, B6D2F1 mice received 0.05 to 0.4 mL/kg, and C57BL/6N mice received 0.025 to 0.1 mL/kg. All mice weighed between 14 and 18 g. The highest dose given did not exceed the LD50. Body weight was determined prior to the start of dosing, and 1 week thereafter. Animals were observed for 14 days and postmortem examinations were performed on day 15. Blood samples were withdrawn from the abdominal aorta and analyzed for hemolysis and precipitation potential. Convulsions, dyspnea, and reduced mobility were noted at the first 24-hour observation in mice treated with all but the lowest dose of benzyl alcohol. Decreased body weight gain or slight decrease in body weight was noted in B6D2F1 and C57BL/6N mice treated with all but the lowest dose. Postmortem alteration included hyperemia and edema in most animals that had died during the observation period (number not reported). Occasional hemorrhagic foci were observed in the spleen of C57BL/6N mice from all dose groups that had survived benzyl alcohol treatment. The blood from benzyl alcohol- treated mice had a potential for hemolysis and precipitation. Undiluted benzyl alcohol was ranked the most toxic of the five vehicles tested, which included dimethyl sulfoxide, polyethylene glycol 400, dimethylformamide, and absolute ethanol."
+        },
+        {
+            "References": "PMID:11766131",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Rats could inhale air saturated with benzyl alcohol vapor for a maximum of 2 hours.  Inhalation at a concentration of 1000 ppm for 8 hours caused death of three of six animals within 14 days of exposure."
+        },
+        {
+            "References": "PMID:11766131",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Three groups of six Sherman rats were exposed for 4 hours to a 2000-ppm concentration of benzyl alcohol vapor in normal atmosphere. Nine rats died within 14 days of exposure. The investigators considered the compound to be a moderate hazard."
+        },
+        {
+            "References": "OECD; SIDS Initial Assessment Report for SIAM 13. Report on Benzoates: Benzoic acid, Sodium benzoate, Potassium benzoate, Benzyl alcohol (CAS No: 65-85-0, 532-32-1, 582-25-2, 100-51-6) p.303 UNEP Publications (November 2001). Available from, as of November 18, 2014: https://www.inchem.org/pages/sids.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Acute intravenous toxicity of benzyl alcohol was determined in CD2F1 (0.05-0.2 mL/kg bw), B6D2F1 (0.05-0.4 mL/kg) and C57BL/6 mice.  The lowest dose was a safe dose and the highest one was the dose causing mortality in no more than half the animals of each group. Clinical signs were convulsion, dyspnea and reduced mortility in all strains for 24 hours. The slight decrease in body weight in the first week following treatment returned to normal in the second week."
+        },
+        {
+            "References": "OECD; SIDS Initial Assessment Report for SIAM 13. Report on Benzoates: Benzoic acid, Sodium benzoate, Potassium benzoate, Benzyl alcohol (CAS No: 65-85-0, 532-32-1, 582-25-2, 100-51-6) p.264 UNEP Publications (November 2001). Available from, as of November 18, 2014: https://www.inchem.org/pages/sids.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Benzyl alcohol was found to be not sensitizing in the guinea pig Draize Test, guinea pig maximization test, but was shown to be sensitizing in the guinea pig by the Freund's Complete Adjuvant Test and the Open Epicutaneous Test. /From table/."
+        },
+        {
+            "References": "European Medicines Agency (EMEA), The European Agency for the Evaluation of Medicinal Products, Veterinary Medicines Evaluation Unit, Committee for Veterinary Medicinal Products; Benzyl Alcohol, Summary Report (1997). Available from, as of July 8, 2008: https://www.emea.europa.eu/pdfs/vet/mrls/Benzylalcohol.pdf",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Benzyl alcohol was not irritating to rabbit skin in a 4 hour exposure experiment but was moderately irritating following 24 hours exposure. It was a moderate to severe eye irritant."
+        },
+        {
+            "References": "PMID:16508436",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ...To test the toxicity of intravitreal injections of benzyl alcohol ... nine New Zealand rabbits were injected with either a control or ... benzyl alcohol calculated to give final injected concentrations of 0.0073%, 0.022%, 0.073%, 0.222%, and 0.733% benzyl alcohol. The 0.022% concentration corresponds to the concentration of benzyl alcohol in human eyes when 0.1 mL of /a / commercial /product/... is used. Baseline examination of the rabbits was performed along with postinjection examinations on days 1, 3, 7, and 14. The eyes were enucleated and examined by light and electron microscopic examinations. ... Eyes injected with benzyl alcohol concentrations of 0.073%, 0.222%, and 0.733% displayed changes in the outer retina including loss of, and shortening of, outer segments and photoreceptors."
+        },
+        {
+            "References": "PMID:17111149",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ...To assess retinal toxicity of the vehicle of triamcinolone, benzyl alcohol (BA), when injected into the vitreous cavity of rabbits.... 24 pigmented rabbits /were/ assigned into two groups: group 1 (experimental, n = 12) received intravitreal 0.1 ml of BA, and group 2 (control, n = 12) received intravitreal 0.1 mL of balanced salt solution (BSS); all injections were done in the right eyes. Clinical examinations [slit lamp biomicroscopy, indirect ophthalmoloscopy, and three intraocular pressure (IOP) measurements] were done on both eyes before injection, at 1 and 3 hr post injection, together with electroretinograms (ERGs) at 3 days, 1, 2, 4, and 6 weeks following injections. Three rabbits from each group were euthanased at 1, 2, 4, or 6 weeks and eyes were sent for light and electron microscopic examination for quantitative morphometric measurements. ... The mean amplitudes of the a and b waves of the BA-injected eyes were 6.42 +/- 9.02 uv and 11.18 +/- 15.18 uv at 3 days, respectively, which were significantly reduced compared with the BSS-injected eyes (30.87 +/- 8.22 uv and 57.90 +/- 13.38 uv, respectively; P < 0.01 t-test) and the non-injected contralateral eyes (36.20 +/- 7.85 uv and 64.10 +/- 9.36 uv, respectively; P < 0.01 t-test). These ERG responses continued to be significantly reduced in the BA-injected eyes (P < 0.01 t-test) throughout the study period. The mean ganglion cell count was significantly reduced (P < 0.005 t-test) in the BA-injected eyes (8.42 +/- 2.4) compared with the BSS- and non-injected eyes (16.42 +/- 3.9 and 16.5 +/- 4.2, respectively). The mean thicknesses of the inner nuclear layer (INL) and outer nuclear layer (ONL) were significantly reduced (P < 0.005 t-test) in the BA-injected eyes (3.78 +/- 0.96 um and 11.77 +/- 1.29 um, respectively) compared with the BSS- (6.1 +/- 0.92 um and 21.82 +/- 0.95 um, respectively) and non-injected eyes (7.05 +/- 1.9 um and 22.49 +/- 1.01 um, respectively). Electron microscopy showed moderate to severe intracellular changes in the ganglion cell layer, INL, ONL, and photoreceptor layer at 6 weeks in BA-injected eyes, with no significant changes in BSS-injected eye. There was no significant rise in the IOP or clinical evidence of increased lens density during the study period in any of the eyes. /It was concluded that/ triamcinolone acetonide's vehicle, BA, produced severe ERG and structural damage to the retina when injected intravitreally."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V6 498",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Undiluted benzyl alcohol was moderately irritating when applied to the depilated skin of guinea pigs for 24 hr. It was moderately irritating when applied to rabbit skin. Benzyl alcohol was severely irritating to the eyes of rabbits."
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 4639",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ No fatalities or symptoms were found in rats exposed for 6 hr to a calculated concentration of 61 ppm nor were symptoms produced by exposures obtained by bubbling air through the liquid heated to 100 and 150 \u00b0C. ... Doses of 0.2 mL/kg or more, administered to dogs by stomach tube induced emesis and defecation. This was apparently due to irritation of the gastric mucosa ... Diuresis was more pronounced in the rabbit than in the dog, after administration of benzyl alcohol by various routes. The injection of 5 to 10% benzyl alcohol in oil of sweet almond in the region of the auditory meatus of cats caused temporary degeneration of the small facial nerves."
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 4639",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Mice suffered respiratory stimulation, respiratory and muscular paralysis, convulsions, and ... /CNS depression/ following sc injection. ... Observed a decrease in arterial blood pressure of rabbits, cats, and dogs following iv injection of benzyl alcohol, but failed to find such decrease in the case of dogs following oral administration of 0.1-1.0 mL/kg of bw. ... Iv injection of 94% ... into dogs caused dyspnea, diarrhea, ataxia, mydriasis, nystagmus, urination, respiratory arrest, collapse, and cardiac arrest. In some instances deaths were delayed; in these cases, death was due to pulmonary hemorrhage and edema."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 143",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ When aqueous humor was replaced in one /rabbit/ eye with pure sterile 0.9% sodium chloride solution and in the other eye was replaced with the same solution plus 2% benzyl alcohol, no toxic effect was produced by the plain saline solution, but the eyes with benzyl alcohol solution rapidly developed evidence of injury of endothelium, with much bluish swelling of the cornea. Also, the irises in the eye with benzyl alcohol solution became hyperemic and had poorly reactive pupils. The corneal edema in rabbits disappeared more rapidly than in the human patients, clearing partially in one week and completely in two weeks."
+        },
+        {
+            "References": "PMID:5542834",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Benzyl alcohol (1 mL/kg iv) had no effect on respiration, ECG, or blood pressure on anesthetized monkeys and dogs. Lethal iv dose of 0.9% benzyl alcohol in anesthetized dogs was 0.83-1.06 g/kg."
+        },
+        {
+            "References": "PMID:4740372",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Administration of 9% benzyl alcohol produced transient respiratory arrest in adult dogs and death in immature dogs, and 7% and 4.5% benzyl alcohol produced clonic seizures in puppies."
+        },
+        {
+            "References": "PMID:971216",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Benzyl alcohol displayed antiarrhythmic-antifibrillatory effects when injected iv (0.2-0.4 mL/kg of a 4% solution) into dogs and rats with spontaneous and drug induced arrhythmias. IV injections of high doses caused intravascular hemolysis."
+        },
+        {
+            "References": "OECD; SIDS Initial Assessment Report for SIAM 13. Report on Benzoates: Benzoic acid, Sodium benzoate, Potassium benzoate, Benzyl alcohol (CAS No: 65-85-0, 532-32-1, 582-25-2, 100-51-6) p.300 UNEP Publications (November 2001). Available from, as of November 18, 2014: https://www.inchem.org/pages/sids.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The length of the estrus cycle was reduced when 0.52-2.1 d (1-4 mg/kg bw) benzyl alcohol was injected into the uterus of each of 48 cows."
+        },
+        {
+            "References": "OECD; SIDS Initial Assessment Report for SIAM 13. Report on Benzoates: Benzoic acid, Sodium benzoate, Potassium benzoate, Benzyl alcohol (CAS No: 65-85-0, 532-32-1, 582-25-2, 100-51-6) p.300 UNEP Publications (November 2001). Available from, as of November 18, 2014: https://www.inchem.org/pages/sids.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Microscopic examination revealed local nerve degeneration when 5% benzyl alcohol was injected into the side of a cat's face.  At 10% local anesthesia was produced."
+        },
+        {
+            "References": "PMID:11766131",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Groups of 20 F344/N rats and B6C3F1 mice (10 of each sex) received 50, 100, 200, 400, or 800 mg/kg benzyl alcohol, 5 days a week for 13 weeks. Experimental conditions were the same as in the 16-day study. The death of five rats was attributed to rupture caused by the gavage procedure. Gavage related deaths were considered to result from the trauma of the gavage procedure combined with the neurotoxic/anesthetic effect of the compound. Aside from these, four male rats and one female of the 800-mg/kg group, as well as one female of the 400-mg/kg group and one male of the 200-mg/kg group died on study. The 800-mg/kg group had signs of neurotoxicity, including staggering, labored breathing, and lethargy after dosing. Blood around the nose and mouth was noted in 5 of 10 males of this group after week 8. Compared to vehicle controls, final mean body weights were 7% and 5% smaller, respectively, in male and female rats of the highest dose group. At histopathologic evaluation, lesions observed in rats of the highest dose group included necrosis of the dentate gyrus of the hippocampus in 7 of 7 males and 9 of 9 females; skeletal muscle necrosis in 5 of 10 males, thymic congestion, hemorrhage, and atrophy in 8 of 10 males, and nephrosis in 6 of 9 males. Renal lesions were similar to those noted in age-related spontaneous renal disease. Nine of 10 deaths (mice) were attributed to the gavage procedure. Final mean body weights of females of the 400- and 800-mg/kg groups were 5% and 8% lower, respectively, than the vehicle control. Staggering was noted during the first and second weeks of dosing in mice of the high-dose group. No compound-related histopathologic alterations were observed. A Sendai virus infection was suspected."
+        },
+        {
+            "References": "PMID:11766131",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Technical grade benzyl alcohol (99% pure) in corn oil at doses of 125, 250, 500, 1000, or 2000 mg/kg was administered to groups of 10 F344/N rats and B6C3F1 mice (5 of each sex). Animals were dosed 5 days a week for 16 days (total of 12 doses). Feed and water were provided ad libitum. On days 8 and 9, both rats and mice of the 125-mg/kg group received doses that were 10-fold too high. All rats that received 2000 mg/kg and two of five males and three of five females that received 1000 mg/kg benzyl alcohol died before the end of the study. Rats of the two highest dose groups had blood around the nose and mouth, subcutaneous hemorrhages, and blood in the urinary and gastrointestinal tracts. Final body weight of male rats of the 1000 mg/kg group was 18% less than that of vehicle controls. Lethargy was observed in rats of the two highest dose groups; rough coats were noted in males of the 500- and 1000-mg/kg groups and in females of the 250- and 500-mg/kg groups. No compound-related histopathologic changes were noted. All mice that received 2000 mg/kg and one of five males and two of five females that received 1000 mg/kg benzyl alcohol died before the end of the study. Lethargy and rough coats were noted in males that received >/= 500 mg/kg and in females that received >/= 1000 mg/kg. Blood in the urinary bladder was noted at necropsy in mice of the two highest dose groups. No compound related histopathologic changes were noted."
+        },
+        {
+            "References": "OECD; SIDS Initial Assessment Report for SIAM 13. Report on Benzoates: Benzoic acid, Sodium benzoate, Potassium benzoate, Benzyl alcohol (CAS No: 65-85-0, 532-32-1, 582-25-2, 100-51-6) p.274 UNEP Publications (November 2001). Available from, as of November 18, 2014: https://www.inchem.org/pages/sids.html",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/  Benzyl alcohol was administered by gavage daily and for 8 days to mice at doses of 325, 645, 1300, and 2595 mg/kg/day.  Decreased muscle coordination, a \"hunched\" appearance, depression, and fur changes were reported in mice given 645 mg/kg, but not in those receiving 325 mg/kg or below.  At 1300 mg/kg, animals additionally suffered breathing difficulties, discharge from the eyes, and various CNS effects, and death occurred on day 1 in all mice given 2595 mg/kg."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V6 498",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Fischer 344 rats were given oral doses of 50, 100, 200, 400, and 800 mg/kg for 13 weeks. The high dose produced clinical signs indicative of neurotoxicity including staggering, respiratory difficulty, and lethargy. Reduction in weight gain was noted in males at 800 mg/kg and females at equal to or greater than 200 mg/kg. The high dose animals also showed hemorrhages around the mouth and nose, and histological lesions in the brain, thymus, skeletal muscle, and kidney."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V6 498",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ B6C3FI mice were given oral doses of 50, 100, 200, 400, and 800 mg/kg for 13 weeks. The high dose appeared to produce clinical signs of neurotoxicity. Reduction in weight gain was noted in males at equal to or greater than 400 mg/kg and females at equal to or greater than 200 mg/kg. No treatment related histopathological effects were noted."
+        },
+        {
+            "References": "PMID:5601620",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Benzyl alcohol applied daily to guinea pigs with experimental trichophytosis on surface of scarred infected skin produced paralysis in hind limbs after several days."
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 4640",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ The blood sugar of fasting animals was increased somewhat by prolonged admin of benzyl alcohol."
+        },
+        {
+            "References": "PMID:11766131",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ A nonoxidative hair dye containing 2.0% benzyl alcohol and 0.016% benzoic acid was painted onto the skin /of groups 8120 Eppley Swiss mice (60/sex) at a dose of 0.05 mL/application, three times weekly for 20 months. Sites were shaved of hair 24 hours before each application and a new bottle of dye was used each week. Two groups of control animals were shaved but not treated. Nine months into the study, 10 mice/sex/group were killed. Body weights and survival differed little between treatment and control groups. Varying degrees of chronic dermal inflammation were noted in all groups, including the controls. A significant ( p < .01) increase in malignant lymphomas was noted in treated females (23/60). However, the researchers noted that one concurrent control group had a very low incidence (7/60 or 12%) for that tumor type. The rate was 22% for the other control group and had averaged 33% for three control groups in previous studies. Thus, the findings were not considered treatment related. The incidence of pulmonary adenomas and hepatic hemangiomas, which are common to this mouse strain, were similar between treated and control groups. No unusual neoplasms were observed."
+        },
+        {
+            "References": "PMID:11766131",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 100 F344/N rats (50 each sex) were dosed with 200 or 400 mg/kg benzyl alcohol in corn oil, 5 days per week for 103 weeks. Groups of 100 B6C3F1 mice were dosed with 100 or 200 mg/kg benzyl alcohol following the same schedule. During week 80, mice were mistakenly dosed for four days with 375 (low-dose group) and 750 mg/kg (high-dose group) of alpha-methylbenzyl alcohol. No adverse effects were apparent. Mean body weights were comparable among dosed and vehicle control rats throughout the study. A number of accidental deaths was due to gavage procedures in female rats of both dose groups (17 deaths, low-dose; 13 deaths, high-dose) and in males of the 400 mg/kg group (14 deaths). Survival of female rats of the low- and high-dose groups was significantly lower than that of vehicle controls after weeks 71 and 50, respectively. At the end of the study, 17 female rats survived from each of the dose groups, compared to 35 female vehicle-controls; 27 low-dose males and 24 high-dose males survived, compared to 28 male vehicle controls. Clinical signs characteristic of sialodacryoadenitis (cervical swelling, pink eyes, red exudate around eyes) were observed in dosed and vehicle-control rats. The diagnosis was confirmed by serum analysis. Epithelial hyperplasia of the nonglandular stomach was noted in four high-dose males. A squamous cell papilloma was noted in 1 of 19 low-dose and 1 of 50 high-dose males. (It was not stated why only 19 low-dose male rats were examined.) No other compound-related clinical signs were observed. Mean body weight was comparable among dosed and vehicle control mice throughout the study. Survival of female vehicle controls was significantly lower than that of the high-dose group after week 74 (female: vehicle control, 26/50; low dose, 32/50; high dose, 36/50). Corpora amylacea (foci of mineralization in the thalamus) was observed at an increased incidence in highdose mice (male: vehicle control, 15/49; low dose, 21/48; high dose, 22/50; female: 14/50; 15/48; 25/50), but was noted to be a common and spontaneously occurring lesion"
+        },
+        {
+            "References": "DHHS/NTP; Toxicology and Carcinogenesis Studies of Benzyl Alcohol in F344/N Rats and B6C3F1 Mice (Gavage Studies) (1989) Technical Rpt Series No. 343 NIH Pub No. 89-2599. Available from, as of November 21, 2014: https://ntp-server.niehs.nih.gov/",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Under the conditions of these 2-year gavage studies, there was no evidence of carcinogenic activity of benzyl alcohol for male or female F344/N rats dosed with 200 or 400 mg/kg. Survival in both dose groups of female rats was 50% that of vehicle controls, primarily due to an increased number of gavage-related deaths. There was no evidence of carcinogenic activity of benzyl alcohol for male or female B6C3F1 mice dosed with 100 or 200 mg/kg for 2 years."
+        },
+        {
+            "References": "PMID:11766131",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ In a study which assayed the teratogenic activity of ethinyloestradiol sulfonate in Wistar rats, a vehicle control group that was treated with benzyl alcohol/peanut oil was maintained. On GDs 10, 13, 6 to 10, or 10 to 14, rats (number not stated) received intraperitoneal (ip) injections of either the test material or an unspeci. ed amount of vehicle. Fetuses were removed on day 21 and examined. No teratogenic effect was noted."
+        },
+        {
+            "References": "PMID:11766131",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ A group of 50 pregnant SPF CD-1 albino mice was dosed with 550 mg benzyl alcohol/kg/day on GDs 6 to 15 by gavage. The benzyl alcohol was dissolved in corn oil; a vehicle-control group was maintained. Maternal status (survival, body weight changes), gestation index (length of gestation), reproductive index, postnatal survival, average litter weight, and average pup weight were comparable between treated and control animals."
+        },
+        {
+            "References": "PMID:11766131",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ In screening a new developmental toxicity assay, 50 pregnant CD-1 mice were gavaged on GDs 6 to 13 with benzyl alcohol at a rate of 750 mg/kg/day. The dose selected was the LD(10) value determined in preliminary dose-finding studies. Mice were allowed to deliver. Litter size, birth weight, and neonatal growth and survival to postnatal day 3 were measured. Nineteen (38%) of the dams of the benzyl alcohol group died prior to delivery; the corresponding vehicle control group (which received water) had no maternal death. (Mice that died were not necropsied.) Maternal weight was significantly less changed in the benzyl alcohol group (6.2 +/= 3.6 g) as compared to controls (7.9 +/= 2.3 g). Viability in the benzyl alcohol group was 21 of 22 litters (controls had 29/29 viability) with an average of 10.0 liveborns per litter. Birth weight (1.6 g/pup) and 3-day weight gain (0.5 g/pup) for pups of the Benzyl Alcohol treatment group were signi. cantly less ( p <.05) than the corresponding values in controls (1.7 and 0.7 g/pup, respectively). The reduced birth weight was classified as \"some evidence of developmental toxicity.\" The researchers noted the 10% false-negative rate for toluene, a \"presumptive teratogen.\""
+        },
+        {
+            "References": "PMID:11766131",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ A group of 50 specific pathogen- free (SPF) CD-1 mice received 750 mg/kg/day benzyl alcohol (in distilled water) by gavage on GDs 7 to 14. (Earlier toxicity studies had determined the maximum tolerated dose was between 645 and 1300 mg/kg/day, and the 750-mg/kg/day dose was selected for the reproduction study.) The concurrent vehicle control had 50 mice. Mice were individually caged and feed and water were available ad libitum. Clinical observations were made daily. Maternal body weights were recorded prior to dosing, on day 18, and on postnatal day 3; the weight on day 7 determined the dose volume administered over the entire treatment period. Mice were allowed to deliver their litters and nurse the pups for 3 days. There were 18 compound-related deaths during the dosing period, and one on GD 15.  Mice that died were discarded without necropsy. No procedure-related deaths (i.e., gavage error) were recorded. Body tremors, hunching, subdued behavior, prostration, ataxia, swelling, and/or cyanosis of the abdomen and piloerection were noted in mice that died during the study as well as those that produced litters. No significant differences in reproductive and gestation indices, or in mean gestation length were noted between treated and control mice. A significantly lower day 18 mean body weight and a marginally reduced maternal weight on postpartum day 3 were noted in dosed dams. Decreased mean litter mean pup weight was noted on postpartum days 1 ( p <.01) and 3 ( p <.001). On postpartum days 1 to 3, a decreased mean litter weight change ( p< .05) and decreased mean litter mean pup weight ( p <.001) were noted. No significant differences were noted between treated and control pups in group litter viability. The investigators considered benzyl alcohol a suspect reproductive hazard and was 58 mg/kg/day."
+        },
+        {
+            "References": "OECD; SIDS Initial Assessment Report for SIAM 13. Report on Benzoates: Benzoic acid, Sodium benzoate, Potassium benzoate, Benzyl alcohol (CAS No: 65-85-0, 532-32-1, 582-25-2, 100-51-6) p.27 UNEP Publications (November 2001). Available from, as of November 18, 2014: https://www.inchem.org/pages/sids.html",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/  Fifty female mice were given benzyl alcohol at 550 mg/kg bw per day by gavage on days 6-15 of gestation; a further 50 mice received the corn oil vehicle. All dams were allowed to deliver naturally, and pups and dams were observed until day 3 post partum, when the experiment was terminated. Body weight, clinical observations, and mortality were recorded daily throughout treatment and up to day 3 post partum. Mortality was not significantly increased in animals given benzyl alcohol over that in the control group. One treated mouse showing languid behavior, labored breathing, and a rough coat died, but no other deaths or clinical signs were reported. Maternal body weight and body-weight gain during treatment and up to day 3 post partum were virtually identical for treated and control animals. All other parameters examined, including gestation index, average number of live pups per litter, and postnatal survival and pup body weight on days 0 and 3 post partum, were not significantly different from the control values. The authors concluded that, at the predicted LD10, benzyl alcohol had no significant effects on the development of CD-1 mice. NOAEL = 550 mg/kg bw per day"
+        },
+        {
+            "References": "PMID:2884741",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Benzyl alcohol was evaluated for developmental toxicity in a proposed new short term in vivo animal bioassay. In this assay, pregnant mice were dosed with the test agent in mid-pregnancy and allowed to go to term. Observations were then made on litter size as well as the birth weight, neonatal growth, and survival of pups as indicators of developmental toxicity. Fifty pregnant CD-1 mice were given 750 mg/kg/day benzyl alcohol in water by gavage on days 6-13 of gestation and were allowed to deliver. A decrease in the birth weight and weight gain in the pups was observed, but was not toxic to the mothers and had no effect on pup viability."
+        },
+        {
+            "References": "Shepard, T.H. Catalog of Teratogenic Agents. 5th ed. Baltimore, MD: The Johns Hopkins University Press, 1986., p. 71",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ... 0.01 or 0.02 mL of benzyl alcohol /injected/ into yolk sac of the chick from before incubation up to the 7th day. Meningoceles and skeletal defects were produced."
+        },
+        {
+            "References": "Goldfrank, L.R.,  Goldfrank's Toxicologic Emergencies 8th Ed. 2006., McGraw-Hill, New York, N.Y., p. 832",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ In a study in rats, lumbosacral dorsal root action potential amplitudes were measured after exposure to 0.9% or 1.5% benzyl alcohol in either 0.9% sodium chloride solution or distilled water. Rats exposed to all benzyl alcohol solutions for less than 1 minute had inhibited dorsal root actions potentials. This was attributed to the local anesthetic effects of benzyl alcohol. Nerve function was 50-90% restored after rinsing the nerves with 0.9% sodium chloride solutions. Chronic intrathecal exposure to benzyl alcohol 0.9% over 7 days showed scattered areas of demyelinization and early remyelinization. The 1.5% benzyl alchol solution-exposed dorsal nerve roots showed greater changes with widespread areas of demyelinization and fatty degeneration of nerve fibers."
+        },
+        {
+            "References": "PMID:11766131",
+            "Value": "/GENOTOXICITY/ Benzyl alcohol was negative in the Ames test with and without metabolic activation, sex-linked recessive lethal (flies), and replicative DNA synthesis (male rats) assays. Results of a mouse lymphoma forward mutation assay in the absence of S9 activation /were considered/ to be \"questionable,\" whereas a positive response /was reported/ at concentrations associated with toxicity. Both studies were negative with S9 activation. Benzyl alcohol, with S9 activation, was positive in the chromosome aberration test in Chinese hamster ovary (CHO) cells. Equivocal results were noted in the sister chromatid exchange (SCE) assay."
+        },
+        {
+            "References": "OECD; SIDS Initial Assessment Report for SIAM 13. Report on Benzoates: Benzoic acid, Sodium benzoate, Potassium benzoate, Benzyl alcohol (CAS No: 65-85-0, 532-32-1, 582-25-2, 100-51-6) p.277 UNEP Publications (November 2001). Available from, as of November 18, 2014: https://www.inchem.org/pages/sids.html",
+            "Value": "/GENOTOXICITY/ The A31-1-13 clone of BALB/c-3T3 cells was used to evaluated the transforming potential of numerous chemicals including benzyl alcohol. Each transformation assay contained a standard clonal survival assay, a co-culture clonal survival assay, and a transformation assay. ...  ... Benzyl Alcohol can be oxidized by air and may have been altered during the treatment period. ... Benzyl Alcohol was noncytotoxic to BALB/c-3T3 cells and ... the statistical sensitivities for trial 1 and 2 were 2 and 38/110, respectively. Benzyl Alcohol was evaluated as active in this assay with actual and estimated rank t-statistics both 1.95. ... Benzyl alcohol was grouped as a noncytotoxic, nonmutagenic, noncarcinogenic chemical."
+        },
+        {
+            "References": "OECD; SIDS Initial Assessment Report for SIAM 13. Report on Benzoates: Benzoic acid, Sodium benzoate, Potassium benzoate, Benzyl alcohol (CAS No: 65-85-0, 532-32-1, 582-25-2, 100-51-6) p.21 UNEP Publications (November 2001). Available from, as of November 18, 2014: https://www.inchem.org/pages/sids.html",
+            "Value": "/GENOTOXICITY/  A Drosophila melanogaster SRL assay with benzylalcohol 5000 ppm (feed) and 8000 ppm (injection) was negative."
+        },
+        {
+            "References": "OECD; SIDS Initial Assessment Report for SIAM 13. Report on Benzoates: Benzoic acid, Sodium benzoate, Potassium benzoate, Benzyl alcohol (CAS No: 65-85-0, 532-32-1, 582-25-2, 100-51-6) p.21 UNEP Publications (November 2001). Available from, as of November 18, 2014: https://www.inchem.org/pages/sids.html",
+            "Value": "/GENOTOXICITY/  A Replicative DNA Synthesis assay using male B6C3F1 male mice given a single dose of 0, 400 or 800 mg/kg bw benzyl alcohol by gavage was negative at all doses tested."
+        },
+        {
+            "References": "OECD; SIDS Initial Assessment Report for SIAM 13. Report on Benzoates: Benzoic acid, Sodium benzoate, Potassium benzoate, Benzyl alcohol (CAS No: 65-85-0, 532-32-1, 582-25-2, 100-51-6) p.21 UNEP Publications (November 2001). Available from, as of November 18, 2014: https://www.inchem.org/pages/sids.html",
+            "Value": "/GENOTOXICITY/  A Replicative DNA Synthesis assay using male Fischer 344 rats given a single dose of 0, 300, or 600 mg/kg bw benzyl alcohol by gavage was negative at all doses tested."
+        },
+        {
+            "References": "OECD; SIDS Initial Assessment Report for SIAM 13. Report on Benzoates: Benzoic acid, Sodium benzoate, Potassium benzoate, Benzyl alcohol (CAS No: 65-85-0, 532-32-1, 582-25-2, 100-51-6) p.21 UNEP Publications (November 2001). Available from, as of November 18, 2014: https://www.inchem.org/pages/sids.html",
+            "Value": "/GENOTOXICITY/  A Mouse Micronucleus assay using 50, 100, 200 mg/kg benzyl alcohol by ip injection was negative at all doses tested."
+        },
+        {
+            "References": "OECD; SIDS Initial Assessment Report for SIAM 13. Report on Benzoates: Benzoic acid, Sodium benzoate, Potassium benzoate, Benzyl alcohol (CAS No: 65-85-0, 532-32-1, 582-25-2, 100-51-6) p.19 UNEP Publications (November 2001). Available from, as of November 18, 2014: https://www.inchem.org/pages/sids.html",
+            "Value": "/GENOTOXICITY/ /In a/ recombination assay with Bacillus subtilus H17 and M45, /benzyl alcohol/ was positive."
+        },
+        {
+            "References": "OECD; SIDS Initial Assessment Report for SIAM 13. Report on Benzoates: Benzoic acid, Sodium benzoate, Potassium benzoate, Benzyl alcohol (CAS No: 65-85-0, 532-32-1, 582-25-2, 100-51-6) p.19 UNEP Publications (November 2001). Available from, as of November 18, 2014: https://www.inchem.org/pages/sids.html",
+            "Value": "/GENOTOXICITY/ In a cytogenic assay using CHO cells /benzyl alcohol/ was negative without metabolic activation and positive with metabolic activation."
+        },
+        {
+            "References": "OECD; SIDS Initial Assessment Report for SIAM 13. Report on Benzoates: Benzoic acid, Sodium benzoate, Potassium benzoate, Benzyl alcohol (CAS No: 65-85-0, 532-32-1, 582-25-2, 100-51-6) p.19 UNEP Publications (November 2001). Available from, as of November 18, 2014: https://www.inchem.org/pages/sids.html",
+            "Value": "/GENOTOXICITY/ Benzyl alcohol was not mutagenic /in the/ Escherichia coli reverse mutation assay ... with and without metabolic activation."
+        },
+        {
+            "References": "PMID:18068884",
+            "Value": "/GENOTOXICITY/ ...  /Benzyl alcohol was/ evaluated for genotoxicity in the wing somatic mutation and recombination test (SMART) of Drosophila melanogaster. Third-instar larvae trans-heterozygous for two genetic markers mwh and flr, were treated at different concentrations (0.1, 0.5, 1, 10, 25 and 50 mM) of the test compounds. Wings of the emerging adult flies were scored for the presence of spots of mutant cells, which can result from either somatic mutation or mitotic recombination. Also lethal doses of benzyl derivatives used as flavor ingredients were determined in the experiments. For the evaluation of genotoxic effects, the frequencies of spots per wing in the treated series were compared to the control group, which is distilled water."
+        },
+        {
+            "References": "Mortelmans K et al; Environ Mutagen 8: 1-119 (1986)",
+            "Value": "/GENOTOXICITY/ Benzyl alcohol was found to be negative when tested for mutagenicity in the Salmonella/microsome preincubation assay using the standard protocol approved by the National Toxicology Program (NTP). Benzyl alcohol was tested at doses of 0.1, 0.333, 1.0, 3.333, 5.0, and 6.666 mg/plate in as many as 5 Salmonella typhimurium strains (TA1535, TA1537, TA97, TA98, and TA100) in the presence and absence of rat or hamster liver S-9. The highest ineffective dose tested without toxicity in any S. typhimurium strains was 5.0 mg/plate. Slight inhibition of the background bacterial lawn occurred in cultures at 6.666 mg/plate but no significant change was seen in the results."
+        },
+        {
+            "References": "DHHS/NTP; Toxicology and Carcinogenesis Studies of Benzyl Alcohol in F344/N Rats and B6C3F1 Mice (Gavage Studies) (1989) Technical Rpt Series No. 343 NIH Pub No. 89-2599. Available from, as of November 21, 2014: https://ntp-server.niehs.nih.gov/",
+            "Value": "/GENOTOXICITY/ Benzyl alcohol was not mutagenic when tested by the preincubational protocol in the presence or absence of exogenous metabolic activation in Salmonella typhimurium strains TA98, TA100, TA1535, or TA1537. In the mouse L5178Y/TK+/- lymphoma assay, benzyl alcohol induced an increase in trifluorothymidine (Tft)-resistant cells in the absence, but not in the presence, of S9; the effect was associated with toxicity. In cytogenetic assays with Chinese hamster ovary (CHO) cells, treatment with benzyl alcohol produced an increase in sister chromatid exchanges (SCEs) which was judged to be equivocal both with and without S9; a significant increase in chromosomal aberrations was observed after exposure to benzyl alcohol in the presence, but not the absence, of S9."
+        },
+        {
+            "References": "McOrmond P et al; Drug Intell Clin Pharm 14 (Jul-Aug): 549 (1980)",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Hemolysis of red blood cells washed with normal saline containing benzyl alcohol was studied. It was confirmed that benzyl alcohol was responsible for hemolysis, when the volume of saline exceeds the volume of blood."
+        },
+        {
+            "References": "PMID:6269599",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Local anesthetics and alcohols inhibited mitochondrial electron transport at several points along the chain. N-butanol and benzyl alcohol inhibited each of segments of rat liver and beef heart mitochondrial electron transport chain assayed; these include cytochrome c oxidase, durohydroquinone oxidase, succinate oxidase and dehydrogenase, NADH oxidase, succinate-cytochrome c oxidoreductase, and others."
+        },
+        {
+            "References": "PMID:11766131",
+            "Value": "/OTHER TOXICITY INFORMATION/ Compared to control rats, benzyl alcohol noncompetitively inhibited activity of hepatic alcohol dehydrogenase (L-ADH) of rats maintained for a short term on 5% ethanol."
+        },
+        {
+            "References": "PMID:11766131",
+            "Value": "/OTHER TOXICITY INFORMATION/ Messiha reported that short-term intake of 2% benzyl alcohol in the drinking water resulted in an inhibition of hepatic alcohol dehydrogenase and mitochondrial aldehyde dehydrogenase isoenzyme activities in female rats. The effects were not noted in male rats."
+        },
+        {
+            "References": "PMID:11766131",
+            "Value": "/OTHER TOXICITY INFORMATION/ Studies reported benzyl alcohol to increase activity of membrane-bound Ca2+C-dependent enzymes such as adenylate cyclase and thiol proteinase. Conversely, benzyl alcohol inhibited activities of various glycosyltransferases of the rat liver Golgi membrane. The activities of erythrocyte-bound p-nitrophenylphosphatase and acetylcholinesterase were increased at some concentrations of benzyl alcohol and inhibited by others. The effect on cell membranes was considered the mechanism by which benzyl alcohol inhibited lymphocyte-mediated cytolysis in vitro. Benzyl alcohol induced time-, dose-, and temperature-dependent hemolysis of erythrocytes."
+        },
+        {
+            "References": "Nair B; Int J Toxicol 20 Suppl 3: 23-50 (2001)",
+            "Value": "/OTHER TOXICITY INFORMATION/ Benzyl alcohol is a membrane \"fluidizer\" that affects lipid bilayer structure. It has been demonstrated to act on membranes of erythrocytes and hepatocytes."
+        },
+        {
+            "References": "OECD; SIDS Initial Assessment Report for SIAM 13. Report on Benzoates: Benzoic acid, Sodium benzoate, Potassium benzoate, Benzyl alcohol (CAS No: 65-85-0, 532-32-1, 582-25-2, 100-51-6) p.300 UNEP Publications (November 2001). Available from, as of November 18, 2014: https://www.inchem.org/pages/sids.html",
+            "Value": "/OTHER TOXICITY INFORMATION/ Benzyl alcohol displays a pronounced antiarrhythmic-anti-fibrillatory effect, when injected IV into dogs and rats with spontaneous or drug-induced arrhythmias. Mechanisms which might be responsible for the antiarrhythmic effect: lengthening of the effective refractory period, local and general anesthetic effects, changes of osmolality. The iv injection of benzylalcohol in high doses, produces intravascular hemolysis."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "PMID:11014852",
+            "Value": "SEDIMENT: Benzyl alcohol was detected not quantified in sediments from three river estuaries and a port in Niigata, Japan, sampled in September 1995(1). The compound was detection in samples from the Hokura River (drains industrial and agricultural areas) at a factor of 10+5, the Shinano River (drains urban and agricultural areas) at a factor of 10+5, and the Tainai River (drains industrial and agricultural areas) at a factor of 10+5; concentrations in samples from the Niigata East Port (drains industrial areas) were at a factor of 10+6(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Southworth GR, Keller JL; Water Air Soil Poll 28: 239-48 (1986) (2) Briggs GG; Aust J Soil Res 19: 61-8 (1981) (3) Briggs GG; J Agric Food Chem 29: 1050-9 (1981) (4) Xu F et al; J Environ Qual 30: 1618-23 (2001) (5) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Experimental Koc values for benzyl alcohol were <5 for three different soils; Apison (0.11% organic carbon), Fullerton (0.06% organic carbon), and Dormont (1.2% organic carbon)(1). An experimental Koc of 15 was determined for benzyl alcohol on a red-brown Australian soil (1.09% organic carbon)(2,3). A log Koc of 1.43 has also been reported(4). According to a classification scheme(5), these Koc values suggest that benzyl alcohol is expected to have very high mobility in soil."
+        }
+    ]
+}

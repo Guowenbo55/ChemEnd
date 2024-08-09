@@ -1,0 +1,69 @@
+{
+    "_id": {
+        "$oid": "6682e86ac4e5dba5ffba257a"
+    },
+    "CID": {
+        "$numberInt": "7102"
+    },
+    "Name": "4-BIPHENYLAMINE",
+    "IUPACName": "4-phenylaniline",
+    "CanonicalSMILES": "C1=CC=C(C=C1)C2=CC=C(C=C2)N",
+    "Synonyms": [
+        "4-Aminobiphenyl",
+        "92-67-1",
+        "4-Phenylaniline",
+        "4-Aminodiphenyl",
+        "4-BIPHENYLAMINE",
+        "\"[1,1-Biphenyl]-4-amine\"",
+        "biphenyl-4-amine",
+        "Biphenyl-4-ylamine",
+        "Xenylamine",
+        "p-Biphenylamine",
+        "p-Phenylaniline",
+        "4-Biphenylylamine",
+        "p-Aminobiphenyl",
+        "p-Aminodiphenyl",
+        "p-Xenylamine"
+    ],
+    "IsomericSMILES": "C1=CC=C(C=C1)C2=CC=C(C=C2)N",
+    "INCHI": "InChI=1S/C12H11N/c13-12-8-6-11(7-9-12)10-4-2-1-3-5-10/h1-9H,13H2",
+    "INCHIKEY": "DMVOXQPQNTYEKQ-UHFFFAOYSA-N",
+    "Formula": "C12H11N",
+    "MolecularWeight": {
+        "$numberDouble": "169.22"
+    },
+    "Description": "Biphenyl-4-amine is an aminobiphenyl that is biphenyl substituted by an amino group at position 4. It has a role as a carcinogenic agent. It derives from a hydride of a biphenyl.",
+    "XlogP": {
+        "$numberDouble": "2.9"
+    },
+    "Complexity": {
+        "$numberInt": "141"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 98 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Aug 22, 2016: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 36 was calculated in fish for 4-biphenylamine(SRC), using a log Kow of 2.86(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is moderate(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Tabak HH et al; pp. 267-328 in Test protocols for environmental fate and movement of toxicants. AOAC 94th Mtg (1981) (2) Fochtman EG; Biodegradation and Carbon Adsorption of Carcinogenic and Hazardous Organic Compounds. EPA-600/S2-81-032. Cincinnati, OH (1981). Available from, as of August 22, 2016: https://nepis.epa.gov/ (3) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of August 23, 2016: https://www.safe.nite.go.jp/english/db.html",
+            "Value": "AEROBIC: 4-Biphenylamine was 0-50% degraded at the end of a 28 day test period in a static biodegradability test in which 2 mg/L of the compound was seeded with sludge, mineral salts, 5 mg/l yeast, with 7-day static incubation followed by 3 weekly subcultures(1); this was considered as slowly degraded with acclimation under the conditions of this test system(1). In another static system procedure where a 1% solution of the chemical in an emulsifier was added to a bacterial suspension at a concentrations of 1 to 2 ppm, 4-biphenylamine was 50% degraded at the end an initial 7-day incubation period(2). Two analogous compounds, aniline (phenylamine) and biphenyl, were classified as readily biodegradable by the Japanese MITI test (OECD Guideline 301C)(3). Aniline and biphenyl, present at 100 mg/L, reached 85 and 66% of their respective theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 98",
+            "Value": "log Kow = 2.86 at pH 7.5"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Aug 22, 2016: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Bollag JM et al; J Agric Food Chem 26: 1302-6 (1978) (4) Adrian P et al; Toxicol Environ Chem 20-21: 109-20 (1989)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of 4-biphenylamine can be estimated to be 2470(SRC). According to a classification scheme(2), this estimated Koc value suggests that 4-biphenylamine is expected to have slight mobility in soil. Aromatic amines are expected to bind strongly to humus or organic matter in soils due to the high reactivity of the aromatic amino group(3,4), suggesting that mobility may be lower in some soils(SRC)."
+        }
+    ]
+}

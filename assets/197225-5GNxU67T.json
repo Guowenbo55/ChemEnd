@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "669270ef303528b49832d745"
+    },
+    "CID": {
+        "$numberInt": "197225"
+    },
+    "Name": "Fenridazon",
+    "IUPACName": "1-(4-chlorophenyl)-6-methyl-4-oxopyridazine-3-carboxylic acid",
+    "CanonicalSMILES": "CC1=CC(=O)C(=NN1C2=CC=C(C=C2)Cl)C(=O)O",
+    "Synonyms": [
+        "Fenridazon",
+        "68254-10-4",
+        "1-(4-chlorophenyl)-6-methyl-4-oxo-1,4-dihydropyridazine-3-carboxylic acid",
+        "Fenridazon [ISO]",
+        "Q6E8BE2U25",
+        "1-(4-chlorophenyl)-6-methyl-4-oxopyridazine-3-carboxylic acid",
+        "UNII-Q6E8BE2U25",
+        "MLS000773803",
+        "SCHEMBL122207",
+        "CHEMBL1886197",
+        "DTXSID4058158",
+        "JDEKUYKSOCTBJT-UHFFFAOYSA-N",
+        "HMS2769O17",
+        "1-(4-CHLOROPHENYL)-6-METHYL-4-OXO-PYRIDAZINE-3-CARBOXYLATE",
+        "AKOS009013178"
+    ],
+    "IsomericSMILES": "CC1=CC(=O)C(=NN1C2=CC=C(C=C2)Cl)C(=O)O",
+    "INCHI": "InChI=1S/C12H9ClN2O3/c1-7-6-10(16)11(12(17)18)14-15(7)9-4-2-8(13)3-5-9/h2-6H,1H3,(H,17,18)",
+    "INCHIKEY": "JDEKUYKSOCTBJT-UHFFFAOYSA-N",
+    "Formula": "C12H9ClN2O3",
+    "MolecularWeight": {
+        "$numberDouble": "264.66"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "3.1"
+    },
+    "Complexity": {
+        "$numberInt": "437"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Fenridazon, used as a chemical hybridizing agent in hybrid wheat production, demonstrates temperature and humidity-dependent absorption into wheat leaves. Higher temperatures increase fenridazon absorption, likely due to enhanced diffusion into leaves. Moreover, increased humidity augments absorption, especially when specific surfactants are utilized. However, translocation of fenridazon within the plant remains largely unaffected by humidity or formulation. Lower temperatures reduce the movement of fenridazon to the wheat spike, potentially due to decreased photosynthate transport. Irradiance showed minimal impact, with only low light intensities affecting the chemical's distribution within the plant. Ultimately, fenridazon's effectiveness as a hybridizing agent relies significantly on its absorption into leaves and subsequent translocation to the spike, processes influenced by temperature, humidity, and, to a lesser extent, irradiance in the wheat environment.",
+            "reference": "Bucholtz, D. L. (1988). Effect of environment and formulation on the absorption and translocation of fenridazon in wheat (Triticum aestivum L.). Plant Growth Regulation, 7(2), 65\u201373. doi:10.1007/bf00025202\u00a0",
+            "method": {
+                "Test Plant": "Wheat",
+                "Apply Location": "The 5th leaf blade of each wheat plant. Approximately 5 \u03bcl of the 14C-fenridazon-surfactant solution was applied to each side of the 5th leaf blade.",
+                "Plant Grown Condition": "Wheat seeds were planted in peat pots for 1 month then transplanted into 236 ml polystyrene cups. Plants at the 6.5 growth stage were transferred to growth cabinets set at 4\u00b0C & 40% RH, 24\u00b0C & 40% RH, or 24\u00b0C & 86% RH, with irradiance of 150 \u03bcmol/m2/s and 14 h light duration.",
+                "Chemical preparation": "The radioisotope was 3,5-14C-labelled fenridazon (82.1 MBq/g) supplied by Rohm and Haas company in acid form. It was prepared into a solution with potassium salt of fenridazon and 2.8% aqueous tripotassium citrate containing 1 mg of KOH, resulting in an equivalent of 0.24 kg/L of fenridazon-potassium. Two Rohm and Haas proprietary surfactant mixtures (A & B) were diluted 10% in water. The 3,5-14C-labelled fenridazon-potassium-tripotassium citrate solution was added to make solutions containing 10,000 dpm/\u03bcl.",
+                "Received pesticide of plant": "Plants were sprayed to runoff with 0.03% (v/v) nonradioactive fenridazon-surfactant solution. Within 30 min, 10 \u03bcl of 14C-fenridazon-surfactant solution was applied to the 5th leaf blade.",
+                "Other Information": "-"
+            },
+            "result": "[{\"Temperature\": \"4 C\", \"Humidity\": \"        40%\", \"Surfactant\": \"        A\", \"Leaf Wash (dpm)\": 8.65, \"Absorption (dpm)\": 2.1, \"Spike (dpm)\": 0.15, \"Treated Leaf (dpm)\": 1.65, \"Remaining Plant (dpm)\": 0.3}, {\"Temperature\": \"4 C\", \"Humidity\": \"        40%\", \"Surfactant\": \"        B\", \"Leaf Wash (dpm)\": 8.89, \"Absorption (dpm)\": 1.85, \"Spike (dpm)\": 0.12, \"Treated Leaf (dpm)\": 1.47, \"Remaining Plant (dpm)\": 0.25}, {\"Temperature\": \"24 C\", \"Humidity\": \"        40%\", \"Surfactant\": \"        A\", \"Leaf Wash (dpm)\": 7.48, \"Absorption (dpm)\": 2.93, \"Spike (dpm)\": 0.55, \"Treated Leaf (dpm)\": 0.73, \"Remaining Plant (dpm)\": 1.65}, {\"Temperature\": \"24 C\", \"Humidity\": \"        40%\", \"Surfactant\": \"        B\", \"Leaf Wash (dpm)\": 7.45, \"Absorption (dpm)\": 2.54, \"Spike (dpm)\": 0.52, \"Treated Leaf (dpm)\": 0.6, \"Remaining Plant (dpm)\": 1.41}, {\"Temperature\": \"24 C\", \"Humidity\": \"        85%\", \"Surfactant\": \"        A\", \"Leaf Wash (dpm)\": 3.2, \"Absorption (dpm)\": 7.21, \"Spike (dpm)\": 1.21, \"Treated Leaf (dpm)\": 1.8, \"Remaining Plant (dpm)\": 4.2}, {\"Temperature\": \"24 C\", \"Humidity\": \"        85%\", \"Surfactant\": \"        B\", \"Leaf Wash (dpm)\": 5.71, \"Absorption (dpm)\": 4.39, \"Spike (dpm)\": 0.77, \"Treated Leaf (dpm)\": 0.93, \"Remaining Plant (dpm)\": 2.7}]"
+        }
+    ]
+}

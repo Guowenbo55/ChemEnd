@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "669270fc303528b49832d778"
+    },
+    "CID": {
+        "$numberInt": "153920"
+    },
+    "Name": "Amicarbazone",
+    "IUPACName": "4-amino-N-tert-butyl-5-oxo-3-propan-2-yl-1,2,4-triazole-1-carboxamide",
+    "CanonicalSMILES": "CC(C)C1=NN(C(=O)N1N)C(=O)NC(C)(C)C",
+    "Synonyms": [
+        "Amicarbazone",
+        "129909-90-6",
+        "4-Amino-N-(tert-butyl)-3-isopropyl-5-oxo-4,5-dihydro-1H-1,2,4-triazole-1-carboxamide",
+        "Amicarbazone [ISO]",
+        "4-amino-N-tert-butyl-5-oxo-3-propan-2-yl-1,2,4-triazole-1-carboxamide",
+        "4-amino-N-tert-butyl-4,5-dihydro-3-isopropyl-5-oxo-1H-1,2,4-triazole-1-carboxamide",
+        "1H-1,2,4-Triazole-1-carboxamide",
+        "4-amino-N-(1,1-dimethylethyl)-4,5-dihydro-3-(1-methylethyl)-5-oxo-",
+        "4-Amino-N-(1,1-dimethylethyl)-4,5-dihydro-3-(1-methylethyl)-5-oxo-1H-1,2,4-triazole-1-carboxamide",
+        "7FU145I60E",
+        "BAY314666;BAY-MKH 3586",
+        "Amicarbazone 100 microg/mL in Acetonitrile",
+        "(E)-3-(4-t-butylphenyl)-N-(2,3-dihydrobenzo(b)(1,4)dioxin-6-yl)acrylamide",
+        "BAY 314666",
+        "Dinamic",
+        "UNII-7FU145I60E"
+    ],
+    "IsomericSMILES": "CC(C)C1=NN(C(=O)N1N)C(=O)NC(C)(C)C",
+    "INCHI": "InChI=1S/C10H19N5O2/c1-6(2)7-13-15(9(17)14(7)11)8(16)12-10(3,4)5/h6H,11H2,1-5H3,(H,12,16)",
+    "INCHIKEY": "ORFPWVRKFLOQHK-UHFFFAOYSA-N",
+    "Formula": "C10H19N5O2",
+    "MolecularWeight": {
+        "$numberDouble": "241.29"
+    },
+    "Description": "Amicarbazone is a member of the class of triazoles that is 4,5-dihydro-1H-1,2,4-triazol-5-one which is substituted at position 1 by a tert-butylaminocarbonyl group and at position 3 by an isopropyl group. A selective herbicide for pre- and post-emergence control of annual dicotyledonous weeds and grasses, it is not approved for use within the European Union. It has a role as a herbicide. It is a member of triazoles and a carbohydrazide.",
+    "XlogP": {
+        "$numberDouble": "1"
+    },
+    "Complexity": {
+        "$numberInt": "369"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Amicarbazone controls annual bluegrass in cool-season turfgrasses but physiological effects that influence selectivity have received limited investigation. The objective of this research was to evaluate uptake, translocation, and metabolism of amicarbazone in these species. Annual bluegrass, creeping bentgrass, and tall fescue required < 3, 56, and 35 h to reach 50% foliar absorption, respectively. At 72 h after treatment (HAT), annual bluegrass and creeping bentgrass translocated 73 and 70% of root-absorbed 14C to shoots, respectively, while tall fescue only distributed 55%. Annual bluegrass recovered \u2248 50% more root-absorbed 14C in shoots than creeping bentgrass and tall fescue. Creeping bentgrass and tall fescue metabolism of amicarbazone was \u2248 2-fold greater than annual bluegrass from 1 to 7 d after treatment (DAT). Results suggest greater absorption, more distribution, and less metabolism of amicarbazone in annual bluegrass, compared to creeping bentgrass and tall fescue, could be attributed to selectivity of POST applications.",
+            "reference": "Yu, J., McCullough, P. E., & Vencill, W. K. (2013). Absorption, translocation, and metabolism of amicarbazone in annual bluegrass (Poa annua), creeping bentgrass (Agrostis stolonifera), and tall fescue (Festuca arundinacea). Weed science, 61(2), 217-221.",
+            "method": {
+                "Test Plant": "Annual bluegrass (indigenous biotype from fields without a history of resistance to photosynthesis inhibiting herbicides), \u2018Penncross\u2019 creeping bentgrass, and \u2018Talladega\u2019 tall fescue.",
+                "Apply Location": "Foliar application for the initial experiment in a spray chamber; root application in a hydroponic tank for the subsequent experiment.",
+                "Plant Grown Condition": "Transplanted single tillers grown in pots (3.8 cm diameter and 20 cm deep) filled with a mixture of sand and peat moss (80:20 v/v). Maintained in a growth chamber with environmental conditions set to 25/20\u00b0C day/night temperature, 470 \u00b5mol/m\u00b2/s light intensity, and a 12-hour photoperiod.",
+                "Chemical Preparation": "Nonlabeled amicarbazone (70WDG, Arysta LifeScience) used in foliar applications at a concentration of 0.2 kg active ingredient per hectare, mixed in 374 L of water per hectare. For root applications, half-strength Hoagland solution spiked with 26.7 kBq/L of 14C-amicarbazone and nonlabeled amicarbazone to bring the surface application rate to 0.2 kg ai/ha.",
+                "Pesticide Application Details for the Plant": "foliar application: A 2-ml droplet of spotting solution containing 150 Bq of 14C-amicarbazone was applied to the first fully developed leaf using a 5-ml microsyringe.",
+                "Root application": "Plants were placed in 50 ml plastic tubes filled with 25 ml of half-strength Hoagland solution spiked with 14C-amicarbazone.",
+                "Other Information": "Experiments were conducted completely randomized with four replications, and results were pooled over experiments due to no detected experiment-by-treatment interactions. Absorption data was analyzed using regression analysis. The time required to achieve 50% foliar absorption (t50) was determined for each species."
+            },
+            "result": "[{\"Application Method\": \"Foliar\", \"Plant\": \"Annual Bluegrass\", \"Hours after application\": 24, \"Treated Leaf (% of absorbed)\": \"47\", \"Nontreated Shoots (%)\": \"16\", \"Roots (%)\": 37, \"Shoots (%)\": \"-\"}, {\"Application Method\": \"Foliar\", \"Plant\": \"Annual Bluegrass\", \"Hours after application\": 48, \"Treated Leaf (% of absorbed)\": \"51\", \"Nontreated Shoots (%)\": \"23\", \"Roots (%)\": 26, \"Shoots (%)\": \"-\"}, {\"Application Method\": \"Foliar\", \"Plant\": \"Annual Bluegrass\", \"Hours after application\": 72, \"Treated Leaf (% of absorbed)\": \"55\", \"Nontreated Shoots (%)\": \"23\", \"Roots (%)\": 22, \"Shoots (%)\": \"-\"}, {\"Application Method\": \"Foliar\", \"Plant\": \"Creeping Bentgrass\", \"Hours after application\": 24, \"Treated Leaf (% of absorbed)\": \"48\", \"Nontreated Shoots (%)\": \"40\", \"Roots (%)\": 12, \"Shoots (%)\": \"-\"}, {\"Application Method\": \"Foliar\", \"Plant\": \"Creeping Bentgrass\", \"Hours after application\": 48, \"Treated Leaf (% of absorbed)\": \"59\", \"Nontreated Shoots (%)\": \"21\", \"Roots (%)\": 20, \"Shoots (%)\": \"-\"}, {\"Application Method\": \"Foliar\", \"Plant\": \"Creeping Bentgrass\", \"Hours after application\": 72, \"Treated Leaf (% of absorbed)\": \"50\", \"Nontreated Shoots (%)\": \"30\", \"Roots (%)\": 20, \"Shoots (%)\": \"-\"}, {\"Application Method\": \"Foliar\", \"Plant\": \"Tall Fescue\", \"Hours after application\": 24, \"Treated Leaf (% of absorbed)\": \"63\", \"Nontreated Shoots (%)\": \"16\", \"Roots (%)\": 21, \"Shoots (%)\": \"-\"}, {\"Application Method\": \"Foliar\", \"Plant\": \"Tall Fescue\", \"Hours after application\": 48, \"Treated Leaf (% of absorbed)\": \"62\", \"Nontreated Shoots (%)\": \"23\", \"Roots (%)\": 15, \"Shoots (%)\": \"-\"}, {\"Application Method\": \"Foliar\", \"Plant\": \"Tall Fescue\", \"Hours after application\": 72, \"Treated Leaf (% of absorbed)\": \"75\", \"Nontreated Shoots (%)\": \"15\", \"Roots (%)\": 10, \"Shoots (%)\": \"-\"}, {\"Application Method\": \"Root\", \"Plant\": \"Annual Bluegrass\", \"Hours after application\": 72, \"Treated Leaf (% of absorbed)\": \"-\", \"Nontreated Shoots (%)\": \"-\", \"Roots (%)\": 27, \"Shoots (%)\": \"73\"}, {\"Application Method\": \"Root\", \"Plant\": \"Creeping Bentgrass\", \"Hours after application\": 72, \"Treated Leaf (% of absorbed)\": \"-\", \"Nontreated Shoots (%)\": \"-\", \"Roots (%)\": 30, \"Shoots (%)\": \"70\"}, {\"Application Method\": \"Root\", \"Plant\": \"Tall Fescue\", \"Hours after application\": 72, \"Treated Leaf (% of absorbed)\": \"-\", \"Nontreated Shoots (%)\": \"-\", \"Roots (%)\": 45, \"Shoots (%)\": \"55\"}]"
+        }
+    ]
+}

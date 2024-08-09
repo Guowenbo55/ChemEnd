@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "66927108303528b49832d7a5"
+    },
+    "CID": {
+        "$numberInt": "13633097"
+    },
+    "Name": "Dimethenamid-P",
+    "IUPACName": "2-chloro-N-(2,4-dimethylthiophen-3-yl)-N-[(2S)-1-methoxypropan-2-yl]acetamide",
+    "CanonicalSMILES": "CC1=CSC(=C1N(C(C)COC)C(=O)CCl)C",
+    "Synonyms": [
+        "Dimethenamid-P",
+        "163515-14-8",
+        "Dimethenamide-P",
+        "Dimethenamid-P [ISO]",
+        "(S)-dimethenamid",
+        "UNII-9H95J2H62E",
+        "HSDB 7935",
+        "9H95J2H62E",
+        "2-chloro-N-(2,4-dimethylthiophen-3-yl)-N-[(2S)-1-methoxypropan-2-yl]acetamide",
+        "Acetamide",
+        "2-chloro-N-(2,4-dimethyl-3-thienyl)-N-[(1S)-2-methoxy-1-methylethyl]-",
+        "DTXSID2034542",
+        "CHEBI:83640",
+        "Acetamide",
+        "2-chloro-N-(2,4-dimethyl-3-thienyl)-N-((1S)-2-methoxy-1-methylethyl)-",
+        "S-dimethenamid",
+        "(+)-dimethenamid"
+    ],
+    "IsomericSMILES": "CC1=CSC(=C1N([C@@H](C)COC)C(=O)CCl)C",
+    "INCHI": "InChI=1S/C12H18ClNO2S/c1-8-7-17-10(3)12(8)14(11(15)5-13)9(2)6-16-4/h7,9H,5-6H2,1-4H3/t9-/m0/s1",
+    "INCHIKEY": "JLYFCTQDENRSOL-VIFPVBQESA-N",
+    "Formula": "C12H18ClNO2S",
+    "MolecularWeight": {
+        "$numberDouble": "275.8"
+    },
+    "Description": "Dimethenamid-P is the (S)-enantiomer of 2-chloro-N-(2,4-dimethylthiophen-3-yl)-N-[(2S)-1-methoxypropan-2-yl]acetamide. It is the active enantiomer of dimethenamid, a herbicide applied to the soil to control various broad-leaved weeds and grasses. It has a role as a herbicide, an agrochemical and an antimitotic. It is an enantiomer of a (R)-dimethenamid.",
+    "XlogP": {
+        "$numberDouble": "2.6"
+    },
+    "Complexity": {
+        "$numberInt": "265"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "dimethenamid-P can be translocated in the plant. A research mentions that the primary site of absorption for dimethenamid-P in sugarbeet is through the roots, but some absorption also occurs through the hypocotyl. Additionally, the research discusses the movement of 14C-dimethenamid-P within the plant, indicating that it is translocated from the roots to the shoots. The slower metabolism and reduced translocation of dimethenamid-P in sugarbeet plants contributed to the greater susceptibility of sugarbeets to this herbicide compared to s-metolachlor.[Bollman, S. L., Sprague, C. L., & Penner, D. (2008). Physiological Basis for Tolerance of Sugarbeet Varieties tos-Metolachlor and Dimethenamid-P. Weed Science, 56(1), 18\u201325. doi:10.1614/ws-07-100.1\u00a0]",
+            "reference": "Greenhouse and laboratory experiments were conducted to assess the tolerance of four commercial sugarbeet varieties to s-metolachlor and dimethenamid-P, determine the main site of herbicide absorption, and understand the physiological basis for differential tolerance among varieties. The study found that 'Beta 5833R' was the most tolerant variety, while 'Hilleshog 7172RZ' was the most susceptible to injury from these herbicides. Absorption of s-metolachlor and dimethenamid-P primarily occurred through the sugarbeet roots, with some absorption through the hypocotyl. Injury from dimethenamid-P was greater than from s-metolachlor in soil-grown sugarbeet, but similar in hydroponically grown sugarbeet, suggesting that soil availability influenced herbicide injury. Reduced translocation and slower metabolism of 14C-dimethenamid-P in both roots and shoots likely contributed to sugarbeet's greater susceptibility to dimethenamid-P compared to s-metolachlor. The more susceptible sugarbeet varieties showed 0.7 to 2.1 h slower metabolism of 14C-herbicides in shoots compared to the more tolerant variety, Beta 5833R, which was a significant factor in the differences in variety tolerance to both herbicides.",
+            "method": {
+                "Test Plant": "Sugarbeet varieties - Crystal 963, Hilleshog 7172RZ, Beta 5833R, and Beta 5451",
+                "Apply Location": "Hydroponic root exposure",
+                "Plant Grown Condition": "Sugarbeet seeds were germinated for 12-14 days in silica sand at 25\u00b12\u00b0C, watered with modified Hoagland's nutrient solution. At cotyledon stage, seedlings were transferred to 125-ml glass jars with aerated Hoagland's solution (pH 7) and grown in the greenhouse with supplemental lighting (1000 \u03bcmol/m2/s for 16 h photoperiod) at 25\u00b12\u00b0C.",
+                "Chemical Preparation": "14C-labeled s-metolachlor (phenyl ring-labeled, 2020 kBq/mg, 99.9% purity) and 14C-dimethenamid-P (thienyl ring-labeled, 60 kBq/mg, 99.8% purity) were used. Hydroponic solutions contained 8.3 kBq radiolabeled herbicide plus non-radiolabeled amounts to give 1.6 ppm s-metolachlor or 0.95 ppm dimethenamid-P (2.5x dose).",
+                "Pesticide Application Details for the Plant": "2-leaf stage plants were exposed to the radiolabeled hydroponic solutions for 8 h.",
+                "Other Information": "After treatment, plants were evaluated for injury, dried and weighed to determine biomass reduction."
+            },
+            "result": "[{\"Plant\": \"Beta 5833R\", \"Hours after application\": 6, \"Translocation (% of absorbed)\": 57.3}, {\"Plant\": \"Beta 5833R\", \"Hours after application\": 12, \"Translocation (% of absorbed)\": 57.4}, {\"Plant\": \"Beta 5833R\", \"Hours after application\": 24, \"Translocation (% of absorbed)\": 60.7}, {\"Plant\": \"Beta 5833R\", \"Hours after application\": 48, \"Translocation (% of absorbed)\": 63.0}, {\"Plant\": \"Crystal 963\", \"Hours after application\": 6, \"Translocation (% of absorbed)\": 54.1}, {\"Plant\": \"Crystal 963\", \"Hours after application\": 12, \"Translocation (% of absorbed)\": 56.8}, {\"Plant\": \"Crystal 963\", \"Hours after application\": 24, \"Translocation (% of absorbed)\": 61.3}, {\"Plant\": \"Crystal 963\", \"Hours after application\": 48, \"Translocation (% of absorbed)\": 67.1}, {\"Plant\": \"Beta 5451\", \"Hours after application\": 6, \"Translocation (% of absorbed)\": 58.7}, {\"Plant\": \"Beta 5451\", \"Hours after application\": 12, \"Translocation (% of absorbed)\": 60.7}, {\"Plant\": \"Beta 5451\", \"Hours after application\": 24, \"Translocation (% of absorbed)\": 63.7}, {\"Plant\": \"Beta 5451\", \"Hours after application\": 48, \"Translocation (% of absorbed)\": 67.4}, {\"Plant\": \"Hilleshog 7172RZ\", \"Hours after application\": 6, \"Translocation (% of absorbed)\": 63.2}, {\"Plant\": \"Hilleshog 7172RZ\", \"Hours after application\": 12, \"Translocation (% of absorbed)\": 63.2}, {\"Plant\": \"Hilleshog 7172RZ\", \"Hours after application\": 24, \"Translocation (% of absorbed)\": 69.1}, {\"Plant\": \"Hilleshog 7172RZ\", \"Hours after application\": 48, \"Translocation (% of absorbed)\": 71.4}]"
+        }
+    ]
+}

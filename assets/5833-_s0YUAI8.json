@@ -1,0 +1,69 @@
+{
+    "_id": {
+        "$oid": "6682e829c4e5dba5ffba2435"
+    },
+    "CID": {
+        "$numberInt": "5833"
+    },
+    "Name": "SPIRONOLACTONE",
+    "IUPACName": "S-[(7R,8R,9S,10R,13S,14S,17R)-10,13-dimethyl-3,5'-dioxospiro[2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthrene-17,2'-oxolane]-7-yl] ethanethioate",
+    "CanonicalSMILES": "CC(=O)SC1CC2=CC(=O)CCC2(C3C1C4CCC5(C4(CC3)C)CCC(=O)O5)C",
+    "Synonyms": [
+        "spironolactone",
+        "52-01-7",
+        "Aldactone",
+        "Spirolactone",
+        "Verospirone",
+        "Euteberol",
+        "Verospiron",
+        "Spirolang",
+        "Acelat",
+        "Spironocompren",
+        "Melarcon",
+        "Spiresis",
+        "Spiridon",
+        "Spiroctan",
+        "Uractone"
+    ],
+    "IsomericSMILES": "CC(=O)S[C@@H]1CC2=CC(=O)CC[C@@]2([C@@H]3[C@@H]1[C@@H]4CC[C@]5([C@]4(CC3)C)CCC(=O)O5)C",
+    "INCHI": "InChI=1S/C24H32O4S/c1-14(25)29-19-13-15-12-16(26)4-8-22(15,2)17-5-9-23(3)18(21(17)19)6-10-24(23)11-7-20(27)28-24/h12,17-19,21H,4-11,13H2,1-3H3/t17-,18-,19+,21+,22-,23-,24+/m0/s1",
+    "INCHIKEY": "LXMSZDCAJNLERA-ZHYRCANASA-N",
+    "Formula": "C24H32O4S",
+    "MolecularWeight": {
+        "$numberDouble": "416.6"
+    },
+    "Description": "Spironolactone is a steroid lactone that is 17alpha-pregn-4-ene-21,17-carbolactone substituted by an oxo group at position 3 and an alpha-acetylsulfanyl group at position 7. It has a role as a diuretic, an aldosterone antagonist, an antihypertensive agent, an environmental contaminant and a xenobiotic. It is a steroid lactone, an oxaspiro compound, a thioester and a 3-oxo-Delta(4) steroid.",
+    "XlogP": {
+        "$numberDouble": "2.9"
+    },
+    "Complexity": {
+        "$numberInt": "818"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 183",
+            "Value": "log Kow = 2.78"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V79 328 (2001)",
+            "Value": "Spironolactone can exert antiandrogenic effects by several mechanisms: it can destroy testicular CYP and decrease 17alpha-hydroxylase activity, resulting in decreased testosterone synthesis; and it can inhibit 5alpha-dihydrotestosterone binding to cytosolic androgen receptor in the prostate."
+        },
+        {
+            "References": "McEvoy, G.K. (ed.). American Hospital Formulary Service.     AHFS Drug Information. American Society of Health-System     Pharmacists, Bethesda, MD. 2007., p. 1983",
+            "Value": "Spironolactone exhibits antiandrogenic effects in males and females. The mechanism of antiandrogenic activity of spironolactone is complex and appears to involve several effects of the drug. Spironolactone decreases testosterone biosynthesis by inhibiting steroid 17alpha-monooxygenase (17alpha-hydroxylase) activity, possibly secondary to destruction of microsomal cytochrome P-450 in tissues with high steroid 17alpha-monooxygenase activity (e.g., testes, adrenals). The drug also appears to competitively inhibit binding of dihydrotestosterone to its cytoplasmic receptor protein, thus decreasing androgenic actions at target tissues. Spironolactone-induced increases in serum estradiol concentration also may contribute to its antiandrogenic activity, although such increases may not occur consistently; such increases appear to result from increased conversion of testosterone to estradiol. Spironolactone may have variable effects on serum 17-hydroxyprogesterone concentrations, possibly decreasing its production by inhibiting steroid 17alpha-monooxygenase activity or decreasing its conversion (with resultant accumulation) to androstenedione by inhibiting cytochrome P450-dependent 17alpha-hydroxyprogesterone aldolase (17,20-desmolase) activity. Serum progesterone concentrations may increase with the drug secondary to decreased hydroxylation (via steroid 17alpha-monooxygenase) to 17-hydroxyprogesterone. In children, compensatory increases in lutropin (luteinizing hormone, LH) and follicle-stimulating hormone (FSH) secretion can occur, probably secondary to the drug's antiandrogenic effects (i.e., a feedback response to decreasing serum testosterone concentrations and/or peripheral androgenic activity)."
+        },
+        {
+            "References": "Kahn, C.M. (Ed.); The Merck Veterinary Manual 9th ed. Merck & Co. Whitehouse Station, NJ. 2005, p. 2046",
+            "Value": "MEDICATION (VET): Spironolactone is used most frequently and is a competitive antagonist of aldosterone. Aldosterone is elevated in animals with congestive heart failure in which the renin-angiotensin system is activated in response to hyponatremia, hyperkalemia, and reductions in blood pressure or cardiac output. Aldosterone is responsible for increasing sodium and chloride reabsorption and potassium and calcium excretion from renal tubules. Spironolactone competes with aldosterone at its receptor site, causing a mild diuresis and potassium retention."
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 780",
+            "Value": "High concentrations of spironolactone have been reported to interfere with steroid biosynthesis by inhibiting 11 beta- and 18-, 21-, and 17 alpha-hydroxylase."
+        }
+    ]
+}

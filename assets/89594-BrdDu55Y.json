@@ -1,0 +1,301 @@
+{
+    "_id": {
+        "$oid": "6682e98cc4e5dba5ffba2b2d"
+    },
+    "CID": {
+        "$numberInt": "89594"
+    },
+    "Name": "NICOTINE",
+    "IUPACName": "3-[(2S)-1-methylpyrrolidin-2-yl]pyridine",
+    "CanonicalSMILES": "CN1CCCC1C2=CN=CC=C2",
+    "Synonyms": [
+        "nicotine",
+        "L-Nicotine",
+        "54-11-5",
+        "(-)-Nicotine",
+        "(S)-Nicotine",
+        "(S)-3-(1-methylpyrrolidin-2-yl)pyridine",
+        "Habitrol",
+        "(S)-(-)-Nicotine",
+        "Nicotrol",
+        "Nicoderm",
+        "3-[(2S)-1-methylpyrrolidin-2-yl]pyridine",
+        "Nicotine polacrilex",
+        "Fumetobac",
+        "Micotine",
+        "Nicocide"
+    ],
+    "IsomericSMILES": "CN1CCC[C@H]1C2=CN=CC=C2",
+    "INCHI": "InChI=1S/C10H14N2/c1-12-7-3-5-10(12)9-4-2-6-11-8-9/h2,4,6,8,10H,3,5,7H2,1H3/t10-/m0/s1",
+    "INCHIKEY": "SNICXCGAKADSCV-JTQLQIEISA-N",
+    "Formula": "C10H14N2",
+    "MolecularWeight": {
+        "$numberDouble": "162.23"
+    },
+    "Description": "(S)-nicotine is a 3-(1-methylpyrrolidin-2-yl)pyridine in which the chiral centre has S-configuration. The naturally occurring and most active enantiomer of nicotine, isolated from Nicotiana tabacum. It has a role as a phytogenic insecticide, a teratogenic agent, a neurotoxin, an anxiolytic drug, a nicotinic acetylcholine receptor agonist, a biomarker, an immunomodulator, a mitogen, a peripheral nervous system drug, a psychotropic drug, a plant metabolite and a xenobiotic. It is a conjugate base of a (S)-nicotinium(1+). It is an enantiomer of a (R)-nicotine.",
+    "XlogP": {
+        "$numberDouble": "1.2"
+    },
+    "Complexity": {
+        "$numberInt": "147"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 76 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for nicotine(SRC), using a log Kow of 1.17(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "Menzie, C. M. Metabolism of Pesticides, An Update. U.S. Department of the Interior, Fish, Wild-life Service, Special Scientific Report - Wildlife No. 184, Washington, DC: U.S. Government Printing Office, l974., p. 274",
+            "Value": "BACTERIAL STRAIN, ISOLATED FROM TOBACCO LEAVES, OXIDIZED NICOTINE TO GAMMA-AMINOBUTYRIC ACID ... ARTHROBACTER OXYDANS, ADAPTED TO L-, D-, DL-NICOTINE, CONVERTED BOTH ... ISOMERS INITIALLY TO 6-HYDROXY NICOTINE. THESE ... THEN METABOLIZED TO ... 6-HYDROXY-N-METHYLMYOSMINE."
+        },
+        {
+            "References": "(1) Shulka OP; J Sci Ind Res 43: 98-116 (1984) (2) Cogo KF et al; Canadian J Microbiol 54: 501-8 (2008) (3) Maeda S et al; Agric Biol Chem 42: 1455-60 (1978)",
+            "Value": "PURE CULTURE: Several organisms capable of degrading nicotine have been isolated from leaves and seeds of tobacco and from soil(1). A wide variety of transformation products have been identified from bacterial fermentation media, tobacco seed infusions and fermented tobacco leaves. These products include oxynicotine, 3-pyridylmethyl ketone, 2,3'-dipyridyl, N-methylmyosmine and a purple crystalline pigment(1). A variety of different degradation pathways have been proposed(1). However, in a study designed to identify the effects of nicotine on some human oral bacterial species, it was determined that nicotine neither stimulates nor reduces growth(2). Nicotine was degraded very slowly by an isolate, Arthriobacter globiformis, from cigar tobacco leaves (var. Nambu) and soil of tobacco field in Iwate prefecture of Northern Japan; products identified were first 6-hydroxynicotine and then 6-hydroxy-N'-methylmyosine(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 76",
+            "Value": "log Kow = 1.17"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "American Society of Health System Pharmacists; AHFS Drug Information 2009. Bethesda, MD. (2009)",
+            "Value": "Nicotine is a ganglionic (nicotinic) cholinergic-receptor agonist. The pharmacologic actions of nicotine are complex and include a variety of effects mediated by stereospecific binding to receptors in autonomic ganglia, the adrenal medulla, the neuromuscular junction, and the brain."
+        },
+        {
+            "References": "American Society of Health System Pharmacists; AHFS Drug Information 2009. Bethesda, MD. (2009)",
+            "Value": "The principal pharmacologic effect of small doses of nicotine is initial, transient stimulation of autonomic ganglia; large doses or prolonged neuronal receptor exposure to nicotine results in subsequent persistent depression of receptor activity. Although nicotine has similar dose-related effects at the myoneural (neuromuscular) junction, rapidly developing skeletal muscle paralysis obscures the stimulant phase. The muscle-relaxant properties of nicotine may be mediated through stimulation of Renshaw cells and pulmonary afferent nerves, which results in inhibition of skeletal muscle motor activity; such relaxant effects may contribute to the behavior-reinforcing effects of the drug. Small doses of nicotine directly stimulate sympathetic ganglia and facilitate neurotransmission; however, large doses produce initial ganglionic stimulation, which is quickly followed by inhibition of neurotransmission."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Grant, W. M. Toxicology of the Eye. 2nd ed. Springfield, Illinois: Charles C. Thomas, 1974., p. 747",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Nicotine injected into anterior chamber /of the eye/ of rabbits has caused inflammation of anterior segment of eye and miosis."
+        },
+        {
+            "References": "PMID:3125465",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Nicotine, at 10 mg/kg/day in rats, promptly and drastically curtailed water consumption during the first 24 hr. Thereafter, water intake alternately rose and fell during the rest of the 6 day infusion period, suggesting that overriding mechanism(s) were activated. When nicotine was abruptly withdrawn, water intake rose dramatically and remained elevated throughout the withdrawal period. Mecamylamine at a dose of 5 mg/kg/day did not block nicotine's hypodipsic effect during the first three days."
+        },
+        {
+            "References": "PMID:2883664",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ To detect the time after administration of nicotine and dosage for neurochemical studies, locomotor activity of CD-1 mice was determined at 5 minute intervals between 0-60 minutes. A low nicotine dosage (0.05 mg/kg) did not alter activity 5-15 minutes after drug injection, but increased activity 28% at 15-25 minute post-injection. A high dosage (0.8 mg/kg) reduced total distance 62% and rearing 87% at 5-15 minutes; at 15-25 minutes total distance declined 56% and rearing 69%; all measures returned to control values after 30 minutes; rearing then increased at 40 minutes after nicotine. Pretreatment (15 minutes before nicotine) with mecamylamine (1.0 mg/kg), but not hexamethonium (1.0 mg/kg), prevented the depressant effect of nicotine. Dopamine and its metabolites as well as acetylcholine synthesis were measured at the point of nicotine's maximal depressant action. Striatal levels of dihydroxyphenylacetic acid were increased and acetylcholine utilization was reduced in striatum (-25%) and cortex (-24%) 10 minutes after nicotine (0.8 mg/kg)."
+        },
+        {
+            "References": "PMID:3033216",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Previously /it has been noted/ that a single dose of nicotine elevates plasma adrenocorticotropin levels in rats and has a biphasic effect on plasma prolactin. The stimulatory effect of nicotine on these stress-responsive hormones desensitizes after a single injection of nicotine. Continuous exposure to nicotine also induces tolerance to its locomotor depressive and hypothermic effects, which have been associated with an increase of central (3)H-nicotine binding. Thus, the acute and chronic administration of nicotine might induce changes in central nicotinic cholinergic circuits that affect the adrenocorticotropin and prolactin responses to stress. In the present study, a single dose of nicotine (0.75-3.0 mg/kg body weight) significantly inhibited the elevation of plasma prolactin due to restraint stress initiated 60 min afterward. Five injections of nicotine during 1 day produced a similar attenuation of the prolactin response to restraint stress but neither of these paradigms affected adrenocorticotropin. In contrast, intermittent delivery of nicotine for 7 days failed to affect the prolactin response to restraint stress; however, after withholding nicotine for 14 hr, high dose nicotine attenuated the prolactin response to stress, whereas low dose nicotine remained ineffective. On the other hand, administration of the same schedule of low dose nicotine did significantly diminish the expected release of prolactin in response to a final injection of nicotine (0.5-2.0 mg/kg body weight) in unstressed animals."
+        },
+        {
+            "References": "Ksir C et al; Psychopharmacol 92 (1): 25-9 (1987)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The behavioral response to nicotine was examined in photocell activity cages. Groups of rats were tested using doses from 0.1 to 1.6 mg/kg both before and after all rats were exposed for 5 days to a common dose of 0.2 mg/kg/day. Prior to the 5 day exposure, there was a dose-related stimulant response to nicotine, with a max response seen at 0.4 mg/kg. After the 5 day exposure, the dose-effective curve was shifted upward, so that greater stimulation was produced at each dose of nicotine. Other groups of rats were exposed for 5 days to doses of nicotine ranging from 0.01 to 0.30 mg/kg/day. On the 6th day all rats received a common test dose of 0.2 mg/kg and their response was measured in the activity cages. In animals exposed to 0.1 mg/kg/day, the test day response was not different from saline controls, but the groups exposed to higher doses showed increased stimulation in response to the common test dose. Measurements of nicotinic receptor binding using (3)H-acetylcholine found increased binding in groups receiving 0.03 mg/kg/day or more, but not in the group that received 0.01 mg/kg/day. Rats given high doses (1.6 mg/kg, twice/day) did not show increased behavioral stimulation to a test dose of 0.2 mg/kg."
+        },
+        {
+            "References": "PMID:2497478",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Behavioral effects of d-nicotine (0.1-10.0 mg/kg), l-nicotine (0.01-1.0), d-nornicotine (0.1-10.0), l-nornicotine (0.1-10.0) and l-cotinine (1.0-100.0) were studied in two paradigms. In expt 1, 6 male rats responded under a multiple fixed-interval (FI) 5 min, fixed-ratio (FR) 20 schedule of food presentation. Aside from differences in potency and time course, l-nicotine and the stereoisomers of nornicotine produced qualitatively similar effects on rates of responding. Rate-increasing effects of cotinine were not blocked by mecamylamine. In expt 2, 2 groups of 8 male rats were trained to discriminate between l-nicotine (0.1 mg/kg sc) and saline (0.1 ml/kg sc) in a two-bar, operant conditioning procedure under a tandem variable-interval 9 min, fixed-ratio 10 schedule of food presentation. Full generalization was obtained to d-nicotine and to l- and d-nornicotine. Generalization to cotinine occurred only with large doses that contained significant amounts of nicotine present as an impurity. The rank order of potency for nicotine and its analogs was similar in experiments 1 and 2: l-nicotine was 10-20 times more potent than d-nicotine and the stereoisomers of nornicotine (which did not show stereoselectivity in the rat). Cotinine was at least several hundred times less potent than nicotine."
+        },
+        {
+            "References": "PMID:2568630",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ After a 48 hr prewarming period at 20 to 22 C or 32 to 34 \u00b0C, male NMRI mice were given nicotine (0, 0.3, 1, or 3 mg/kg sc) 4 times at 30 min intervals. Haloperidol (65 or 160 ug/kg), (+/-)-sulpiride (50 or 100 mg/kg), apomorphine (2 mg/kg), gamma-hydroxybutyric acid (750 mg/kg), or saline (control) were administered ip after the second nicotine dose. 10 mg/kg hexamethonium was given ip 30 min before the first nicotine (or saline dose) to prevent the effects of nicotine on autonomic ganglia. When the effect of body temperature on the apomorphine-, gamma-hydroxybutyric acid-, or nicotine-induced decrease of 3-methoxytyramine was studied, apomorphine (5 mg/kg) and gamma-hydroxybutyric acid (750 mg/kg) were administered ip after the 4th and 3rd nicotine doses, respectively. Striatal contents of dopamine and its metabolites homovanillic acid, 3,4-dihydroxyphenylacetic acid and 3-methoxytyramine were measured. Hexamethonium did not change the striatal dopamine metabolism. At 32 to 34 \u00b0C, nicotine and haloperidol increased the striatal 3,4-dihydroxyphenylacetic acid and homovanillic acid contents additively, whereas apomorphine counteracted the effect of nicotine. Nicotine (3 mg/kg x 4) decreased 3-methoxytyramine content by 42 to 49% in hexamethonium pretreated mice at 20 to 22 \u00b0C. In hypothermic mice nicotine was better at inhibiting haloperidol- and (+/-)-sulpiride induced increases of homovanillic acid content than those of 3,4-dihydroxyphenylacetic acid content. In apomorphine-treated mice both the gamma-hydroxybutyric acid- and nicotine-induced decr of 3-methoxytyramine fell further. gamma-Hydroxybutyric acid did not alter the nicotine-induced increase of 3-methoxytyramine content. Unlike gamma-hydroxybutyric acid and apomorphine, nicotine decr 3-methoxytyramine content only in hypothermic mice."
+        },
+        {
+            "References": "PMID:2725697",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ During a conditioning period, Male albino Wistar rats were given 6 injections of nicotine (0.6 mg/kg sc). In some cases, mecamylamine was admin ip 30 min before nicotine. After each injection, rats were transferred to a wire test cage. During test sessions, rats were also exposed to white noise and smell of acetic acid. Exposure to conditioned stimuli lasted 90 min. On the same day, about 6 hr later, rats were injected with saline and put into their home cages. Pseudo-conditioned rats were injected with saline before being placed into the test cage and with nicotine before being transferred in to the home cage. A third group (naive rats) was exposed to test and home cages with the same frequency, but injected with solvent only. On the test day (24 hr after the last nicotine administration), all groups of rats were injected with nicotine (0.6 mg/kg sc) and placed into the test cage. Behavior was observed for 10 sec in 5 min intervals. Subsequently, rats were conditioned (or pseudo-conditioned, respectively) for 4 additional times and tested with saline injection in the test cage. Nicotine (0.15, 0.3, and 0.6 mg/kg) produced dose-dependent increases in locomotor activity, hyperkinesia, and stereotyped sniffing. The effects produced by 0.6 mg/kg nicotine were significantly inhibited by mecamylamine (1 mg/kg ip), but only in part by haloperidol (0.2 mg/kg ip). When rats were given saline in presence of the conditioned stimuli 24 hr after the last conditioning session, locomotor activity, hyperkinesia, and stereotyped sniffing were significantly higher in conditioned than in pseudo-conditioned drug-naive rats. Similarly, when the rats were injected with nicotine (0.6 mg/kg sc) in presence of the conditioned stimuli 2 hr after the last conditioning session, locomotor activity and stereotyped sniffing were most pronounced in the conditioned animals."
+        },
+        {
+            "References": "PMID:2567966",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The effects of arterial chemoreceptor activation by nicotine on coronary artery diameter was studied in anesthetized, artificially ventilated greyhound and mongrel dogs. Left circumflex coronary artery diameter, coronary blood flow, calculated mean coronary resistance, systemic arterial blood pressure and heart rate were measured. In control dogs (n = 10) the injection of nicotine (100 ug) into the carotid artery evoked an increase of arterial pressure (+ 22 + or - 9 mm Hg) and a decrease in heart rate (- 36 + or - 13 beats/min), and tended to increase coronary blood flow (+ 7 + or - 4 mL/min). Intracarotid nicotine had no effect on large coronary artery diameter (+ 0.02 + or - 0.03 mm) or total coronary resistance (+ 0.04 + or - 0.09 mm Hg min/mL) under these conditions. When heart rate was controlled by beta-adrenoceptor blockade (propranolol, 1 mg/kg iv) plus pacing of the right ventricle (n = 4) or beta adrenoceptor blockade plus bilateral vagotomy (n = 7), the chemoreflex-induced constriction of the large coronary artery (- 0.07 + or - 0.02 mm and - 0.12 + or - 0.03 mm), respectively. In contrast, there was no chemoreflex-induced change in total coronary resistance after beta-adrenoceptor blockade plus pacing (+ 0.01 + or - 0.09 mm Hg min/mL), but after beta-adrenoceptor blockade plus vagotomy coronary resistance was increased (+ 0.75 + or - 0.31 mm Hg min/mL). The constriction of both large and small coronary arteries was abolished by phentolamine (0.5 mg/kg iv)."
+        },
+        {
+            "References": "PMID:3815071",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The effect of acute infusion of nicotine on local cerebral glucose utilization was studied in discreet regions of the central nervous system of the rat. Nicotine was administered in 3 dosages: 0.5, 1.58, and 5 ug/kg/min. The resulting plasma concentrations of nicotine were 10, 39, 114/ng/mL plasma. During the experiment, blood pressure, heart rate, body temperature, hematocrit, acid-base status, and plasma glucose concentrations showed no negative or minor negative changes. Nicotine significantly increased local cerebral glucose utilization in a dose dependent manner in the following 9 of 45 examined structures: substantia nigra (compact part), superior colliculus (superficial gray layer), interpeduncular nucleus, and cingulate cortex; lateral geniculate body, optic chiasm, anteromedial nucleus of thalamus and mamillary body."
+        },
+        {
+            "References": "Grant, W. M. Toxicology of the Eye. 2nd ed. Springfield, Illinois: Charles C. Thomas, 1974., p. 747",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ When near-lethal doses were administered to rabbits daily for 80 days, nicotine produced mydriasis and poor response of pupils to light, attributable to degeneration induced in retinal ganglion cells."
+        },
+        {
+            "References": "PMID:3594060",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ The deleterious effects of nicotine treatment on skin hemodynamics and survival of acute random pattern skin flaps constructed on the dorsum of the rat were studied. Rats were injected subcutaneously with 0.2 mL of saline containing varying doses (0, 1, 2, 4, or 8 mg/kg; bid) of nicotine for 5 weeks, starting 4 weeks before flap surgery. It was observed that nicotine treatment at the dose of 2 mg/kg (bid), or higher, significantly (p < 0.05) decreased the length and area of skin flap survival compared with the control. This dose of nicotine treatment also significantly (p < 0.05) decreased the capillary blood flow and distal perfusion in the skin flaps compared with the control. However, detrimental effect of nicotine treatment on the survival of acute random pattern skin flaps was not seen if the treatment was started 2 instead of 5 weeks postoperatively."
+        },
+        {
+            "References": "PMID:3575490",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Female rats were used to examine the effects of chronic nicotine administration and withdrawal on food and water consumption and body weight. Rats with chronic nicotine pellet implants consumed significantly less food and water than controls for the first 5 days and then gradually returned to control levels of consumption. The lowest level of body weight was reached on day 9 after which there was a slow return to control weights by day 21. When the nicotine pellets were removed from the short-term exposure group on day 14, they were removed from the short-term exposure group on day 14, they showed significantly hyperphagia and hyperdispsia and a very rapid weight gain for the next several days, which clearly outpaced the recovery of weight in the long-term nicotine exposure group."
+        },
+        {
+            "References": "PMID:2706079",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ The response of male Sprague-Dawley rats to nicotine solution was examined with the brief-exposure, taste reactivity test and a two-bottle, 24 hr preference test. Groups of 8 naive nondeprived rats were administered intraoral infusions (0.8 mL infused during 1 min) of distilled water and 1 ug/mL, 5, 10, 25, 50, and 100 ug/mL nicotine. The oral motor, taste reactivity responses of the rats were recorded during the infusion. Nicotine solutions up to a concentration of 50 ug/mL elicited a number of ingestive taste reactivity responses similar to that by water. Ingestive responses significantly decreased, and aversive taste reactivity responses significantly increased in response to 100 ug/mL nicotine. On the basis of these results, two-bottle preferences for water versus 1 ug/mL, 5 ug/mL, and 0 ug/mL (water control group) nicotine were measured in three groups of naive rats (n=7-9). Rats initially showed an equal preference for 0 and 1 ug/mL nicotine. After 16 days of exposure, however, rats developed a significant preference for 1 ug/mL nicotine. The preference ratio for 5 ug/mL nicotine significantly increased during the expt, but the preference ratio remained significantly less than that for 1 ug/mL and control solutions. TR responses elicited by 0.8 mL intraoral infusions of 1 ug/mL and 5 ug/mL nicotine were then measured in 17 rats having had the two-bottle experience. Rats showing a two-bottle preference for the 1 ug/mL nicotine solution displayed significantly more ingestive taste reactivity response to 1 ug/mL and 5 ug/mL nicotine than did the control rats."
+        },
+        {
+            "References": "PMID:2522303",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Groups of 50 male Sprague-Dawley rats (200-250 g) were either given water (controls), or water containing 1.0 mg% nicotine ad lib. Mean daily nicotine intake during the 6 wk treatment period was 0.7 +/- 0.01 mg/kg body wt. At the end of wk 6, both groups were given daily sc injections of 1 mg/kg haloperidol for 0-12 days. Two days after the last injection, the rats were killed by decapitation. Rat striata were dissected from the brain, reacted with (3)H-domperidone (benzene ring (3)H), and assayed for D2-dopamine receptor. Daily administration of haloperidol to controls led to a progressive increase in maximal binding capacity or receptor density (Bmax) of striatal D2-dopamine receptor. The maximal increase in Bmax was observed on the 7th day of haloperiodol treatment (Bmax, day 0 = 848.5 and day 7 = 2161.0; , an increase of more than 150%, and it remained unchanged on further treatment for at least 12 days. In contrast, haloperidol-mediated increase in Bmax were completely blocked in rats receiving nicotine in their drinking water... The affinity constant of the receptor also seemed to increase with haloperidol treatment in control but not nicotine-treated rats."
+        },
+        {
+            "References": "PMID:2742495",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ The comparative acute toxicity of a branded American cigarette and kreteks (Indonesian cigarettes containing approx 60% tobacco and 40% ground clove buds) was assessed by exposure of groups of 10 male and 10 female rats to 3 different but equivalent (in terms of total particulate matter) concentrations of smoke (1.15 to 6.00% v/v) from each type of cigarette. The smoke was delivered \"nose only\" using a rodent smoking machine within a single 1-hr period, with a total delivery of 30 min smoke and a 15 min air-breathing period between the 2 smoke exposures. By gross observations of rats and their respiration during exposure, the only differences observed were more severe signs of smoke intoxication in the America smoke exposed rats which, at least in part, was attributed to the higher concentration of carbon monoxide. Plasma nicotine concentrations were determined after smoke exposure. Both absolute and relative plasma nicotine values shows plasma nicotine concentrations are higher, and are approx linearly related to the increase in total particulate matter in the American smoke-exposed groups. In the kretek groups, the plasma nicotine values are also increased at the higher concentration of smoke but the relationship between the two is unclear and appear to be limited at the highest concentration of smoke exposure. No differences were seen upon observation and measurement of body wt, food and water consumption of a sub-population for 14 days following exposures. No histopathological differences or differences in lung wt were seen. However, a slight increase in the incidence and severity of focal alveolar hemorrhage was present in the high dose American group at 24 hr compared with the high dose kretek group."
+        },
+        {
+            "References": "Ikegami H et al; Nutr Res 9 (6): 635-43 (1989)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Groups (n= 5) of adult male Sprague Dawley rats were given 0, 0.5, 1.0, 2.0, 3.0, and 4.0 mg% nicotine water for 60 days. Continuous oral admin of 2 mg% or less nicotine, corresponding to a daily oral nicotine intake of 2.35 + or - 0.25 mg/kg or less, did not alter body weight gain or feed intake. Nicotine consumption resulted in a significant increase in the number of D1 dopamine receptors (p < 0.025 at 0.5, 1.0, and 2.0 mg%), the ratio of D1 to D2 receptors (p < 0.05 at 1.0, 2.0, 3.0, and 4.0 mg%) and dopamine uptake sites, but not the number of D2 dopamine receptors. The number of binding sites increased significantly (p < 0.025) with increased concentrations of nicotine, reaching a maximum at 1.0 mg% nicotine, which then declined steadily at higher nicotine concentrations."
+        },
+        {
+            "References": "PMID:2714363",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ The effects of 10 nicotine injections (0.8 mg/kg, sc) in 14 days to male Sprague Dawley rats on the levels of brain amines following challenge with either saline or nicotine (0.8 mg/kg sc) on the 15th day were examined. Dopamine, DOPAC, HVA, 3-methoxytyramine, norepinephrine, 5-hydroxytyramine, and 5-HIAA were measured in the frontal cortex, olfactory tubercle, nucleus accumbens, caudate-putamen, substantia nigra and ventral tegmental area. Ten min after nicotine was given to rats that had previously received only saline the levels of dopamine and its metabolite DOPAC indicated an increase in dopamine turnover in the nucleus accumbens. Of the areas examined the accumbens was the most sensitive to nicotine, with few significant amine changes in other regions. Twenty-four hours after the last nicotine injection the levels of dopamine and its metabolites indicated a sustained decrease in dopamine turnover in the accumbens induced by repeated administration. Following repeated nicotine a nicotine challenge still induced an acute increase in dopamine turnover in the accumbens, but the response was less than in rats not previously given nicotine."
+        },
+        {
+            "References": "PMID:2780777",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ The acute administration of nicotine (0.01-1.0 mg/kg ip) to male albino BKW mice increased the time spent and rearings and line crossings in the aversive brightly illuminated white area of a two compartment white/black test box, with a corresponding decrease in the black. This profile of change was maintained during twice daily administration (0.1 mg/kg ip) for 14 days. Eight to 96 hr following withdrawal of nicotine (14-day treatment), the behavioral profile was reversed to a preference for the black area. By 240 hr, values had returned to control levels."
+        },
+        {
+            "References": "PMID:2569677",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Nicotine was administered acutely and subchronically (14 days) to male Sprague-Dawley rats to determine whether various synaptic mechanisms are selectively altered in the nigrostriatal and mesolimbic dopaminergic system. When added to tissue preparations in vitro, nicotine had no effects on tyrosine hydroxylase, synaptosomal uptake of (3)H-dopamine or binding of (3)H-spiperone to D2 receptors in either system. However, acute treatment in vivo stimulated tyrosine hydroxylase activity in the nucleus accumbens. This effect was prevented by pretreatment with a nicotinic antagonist. Subchronic exposure to nicotine had no effect on tyrosine hydroxylase. In vivo treatment with nicotine did not alter dopamine uptake or receptor binding."
+        },
+        {
+            "References": "PMID:2796608",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Six naive male Wistar rats were admin 96 daily iv infusions of nicotine (0.125 mg/kg/infusion, 12 mg/kg/day) for at least 10 days. They were trained to respond on a tongue operated solenoid driven drinking device that delivered 0.005 mL of a glucose and saccharin solution per lick. When nicotine access was terminated for 6 days, there was a marked suppression in behavior (67% of baseline) reinforced by the sweetened solution, and this disruption was immediately reversed when nicotine was reinstated. In contrast, nicotine removal also resulted in a decrease in food intake on the first day, but on subsequent days food intake was significantly higher than when nicotine was administered. When cotinine (0.25 mg/kg/infusion) was substituted for nicotine for 6 days, similar disruptions resulted in responding maintained by glucose+saccharin (55 to 70% of baseline on the first day), but food intake was not significantly decreased on the first day of nicotine abstinence."
+        },
+        {
+            "References": "PMID:3503681",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ The effects on rat brain tissue monoamine and monoamine metabolite concentrations of chronic nicotine administration at 3 or 12 mg/kg/day using constant infusion were studied. After 21 days of treatment, tissue concentrations of dopamine, norepinephrine, 5-hydroxytryptamine, and several metabolites in striatum, hypothalamus, and frontal cortex were determined by high performance liquid chromatography with electrochemical detection. Compared with a control group, nicotine treatment decreased norepinephrine in frontal cortex but not in other regions. The concentration of 5-hydroxytryptamine also was decreased in frontal cortex but increased in the hypothalamus at the higher dose of nicotine. The 5-hydroxytryptamine metabolite 5-hydroxyindolacetic acid was not altered in any region. The 5-hydroxytryptamine index was decreased in the hypothalamus and increased in frontal cortex at the higher dose. Concentrations of dopamine and the metabolite homovanillic acid were not altered by nicotine. Nevertheless, decreases in the dopamine metabolite dihydroxyphenylacetic acid were observed in both striatum and hypothalamus. Moreover, the dopamine index was decreased in all 3 brain regions."
+        },
+        {
+            "References": "PMID:3033696",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Alpha-2 and beta-adrenoceptors, and muscarinic cholinoceptors in cerebral cortex and hippocampus were measured in rats which received either tap water or nicotine added to the drinking water (5-8 mg/kg/day) for 4 wk and immobilization stress (daily 2 hr) for the last 5 days. The repeated stress induced a reduction in the max number of binding sites (Bmax) for (3)H-dihydroalprenolol in the cerebral cortex of rats with tap water, without affecting (3)H-clonidine binding. Nicotine-treatment also caused a decrease in the Bmax of cortical (3)H-dihydroalprenolol binding comparable to the case of stress, and increased the (3)H-clonidine binding. However, the combination of nicotine and stress treatments failed to induce any further changes in the two radioligands binding."
+        },
+        {
+            "References": "PMID:3567635",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Nicotine administration, using mini-osmotic pumps, to male guinea pigs (31 ug/hr for 10 days) resulted in a significant elevation of plasma epinephrine and enkephalin-like peptides but not norepinephrine. The increase in plasma epinephrine-like peptides was not accompanied by corresponding alterations in either adrenal medullary synthesis or blood pressure and heart rate."
+        },
+        {
+            "References": "Grant, W. M. Toxicology of the Eye. 2nd ed. Springfield, Illinois: Charles C. Thomas, 1974., p. 747",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/  ... In dogs, daily sc injections ... for 18 months caused atrophy of retina, disorganization of layers, and reduction of number of cells. Changes in blood vessels were thought to be primarily responsible."
+        },
+        {
+            "References": "National Research Council. Drinking Water & Health Volume 1. Washington, DC: National Academy Press, 1977., p. 749",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Nicotine was teratogenic in mice when injected at 25 mg/kg on days 9-11 of gestation. Skeletal defects and occasional cleft palates were produced."
+        },
+        {
+            "References": "Maritz GS; Respir 51 (3): 232-40 (1987)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ The metabolic response of fetal and neonatal lung tissue to maternal nicotine exposure (0.25 and 1.0 mg/kg/day) was investigated. White virgin female rats (Wistar) of 200-250 g were mated overnight and randomly assigned to control and exptl groups. One group received nicotine during pregnancy and lactation. The second group received nicotine only during lactation. The suckling rats were killed 24 hr after the last dose of nicotine was administered to the mother. Maternal nicotine administration during pregnancy and lactation stimulated total glucose turnover by 21.6 and 86.4% respectively but suppressed glycogenolysis (32.7%), glycolysis by 24.6%. Nicotine administration during lactation only enhanced total glucose turnover by 19.1% and glycogenolysis by 30% but inhibited glycolysis by 25.8%. After 4 wk of nicotine withdrawal when the rats were 7 wk old, glycogenolysis and glycolysis of those animals exposed to nicotine via the placenta and mother's milk were still inhibited to the same extent as during exposure. Glycogenolysis and the glycolytic flux of lung tissue of rats exposed to nicotine via mother's milk only returned to normal."
+        },
+        {
+            "References": "Meyer DC, Carr LA; Neurobehav Toxicol Teratol 9 (2): 95-8 (1987)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Adult female rats were chronically treated with nicotine administered via the drinking water during pregnancy and/or lactation. The approximate doses of nicotine consumed per day were 2.4 mg/kg of body weight. The pups were weaned at 20 days of age. The pups were killed by decapitation on postnatal days 20, 30, 40, and plasma heparinized trunk blood was assayed for luteinizing hormone. At 30 days of age untreated male and female offspring had the highest levels of plasma luteinizing hormone compared to 20 and 40 days of age. The level was not affected by any subsequent dose or treatment. Prepubertal females exposed to nicotine during pregnancy failed to exhibit the pattern of luteinizing hormone levels seen in control animals, whereas those exposed during lactation or throughout the perinatal period showed a distinctive pattern of plasma luteinizing hormone. Chronic exposure of female offspring to the low dose of nicotine during lactation tended to increase plasma luteinizing hormone levels at 20 and 40 days. Female offspring exposed to nicotine during pregnancy or to the low dose during lactation showed significant deficits in body weight at 40 days of age which appeared to correlate with a delay in vaginal opening."
+        },
+        {
+            "References": "PMID:2780768",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Chronic nicotine treated adult rats were shown to develop locomotor hyperactivity which was mediated by changes in nicotinic and dopaminergic receptors in the striatum. The possibility of such changes occurring in pups that were prenatally exposed to nicotine was examined in 14-day-old offspring from dams which were implanted with osmotic minipumps containing nicotine (1.5 mg/kg/day) throughout the entire gestational period. Prenatal nicotine treatment lowered the number of male pups born and reduced the postnatal gain in body wt and length of both male and female offspring. Prenatal exposure to nicotine did not alter the motor coordination of the pups. A decrease in the number of striatal dopaminergic receptor binding sites (Bmax) was detected in the male pups, however an increase in the ligand affinity to the receptors (1/KD) had been simultaneously detected. No change in the characteristics of nicotinic receptor binding sites and the levels of dopamine and its metabolite, 3,4-dihydroxyphenylacetic acid was found in the striatal region."
+        },
+        {
+            "References": "PMID:3612529",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ The fetal and postnatal development of binding sites for (3)H-nicotine was examined in brain regions of normal rats and rats whose mothers received nicotine injections or infusions, starting before fetal implantation (gestational day 4) and continuing to gestational day 20. The normal ontogenic pattern of binding indicated a small but detectable concn of sites during late gestation, and a substantial increase after birth, primarily during the period in which the majority of cholinergic synapses is forming. The adult pattern of regional selectivity of binding capabilities, namely, midbrain plus brainstem > cerebral cortex much greater than cerebellum, was not present at birth, but rather developed over the ensuing 3 wk postpartum. Fetal exposure to nicotine produced an elevation in binding detectable during the course of drug exposure (gestational day 18), a finding similar to that of nicotine's effects in mature brain. However, examination of the subsequent development pattern of (3)H-nicotine binding indicated a generalized disruption of receptor acquisition, in that alterations persisted far beyond the period in which drug exposure was terminated. The greatest effect was seen in a region relatively poor in receptor sites (cerebellum), and a larger stimulation was obtained with injected than with infused nicotine."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4:1229",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ...No gross difference in size or vigor or differences in selected biochemical parameters were evident in the offspring of rats administered nicotine in the diet (doses ranged up to 6 mg/kg/day from days 0 to 20 of gestation)..."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4:1229",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ...Nicotine was administered to rats and rabbits at oral doses of about 20 mg/kg during gestation. Embryo toxicity and developmental effects were observed, and reduced growth was seen in the offspring of rats. When administered orally at higher doses (59.4 mg/kg) to rats on days 1 to 21 of gestation, reduced growth, changes in selected biochemical parameters, and increased activity were observed. Similar findings have been reported by several investigators using a different route (intraperitoneal) of administration to the rat and mouse..."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4:1229",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ...Nicotine was administered subcutaneously to pregnant rats on day 5 of pregnancy through lactation at doses of 1 or 2 mg/kg/day. The pups appeared well formed and normal at birth. Pup weight at the high dose was significantly lower, and most pups died before weaning because the mothers produced very little milk. The mothers appeared to have normal behavior throughout the study..."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4:1229",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ...The adverse effect of nicotine on fetal and placental weight has been shown in one study in which nicotine was administered subcutaneously to pregnant rats at doses of 1, 2, and 6 mg/kg/day. At the intermediate and high dose, the transport of iron, as a measure of placental function, was affected..."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4:1230",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ... Administration of nicotine to male mice at 2 mg/kg/day for 2 days impaired fertility, apparently because of reduced spermatids and spermatagonia . The number of sterile matings was much greater after administration of nicotine to female rats..."
+        },
+        {
+            "References": "PMID:5032638",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Nicotine was among compounds found teratogenic when injected into yolk sack of chicken eggs at a rate of 1 or 2.5 mg/egg on day 4 of incubation as measured on chick spinalis muscle. Between spine length & nicotinic potency of compounds a negative correlation was seen."
+        },
+        {
+            "References": "PMID:4651161",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Gestation was prolonged but birth wt was not altered in spontaneously delivered offspring of pregnant rats administered sc 2-10 mg/kg/day nicotine. Nicotine decreased birth wt of offspring delivered by cesarean section on 21st day of gestation. Administration of 3 mg/kg during first 8 days of gestation or during the entire gestation period induced the same effects. It appears that nicotine affects processes already operative during the 1st wk of gestation & that these effects may be manifested in developmental disturbances at later growth stages."
+        },
+        {
+            "References": "PMID:3548201",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Inbred Fischer and Buffalo rats were exposed to nicotine and ethanol. Fertility was greatly reduced in both strains with nicotine treatments being much more deleterious than alcohol use. Fischer rats tolerated both toxins better than Buffalo rats. Both strains became extinct after 1 generation of fetal and postnatal exposure to nicotine, but alcohol ingesting Fischer rats had > or = 3 generations of offspring. The total reproductive period was significantly shortened in both strains under the effect of both toxins, as was the total life span. The causes of the teratologic effects of both toxins are inflammatory processes as evidenced by the presence of numerous lymphocytes and/or polymorphonuclear leukocytes. Their presence occurs earlier in nicotine than in alcohol use and earlier in Buffalo than in Fischer rats, but the damage done during nicotine treatment is reversible when the procedure is terminated. Inflammation is not transmitted to the newborn offspring of nicotine- or alcohol-treated mothers, but occurs in neonates during the nursing period or later."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4:1230",
+            "Value": "/GENOTOXICITY/ In studies with Saccharomyces cerevisiae, nicotine was ... mutagenic at 100 ppm. In ... Salmonella typhimurium, TA 98 with metabolic activation, nicotine was not important in contributing to mutagenic potency of smoke condensate. Using mammalian cell culture system (hamster lung), concentration of nicotine in cigarette smoke had no influence on occurrence of atypical growth or malignant transformation."
+        },
+        {
+            "References": "PMID:2924402",
+            "Value": "/GENOTOXICITY/ Level of urinary nicotine were measured in 21 non-smokers, 26 smokers of blond tobacco, 9 smokers of black tobacco and 5 smokers of both types, all eating a similar diet. Two 24 hr samples from the subjects were collected over a 3 day period. Statistically significant positive dose-effect relationships were obtained between the urinary nicotine + cotinine levels and the number of revertants (Salmonella typhimurium TA 98, with a metabolic activation system. A linear dose-effect relationship between urinary mutagenicity (ie log revertants of S typhimurium TA98) and nicotine + cotinine levels or number of cigarettes per day, was established for smokers of blond tobacco."
+        },
+        {
+            "References": "PMID:2924402",
+            "Value": "/GENOTOXICITY/ Smoke condensates prepared from blond and black Italian cigarettes were tested in S typhimurium TA98 and in E coli PQ37 using liquid incubation procedures. Plate incorporation assays with Salmonella were also performed. Cigarette smoke condensate from blond tobacco contained 37 ug nicotine/mg cigarette smoke condensate, while that of black tobacco contained 67 ug. Smoke condensate of black tobacco was 1.2 to 1.4 times more mutagenic than that of blond tobacco when activity is expressed per mg cigarette smoke condensate. The order was reversed when mutagenicity was expressed per ug nicotine, as black tobacco cigarette smoke condensate contained 1.8 times more nicotine than blond cigarette smoke condensate. Liquid incubation assays revealed a 12- to 14-fold higher mutagenicity than plate incorporation. Both cigarette smoke condensates were found to be directly active in inducing DNA repair functions."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4:1230",
+            "Value": "/GENOTOXICITY/ ...Nicotine inhibited cell proliferation in mammalian cell cultures of human promyelocytic leukemic cells..."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4:1230",
+            "Value": "/GENOTOXICITY/ ... In cell cultures (Chinese hamster ovary and rabbit embryos), nicotine inhibited DNA synthesis but did not induce sister chromatid exchanges..."
+        },
+        {
+            "References": "American Society of Health System Pharmacists; AHFS Drug Information 2009. Bethesda, MD. (2009)",
+            "Value": "/GENOTOXICITY/ ... Nicotine has induced repairable DNA damage in an E. coli test system and demonstrated genotoxicity in Chinese hamster ovary cells."
+        },
+        {
+            "References": "BISHUN NP ET AL; ACTA BIOL (BUDAPEST) 23 (2): 175-80 (1972)",
+            "Value": "/GENOTOXICITY/ Injection of 0.07-0.09 mg nicotine into mice resulted in gross chromosomal aberrations in bone marrow cells."
+        },
+        {
+            "References": "PMID:2520501",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Golden Syrian Hamster oocytes were cultured for up to 24 hr in the presence of 0, 0.0005, 0.005, 0.05, 0.5 and 5.0 mM nicotine. Meiotic status was scored cytogenetically from chromatin spreads. Each treatment level had at least 2 replicates (10-15 oocytes) and was repeated 3 times. In another series of expt, oocytes were cultured in the absence or presence of 5 mM nicotine for 8 to 24 hr. Five mM nicotine caused marked perturbations at both the first and second meiotic divisions which resulted in degenerating blobs of chromatin at 24 hr (p < 0.001). After 24 hr culture, 68% of oocytes exposed to 5 mM nicotine exhibited either one or 2 blobs of chromatin. The most pronounced of these perturbations was either blockage at Metaphase I or disruption of homolog segregation to result in 2 groups of bivalents formed at Anaphase I. Concn of nicotine at or below 0.5 mM did not adversely affect the meiotic process. No oocyte at any nicotine level was classified as being at the GV stage (immature)."
+        },
+        {
+            "References": "Smith DC, Priola DV; European J Pharmacol 161 (2/3): 249-253 (1989)",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Atrial tissue from denervated dog hearts was incubated with H(3)-choline. When compared with controls, nicotine at concentrations of 1.0x10-5 and 2x10-5 M released more acetylcholine (ACh) from denervated atria, but not at nicotine concentrations of 5x10-5 M. In parallel contractility studies using tissue from these same atria, the neg inotropic response to nicotine was enhanced at 5x10-6 and 10-5 M, but not at 2x10-5 or 5x10-5 M nicotine."
+        },
+        {
+            "References": "PMID:2784250",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ The influence of nicotine on the outflow of calcitonin gene-related peptide, which is present in sensory nerves, and neuropeptide Y, which is co-stored with noradrenaline from the isolated guinea-pig heart, was studied in vitro. 5-min perfusion with 1 x 10-5 M nicotine was not associated with significant effects on the outflow of calcitonin gene-related peptide-like activity, while 10-4 M nicotine induced release of calcitonin gene-related peptide- as well as neuropeptide Y-like activity in a conctration and Ca +2-dependent manner. After capsaici pretreatment, the nicotine-induced (10-4 M) outflow of calcitonin gene-related peptide-like activity was abolished, but the change in frequency and the contractile force inducted by nicotine were not significantly influenced."
+        },
+        {
+            "References": "PMID:2564706",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ The influence of nicotine on zymosan stimulated guinea pig pulmonary alveolar macrophage oxidative metabolism was examined. At 5X10-10 and 5X10-8 M nicotine, the chemiluminescence response was augmented to 132% and 113%, respectively. At concentrations of 5X10-7 M and 5X10-4 M, chemiluminescence responses were inhibited to 83% and 51% of the control, respectively. Superoxide anion release was enhanced to 226% at a nicotine concentration of 5X10-10 M and 209% at 5X10-9 M; and was inhibited to 53% and 58% of the control at concentrations of 5X10-5 M and 5X10-4 M, respectively. The cholinergic antagonists atropine or hexamethonium did not affect the action of nicotine, a cholinergic agent."
+        },
+        {
+            "References": "MCGRATH JJ, SMITH D; DRUG & CHEMICAL TOXICOLOGY 7 (1): 1-10 (1984)",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Nicotine continuously infused into isolated rat heart depresses heart rate and coronary flow in a dose-related manner. These changes are reversible over range of concentrations used."
+        },
+        {
+            "References": "PMID:2432279",
+            "Value": "/IMMUNOTOXICITY/ Environmental substances were examined for their effect on interferon induction and delayed type hypersensitivity (DTH) responses in mice. Amaranth, safrole, phenacetin, and nicotine suppressed the delayed type hypersensitivity response, and suppressed the serum interferon titers induced by virus infection. However, they did not affect the interferon titers which were induced by tilorone, a chemical inducer. The peak of interferon titer was 12 hr after infection with Herpes simplex virus type 2 (HSV-2). Therefore, amaranth, safrole, phenacetin, and nicotine were given to mice ip 24 hours before, and 2 and 18 hours after infection with Herpes simplex virus type 2. Safrole and nicotine shortened the mean survival time of Herpes simplex virus type 2 infected mice when they were given to mice 2 hour after virus inoculation."
+        },
+        {
+            "References": "Cheeke, P.R. and Shull, L.R. Natural Toxicants in Feeds and Poisonous Plants. Westport, CT: AVI Publishing Company, Inc. 1985., p. 119",
+            "Value": "/VETERINARY CASE REPORTS/ Numerous cases of livestock poisonings from consumption of cultivated tobacco (Nicotina tabacum) are known. Horses have died from consumption of tobacco leaves, while pigs have been fatally poisoned when they broke into a tobacco field. ... An unusual case is the death of a dog which consumed a package of cigarettes."
+        },
+        {
+            "References": "PMID:2501891",
+            "Value": "/OTHER TOXICITY INFORMATION/ Bovine aortic endothelial cells were exposed to 1 ml serum-free Dulbecco's modified Eagle medium in the presence or absence of nicotine (10-9 to 10-5 M). Nicotine incr plasminogen activator secretion, determined by (125)I-fibrin plate assay, in a time- and dose-dependent manner. At all points, nicotine treatment (2.5 x 10-7 M) was associated with enhanced secretion of plasminogen activator activity. Maximum effects after 24 hr incubation were observed at 10-8 M nicotine, which corresponded to about a 2.6-fold incr over control. Nicotine (10-8 M) plasminogen activator stimulation required both RNA and protein syntheses, as evidenced by its inhibition (35%) by 2 ug/ actinomycin D and 2 ug/l cycloheximide. Although activities of all species of plasminogen activator were enhanced by nicotine, it had no significant effects on the release of plasminogen activator."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 76 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Tomlin C; The Pesticide Manual. 10th Ed, Surrey,UK: Crop Protection Pub, p. 735 (1994) (5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000) (6) Khairy AH et al; Z Pflanzenernahr Bodenk 153: 33-38 (1990)",
+            "Value": "The Koc of nicotine is estimated as 100(SRC), using a log Kow of 1.17(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that nicotine is expected to have high mobility in soil. The pKb1 of nicotine is 6.16(4), indicating that this compound will partially exist in the cation form in the environment and cations generally adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(5). Adsorption of nicotine, under more acidic conditions, can be represented as a high-affinity type isotherm, indicating that nicotine has a high affinity for humic acids in soil as a result of protonation of the pyrrolidine nitrogen atom of nicotine(6)."
+        },
+        {
+            "References": "PMID:11351729",
+            "Value": "Sorption coefficients (m hr-1) of 1.5, 5.3, and 1.4 were measured for nicotine on stainless steel, carpet, and wallboard(1)."
+        }
+    ]
+}

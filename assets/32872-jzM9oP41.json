@@ -1,0 +1,66 @@
+{
+    "_id": {
+        "$oid": "6682e973c4e5dba5ffba2ab0"
+    },
+    "CID": {
+        "$numberInt": "32872"
+    },
+    "Name": "ISOFENPHOS",
+    "IUPACName": "propan-2-yl 2-[ethoxy-(propan-2-ylamino)phosphinothioyl]oxybenzoate",
+    "CanonicalSMILES": "CCOP(=S)(NC(C)C)OC1=CC=CC=C1C(=O)OC(C)C",
+    "Synonyms": [
+        "ISOFENPHOS",
+        "Isophenphos",
+        "25311-71-1",
+        "Oftanol",
+        "Amaze",
+        "Discus",
+        "Pyrfon",
+        "LE-Mat",
+        "Isofenphos [BSI:ISO]",
+        "Amidocid",
+        "Pryfon",
+        "propan-2-yl 2-[ethoxy-(propan-2-ylamino)phosphinothioyl]oxybenzoate",
+        "CHEBI:6009",
+        "DTXSID8032417",
+        "0514MAW53A"
+    ],
+    "IsomericSMILES": "CCOP(=S)(NC(C)C)OC1=CC=CC=C1C(=O)OC(C)C",
+    "INCHI": "InChI=1S/C15H24NO4PS/c1-6-18-21(22,16-11(2)3)20-14-10-8-7-9-13(14)15(17)19-12(4)5/h7-12H,6H2,1-5H3,(H,16,22)",
+    "INCHIKEY": "HOQADATXFBOEGG-UHFFFAOYSA-N",
+    "Formula": "C15H24NO4PS",
+    "MolecularWeight": {
+        "$numberDouble": "345.4"
+    },
+    "Description": "Isofenphos is an organothiophosphate insecticide, an organic phosphonate, a phosphonic ester, a member of salicylates and an isopropyl ester. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor and an agrochemical. It is functionally related to an isopropyl salicylate.",
+    "XlogP": {
+        "$numberDouble": "4.1"
+    },
+    "Complexity": {
+        "$numberInt": "403"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) USEPA; Environmental Fate and Preliminary Effects Document for Isofenphos. Available from the Database Query Page at https://www.epa.gov/pesticides/op/isofenphos/isoefed.pdf as of Jan 7, 2002.",
+            "Value": "SEDIMENT: In Florida, isofenphos was not detected (limits of detection ranging from 1.2 to 36 mg/kg, dry weight) in 68 sediment samples taken from lakes, estuaries, streams and outflows(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "In this study, the absorption, translocation, and metabolism of [0-ethyl-1-14C] isofenphos were investigated in Japanese cypress seedlings (Endlicher Cupressus obtusa K. KOCH). The results showed that the recovery of radiocarbon varied depending on the application site, with maximum absorption observed 30, 10, and 4 days after application when applied to the stem top, stem base, and roots, respectively. The highest radiocarbon absorption in plant tissues was observed when applied to the roots. Translocation of radiocarbon differed significantly based on the application site. When applied to the stem top and stem base, most of the radiocarbon remained at the application site, with limited translocation to the roots. However, in the case of root application, both absorption and translocation were considerably higher compared to the other application methods. Analysis of radiocarbon fractionation showed that the major portion of radiocarbon was partitioned in the benzene layer, with minimal amounts in the aqueous layer and unextractable residues. Thin-layer chromatography revealed that the main metabolite was isofenphos-oxon, while minor metabolites included 0-ethyl 0-2-isopropoxycarbonylphenyl phosphoramidothioate (aminoisofenphos) and two unknown substances. The study also found that the transformation of isofenphos to isofenphos-oxon occurred easily in the seedlings, and the persistence of isofenphos-oxon varied depending on the application site. Two metabolites, hydrogen N-isopropylphosphoramidothioate (desphenylisofenphos) and 0-ethyl hydrogen N-isopropylphosphoramidate (desphenylisofenphos-oxon), were identified in the aqueous layer.",
+            "reference": "\u4e0a\u8def\u96c5\u5b50, \u5bcc\u6fa4\u9577\u6b21\u90ce, & \u7530\u7551\u52dd\u6d0b. (1985). Absorption, translocation and metabolism of isofenphos in Japanese cypress seedlings. Journal of Pesticide Science, 10(4), 703-711.",
+            "method": {
+                "Test Plant": "Japanese cypress seedlings",
+                "Apply Location": "Stem top, stem base, root",
+                "Plant Grown Condition": "Six-month old seedlings, 15-18 cm height",
+                "Chemical Preparation": "14C-Isofenphos, isofenphos, isofenphos-oxon, aminoisofenphos, 0-ethyl hydrogen N-isopropylphosphoramidothioate, 0-ethyl hydrogen N-isopropylphosphoramidate",
+                "Pesticide Application Details for the Plant": "23 \u00b5g of 14C-isofenphos applied topically to stem top, stem base wrapped with absorbent cotton impregnated with 14C-isofenphos, roots immersed in 9.9 ppm 14C-isofenphos solution for 24 hr",
+                "Other Information": "14C-Isofenphos, 45.7 \u00b5g per seedling absorbed during 24 hr. Sampling done 4, 10, and 30 days after application, and after 75 days for root application. Autoradiography used to examine translocation. Unextractable residues combusted for radioassay."
+            },
+            "result": "[{\"Application Site\": \"Stem Top\", \"Days after application\": \"4 days\", \"Applied Region %\": \"47.8%\", \"Aerial Portion %\": \"12.9%\", \"Roots %\": \"0.5%\"}, {\"Application Site\": \"Stem Top\", \"Days after application\": \"10 days\", \"Applied Region %\": \"30.8%\", \"Aerial Portion %\": \"11.3%\", \"Roots %\": \"0.5%\"}, {\"Application Site\": \"Stem Top\", \"Days after application\": \"30 days\", \"Applied Region %\": \"26.2%\", \"Aerial Portion %\": \"8.1%\", \"Roots %\": \"0.5%\"}, {\"Application Site\": \"Stem Base\", \"Days after application\": \"4 days\", \"Applied Region %\": \"69.3%\", \"Aerial Portion %\": \"0.3%\", \"Roots %\": \"0.7%\"}, {\"Application Site\": \"Stem Base\", \"Days after application\": \"10 days\", \"Applied Region %\": \"66.0%\", \"Aerial Portion %\": \"2.3%\", \"Roots %\": \"0.1%\"}, {\"Application Site\": \"Stem Base\", \"Days after application\": \"30 days\", \"Applied Region %\": \"33.9%\", \"Aerial Portion %\": \"3.2%\", \"Roots %\": \"1.3%\"}, {\"Application Site\": \"Root\", \"Days after application\": \"4 days\", \"Applied Region %\": \"-\", \"Aerial Portion %\": \"12%\", \"Roots %\": \"63.4%\"}, {\"Application Site\": \"Root\", \"Days after application\": \"10 days\", \"Applied Region %\": \"-\", \"Aerial Portion %\": \"9.3%\", \"Roots %\": \"37.6%\"}, {\"Application Site\": \"Root\", \"Days after application\": \"30 days\", \"Applied Region %\": \"-\", \"Aerial Portion %\": \"8.8%\", \"Roots %\": \"29%\"}, {\"Application Site\": \"Root\", \"Days after application\": \"75 days\", \"Applied Region %\": \"-\", \"Aerial Portion %\": \"8.1%\", \"Roots %\": \"18.1%\"}]"
+        }
+    ]
+}

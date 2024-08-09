@@ -1,0 +1,244 @@
+{
+    "_id": {
+        "$oid": "6682e83fc4e5dba5ffba24a3"
+    },
+    "CID": {
+        "$numberInt": "6327"
+    },
+    "Name": "METHYL CHLORIDE",
+    "IUPACName": "chloromethane",
+    "CanonicalSMILES": "CCl",
+    "Synonyms": [
+        "Chloromethane",
+        "METHYL CHLORIDE",
+        "74-87-3",
+        "Methane",
+        "chloro-",
+        "Monochloromethane",
+        "Methylchloride",
+        "Artic",
+        "Methylchlorid",
+        "CH3Cl",
+        "Clorometano",
+        "Chloor-methaan",
+        "Metylu chlorek",
+        "Chlor-methan",
+        "Cloruro di metile",
+        "Chlorure de methyle"
+    ],
+    "IsomericSMILES": "CCl",
+    "INCHI": "InChI=1S/CH3Cl/c1-2/h1H3",
+    "INCHIKEY": "NEHMKBQYUWJMIP-UHFFFAOYSA-N",
+    "Formula": "CH3Cl",
+    "MolecularWeight": {
+        "$numberDouble": "50.49"
+    },
+    "Description": "Chloromethane is a one-carbon compound that is methane in which one of the hydrogens is replaced by a chloro group. It has a role as a refrigerant, a mutagen and a marine metabolite. It is a member of methyl halides and a member of chloromethanes.",
+    "XlogP": {
+        "$numberDouble": "0.8"
+    },
+    "Complexity": {
+        "$numberInt": "2"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Rodgman A, Perfetti TA; The Chemical Components of Tobacco and Tobacco Smoke, Second Edition. Boca Raton, FL: CRC Press, p. 2069 (2013) (2) Laturnus F et al; Geophys Research Letters 25(6): 773-776 (1998)",
+            "Value": "Methyl chloride has been identified as a chemical component of tobacco plants(1). Various species of Antarctic macroalgae have been found to produce and release methyl chloride at levels of 1.98 pmol/g (wet wt) per day(2)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 3 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Jan 19, 2016: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated for methyl chloride in fish(SRC), using a log Kow of 0.91(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Jan 19, 2016: https://www.safe.nite.go.jp/english/db.html (2) ECHA; Search for Chemicals. Chloromethane (CAS 74-87-3) Registered Substances Dossier. European Chemical Agency. Available from, as of Jan 19, 2016: https://echa.europa.eu/ (3) Tokarczyk R et al; Global Biogeochemical Cycles 17: 1057-1062 (2003) (4) OECD; SIDS Initial Assessment Report For SIAM 15. Chloromethane (CAS 74-87-3). Available from, as of Jan 19, 2016: https://www.chem.unep.ch/irptc/sids/OECDSIDS/CLMETHANE.pdf (5) Miller LG et al; Geochim et Cosmochim Acta 68: 3271-3283 (2004)",
+            "Value": "AEROBIC: Methyl chloride, present at 3.79-19.2 mg/L, reached 1% of its theoretical BOD in 4 weeks using an activated sludge inoculum concentration of 1 drop/L in the Japanese MITI test(1). Using OECD Guideline 301D (Ready Biodegradability: Closed Bottle Test) with an activated sludge inoculum, methyl chloride (at 3 mg/L) reached 77% degradation after 28 days of incubation(2). Direct measurements of methyl chloride degradation in coastal seawater from Nova Scotia indicated that loss of methyl chloride was due to microbial activity(3). Strains of bacteria isolated from terrestrial, freshwater, estuarine and marine environments have been shown to be capable of biodegrading methyl chloride(2,4). Methyl chloride was biodegraded in a soil microcosm(5)."
+        },
+        {
+            "References": "(1) Haider K; pp. 200-4 in Comm Eur Communities, Rep Eur 1980 Eur 6388, Environ Res Programme (1980) (2) Wood PR et al; pp. 493-511 in Groundwater Quality. Ward CH et al, eds. New York, NY: John Wiley and Sons (1985) (3) Lesage S et al; pp. 88-97 in Proc Ont Minist Environ Technol Transfer Conf Toronto, Ontario, Canada. Vol 2. (1989)",
+            "Value": "ANAEROBIC: Chlorinated methanes released 50-70% of bound Cl when incubated anaerobically for 4-5 days with arable soil or sewage sludge(1). A half-life of <11 days in groundwater was reported using a simulated spill site laboratory test(2). Municipal landfill leachate was collected from a site in Guelph, Ontario, Canada and stored at ambient temperature(3); over a period of four months, methyl chloride decreased from an initial concentration of 60 ug/L to 9 ug/L(3). In lysimeter studies using this same leachate, 3 ug/L methyl chloride was added and none was detected in a 14-day breakthrough effluent(3)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Staples, CA et al; Environ Toxicol Chem 4: 131-42 (1985)",
+            "Value": "Of 84 samples in the USEPA STORET data base, only 1% were positive for methyl chloride, median concentration <50 ppb(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 3",
+            "Value": "log Kow = 0.91"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Lelkin, J.B., Paloucek, F.P., Poisoning & Toxicology Compendium. LEXI-COMP Inc. & American Pharmaceutical Association, Hudson, OH 1998., p. 664",
+            "Value": "/Chloromethane ... /causes/ central nervous system depression."
+        },
+        {
+            "References": "PMID:3710226",
+            "Value": "Cytotoxicity, the primary effect of methyl chloride, resulted in the disruption of the cell metab. and altered the electron transport processes of the respiratory chain. Thus, following 2-30 day inhalation exposure in rats (4 hr daily), the response was max by 8th day. Initially the activities of succinate dehydrogenase, alpha-glycerophosphate dehydrogenase, nonspecific esterase, decreased somewhat, whereas NAD-diaphorase and cytochrome oxidase increased. The activity of the diaphorase in the lymphoid tissue was high during the progress of the primary response. The secondary response was noted by 30th day when cytochrome oxidase activities are informative of the progress of toxic processes."
+        },
+        {
+            "References": "PMID:3764938",
+            "Value": "Previous data have demonstrated that methyl chloride is toxic to B6C3F1 mice under both acute and chronic exposure conditions, and that conjugation of methyl chloride with glutathione is a key step in the metabolism of methyl chloride. This study examined the role of glutathione in mediating the acute toxicity of methyl chloride to liver, kidney, and brain of male B6C3F1 mice. The lethal effects of a single 6 hr inhalation exposure of B6C3F1 males to 2500 ppm methyl chloride were completely prevented by pretreatment with the glutathione synthesis inhibitor, L-buthionine-S,R-sulfoximine (4 mmol L-BSO/kg, ip 1.5 hr prior to methyl chloride exposure). ... These results indicate that glutathione is an important component in the toxicity of methyl chloride to multiple organ systems in B6C3F1 mice. Reaction of methyl chloride with glutathione appears to constitute a mechanism of toxication, contrary to the role usually proposed for glutathione in detoxifying xenobiotics."
+        },
+        {
+            "References": "PMID:6710490",
+            "Value": "Inhalation of methyl chloride by male B6C3F1 mice resulted in a concentration-dependent depletion of glutathione in liver, kidney, and brain. Exposure for 6 hr to 100 ppm methyl chloride decreased the concentration of glutathione in mouse liver by 45%, while exposure to 2500 ppm for 6 hr lowered liver glutathione to approximately 2% of control levels. For those exposures which decreased liver glutathione to less than 20% of control levels, the extent of liver glutathione depletion was closely correlated with the capacity of a 9000 g supernatant fraction from the liver to undergo lipid peroxidation in vitro. Glutathione was depleted to a lesser extent in mouse brain and kidney, compared to liver, and no relationship to peroxidation was observed for single exposures to methyl chloride. ... Exposure of rats to 2000 ppm methyl chloride reduced liver glutathione to 20% of control levels, compared to 4.5% in mice similarly exposed, and under these exposure conditions the amount of lipid peroxidation measured in vitro was 40 fold greater in mouse liver than in rat liver. During exposure of mice to 2500 ppm methyl chloride, ethane expiration increased to an extent comparable to that produced by administration of 2 ml/kg of carbon tetrachloride. These findings suggest that glutathione depletion in liver may be an important component of methyl chloride induced hepatotoxicity."
+        },
+        {
+            "References": "PMID:7058527",
+            "Value": "The effect of acute methyl chloride inhalation on F-344 rat tissue nonprotein SH (NPSH), largely reduced glutathione was studied. Rats were exposed to methyl chloride concentrations of 1500, 500 or 100 ppm. A 6 hr exposure to 1500 ppm methyl chloride decreased the nonprotein SH content of liver, kidney and lungs to 17, 27 and 30% of control values, respectively, while 500 ppm methyl chloride lowered the liver, kidney and lung nonprotein SH to 41, 59 and 55% of control values, respectively, demonstrating a concentration-related effect. Blood nonprotein SH did not differ from controls in either group. No statistically significant changes from controls in tissue or blood nonprotein SH were observed following a 100-ppm methyl chloride exposure. The extent of tissue nonprotein SH loss depended on exposure duration. Liver and kidney nonprotein SH returned to control nonprotein SH concentrations within 8 hr following exposure of 1500 ppm methyl chloride. Pretreatment of rats with Aroclor 1254 or SKF-525A (proadifen hydrochloride) did not alter the methyl chloride-induced decrease in tissue nonprotein SH. Methyl chloride reacted extensively with tissue nonprotein SH in vivo in a concentration-related fashion following acute inhaltion exposure. The most likely nonprotein SH constituent with which methyl chloride reacted was reduced glutathione. The finding that blood nonprotein SH was not affected, in contrast to liver, kidney or lung nonprotein SH, indicated a tissue-specific reaction between methyl chloride and SH groups, a reaction in which the tissue enzyme glutathione-S-alkyltransferase may play a role."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 613",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Exposure of a rabbit's eye to pure methyl chloride gas at room temperature for ninety seconds caused only slight conjunctival hyperemia. ... In ... two rabbits exposed for five days to concentrations from 250 to 465 ppm in air. There were no changes in the corneas, nor in pupillary reactions to light."
+        },
+        {
+            "References": "PMID:7058527",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ F344 rats were exposed /by inhalation/ to methyl chloride concentrations of 1500, 500 or 100 ppm. A 6 hr exposure to 1500 ppm decresed the nonprotein sulfhydryl (NPSH) content of liver, kidney and lungs to 17, 27 and 30% of control values, respectively, while 500 ppm methyl chloride lowered the liver, kidney and lung nonprotein sulfhydryl to 41, 59 and 55% of control values, respectively, demonstrating a concentration-related effect. Blood nonprotein sulfhydryl did not differ from controls in either group."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 5",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Sprague Dawley rats were exposed /by inhalation/ to 99.5% chloromethane at 0, 200, 500, 1000, or 2000 ppm for 48 or 72 hr. At 2000 ppm at 48 hr, rats were either lethargic, moribund, or dead. At 2000 ppm rats were all dead or moribund. The cause of death was thought to be kidney failure."
+        },
+        {
+            "References": "USEPA; Chemical Hazard Information Profile: Chloromethane (Draft) p.V-7 (1978) EPA-560/10-78-001",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The following effects have been reported in guinea pigs and other unspecified animals after acute inhalation exposures: death in a short time at 150,000-300,000 ppm; serious effects in 30-60 min at 20,000-40,000 ppm; no serious effects for up to 60 min at 7,000 ppm; no effect for up to 8 hr at 500-1000 ppm. /CNS depression/ occurs at 40,000 ppm in rabbits and at 108,600 ppm in cats."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 5",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Dogs exposed acutely to 15,000 ppm died within 4-6 hr after an initial rise in heart rate and blood pressure, followed by reduced respiration, decreased heart rate, and progressive fall in blood pressure."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 1",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ When male F344 rats inhaled 3500 ppm methyl chloride 6 hr/day for 5 to 9 days, serum testosterone decreased as a result of CNS toxicity, and degeneration of spermatic epithelium and formation of epididymal granulomas were associated with exposure."
+        },
+        {
+            "References": "PMID:7185629",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Both sexes of 1 strain of rat (F344), 2 strains of mice were exposed by inhalation to methyl chloride for 6 hr/day for up to 12 days. Methyl chloride concentration in air were 0, 500, 1000, or 2000 ppm for mice, and 0, 2000, 3500, or 5000 ppm for rats. All male B6C3F1 mice exposed to 2000 ppm were dead or moribund by day 2, and all male and female mice in the remaining 2000 ppm groups were moribund by day 5. Prior to death many of these mice exhibited ataxia, and hematuria with the latter occurring mainly in females. Treatment-associated lesions in mice included hepatocellular degeneration and necrosis, degeneration and necrosis of proximal convoluted tubules and/or basophilic tubules in the renal cortex, and focal areas of necrosis of the internal granular layer of the cerebellum. Brain lesions were most severe in female C57Bl/6 mice, while hepatocellular degeneration was most severe in male C57Bl/6 and B6C3Fl strains. Approximately 50% of the male and female exposed to 5000 ppm were killed in extremis on day 5. The principal clinical signs, which were confined to the 5000 and 3500 ppm groups, included severe diarrhea, incoordination of the forelimbs, and in a small number of animals, hindlimb paralysis and convulsions. In rats, lesions observed in tissues examined only in rats included vacuolar degeneration of the zona fasciculata of the adrenal glands and degenerative changes in the seminiferous tubules and epididymis. Rats appeared to respond in similar manner to mice but were more resistant to methyl chloride toxicity. These findings demonstrate species, strain, and sex differences in susceptibility to methyl chloride."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ /Researchers/ reported that repeated exposures 6 hr/day, 6 days/wk over varying periods at methyl chloride concentrations of 500 ppm or higher are dangerous. Three of the four dogs and both monkeys exposed at this concentration died after 4 weeks and 16 weeks of exposure, respectively. Signs of methyl chloride intoxication preceding death were convulsive seizures, periods of unconsciousness, and neuromuscular debilities. However, repeated exposure of animals at 300 ppm for 64 weeks failed to demonstrate any adverse effects. Based on the dog and monkey data, the investigators suggested that humans might be more susceptible to the toxic action of methyl chloride than laboratory animals."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ When guinea pigs inhaled methyl chloride at 2%, 10 minutes/day for 21 days, cerebellar edema and necrosis were prominent in the granular cells."
+        },
+        {
+            "References": "Kolkmann FW, Volk B; Exp Pathol (JENA) 10 (5-6): 298-308 (1975)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Methyl chloride inhalation at 20,000 cu cm for 10 minutes, 6 times a week, for 1 to 10 weeks caused histotoxic edema of stratum granulosum of cerebellum of guinea pigs. Initial changes consisted of pyknosis of cell nucleus & hydropic swelling of granular cell cytoplasm, with vacuolic degeneration of mitochondria in glomerula cerebellosa."
+        },
+        {
+            "References": "PMID:6388032",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Experiments were carried out in rats to characterize the development of the testicular and epididymal lesions and any associated effects on reproductive hormones. Adult F-344 rats were exposed /by inhalation/ to 3500 ppm methyl chloride 6 hr/day for 5 days, not exposed for 3 days, and exposed again for 4 days. ... It is proposed that methyl chloride acts centrally to lower circulating testosterone. Nonprotein sulfhydryls were depleted in liver, testis, and epididymis after methyl chloride exposure, but not in whole blood. This finding indicates that sulfhydryl depletion is not due to direct alkylation, but is enzymatically mediated. Sulfhydryl depletion did not correlate with lesion development. It was concluded that the initial testicular effects of methyl chloride are directed at either the late stage spermatids or the Sertoli cells with a resultant delay in spermiation."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 5",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ The seminiferous tubules of the testes of rats were severely affected by exposure to 1000 ppm /by inhalation/ after 6 months or more. Exposure to 250 or 500 ppm caused no adverse effect in either male or female rats except for a questionable decrease in growth of female rats at 250 ppm. B6C3F1 mice were in general much more severely affected than rats, but 50 ppm was considered to be without effect after 2 yr of exposure. At 1000 ppm, severe neurofunctional impairment (tremors and paralysis) with supporting histopathological injury was observed, as were splenic atrophy and hepatocellular necrosis and degeneration in the livers of male mice. Renal tubuloephitelial hyperplasia and karyomegaly were seen in mice after 12 months of exposure to 1000 ppm as well as kidney tumors in male mice only."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 8",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ ... B6C3F1 mice and F344 rats of both sexes were exposed /by inhalation/ to methyl chloride concentrations of 0, 50, 225 or 1000 ppm for 6 hr/day, 5 days/week for 2 years. This study showed renal degenerative changes (cortical tubular epithelial hypertrophy and hyperplasia with or without karyomegaly) and hepatocellular degeneration. A statistically significant increase in both malignant and nonmalignant renal tumors occurred in only the male mice exposed at 1000 ppm, including renal cortical adenomas and adenocarcinomas, papillary cystadenomas and cystadenocarcinomas, and tubular cystadenomas. Additionally, chronic inhalation of 1000 ppm methyl chloride induced functional limb muscle impairment and degeneration and atrophy of the internal granular layer of the cerebellum in male and female mice. Male and female mice exposed at 1000 ppm also exhibited atrophy of the spleen. Male and female rats exposed to methyl chloride failed to exhibit a significant increase in neoplastic lesions or to develop the other gross and histopathological lesions observed in mice. Male rats developed bilateral atrophy of the testicular seminiferous tubules; no such change occurred in male mice, indicating that male mice were more sensitive to the toxic effects of inhaled methyl chloride than female mice and that both sexes of mice were more sensitive than were male or female F344 rats."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 9",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ In a 2-year oncogenicity study ... a high incidence of renal tumors was found in male mice exposed /by inhalation/ to 1000 ppm methyl chloride, no evidence of carcinogenicity was found in male or female rats exposed to concentration of 1000 ppm in this study."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V41 168 (1986)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ A two-year inhalation study ... male and female B6C3F mice (numbers and age unspecified) were exposed by inhalation to 0, 51, 224 or 997 ppm (0, 106, 464 or 2064 mg/cu m) methyl chloride for 6 hr per day on five days per week. Analysis indicated an increase in the incidence of renal cortical adenomas and adenocarcinomas and cortical tubular cysts in males receiving the highest dose. Renal cortical adenomas were also seen in males exposed to 224 ppm."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V41 170 (1986)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Two-year inhalation study ... male and female Fischer 344 rats (numbers and age unspecified) were exposed to 0, 51, 224 or 997 ppm (0, 106, 464 or 2064 mg/cu m) methyl chloride for 6 hr per day on five days per week. No increase in tumor incidence was reported in the treated animals."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 8",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Pregnant mice were exposed via inhalation at concentrations of 0, 100, 250, 500, 750, or 1500 ppm methyl chloride on days 6-18 of gestation. Exposure at 1500 ppm was terminated due to excessive maternal morbidity. Exposure at 500 or 750 ppm caused a statistically significant increase in the numbers of cardiac malformations. Exposures at concentrations of 250 or 100 ppm was considered to be nonteratogenic. Offspring of rats exposed similarly to methyl chloride showed no terata."
+        },
+        {
+            "References": "PMID:6867940",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ One hundred bred Fischer-344 female rats were exposed /by inhalation/ daily for 6 hours to atmospheres containing 0, 100, 500, or 1,500 ppm methyl chloride, 25 females per exposure concentration, from gestation day (gd) 7 through gd 19. On gd 20, the females were sacrificed for evaluation of maternal reproductive and fetal parameters. Maternal and fetal toxicity was apparent at the highest exposure concentration. There were no methyl chloride-induced external, skeletal, or visceral abnormalities seen in the fetuses. One hundred thirty-two C57BL/6 female mice bred to C3H males to produce B6C3F1 offspring were exposed daily for 6 hours to atmospheres containing 0, 100, 500, or 1,500 ppm methyl chloride, 33 females per exposure concentration, from gd 6 through gd 17. Exposure to the entire 1,500-ppm group was terminated on gd 10-14, with the animals killed in extremis. Selective necrosis of neurons in the internal granular layer of the cerebellum, ranging from individual cell involvement to focal areas comprising large numbers of neurons, was found in all females. On gd 18, the females from the other treatment groups, all of which survived, were killed for evaluation of maternal reproductive and fetal parameters. No evidence was seen of maternal or fetal toxicity in these exposure groups. There were no significant alterations in external appearance in fetuses from any of the exposure groups. Visceral examination of mouse fetuses revealed a small, but statistically significant, incidence of heart defects in litters of the 500-ppm group. The anomaly, a reduction or absence of the atrioventricular valve, chordae tendineae, and papillary muscle, was observed on the left side (bicuspid valve) in three fetuses and the right side (tricuspid valve) in six fetuses: three males and six females. It is concluded that methyl chloride inhalation exposure in pregnant rats, during critical periods of embryo and fetal development, is not teratogenic at concentrations which elicit maternal and fetal toxicity. In pregnant mice, methyl chloride was severely toxic to dams following 4 days or more of exposure to 1,500 ppm in air. Methyl chloride, at 500, but not 100 ppm, was teratogenic in mice, leading to a malformation in the heart. No embryo-fetal toxicity or teratogenicity was associated with exposure of mice, during critical periods of embryo and fetal development, to 100 ppm of methyl chloride."
+        },
+        {
+            "References": "PMID:6867941",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ C57BL/6 female mice impregnated by C3H male mice to produce B6C3F1 fetuses were exposed daily for 6 hr to atmospheres containing 0, 250, 500, or 750 ppm methyl chloride, from gestation day 6 to 18. ... Methyl chloride inhalation exposure to pregnant C57BL/6 mice from gestation day 6 to 17 resulted in maternal toxicity only at the 750-ppm exposure and was teratogenic to B6C3F1 conceptuses at 750 and 500 ppm, leading to fetal heart malformations. No evidence of embryo or fetotoxicity other than teratogenicity was seen. No maternal, embryo or fetotoxicity, or teratogenicity was associated with exposure to mice, during critical periods of embryo and fetal development, to 250 ppm of methyl chloride."
+        },
+        {
+            "References": "USEPA/ODW; Drinking Water Health Advisories for 15 Volatile Organic Chemicals p. A-10 (1990)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ There was a significant decrease in the number of fertile matings in /male Fischer 344 rats/ exposed to 475 ppm /chloromethane via inhalation/. Male rats exposed to 1500 ppm were sterile. There was no effect on female reproductive ability. The decreased male fertility was associated with chloromethane-induced testicular degeneration. After exposure was discontinued, rats exposed to 475 ppm had a full recovery in fertility in 9 weeks, while rats exposed to 1500 ppm only partially recovered fertility even after an additional 18 weeks of recovery. The NOAEL for reproductive toxicity ... is 150 ppm. ... There was a significant decrease in the male:female ratio and a significant decrease in both male and female growth rates on days 14 to 21 after birth in the F2 pups exposed to 475 ppm but not 150 ppm of chloromethane."
+        },
+        {
+            "References": "USEPA/ODW; Drinking Water Health Advisories for 15 Volatile Organic Chemicals p. A-10 (1990)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Exposure /by inhalation of groups of 25 pregnant Fischer 344 rats to 1500 ppm chloromethane/ resulted in maternal toxicity (decreased body weight gain) and fetotoxicity (decreased fetal weight, decreased female crown-rump length and delayed ossification."
+        },
+        {
+            "References": "USEPA/ODW; Drinking Water Health Advisories for 15 Volatile Organic Chemicals p. A-11 (1990)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Pregnant C57B2/6 mice were exposed via inhalation to 250, 500 and 750 ppm of chloromethane 6 hours/day on days 6 to 18 of gestation. ... A significant increase in both the number of fetuses and fetuses/litter with heart defects at levels above 250 ppm /were reported/. Adverse effects on dams and fetuses were not observed at a concentration of 250 ppm chloromethane."
+        },
+        {
+            "References": "PMID:3966236",
+            "Value": "/GENOTOXICITY/ Methyl chloride is a direct-acting mutagen in bacteria, induces renal adenocarcinomas in male mice and is a potent reproductive toxicant in the male Fischer-344 (F-344) rat. A dominant lethal assay was performed to examine the possibility that methyl chloride may have been a germ cell mutagen in the F-344 male rat. Groups of 40 rats each were exposed to 0, 1000 or 3000 ppm methyl chloride 6 hr/day for 5 consecutive days; or received a single ip injection of 0.2 mg triethylenemelamine/kg as a positive control. Each male was bred to a single female weekly for 8 wk and the standard criteria of dominant lethal tests were recorded. Exposure to 1000 ppm methyl chloride caused no consistent change in any parameter relative to control values. Triethylenemelamine caused increases in pre- and postimplantation loss indices in wk 1-5 postexposure, corresponding to sperm exposed in the epididymis and as early to late stage spermatids in the testis. Exposure to 3000 ppm methyl chloride caused a slight increase in postimplantation loss at wk 1 postexposure, only, ie, in sperm exposed in the epididymis or vas deferens, and increases in preimplantation loss throughout the 8 wk postexposure. Fertility of the 3000 ppm methyl chloride exposed males was significantly decreased by wk 2 after exposure, and never recovered to control values. The increased preimplantation losses were due to cytotoxic rather than genotoxic effects. High concentrations of inhaled methyl chloride induced dominant lethal mutations (reflected as an increased level of postimplantation fetal deaths) in sperm located within the vas deferens and epididymis at the time of exposure."
+        },
+        {
+            "References": "PMID:3748050",
+            "Value": "/GENOTOXICITY/ Measurement of DNA repair as unscheduled DNA synthesis (UDS) in vitro following exposure in vivo in multiple tissues from the same treated animal can provide valuable information relating to the tissue- and organ-specificity of chemically induced DNA damage. UDS was evaluated in primary cultures of rat tracheal epithelial cells, hepatocytes and pachytene spermatocytes after exposure in vitro to methyl chloride (MeCl), and after isolation from the same treated animal following inhalation exposure in vivo. Concentrations of 1-10% MeCl in vitro induced UDS in hepatocytes and spermatocytes, but not in tracheal epithelial cells. Inhalation exposure to MeCl in vivo (3000-3500 ppm 6 hr/day for 5 successive days) failed to induce DNA repair in any cell type. In vivo exposure to 15000 ppm MeCl for 3 hr also failed to induce UDS in tracheal epithelial cells and spermatocytes, but did cause a marginal increase in UDS in hepatocytes. Thus, MeCl appears to be a weak, direct-acting genotoxicant. While activity could be measured in hepatocytes and spermatocytes directly in vitro, only extremely high concentrations of MeCl elicited a response in the whole animal, and then only in hepatocytes."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 9",
+            "Value": "/GENOTOXICITY/ When studied in rats, there has been no evidence of alkylation of DNA, even in a study designed to maximize analytic sensitivity. However, in certain in vitro and in vivo studies, methyl chloride appears to be a weak, direct-acting mutagen for bacteria, Drosophila, and mammalian cells. Although positive in a dominant lethal study in rats, the effect appears to be secondary to injury of a specific area of the epididymis."
+        },
+        {
+            "References": "PMID:785251",
+            "Value": "/GENOTOXICITY/ Salmonella typhimurium tester strain TA1535 which can detect mutagens causing base pair substitutions was used to study methyl chloride. The mean values for the number of revertant colonies expressed using the standard Ames assay with various gas concentrations /tested/ shows that with the exception of 0.5% methyl chloride all figures are statistically significant at P less than 0.01 when compared to the gasless control. /SRP: activation requried/"
+        },
+        {
+            "References": "PMID:3095827",
+            "Value": "/GENOTOXICITY/ This study assessed the possible relationship between methyl chloride-induced epididymal inflammation and the formation of dominant lethal mutations in sperm of Fischer 344 rats. Groups of 40 males were exposed to methyl chloride (3000 ppm 6 hr/day for 5 days), with or without concurrent treatment with the anti-inflammatory agent 3-amino-1-(m-(trifluoromethyl)phenyl)-2-pyrazoline (BW 755C; 10 mg/kg, ip 1 hr pre- and postexposure); BW 755C was shown previously to inhibit Methyl chloride-induced epididymal inflammation. Control groups (n=20) were either untreated, injected as described above with BW 755C, or injected on the afternoon of day 5 with triethylenemelamine (0.2 mg/kg), a known dominant lethal mutagen. ... The dominant lethal mutations induced by methyl chloride appear to be a consequence of its induction of inflammation in the epididymis. These data demonstrate the potential genotoxicity of inflammatory processes in vivo."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/GENOTOXICITY/ In male F344 rats exposed 6 hours/day at 3000 ppm methyl chloride for 5 consecutive days, dominant lethal mutations were indicated by increased preimplantation loss throughout the 8 weeks following exposure (i.e., after treatment of spermatogonia, spermatocytes, spermatids, and spermatozoa), and a slight increase in postimplantation loss was found only during the first week after exposure (i.e., after treatment of spermatozoa). In a subsequent abstract, the authors suggested that the postimplantation loss was a secondary effect due to methyl chloride-induced inflammation of the epididymis."
+        },
+        {
+            "References": "PMID:4026576",
+            "Value": "/GENOTOXICITY/ Fischer-344 rats and B6C3F1 mice of both sexes were exposed in closed chambers to 14C-labeled methyl chloride. Different clearance values from the gas phase of the system indicated that, based on body weight, mice metabolized the test compound much faster than rats. After isolation of DNA and nucleoproteins from liver and kidneys radioactivity was found in all macromolecular samples; this was ascribed to metabolic C1-incorporation. Radioactivity incorporation was particularly high in DNA of mouse kidneys, suggesting a high turnover to active C1 bodies (formaldehyde, formate) in this tissue. Analyses of DNA samples from kidneys of female and male mice showed neither 7-N-methylguanine nor O6-methylguanine. Hence, the formation of tumors in B6C3F1 mice exposed to high concentrations of methyl chloride is not based on methylation of DNA in this tissue."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V41 176 (1986)",
+            "Value": "/GENOTOXICITY/ Methyl chloride is mutagenic to bacteria and induces chromosomal aberrations in plants. It induces DNA damage in mammalian cells in vitro but not in vivo. In cultured mammalian cells, it induces mutations and sister chromatid exchanges and enhances viral cell transformation. It induces dominant lethal mutations in rats."
+        },
+        {
+            "References": "PMID:6299533",
+            "Value": "/GENOTOXICITY/ Chloromethane gas enhanced the transformation of Syrian hamster embryo cells by SA7 adenovirus."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V41 170 (1986)",
+            "Value": "/OTHER TOXICITY INFORMATION/ Toxic effects ... reported following both short- and long-term exposure to methyl chloride and include apathy, drowsiness, staggering gait, paralysis of the hind limbs, anorexia, spasticity, convulsions, renal damage, hyperemia and hemorrhages of the lung and death."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Staples CA et al; Environ Toxicol Chem 4: 131-42 (1985)",
+            "Value": "Of 345 stations in the USEPA STORET data base 0.3% were positive for methyl chloride with a median concentration of <5 ppb(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Jan 19, 2016: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc for methyl chloride can be estimated to be 13(SRC). According to a classification scheme(2), this estimated Koc value suggests that methyl chloride is expected to have very high mobility in soil."
+        }
+    ]
+}

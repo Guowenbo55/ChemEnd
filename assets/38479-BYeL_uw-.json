@@ -1,0 +1,63 @@
+{
+    "_id": {
+        "$oid": "6682e97bc4e5dba5ffba2ad8"
+    },
+    "CID": {
+        "$numberInt": "38479"
+    },
+    "Name": "Pendimethalin",
+    "IUPACName": "3,4-dimethyl-2,6-dinitro-N-pentan-3-ylaniline",
+    "CanonicalSMILES": "CCC(CC)NC1=C(C=C(C(=C1[N+](=O)[O-])C)C)[N+](=O)[O-]",
+    "Synonyms": [
+        "PENDIMETHALIN",
+        "40487-42-1",
+        "Pendimethaline",
+        "Penoxaline",
+        "Prowl",
+        "Penoxalin",
+        "Herbadox",
+        "Phenoxalin",
+        "Accotab",
+        "Stomp",
+        "Penoxyn",
+        "Sipaxol",
+        "Way Up",
+        "3,4-Dimethyl-2,6-dinitro-N-(pentan-3-yl)aniline",
+        "Go-Go-San"
+    ],
+    "IsomericSMILES": "CCC(CC)NC1=C(C=C(C(=C1[N+](=O)[O-])C)C)[N+](=O)[O-]",
+    "INCHI": "InChI=1S/C13H19N3O4/c1-5-10(6-2)14-12-11(15(17)18)7-8(3)9(4)13(12)16(19)20/h7,10,14H,5-6H2,1-4H3",
+    "INCHIKEY": "CHIFOSRWCNZCFN-UHFFFAOYSA-N",
+    "Formula": "C13H19N3O4",
+    "MolecularWeight": {
+        "$numberDouble": "281.31"
+    },
+    "Description": "Pendimethalin is a member of the class of substituted anilines that is N-(pentan-3-yl)aniline bearing two additional nitro substituents at positions 2 and 6 as well as two methyl substituents at positions 3 and 4. A herbicide used to control most annual grasses and many annual broad-leaved weeds. It has a role as a herbicide, an environmental contaminant and an agrochemical. It is a substituted aniline, a secondary amino compound and a C-nitro compound.",
+    "XlogP": {
+        "$numberDouble": "5.2"
+    },
+    "Complexity": {
+        "$numberInt": "349"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Hurto KA, Prinster MG; in Amer Chem Soc, Div Agrochem., 203rd ACS Nat Meet., Washington, DC: Amer Chem Soc Vol 522, Chpt 9, pp.  86-99 (1993) (2) Pestemer W, Krasel G; in Brighton Crop Protection Conf -Pests Dis 2: 459-68 (1992)",
+            "Value": "After application of pendimethalin 60DG on irrigated and nonirrigated turfgrass field plots, the dislodgeable (detergent- stripped) pendimethalin residues on grass clippings were (concn irrigated (nonirrigated) plot in ug/sq cm at time after application): 0.20 (0.40) at 2 hr; 0.07 (0.24) at 2 days; and 0.01 (0.03) at 7 days(1). In terms of percentages of nominal application rates, the dislodgeable residues for irrigated (nonirrigated) plots declined from 4.53% (9.21%), 2 hours after application, to 0.35% (0.75%) after 7 days(1). Pendimethalin completely volatilizes from leaf surfaces within 24 hr(2)."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "Eleftherohorinos IG; Zizaniologia 1 (4): 265-73 (1985)",
+            "Value": "SOIL: A review with 46 references of the performance and persistence of chlorsulfuron, chlortoluron, isoproturon, methabenzthiazuron, pendimethalin, terbutryn, and tri-allate. The persistence of all these herbicides decreases at higher temp and increased soil moisture content. Increased clay and organic matter content of soils increases their adsorption and thereby decreases leaching of most of these herbicides, as well as losses due to volatilization."
+        }
+    ],
+    "plant_translocation": [
+        {
+            "References": "Ahmad, I., Ahmad, A., & Ahmad, M. (2016). Binding properties of pendimethalin herbicide to DNA: multispectroscopic and molecular docking approaches. Physical Chemistry Chemical Physics, 18(9), 6476\u20136485. doi:10.1039/c5cp07351k",
+            "Value": "A research conducted by Ahmad (2016) explored the binding properties of the systemic herbicide pendimethalin (PND) to calf thymus DNA (ctDNA) using various biophysical techniques. Pendimethalin is a dinitroaniline pesticide widely used to control broadleaf weeds and grassy weed species in various crops and non-crop areas. The study aimed to understand the interaction between PND and ctDNA to gain insights into its potential genotoxic effects. The research revealed that PND forms a complex with ctDNA, with a binding constant of approximately 10^4 M^-1, primarily driven by hydrophobic interactions. The investigation involved UV-visible absorption and fluorescence spectra, indicating the formation of the PND\u2013ctDNA complex. Competitive displacement studies using various dyes supported the intercalative binding of PND molecules into the double helix of ctDNA. It is noteworthy that PND, while serving as an effective herbicide, also exhibits toxic effects on non-target organisms and is classified as a possible human carcinogen. "
+        }
+    ]
+}

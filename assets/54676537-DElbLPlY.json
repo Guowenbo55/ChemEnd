@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "6682e9d6c4e5dba5ffba2ca3"
+    },
+    "CID": {
+        "$numberInt": "54676537"
+    },
+    "Name": "ACENOCOUMAROL",
+    "IUPACName": "4-hydroxy-3-[1-(4-nitrophenyl)-3-oxobutyl]chromen-2-one",
+    "CanonicalSMILES": "CC(=O)CC(C1=CC=C(C=C1)[N+](=O)[O-])C2=C(C3=CC=CC=C3OC2=O)O",
+    "Synonyms": [
+        "ACENOCOUMAROL",
+        "152-72-7",
+        "Acenocoumarin",
+        "Nicoumalone",
+        "Sintrom",
+        "Nitrovarfarian",
+        "Nitrowarfarin",
+        "Nicumalon",
+        "Sinthrome",
+        "Acenocumarol",
+        "Sinkumar",
+        "Syncoumar",
+        "Syncumar",
+        "Acenokumarin",
+        "Sincoumar"
+    ],
+    "IsomericSMILES": "CC(=O)CC(C1=CC=C(C=C1)[N+](=O)[O-])C2=C(C3=CC=CC=C3OC2=O)O",
+    "INCHI": "InChI=1S/C19H15NO6/c1-11(21)10-15(12-6-8-13(9-7-12)20(24)25)17-18(22)14-4-2-3-5-16(14)26-19(17)23/h2-9,15,22H,10H2,1H3",
+    "INCHIKEY": "VABCILAOYCMVPS-UHFFFAOYSA-N",
+    "Formula": "C19H15NO6",
+    "MolecularWeight": {
+        "$numberDouble": "353.3"
+    },
+    "Description": "Acenocoumarol is a hydroxycoumarin that is warfarin in which the hydrogen at position 4 of the phenyl substituent is replaced by a nitro group. It has a role as an anticoagulant and an EC 1.6.5.2 [NAD(P)H dehydrogenase (quinone)] inhibitor. It is a C-nitro compound, a hydroxycoumarin and a methyl ketone.",
+    "XlogP": {
+        "$numberDouble": "2.5"
+    },
+    "Complexity": {
+        "$numberInt": "614"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Sangster J; LOGKOW Databank. Sangster Res. Lab., Montreal Quebec, Canada (1994)",
+            "Value": "log Kow = 1.98"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 1527",
+            "Value": "The oral anticoagulants block the regeneration of reduced vitamin K and thereby induce a state of functional vitamin K deficiency. The mechanism of the inhibition of reductase(s) by the coumarin drugs is not known. There exist reductases that are less sensitive to these drugs but that act only at relatively high concentrations of oxidized vitamin K; this property may explain the observation that administration of sufficient vitamin K can counteract even large doses of oral anticoagulants. /Oral Anticoagulants/"
+        },
+        {
+            "References": "WHO; Environ Health Criteria 175: Anticoagulant Rodenticides p.46 (1995)",
+            "Value": "Both 4-hydroxycoumarin derivatives and indandiones (also known as oral anticoagulants) are antagonists of vitamin K. Their use as rodenticides is based on the inhibition of the vitamin K-dependent step in the synthesis of a number of blood coagulation factors. The vitamin K-dependent proteins ...in the coagulation cascade... are the procoagulant factors II (prothrombin), VII (proconvertin), IX (Christmas factor) and X (Stuart-Prower factor), and the coagulation-inhibiting proteins C and S. All these proteins are synthesized in the liver. Before they are released into the circulation the various precursor proteins undergo substantial (intracellular) post-translational modification. Vitamin K functions as a co-enzyme in one of these modifications, namely the carboxylation at well-defined positions of 10-12 glutamate residues into gamma-carboxyglutamate (Gla). The presence of these Gla residues is essential for the procoagulant activity of the various coagulations factors. Vitamin K hydroquinone (KH2) is the active co-enzyme, and its oxidation to vitamin K 2,3-epoxide (KO) provides the energy required for the carboxylation reaction. The epoxide is than recycled in two reduction steps mediated by the enzyme KO reductase... . The latter enzyme is the target enzyme for coumarin anticoagulants. Their blocking of the KO reductase leads to a rapid exhaustion of the supply of KH2, and thus to an effective prevention of the formation of Gla residues. This leads to an accumulation of non-carboxylated coagulation factor precursors in the liver. In some cases these precursors are processed further without being carboxylated, and (depending on the species) may appear in the circulation. At that stage the under-carboxylated proteins are designated as descarboxy coagulation factors. Normal coagulation factors circulate in the form of zymogens, which can only participate in the coagulation cascade after being activated by limited proteolytic degradation. Descarboxy coagulation factors have no procoagulant activity (i.e. they cannot be activated) and neither they can be converted into the active zymogens by vitamin K action. Whereas in anticoagulated humans high levels of circulating descarboxy coagulation factors are detectable, these levels are negligible in warfarin-treated rats and mice. /Anticoagulant rodenticides/"
+        }
+    ]
+}

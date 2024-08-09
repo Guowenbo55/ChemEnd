@@ -1,0 +1,71 @@
+{
+    "_id": {
+        "$oid": "6682e871c4e5dba5ffba259c"
+    },
+    "CID": {
+        "$numberInt": "7248"
+    },
+    "Name": "3,4-XYLIDINE",
+    "IUPACName": "3,4-dimethylaniline",
+    "CanonicalSMILES": "CC1=C(C=C(C=C1)N)C",
+    "Synonyms": [
+        "3,4-Dimethylaniline",
+        "95-64-7",
+        "3,4-XYLIDINE",
+        "4-Amino-o-xylene",
+        "3,4-Xylylamine",
+        "Benzenamine",
+        "3,4-dimethyl-",
+        "3,4-Dimethylbenzenamine",
+        "3,4-Dimethylphenylamine",
+        "1-Amino-3,4-dimethylbenzene",
+        "3,4-Dimethylaminobenzene",
+        "4-Amino-1,2-dimethylbenzene",
+        "Aniline",
+        "3,4-dimethyl",
+        "3,4-Dimethylbenzeneamine",
+        "NSC 41800",
+        "3,4-dimethylbenzene-1-amine"
+    ],
+    "IsomericSMILES": "CC1=C(C=C(C=C1)N)C",
+    "INCHI": "InChI=1S/C8H11N/c1-6-3-4-8(9)5-7(6)2/h3-5H,9H2,1-2H3",
+    "INCHIKEY": "DOLQYFPDPKPQSS-UHFFFAOYSA-N",
+    "Formula": "C8H11N",
+    "MolecularWeight": {
+        "$numberDouble": "121.18"
+    },
+    "Description": "3,4-dimethylaniline is a primary arylamine that is aniline in which the hydrogens at the 3- and 4-positions are replaced by methyl groups. A low-melting, crystalline solid, it is used in the production of vitamin B2, dyes, pesticides and other chemicals. It is a dimethylaniline and a primary arylamine.",
+    "XlogP": {
+        "$numberDouble": "2.5"
+    },
+    "Complexity": {
+        "$numberInt": "90"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Biodegradation and Bioaccumulation Data of Existing Chemicals Based on the CSCL Japan. Japan Chemical Industry Ecology-Toxicology and Information Center. ISBN #4-89074-101-1 (1992) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "BCF values of 1.9-3.3 and <10 were measured in carp for 3,4-xylidine at 1 and 0.1 mg/l, respectively, using a flow through system(1). According to a classification scheme(3), these BCF values suggest that bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Biodegradation and Bioaccumulation Data of Existing Chemicals Based on the CSCL Japan. Japan Chemical Industry Ecology-Toxicology and Information Center. ISBN #4-89074-101-1 (1992) (2) Kitano M; Biodegradation and Bioaccumulation Test on Chemical Substances. OECD Tokyo Meeting. Reference Book Tsu-No. 3 (1978) (3) Pitter P; Water Res 10: 231-5 (1976) (4) Lammerding AM et al; J Agric Food Chem 30: 644-47 (1982)",
+            "Value": "3,4-Xylidine, present at 30 mg/l, reached 7.1% of the theoretical BOD in 4 weeks using an activated sludge inoculum(1). In the Japanese MITI test, 3,4-xylidine (present at 100 mg/l) was classified as slow to biodegrade indicating that only 0-29% of the theoretical BOD was reached in 2 weeks using an activated sludge inoculum(2). 3,4-Xylidine, present initially at 252 mg/L, was removed at a biodegradation rate of 30 mg COD/g-hr by an activated sludge inoculum(3). E.coli converted 3,4-xylidine to the corresponding (phenylazo)naphthol in the presence of nitrate with this reaction proceeding within 24 hours(4)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Jayasinghe DS et al; Environ Sci Technol 26: 2275-81 (1992)",
+            "Value": "log Kow= 1.84"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Jayasinghe DS et al; Environ Sci Technol 26: 2275-81 (1992) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 23 (1983) (4) Bollag JM et al; J Agric Food Chem. 26: 1302-1306 (1978) (5) Adrian P et al; Toxicol Environ Chem. 20-21: 109-120 (1989)",
+            "Value": "The Koc of 3,4-xylidine is estimated as approximately 240(SRC), using a measured log Kow of 1.84(1) and a regression-derived equation(2,SRC). According to a recommended classification scheme(3), this estimated Koc value suggests that 3,4-xylidine has moderate mobility in soil(SRC). However, anilines are expected to bind stongly to humus or soil organic matter in soils due to the high reactivity of the aromatic amino group(4,5). Low adsorption is observed at a neutral pH with pure clay minerals or soils for substituted anilines(5)."
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "_id": {
+        "$oid": "6682e815c4e5dba5ffba23d2"
+    },
+    "CID": {
+        "$numberInt": "4781"
+    },
+    "Name": "Phenylbutazone",
+    "IUPACName": "4-butyl-1,2-diphenylpyrazolidine-3,5-dione",
+    "CanonicalSMILES": "CCCCC1C(=O)N(N(C1=O)C2=CC=CC=C2)C3=CC=CC=C3",
+    "Synonyms": [
+        "phenylbutazone",
+        "50-33-9",
+        "4-Butyl-1,2-diphenylpyrazolidine-3,5-dione",
+        "Butapirazol",
+        "Butazolidin",
+        "Butadion",
+        "Diphenylbutazone",
+        "Butazolidine",
+        "Fenibutazona",
+        "Fenilbutazona",
+        "Fenylbutazon",
+        "Intrabutazone",
+        "Artrizin",
+        "Butacote",
+        "Butadiona"
+    ],
+    "IsomericSMILES": "CCCCC1C(=O)N(N(C1=O)C2=CC=CC=C2)C3=CC=CC=C3",
+    "INCHI": "InChI=1S/C19H20N2O2/c1-2-3-14-17-18(22)20(15-10-6-4-7-11-15)21(19(17)23)16-12-8-5-9-13-16/h4-13,17H,2-3,14H2,1H3",
+    "INCHIKEY": "VYMDGNCVAMGZFE-UHFFFAOYSA-N",
+    "Formula": "C19H20N2O2",
+    "MolecularWeight": {
+        "$numberDouble": "308.4"
+    },
+    "Description": "Phenylbutazone is a member of the class of pyrazolidines that is 1,2-diphenylpyrazolidine-3,5-dione carrying a butyl group at the 4-position. It has a role as a non-narcotic analgesic, a non-steroidal anti-inflammatory drug, an antirheumatic drug, a peripheral nervous system drug, a metabolite and an EC 1.1.1.184 [carbonyl reductase (NADPH)] inhibitor.",
+    "XlogP": {
+        "$numberDouble": "3.2"
+    },
+    "Complexity": {
+        "$numberInt": "389"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Sangster J; LOGKOW Database. A databank of evaluated octanol-water partition coefficients (Log P). Available from, as of May 5, 2010: https://logkow.cisti.nrc.ca/logkow/search.html",
+            "Value": "log Kow = 3.16"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "McEvoy, G.K. (ed.). American Hospital Formulary Service -  Drug Information 1999. Bethesda, MD: American Society of  Health-System Pharmacists, Inc. 1999 (Plus Supplements)., p. 1759",
+            "Value": "The drug exhibits anti-inflammatory, analgesic, antipyretic, and mild uricosuric activity. The exact mechanisms have not been clearly established, but many of the actions appear to be associated principally with the inhibition of prostaglandin synthesis. Many nonsteriodal anti- inflammatory agents inhibit the synthesis of prostaglandins in body tissues by inhibiting cyclooxygenase, an enzyme that catalyzes the formation of prostaglandin precursors (endoperoxides) from arachidonic acid."
+        },
+        {
+            "References": "Ellenhorn, M.J. and D.G. Barceloux. Medical Toxicology - Diagnosis and Treatment of Human Poisoning. New York, NY: Elsevier Science Publishing Co., Inc. 1988., p. 493",
+            "Value": "Nonsteroidal anti-inflammatory drugs probably act by inhibiting prostaglandin synthesis. Prostaglandins prostaglandins are believed to cause vasodilaton, increased vascular permeability, and increased sensitivity of nerve endings to other inflammatory mediators. By reversibly inhibiting the enzyme cyclooxygenase, nonsteroidal anti-inflammatory drugs block the conversion of the arachidonic acid found in cell membrane phospholipids into varius prostaglandins (E2,F2,D2, thromboxane A2). Since prostaglandins appear to maintain the gastric mucosal barrier nonsteroidal anti-inflammatory drugs inhibition of prostaglandins synthesis may be the cause of the gastritis, peptic ulcerations, and gastrointestinal bleeding observed with nonsteroidal anti-inflammatory drugs. Nonsteroidal anti-inflammatory drugs cause sodium retention, especially in patients with underlying sodium-retaining states such as congestive heart failure. Although the mechanism is not entirely clear, the inhibition of prostaglandins synthesis plays a leading role. These compounds redistribute renal blood flow away from the superficial cortical glomeruli to the juxtamedullary glomeruli, which have a greater capacity to absorb sodium. Stress intensifies the effect of prostaglandins. /Nonsteroidal anti-inflammatory drugs/"
+        },
+        {
+            "References": "DHHS/NTP; Toxicology and Carcinogenesis Studies of Phenylbutazone in F344/N Rats and B6C3F1 Mice (Gavage Studies) p.13 (1990) Technical Rpt Series No. 367 NIH Pub No. 90-2822",
+            "Value": "Phenylbutazone exists in solution in three forms--a diketo, an enol, and a mesomeric anion form. In solution, it exists primarily in the diketo form, and conversion between the forms is slow. These transformations probably contribute to its chemical instability and the ability of the cyclooxygenase system to generate the 4-hydroxphenylbutazone metabolite by a peroxide-dependent cooxygenation reaction. This reaction has been shown to produce reactive intermediates capable of inactivating prostacyclin synthase and prostaglandin H synthase, which may account for phenylbutazone's anti-inflammatory activity."
+        },
+        {
+            "References": "Goodman, L.S., and A. Gilman. (eds.) The Pharmacological Basis of Therapeutics. 5th ed. New York: Macmillan Publishing Co., Inc., 1975., p. 339",
+            "Value": "Mechanism of anti-inflammatory effects of phenylbutazone is not known. ... Inhibits biosynthesis of prostaglandins, uncouples oxidative phosphorylation, and inhibits ATP-dependent biosynthesis of mucopolysaccharide sulfates in cartilage."
+        }
+    ]
+}

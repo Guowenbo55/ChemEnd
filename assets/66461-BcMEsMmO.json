@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "66927112303528b49832d7cc"
+    },
+    "CID": {
+        "$numberInt": "66461"
+    },
+    "Name": "Hexaconazole",
+    "IUPACName": "2-(2,4-dichlorophenyl)-1-(1,2,4-triazol-1-yl)hexan-2-ol",
+    "CanonicalSMILES": "CCCCC(CN1C=NC=N1)(C2=C(C=C(C=C2)Cl)Cl)O",
+    "Synonyms": [
+        "Hexaconazole",
+        "79983-71-4",
+        "Anvil L",
+        "Anvil",
+        "2-(2,4-dichlorophenyl)-1-(1H-1,2,4-triazol-1-yl)hexan-2-ol",
+        "PP 523",
+        "(-)-Hexaconazol",
+        "SX9R3X1FQV",
+        "Contaf 5EC",
+        "DTXSID4034653",
+        "2-(2,4-dichlorophenyl)-1-(1,2,4-triazol-1-yl)hexan-2-ol",
+        "CHEBI:83711",
+        "Contaf",
+        "Sitara",
+        "(RS)-2-(2,4-Dichlorophenyl)-1-(1H-1,2,4-triazol-1-yl)hexan-2-ol"
+    ],
+    "IsomericSMILES": "CCCCC(CN1C=NC=N1)(C2=C(C=C(C=C2)Cl)Cl)O",
+    "INCHI": "InChI=1S/C14H17Cl2N3O/c1-2-3-6-14(20,8-19-10-17-9-18-19)12-5-4-11(15)7-13(12)16/h4-5,7,9-10,20H,2-3,6,8H2,1H3",
+    "INCHIKEY": "STMIIPIFODONDC-UHFFFAOYSA-N",
+    "Formula": "C14H17Cl2N3O",
+    "MolecularWeight": {
+        "$numberDouble": "314.2"
+    },
+    "Description": "2-(2,4-dichlorophenyl)-1-(1H-1,2,4-triazol-1-yl)hexan-2-ol is a member of the class of triazoles that is 1-hexyl-1H-1,2,4-triazole in which the hydrogens at position 2 of the hexyl chain are replaced by hydroxy and 2,4-dichlorophenyl groups. It has a role as a chelator. It is a tertiary alcohol, a member of triazoles and a dichlorobenzene.",
+    "XlogP": {
+        "$numberDouble": "3.7"
+    },
+    "Complexity": {
+        "$numberInt": "308"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The study investigates the absorption and transmission behaviors of five fungicides (tricyclazole, thifluzamide, hexaconazole, epoxiconazole, azoxystrobin) in rice seedlings to improve pesticide utilization. Foliage spray, the most common method, has drawbacks such as evaporation and drift. By studying pesticide absorption and conductivity and selecting suitable pesticides for root application, the adverse effects of environmental factors on pesticide ingredients can be reduced. The results suggest that tricyclazole is best suited for root application, showing superior upward transmission in rice seedlings compared to the other fungicides. This research provides guidance for pesticide selection for root application and contributes to the scientific use of pesticides.",
+            "reference": "Shuojia, Z. H. A. N. G., Chaojie, W. A. N. G., Bo, X. U., Gangchao, R. A. N., Lidong, C. A. O., Chong, C. A. O., ... & Pengyue, Z. H. A. O. (2022). Study on uptake and translocation of five fungicides in rice. Chinese Journal of Pesticide Science, 24(4), 752-761.",
+            "method": {
+                "Test Plant": "Rice seedlings (variety M163)",
+                "Apply Location": "Root application (both hydroponic and soil-grown conditions)",
+                "Plant Grown Condition": "Rice seeds were germinated, and seedlings were transplanted into either hydroponic nutrient solution or soil-based growth medium. Treatments were applied when seedlings reached the three-leaf one-heart stage.",
+                "Chemical Preparation": "96% tricyclazole, 96% thifluzamide, 96% hexaconazole, 95% epoxiconazole, and 98% azoxystrobin technical grade compounds were used to prepare suspensions. Various adjuvants like dispersants, emulsifiers, thickeners, defoamers, and preservatives were also used in formulation development.",
+                "Pesticide Application Details for the Plant": "Fungicide suspension concentrations of 100 mg/kg tricyclazole, 30 mg/kg thifluzamide, 30 mg/kg epoxiconazole, 20 mg/kg hexaconazole, and 60 mg/kg azoxystrobin were used.",
+                "Other Information": "Rice samples were collected at 4 hours, and 1, 2, 3, 5, 7, 10, and 14 days after treatment."
+            },
+            "result": "[{\"Treatment\": \"Nutrient soil\", \"Days after application\": 0.16, \"Translocation Factors\": 0.07}, {\"Treatment\": \"Nutrient soil\", \"Days after application\": 1.0, \"Translocation Factors\": 0.16}, {\"Treatment\": \"Nutrient soil\", \"Days after application\": 2.0, \"Translocation Factors\": 0.17}, {\"Treatment\": \"Nutrient soil\", \"Days after application\": 3.0, \"Translocation Factors\": 0.25}, {\"Treatment\": \"Nutrient soil\", \"Days after application\": 5.0, \"Translocation Factors\": 0.39}, {\"Treatment\": \"Nutrient soil\", \"Days after application\": 7.0, \"Translocation Factors\": 0.5}, {\"Treatment\": \"Nutrient soil\", \"Days after application\": 10.0, \"Translocation Factors\": 0.54}, {\"Treatment\": \"Nutrient soil\", \"Days after application\": 14.0, \"Translocation Factors\": 1.01}, {\"Treatment\": \"Nutrient solution\", \"Days after application\": 0.16, \"Translocation Factors\": 0.1}, {\"Treatment\": \"Nutrient solution\", \"Days after application\": 1.0, \"Translocation Factors\": 0.14}, {\"Treatment\": \"Nutrient solution\", \"Days after application\": 2.0, \"Translocation Factors\": 0.19}, {\"Treatment\": \"Nutrient solution\", \"Days after application\": 3.0, \"Translocation Factors\": 0.24}, {\"Treatment\": \"Nutrient solution\", \"Days after application\": 5.0, \"Translocation Factors\": 0.51}, {\"Treatment\": \"Nutrient solution\", \"Days after application\": 7.0, \"Translocation Factors\": 0.5}, {\"Treatment\": \"Nutrient solution\", \"Days after application\": 10.0, \"Translocation Factors\": 0.72}, {\"Treatment\": \"Nutrient solution\", \"Days after application\": 14.0, \"Translocation Factors\": 1.0}]"
+        }
+    ]
+}

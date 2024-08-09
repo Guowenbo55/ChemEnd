@@ -1,0 +1,90 @@
+{
+    "_id": {
+        "$oid": "6682e7e2c4e5dba5ffba22d4"
+    },
+    "CID": {
+        "$numberInt": "1118"
+    },
+    "Name": "Sulfuric acid",
+    "IUPACName": "sulfuric acid",
+    "CanonicalSMILES": "OS(=O)(=O)O",
+    "Synonyms": [
+        "SULFURIC ACID",
+        "7664-93-9",
+        "Sulphuric acid",
+        "Dihydrogen sulfate",
+        "Mattling acid",
+        "Battery acid",
+        "Dipping acid",
+        "Acide sulfurique",
+        "Electrolyte acid",
+        "Acidum sulfuricum",
+        "Sulphuricum acidum",
+        "Schwefelsaeure",
+        "tetraoxosulfuric acid",
+        "Acido solforico",
+        "Acido sulfurico"
+    ],
+    "IsomericSMILES": "OS(=O)(=O)O",
+    "INCHI": "InChI=1S/H2O4S/c1-5(2,3)4/h(H2,1,2,3,4)",
+    "INCHIKEY": "QAOWNCQODCNURD-UHFFFAOYSA-N",
+    "Formula": "H2O4S",
+    "MolecularWeight": {
+        "$numberDouble": "98.08"
+    },
+    "Description": "Sulfuric acid is a sulfur oxoacid that consists of two oxo and two hydroxy groups joined covalently to a central sulfur atom. It has a role as a catalyst. It is a conjugate acid of a hydrogensulfate.",
+    "XlogP": {
+        "$numberDouble": "-1.4"
+    },
+    "Complexity": {
+        "$numberInt": "81"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Rodgman A, Perfetti TA; The Chemical Components of Tobacco and Tobacco Smoke, 2nd ed., Boca Raton, FL: CRC Press (Taylor & Francis Group), p. 1768 (2013)",
+            "Value": "Sulfuric acid has reportedly been detected in tobacco plants(1)."
+        },
+        {
+            "References": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Sulfuric Acid. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of July 25, 2016: https://phytochem.nal.usda.gov/phytochem/search",
+            "Value": "Sulfuric acid occurrence in plants(1).",
+            "Table": "[{'Genus species': 'Calea zacatechichi', 'Family': 'Asteraceae', 'Common name(s)': \"Bitter Grass, Mexican Calea, Dog's Grass\", 'Part': 'Plant'}, {'Genus species': 'Papaver somniferum', 'Family': 'Papaveraceae', 'Common name(s)': 'Poppyseed Poppy, Opium Poppy', 'Part': 'Latex Exudate'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) OECD; SIDS Initial Assessment Report for 11th SIAM (Jan 2001), Sulfuric Acid (CAS 7664-93-9). Available from, as of July 20, 2016: https://www.inchem.org/documents/sids/sids/7664939.pdf",
+            "Value": "The pKa of sulfuric acid is 1.92 at 25 \u00b0C(1), indicating that this compound will exist almost entirely in anion form in the environment. Sulfuric acid dissociates readily in water to form sulfate ions and hydrated protons; at pH 3.92 the dissociation is 99%(1). This ionization implies also that sulfuric acid, itself, will not accumulate in living tissues(1)."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "U.S. Dept Health & Human Services/Agency for Toxic Substances & Disease Registry; Toxicological Profile for Sulfur Trioxide and Sulfuric Acid pp. 83-4 (December 1998). Available from, as of June 17, 2016: https://www.atsdr.cdc.gov/toxprofiles/tp117.pdf",
+            "Value": "Sulfuric acid aerosol toxicity is dependent on the hydrogen ion content of the aerosol. One mechanism by which sulfuric acid may produce its toxicity is by changing extracellular and intracellular pH. There is evidence that pH plays a critical role in growth control and cell differentiation, and that disrupting the control of pH may lead to adverse effects ... A sufficiently low pH is genotoxic to some cell systems. Therefore, a significant change in pH produced by sulfuric acid exposure could potentially lead to cellular changes if hydrogen ions reached susceptible targets. A preliminary in vitro study that exposed a human tracheal epithelial cell line to sulfuric acid aerosols of 0.75, 1.4, or 3.28 um for 10 minutes revealed that intracellular pH decreased, and, that at equal mass concentrations, the change in pH was greater for the smaller particle sizes."
+        },
+        {
+            "References": "U.S. Dept Health & Human Services/Agency for Toxic Substances & Disease Registry; Toxicological Profile for Sulfur Trioxide and Sulfuric Acid p. 84 (December 1998). Available from, as of June 17, 2016: https://www.atsdr.cdc.gov/toxprofiles/tp117.pdf",
+            "Value": "Mechanisms of sulfuric acid-induced pulmonary injury have been studied. Atropine was administered to 12 guinea pigs in order to inhibit reflex-mediated bronchoconstriction and the animals were exposed to 32.6 mg/cu m sulfuric acid aerosol (MMAD /mass median aerodynamic diameter/ 1.0 um, relative humidity 70-90%) for 4 hr ... Unlike guinea pigs who were exposed to sulfuric acid without atropine pre-treatment, the atropine-treated animals had no signs of pulmonary injury, such as epithelial desquamation. It was concluded that pulmonary injury following sulfuric acid exposure may be due in part to mechanical forces generated during reflex-mediated bronchoconstriction."
+        },
+        {
+            "References": "U.S. Dept Health & Human Services/Agency for Toxic Substances & Disease Registry; Toxicological Profile for Sulfur Trioxide and Sulfuric Acid pp. 84-5 (December 1998). Available from, as of June 17, 2016: https://www.atsdr.cdc.gov/toxprofiles/tp117.pdf",
+            "Value": "The genotoxic effects of significantly lowered pH may contribute to the ability of sulfuric acid to produce respiratory tract tumors. It has also been postulated that sulfuric acid may promote carcinogenesis by inducing chronic tissue irritation ... Chronic inflammation results in the release of free radicals which have a genotoxic action. In addition, chronic inflammation may increase susceptibility to infection which may contribute to a carcinogenic response. However, the mechanism of carcinogenesis remains to be proven."
+        },
+        {
+            "References": "OECD; SIDS Initial Assessment Reports for Sulfuric Acid (CAS No: 7664-93-9) for 11th SIAM (January 2001). Available from, as of July 29, 2016: https://www.inchem.org/documents/sids/sids/7664939.pdf",
+            "Value": "The effects of sulfuric acid are the result of the H+ ion (local deposition of H+, pH change) rather than an effect of the sulfate ion. Sulfuric acid per se is not expected to be absorbed or distributed throughout the body. The acid will rapidly dissociate and the anion will enter the body electrolyte pool, and will not play a specific toxicological role."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) OECD; SIDS Initial Assessment Report for 11th SIAM (Jan 2001), Sulfuric Acid (CAS 7664-93-9). Available from, as of July 20, 2016: https://www.inchem.org/documents/sids/sids/7664939.pdf (2) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The pKa of sulfuric acid is 1.92 at 25 \u00b0C(1), indicating that this compound will exist almost entirely in anion form in the environment (as the sulfate ion). Sulfuric acid dissociates readily in water to form sulfate ions and hydrated protons; at pH 3.92 the dissociation is 99%(1). Sulfuric acid is totally miscible in water(1) suggesting a low Koc value(2) and high mobility in soil(3). The ionization of sulfuric acid also implies that sulfuric acid, itself, will not adsorb on particulate material or soil surfaces(1)."
+        },
+        {
+            "References": "Environment Canada; Tech Info for Problem Spills: Sulphuric acid & Oleum (Draft) p.71 (1984)",
+            "Value": "During transport through the soil, sulfuric acid can dissolve some of the soil material, in particular carbonate-based materials."
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "_id": {
+        "$oid": "6682e83ec4e5dba5ffba24a0"
+    },
+    "CID": {
+        "$numberInt": "6324"
+    },
+    "Name": "ETHANE",
+    "IUPACName": "ethane",
+    "CanonicalSMILES": "CC",
+    "Synonyms": [
+        "ETHANE",
+        "74-84-0",
+        "Bimethyl",
+        "Dimethyl",
+        "Methylmethane",
+        "Ethyl hydride",
+        "CHEBI:42266",
+        "L99N5N533T",
+        "68475-58-1",
+        "HSDB 941",
+        "EINECS 200-814-8",
+        "UN1035",
+        "UN1961",
+        "humulene oxide",
+        "UNII-L99N5N533T"
+    ],
+    "IsomericSMILES": "CC",
+    "INCHI": "InChI=1S/C2H6/c1-2/h1-2H3",
+    "INCHIKEY": "OTMSDBZUPAUEDD-UHFFFAOYSA-N",
+    "Formula": "C2H6",
+    "MolecularWeight": {
+        "$numberDouble": "30.07"
+    },
+    "Description": "Ethane is an alkane comprising of two carbon atoms. It has a role as a refrigerant and a plant metabolite. It is a gas molecular entity and an alkane.",
+    "XlogP": {
+        "$numberDouble": "1.3"
+    },
+    "Complexity": {
+        "$numberInt": "0"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 4 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of November 18, 2013: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm/ (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 7.3 was calculated in fish for ethane(SRC), using a log Kow of 1.81(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Patel RN et al; J Bacteriology 139: 675-9 (1979) (2) Hou CT et al; Appl Environ Microbiol 46: 178-84 (1983) (3) Bopp RF et al; Org Geochem 3: 9-14 (1981)",
+            "Value": "AEROBIC: Within 24 hr, ethane was oxidized to its corresponding alcohol, ethanol, by cell suspensions of over 20 methyltrophic organisms isolated from lake water and soil samples(1,2). The respective gas exchange and degradation rate constants were 0.83X10-5 sq cm sec-1 and 0.027 day-1 for ethane contained in a model estuarine ecosystem at 10 \u00b0C and a salinity of 30 parts per thousand; the corresponding biodegradation half-life was greater than 87 days(3). At 20 \u00b0C and a salinity of 30, the respective gas exchange and degradation rate constants were 1.132X10-5 sq cm sec-1 and 0.062 day-1; the corresponding biodegradation half life for n-ethane ranged from 21 to 33 days(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 4",
+            "Value": "log Kow = 1.81"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 4:8",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Guinea pigs exposed to 2.2 to 5.5% for 2 hr show slight signs of irregular respiration, which is readily reversible on cessation of the exposure."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-1634 2005., p. 4",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Cardiac arrhythmia was studied in dogs following inhalation of ethane ... at high concentrations. Although the criteria used for cardiac arrhythmia may have differed between studies, all exposures resulted in responses indicative of cardiac arrhythmia. In one study, cardiac arrhythmia, observed as multifocal ventricular tachycardia, occurred in dogs exposed to ethane (2 of 4 dogs) ... The specific exposure was not defined for the hydrocarbon gases studied; however, a range of 150,000 to 900,000 ppm for gaseous compounds was cited."
+        },
+        {
+            "References": "PMID:6299533",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Methods were developed for exposing Syrian hamster embryo cells in vitro to ethane gas. After exposure, the cells were removed and assayed for viability and increased sensitivity to viral transformation. Ethane was determined to be inactive."
+        },
+        {
+            "References": "PMID:20944432",
+            "Value": "/OTHER TOXICITY INFORMATION/ The inhibitory action of compressed hydrocarbon gases on the growth of the yeast Saccharomyces cerevisiae was investigated quantitatively by microcalorimetry.  Both the 50% inhibitory pressure (IP(50)) and the minimum inhibitory pressure (MIP), which are regarded as indices of the toxicity of hydrocarbon gases, were determined from growth thermograms.  Based on these values, the inhibitory potency of the hydrocarbon gases increased in the order methane << ethane < propane < i-butane < n-butane. The toxicity of these hydrocarbon gases correlated to their hydrophobicity, suggesting that hydrocarbon gases interact with some hydrophobic regions of the cell membrane. In support of this, /the authors/ found that UV absorbing materials at 260 nm were released from yeast cells exposed to compressed hydrocarbon gases.  Additionally, scanning electron microscopy indicated that morphological changes occurred in these cells."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 4:8",
+            "Value": "/OTHER TOXICITY INFORMATION/ Ethane does not have anesthetic properties. At concentrations of 15 to 90%, ethane is able to sensitize the canine myocardium to cardiac arrhythmias induced by epinephrine."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Whelan JK et al; Geochim Cosmochim Acta 44: 1767-85 (1980) (2) Kvenvolden KA, Redden GD; Geochimica et Cosmochimica Acta 44: 1145-50 (1980)",
+            "Value": "SEDIMENT: Ethane was detected in 10 of 10 sediment samples from Walvis Bay of the Namibian shelf of SW Africa at concentrations of 4.4, 4.1, 3.6, 2.8, 2.5, 5.0, 1.9, 2.0, 2.5, and 2.3 ng/g(1). Sediments from the Bering Sea contained ethane gas at concentrations ranging from 7 to 510 nL/L(2)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 4 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of November 18, 2013: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of ethane is estimated as 37(SRC), using a log Kow of 1.81(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that ethane is expected to have very high mobility in soil."
+        }
+    ]
+}

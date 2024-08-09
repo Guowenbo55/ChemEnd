@@ -1,0 +1,88 @@
+{
+    "_id": {
+        "$oid": "6682e88dc4e5dba5ffba2629"
+    },
+    "CID": {
+        "$numberInt": "7766"
+    },
+    "Name": "DIETHYL CARBONATE",
+    "IUPACName": "diethyl carbonate",
+    "CanonicalSMILES": "CCOC(=O)OCC",
+    "Synonyms": [
+        "DIETHYL CARBONATE",
+        "105-58-8",
+        "Ethyl carbonate",
+        "Carbonic acid diethyl ester",
+        "Carbonic acid",
+        "diethyl ester",
+        "Eufin",
+        "Diatol",
+        "Diaethylcarbonat",
+        "Ethoxyformic anhydride",
+        "Diethylkarbonat",
+        "diethylcarbonate",
+        "Ethyl carbonate ((EtO)2CO)",
+        "NCI-C60899",
+        "NSC 8849",
+        "Diethylester kyseliny uhlicite"
+    ],
+    "IsomericSMILES": "CCOC(=O)OCC",
+    "INCHI": "InChI=1S/C5H10O3/c1-3-7-5(6)8-4-2/h3-4H2,1-2H3",
+    "INCHIKEY": "OIFBSDVPJOWBCH-UHFFFAOYSA-N",
+    "Formula": "C5H10O3",
+    "MolecularWeight": {
+        "$numberDouble": "118.13"
+    },
+    "Description": "Diethyl carbonate is a carbonate ester.",
+    "XlogP": {
+        "$numberDouble": "1.2"
+    },
+    "Complexity": {
+        "$numberInt": "62"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 76 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 2 was calculated for diethyl carbonate(SRC), using a log Kow of 1.21(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Osmon JL et al; pp. 66-75 in Proc Int Biodeterior Symp, 2nd (1972)",
+            "Value": "Although no biodegradation data for diethyl carbonate were located, chemically similar short alkyl chain esters have been shown to biodegrade(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 14",
+            "Value": "log Kow= 1.21"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Searle, C. E. (ed.). Chemical Carcinogens. ACS Monograph 173. Washington, DC: American Chemical Society, 1976., p. 172",
+            "Value": "\"S\" STRAIN ALBINO MICE RECEIVED 10X290 MG ON SKIN (GENERALLY TWICE WEEKLY) FOR 210 DAYS DEVELOPED 2/25 PAPILLOMAS, THE CONTROLS DEVELOPED 4/20 PAPILLOMAS. /FROM TABLE/"
+        },
+        {
+            "References": "BROWN D ET AL; TOXICOLOGY 10(3) 291 (1978)",
+            "Value": "MICE WERE GIVEN DRINKING WATER CONTAINING 0, 50, 250 OR 1000 PPM FOR 38 WK. THERE WAS NO EFFECT ON MORTALITY, RATE OF BODY-WT GAIN OR INCIDENCE OF HISTOPATHOLOGICAL FINDINGS, INCLUDING TUMORS. NO-UNTOWARD-EFFECT LEVEL IS 1000 PPM (APPROX 140 MG/KG/DAY)."
+        },
+        {
+            "References": "BORNMANN G, LOESER A; ARCH TOXICOL 22: 98 (1966)",
+            "Value": "GIVEN TO RATS IN DRINKING WATER ... UP TO 100 WK, PRODUCED NO CHANGES IN WT GAIN, SUSCEPTIBILITY TO DISEASE, BLOOD COMPOSITION, FERTILITY, FETAL DEVELOPMENT, OR FETAL SURVIVAL. TO DOGS ORALLY FOR 6 WK DID NOT AFFECT GROWTH OR BLOOD OR URINE COMPOSITION."
+        },
+        {
+            "References": "Mortelmans K et al; Environ Mutagen 8:1-119 (1986)",
+            "Value": "Diethyl carbonate was tested for mutagenicity in the Salmonella/microsome preincubation assay using the standard protocol approved by the National Toxicology Program. Diethyl carbonate was tested at doses of 0.1, 0.33, 1.0, 3.3, and 6.6 mg/plate in as many as 5 Salmonella typhimurium strains (TA1535, TA1537, TA97, TA98, and TA100) in the presence and absence of rat or hamster liver S-9. Diethyl carbonate was negative in these tests and the highest ineffective dose tested in any S. typhimurium strain was 6.6 mg/plate."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 14 (1995)(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of diethyl carbonate is estimated as 100(SRC), using a log Kow of 1.21(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that diethyl carbonate is expected to have high mobility in soil(SRC)."
+        }
+    ]
+}

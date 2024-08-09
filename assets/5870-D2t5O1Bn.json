@@ -1,0 +1,94 @@
+{
+    "_id": {
+        "$oid": "6682e82ac4e5dba5ffba2439"
+    },
+    "CID": {
+        "$numberInt": "5870"
+    },
+    "Name": "ESTRONE",
+    "IUPACName": "(8R,9S,13S,14S)-3-hydroxy-13-methyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-17-one",
+    "CanonicalSMILES": "CC12CCC3C(C1CCC2=O)CCC4=C3C=CC(=C4)O",
+    "Synonyms": [
+        "estrone",
+        "53-16-7",
+        "folliculin",
+        "OESTRONE",
+        "Theelin",
+        "Thelykinin",
+        "Ketohydroxyestrin",
+        "Estrugenone",
+        "Estron",
+        "Tokokin",
+        "estrovarin",
+        "Disynformon",
+        "Folliculine",
+        "Follicunodis",
+        "Glandubolin"
+    ],
+    "IsomericSMILES": "C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CCC4=C3C=CC(=C4)O",
+    "INCHI": "InChI=1S/C18H22O2/c1-18-9-8-14-13-5-3-12(19)10-11(13)2-4-15(14)16(18)6-7-17(18)20/h3,5,10,14-16,19H,2,4,6-9H2,1H3/t14-,15-,16+,18+/m1/s1",
+    "INCHIKEY": "DNXHEGUUPJUMQT-CBZIJGRNSA-N",
+    "Formula": "C18H22O2",
+    "MolecularWeight": {
+        "$numberDouble": "270.4"
+    },
+    "Description": "Estrone is a 17-oxo steroid that is estra-1,3,5(10)-triene substituted by an hydroxy group at position 3 and an oxo group at position 17. It has a role as an estrogen, a bone density conservation agent, an antineoplastic agent, a human metabolite and a mouse metabolite. It is a 3-hydroxy steroid, a phenolic steroid, a member of phenols and a 17-oxo steroid. It derives from a hydride of an estrane.",
+    "XlogP": {
+        "$numberDouble": "3.1"
+    },
+    "Complexity": {
+        "$numberInt": "418"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Estrone. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Jan 14, 2011: https://www.ars-grin.gov/duke/",
+            "Value": "Plants which contain estrone(1). ",
+            "Table": "[{'Genus species': 'Punica granatum L.', 'Common name': 'Pomegranate', 'Concentration': '17 ppm', 'Plant part': 'Seed'}, {'Genus species': 'Malus domestica BORKH.', 'Common name': 'Apple', 'Concentration': nan, 'Plant part': 'Seed'}, {'Genus species': 'Zea mays L.', 'Common name': 'Corn', 'Concentration': nan, 'Plant part': 'Seed Oil'}]"
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 157",
+            "Value": "log Kow = 3.13"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "US Natl Inst Health; DailyMed. Current Medication Information EEMT H.S. (estrone sodium sulfate and methyltestosterone) tablet, coated (May 2010). Available from, as of February 28, 2011: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=23251",
+            "Value": "Endogenous estrogens are largely responsible for the development and maintenance of the female reproductive system and secondary sexual characteristics. Although circulating estrogens exist in a dynamic equilibrium of metabolic interconversions, estradiol is the principal intracellular human estrogen and is substantially more potent than its metabolites, estrone and estriol at the receptor level. ... Estrogens act through binding to nuclear receptors in estrogen-responsive tissues. To date, two estrogen receptors have been identified. These vary in proportion from tissue to tissue. Circulating estrogens modulate the pituitary secretion of the gonadotropins, luteinizing hormone (LH) and follicle stimulating hormone (FSH), through a negative feedback mechanism. Estrogens act to reduce the elevated levels of these hormones seen in postmenopausal women."
+        },
+        {
+            "References": "American Society of Health System Pharmacists; AHFS Drug   Information 2010. Bethesda, MD. (2010), p. 3130",
+            "Value": "Estrogens have an important role in the reproductive, skeletal, cardiovascular, and central nervous systems in women, and act principally by regulating gene expression. Biologic response is initiated when estrogen binds to a ligand-binding domain of the estrogen receptor resulting in a conformational change that leads to gene transcription through specific estrogen response elements (ERE) of target gene promoters; subsequent activation or repression of the target gene is mediated through 2 distinct transactivation domains (ie, AF-1 and AF-2) of the receptor. The estrogen receptor also mediates gene transcription using different response elements (ie, AP-1) and other signal pathways. Recent advances in the molecular pharmacology of estrogen and estrogen receptors have resulted in the development of selective estrogen receptor modulators (eg, clomiphene, raloxifene, tamoxifen, toremifene), agents that bind and activate the estrogen receptor but that exhibit tissue-specific effects distinct from estrogen. Tissue-specific estrogen-agonist or -antagonist activity of these drugs appears to be related to structural differences in their estrogen receptor complex (eg, specifically the surface topography of AF-2 for raloxifene) compared with the estrogen (estradiol)-estrogen receptor complex. A second estrogen receptor also has been identified, and existence of at least 2 estrogen receptors (ER-alpha, ER-beta) may contribute to the tissue-specific activity of selective modulators. While the role of the estrogen receptor in bone, cardiovascular tissue, and the CNS continues to be studied, emerging evidence indicates that the mechanism of action of estrogen receptors in these tissues differs from the manner in which estrogen receptors function in reproductive tissue. /Estrogen General Statement/"
+        },
+        {
+            "References": "American Society of Health System Pharmacists; AHFS Drug   Information 2010. Bethesda, MD. (2010), p. 3130",
+            "Value": "Intracellular cytosol-binding proteins for estrogens have been identified in estrogen-responsive tissues including the female genital organs, breasts, pituitary, and hypothalamus. The estrogen-binding protein complex (ie, cytosol-binding protein and estrogen) distributes into the cell nucleus where it stimulates DNA, RNA, and protein synthesis. The presence of these receptor proteins is responsible for the palliative response to estrogen therapy in women with metastatic carcinoma of the breast. /Estrogen General Statement/"
+        },
+        {
+            "References": "American Society of Health System Pharmacists; AHFS Drug   Information 2010. Bethesda, MD. (2010), p. 3130",
+            "Value": "Estrogens have generally favorable effects on blood cholesterol and phospholipid concentrations. Estrogens reduce LDL-cholesterol and increase HDL-cholesterol concentrations in a dose-related manner. The decrease in LDL-cholesterol concentrations associated with estrogen therapy appears to result from increased LDL catabolism, while the increase in triglyceride concentrations is caused by increased production of large, triglyceride-rich, very-low-density lipoproteins (VLDLs); changes in serum HDL-cholesterol concentrations appear to result principally from an increase in the cholesterol and apolipoprotein A-1 content of HDL2- and a slight increase in HDL3-cholesterol. /Estrogen General Statement/"
+        },
+        {
+            "References": "American Society of Health System Pharmacists; AHFS Drug   Information 2010. Bethesda, MD. (2010), p. 3130",
+            "Value": "Estrogens have a weak anabolic effect and may cause sodium retention with associated fluid retention and edema. Estrogens also affect bone by increasing calcium deposition and accelerating epiphyseal closure, following initial growth stimulation. /Estrogen General Statement/"
+        },
+        {
+            "References": "American Society of Health System Pharmacists; AHFS Drug   Information 2010. Bethesda, MD. (2010), p. 3130",
+            "Value": "Other effects of estrogens that may contribute to effects on cardiovascular risk indicators include reduction of insulin and blood glucose concentrations and direct effects on blood vessels. Estrogen receptors have been identified in the heart and coronary arteries, suggesting that estrogens may have specific effects on these tissues. /Estrogen General Statement/"
+        },
+        {
+            "References": "USP. Convention. USPDI - Drug Information for the Health  Care Professional. 19th ed. Volume I.Micromedex, Inc.  Englewood, CO., 1999. Content Prepared by the U.S.  Pharmacopieal Convention, Inc., p. 1384",
+            "Value": "At the cellular level, estrogens increase the cellular synthesis of DNA, RNA, and various proteins in responsive tissues. Estrogens reduce the release of gonadotropin-releasing hormone from the hypothalamus, leading to a reduction in release of follicle-stimulating hormone and luteinizing hormone from the pituitary. /Estrogens/"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Braga O et al; Chemosphere 61: 827-833 (2005) (2) Lei B et al; Chemosphere 76: 36-42 (2009)",
+            "Value": "SEDIMENT: Estrone was detected in ocean surficial sediment samples at a range of 0.16 to 1.17 ng/g; samples were collected near a discharge point from a large coastal primary sewage treatment plant in Malabar, Sydney, Australia(1). Levels of estrone in sediment from the Beitang River, Dagu River, Yongding New River in the Tianjin area, northern China, sampled in June 2007 were 1.03-21.4, 2.15-21.6, and 0.98-8.13 ng/g dry weight, respectively, the mean concentrations were 9.89, 7.54, and 4.62 ng/g dry weight, respectively(2)."
+        }
+    ]
+}

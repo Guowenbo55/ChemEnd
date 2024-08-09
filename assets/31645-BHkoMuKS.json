@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "6692712d303528b49832d836"
+    },
+    "CID": {
+        "$numberInt": "31645"
+    },
+    "Name": "Pirimicarb",
+    "IUPACName": "[2-(dimethylamino)-5,6-dimethylpyrimidin-4-yl] N,N-dimethylcarbamate",
+    "CanonicalSMILES": "CC1=C(N=C(N=C1OC(=O)N(C)C)N(C)C)C",
+    "Synonyms": [
+        "PIRIMICARB",
+        "23103-98-2",
+        "Pirimor",
+        "Pyrimor",
+        "Primicarbe",
+        "Aficida",
+        "Fernos",
+        "Aphox",
+        "Rapid",
+        "Pirimor G",
+        "Pirimor granulate",
+        "Pirimicarbe",
+        "ABOL",
+        "2-(dimethylamino)-5,6-dimethylpyrimidin-4-yl dimethylcarbamate",
+        "ENT-27766"
+    ],
+    "IsomericSMILES": "CC1=C(N=C(N=C1OC(=O)N(C)C)N(C)C)C",
+    "INCHI": "InChI=1S/C11H18N4O2/c1-7-8(2)12-10(14(3)4)13-9(7)17-11(16)15(5)6/h1-6H3",
+    "INCHIKEY": "YFGYUFNIOHWBOB-UHFFFAOYSA-N",
+    "Formula": "C11H18N4O2",
+    "MolecularWeight": {
+        "$numberDouble": "238.29"
+    },
+    "Description": "Pirimicarb is an aminopyrimidine that is N,N,4,5-tetramethylpyrimidin-2-amine substituted by a (dimethylcarbamoyl)oxy group at position 4. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, a carbamate insecticide, an agrochemical, an environmental contaminant, a xenobiotic and an insecticide. It is a carbamate ester, an aminopyrimidine and a tertiary amino compound. It is functionally related to a dimethylcarbamic acid.",
+    "XlogP": {
+        "$numberDouble": "1.7"
+    },
+    "Complexity": {
+        "$numberInt": "270"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The present study aimed to investigate the distribution and migration of eleven systemic and non-systemic pesticides between the skin and pulp of apples. It also examined the behavior of these pesticides during thermal processes ranging from 40\u00b0C to 150\u00b0C in two apple varieties. Gas and liquid chromatography-tandem mass spectrometry were employed for analytical investigations. Variations in pesticide concentrations between the pulp and skin were observed depending on the apple variety. Pirimicarb showed the highest transfer to the pulp, while boscalid and deltamethrin remained predominantly on the skin. Surprisingly, boscalid was found to be more present in the apple skin than in the pulp. Drying and dry pasteurization processes were the most effective in reducing pesticide levels in apples with and without skin, respectively. Thermal processes resulted in processing factors ranging from 0.06 to 0.98 for ten pesticides, with acetamiprid being the only pesticide whose levels were not decreased. The study discussed the relationship between pesticide distribution, behavior, and physico-chemical properties, particularly water solubility. The findings contribute to a better understanding of pesticide efficacy and removal in apples.",
+            "reference": "Hrynko, I., Kaczy\u0144ski, P., Pietruszy\u0144ska, M., & \u0141ozowicka, B. (2023). The effect of food thermal processes on the residue concentration of systemic and non-systemic pesticides in apples. Food Control, 143, 109267.",
+            "method": {
+                "Test Plant": "Two apple varieties (not specified)",
+                "Apply Location": "Surface application (skin)",
+                "Plant Grown Condition": "-",
+                "Chemical Preparation": "Eleven systemic and non-systemic pesticides - pirimicarb, boscalid, deltamethrin, and 8 others (not specified)",
+                "Pesticide Application Details for the Plant": "Pesticides applied to apple skin surface.  Fruit prepared in such a manner was subjected to artificial inoculation through submersion for 8 h in a solution containing selected plant protection products.",
+                "Other information and Other Information": "Study investigated distribution of pesticides between skin and pulp using GC/LC-MS/MS analysis. Relates pesticide behavior to physico-chemical properties like water solubility"
+            },
+            "result": "[{\"Size\": \"Medium-size apple\", \"% in apple pulp\": 81.6, \"% in apple skin\": 28.4}, {\"Size\": \"Large-size apple\", \"% in apple pulp\": 83.1, \"% in apple skin\": 26.9}]"
+        }
+    ]
+}

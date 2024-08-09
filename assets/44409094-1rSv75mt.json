@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "66927109303528b49832d7aa"
+    },
+    "CID": {
+        "$numberInt": "44409094"
+    },
+    "Name": "Dufulin",
+    "IUPACName": "N-[diethoxyphosphoryl-(2-fluorophenyl)methyl]-4-methyl-1,3-benzothiazol-2-amine",
+    "CanonicalSMILES": "CCOP(=O)(C(C1=CC=CC=C1F)NC2=NC3=C(C=CC=C3S2)C)OCC",
+    "Synonyms": [
+        "Dufulin",
+        "882182-49-2",
+        "CHEMBL382402",
+        "SCHEMBL16549407",
+        "DTXSID201023916",
+        "NS00133818",
+        "[(2-fluoro-phenyl)-(4-methyl-benzothiazol-2-ylamino)-methyl]-phosphonic acid diethyl ester",
+        "N-[diethoxyphosphoryl-(2-fluorophenyl)methyl]-4-methyl-1,3-benzothiazol-2-amine",
+        "Phosphonic acid",
+        "[(2-fluorophenyl)[(4-methyl-2-benzothiazolyl)amino]methyl]-",
+        "diethyl ester (9CI); Bingduxing; Dufulin",
+        "Phosphonic acid",
+        "P-[(2-fluorophenyl)[(4-methyl-2-benzothiazolyl)amino]methyl]-",
+        "diethyl ester"
+    ],
+    "IsomericSMILES": "CCOP(=O)(C(C1=CC=CC=C1F)NC2=NC3=C(C=CC=C3S2)C)OCC",
+    "INCHI": "InChI=1S/C19H22FN2O3PS/c1-4-24-26(23,25-5-2)18(14-10-6-7-11-15(14)20)22-19-21-17-13(3)9-8-12-16(17)27-19/h6-12,18H,4-5H2,1-3H3,(H,21,22)",
+    "INCHIKEY": "CLASFMUIFVKHQI-UHFFFAOYSA-N",
+    "Formula": "C19H22FN2O3PS",
+    "MolecularWeight": {
+        "$numberDouble": "408.4"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "4.8"
+    },
+    "Complexity": {
+        "$numberInt": "519"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Dufulin, a biologically derived antiviral agent, has shown effectiveness against viral diseases in plants like tobacco, rice, cucumber, and tomato. However, its environmental behaviors and fate under different cultivation systems are not well understood. This study investigated the absorption, translocation, and accumulation of 14C-labeled Dufulin stereoisomers in cherry radish tissues. The experiments revealed that Dufulin was more readily absorbed through leaf daubing than through soil mixing, with over 93% of the pesticide remaining in the labeled leaves. Both enantiomers of Dufulin were taken up by radish roots and translocated to the upper part of the plant, but less than 0.2% of Dufulin was absorbed from the soil, suggesting easier entry through the leaf surface. Interestingly, the study found non-stereoselective absorption and translocation of Dufulin stereoisomers, indicating that rac-Dufulin and its metabolites should be a major focus for further research. These results contribute to a better understanding of Dufulin's environmental risk assessment, aiding in its responsible use to ensure eco-environmental safety and human health.",
+            "reference": "Zheng, R., Shao, S., Zhang, S., Yu, Z., Zhang, W., Wu, T., ... & Ye, Q. (2022). Nonstereoselective behavior of novel chiral organophosphorus pesticide Dufulin in cherry radish by different absorption methods. Environmental Pollution, 303, 119100.",
+            "method": {
+                "Test Plant": "Cherry radish (Raphanus sativus L. var. radculus pers, red pearl)",
+                "Apply Location": "Foliar application - Solution applied directly to the middle leaf",
+                "Plant Grown Condition": "Seeds germinated on wet paper towels at 25\u00b0C for 3 days, then sown ~1 cm under soil in plastic cups (9 cm top diameter, 5.1 cm bottom diameter, 10.6 cm height) with 200 g soil. Grown for 1 month at 20\u00b13\u00b0C, 12 h illumination time. Plants with 3-4 healthy leaves selected.",
+                "Chemical Preparation": "S-[thiazyl-2-14C]-Dufulin: 0.6 mg/mL solution with 0.0832 mg/mL radioactive compound, total radioactivity 14.762 \u03bcCi. R-[thiazyl-2-14C]-Dufulin: 0.6 mg/mL solution with 0.0853 mg/mL radioactive compound, total radioactivity 16.180 \u03bcCi",
+                "Pesticide Application Details for the Plant": "110 \u03bcL of respective S- or R-Dufulin solution applied to middle leaf section of each plant (0.39 \u03bcCi for S-, 0.43 \u03bcCi for R-isomer)",
+                "Other Information": "72 plants divided into 2 groups for S- and R-isomers. 6 plant samples collected at 0 (2 h), 3, 7, 14, 21, 28 days after application. Plants divided into labeled leaf, upper leaves, lower leaves, succulent roots, lateral roots for analysis."
+            },
+            "result": "[{\"Enantiomers\": \"S-Dufulin\", \"Days after application\": 3, \"Treated Leaf (mg/kg)\": 4.384, \"Leaves above treated leaf (mg/kg)\": 0.034, \"Leaves below treated leaf (mg/kg)\": 0.008, \"Succulent root (mg/kg)\": 0.006, \"Lateral root (mg/kg)\": 0.013}, {\"Enantiomers\": \"S-Dufulin\", \"Days after application\": 7, \"Treated Leaf (mg/kg)\": 4.202, \"Leaves above treated leaf (mg/kg)\": 0.024, \"Leaves below treated leaf (mg/kg)\": 0.007, \"Succulent root (mg/kg)\": 0.015, \"Lateral root (mg/kg)\": 0.013}, {\"Enantiomers\": \"S-Dufulin\", \"Days after application\": 14, \"Treated Leaf (mg/kg)\": 4.18, \"Leaves above treated leaf (mg/kg)\": 0.025, \"Leaves below treated leaf (mg/kg)\": 0.014, \"Succulent root (mg/kg)\": 0.009, \"Lateral root (mg/kg)\": 0.015}, {\"Enantiomers\": \"S-Dufulin\", \"Days after application\": 21, \"Treated Leaf (mg/kg)\": 3.919, \"Leaves above treated leaf (mg/kg)\": 0.025, \"Leaves below treated leaf (mg/kg)\": 0.016, \"Succulent root (mg/kg)\": 0.009, \"Lateral root (mg/kg)\": 0.022}, {\"Enantiomers\": \"S-Dufulin\", \"Days after application\": 28, \"Treated Leaf (mg/kg)\": 2.801, \"Leaves above treated leaf (mg/kg)\": 0.026, \"Leaves below treated leaf (mg/kg)\": 0.033, \"Succulent root (mg/kg)\": 0.007, \"Lateral root (mg/kg)\": 0.019}, {\"Enantiomers\": \"R-Dufulin\", \"Days after application\": 3, \"Treated Leaf (mg/kg)\": 4.681, \"Leaves above treated leaf (mg/kg)\": 0.039, \"Leaves below treated leaf (mg/kg)\": 0.006, \"Succulent root (mg/kg)\": 0.009, \"Lateral root (mg/kg)\": 0.013}, {\"Enantiomers\": \"R-Dufulin\", \"Days after application\": 7, \"Treated Leaf (mg/kg)\": 4.313, \"Leaves above treated leaf (mg/kg)\": 0.023, \"Leaves below treated leaf (mg/kg)\": 0.008, \"Succulent root (mg/kg)\": 0.013, \"Lateral root (mg/kg)\": 0.017}, {\"Enantiomers\": \"R-Dufulin\", \"Days after application\": 14, \"Treated Leaf (mg/kg)\": 3.394, \"Leaves above treated leaf (mg/kg)\": 0.025, \"Leaves below treated leaf (mg/kg)\": 0.011, \"Succulent root (mg/kg)\": 0.009, \"Lateral root (mg/kg)\": 0.018}, {\"Enantiomers\": \"R-Dufulin\", \"Days after application\": 21, \"Treated Leaf (mg/kg)\": 2.963, \"Leaves above treated leaf (mg/kg)\": 0.024, \"Leaves below treated leaf (mg/kg)\": 0.03, \"Succulent root (mg/kg)\": 0.012, \"Lateral root (mg/kg)\": 0.021}, {\"Enantiomers\": \"R-Dufulin\", \"Days after application\": 28, \"Treated Leaf (mg/kg)\": 2.887, \"Leaves above treated leaf (mg/kg)\": 0.025, \"Leaves below treated leaf (mg/kg)\": 0.038, \"Succulent root (mg/kg)\": 0.007, \"Lateral root (mg/kg)\": 0.016}]"
+        }
+    ]
+}

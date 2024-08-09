@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "66927109303528b49832d7a9"
+    },
+    "CID": {
+        "$numberInt": "61899"
+    },
+    "Name": "Dodemorph",
+    "IUPACName": "4-cyclododecyl-2,6-dimethylmorpholine",
+    "CanonicalSMILES": "CC1CN(CC(O1)C)C2CCCCCCCCCCC2",
+    "Synonyms": [
+        "Dodemorph",
+        "1593-77-7",
+        "4-Cyclododecyl-2,6-dimethylmorpholine",
+        "Doazine",
+        "Meltatox",
+        "Morpholine",
+        "4-cyclododecyl-2,6-dimethyl-",
+        "Dodemorphe",
+        "Doazine; Dodemorph; Meltatox",
+        "Dodemorph [BSI:ISO]",
+        "Dodemorphe [ISO-French]",
+        "Cyclododecane",
+        "morpholine deriv.",
+        "EINECS 216-474-9",
+        "UNII-22O8GR86F0",
+        "SCHEMBL29393",
+        "DTXSID5041019"
+    ],
+    "IsomericSMILES": "CC1CN(CC(O1)C)C2CCCCCCCCCCC2",
+    "INCHI": "InChI=1S/C18H35NO/c1-16-14-19(15-17(2)20-16)18-12-10-8-6-4-3-5-7-9-11-13-18/h16-18H,3-15H2,1-2H3",
+    "INCHIKEY": "JMXKCYUTURMERF-UHFFFAOYSA-N",
+    "Formula": "C18H35NO",
+    "MolecularWeight": {
+        "$numberDouble": "281.5"
+    },
+    "Description": "Dodemorph is a member of the class of morpholines that is 2,6-dimethylmorpholine in which the hydrogen attached to the nitrogen is replaced by a cyclododecyl group. It is a fungicide used for the control of powdery mildew, particularly in rose culture. It has a role as a sterol biosynthesis inhibitor and an antifungal agrochemical. It is a tertiary amino compound, a macrocycle and a morpholine fungicide.",
+    "XlogP": {
+        "$numberDouble": "5.8"
+    },
+    "Complexity": {
+        "$numberInt": "234"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Morpholine fungicides, despite being lipophilic, exhibit systemic properties in plants, likely due to their protonation at the pH of plant compartments, which yields a more polar cation form. This characteristic could be advantageous and may be applicable to other lipophilic pesticides. In a study with barley, uptake and transport of 14C-labelled dodemorph and tridemorph, two morpholine fungicides, were investigated using bathing solutions of varying pH. Uptake and transport were minimal at pH 5 but increased significantly at pH 8. Tridemorph, being more lipophilic, accumulated more in roots at pH 8 and was moderately translocated to shoots. Dodemorph, on the other hand, was highly efficient in translocating to shoots at pH 8, moving into the xylem across the endodermis at 23 times the efficiency of water, despite lower accumulation in roots compared to tridemorph. The study suggests that uptake and translocation of these fungicides are equilibrium processes maintained over time and can be explained by their partitioning and accumulation in acidic plant compartments through ion trapping as the protonated form, highlighting the importance of pKa and lipophilicity in their behavior.",
+            "reference": "Chamberlain, K., Patel, S., & Bromilow, R. H. (1998). Uptake by roots and translocation to shoots of two morpholine fungicides in barley. Pesticide science, 54(1), 1-7.",
+            "method": {
+                "Test Plant": "Barley (Hordeum vulgare L. cv. Alexis)",
+                "Apply Location": "Uptake studies were done by transferring 10-day-old barley plants to buffer solutions containing the fungicides.",
+                "Plant Grown Condition": "Seeds germinated on moist tissue paper, then transferred to aerated half-strength Hoagland's nutrient solution and grown in controlled environment (16 hour day at 20\u00b0C, 10 klux; 8 hour night at 16\u00b0C).",
+                "Chemical Preparation": "Dodemorph and [morpholin-2,6-14C]dodemorph (radiochemical purity 98.0%) used at ~34 MBq/mmol specific activity. Tridemorph and [morpholin-2,6-14C]tridemorph (radiochemical purity 99.7%) used at ~34 MBq/mmol. Initial fungicide concentrations of 5 \u03bcM in buffer solutions at pH 5.0 to 8.0.",
+                "Pesticide Application Details for the Plant": "10-day-old barley plants (groups of 6) transferred to 100 mL buffer solutions with 5 \u03bcM fungicide for 24 and 48 hour uptake periods.",
+                "Other Information": "2 replicates of 6 plants each at each pH level (5.0, 6.0, 7.0, 8.0)."
+            },
+            "result": "[{\"Hours after application\": 24, \"PH\": 5, \"Root concentration factor\": 6.58, \"Transpiration stream concentration factor\": 3.72}, {\"Hours after application\": 24, \"PH\": 6, \"Root concentration factor\": 10.52, \"Transpiration stream concentration factor\": 7.72}, {\"Hours after application\": 24, \"PH\": 7, \"Root concentration factor\": 14.29, \"Transpiration stream concentration factor\": 9.62}, {\"Hours after application\": 24, \"PH\": 8, \"Root concentration factor\": 16.1, \"Transpiration stream concentration factor\": 11.74}, {\"Hours after application\": 48, \"PH\": 5, \"Root concentration factor\": 7.99, \"Transpiration stream concentration factor\": 4.28}, {\"Hours after application\": 48, \"PH\": 6, \"Root concentration factor\": 10.44, \"Transpiration stream concentration factor\": 7.32}, {\"Hours after application\": 48, \"PH\": 7, \"Root concentration factor\": 14.17, \"Transpiration stream concentration factor\": 8.65}, {\"Hours after application\": 48, \"PH\": 8, \"Root concentration factor\": 15.58, \"Transpiration stream concentration factor\": 10.6}]"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "_id": {
+        "$oid": "6682e9d5c4e5dba5ffba2c9f"
+    },
+    "CID": {
+        "$numberInt": "54675779"
+    },
+    "Name": "OXYTETRACYCLINE",
+    "IUPACName": "(4S,4aR,5S,5aR,6S,12aR)-4-(dimethylamino)-1,5,6,10,11,12a-hexahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide",
+    "CanonicalSMILES": "CC1(C2C(C3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O)O",
+    "Synonyms": [
+        "oxytetracycline",
+        "79-57-2",
+        "Terramycin",
+        "Oxyterracine",
+        "Oxytetracyclin",
+        "Oxymycin",
+        "Terrafungine",
+        "Oxyterracin",
+        "Oxytetracycline anhydrous",
+        "Oxitetraciclina",
+        "Oxitetracyclin",
+        "Adamycin",
+        "Biostat",
+        "Geomycin",
+        "Ryomycin"
+    ],
+    "IsomericSMILES": "C[C@@]1([C@H]2[C@@H]([C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O)O",
+    "INCHI": "InChI=1S/C22H24N2O9/c1-21(32)7-5-4-6-8(25)9(7)15(26)10-12(21)17(28)13-14(24(2)3)16(27)11(20(23)31)19(30)22(13,33)18(10)29/h4-6,12-14,17,25-26,28,30,32-33H,1-3H3,(H2,23,31)/t12-,13-,14+,17+,21-,22+/m1/s1",
+    "INCHIKEY": "OWFJMIVZYSDULZ-PXOLEDIWSA-N",
+    "Formula": "C22H24N2O9",
+    "MolecularWeight": {
+        "$numberDouble": "460.4"
+    },
+    "Description": "Oxytetracycline is a tetracycline used for treatment of infections caused by a variety of Gram positive and Gram negative microorganisms including Mycoplasma pneumoniae, Pasteurella pestis, Escherichia coli, Haemophilus influenzae (respiratory infections), and Diplococcus pneumoniae. It has a role as an antibacterial drug, a protein synthesis inhibitor, an antimicrobial agent, an anti-inflammatory drug and a bacterial metabolite. It is a tautomer of an oxytetracycline zwitterion.",
+    "XlogP": {
+        "$numberDouble": "-1.6"
+    },
+    "Complexity": {
+        "$numberInt": "1000"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Park ED et al; Rev Environ Contam Toxicol 138: 1-20 (1994) (2) Kay JF; pp 404-9 in Residues of Veterinary Drugs in Food, Vol. 2, Haagsma N et al, eds, (Proc Euroresidues II), May 3-5, 1993 (1993)",
+            "Value": "Oxytetracycline has been approved for use in catfish and salmonid aquaculture(1). Oxytetracycline residues were detected in 20 out of 92 farmed salmon samples and 5 out of 128 farmed trout samples collected in the United Kingdom(2). The maximum concentration and median of positives were 0.22 and 0.06 mg/kg, respectively, in the salmon samples and 0.18 and 0.04 mg/kg, respectively in the trout samples(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Sangster J; LOGKOW Database. A databank of evaluated octanol-water partition coefficients (Log P). Available from, as of May 23, 2006: https://logkow.cisti.nrc.ca/logkow/search.html",
+            "Value": "log Kow = -0.90"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 1241",
+            "Value": "Tetracyclines inhibit bacterial protein synthesis by binding to the 30 S bacterial ribosome and preventing access of aminoacyl tRNA to the acceptor (A) site on the mRNA-ribosome complex. They enter gram-negative bacteria by passive diffusion through the hydrophilic channels formed by the porin proteins of the outer cell membrane, and active transport by an energy-dependent system that pumps all tetracyclines across cytoplasmic membrane. Although permeation of these drugs into gram-positive bacteria is less well understood, it also is energy requiring. At high concn, these cmpd impair protein synthesis in mammalian cells. However, because mammalian cells lack the active transport system found in bacteria, and the ribosomal target is less sensitive, tetracyclines are selectively active against bacteria. /Tetracyclines/"
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 203",
+            "Value": "The tetracycline antibiotics ... can produce neuromuscular blockade, possibly by chelation of Ca+2. /Tetracyclines/"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "PMID:15180364",
+            "Value": "SOIL: The concentration of oxytetracycline measured in the soil of an arable field located at a working farm in Leicestershire, United Kingdom was 1,691 ug/kg(1)."
+        },
+        {
+            "References": "PMID:9569937",
+            "Value": "SEDIMENT: Concentrations of oxytetracycline measured in fish farm sediment were 0.1-11 and 285 ug/g(1)."
+        }
+    ]
+}

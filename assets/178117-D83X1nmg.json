@@ -1,0 +1,66 @@
+{
+    "_id": {
+        "$oid": "669270f2303528b49832d750"
+    },
+    "CID": {
+        "$numberInt": "178117"
+    },
+    "Name": "Pyribenzoxim",
+    "IUPACName": "(benzhydrylideneamino) 2,6-bis[(4,6-dimethoxypyrimidin-2-yl)oxy]benzoate",
+    "CanonicalSMILES": "COC1=CC(=NC(=N1)OC2=C(C(=CC=C2)OC3=NC(=CC(=N3)OC)OC)C(=O)ON=C(C4=CC=CC=C4)C5=CC=CC=C5)OC",
+    "Synonyms": [
+        "Pyribenzoxim",
+        "168088-61-7",
+        "Benzophenone O-(2,6-bis((4,6-dimethoxypyrimidin-2-yl)oxy)benzoyl) oxime",
+        "Pyanchor",
+        "Methanone",
+        "diphenyl-",
+        "O-[2,6-bis[(4,6-dimethoxy-2-pyrimidinyl)oxy]benzoyl]oxime",
+        "LGC-40863",
+        "(benzhydrylideneamino) 2,6-bis[(4,6-dimethoxypyrimidin-2-yl)oxy]benzoate",
+        "VBD478968P",
+        "Pyribenzoxim 100 microg/mL in Acetonitrile",
+        "benzophenone O-(2,6-bis(4,6-dimethoxypyrimidin-2-yloxy)benzoyl)oxime",
+        "diphenylmethanone O-(2,6-bis((4,6-dimethoxypyrimidin-2-yl)oxy)benzoyl) oxime",
+        "Pyribenzoxim [ISO:BSI]",
+        "UNII-VBD478968P",
+        "METHANONE",
+        "DIPHENYL-",
+        "O-(2,6-BIS((4,6-DIMETHOXY-2-PYRIMIDINYL)OXY)BENZOYL)OXIME",
+        "KILJABI GOLD"
+    ],
+    "IsomericSMILES": "COC1=CC(=NC(=N1)OC2=C(C(=CC=C2)OC3=NC(=CC(=N3)OC)OC)C(=O)ON=C(C4=CC=CC=C4)C5=CC=CC=C5)OC",
+    "INCHI": "InChI=1S/C32H27N5O8/c1-39-24-18-25(40-2)34-31(33-24)43-22-16-11-17-23(44-32-35-26(41-3)19-27(36-32)42-4)28(22)30(38)45-37-29(20-12-7-5-8-13-20)21-14-9-6-10-15-21/h5-19H,1-4H3",
+    "INCHIKEY": "OVXMBIVWNJDDSM-UHFFFAOYSA-N",
+    "Formula": "C32H27N5O8",
+    "MolecularWeight": {
+        "$numberDouble": "609.6"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "6.8"
+    },
+    "Complexity": {
+        "$numberInt": "849"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The study delved into the interaction between propanil and pyribenzoxim in barnyardgrass, particularly examining their impact on absorption and translocation. Propanil exhibited antagonism towards pyribenzoxim, especially at higher doses, when both were applied to the same leaf. Interestingly, no antagonism was observed when these herbicides were applied to separate leaves. Foliar absorption of pyribenzoxim was consistent, unaffected by propanil, accounting for approximately 32% of the total applied. However, the translocation of pyribenzoxim out of the treated leaf was significantly impacted by propanil. When both were applied to the same leaf, translocation reduced to 3.5%, indicating a substantial decrease compared to separate leaf applications. Chlorophyll fluorescence analysis revealed that propanil diminished the photosynthetic activity in the treated leaf but not in the untreated ones of the same plant. The study suggested that propanil hindered pyribenzoxim's whole-plant effectiveness by impeding its translocation to adjacent tissues, critical for pyribenzoxim's activity within five days of treatment. These findings underscored the importance of understanding the interplay between herbicides and their impact on the movement and effectiveness of each other within the plant system.",
+            "reference": "Koo, S. J., Kim, J.-S., Kim, J. S., & Kang, S. H. (2000). Antagonistic Interaction of Propanil and Pyribenzoxim on Barnyardgrass Control. Pesticide Biochemistry and Physiology, 67(1), 46\u201353. doi:10.1006/pest.2000.2476\u00a0",
+            "method": {
+                "Test Plant": "Barnyardgrass (Echinochloa crus-galli)",
+                "Apply Location": "Foliar application on the fourth leaf",
+                "Plant Growth Condition": "Plants were grown in 10 \u00d7 15 cm plastic pots containing synthetic soil (Bunong Horticulture Mix No. 2, Korea) in a greenhouse maintained at 28-33\u00b0C during the day and 17-22\u00b0C at night. The greenhouse had a 12-hour photoperiod.",
+                "Chemical Preparation": "Herbicide solutions of pyribenzoxim (98.2% purity) and propanil (96.5% purity) were prepared in acetone with 0.1% Tween 20. The pyribenzoxim solution was applied at a dose of 1 mg per plant, and the propanil solution at a dose of 50 mg per plant.",
+                "Received Pesticide of Plant": "Each plant received activity 3.19 MBq/mg pesticide, dissolved in 20 \u03bcL of 50% acetone containing 0.1% Tween 20.",
+                "Other Information": "Each treatment consisted of 10 single-plant replicates."
+            },
+            "result": "[{\"Treatment and Time After Application\": \"Without Propanil 24h\", \"Absorption %\": \"33.61%\", \"% in Treated Leaf\": \"92.12%\", \"Translocation Rate %\": \"7.88%\", \"% in 2nd Leaf\": \"1.16%\", \"% in 3rd Leaf\": \"4.24%\", \"% in 5th Leaf\": \"2.48%\"}, {\"Treatment and Time After Application\": \"Without Propanil 48h\", \"Absorption %\": \"32.22%\", \"% in Treated Leaf\": \"89.01%\", \"Translocation Rate %\": \"10.99%\", \"% in 2nd Leaf\": \"1.76%\", \"% in 3rd Leaf\": \"5.61%\", \"% in 5th Leaf\": \"3.62%\"}, {\"Treatment and Time After Application\": \"Without Propanil 96h\", \"Absorption %\": \"59.90%\", \"% in Treated Leaf\": \"87.99%\", \"Translocation Rate %\": \"12.01%\", \"% in 2nd Leaf\": \"1.96%\", \"% in 3rd Leaf\": \"6.43%\", \"% in 5th Leaf\": \"3.62%\"}, {\"Treatment and Time After Application\": \"Propanil on 4th Leaf 24h\", \"Absorption %\": \"31.97%\", \"% in Treated Leaf\": \"98.02%\", \"Translocation Rate %\": \"1.98%\", \"% in 2nd Leaf\": \"0.23%\", \"% in 3rd Leaf\": \"0.86%\", \"% in 5th Leaf\": \"0.89%\"}, {\"Treatment and Time After Application\": \"Propanil on 4th Leaf 48h\", \"Absorption %\": \"32.37%\", \"% in Treated Leaf\": \"96.45%\", \"Translocation Rate %\": \"3.55%\", \"% in 2nd Leaf\": \"0.40%\", \"% in 3rd Leaf\": \"1.53%\", \"% in 5th Leaf\": \"1.62%\"}, {\"Treatment and Time After Application\": \"Propanil on 4th Leaf 96h\", \"Absorption %\": \"39.68%\", \"% in Treated Leaf\": \"97.52%\", \"Translocation Rate %\": \"2.48%\", \"% in 2nd Leaf\": \"0.20%\", \"% in 3rd Leaf\": \"0.88%\", \"% in 5th Leaf\": \"1.41%\"}, {\"Treatment and Time After Application\": \"Propanil on 3rd Leaf 24h\", \"Absorption %\": \"31.03%\", \"% in Treated Leaf\": \"89.42%\", \"Translocation Rate %\": \"10.58%\", \"% in 2nd Leaf\": \"1.51%\", \"% in 3rd Leaf\": \"5.46%\", \"% in 5th Leaf\": \"3.61%\"}, {\"Treatment and Time After Application\": \"Propanil on 3rd Leaf 48h\", \"Absorption %\": \"32.89%\", \"% in Treated Leaf\": \"85.36%\", \"Translocation Rate %\": \"14.64%\", \"% in 2nd Leaf\": \"1.85%\", \"% in 3rd Leaf\": \"8.22%\", \"% in 5th Leaf\": \"4.57%\"}, {\"Treatment and Time After Application\": \"Propanil on 3rd Leaf 96h\", \"Absorption %\": \"65.39%\", \"% in Treated Leaf\": \"83.63%\", \"Translocation Rate %\": \"16.37%\", \"% in 2nd Leaf\": \"2.09%\", \"% in 3rd Leaf\": \"10.55%\", \"% in 5th Leaf\": \"3.74%\"}]"
+        }
+    ]
+}

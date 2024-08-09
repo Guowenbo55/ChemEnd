@@ -1,0 +1,105 @@
+{
+    "_id": {
+        "$oid": "6682e820c4e5dba5ffba2409"
+    },
+    "CID": {
+        "$numberInt": "5344"
+    },
+    "Name": "SULFISOXAZOLE",
+    "IUPACName": "4-amino-N-(3,4-dimethyl-1,2-oxazol-5-yl)benzenesulfonamide",
+    "CanonicalSMILES": "CC1=C(ON=C1C)NS(=O)(=O)C2=CC=C(C=C2)N",
+    "Synonyms": [
+        "sulfisoxazole",
+        "Sulfafurazole",
+        "127-69-5",
+        "Sulphafurazole",
+        "Sulfisoxazol",
+        "Sulfafurazol",
+        "Sulfaisoxazole",
+        "Sulfofurazole",
+        "Gantrisin",
+        "Sulfisoxasole",
+        "Sulphaisoxazole",
+        "Sulfadimethylisoxazole",
+        "Alphazole",
+        "Amidoxal",
+        "Sulfalar"
+    ],
+    "IsomericSMILES": "CC1=C(ON=C1C)NS(=O)(=O)C2=CC=C(C=C2)N",
+    "INCHI": "InChI=1S/C11H13N3O3S/c1-7-8(2)13-17-11(7)14-18(15,16)10-5-3-9(12)4-6-10/h3-6,14H,12H2,1-2H3",
+    "INCHIKEY": "NHUHCSRWZMLRLA-UHFFFAOYSA-N",
+    "Formula": "C11H13N3O3S",
+    "MolecularWeight": {
+        "$numberDouble": "267.31"
+    },
+    "Description": "Sulfisoxazole is a sulfonamide antibacterial with an oxazole substituent. It has antibiotic activity against a wide range of gram-negative and gram-positive organisms. It has a role as an antibacterial drug and a drug allergen. It is a member of isoxazoles, a sulfonamide and a sulfonamide antibiotic. It is functionally related to a sulfanilamide.",
+    "XlogP": {
+        "$numberDouble": "1"
+    },
+    "Complexity": {
+        "$numberInt": "374"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 1.01 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 1 was calculated in fish for sulfisoxazole(SRC), using a log Kow of 1.01(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "PMID:16047782",
+            "Value": "AEROBIC: In general, sulfonamide antimicrobials are not readily biodegraded and persist in soils(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 86",
+            "Value": "log Kow = 1.01"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "US Natl Inst Health; DailyMed. Current Medication Information for  Sulfisoxazole (March 2007). Available from, as of June 30, 2008: https://dailymed.nlm.nih.gov/dailymed/about.cfm",
+            "Value": "The sulfonamides are bacteriostatic agents and the spectrum of activity is similar for all. Sulfonamides inhibit bacterial synthesis of dihydrofolic acid by preventing the condensation of the pteridine with aminobenzoic acid through competitive inhibition of the enzyme dihydropteroate synthetase. Resistant strains have altered dihydropteroate synthetase with reduced affinity for sulfonamides or produce increased quantities of aminobenzoic acid."
+        },
+        {
+            "References": "American Society of Health System Pharmacists. AHFS Drug   Information 2008. Bethesda, Maryland 2008, p. 424",
+            "Value": "Sulfonamides are usually bacteriostatic in action. Sulfonamides interfere with the utilization of p-aminobenzoic acid (PABA) in the biosynthesis of tetrahydrofolic acid (the reduced form of folic acid) cofactors in susceptible bacteria. Sulfonamides are structural analogs of PABA and appear to interfere with PABA utilization by competitively inhibiting the enzyme dihydropteroate synthase, which catalyzes the formation of dihydropteroic acid (a precursor of tetrahydrofolic acid) from PABA and pteridine; however, other mechanism(s) affecting the biosynthetic pathway also may be involved. Compounds such as pyrimethamine and trimethoprim, which block later stages in the synthesis of folic acid, act synergistically with sulfonamides. Only microorganisms that synthesize their own folic acid are inhibited by sulfonamides; animal cells and bacteria which are capable of utilizing folic acid precursors or preformed folic acid are not affected by these drugs. The antibacterial activity of the sulfonamides is reportedly decreased in the presence of blood or purulent body exudates. /Sulfonamides/"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Osol, A. and J.E. Hoover, et al. (eds.). Remington's Pharmaceutical Sciences. 15th ed. Easton, Pennsylvania: Mack Publishing Co., 1975., p. 1106",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/  ...Toxic effect ... is bilateral keratoconjunctivitis in about 4% of canine patients ...within 1 week after beginning treatment with sulfisoxazole."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V24 279",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 50 male and 50 female 5-week-old Fischer 344 rats received by gavage 0, 100 or 400 mg/kg bw sulfafurazole (USP grade) suspended in 0.5% aqueous carboxymethyl cellulose, 7 days per week for 103 weeks; an additional control group was kept untreated. The experiment was terminated when the animals were 109-111 weeks of age. No significant differences attributable to treatment were found for any tumor type."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V24 279",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 50 male and 50 female 7-week-old B6C3F1 mice received by gavage, 0, 500 or 2000 mg/kg bw sulfafurazole (USP grade) suspended in 0.5% aqueous carboxymethyl cellulose, 7 days per week for 103 weeks; an additional control group was kept untreated. The experiment was terminated when the animals were 111-113 weeks of age. The survival rate was similar in all groups. Although variations in tumor incidences were observed, no significant differences attributable to treatment were found for any tumor type."
+        },
+        {
+            "References": "US Natl Inst Health; DailyMed. Current Medication Information for  Sulfisoxazole (March 2007). Available from, as of June 30, 2008: https://dailymed.nlm.nih.gov/dailymed/about.cfm",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Sulfisoxazole was not carcinogenic to mice in either sex when administered by gavage for 103 weeks at dosages up to approximately 18 times the highest recommended human daily dose or to rats at 4 times the highest recommended human daily dose. Rats appear to be especially susceptible to the goitrogenic effects of sulfonamides and long-term administration of sulfonamides has resulted in thyroid malignancies in this species."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V24 279",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ When mice and rats were administered 1000 mg/kg bw sulfafurazole orally on days 7-12 and 9-14 of pregnancy, respectively, a significant increase in cleft palate and skeletal defects was found in offspring of both species; in addition, mandibular defects were present in the rat fetuses."
+        },
+        {
+            "References": "US Natl Inst Health; DailyMed. Current Medication Information for  Sulfisoxazole (March 2007). Available from, as of June 30, 2008: https://dailymed.nlm.nih.gov/dailymed/about.cfm",
+            "Value": "/GENOTOXICITY/ ... Sulfisoxazole was not observed to be mutagenic in E. coli Sd-4-73 when tested in the absence of a metabolic activating system."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Thiele-Bruhn S; J Plant Nutr Soil Sci 166: 145-67 (2003) (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Boreen AL et al; Environ Sci Technol 38: 3933-40 (2004) (4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000) (5) Bollag JM et al; J Agric Food Chem 26: 1302-6 (1978) (6) Adrian P et al; Toxicol Environ Chem 20-21: 109-20 (1989)",
+            "Value": "The Koc of sulfisoxazole using a clay loam (pH 6.2, organic content 3.1%) was reported as 58, Kd = 1.5(1). According to a classification scheme(2), this Koc value suggests that sulfisoxazole is expected to have very high mobility in soil. The pKa1 and pKa2 of sulfisoxazole are 1.5 and 5.0(3), respectively, indicating that this compound will partially exist in the anion form in the environment and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(4). However, aromatic amines are expected to bind strongly to humus or organic matter in soils due to the high reactivity of the aromatic amino group(5,6), suggesting that mobility may be much lower in some soils(SRC)."
+        }
+    ]
+}

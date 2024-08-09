@@ -1,0 +1,66 @@
+{
+    "_id": {
+        "$oid": "6682e961c4e5dba5ffba2a55"
+    },
+    "CID": {
+        "$numberInt": "27441"
+    },
+    "Name": "2,7-Dimethylpyrene",
+    "IUPACName": "2,7-dimethylpyrene",
+    "CanonicalSMILES": "CC1=CC2=C3C(=C1)C=CC4=CC(=CC(=C43)C=C2)C",
+    "Synonyms": [
+        "2,7-DIMETHYLPYRENE",
+        "15679-24-0",
+        "Pyrene",
+        "2,7-dimethyl-",
+        "0E465NIX94",
+        "HSDB 2160",
+        "UNII-0E465NIX94",
+        "EINECS 239-762-6",
+        "DTXSID20166132",
+        "2,7-DIMETHYLPYRENE [HSDB]",
+        "MFCD02683750",
+        "AS-77842",
+        "CS-0152888",
+        "NS00025097",
+        "D94532",
+        "Q27236661"
+    ],
+    "IsomericSMILES": "CC1=CC2=C3C(=C1)C=CC4=CC(=CC(=C43)C=C2)C",
+    "INCHI": "InChI=1S/C18H14/c1-11-7-13-3-5-15-9-12(2)10-16-6-4-14(8-11)17(13)18(15)16/h3-10H,1-2H3",
+    "INCHIKEY": "GSKHIRFMTJUBSM-UHFFFAOYSA-N",
+    "Formula": "C18H14",
+    "MolecularWeight": {
+        "$numberDouble": "230.3"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "5.8"
+    },
+    "Complexity": {
+        "$numberInt": "260"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Mar 13, 2017: https://www2.epa.gov/tsca-screening-tools (2) Franke C et al; Chemosphere 29: 1501-14 (1994) (3) Santodonato J et al; in Health and Ecological Assessment of Polynuclear Aromatic Hydrocarbons. Lee SD, Grant L eds., Park Forest South, IL: Pathotox Publ (1981) (4) Arnot JA et el; Environ Toxicol Chem 27: 2263-2270 (2008)",
+            "Value": "An estimated BCF of 4400 was calculated in fish for 2,7-dimethylpyrene(SRC), using an estimated log Kow of 6.03(1) and a regression-derived equation(1). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is very high(SRC), provided the compound is not metabolized by the organism(SRC). However, 2,7-dimethylpyrene may not bioconcentrate in aquatic organisms which contain microsomal oxidase, such as fish, as this enzyme enables the rapid metabolism of certain polycyclic aromatic hydrocarbons(3). A measured fish biotransformation half-life of 2.08 days has been reported for the analogous compound pyrene(4)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Boethling RS et al; Environ Sci Technol 28: 459-65 (1994) (2) Cerniglia CE; Biodegradation 3: 351-68 (1992) (3) Wild SR et al; pp. 457-62 in Agricultural Soils Amended With Sewage Sludges. Arendt F et al, eds. Netherlands: Kluwer Academic Publ (1990) (4) Grosser RJ et al; Appl Environ Microbiol 57: 3462-3469 (1991) (5) Aichberger H et al; Soil Sed Contam 15: 73-85 (2006) (6) Aichberger H et al; Soil Sed Contam 15: 73-85 (2006)",
+            "Value": "AEROBIC: Polycyclyic aromatic hydrocarbons (PAHs) with four or more rings, such as 2,7-dimethylpyrene, are generally expected to be resistant to biodegradation(1). Biodegradation of the analogous compound pyrene is expected to occur slowly in soils, with estimated half-lives ranging from several weeks to years(2,3). Faster biodegradation rates occur with exposure to acclimated microbes(4). Soil microcosm studies using three industrial soils from Austria found pronounced biodegradation of pyrene in one soil (about 65-75% over 65 days of incubation), but only slight biodegradation in the other two soils(5). Using a pilot-scale bioslurry treatment method with contaminated soil from a former gasworks site, the fraction of initial 1-methylpyrene (analogous compound) remaining in the soil after 7, 24 and 29 days of incubation was 100, 85 and 62% respectively(6)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Mar 13, 2017: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 23 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of 2,7-dimethylpyrene can be estimated to be 140,000(SRC). According to a classification scheme(2), this estimated Koc value suggests that 2,7-methylpyrene is expected to be immobile in soil."
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "_id": {
+        "$oid": "6682e8a6c4e5dba5ffba26a5"
+    },
+    "CID": {
+        "$numberInt": "8063"
+    },
+    "Name": "PENTANAL",
+    "IUPACName": "pentanal",
+    "CanonicalSMILES": "CCCCC=O",
+    "Synonyms": [
+        "PENTANAL",
+        "Valeraldehyde",
+        "110-62-3",
+        "n-Pentanal",
+        "n-Valeraldehyde",
+        "Valeric aldehyde",
+        "Valeral",
+        "Valeryl aldehyde",
+        "Amylaldehyde",
+        "Amyl aldehyde",
+        "Butyl formal",
+        "Valeric acid aldehyde",
+        "Valerylaldehyde",
+        "n-Valeric aldehyde",
+        "Valerianic aldehyde"
+    ],
+    "IsomericSMILES": "CCCCC=O",
+    "INCHI": "InChI=1S/C5H10O/c1-2-3-4-5-6/h5H,2-4H2,1H3",
+    "INCHIKEY": "HGBOYTHUEUWSSQ-UHFFFAOYSA-N",
+    "Formula": "C5H10O",
+    "MolecularWeight": {
+        "$numberDouble": "86.13"
+    },
+    "Description": "Pentanal is a saturated fatty aldehyde composed from five carbons in a straight chain. It has a role as a plant metabolite.",
+    "XlogP": {
+        "$numberDouble": "1.1"
+    },
+    "Complexity": {
+        "$numberInt": "32"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Graedel TE et al; Atmospheric Chemical Compounds NY: Academic Press (1986) (2) Mattheis JP et al; J Agric Food Chem 39: 1902-6 (1991) (3) Muller K et al; Chemosphere 49: 1247-56 (2002)",
+            "Value": "Pentanal is a plant volatile(1). The concn of pentanal is relatively high in undeveloped apples but then decreases to undetectable levels as the harvest approaches(2). Pentanal was emitted from rape during the blooming period at a rate of 0.12 and 0.47 ppbv during May 8 and 9, 1998(3)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Yalkowsky SH, Dannenfelser RM; Aquasol Database of Aqueous Solubility. V5 College of Pharmacy, University of Arizona, Tucson, AZ PC Version (1992) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 5-5 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for pentanal(SRC), using a water solubility of 1.17X10+4 mg/L(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Gerhold RM, Malaney GW; J Water Pollut Contr Fed 38: 562-79 (1966)",
+            "Value": "AEROBIC: In activated sludge from waste treatment plants in operation, pentanal had a theoretical oxygen demand of 12.7, 16.5, and 17.8% after 6, 12, and 24 hr, respectively(1)."
+        },
+        {
+            "References": "(1) Chou WL et al; Biotech Bioeng Symp 8: 391-414 (1979)",
+            "Value": "ANAEROBIC: While no information was located concerning the anaerobic biodegradability of pentanal, the analogous chemical, butyraldehyde, was readily biodegradable under anaerobic conditions(1) and it is therefore likely that pentanal would show similar behavior(SRC)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "PMID:10794623",
+            "Value": "Pentanal was found in the carapace of Charybdis feriatus crabs at 264.1 ug/kg and not determined in the leg and body(1)."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:16043294",
+            "Value": "Many volatile organic compounds (VOCs) are significant environmental irritants that stimulate somatosensory nerve endings to produce pain and irritation. ...Intracellular calcium in cultured trigeminal ganglion neurons /was measured/ to characterize the cellular mechanisms and chemical structural determinants underlying sensitivity to VOCs. Trigeminal neurons responded to homologous series of alcohols (C4-C7) as well as saturated and unsaturated aldehydes in a concentration dependent manner. Ranked in terms of threshold to recruit neurons by compounds of the same carbon chain length, enaldehyde<aldehyde<alcohol. Unlike aldehydes and alcohols that displayed ascending concentration curves, recruitment of neurons by enaldehydes (C4-C7) appeared to saturate, consistent with a mechanism that is restricted in its neural distribution. Using pentanol, pentanal and pentenal as model compounds, /it was/ found that many but not all cool/cold-sensitive and capsaicin-sensitive neurons responded with increases in intracellular calcium. These VOCs also stimulated other neurons that were insensitive to cooling and capsaicin. Because not all cooling- and all capsaicin-sensitive neurons responded to the model VOCs, it is highly unlikely that known nociceptive ion channels such as TRPV1 or TRPA1 mediate sensitivity to these compounds. For pentanol, pentanal and pentenal, induced calcium influx was dependent on the presence of extracellular calcium. Responses of all neurons to pentanal and pentenal were also dependent upon extracellular sodium. Responses to pentanol were variably dependent on sodium. The distribution of sensitivity suggests that VOC irritation may be mediated by an as yet unidentified mechanism(s) that is/are distributed across different modalities of neurons."
+        },
+        {
+            "References": "PMID:8313516",
+            "Value": "Inhibition of intercellular communication is an important feature in the tumor promotion phase of a multistage carcinogenesis model. In atherosclerosis inhibition of cell-cell communication by atherogenic compounds, e.g., low density lipoproteins (LDL), also seems to be important. For testing atherogenic compounds we used an atherosclerosis relevant cell type, namely human smooth muscle cells. In order to investigate which part of the LDL particle would be involved in inhibition of metabolic co-operation between human smooth muscle cells in culture ... several fatty acids and their breakdown products /were tested/, namely aldehydes. Unsaturated C-18 fatty acids markedly influenced gap-junctional intercellular communication (GJIC), whereas saturated (C18:0, C16:0) and unsaturated fatty acids with > 20 carbon atoms did not inhibit GJIC. In the case of oleic and elaidic acid, orientation seemed important; however, after exposure to palmitoleic and palmitelaidic acid no differences were found. The most potent inhibitor of GJIC was linoleic acid, which inhibited GJIC by 75%. No correlation was found between degrees of unsaturation and ability to inhibit GJIC. Of the tested aldehydes, hexanal, propanal, butanal and 4-hydroxynonenal did significantly inhibit GJIC, while pentanal had no effect. Since modification of LDL was shown to be important in order for LDL to inhibit GJIC, these results show that fatty acids and their oxidative breakdown products may be of importance for the inhibition of GJIC by LDL."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on n-Valeraldehyde (110-62-3) (October 2005) Available from, as of January 15, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In a single-exposure inhalation toxicity study of aliphatic aldehydes (C3 through C7), several species of laboratory animals (rabbits, guinea pigs, mice) were exposed to 2359 mg/cu m n-valeraldehyde aerosol (purity not specified) for up to 10 hours. Exposure to n-valeraldehyde aerosol produced an initial increase in activity, followed by signs of eye and respiratory irritation. No rabbits died during exposure or during or after exposure. Necropsy of animals dying on study (4/50 mice, 5/20 guinea pigs) revealed expanded, edematous, and hemorrhagic lungs, indicating the likely cause of death was severe pulmonary irritation."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on n-Valeraldehyde (110-62-3) (October 2005) Available from, as of January 15, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ When allowed to remain on the skin for 4 hours, covered application of 0.5 mL of undiluted valeraldehyde to the skin of rabbits produced necrosis. Smaller volumes (0.01 mL) of n-valeraldehyde (purity not specified) applied to the skin and left uncovered for 24 hours produced slight irritation."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on n-Valeraldehyde (110-62-3) (October 2005) Available from, as of January 15, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Instillation of 0.02 mL of undiluted valeraldehyde resulted in severe corneal necrosis; 0.005 mL of n-valeraldehyde (purity not specified) produced moderate corneal necrosis. In rabbits, mice, and guinea pigs, a single exposure to 2359 mg/cu m n-valeraldehyde aerosol (purity not specified) for up to 10 hours produced signs of eye irritation."
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 2643",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ 3 out of 3 rats died after inhalation exposure to 48,000 ppm for 1.2 hr; 0 out of 3 rats died after exposure to 1,400 ppm for 6 hr. Compound produced severe irritant effect on skin of guinea pigs and on eye of rabbits."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 1063",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Rated 5 on rabbit eyes. The compound was tested externally on the eyes of rabbits, and according to the degree of injury observed after 24 hours, and rated on a scale of 1 to 10. The most severely injurious substances have been rated 10."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists, Inc. Documentation of the Threshold Limit Values and Biological Exposure Indices. 6th ed. Volumes I, II, III. Cincinnati, OH: ACGIH, 1991., p. 1675",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Inhalation of n-valeraldehyde vapor at 4000 ppm for 4 hours was lethal to three of six rats."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-1634  2007.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ n-Valeraldehyde is reported to be severely irritating to guinea pig skin."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-1634  2007.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In a study of the relative inhalation toxicity of 13 aliphatic saturated and unsaturated aldehydes, mice (50), guinea pigs (20), or rabbits (5) were exposed to the aerosols for periods of 10 hours or until death. Two mice died during exposure at 670 ppm n-valeraldehyde. Five guinea pigs and two mice died subsequent to cessation of exposure. No rabbits died during or after exposure. ... All aldehydes employed in this study were irritant substances, with the main pathologic changes occurring in the respiratory tract. n-Valeraldehyde was considered less toxic than the lower saturated aldehydes."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-1634  2007.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The sensory irritation potential of n-valeraldehyde was investigated in B6C3F1 and Swiss Webster mice. Groups of three or four mice were exposed in a head-only exposure chamber for 10 minutes to varying conc of n-valeraldehyde. Respiratory rates were recorded during a 5 min pre-exposure, a 10 min exposure, and a 5 min recovery period. The average maximum reduction in respiratory rate for 1 min was computed from the response of each group of animals. RD50 values (conc eliciting a 50% decrease in respiratory rate) were 1190 and 1121 ppm for B6C3F1 and Swiss Webster mice, respectively."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on n-Valeraldehyde (110-62-3) (October 2005) Available from, as of January 15, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ Valeraldehyde did not induce unscheduled DNA synthesis (UDS) when tested in vitro in primary human hepatocytes at doses of 0, 3, 10, and 30 mM (equivalent to 258, 861, and 2580 ug/mL, respectively). There was, however, a slight increase in primary rat hepatocytes, which did not demonstrate a dose response. The increase observed did not meet the minimum criteria for a positive response."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on n-Valeraldehyde (110-62-3) (October 2005) Available from, as of January 15, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ There is a mouse micronucleus assay for valeric acid, a metabolite of valeraldehyde. Valeric acid was tested at concentrations up to 80% of the LD50, in male and female mice. Groups of male and female Swiss Webster mice (5 per sex) received valeric acid, administered in corn oil by intraperitoneal injection, at doses of 83, 166, or 266 mg/kg. Control animals received corn oil only. Blood samples were collected at approximately 30, 48, and 72 hours after dosing and examined for the presence of micronuclei. Valeric acid did not produce an increase in the incidence of micronuclei in test animals at any time interval after dosing as compared to corn oil controls. /Valeric acid/"
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on n-Valeraldehyde (110-62-3) (October 2005) Available from, as of January 15, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ In a L5178Y TK+/- mouse lymphoma mutagenesis assay, valeraldehyde was tested first in a range finding test (at concentrations up to 5000 ug/mL). In the definitive test, non-activated culture concentrations from 60 to 150 ug/mL and activated cultures of 150 to 500 ug/mL were evaluated for toxicity and mutations. In the absence of metabolic activation, there was a dose-dependent increase in mutant frequency and toxicity. Increases in small, medium, and large colonies compared with solvent controls indicated n-valeraldehyde was positive for both gene mutations and chromosomal mutations. In the presence of metabolic activation, n-valeraldehyde was negative for both chromosomal and gene mutations."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on n-Valeraldehyde (110-62-3) (October 2005) Available from, as of January 15, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ When tested in vitro in Chinese hamster V79 cell cultures without a metabolic activation system, valeraldehyde induced an increase in mutant frequency (MF) in two mutation assays. Mutagenicity was expressed at the hypoxanthine-guanine phosphoribosyltranserferase (HGPRT) locus as resistance to 6-thioguanine (TG), or at the Na/K ATPase locus as resistance to ouabain (OUA). V79 cells were incubated with test aldehydes in serum-free medium for 60 minutes and then re-plated in fresh medium for a six-day (HGPRT) or 8-day (OUA) mutant expression interval. There was a dose-dependent decrease in cell survival that was accompanied by an increase in mutant frequency at the HGPRT locus with thioguanine (TG) as the selective agent. A similar response was noted NA/K ATPase locus, with ouabain (OUA) as the selective agent."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on n-Valeraldehyde (110-62-3) (October 2005) Available from, as of January 15, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ /Investigators/ tested a series of compounds (including many aldehydes) found in tobacco smoke in Salmonella typhimurium tester strains TA98, TA100, TA1535, and TA1537 using the spot test protocol. Valeraldehyde as well as structurally similar chemicals were tested qualitatively at a dose of 3 umoles per plate (approximately 258 ug per plate) both in the presence and absences of an S-9 metabolic activation system derived from Sprague-Dawley rats induced by Arochlor 1254 or 3-methylcholanthrene. Valeraldehyde (and other aldehydes) did not produce a mutagenic response."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on n-Valeraldehyde (110-62-3) (October 2005) Available from, as of January 15, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ Valeraldehyde was also tested in the /Ames assay using/ standard plate incorporation ...  at doses of 10 to 10,000 ug/plate as part of a testing program sponsored by the NTP. Valeraldehyde was negative under all test conditions, both in the presence and absence of metabolic activation using liver S-9 from Arochlor 1254-induced Sprague Dawley rats and Syrian hamsters."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on n-Valeraldehyde (110-62-3) (October 2005) Available from, as of January 15, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ Valeraldehyde was tested in S. typhimurium strains TA100, TA102, and TA104 in the presence and absence of Arochlor-induced liver S-9 mix from F344 rats and B6C3F1 mice, at doses of 50, 100, 333, 500, 1000, 3333, 5000, and 10,000 ug/plate. ...  The highest dose tested was limited by toxicity which was determined by a thinning of the background lawn, and/or a reduction in the number of colonies per plate. Valeraldehyde was toxic at the highest doses and scoring was performed within the dose range of 333 to 3333 ug/plate. Valeraldehyde did not induce a mutagenic response in any strain, at any dose, both in the presence and absence of rat and mouse metabolic activation systems."
+        },
+        {
+            "References": "PMID:7509026",
+            "Value": "/GENOTOXICITY/ Five n-alkanals were examined ... for genotoxicity, as evaluated by the induction of unscheduled DNA synthesis (UDS), in primary cultures of rat and human hepatocytes. After 20 hr exposure, cytotoxicity was similar in cells of the two species, and increased with the length of the carbon chain. In rat hepatocytes, propanal (10-100 mM), butanal (10-100 mM), pentanal (3-30 mM) and hexanal (3-30 mM) induced a modest but significant and dose-dependent increase of net nuclear grain counts, while in human hepatocytes this effect was not detected...."
+        },
+        {
+            "References": "PMID:2550723",
+            "Value": "/GENOTOXICITY/The mutagenicity for mammalian cells of five n-alkanals produced by lipid peroxidation was tested in V79 Chinese hamster lung cells either at the hypoxanthine-guanine phosphoribosyltransferase locus as resistance to 6-thioguanine or at the Na/K ATPase locus as resistance to ouabain. The results show that propanal, butanal, pentanal and hexanal induced a dose-dependent increase in the frequency over controls of both 6-thioguanine- and ouabain-resistant mutants at concentrations ranging from 3 to 30 mM. With nonanal the same effects were observed with concentrations of 0.1-0.3 mM."
+        },
+        {
+            "References": "PMID:9292276",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ The metabolism of acetaldehyde (ACA), benzaldehyde (BA), propionaldehyde (PA) and valeraldehyde (VA) has been studied in two hepatoma cell lines, the rat HTC and mouse Hepa 1c1c7 cells. The cytotoxicity of the four aldehydes to these two cell lines has been compared. The end-points for evaluating cytotoxicity were 1) total macromolecular content (TMC) of confluent cultures, and 2) colony forming ability of dividing cells. These two assay systems had different sensitivities for the toxicity of aldehydes, probably due to different numbers of target cells. The activities of aldehyde dehydrogenases (NAD- and NADP-dependent, ALDH), alcohol dehydrogenase and aldehyde reductase were markedly greater in the HTC cell line compared to the Hepa 1c1c7 cell line, especially with BA as substrate. The cytotoxicities of aldehydes were generally stronger in the HTC cell line than in the Hepa 1c1c7 cell line; with the CF test. Particularly, BA was highly toxic to the HTC cells, which possessed the highest ALDH levels. Moreover, the treatment with (diethylamino)benzaldehyde, an ALDH inhibitor, completely abolished the toxicity of BA. ..."
+        },
+        {
+            "References": "PMID:8733936",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ The aliphatic n-butyr-and n-valeraldehyde as well as the aromatic benz- and anisaldehyde induced DNA strand breaks in PM2 DNA in the presence of CuCl2. Neither aldehydes nor CuCl2 alone showed DNA breakage properties. ..."
+        },
+        {
+            "References": "PMID:7786896",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/This study demonstrated that aldehydes are released into the extracellular medium when alveolar macrophages (AM) are exposed to nitrogen dioxide (NO2) at concentrations that impair cell function but do not cause cell death. Butanal, glycolaldehyde, 4-hydroxynonenal, pentanal, pentenal, and hexanal were found..."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Yalkowsky SH, Dannenfelser RM; Aquasol Database of Aqueous Solubility. V5 College of Pharmacy, University of Arizona, Tucson, AZ PC Version (1992) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-5 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of pentanal is estimated as 25(SRC), using a water solubility of 1.17X10+4 mg/L(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that pentanal is expected to have very high mobility in soil."
+        }
+    ]
+}

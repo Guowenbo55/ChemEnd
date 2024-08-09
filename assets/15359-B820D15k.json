@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "669270fd303528b49832d77b"
+    },
+    "CID": {
+        "$numberInt": "15359"
+    },
+    "Name": "Atraton",
+    "IUPACName": "4-N-ethyl-6-methoxy-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",
+    "CanonicalSMILES": "CCNC1=NC(=NC(=N1)OC)NC(C)C",
+    "Synonyms": [
+        "Atraton",
+        "1610-17-9",
+        "Gesatamin",
+        "Atroton",
+        "ATRATONE",
+        "Atraton [ISO]",
+        "Geigy 32,293",
+        "2-Methoxy-4-ethylamino-6-isopropylamino-s-triazine",
+        "2-Methoxy-4-isopropylamino-6-ethylamino-S-triazine",
+        "N2-Ethyl-N4-isopropyl-6-methoxy-1,3,5-triazine-2,4-diamine",
+        "2-Ethylamino-4-isopropylamino-6-methoxy-s-triazine",
+        "4-Ethylamino-6-isopropylamino-2-methoxy-s-triazine",
+        "\"N-Ethyl-6-methoxy-N-(1-methylethyl)-1,3,5-triazine-2,4-diamine\"",
+        "NSC 163045",
+        "G 32293"
+    ],
+    "IsomericSMILES": "CCNC1=NC(=NC(=N1)OC)NC(C)C",
+    "INCHI": "InChI=1S/C9H17N5O/c1-5-10-7-12-8(11-6(2)3)14-9(13-7)15-4/h6H,5H2,1-4H3,(H2,10,11,12,13,14)",
+    "INCHIKEY": "PXWUKZGIHQRDHL-UHFFFAOYSA-N",
+    "Formula": "C9H17N5O",
+    "MolecularWeight": {
+        "$numberDouble": "211.26"
+    },
+    "Description": "Atraton is a diamino-1,3,5-triazine that is N-ethyl-N'-(propan-2-yl)-1,3,5-triazine-2,4-diamine substituted by a methoxy group at position 6. It is an agrochemical used as a herbicide. It has a role as an environmental contaminant, a xenobiotic, an agrochemical and a herbicide. It is a diamino-1,3,5-triazine and a methoxy-1,3,5-triazine.",
+    "XlogP": {
+        "$numberDouble": "2.7"
+    },
+    "Complexity": {
+        "$numberInt": "178"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The study investigates the factors influencing the absorption and translocation of pesticides by the hypocotyls (stem-like embryonic plant structures) of intact radish seedlings. Specifically, the research focuses on triazine herbicides such as simazine, atrazine, and atraton. The findings suggest that the uptake and translocation processes are predominantly passive and not significantly influenced by factors such as humidity, concentration, light, and aqueous solubilities of the compounds. The rate at which atrazine and simazine are translocated to the cotyledons is primarily determined by diffusion across the hypocotyl tissues, rather than the rate of transpiration. Additionally, there appears to be a qualitative relationship between the percentage of compounds translocated to the upper part of the shoots and their partition coefficients in oil/water systems. The study also briefly discusses the relative importance of pesticide uptake by roots and shoots in field conditions.",
+            "reference": "Shone, M. G. T., & Wood, A. V. (1976). Uptake and translocation of some pesticides by hypocotyls of radish seedlings. Weed Research, 16(4), 229-238.",
+            "method": {
+                "Test Plant": "Radish (Raphanus sativus, L., cv. Black Spanish)",
+                "Apply Location": "Roots of seedlings.",
+                "Plant Grown Condition": "Germinated on moist filter paper in the dark, then transferred to a full-strength culture medium and placed in a glasshouse for 4-5 days with a minimum temperature of 15\u00b0C, day length of 16 h, and supplementary artificial lighting in winter. Plants were used when cotyledons were fully developed and the expanding first leaf was just visible.",
+                "Chemical Preparation": "Compounds were labeled with 14C in the ring.",
+                "Pesticide Application Details for the Plant": "In Method 1, cover slips were sealed over the ends of glass micropotometers enclosing the basal portion of the hypocotyls, and a solution of the pesticide was filled into the micropotometers while the roots were in a nutrient solution tank. In Method 2, seedlings were placed in small vessels with culture solution, and a precise amount of the pesticide solution was applied to the hypocotyl using a 'Microcap' capillary, allowing for quantitative assessment by weighing the capillary before and after application, with the pesticide solution containing a wetting agent.",
+                "Other Information": "Seeds were washed for 6 h, germinated in the dark, and then transferred to a full-strength culture medium in a glasshouse."
+            },
+            "result": "[{\"Method\": 1, \"Concentration of atraton (ug/ml)\": 0.5, \"Total amount taken up (ng)\": 25, \"% Translocated to cotyledons\": 69.4}, {\"Method\": 1, \"Concentration of atraton (ug/ml)\": 50.0, \"Total amount taken up (ng)\": 1790, \"% Translocated to cotyledons\": 71.0}, {\"Method\": 1, \"Concentration of atraton (ug/ml)\": 100.0, \"Total amount taken up (ng)\": 2850, \"% Translocated to cotyledons\": 74.0}, {\"Method\": 2, \"Concentration of atraton (ug/ml)\": 6.0, \"Total amount taken up (ng)\": 26, \"% Translocated to cotyledons\": 85.1}, {\"Method\": 2, \"Concentration of atraton (ug/ml)\": 50.0, \"Total amount taken up (ng)\": 140, \"% Translocated to cotyledons\": 86.8}, {\"Method\": 2, \"Concentration of atraton (ug/ml)\": 100.0, \"Total amount taken up (ng)\": 360, \"% Translocated to cotyledons\": 79.9}]"
+        },
+        {
+            "content": "Barley plants were exposed to six herbicides and a systemic fungicide (four triazines, diuron, 2,4-dichlorophenoxyacetic acid (2,4-D), and ethirimol). The relationships between uptake and transpiration rate were discussed in the light of the physico-chemical properties of these compounds, notably their partition coefficients in oil/water systems and their dissociation constants. Apart from 2,4-D, sorption of these compounds appears to be a passive process. At pH 4, the uptake of 2,4-D seems to be influenced by metabolism; not only may the concentration of this compound in the transpiration stream be considerably greater than that in the medium surrounding the roots, but absorption by roots is markedly reduced at low temperatures and by sodium azide. The initial rate of uptake of these compounds correlates reasonably well with their partition coefficients in olive oil/water or ra-dodecane/water systems; likewise, the concentration in the transpiration stream is greater for lipophilic than for lipophobic substances. The hydrogen ion and calcium concentrations of the ambient medium appear to have no effect on the uptake of compounds with low pK's, but the uptake of those substances which protonate between pH 4 and pH 6 is affected by them. These findings are discussed from the viewpoint that the pathways of transport of lipophilic and lipophobic compounds across the roots may differ.",
+            "reference": "Shone, M. G. T., & WOOD, A. V. (1974). A comparison of the uptake and translocation of some organic herbicides and a systemic fungicide by barley: I. Absorption in eelation to physico-chemical properties. Journal of experimental botany, 25(2), 390-400.",
+            "method": {
+                "Test Plant": "One-week-old barley plants (Hordeum vulgare var. Proctor)",
+                "Apply Location": "-",
+                "Plant Growth Condition": "Solution culture conditions not explicitly described. Previous methods referenced (Shone and Wood, 1972a).",
+                "Chemical Preparation": "Simazine, atrazine (ring-14C labeled), atratone (prepared from atrazine), hydroxyatrazine (prepared from atrazine method of Castelfranco et al. 1961), diuron (14C-carbonyl labeled), ethirimol (ring-14C labeled), 2,4-D (side chain-14C labeled, diluted to 5-25 \u03bcCi/mg). Concentrations ~10^-6 M or 5x10^-7 M in solution.",
+                "Pesticide Application Details for the Plant": "The compounds were applied to the barley plants in solution, with concentrations ranging from 0.1 to 0.2 parts per million (ppm) or approximately 10^-6 to 5x10^-7 M, unless otherwise specified.",
+                "Other Information": "24 hour absorption period"
+            },
+            "result": "[{\"PH\": 6.5, \"Transpiration Stream Concentration Factor (TSCF)\": 0.783, \" Root Concentration Factor (RCF)\": 1.28}, {\"PH\": 4.0, \"Transpiration Stream Concentration Factor (TSCF)\": 0.466, \" Root Concentration Factor (RCF)\": 1.45}]"
+        }
+    ]
+}

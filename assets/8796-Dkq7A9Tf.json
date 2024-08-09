@@ -1,0 +1,66 @@
+{
+    "_id": {
+        "$oid": "66927129303528b49832d827"
+    },
+    "CID": {
+        "$numberInt": "8796"
+    },
+    "Name": "4-Chlorophenylurea",
+    "IUPACName": "(4-chlorophenyl)urea",
+    "CanonicalSMILES": "C1=CC(=CC=C1NC(=O)N)Cl",
+    "Synonyms": [
+        "4-Chlorophenylurea",
+        "140-38-5",
+        "1-(4-chlorophenyl)urea",
+        "(4-CHLOROPHENYL)UREA",
+        "Urea",
+        "(4-chlorophenyl)-",
+        "(p-Chlorophenyl)urea",
+        "p-CPU",
+        "Urea",
+        "(p-chlorophenyl)-",
+        "Urea",
+        "N-(4-chlorophenyl)-",
+        "1-(p-Chlorophenyl)urea",
+        "N-(4-Chlorophenyl)urea",
+        "Urea",
+        "1-(p-chlorophenyl)-",
+        "NSC12971",
+        "52HM99ELKB",
+        "DTXSID5041512"
+    ],
+    "IsomericSMILES": "C1=CC(=CC=C1NC(=O)N)Cl",
+    "INCHI": "InChI=1S/C7H7ClN2O/c8-5-1-3-6(4-2-5)10-7(9)11/h1-4H,(H3,9,10,11)",
+    "INCHIKEY": "RECCURWJDVZHIH-UHFFFAOYSA-N",
+    "Formula": "C7H7ClN2O",
+    "MolecularWeight": {
+        "$numberDouble": "170.59"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "1.8"
+    },
+    "Complexity": {
+        "$numberInt": "143"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The uptake of four 14C-labelled non-ionised compounds, including the insecticide/nematicide oxamyl and three model phenylureas, from solution by rooted stems of the aquatic plant parrot feather [Myriophyllum aquaticum (Vell.) Verdc], along with translocation to emergent shoots, was measured over 24 and 48 hours. Uptake into submerged tissues of roots and stem base involved two processes: movement into the aqueous phase of cells and then partitioning onto the plant solids. This partitioning process was influenced by lipophilicity (measured by the l-octanol/water partition coefficient, Kow), resulting in higher uptake rates of more lipophilic compounds. Translocation to shoots was passive and most efficient at a log Kow of about 1.8, where the efficiency was about 40% of that of water. This optimal log Kow was similar to that observed in barley, although the translocation efficiency was slightly lower in parrot feather. Solvation parameters were used to model uptake and translocation of a set of ten compounds by barley, aiming to understand why translocation efficiency is reduced at log Kow > 1.8.",
+            "reference": "De Carvalho, R. F., Bromilow, R. H., & Greenwood, R. (2007). Uptake and translocation of non\u2010ionised pesticides in the emergent aquatic plant parrot feather Myriophyllum aquaticum. Pest Management Science: formerly Pesticide Science, 63(8), 798-802.",
+            "method": {
+                "Test Plant": "Parrot feather",
+                "Apply Location": "Root application (aqueous solution)",
+                "Plant Grown Condition": "Darkened glass crystallizing dish, 22\u00b12\u00b0C, natural light, 12cm long rooted cuttings, 3 plants per vessel, 8g total weight per vessel",
+                "Chemical Preparation": "Four 14C-labelled compounds: three analogues of phenylurea herbicides and the insecticide/nematicide oxamyl, specific activities of about 9 MBq/mmol, radiochemical purity > 98%",
+                "Pesticide Application Details for the Plant": "5 \u00b5M aqueous solution of each compound, 100 mL per vessel, 24 and 48 hour uptake periods",
+                "Other Information": "Two replicate vessels, three plants per vessel, samples stored at -15\u00b0C if required prior to analysis, aliquots (2\u00d71.0 mL) of the root-bathing solution taken initially and at the end of the exposure periods for analysis."
+            },
+            "result": "[{\"Hours after application\": 2.04, \"Root concentration factor (ml/g)\": 1.26, \"Stem bases concentration factor (ml/g) Transport efficiency to shoots (ml/g)\": 0.35}, {\"Hours after application\": 1.97, \"Root concentration factor (ml/g)\": 1.48, \"Stem bases concentration factor (ml/g) Transport efficiency to shoots (ml/g)\": 0.39}]"
+        }
+    ]
+}

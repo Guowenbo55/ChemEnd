@@ -1,0 +1,107 @@
+{
+    "_id": {
+        "$oid": "6682e870c4e5dba5ffba259a"
+    },
+    "CID": {
+        "$numberInt": "7245"
+    },
+    "Name": "2-CHLOROPHENOL",
+    "IUPACName": "2-chlorophenol",
+    "CanonicalSMILES": "C1=CC=C(C(=C1)O)Cl",
+    "Synonyms": [
+        "2-CHLOROPHENOL",
+        "95-57-8",
+        "o-Chlorophenol",
+        "Phenol",
+        "2-chloro-",
+        "2-Hydroxychlorobenzene",
+        "o-Chlorphenol",
+        "2-Chloro-1-hydroxybenzene",
+        "o-Chlorophenic acid",
+        "Phenol",
+        "o-chloro-",
+        "CHLOROPHENOL",
+        "2-chloro-phenol",
+        "RCRA waste number U048",
+        "NSC 2870",
+        "MFCD00002159",
+        "K9KAV4K6BN"
+    ],
+    "IsomericSMILES": "C1=CC=C(C(=C1)O)Cl",
+    "INCHI": "InChI=1S/C6H5ClO/c7-5-3-1-2-4-6(5)8/h1-4,8H",
+    "INCHIKEY": "ISPYQTSUDJAMAB-UHFFFAOYSA-N",
+    "Formula": "C6H5ClO",
+    "MolecularWeight": {
+        "$numberDouble": "128.55"
+    },
+    "Description": "2-chlorophenol is a monochlorophenol and a 2-halophenol.",
+    "XlogP": {
+        "$numberDouble": "2.1"
+    },
+    "Complexity": {
+        "$numberInt": "74"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Webber MD et al; J Environ Qual 23: 1019-26 (1994)",
+            "Value": "A field study of industrial organic uptake by growing crops was conducted during 1990 at the St. David Coal Refuse Pile Reclamation Site, Fulton County, IL; 2-chlorophenol was detected in coal refuse and plant materials, concns unknown(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Veith GD, Kosian; pp. 269-81 in Physical Behavior of PCB's in the Great Lakes. Makay D et al, eds. (1983) (2) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from https://www.safe.nite.go.jp/english/db.html as of October 30, 2008. (3) Kobayashi K et al; Bull Jap Soc Sci Fish 45: 173-5 (1979) (4) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "BCF's of 214 (log BCF = 2.33) in bluegill sunfish after 28 days exposure(1), 14 to 29 in carp(2), and 6 for goldfish(3) were determined for 2-chlorophenol. According to a classification scheme(4), BCF values of zero to 30 are low and from 100 to 1,000 are high."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from https://www.safe.nite.go.jp/english/db.html as of Nov 3, 2008. (2) Dawson TD and Chang FH; Bull Environ Contam Toxicol 49: 10-17 (1992) (3) Goulding G et al; J Appl Bacteriol 65: 1-5 (1988) (4) Liu D and Pacepavicius G; Toxicity Assessment 5: 367-87 (1990) (5) Farrell A, Quilty B; Biodeg 10: 353-62 (1999) (6) Lu GH et al; Bull Environ Contam Toxicol 69: 111-116 (2002)",
+            "Value": "AEROBIC: 2-Chlorophenol, present at 100 mg/L, reached 0% of its theoretical BOD in 2 weeks using an activated sludge inoculum(1). In an aerobic screening test, the microorganism Pseudomonas gladioli was able to degrade 2-chlorophenol 74.6% after an incubation period of 24 hours and an initial concn of 8.78 ug/ml(2). 2-Chlorophenol was 100% degraded by a microbial mixture inoculum after an incubation time of 96 hours(3). The aerobic biodegradation of 2-chlorophenol in the cyclone fermentor system revealed 0% remaining after 200 hours and a lag time of 25 hours; this corresponds to a half-life of 140 hours(4). Incubation at 30 \u00b0C resulted in incomplete removal of 2-chlorophenol, which ceased after 48 hours. 64.8% of 2-chlorophenol was removed; however, only 30.2% of the total chloride was released. Degradation proceeded via meta-cleavage and a build-up of the metabolite 3-chlorocatechol was observed(5). 2-Chlorophenol reached 38.0% of its theoretical BOD in river water obtained from the Jilin section of the Songhua River, China. A test concn of 2 mg/L (based on the Theoretical Oxygen Demand for 2-chlorophenol) was tested at 15-20 \u00b0C, pH 6.8-7.0, and a dissolved oxygen concn of 8.0 mg/L using standard iodometric tritration(6)."
+        },
+        {
+            "References": "(1) Ludzack FJ, Ettinger MB; J Water Pollut Control Fed 32: 1173-1200 (1960) (2) Baker MD et al; Water Res 14: 1765-71 (1980) (3) Alexander M, Aleem MIH; J Agric Food Chem 9: 44-7 (1961) (4) Walker N; Plant Soil 5: 194-204 (1954) (5) Haider K et al; Arch Microbiol 96: 183-200 (1974) (6) Ettinger MB, Ruchhoft CC; Sew Indust Waste 22: 1214-7 (1950) (7) Sulfita JM, Miller GD; Environ Toxicol Chem 4: 751-8 (1985) (8) Ingols RS et al; J Water Pollut Control Fed 38: 629-35 (1966) (9) Dojlido JR; Investigations of Biodegradability and Toxicity Organic Compounds Final Report 1975-79 USEPA-600/2-79-163 (1979) (10) Pitter P; Water Res 10: 231-5 (1976)",
+            "Value": "AEROBIC: Complete removal of 2-chlorophenol at 1 ppm concn in 15 days was reported in acclimated river water(1). Recoveries of residual 2-chlorophenol (days) in river die-away tests using Great Miami River, Ohio water was 980 ppb (0 days), 810 ppb (6 days), 710 ppb (23 days), 0 ppb (36 days), and in the Little Miami River, Ohio was 890 ppb (0 days), 870 ppb (6 days), 480 ppb (13 days), 0 ppb (15 days)(6). Addition of seed water from prior die-away testing led to faster complete removal of 2-chlorophenol in seeded vs unseeded Great Miami River, Ohio water (15 days vs 36 days), whereas time for complete removal in seeded Little Miami River,Ohio water was nearly the same as that in unseeded water (15 days vs 13 days)(6). A loss of 94% was reported for 2-chlorophenol incubated in non-sterile clay loam soil at 4 \u00b0C in 6.5 hrs and 1% loss in sterile soil in 12 days(2). Complete removal of 2-chlorophenol was reported in 14 and 47 days in Dunkirk and Mardin silt loam suspensions, respectively(3). Degradation of 67% 2-chlorophenol reported in 10 days upon percolation through Rothamsted clay; degradation was faster upon redose(4). Evolution of 13% and 25% theoretical CO2 in 1 and 10 weeks in para-brown soil reported(5). Complete disappearance of 2-chlorophenol was reported in aerobic columns of aquifer material contaminated by landfill leachate in 6 days for acclimated columns and 9 days in unacclimated columns; under anaerobic conditions degradation occurred only with aquifer material from an actively methanogenic site(7). Complete loss of 2-chlorophenol reported in sediment from farm stream at 20 \u00b0C in 10-15 days vs 19% in 30 days in sterile sediments(2). Complete degradation was reported in 3 days in acclimated sludge(8). 0% theoretical BOD in 11-19 days using  wastewater seed was observed(9); 100% and 0% biodegradation was reported using 2-chlorophenol concentrations of 5 ppm 10 ppm, respectively, and incubated with activated sludge(9). 95.6% removal in 6 hrs was observed using a test chemical concentration 200 ppm incubated with acclimated activated sludge(10)."
+        },
+        {
+            "References": "(1) Madsen T et al; Chemosphere 31: 4243-58 (1995) (2) Masunaga S et al; Environ Sci Technol 30: 1253-60 (1996) (3) Ramanand K et al; Hazardous Waste and Hazard Materials 12: 27-36 (1995) (4) Liu D, Pacepavicius G; Toxicity Assessment 5: 367-87 (1990) (5) Boyd SA, Shelton DR; Appl Environ Microbiol 47: 272-7 (1984) (6) Becker JG et al; Appl Envrion Microbiol 65: 5169-72 (1999) (7) Haggblom MM et al; Envrion Pollut 107: 199-207 (1995) (8) Kjeldsen P et al; J Contam Hydrol 6: 165-84 (1990) (9) Kuhlmann B, Schottler U; Intern J Environ Anal Chem 65: 289-95 (1996)",
+            "Value": "ANAEROBIC: An anaerobic gas production test of sewage sludge, a freshwater swamp sediment and a marine sediment was conducted. Results revealed 0 to 30% mineralization of 2-chlorophenol in digested sewage sludge after an incubation period of 56 days, 30 to 75% mineralization in freshwater swamp sediment after an incubation period of 56 days, and 0 to 30% mineralization in marine sediment after an incubation period of 96 days(1). The rate of 2-chlorophenol transformation in anaerobic estuarine sediment was determined to be 0.101/day, which corresponds to a half-life of 6.9 days(2). After a 30 day acclimation period, 2-chlorophenol was degraded with ease by soil microorganisms under nitrate-reducing conditions; 21% was biodegraded in 3 days and by 6 days, 2-chlorophenol reached low concns(3). The anaerobic degradation of 2-chlorophenol in the cyclone fermentor system resulted in 44% remaining after 500 hours and a lag time of 250 hours; this corresponds to a half-life of 475 hours(4). Incubation of 2-chlorophenol with sewage sludge under anaerobic conditions gave the following results: complete disappearance of 2-chlorophenol in 6 weeks with no lag period using unacclimated sludge; approximately 100% loss of 2-chlorophenol in 4 or 32 days with no lag period using sludge acclimated to 2- or 4-chlorophenol(5). Using 14C-labeled-2-chlorophenol in anaerobic sludge acclimated to 2-chlorophenol, >90% of total (14)C added was recovered as (14)CH4 and (14)CO2(5). Complete removal of 2-chlorophenol was achieved within 50 days in anaerobic sediment obtained from Lake Michigan. The major metabolites were phenol and 3-chlorobenzoate(6). 2-Chlorophenol biodegrades in the absence of oxygen under methanogenic, sulfidogenic, iron-reducing, and denitrifying conditions(7). The half-life of 2-chlorophenol in sub-soils under landfills was 51 and 110 days in coarse sand and sandy loam, respectively(8). 2-Chlorophenol (500 ug/L) was persistent in anaerobic sand and gravel after 2 weeks in a model ecosystem consisting of a laboratory filter operating with anaerobic groundwater(9)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Camanzo J et al; J Great Lakes Res 13: 296-309 (1987) (2) DeVault DS; Arch Environ Contam Toxicol 14: 587-94 (1985)",
+            "Value": "-Chlorophenol was identified, but not quantified, in various fish collected from Lake Michigan and tributary streams during 1983(1). 2-Chlorophenol was detected in composite fish samples collected from the Great Lakes Harbors and Tributaries between 1980 and 1981, concn unknown(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 17",
+            "Value": "log Kow = 2.15"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "WHO; Environmental Health Criteria Document No. 93: Chlorophenols other than Pentachlorophenol (95-57-8). Available from, as of November 11, 2008: https://www.inchem.org/pages/ehc.html",
+            "Value": "The major mode of action of chlorophenols appears to be the uncoupling of oxidative phosphorylation. The strength of the uncoupling effect is related to the degree of chlorination: PCP is the strongest inhibitor of oxidative phosphorylation, MCP the weakest. To a lesser extent, inhibition of oxidative phosphorylation is affected by the positions of the chlorine atoms on the molecule. There appears to be a relationship between chlorination and the toxicity of PCP and T4CP, although there is no clear-cut relationship between the degree of chlorination and toxicityin MCP, DCP, and the T3CP series. /chlorophenols/"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Pakdel H et al; pp. 381-241 in Groundwater Contamination and Analysis at Hazardous Waste Sites; S Lesage and RE Jackson, eds. NY,NY: Marcel-Dekker, Inc (1994) (2) Judd MC et al; Chemosphere 33: 2209-20 (1996) (3) Acharya P, Ives P; J Air Waste Manag Assoc 44: 1195-1203 (1994) (4) Staples CA et al; Environ Toxicol Chem 4: 131-42 (1985)",
+            "Value": "SOIL: 2-Chlorophenol was identified in soil samples taken from the Ville Mercier site (12 different locations) in southern Quebec, Canada, in concns ranging from 1.1 to 12,350 ug/kg(1). The concn of 2-chlorophenol in river sediments above and below the effluent discharges of two New Zealand pulp and paper mills was determined to range from 0 to 0.5 ng/g(2). Samples were collected from a remedial investigation site located north of Lake Pontchartrain in Slidell, LA in February 1986; the concn of 2-chlorophenol in sediment from the Bayou Bonfouca site was determined to be 3,000 ug/kg (ppb)(3). USEPA STORET database: 308 samples, 1% pos, median, <1,000 ppm(4)."
+        },
+        {
+            "References": "Valo R et al; Chemosphere 13 (8): 835-44 (1984)",
+            "Value": "SOIL: A study was conducted of soil and water contamination in the vicinity of 2 sawmills that used chlorophenol containing preservatives used against blue-staining fungi. The soil around the treatment basins contained up to 70 mg chlorophenols/kg and that in the storage area for treated lumber up to 6 mg/kg. Contamination extended to a depth of at least 2 m near the treatment basins. /Chlorophenols/"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Shiu WY et al; Chemosphere 29: 1155-224 (1994) (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Experimentally determined Koc's for 2-chlorophenol in various soil conditions were reported as 51 in clay loam soil and 398 in unspecified soil(1). Koc values of  3,981 in coarse sediment, and 5,012 in fine sediment have also been reported(1). According to a classification scheme(2), 2-chlorophenol will exhibit high to moderate mobility depending on soil type(SRC)."
+        }
+    ]
+}

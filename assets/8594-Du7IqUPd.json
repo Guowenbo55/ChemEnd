@@ -1,0 +1,81 @@
+{
+    "_id": {
+        "$oid": "6682e8c2c4e5dba5ffba2731"
+    },
+    "CID": {
+        "$numberInt": "8594"
+    },
+    "Name": "NAPTALAM",
+    "IUPACName": "2-(naphthalen-1-ylcarbamoyl)benzoic acid",
+    "CanonicalSMILES": "C1=CC=C2C(=C1)C=CC=C2NC(=O)C3=CC=CC=C3C(=O)O",
+    "Synonyms": [
+        "NAPTALAM",
+        "132-66-1",
+        "Grelutin",
+        "N-(1-Naphthyl)phthalamic acid",
+        "N-1-Naphthylphthalamic acid",
+        "2-(naphthalen-1-ylcarbamoyl)benzoic acid",
+        "Alanap",
+        "Alanape",
+        "Analape",
+        "Dyanap",
+        "Peach-Thin",
+        "Mor-Cran",
+        "Alanap 1",
+        "Alanap 3",
+        "Naphthalam"
+    ],
+    "IsomericSMILES": "C1=CC=C2C(=C1)C=CC=C2NC(=O)C3=CC=CC=C3C(=O)O",
+    "INCHI": "InChI=1S/C18H13NO3/c20-17(14-9-3-4-10-15(14)18(21)22)19-16-11-5-7-12-6-1-2-8-13(12)16/h1-11H,(H,19,20)(H,21,22)",
+    "INCHIKEY": "JXTHEWSKYLZVJC-UHFFFAOYSA-N",
+    "Formula": "C18H13NO3",
+    "MolecularWeight": {
+        "$numberDouble": "291.3"
+    },
+    "Description": "Naptalam is a dicarboxylic acid monoamide which results from addition of one equivalent of 1-naphthylamine to phthalic anhydride. It has a role as a herbicide. It is a dicarboxylic acid monoamide, a carboxylic acid and a N-(1-naphthyl)carboxamide. It is a conjugate acid of a naptalamate.",
+    "XlogP": {
+        "$numberDouble": "3.5"
+    },
+    "Complexity": {
+        "$numberInt": "423"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "PMID:7379718",
+            "Value": "BCF = 0.5 (calculated from water solubility by regression equations) /From table/"
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 342",
+            "Value": "SUBJECT TO SLOW MICROBIAL BREAKDOWN."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Kirk-Othmer Encyclopedia of Chemical Technology. 3rd ed., Volumes 1-26. New York, NY: John Wiley and Sons, 1978-1984., p. 12(80) 297-351",
+            "Value": "... Naptalam may act by affecting the transport of auxin within the plant."
+        },
+        {
+            "References": "Gardner G, Semple JE; J Plant Growth Regul 9 (3): 161-70 (1990)",
+            "Value": "2-(p-Carbethoxyphenyl)-1,3(2H,4H)-isoquinolinedione, an experimental herbicide, caused effects on geotropism, which are often indicative of an effect on auxin transport, in a whole plant herbicidal screen. However, it showed little or no activity in an in vitro binding assay in corn coleoptiles for the auxin transport inhibitor, N-1-naphthylphthalamic acid. Other active isoquinolinedione analogues of this compound did, however, exhibit significant in vitro activity. Direct measurements of auxin transport in corn coleoptiles were undertaken in an attempt to resolve the apparent discrepancy between herbicidal and binding activities. In all cases examined, compounds that were highly active on whole plants were good inhibitors of auxin transport, and compounds that were weak as herbicides showed little or no effect on auxin transport. Therefore, it is concluded that the mode of action of these isoquinolinedione herbicides is the inhibition of auxin transport. Ring-opened analogues of several isoquinolinediones were synthesized and assayed in both the transport and binding assays, in order to test whether compounds in this class express their herbicidal activity by undergoing ring-opening in vivo, yielding products that are more straightforward analogues of N-1-naphthylphthalamic acid with free carboxyl groups. The homophthalamic acids had little or no activity in both assays. On the other hand, the p-ethyl- and p-ethoxy-phenyl phthalamic acids showed auxin transport inhibition comparable to the parent isoquinolinediones, but with markedly increased binding activity. These results support the possible role of ring-opening in the generation of biological activity. However, the p-carbethoxyphenyl phthalamic acid, analogous to 2-(p-carbethoxyphenyl)-1,3(2H,4H)-isoquinolinedione, was very weak in both assays. Thus, ring-opening in vivo cannot alone account for the biological activity of this class of compounds."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 342",
+            "Value": "LEACHES RAPIDLY IN HIGHLY POROUS OR SILT LOAM SOILS OF EXTREMELY FINE TEXTURE. HEAVY RAINS IMMEDIATELY AFTER APPLICATION WILL CAUSE ... LEACHING ... ."
+        },
+        {
+            "References": "PMID:7379718",
+            "Value": "Koc = 4 (calculated from water solubility by regression equations) /From table/"
+        },
+        {
+            "References": "Purdue University; National Pesticide Information Retrieval System (1986)",
+            "Value": "Terrestrial Fate: Absorption and leaching characteristics: Incomplete data indicate that naptalam is very mobile in a fine sand, a sandy loam, and a silt loam soil, and slightly mobile in muck soil. Retention of naptalam by soil is correlated with /cation exchange capacity/ CEC and organic matter content."
+        }
+    ]
+}

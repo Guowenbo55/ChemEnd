@@ -1,0 +1,63 @@
+{
+    "_id": {
+        "$oid": "669270f6303528b49832d75f"
+    },
+    "CID": {
+        "$numberInt": "184601"
+    },
+    "Name": "Imidaclothiz",
+    "IUPACName": "N-[1-[(2-chloro-1,3-thiazol-5-yl)methyl]-4,5-dihydroimidazol-2-yl]nitramide",
+    "CanonicalSMILES": "C1CN(C(=N1)N[N+](=O)[O-])CC2=CN=C(S2)Cl",
+    "Synonyms": [
+        "IMIDACLOTHIZ",
+        "105843-36-5",
+        "E070T0J4TU",
+        "N-[1-[(2-chloro-1,3-thiazol-5-yl)methyl]-4,5-dihydroimidazol-2-yl]nitramide",
+        "(EZ)-1-(2-Chloro-1,3-thiazol-5-ylmethyl)-N-nitroimidazolidin-2-ylideneamine",
+        "1-((2-Chloro-5-thiazolyl)methyl)-4,5-dihydro-N-nitro-1H-imidazol-2-amine",
+        "UNII-E070T0J4TU",
+        "1-[(2-chloro-5-thiazolyl)methyl]-4,5-dihydro-N-nitro-1H-imidazol-2-amine",
+        "1H-Imidazol-2-amine",
+        "1-[(2-chloro-5-thiazolyl)methyl]-4,5-dihydro-N-nitro-; Imidaclothiz",
+        "1-[(2-chloro-1,3-thiazol-5-yl)methyl]-n-nitro-4,5-dihydro-1h-imidazol-2-amine",
+        "DTXSID4057926",
+        "SCHEMBL20591245",
+        "HY-W338247",
+        "1ST20446",
+        "DB-215858"
+    ],
+    "IsomericSMILES": "C1CN(C(=N1)N[N+](=O)[O-])CC2=CN=C(S2)Cl",
+    "INCHI": "InChI=1S/C7H8ClN5O2S/c8-6-10-3-5(16-6)4-12-2-1-9-7(12)11-13(14)15/h3H,1-2,4H2,(H,9,11)",
+    "INCHIKEY": "OWRSHPAYDYCHSJ-UHFFFAOYSA-N",
+    "Formula": "C7H8ClN5O2S",
+    "MolecularWeight": {
+        "$numberDouble": "261.69"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "0.9"
+    },
+    "Complexity": {
+        "$numberInt": "310"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Imidaclothiz is a novel and systemic neonicotinoid pesticide with excellent insecticidal efficacy. However, knowledge of its uptake, translocation, and biotransformation within plants is still largely unknown, restricting work on its accurate and comprehensive risk assessment. Here, we systematically investigated the behavior of imidaclothiz in three plant\u2212water systems via hydroponic experiments. The results showed that imidaclothiz was readily taken up by plant roots and translocated upward, resulting in relative enrichment in leaves. The recoveries of imidaclothiz in plant\u2212water systems decreased with increasing exposure time, and  approximately 31.8\u221245.6% mass loss was measured at the end of exposure. Ultimately, imidaclothiz yielded five products in celery leaves, three products in lettuce leaves, and two products in radish leaves. Multiple metabolic reactions including hydroxylation, hydrolysis of nitrate ester, and methylation occurred within plants. This is the first report on the fate of imidaclothiz within plants and suggests increasing concerns about the risk assessment of imidaclothiz.",
+            "reference": "Tao, Y., Jia, C., Jing, J., Zhao, M., Yu, P., He, M., \u2026 Zhao, E. (2021). Uptake, Translocation, and Biotransformation of Neonicotinoid Imidaclothiz in Hydroponic Vegetables: Implications for Potential Intake Risks. Journal of Agricultural and Food Chemistry, 69(14), 4064\u20134073. doi:10.1021/acs.jafc.0c07006\u00a0",
+            "method": {
+                "Test Plant": "Lettucer, radish and celery.",
+                "Apply Location": "hydroponic buckets",
+                "Plant Grown Condition": "Lettuce (Flandria), radish (Jingyan Red Cherry), and celery (Jingqin No. 1) seedlings were germinated in sterile glass Petri dishes and transferred to porous seedling boxes with 10 L of nutrient solution (pH = 6.5, EC = 600 \u00b1 20 \u03bcS/cm). They were then transferred to single hydroponic buckets containing 600 mL of nutrient solution for further cultivation. Plants were grown in an environment-controlled greenhouse with a 16 h photoperiod, 8 h oxygen exchange each day, and day/night (25/20 \u00b0C) room temperature, with a relative humidity of 65%. The nutrient solution was diluted with deionized water and renewed every 3 days.",
+                "Chemical Preparation": "Imidaclothiz (\u226598.0% purity) and leucine enkephalin (98.0% purity) standards were used. Acetonitrile, methanol, and formic acid (\u226598.0% purity) were of HPLC grade. Sodium chloride (NaCl) of analytical grade was used. Ultrapure water was prepared from a Milli-Q purification system.",
+                "Pesticide Application Details for the Plant": "Lettuce, radish, and celery seedlings were individually transplanted into each hydroponic bucket with 600 mL of fresh exposure solution containing spiked imidaclothiz at nominal concentrations of 0.2 mg/L for radish and 0.4 mg/L for lettuce and celery. Sampling intervals were 1, 2, 3, 5, 7, 10, 13, and 16 days for lettuce seedlings, 4, 6, 8, 16, and 19 days for radish seedlings, and 1, 3, 6, 10, and 16 days for celery seedlings in triplicate.",
+                "Other Information": "The experiments were performed in triplicate, with four replicates for continuous variables. Statistical analysis was conducted using IBM SPSS Statistics 23.0 software, with p < 0.05 (two-tailed) considered statistically significant differences."
+            },
+            "result": "[{\"Plant\": \"Lettuce\", \"Time after application\": \"1 day\", \"TF (shoot/root)\": \"0.3\", \"Solution (%)\": 98, \"Shoot (%)\": 1, \"Root (%)\": 1}, {\"Plant\": \"Lettuce\", \"Time after application\": \"3 days\", \"TF (shoot/root)\": \"0.8\", \"Solution (%)\": 93, \"Shoot (%)\": 6, \"Root (%)\": 1}, {\"Plant\": \"Lettuce\", \"Time after application\": \"5 days\", \"TF (shoot/root)\": \"1.2\", \"Solution (%)\": 88, \"Shoot (%)\": 11, \"Root (%)\": 1}, {\"Plant\": \"Lettuce\", \"Time after application\": \"7 days\", \"TF (shoot/root)\": \"1.7\", \"Solution (%)\": 83, \"Shoot (%)\": 15, \"Root (%)\": 2}, {\"Plant\": \"Lettuce\", \"Time after application\": \"10 days\", \"TF (shoot/root)\": \"1.8\", \"Solution (%)\": 80, \"Shoot (%)\": 18, \"Root (%)\": 2}, {\"Plant\": \"Lettuce\", \"Time after application\": \"13 days\", \"TF (shoot/root)\": \"1.5\", \"Solution (%)\": 78, \"Shoot (%)\": 20, \"Root (%)\": 2}, {\"Plant\": \"Lettuce\", \"Time after application\": \"16 days\", \"TF (shoot/root)\": \"1.5\", \"Solution (%)\": 77, \"Shoot (%)\": 20, \"Root (%)\": 3}, {\"Plant\": \"Radish\", \"Time after application\": \"4 days\", \"TF (shoot/root)\": \"2.8\", \"Solution (%)\": 96, \"Shoot (%)\": 3, \"Root (%)\": 1}, {\"Plant\": \"Radish\", \"Time after application\": \"6 days\", \"TF (shoot/root)\": \"2.8\", \"Solution (%)\": 96, \"Shoot (%)\": 3, \"Root (%)\": 1}, {\"Plant\": \"Radish\", \"Time after application\": \"8 days\", \"TF (shoot/root)\": \"4.8\", \"Solution (%)\": 94, \"Shoot (%)\": 5, \"Root (%)\": 1}, {\"Plant\": \"Radish\", \"Time after application\": \"16 days\", \"TF (shoot/root)\": \"5\", \"Solution (%)\": 88, \"Shoot (%)\": 10, \"Root (%)\": 2}, {\"Plant\": \"Radish\", \"Time after application\": \"19 days\", \"TF (shoot/root)\": \"5.5\", \"Solution (%)\": 88, \"Shoot (%)\": 10, \"Root (%)\": 2}, {\"Plant\": \"Celery\", \"Time after application\": \"1 day\", \"TF (shoot/root)\": \"<1\", \"Solution (%)\": 96, \"Shoot (%)\": 1, \"Root (%)\": 1}, {\"Plant\": \"Celery\", \"Time after application\": \"3 days\", \"TF (shoot/root)\": \"<1\", \"Solution (%)\": 87, \"Shoot (%)\": 2, \"Root (%)\": 1}, {\"Plant\": \"Celery\", \"Time after application\": \"6 days\", \"TF (shoot/root)\": \"<1\", \"Solution (%)\": 70, \"Shoot (%)\": 3, \"Root (%)\": 3}, {\"Plant\": \"Celery\", \"Time after application\": \"10 days\", \"TF (shoot/root)\": \"<1\", \"Solution (%)\": 66, \"Shoot (%)\": 2, \"Root (%)\": 2}, {\"Plant\": \"Celery\", \"Time after application\": \"16 days\", \"TF (shoot/root)\": \"<1\", \"Solution (%)\": 76, \"Shoot (%)\": 2, \"Root (%)\": 2}]"
+        }
+    ]
+}

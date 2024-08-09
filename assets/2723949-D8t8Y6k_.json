@@ -1,0 +1,87 @@
+{
+    "_id": {
+        "$oid": "6682e9aac4e5dba5ffba2bc4"
+    },
+    "CID": {
+        "$numberInt": "2723949"
+    },
+    "Name": "THIOACETAMIDE",
+    "IUPACName": "ethanethioamide",
+    "CanonicalSMILES": "CC(=S)N",
+    "Synonyms": [
+        "THIOACETAMIDE",
+        "Ethanethioamide",
+        "62-55-5",
+        "Acetothioamide",
+        "Thiacetamide",
+        "Acetamide",
+        "thio-",
+        "Thioacetimidic acid",
+        "Acetimidic acid",
+        "thio-",
+        "USAF CB-21",
+        "TAA",
+        "USAF EK-1719",
+        "RCRA waste number U218",
+        "Acetic acid",
+        "thiono-",
+        "amide",
+        "methylthioamide",
+        "thioacetoamide"
+    ],
+    "IsomericSMILES": "CC(=S)N",
+    "INCHI": "InChI=1S/C2H5NS/c1-2(3)4/h1H3,(H2,3,4)",
+    "INCHIKEY": "YUKQRDCYNOVPGJ-UHFFFAOYSA-N",
+    "Formula": "C2H5NS",
+    "MolecularWeight": {
+        "$numberDouble": "75.14"
+    },
+    "Description": "Thioacetamide is a thiocarboxamide consiting of acetamide having the oxygen replaced by sulfur. It has a role as a hepatotoxic agent. It is functionally related to an acetamide.",
+    "XlogP": {
+        "$numberDouble": "-0.3"
+    },
+    "Complexity": {
+        "$numberInt": "33"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 4 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated for thioacetamide(SRC), using a log Kow of -0.26(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Ludzack FJ, Ettinger MB; J Water Polut Control Fed 32: 1173-1200 (1960)",
+            "Value": "AEROBIC: Thioacetamide was not biodegraded by activated sludge after 5 days(1), and therefore may be resistant to biodegradation in the environment(SRC)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 4",
+            "Value": "log Kow = -0.26"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:6712620",
+            "Value": "Multiple injections of thioacetamide ... decrease the synthesis of cytochrome p450b and the amounts of its translatable mRNA."
+        },
+        {
+            "References": "PMID:6333422",
+            "Value": "A factor was isolated from /thioacetamide-induced/ fibrogenic rat liver which stimulates collagen synthesis in cultured fibrolblasts without affecting their rate of proliferation."
+        },
+        {
+            "References": "PMID:6209470",
+            "Value": "Altered transport of nuclear RNA sequences is an early response to carcinogens. Nuclear envelopes were isolated and assayed for nucleoside triphosphatase (NTPase) activity, on the premise that this enzymatic activity participates in RNA transport. A common feature of the action of ... thioacetamide ... at low doses without significant toxicity, was to increase nuclear envelopes NTPase activity and to increase RNA transport, as assessed by the appearance of rapiidly labeled RNA in the cytoplasm and by in vitro assay. The increases in NTPase were specific for the nuclear envelope fraction, and early toxic effects of higher doses initially masked the increases. The induced increases in nuclear envelope NTPase were long-lived. In contrast, increases in nuclear envelope NTPase were observed only during the regenerative phase of carbon tetrachloride intoxication; the CCl4-induced increase was short-lived and returned promptly to control levels. These changes in NTPase activity were not associated with parallel changes in phosphorylation/dephosphorylation of nuclear envelope proteins. Increases in nuclear envelope NTPase and alterations in RNA transport, without attendant nuclear replication, may relate to altered nuclear RNA restriction. This change in a regulatory phenomenon may make these cells more susceptible to further modification, potentially playing a role in the initiation phase of carcinogenesis."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 4 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of thioacetamide is estimated as 17(SRC), using a log Kow of -0.26(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that thioacetamide is expected to have very high mobility in soil(SRC)."
+        }
+    ]
+}

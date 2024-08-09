@@ -1,0 +1,295 @@
+{
+    "_id": {
+        "$oid": "6682e803c4e5dba5ffba2376"
+    },
+    "CID": {
+        "$numberInt": "3485"
+    },
+    "Name": "Glutaraldehyde",
+    "IUPACName": "pentanedial",
+    "CanonicalSMILES": "C(CC=O)CC=O",
+    "Synonyms": [
+        "glutaraldehyde",
+        "Pentanedial",
+        "Glutaral",
+        "111-30-8",
+        "Glutaric dialdehyde",
+        "1,5-Pentanedial",
+        "Cidex",
+        "Glutardialdehyde",
+        "Sonacide",
+        "Glutaric acid dialdehyde",
+        "Glutaric aldehyde",
+        "Glutaraldehyd",
+        "Glutaralum",
+        "Aldesan",
+        "Alhydex"
+    ],
+    "IsomericSMILES": "C(CC=O)CC=O",
+    "INCHI": "InChI=1S/C5H8O2/c6-4-2-1-3-5-7/h4-5H,1-3H2",
+    "INCHIKEY": "SXRSQZLOMIGNAQ-UHFFFAOYSA-N",
+    "Formula": "C5H8O2",
+    "MolecularWeight": {
+        "$numberDouble": "100.12"
+    },
+    "Description": "Glutaraldehyde is a dialdehyde comprised of pentane with aldehyde functions at C-1 and C-5. It has a role as a cross-linking reagent, a disinfectant and a fixative.",
+    "XlogP": {
+        "$numberDouble": "-0.5"
+    },
+    "Complexity": {
+        "$numberInt": "51"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Leung H-W; Ecotoxicol Environ Safety 49: 26-39 (2001) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Feb 25, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated for glutaraldehyde(SRC), using a log Kow of -0.33(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Feb 26, 2015: https://www.safe.nite.go.jp/english/db.html (2) OECD; SIDS Initial Assessment Report. Glutaraldehyde (CAS No.111-30-8). Available from, as of Feb 25, 2015: https://www.inchem.org/documents/sids/sids/FORMALDEHYDE.pdf (3) Leung H-W; Ecotoxicol Environ Safety 49: 26-39 (2001) (4) ECHA; Search for Chemicals. Glutaraldehyde (CAS 111-30-8) Registered Substances Dossier. European Chemical Agency. Available from, as of Feb 25, 2015: https://echa.europa.eu/",
+            "Value": "AEROBIC: Glutaraldehyde, present at 100 mg/L, reached 59% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1). Using OECD Guideline 301C (Ready biodegradability: Modified MITI Test (I)), glutaraldehyde reached 74% of its theoretical BOD in 28 days and 80% DOC in 15 days with classified the compound as readily biodegradable(2). Glutaraldehyde was found to be readily biodegradable using OECD Guideline 301D (Closed Bottle Test)(2). In a DOC die-away test, glutaradehyde, present at 25 mg/L, showed 83% degradation in 5 days using a sewage inoculum(3). Glutaraldehyde, present at 8.3 mg/L, degraded 60% in 28 days using sewage inoculum in a CO2 evolution test(3). In a closed bottle test, glutaraldehyde present at 2.0 mg/L, degraded 64% in 28 days using a Polyseed inoculum(3). A higher biodegradability with a short lag time was observed when the glutaraldehyde concentrations in the test systems were low (<2 mg/L) than when the concentrations were high (>8 mg/L). Since bacterial inhibition for glutaraldehyde occurs at about 5 mg/L, the lower biodegradation rates observed in studies where high concentrations of glutaraldehyde were used were likely due to inhibition of the inoculum(3). In a closed bottle test using seawater as inoculum, glutaraldehyde showed 73% degradation in 28 days(3). The major metabolite of glutaraldehyde produced by microbes in an aerobic sediment-river water system was carbon dioxide, with glutaric acid formed as an intermediate in the water phase(3). The calculated pseudo-first-order half-life of glutaraldehyde catabolism in water (based on the loss of the parent compound) under aerobic conditions was 10.6 hours(3). A soil degradation study using a loamy sand soil and initial glutaraldehyde concentration of 10 ppm observed a pseudo-first order biodegradation half-life of 1.7 days due primarily to soil microorganisms(4)."
+        },
+        {
+            "References": "(1) Leung H-W; Ecotoxicol Environ Safety 49: 26-39 (2001)",
+            "Value": "ANAEROBIC: The major metabolites of glutaraldehyde produced by microbes in an anaerobic sediment-river water system were 1,5-pentanediol with 5-hydroxypentanal formed as an intermediate, and 3-formyl-6-hydroxy-2-cyclohexene-1-propanal, a cyclicized dimer of glutaraldehyde. The calculated pseudo-first-order half-life of glutaraldehyde catabolism in water (based on the loss of the parent compound) under anaerobic conditions was 7.7 hours(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Leung H-W; Ecotoxicol Environ Safety 49: 26-39 (2001)",
+            "Value": "log Kow = -0.33"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Glutaral (111-30-8) p.90 (2000  CD-ROM edition). Available from, as of June 9, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Draize Test in rabbits. Effects produced on rabbit skin by occlusive contact with 0.5 mL of various concentrations of glutaraldehyde solutions: 1%: no effect; 2%: minor erythema of 1-7 days duration; 5%: minor to moderate erythema persisting 2-14 days, minor edema persisting for 7 days; 10%: moderate erythema of 14-21 days duration, mild to moderate edema persisting 7-14 days; 25% minor to moderate erythema and edema persisting 7-14 days, punctate foci of necrosis; 45% moderate to severe erythema persisting up to 3 weeks, mild to severe edema persisting up to 14 days, foci of necrosis; 50%: persistent moderate erythema, marked edema, multiple foci of necrosis."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Glutaral (111-30-8) p.91 (2000  CD-ROM edition). Available from, as of June 9, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Occluded contact /in rabbit/ with 50% glutaraldehyde solutions in water. Two products tested: Ucarcide 250 and BASF 50% Glutaraldehyde. Severity of irritation was dependent on the duration of contact. Application of 50% glutaraldehyde for 60 min caused severe irritation and necrosis; 3 min produced transient minor irritation and some discoloration of the skin."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Glutaral (111-30-8) p.100 (2000  CD-ROM edition). Available from, as of June 9, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ > 5% glutaraldehyde solutions caused severe conjunctivitis and corneal injury /in rabbit/. No effect concentration for corneal injury = 5%; no effect concentration for conjuncitivitis = 0.1%."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Glutaral (111-30-8) p.101 (2000  CD-ROM edition). Available from, as of June 9, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Installation of 0.5 mL of diluted Ucarcide glutaraldehyde solutions /into eye of rabbit/; corneal effects after 24 hr: 2.5% severe keratitis; 1.25% severe keratitis; 1.0% moderate keratitis; 0.5% mild superficial corneal injury. The threshold for induction of inflammatory effects is between 0.25 - 0.5%."
+        },
+        {
+            "References": "Organization for Economic Cooperation and Development; Screening Information Data Set for Glutaraldehyde, CAS 111-30-8 p.15 (October 1998). Available from, as of June 1, 2010: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Glutaraldehyde was corrosive to the skin and eyes of rabbits at high concentrations, with signs of skin irritation evident at 2%, and eye irritation at 0.2%."
+        },
+        {
+            "References": "Organization for Economic Cooperation and Development; Screening Information Data Set for Glutaraldehyde, CAS 111-30-8 p.66 (October 1998). Available from, as of June 1, 2010: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Eight male Hartley Guinea pigs were exposed (head only) to 14 ppm vapor for 1hr/day for 5 days, followed by challenge with 4-5 ppm on days 19, 26, 40. No change in respiratory waveform, and respiratory rate decrease in exposed animals similar to controls in each challenge phase."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data on Glutaraldehyde p.17 (2001). Available from,  as of June 9, 2010: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Ucarcide Antimicrobial 250, 50.9% ai, was administered via a single 4 hr whole body inhalation exposure at concentrations of 3 (static), 14.5, or 16.3 (dynamic bubble) ppm to 5 Sprague-Dawley albino rats/sex/group. On day of treatment, blepharospasm was observed for all treated animals and in addition, periocular, perioral, and/or perinasal wetness and encrustation, and audible respiration were observed for the mid and high dose groups. No other treatment related effects reported."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data on Glutaraldehyde p.17 (2001). Available from,  as of June 9, 2010: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Ucarcide containing 50% glutaraldehyde was given by oral intubation to 5 per sex per dose at 100, 200, or 400 mg/kg to males and 100, 141, or 200 mg/kg to females as aqueous dilutions. The doses were not adjusted for the 50% content of glutaraldehyde. Mortality was: males, 0/5, 1/5 and 5/5 with increasing dose; females: 0/5, 2/5 and 4/5 with increasing dose ... Clinical signs included sluggishness, piloerection, red crust on perinasal fur at 400 (males) and 200 (females). At 100 mg/kg in males, there were no signs of toxicity but in females, 1 showed sluggishness, 2 had trace amount of blood in the urine, but these animals recovered by day 4. Observation was for 14 days. Gross necropsy findings included red lungs, glandular portion of the stomach dark maroon, hemorrhaged at the high dose in each sex."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 462",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... A 25% aq soln on rabbit eyes, caused severe injury, graded 9 on a scale of 10."
+        },
+        {
+            "References": "Descotes J; J Toxicol Cutan Ocular Toxicol 7 (4): 263-72 (1988)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ 18 6-8 wk old male and female mice of various strains (Swiss, Balb/c, DBA/2, CBA, C57B1/6, and B6D2F1) received a topical application of 10% glutaraldehyde in ethanol on both sides of the right ear on days 0 and 2, and a scapular sc injection of 0.05 mL of complete Freunds adjuvant on day 2. On day 9, left ear thickness was measured immediately before topical application of 1% glutaraldehyde in ethanol, on both sides of the ear, and again 24 hr later (day 10). A statistically significant incr in ear thickness was seen."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In an inhalation study where mice were exposed to glutaraldehyde (Hospex) at concentrations of 33 or 133 ppb for 24 hours, the animals exhibited panting and increased grooming. No other signs of toxicity or changes in behavior were observed; however, mice that inhaled the highest concentration developed toxic hepatitis."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Following a single whole-body inhalation exposure at 1 ppm for 1 day, rats and mice developed coagulation pathology of the upper respiratory tract squamous epithelium. After 4 days of such exposures, inflammatory granulocytic infiltrate into the squamous epithelium and lamina propria with thickened epithelium of the nasal lumen ensued. In those animals inhaling 0.5 or 1 ppm glutaraldehyde for four days, the nasal passages became obstructed with intraluminal debris; degenerative/hyperplastic erosions with epithelial abscesses extended as far as the nasopharyngeal meatus in the 1-ppm exposure group."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Respiratory sensory irritation was investigated using male mice exposed to seven different vapor concentrations /of glutaraldehyde/ in the range of 1.6 to 36.7 ppm. Concentration-related reductions in respiratory rate were measured by plethysmography. A 50% decrease in respiratory rate (RD50) was calculated to be 14 ppm."
+        },
+        {
+            "References": "PMID:21372440",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ...  We evaluated the alterations in Glutaraldehyde (GA) or ortho-phtalaldehyde (OPA) in rats after subacute inhalation exposure by determining levels of neurotransmitters (norepinephrine [NE], dopamine [DA], DA metabolites, dihydroxyphenylacetic acid [DOPAC] and homovanillic acid [HVA], indoleamine serotonin [5-HT] and 5-HT metabolite, 5-hydroxyindoleacetic acid [5-HIAA]) in discrete brain regions using high performance liquid chromatography (HPLC) equipped with an electrochemical detector. Female Wistar rats were exposed to 0, 50, 100, or 200 ppb gaseous GA or OPA by inhalation for 1 hr per day, 5 d per week for 4 wk. Following the exposure, the brain of each rat was removed and dissected into cerebrum, cerebellum, medulla oblongata, midbrain, corpus striatum and hypothalamus. The neurotransmitters and their metabolites were extracted from each brain region, and determined by HPLC. Regarding GA, the daily water intake of the 50 or the 200 ppb exposed groups was significantly lower than that of the control. DA and 5-HIAA levels in the medulla oblongata among the GA exposed groups were significantly lower than those of the control. For OPA, the mean final body weight and daily food intake of the 100 or 200 ppb exposed groups were significantly lower than those of the control. The mean DA concentrations in the cerebrum in the groups exposed to OPA were significantly lower than those of the control. OPA may modulate DA metabolism in the cerebrum of female rats. The levels GA or OPA that induced alienations in neurotransmitters were comparable to those levels usually found in hospitals ..."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Glutaral (111-30-8) pp.116-7 (2000  CD-ROM edition). Available from, as of June 9, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Male and female Fischer 344 rats, 10 animals/sex/group, /were exposed to glutaraldehyde by inhalation/ 6 hr/day, 5 days/week for 9 days, dosage: 0.00083, 0.0026, 0.0087 mg/L (0.2, 0.63, 2.1 ppm). Control group received no treatment. Result: signs of irritation, food consumption, and body weight loss produced in concentration-related fashion. Organ weight changes only for intermediate dose group. 9/10 (male) and 7/10 (female) died from exposure to 0.0087 mg/L; 1/10 (male) died in 0.0026 mg/L group. Deaths occurred between the third and ninth day of exposure."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Glutaral (111-30-8) pp.129-30 (2000  CD-ROM edition). Available from, as of June 9, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ C3H/HeJ mice, 10 animals/sex/group, 10 daily applications of 50 uL /glutaraldehyde/ to the clipped dorsal skin, dosage: 0.025, 0.125, 0.25, 1.25, 2.5, 12.5, or 25 mg/animal. Concentrations tested were 0.05%, 0.25%, 1.25%, 5%, 25%, and 50% w/w glutaraldehyde dilutions in water. NOAEL: 1.25 mg. Results: </= 1.25 mg: no effects noted; 2.5 mg: decreased body weight after 4 to 6 applications, but not thereafter; >/= 12.5 mg: weight loss and death after 4 to 9 applications."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Glutaral (111-30-8) p.124 (2000  CD-ROM edition). Available from, as of June 9, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Male and female Fischer 344 rats were given glutaraldehyde in their drinking water continuously for 13 weeks, doses: male: 5, 25, 100 mg/kg; female: 7, 35, 120 mg/kg (50, 250, 1000 ppm in drinking water). Control group received no treatment. 4 week post observational period. Results: male: 5 mg/kg: no effects noted; 25 mg/kg: decreased water consumption, decreased urine volume with increased specific gravity, increased absolute kidney weight; 100 mg/kg: decreased food and water consumption, decreased body weight and body weight gain, decreased urine volume with increased specific gravity, increased relative kidney weight. Females: 7 mg/kg: no effects noted; 35 mg/kg: decreased water consumption, decreased urine volume with increased specific gravity, increased relative and absolute kidney weight, increased blood urea nitrogen; 120 mg/kg: decreased food and water consumption, decreased body weight and body weight gain, decreased urine volume with increased specific gravity, increased relative and absolute kidney weight, increased blood urea nitrogen. Three additional tissues (skin, submandibular lymph nodes, harderian glands) were examined histologically ... There were no treatment related lesions. Minimal to moderate adenitis of the harderian glands occurred with similar frequency in control and treated groups with the exception of the 50 ppm dose group animals who had no adenitis. There was a statistically significant increase in lymphatic ectasia of the submandibular lymph nodes in the 1000 ppm group. The lesion was graded as mild and usually involved only one node. The apparent increase in lymphatic ectasia in the high dose animals was considered of no biological significance and may be an artifact of sectioning technique."
+        },
+        {
+            "References": "Organization for Economic Cooperation and Development; Screening Information Data Set for Glutaraldehyde, CAS 111-30-8 pp.53-4 (October 1998). Available from, as of June 1, 2010: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ 50 uL glutaraldehyde was applied dermally to male C3H/HeJ mice for 10 days at concentrations of 0.05, 0.25, 0.5, 2.5, 5.0, 25 and 50% aqueous solution. Control received vehicle only. All mice lost weight and died after 4-9 doses of the 25% or 50% solutions. For a 5% solution, the mice lost weight after 4-6 doses, but not thereafter. For 2.5% solutions and less, no signs of toxicity were observed."
+        },
+        {
+            "References": "Organization for Economic Cooperation and Development; Screening Information Data Set for Glutaraldehyde, CAS 111-30-8 p.54 (October 1998). Available from, as of June 1, 2010: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Glutaraldehyde was applied dermally to male and female Fischer 344 rats daily for 28 days, dosage: 2.0 mL/kg bw/day of 0, 2.5, 5.0 or 7.5% of solution of test substance (0, 50, 100, 150 mg/kg bw/day). NOEL: not determined. LOEL: 50 mg/kg bw/day (lowest dose). 15 animals/sex/dose for control and high doses, 10 for low and mid doses. No treatment-related mortality. Clinical signs of toxicity during study included slight erythema, little edema and persistent skin color change. Dose-related incidence of skin lesions confirmed by microscopic examination at necropsy. Reduced body weight gain in males, dose-related increase in platelet count in females."
+        },
+        {
+            "References": "Organization for Economic Cooperation and Development; Screening Information Data Set for Glutaraldehyde, CAS 111-30-8 p.55 (October 1998). Available from, as of June 1, 2010: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Fischer 344 rats (both sexes) were exposed to 0, 0.3, 1.1, 3.1 ppm glutaraldehyde via inhalation 6 hr/day for 9 days. 12 male and 12 females were in each group. At 3.1 ppm, 7 of the males and 6 of the females died (days 8 or 9). Nasal cavity lesions occurred at 1.1 and 3.1 ppm, atrophy of the liver at 3.1 ppm. Body weight decrease occurred at 1.1 and 3.1 ppm, where signs of respiratory irritation were also observed. Significant weight decreases were noted for the liver, heart, lungs, kidney and testes at 3.1 ppm, smaller decreases at 1.1 ppm for the liver, heart, kidney and testes, and a small increase in lung weight for males at 0.3 ppm."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data on Glutaraldehyde p.4 (2001). Available from,  as of June 9, 2010: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Glutaraldehyde, 50% a.i., was administered at concentrations of 0, 50, 150, and 250 ppm (males: 3.3, 9.6 and 14.1 mg/kg and females: 3.2, 9.9 and 15.1 mg/kg) for 13 weeks in the drinking water of 4 Beagle dogs/sex/group. Food- and fluid-like vomitus were observed in all groups but were more frequent in mid and high dose groups. Body weight was reduced at least 10% for mid and high dose females (initial body weights, however, were 6 and 4% lower at week 0, respectively) and cumulative change in bodyweight at least 28% lower for all female groups. Food and water consumption of females was slightly lower at 250 ppm. In males, food and water consumption values were reduced 28% and 51%, respectively and statistically significant only during week 2 for high dose males. Kidney weight increase was reported as treatment related, but not toxicologically important since there was no evidence of toxicity from histopathology or clinical chemistry/urinalysis data. The significance of ovary weight increase was reported as unclear. Overall, the NOEL = 50 ppm, based on lower body weights, primarily in female dogs, at the mid dose."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data on Glutaraldehyde pp.5-6 (2001). Available from,  as of June 9, 2010: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Glutaraldehyde as a 25.9% aqueous solution with > 99% purity of glutaraldehyde was administered at concentrations of 0, 100, 250, or 1000 ppm (w/w) for 13 weeks in the drinking water of 20 CD-1 mice/sex/group. Ten extra mice in control and high dose groups served as a recovery group of six weeks. Doses were equivalent to 25, 61, and 200 mg/kg/day for males and 31, 74, and 238 mg/kg/day for females. Water consumption decreased for the high dose groups; urinalysis indicated osmolality increased for the high dose group and urine volume decreased for mid and high dose males and high dose females; however, these effects were absent during the recovery period. There were no clinical signs, effects on hematology, clinical chemistry, ophthalmology or histopathology. NOEL = 100 ppm based on marginal effects at 250 ppm on urine volume. No adverse effects were noted at 1000 ppm other than decreased water consumption, reported as due to palatability."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 3",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ 13-week inhalation studies /were conducted/ with groups of ten rats and ten mice of each sex exposed to glutaraldehyde 6 hours/day, 5 days/week at concentration of 0, 0.06, 0.12, 0.25, 0.50, and 1 ppm. There were no exposure-related deaths in rats, but all mice exposed at 1 ppm and two female mice exposed at 0.50 ppm died before the end of the study. There was no definitive evidence of systemic toxicity in the rats or mice by clinical pathology or histopathologic evaluations. Exposure-related lesions in the upper respiratory tract were observed (necrosis, inflammatory, and regenerative lesions) ... The NOAEL was 0.12 ppm for respiratory lesions in rats. An NOAEL was not reached for mice since inflammation was evidenced in the anterior nasal passage at the lowest concentration employed, 0.06 ppm."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 3",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ A 13-week subchronic glutaraldehyde whole-body inhalation bioassay /was/ carried out in male and female F344 rats and B6C3F1 mice. Concentrations studied were 0, 0.06, 0.12, 0.25, 0.5, and 1 ppm; exposures at the higher concentrations resulted in obvious distress (bloating, gasping). During the third week, two male and three female rats in the highest exposure group died; ten male and ten female mice in the 1 ppm group and one female mouse in the 0.50 ppm group also died. Neutrophilic infiltrate of the squamous epithelium of the vestibule was severe, and localized epithelial hyperplasia and hypertrophy were considered mildin the mice inhaling the highest concentration. The locally severe changes in the upper respiratory tract (naso- and maxilloturbinate destruction, bone remodeling, nasoturbinate fusions) in rats were similar to those observed after similar bioassays with other irritants. It is noteworthy that the karyomegaly observed in the rodent nasal passages after formaldehyde inhalation was not seen in the subchronic inhalation bioassay with glutaraldehyde. No changes in tissues, other than those of the upper respiratory tract, of rats and mice were observed. The NOAEL for glutaraldehyde was 0.125 ppm in rats. Effects were observed at 0.60 ppm in mice; however, similar changes were also observed in the controls."
+        },
+        {
+            "References": "Organization for Economic Cooperation and Development; Screening Information Data Set for Glutaraldehyde, CAS 111-30-8 pp.62-3 (October 1998). Available from, as of June 1, 2010: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Male and female Fischer 344 rats were given glutaraldehyde in their drinking water for 2 yr. Doses: males: 0, 4, 17, 64 mg/kg bw; females: 0, 6, 25, 86 mg/kg bw. Groups of 100 males and 100 females were treated , with 10 animals per sex per dose sacrificed at 52 and 78 weeks, and the remainder at 104 weeks. The main finding was a statistically significant increase in large granular cell lymphatic leukaemia (LGLL) in the liver and spleen of females only at all doses at 104 weeks; LGLL was also observed in males at all doses (including controls), but the increase was not statistically significant. No LGLL at 52 weeks and 4 (at 50 ppm only) at 78 weeks. Fischer 344 rats have a high historical susceptibility to LGLL (NTP data: 10-72% in males, 6-31% in females), so the study was inconclusive."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data on Glutaraldehyde p.2 (2001). Available from,  as of June 9, 2010: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Fischer 344 rats, 100/sex/dose, were given glutaraldehyde (Ucarcide 250) in drinking water at 0, 50, 250, or 1000 ppm for 104 weeks. There were interim sacrifices of 10/sex/group at 52 and 78 weeks with the remaining survivors sacrificed at 104 weeks. Acceptable parameters for hematology, clinical chemistry, urinalysis and ophthalmology were examined. At 250 and 1000 ppm the intake of water was significantly decreased with subsequent effects on urine volume and osmolality. Body weights were also decreased at the mid and, especially, at the high dose. There was evidence of gastric irritation at 250 and 1000 ppm as early as 52 weeks. The lesions included multifocal color change, thickening of the wall and ulceration of the mucosa. Systemic NOEL = 50 ppm (gastric irritation). The major finding was a statistical increase in the incidence of large granular lymphocyte (LGL) leukemia in all doses in females (but not in males) when compared with concurrent controls. The overall incidences for all females was: 24, 41, 41, and 53 per 100 animals. Although LGL leukemia is a common and spontaneous neoplasm in Fischer 344 rats, a role of glutaraldehyde could not be discounted. Possible adverse effect."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 3",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 50 male and 50 female rats and mice /were exposed/ to glutaraldehyde vapor at concentrations of 0, 0.25, 0.50, or 0.75 (rats) and 0, 0.062, 0.12, or 0.25 ppm (mice) 6 hr/day, 5 days /week. Although the incidences of non-neoplastic lesions of the nose were reported to be significantly increased in the 0.50 and 0.75-ppm exposed rats and in the 0.12 and 0.25-ppm exposed male and female mice, in their draft technical report of the studies NTP states that, \"Under the conditions for these 2-year inhalation studies, there was no evidence of carcinogenic activity of glutaraldehyde in male or female F344/N rats exposed to 250, 500, or 750 ppb. There was no evidence of carcinogenic activity in male or female B6C3F1 mice exposed to 62.5, 125, or 250 ppb.\""
+        },
+        {
+            "References": "Organization for Economic Cooperation and Development; Screening Information Data Set for Glutaraldehyde, CAS 111-30-8 p.63 (October 1998). Available from, as of June 1, 2010: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Male and female F344/N rats were exposed to glutaraldehyde via inhalation 6 hr/day, 5 days/week, for 13 weeks at doses of 0, 62.5, 250, 1000 ppb. Sperm morphology measurements for the males were normal. Estrous cycle lengths for the females were normal."
+        },
+        {
+            "References": "Organization for Economic Cooperation and Development; Screening Information Data Set for Glutaraldehyde, CAS 111-30-8 pp.63-4 (October 1998). Available from, as of June 1, 2010: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ / Male and female B6C3F1 mice were exposed to glutaraldehyde 6 hr/day, 5 days/week for 13 weeks at doses of 0, 62.5, 250, 500 ppb. Sperm morphology measurements for the males were normal. There were significant differences in estrous cycle length for females at 250 and 500p."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data on Glutaraldehyde p.6 (2001). Available from,  as of June 9, 2010: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Glutaraldehyde (Ucarcide Antimicrobial 250), purity 51% glutaraldehyde, at concentrations of 0, 50, 250 or 1000 ppm in the drinking water during two generations, 28 albino CD rats/sex/group. Water consumption decreased (considered an aversion affect) up to 15-20% and 25-35% throughout dosing for mid and high dose groups and on occasion 9-11% for low dose females. Other treatment-related effects reported were reduced food consumption up to 9-10% for high dose groups and reduced body weight gain without an apparent similar affect on body weight for F0 mid and high dose groups; Adult NOEL = 50 ppm. Body weight of F1 and F2 high dose pups decreased 5-7% during lactation Day 21; Pup NOEL = 250 ppm. Reproductive NOEL = >1000 ppm."
+        },
+        {
+            "References": "Organization for Economic Cooperation and Development; Screening Information Data Set for Glutaraldehyde, CAS 111-30-8 p.65 (October 1998). Available from, as of June 1, 2010: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Female Wistar rats were given glutaraldehyde in their drinking water on days 6 - 16 post coitum, doses: 0, 5, 36, 68 mg/kg bw (25 per group). A control group received vehicle only. NOEL Maternal Toxicity: 5 mg/kg. A dose-related decrease in water consumption occurred for dams at 26 and 68 mg/kg. For fetuses, no significant findings were observed in the sex distribution, placental weight, or fetal weight. No significant malformations or variations were noted in soft tissue and skeletal examination of the fetuses."
+        },
+        {
+            "References": "Organization for Economic Cooperation and Development; Screening Information Data Set for Glutaraldehyde, CAS 111-30-8 p.65 (October 1998). Available from, as of June 1, 2010: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Female Himalayan rabbits were given glutaraldehyde via gavage daily on days 7 - 19 post insemination, doses: 0, 5, 15, 45 mg/kg bw (15 per group). A control group received vehicle only. NOEL Maternal Toxicity: 15 mg/kg. Five of the 15 does died at 45 mg/kg, with only 4 live fetuses produced (from one doe). In the does, food consumption and body weight gain were reduced, and at necropsy, irritation of the gastrointestinal tract was noted. No significant effects were observed for does or fetuses at 5 and 15 mg/kg. There was no evidence of teratogenicity at any dose."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 4",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ A study of male and female rats given glutaraldehyde in drinking water at concentrations of 0, 50, 250, or 100 ppm through two generations indicated a dose-related decrease in parental water consumption and body weight (attributed to adverse taste) and decrease in offspring (1000-ppm group) body weights. No adverse reproductive effects were observed."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 4",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ /Investigators/ studied 2% potentiated (activated) acidic glutaraldehyde (Sonacide) at doses of 0.8, 1.0, 1.2, 2.0, 2.5, and 5.0 mL/kg/day in a study of potential developmental toxicity in CD-1 mice. Doses were by gavage on days 6 through 15 of gestation. Sonacide was judged highly toxic at 2 mL/kg/day and above, with 17% to 54% maternal mortality on days 6 to 15. There was a significant dose-dependent reduction in the average of maternal body weight gain and a significant increase in the number of stunted (body weight) and malformed fetuses at the 5 mL/mg/day dose level. Terata included cleft palate, fused sternbrae, missing or fused ribs, and exencephaly. There was no indication of teratogenic effects at doses that were not highly toxic to the dams."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 3",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ After Sprague-Dawley rats drank 0.1% to 0.5% glutaraldehyde in tap water ad libitum for 14 weeks, body weight gain and clinical condition of these animals were normal. Histopathologic examination of the spinal cord and posterior fibial nerve, sciatic nerve, and spinal ganglia found no evidence of neurotoxicity."
+        },
+        {
+            "References": "PMID:15795166",
+            "Value": "/GENOTOXICITY/ ... It has been extensively tested for genetic activity in vitro and in vivo, and there is disagreement in the literature with regard to glutaraldehyde's genetic activity. Glutaraldehyde produced DNA damage in bacteria and some cultured mammalian cell systems. In vitro, it was mutagenic in Salmonella and E. coli, produced inconsistent positive responses in mammalian cells, weak and inconsistent responses in chromosome aberration and SCE studies, and did not induce transformation in cultured SHE cells. In vivo, inhalation of glutaraldehyde induced cell proliferation in nasal tissue in rats and mice, but DNA damage and UDS were not induced at these sites in rats. Chromosome aberrations in bone marrow cells were reported in only one of eight studies using rats and mice, micronuclei were not induced in bone marrow cells of mice, and dominant lethal mutations were not induced in mice. Glutaraldehyde did not induce cell transformation in SHE cells in vitro. Bone marrow hyperplasia and low, but statistically significant, levels of leukemia were seen in one chronic drinking water study in rats, but not in a chronic inhalation study in rats or two chronic inhalation studies in mice."
+        },
+        {
+            "References": "PMID:18006368",
+            "Value": "/GENOTOXICITY/ ... The genotoxic and mutagenic potential of glutaraldehyde (GA) /was characterized/  in V79 cells using the alkaline comet assay. ... The induction of DNA-protein crosslinks (DPX) by GA (reduction of gamma ray-induced DNA migration) /was demonstrated/ at a concentration of 10 uM and above. The standard comet assay did not reveal a significant DNA strand-breaking activity of GA. Cross-linking concentrations of GA were also cytotoxic, i.e. inhibited cell growth of treated V79 cultures. Interestingly, a small but statistically significant increase in sister chromatid exchange (SCE) and micronuclei (MN) was already measured at lower concentrations (2 and 5 uM). FISH analysis revealed that the majority of GA-induced MN was due to chromosome breaks. ... The genotoxic activity of GA /was also compared/ to that of formaldehyde (FA). Similar to GA, FA-induced DPX, SCE and MN, but distinct differences exist with regard to the sensitivity of the endpoints and the relationship between genotoxicity and cytotoxicity. However, the differences in genotoxicity cannot readily explain the different carcinogenic activities of the two compounds."
+        },
+        {
+            "References": "Organization for Economic Cooperation and Development; Screening Information Data Set for Glutaraldehyde, CAS 111-30-8 p.15 (October 1998). Available from, as of June 1, 2010: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ Early mutagenicity studies were negative, but more recent studies have indicated that glutaraldehyde is mutagenic in vitro in bacterial assays and tests in mammalian cells. In vivo genotoxicity tests to date have proven negative."
+        },
+        {
+            "References": "Organization for Economic Cooperation and Development; Screening Information Data Set for Glutaraldehyde, CAS 111-30-8 p.58 (October 1998). Available from, as of June 1, 2010: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ Bacterial reverse mutation assay using S. typhimurium TA98, TA100, TA102, TA104, TA1535, TA1537. Concentrations: 0, 300, 333, 3333 ug/plate, with and without S-9 metabolic activation. Results: positive with and without activation."
+        },
+        {
+            "References": "Organization for Economic Cooperation and Development; Screening Information Data Set for Glutaraldehyde, CAS 111-30-8 pp.58-9 (October 1998). Available from, as of June 1, 2010: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ Cytogenetic assay with Chinese hamster ovary cells, concentration: 0.03 - 30 mg/mL, with and without metabolic activation. Results: negative with and without activation."
+        },
+        {
+            "References": "Organization for Economic Cooperation and Development; Screening Information Data Set for Glutaraldehyde, CAS 111-30-8 p.59 (October 1998). Available from, as of June 1, 2010: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ Cytogenetic assay with Chinese hamster ovary cells. Concentration: 0.3 - 16 ug/mL with and without S9 metabolic activation. Results: negative with activation, positive without activation."
+        },
+        {
+            "References": "Organization for Economic Cooperation and Development; Screening Information Data Set for Glutaraldehyde, CAS 111-30-8 p.59 (October 1998). Available from, as of June 1, 2010: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ Sister chromatid exchange assay with Chinese hamster ovary cells, concentration 0.36 - 16 ug/mL with and without S9 metabolic activation. Results: In one laboratory, sister chromatid exchanges were induced, with and without S9 metabolic activation. In the second laboratory, the result was negative without S9, and weakly positive with S9."
+        },
+        {
+            "References": "Organization for Economic Cooperation and Development; Screening Information Data Set for Glutaraldehyde, CAS 111-30-8 p.60 (October 1998). Available from, as of June 1, 2010: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ HGPRT forward mutation assay in Chinese hamster ovary cells, concentration: 0.10 - 30 ug/mL with and without S9 metabolic activation. Results: negative with and without activation."
+        },
+        {
+            "References": "Organization for Economic Cooperation and Development; Screening Information Data Set for Glutaraldehyde, CAS 111-30-8 pp.60-1 (October 1998). Available from, as of June 1, 2010: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ Mouse lymphoma assay, mouse lymphoma L5178Y cells, concentration: 0 - 16 ug/L without metabolic activation. Results: positive. Mutations were induced at the TK locus of cells at 8 ug/mL, but no significant increase was observed at concentrations up to 4 ug/mL."
+        },
+        {
+            "References": "Organization for Economic Cooperation and Development; Screening Information Data Set for Glutaraldehyde, CAS 111-30-8 p.61 (October 1998). Available from, as of June 1, 2010: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ Micronucleus assay with Swiss-Webster mice, both sexes. Glutaraldehyde administered by gavage at doses of 0, 80, 160, 250 mg/kg. Five animals per sex per group were dosed except for 250 mg/kg, where 8 per sex were dosed. No females died, but 2 mice at 250 mg/kg and one each at 80 and 160 mg/kg died. No induction of micronuclei in the polychromatic erythrocytes in the peripheral blood was observed."
+        },
+        {
+            "References": "Organization for Economic Cooperation and Development; Screening Information Data Set for Glutaraldehyde, CAS 111-30-8 pp.61-2 (October 1998). Available from, as of June 1, 2010: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ Cytogenetic assay in Sprague-Dawley rats, both sexes. Glutaraldehyde administered by gavage. Dosage: males: 0, 25, 60, 120 mg/kg bw; females: 0, 15, 40, 80 mg/kg. Five animals per sex per group were dosed, with one male at 120 mg/kg dying. The number of aberrant cells in bone marrow were similar to the vehicle controls for each time period (12, 24, 48hr), so no evidence of clastogenicity was observed."
+        },
+        {
+            "References": "Organization for Economic Cooperation and Development; Screening Information Data Set for Glutaraldehyde, CAS 111-30-8 p.62 (October 1998). Available from, as of June 1, 2010: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ Drosophila SLRL test using male Drosophila melanogaster. Glutaraldehyde administered through feed and via injection. Male Canton-S wild-type flies were injected with glutaraldehyde solution, with the number of lethal mutations from the mating of newly-emerged flies determined. The results were negative. In a second series of tests, the eggs of mated Canton-S flies were exposed to cornmeal containing glutaraldehyde, with the results also negative."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data on Glutaraldehyde p.16 (2001). Available from,  as of June 9, 2010: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/GENOTOXICITY/ Summary data from four tests: Salmonella typhimurium, CHO/HGPRT gene mutation assay, Chinese Hamster Ovary (CHO) sister chromatid exchange assay, and primary rat hepatocyte unscheduled DNA synthesis assay. Under the conditions of the assays, all were negative for genotoxicity. Glutaraldehyde used was approximately 50% aqueous solution. Salmonella typhimurium assay: Strains TA1535, TA1537, TA1538, TA98, and TA100 were tested with and without rat liver activation by plate incorporation with three plates per concentration on each of two days at 0 (water), 0.15, 0.5, 1.5, 5.2, 15.4, and 51.6 (toxic) ug/plate without activation and 0, 0.5, 1.5, 5.2, 15.4, and 51.6 ug/plate with activation. No induction of revertants. CHO/HGPRT: CHO-K1-BH4 cells were exposed with and without rat liver activation for 5 hr followed by 7 days for expression. Mutation frequency was determined with 6-thioguanine. Concentrations ranged from 2.6 to 40.8 (toxic) uM without activation and 0.03 to 40.8 uM with activation. Results were negative with cytotoxicity at higher concentrations. Sister chromatid exchange assay: CHO cells were exposed for 5 hr without activation or 2 hr with activation followed by 30 - 32 hr in the presence of BrdU. Concentrations were 0 (water), 0.6, 1.3 and 2.5 uM. Results were negative. Unscheduled DNA synthesis: Hepatocytes were isolated from Hilltop-Wistar rats and exposed for 2 hr in two separate trials. UDS was determined by the incorporation of (3)H-thymidine as measured by liquid scintillation counting of DNA precipitated from nuclei. Results were reported as dpm/106 viable cells and compared with water controls. Concentrations ranged from 0.05 to 51 uM in the two trials. Results were negative."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 4",
+            "Value": "/GENOTOXICITY/ /Investigators/ reported the genotoxicity of glutaraldehyde in human TK6 lymphoblast cell line and primary rat hepatocytes. DNA cross-linking increased linearly between 0 and 25 umol glutaraldehyde. An increase in unscheduled DNA synthesis in the hepatocyte DNA repair assay was noted at 50 and 100 umol."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 4",
+            "Value": "/GENOTOXICITY/ ... The NTP reported that glutaraldehyde was mutagenic with and without S9 metabolic activation in S. typhimurium strains TA100, TA102, and TA104; in mouse L5178Y lymphoma cells in the absence of S9; and induced sister-chromatid exchange in cultured Chinese hamster ovaries cells with and without S9."
+        },
+        {
+            "References": "PMID:22736904",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Glutaraldehyde-stabilized bovine pericardium is used for clinical application since 1970s because of its desirable features such as less immunogenicity and acceptable durability. However, a propensity for calcification is reported on account of glutaraldehyde treatment. In this study, commercially available glutaraldehyde cross-linked bovine pericardium was evaluated for its in vitro cytotoxic effect, macrophage activation, and in vivo toxic response in comparison to decellularized bovine pericardium. Glutaraldehyde-treated bovine pericardium and its extract were observed to be cytotoxic and it also caused significant inflammatory cytokine release from activated macrophages. Significant antibody response, calcification response, necrotic, and inflammatory response were noticed in glutaraldehyde-treated bovine pericardium in comparison to decellularized bovine pericardium in a rat subcutaneous implantation model. Glutaraldehyde-treated bovine pericardium also failed in acute systemic toxicity testing and intracutaneous irritation testing as per ISO 10993. With respect to healing and implant remodeling, total lack of host tissue incorporation and angiogenesis was noticed in glutaraldehyde-treated bovine pericardium compared to excellent host fibroblast incorporation and angiogenesis within the implant in decellularized bovine pericardium. In conclusion, using in vitro and in vivo techniques, this study has demonstrated that glutaraldehyde-treated bovine pericardium elicits toxic response compared to decellularized bovine pericardium which is not congenial for long-term implant performance."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 462",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ A 1% solution /of glutaraldehyde/ quickly abolishes the b-wave of the rabbit retina in vitro."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 4",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ The ability of saturated and unsaturated aldehydes to induce DNA/histones cross-linking was studied in vitro using calf thymus DNA incubated with test compounds at concentrations ranging up to 250 mmol. Glutaraldehyde induced one cross-link per kilobase pair of DNA at concentration of 10.7 umol. The high cross-linking efficiency of glutaraldehyde may be related to its bifunctional nature (difunctional aldehyde)."
+        },
+        {
+            "References": "PMID:15126069",
+            "Value": "/IMMUNOTOXICITY/ ... The purpose of these studies was to examine the dose-response relationship between glutaraldehyde (Glut) exposure and the development of T cell-mediated vs. IgE- mediated responses. Initial evaluation of the sensitization potential was conducted using the local lymph node assay (LLNA) at concentrations ranging from 0.75% to 2.5%. A concentration-dependent increase in lymphocyte proliferation was observed with EC3 values of 0.072% and 0.089% in CBA and BALB/c mice, respectively. The mouse ear swelling test (MEST) was used to evaluate the potential for Glut to elicit IgE (1/2 hr post challenge) and contact hypersensitivity (24 and 48 hr post challenge) responses. An immediate response was observed in animals induced and challenged with 2.5% Glut, whereas animals induced with 0.1% or 0.75% and challenged with 2.5% exhibited a delayed response 48 hr post challenge. IgE-inducing potential was evaluated by phenotypic analysis of draining lymph node cells and measurement of total serum IgE levels. Only the 2.5% exposed group demonstrated a significant increase (P < 0.01) in the percentage of IgE(+)B220(+) cells and serum IgE. Following 3 days of dermal exposure, a significant increase in IL-4 mRNA in the draining lymph nodes was observed only in the 2.5% exposed group."
+        },
+        {
+            "References": "PMID:24366629",
+            "Value": "/OTHER TOXICITY INFORMATION/ Most critical instruments are not designed for heat sterilization and autoclaving. These items are usually treated with chemical agents such as peracetic acid (PAA), glutaraldehyde (GA) and ortho-phthalaldehyde (OPA). MTT assay is often used to evaluate the in vitro cytotoxicity of these chemical agents. In this study, disinfectants were allowed to come in direct contact with cells. Their cytotoxicity was evaluated based on cell viability and adhesive properties. The results obtained from the direct contact method were compared with those obtained from the conventional MTT assay wherein the disinfectants were added into a nutrient medium. It was found that the two methods yielded very different results, especially when aldehyde- and halogen-containing disinfectants were tested, and that toxicity may be underestimated in the MTT assay. Hence, it can be assumed that the direct contact assay is more accurate when evaluating the cytotoxicity of residual chemicals. It was also observed that the cytotoxicity of PAA was lower than that of GA and OPA."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Leung H-W; Ecotoxicol Environ Safety 49: 26-39 (2001) (2) ECHA; Search for Chemicals. Glutaraldehyde (CAS 111-30-8) Registered Substances Dossier. European Chemical Agency. Available from, as of Feb 25, 2015: https://echa.europa.eu/ (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Aqueous solutions of [14C] glutaraldehyde in 0.01 M calcium chloride were prepared at concentrations of 0.51, 1.0, 2.5, 5.0, and 10.3 g/L and used to determine the adsorption/desorption characteristics of glutaraldehyde in various soil types according to FIFRA 163-1 guidelines(1). Measured Koc values were 210, 500, 340, 460, and 120 in sandy loam, silty clay loam, silt loam, loamy sand, and sediment, respectively(1). Batch adsorption studies determined Koc values of 22.2, 18.9 and 5.1 in New York loam, Nebraska silt loam and Highview clay loam soils respectively(3). According to a classification scheme(2), these Koc values suggest that glutaraldehyde is expected to have very high to moderate mobility in soil."
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "_id": {
+        "$oid": "6682e8e6c4e5dba5ffba27e6"
+    },
+    "CID": {
+        "$numberInt": "10667"
+    },
+    "Name": "1,2-NAPHTHOQUINONE",
+    "IUPACName": "naphthalene-1,2-dione",
+    "CanonicalSMILES": "C1=CC=C2C(=C1)C=CC(=O)C2=O",
+    "Synonyms": [
+        "1,2-NAPHTHOQUINONE",
+        "524-42-5",
+        "1,2-Naphthalenedione",
+        "naphthalene-1,2-dione",
+        "o-Naphthoquinone",
+        "beta-Naphthoquinone",
+        "1,2-Naphthaquinone",
+        ".beta.-Naphthoquinone",
+        "1,2-Naftochinon",
+        "1,2-dihydronaphthalene-1,2-dione",
+        "1,2-Dihydro-1,2-diketo-naphthalene",
+        "MFCD00001698",
+        "CHEMBL52347",
+        "MLS000069467",
+        "CHEBI:34055"
+    ],
+    "IsomericSMILES": "C1=CC=C2C(=C1)C=CC(=O)C2=O",
+    "INCHI": "InChI=1S/C10H6O2/c11-9-6-5-7-3-1-2-4-8(7)10(9)12/h1-6H",
+    "INCHIKEY": "KETQAJRQOHHATG-UHFFFAOYSA-N",
+    "Formula": "C10H6O2",
+    "MolecularWeight": {
+        "$numberDouble": "158.15"
+    },
+    "Description": "1,2-naphthoquinone is the parent structure of the family of 1,2-naphthoquinones, in which the oxo groups of the quinone moiety are at positions 1 and 2 of the naphthalene ring. It is a metabolite of naphthalene and is found in diesel exhaust particles. It has a role as a carcinogenic agent and an aryl hydrocarbon receptor agonist. It derives from a hydride of a naphthalene.",
+    "XlogP": {
+        "$numberDouble": "1.5"
+    },
+    "Complexity": {
+        "$numberInt": "253"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Meylan WM, Howard PH; J Pharm Sci 84: 83-92 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 8.4 was calculated for 1,2-naphthoquinone(SRC), using an estimated log Kow of 2.11(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:6200119",
+            "Value": "The mechanisms of toxicity of 1-naphthol and two of its metabolites 1,2-, and 1,4-naphthoquinone, to freshly isolated rat hepatocytes was studied. 1-Naphthol and both naphthoquinones exhibited a dose-dependent toxicity to hepatocytes. (14)C-1-Naphthol was metabolized by hepatocytes predominantly to its glucuronate and sulfate conjugates, but small amounts of covalently bound products were also formed. Blebbing on the surface of the hepatocytes was observed following exposure to 1-naphthol and the naphthoquinones, together with a dose-dependent decr in intracellular GSH, which preceded the onset of cytotoxicity. The toxicity of 1-naphthol and the naphthoquinones was potentiated by dicoumarol, an inhibitor of DT-diaphorase (NADPH:quinone oxidoreductase). This enhanced toxicity was accompanied by a greater amount of surface blebbing, an increased depletion of intracellular GSH, particularly in the case of 1-naphthol and 1,4-naphthoquinone, and a decreased metabolism of 1-naphthol to its conjugates with variable effects on the amount of covalently bound products formed. Apparently, the toxicity of 1-naphthol may be mediated by the formation of 1,2-naphthoquinone and/or 1,4-naphthoquinone, which may then be metabolized by 1-electron reduction to naphthoquinone radicals. These, in turn, may covalently bind to important cellular macromolecules or enter a redox cycle with molecular oxygen thereby generating active oxygen species. Both of these processes appear to play a role in producing the cytotoxic effects of 1-naphthol."
+        },
+        {
+            "References": "White-Stevens, R. (ed.). Pesticides in the Environment: Volume 1, Part 1, Part 2. New York: Marcel Dekker, Inc., 1971., p. 9",
+            "Value": "Quinones are alpha-beta-unsaturated ketones & react with sulfhydryl groups. ... Critical biochem lesion ... /involves/ -SH groups of enzymes such as amylase & carboxylase which are inhibited by quinones. Overall mechanism may involve binding of enzyme to quinone nucleus by substitution or addition at the double bond, an oxidative reaction with -SH group, and change in redox potential. /Quinones/"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992) (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of 1,2-naphthoquinone can be estimated to be 20(SRC). According to a classification scheme(2), this estimated Koc value suggests that 1,2-naphthoquinone is expected to have very high mobility in soil."
+        }
+    ]
+}

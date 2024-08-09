@@ -1,0 +1,89 @@
+{
+    "_id": {
+        "$oid": "6682e8e0c4e5dba5ffba27cb"
+    },
+    "CID": {
+        "$numberInt": "10372"
+    },
+    "Name": "CHLOROTHION",
+    "IUPACName": "(3-chloro-4-nitrophenoxy)-dimethoxy-sulfanylidene-lambda5-phosphane",
+    "CanonicalSMILES": "COP(=S)(OC)OC1=CC(=C(C=C1)[N+](=O)[O-])Cl",
+    "Synonyms": [
+        "Chlorthion",
+        "500-28-7",
+        "Chlorthion methyl",
+        "Chlortion",
+        "Methyl chlorothion",
+        "CHLOROTHION",
+        "Chloorthion",
+        "Methylchlorothion",
+        "Compound 22/190",
+        "Bayer 22/190",
+        "BAY 22190",
+        "OMS 217",
+        "p-Nitro-m-chlorophenyl dimethyl thionophosphate",
+        "O,O-Dimethyl p-nitro-m-chlorophenyl thiophosphate",
+        "ENT 18,861"
+    ],
+    "IsomericSMILES": "COP(=S)(OC)OC1=CC(=C(C=C1)[N+](=O)[O-])Cl",
+    "INCHI": "InChI=1S/C8H9ClNO5PS/c1-13-16(17,14-2)15-6-3-4-8(10(11)12)7(9)5-6/h3-5H,1-2H3",
+    "INCHIKEY": "NZNRRXXETLSZRO-UHFFFAOYSA-N",
+    "Formula": "C8H9ClNO5PS",
+    "MolecularWeight": {
+        "$numberDouble": "297.65"
+    },
+    "Description": "Chlorthion is an organic thiophosphate that is O,O-dimethyl O-phenyl phosphorothioate substituted by a chloro group at position 3 and a nitro group at position 4. It is a potent cholinesterase inhibitor and used as an insecticide for the control of a wide range of insects. It has a role as an EC 3.1.1.8 (cholinesterase) inhibitor and an agrochemical. It is a C-nitro compound, an organic thiophosphate, a member of monochlorobenzenes and an organothiophosphate insecticide.",
+    "XlogP": {
+        "$numberDouble": "3.5"
+    },
+    "Complexity": {
+        "$numberInt": "318"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Legierse KCHM et al; Aquatic Tox 41: 301-23 (1998) (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "A BCF of 29(1) was measured in pond snails. According to a classification scheme(2), this BCF suggests the potential for bioconcentration of chlorthion in aquatic organisms is low."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 42",
+            "Value": "log Kow= 3.45"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Garner's Veterinary Toxicology. 3rd ed., rev. by E.G.C. Clarke and M.L. Clarke. Baltimore: Williams and Wilkins, 1967., p. 246",
+            "Value": "...CHLORTHION HAS RELATIVELY HIGH PERCUTANEOUS TOXICITY FOR DOGS. SINGLE DIPPING IN 0.5% 'EMULSIFIABLE SOLN'...WAS FATAL IN SOME CASES; REPEATED IMMERSION @ 4-DAY INTERVALS...ATTENDED BY SYMPTOMS OF TOXICITY. DOGS SUBJECTED TO TWO DIPPINGS IN 2% SOLN DIED 36 HR AFTER SECOND IMMERSION."
+        },
+        {
+            "References": "Garner's Veterinary Toxicology. 3rd ed., rev. by E.G.C. Clarke and M.L. Clarke. Baltimore: Williams and Wilkins, 1967., p. 246",
+            "Value": "LETHAL ORAL DOSE IN MOST SUSCEPTIBLE ANIMAL...BABY CALF, WAS 50 MG/KG (23 MG/LB). CALVES WERE UNAFFECTED BY 25 MG/KG & ADULT CATTLE BY 50 MG/KG. SUBACUTE TOXICITY STUDIES INDICATE THAT DAILY IP DOSES OF 100 MG/KG (45 MG/LB) FOR APPROX 60 DAYS ARE REQUIRED TO REACH LD50 FOR RATS. DAILY ADMIN OF 50 MG/KG (23 MG/LB) BY SAME ROUTE WAS WITHOUT EFFECT."
+        },
+        {
+            "References": "Jones, L.M., et al. Veterinary Pharmacology & Therapeutics. 4th ed. Ames: Iowa State University Press, 1977., p. 1201",
+            "Value": "LETHAL AMOUNTS OF ORGANOPHOSPHATES CAUSE DEATH BY A COMBINATION OF EFFECTS OF MUSCARINIC, NICOTINIC, & CENTRAL CHOLINERGIC OVERSTIMULATION &/OR RECEPTOR PARALYSIS. THUS HYPOTENSION, BRADYCARDIA, BRONCHOCONSTRICTION & BRONCHIAL FLUID ACCUM, INABILITY OF TONICALLY RIGID (OR FLACCID-PARALYTIC) RESP MUSCLES TO WORK PROPERLY, CYANOSIS & CENTRAL RESP DEPRESSION ARE MANIFESTED. ANIMAL DIES OF ASPHYXIA. FROM THIS IT WOULD SEEM THAT ORGANOPHOSPHATES SHOULD BE CLASSIFIED UNDER POISONS CAUSING...SIGNS OF RESP INSUFFICIENCY. ... IN PRACTICE, HOWEVER, THE OUTSTANDING CLINICAL SIGNS SEEN IN HERD OUTBREAKS & IN AMBULATORY ANIMALS ARE GENERALLY THOSE OF BEHAVIORAL, MOTOR, & MUSCLE STIMULATION. /ORGANOPHOSPHATE PESTICIDES/"
+        },
+        {
+            "References": "Jones, L.M., et al. Veterinary Pharmacology & Therapeutics. 4th ed. Ames: Iowa State University Press, 1977., p. 1203",
+            "Value": "SIGNS OF MUSCARINIC CHOLINERGIC OVERSTIMULATION INCLUDE PROFUSE SALIVATION; LACRIMATION; SEROUS OR SEROMUCOUS NASAL DISCHARGE; INCREASED RESPIRATORY SOUNDS...COLIC, & DIARRHEA...PUPIL CONSTRICTION, SWEATING, COUGHING; VOMITING...FREQUENT URINATION. ... CENTRAL NERVOUS SIGNS...INCLUDE...ANXIETY, RESTLESSNESS, & HYPERACTIVITY... /ORGANOPHOSPHATE PESTICIDES/"
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 4812",
+            "Value": "DERMAL APPLICATION OF APPROX 1400 MG/KG TO RABBITS PRODUCED NO SIGNS OF TOXICITY. DAILY ADMIN OF CHLOROTHION IN DIET OF GROUPS OF RATS AT 50, 100 & 200 MG/KG/DAY RESULTED IN CHOLINESTERASE INHIBITION AT ALL LEVELS. THE 2 LOWER DOSAGES PRODUCED 50% CHOLINESTERASE INHIBITION. 40% MORTALITY RESULTED @ 100 MG/KG/DAY OVER 60-DAY FEEDING PERIOD. A DOSAGE OF 200 MG/KG/DAY PRODUCED 75% CHOLINESTERASE INHIBITION & WAS NOT TOLERATED FOR MORE THAN 5 TO 10 DAYS. THE 50 MG/KG/DAY DOSAGE WAS TOLERATED WITHOUT MORTALITY FOR 60 DAYS. CHLORTHION IS AN ACTIVE CHOLINESTERASE INHIBITOR IN VITRO. LOW MAMMALIAN TOXICITY IS ASCRIBED TO SLOW ABSORPTION."
+        },
+        {
+            "References": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. Old Woking, Surrey, United Kingdom: Royal Society of Chemistry/Unwin Brothers Ltd., 1983., p. A092/OCT 83",
+            "Value": "Toxic to fish.../&/ bees."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 42 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of chlorthion is estimated as 1800(SRC), using a log Kow of 3.45(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that chlorthion is expected to have low mobility in soil."
+        }
+    ]
+}

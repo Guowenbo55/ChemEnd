@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "6682e991c4e5dba5ffba2b45"
+    },
+    "CID": {
+        "$numberInt": "126941"
+    },
+    "Name": "METHOTREXATE",
+    "IUPACName": "(2S)-2-[[4-[(2,4-diaminopteridin-6-yl)methyl-methylamino]benzoyl]amino]pentanedioic acid",
+    "CanonicalSMILES": "CN(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)NC(CCC(=O)O)C(=O)O",
+    "Synonyms": [
+        "methotrexate",
+        "59-05-2",
+        "Rheumatrex",
+        "Amethopterin",
+        "Methylaminopterin",
+        "Metatrexan",
+        "Hdmtx",
+        "Abitrexate",
+        "Trexall",
+        "Mexate",
+        "Ledertrexate",
+        "Methylaminopterinum",
+        "(S)-2-(4-(((2,4-Diaminopteridin-6-yl)methyl)(methyl)amino)benzamido)pentanedioic acid",
+        "Methotrexatum",
+        "Antifolan"
+    ],
+    "IsomericSMILES": "CN(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O",
+    "INCHI": "InChI=1S/C20H22N8O5/c1-28(9-11-8-23-17-15(24-11)16(21)26-20(22)27-17)12-4-2-10(3-5-12)18(31)25-13(19(32)33)6-7-14(29)30/h2-5,8,13H,6-7,9H2,1H3,(H,25,31)(H,29,30)(H,32,33)(H4,21,22,23,26,27)/t13-/m0/s1",
+    "INCHIKEY": "FBOZXECLQNJBKD-ZDUSSCGKSA-N",
+    "Formula": "C20H22N8O5",
+    "MolecularWeight": {
+        "$numberDouble": "454.4"
+    },
+    "Description": "Methotrexate is a member of pteridines, a monocarboxylic acid amide and a dicarboxylic acid. It has a role as an antineoplastic agent, an antirheumatic drug, an EC 1.5.1.3 (dihydrofolate reductase) inhibitor, a DNA synthesis inhibitor, an abortifacient, a dermatologic drug, an antimetabolite and an immunosuppressive agent. It is functionally related to a L-glutamic acid. It is a conjugate acid of a methotrexate(1-).",
+    "XlogP": {
+        "$numberDouble": "-1.8"
+    },
+    "Complexity": {
+        "$numberInt": "704"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 1071",
+            "Value": "log Kow = -1.85"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "McEvoy, G.K. (ed.). American Hospital Formulary Service-  Drug Information 2005. Bethesda, MD: American Society of  Health-System Pharmacists, Inc. 2005 (Plus Supplements)., p. 1113",
+            "Value": "Methotrexate and its polyglutanate metabolites reversibly inhibits dihydrofolate reductase, the enzyme that reduces folic acid to tetrahydrofolic acid. Inhibition of tetrahydrofolate formation limits the availability of one-carbon fragments necessary for synthesis of purines and the conversion of deoxyuridylate to thymidylate in the synthesis of DNA and cell reproduction. The affinity of dihydrofolate reductase for methotrexate is far greater than its affinity for folic acid or dihydrofolic acid. and, therefore, even very large doses of folic acid given simultaneously will not reverse the effects of methotrexate. Leucovorin calcium, a derivative of tetrahydrofolic acid, may block the effects of methotrexate if given shortly after the antineoplastic agent. Results of one study indicate that methotrexate also causes an increase in intracellular deoxyadenosine triphosphate, which is thought to inhibit ribonucleotide reduction, and polynucleotide ligase, an enzyme concerned in DNA synthesis and repair. Tissues with high rates of cellular proliferation such as neoplasms, psoriatic epidermis, bone marrow, the lining of the GI tract, hair matrix, and fetal cells are most sensitive to the effects of methotrexate."
+        },
+        {
+            "References": "McEvoy, G.K. (ed.). American Hospital Formulary Service-  Drug Information 2005. Bethesda, MD: American Society of  Health-System Pharmacists, Inc. 2005 (Plus Supplements)., p. 1113",
+            "Value": "Methotrexate ... has immunosuppressive activity, in part possibly as a result of inhibition of lymphocyte multiplication. The mechanism(s) of action in the management of rheumatoid arthritis of the drug is not known, although suggested mechanisms have included immunosuppressive and/or antiinflammatory effects."
+        }
+    ]
+}

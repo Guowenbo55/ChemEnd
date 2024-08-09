@@ -1,0 +1,109 @@
+{
+    "_id": {
+        "$oid": "6682e934c4e5dba5ffba2973"
+    },
+    "CID": {
+        "$numberInt": "19395"
+    },
+    "Name": "SULFOTEP",
+    "IUPACName": "diethoxyphosphinothioyloxy-diethoxy-sulfanylidene-lambda5-phosphane",
+    "CanonicalSMILES": "CCOP(=S)(OCC)OP(=S)(OCC)OCC",
+    "Synonyms": [
+        "Sulfotep",
+        "Sulfotepp",
+        "Dithiophos",
+        "Dithion",
+        "3689-24-5",
+        "Dithione",
+        "TEDP",
+        "TEDTP",
+        "Bladafum",
+        "Dithiofos",
+        "Dithiotep",
+        "Thiotepp",
+        "Tetraethyl dithiopyrophosphate",
+        "Pirofos",
+        "Fulex"
+    ],
+    "IsomericSMILES": "CCOP(=S)(OCC)OP(=S)(OCC)OCC",
+    "INCHI": "InChI=1S/C8H20O5P2S2/c1-5-9-14(16,10-6-2)13-15(17,11-7-3)12-8-4/h5-8H2,1-4H3",
+    "INCHIKEY": "XIUROWKZWPIAIB-UHFFFAOYSA-N",
+    "Formula": "C8H20O5P2S2",
+    "MolecularWeight": {
+        "$numberDouble": "322.3"
+    },
+    "Description": "Sulfotep is an organic thiophosphate and an organothiophosphate insecticide. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, an EC 3.1.1.8 (cholinesterase) inhibitor, an acaricide and an agrochemical. It is functionally related to a dithiodiphosphoric acid.",
+    "XlogP": {
+        "$numberDouble": "3.9"
+    },
+    "Complexity": {
+        "$numberInt": "252"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Tomlin CDS, ed; The Pesticide Manual World Compendium. 11th ed., Surrey, England: British  Crop Protection Council p. 1132 (1997) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72  (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 240 was calculated for sulfotep(SRC), using a log Kow of 3.99(1) and a  regression-derived equation(2). According to a classification scheme(3), this BCF suggests the  potential for bioconcentration in aquatic organisms is high(SRC)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium, 11 th ed., British Crop Protection Council, Surrey, England 1997, p. 1132",
+            "Value": "log Kow = 3.99"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the Threshold Limit Values and Biological Exposure Indices. 5th ed. Cincinnati, OH: American Conference of Governmental Industrial Hygienists, 1986., p. 541",
+            "Value": "/DITHIONE/ ... IS ABOUT HALF AS TOXIC AS PARATHION ACUTELY ... ITS PRINCIPAL TOXIC EFFECT IS  CHOLINESTERASE INHIBITION."
+        },
+        {
+            "References": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 933",
+            "Value": "Cholinesterase inhibitor"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 910",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ When dogs were given diets that contained 0, 0.5, 3, 15, or 75 ppm sulfotepp (equivalent to   about 0, 0.014, 0.11-0.12, 0.55-0.57, or 2.75- 3.07 mg/kg/day) for 13 weeks, food consumption   and body weight gain decreased at 75 ppm. Plasma cholinesterase activity was inhibited at 3   ppm or higher, whereas RBC cholinesterase was inhibited at 15 ppm sulfotepp or higher.   Occasional diarrhea and vomiting occurred in dogs at 15 ppm and were common in dogs at 75 ppm."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 910",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ When rats were exposed to 0, 0.89, 1.94, and 2.83 mg/cu m sulfotepp aerosol for 6 hours/day,   5 days/wk for 12 weeks, no changes in appearance, behavior, or body weight gain occurred at   any dose. RBC acetylcholinesterase was not inhibited at any dose; however, plasma   cholinesterase activity was inhibited in rats exposed to 2.83 mg/cu m. Absolute and relative   lung weights of females exposed to 2.83 mg/cu m were significantly higher than those of   controls due to edema. No effects were observed at sulfotepp concns <2.83 mg/cu m."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the Threshold Limit Values and Biological Exposure Indices. 5th ed. Cincinnati, OH: American Conference of Governmental Industrial Hygienists, 1986., p. 541",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... 60 PPM ... WAS HIGHEST DIETARY CONCN ... FOR 12 WK THAT PRODUCED NO SYMPTOMS IN RATS; 180  PPM ... PRODUCED BOTH ILLNESS & TISSUE CHANGE."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 911",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Carcinogenesis: No signs of carcinogenicity or other adverse  effects occurred at any dose level in mice or rats given diets that contained 0, 2, 10, or 50  ppm (equivalent to 0, 0.29, 1.43, or 7.14 mg/kg/day (mice); 0.13, 0.67 or 3.33 mg/kg/day  (rats)) sulfotepp for 2 years. There were no signs of toxicity other than inhibition of plasma  and RBC cholinesterase at 50 ppm."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 911",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ No embryotoxic or teratogenic effects occurred in  rats given 0.1, 0.3, or 1.0 mg/kg/day sulfotepp by gavage on gestation days 9 to 15. No  embryotoxic or teratogenic effects occurred in rabbits given 0.1, 1.0, or 3.0 mg/kg/day on  gestation days 6 to 18."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 911",
+            "Value": "/GENOTOXICITY/ ...Sulfotepp was mutagenic in S. typhimurium strain TA1535 with metabolic activation. However, sulfotepp was not mutagenic to S. typhimurium strains TA100, TA98, TA1537, and TA1535 with or without metabolic activation. A micronucleus test in rats was negative. A dominant lethal assay, in which sulfotepp was administered orally to mice, was also negative."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 911",
+            "Value": "/GENOTOXICITY/ Sulfotepp was mutagenic in S. typhimurium strain TA1535 with metabolic activation. However, sulfotepp was not mutagenic to S. typhimurium strains TA100, TA98, TA1537, and TA1535 with or without metabolic activation."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Kjolholt J; Chemosphere 14: 1763-70 (1985)",
+            "Value": "SEDIMENT: Sulfotep was found in four out of twelve sediment samples in Nissum Broad, Denmark,  near a pesticide manufacturing plant, at concentrations ranging from <0.3-9.5 kg/kg dry  weight(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Tomlin CDS, ed; The Pesticide Manual World Compendium. 11th ed., Surrey, England: British  Crop Protection Council p. 1132 (1997) (2) Lyman WJ et al; Handbook of Chemical Property  Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev  85: 17-28 (1983) (4) Kjeldsen P et al; J Contam Hydrol 6: 165-84 (1990)",
+            "Value": "The Koc of sulfotep is estimated as 3,500(SRC), using a log Kow of 3.99(1) and a  regression-derived equation(2). According to a classification scheme(3), this estimated Koc  value suggests that sulfotep is expected to have slight mobility in soil. Sulfotep, applied  to anaerobic soil columns using anaerobic leachate from a municipal landfill in Forlev,  Denmark, showed a relative velocity of <10% after 10 months(4)."
+        }
+    ]
+}

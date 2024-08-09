@@ -1,0 +1,63 @@
+{
+    "_id": {
+        "$oid": "6682e928c4e5dba5ffba2936"
+    },
+    "CID": {
+        "$numberInt": "16850"
+    },
+    "Name": "FLUORESCEIN",
+    "IUPACName": "3',6'-dihydroxyspiro[2-benzofuran-3,9'-xanthene]-1-one",
+    "CanonicalSMILES": "C1=CC=C2C(=C1)C(=O)OC23C4=C(C=C(C=C4)O)OC5=C3C=CC(=C5)O",
+    "Synonyms": [
+        "fluorescein",
+        "2321-07-5",
+        "Solvent Yellow 94",
+        "Resorcinolphthalein",
+        "Fluoresceine",
+        "\"3,6-Dihydroxy-3H-spiro[isobenzofuran-1,9-xanthen]-3-one\"",
+        "Yellow fluorescein",
+        "3,6-Fluorandiol",
+        "Japan Yellow 201",
+        "D and C Yellow No. 7",
+        "C.I. Solvent Yellow 94",
+        "D&C Yellow No. 7",
+        "\"3,6-Dihydroxyfluoran\"",
+        "Fluoreszein",
+        "Fluorescein acid"
+    ],
+    "IsomericSMILES": "C1=CC=C2C(=C1)C(=O)OC23C4=C(C=C(C=C4)O)OC5=C3C=CC(=C5)O",
+    "INCHI": "InChI=1S/C20H12O5/c21-11-5-7-15-17(9-11)24-18-10-12(22)6-8-16(18)20(15)14-4-2-1-3-13(14)19(23)25-20/h1-10,21-22H",
+    "INCHIKEY": "GNBHRKFJIUUOQI-UHFFFAOYSA-N",
+    "Formula": "C20H12O5",
+    "MolecularWeight": {
+        "$numberDouble": "332.3"
+    },
+    "Description": "Fluorescein (lactone form) is a xanthene dye that is highly fluorescent, detectable even when present in minute quantities. Used forensically to detect traces of blood, in analytical chemistry as an indicator in silver nitrate titrations and in microscopy. It has a role as a radioopaque medium and a fluorescent dye. It is a xanthene dye, a gamma-lactone, a polyphenol, an oxaspiro compound, a member of 2-benzofurans and an organic heteropentacyclic compound. It is functionally related to a fluorescein (acid form).",
+    "XlogP": {
+        "$numberDouble": "3.4"
+    },
+    "Complexity": {
+        "$numberInt": "522"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Meylan WM, Howard PH; J Pharm Sci 84: 83-92 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2010. Available from, as of Nov 15, 2011: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 75 was calculated in fish for fluorescein(SRC), using an estimated log Kow of 3.35(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is moderate(SRC)."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "US Natl Inst Health; DailyMed. Current Medication Information for Fluorescite (fluorescein sodium) injection, solution (2009). Available from, as of October 19, 2009: https://dailymed.nlm.nih.gov/dailymed/search.cfm?startswith=Fluorescein+sodium",
+            "Value": "Fluorescein sodium responds to electromagnetic radiation and light between the wavelengths of 465-490 nm and fluoresces, i.e., emits light at wavelengths of 520-530 nm. Thus, the hydrocarbon is excited by blue light and emits light that appears yellowish-green. Following intravenous injection of fluorescein sodium in an aqueous solution, the unbound fraction of the fluorescein can be excited with a blue light flash from a fundus camera as it circulates through the ocular vasculature, and the yellowish green fluorescence of the dye is captured by the camera. In the fundus, the fluorescence of the dye demarcates the retinal and/or choroidal vasculature under observation, distinguishing it from adjacent areas/structures. /Fluorescein sodium/"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992) (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of fluorescein can be estimated to be 2.6X10+5(SRC). According to a classification scheme(2), this estimated Koc value suggests that fluorescein is expected to be immobile mobility in soil."
+        }
+    ]
+}

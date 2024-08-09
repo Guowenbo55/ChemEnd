@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "66927119303528b49832d7e7"
+    },
+    "CID": {
+        "$numberInt": "4690"
+    },
+    "Name": "Methazole",
+    "IUPACName": "2-(3,4-dichlorophenyl)-4-methyl-1,2,4-oxadiazolidine-3,5-dione",
+    "CanonicalSMILES": "CN1C(=O)N(OC1=O)C2=CC(=C(C=C2)Cl)Cl",
+    "Synonyms": [
+        "Methazole",
+        "Probe",
+        "20354-26-1",
+        "Oxydiazol",
+        "Bioxone",
+        "Metazole",
+        "Paxilon",
+        "Tunic",
+        "Metazol",
+        "Mezopur",
+        "CHLORMETHAZOLE",
+        "Probe 75",
+        "2-(3,4-Dichlorophenyl)-4-methyl-1,2,4-oxadiazolidine-3,5-dione",
+        "VCS 438",
+        "2-(3,4-Dichlorophenyl)-4-methyl-1,2,4-oxadiazolidinedione"
+    ],
+    "IsomericSMILES": "CN1C(=O)N(OC1=O)C2=CC(=C(C=C2)Cl)Cl",
+    "INCHI": "InChI=1S/C9H6Cl2N2O3/c1-12-8(14)13(16-9(12)15)5-2-3-6(10)7(11)4-5/h2-4H,1H3",
+    "INCHIKEY": "LRUUNMYPIBZBQH-UHFFFAOYSA-N",
+    "Formula": "C9H6Cl2N2O3",
+    "MolecularWeight": {
+        "$numberDouble": "261.06"
+    },
+    "Description": "Methazole is a dichlorobenzene.",
+    "XlogP": {
+        "$numberDouble": "2.7"
+    },
+    "Complexity": {
+        "$numberInt": "326"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The absorption and translocation of 14C-labeled \u03b1,\u03b1,\u03b1-trifluoro-2,6-dinitro-N,N-dipropyl-p-toluidine (trifluralin) and 2-(3,4-dichlorophenyl)-4-methyl-1,2,4-oxadiazolidine-3,5-dione methazole from nutrient solutions of various temperatures by (Arachis hypogaea L. \u2018Starr\u2019) seedlings were determined. The accumulation of trifluralin in roots at 24 hr after exposure to trifluralin was greatest at 21 C and decreased at higher temperatures up to 38 C. The amounts of trifluralin translocated and accumulated in hypocotyls, tops, and cotyledons were small but generally increased with temperature. The initial rate of absorption of trifluralin was greater in excised lateral root tips than in tap root tips, but there was a greater accumulation in excised tap roots at 24 hr. The initial rates of absorption were higher for excised lateral roots at high temperatures. Total absorption of trifluralin at equilibrium was not proportional to the initial rates of absorption but was highest at low (21 C) and high (38 C) temperatures for excised lateral roots. The absorption of methazole by roots and translocation to other plant parts increased linearly with temperature, and it tended to accumulate in the mature leaf tissue.",
+            "reference": "Hawxby, K., Basler, E., & Santelmann, P. W. (1972). Temperature effects on absorption and translocation of trifluralin and methazole in peanuts. Weed science, 20(4), 285-289.",
+            "method": {
+                "Test Plant": "Peanut (Arachis hypogaea)",
+                "Apply Location": "Nutrient solution",
+                "Plant Grown Condition": "Germinated in paper rolls at 33\u00b0C for 4 days, then transplanted to aerated, half-strength Hoagland's nutrient solution and placed in growth chambers with 14-hour, 33\u00b0C days and 10-hour, 27\u00b0C nights for 3 or 6 days before use in the experiments.",
+                "Chemical Preparation": "Trifluralin (trifluromethyl-14C) and methazole (ring carbon 3-14C)",
+                "Pesticide Application Details for the Plant": "Intact 7-day seedlings treated for 24 hours in aerated fresh nutrient solution containing 0.64% of trifluralin (trifluromethyl-14C) equivalent to 5 or 10 ppm or 0.13% of methazole (ring carbon 3-14C) equivalent to 0.064 ppm. One-cm sections of lateral and tap root tips excised from 10-day seedlings and cultured for varying times at different temperatures in half-strength Hoagland's nutrient solution containing 0.47 ppm of trifluralin (0.042%) in a closed vial.",
+                "Other Information": "Greenhouse conditions maintained between 85 and 95\u00b0C. Nutrient solution bottles covered with aluminum foil to prevent photodecomposition of herbicide. Most experiments repeated two or more times. Each treatment replicated 5 or 10 times for experiments with intact plants and eight times for experiments on excised root tips."
+            },
+            "result": "[{\"Temperature (\\u00b0C)\": 15.6, \"Concentration (ppm)\": 5, \"Absorbed (%)\": 10.4, \"Hypocotyls (%)\": 0.18, \"Tops (%)\": 0.01, \"Cotyledons (%)\": 0.03}, {\"Temperature (\\u00b0C)\": 21.1, \"Concentration (ppm)\": 5, \"Absorbed (%)\": 14.8, \"Hypocotyls (%)\": 0.33, \"Tops (%)\": 0.17, \"Cotyledons (%)\": 0.18}, {\"Temperature (\\u00b0C)\": 26.7, \"Concentration (ppm)\": 5, \"Absorbed (%)\": 9.92, \"Hypocotyls (%)\": 0.78, \"Tops (%)\": 0.07, \"Cotyledons (%)\": 0.05}, {\"Temperature (\\u00b0C)\": 32.2, \"Concentration (ppm)\": 5, \"Absorbed (%)\": 3.31, \"Hypocotyls (%)\": 0.81, \"Tops (%)\": 0.17, \"Cotyledons (%)\": 0.24}, {\"Temperature (\\u00b0C)\": 38.8, \"Concentration (ppm)\": 5, \"Absorbed (%)\": 0.32, \"Hypocotyls (%)\": 0.88, \"Tops (%)\": 0.13, \"Cotyledons (%)\": 0.04}, {\"Temperature (\\u00b0C)\": 15.6, \"Concentration (ppm)\": 10, \"Absorbed (%)\": 12.4, \"Hypocotyls (%)\": 0.1, \"Tops (%)\": 0.01, \"Cotyledons (%)\": 0.03}, {\"Temperature (\\u00b0C)\": 21.1, \"Concentration (ppm)\": 10, \"Absorbed (%)\": 16.64, \"Hypocotyls (%)\": 0.29, \"Tops (%)\": 0.1, \"Cotyledons (%)\": 0.13}, {\"Temperature (\\u00b0C)\": 26.7, \"Concentration (ppm)\": 10, \"Absorbed (%)\": 11.58, \"Hypocotyls (%)\": 0.78, \"Tops (%)\": 0.1, \"Cotyledons (%)\": 0.17}, {\"Temperature (\\u00b0C)\": 32.2, \"Concentration (ppm)\": 10, \"Absorbed (%)\": 4.64, \"Hypocotyls (%)\": 0.81, \"Tops (%)\": 0.23, \"Cotyledons (%)\": 0.24}, {\"Temperature (\\u00b0C)\": 38.8, \"Concentration (ppm)\": 10, \"Absorbed (%)\": 1.45, \"Hypocotyls (%)\": 0.88, \"Tops (%)\": 0.19, \"Cotyledons (%)\": 0.22}]"
+        },
+        {
+            "content": "Translocation of the 14C-labeled methazole [2-(3,4-dichlorophenyl)-4-methyl-1,2,4-oxadiazolidine-3,5-dione] was determined in cotton (Gossypium hirsutum L. \u2018DPL 16\u2032) from preemergence treatments and applications to leaves and stems in the field. Significantly greater methazole concentrations occurred in cotton from treatments to stems of 18 to 22-cm tall cotton than to leaves of 10 to 12-cm tall cotton or when applied preemergence. The radiolabel translocated primarily into the mature stems and leaves with lesser amounts translocating into the roots. Little 14C moved into the young growing points or into the seed and fiber of mature cotton. The distribution pattern of the 14C-label is characteristic of compounds which move primarily in the apoplast.\n",
+            "reference": "Wills, G. D. (1976). Translocation of 14 C-Methazole in Cotton. Weed Science, 24(4), 370-374.",
+            "method": {
+                "Test Plant": "Cotton (Gossypium hirsutum L. 'DPL 16')",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Cotton plants were grown in 19-L metal containers (30.5 cm diameter) filled with Bosket very fine sandy loam soil in the field at the Delta Branch Experiment Station, Stoneville, Mississippi. Plants were thinned to the required number for each analysis.",
+                "Chemical Preparation": "14C-labeled methazole [2-(3,4-dichlorophenyl)-4-methyl-1,2,4-oxadiazolidine-3,5-dione] solution was prepared by combining radiolabeled methazole (specific activities ranging from 10,500 to 132,300 dpm/\u03bcg) with technical grade methazole and dissolving in appropriate solvents like ethanol or benzene.",
+                "Pesticide Application Details for the Plant": "foliar application to cotyledonary leaves at 0.84 kg/ha",
+                "Other Information": "The experiment was replicated three times and repeated. Plants were analyzed at different growth stages (cotyledon, five to six-leaf, and early blossom) using autoradiography and liquid scintillation counting techniques to determine the distribution of 14C-radiolabel."
+            },
+            "result": "[{\"Concentration Leaves (dpm)\": \"1.7 kg/ha\", \"Stems (dpm)\": 2400, \"Roots (dpm)\": 1600}]"
+        }
+    ]
+}

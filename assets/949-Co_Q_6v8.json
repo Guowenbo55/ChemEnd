@@ -1,0 +1,155 @@
+{
+    "_id": {
+        "$oid": "6682e7ddc4e5dba5ffba22bc"
+    },
+    "CID": {
+        "$numberInt": "949"
+    },
+    "Name": "N,N-DIMETHYLANILINE",
+    "IUPACName": "N,N-dimethylaniline",
+    "CanonicalSMILES": "CN(C)C1=CC=CC=C1",
+    "Synonyms": [
+        "N,N-dimethylaniline",
+        "121-69-7",
+        "Dimethylaniline",
+        "Dimethylphenylamine",
+        "N,N-Dimethylbenzenamine",
+        "Benzenamine",
+        "N,N-dimethyl-",
+        "(Dimethylamino)benzene",
+        "N,N-Dimethylphenylamine",
+        "N,N-Dimethylbenzeneamine",
+        "Dwumetyloanilina",
+        "Aniline",
+        "N,N-dimethyl-",
+        "N,N-(Dimethylamino)benzene",
+        "Dimethylaminobenzene",
+        "Versneller NL 63/10",
+        "Dimethyl-phenyl-amine"
+    ],
+    "IsomericSMILES": "CN(C)C1=CC=CC=C1",
+    "INCHI": "InChI=1S/C8H11N/c1-9(2)8-6-4-3-5-7-8/h3-7H,1-2H3",
+    "INCHIKEY": "JLTDJTHDQAWBAV-UHFFFAOYSA-N",
+    "Formula": "C8H11N",
+    "MolecularWeight": {
+        "$numberDouble": "121.18"
+    },
+    "Description": "N,N-dimethylaniline is a tertiary amine that is aniline in which the amino hydrogens are replaced by two methyl groups. It is a tertiary amine and a dimethylaniline.",
+    "XlogP": {
+        "$numberDouble": "2.3"
+    },
+    "Complexity": {
+        "$numberInt": "72"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Thomas AF, Bassols F; J Agric Food Chem 40: 2236-2243 (1992)",
+            "Value": "N,N-Dimethylaniline was detected, not quantified, in cold-pressed orange oil from the peel of fresh Florida oranges(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Jul 10, 2014: https://www.safe.nite.go.jp/english/db.html (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "A BCF of 5.4 was measured in fish for N,N-dimethylaniline, at a concentration of 0.5 ppm, using carp (Cyprinus carpio) which were exposed over a 6-week period(1). According to a classification scheme(2), this BCF suggests that bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Prager JC; Environmental Contaminant Reference Databook. New York, NY: Van Nostrand Reinhold, 1: 171-3 (1995) (2) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Jul 10, 2014: https://www.safe.nite.go.jp/english/db.html",
+            "Value": "AEROBIC: Using a mixed municipal/industrial activated sludge, 0-3% of N,N-dimethylaniline was removed over a 6 hr period at a concentration of 20 mg/L. When an industrial activated sludge that was adapted to N,N-dimethylaniline was used, 100% of the total organic carbon was removed after 6 days at a concentration of 400 mg/L. However, this test indicates that stripping may be the most important elimination process since there was no indications that biodegradation had occurred. In another test, both a municipal non-acclimated and an acclimated activated sludge were used to study the biodegradation. The non-acclimated sludge reached less than 10% of its ThOD after 28 days at a concentration of 50-200 mg/L of N,N-dimethylaniline while at the same concentration, the acclimated sludge reached 22% of its ThOD in 5 days(1). N,N-Dimethylaniline, present at 100 mg/L, reached 1.9% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(2)."
+        },
+        {
+            "References": "(1) James MO; Chem Plant Prot 9: 153-189 (1994) (2) Watson HM; Environ Tox Chem 12: 2023-30 (1993)",
+            "Value": "PURE CULTURE: The biodegradation pathway for N,N-dimethylaniline is believed to begin by enzymatic attack on one of the methyl groups attached to the nitrogen(1). Two biodegradation experiments were conducted to study the increase in degradability between an acclimated and non-acclimated bacteria culture. Microorganisms were obtained as mixed liquor suspended solids from the secondary aeration basins of an industrial wastewater treatment plant. One bacteria culture was introduced to N,N-dimethylaniline in nine stages where the concentration was steadily increased whereas the other culture was given no prior acclimation. At the end of a 7 day exposure, 72% of N,N-dimethylaniline still remained in the non-acclimated culture as opposed to only 0.15% in the acclimated culture(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 231",
+            "Value": "log Kow = 2.31"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "EUROPEAN COMMISSION, ESIS; IUCLID Dataset, N,N-dimethylaniline (121-69-7) (2000). Available from, as of July 18, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Primary skin irritation on rabbits was recorded on a 10-grade ordinal series and was based upon the severest reaction that developed on the clipped skin of belly of each of five albino rabbits within 24 hours of the uncovered application of 0.01 ml undiluted sample. Grade 1 indicates no irritation, grade 6 indicates necrosis when undiluted. Skin irritation properties of N,N-dimethylaniline was estimated as grade 3."
+        },
+        {
+            "References": "EUROPEAN COMMISSION, ESIS; IUCLID Dataset, N,N-dimethylaniline (121-69-7) (2000). Available from, as of July 18, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ A dog weighing 15 kg was injected s.c. on days 1 and 3 with 1.5 g N,N-dimethylaniline in 15 mL of water. After the first dose, anorexia and lethargy developed; after the second dose, extensive vomiting, salivation and severe general weakness were observed. The cyanosis and marked metHb formation observed 3 hours after each injection had regressed 24 hours later. In addition, the number of erythrocytes increased during the study from 5.1 million to 9.6 million."
+        },
+        {
+            "References": "EUROPEAN COMMISSION, ESIS; IUCLID Dataset, N,N-dimethylaniline (121-69-7) (2000). Available from, as of July 18, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ When mice were injected (i.p.) with 65 mg/kg N,N-dimethylaniline for 3 days, 1.8 % metHb and 2.0 % sulfhemoblobin were found 48 hours after the last dose."
+        },
+        {
+            "References": "MARKOSYAN TM; GIG SANIT 34 (3): 7 (1969)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rats inhaling dimethylaniline at 0.3 mg/cu m for 24 hours/day for 100 days showed significant changes in the central nervous system, blood, and liver, including changes in the correlation of muscle antagonist chronaxy, a reduced number of erythrocytes and hemoglobin, increased methemoglobin level, reticulocytosis, leukopenia, hypoproteinemia, a reduced sulfhydryl group content in the serum, and accumulation of pyruvic acid in the liver and serum. Dimethylaniline increased the coproporphyrin urinary excretion and reduced the adrenal ascorbic acid level. Dimethylaniline at 0.005 mg/cu m did not change the above parameters."
+        },
+        {
+            "References": "Snyder, R. (ed.). Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume II: Nitrogen and Phosphorus Solvents. Amsterdam-New York-Oxford: Elsevier, 1990., p. 193",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Splenomegaly was observed in Fischer 344 rats and B6CF1 mice given a daily dose of up to 500 mg of N,N-dimethylaniline/kg body weight 5 days/wk for 13 wk. Microscopic examination revealed the presence of hemosiderosis and hematopoiesis in the spleens, livers, and kidneys of treated rats and mice. Bone marrow hyperplasia was noted in treated rats but not mice."
+        },
+        {
+            "References": "EUROPEAN COMMISSION, ESIS; IUCLID Dataset, N,N-dimethylaniline (121-69-7) (2000). Available from, as of July 18, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Male white rats (strain not specified) were exposed to N,N-dimethylaniline for 24 hours for 100 days ... then observed for the recovery for unspecified period. ... No adverse effects were found in rats exposed to NN-dimethylaniline at a concentration of 0.005 mg/cu m. At a higher concentration of 0.3 mg/cu m the following symptoms were observed: increased metHb concentration (maximum of 22%), reduced erythrocyte number and Hb concentration, reticulocytosis, leukopenia, hypoproteinaemia, reduced concentration of SH groups in blood serum, accumulation of pyruvic acid in the liver, chromatolysis in brain cells, increased excretion of coproporphyrin in urine and reduced level of ascorbic acid in the adrenals. There were changes in the chronaxial ratios of the antagonistic muscle observed."
+        },
+        {
+            "References": "EUROPEAN COMMISSION, ESIS; IUCLID Dataset, N,N-dimethylaniline (121-69-7) (2000). Available from, as of July 18, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ /Male  rats received inhalation of the test chemical for 4 months, 5 hours daily, 6 days per week at doses: 1.1 or 10.7 mg/cu m (0.0011 or 0.0107 mg/L)/. Fifteen white male rats (strain not specified) in each group, including controls, were used. Towards the end of the exposure period, the metHb level in animals of the high dose group increased to 11.6%, the total Hb level decreased by 8.8% and the number of erythrocytes decreased to 5 415 000/cu mm (in controls = 6000000/cu mm). The blood catalase activity was reduced by almost one half while peroxidase activity increased by about 25%. At the end of the exposure period, liver function disorders (higher thymol score, dysproteinaemia and lower level of vit. C). In the first month of exposure only, the coproporphyrin level in urine was increased slightly. In addition, hyperplasia of lymphatic tissue in the spleen were found. In animals exposed to N,N-dimethylaniline in concentration of1.1 mg/cu m, similar changes were observed but of much lower intensity. The metHb level in the blood increased to 5.6% by the end of the exposure period; however, the total Hb level decreased by 13.1%."
+        },
+        {
+            "References": "EUROPEAN COMMISSION, ESIS; IUCLID Dataset, N,N-dimethylaniline (121-69-7) (2000). Available from, as of July 18, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ It was found that during application of undiluted N,N-dimethylaniline to the rat tail for 10 days, 62.5 % (5/8) of exposed rats died between day 2 and 10. In surviving animals, body weight was significantly lower than that of controls; methemoglobinemia (29.6 %), reduced Hb (47.8 %), erythropenia and reticulosis were also observed."
+        },
+        {
+            "References": "EUROPEAN COMMISSION, ESIS; IUCLID Dataset, N,N-dimethylaniline (121-69-7) (2000). Available from, as of July 18, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/  /Rats received test chemical s.c. for 10 days, daily at the dose 0.1 g/kg/day. Methemoglobinaemia, a decrease in total Hb, a decrease in the number of erythrocytes, and reticulocytosis were found. Blood catalase activity was reduced while peroxidase activity increased. Liver function disorders expressed by increased thymol score, dysproteinemia and a lower vit. C level."
+        },
+        {
+            "References": "PMID:2884741",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ N,N-Dimethylaniline was evaluated for developmental toxicity in a proposed new short-term in vivo animal bioassay. In this assay, pregnant mice are dosed with the test agent in mid-pregnancy and allowed to go to term. Observations are then made on litter size as well as the birth weight, neonatal growth, and survival of pups as indicators of developmental toxicity. Fifty pregnant CD-1 mice were given 365 mg/kg/day N,N-dimethylaniline in corn oil by gavage on days 6-13 of gestation and were allowed to deliver. N,N-Dimethylaniline had no toxic effect in the dams or in their offspring for the parameters assayed."
+        },
+        {
+            "References": "Mortelmans K et al; Environ Mutagen 8: 1-119 (1986)",
+            "Value": "/GENOTOXICITY/ N,N-dimethylaniline was found to be negative when tested for mutagenicity in the Salmonella/microsome preincubation assay using the standard protocol approved by the National Toxicology Program (NTP). N,N-dimethylaniline was tested in as many as 5 Salmonella typhimurium strains (TA1535, TA1537, TA97, TA98, and TA100) in the presence and absence of rat and hamster liver S-9, at doses of 3.000, 10.000, 33.000, 100.000, and 333.000 ug/plate. The highest ineffective dose tested in any Salmonella typhimurium strain was 333.000 ug/plate."
+        },
+        {
+            "References": "PMID:8491214",
+            "Value": "/GENOTOXICITY/ N,N-Dimethylaniline (DMA, CAS No. 121-69-7) and N,N-dimethyl-p-toluidine (DMPT, CAS No. 99-97-8) belong to the N-dialkylaminoaromatics, a chemical class structurally alerting to DNA reactivity. Their applications may be industrial (dye and pesticide intermediates, polymerizing agents) and surgical (polymerization accelerators for the manufacture of bone cements and prosthetic devices), thus implying heterogeneous types of human exposure. Findings of carcinogenicity in rodents and some nonexhaustive genotoxicity data are available for DMA, but to our knowledge no information is available on DMPT concerning either carcinogenicity or any kind of genetic toxicity. To investigate their mechanism of action and mutagenic/carcinogenic potential, DMA and DMPT were analyzed for complementary genotoxicity endpoints, namely, gene mutation in Salmonella (Ames test), structural and numerical chromosome aberrations in hamster V79 cells (micronucleus test, matched with an immunofluorescent staining for kinetochore proteins), and in vivo DNA damage in mouse and rat liver (alkaline DNA elution test). The results essentially indicate that both chemicals are chromosome damaging agents. Indeed, at the maximum nontoxic doses, they proved nonmutagenic in Salmonella (although their toxicity did not allow concentrations > 70 micrograms/plate to be tested) and weakly positive in inducing DNA damage (increases in DNA elution rates at most approximately 2.4 times control value). Conversely, they proved clearly positive in inducing numerical chromosome alterations, with dose-dependent increases up to more than five times the control value for DMPT. At the highest dose tested, both chemicals also showed a significant clastogenic effect."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 1031",
+            "Value": "/OTHER TOXICITY INFORMATION/ Dimethylaniline tested on rabbit eyes caused moderate injury, graded 5 on scale of 10. /Most severe injuries have been rated 10/."
+        },
+        {
+            "References": "Snyder, R. (ed.). Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume II: Nitrogen and Phosphorus Solvents. Amsterdam-New York-Oxford: Elsevier, 1990., p. 193",
+            "Value": "/OTHER TOXICITY INFORMATION/ Oral or sc administration of 2 g of N,N-dimethylaniline/kg body weight caused weakness, tremors, tonic and clonic convulsions, slowing of respiration and finally death to guinea pigs."
+        },
+        {
+            "References": "EUROPEAN COMMISSION, ESIS; IUCLID Dataset, N,N-dimethylaniline (121-69-7) (2000). Available from, as of July 18, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/OTHER TOXICITY INFORMATION/ Eye irritation in rabbits was recorded in a 10-grade ordinal series and was based upon the degree of corneal necrosis that results from instillation of various volumes and concentrations of chemical. Grade 1 indicated at most a very small area of necrosis resulting from 0.5 mL of undiluted chemical in the eye. Grade 5 indicated a severe burn from 0.005 mL. Corneal injury caused by NN-dimethylaniline in rabbits was estimated as grade 5."
+        },
+        {
+            "References": "Testa, B. and P. Jenner. Drug Metabolism: Chemical & Biochemical Aspects. New York: Marcel Dekker, Inc., 1976., p. 88",
+            "Value": "/OTHER TOXICITY INFORMATION/ ... N,n-dimethylaniline ... has been shown to be demethylated by rat liver preparation."
+        },
+        {
+            "References": "EUROPEAN COMMISSION, ESIS; IUCLID Dataset, N,N-dimethylaniline (121-69-7) (2000). Available from, as of July 18, 2014: https://esis.jrc.ec.europa.eu/",
+            "Value": "/OTHER TOXICITY INFORMATION/ A depot of 0.2, 0.4 or 1.0 mL of a 3% N,N-dimethylaniline in olive oil was injected under the ear skin of 8 rabbits. After a few days the only finding was slight redness without marked inflammation. Microscopic examination revealed only insignificant thickening of the epithelium."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Sabljic A et al; Chemosphere 31: 4489-514 (1995) (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Haynes WM, ed; CRC Handbook of Chemistry and Physics. 94th ed., Boca Raton, FL: CRC Press LLC, p. 5-100 2013-2014 (4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000) (5) Carrasquillo AJ et al; Environ Sci Technol 42: 7634-7642 (2008)",
+            "Value": "The Koc of N,N-dimethylaniline was reported to be 182(1). According to a classification scheme(2), this estimated Koc value suggests that N,N-dimethylaniline is expected to have moderate mobility in soil. The pKa of N,N-dimethylaniline is 5.15(3), indicating that this compound will exist partially in the cation form in the environment and cations generally adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(4). A Kd of 150 using montmotillonite has been reported(5)."
+        },
+        {
+            "References": "(1) Demirjian YA et al; J WPCF 59: 32-38 (1987)",
+            "Value": "In field plot study, sludge, with an average concentration of 223 ug/kg of N,N-dimethylaniline, from an industrial wastewater treatment system was applied to 10 sq ft plots. The sludge was allowed to dry for 5 days and was subsequently tilled to a 6 in depth. Following this treatment, the concentration of N,N-dimethylaniline was studied at various depths in the soil profile. N,N-Dimethylaniline was only detected in the top 15.2 cm at 5, 122, and 241 days after application at an average concentration of 24, 19, and 30 ug/kg, respectively(1)."
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "_id": {
+        "$oid": "6682e828c4e5dba5ffba2430"
+    },
+    "CID": {
+        "$numberInt": "5790"
+    },
+    "Name": "FLOXURIDINE",
+    "IUPACName": "5-fluoro-1-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidine-2,4-dione",
+    "CanonicalSMILES": "C1C(C(OC1N2C=C(C(=O)NC2=O)F)CO)O",
+    "Synonyms": [
+        "floxuridine",
+        "50-91-9",
+        "5-Fluorodeoxyuridine",
+        "\"2-Deoxy-5-fluorouridine\"",
+        "Fluorodeoxyuridine",
+        "FUDR",
+        "Floxuridin",
+        "\"5-Fluoro-2-deoxyuridine\"",
+        "FdUrd",
+        "Deoxyfluorouridine",
+        "Fluoruridine deoxyribose",
+        "5FdU",
+        "Floxiridina",
+        "Floxuridinum",
+        "5-Fluoro-2-desoxyuridine"
+    ],
+    "IsomericSMILES": "C1[C@@H]([C@H](O[C@H]1N2C=C(C(=O)NC2=O)F)CO)O",
+    "INCHI": "InChI=1S/C9H11FN2O5/c10-4-2-12(9(16)11-8(4)15)7-1-5(14)6(3-13)17-7/h2,5-7,13-14H,1,3H2,(H,11,15,16)/t5-,6+,7+/m0/s1",
+    "INCHIKEY": "ODKNJVUHOIMIIZ-RRKCRQDMSA-N",
+    "Formula": "C9H11FN2O5",
+    "MolecularWeight": {
+        "$numberDouble": "246.19"
+    },
+    "Description": "Floxuridine is a pyrimidine 2'-deoxyribonucleoside compound having 5-fluorouracil as the nucleobase; used to treat hepatic metastases of gastrointestinal adenocarcinomas and for palliation in malignant neoplasms of the liver and gastrointestinal tract. It has a role as an antineoplastic agent, an antimetabolite, an antiviral drug and a radiosensitizing agent. It is a pyrimidine 2'-deoxyribonucleoside, an organofluorine compound and a nucleoside analogue.",
+    "XlogP": {
+        "$numberDouble": "-1.2"
+    },
+    "Complexity": {
+        "$numberInt": "386"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 58",
+            "Value": "log Kow = -1.16"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "McEvoy, G.K. (ed.). American Hospital Formulary Service.   AHFS Drug Information. American Society of Health-System   Pharmacists, Bethesda, MD. 2006., p. 1046",
+            "Value": "Floxuridine is an antimetabolite. The monophosphate of the drug, 5-fluoro-2'-deoxyuridine-5'-phosphate (FUDR-MP), inhibits thymidylate synthetase, thus inhibiting methylation of deoxyuridylic acid to thymidylic acid and thereby interfering with the synthesis of DNA. Following administration of a single dose of floxuridine, the drug is catabolized to fluorouracil and produces the same antimetabolic effects as the latter drug.  In addition to interfering with DNA synthesis, metabolites of fluorouracil become incorporated to a small extent into RNA, producing a fraudulent RNA. Fluorouracil also inhibits utilization of preformed uracil in RNA synthesis by blocking uracil riboside phosphorylase."
+        },
+        {
+            "References": "Thomson/Micromedex. Drug Information for the Health Care Professional. Volume 1,  Greenwood Village, CO. 2006., p. 1477",
+            "Value": "Floxuridine is an antimetabolite of the pyrimidine analog type. Floxuridine is considered to be cell cycle-specific for the S-phase of cell division. Activity occurs as the result of activation in the tissue, and includes inhibition of DNA and, as a result of action of the fluorouracil metabolite, RNA synthesis."
+        },
+        {
+            "References": "Gilman, A.G., T.W. Rall, A.S. Nies and P. Taylor (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 8th ed. New York, NY. Pergamon Press, 1990., p. 1228",
+            "Value": "Fluorouracil requires enzymatic conversion to the nucleotide in order to exert its cytotoxic activity. Several routes are available for the formation of the 5'-monophosphate nucleotide in animal cells. Fluorouracil may be converted to fluorouridine by uridine phosphorylase and then to 5'-monophosphate nucleotide by uridine kinase or it may react directly with 5-phosphoribosyl- 1 -pyrophosphate, catalyzed by the enzyme orotate phosphoribosyl transferase, to form 5'-monophosphate nucleotide. Fluorouracil may also be converted directly to floxuridine by the enzyme thymidine phosphorylase. Many metabolic pathways are available to 5'-monophosphate nucleotide, including incorporation into RNA. A reaction sequence crucial for antineoplastic activity involves reduction of the diphosphate nucleotide by the enzyme ribonucleotide diphosphate reductase to the deoxynucleotide level and the eventual formation of 5-fluoro-2'-deoxyuridine-5'-phosphate. This complex metabolic pathway for the generation of the actual growth inhibitor, 5-fluoro-2'-deoxyuridine-5'-phosphate, may be bypassed through use of the deoxyribonucleoside of fluorouracil--floxuridine--which is converted directly to 5-fluoro-2'-deoxyuridine-5'-phosphate by thymidine kinase. However, floxuridine is a good substrate for both thymidine and uridine phosphorylases. and it can also be degraded to fluorouracil."
+        }
+    ]
+}

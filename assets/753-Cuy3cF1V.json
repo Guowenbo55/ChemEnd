@@ -1,0 +1,245 @@
+{
+    "_id": {
+        "$oid": "6682e7d9c4e5dba5ffba22a5"
+    },
+    "CID": {
+        "$numberInt": "753"
+    },
+    "Name": "GLYCERIN",
+    "IUPACName": "propane-1,2,3-triol",
+    "CanonicalSMILES": "C(C(CO)O)O",
+    "Synonyms": [
+        "glycerol",
+        "glycerin",
+        "56-81-5",
+        "Glycerine",
+        "PROPANE-1,2,3-TRIOL",
+        "1,2,3-Propanetriol",
+        "Trihydroxypropane",
+        "Glyceritol",
+        "Glycyl alcohol",
+        "1,2,3-trihydroxypropane",
+        "Propanetriol",
+        "Osmoglyn",
+        "Glysanin",
+        "Grocolene",
+        "Glyrol"
+    ],
+    "IsomericSMILES": "C(C(CO)O)O",
+    "INCHI": "InChI=1S/C3H8O3/c4-1-3(6)2-5/h3-6H,1-2H2",
+    "INCHIKEY": "PEDCQBHIVMGVHV-UHFFFAOYSA-N",
+    "Formula": "C3H8O3",
+    "MolecularWeight": {
+        "$numberDouble": "92.09"
+    },
+    "Description": "Glycerol is a triol with a structure of propane substituted at positions 1, 2 and 3 by hydroxy groups. It has a role as an osmolyte, a solvent, a detergent, a human metabolite, an algal metabolite, a Saccharomyces cerevisiae metabolite, an Escherichia coli metabolite, a mouse metabolite and a geroprotector. It is an alditol and a triol.",
+    "XlogP": {
+        "$numberDouble": "-1.8"
+    },
+    "Complexity": {
+        "$numberInt": "25"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Glycerin. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Jul 12, 2011: https://www.ars-grin.gov/duke/",
+            "Value": "Glycerin was reported present in Cork Oak, Quercus suber L., in the cork at 65,000 ppm(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 7 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2010. Available from, as of Jul 12, 2011: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for glycerin(SRC), using a log Kow of -1.76(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Jul 12, 2011: https://www.safe.nite.go.jp/english/db.html (2) Reuschenbach P et al; Water Res 37: 1571-1582 (2003)",
+            "Value": "AEROBIC: Glycerin, present at 100 mg/L, reached 63% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1). Biodegradation rate constants of 0.258/day and 0.200/day in respirometric test systems employing activated sludge have also been reported, corresponding to 68% and 78% degradation, respectively(2)."
+        },
+        {
+            "References": "(1) Bridie AL et al; Water Res 13: 627-30 (1979) (2) Belly RT, Goodhue CT; Proc Int Biodegrad Symp 3: 1103-7 (1976) (3) Matsui S et al; Prog Water Technol 7: 645-59 (1975) (4) Matsui S et al; Wat Sci Tech 20: 201-10 (1988) (5) Pitter P; Water Res 10: 231-5 (1976) (6) Placak OR, Ruchhoft CC; Sewage Works J 19: 423-40 (1947) (7) Dore M et al; Trib Cebedeau 28: 3-11 (1975) (8) Urano K, Kato Z; J Hazard Mater 13: 147-59 (1986) (9) Wagner R; Vom Wasser 47: 241-65 (1976) (10) Takemoto S et al; Suishitsu Odaku Kenkyu 4: 80-90 (1981) (11) Thom NS, Agg AR; Proc Royal Soc Lond B189: 347-57 (1975)",
+            "Value": "AEROBIC: When incubated with a filtered effluent from a sanitary waste treatment plant, glycerin displayed a 5 day BOD of 82%(1). Inoculation of glycerin with activated sewage sludge resulted in 43.5-52.9% 5 day BOD(2). Glycerin underwent 94-97% removal after 24 hrs when incubated with activated sludge from a waste water treatment plant(3-4). A 98.7% COD was observed in 120 hrs after inoculation with an adapted activated sludge seed(5). Incubation with an activated sludge seed gave a 5 day BOD of 68%(6). In screening studies, 5 day BODs for glycerin of 31%(7), 52% using activated sludge(8), 78.3% using domestic sludge(9), and 24.4% using seawater(10) were observed. Glycerin is listed as a substance easily degraded in a sewage treatment plant(11)."
+        },
+        {
+            "References": "(1) Chou WL et al; Biotech Bioeng Symp 8: 391-414 (1979)",
+            "Value": "ANAEROBIC: Glycerin underwent 90% degradation after an 8 day lag period when incubated with enriched methane cultures under anaerobic conditions(1)."
+        },
+        {
+            "References": "(1) Chou WL et al; Biotech Bioeng Symp 8: 391-414 (1979) (2) Kazanskaya TB, Anyukhina YG; Mikrobiologiya 49: 240-3 (1980)",
+            "Value": "PURE CULTURE: Pure cultures of Aerobacter and lactobacillus were found to degrade glycerin under anaerobic conditions(1,2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 7",
+            "Value": "log Kow = -1.76"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "American Society of Health-System Pharmacists 2011; Drug Information 2011. Bethesda, MD. 2011",
+            "Value": "Glycerin (glycerol) and sorbitol are hyperosmotic laxatives."
+        },
+        {
+            "References": "American Society of Health-System Pharmacists 2011; Drug Information 2011. Bethesda, MD. 2011",
+            "Value": "When administered rectally, glycerin and sorbitol exert a hygroscopic and/or local irritant action, drawing water from the tissues into the feces and reflexly stimulating evacuation. The extent to which the simple physical distention of the rectum and the hygroscopic and/or local irritant actions are responsible for the laxative effects of some of these drugs is not known. Only extremely high oral doses of sorbitol (25 g daily) or glycerin exert laxative action."
+        },
+        {
+            "References": "Physicians Desk Reference for Ophthalmic Medicines 38th ed. Thomson Reuters. Montvale, NJ 2010.",
+            "Value": "/Glycerin/ decreases intraocular pressure by creating an osmotic gradient between the blood and intraocular fluid, causing fluid to move out of the aqueous and vitreous humors into the bloodstream."
+        },
+        {
+            "References": "PMID:8634318",
+            "Value": "The physicochemical effects of a series of alkanols, alkanediols and glycerol on erythrocyte shape and hemolysis at 4 and 20 degrees C were examined. We calculated the dielectric constant of the incubation medium, Ds, and the dielectric constant of the erythrocyte membrane Dm in the presence of organic solutes. The ratio Ds/Dm = -38.48 at 20 degrees C defines the normal biconcave shape in a medium without hemolytic agents. A decrease in Ds/Dm favors externalization or internalization with consequent hemolysis. Alkanols and alkanediols convert biconcave erythrocytes into echinocytes, which is accompanied by an increase in the projected surface area. Glycerol converts biconcave erythrocytes into stomatocytes, which was accompanied by a marginal decrease in the projected surface area. Progressive externalization in alkanols and alkanediols or internalization in glycerol resulted in a decrease in the projected surface area and the formation of smooth spheres. The degree of shape change induced was related to the degree of hemolysis and the ratio Ds/Dm. A decrease in temperature reduced both the degree of shape change and hemolysis. .../Thus/ physicochemical toxicity may be a result of a temperature dependent hydrophobic interaction between the organic solutes and the membrane and is best interpreted by the ability of the solutes to change Ds and Dm."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on Glycerol (56-81-5) (March 2002) Available from, as of July 14, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ No deaths were observed in a group of 6 rabbits after occlusive dermal application for 8 hours of synthetic or natural glycerol at 18,700 mg/kg bw."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on Glycerol (56-81-5) (March 2002) Available from, as of July 14, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Twelve female rats received 27,260 mg natural or synthetic glycerol/kg bw by gavage. Cageside observations included muscle spasms and convulsions and survivors appeared normal within 2.5 hr of dosing. The number of deaths was not reported. Macroscopic examination of decedents and survivors showed hyperemia of the pylorus, small intestine and cerebral meninges (3 animals), congestion of the lungs and pale spleen."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on Glycerol (56-81-5) (March 2002) Available from, as of July 14, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ /The authors/ investigated the acute toxicity of synthetic or natural glycerol in mice and guinea pigs. Again the reporting was limited, however both species showed similar clinical signs (tremor and convulsions) and macroscopic findings (hyperemia of pylores and small intestine, pale spleen, lung congestion)."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on Glycerol (56-81-5) (March 2002) Available from, as of July 14, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ It was demonstrated that dermal application of 0.5-mL glycerol to the rabbit's skin for 24 hours did not lead to signs of irritation 24 and 72 hours after application. Irritation scores according to Draize scale were 0-0.4, compared to a maximum score of 30 there was no evidence of irritation in rabbits following repeated applications of 4 mL over 30% of the surface area 8 hr/day for 90 days."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on Glycerol (56-81-5) (March 2002) Available from, as of July 14, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ 0.1 mL undiluted glycerol was instilled in the eyes of 6 rabbit) caused no evidence of irritation after 1, 24 and 72 hours and after 7 days. The overall irritation score using the Draize system was 0-2 on a scale up to a maximum of 110. In another study of similar design, using 4 rabbits, irritation of unspecified severity observed at 1 hr after instillation of glycerol was absent after 24 hr. Another test with a similar design on a glycerol/water mixture (not further specified) gave a similar result and reactions, which were reversible within 24 hr. ... it is apparent from these studies that glycerol has a very low potential to irritate the eyes."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on Glycerol (56-81-5) (March 2002) Available from, as of July 14, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ A group of male 24 Guinea pigs receiving 0.1 mL injections of 0.1 % synthetic or natural glycerol in isotonic saline every alternate day over 20 days showed no indication of sensitisation following challenge with further 0.05 mL injections of 0.1 % glycerol after a 2 week exposure-free period."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Glycerol (56-81-5) (2000 CD-ROM edition). Available from, as of July 18, 2011: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Subcutaneous injection of 1.75 mL of 50% glycerol/100g bw in rats caused severe hemolysis followed by necrosis of the tubular portions of the nephrons, but no apparent damage to the glomeruli. Effects were reversible within 6-12 weeks."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Glycerol (56-81-5) (2000 CD-ROM edition). Available from, as of July 18, 2011: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Rats injected intraperitonealy with 1 mL 100% glycerol/100g bw had severe convulsions and died within 2 hours after injection. Rats injected with 1 mL 50% glycerol/100g bw also had severe convulsions and most of them died within 4 hours. Other signs of toxicity were hemoglobinuria, fluid in the peritoneal cavity, dehydrated tissues and renal damage (necrosis of epithelium of the proximal tubules, presence of eosinophilic casts in the loops of Henle, distal convoluted tubules and collecting tubules)."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Glycerol (56-81-5) (2000 CD-ROM edition). Available from, as of July 18, 2011: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Subcutaneous administration of 1 mL 100% glycerol or 50%/100 g bw to rats produced hemoglobinuria, severe edema at the site of injection, extremely hydrated tissues and renal tubular necrosis; in some animals at 100% glycerol mild convulsions were reported."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Glycerol (56-81-5) (2000 CD-ROM edition). Available from, as of July 18, 2011: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Intravenous injection of both 100% glycerol and 50% glycerol at 1 mL/100g bw to rats led to severe convulsions and death in all animals (unless kept alive by dextrose-saline injection). Other signs included hemoglobinuria and occasionally renal damage."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Glycerol (56-81-5) (2000 CD-ROM edition). Available from, as of July 18, 2011: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Female rats received a single i.p. injection of 3.5 mL glycerol (12.5% solution)/ kg bw. Urinary output, creatinine clearance, blood pressure, intrarenal blood flow and kidney histopathology were investigated during a 6 hour observation period. Urinary output and creatinine clearance were decreased. No effects on blood pressure and blood flow through the kidney became apparent. Incidental slight renal damage (necrosis of proximal tubular cells) was seen."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 463",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ When introduced into the anterior chamber of the rabbit eye, full strength glycerin causes an inflammatory reaction and edema of the cornea with wrinkling of the posterior surface and damage of endothelial cells."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 463",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Aq 50% glycerin in the anterior chamber of rabbits causes significantly less reaction, though within 5 min it visibly dehydrates the lens, causing its capsule to become wrinkled."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 463",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Enough rabbit corneal endothelial cells have survived to maintain normal deturgescence function after exposure of the epithelium to 30% glycerin for 20 min, 50% for 10 min, or 92% for 4 min, but 92% was observed to destroy the endothelium if exposure extended to 30 min. Endothelial damage in these circumstances can be explained on the basis of an osmotic, rather than a toxic, mechanism."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 463",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Glycerin diluted with water to 43% and applied for 30 min to rabbit eyes with mechanically damaged corneal endothelium has apparently produced only edema of conjunctiva and nicitating membrane lasting a few hours, even when repeated daily for 20 days."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on Glycerol (56-81-5) (March 2002) Available from, as of July 14, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Sprague-Dawley rats (10/sex/treatment) were exposed nose-only to a respirable aerosol of glycerol during 14 days (5 days/week, 6 hours/day). The mean exposure concentrations achieved were 0, 1000, 1930 and 3910 mg/cu m. The mass median aerodynamic diameter (MMAD) was reported to be < 1.5 micrometers. Two males at 1000 mg/cu m and 1 male and 1 female at 2000 mg/cu m died (which were incidental to treatment). Body weight gain was decreased in all treated animals. This effect may be attributed to stress due to nose-only exposure. Serum glucose was decreased in treated females, but since it did not appear in males and no relationship with concentration was established, the biological relevance of this effect is not considered to be of toxicological significance. There was no effect on lung, liver, kidney, brain and heart weight nor any macroscopic findings reported. Histopathological examination of the respiratory tract, liver, kidneys and heart of controls and high dose animals revealed an increased incidence of minimal to mild squamous metaplasia of the epiglottis in all treated animals (1/10, 13/18, 16/19 and 13/14 at 0, 1000, 1930, and 3910 mg/cu m, respectively). The frequency of animals with mild metaplasia was greatest at the highest exposure concentration. No systemic effects were seen at the highest dose tested."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on Glycerol (56-81-5) (March 2002) Available from, as of July 14, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Nose-only exposure of rats (SD 15/sex/treatment) 6hr/day, 5d/week for 13 weeks to a respirable aerosol (MMAD <2 micrometers) of glycerol at measured concentrations of 0, 33, 165 and 662 mg/cu m led to decreased triglyceride levels in males at 33 (34%) and 165 mg/cu m (22%). This effect appears to be of little toxicological significance as there was no dose-response relationship and was seen in males only. There were no treatment related effects on cageside observations, hematology, organs weights or gross pathology. Microscopic evaluation of the tissues showed \"minimal\" (10 animals) or \"mild\" (one animal) squamous metaplasia of the epiglottis in 11 animals in total at the highest concentration. Since the effect on triglycerides did not show a relationship with concentration, was seen in males only and in the absence of any systemic target organ toxicity, the biological relevance of this effect is not considered to be of toxicological significance. Based on an increased incidence of \"minimal\" to \"mild\" squamous metaplasia of the epiglottis, the NOAEC for local irritant effects to the upper respiratory tract is 165 mg/cu m and 662 mg/cu m for systemic effects."
+        },
+        {
+            "References": "PMID:503599",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rats injected iv with 10% glycerol for 9 consecutive days, developed an increase in succinate dehydrogenase and acid phosphatase activity in kidney and degeneration of renal tubular epithelium ultrastructure 1 and 4 days after last injection. 19 days later kidneys were similar to control."
+        },
+        {
+            "References": "PMID:18599668",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ The effects of dietary crude glycerin on growth performance, carcass characteristics, meat quality indices, and tissue histology in growing pigs were determined in a 138-d ay feeding trial. Crude glycerin utilized in the trial contained 84.51% glycerin, 11.95% water, 2.91% sodium chloride, and 0.32% methanol. Eight days postweaning, 96 pigs (48 barrows and 48 gilts, average BW of 7.9 +/- 0.4 kg) were allotted to 24 pens (4 pigs/pen), with sex and BW balanced at the start of the experiment. Dietary treatments were 0, 5, and 10% crude glycerin inclusion in corn-soybean meal-based diets and were randomly assigned to pens. Diets were offered ad libitum in meal form and formulated to be equal in /metabolizable energy/, sodium, chloride, and Lysine, with other amino acids balanced on an ideal amino acidine basis. Pigs and feeders were weighed every other week to determine /average daily gain/, /average daily feed intake/, and /gain to feed ratio/. At the end of the trial, all pigs were scanned using real-time ultrasound and subsequently slaughtered at a commercial abattoir. Blood samples were collected pretransport and at the time of slaughter for plasma metabolite analysis. In addition, kidney, liver, and eye tissues were collected for subsequent examination for lesions characteristic of methanol toxicity. After an overnight chilling of the carcass, loins were removed for meat quality, sensory evaluation, and fatty acid profile analysis. Pig growth, feed intake, and /gain to feed ratio/ were not affected by dietary treatment. Dietary treatment did not affect 10th-rib backfat, /loin miuscle/ area, percent fat free lean, meat quality, or sensory evaluation. Loin ultimate pH was increased (P = 0.06) in pigs fed the 5 and 10% crude glycerin compared with pigs fed no crude glycerin (5.65 and 5.65 versus 5.57, respectively). Fatty acid profile of the /loin muscle/ was slightly changed by diet with the /loin muscle/ from pigs fed 10% crude glycerin having less linoleic acid (P < 0.01) and more eicosapentaenoic acid (P = 0.02) than pigs fed the 0 or 5% crude glycerin diets. Dietary treatment did not affect blood metabolites or frequency of lesions in the examined tissues. This experiment demonstrated that pigs can be fed up to 10% crude glycerin with no effect on pig performance, carcass composition, meat quality, or lesion scores."
+        },
+        {
+            "References": "WHO/FAO: Expert Committee on Food Additives. Summary of Toxicological Data of Certain Food Additives Series 48: Aliphatic acyclic diols, triols, and related substances  (56-81-5) (2002). Available from, as of July 14, 2011: https://www.inchem.org/pages/jecfa.html",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Groups of five young rats of each sex were fed a diet containing glycerol at a concentration of 0, 1, 3, 6, 10, 15, 20, 30, 40, 50, or 60% (equivalent to 0, 1000, 3000, 6000, 10 000, 15 000, 20 000, 30 000, 40 000, 50 000, or 60 000 mg/kg bw per day) for 20 weeks. There was no significant difference in the body-weight gain at concentrations of glycerol  30%, but reduced body-weight gain was observed at >/= 40%. Histological examination revealed no treatment-related changes at < 10%. The pathological changes observed at concentrations >/= 10% were marked hydropic and fatty degeneration of liver parenchymal cells. The NOEL was 5% glycerol in the diet, equivalent to 5000 mg/kg bw per day."
+        },
+        {
+            "References": "WHO/FAO: Expert Committee on Food Additives. Summary of Toxicological Data of Certain Food Additives Series 48: Aliphatic acyclic diols, triols, and related substances  (56-81-5) (2002). Available from, as of July 14, 2011: https://www.inchem.org/pages/jecfa.html",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ In a study of the tumor promoting potential of glycerol, groups of male and female C3H mice, 6-8 weeks old, were given various carcinogens followed by 0, 0.5, or 1% (v/v) glycerol solution until they were 1 year old. Animals in the control group received either 5% (v/v) glycerol (equivalent to 5000 mg/kg bw per day) or water. The animals were killed, and the incidences of liver and lung tumors were recorded. Among males, the incidence of liver tumors was 23% in those given glycerol and 39% in those given water. The tumor incidence in the lung was 21% with glycerol and 41% with water. Similar results were obtained for female mice. Thus, lower incidences of liver and lung tumors were seen after glycerol treatment. No treatment-related adverse effects were reported."
+        },
+        {
+            "References": "WHO/FAO: Expert Committee on Food Additives. Summary of Toxicological Data of Certain Food Additives Series 48: Aliphatic acyclic diols, triols, and related substances  (56-81-5) (2002). Available from, as of July 14, 2011: https://www.inchem.org/pages/jecfa.html",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ In a study of the tumor promoting potential of glycerol, groups of male and female C3H mice, 6-8 weeks old, were given various carcinogens followed by 0, 0.5, or 1% (v/v) glycerol solution until they were 1 year old. Animals in the control group received either 5% (v/v) glycerol (equivalent to 5000 mg/kg bw per day) or water. The animals were killed, and the incidences of liver and lung tumors were recorded. Among males, the incidence of liver tumors was 23% in those given glycerol and 39% in those given water. The tumor incidence in the lung was 21% with glycerol and 41% with water. Similar results were obtained for female mice. Thus, lower incidences of liver and lung tumors were seen after glycerol treatment. No treatment-related adverse effects were reported."
+        },
+        {
+            "References": "WHO/FAO: Expert Committee on Food Additives. Summary of Toxicological Data of Certain Food Additives Series 48: Aliphatic acyclic diols, triols, and related substances  (56-81-5) (2002). Available from, as of July 14, 2011: https://www.inchem.org/pages/jecfa.html",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ A study in which Sprague-Dawley rats were given glycerol in the diet at a concentration of 0, 5, 10, or 20% (equivalent to 0, 5000, 10 000 or 20 000 mg/kg bw per day) for 50 weeks was evaluated ... No significant treatment-related effects were found on growth rate or gross or histological appearance. The NOEL was 20 000 mg/kg bw per day."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on Glycerol (56-81-5) (March 2002) Available from, as of July 14, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ In /a/ dietary study, groups of 22 rats (Long-Evans)/sex/treatment 4000 and 8000 mg/kg bw; females 2500, 5000 and 10000 mg/kg bw) for 2 years. Routine clinical observations were made, and bodyweight and food consumption was determined weekly. Deviations from the OECD guideline included the absence of clinical chemistry investigation and a limited range of hematological and urinary analyses were performed. A limited range of organs was investigated at necropsy and the liver, spleen, adrenals, small intestine, gonads and urinary bladder were examined microscopically. Glycogen and fat content of the liver was determined in surviving rats from the 0 and 20 % dose groups. No individual data were reported. For high dosed animals treatment was discontinued after 1 year (reason not stated in report, presumably as an 'interim' assessment for carcinogenicity). No data on mortality and clinical observations were reported. Food consumption was slightly increased in males treated with 5 and 10% natural glycerol. Incidental observations considered by the report-authors to be without relationship to treatment included: bronchiectasis, pneumonia, pulmonary abcesses, hydronephrosis and pyelonephritis. Although the results were not described in detail, based on this limited dietary study it can be concluded that no adverse effects were observed at up to 10,000 mg/kg bw."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on Glycerol (56-81-5) (March 2002) Available from, as of July 14, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ In a limited and non OECD Guideline 12-24 month dietary study in rats, evidence of malignant neoplasms were reported in 5/26, 1/22, 5/22, 0/22, 0/21, 5/22 and 0/22 animals in controls and at 5%, 10% , 20% (natural glycerol) and at 5%, 10%, 20% (synthetic glycerol). At the top dose, the treatment period was one year. Benign neoplasms were encountered including pheochromacytomas and granulosa cell tumours in 0/26, 2/22, 1/22, 0/22, 4/21, 4/22 and 1/22 animals in controls and at 5%, 10%, 20% (natural glycerol) and at 5%, 10%, 20% (synthetic glycerol), respectively. The authors concluded that glycerol does not initiate tumor development in the rat."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on Glycerol (56-81-5) (March 2002) Available from, as of July 14, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ In male ddY mice administration of glycerol (5% in drinking water during 1-20 weeks) after a single sc injection with 4-nitroquinoline 1-oxide (4-NQO) was reported to enhance lung tumor development. Histopathologically most lung tumors were identified as adenomas. The mechanism of tumor induction was independent from pulmonary cell kinetics."
+        },
+        {
+            "References": "WHO/FAO: Expert Committee on Food Additives. Summary of Toxicological Data of Certain Food Additives Series 48: Aliphatic acyclic diols, triols, and related substances  (56-81-5) (2002). Available from, as of July 14, 2011: https://www.inchem.org/pages/jecfa.html",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ A seven-generation study of reproductive toxicity in rats given glycerol at a concentration of 0 or 30% (equivalent to 15 000 mg/kg bw per day) was evaluated ... . On average, the pups of treated dams weighed 20% less than those of the control group."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on Glycerol (56-81-5) (March 2002) Available from, as of July 14, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ In a two generation study, male and female rats (10/treatment) were dosed daily with glycerol (20% solution in water) during 8 weeks before mating. Females received glycerol throughout pregnancy or until weaning of the F1 generation (5 each). When the F1 generation was approximately 100 days of age, pups were killed except for 10/sex. These animals were used to produce the F2-generation. No effects were found on the reproductive efficiency of the parents, nor on the growth, fertility, reproductive performance of the untreated F1 generation, and no histological changes occurred in the tissues of both the F1 and F2 generation. Although the data are limited, a NOAEL of 2000 mg/kg bw was identified from this study."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on Glycerol (56-81-5) (March 2002) Available from, as of July 14, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Rats, mice and rabbits were treated daily with glycerol at dose levels up to 1310, 1280 and 1180 mg/kg bw (oral gavage), respectively, during part of the gestation period. The study protocol was in reasonable agreement with the requirements of the OECD 414. No maternal toxicity or teratogenic effects were seen at the highest dose levels tested. From these studies a NOAEL of 1180 mg/kg bw can be derived."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on Glycerol (56-81-5) (March 2002) Available from, as of July 14, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ Glycerol did not induce mutations in bacteria in an Ames test, which used four Salmonella typhimurium strains both with and without metabolic activation (rat and hamster S-9). ... No mutagenic effects were reported in an additional Ames test with 5 strains and rat S-9 as metabolic activation system."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on Glycerol (56-81-5) (March 2002) Available from, as of July 14, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ Glycerol was considered to be negative by the authors in a mammalian cell gene mutation test (HGPRT) since the increased number of mutations at the two highest dose levels was considered to be biologically irrelevant, because no concentration dependence was seen. However, it is unknown why the concentrations tested were not maximized to those recommended in the OECD guideline ..."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on Glycerol (56-81-5) (March 2002) Available from, as of July 14, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ Chromosomal damage was investigated in the chromosomal aberration test using cultured mammalian cells (Chinese hamster ovary), which was reported as negative. In this test an isolated increase in number of aberrations was seen at 200 ug/mL (with metabolic activation). This finding was considered to be of no biological relevance, since there was no relationship with the concentration tested. Glycerol did not induce sister chromatid exchanges in CHO cells. In rat hepatocytes, the number of nuclear grains did not differ between glycerol treated and control cells. Therefore, it can be concluded that no unscheduled DNA synthesis occurred."
+        },
+        {
+            "References": "United Nations Environment Programme: Screening Information Data Sheets on Glycerol (56-81-5) (March 2002) Available from, as of July 14, 2009: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ Two in vivo assays are available for glycerol. In a rat bone marrow chromosome aberration test glycerol did not induce a statistically significant increase in chromosomal aberrations compared to controls."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Rushdi AI et al; Arch Environ Contam Toxicol 49: 457-470 (2005)",
+            "Value": "SOIL: Glycerin was detected in fine soil and sand particles during winter in the metropolitan area of Riyadh, Saudi Arabia at percent relative concentrations of (percent relative concentration): 1.11 (outside of city, close to traffic; mostly sand), 1.48 outside city, palm tree farm; mostly soil), 7.95 (Ministry of Health locale in city; mixture of sand and soil), 0.61 (City center; mixture of soil and sand). It was not detected in the Azizia market place in the city nor in a sand dune 50 miles north of the city. Samples were collected in November 2002(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992) (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of glycerin can be estimated to be 1(SRC). According to a classification scheme(2), this estimated Koc value suggests that glycerin is expected to have very high mobility in soil."
+        }
+    ]
+}

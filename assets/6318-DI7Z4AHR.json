@@ -1,0 +1,68 @@
+{
+    "_id": {
+        "$oid": "6682e83ec4e5dba5ffba249d"
+    },
+    "CID": {
+        "$numberInt": "6318"
+    },
+    "Name": "P-CHLOROBENZOIC ACID",
+    "IUPACName": "4-chlorobenzoic acid",
+    "CanonicalSMILES": "C1=CC(=CC=C1C(=O)O)Cl",
+    "Synonyms": [
+        "4-Chlorobenzoic acid",
+        "74-11-3",
+        "P-CHLOROBENZOIC ACID",
+        "Benzoic acid",
+        "4-chloro-",
+        "Chlorodracylic acid",
+        "p-Chlorbenzoic acid",
+        "Benzoic acid",
+        "p-chloro-",
+        "4-CHLORO-BENZOIC ACID",
+        "para-Chlorobenzoic acid",
+        "p-Carboxychlorobenzene",
+        "Acido p-clorobenzoico",
+        "Acido p-clorobenzoico [Italian]",
+        "MFCD00002531",
+        "4-chloro benzoic acid",
+        "IC7888DF4L"
+    ],
+    "IsomericSMILES": "C1=CC(=CC=C1C(=O)O)Cl",
+    "INCHI": "InChI=1S/C7H5ClO2/c8-6-3-1-5(2-4-6)7(9)10/h1-4H,(H,9,10)",
+    "INCHIKEY": "XRHGYUZYPHTUJZ-UHFFFAOYSA-N",
+    "Formula": "C7H5ClO2",
+    "MolecularWeight": {
+        "$numberDouble": "156.56"
+    },
+    "Description": "4-chlorobenzoic acid is a monochlorobenzoic acid carrying a chloro substituent at position 4. It has a role as a bacterial xenobiotic metabolite. It is functionally related to a benzoic acid. It is a conjugate acid of a 4-chlorobenzoate.",
+    "XlogP": {
+        "$numberDouble": "2.7"
+    },
+    "Complexity": {
+        "$numberInt": "128"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Peel MC, Wyndham RC; Microb Ecol 33: 59-68 (1997)",
+            "Value": "SEDIMENT: p-Chlorobenzoic acid was detected, not quantified in contaminated sediment enrichments collected from Bloody Run Creek and Devil's Hole Creek, located in the Niagara River watershed, Niagara Falls, NY. Samples were collected during May and November 1992 and May, August, November 1993(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "A series of 14C-labelled benzoic acids was synthesized to investigate their phloem translocation in plants and assess the role of pKa and lipophilicity in determining their movement. When these substituted benzoic acids were applied to castor bean plants by injection into the petioles, the compounds with intermediate lipophilicity (2-fluoro-, 4-chloro-, and 3,4-dichlorobenzoic acids) exhibited the highest concentrations in phloem exudates. On the other hand, the more polar 4-methyl-2,3,5,6-tetrafluoro- and pentafluorobenzoic acids showed lower translocation, possibly due to their lower pKa values compared to the other benzoic acids tested. The polar 4-ureidobenzoic acid and the lipophilic 3-(4-methylphenoxy)benzoic acid were both translocated less efficiently in the phloem. These findings align with previous observations on phenoxyacetic acids and provide further evidence for the significance of ionization in the accumulation and retention of chemicals in phloem sieve tubes.",
+            "reference": "Chamberlain, K. Physico-chemical Factors Determining the Phloem Translocation of Benzoic Acids.\u00a0EPS,\u00a03, 8.",
+            "method": {
+                "Test Plant": "Ricinus communis L. var. Gibsonii (castor bean)",
+                "Apply Location": "Petiole injection for Ricinus communis.",
+                "Plant Grown Condition": "Ricinus communis seedlings were grown in nutrient solution for three to four weeks until they possessed four true leaves.",
+                "Chemical Preparation": "Various 14C-labeled substituted benzoic acids were synthesized, including [14C]4-ureidobenzoic acid and others purchased or received as gifts. All compounds were used at specific activities of 74 and 7.4 MBq mmol-1 in the castor bean and barley experiments respectively.",
+                "Pesticide Application Details for the Plant": "For Ricinus communis, a solution of chemical in distilled water (2 mM for the 14C-labelled benzoic acids) was injected into the hollow petioles (7 \u00b5l per petiole) of the two mature leaves. Phloem sap was collected from shallow incisions made with a razor blade at the top of the stem and at the base of the plant.",
+                "Other Information": "-"
+            },
+            "result": "[{\"Time after injection\": 7.45, \"Phloem mobility factor of lower stem Phloem mobility factor of upper stem\": 26.42}, {\"Time after injection\": 7.18, \"Phloem mobility factor of lower stem Phloem mobility factor of upper stem\": 30.21}, {\"Time after injection\": 8.4, \"Phloem mobility factor of lower stem Phloem mobility factor of upper stem\": 25.88}, {\"Time after injection\": 8.13, \"Phloem mobility factor of lower stem Phloem mobility factor of upper stem\": 19.24}, {\"Time after injection\": 6.63, \"Phloem mobility factor of lower stem Phloem mobility factor of upper stem\": 13.95}, {\"Time after injection\": 5.01, \"Phloem mobility factor of lower stem Phloem mobility factor of upper stem\": 9.75}]"
+        }
+    ]
+}

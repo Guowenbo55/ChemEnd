@@ -1,0 +1,187 @@
+{
+    "_id": {
+        "$oid": "6682e99bc4e5dba5ffba2b78"
+    },
+    "CID": {
+        "$numberInt": "444266"
+    },
+    "Name": "MALEIC ACID",
+    "IUPACName": "(Z)-but-2-enedioic acid",
+    "CanonicalSMILES": "C(=CC(=O)O)C(=O)O",
+    "Synonyms": [
+        "maleic acid",
+        "110-16-7",
+        "cis-butenedioic acid",
+        "Toxilic acid",
+        "Maleinic acid",
+        "Malenic acid",
+        "(2Z)-but-2-enedioic acid",
+        "(Z)-Butenedioic acid",
+        "2-Butenedioic acid (Z)-",
+        "maleate",
+        "2-Butenedioic acid (2Z)-",
+        "cis-1,2-Ethylenedicarboxylic acid",
+        "Kyselina maleinova",
+        "(Z)-2-Butenedioic acid",
+        "Butenedioic acid",
+        "(Z)-"
+    ],
+    "IsomericSMILES": "C(=C\\C(=O)O)\\C(=O)O",
+    "INCHI": "InChI=1S/C4H4O4/c5-3(6)1-2-4(7)8/h1-2H,(H,5,6)(H,7,8)/b2-1-",
+    "INCHIKEY": "VZCYOOQTPOCHFL-UPHRSURJSA-N",
+    "Formula": "C4H4O4",
+    "MolecularWeight": {
+        "$numberDouble": "116.07"
+    },
+    "Description": "Maleic acid is a butenedioic acid in which the double bond has cis- (Z)-configuration. It has a role as a plant metabolite, an algal metabolite and a mouse metabolite. It is a conjugate acid of a maleate(1-) and a maleate.",
+    "XlogP": {
+        "$numberDouble": "-0.3"
+    },
+    "Complexity": {
+        "$numberInt": "119"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Maleic acid. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Mar 16, 2015: https://www.ars-grin.gov/duke/",
+            "Value": "Maleic acid occurrence in plants(1).",
+            "Table": "[{'Genus species': 'Levisticum officinale KOCH', 'Family': 'Apiaceae', 'Common name': 'Lovage', 'Part': 'Root'}, {'Genus species': 'Nicotiana tabacum L.', 'Family': 'Solanaceae', 'Common name': 'Tobacco', 'Part': 'Leaf'}, {'Genus species': 'Panax ginseng C. A. MEYER', 'Family': 'Araliaceae', 'Common name': 'Chinese Ginseng', 'Part': 'Root'}, {'Genus species': 'Panax quinquefolius L.', 'Family': 'Araliaceae', 'Common name': 'American Ginseng', 'Part': 'Plant'}, {'Genus species': 'Prunus cerasus L.', 'Family': 'Rosaceae', 'Common name': 'Sour Cherry', 'Part': 'Fruit'}, {'Genus species': 'Theobroma cacao L.', 'Family': 'Sterculiaceae', 'Common name': 'Cacao', 'Part': 'Plant'}, {'Genus species': 'Zea mays L.', 'Family': 'Poaceae', 'Common name': 'Corn', 'Part': 'Plant'}, {'Genus species': 'Zizyphus jujuba MILL.', 'Family': 'Not reported', 'Common name': 'Da-Zao, Jujube, Ta-Tsao', 'Part': 'Plant'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Freitag D et al; Ecotox Environ Safety 6: 60-81 (1982) (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "The BCF of maleic acid in fish (golden ide) was measured as <10 after 3 days of exposure(1). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC). The BCF in algae (Chorella fusca) was 11 after a 24 hour exposure period(1)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Mar 13, 2015: https://www.safe.nite.go.jp/english/db.html (2) ECHA; Search for Chemicals. Maleic Acid (CAS 110-16-7) Registered Substances Dossier. European Chemical Agency. Available from, as of Mar 12, 2015: https://echa.europa.eu/",
+            "Value": "AEROBIC: Maleic acid, present at 100 mg/L, reached 87% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test which classified the compound as readily biodegradable(1). Using OECD Guideline 301B (Ready Biodegradability: CO2 Evolution Test) and an inoculum from a domestic sewage treatment plant, maleic acid at 33.3 mg/L reached 13.25% CO2 evolution in 2 days and 97.08% CO2 evolution in 28 days which classified the compound as readily biodegradable(2). In another OECD Guideline 301B test using an activated sludge inoculum, maleic acid, at 10 mg/L, achieved 93% CO2 evolution in 11 days(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Sangster J; LOGKOW Databank. Sangster Res Lab Montreal Quebec, Canada (1994)",
+            "Value": "log Kow = -0.48"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "European Commission/European Chemical Substances Information System (ESIS); IUCLID Dataset, Maleic acid (CAS 110-16-7) p. 31 (2000). Available from, as of February 19, 2015: https://esis.jrc.ec.europa.eu/",
+            "Value": "Kidney damage has been observed as a systemic toxic action of maleic acid. Morphological-functional changes in the kidneys were produced by intraperitoneal injection (100-350 mg/kg; rats, dogs) and also by inhalation exposure to ca. 720 mg/mc (rats). The damage to distal and proximal tubular resorption produced by maleic acid is reminiscent of the known (congenital or acquired) Fanconi syndrome in humans. This damage seems to be caused by the interaction of maleic acid with glutathione in tubular renal cells, leading to intolerable concentration of free radicals and peroxides. In addition to the resultant cellular damage, maleic acid appears to affect Na+ and H+ ion transport in the proximal tubes [RE5]. After chronic exposure of male rats (250, 500, 750 mg/kg /per/ day for up to two years), an increased mortality as well as kidney damage and delayed growth was observed in all dosage groups. Liver and testicular damage has also been found in highest dosage group. No signs of carcinogenic activity of maleic acid were discovered with long-term dosage, which however was not designed as a carcinogenicity study."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 574",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ On rabbit eyes 10% maleic acid in water at pH 1 applied for thirty seconds causes permanent opacity & vascularization. A 1% soln applied for 2 minutes causes cloudiness of cornea, but no injury remains the next day. A 5% soln has similar but more intense effect, with recovery delayed 6-7 days."
+        },
+        {
+            "References": "PMID:7054592",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Admin of maleic acid to rats is used as an exptl model of Fanconi's syndrome. To determine the site & extent of morphologic injury within the kidney after maleic acid admin, the renal tissue was examined using light, transmission electron, & scanning electron microscopy. Evidence of injury was observed only in cells of the late pars convoluta & the pars recta in the medullary rays of the cortex & in the outer strip of the medulla. Injury was apparent immediately after maleic acid admin & progressed to extensive necrosis by 24 hr after 200 or 400 mg/kg dose. Results provide evidence that maleic acid produces tubular injury & necrosis only in the proximal tubules, primarily in the medullary rays, & outer strip of the mudulla, & not in the distal tubules."
+        },
+        {
+            "References": "PMID:3102828",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ During the acute renal tubular dysfunction of Fanconi syndrome and type two renal tubular acidosis (FS/RTA2) induced by maleic acid in the unanesthetized dog, /the following was observed/: 1) 30 minutes after the onset of FS/RTA2, the urinary excretion of lysosomal enzymes, N-acetyl-beta-glucosaminidase, beta-glucuronidase (beta-gluc) and beta-galactosidase (beta-glac), increased simultaneously with the anticipated increase in renal clearance of lysozyme; 2) the severities of all these hyperenzymurias increased rapidly, progressisvely, and in parallel, all reaching a peak some 60 to 80 minute after their onset; 3) thereafter, while the FS/RTA2 continued undiminished in severity, the severity of the hyperenzymurias decreased rapidly, greatly, progressively, and in parallel; and 4) sodium phosphate loading strikingly attenuated the FS/RTA2 and the hyperenzymurias."
+        },
+        {
+            "References": "PMID:8365586",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Single oral administration of pravadoline maleate (WIN 48098-6), the maleic acid salt of WIN 48098, induced acute tubular necrosis in male and female beagle dogs at dosages > or = 40 mg/kg (WIN 48098 base (31 mg/kg) and maleic acid (9 mg/kg)). Subsequent oral studies were conducted with equimolar dosages of maleic acid and WIN 48098-7, the ethanesulfonate salt of WIN 48098, to determine the nephrotoxic moiety of WIN 48098-6. Acute tubular necrosis was observed for dogs given only maleic acid at single oral dosages > or = 9 mg/kg. This result provided evidence that maleic acid was responsible for the nephrotoxicity observed in dogs given single oral dosages of WIN 48098-6. The induction of maleic acid related nephrotoxicity in dogs may confound the interpretation of toxicologic studies of maleic acid salts of basic pharmaceutics, if the dosage of test article results in the delivery of dosages of maleic acid > or = 9 mg/kg. Furthermore, the results of these studies underscore the importance of establishing maximum no observed effect dosages and target organ toxicity profiles for acids and bases that are commonly used in the development of salts of pharmaceutics. /Pravadoline maleate/"
+        },
+        {
+            "References": "European Commission/European Chemical Substances Information System (ESIS); IUCLID Dataset, Maleic acid (CAS 110-16-7) p. 33 (2000). Available from, as of February 19, 2015: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Single application of 150 mg/kg maleic acid to Sprague- Dawley rats had only little effect in male rats, but a nearly 10-fold increase in urinary glucose excretion in females."
+        },
+        {
+            "References": "European Commission/European Chemical Substances Information System (ESIS); IUCLID Dataset, Maleic acid (CAS 110-16-7) p. 33 (2000). Available from, as of February 19, 2015: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Single intravenous application of 400 or 200 mg/kg bw maleic acid to male Sprague-Dawley rats via jugular venous catheter caused immediate injury in the kidneys which progressed to extensive necrosis by 24 hr after administration."
+        },
+        {
+            "References": "European Commission/European Chemical Substances Information System (ESIS); IUCLID Dataset, Maleic acid (CAS 110-16-7) p. 33 (2000). Available from, as of February 19, 2015: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Maleic acid given to mice has some inhibitory action on the growth of spontaneous carcinomata and grafted sarcomata."
+        },
+        {
+            "References": "European Commission/European Chemical Substances Information System (ESIS); IUCLID Dataset, Maleic acid (CAS 110-16-7) p. 30 (2000). Available from, as of February 19, 2015: https://esis.jrc.ec.europa.eu/",
+            "Value": "/ENDOCRINE MODULATION/ Maleic acid did not exhibit any estrogenic properties /in female rats/."
+        },
+        {
+            "References": "PMID:6749170",
+            "Value": "/GENOTOXICITY/ The effects of maleic hydrazide & its conversion or decomposition products, maleic acid diamide, succinic acid, maleic acid, lactic acid, & hydrazine on chromosomal aberrations in Vicia faba roots tips were evaluated. All maleic hydrazide products, except hydrazine, were nonclastogenic with aberration yields ranging from 0.01 to 0.02 aberrations/cell. Controls treated with water had 0.01 aberrations/cell."
+        },
+        {
+            "References": "PMID:7017390",
+            "Value": "/GENOTOXICITY/ When tested using Salmonella typhimurium TA100, maleic acid was not mutagenic when reacted with chlorine in aqueous solution. In a 50/50 by vol methanol/water solution it was substantially mutagenic, and reacted with chlorine with a peak at 3 equivalents per mole."
+        },
+        {
+            "References": "Lake RS et al; Mut Res Lett 207 (1): 1-5 (1988)",
+            "Value": "/GENOTOXICITY/ The potential for maleic acid to influence revertant rates in Ames Salmonella plate incorporation mutagenicity assays was assessed. Maleic acid, its acid salt monosodium maleate, and its neutral salt disodium maleate hydrate were examined at toxicity limited dose levels with the routine Salmonella tester strains (TA-1535), (TA-1537), (TA-1538), (TA-98), and (TA-100). Metabolic activation was provided by adding rat liver microsomal enzymes supplemented with cofactors. Revertant colonies were quantitated after 2 days of incubation. The normal salt of maleic acid did not influence top agar pH; the acid salt progressively lowered pH to 5.8; and maleic acid itself depressed pH to as low as 2.4. Maleic acid proved nonmutagenic despite the noted depression of top agar pH in accordance with the degree of protonation of the polybasic acid. It was concluded that the butenedioic moiety and potential oxidative metabolites of maleic acid are not mutagenic to the tested Salmonella strains; activity detected by the assay with maleate salt compounds could be attributed to the base moiety rather than maleate or pH depression per se."
+        },
+        {
+            "References": "European Commission/European Chemical Substances Information System (ESIS); IUCLID Dataset, Maleic acid (CAS 110-16-7) p. 33 (2000). Available from, as of February 19, 2015: https://esis.jrc.ec.europa.eu/",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ The viability of rat hepatocytes was uneffected by exposure to 2.0 mM maleic acid, measured by LDH leakage after 24 hr incubation."
+        },
+        {
+            "References": "PMID:614593",
+            "Value": "/OTHER TOXICITY INFORMATION/ Admin of maleic acid (which gives rise to renal tubular transport defects) to rats caused increased urinary excretion of S-(1,2-dicarboxyethyl)cysteine & increased binding of maleic acid to tissue proteins."
+        },
+        {
+            "References": "PMID:6116489",
+            "Value": "/OTHER TOXICITY INFORMATION/ Maleate stimulates glutamine uptake, ammonia production & glutamate production while inhibiting gluconeogenesis by renal cortical slices from control & acidotic rats. Uptake of (14)C glutamine by luminal brush border vesicles is stimulated by maleate in the absence of sodium. /Maleate/"
+        },
+        {
+            "References": "PMID:6226293",
+            "Value": "/OTHER TOXICITY INFORMATION/ Nephrotoxic acute renal failure was induced in rats by ip admin of maleate. Maleate enhanced the formation of free radicals & peroxides, which presumably overload the cell's natural elimination mechanisms for these highly reactive intermediates. In addition, a reduction in activities of superoxide dismutase, catalase, & glutathione-peroxidase was found. Acute renal failure, enhanced lipid peroxidation in kidney homogenates in vitro was observed. Maleate may react with free SH-groups & lead to a depletion of glutathione in tubular cells. Renal cortical contents of reduced & oxidized glutathione were drastically diminished. Alterations in membrane integrity, possibly caused by peroxidative processes, can be considered the cause of the disturbances in renal function observed during the initiation phase of maleate induced acute renal failure. /Maleate/"
+        },
+        {
+            "References": "PMID:6473079",
+            "Value": "/OTHER TOXICITY INFORMATION/ The mechanism of tubular acidification was studied in proximal tubular acidification defect induced in rats by acute parenteral infusion of maleate (200 mg/kg), which causes diuresis & bicarbonaturia. Results show that maleate affects both proximal Na+ & H+ transport; this effect may be ascribed to impairment of sodium-dependent transport systems in the brush-border membrane. /Maleate/"
+        },
+        {
+            "References": "PMID:6281601",
+            "Value": "/OTHER TOXICITY INFORMATION/ The effects of maleate on the physical state of isolated brush border & basolateral membranes from dog kidney cortex were studied by fluorescence polarization & ESR methods. Results indicate that maleic acid nephropathy is not due to a direct effect of maleate on tubular membranes per se. /Maleate/"
+        },
+        {
+            "References": "Brewer ED et al; Am J Physiol 245 (3): F339-44 (1983)",
+            "Value": "/OTHER TOXICITY INFORMATION/ Micropuncture & clearance studies were performed to assess reabsorptive function in the proximal & distal nephron of rats with experimental Fanconi's syndrome induced by maleic acid. These studies suggest that maleic acid inhibits reabsorption at a distal nephron site or sites as well as in the proximal tubule."
+        },
+        {
+            "References": "European Commission/European Chemical Substances Information System (ESIS); IUCLID Dataset, Maleic acid (CAS 110-16-7) p. 32 (2000). Available from, as of February 19, 2015: https://esis.jrc.ec.europa.eu/",
+            "Value": "/OTHER TOXICITY INFORMATION/ Maleic acid may enhance anaphylactic histamine release from guinea pig lung by its metabolic utilization in the tricarboxylic acid cycle."
+        },
+        {
+            "References": "European Commission/European Chemical Substances Information System (ESIS); IUCLID Dataset, Maleic acid (CAS 110-16-7) p. 33 (2000). Available from, as of February 19, 2015: https://esis.jrc.ec.europa.eu/",
+            "Value": "/OTHER TOXICITY INFORMATION/ In dogs the intravenous administration of maleic acid (50 mg/kg) increased sodium, potassium, and phosphate excretion."
+        },
+        {
+            "References": "European Commission/European Chemical Substances Information System (ESIS); IUCLID Dataset, Maleic acid (CAS 110-16-7) p. 31 (2000). Available from, as of February 19, 2015: https://esis.jrc.ec.europa.eu/",
+            "Value": "/OTHER TOXICITY INFORMATION/ Administration of 400 mg/kg by intraperitoneal injection markedly decreased blood sugar levels in fasted rats, causing simultaneous increase in plasma free fatty acid and acetoacetate."
+        },
+        {
+            "References": "European Commission/European Chemical Substances Information System (ESIS); IUCLID Dataset, Maleic acid (CAS 110-16-7) p. 31 (2000). Available from, as of February 19, 2015: https://esis.jrc.ec.europa.eu/",
+            "Value": "/OTHER TOXICITY INFORMATION/ Kidney damage has been reported in rats and dogs following injection of high doses of maleic acid."
+        },
+        {
+            "References": "European Commission/European Chemical Substances Information System (ESIS); IUCLID Dataset, Maleic acid (CAS 110-16-7) p. 33 (2000). Available from, as of February 19, 2015: https://esis.jrc.ec.europa.eu/",
+            "Value": "/OTHER TOXICITY INFORMATION/ Maleic acid produces in rats, mice and and dogs a condition analogous to the human Fanconi Syndrome, characterized by increased urinary elimination of glucose, aminoacids and other biochemicals, resulting from an impaired tubular reabsorption of these substances. Mechanistic studies are available on rats, mice, dogs and frogs."
+        },
+        {
+            "References": "PMID:6658792",
+            "Value": "/OTHER TOXICITY INFORMATION/ Administration of heavy metals or maleic acid induces a condition resembling the Fanconi syndrome. Transport of aspartate is now shown to be similarly inhibited by maleic acid and cephaloridin. Maleic acid exerts an apparent uncompetitive effect within minutes of injection, the inhibition cannot simply reflect characteristics of regenerating epithelium. The mechanism of the aminoaciduric action of maleic acid remains unclear but cannot, under present conditions, involve back leakage of amino acids into tubular urine."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Kawamura K, Kaplan IR; Environ Sci Technol 21: 105-10 (1987) (2) Cordt T, Kussmaul H; Vom Wasser 74: 287-98 (1990)",
+            "Value": "Two soil samples taken at the University of California, Los Angeles campus contained ND (not detected) and 2.33 nmol/g of maleic acid, whereas bog sediment samples from the Sierra Nevada foothills contained 8 nmol/g(1). Maleic acid was qualitatively detected in German soil samples(2)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Mar 12, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) ECHA; Search for Chemicals. Maleic Acid (CAS 110-16-7) Registered Substances Dossier. European Chemical Agency. Available from, as of Mar 12, 2015: https://echa.europa.eu/ (4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of maleic acid can be estimated to be 7(SRC). According to a classification scheme(2), this estimated Koc value suggests that maleic acid is expected to be very mobility in soil. The pKa values of maleic acid are 1.94 and 6.22(3), indicating that this compound will exist almost entirely in anion form in the environment and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(4)."
+        }
+    ]
+}

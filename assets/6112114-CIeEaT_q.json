@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "669270f8303528b49832d768"
+    },
+    "CID": {
+        "$numberInt": "6112114"
+    },
+    "Name": "Kresoxim-Methyl",
+    "IUPACName": "methyl (2E)-2-methoxyimino-2-[2-[(2-methylphenoxy)methyl]phenyl]acetate",
+    "CanonicalSMILES": "CC1=CC=CC=C1OCC2=CC=CC=C2C(=NOC)C(=O)OC",
+    "Synonyms": [
+        "Kresoxim-Methyl",
+        "143390-89-0",
+        "Bas 490 F",
+        "Bas 490F",
+        "Kresoxim-methyl [ISO]",
+        "HSDB 7020",
+        "CHEBI:2962",
+        "methyl (2E)-2-methoxyimino-2-[2-[(2-methylphenoxy)methyl]phenyl]acetate",
+        "0LXZ062TTB",
+        "Methyl (E)-alpha-(methoxyimino)-2-((2-methylphenoxy)methyl)benzeneacetate",
+        "methyl 2-methoxyimino-2-[2-[(2-methylphenoxy)methyl]phenyl]acetate",
+        "Candit",
+        "Stroby",
+        "kresoxim methyl ester",
+        "UNII-0LXZ062TTB"
+    ],
+    "IsomericSMILES": "CC1=CC=CC=C1OCC2=CC=CC=C2/C(=N\\OC)/C(=O)OC",
+    "INCHI": "InChI=1S/C18H19NO4/c1-13-8-4-7-11-16(13)23-12-14-9-5-6-10-15(14)17(19-22-3)18(20)21-2/h4-11H,12H2,1-3H3/b19-17+",
+    "INCHIKEY": "ZOTBXTZVPHCKPN-HTXNQAPBSA-N",
+    "Formula": "C18H19NO4",
+    "MolecularWeight": {
+        "$numberDouble": "313.3"
+    },
+    "Description": "Kresoxim-methyl is a carboxylic ester that is the methyl ester of (2E)-(methoxyimino){2-[(2-methylphenoxy)methyl]phenyl}acetic acid. A fungicide for the control of scab on apples and pears and other fungal diseases on a wide range of crops. It has a role as a mitochondrial cytochrome-bc1 complex inhibitor, an environmental contaminant, a xenobiotic and an antifungal agrochemical. It is an oxime O-ether, an aromatic ether, a methyl ester and a methoxyiminoacetate strobilurin antifungal agent.",
+    "XlogP": {
+        "$numberDouble": "4.1"
+    },
+    "Complexity": {
+        "$numberInt": "410"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Kresoxim-methyl is a broad spectrum fungicide used for controlling sheath blight and blast in paddy, also downy and powdery mildew diseases in grapes. A supervised field trial consisting of two experiments viz. soil application and foliar application was conducted in order to study the uptake, distribution, translocation and metabolism of kresoxim-methyl in paddy, treated at the rates of 250 and 500 g a.i./ha. Depending on the crop growth and stage (40, 60, 80 and 110 days after transplanting), different plant parts like foliage, shoot, roots, panicles, straw and grain, along with soil, were sampled and analysed using liquid chromatography tandem mass spectrometry for parent compound kresoxim-methyl and its metabolites. The results revealed that there was little translocation of residues of kresoxim-methyl and its acid metabolite to various plants parts, i.e. foliage, roots, soil, shoot and panicle, and very little to straw and grains. The major route of metabolism was hydrolysis with formation of acid metabolite.",
+            "reference": "Hosmani, R. S., Nayak, S. P., & Kumar, Y. (2012). Uptake, distribution, translocation and metabolism of kresoxim-methyl in paddy. Quality Assurance and Safety of Crops & Foods, 4(4), 170\u2013178. doi:10.1111/j.1757-837x.2012.00185.x\u00a0",
+            "method": {
+                "Test Plant": "Rabi paddy (variety\u2013 Tanu)",
+                "Apply Location": "Foliar and soil application",
+                "Plant Grown Condition": "Field grown in Arakaldoddi village, Mandya District, Karnataka, India",
+                "Chemical Preparation": "Kresoxim-methyl 500 g/L SC test material",
+                "Pesticide Application Details for the Plant": "Experiment 1: Single spray of kresoxim-methyl 500 g/L SC at 250 and 500 ga.i./ha applied to paddy soil at the time of transplanting. Experiment 2: Three foliar sprays of kresoxim-methyl 500 g/L SC at 250 and 500 g a.i./ha applied to paddy crop at 40, 60, and 80 days after transplanting.",
+                "Other Information": "Soil samples treated at '0' (control), 250 (low dose), and 500 (high dose) g a.i./ha, collected and analyzed immediately after application, and subsequent sampling of soil and whole paddy plant carried out at 40, 60, 80, and 110 (at harvest) days after treatment"
+            },
+            "result": "[{\"Application Method\": \"Soil Apply\", \"Concentration\": \"250g a.i./ha\", \"Applied Days\": 0, \"Soil (ppm)\": \"52.2\", \"Roots (ppm)\": \"-\", \"Foliage (ppm)\": \"-\", \"Shoot (ppm)\": \"-\", \"Panicle (ppm)\": \"-\", \"Grains (ppm)\": \"-\", \"Straw (ppm)\": \"-\"}, {\"Application Method\": \"Soil Apply\", \"Concentration\": \"250g a.i./ha\", \"Applied Days\": 40, \"Soil (ppm)\": \"0.08\", \"Roots (ppm)\": \"<0.01\", \"Foliage (ppm)\": \"0.44\", \"Shoot (ppm)\": \"-\", \"Panicle (ppm)\": \"-\", \"Grains (ppm)\": \"-\", \"Straw (ppm)\": \"-\"}, {\"Application Method\": \"Soil Apply\", \"Concentration\": \"250g a.i./ha\", \"Applied Days\": 60, \"Soil (ppm)\": \"<0.01\", \"Roots (ppm)\": \"<0.01\", \"Foliage (ppm)\": \"0.43\", \"Shoot (ppm)\": \"0.11\", \"Panicle (ppm)\": \"0.22\", \"Grains (ppm)\": \"-\", \"Straw (ppm)\": \"-\"}, {\"Application Method\": \"Soil Apply\", \"Concentration\": \"250g a.i./ha\", \"Applied Days\": 80, \"Soil (ppm)\": \"0.02\", \"Roots (ppm)\": \"0.04\", \"Foliage (ppm)\": \"<0.01\", \"Shoot (ppm)\": \"0.23\", \"Panicle (ppm)\": \"<0.01\", \"Grains (ppm)\": \"-\", \"Straw (ppm)\": \"-\"}, {\"Application Method\": \"Soil Apply\", \"Concentration\": \"250g a.i./ha\", \"Applied Days\": 110, \"Soil (ppm)\": \"<0.01\", \"Roots (ppm)\": \"0.01\", \"Foliage (ppm)\": \"-\", \"Shoot (ppm)\": \"-\", \"Panicle (ppm)\": \"0.02\", \"Grains (ppm)\": \"0.04\", \"Straw (ppm)\": NaN}, {\"Application Method\": \"Soil Apply\", \"Concentration\": \"500g a.i./ha\", \"Applied Days\": 0, \"Soil (ppm)\": \"85.3\", \"Roots (ppm)\": \"-\", \"Foliage (ppm)\": \"-\", \"Shoot (ppm)\": \"-\", \"Panicle (ppm)\": \"-\", \"Grains (ppm)\": \"-\", \"Straw (ppm)\": \"-\"}, {\"Application Method\": \"Soil Apply\", \"Concentration\": \"500g a.i./ha\", \"Applied Days\": 40, \"Soil (ppm)\": \"0.12\", \"Roots (ppm)\": \"<0.01\", \"Foliage (ppm)\": \"7.46\", \"Shoot (ppm)\": \"-\", \"Panicle (ppm)\": \"-\", \"Grains (ppm)\": \"-\", \"Straw (ppm)\": \"-\"}, {\"Application Method\": \"Soil Apply\", \"Concentration\": \"500g a.i./ha\", \"Applied Days\": 60, \"Soil (ppm)\": \"<0.01\", \"Roots (ppm)\": \"<0.01\", \"Foliage (ppm)\": \"4.07\", \"Shoot (ppm)\": \"5.89\", \"Panicle (ppm)\": \"1.41\", \"Grains (ppm)\": \"-\", \"Straw (ppm)\": \"-\"}, {\"Application Method\": \"Soil Apply\", \"Concentration\": \"500g a.i./ha\", \"Applied Days\": 80, \"Soil (ppm)\": \"0.08\", \"Roots (ppm)\": \"0.06\", \"Foliage (ppm)\": \"<0.01\", \"Shoot (ppm)\": \"0.27\", \"Panicle (ppm)\": \"0.31\", \"Grains (ppm)\": \"-\", \"Straw (ppm)\": \"-\"}, {\"Application Method\": \"Soil Apply\", \"Concentration\": \"500g a.i./ha\", \"Applied Days\": 110, \"Soil (ppm)\": \"<0.01\", \"Roots (ppm)\": \"0.02\", \"Foliage (ppm)\": \"-\", \"Shoot (ppm)\": \"-\", \"Panicle (ppm)\": \"0.03\", \"Grains (ppm)\": \"0.06\", \"Straw (ppm)\": NaN}, {\"Application Method\": \"Foliar Apply\", \"Concentration\": \"250g a.i./ha\", \"Applied Days\": 40, \"Soil (ppm)\": \"0.3\", \"Roots (ppm)\": \"1.14\", \"Foliage (ppm)\": \"58.05\", \"Shoot (ppm)\": \"-\", \"Panicle (ppm)\": \"-\", \"Grains (ppm)\": \"-\", \"Straw (ppm)\": \"-\"}, {\"Application Method\": \"Foliar Apply\", \"Concentration\": \"250g a.i./ha\", \"Applied Days\": 60, \"Soil (ppm)\": \"<0.01\", \"Roots (ppm)\": \"0.12\", \"Foliage (ppm)\": \"9.03\", \"Shoot (ppm)\": \"1.26\", \"Panicle (ppm)\": \"0.79\", \"Grains (ppm)\": \"-\", \"Straw (ppm)\": \"-\"}, {\"Application Method\": \"Foliar Apply\", \"Concentration\": \"250g a.i./ha\", \"Applied Days\": 80, \"Soil (ppm)\": \"0.02\", \"Roots (ppm)\": \"0.08\", \"Foliage (ppm)\": \"1.16\", \"Shoot (ppm)\": \"13.83\", \"Panicle (ppm)\": \"0.05\", \"Grains (ppm)\": \"-\", \"Straw (ppm)\": \"-\"}, {\"Application Method\": \"Foliar Apply\", \"Concentration\": \"250g a.i./ha\", \"Applied Days\": 110, \"Soil (ppm)\": \"0.11\", \"Roots (ppm)\": \"0.2\", \"Foliage (ppm)\": \"-\", \"Shoot (ppm)\": \"-\", \"Panicle (ppm)\": \"0.02\", \"Grains (ppm)\": \"0.05\", \"Straw (ppm)\": NaN}, {\"Application Method\": \"Foliar Apply\", \"Concentration\": \"500g a.i./ha\", \"Applied Days\": 40, \"Soil (ppm)\": \"1.03\", \"Roots (ppm)\": \"3.77\", \"Foliage (ppm)\": \"106.9\", \"Shoot (ppm)\": \"-\", \"Panicle (ppm)\": \"-\", \"Grains (ppm)\": \"-\", \"Straw (ppm)\": \"-\"}, {\"Application Method\": \"Foliar Apply\", \"Concentration\": \"500g a.i./ha\", \"Applied Days\": 60, \"Soil (ppm)\": \"0.08\", \"Roots (ppm)\": \"0.42\", \"Foliage (ppm)\": \"18.87\", \"Shoot (ppm)\": \"7.97\", \"Panicle (ppm)\": \"2.67\", \"Grains (ppm)\": \"-\", \"Straw (ppm)\": \"-\"}, {\"Application Method\": \"Foliar Apply\", \"Concentration\": \"500g a.i./ha\", \"Applied Days\": 80, \"Soil (ppm)\": \"0.03\", \"Roots (ppm)\": \"1.06\", \"Foliage (ppm)\": \"1.16\", \"Shoot (ppm)\": \"23.73\", \"Panicle (ppm)\": \"2.14\", \"Grains (ppm)\": \"-\", \"Straw (ppm)\": \"-\"}, {\"Application Method\": \"Foliar Apply\", \"Concentration\": \"500g a.i./ha\", \"Applied Days\": 110, \"Soil (ppm)\": \"0.32\", \"Roots (ppm)\": \"0.28\", \"Foliage (ppm)\": \"-\", \"Shoot (ppm)\": \"-\", \"Panicle (ppm)\": \"0.03\", \"Grains (ppm)\": \"0.07\", \"Straw (ppm)\": NaN}]"
+        }
+    ]
+}

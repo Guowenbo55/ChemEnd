@@ -1,0 +1,99 @@
+{
+    "_id": {
+        "$oid": "66927103303528b49832d793"
+    },
+    "CID": {
+        "$numberInt": "54778"
+    },
+    "Name": "Clomazone",
+    "IUPACName": "2-[(2-chlorophenyl)methyl]-4,4-dimethyl-1,2-oxazolidin-3-one",
+    "CanonicalSMILES": "CC1(CON(C1=O)CC2=CC=CC=C2Cl)C",
+    "Synonyms": [
+        "Clomazone",
+        "81777-89-1",
+        "Dimethazone",
+        "2-(2-Chlorobenzyl)-4,4-dimethylisoxazolidin-3-one",
+        "Command",
+        "Gamit",
+        "2-(2-Chlorobenzyl)-4,4-dimethyl-1,2-oxazolidin-3-one",
+        "570RAC03NF",
+        "CHEBI:3751",
+        "2-((2-Chlorophenyl)methyl)-4,4-dimethyl-3-isoxazolidinone",
+        "DTXSID1032355",
+        "FMC57020",
+        "2-[(2-chlorophenyl)methyl]-4,4-dimethyl-1,2-oxazolidin-3-one",
+        "Clomazone [ISO]",
+        "HSDB 6614"
+    ],
+    "IsomericSMILES": "CC1(CON(C1=O)CC2=CC=CC=C2Cl)C",
+    "INCHI": "InChI=1S/C12H14ClNO2/c1-12(2)8-16-14(11(12)15)7-9-5-3-4-6-10(9)13/h3-6H,7-8H2,1-2H3",
+    "INCHIKEY": "KIEDNEWSYUYDSN-UHFFFAOYSA-N",
+    "Formula": "C12H14ClNO2",
+    "MolecularWeight": {
+        "$numberDouble": "239.7"
+    },
+    "Description": "Clomazone is an isoxazolidinone that is 1,2-oxazolidin-3-one substituted by a 2-chlorobenzyl group at position 2 and two methyl groups at position 4. It has a role as an environmental contaminant, a xenobiotic, a herbicide, an agrochemical and a carotenoid biosynthesis inhibitor. It is a member of monochlorobenzenes and an isoxazolidinone.",
+    "XlogP": {
+        "$numberDouble": "2.5"
+    },
+    "Complexity": {
+        "$numberInt": "280"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Research was conducted in soybean and com mon cocklebur to determine if the synergistic interactions of clomazone plus metribuzin and clomazone plus linuron were due to the effect of one herbicide on root uptake, partitioning, or metabolism of the other. Treatments consisted of 14C-clomazone alone and combined with metribuzin or linuron, 14C-metribuzin alone and com bined with clomazone, and 14C-linuron alone and com bined with clomazone. Root uptake and partitioning of clomazone applied alone in soybean differed compared to clomazone plus metribuzin. Root uptake and partitioning of metribuzin or linuron did not differ when applied alone or combined with clomazone. Binding of clomazone or its metabolites in an unextractable form may be a method of deactivating clomazone by soybean, but not by common cocklebur. Levels of parent clomazone were higher in common cocklebur roots when clomazone was combined with metribuzin and linuron compared to clomazone alone. Levels of parent metribuzin were higher in soybean roots, and in common cocklebur roots and shoots when clomazone was combined with metribuzin compared to metribuzin alone. Levels of parent linuron were greater in soybean shoots when linuron was applied with clomazone compared to linuron alone. These results indicate that the metabolism of metribuzin and linuron is altered in both species when clomazone is applied, leading to increased phytotoxicity.",
+            "reference": "Salzman, F. P., Renner, K. A., & Penner, D. (1992). Absorption, translocation, and metabolism of clomazone, metribuzin and linuron in soybean (Glycine max) and common cocklebur (Xanthium strumarium). Weed science, 40(3), 395-401.",
+            "method": {
+                "Test Plants": "Soybean (Glycine max) and common cocklebur (Xanthium strumarium)",
+                "Apply Location": "Nutrient solution",
+                "Plant Grown Condition": "Germinated in silicon sand in the greenhouse under natural light supplemented with sodium vapor lights for 15 hours per day, irrigated with modified Hoagland's solution at pH 6.8",
+                "Chemical Preparation": "14C-uniformly phenyl ring-labeled clomazone (specific activity 1.036 x 106 Bq mmol-1, radiochemical purity 94%), 14C-uniformly ring-labeled linuron (specific activity 2,257 Bq mg-1, radiochemical purity 95%), 14C-uniformly ring-labeled metribuzin (specific activity 0.769 x 106 Bq mmol-1, radiochemical purity 98%)",
+                "Pesticide Application Details for the Plant": "Herbicides were added to the nutrient solution in 100 \u00b5l of methanol for preconditioning treatments, then added to the solutions for the main treatments at final concentrations of 6.5 \u00b5M for clomazone, 1.0 \u00b5M for linuron, 1.0 \u00b5M for metribuzin, 6.5 plus 1.0 \u00b5M for clomazone plus linuron, or 6.5 plus 1.0 \u00b5M for clomazone plus metribuzin",
+                "Number of Other Information": "15 plants of each species for each treatment, with the experiments repeated twice"
+            },
+            "result": "[{\"Plant\": \"Soybean\", \"Treatment\": \"Linuron alone\", \"Absorbed (%)\": 15.0, \"In Roots (%)\": 59.8, \"In Stem (%)\": 10.6, \"In Leaves (%)\": 28.7, \"In Shoot Meristem (%)\": 0.9}, {\"Plant\": \"Soybean\", \"Treatment\": \"Linuron + Clomazone\", \"Absorbed (%)\": 15.8, \"In Roots (%)\": 66.2, \"In Stem (%)\": 10.5, \"In Leaves (%)\": 22.6, \"In Shoot Meristem (%)\": 0.6}, {\"Plant\": \"Common Cocklebur\", \"Treatment\": \"Linuron alone\", \"Absorbed (%)\": 19.1, \"In Roots (%)\": 93.5, \"In Stem (%)\": 4.3, \"In Leaves (%)\": 2.0, \"In Shoot Meristem (%)\": 0.2}, {\"Plant\": \"Common Cocklebur\", \"Treatment\": \"Linuron + Clomazone\", \"Absorbed (%)\": 19.1, \"In Roots (%)\": 90.4, \"In Stem (%)\": 6.6, \"In Leaves (%)\": 2.8, \"In Shoot Meristem (%)\": 0.2}]"
+        },
+        {
+            "content": "Disulfoton and phorate applied in the seed furrow greatly reduce clomazone phy totoxicity to cotton in the field, whereas aldicarb does not. An experiment was conducted to determine the effect of aldicarb, disulfoton, and phorate on 14C-clom azone absorption, translocation, and metabolism by cotton grown in a sandy loam soil. Clomazone at 0.87 ,ug g-1 of soil alone or in combination with aldicarb at 0.6 pug g-1 of soil reduced cotton root and shoot growth 26 to 33%. Root and shoot growth were not reduced by clomazone plus disulfoton or phorate at 0.6 jig g-I of soil. Protection of cotton against injury by clomazone was not explained by reduced absorption or translocation of clomazone or a metabolite to the shoot. Clomazone metabolism was reduced by disulfoton and phorate, thus indicating a clomazone metabolite may be more toxic to cotton.",
+            "reference": "Culpepper, A. S., York, A. C., Marth, J. L., & Corbin, F. T. (2001). Effect of insecticides on clomazone absorption, translocation, and metabolism in cotton. Weed Science, 49(5), 613-616.",
+            "method": {
+                "Test Plant": "Cotton (Gossypium hirsutum L. 'McNair 235')",
+                "Apply Location": "Soil",
+                "Plant Grown Condition": "Norfolk sandy loam soil with pH 5.4 and 0.5% organic matter, soil brought to approximately half the field capacity",
+                "Chemical Preparation": "Clomazone (commercially formulated), 14C-clomazone (methylene labeled with specific activity 736 kBq/\u00b5mol)",
+                "Pesticide Application Details for the Plant": "Clomazone applied at 0.86 \u00b5g/g of soil, 14C-clomazone applied at 0.01 \u00b5g/g of soil, aldicarb, disulfoton, and phorate applied at 0.6 \u00b5g/g of soil",
+                "Other Information": "-"
+            },
+            "result": "[{\"Time after application\": \"8 days\", \"Treatment\": \"Clomazone Alone\", \"Root Absorption (%)\": 46, \"Shoot Absorption (%)\": 46}, {\"Time after application\": \"8 days\", \"Treatment\": \"Clomazone + Aldicarb\", \"Root Absorption (%)\": 53, \"Shoot Absorption (%)\": 46}, {\"Time after application\": \"8 days\", \"Treatment\": \"Clomazone + Disulfoton\", \"Root Absorption (%)\": 56, \"Shoot Absorption (%)\": 61}, {\"Time after application\": \"8 days\", \"Treatment\": \"Clomazone + Phorate\", \"Root Absorption (%)\": 56, \"Shoot Absorption (%)\": 66}]"
+        },
+        {
+            "content": "The patterns of clomazone (2-[(2-chloro- phenyl)methyl-4,4-dimethyl-3-isoxazolidinone) ab- sorption, translocation, and metabolism and their contribution to the plant selectivity of this herbicide were studied in tolerant soybean [Glycine max (L.) Merr.] and Amaranthus hybridus and in susceptible A. retroflexus and A. lividus. Differential root ab- sorption appeared to play a significant role in the differential response of these four plant species to clomazone. Absorption of root-applied 14C-cloma- zone was greater by the two sensitive Amaranthus weeds than by the tolerant soybean and A. hybri- dus. Following application of 14C-clomazone to roots, most of the absorbed radioactivity was trans- located to the leaves of all four species. Approxi- mately 50% of the absorbed 14C-clomazone was me- tabolized by all four plant species as early as 12 h after treatment. Thin layer chromatographic (TLC) analysis of plant tissue extracts from all four species revealed the formation of two major metabolites of clomazone. These unidentified metabolites had Rf values of 0.4 and 0.8, respectively, in a butanol:ace- tic acid:water (12:3:5, vol/vol/vol) developing sys- tem. The Rf value of unaltered clomazone in this system was 0.95. Differential metabolism or differ- ential rate of metabolism of clomazone was not ob- served in this study and did not seem to account for the tolerance of soybean and A. hybridus or the suceptibility of A. retroflexus and A. lividus to this herbicide.",
+            "reference": "Vencill, W. K., Hatzios, K. K., & Wilson, H. P. (1990). Absorption, translocation, and metabolism of14C-clomazone in soybean (Glycine max) and threeAmaranthus weed species. Journal of Plant Growth Regulation, 9(1-4), 127\u2013132. doi:10.1007/bf02041951\u00a0",
+            "method": {
+                "Test Plant": "Amaranthus species and soybeans (Glycine max)",
+                "Apply Location": "Root application",
+                "Plant Grown Condition": "Potting soil mixture of vermiculite:weblite:sphagnum peat moss (2:2:1, vol/vol/vol), grown in growth chamber at 25\u00b0C, and a photoperiod of 14 h light at 400 \u00b5E m-2 s-1 provided by both incandescent and fluorescent lamps",
+                "Chemical Preparation": "Technical (95% pure) and radiolabeled samples of clomazone were provided by FMC Chemical Corporation (Princeton, N J, USA). Radiolabeled clomazone was uniformly labeled with ~4C on the aromatic ring with a specific activity of 28.0 mCi/mmol. Clomazone was dissolved in acetone and made up to volume with distilled water.",
+                "Pesticide Application Details for the Plant": "Radiolabeled clomazone applied at a concentration of 5.0 \u00b5Ci/L adjusted to 100 \u00b5M concentration with technical clomazone",
+                "Other Information": "-"
+            },
+            "result": "[{\"Plant\": \"Soybean\", \"Time after application\": \"12 hours\", \"Absorbed (%)\": 38, \"Root (%)\": 20, \"Stem (%)\": 17, \"Leaves (%)\": 62}, {\"Plant\": \"Soybean\", \"Time after application\": \"48 hours\", \"Absorbed (%)\": 27, \"Root (%)\": 15, \"Stem (%)\": 16, \"Leaves (%)\": 68}, {\"Plant\": \"Soybean\", \"Time after application\": \"96 hours\", \"Absorbed (%)\": 53, \"Root (%)\": 17, \"Stem (%)\": 17, \"Leaves (%)\": 65}, {\"Plant\": \"A. hybridus\", \"Time after application\": \"12 hours\", \"Absorbed (%)\": 24, \"Root (%)\": 14, \"Stem (%)\": 17, \"Leaves (%)\": 70}, {\"Plant\": \"A. hybridus\", \"Time after application\": \"48 hours\", \"Absorbed (%)\": 17, \"Root (%)\": 13, \"Stem (%)\": 15, \"Leaves (%)\": 72}, {\"Plant\": \"A. hybridus\", \"Time after application\": \"96 hours\", \"Absorbed (%)\": 34, \"Root (%)\": 15, \"Stem (%)\": 16, \"Leaves (%)\": 69}, {\"Plant\": \"A. retroflexus\", \"Time after application\": \"12 hours\", \"Absorbed (%)\": 23, \"Root (%)\": 22, \"Stem (%)\": 17, \"Leaves (%)\": 61}, {\"Plant\": \"A. retroflexus\", \"Time after application\": \"48 hours\", \"Absorbed (%)\": 43, \"Root (%)\": 16, \"Stem (%)\": 22, \"Leaves (%)\": 62}, {\"Plant\": \"A. retroflexus\", \"Time after application\": \"96 hours\", \"Absorbed (%)\": 80, \"Root (%)\": 9, \"Stem (%)\": 24, \"Leaves (%)\": 67}, {\"Plant\": \"A. lividus\", \"Time after application\": \"12 hours\", \"Absorbed (%)\": 46, \"Root (%)\": 8, \"Stem (%)\": 19, \"Leaves (%)\": 73}, {\"Plant\": \"A. lividus\", \"Time after application\": \"48 hours\", \"Absorbed (%)\": 64, \"Root (%)\": 10, \"Stem (%)\": 19, \"Leaves (%)\": 80}, {\"Plant\": \"A. lividus\", \"Time after application\": \"96 hours\", \"Absorbed (%)\": 83, \"Root (%)\": 13, \"Stem (%)\": 15, \"Leaves (%)\": 72}]"
+        },
+        {
+            "content": "Research was conducted in soybean and com mon cocklebur to determine if the synergistic interactions of clomazone plus metribuzin and clomazone plus linuron were due to the effect of one herbicide on root uptake, partitioning, or metabolism of the other. Treatments consisted of 14C-clomazone alone and combined with metribuzin or linuron, 14C-metribuzin alone and com bined with clomazone, and 14C-linuron alone and com bined with clomazone. Root uptake and partitioning of clomazone applied alone in soybean differed compared to clomazone plus metribuzin. Root uptake and partitioning of metribuzin or linuron did not differ when applied alone or combined with clomazone. Binding of clomazone or its metabolites in an unextractable form may be a method of deactivating clomazone by soybean, but not by common cocklebur. Levels of parent clomazone were higher in common cocklebur roots when clomazone was combined with metribuzin and linuron compared to clomazone alone. Levels of parent metribuzin were higher in soybean roots, and in common cocklebur roots and shoots when clomazone was combined with metribuzin compared to metribuzin alone. Levels of parent linuron were greater in soybean shoots when linuron was applied with clomazone compared to linuron alone. These results indicate that the metabolism of metribuzin and linuron is altered in both species when clomazone is applied, leading to increased phytotoxicity.",
+            "reference": "Salzman, F. P., Renner, K. A., & Penner, D. (1992). Absorption, translocation, and metabolism of clomazone, metribuzin and linuron in soybean (Glycine max) and common cocklebur (Xanthium strumarium). Weed science, 40(3), 395-401.",
+            "method": {
+                "Test Plants": "Soybean (Glycine max) and common cocklebur (Xanthium strumarium)",
+                "Apply Location": "Root application",
+                "Plant Grown Condition": "Germinated in silicon sand in the greenhouse under natural light supplemented with sodium vapor lights for 15 hours per day, irrigated with modified Hoagland's solution at pH 6.8",
+                "Chemical Preparation": "14C-uniformly phenyl ring-labeled clomazone (specific activity 1.036 x 106 Bq mmol-1, radiochemical purity 94%), 14C-uniformly ring-labeled linuron (specific activity 2,257 Bq mg-1, radiochemical purity 95%), 14C-uniformly ring-labeled metribuzin (specific activity 0.769 x 106 Bq mmol-1, radiochemical purity 98%)",
+                "Pesticide Application Details for the Plant": "Herbicides were added to the nutrient solution in 100 \u00b5l of methanol for preconditioning treatments, then added to the solutions for the main treatments at final concentrations of 6.5 \u00b5M for clomazone, 1.0 \u00b5M for linuron, 1.0 \u00b5M for metribuzin, 6.5 plus 1.0 \u00b5M for clomazone plus linuron, or 6.5 plus 1.0 \u00b5M for clomazone plus metribuzin",
+                "Number of Other Information": "15 plants of each species for each treatment, with the experiments repeated twice"
+            },
+            "result": "[{\"Plant\": \"Soybean\", \"Treatment\": \"Clomazone Alone\", \"Absorbed (%)\": 15.0, \"Root (%)\": 59.8, \"Stem (%)\": 10.6, \"Leaves (%)\": 28.7, \"Shoot Meristem (%)\": 0.9}, {\"Plant\": \"Soybean\", \"Treatment\": \"Clomazone + Metribuzin\", \"Absorbed (%)\": 15.8, \"Root (%)\": 66.2, \"Stem (%)\": 10.5, \"Leaves (%)\": 22.6, \"Shoot Meristem (%)\": 0.6}, {\"Plant\": \"Soybean\", \"Treatment\": \"Clomazone + Linuron\", \"Absorbed (%)\": 16.3, \"Root (%)\": 63.1, \"Stem (%)\": 9.7, \"Leaves (%)\": 26.6, \"Shoot Meristem (%)\": 0.6}, {\"Plant\": \"Common Cocklebur\", \"Treatment\": \"Clomazone Alone\", \"Absorbed (%)\": 15.9, \"Root (%)\": 84.6, \"Stem (%)\": 10.8, \"Leaves (%)\": 4.7, \"Shoot Meristem (%)\": 0.8}, {\"Plant\": \"Common Cocklebur\", \"Treatment\": \"Clomazone + Metribuzin\", \"Absorbed (%)\": 15.5, \"Root (%)\": 87.4, \"Stem (%)\": 16.4, \"Leaves (%)\": 28.8, \"Shoot Meristem (%)\": 1.1}, {\"Plant\": \"Common Cocklebur\", \"Treatment\": \"Clomazone + Linuron\", \"Absorbed (%)\": 15.6, \"Root (%)\": 84.3, \"Stem (%)\": 17.2, \"Leaves (%)\": 30.8, \"Shoot Meristem (%)\": 1.3}]"
+        }
+    ]
+}

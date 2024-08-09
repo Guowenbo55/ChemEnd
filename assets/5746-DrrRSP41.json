@@ -1,0 +1,97 @@
+{
+    "_id": {
+        "$oid": "6682e826c4e5dba5ffba2428"
+    },
+    "CID": {
+        "$numberInt": "5746"
+    },
+    "Name": "MITOMYCIN C",
+    "IUPACName": "[(4S,6S,7R,8S)-11-amino-7-methoxy-12-methyl-10,13-dioxo-2,5-diazatetracyclo[7.4.0.02,7.04,6]trideca-1(9),11-dien-8-yl]methyl carbamate",
+    "CanonicalSMILES": "CC1=C(C(=O)C2=C(C1=O)N3CC4C(C3(C2COC(=O)N)OC)N4)N",
+    "Synonyms": [
+        "mitomycin C",
+        "Mitomycin",
+        "50-07-7",
+        "Ametycine",
+        "Mutamycin",
+        "Mitomycin-C",
+        "Mitocin-C",
+        "Ametycin",
+        "Mytozytrex",
+        "Mitomycinum",
+        "Mytomycin",
+        "Mitomycinum C",
+        "Mitamycin",
+        "Mitozytrex",
+        "Mitosol"
+    ],
+    "IsomericSMILES": "CC1=C(C(=O)C2=C(C1=O)N3C[C@H]4[C@@H]([C@@]3([C@@H]2COC(=O)N)OC)N4)N",
+    "INCHI": "InChI=1S/C15H18N4O5/c1-5-9(16)12(21)8-6(4-24-14(17)22)15(23-2)13-7(18-13)3-19(15)10(8)11(5)20/h6-7,13,18H,3-4,16H2,1-2H3,(H2,17,22)/t6-,7+,13+,15-/m1/s1",
+    "INCHIKEY": "NWIBSHFKIJFRCO-WUDYKRTCSA-N",
+    "Formula": "C15H18N4O5",
+    "MolecularWeight": {
+        "$numberDouble": "334.33"
+    },
+    "Description": "Mitomycin C is a mitomycin. It has a role as an antineoplastic agent and an alkylating agent. It is a conjugate acid of a mitomycin C(1-).",
+    "XlogP": {
+        "$numberDouble": "-0.4"
+    },
+    "Complexity": {
+        "$numberInt": "757"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 132",
+            "Value": "logP = -0.40"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V10 175 (1976)",
+            "Value": "... REACTS WITH BACTERIAL DNA BUT NOT WITH ISOLATED DNA, UNLESS ... REDUCING SYSTEM IS ADDED. CROSS LINKING EFFICIENCY ... INCR IN ISOLATED BACTERIAL DNA CONTAINING INCR AMT OF CYTOSINE & GUANOSINE."
+        },
+        {
+            "References": "Searle, C. E. (ed.). Chemical Carcinogens. ACS Monograph 173. Washington, DC: American Chemical Society, 1976., p. 96",
+            "Value": "ITS REDUCED FORM CONTAINS INDOLE GROUP EMBODYING ALLYLIC CARBAMATE RESIDUE. ANTIBIOTIC IS CYTOTOXIC & CARCINOGENIC BUT IS INACTIVE AS CYTOTOXIC AGENT UNLESS REDUCED ... IT ACTS AS DIFUNCTIONAL AGENT IN CROSS LINKING DNA."
+        },
+        {
+            "References": "Gilman, A.G., T.W. Rall, A.S. Nies and P. Taylor (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 8th ed. New York, NY. Pergamon Press, 1990., p. 1247",
+            "Value": "The drug inhibits DNA synthesis and cross-links DNA at the N6 position of adenine and at the O6 and N2 positions of guanine. In addition, single-strand breakage of DNA is caused by reduced mitomycin; this can be prevented by free radical scavengers. Its action is most prominent during the late G1 and early S phases of the cell cycle."
+        },
+        {
+            "References": "McEvoy, G.K. (ed.). AHFS Drug Information 90. Bethesda, MD: American Society of Hospital Pharmacists, Inc., 1990 (Plus Supplements 1990)., p. 537",
+            "Value": "In high concentrations ... /mitomycin/ may ... inhibit RNA and protein synthesis."
+        },
+        {
+            "References": "PMID:3144287",
+            "Value": "The effect of mitomycin C on the biosynthesis of prostacyclin was tested in culture of human umbilical cord vein endothelial cells. A 30% inhibition of the thrombin-stimulated prostacyclin synthesis by mitomycin C was observed at concentrations of the same order as those found in mitomycin C treated patients (3 micrograms/ml as compared with the peak plasma concentration varying between 0.4 and 3.2 micrograms/ml. This inhibition was found for incubation times ranging from 15 to 30 min during which the cell viability was unaltered. Under these conditions it was found that the release of von Willebrand factor by the endothelial cell was unaffected. Since mitomycin C toxicity in man is expressed by a chronic hemolytic and uremic syndrome, the inhibitory capacity of mitomycin C on prostacyclin synthesis favors the hypothesis that a deficiency in prostacyclin synthesis leads to the development of this syndrome in man."
+        },
+        {
+            "References": "American Medical Association, Council on Drugs. AMA Drug Evaluations Annual 1994. Chicago, IL: American Medical Association, 1994., p. 2063",
+            "Value": "Inreased rates of reductive activation in hypoxic, relative to well-oxygenated, cells confer some preferential activity for mitomycin against hypoxic solid tumor cells. Chemical decomposition in a mildly acidic pH environment also may contribute to drug activation. Cytotoxicity is probably due to the inhibition of DNA synthesis that results from cross linking of DNA, although only 10% of the drug-DNA adductd are cross-links. Monofunctional alkylation accounts for the remaining 90% of the drug covalently bound to DNA. At high concentrations, RNA and protein synthesis also are inhibited."
+        },
+        {
+            "References": "American Medical Association, Council on Drugs. AMA Drug Evaluations Annual 1994. Chicago, IL: American Medical Association, 1994., p. 2062",
+            "Value": "Mitomycin also can participate in free radical reactions. It is cell cycle nonspecific but appears to be most active in the late G1 and early S phases. Decreased drug activation, increased inactivation by conjugation to glutathione, and increased DNA repair have been implicated in mitomycin resistance induced in cultered cell lines. Mitomycin also has induced multidrug resistance in one cell line."
+        },
+        {
+            "References": "Fantel AG et al; Teratology 45 (5): 510 (1992)",
+            "Value": "The embryotoxicity of three bioreducible cmpd was investigated in rats suing an in vitro system between days 10 and 11 of gestation. Embryos were cultured in either 5 or 20% 02. Although the schistosomicidal agent, nitridazole has not been shown to be a strong embryotoxicant in vivo, both antitumor agents, adriamycin and mitomycin C are potent teratogens. All three are known to undergo reductive bioactivation and under aerobic condition, each is believed to redox cycle. The order of embryotoxic potency was mitomycin C greater than adriamycin greater than nitridazole as determined either by embryolethality or dysmorphogenicity. ... While the dysmorphogenic potencies of adriamycin and nitridazole were incr respectively 3 and 4 fold by low 02, that of mitomycin was enhanced nearly 200 times. By contrast, effects on embryonic viability were relatively unchanged by oxygenation. These data suggest that there is no single dysmorphogenic mechanism for these agents and that the dysmorphogenicity of mitomycin C and its embryolethality result from different activities."
+        },
+        {
+            "References": "PMID:7839373",
+            "Value": "Mitomycin C is a bifunctional alkylating agent used in cancer chemotherapy. Mitomycin C therapy occasionally results in pulmonary vascular injury, incl alterations in endothelial cells. Reactive metabolites of mitomycin C can cross-link DNA, and its cytotoxicity has been attributed in part to this capacity, but effects in vascular cells have not been explored extensively. Accordingly, the direct effects of mitomycin C on cultured porcine pulmonary artery endothelial cells (PECs) were examined. A single admin of mitomycin C (0-10 uM) to PEC monolayers resulted in concn-dependent cytolytic injury that was delayed in onset and progressive in nature. Cells treated at subconfluent densities were inhibited in their ability to proliferate. Mitomycin C treatment resulted in DNA cross-linking at concn (0.01-1 uM) that inhibited cell proliferation but caused only limited overt cytotoxicity, supporting an assoc between DNA cross-linking and impairment of cell division. This pattern of PEC injury is reminiscent of that seen after treatment with another pneumotoxic, bifunctional alkylating agent, monocrotaline pyrrole. The similarity of the endothelial cell response to different bifunctional alkylating agents suggests that DNA cross-linking may inhibit cell proliferation and thereby limit the repair capacity of endothelial monolayers."
+        },
+        {
+            "References": "PMID:8185826",
+            "Value": "The cytotoxicity of the potent antibiotic and antitumor agent mitomycin C is due to its irreversible binding to DNA. Alkylating species generated by bioreductive activation of mitomycin C are known to cause monoadducts and cross-links in DNA by specifically binding to guanine residues. To gain insight into how these lesions lead to base- and sequence-specific mutations, shuttle vector pSP189 was treated with mitomycin C chemically reduced by treatment with sodium borohydride, replicated in human Ad293 cells, rescued in bacteria, and analyzed for mutations in the supF tRNA gene sequence. The mitomycin C-induced mutations were predominantly base substitutions. Eighty-four percent of the base substitutions were transversions, with G:C-T:A the major transversion. Single base deletions were the other major mutational event, and 77% of these were G:C deletions. Base positions 115, 123, and 163 were mutational hot spots based on the frequency of independent mutations. Identification of a single mitomycin C adduct (presumed to be a modified G on the basis of its Rf value) and clustering of mitomycin C-induced mutations at three GC-rich areas (nt 100-123, 152-163, and 168-176) suggested that the mutational spectrum we found was due to binding of mitomycin C to guanine on either strand of the plasmid DNA."
+        },
+        {
+            "References": "PMID:8517871",
+            "Value": "The molecular cytotoxic mechanisms of mitomycin C and its analogs, BMY 25282 and BMY 25067, have been investigated using isolated hepatocytes as a model system for studying toxicity to nondividing tissues. These drugs have quinone and aziridine moieties, and tumor cell cytotoxicity has been attributed to DNA alkylation and cross-linking. By contrast, the following results suggest that these drugs cause oxidative stress in nondividing cells by different mechanisms. Both hepatocytes or hepatic microsomes and NADPH were able to catalyze oxygen activation by all three drugs, suggesting that enzymatic reduction results in the formation of auto-oxidizable species. Their relative effectiveness at activating oxygen was BMY 25282 >> BMY 25067 > mitomycin C. However, their relative cytotoxic effectiveness was BMY 25067 >> BMY 25282 > mitomycin C, and it was incr markedly if hepatocyte glutathione-reductase or catalase was inactivated. Furthermore, ascorbate incr the toxic potencies of both BMY 25282 and mitomycin C in catalase-inactivated hepatocytes by as much as 60- and 40-fold, respectively. Hepatocyte glutathione oxidation was also incr. The relative resistance of normal hepatocytes to mitomycin C and BMY 25282 can be attributed therefore, to the high levels of enzymes in hepatocytes involved in hydrogen peroxide detoxification. ... Furthermore, BMY 25067, unlike mitomycin C and BMY 25282, caused a rapid decr in hepatocyte ATP levels and inhibited mitochondrial respiration."
+        }
+    ]
+}

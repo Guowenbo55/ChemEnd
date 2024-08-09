@@ -1,0 +1,86 @@
+{
+    "_id": {
+        "$oid": "6682e8f6c4e5dba5ffba2839"
+    },
+    "CID": {
+        "$numberInt": "11597"
+    },
+    "Name": "1-HEXENE",
+    "IUPACName": "hex-1-ene",
+    "CanonicalSMILES": "CCCCC=C",
+    "Synonyms": [
+        "1-HEXENE",
+        "Hex-1-ene",
+        "592-41-6",
+        "Hexene",
+        "Hexene-1",
+        "1-n-Hexene",
+        "Butylethylene",
+        "Hexylene",
+        "Butyl ethylene",
+        "Dialene 6",
+        "n-Hexene",
+        "Linealene 6",
+        "Hexene",
+        "1-",
+        "NSC 74121",
+        "HSDB 1079"
+    ],
+    "IsomericSMILES": "CCCCC=C",
+    "INCHI": "InChI=1S/C6H12/c1-3-5-6-4-2/h3H,1,4-6H2,2H3",
+    "INCHIKEY": "LIKMAJRDDDTEIG-UHFFFAOYSA-N",
+    "Formula": "C6H12",
+    "MolecularWeight": {
+        "$numberDouble": "84.16"
+    },
+    "Description": "1-hexene is an alkene that is hexane carrying a double bond at position 1.",
+    "XlogP": {
+        "$numberDouble": "3.4"
+    },
+    "Complexity": {
+        "$numberInt": "29"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR Fundamentals and Applications in Chemistry and Biology. Washington, DC: Amer Chem Soc (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-672 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 81 was calculated for 1-hexene(SRC), using a log Kow of 3.39(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is moderate."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Japan Chemical Industry Ecology - Toxicology and Information Center. ISBN 4-89074-101-1 (1992) (2) Boethling RS et al; Environ Sci Technol 28: 459-65 (1994)",
+            "Value": "Using an activated sludge and the Japanese MITI test, 67-98% of the theoretical BOD was achieved for 1-hexene during a 4 week incubation period(1). 1-Hexene's linear hydrocarbon structure would suggest that biodegradation is an important process in soil and water(2)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Rasmussen T et al; Chemosphere 27: 2123-25 (1993)",
+            "Value": "1-Hexene was identified, not quantified, in mussels near Holbaek, Holland(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 23",
+            "Value": "log Kow= 3.39"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "PMID:2737108",
+            "Value": "The toxicity of shale oil components, including 1-hexene, to a mixed marine bacterial culture was assessed using an acute static bioassay protocol. Of the aliphatic cmpd studied, only 1-hexene exerted a toxic effect with a log EC10 of -0.49 m/l. However, the calc log EC15 of 0.46 indicates a value > 100% saturation, therefore, 1-hexene was designated not toxic up to levels of 100% saturation in sea water."
+        },
+        {
+            "References": "Clayton, G.D., F.E. Clayton (eds.) Patty's Industrial Hygiene and Toxicology. Volumes 2A, 2B, 2C, 2D, 2E, 2F: Toxicology. 4th ed. New York, NY: John Wiley & Sons Inc., 1993-1994., p. 1249",
+            "Value": "The minimal concentration causing CNS depression in mice was 2.9% or 29,100 ppm, and the minimal fatal concentration was 4.08% or 40,800 ppm."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR Fundamentals and Applications in Chemistry and Biology. Washington, DC: Amer Chem Soc (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of 1-hexene is estimated as 1,660(SRC), using a log Kow of 3.39(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that 1-hexene is expected to have low mobility in soil."
+        }
+    ]
+}

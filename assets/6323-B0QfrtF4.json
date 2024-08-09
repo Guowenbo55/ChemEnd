@@ -1,0 +1,261 @@
+{
+    "_id": {
+        "$oid": "6682e83ec4e5dba5ffba249f"
+    },
+    "CID": {
+        "$numberInt": "6323"
+    },
+    "Name": "Methyl bromide",
+    "IUPACName": "bromomethane",
+    "CanonicalSMILES": "CBr",
+    "Synonyms": [
+        "Bromomethane",
+        "METHYL BROMIDE",
+        "74-83-9",
+        "Terabol",
+        "Monobromomethane",
+        "Methane",
+        "bromo-",
+        "methylbromide",
+        "Curafume",
+        "Embafume",
+        "CH3Br",
+        "Methylbromid",
+        "Pestmaster",
+        "Bercema",
+        "Celfume",
+        "Iscobrome"
+    ],
+    "IsomericSMILES": "CBr",
+    "INCHI": "InChI=1S/CH3Br/c1-2/h1H3",
+    "INCHIKEY": "GZUXJHMPEANEGY-UHFFFAOYSA-N",
+    "Formula": "CH3Br",
+    "MolecularWeight": {
+        "$numberDouble": "94.94"
+    },
+    "Description": "Bromomethane is a one-carbon compound in which the carbon is attached by single bonds to three hydrogen atoms and one bromine atom. It is produced naturally by marine algae. It has a role as a fumigant insecticide, a marine metabolite and an algal metabolite. It is a member of methyl halides, a member of bromomethanes and a bromohydrocarbon.",
+    "XlogP": {
+        "$numberDouble": "1"
+    },
+    "Complexity": {
+        "$numberInt": "2"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Laturnus F; Chemosphere 31: 3387-3395 (1995)",
+            "Value": "The release of methyl bromide by polar macroalgae (Phaeophyta (brown), Rhodophyta (red) and Chlorophyta (green) species native to King George Island, Antarctic; green species native to Spitsbergen and Disko Island, Greenland) was investigated at 0 \u00b0C under a laboratory setting(1).",
+            "Table": "[{'Family': 'Phaheophyta', 'Genus speices': 'Himantothallus grandifolius', 'Origin': 'King George Island', 'Release rate (ng/g wet algae wt/day)': '25'}, {'Family': nan, 'Genus speices': 'Desmarestiia anceps', 'Origin': 'King George Island', 'Release rate (ng/g wet algae wt/day)': '4'}, {'Family': nan, 'Genus speices': 'Phaeurus antarcticus', 'Origin': 'King George Island', 'Release rate (ng/g wet algae wt/day)': '60'}, {'Family': nan, 'Genus speices': 'Ascoseira mirabilis', 'Origin': 'King George Island', 'Release rate (ng/g wet algae wt/day)': 'not detected'}, {'Family': 'Phodophyta', 'Genus speices': 'Pamaria decipiens', 'Origin': 'King George Island', 'Release rate (ng/g wet algae wt/day)': 'not detected'}, {'Family': nan, 'Genus speices': 'Iridaea cordata', 'Origin': 'King George Island', 'Release rate (ng/g wet algae wt/day)': '2'}, {'Family': 'Chlorophyta', 'Genus speices': 'Urospora penicilliformis', 'Origin': 'King George Island', 'Release rate (ng/g wet algae wt/day)': '0'}, {'Family': nan, 'Genus speices': 'Acrosiphonia arcta', 'Origin': 'King George Island', 'Release rate (ng/g wet algae wt/day)': '0'}, {'Family': nan, 'Genus speices': 'Urospora penicilliformis', 'Origin': 'Spistbergen', 'Release rate (ng/g wet algae wt/day)': '0'}, {'Family': nan, 'Genus speices': 'Acrosiphonia arcta', 'Origin': 'Disko Island', 'Release rate (ng/g wet algae wt/day)': '4.5'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 3 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Nov 29, 2018: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for methyl bromide(SRC), using a log Kow of 1.19(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Nov 29, 2018: https://www.safe.nite.go.jp/english/db.html (2) Miller LG et al; Appl Environ Microbiol 63: 4346-54 (1997)",
+            "Value": "AEROBIC: Methyl bromide, present at 5.01 mg/L, reached 17% of its theoretical BOD in 4 weeks using a sludge inoculum at 1 drop/L in a biodegradation test(1).  The oxidation of 14C-methyl bromide to 14CO2 was measured in field experiments with soils collected from two strawberry plots fumigated with mixtures of methyl bromide and chloropicrin. Degradation of methyl bromide by chemical and/or biological processes accounted for 20 to 50% of the loss of methyl bromide during fumigation. Oxidation was by direct bacterial attack of methyl bromide and not of methanol (a product of chemical hydrolysis). Repeated addition of methyl bromide to live soils resulted in higher rates of removal, suggesting that soil bacteria used methyl bromide as an electron donor for growth(2)."
+        },
+        {
+            "References": "(1) Oremland RS et al; Environ Sci Technol 28: 514-20 (1994)",
+            "Value": "ANAEROBIC: Methyl bromide was anaerobically degraded in salt marsh sediments after chemical reaction with abundant free sulfide. The product of this nucleophilic substitution reaction was methanethiol, which underwent further chemical and bacterial reactions to form dimethyl sulfide(1)."
+        },
+        {
+            "References": "(1) Haber CL et al; Science 221: 1147-53 (1983) (2) Stirling DI, Dalton J Gen Microbial 116: 227-83 (1980) (3) Patel RN et al; Appl Environ Microbial 44: 1130-37 (1982) (4) Stirling DI, Dalton H; Fems Microbial Lett 5: 315-8 (1979) (5) Harper DB et al; Environ Sci Technol 34: 2525-7 (2000) (6) Goodwin KD et al; Appli Environ Microbiol 71: 3495-503 (2008)",
+            "Value": "PURE CULTURE: Methylotrophic bacteria are capable of oxidizing methyl bromide(1,2). Methyl bromide was oxidized to formaldehyde by a soluble methane monooxygenase isolated from Methylbacterium sp. CRL-26(3). Cell-free extracts and whole cell suspensions of Methylococcus capsulatus oxidized methyl bromide to formaldehyde(2,4), but Methylococcus capsulatus was unable to grow on methyl bromide(2). Methyl bromide was rapidly catalyzed to methyl chloride under anaerobic and microaerophilic seawater conditions when incubated with soil bacterium srain CC495. Under aerobic conditions 97% of the methyl bromide was oxidized in 40 minutes(5). A marine Sphingomonadaceae bacteria was shown to degrade methyl bromide in the presence of toluene despite the latter as having been shown to inhibit biodegradation of methyl bromide in coastal and open seawater samples(6)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 3",
+            "Value": "log Kow = 1.19"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5: 16",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Toxic response appears to differ significantly between test animal strains and species (65). The 8 hr /inhalation/ survival dose for rats was reported to be approximately 1 mg/L (260 ppm). Rats survive 5200 ppm for 6 min and 2600 ppm for 24 min. The 6-hr survival dose for rabbits is approximately 2 mg/L (520 ppm). The authors studied rats, rabbits, guinea pigs, and monkeys. They described the response of most animals as typically one of lung irritation. If the exposure was severe enough, this resulted in lung edema and usually a typical confluent bronchial pneumonia."
+        },
+        {
+            "References": "USEPA; Ambient Water Quality Criteria Doc: Halomethanes p.C-36 (1980) EPA 440/5-80-051",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Toxic responses in rabbits administered bromomethane sc (in oil) at 20-120 mg/kg included limb paralysis, cessation of drinking, reduced urine excretion. Levels >50 mg/kg sharply increased the blood bromide level & reduced platelets, serotonin, & water content."
+        },
+        {
+            "References": "Alexeef G et al; J Tox Env Health 15: 109-23 (1985)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ A laboratory study was conducted to determine the acute toxic effects in Swiss Webster mice after a one hr inhalation exposure to methyl bromide. Groups of 6 mice were exposed to 0, 0.87, 1.72, 2.20, 2.70, 3.50, 3.82, 4.70, 5.77, or 5.93 mg/L. Animals exposed to 3.50 mg/l or more exhibited kidney lesions. Animals with exposure to 2.20 or 2.70 mg/L showed decreased lung and liver weight. Liver lesions appeared in animals exposed to 4.70 mg/L. Animals exposed to 5.77 mg/L developed decreased motor coordination. The 1 hr LC50 for methyl bromide in mice was 4.68 mg/L (1200 ppm). The dose response curve was quite steep and the LC10 to LC90 of mortality was within a doubling of concentration."
+        },
+        {
+            "References": "PMID:2447477",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Rats received a single 8 hr exposure to methyl bromide, and the amines and metabolities were separated by a reverse-phase HPLC and were quantified via native fluorescence. An exposure to 100 ppm methyl bromide decreased tissue levels of dopamine and norepinephrine in all brain areas at 0 or 2 hr following exposure. Homovanillic acid and 3-methoxy-4-hydroxyphenylglycol contents were significantly increased in almost all brain regions. In a second study, rats were exposed to four concentrations of methyl bromide ranging from 31-250 ppm, and monoamine and metabolite levels in brain regions measured immediately after the exposure. There were dose-dependent decreases of dopamine and norepinephrine, and increases in homovanillic acid and 3-methoxy-4-hydroxyphenylglycol. Less clear changes in serotonin and 5-hydroxyindoleacetic acid contents were observed."
+        },
+        {
+            "References": "Hurtt ME et al; Fundam Appl Toxicology 9 (2): 352-65 (1987)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Groups of 10 male F344 rats (11-13 wk old) were exposed to 0, 90, 175, 250, or 325 ppm methyl bromide 6 hr/day for 5 days. Animals were anesthetized with phenobarbital then perfusion fixed 1-2 hr after the last exposure or in extremis (325 ppm, 4 days) with Karnovsky's fixative and selected tissues were processed for light microscopy. With the exception of the nasal passages, tissues were selected on the basis of previous studies with methyl chloride. The principal clinical signs, confined to the 250 and 325 ppm groups, were diarrhea, hemoglobinuria, and, in a few cases, gait disturbances and convulsions. A dose-dependent vacuolar degeneration of the zona fasciculata of the adrenal glands, cerebellar granule cell degeneration, and nasal olfactory sensory cell degeneration were seen in all concn groups except at 90 ppm. Cerebral cortical degeneration and minor alterations in testicular histology were seen only in the 325 ppm group. Hepatocellular degeneration was confined to the 250 and 325 ppm groups. No changes were seen in the kidney or epididymis."
+        },
+        {
+            "References": "Kato W et al; Indust Health 24 (2): 87-103 (1986)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Effects of methyl bromide on organ systems were measured with specific attention given to body weight changes, organ weight changes, general condition and hematological changes, residual bromide ion concentration and histopathological changes in male Sprague Dawley rats exposed to methyl bromide through inhalation at concentrations of 502, 622, 667, 699, and 896 ppm. Single exposures were for 4 hr periods. Additional rats were exposed to 701, 767, 808, 817, and 832 ppm concentration levels. Subacute toxicity exposures were at 150, 200, 300, or 400 ppm. The median lethal concentration for rats after 4 hr exposure was 780 ppm. In subacute and chronic toxicity studies neurological manifestations of paralysis of extremities and ataxia were noted after 300 ppm and 400 ppm exposure. Necrosis in the brain occurred at 400 ppm. Necrosis of the heart occurred at all concentrations. At 200, 300, and 400 ppm exposures, the kidney had the highest concentration. An unknown biochemical mechanism results in the metabolism of methyl bromide to bromide ion. Liver concentrations of methyl bromide were lower than either the liver or the brain. At 150 ppm levels the total lipid and nonesterified fatty acids in blood had decreased. Exposure to 150 ppm caused small focal necroses and fibrosis replacement in the heart muscle."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 610",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Experimental exposure of a rabbit's eye to pure methyl bromide gas at room temperature for one and one half minutes caused immediate loss of surface luster, followed in several hours by loss of corneal epithelium, and much edema of the conjunctivae and lids. A day later the corneal stroma was bluish, much swollen, and nearly opaque, but within five days the cornea started to clear."
+        },
+        {
+            "References": "PMID:10441232",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ /Researchers/ used the inhalation of methyl bromide gas to produce a near-complete destruction of the rat olfactory epithelium and analyzed the reinnervation of the bulb during reconstitution of the epithelium. The degeneration of olfactory axons elicits a transient up-regulation of glial cell proliferation and glial fibrillary acidic protein expression in the olfactory nerve and olfactory nerve layer of the bulb. Anterograde transport after intranasal infusion of wheat germ agglutinin conjugated horseradish peroxidase demonstrates that the first nascent axons reach the bulb within the first week after lesion. Subsequently, a massive wave of fibers arrives at the bulb between 1 and 2 weeks postlesion, and enters the glomeruli between 2 and 3 weeks postlesion. However, the olfactory projection does not stabilize until 8 weeks after lesion judging from the return in growth associated protein-43 expression to control levels. The extent of reinnervation after lesion is correlated with the completeness with which the epithelium reconstitutes itself. In rats that are lesioned while fed ad libitum, there is near-complete reconstitution of the neuronal population, and the projection onto the bulb fills the glomerular layer in its entirety. However, in rats that are lesioned while food restricted, a significant fraction of olfactory epithelium becomes respiratory during its reconstitution, and the population of reinnervating fibers is less. As a consequence, the posterior half of the bulb remains hypoinnervated overall and denervated at its caudal margin. ... Accordingly, we hypothesize that the persistence of a significant population of pre-existing neurons is needed to preserve receptotopy during reinnervation. In addition, the results suggest that in the face of massive turnover and a reduced afferent population, there is a tendency for reinnervating axons to fill available synaptic space."
+        },
+        {
+            "References": "PMID:10741475",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Methyl bromide was experimentally exposed to a 12 SQ cm area of the back skin of Wistar rats for 30 sec, and for 1, 3, and 5 min, and time courses of both changes in plasma bromide concentration and of histopathological changes were examined. The concentration of plasma bromide ion showed a sharp increase immediately after the exposure in all exposed groups, reaching a peak level after 1 hr, then decreased rapidly. The ion level gradually decreased after 72 hr to 1 week, and returned to a normal level after 4 to 8 weeks. Calculating from a regressive curve, the biological half lives of plasma bromide ion were 5.0 days to 6.5 days. Histopathologically, the impairments to the epidermal cells, fibroblasts and blood vessels were observed in the early phase. These cellular changes could be due to the direct cytotoxicity of the compound. In the next phase, newly infiltrating cells showed degeneration and necrosis. Subsequently, an impairment of the collagen bundles was observed."
+        },
+        {
+            "References": "Miyagawa M; Toxicol Lett (AMST) 10 (4): 411-6 (1982)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rats kept under a water deprivation schedule for 7 days were permitted access to 0.3% (wt/vol) sodium saccharin soln & were exposed to methyl bromide at 0, 25, 50 & 100 ppm for 4 hr. Three days after exposure, a dose-dependent saccharin aversion was noted in the treated animals."
+        },
+        {
+            "References": "PMID:7423558",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rats were exposed to methyl bromide (MB) at concentrations of 200 ppm and 300 ppm, 4 hr per day, 5 times weekly, for 3 weeks. After the final exposure, behavioral tests for emotional response equilibrium function, the function of the peripheral nerve and the circadian rhythm of spontaneous activity were performed. Relatively prolonged dysfunction of the peripheral nerve as well as disturbance of the circadian rhythm of spontaneous activity were observed."
+        },
+        {
+            "References": "PMID:3764933",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Six week old male Wistar rats were treated with the agent by gavage at the rate of 50 mg/kg five times per week, either for 13 weeks with a 12 week recovery period or continuously for a period of 25 weeks. Treatment caused significant reduction in weight gain; stoppage of treatment resulted in significantly greater body weight gain as compared to rats on continuous treatment. The stomach of rats treated for 13 weeks had numerous abdominal adhesions. The forestomach at the greater curvature adhered to the liver, spleen and diaphragm and was extremely contracted. Animals treated up to 25 weeks presented similar features while the stop treatment group still had peritoneal adhesions, but the stomach was less contracted. In methyl bromide treated rats, microscopy revealed inflamation, fibrosis, acanthosis and pseudoepithelimatous hyperplasia of the forestomach. Mild acanthosis of the esophagus was evident after 25 weeks of continuous exposure. Discontinuation of methyl bromide was associated with a forestomach epithelium that had fewer cell layers than that of the continuous treatment group and a lower incidence of hyperplastic lesions. One animal in the 25 week group had a severe dysplastic lesion with high mitotic activity, which was classified as an early carcinoma."
+        },
+        {
+            "References": "Sato M et al; Indust Health 23 (3): 235-8 (1985)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ The subacute effects of continuous exposure to methyl bromide on the heart, liver, lung, and blood were examined in male Sprague Dawley rats. Animals were exposed through continuous inhalation for 3 weeks of 1, 5, or 10 ppm methyl bromide. Rats were sacrificed within 1 hr after end of exposure, and organs were weighed and biochemical examinations were performed on the blood and the homogenates of heart, liver, and lung. No differences were seen between rats given the 1 ppm concentration and control rats. Rats in the 5 ppm group showed several changes; blood glucose, thymus weight, and creatine phosphokinase decreased, while blood hemoglobin, reduced glutathione, serum total protein, and glutamic pyruvic transaminase increased after exposure. Animals receiving 10 ppm showed many changes. An increase was observed in: serum glutamic oxaloacetic transaminase, lactate dehydrogenase, total protein, blood hemoglobin, reduced glutathione, and glutamic pyruvic transaminase. Decreases were noted in: serum cholinesterase, creatine phosphokinase, triglyceride, free cholesterol lactate, blood glucose, heart lactate, glucose, free fatty acids and glyocgen."
+        },
+        {
+            "References": "PMID:7330628",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ One group of rats and rabbits was exposed to 65 ppm of methyl bromide for a total exposure of four 25-hr weeks, or 100 hr, and rats were exposed to 55 ppm of methyl bromide for a total exposure of 36 30-hr weeks, or 1,080 hr. Comparable control groups were given similar treatment, but no exposure. Behavioral tests of open field activity and limb coordination were conducted weekly during both phases of the experiment with rats, and eyeblink reflexes were measured weekly in rabbits. Nerve conduction velocity measurements were taken weekly from both rats and rabbits during the 65-ppm four-week exposures and monthly from rats during the 55-ppm 40-week exposures. Exposure to 65 ppm for four weeks significantly reduced eyeblink responses and nerve conduction velocity in rabbits but had no effect on rats. Exposure to 55 ppm of methyl bromide for 36 weeks had no effect on nerve conduction velocity, open-field activity, or coordination in rats."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V41 196 (1986)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ It was reported ... that oral admin of 25 & 50 mg/kg body wt methyl bromide (purity unspecified) in peanut oil, admin by gavage for periods of 20, 60, 90 & 120 days, caused ulceration & epithelial hyperplasia of the forestomach in rats (number, strain, age, wt & sex unspecified) without evidence of malignancy."
+        },
+        {
+            "References": "PMID:6695375",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Methyl bromide (soil fumigant) administered by oral gavage as a solution in arachis oil was carcinogenic to rats in a 90 day experiment. In 13 of 20 animals of the highest dose group, 50 mg methyl bromide/kg body wt, squamous cell carcinomas of the forestomach developed. All animals of this group showed a marked diffuse hyperplasia of the epithelium of the forestomach. A less pronounced hyperplasia was observed in high and lower incidence with, respectively, 10 and 2 mg methyl bromide/kg body wt. The lowest dose, 0.4 mg methyl bromide/kg body wt was without effects."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5: 21",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ In the 29-month study male and female-rats were exposed to 0, 3, 30, or 90 ppm of methyl bromide gas 6 hr/days 5 days/week. Ten rats per sex were killed at 13, 52, and 104 weeks for interim information. Mortality was increased at week 114 but only in the 90 ppm group, which also had lowered body weights. Increased incidences of degenerative and hyperplastic changes in the nasal olfactory epithelium were observed in a dose-related manner in all groups. The lesions did not appear to progress with time. Exposure to 90 ppm was associated with an increased incidence of thrombi and myocardial degeneration-in the hearts and hyperkeratosis in the esophagus and forestomach."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V71 724 (1999)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 50 male and 50 female Fischer 344/DuCrj rats, six weeks of age, were administered methyl bromide (purity, > 99.9%) by whole body inhalation at concentrations of 0 (controls), 4, 20 or 100 ppm (0, 16, 78 or 389 mg/cu m) for 6 hours per day on five days per week for 104 weeks. At week 105, all surviving animals were killed. Necropsy was performed on all animals and all organs were examined histologically. Survival at week 104 was 34/50, 34/50, 31/50 and 33/50 in control, low-, mid- and high-dose males and 42/49, 38/50, 39/50 and 41/50 in control, low-, mid- and high dose females, respectively. The incidence of adenomas of the pituitary gland was significantly increased in high-dose males compared with controls (16/50, 23/50, 19/50 and 30/50 in control, low-, mid-, and high-dose, respectively; p < 0.01, chi-square test). In females, no increase in the incidence of tumors related to treatment was observed."
+        },
+        {
+            "References": "Mitsumori K et al; Food and Chemical Toxicology 28 (2): 109-19 (1990)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ The chronic oral toxicity and carcinogenicity of methyl-bromide were examined in rats. Fischer-344-rats were fed a standard diet that had been fumigated with methyl-bromide to yield total bromine concentrations of 80, 200, or 500 parts per million (ppm) for 2 years. Controls were fed an unfumigated diet or a diet containing 500 ppm potassium-bromide. Body weight and feed and water consumption were monitored. Selected rats given the 500 ppm bromine containing diet were given ophthalmological examinations before the examination and after 104 weeks. The rats were observed for clinical signs of toxicity. Urine samples collected at 52 and 104 weeks were assayed for standard urine chemistry parameters. Selected rats were killed at 52 weeks and all surviving rats were killed at 104 weeks and necropsied. Blood samples collected at necropsy were assayed for standard hematological and clinical chemistry parameters. Male rats fed the fumigated diet containing 500 ppm bromine had slight significant decreases in body weight gain. No other treatment related changes were noted. Males and females in the 500 ppm bromine group revealed transient increases in food and water consumption. No treatment related ophthalmological changes were noted. No significant treatment related changes in hematological or blood and urine chemistry parameters were detected. Male rats fed the 500 ppm bromine fumigated diet had a significantly increased incidence of hair loss. Relative liver, kidney, and brain weights were increased in these animals. A variety of age related nonneoplastic lesions and spontaneous neoplasms was noted in all groups. Focal fatty changes in the adrenal cortex of female rats were the only lesions that indicated a dose related increase. The authors conclude that methyl-bromide fumigated diets containing up to 500 ppm bromine are not carcinogenic to Fischer-344-rats."
+        },
+        {
+            "References": "PMID:9687964",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ ... A 1-yr feeding study in beagle dogs was conducted as a safety study, in which the high-dose diet was intended to yield a methyl bromide dose of at least 100 times the calculated human dietary exposure. Diets were fumigated with MB /methyl bromide/ and fed to the dogs daily, except for weekends and holidays. MB consumption each feeding day was calculated as a time weighted average (TWA) that accounted for the rate of degassing from the fumigated diet and the rate of feed consumption during the feeding period. TWA compound consumption in the low-, mid- and high-dose groups, respectively, averaged 0.06 + or - 0.02, 0.13 +/- 0.03 and 0.28 + or - 0.08 mg/kg/day in males and 0.07 + or - 0.03, 0.12 + or - 0.03 and 0.27 + or - 0.09 mg/kg/day in females. Clinical observations, body weight and feed consumption, ophthalmology, clinical pathology, urinalysis, organ weights and macroscopic and microscopic pathology were comparable in control and MB-treated dogs. Under the conditions of this study, the no-observed-effect level (NOEL) for MB was at least 0.28 mg/kg/day, or approximately 200 times the expected average human dietary exposure."
+        },
+        {
+            "References": "PMID:3371587",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Adult male F344 rats (11-13 wk) were exposed by inhalation to 0 or 200 ppm methyl bromide 6 hr/day for 5 days (first day of exposure= day 1). Ten animals from each group were anesthetized with pentobarbital and terminated on days, 1, 3, 5, and 8. Additional, 5 males from each group were killed on days 6, 10, 17, 24, 38, 52, and 73. Plasma testosterone concn was reduced during and immediately following exposure (days 1, 3, 5, and 6), but returned to control levels by day 8. Nonprotein sulfhydryl content of the liver and testis was reduced during exposure but returned to control levels by day 8 (3 days postexposure). No other reproductive indexes, including testis wt, daily sperm production, cauda epididymal sperm count, sperm morphology, percentage motile sperm, linear sperm velocity, and epididymal and testicular histology were affected by methyl bromide exposure at any time point examined."
+        },
+        {
+            "References": "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 2, 2nd ed. 2001. Academic Press, San Diego, California., p. 1841",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Pregnant female Wistar rats were exposed to methyl bromide concentrations of 0, 20, or 70 ppm for 7 hr/day on gestation days 1 to 19. In addition, some groups were exposed pregestationally to 20 or 70 ppm for 3 weeks (5 days/week) immediately prior to mating. The distribution of dose groups pregestational exposure concentration /gestational exposure concentration was 0/0, 0/20, 0/70, 20/0, 20/20, 70/0, and 70/70 ppm. Cesarean sacrifice was performed on gestation day 19. No clinical evidence of maternal toxicity, fetoxicity or developmental toxicity was observed in any exposure scenario."
+        },
+        {
+            "References": "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 2, 2nd ed. 2001. Academic Press, San Diego, California., p. 1841",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Artificially inseminated New Zealand white rabbits (24 per group) were exposed daily on gestation days 1 through 24 to methyl bromide concentrations of 0 and 20 ppm, a group of inseminated rabbits exposed to 70 ppm methyl bromide were terminated due to excessive mortality and neurotoxicity characterized by convulsions and paresis in the hind limbs seen after one week of treatment. Control and 20 ppm exposed rabbits were sacrificed on gestation day 30. No fetoxicity nor developmental toxicity was noted in the 20 ppm group."
+        },
+        {
+            "References": "PMID:9662417",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Methyl bromide was dissolved in corn oil and administered orally to groups of 24 copulated female Crj:CD (SD) rats at dose levels of 0 (corn oil), 3, 10 or 30 mg/kg/day on days 6-15 of gestation and to groups of 18 artificially inseminated female Kbl:JW rabbits at 0, 1, 3 or 10 mg/kg/day on days 6-18 of gestation. Maternal rats and rabbits were euthanized on respective days 20 and 27 of gestation. Fetuses were examined for survival, growth and teratological alterations. Maternal toxicity was evident in the high-dose groups for both species. In these groups, maternal body weight gains and food consumption were significantly decreased during the dosing and post-dosing periods. Necropsy of maternal rats also revealed erosive lesions in the stomach and the surrounding organs. However, no treatment-related adverse effects were found in fetuses of the treated groups for both rat and rabbit studies. ... Methyl bromide was not fetotoxic or teratogenic to rat and rabbit fetuses up to dose levels of 30 and 10 mg/kg/day, respectively, at which maternal toxicity was evident for both species."
+        },
+        {
+            "References": "PMID:25056730",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ The capacity of the peripheral olfactory system to recover after injury has not been thoroughly explored. P2-IRES-tauLacZ mice were exposed to methyl bromide, which causes epithelial damage and kills 90% of the P2 neurons. With subsequent neuronal regeneration, P2 neurons recover within their usual territory to equal control numbers by 1 month but then decline sharply to roughly 40% of control by 3 months. At this time, the P2 projection onto the olfactory bulb is erroneous in several respects. Instead of converging onto 1 or 2 glomeruli per surface, small collections of P2 axons innervate multiple glomeruli at roughly the same position in the bulb as in controls. Within these glomeruli, the P2 axons are aggregated near the edge, whereas the remainder of the glomerulus contains olfactory marker protein (+), non-P2 axons, violating the one receptor-one glomerulus rule normally observed. The aggregates are denser than found in control P2-innervated glomeruli, suggesting that the P2 axons may not be synaptically connected. Based on published literature and other data, we hypothesize that P2 neurons lose out in an activity-based competition for synaptic territory within the glomeruli and are not maintained at control numbers due to a lack of trophic support from the bulb."
+        },
+        {
+            "References": "PMID:11498799",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Rats were exposed to 290 or 495 ppm methyl bromide gas for 6 hr/day, 3 times/wk for 4 to 8 wk. Creatine kinase (CK), aspartate aminotransferase (ASAT), and lactate dehydrogenase (LDH) activities and bromide ion concentrations were measured in eight regions of the brain. Methyl bromide gas inhibited CK activities in all regions of the brain, though the inhibition tended to be smallest in the cerebellum (hemisphere and vermis) and largest in the brainstem (hypothalamus, midbrain, and medulla oblongata). The dose of methyl bromide to inhibit CK activities was lower than that to damage the central nervous system histologically. No inhibition of ASAT or LDH activities was seen except for a slight inhibition of these in striatum. Inhibition of CK activities did not increase clearly on increasing dose (290 to 495 ppm) or on prolonging exposure period (4 to 8 wk). Although 50% recovery of CK activities and the half-life of bromide ion agreed well in the medulla oblongata, changes in CK activities and bromide ion concentrations did not correlate otherwise. Thus, inhibition of CK activities in brain appears to be a sensitive indicator of methyl bromide intoxication, and may be related to genesis of its neurotoxicity. The inhibition seems to be caused by methyl bromide itself rather than by bromide ion. When effects on enzyme activities in brain homogenate were examined in vitro by bubbling with methyl bromide gas, CK inhibition was seen within 15 s of exposure. Dithiothreitol suppressed the CK inhibition, whereas N-acetylcysteine did not."
+        },
+        {
+            "References": "PMID:6502736",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Rabbits were exposed via inhalation to 27 ppm methyl bromide over a period of 8 mo for a total exposure duration of 900 hr. Biweekly neurobehavioral tests failed to uncover any untoward consequences of the exposures. Long term exposures to methyl bromide, in the present concn range, are tolerated by this species. After subchronic exposures to 65 ppm methyl bromide, rabbits developed severe neuromuscular losses & had impaired blink reflexes & body weights. The symptoms partially subsided within 6-8 wk after removal from the exposure."
+        },
+        {
+            "References": "PMID:10591518",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Methyl bromide was applied in aqueous solution to hippocampal slices of young rats (1.4 and 0.7 mM; for 8 minutes). Extracellular field recordings and intracellular microelectrode recordings from CA1 pyramidal neurons showed that the neurons stay viable for at least one hour after application of the mono-halomethane. However, a moderate, but consistent, irreversible decrease in synaptic excitability was observed. The intracellular recordings indicate that this may be attributed to a decrease in excitatory postsynaptic potentials. No effects were observed at 0.7 mM methyl bromide. Bromide, in a dose-dependent, partly reversible manner (during one hour), produced a similar decrease in excitability. Quantitatively, the action of bromide at 0.5 mM resembled the one seen with methyl bromide at the concentration of 1.4 mM. Since methyl bromide did not induce electrophysiologic changes consistent with evidence of neurotoxicity during one hour of observation it is concluded that it lacks immediate toxic effects on hippocampal rat neurons."
+        },
+        {
+            "References": "PMID:6129581",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Rats were exposed to methyl bromide (MB) gas for 24 hr or 3 weeks continuously. Norepinephrine (NE), dopamine (DA), serotonin (5-HT), acetylcholine (ACh), cyclic AMP (cAMP) and cyclic GMP (cGMP) contents in dissected brain regions were measured after MB exposure. MB produced remarkable reduction in NE contents of hypothalamus and cortex + hippocampus at 100 ppm or higher concentration after 24 hr exposure and at 10 ppm after 3 weeks exposure. At the same concentration of MB, DA, 5-HT and ACh contents were only slightly affected by the exposure. Change in neurotransmitter content was specific to NE. MB-induced changes in NE contents lasted for at least 24 hr after the cessation of exposure. cAMP was increased and cGMP was reduced by MB exposure. These results suggested that MB might have enhanced the stimulation of DA receptors and weakened the stimulation of ACh receptors in the brain."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V41 199 (1986)",
+            "Value": "/GENOTOXICITY/ Alkylation of guanine-N-7 in DNA of liver & spleen was observed after treatment of male CBA mice with (14)C methyl bromide (4.9-5.0 mCi/mmole) by inhalation."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V41 198 (1986)",
+            "Value": "/GENOTOXICITY/ Methyl bromide was mutagenic to Salmonella typhimurium TA100 when tested at concn of 0.02-0.2% in desiccators in absence of an exogenous metabolic system. ... A commercial prepn of methyl bromide (tested @ 0.5-5 g/cu m in a closed container) was mutagenic to Salmonella typhimurium TA1535 & TA100 (but not to TA1538 or TA98) & to Escherchia coli WP2 hcr in the absence of an exogenous metabolic system. An aqueous soln of methyl bromide (tested @ 0.5-6 mM) induced mutations to streptomycin independence in Escherchia coli SD-4."
+        },
+        {
+            "References": "USDA/Forest Service; Pesticide Background Statements Vol II Fungicides and Fumigants p.MB/C-25 (1986)",
+            "Value": "/GENOTOXICITY/ Mutagenic effects were observed in Drosophila melanogaster exposed to concentrations of 0.004 and 0.002 mmole/L after 30 and 90 hr exposures."
+        },
+        {
+            "References": "PMID:3918260",
+            "Value": "/GENOTOXICITY/ Methyl bromide was evaluated in the L5178Y mouse lymphoma cell TK gene mutation assay at a dose range of 0-2.5 ug/mL. The test protocol used met criteria established for this assay by the Gene Tox Program. The chemical was positive at the 2.5 ug/mL dose level without metabolic activation."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V41 199 (1986)",
+            "Value": "/GENOTOXICITY/ ... Micronuclei were induced in bone marrow cells of Fischer 344 rats & BDF1 mice & in peripheral blood cells of BDF1 mice exposed to methyl bromide by inhalation for 6 hr/day, 5 days/wk for 2 wk. In mice, the incidence of polychromatic erythrocytes with micronuclei in the bone marrow increased by 10 fold in males (200 ppm; 776 mg/cu m) & by 6 fold in females (154 ppm; 600 mg/cu m), & those in peripheral blood increased by 32 fold in males (200 ppm) & by 3 fold in females (154 ppm). In rats, the increases were 10 fold in males (338 ppm, 1211 mg/cu m) & 3 fold in females (338 ppm) /in bone marrow/."
+        },
+        {
+            "References": "Kramers PGN et al; Environ Sci Res 32: 65-73 (1985)",
+            "Value": "/GENOTOXICITY/ 1,2-Dichloroethane and methyl bromide were tested for mutagenicity in Drosophila melanogaster by inhalation exposure; both cmpd were mutagenic (standard sex-linked recessive lethal mutation) but the mutagenic affect of methyl bromide was most pronounced at the postmeiotic germ cell stage. Prolonged expsoure to the cmpd at lower concn caused mutation rates similar to those of higher concn at shorter exposure periods."
+        },
+        {
+            "References": "PMID:3116427",
+            "Value": "/GENOTOXICITY/ Methyl bromide was evaluated for genotoxicity in the somatic wing spot assay of Drosophila melanogaster. Third instar larvae trans-dihybrid for mwh and flr3 were exposed to varying concentrations (0-16 mg/L) of the gas for 1 hr. Following this exposure via inhalation, the larvae were placed into vials containing Instant Medium. Seven days after the exposure, the adult flies in the vials were collected and their wings were scored under 400X magnification for the presence of clones appeared as mwh-flr3 twin spots and single spots of either mwh or flr3 phenotype. Exposure to methyl bromide was found to result in the positive induction of both twin spots and large (greater than 2 cells) single spots. For each endpoint, a significant exponential association was obtained between concentration and frequency of spots per wing. Methyl bromide was found to be a negative inducer of small (1-2 cells) single spots at all concentrations except 16 mg/L where a positive effect was observed."
+        },
+        {
+            "References": "USDA/Forest Service; Pesticide Background Statements Vol II Fungicides and Fumigants p.MB/C-19 (1986)",
+            "Value": "/VETERINARY STUDIES/ Cats fed fumigated peanuts /containing methyl bromide/ at 0.5 to 1.25 mg/day for 4 months showed no changes in motor responses."
+        },
+        {
+            "References": "USDA/Forest Service; Pesticide Background Statements Vol II Fungicides and Fumigants p.MB/C-19 (1986)",
+            "Value": "/VETERINARY STUDIES/ Dogs fed fumigated pelleted food in doses equal to 35, 75 and 150 mg/kg/day for 6 to 8 wk were observed for 1 yr. Animals /which/ received 35 or 75 mg/kg/day showed no or minimal evidence of toxicity. Animals fed 150 mg/kg/day showed lethargy, occasional salivation, and diarrhea, but no changes in blood chemistry, hematology, urinary values, or histology."
+        },
+        {
+            "References": "USEPA; Ambient Water Quality Criteria Doc: Halomethanes p.C-36-7 (1980) EPA 440/5-80-051",
+            "Value": "/VETERINARY STUDIES/ Groups of cattle were fed oat hay from a bromomethane fumigated field or pelleted ration containing sodium bromide added at various concentrations. The hay contained bromide ion at concentrations of 6800 to 8400 mg/L. Groups fed the hay and highest dose rate of bromide in pelleted ration developed signs of CNS toxicity (motor incoordination) at 10 to 12 days of exposure. Serum bromide levels and neurologic signs were markedly reduced two weeks after termination of exposure. /Bromide ion/"
+        },
+        {
+            "References": "USDA/Forest Service; Pesticide Background Statements Vol II Fungicides and Fumigants p.MB/C-19 (1986)",
+            "Value": "/VETERINARY STUDIES/ A study on horses, goats and cattle fed hay contaminated with 6800 to 8400 ppm methyl bromide following fumigation showed difficulty in walking, locomotor impairment, listlessness, and /in some instances/ death."
+        },
+        {
+            "References": "USDA/Forest Service; Pesticide Background Statements Vol II Fungicides and Fumigants p.MB/C-21 (1986)",
+            "Value": "/VETERINARY STUDIES/ Cattle fed pelleted food containing 170, 511, 1062, 2633, and 4650 ppm methyl bromide for 49 days showed signs of intoxication (uncoordinated movement and gait), and recumbency."
+        },
+        {
+            "References": "USEPA; Ambient Water Quality Criteria Doc: Halomethanes p.C-22 (1980) EPA 440/5-80-051",
+            "Value": "/OTHER TOXICITY INFORMATION/ The toxicity of bromomethane is mediated by the bromomethane molecule itself and its reaction with tissues (methylation of sulfhydryl groups in critical cellular proteins and enzymes), rather than by the bromide ion residue resulting from breakdown of the parent compound. Bromomethane readily penetrates cell membranes while the bromide ion does not. Intracellular bromomethane reactions and decomposition result in inactivation of intracellular metabolic processes, disturbed function, and irritative, irreversible, or paralytic consequences."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Kuo MCT et al; Bull Environ Contam Toxicol 65: 654-9 (2000)",
+            "Value": "SOIL: Methyl bromide was detected in <1% of 705 soil samples taken from 30 industrial areas of Taiwan(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) USDA; ARS Pesticide Properties Database on Methyl Bromide (74-83-9). Available from, as of Nov 29, 2012: https://www.ars.usda.gov/Services/docs.htm?docid=14147 (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Gan J, Yates SR; J Agric Food Chem 44: 4001-8 (1996)",
+            "Value": "Reported Koc values for methyl bromide range from 9 to 22(1). According to a classification scheme(2), these Koc values suggest that methyl bromide is expected to have very high mobility in soil(SRC). The adsorption coefficient, Kd, for methyl bromide was below measurable for Greenfield sandy loam, Linne clay loam, and Carsetas loamy sand soils; Kd was equal to 0.2 for potting mix soil(3)."
+        }
+    ]
+}

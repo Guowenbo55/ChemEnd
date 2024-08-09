@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "6692712d303528b49832d839"
+    },
+    "CID": {
+        "$numberInt": "6422843"
+    },
+    "Name": "Pyraclostrobin",
+    "IUPACName": "methyl N-[2-[[1-(4-chlorophenyl)pyrazol-3-yl]oxymethyl]phenyl]-N-methoxycarbamate",
+    "CanonicalSMILES": "COC(=O)N(C1=CC=CC=C1COC2=NN(C=C2)C3=CC=C(C=C3)Cl)OC",
+    "Synonyms": [
+        "Pyraclostrobin",
+        "175013-18-0",
+        "Pyraclostrobine",
+        "Headline",
+        "Cabrio",
+        "Methyl (2-(((1-(4-chlorophenyl)-1H-pyrazol-3-yl)oxy)methyl)phenyl)(methoxy)carbamate",
+        "Pyrachlostrobin",
+        "BAS-500F",
+        "UNII-DJW8M9OX1H",
+        "DJW8M9OX1H",
+        "Pyraclostrobin [ISO:BSI]",
+        "CHEBI:78780",
+        "HSDB 7497",
+        "DTXSID7032638",
+        "F 500"
+    ],
+    "IsomericSMILES": "COC(=O)N(C1=CC=CC=C1COC2=NN(C=C2)C3=CC=C(C=C3)Cl)OC",
+    "INCHI": "InChI=1S/C19H18ClN3O4/c1-25-19(24)23(26-2)17-6-4-3-5-14(17)13-27-18-11-12-22(21-18)16-9-7-15(20)8-10-16/h3-12H,13H2,1-2H3",
+    "INCHIKEY": "HZRSNVGNWUDEFX-UHFFFAOYSA-N",
+    "Formula": "C19H18ClN3O4",
+    "MolecularWeight": {
+        "$numberDouble": "387.8"
+    },
+    "Description": "Pyraclostrobin is a carbamate ester that is the methyl ester of [2-({[1-(4-chlorophenyl)-1H-pyrazol-3-yl]oxy}methyl)phenyl]methoxycarbamic acid. A fungicide used to control major plant pathogens including Septoria tritici, Puccinia spp. and Pyrenophora teres. It has a role as a mitochondrial cytochrome-bc1 complex inhibitor, a xenobiotic, an environmental contaminant and an antifungal agrochemical. It is a member of pyrazoles, a carbamate ester, an aromatic ether, a member of monochlorobenzenes, a methoxycarbanilate strobilurin antifungal agent and a carbanilate fungicide.",
+    "XlogP": {
+        "$numberDouble": "4.1"
+    },
+    "Complexity": {
+        "$numberInt": "476"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The absorption, transport, and subcellular distribution of strobilurin fungicides (azoxystrobin, pyraclostrobin, and trifloxystrobin) were investigated in cucumbers. In hydroponic conditions, pyraclostrobin and trifloxystrobin mainly accumulated in cucumber roots, while azoxystrobin accumulated in leaves. Subcellularly, azoxystrobin accumulated as a soluble component, while pyraclostrobin and trifloxystrobin accumulated more in organelles and cell walls. Azoxystrobin and pyraclostrobin primarily entered roots via the apoplast pathway, whereas trifloxystrobin entered through the symplastic pathway. Azoxystrobin could be transported in cucumbers through anion and cation channels, while pyraclostrobin and trifloxystrobin were transported only through anion channels. This study is significant for evaluating environmental risks and food safety related to these fungicides.",
+            "reference": "Wang, X., An, K., Guo, Y., Li, Q., Liu, T., Liu, Y., & Feng, X. (2023). Uptake, Translocation, and Subcellular Distribution of Strobilurin Fungicides in Cucumber (Cucumis sativa L.). Journal of Agricultural and Food Chemistry, 71(49), 19324-19332.",
+            "method": {
+                "Test Plant": "Cucumber (Jingfeng No. 268)",
+                "Apply Location": "Hydroponic nutrient solution (root exposure)",
+                "Plant Grown Condition": "Seeds surface sterilized and germinated for 5 days at 25\u00b0C. Seedlings grown for 10 days in vermiculite/nutrient soil (3:1) at 250 \u03bcmol/m2/s, 16 h photoperiod. Selected uniform 30-day old seedlings with 10\u00b11 cm roots, 30\u00b11 cm shoots. Transplanted to polyvinyl chloride boxes with 4 L nutrient solution",
+                "Chemical Preparation": "Stock solutions of azoxystrobin, pyraclostrobin, and trifloxystrobin prepared. Concentrations of 0, 1, 2, 5, 10 mg/L used for uptake experiment",
+                "Pesticide Application Details for the Plant": "Uptake experiment: Seedlings exposed to fungicide-spiked nutrient solutions. 12 seedlings per 4 L treatment solution. For time course, 2 mg/L concentration based on preliminary results.",
+                "Other Information": "Sampling at 8 h, 1, 3, 5, 7, 14 days after fungicide exposure. Plants dissected into roots, stems, leaves; hydroponic solution also sampled. Triplicate treatment boxes per concentration/timepoint"
+            },
+            "result": "[{\"Days after application\": 0.3, \"Roots (mg/kg)\": 39.27, \"Stems (mg/kg)\": 0.31, \"Leaves (mg/kg)\": 0.04, \"Root translocation factor (kg/L)\": 35.21, \"TF(root-stem)\": 0.001, \"T(stem-leaf)\": 0.422}, {\"Days after application\": 1.0, \"Roots (mg/kg)\": 49.68, \"Stems (mg/kg)\": 0.67, \"Leaves (mg/kg)\": 0.16, \"Root translocation factor (kg/L)\": 58.8, \"TF(root-stem)\": 0.0014, \"T(stem-leaf)\": 0.444}, {\"Days after application\": 3.0, \"Roots (mg/kg)\": 34.79, \"Stems (mg/kg)\": 0.62, \"Leaves (mg/kg)\": 0.02, \"Root translocation factor (kg/L)\": 75.55, \"TF(root-stem)\": 0.0018, \"T(stem-leaf)\": 0.266}, {\"Days after application\": 5.0, \"Roots (mg/kg)\": 29.58, \"Stems (mg/kg)\": 0.32, \"Leaves (mg/kg)\": 0.04, \"Root translocation factor (kg/L)\": 79.65, \"TF(root-stem)\": 0.0014, \"T(stem-leaf)\": 0.377}, {\"Days after application\": 7.0, \"Roots (mg/kg)\": 34.16, \"Stems (mg/kg)\": 0.29, \"Leaves (mg/kg)\": 0.02, \"Root translocation factor (kg/L)\": 67.69, \"TF(root-stem)\": 0.001, \"T(stem-leaf)\": 0.444}, {\"Days after application\": 14.0, \"Roots (mg/kg)\": 31.25, \"Stems (mg/kg)\": 0.26, \"Leaves (mg/kg)\": 0.05, \"Root translocation factor (kg/L)\": 70.76, \"TF(root-stem)\": 0.0011, \"T(stem-leaf)\": 0.488}]"
+        },
+        {
+            "content": "Soybean seed treatment with fungicides is a common practice for disease management, but the movement of these fungicides within seedlings is not always well understood. This study aimed to determine the translocation pattern of three fungicides with different modes of action applied as seed treatments and the effect of soil type on translocation. Results showed that most of the absorbed radioactivity was concentrated in the cotyledons, with the maximum sum of absorption rates by roots, stems, and leaves of the plants being 15%. Absorption by roots, stems, and leaves was generally lower than 5% for 14C-pyraclostrobin and 14C-metalaxyl, and 1.6% for 14C-carbendazim. Fungicide absorption by roots and whole seedlings was higher in soil with lower organic matter content. Fungicides absorbed by cotyledons are unlikely to be redistributed and are lost when cotyledons fall off. These findings enhance our understanding of seed treatment fungicide movement in soybean seedlings and may aid in developing seed treatment strategies for managing seed and soilborne pathogens.",
+            "reference": "Fadel Sartori, F., Floriano Pimpinato, R., Tornisielo, V. L., Dieminger Engroff, T., de Souza Jaccoud\u2010Filho, D., Menten, J. O., ... & Dourado\u2010Neto, D. (2020). Soybean seed treatment: how do fungicides translocate in plants?. Pest management science, 76(7), 2355-2359.",
+            "method": {
+                "Test Plant": "Soybean (cv. TMG 7062 RR2 IPRO)",
+                "Apply Location": "Seed treatment",
+                "Plant Grown Condition": "Seeds planted in 150 mL pots with organic substrate (71 g dm-3 organic matter), grown in glasshouse.",
+                "Chemical Preparation": "14C-pyraclostrobin, 14C-carbendazim, 14C-metalaxyl (166,700 Bq each) mixed separately with respective commercial products",
+                "Pesticide Application Details for the Plant": "100 seeds treated for each 14C-fungicide by mixing with respective commercial product",
+                "Other Information": "10 plants analyzed at 14 days after planting (DAP) for radioactivity in roots, hypocotyl+cotyledons, epicotyl, leaves"
+            },
+            "result": "[{\"Days after application\": 16, \"Root (%)\": 0.9, \"Stem + petioles (%)\": 1.3, \"Cotyledon (%)\": 29.5, \"Unifoliateleaves (%)\": 0.8, \"First trifoliate leaf (%)\": 0.2}]"
+        }
+    ]
+}

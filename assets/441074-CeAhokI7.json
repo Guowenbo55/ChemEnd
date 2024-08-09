@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "6682e998c4e5dba5ffba2b6b"
+    },
+    "CID": {
+        "$numberInt": "441074"
+    },
+    "Name": "QUINIDINE",
+    "IUPACName": "(S)-[(2R,4S,5R)-5-ethenyl-1-azabicyclo[2.2.2]octan-2-yl]-(6-methoxyquinolin-4-yl)methanol",
+    "CanonicalSMILES": "COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O",
+    "Synonyms": [
+        "quinidine",
+        "56-54-2",
+        "(+)-Quinidine",
+        "Conquinine",
+        "Pitayine",
+        "Chinidin",
+        "Conchinin",
+        "(8R,9S)-Quinidine",
+        "\"(9S)-6-Methoxycinchonan-9-ol\"",
+        "beta-Quinine",
+        "Quinidex",
+        "Kinidin",
+        "Conchinine",
+        "Cin-Quin",
+        "beta-Quinidine"
+    ],
+    "IsomericSMILES": "COC1=CC2=C(C=CN=C2C=C1)[C@@H]([C@H]3C[C@@H]4CCN3C[C@@H]4C=C)O",
+    "INCHI": "InChI=1S/C20H24N2O2/c1-3-13-12-22-9-7-14(13)10-19(22)20(23)16-6-8-21-18-5-4-15(24-2)11-17(16)18/h3-6,8,11,13-14,19-20,23H,1,7,9-10,12H2,2H3/t13-,14-,19+,20-/m0/s1",
+    "INCHIKEY": "LOUPRKONTZGTKE-LHHVKLHASA-N",
+    "Formula": "C20H24N2O2",
+    "MolecularWeight": {
+        "$numberDouble": "324.4"
+    },
+    "Description": "Quinidine is a cinchona alkaloid consisting of cinchonine with the hydrogen at the 6-position of the quinoline ring substituted by methoxy. It has a role as an alpha-adrenergic antagonist, an antimalarial, an anti-arrhythmia drug, a sodium channel blocker, a muscarinic antagonist, a potassium channel blocker, a P450 inhibitor, an EC 1.14.13.181 (13-deoxydaunorubicin hydroxylase) inhibitor, an EC 3.6.3.44 (xenobiotic-transporting ATPase) inhibitor and a drug allergen. It derives from a hydride of a cinchonan.",
+    "XlogP": {
+        "$numberDouble": "2.9"
+    },
+    "Complexity": {
+        "$numberInt": "457"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 168",
+            "Value": "log Kow = 2.88"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "McEvoy, G.K. (ed.). American Hospital Formulary Service - Drug Information 2003. Bethesda, MD: American Society of Health-System Pharmacists, Inc. 2003 (Plus Supplements)., p. 1570",
+            "Value": "The exact mechanism of antiarrhythmic action of quinidine has not been determined conclusively, but the drug is considered a class I (membrane stabilizing) antiarrhythmic agent. Like other class I antiarrhythmic agents, quinidine is believed to combine with fast sodium channels in their inactive state and thereby inhibit recovery after repolarization in a time- and voltage-dependent manner, which is associated with subsequent dissociation of the drug from the sodium channels. Quinidine exhibits electrophysiologic effects characteristic of class IA antiarrhythmic agents. The electrophysiologic characteristics of the subgroups of class I antiarrhythmic agents may be related to quantitative differences in their rates of attachment to and dissociation from transmembrane sodium channels, with class IA agents exhibiting intermediate rates of attachment and dissociation."
+        },
+        {
+            "References": "McEvoy, G.K. (ed.). American Hospital Formulary Service - Drug Information 2003. Bethesda, MD: American Society of Health-System Pharmacists, Inc. 2003 (Plus Supplements)., p. 1570",
+            "Value": "Like lidocaine and procainamide, quinidine suppresses automaticity in the His-Purkinje system. In usual doses, quinidine may decrease the automaticity of ectopic pacemakers, but the extent of this effect also depends upon the anticholinergic effect of the drug on the sinoatrial node, atria, and atrioventricular node. Extremely high concentrations of quinidine may increase myocardial automaticity. The drug decreases conduction velocity in the atria, ventricles, and His-Purkinje system, and may decrease or cause no change in conduction velocity through the AV node. Quinidine probably suppresses atrial fibrillation or flutter by prolonging the effective refractory period and increasing the action potential duration in atrial and ventricular muscle and in the His-Purkinje system. Because prolongation of the effective refractory period is greater than the increase in the duration of the action potential, the cardiac tissue remains refractory even after restoration of the resting membrane potential. Quinidine shortens the effective refractory period of the atrioventricular node, and the anticholinergic action of the drug may also increase the conductivity of the atrioventricular node. The effects of quinidine on refractoriness and the action potential duration of atrial fibers may be modified by the anticholinergic effects of the drug. Quinidine decreases cardiac excitability, both in diastole and in the relative refractory period, by increasing the threshold potential for electrical excitation. At therapeutic plasma concentrations, quinidine causes prolongation of the QRS complex and QT interval."
+        },
+        {
+            "References": "McEvoy, G.K. (ed.). American Hospital Formulary Service - Drug Information 2003. Bethesda, MD: American Society of Health-System Pharmacists, Inc. 2003 (Plus Supplements)., p. 1570",
+            "Value": "Quinidine also exhibits some antipyretic and oxytocic properties. Quinidine has a very weak curare-like action on the myoneural junction and also causes depression of skeletal muscle action potential."
+        },
+        {
+            "References": "Ellenhorn, M.J., S. Schonwald, G. Ordog, J. Wasserberger. Ellenhorn's Medical Toxicology: Diagnosis and Treatment of Human Poisoning. 2nd ed. Baltimore, MD: Williams and Wilkins, 1997., p. 511",
+            "Value": "Intravenous quinidine depresses contractility and decreases systemic vascular resistance primarily by alpha-adrenergic receptor blockade. High blood levels of quinidine increase left ventricular end-diastolic pressure through its negative inotropic effect. Cardiovascular collapse has resulted from depression of contractility."
+        },
+        {
+            "References": "MICROMEDEX Thomson Health Care. USPDI - Drug Information for the Health Care Professional. 22nd ed. Volume 1. MICROMEDEX Thomson Health Care, Greenwood Village, CO. 2002. Content Reviewed and Approved by the U.S. Pharmacopeial Convention, Inc., p. 2483",
+            "Value": "Quindine primarily kills the schizont parasite at the asexual intra-erythrocytic cycle stage of the Plasmodium falciparum malaria protozoan parasite. Quinidine also kills the gametocyte parasite stages of Plasmodium malariae, Plasmodium vivax, and Plasmodium ovale."
+        }
+    ]
+}

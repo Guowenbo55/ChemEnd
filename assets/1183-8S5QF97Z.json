@@ -1,0 +1,133 @@
+{
+    "_id": {
+        "$oid": "6682e7e4c4e5dba5ffba22dc"
+    },
+    "CID": {
+        "$numberInt": "1183"
+    },
+    "Name": "VANILLIN",
+    "IUPACName": "4-hydroxy-3-methoxybenzaldehyde",
+    "CanonicalSMILES": "COC1=C(C=CC(=C1)C=O)O",
+    "Synonyms": [
+        "vanillin",
+        "4-Hydroxy-3-methoxybenzaldehyde",
+        "121-33-5",
+        "Vanillaldehyde",
+        "Vanillic aldehyde",
+        "p-Vanillin",
+        "Lioxin",
+        "Vanilline",
+        "3-Methoxy-4-hydroxybenzaldehyde",
+        "Vanilla",
+        "4-Hydroxy-m-anisaldehyde",
+        "2-Methoxy-4-formylphenol",
+        "Benzaldehyde",
+        "4-hydroxy-3-methoxy-",
+        "Zimco",
+        "p-Hydroxy-m-methoxybenzaldehyde"
+    ],
+    "IsomericSMILES": "COC1=C(C=CC(=C1)C=O)O",
+    "INCHI": "InChI=1S/C8H8O3/c1-11-8-4-6(5-9)2-3-7(8)10/h2-5,10H,1H3",
+    "INCHIKEY": "MWOOGOJBHIARFG-UHFFFAOYSA-N",
+    "Formula": "C8H8O3",
+    "MolecularWeight": {
+        "$numberDouble": "152.15"
+    },
+    "Description": "Vanillin is a member of the class of benzaldehydes carrying methoxy and hydroxy substituents at positions 3 and 4 respectively. It has a role as a plant metabolite, an anti-inflammatory agent, a flavouring agent, an antioxidant and an anticonvulsant. It is a member of phenols, a monomethoxybenzene and a member of benzaldehydes.",
+    "XlogP": {
+        "$numberDouble": "1.2"
+    },
+    "Complexity": {
+        "$numberInt": "135"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Fine PM; Environ Sci Technol 35: 2665-75 (2001)",
+            "Value": "Vanillin was detected in the fine particle emissions of the following northeastern wood species: red maple (concentration not quantified), Northern Red oak (2.050 mg/g), paper birch (7.205 mg/g), Eastern White pine (5.164 mg/g), Eastern Hemlock (5.088 mg/g), and balsam fir (5.710 mg/g)(1)."
+        },
+        {
+            "References": "(1) Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Vanillin. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of June 12, 2015: https://www.ars-grin.gov/duke/",
+            "Value": "Vanillin detections in plants(1).",
+            "Table": "[{'Genus species': 'Vanilla planifolia', 'Family': 'Orchidaceae', 'Common name': 'Bourbon Vanilla, Vanilla', 'Part': 'Fruit', 'Concn (ppm)': '30,000'}, {'Genus species': 'Ferula assa-foetida', 'Family': 'Apiaceae', 'Common name': \"Asafetida, Asafetida, Asafoetida, Assa-foetida, Devil's Dung, Stinkasant\", 'Part': 'Plant', 'Concn (ppm)': '600'}, {'Genus species': 'Zea mays', 'Family': 'Poaceae', 'Common name': 'Corn', 'Part': 'Seed', 'Concn (ppm)': '31'}, {'Genus species': 'Helianthus annuus', 'Family': 'Asteraceae', 'Common name': 'Girasol, Sunflower', 'Part': 'Root', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Vaccinium corymbosum', 'Family': 'Ericaceae', 'Common name': 'Blueberry', 'Part': 'Fruit', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Mentha x piperita subsp. nothosubsp. piperita', 'Family': 'Lamiaceae', 'Common name': 'Peppermint', 'Part': 'Leaf', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Ananas comosus', 'Family': 'Bromeliaceae', 'Common name': 'Pineapple', 'Part': 'Fruit', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Avena sativa', 'Family': 'Poaceae', 'Common name': 'Oats', 'Part': 'Plant', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Beta vulgaris subsp subsp vulgaris', 'Family': 'Chenopodiaceae', 'Common name': 'Beet', 'Part': 'Root', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Catalpa ovata', 'Family': 'Bignoniaceae', 'Common name': 'Kisasage', 'Part': 'Wood', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Cinnamomum camphora', 'Family': 'Lauraceae', 'Common name': 'Camphor', 'Part': 'Wood', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Cinnamomum verum', 'Family': 'Lauraceae', 'Common name': 'Cinnamon', 'Part': 'Plant', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Cocos nucifera', 'Family': 'Arecaceae', 'Common name': 'Coconut', 'Part': 'Leaf', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Croton eluteria', 'Family': 'Euphorbiaceae', 'Common name': 'Cascarilla', 'Part': 'Bark', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Cymbopogon winterianus', 'Family': 'Poaceae', 'Common name': 'Java Citronella', 'Part': 'Plant', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Echinaecea spp', 'Family': 'Asteraceae', 'Common name': 'Coneflower', 'Part': 'Plant', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Elytrigia repens', 'Family': 'Poaceae', 'Common name': 'Twitchgrass', 'Part': 'Rhizome', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Filipendula ulmaria', 'Family': 'Rodaceae', 'Common name': 'Meadowsweet', 'Part': 'Flower', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Foeniculum vulgare', 'Family': 'Apiaceae', 'Common name': 'Fennel', 'Part': 'Fruit', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Gastrodia elata', 'Family': 'Orchidaceae', 'Common name': 'Tian Ma', 'Part': 'Rhizome', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Guaiacum sp', 'Family': 'Zygophyllaceae', 'Common name': 'Guaiac', 'Part': 'Wood', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Helianthus annus', 'Family': 'Asteraceae', 'Common name': 'Sunflower', 'Part': 'Fruit', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Ilex paraguariensis', 'Family': 'Aquifoliaceae', 'Common name': 'South American Holly', 'Part': 'Leaf', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Jasmium officinale', 'Family': 'Oleaceae', 'Common name': 'Jasmine', 'Part': 'Flower', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Liquidambar orientalis', 'Family': 'Hamamelidaceae', 'Common name': 'Oriental Styrax', 'Part': 'Resin, Exudate, Sap', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Liquidambar styraciflua', 'Family': 'Hamamelidaceae', 'Common name': 'American Styrax', 'Part': 'Resin, Exudate, Sap', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Lupinus albus', 'Family': 'Fabaceae', 'Common name': 'White Lupine', 'Part': 'Seed', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Lycopersicon esculentum', 'Family': 'Solanaceae', 'Common name': 'Tomato', 'Part': 'Plant', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Melia azedarach', 'Family': 'Meliaceae', 'Common name': 'Chineberry', 'Part': 'Fruit', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Mentha spicata', 'Family': 'Lamiaceae', 'Common name': 'Spearming', 'Part': 'Leaf', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Moringa oleifera', 'Family': 'Moringaceae', 'Common name': 'Horseradish Tree', 'Part': 'Stem', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Myroxylon balsamum', 'Family': 'Flacourtiaceae', 'Common name': 'Peru Balsam', 'Part': 'Plant', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Quercus rubra', 'Family': 'Fagaceae', 'Common name': 'Northern red Oak', 'Part': 'Wood', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Quercus suber', 'Family': 'Fagaceae', 'Common name': 'Cork Oak', 'Part': 'Cork', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Rosa canina', 'Family': 'Rosaceae', 'Common name': 'Rose', 'Part': 'Fruit', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Serenoa repens', 'Family': 'Arecaceae', 'Common name': 'Saw Palmetto', 'Part': 'Wood', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Solanum melongena', 'Family': 'Solanaceae', 'Common name': 'Eggplant', 'Part': 'Root', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Styrax benzoin', 'Family': 'Styracaceae', 'Common name': 'Styrax', 'Part': 'Resin, Exudate, Sap', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Styrax tonkinensis', 'Family': 'Styracaceae', 'Common name': 'Siam Benzoin', 'Part': 'Resin, Exudate, Sap', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Syzygium aromaticum', 'Family': 'Myrtaceae', 'Common name': 'Clove', 'Part': 'Flower', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Tilia sp', 'Family': 'Tiliaceae', 'Common name': 'Basswood', 'Part': 'Flower', 'Concn (ppm)': 'not reported'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 42 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of June 16, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for vanillin(SRC), using a log Kow of 1.37(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of June 15, 2015: https://www.safe.nite.go.jp/english/db.html (2) Huntjens JLM et al; Plant Soil 61: 227-42 (1981) (3) Bewley RJF, Stotzky G; Soil Science 137: 415-18 (1984) (4) Kunc F, Stotzky G; Soil Science 124: 167-72  (1977)",
+            "Value": "AEROBIC: Vanillin, present at 100 mg/L, reached 97% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1). Vanillin was completely degraded in pasture soil from Holland in 12.5 days,  with an initial lag period of 4 days(2). Vanillin was completely degraded in montmorilonite-amended soils during a 6-day incubation period, but only degraded 4-9% in non-amended soils(2). Vanillin was completely degraded within 10 days in montmorilonite-amended soils, with lag periods of 1-4 days(4)."
+        },
+        {
+            "References": "(1) Healy JR, Young LY; Appl Environ Microbiol 38: 84-89 (1979) (2) Healy et al; Methanogenic Biodegradation of Aromatic Compounds. US Environ Prot Agency, Off Res Dev, (Rep) EPA; ISS EPA-600/9-79-012, Proc Workshop: Microb Degradation Pollut Mar Environ: 348 (1978), 408 (1979)",
+            "Value": "ANAEROBIC: Under anaerobic conditions, vanillin  was 72 percent biodegraded in 42 days, with a lag time of 12 days in a Closed Bottle Serum test using a settled domestic sewage seed(1,2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 42",
+            "Value": "log Kow = 1.37"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 928",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Intragastric administration of 300 mg of vanillin/kg to rats, twice weekly, for 14 weeks produced no adverse effects."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 928",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Groups of 16 rats were fed diets containing vanillin at levels to provide 20 mg/kg body weight/day for 18 wk without any adverse effects, but 64 mg/kg/day for 10 wk caused growth depression and damage to myocardium, liver, kidney, lung, spleen, and stomach."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 928",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... Matched groups of 10 male and 10 female rats, 4 to 6 weeks old, were maintained for 91 days on diets containing up to 50,000 ppm vanillin, equivalent to about 2500 mg/kg/day. Records of appearance, behavior, growth, mortallity, terminal body and organ weights, terminal hematologic examination and histological studies revealed no adverse effects when the diet contained 3000 ppm vanillin, equivalent to as much as 150 mg/kg/day.  Mild adverse effects followed ingestion of 10,000 ppm diet, and at 50,000 ppm growth was depressed in the liver, kidneys, and spleen were enlarged."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 928",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Vanillin injected intraperitoneally into strain A mice in total doses of 3.6-18.0 g/kg over a period of 24 weeks produced no excesses of lung tumors and was not considered to be carcinogenic."
+        },
+        {
+            "References": "PMID:8657198",
+            "Value": "/GENOTOXICITY/ In experiments using yeast without an external metabolic activation system, the hormones testosterone, beta-estradiol, and diethylstilbestrol were anti-mutagenic and co-recombinogenic. In the presence of Aroclor-induced rat liver S-9 plus cofactors (S9-mix) the same substances acted as co-mutagens and anti-recombinogens. Since an external metabolic activation system was able to convert anti-mutagens into co-mutagens, we studied whether the different metabolism of yeast and mice would lead to different effects. In whole-animal experiments using the mouse spot test, anti-mutagenic effects of vanillin ... have been observed. In our present experiments with yeast, tannic acid and phenobarbital showed anti-mutagenic effects also, whereas vanillin acted as a co-mutagen. Thus, as in the case of the hormones, tannic acid and phenobarbital were anti-mutagenic and co-recombinogenic whereas vanillin was co-mutagenic as well as co-recombinogenic."
+        },
+        {
+            "References": "PMID:1379329",
+            "Value": "/GENOTOXICITY/ The modifying effects of vanillin on the cytotoxicity and 6-thioguanine (6TG)-resistant mutations induced by two different types of chemical mutagens, ethyl methanesulfonate (EMS) and hydrogen peroxide (H2O2), were examined using cultured Chinese hamster V79 cells. The effects of vanillin on H2O2-induced chromosome aberrations were also examined. Vanillin had a dose-dependent enhancing effect on EMS-induced cytotoxicity and 6TG-resistant mutations, when cells were simultaneously treated with vanillin. The post-treatment with vanillin during the mutation expression time of cells after treatment with EMS also showed an enhancement of the frequency of mutations induced by EMS. However, vanillin suppressed the cytotoxicity induced by H2O2 when cells were post-treated with vanillin after H2O2 treatment. Vanillin showed no change in the absence of activity of H2O2 to induce mutations. Post-treatment with vanillin also suppressed the chromosome aberrations induced by H2O2. The differential effects of vanillin were probably due to the quality of mutagen-induced DNA lesions and vanillin might influence at least two different kinds of cellular repair functions. The mechanisms by which vanillin enhances or suppresses chemical-induced cytotoxicity, mutations and chromosome aberrations are discussed."
+        },
+        {
+            "References": "PMID:6157526",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Vanillin (200 ug/culture) was found to directly suppress the in vitro anti-sheep RBC antibody response at noncytotoxic doses."
+        },
+        {
+            "References": "Lopez-Malo A et al; Food Microbiology (London) 12 (3): 213-9 (1995)",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ The inhibitory effects of various concentrations of natural vanillin on the growth of Aspergillus flavus, A. niger, A. ochraceus and A. parasiticus in laboratory media and five fruit (apple, banana, mango, papaya and pineapple)-based agars at pH 3.5 and water activity (aw) 0.98 were studied. The most resistant mould to the conditions studied was A. niger, followed by A. parasiticus, A. flavus and A. ochraceus. For each mould the increase in vanillin concentration and the type of fruit used in agar preparation significantly (P < 0.05) affected the radial growth rate. The vanillin inhibitory concentrations were in general lower than 2000 ppm. The inoculated moulds grew faster and in higher vanillin concentrations on mango and banana fruit-based agars. The lower inhibitory effect of vanillin in mango and banana agar was attributed at least partially to their fat and/or protein content."
+        },
+        {
+            "References": "PMID:22450566",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ ... The objective of the present work was to evaluate the impact of vanillin and ethyl vanillin on the activities of CYP2C9, CYP2E1, CYP3A4, CYP2B6 and CYP1A2 in human liver microsomes (HLM) in vitro, and impact on the activities of CYP1A2, CYP2C, CYP3A and CYP2E1 in rat liver microsomes (RLM) in vivo. The in vitro results demonstrated that vanillin and ethyl vanillin had no significant effect on the activity of five human CYP450 enzymes with concentration ranged from 8 to 128 uM. However, after rats were orally administered vanillin or ethyl vanillin once a day for seven consecutive days, CYP2E1 activity was increased and CYP1A2 activity was decreased in RLM. The in vivo results revealed that drug interaction between vanillin/ethyl vanillin and /drugs metabolized by/ CYP2E1/CYP1A2 ... might be possible ... ."
+        },
+        {
+            "References": "PMID:24586538",
+            "Value": "/OTHER TOXICITY INFORMATION/ Vanillin is a well-known food and cosmetic additive and has antioxidant and antimutagenic properties. It has also been suggested to have antifungal activity against major human pathogenic fungi, although it is not very effective. In this study, the antifungal activities of vanillin and 33 vanillin derivatives against the human fungal pathogen Cryptococcus neoformans, the main pathogen of cryptococcal meningitis in immunocompromised patients, were investigated. We found a structural correlation between the vanillin derivatives and antifungal activity, showing that the hydroxyl or alkoxy group is more advantageous than the halogenated or nitrated group in benzaldehyde. Among the vanillin derivatives with a hydroxyl or alkoxy group, o-vanillin and o-ethyl vanillin showed the highest antifungal activity against C. neoformans. o-Vanillin was further studied to understand the mechanism of antifungal action. We compared the transcriptome of C. neoformans cells untreated or treated with o-vanillin by using RNA sequencing and found that the compound caused mitochondrial dysfunction and triggered oxidative stress. These antifungal mechanisms of o-vanillin were experimentally confirmed by the significantly reduced growth of the mutants lacking the genes involved in mitochondrial functions and oxidative stress response."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Christman RF et al; Sci Total Environ 47: 195-210 (1985) (2) Hedges JI, Ertel JR; Anal Chem 54: 174-8 (1982)",
+            "Value": "SEDIMENT: Vanillin was detected at concentrations of 0.823 and 0.484 mg/g in suspended sediment samples of the freshwater lake, Singletary Lake, in eastern North Carolina(1). Vanillin was detected in 5 freshwater sediment samples at concentrations ranging from 11.6 to 279 ug/g, source and specific type of sediment were not reported(2)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of June 16, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Serjeant EP, Dempsey B; Ionisation constants of organic acids in aqueous solution. IUPAC Chem Data Ser No.23. New York, NY: Pergamon pp. 989 (1979) (4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of vanillin can be estimated to be 10(SRC). According to a classification scheme(2), this estimated Koc value suggests that vanillin is expected to have very high mobility in soil. The pKa of vanillin is 7.4(3), indicating that this compound will partially exist in anion form in the environment and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(4)."
+        }
+    ]
+}

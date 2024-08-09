@@ -1,0 +1,157 @@
+{
+    "_id": {
+        "$oid": "6682e8c9c4e5dba5ffba2756"
+    },
+    "CID": {
+        "$numberInt": "8857"
+    },
+    "Name": "ETHYL ACETATE",
+    "IUPACName": "ethyl acetate",
+    "CanonicalSMILES": "CCOC(=O)C",
+    "Synonyms": [
+        "ETHYL ACETATE",
+        "141-78-6",
+        "Ethyl ethanoate",
+        "Acetic acid ethyl ester",
+        "Acetoxyethane",
+        "Vinegar naphtha",
+        "Acetic ether",
+        "Ethyl acetic ester",
+        "Acetic acid",
+        "ethyl ester",
+        "Ethylacetate",
+        "Acetidin",
+        "Essigester",
+        "EtOAc",
+        "Acetic ester",
+        "Aethylacetat"
+    ],
+    "IsomericSMILES": "CCOC(=O)C",
+    "INCHI": "InChI=1S/C4H8O2/c1-3-6-4(2)5/h3H2,1-2H3",
+    "INCHIKEY": "XEKOWRVHYACXOJ-UHFFFAOYSA-N",
+    "Formula": "C4H8O2",
+    "MolecularWeight": {
+        "$numberDouble": "88.11"
+    },
+    "Description": "Ethyl acetate is the acetate ester formed between acetic acid and ethanol. It has a role as a polar aprotic solvent, an EC 3.4.19.3 (pyroglutamyl-peptidase I) inhibitor, a metabolite and a Saccharomyces cerevisiae metabolite. It is an acetate ester, an ethyl ester and a volatile organic compound.",
+    "XlogP": {
+        "$numberDouble": "0.7"
+    },
+    "Complexity": {
+        "$numberInt": "49"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Ethyl acetate. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Jun 25, 2014: https://www.ars-grin.gov/duke/",
+            "Value": "Ethyl acetate presence in plants(1).",
+            "Table": "[{'Genus species': 'Telosma cordata', 'Common name': 'Merrill flowers', 'Part': 'Flower', 'Concn ppm': '0-1600'}, {'Genus species': 'Ananas comosus', 'Common name': 'Pineapple', 'Part': 'Fruit', 'Concn ppm': '120'}, {'Genus species': 'Pletranthus coleoides', 'Common name': nan, 'Part': 'Shoot', 'Concn ppm': '0-12'}, {'Genus species': 'Aralia cordata', 'Common name': 'Udo', 'Part': 'Stem', 'Concn ppm': '3'}, {'Genus species': 'Citrus sinensis', 'Common name': 'Orange', 'Part': 'Fruit juice', 'Concn ppm': nan}, {'Genus species': 'Asimina triloba', 'Common name': 'Pawpaw', 'Part': 'Fruit', 'Concn ppm': nan}, {'Genus species': 'Carthamus tinctorius', 'Common name': 'Safflower', 'Part': 'Flower', 'Concn ppm': nan}, {'Genus species': 'Camellia sinensis', 'Common name': 'Tea', 'Part': 'Leaf', 'Concn ppm': nan}, {'Genus species': 'Carica papaya', 'Common name': 'Papaya', 'Part': 'Fruit', 'Concn ppm': nan}, {'Genus species': 'Cucumis melo subsp ssp melo var cantalupensis', 'Common name': 'Cantaloupe', 'Part': 'Petiole', 'Concn ppm': nan}, {'Genus species': 'Malus domestica', 'Common name': 'Apple', 'Part': 'Plant', 'Concn ppm': nan}, {'Genus species': 'Prunus persica', 'Common name': 'Peach', 'Part': 'Fruit', 'Concn ppm': nan}, {'Genus species': 'Ribes nigrum', 'Common name': 'Black currant', 'Part': 'Fruit', 'Concn ppm': nan}, {'Genus species': 'Rubus idaeus', 'Common name': 'Raspberry', 'Part': 'Plant', 'Concn ppm': nan}, {'Genus species': 'Zea mays', 'Common name': 'Corn', 'Part': 'Silk Stigma Style', 'Concn ppm': nan}, {'Genus species': 'Zingiber officinale', 'Common name': 'Ginger', 'Part': 'Essential oil', 'Concn ppm': nan}]"
+        },
+        {
+            "References": "(1) Tatsuka K et al; J Agric Food Chem 38: 2176-80 (1990) (2) Singh HB, Zimmerman PB; Adv Environ Sci Technol 24: 177-235 (1992)",
+            "Value": "Ethyl acetate was identified as a volatile component of kiwi fruit flowers(1). Volatile emissions from Scots pine were found to contain ethyl acetate(2)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR (consult ed) Washington,DC: Amer Chem Soc p. 9 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Jun 25, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated for ethyl acetate(SRC), using a log Kow of 0.73(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Jun 26, 2014: https://www.safe.nite.go.jp/english/db.html (2) Thom NS, Agg AR; Proc Roy Soc London B 189: 347-57 (1975) (3) Price KS et al; J Water Pollut Control Fed 46: 63-77 (1974) (4) Ettinger MB; Ind Eng Chem 48: 256-9 (1956) (5) Young RHF et al; J Water Pollut Control Fed 40: 354-68 (1968) (6) Heukelekian H, Rand MC; J Water Pollut Control Assoc 29: 1040-53 (1955) (7) Slave T et al; Rev Chim 25: 666-70 (1974) (8) Stover EL, Kincannon DF; J Water Pollut Control Fed 55: 97-109 (1983) (9) Waggy GT et al; Environ Toxicol Chem 13: 1277-80 (1994) (10) Urano K, Kato Z; J Haz Mat 13: 135-45, 147-59 (1986) (11) Takemoto S et al; Suishitsu Odaka Kenkyu 4: 80-90 (1981) (12) Kincannon DF et al; J Water Pollut Control Fed 55: 157-63 (1983)",
+            "Value": "AEROBIC: Ethyl acetate, present at 100 mg/L, reached 95% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1). A review concluded that ethyl acetate is easily removed by biological treatment(2). Reported 5 day BOD values using a sewage inoculum range from 36-68% of theoretical(3-6) with the value being somewhat reduced in salt water(3). One investigator reported that ethyl acetate was completely degraded in 20 hr using activated sludge(7). In a bench-scale continuous-flow activated sludge reactor with an 8 hour retention time, 99.9% removal including 17% volatilization loss) was obtained, with 80% of the theoretical BOD(8). Ethyl acetate was 90% biooxidized in a 20-day BOD test using a filtered raw sewage seed; it was biooxidized 77% in a 28-day OECD closed-bottle test(9). A screening procedure that was systematically applied to a large number of organic chemicals ranked ethyl acetate as being completely biodegraded in a short time by general microorganisms(10). After a 5 hr lag, 43 to 53% of theoretical BOD was obtained in 50 to 70 hr(10). In screening tests, ethyl acetate, present at a concentration of 5 ppm, reached 26.6 and 57.1% of its theoretical BOD in 5 days using the standard dilution method and seawater dilution method, respectively(11). 99.9% removal of ethyl acetate was observed in a complete mix continuous-flow activated sludge system; 93% of this removal was attributed to biodegradation(12)."
+        },
+        {
+            "References": "(1) Speece RE; Environ Sci Tech 17: 416A-27A (1983) (2) Shelton DR, Tiedje JM; Appl Environ Microbiol 47: 850-7 (1984) (3) Chou WL et al; Biotech Bioeng Symp 8: 391-414 (1979) (4) Schwartz LJ; Appl Biochem Biotehcnol 28/29: 297-305 (1991) (5) Mormile MR et al; Environ Sci Technol 28: 1727-32 (1994) (6) Sulfita JM, Mormile MR; Environ Sci Technol 27: 976-8 (1993)",
+            "Value": "ANAEROBIC: Ethyl acetate has been demonstrated to be amenable to anaerobic biodegradation(1). It was mineralized (>75% of theoretical methane production) in 10% sludge from a secondary digester within 8 weeks(2). 96% utilization occurred in an anaerobic reactor with a 20 day retention time(3). Ethyl acetate, at a concentration of 1000 mg/L, was readily degraded in batch reactors containing anaerobic solids from an industrial anaerobic digester with some exposure to ethyl acetate(4). 100% loss of ethyl acetate was observed in aquifer slurries amended with sulfate and nitrate following 244 days and 85 days incubation, respectively(5). 94% of theoretical methane production was observed after incubation in sediment and groundwater collected from the methanogenic portion of an anoxic aquifer polluted by municipal landfill leachate(6)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Yashuara A, Morita M; Chemosphere 16: 2559-65 (1987)",
+            "Value": "Ethyl acetate was identified in a sample of mussel collected from the Oarai Coast in Ibaraki, Japan on July 31, 1985 at a concentration of 97.1 ug/g(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 9",
+            "Value": "log Kow = 0.73"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 1",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  ... Animals could withstand an ethyl acetate concn of 2000 ppm for 65, four-hr exposures without apparent ill effects, as measured by lack of change in body wt & in red & white blood counts."
+        },
+        {
+            "References": "PMID:2362083",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  Leucopenia without change in differential or red blood cell counts was observed in rats exposed for 4 hr to increasing air concentration of ... ethyl acetate. ... This effect was abolished by adrenalectomy. This solvent caused leucopenia only when exposure reached the irritant level. It is discussed that stress associated with the irritative effect of chemicals can confound specific hematological effects."
+        },
+        {
+            "References": "Yamashita M, Tanaka J; J Toxicol, Clin Toxicol 33 (6): 631-7 (1995)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  In order to determine the lung disease potential of waterproofing sprays, several components of suspected sprays, as well as a commercial spray, were tested on CD-l-mice. Mice placed in inhalation chambers were exposed to aerosols containing one or more of the suspected components, including n-heptane, ethyl-acetate, fluororesin, silicone, and a commercial spray. An intermittent inhalation methods was used to prevent the solvents from causing anesthetic death. Mice were sacrificed 1 hour after the end of exposure. The lungs of both exposed and control mice were isolated and examined microscopically for any changes. The amounts released of the were similar. Mice exposed to the commercial and fluororesin sprays were cyanotic and depressed for 1 hour, while those exposed to the other sprays were cyanotic for only several minutes. In almost all mice exposed to the commercial spray, significant changes relative to the controls included a thickened pulmonary alveolar septa, cellular infiltration, fused and hemorrhaged alveolar walls, and diminished alveoli. Fluororesin particles were found in the alveolar space. Significantly more pronounced pathological changes were discovered in mice exposed to the fluororesin spray, relative to the commercial spray. In mice exposed to the silicone spray, significant differences were observed in alveolar collapse and hemorrhage, compared to the controls. The lungs of mice exposed to the N-heptane, ethyl-acetate, and fluororesin free sprays were similar to control lungs. In mice exposed to the silicon resin free spray, significant changes, relative to the commercial spray group, included alveolar collapse, hyperemia, hemorrhage and increased thickness and cellular infiltration of the septum. /It was/ concluded that ethyl-acetate and n-heptane contained in waterproofing sprays do not cause pulmonary disorders. Instead, fluororesin is implicated in respiratory disorders caused by such sprays."
+        },
+        {
+            "References": "PMID:9038240",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The acute neurobehavioral effects of three acetates (amyl, ethyl, and n-butyl acetate) were investigated after 20-min inhalation exposures in mice using locomotor activity and a functional observational battery (FOB). Ethyl and n-butyl acetate produced significant decreases in locomotor activity at the highest concentrations examined, while amyl acetate was without effect. Minimally effective concentrations for activity-decreasing effects were 2000 ppm for ethyl acetate and 8000 ppm for n-butyl acetate. The potency order was similar in the FOB where ethyl acetate was more potent in disrupting the neurobehavioral measures. The FOB profile of effects for all three acetates included changes in posture, decreased arousal, increased tonic/clonic movements, disturbances in gait, delayed righting reflexes, and increased sensorimotor reactivity. Furthermore, handling-induced convulsions were produced in some mice acutely exposed to each of these acetates. Recovery from the acute effects of these acetates was rapid and began within minutes of removal from the exposure chamber. The acetates produced a profile of neurobehavioral effects that were different from those reported for depressant solvents (i.e., toluene, 1,1,1-trichloroethane) that are subject to abuse. Evidence is emerging for qualitative differences in the acute neurobehavioral effects of various volatile chemicals."
+        },
+        {
+            "References": "Steering group for assessment of health effects of chemicals.  Nord Vol:15 pp 235-51 (1999).",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... The animal data present indicate that ethyl acetate is irritating after contact with the eyes. The irritation is termed as slight to moderate. Ethyl acetate has also been found to be a potent sensory irritant when tested in mice. Ethyl acetate should be classified as Irritant with R36/37. Neither skin irritation nor sensitization has been reported after human exposure. In one old review there is a statement of sensitization, resulting in inflammation of the mucous membranes and in eczematous eruptions of the skin which is reported to appear in rare cases. Animal data does not indicate that ethyl acetate should be a skin irritant There were no data available on skin sensitization. The data on prolonged exposure by inhalation to ethyl acetate does not lead to any classification There were no data available on oral or dermal exposure. One study on carcinogenicity was negative. The data on genotoxicity does not lead to any classification. There were no data on reproduction toxicity. The data that supports the neurotoxicological properties of ethyl acetate are scarce and often documented lacking necessary data. ..."
+        },
+        {
+            "References": "Snyder, R. (ed.). Ethel Browning's Toxicity and Metabolism of Industrial Solvents. Second Edition. Volume 3 Alcohols and Esters. New York, NY: Elsevier, 1992., p. 239",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Chronic repeated inhalation by mice 6 hr/day for 7 days of 4200-4400 ppm and by guinea pigs of 2000 ppm did not cause definite CNS depression, but symptoms of loss of appetite and an increase in erythrocytes and polymorphs were noted. There was no increase in hemoglobin, and urine analysis showed that liver and kidney were not affected. Symtoms of intoxication incluuded irritation of eyes, salivation, and coughing followed by narcosis with loss of corneal reflexes occurring before loss of skin reflexes and sensation of pain."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 239",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... exposure of rabbits to vapor at concn which would be scarcely tolerable to human beings caused no corneal damage despite exposure for 8 hr a day, 5 days a wk, for ... up to 7 wk. Only conjunctivae gave indications of irritation ... std testing on rabbit eyes ... resulted in rating of 2 on scale of 10 /10 most severe/ ... ."
+        },
+        {
+            "References": "Ethyl acetate (CASRN 141-78-6), Integrated Risk Information System.  Last updated on August 9, 2012.  Available from, as of July 28, 2014. https://www.epa.gov/iris/subst/0157.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/  Four groups of rats (30/sex/group) were gavaged daily with 0, 300, 900 and 3600 mg/kg/day of ethyl acetate. Six weeks after the initial dosing, 10 rats/sex were subjected to interim sacrifice while the remaining rats continued on the dosing regimen until the final sacrifice (90 days). This study generated data on weekly body weights and food consumption, clinical signs of toxicity, ophthalmological evaluations, moribundity, mortality, blood and urine chemistry and gross and histopathologic evaluations of target organs. Evaluation of the data indicated that male rats exposed to the high dose (3600 mg/kg/day) of ethyl acetate showed significant toxic effects, which resulted in depressed body and organ weights, and depressed food consumption. Female rats exposed to the high dose showed slight but nonsignificant depression of above parameters compared with controls. The next lower dose (900 mg/kg/day) did not produce any adverse effects in either male or female rats and is, therefore, considered a NOEL. By applying an uncertainty factor of 1000 to this NOEL of 900 mg/kg/day, an RfD of 0.9 mg/kg/day or 63 mg/day for a 70-kg person can be recommended."
+        },
+        {
+            "References": "Mackison, F. W., R. S. Stricoff, and L. J. Partridge, Jr. (eds.). NIOSH/OSHA - Occupational Health Guidelines for Chemical Hazards. DHHS(NIOSH) Publication No. 81-123 (3 VOLS). Washington, DC: U.S. Government Printing Office, Jan. 1981., p. 1",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... In animals it has a .. /CNS depressant/ effect at concentrations of over 5000 ppm. ... Repeated exposures of rabbits to 4450 ppm for 1 hr daily for 40 days resulted in anemia with leukocytosis, and damage to liver and kidneys. Animals exposed to lethal concentrations died with pulmonary edema and hemorrhage. ..."
+        },
+        {
+            "References": "PMID:14637381",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Rats were exposed to 0, 350, 750 or 1500 ppm of ethyl acetate by inhalation for 6 hr per day, 5 days per week for 13 weeks. Functional observational battery (FOB) and motor activity tests occurred on non-exposure days during weeks 4, 8 and 13, after which tissues were microscopically examined for neuropathology. A subset of rats was monitored during a 4-week recovery period. Exposure to 750 and 1500 ppm, diminished behavioral responses to unexpected auditory stimuli during the exposure session and appeared to be an acute sedative effect. There were no signs of acute intoxication 30 min after exposure sessions ended. Rats exposed to 750 and 1500 ppm had reduced body weight, body weight gain, feed consumption, and feed efficiency, which fully or partially recovered within 4 weeks. Reductions in body weight gain and feed efficiency were observed in male rats exposed to 350 ppm. The principal behavioral effect of subchronic exposure was reduced motor activity in the 1500 ppm females, an effect that was not present after the 4-week recovery period. All other FOB and motor activity parameters were unaffected, and no pathology was observed in nervous system tissues. Operant sessions were conducted in another set of male rats preconditioned to a stable operant baseline under a multiple fixed ratio-fixed interval (FR-FI) schedule of food reinforcement. FR response rate, FR post-reinforcement pause duration, and the pattern of FI responding were not affected during or after the exposure series. In contrast, within-group FI rate for the treatment groups increased over time whereas those of the controls decreased. A historical control group, however, also showed a similar pattern of increase, indicating that these changes did not clearly represent a treatment-related effect. Results from these studies indicate a LOEL of 350 ppm for systemic toxicity based on the decreased body weight gain in male rats, and a LOEL of 1500 ppm for neurotoxicity based on the transient reduction in motor activity in female rats. In conclusion, there was no evidence that subchronic exposure up to 1500 ppm ethyl acetate produced any enduring neurotoxic effects in rats."
+        },
+        {
+            "References": "NTP; Fiscal Year 1987 Annual Plan p.70 (1987) NTP-87-001",
+            "Value": "/GENOTOXICITY/  Ethyl acetate was negative for mutagenicity in Salmonella typhimurium assays."
+        },
+        {
+            "References": "PMID:3517637",
+            "Value": "/GENOTOXICITY/ Chinese hamsters were exposed to ethyl acetate ... known to be a strong inducer of aneuploidy in the yeast Saccaromyces cerevisiae. This solvent yielded negative results in the micronucleus test, whereas the vinca alkaloid vindesine used as a positive control substance proved to act as a spindle poison in mammals in vivo."
+        },
+        {
+            "References": "Ryan, R.P., C.E. Terry (eds.). Toxicology Desk Reference 4th  ed. Volumes 1-3. Taylor & Francis, Washington, D.C. 1997., p. 1253",
+            "Value": "/OTHER TOXICITY INFORMATION/ Ethyl acetate may cause adverse health effects following exposure via inhalation, ingestion or dermal contact. ..."
+        },
+        {
+            "References": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-201",
+            "Value": "/OTHER TOXICITY INFORMATION/ Toxicity Rating: 3. Relatively innocuous, lying on the borderline between toxicity classes 2 and 3. Mild local irritation and central nervous depression. On a molar basis the simple esters of ethyl alcohol are more toxic than ethanol by 4 to 10-fold. ... Toxicity appears to be due to unhydrolyzed esters and not to ethyl alcohol."
+        },
+        {
+            "References": "Gallaher EJ, Loomis TA; Toxicol Appl Pharmacol 34 (2): 309-313 (1975)",
+            "Value": "/OTHER TOXICITY INFORMATION/ Because of the abundance of nonspecific esterases, one might expect the common solvent ethyl acetate (EtAc) to be hydrolyzed to ethyl alcohol (EtOH) in vivo. It would then be possible to demonstrate EtOH accumulation following exposure to EtAc vapor. Preliminary studies showed that rat blood incubated at 37 \u00b0C does hydrolyze EtAc to EtOH, with a half-time of approximately 65 min. Analyses were done by gas chromatography. To study this reaction in vivo, rats were anesthetized with pentobarbital, and cannulae were inserted into the femoral arteries. EtAc was injected ip as a 25% () solution in corn oil (1.6 g/kg) and blood samples were drawn periodically. Hydrolysis was very rapid in vivo, with a half-time estimated at 5-10 min. Inhalation studies were then carried out by exposing anesthetized rats to several concentrations of EtAc vapor via an endotracheal tube. When EtAc concentrations were increased above 2000 ppm, EtAc absorption exceeded EtOH oxidation, leading to an accumulation of EtOH in the blood. Although blood EtOH concentrations increased steadily to over 0.10 g/100 mL in 5 hr, EtAc remained consistently below 0.01 g/100 mL and did not change throughout the course of the experiment, again indicating rapid hydrolysis. The data indicate that EtOH will accumulate during exposure to EtAc if the ambient concentration of EtAc is sufficiently high."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 567",
+            "Value": "/OTHER TOXICITY INFORMATION/ Ethyl acetate in combination with toluene appeared to produce a mixture of lower toxicity than that of either compound alone. Mixing of ethyl acetate with propylene oxide, propylene glycol, or formalin appears to decr its LD50 value, but its toxicity increases in combination with morpholine, ethylene glycol, or ethyl alcohol."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR (consult ed) Washington,DC: Amer Chem Soc p. 9 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Jun 25, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Swann RL et al; Res Rev 85: 23 (1983) (4) Roth CM et al; Environ Sci Technol 38: 4078-4084 (2004)",
+            "Value": "The Koc of ethyl acetate is estimated as 18(SRC), using a log Kow of 0.73(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that ethyl acetate is expected to have very high mobility in soil(SRC). A log Ki (snow surface/air (cu m/sq m)) of -3.69 has been reported for sorption to snow(4)."
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "_id": {
+        "$oid": "6682e7d5c4e5dba5ffba2290"
+    },
+    "CID": {
+        "$numberInt": "403"
+    },
+    "Name": "4-Aminophenol",
+    "IUPACName": "4-aminophenol",
+    "CanonicalSMILES": "C1=CC(=CC=C1N)O",
+    "Synonyms": [
+        "4-aminophenol",
+        "123-30-8",
+        "p-aminophenol",
+        "4-hydroxyaniline",
+        "p-hydroxyaniline",
+        "Phenol",
+        "4-amino-",
+        "Paranol",
+        "4-aminobenzenol",
+        "Certinal",
+        "Citol",
+        "Fouramine P",
+        "p-Hydroxyphenylamine",
+        "Rodinal",
+        "Ursol P Base",
+        "Azol"
+    ],
+    "IsomericSMILES": "C1=CC(=CC=C1N)O",
+    "INCHI": "InChI=1S/C6H7NO/c7-5-1-3-6(8)4-2-5/h1-4,8H,7H2",
+    "INCHIKEY": "PLIKAWJENQZMHA-UHFFFAOYSA-N",
+    "Formula": "C6H7NO",
+    "MolecularWeight": {
+        "$numberDouble": "109.13"
+    },
+    "Description": "4-aminophenol is an amino phenol (one of the three possible isomers) which has the single amino substituent located para to the phenolic -OH group. It has a role as a metabolite and an allergen.",
+    "XlogP": {
+        "$numberDouble": "0"
+    },
+    "Complexity": {
+        "$numberInt": "66"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of April 27, 2010: https://www.safe.nite.go.jp/english/db.html (2) Alexander M, Lustigman BK; J Agric Food 14: 410 (1966) (3) Urano K, Kato Z; J Hazard Mat 13: 147-159 (1986) (4) Pitter P; Wat Res 10: 231-35 (1976) (5) Kondo M et al; Eisei Kagaku 34: 188-95 (1988)",
+            "Value": "AEROBIC: 4-Aminophenol, present at 100 mg/L, reached 6% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1). Total loss of UV absorbancy due to cleavage of the benzene ring was reported in 16 days in a screening study using a soil inoculum and 4-aminophenol at 5 ppm(2). 4-Aminophenol, present at 100 mg/L, in an electrolytic respirometry screening test using an activated sludge inoculum, was not biodegraded over a 10-day period as measured by BOD(3). 4-Aminophenol, at 200 mg/L chemical oxygen demand reached 87% removal in 5 days in a screening test using acclimated activated sludge at 100 mg/L(4). 4-Aminophenol, present at 50 and 10 mg/L was degraded by 0 and 85%, respectively, in river water and 0 and 100% in seawater, respectively(5)."
+        },
+        {
+            "References": "(1) Battersby NS, Wilson V; Appl Environ Microbiol 55: 433-39 (1989) (2) Kameya T et al; Sci Total Environ 170: 43-51 (1995) (3) O'Connor OA, Young LY; Environ Sci Technol 30: 1419-28 (1996) (4) Razo-Flores E et al; Wat Sci Tech 33: 47-57 (1996) (5) Razo-Flores E et al; FEMS Microbiol Rev 20: 525-38 (1997) (6) Horowitz A et al; Dev Ind Microbiol 23: 435-44 (1982) (7) Shelton DR, Tiedje JM; Development of Tests for determining Anaerobic Biodegradation Potential. East Lansing, MI: Mich State Univ., Dept Crop Soil Sci, USEPA560/5-81-013 (NTIS PB84-166495) (1981)",
+            "Value": "ANAEROBIC: 20% of the theoretical gas production was reached over 60 days in a screening study using methanogenic primary digesting sludge when 4-aminophenol was present; a lag phase of 57 days was noted(1). 4-Aminophenol at 30 mg-C/L was not degraded over a 28-day period, measured by removal of dissolved organic carbon, in an anaerobic screening study using 100 mg-C/L sewage(2). 4-Aminophenol, incubated in sediment under denitrifying conditions, showed an initial lag phase of 2.7 to 4.7 weeks followed by mineralization at a rate of 15.7 umol/L/day; 89% of theoretical N2 was recovered over the 30-week study(3). 4-Aminophenol was mineralized at a rate of 20 umol/L/day following a lag phase of 6.5 to 9 weeks under methanogenic conditions in a 26-week sediment grab sample study(3). 15% of the theoretical methane production was reached in 150 days with a 70-day lag period in an anaerobic screening study using 2-nitrophenol-adapted sludge; the study was run under methanogenic conditions with 1000 mg/L 4-aminophenol(4). No mineralization of 4-aminophenol was reported for the same study repeated using non-adapted sludge(4). 45.5% of the theoretical methane production was reached in 220 days with a 70-day lag period when 4-aminophenol was supplied to 2-nitrophenol-adapted granular sludge as the sole carbon source(5). 4-Aminophenol was not degraded over a 29-week period in anaerobic freshwater lake sediment or over an 8-week period when incubated with 2 different anaerobic municipal digested sludge samples(6). 4-Aminophenol was not degraded in 10% anaerobic sludge over 8 weeks(7)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 20",
+            "Value": "log Kow = 0.04 at pH 7.4"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:17567590",
+            "Value": "... Markers of ER stress (XBP1 messenger RNA processing and protein expression; GRP78 and GRP94 upregulation) and ER-mediated cell death (caspase-12 and calpain activation) were examined in kidney tissue of rats exposed to nephrotoxic doses of cisplatin (CIS), gentamicin (GEN), and p-aminophenol (PAP), a nephrotoxic metabolite of acetaminophen. XBP1 signaling was observed with all three drugs and was associated with increased expression of GRP94 and GRP78 in GEN- and PAP-treated animals, but not after CIS exposure. m-Calpain expression was increased after 7 days of CIS treatment, whereas it was decreased in PAP-treated rats. Caspase-12 cleavage products were increased after CIS, GEN, and PAP administration. The results of this study demonstrate that three clinically relevant nephrotoxic drugs are all associated with changes in markers of ER stress and ER-mediated cell death in vivo ..."
+        },
+        {
+            "References": "PMID:12657746",
+            "Value": "4-Aminophenol (4-AP), D-serine, and cisplatin are established rodent nephrotoxins that damage proximal tubules within the renal cortex ... High throughput 2D gel proteomics to profile protein changes in the plasma of compound-treated animals, ... /demonstrated/ several markers of kidney toxicity. Male F344 and Alpk rats were treated with increasing doses of 4-AP, D-serine, or cisplatin, and plasma samples were collected over time ... Several isoforms of the rat-specific T-kininogen protein were identified in each study. T-kininogen was elevated in the plasma of 4-AP-, D-serine-, and cisplatin-treated animals at early time points, returning to baseline levels 3 weeks after treatment. The protein was not elevated in the plasma of control animals or those treated with nontoxic compounds. /It was proposed/ that T-kininogen may be required to counteract apoptosis in proximal tubular cells in order to minimize tissue damage following a toxic insult. In addition, T-kininogen may be required to stimulate localized inflammation to aid tissue repair ... Several isoforms of the inter-alpha inhibitor H4P heavy chain /were identified/ in the 4-AP and D-serine studies. In each case, the protein expression levels in the blood samples paralleled the extent of kidney toxicity, highlighting the correlation between protein alterations and clinical chemistry endpoints. A further set of proteins correlating with kidney damage was found to be a component of the complement cascade and other blood clotting factors, indicating a contribution of the immune system to the observed toxicity. These observations underscore the value of proteomics in identifying new biomarkers and in the elucidation of mechanisms of toxicity."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, 4-Aminophenol (123-30-8) p.43 (2000  CD-ROM edition). Available from, as of May 17, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "One of the primary effects found from exposure to p-aminophenol is the formation of methemoglobin. This effect has been found in many species with a wide degree of susceptibility. The oxidation of hemoglobin to methemoglobin interferes with normal oxygen transport functions of hemoglobin and can result in a chemical asphyxia (usually at levels of 60% or more). It is believed that p-aminophenol forms a covalent bond with the reactive -SH groups of hemoglobin and transfers electrons to oxygen to created methemoglobin."
+        },
+        {
+            "References": "Clayton, G.D., F.E. Clayton (eds.) Patty's Industrial Hygiene and Toxicology. Volumes 2A, 2B, 2C, 2D, 2E, 2F: Toxicology. 4th ed. New York, NY: John Wiley & Sons Inc., 1993-1994., p. 973",
+            "Value": "p-Aminophenol is a significantly toxic chemical and one mechanism associated with its cytotoxicity has been attributed to its activity as a tissue respiratory (oxidative phosphorylation) inhibitor ... ."
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "_id": {
+        "$oid": "6682e802c4e5dba5ffba2374"
+    },
+    "CID": {
+        "$numberInt": "3440"
+    },
+    "Name": "Furosemide",
+    "IUPACName": "4-chloro-2-(furan-2-ylmethylamino)-5-sulfamoylbenzoic acid",
+    "CanonicalSMILES": "C1=COC(=C1)CNC2=CC(=C(C=C2C(=O)O)S(=O)(=O)N)Cl",
+    "Synonyms": [
+        "furosemide",
+        "54-31-9",
+        "Frusemide",
+        "Lasix",
+        "Furanthril",
+        "Furosemid",
+        "Errolon",
+        "Fusid",
+        "Aisemide",
+        "Beronald",
+        "Desdemin",
+        "Frusemin",
+        "Fuluvamide",
+        "Furanthryl",
+        "Furantril"
+    ],
+    "IsomericSMILES": "C1=COC(=C1)CNC2=CC(=C(C=C2C(=O)O)S(=O)(=O)N)Cl",
+    "INCHI": "InChI=1S/C12H11ClN2O5S/c13-9-5-10(15-6-7-2-1-3-20-7)8(12(16)17)4-11(9)21(14,18)19/h1-5,15H,6H2,(H,16,17)(H2,14,18,19)",
+    "INCHIKEY": "ZZUFCTLCJUWOSV-UHFFFAOYSA-N",
+    "Formula": "C12H11ClN2O5S",
+    "MolecularWeight": {
+        "$numberDouble": "330.74"
+    },
+    "Description": "Furosemide is a chlorobenzoic acid that is 4-chlorobenzoic acid substituted by a (furan-2-ylmethyl)amino and a sulfamoyl group at position 2 and 5 respectively. It is a diuretic used in the treatment of congestive heart failure. It has a role as a xenobiotic, an environmental contaminant and a loop diuretic. It is a sulfonamide, a chlorobenzoic acid and a member of furans.",
+    "XlogP": {
+        "$numberDouble": "2"
+    },
+    "Complexity": {
+        "$numberInt": "481"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Sangster J; LOGKOW Databank. Sangster Res. Lab., Montreal Quebec, Canada (1994)",
+            "Value": "log Kow = 2.03"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:26301821",
+            "Value": "Though both in vivo and in vitro studies have demonstrated an anticonvulsant effect of the loop diuretic furosemide, the precise mechanism behind this effect is still debated. The current study investigates the effect of furosemide on Cs-induced epileptiform activity (Cs-FP) evoked in area CA1 of rat hippocampal slices in the presence of Cs(+) (5mM) and ionotropic glutamatergic and GABAergic receptor antagonists. As this model diverges in several respects from other epilepsy models it can offer new insight into the mechanism behind the anticonvulsive effect of furosemide. The present study shows that furosemide suppresses the Cs-FP in a dose-dependent manner with a near complete block at concentrations = 1.25 mM. Because furosemide targets several types of ion transporters we examined the effect of more selective antagonists. Bumetanide (20 uM), which selectively inhibits the Na-K-2Cl co-transporter (NKCC1), had no significant effect on the Cs-FP. VU0240551 (10 uM), a selective antagonist of the K-Cl co-transporter (KCC2), reduced the ictal-like phase by 51.73 +/- 8.5% without affecting the interictal-like phase of the Cs-FP. DIDS (50 uM), a nonselective antagonist of Cl(-)/HCO3(-)-exchangers, Na(+)-HCO3(-)-cotransporters, chloride channels and KCC2, suppressed the ictal-like phase by 60.8 +/- 8.1% without affecting the interictal-like phase. At 500 uM, DIDS completely suppressed the Cs-FP. Based on these results we propose that the anticonvulsant action of furosemide in the Cs(+)-model is exerted through blockade of the neuronal KCC2 and Na(+)-independent Cl(-)/HCO3(-)-exchanger (AE3) leading to stabilization of the activity-induced intracellular acidification in CA1 pyramidal neurons."
+        },
+        {
+            "References": "PMID:26183401",
+            "Value": "Sodium chloride reabsorption in the thick ascending limb of the loop of Henle is mediated by the Na(+)-K(+)-2Cl(-) cotransporter (NKCC2). The loop diuretic furosemide is a potent inhibitor of NKCC2. However, less is known about the mechanism regulating the electrolyte transporter. Considering the well-established effects of nitric oxide on NKCC2 activity, cGMP is likely involved in this regulation. cGMP-dependent protein kinase I (cGKI; PKGI) is a cGMP target protein that phosphorylates different substrates after activation through cGMP. We investigated the potential correlation between the cGMP/cGKI pathway and NKCC2 regulation. We treated wild-type (wt) and cGKIa-rescue mice with furosemide. cGKIa-rescue mice expressed cGKIa only under the control of the smooth muscle-specific transgelin (SM22) promoter in a cGKI deficient background. Furosemide treatment increased the urine excretion of sodium and chloride in cGKIa-rescue mice compared to that in wt mice. We analyzed the phosphorylation of NKCC2 by western blotting and immunostaining using the phosphospecific antibody R5. The administration of furosemide significantly increased the phosphorylated NKCC2 signal in wt but not in cGKIa-rescue mice. NKCC2 activation led to its phosphorylation and membrane translocation. To examine whether cGKI was involved in this process, we analyzed vasodilator-stimulated phosphoprotein, which is phosphorylated by cGKI. Furosemide injection resulted in increased vasodilator-stimulated phosphoprotein phosphorylation in wt mice. We hypothesize that furosemide administration activated cGKI, leading to NKCC2 phosphorylation and membrane translocation. This cGKI-mediated pathway could be a mechanism to compensate for the inhibitory effect of furosemide on NKCC2."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Silva BF et al; Chemosphere 85: 1331-9 (2011)",
+            "Value": "SEDIMENT: Furosemide was not detected in 18 sediment samples collected Dec 2009 from the Ebro River Basin, Spain(1)."
+        }
+    ]
+}

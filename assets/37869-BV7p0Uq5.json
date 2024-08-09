@@ -1,0 +1,63 @@
+{
+    "_id": {
+        "$oid": "669270f5303528b49832d75d"
+    },
+    "CID": {
+        "$numberInt": "37869"
+    },
+    "Name": "Perfluidone",
+    "IUPACName": "N-[4-(benzenesulfonyl)-2-methylphenyl]-1,1,1-trifluoromethanesulfonamide",
+    "CanonicalSMILES": "CC1=C(C=CC(=C1)S(=O)(=O)C2=CC=CC=C2)NS(=O)(=O)C(F)(F)F",
+    "Synonyms": [
+        "PERFLUIDONE",
+        "37924-13-3",
+        "Destun",
+        "1,1,1-Trifluoro-N-(4-phenylsulfonyl-o-tolyl)methanesulfonamide",
+        "MBR 8251",
+        "1,1,1-Trifluoro-N-(2-methyl-4-(phenylsulfonyl)phenyl)methanesulfonamide",
+        "SB 1528",
+        "2-Methyl-4-(phenylsulfonyl)trifluoromethanesulfonanilide",
+        "7X0F4LZ22B",
+        "Methanesulfonamide",
+        "1,1,1-trifluoro-N-(2-methyl-4-(phenylsulfonyl)phenyl)-",
+        "\"1,1,1-Trifluoro-4-(phenylsulfonyl)methanesulfono-o-toluidide\"",
+        "Methanesulfonamide",
+        "N-(4-phenylsulfonyl-o-tolyl)-1,1,1-trifluoro-",
+        "Methanesulfonamide",
+        "1,1,1-trifluoro-N-[2-methyl-4-(phenylsulfonyl)phenyl]-",
+        "Caswell No. 903D",
+        "Perfluidone [ANSI:BSI:ISO]"
+    ],
+    "IsomericSMILES": "CC1=C(C=CC(=C1)S(=O)(=O)C2=CC=CC=C2)NS(=O)(=O)C(F)(F)F",
+    "INCHI": "InChI=1S/C14H12F3NO4S2/c1-10-9-12(23(19,20)11-5-3-2-4-6-11)7-8-13(10)18-24(21,22)14(15,16)17/h2-9,18H,1H3",
+    "INCHIKEY": "WHTBVLXUSXVMEV-UHFFFAOYSA-N",
+    "Formula": "C14H12F3NO4S2",
+    "MolecularWeight": {
+        "$numberDouble": "379.4"
+    },
+    "Description": "Perfluidone is a sulfonamide.",
+    "XlogP": {
+        "$numberDouble": "3.3"
+    },
+    "Complexity": {
+        "$numberInt": "628"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Peanut seedlings, cultivated for 8 days in a 0.5 mM solution of [14C]perfluidone, exhibited a modest absorption rate of 21.9%, resulting in an overall tissue concentration of 0.27 ppm (fresh weight basis). Upon elevating the [14C]perfluidone concentration to 5 mM, absorption increased to 25%, with a tissue concentration of 3.25 ppm. Notably, slight root injury was observed at the higher concentration. Despite the narrow concentration range studied, there was a direct relationship between perfluidone uptake and concentration. Autoradiograms of seedlings treated for 8 days revealed 14C translocation throughout the plant, with roots exhibiting the highest and uniform labeling. Extended cultivation for an additional 22 days showed trace or undetectable 14C in blossoms and foliar portions developed after transfer to [14C]-free nutrient solution. Quantitative translocation data and the distribution of 14C into water-soluble, chloroform-soluble, and 80% methanol-insoluble fractions are presented in Table II. Between the 8th and 30th day, shoot 14C levels remained stable, but there was a shift in fraction composition, indicating herbicide metabolism. In roots, a net loss of 14 \u00b1 7 Mg of perfluidone equivalents occurred, accompanied by changes in fraction distribution. By the study's end, 24.9 \u00b1 4.0 Mg of 14C (as perfluidone) were recovered in the post-nutrient solution, with the majority (74.5%) retrieved within the initial 4 days. Partitioning and TLC analysis suggested that around 90% of post-nutrient solution 14C was [14C]perfluidone.",
+            "reference": "Lamoureux, G. L., & Stafford, L. E. (1977). Translocation and metabolism of perfluidone (1, 1, 1-trifluoro-N-[2-methyl-4-(phenylsulfonyl) phenyl] methanesulfonamide) in peanuts. Journal of Agricultural and Food Chemistry, 25(3), 512-517.",
+            "method": {
+                "Test Plant": "Peanuts",
+                "Apply Location": "Seed application",
+                "Plant Grown Condition": "Spanish peanut seeds (Arachis hypogaea L.) were germinated and grown in vermiculite under greenhouse conditions with an average of 13 hours photoperiod, 31\u00b0C day temperature, 22\u00b0C night temperature, and 44% relative humidity.",
+                "Chemical Preparation": "[14C]Perfluidone, uniformly labeled in the trisubstituted phenyl ring, provided by the 3M Company at specific activities of 0.210 mCi/mmol and 5.20 mCi/mmol. Thin-layer chromatography (TLC) in solvents A, B, and C indicated the radiochemical purity of both preparations to be >99%.",
+                "Pesticide Application Details for the Plant": "Six lots of peanut seedlings (three per lot) were placed in beakers of 150 mL of 5.17 pM [14C]perfluidone in one-third strength nutrient solution and three lots of seedlings (three per lot) were placed in beakers of 200 mL of 0.512 pM [14C]perfluidone in one-third strength nutrient solution. The beakers were wrapped with foil to exclude light from the nutrient solution and returned to a greenhouse.",
+                "Other Information": "Six lots of peanut seedlings (three per lot) were used for each concentration of [14C]perfluidone in the nutrient solution."
+            },
+            "result": "[{\"Time after application\": \"8 days\", \"Pesticide size\": \"0.5um\", \"Absorption (%)\": 21.9, \"Translocated in roots (%)\": NaN, \"Translocated in shoots (%)\": NaN}, {\"Time after application\": \"8 days\", \"Pesticide size\": \"5um\", \"Absorption (%)\": 25.0, \"Translocated in roots (%)\": 18.5, \"Translocated in shoots (%)\": 14.3}, {\"Time after application\": \"30 days\", \"Pesticide size\": \"5um\", \"Absorption (%)\": 25.0, \"Translocated in roots (%)\": 3.3, \"Translocated in shoots (%)\": 9.8}]"
+        }
+    ]
+}

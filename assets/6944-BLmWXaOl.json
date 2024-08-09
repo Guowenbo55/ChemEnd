@@ -1,0 +1,85 @@
+{
+    "_id": {
+        "$oid": "6682e863c4e5dba5ffba2557"
+    },
+    "CID": {
+        "$numberInt": "6944"
+    },
+    "Name": "2-NITROTOLUENE",
+    "IUPACName": "1-methyl-2-nitrobenzene",
+    "CanonicalSMILES": "CC1=CC=CC=C1[N+](=O)[O-]",
+    "Synonyms": [
+        "2-Nitrotoluene",
+        "1-Methyl-2-nitrobenzene",
+        "88-72-2",
+        "O-NITROTOLUENE",
+        "NITROTOLUENE",
+        "o-Nitrotoluol",
+        "o-Methylnitrobenzene",
+        "Toluene",
+        "o-nitro-",
+        "2-Methyl-1-nitrobenzene",
+        "2-Methylnitrobenzene",
+        "2-Nitrotoluol",
+        "ortho-Nitrotoluol",
+        "Benzene",
+        "1-methyl-2-nitro-",
+        "1321-12-6",
+        "1-methyl-2-nitro-benzene"
+    ],
+    "IsomericSMILES": "CC1=CC=CC=C1[N+](=O)[O-]",
+    "INCHI": "InChI=1S/C7H7NO2/c1-6-4-2-3-5-7(6)8(9)10/h2-5H,1H3",
+    "INCHIKEY": "PLAZTCDQAHEYBI-UHFFFAOYSA-N",
+    "Formula": "C7H7NO2",
+    "MolecularWeight": {
+        "$numberDouble": "137.14"
+    },
+    "Description": "2-nitrotoluene is a mononitrotoluene that is toluene carrying a nitro substituent at position 2. It has a role as an environmental contaminant and a carcinogenic agent.",
+    "XlogP": {
+        "$numberDouble": "2.3"
+    },
+    "Complexity": {
+        "$numberInt": "130"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Biodegradation and bioaccumulation data of existing chemicals based on the CSCL Japan. Japan Chemical Industry Ecology - Toxicology and Information Center. Available from, as of Feb 9, 2012: https://www.safe.nite.go.jp/english/kizon/KIZON_start_hazkizon.html (2) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 76 (1995) (3) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2011. Available from, as of Feb 1, 2012: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (4) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "The BCF for 2-nitrotoluene has been measured to be 12.5-29.9 (at a concentration of 0.1 ppm) and 6.6-29.7 (at 0.01 ppm) in carp (Carprinus carpio)(1). An estimated BCF of 15 was calculated for 2-nitrotoluene(SRC), using a log Kow of 2.30(2) and a regression-derived equation(3). According to a classification scheme(4), these BCF values suggest the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Biodegradation and bioaccumulation data of existing chemicals based on the CSCL Japan. Japan Chemical Industry Ecology - Toxicology and Information Center. Available from, as of Feb 9, 2012: https://www.safe.nite.go.jp/english/kizon/KIZON_start_hazkizon.html (2) Struijs J, Stoltenkamp J; Sci Total Environ 57: 161-70 (1986) (3) Pitter P; Wat Res 10: 231-5 (1976) (4) Paca J et al; Soil Sediment Contam 14: 262-279 (2005)",
+            "Value": "AEROBIC: 2-Nitrotoluene, present at 100 mg/L, reached 0.5% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese Ministry of Industry and Trade (MITI) test that employs a mixed inoculum obtained from freshwater, soil, and sludge(1). Other evidence supports complete aerobic degradation of 10 mg/L 2-nitrotoluene within 2 weeks when incubated in adapted aerobic composite river sediment and sewage sludges(3). When nitrotoluene-adapted activated sludges were used as an inoculum, however, 2-nitrotoluene (200 mg/L) was almost completely degraded (i.e. 98% removal) within 5 days when incubated at 20 \u00b0C(3). The screening studies using unadapted sludges gave similar results as the MITI test, and 2-nitrotoluene is confirmed to be non biodegradable according to the standard MITI test. Using a mixed culture isolated from a contaminated soil (near an ammunition plant), 2-nitrotoluene (at initial concentrations of 3.5 mg/L) degraded completely in 8 days in aerobic batch and continuous reactor tests(4)."
+        },
+        {
+            "References": "(1) Zoeteman BCJ et al; Chemosphere 9: 231-49 (1980) (2) McCormick NG et al; Appl Environ Microb 31:949-58 (1976) (3) Toze S, Zappia L; Water Res 33: 3040-3045 (1999)",
+            "Value": "ANAEROBIC: 2-Nitrotoluene has been observed to be degraded to toluidine under anaerobic biodegradation conditions with little additional biodegradation(1). In general, anaerobic biodegradation of nitroaromatic compounds results in the reduction of the nitro group to an amino group(2). In anaerobic tests using wastewater from a munitions production facility, initial 2-nitrotoluene degraded by 58% in non-sterile conditions and by 18% in sterile conditions over a 36-day incubation period(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 76",
+            "Value": "log Kow = 2.30"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:13678655",
+            "Value": "/The/ p53 and beta-catenin mutations in the o-nitrotoluene-induced hemangiosarcomas ... most likely occurred as a result of the genotoxic effects of these chemicals. It also suggests that these mutations play a role in the pathogenesis of the ... hemangiosarcomas in B6C3F1(1) mice."
+        },
+        {
+            "References": "PMID:14688030",
+            "Value": "The alterations in cancer genes and proteins found in the mouse large intestinal tumors included mutations that activate signal transduction pathways (K-ras and Catnb) and changes that disrupt the cell-cycle and bypass G(1) arrest (p53, cyclin D1). These alterations, which are hallmarks of human colon cancer, probably contributed to the pathogenesis of the large intestinal carcinomas in mice following o-nitrotoluene exposure."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2011. Available from, as of Feb 1, 2012: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Toze S et al; In: Contaminated Site Remediation: Challenges Posed by Urban and Industrial Contaminants, Proc Contam Site Rem Conf., JohnstonCD, ed., Wembley, Australia, Centre Groundwater Studies, p. 375-381 (1999)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of 2-nitrotoluene can be estimated to be 370(SRC). According to a classification scheme(2), this estimated Koc value suggests that 2-nitrotoluene is expected to have moderate mobility in soil. Field monitoring at a munition factory site in Melbourne Australia found that 2-nitrotoluene migrated large distances in the subsurface soils(3); 2-nitrotoluene is reported to have low soil Kd sorption coefficients in a variety of soils types(3) indicating it will leach."
+        }
+    ]
+}

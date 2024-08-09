@@ -1,0 +1,63 @@
+{
+    "_id": {
+        "$oid": "669270f3303528b49832d752"
+    },
+    "CID": {
+        "$numberInt": "11488729"
+    },
+    "Name": "Pyridalyl",
+    "IUPACName": "2-[3-[2,6-dichloro-4-(3,3-dichloroprop-2-enoxy)phenoxy]propoxy]-5-(trifluoromethyl)pyridine",
+    "CanonicalSMILES": "C1=CC(=NC=C1C(F)(F)F)OCCCOC2=C(C=C(C=C2Cl)OCC=C(Cl)Cl)Cl",
+    "Synonyms": [
+        "pyridalyl",
+        "179101-81-6",
+        "Pyridalyl [ISO]",
+        "UNII-QTD92Z2P2Z",
+        "QTD92Z2P2Z",
+        "HSDB 7892",
+        "CHEBI:38887",
+        "S 1812",
+        "S-1812",
+        "s1812",
+        "Pyridine",
+        "2-[3-[2,6-dichloro-4-[(3,3-dichloro-2-propen-1-yl)oxy]phenoxy]propoxy]-5-(trifluoromethyl)-",
+        "Pyridalyl 100 microg/mL in Cyclohexane",
+        "Pyridine",
+        "2-(3-(2,6-dichloro-4-((3,3-dichloro-2-propen-1-yl)oxy)phenoxy)propoxy)-5-(trifluoromethyl)-",
+        "Pyridine",
+        "2-(3-(2,6-dichloro-4-((3,3-dichloro-2-propenyl)oxy)phenoxy)propoxy)-5-(trifluoromethyl)-",
+        "2-(3-(2,6-dichloro-4-((3,3-dichloroallyl)oxy)phenoxy)propoxy)-5-(trifluoromethyl)pyridine"
+    ],
+    "IsomericSMILES": "C1=CC(=NC=C1C(F)(F)F)OCCCOC2=C(C=C(C=C2Cl)OCC=C(Cl)Cl)Cl",
+    "INCHI": "InChI=1S/C18H14Cl4F3NO3/c19-13-8-12(27-7-4-15(21)22)9-14(20)17(13)29-6-1-5-28-16-3-2-11(10-26-16)18(23,24)25/h2-4,8-10H,1,5-7H2",
+    "INCHIKEY": "AEHJMNVBLRLZKK-UHFFFAOYSA-N",
+    "Formula": "C18H14Cl4F3NO3",
+    "MolecularWeight": {
+        "$numberDouble": "491.1"
+    },
+    "Description": "Pyridalyl is an organochlorine insecticide, an organofluorine insecticide and a dichlorobenzene.",
+    "XlogP": {
+        "$numberDouble": "7.1"
+    },
+    "Complexity": {
+        "$numberInt": "511"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Pyridalyl, among the investigated insecticides, showed remarkable persistence on both castor bean and cotton plants. It exhibited the longest duration of effectiveness against pests, with Lt50 values indicating its prolonged presence on castor bean (14.91 days) and cotton (9.93 days) plants. Despite its persistence, pyridalyl didn't exhibit significant systemic activity against the 4th instar larvae of S. littoralis in either cotton or castor bean plants. Instead, it demonstrated strong local activity, proving highly effective when the larvae fed on treated cotton plants. Similarly, when larvae fed on treated castor bean plants, pyridalyl resulted in superior larval mortality rates. This suggests that while pyridalyl had substantial residue persistence, its systemic movement within these plants was limited. The study revealed that the type of host plant significantly impacted the toxicological behavior of the insecticide, highlighting the crucial role of the treated plant in influencing the efficacy and behavior of pesticides.",
+            "reference": "El-Zahi, E. Z. S. (2015). Signs on the persistence and effectiveness of some novel insecticides against Spodoptera littoralis (Boisduval) on different host plants. Egyptian Academic Journal of Biological Sciences, F. Toxicology & Pest Control, 7(1), 105-113.",
+            "method": {
+                "Test Plant": "Spodoptera littoralis (4th instar larvae)",
+                "Apply Location": "Foliar (sprayed on the bottom half of cotton or castor bean plants)",
+                "Plant Grown Condition": "The plant grown in constant conditions of 25 +2C and 65 + 5 RH.",
+                "Chemical preparation": "Pyridalyl (Pleo 50% EC), emamectin benzoate (Proclaim 5% SG), spinetoram (Radiant 12% SC), hexaflumuron (Cameron 10% EC), chlorpyrifos (Dursban 48% EC)",
+                "Received pesticide of plant": "The final volume of spray solution represented 476 liters per hectare.",
+                "Other Information": "Ten cotton and five castor bean plants were treated with each insecticide."
+            },
+            "result": "[{\"Time After Application\": \"24h\", \"Plant\": \"Cotton\", \"Treated Part Mortality (%)\": \"100%\", \"Untreated Part Mortality (%)\": \"0%\"}, {\"Time After Application\": \"24h\", \"Plant\": \"Castor Bean\", \"Treated Part Mortality (%)\": \"100%\", \"Untreated Part Mortality (%)\": \"0%\"}]"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "_id": {
+        "$oid": "6682e8fdc4e5dba5ffba285e"
+    },
+    "CID": {
+        "$numberInt": "12220"
+    },
+    "Name": "2-Butene",
+    "IUPACName": "but-2-ene",
+    "CanonicalSMILES": "CC=CC",
+    "Synonyms": [
+        "2-BUTENE",
+        ".beta.-Butene",
+        "107-01-7",
+        "beta-Butene",
+        ".beta.-Butylene",
+        "DTXSID1026748",
+        "AKOS032960957",
+        "Q3554956"
+    ],
+    "IsomericSMILES": "CC=CC",
+    "INCHI": "InChI=1S/C4H8/c1-3-4-2/h3-4H,1-2H3",
+    "INCHIKEY": "IAQRGUVFOMOMEM-UHFFFAOYSA-N",
+    "Formula": "C4H8",
+    "MolecularWeight": {
+        "$numberDouble": "56.11"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "2.3"
+    },
+    "Complexity": {
+        "$numberInt": "15"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) OECD SIDS. 2-Butene (107-10-7). Screening Information Data Set (SIDS) of OECD High Production Volume Chemicals Programme. Available from, as of Jan 2, 2018: https://hpvchemicals.oecd.org/UI/Search.aspx (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Jan 3, 2018: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 8 was calculated in fish for 2-butene(SRC), using a log Kow of 1.85(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Patel RN et al; Dev Ind Microbiol 23: 187-205 (1982) Patel RN et al; Appl Environ Microbiol 44: 1130-1137 (1982) (3) Hou CT et al; Appl Environ Microbiol 46: 171-77 (1983)",
+            "Value": "PURE CULTURE: Pure cultures of methanotrophic bacteria isolated from soil and water were found to oxidize cis- and trans-2-butene to cis- and trans-2-butene-1-ol and which is then epoxidized to cis- and trans-2,3-epoxybutane(1-3). Epoxides were not further metabolized and accumulated extracellularly(1). These data suggest that biodegradation may be an important environmental fate process(SRC)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "OECD SIDS. 2-Butene (107-10-7). Screening Information Data Set (SIDS) of OECD High Production Volume Chemicals Programme. Available from, as of Jan 2, 2018: https://hpvchemicals.oecd.org/UI/Search.aspx",
+            "Value": "log Kow = 1.85 (mixture of 70% cis- and 30% trans-2-Butene)"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "EHCA; Registration for Bu-1-ene (CAS 106-98-9); Available from, as of December 12, 2017: https://echa.europa.eu/registration-dossier/-/registered-dossier/15510/7/3/3",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Rats were exposed for 4 hr to 2-butene at a nominal concentration of 10,000 ppm (22,948 mg/cu m). No clinical signs were seen and normal growth occurred over the 14 d observation period. No abnormalities were observed at gross necropsy. Only one concentration was tested. This concentration was at the explosive limit and therefore higher concentrations could not be tested."
+        },
+        {
+            "References": "EHCA; Registration for2-Butene (CAS 107-01-7); Available from, as of December 12, 2017: https://echa.europa.eu/registration-dossier/-/registered-dossier/13346/7/6/3",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Male and female rats were exposed to 2-butene at target concentrations of 2500 or 5000 ppm (approximately 5750 or 11500 mg/cu m) for two weeks prior to breeding, during breeding and until day 19 of gestation. The dams were then allowed to deliver their litters, which were retained until postnatal day 4. Some decreases in body weight were observed in females at 2500 or 5000 ppm during the mating period but these were inconsistent and no other treatment-related changes were observed. There was no evidence of significant systemic toxicity in the parents. There were no effects on mating behavior, fertility and gestation indices, the number of implantation sites and corpora lutea per dam, numbers of pups delivered, viability of pups at and after birth and the pup sex ratio when compared to the control group. Microscopic evaluation of gonadal function in parental males revealed no difference between treated and control groups. There were no treatment-related effects on the development of pups. There were no effects on body weight gain or observed during macroscopic examination of pups at post mortem. Based on these data, the NOAEC for reproductive and developmental toxicity was 5000 ppm (11,500 mg/cu m), the highest concentration tested."
+        },
+        {
+            "References": "EHCA; Registration for2-Butene (CAS 107-01-7); Available from, as of December 12, 2017: https://echa.europa.eu/registration-dossier/-/registered-dossier/13346/7/6/3",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Male and female rats were exposed to 2-butene at target concentrations of 2500 or 5000 ppm ( 5737 or 11474 mg/cu m) for two weeks prior to breeding, during breeding (1 week) and until day 19 of gestation (39-46 days of exposure). No significant systemic toxicity occurred in either sex, or in pregnant female rats. Some decreases in body weight were observed in both sexes at 5000 ppm but no other treatment-related changes were observed. Mean absolute organ weight and relative weight were comparable in all groups. No abnormal, treatment-related macroscopic changes (all groups) or pathological changes (control and 5000 ppm groups) were observed. In the original report a NOAEL for toxicity was set at 2,500 ppm based on the slight effects on body weights in males and females, and possibly food consumption in females. A re-analysis of the data by the Netherlands National Institute for Public Health and the Environment (2009) however, concluded that as these effects were not dose-related and not consistently present during the study, therefore the NOAEL for this study is 5000 ppm."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 85",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Concentrations of 13 to 13.5% (300 or 400 mg/L) causes deep CNS depression in mice and about 19% (120 to 420 mg/L) is fatal."
+        },
+        {
+            "References": "EHCA; Registration for Bu-1-ene (CAS 106-98-9); Available from, as of December 12, 2017: https://echa.europa.eu/registration-dossier/-/registered-dossier/15510/7/3/3",
+            "Value": "/GENOTOXICITY/ A chromosome aberration study was conducted with butene-2. No significant increases were seen in the frequency of chromosome aberrations either in the presence or absence of a liver enzyme metabolising system. Positive control compounds gave the expected results demonstrating the validity of the test. Butene-2 was therefore, considered to be non-clastogenic to rat lymphocytes in vitro."
+        },
+        {
+            "References": "EHCA; Registration for2-Butene (CAS 107-01-7); Available from, as of December 12, 2017: https://echa.europa.eu/registration-dossier/-/registered-dossier/13346/7/6/3",
+            "Value": "/GENOTOXICITY/ 2-Butene was not mutagenic to S. Typhimurium TA98, TA100, TA1535, TA 1537 and E.coli WP2uvrA, with or without metabolic activation, using a gas sampling bag method. Concentrations were not specified but tests were carried out at increasing levels until toxicity was observed. Buta-1,3-diene was mutagenic under these conditions indicating that the method was robust."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 85",
+            "Value": "/OTHER TOXICITY INFORMATION/ It is a cardiac sensitizer in dogs."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 85",
+            "Value": "/OTHER TOXICITY INFORMATION/ 2-Butene is a mild mucous membrane irritant."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) OECD SIDS. 2-Butene (107-10-7). Screening Information Data Set (SIDS) of OECD High Production Volume Chemicals Programme. Available from, as of Jan 2, 2018: https://hpvchemicals.oecd.org/UI/Search.aspx (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Jan 3, 2018: https://www2.epa.gov/tsca-screening-tools (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of 2-butene is estimated as 40(SRC), using a log Kow of 1.85(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that 2-butene is expected to have very high mobility in soil."
+        }
+    ]
+}

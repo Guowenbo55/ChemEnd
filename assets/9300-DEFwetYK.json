@@ -1,0 +1,93 @@
+{
+    "_id": {
+        "$oid": "6682e8d6c4e5dba5ffba2796"
+    },
+    "CID": {
+        "$numberInt": "9300"
+    },
+    "Name": "RUELENE",
+    "IUPACName": "N-[(4-tert-butyl-2-chlorophenoxy)-methoxyphosphoryl]methanamine",
+    "CanonicalSMILES": "CC(C)(C)C1=CC(=C(C=C1)OP(=O)(NC)OC)Cl",
+    "Synonyms": [
+        "Crufomate",
+        "299-86-5",
+        "RUELENE",
+        "Amidofos",
+        "Amidophos",
+        "Montrel",
+        "Rulene",
+        "Ruelene drench",
+        "Dowco 132",
+        "Crufomate A",
+        "Ruelene 25E",
+        "Crufomat",
+        "Cruformate",
+        "ENT 25,602-X",
+        "NSC 253463"
+    ],
+    "IsomericSMILES": "CC(C)(C)C1=CC(=C(C=C1)OP(=O)(NC)OC)Cl",
+    "INCHI": "InChI=1S/C12H19ClNO3P/c1-12(2,3)9-6-7-11(10(13)8-9)17-18(15,14-4)16-5/h6-8H,1-5H3,(H,14,15)",
+    "INCHIKEY": "BOFHKBLZOYVHSI-UHFFFAOYSA-N",
+    "Formula": "C12H19ClNO3P",
+    "MolecularWeight": {
+        "$numberDouble": "291.71"
+    },
+    "Description": "Crufomate is an alkylbenzene.",
+    "XlogP": {
+        "$numberDouble": "3.4"
+    },
+    "Complexity": {
+        "$numberInt": "319"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR: Hydrophobic, Electronic, and Steric Constants. ACS Professional Reference Book. Washingtion,DC: Amer Chem Soc (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF value of 230 was calculated for ruelene(SRC), using an experimental log Kow of 3.42(1,SRC) and a recommended regression-derived equation(2). According to a classification scheme(3), this BCF value suggests that bioconcentration in aquatic organisms is high(SRC)."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 153",
+            "Value": "The signs of poisoning due to organophosphorus cmpd are those due to accumulation of acetylcholine & hence overstimulation of parasympathetic nervous system. It is usual to divide them under 3 headings: muscarinic, nicotinic & central. Muscarinic signs ... consist of hypersalivation, lacrimation, sweating & nasal discharge. Miosis, dyspnea, vomiting, diarrhea & frequency of urination ... Nicotinic effects consist of fasciculation of muscles, weakness & paralysis. Central nervous system effects include nervousness, apprehension, ataxia, convulsions & coma. Death is due to resp failure, or sometimes cardiac arrest. There is little difference between signs produced by different organophosphorus compounds, but route of absorption may influence one system more than another. /Organophosphorus cmpd/"
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B. Molinoff, R.W. Ruddon, A.G. Goodman (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 9th ed. New York, NY: McGraw-Hill, 1996., p. 163",
+            "Value": "The characteristic pharmacological effects of the anti-ChE agents are due primarily to the prevention of hydrolysis of ACh by AChE at sites of cholinergic transmission. Transmitter thus accumulates, and the response to ACh that is liberated by cholinergic impulses or that is spontaneously released from the nerve ending is enhanced. With most of the organophosphorus agents ... virtually all the acute effects of moderate doses are attributable to this action. /Anticholinesterase agents/"
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B. Molinoff, R.W. Ruddon, A.G. Goodman (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 9th ed. New York, NY: McGraw-Hill, 1996., p. 168",
+            "Value": "The cardiovascular actions of anticholinesterase agents are complex, since they reflect both ganglionic and postganglionic effects of accumulated ACh on the heart and blood vessels. The predominant effect on the heart from the peripheral action of accumulated ACh is bradycardia, resulting in a fall in cardiac output. Higher doses usually cause a fall in blood pressure, often as a consequence of effects of anticholinesterase agents on the medullary vasomotor centers of the CNS. /Anticholinesterase agents/"
+        },
+        {
+            "References": "Dreisbach, R.H. Handbook of Poisoning. 12th ed. Norwalk, CT: Appleton and Lange, 1987., p. 113",
+            "Value": "Organophosphorus derivatives act by combining with and inactivating the enzyme acetylcholinesterase. ... The inactivation of cholinesterase by cholinesterase inhibitor pesticides allows the accumulation of large amounts of acetylcholine, with resultant widespread effects that may be ... separated into 4 categories: (1) Potentiation of postganglionic parasympathetic activity. ... (2) Persistent depolarization of skeletal muscle ... (3) Initial stimulation following depression of cells of central nervous system ... (4) Variable ganglionic stimulation or blockade ... /Cholinesterase inhibitor pesticides/"
+        },
+        {
+            "References": "International Labour Office. Encyclopedia of Occupational Health and Safety. Vols. I&II. Geneva, Switzerland: International Labour Office, 1983., p. 1638",
+            "Value": "The main feature of the toxic mechanism of organophosphorus pesticides is inhibition of the esterase enzyme activity, in particular of cholinesterase, which plays an important physiological part. Organophosphorus pesticides can also indirectly interact with the biochemical receptors of acetylcholine. /Organophosphorus pesticides/"
+        },
+        {
+            "References": "Hayes, W.J., Jr., E.R. Laws, Jr., (eds.). Handbook of Pesticide Toxicology. Volume 2. Classes of Pesticides. New York, NY: Academic Press, Inc., 1991., p. 932",
+            "Value": "Phosphorylated enzymes, like acetylated acetylcholinesterase, are esters and may be hydrolyzed by nucleophilic agents, including water. The rate at which phosphorylated enzymes are reactivated by water is extremely low, compared to the rate for acetylcholinesterase combined with acetate. When inhibition is by isopropyl phosphate, the rate is essentially zero. /Organic phosphorous pesticides/"
+        },
+        {
+            "References": "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 2",
+            "Value": "Organophosphates poison insects and humans primarily by phosphorylation of the acetylcholinesterase enzyme at nerve endings. /Organophosphate Cholinesterase-inhibiting pesticides/"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Glooschenko W et al; Pest Monit Journal 10: 61-7 (1976)",
+            "Value": "Samples of sediment from the Upper Great Lakes were collected (number unknown) during the summer of 1974 for analysis. Levels of ruelene were not found above 0.1 ppm in the sediment(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR: Hydrophobic, Electronic, and Steric Constants. ACS Professional Reference Book. Washingtion,DC: Amer Chem Soc (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 23 (1983)",
+            "Value": "The Koc of ruelene is estimated as approximately 1,700(SRC), using a measured log Kow of 3.42(1) and a regression-derived equation(2,SRC). According to a recommended classification scheme(3), this estimated Koc value suggests that ruelene is expected to have low mobility in soil(SRC)."
+        }
+    ]
+}

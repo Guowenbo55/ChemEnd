@@ -1,0 +1,87 @@
+{
+    "_id": {
+        "$oid": "66927122303528b49832d80c"
+    },
+    "CID": {
+        "$numberInt": "5821911"
+    },
+    "Name": "Thiamethoxam",
+    "IUPACName": "(NE)-N-[3-[(2-chloro-1,3-thiazol-5-yl)methyl]-5-methyl-1,3,5-oxadiazinan-4-ylidene]nitramide",
+    "CanonicalSMILES": "CN1COCN(C1=N[N+](=O)[O-])CC2=CN=C(S2)Cl",
+    "Synonyms": [
+        "Thiamethoxam",
+        "Actara",
+        "153719-23-4",
+        "Thiamethoxam [ISO]",
+        "(E)-thiamethoxam",
+        "Cruiser",
+        "Diacloden",
+        "C8H10CLN5O3S",
+        "3-((2-Chloro-5-thiazolyl)methyl)tetrahydro-5-methyl-N-nitro-4H-1,3,5-oxadiazin-4-imine",
+        "747IC8B487",
+        "Actara 2GR",
+        "Actara 25WG",
+        "n-(3-((2-chlorothiazol-5-yl)methyl)-5-methyl-1,3,5-oxadiazinan-4-ylidene)nitramide",
+        "(4E)-3-[(2-chloro-1,3-thiazol-5-yl)methyl]-5-methyl-N-nitro-1,3,5-oxadiazinan-4-imine",
+        "4H-1,3,5-Oxadiazin-4-imine",
+        "3-((2-chloro-5-thiazolyl)methyl)tetrahydro-5-methyl-N-nitro-"
+    ],
+    "IsomericSMILES": "CN\\1COCN(/C1=N/[N+](=O)[O-])CC2=CN=C(S2)Cl",
+    "INCHI": "InChI=1S/C8H10ClN5O3S/c1-12-4-17-5-13(8(12)11-14(15)16)3-6-2-10-7(9)18-6/h2H,3-5H2,1H3/b11-8+",
+    "INCHIKEY": "NWWZPOKUUAIXIW-DHZHZOJOSA-N",
+    "Formula": "C8H10ClN5O3S",
+    "MolecularWeight": {
+        "$numberDouble": "291.72"
+    },
+    "Description": "(E)-thiamethoxam is a thiamethoxam.",
+    "XlogP": {
+        "$numberDouble": "1.5"
+    },
+    "Complexity": {
+        "$numberInt": "352"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The extensive application of pesticides in agricultural activities has raised increasing concerns about crop contamination by pesticide residues, especially in vegetables. However, information about the transfer and cell diffusion characteristics of pesticides in vegetables is insufficient. In this study, we investigated the uptake, translocation, and subcellular distribution behaviors of four commonly used pesticides in Chinese cabbage (Brassica rapa var. chinensis) under laboratory hydroponic conditions. Root uptake of pesticides followed the order of fenbuconazole > avermectin > thiamethoxam > spirotetramat. Thiamethoxam was more readily translocated from the root to the shoot, while spirotetramat, fenbuconazole, and avermectin preferentially accumulated in the root. Cell soluble components were the dominant storage compartment for thiamethoxam, while the majority of spirotetramat, fenbuconazole, and avermectin were partitioned into the cell walls. These findings contribute to our understanding of pesticide bioconcentration behavior in food crops and help in evaluating the threats of pesticide residues to human health via the food chain.",
+            "reference": "Wang, Wenfeng; Wan, Qun; Li, Yixin; Xu, Wenjun; Yu, Xiangyang  (2019). Uptake, translocation and subcellular distribution of pesticides in Chinese cabbage (Brassica rapa var. chinensis). Ecotoxicology and Environmental Safety, 183(), 109488-doi:10.1016/j.ecoenv.2019.109488\u00a0    ",
+            "method": {
+                "Test Plant": "Chinese cabbage (Brassica rapa var. chinensis)",
+                "Apply Location": "Hydroponic exposure in nutrient solution",
+                "Plant Growth Condition": "Seeds surface sterilized, germinated 3d, then transplanted to pots with full-strength Hoagland's nutrient solution (pH 6.0) in plant incubator at 130\u00b15 \u03bcmol/m2s light, 16h photoperiod, 60% RH, 25/20\u00b0C day/night temp. Solution renewed every 5d.",
+                "Chemical Preparation": "Thiamethoxam, spirotetramat, fenbuconazole, avermectin standards (>99% purity). 1000 mg/L stock solutions in acetonitrile. Exposure at 10 mg/L in nutrient solution.",
+                "Pesticide Application Details for the Plant": "20d old uniform seedlings exposed by transferring to 100 mL beakers with 65 mL nutrient solution spiked at 10 mg/L for each pesticide.",
+                "Other Information": "Triplicate beakers per pesticide sampled at 0.5, 6, 12, 24h. Sampled solution and rinsed seedlings separated into roots/shoots, weighed, extracted. HPLC-MS/MS analysis. Extraction efficiencies checked by spiking at 2, 5, 10 mg/L with 81.9-103.7% recoveries."
+            },
+            "result": "[{\"Hours after application\": 0.5, \"Root concentration (mg/kg)\": 8.29, \"Root concentration factor\": 0.16, \"Shoot concentration (mg/kg)\": 1.22, \"Translocation factor\": 0.13}, {\"Hours after application\": 6.0, \"Root concentration (mg/kg)\": 3.9, \"Root concentration factor\": 0.63, \"Shoot concentration (mg/kg)\": 2.94, \"Translocation factor\": 0.83}, {\"Hours after application\": 12.0, \"Root concentration (mg/kg)\": 2.92, \"Root concentration factor\": 0.77, \"Shoot concentration (mg/kg)\": 2.71, \"Translocation factor\": 1.23}, {\"Hours after application\": 24.0, \"Root concentration (mg/kg)\": 2.92, \"Root concentration factor\": 0.78, \"Shoot concentration (mg/kg)\": 5.07, \"Translocation factor\": 1.94}]"
+        },
+        {
+            "content": "Uptake and translocation of imidacloprid (IMI), thiamethoxam (THX) and difenoconazole (DFZ) in rice plants (Oryza sativa L.) were investigated with a soil-treated experiment at two application rates: field rate (FR) and 10FR under laboratory conditions. The dissipation of the three compounds in soil followed the first-order kinetics and DFZ showed greater half-lives than IMI and THX. Detection of the three compounds in rice tissues indicated that rice plants could take up and accumulate these pesticides. The concentrations of IMI and THX detected in leaves (IMI,10.0 and 410 mg/kg dw; THX, 23.0 and 265 mg/kg dw) were much greater than those in roots (IMI,1.37 and 69.3 mg/kg dw; THX, 3.19 and 30.6 mg/kg dw), which differed from DFZ. The DFZ concentrations in roots (15.6 and 79.1 mg/kg dw) were much greater than those in leaves (0.23 and 3.4 mg/kg dw). The bioconcentration factor (BCF), representing the capability of rice to accumulate contaminants from soil into plant tissues, ranged from 1.9 to 224.3 for IMI, from 2.0 to 72.3 for THX, and from 0.4 to 3.2 for DFZ at different treated concentrations. Much higher BCFs were found for IMI and THX at 10FR treatment than those at FR treatment, however, the BCFs of DFZ at both treatments were similar. The translocation factors (TFs), evaluating the capability of rice to translocate contaminants from the roots to the aboveground parts, ranged from 0.02 to 0.2 for stems and from 0.02 to 9.0 for leaves. The tested compounds were poorly translocated from roots to stems, with a TF below 1. However, IMI and THX were well translocated from roots to leaves. Clothianidin (CLO), the main metabolite of THX, was detected at the concentrations from 0.02 to 0.5 mg kg 1 in soil and from 0.07 to 7.0 mg kg 1 inplants. Concentrations of CLO in leaves were almost 14 times greater than those in roots at 10*FR treatment.",
+            "reference": "Ge, J., Cui, K., Yan, H., Li, Y., Chai, Y., Liu, X., \u2026 Yu, X. (2017). Uptake and translocation of imidacloprid, thiamethoxam and difenoconazole in rice plants. Environmental Pollution, 226, 479\u2013485. doi:10.1016/j.envpol.2017.04.043\u00a0",
+            "method": {
+                "Test Plant": "Rice (Oryza sativa L. ssp. japonica cvs. Nanjing 9108)",
+                "Apply Location": "Root (soil treatment)",
+                "Plant Grown Condition": "Greenhouse (humidity 60%) with temperature of 25\u00b0C day/18\u00b0C night and supplemental lighting of 300 W/m2 from 8:00 to 22:00 daily. Plants were watered daily with 300 mL water to keep them well-watered but not flooded.",
+                "Chemical Preparation": "Certified pesticide standards of IMI (99.5%), THX (99%), DFZ (99%) and CLO (99%) were purchased from Dr. Ehrenstorfer (Germany). Imidacloprid (IMI), Thiamethoxam (THX), and Difenoconazole (DFZ) were first dissolved in acetonitrile and then added into the soil separately to make the initial concentrations approximate 1 mg IMI/kg soil,10 mg IMI/kg soil, 1 mg THX/kg soil, 10mg THX/kg soil, 2 mg DFZ/kg soil and 20 mg DFZ/kg soil, respectively.",
+                "Pesticide Application Details for the Plant": "IMI: 1 mg/kg soil (field rate, FR) and 10 mg/kg soil (10FR). THX: 1 mg/kg soil (FR) and 10 mg/kg soil (10FR). DFZ: 2 mg/kg soil (FR) and 20 mg/kg soil (10*FR).",
+                "Other Information": "25 containers (each with 20 rice seedlings) for each pesticide treatment level. Soil and plant samples were collected in triplicates at different time points."
+            },
+            "result": "[{\"Time after application\": \"4 days\", \"Dosage (mg/kg)\": 1, \"Bioconcentration Factor\": 2.0, \"Translocation Factor Stems\": NaN, \"Translocation Factor Leaves\": NaN}, {\"Time after application\": \"4 days\", \"Dosage (mg/kg)\": 10, \"Bioconcentration Factor\": 0.4, \"Translocation Factor Stems\": NaN, \"Translocation Factor Leaves\": NaN}, {\"Time after application\": \"10 days\", \"Dosage (mg/kg)\": 1, \"Bioconcentration Factor\": 24.3, \"Translocation Factor Stems\": NaN, \"Translocation Factor Leaves\": NaN}, {\"Time after application\": \"10 days\", \"Dosage (mg/kg)\": 10, \"Bioconcentration Factor\": 35.8, \"Translocation Factor Stems\": NaN, \"Translocation Factor Leaves\": NaN}, {\"Time after application\": \"20 days\", \"Dosage (mg/kg)\": 1, \"Bioconcentration Factor\": 51.7, \"Translocation Factor Stems\": NaN, \"Translocation Factor Leaves\": NaN}, {\"Time after application\": \"20 days\", \"Dosage (mg/kg)\": 10, \"Bioconcentration Factor\": 72.0, \"Translocation Factor Stems\": NaN, \"Translocation Factor Leaves\": NaN}, {\"Time after application\": \"35 days\", \"Dosage (mg/kg)\": 1, \"Bioconcentration Factor\": 43.0, \"Translocation Factor Stems\": NaN, \"Translocation Factor Leaves\": NaN}, {\"Time after application\": \"35 days\", \"Dosage (mg/kg)\": 10, \"Bioconcentration Factor\": 72.3, \"Translocation Factor Stems\": NaN, \"Translocation Factor Leaves\": NaN}, {\"Time after application\": \"50 days\", \"Dosage (mg/kg)\": 1, \"Bioconcentration Factor\": 39.3, \"Translocation Factor Stems\": NaN, \"Translocation Factor Leaves\": NaN}, {\"Time after application\": \"50 days\", \"Dosage (mg/kg)\": 10, \"Bioconcentration Factor\": 70.3, \"Translocation Factor Stems\": NaN, \"Translocation Factor Leaves\": NaN}, {\"Time after application\": \"60 days\", \"Dosage (mg/kg)\": 1, \"Bioconcentration Factor\": 38.3, \"Translocation Factor Stems\": NaN, \"Translocation Factor Leaves\": NaN}, {\"Time after application\": \"60 days\", \"Dosage (mg/kg)\": 10, \"Bioconcentration Factor\": 71.0, \"Translocation Factor Stems\": NaN, \"Translocation Factor Leaves\": NaN}, {\"Time after application\": \"90 days\", \"Dosage (mg/kg)\": 1, \"Bioconcentration Factor\": 51.0, \"Translocation Factor Stems\": NaN, \"Translocation Factor Leaves\": NaN}, {\"Time after application\": \"90 days\", \"Dosage (mg/kg)\": 10, \"Bioconcentration Factor\": 70.5, \"Translocation Factor Stems\": NaN, \"Translocation Factor Leaves\": NaN}, {\"Time after application\": \"Average\", \"Dosage (mg/kg)\": 1, \"Bioconcentration Factor\": NaN, \"Translocation Factor Stems\": 0.2, \"Translocation Factor Leaves\": 7.2}, {\"Time after application\": \"Average\", \"Dosage (mg/kg)\": 10, \"Bioconcentration Factor\": NaN, \"Translocation Factor Stems\": 0.2, \"Translocation Factor Leaves\": 8.7}]"
+        },
+        {
+            "content": "Production of chrysanthemum (Dendranthema grandiflora) in greenhouses often requires intensive pesticide use, raising concerns about food safety and human health. This study investigated the uptake, translocation, and residue dissipation of typical fungicides (metalaxyl-M and fludioxonil) and insecticides (cyantraniliprole and thiamethoxam) in greenhouse chrysanthemum when applied to soils. Chrysanthemum plants absorbed these pesticides from soils to various degrees, with bioconcentration factors (BCF) positively correlated with the lipophilicity (log Kow) of pesticides. The highly lipophilic fludioxonil (log Kow = 4.12) had the greatest BCF (2.96 \u00b1 0.41 g/g), while the hydrophilic thiamethoxam (log Kow = 0.13) had the lowest (0.09 \u00b1 0.03 g/g). Translocation factors (TF) from roots to shoots followed the order of TF_leaf > TF_stem > TF_flower. Metalaxyl-M and cyantraniliprole, with medium lipophilicity (log Kow of 1.71 and 2.02, respectively), and hydrophilic thiamethoxam showed relatively strong translocation potentials with TF values in the range of 0.29\u20130.81, 0.36\u20132.74, and 0.30\u20131.03, respectively.",
+            "reference": "Gong, W., Jiang, M., Zhang, T., Zhang, W., Liang, G., Li, B., ... & Han, P. (2020). Uptake and dissipation of metalaxyl-M, fludioxonil, cyantraniliprole and thiamethoxam in greenhouse chrysanthemum. Environmental pollution, 257, 113499.",
+            "method": {
+                "Test Plant": "Chrysanthemun",
+                "Apply Location": "Root application (soil application)",
+                "Plant Grown Condition": "Plants were cultivated in plastic pots (500 \u00d7 340 \u00d7 263 mm) filled with dry soil mass of 6 \u00b1 0.5 kg, with a temperature of 21 \u00b1 2\u00b0C and relative humidity of 75 \u00b1 2% in a greenhouse.",
+                "Chemical Preparation": "A commercial formulation of 62.5 g/L metalaxyl-M fludioxonil SC (37.5 g/L for metalaxyl-M and 25 g/L for fludioxonil), and a commercial formulation of 40% cyantraniliprole thiamethoxam SC (20% for each) were used. A mixed pesticide solution (200 mL) was prepared at the manufacturer-recommended dose (3.2, 2.1, 4.3, and 4.3 kg/ha for metalaxyl-M, fludioxonil, cyantraniliprole, and thiamethoxam, respectively).",
+                "Pesticide Application Details for the Plant": "Chrysanthemun plants received a mixed pesticide solution (200 mL) once at the manufacturer-recommended dose (low dose) or at the high dose (doubling the recommended dose) two or three times with a 7-day interval.",
+                "Other Information": "The experiment was designed in a randomized block design with two adjacent blocks separated by a 0.5-m alley."
+            },
+            "result": "[{\"Days after application\": 1, \"Flower (mg/kg)\": 0.053, \"Leaf (mg/kg)\": 0.249, \"Stem (mg/kg)\": 0.15}, {\"Days after application\": 2, \"Flower (mg/kg)\": 0.106, \"Leaf (mg/kg)\": 0.259, \"Stem (mg/kg)\": 0.174}, {\"Days after application\": 3, \"Flower (mg/kg)\": 0.193, \"Leaf (mg/kg)\": 0.421, \"Stem (mg/kg)\": 0.218}, {\"Days after application\": 5, \"Flower (mg/kg)\": 0.081, \"Leaf (mg/kg)\": 0.518, \"Stem (mg/kg)\": 0.221}, {\"Days after application\": 7, \"Flower (mg/kg)\": 0.062, \"Leaf (mg/kg)\": 0.737, \"Stem (mg/kg)\": 0.221}, {\"Days after application\": 14, \"Flower (mg/kg)\": 0.056, \"Leaf (mg/kg)\": 0.39, \"Stem (mg/kg)\": 0.178}, {\"Days after application\": 21, \"Flower (mg/kg)\": 0.037, \"Leaf (mg/kg)\": 0.193, \"Stem (mg/kg)\": 0.118}]"
+        }
+    ]
+}

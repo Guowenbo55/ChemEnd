@@ -1,0 +1,63 @@
+{
+    "_id": {
+        "$oid": "66927100303528b49832d788"
+    },
+    "CID": {
+        "$numberInt": "27159"
+    },
+    "Name": "Cartap",
+    "IUPACName": "S-[3-carbamoylsulfanyl-2-(dimethylamino)propyl] carbamothioate",
+    "CanonicalSMILES": "CN(C)C(CSC(=O)N)CSC(=O)N",
+    "Synonyms": [
+        "Cartap",
+        "15263-53-3",
+        "Padan",
+        "\"carbamothioic acid",
+        "S,S-(2-(dimethylamino)-1,3-propanediyl) ester\"",
+        "1,3-Di(carbamoylthio)-2-dimethylaminopropane",
+        "2-Dimethylamino-1,3-bis(carbamoylthio)propane",
+        "1,3-Bis(carbamoylthio)-2-(N,N-dimethylamino)propane",
+        "\"S,S-(2-Dimethylaminotrimethylene) bis(thiocarbamate)\"",
+        "CHEBI:3436",
+        "Z45YUY784H",
+        "S-[3-carbamoylsulfanyl-2-(dimethylamino)propyl] carbamothioate",
+        "\"S,S-(2-(dimethylamino)-1,3-propanediyl) dicarbamothioate\"",
+        "Thiobel",
+        "Sanvex",
+        "\"CARBAMIC ACID",
+        "THIO-",
+        "S,S-(2-(DIMETHYLAMINO)TRIMETHYLENE) ESTER\""
+    ],
+    "IsomericSMILES": "CN(C)C(CSC(=O)N)CSC(=O)N",
+    "INCHI": "InChI=1S/C7H15N3O2S2/c1-10(2)5(3-13-6(8)11)4-14-7(9)12/h5H,3-4H2,1-2H3,(H2,8,11)(H2,9,12)",
+    "INCHIKEY": "IRUJZVNXZWPBMU-UHFFFAOYSA-N",
+    "Formula": "C7H15N3O2S2",
+    "MolecularWeight": {
+        "$numberDouble": "237.3"
+    },
+    "Description": "Cartap is a nereistoxin analogue insecticide.",
+    "XlogP": {
+        "$numberDouble": "0"
+    },
+    "Complexity": {
+        "$numberInt": "193"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Concentrations of cartap and monocrotophos in rice plants treated with granular formulations at different growth stages were measured, and toxicity of each insecticide, applied to rice plants by root dipping method, to rice leafroller larvae was evaluated. The concentrations of cartap in the leaf blades reached a maximum of 3.2 ppm and 2.1 ppm at the boot and panicle formation stages respectively 3 days after application, while the maximum concentration at the maximum tillering stage was 0.94 ppm 15 days after application. The concentrations of monocrotophos in the leaf blades reached a maximum of 1.4 ppm, 2.3 ppm and 2.1 ppm at the three stages respectively 3 days after application. LC50 values were calculated from mortality and insecticide concentration in the leaf blades, showing LC50 (24 hr) values for cartap were 0.68, 1.4 and 5.6 ppm and for monocrotophos were 0.60, 1.2 and 4.0 ppm in 1st, 3rd and 5th instar larvae respectively. Periods of exceeding LC50 (24 hr) levels for 1st instar larvae of cartap and monocrotophos in the leaf blades were 27 and 10 days at the boot stage, 25 and 9 days at the panicle formation stage and 21 and 11 days at the maximum tillering stage respectively.",
+            "reference": "ENDO, S., & MASUDA, T. (1983). Distribution of Cartap and Monocrotophos in Rice Plant and Their Toxicity to the Rice Leafroller, Cnaphalocrocis medinalis Guen\u00e9e. Journal of Pesticide Science, 8(4), 587\u2013590. doi:10.1584/jpestics.8.587\u00a0",
+            "method": {
+                "Test Plant": "Rice (Oryza sativa L., cultivar: Reiho)",
+                "Apply Location": "Submerged application",
+                "Plant Grown Condition": "Planted in wind-dried paddy soil (3 kg per pot) and transplanted with one seedling per pot to obtain rice plants at different growth stages. Transplantation was conducted on June 2, 16, and July 2, 1981. The pots were then placed outdoors and left undisturbed.",
+                "Chemical Preparation": "Monocrotophos (5%) or cartap granules (4%) were applied to the water surface at a rate of 80 mg per pot (equivalent to 4 kg/10a).",
+                "Pesticide Application Details for the Plant": "After application, the pots were placed in a greenhouse with a vinyl roof. Over time, the upper part of the rice plants was harvested and separated into leaf blades and leaf sheaths for analysis of monocrotophos and cartap. Gas chromatography using a Shimadzu 5A instrument with a flame ionization detector was used for analysis. The separation column was 3 mm \u00d7 1.0 m, packed with 5% PEG-20M/GasChromQ (60-80 mesh).",
+                "Other Information": "The experiment was repeated twice."
+            },
+            "result": "[{\"Time after application\": \"1 day\", \"Stage\": \"Boot\", \"Leaf Blade (ppm)\": 2.5, \"Leaf Sheath (ppm)\": 2.5}, {\"Time after application\": \"3 days\", \"Stage\": \"Boot\", \"Leaf Blade (ppm)\": 3.0, \"Leaf Sheath (ppm)\": 1.5}, {\"Time after application\": \"6 days\", \"Stage\": \"Boot\", \"Leaf Blade (ppm)\": 2.8, \"Leaf Sheath (ppm)\": 1.4}, {\"Time after application\": \"9 days\", \"Stage\": \"Boot\", \"Leaf Blade (ppm)\": 1.5, \"Leaf Sheath (ppm)\": 0.5}, {\"Time after application\": \"15 days\", \"Stage\": \"Boot\", \"Leaf Blade (ppm)\": 1.2, \"Leaf Sheath (ppm)\": 0.3}, {\"Time after application\": \"30 days\", \"Stage\": \"Boot\", \"Leaf Blade (ppm)\": 0.5, \"Leaf Sheath (ppm)\": 0.08}, {\"Time after application\": \"1 day\", \"Stage\": \"Panicle Formation\", \"Leaf Blade (ppm)\": 1.2, \"Leaf Sheath (ppm)\": 1.1}, {\"Time after application\": \"3 days\", \"Stage\": \"Panicle Formation\", \"Leaf Blade (ppm)\": 2.3, \"Leaf Sheath (ppm)\": 1.0}, {\"Time after application\": \"6 days\", \"Stage\": \"Panicle Formation\", \"Leaf Blade (ppm)\": 2.0, \"Leaf Sheath (ppm)\": 0.8}, {\"Time after application\": \"9 days\", \"Stage\": \"Panicle Formation\", \"Leaf Blade (ppm)\": 1.6, \"Leaf Sheath (ppm)\": 0.45}, {\"Time after application\": \"15 days\", \"Stage\": \"Panicle Formation\", \"Leaf Blade (ppm)\": 1.2, \"Leaf Sheath (ppm)\": 0.3}, {\"Time after application\": \"30 days\", \"Stage\": \"Panicle Formation\", \"Leaf Blade (ppm)\": 0.3, \"Leaf Sheath (ppm)\": 0.05}, {\"Time after application\": \"1 day\", \"Stage\": \"Maximum Tillering\", \"Leaf Blade (ppm)\": 0.45, \"Leaf Sheath (ppm)\": 0.2}, {\"Time after application\": \"3 days\", \"Stage\": \"Maximum Tillering\", \"Leaf Blade (ppm)\": 0.48, \"Leaf Sheath (ppm)\": 0.22}, {\"Time after application\": \"6 days\", \"Stage\": \"Maximum Tillering\", \"Leaf Blade (ppm)\": 0.47, \"Leaf Sheath (ppm)\": 0.24}, {\"Time after application\": \"9 days\", \"Stage\": \"Maximum Tillering\", \"Leaf Blade (ppm)\": 0.9, \"Leaf Sheath (ppm)\": 0.3}, {\"Time after application\": \"15 days\", \"Stage\": \"Maximum Tillering\", \"Leaf Blade (ppm)\": 0.95, \"Leaf Sheath (ppm)\": 0.25}, {\"Time after application\": \"30 days\", \"Stage\": \"Maximum Tillering\", \"Leaf Blade (ppm)\": 0.5, \"Leaf Sheath (ppm)\": 0.06}]"
+        }
+    ]
+}

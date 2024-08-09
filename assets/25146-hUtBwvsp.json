@@ -1,0 +1,71 @@
+{
+    "_id": {
+        "$oid": "6682e958c4e5dba5ffba2a27"
+    },
+    "CID": {
+        "$numberInt": "25146"
+    },
+    "Name": "DIALIFOR",
+    "IUPACName": "2-(2-chloro-1-diethoxyphosphinothioylsulfanylethyl)isoindole-1,3-dione",
+    "CanonicalSMILES": "CCOP(=S)(OCC)SC(CCl)N1C(=O)C2=CC=CC=C2C1=O",
+    "Synonyms": [
+        "Dialifos",
+        "DIALIFOR",
+        "Dialiphos",
+        "Torak",
+        "10311-84-9",
+        "Dialiphor",
+        "Hercules 14503",
+        "ENT 27320",
+        "O,O-Diethyl S-(2-chloro-1-phthalimidoethyl)phosphorodithioate",
+        "S-(2-Chloro-1-phthalimidoethyl) O,O-diethyl phosphorodithioate",
+        "2-(2-chloro-1-diethoxyphosphinothioylsulfanylethyl)isoindole-1,3-dione",
+        "Phosphorodithioic acid",
+        "O,O-diethyl ester",
+        "S-ester with N-(2-chloro-1-mercaptoethyl)phthalimide",
+        "N-(2-Chloro-1-(diethoxyphosphinothioylthio)ethyl)phthalimide",
+        "S-(2-Chloro-1-phthalmidoethyl)-O,O-diethylphosphorothionate",
+        "DTXSID0037522"
+    ],
+    "IsomericSMILES": "CCOP(=S)(OCC)SC(CCl)N1C(=O)C2=CC=CC=C2C1=O",
+    "INCHI": "InChI=1S/C14H17ClNO4PS2/c1-3-19-21(22,20-4-2)23-12(9-15)16-13(17)10-7-5-6-8-11(10)14(16)18/h5-8,12H,3-4,9H2,1-2H3",
+    "INCHIKEY": "MUMQYXACQUZOFP-UHFFFAOYSA-N",
+    "Formula": "C14H17ClNO4PS2",
+    "MolecularWeight": {
+        "$numberDouble": "393.8"
+    },
+    "Description": "Dialifor is a member of isoindoles.",
+    "XlogP": {
+        "$numberDouble": "3.8"
+    },
+    "Complexity": {
+        "$numberInt": "473"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 123 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994) (4) Freed VH et al; J Agric Food Chem 27: 706-8 (1979)",
+            "Value": "An estimated BCF of 820 was calculated for dialifor(SRC), using a log Kow of 4.69(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is high(SRC), but dialifor's rapid hydrolysis(4) probably prevents bioconcentration, especially under basic conditions(SRC)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 123",
+            "Value": "log Kow = 4.69"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "EPA/OPP; Organophosphorus Cumulative Risk Assessment - 2006 Update. p 40. (August 2006) Downloadable as a zipped pdf file from https://www.epa.gov/pesticides/cumulative/2006-op/index.htm as of June 20, 2007",
+            "Value": "OPs /including dialifor/ exert their neurotoxicity by binding to and phosphorylating the enzyme acetylcholinesterase in both the central (brain) and peripheral nervous systems... .. There are laboratory animal data on OPs for cholinesterase activity in plasma, red blood cell (RBC) and brain, as well as behavioral or functional neurological effects in submitted guideline studies. Measures of acetylcholinesterase inhibition in the peripheral nervous system (PNS) are very limited for the OP pesticides. As a matter of /EPA/ science policy, blood cholinesterase data (plasma and RBC) are considered appropriate surrogate measures of potential effects on PNS acetylcholinesterase activity and of potential effects on the central nervous system (CNS) when brain cholinesterase data are lacking..."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 123 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of dialifor is estimated as 8500(SRC), using a log Kow of 4.69(1)and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that dialifor is expected to be immobile in soil."
+        }
+    ]
+}

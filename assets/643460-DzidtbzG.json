@@ -1,0 +1,179 @@
+{
+    "_id": {
+        "$oid": "6682e9a4c4e5dba5ffba2ba6"
+    },
+    "CID": {
+        "$numberInt": "643460"
+    },
+    "Name": "SORBIC ACID",
+    "IUPACName": "(2E,4E)-hexa-2,4-dienoic acid",
+    "CanonicalSMILES": "CC=CC=CC(=O)O",
+    "Synonyms": [
+        "sorbic acid",
+        "110-44-1",
+        "(2E,4E)-hexa-2,4-dienoic acid",
+        "2,4-Hexadienoic acid",
+        "2E,4E-Hexadienoic acid",
+        "Hexa-2,4-dienoic acid",
+        "Panosorb",
+        "Sorbistat",
+        "2-Propenylacrylic acid",
+        "Hexadienoic acid",
+        "trans,trans-Sorbic acid",
+        "(2E,4E)-2,4-Hexadienoic acid",
+        "(E,E)-2,4-Hexadienoic acid",
+        "2,4-Hexadienoic acid",
+        "(2E,4E)-",
+        "2,4-Hexadienoic acid",
+        "(E,E)-"
+    ],
+    "IsomericSMILES": "C/C=C/C=C/C(=O)O",
+    "INCHI": "InChI=1S/C6H8O2/c1-2-3-4-5-6(7)8/h2-5H,1H3,(H,7,8)/b3-2+,5-4+",
+    "INCHIKEY": "WSWCOQWTEOXDQX-MQQKCMAXSA-N",
+    "Formula": "C6H8O2",
+    "MolecularWeight": {
+        "$numberDouble": "112.13"
+    },
+    "Description": "Sorbic acid is a hexadienoic acid with double bonds at C-2 and C-4; it has four geometrical isomers, of which the trans,trans-form is naturally occurring. It is a hexadienoic acid, a polyunsaturated fatty acid, a medium-chain fatty acid and an alpha,beta-unsaturated monocarboxylic acid. It is a conjugate acid of a sorbate.",
+    "XlogP": {
+        "$numberDouble": "1.3"
+    },
+    "Complexity": {
+        "$numberInt": "123"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) US Dept Agric; US Dept Agric, Agric Res Service. 1992-2016. Dr. Duke's Phytochemical and Ethnobotanical Databases. Sorbic acid. Available from, as of June 13, 2016: https://phytochem.nal.usda.gov/phytochem/search",
+            "Value": "Sorbic acid was detected not quantified in the fruit of Magnolia Vine (Schisandra chinensis (Schinsandraceae)) and Rowan Berry fruit (Sorbus aucubaria ((Rosacea))(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Profess Ref Book. Heller SR (consult ed) Washington, DC: Amer Chem Soc p 22 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of June 2, 2016: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF value of 3 was calculated in fish for sorbic acid(SRC), using a log Kow of 1.33(1) and a recommended regression-derived equation(2). According to a classification scheme(3), this BCF value suggests that bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Luck E et al; Sorbic Acid. Ullmann's Encyclopedia of Industrial Chemistry. 7th ed. (1999-2016). New York, NY: John Wiley & Sons. Online Posting Date: Oct 15, 2011. (2) Kondo M et al; Eisei Kaguka 34: 188-95 (1988) (3) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of June 2, 2016: https://www.safe.nite.go.jp/english/db.html (4) Kondo M; Simulation Studies of Degradation of Chemicals in the Environment: Simulation Studies of Degradation of Chemicals in the Water and Soil, Environment Agency, Office of Health Studies, Japan (1978) (5) ECHA; Search for Chemicals. Hexa-2,4-dienoic acid (CAS 110-44-1) Registered Substances Dossier. European Chemical Agency. Available from, as of June 2, 2015: https://echa.europa.eu/",
+            "Value": "AEROBIC: Sorbic acid is readily degradable in soil(1). Sorbic acid also shows high degradability, 95% within 6 days, in the Zahn-Wellens test(1). 100% degradation of sorbic acid was observed after 3 days incubation in seawater taken from Akashi Beach, Japan and river water taken from the Mino River, Japan, using an initial sorbic acid concentration of 60 ppm(2). Sorbic acid, present at 100 mg/L, reached 83% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test which classified the compound as readily biodegradable(3). Sorbic acid was observed to biodegrade in soil suspensions(4). Sorbic acid (at 2 mg/L) was found to be readily biodegradable in an aerobic BOD test using domestic activated sludge with a 7-day theoretical BOD of 65.5% and a 28-day theoretical BOD of 74.9%(4)."
+        },
+        {
+            "References": "(1) Chou WL et al; Biotechnol Bioeng Symp 8: 391-414 (1979) (2) Schnell S et al; Biodegradation 2: 33-41 (1991) (3) Speece RE; Environ Sci Technol 17: 416A-27A (1983)",
+            "Value": "ANAEROBIC: After a lag period of 10 days, sorbic acid was metabolized, at a rate of 142 mg/L day, by anaerobic bacteria acclimated to acetate culture(1). Sulfate-reducing and fermenting bacteria have been observed to biodegrade sorbic acid; the sulfate-reducing bacterium oxidized sorbate completely to carbon dioxide, the fermenting bacterium converted sorbate to about equal amounts of acetate and butyrate(2); both bacteria tolerated sorbate up to concentrations of about 1.12 g/L(2). Sorbic acid was identified as amenable to anaerobic biodegradation(7)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 22",
+            "Value": "log Kow = 1.33"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "PMID:12419694",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Trans,trans-muconic acid (t,t-MA) is a biomarker of benzene exposure reflecting metabolic activation to trans,trans-muconaldehyde. t,t-MA background urinary levels are highly variable, thus limiting its use to exposure monitoring of levels over 1 ppm of benzene. Actually, sorbic acid (SA) is known to influence background excretion of t,t-MA in man, but only a few examples suggest that SA ingestion can enhance t,t-MA levels occurring together with benzene exposure. In this study, the effect of SA was investigated in benzene-exposed male Sprague-Dawley rats exposed to 1 ppm benzene for 6 hr. Exposed animals had a 24-hr urinary t,t-MA excretion higher than that observed in non-exposed animals (87+/-13 ug/kg vs 19+/-3 ug/kg body weight). The oral dose of 8 mg/kg body weight SA had no effect on urinary t,t-MA both in control and in benzene-exposed rats. Increases of t,t-MA levels in urine occurred at SA doses of 50-200 mg/kg body weight, and co-exposure to benzene and SA (50 and 100 mg/kg body weight) produced additive enhancement of t,t-MA excretion. These data demonstrate the dose-response relationship between SA administration and t,t-MA excretion. Our study showed that SA ingestion at doses equal to or greater than 50 mg/kg body weight significantly affects the t,t-MA urinary levels in rats exposed to 1 ppm of benzene for 6 hr. These data support the conclusion that in man t,t-MA is not suitable for biomonitoring of low levels of benzene exposure."
+        },
+        {
+            "References": "European Chemicals Agency (ECHA); Registered Substances, Hexa-2,4-dienoic acid (CAS Number: 110-44-1) (EC Number: 203-768-7) (Last updated: December 27, 2015). Available from, as of May 2, 2016: https://echa.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ A 4 hour semiocclusive application of sorbic acid to the intact skin of three rabbits did not produce erythema nor edema. The test material was classified as not skin irritating to rabbit skin according to Draize classification scheme."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 812",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Sorbic acid was not a primary irritant or sensitizer when applied in 0.1 M concentrations to guinea pig skin. It was characterized as a severe irritant following application of 1 mg to rabbit skin. The proliferation and survival of rabbit corneal epithelial cells in tissue culture were reduced in the presence of 0.1% sorbic acid."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 812",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ On the basis of finding that the occurrence of sorbic acid-induced hepatomas was correlated with the depletion of reduced glutathione in the mouse liver, the possible conversion of sorbic acid to a metabolite that is reactive with SH-compounds was studied. Feeding mice 15% sorbic acid for 2 weeks was associated with a 2.0-fold induction of peroxisome beta-oxidation and depletion of reduced glutathione in the liver. Although no mechanism was elucidated, the authors noted that oxidative stress caused by a depleted cellular-SH-pool together with the induction of peroxisome proliferation by sorbic acid feeding may be a determining factor by which exposure to nonmutagenic sorbic acid can result in an increased incidence of hepatoma."
+        },
+        {
+            "References": "European Chemicals Agency (ECHA); Registered Substances, Hexa-2,4-dienoic acid (CAS Number: 110-44-1) (EC Number: 203-768-7) (Last updated: December 27, 2015). Available from, as of May 2, 2016: https://echa.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ /In a 90- to 92-day rat study/, no overt clinical signs of toxicity, no mortalities, no-treatment related effects on food consumption and no ophthalmologic findings were observed ... . Body weights were initially decreased in males at 100, 000 ppm. The deviation from controls was always far below 10% and returned to normal in study week 5. This finding was considered as toxicologically not relevant. In females, body weights were slightly to moderately increased from 25,000 ppm onwards as compared to the control, indicating sex-specific differences to the males. In both sexes, food intake was constantly lower as compared to the control, indicating weight compensation or even over-compensation through the relatively high caloric substitution via sorbic acid in the diet. The clinical pathology and organ weight data indicate sex-specific metabolic involvement of sorbic acid during the elimination process, which involved the lipid metabolism, transport proteins and liver weights in females, but not in males. In males, the only clinical pathology finding was a slight increase in ALP isoenzyme activity, suggesting a slightly different metabolic pathway for this sex. Therefore it is important to note that none of these metabolic changes identified in clinical pathology and organ weight evaluation in either males or females did result in any histopathologically evident target organ toxicity. These findings due to test compound-induced metabolic changes proved to be toxicologically insignificant in this test system."
+        },
+        {
+            "References": "European Chemicals Agency (ECHA); Registered Substances, Hexa-2,4-dienoic acid (CAS Number: 110-44-1) (EC Number: 203-768-7) (Last updated: December 27, 2015). Available from, as of May 2, 2016: https://echa.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ /Rats were fed up to 100,000 ppm sorbic acid for a period of 28 days./ No overt clinical signs of toxicity, no mortalities, no-treatment related effects on food consumption and no changes in neurotoxicological measurements were observed during the study. The high dose group showed a reversible trend of slightly lower overall mean body weight gains. This was considered due to palatability problems of feeding a high test compound concentration in the diet (10%). No treatment related changes in hematological, blood serum parameters and urine analysis were seen. No treatment related macroscopic or microscopic changes were identified upon necropsy."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 812",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ No adverse effects were noted in rats fed sorbic acid at dietary levels of 1, 2, 4, and 8% for 90 days. Similarly, there were not adverse findings when sorbic acid was fed to puppies at a 4% dietary level for 90 days."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 812",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ No effects were observed in rats and dogs when sorbic acid was incorporated in the diets at the 5% level on a moisture-free basis, but 30 daily doses of about 50 mg/kg in the feed of rats did cause some reduced weight gain."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 812",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Sorbic acid at dietary levels of 1, 5, or 10% for 80 weeks fed to male and female ASH/CS1 mice and 0, 1.5, or 10% for 2 years fed to male and female SPF Wistar rats did not increase the number of deaths or the incidence of spontaneous histological lesions, including tumors."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 812",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ There was no adverse effect on the blood or internal organs of rats, guinea pigs, rabbits, and dogs after prolonged feeding at 1 to 500 times the amount used in foods."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 813",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Wistar rats (six males) given subcutaneous injections of 32 mg sorbic acid, in 0.5 mL of arachis oil twice weekly for 65 weeks developed local sarcomas. The first tumor was observed at 82 weeks. Similar findings were also observed in follow-up studies. However, six Wistar rats maintained on drinking water containing 10 mg of sorbic acid/100mL drinking water for 64 weeks did not develop tumors. Tumors also were not observed in Wistar rats (50 of each sex) on diets that contained 40 mg/kg/day of sorbic acid for 18 months or in 25 male and female cross-bred white mice after administration of 40 mg/kg/day for 17 months."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 813",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Mice fed a diet containing 15% sorbic acid for 88 weeks exhibited a high incidence of hepatoma. Furthermore, the glutathione level in the livers of the mice that ingested 15% sorbic acid were decreased to 40% of the amount found in controls after a 3-month feeding period; this low level was maintained until the end of the experiments at 12 months. There was a close correlation between the extent of depletion of the glutathione level in the liver and the concentration of sorbic acid added to the diet. In the same strain of mice fed a diet containing 15% sorbic acid for up to 6 months, the acidic fraction of an ether extract showed slight mutagenic activity in an Ames test with S. typhimurium TA98 in the presence of a liver 9000-g supernatant. Consequently, the hepatomas that developed in mice fed a 15% sorbic acid diet were considered to be induced both by the chronic depletion of the hepatic glutathione and by the gradual production of various promutagens in the intestine which were absorbed and metabolically activated by the liver."
+        },
+        {
+            "References": "PMID:21421836",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Sorbic acid (SA) is a polyunsaturated fatty acid (PUFA) with a conjugated double bond. The conjugated fatty acids, including CLA, are multifunctional bioactive fatty acids with the ability to improve growth performance. The effect of SA on pig growth performance was examined to determine its mechanism of action. The ADG, ADFI, and serum IGF-I concentration were examined, as were IGF-I secretion and IGF system gene expression in hepatocytes. Two hundred forty 21-d-old Duroc x Landrace x Yorkshire weaned piglets (6.86 +/- 0.02 kg) were randomly divided into 4 groups, each consisting of 3 pens of 20 piglets (10 female and 10 male). The 4 groups of piglets were kept in a temperature-controlled room (26 to 28 \u00b0C), and feed and water were provided to the pigs ad libitum. Weanling piglets were fed diets that included 0, 0.5, 2, or 4 g of SA/kg for 42 d. The diet supplemented with 0.5 g/kg of SA improved (p<0.05) ADG, BW, and G:F, whereas supplementation with all 3 SA doses increased (p<0.05) ADG and G:F at 21 to 42 d of age. The greatest concentration of plasma triglycerides was observed (p<0.05) in the 4 g/kg of SA group. The SA increased (0.5 g of SA/kg, p>0.05; 1 g of SA/kg, p<0.05; and 2 g of SA/kg, p<0.05, respectively) plasma total serum protein and globulin concentrations in a dose-dependent manner. It was noted that the smallest SA treatment dose (0.5 g/kg) dramatically increased (p<0.05) serum IGF-I concentration but decreased (p<0.05) the concentrations of blood urea N and cortisol. The SA increased (p<0.05) IGF-I, IGF-II, IGF-I receptor (IGF-IR), and PPARalpha gene mRNA expression and IGF-I secretion, but not (p>0.05) IGFBP or PPARgamma mRNA expression, in pig primary hepatocytes. These results indicate that SA improves growth performance by regulating IGF system gene expression and hormone secretion."
+        },
+        {
+            "References": "European Chemicals Agency (ECHA); Registered Substances, Hexa-2,4-dienoic acid (CAS Number: 110-44-1) (EC Number: 203-768-7) (Last updated: December 27, 2015). Available from, as of May 2, 2016: https://echa.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ No treatment-related maternal or developmental effects were observed /in rabbits/ at 300 mg/kg bw/day. Maternal findings in the mid dose group included increased respiratory rate following administration, decreased body weight gain and rough surface of the spleen. Maternal findings in high dose females included increased respiratory rate following administration, death, abortion, decreased body weight and body weight gain, marked decrease in food consumption and pathological findings upon necropsy (rough surface and reduced size of the spleen). Statistically significant reductions in mean fetal and placental weights and the viability of the fetuses were observed at the mid and high dose levels. At 1000 mg/kg bw/day, marginal statistically significantly increased incidences of unclassified macroscopic variations (abdominal distension caused by an inflated gastric tract) and skeletal variations (less than 7 lumber vertebral bodies ossified) occurred. Abdominal distension was noted in two dams where all fetuses were affected and was regarded as not test item-related. At the high dose level, causing severe maternal toxicity, increased post-implantation loss, severely reduced viability of fetuses, increased incidences of malrotated fore paws, domed head, accessory 13th ribs, skeletal retardations according to Dawson and soft tissue variations of the head according to Wilson were recorded. However, it did not appear justified to draw any valid conclusion on teratogenic properties at the highest dose level of this study. Slight or severe maternal toxicity observed at the mid and high dose level, respectively, and severely reduced food consumption at both dose levels indicated malnutrition. This normally results in inadequate intake of calcium and micronutrients like trace elements and vitamins, which are required for normal development of the fetuses. The malnutrition resulted in premature death of dams, retarded development of the fetuses and reduced viability of fetuses in the highest dose group. As a reason, it was considered that sorbic acid was administered over the test period by single gastric intubations per day. Necropsy revealed gastric lesions in all deceased animals. Since sorbic acid is known to have irritant properties, such lesions are probably attributable to administration of a large quantity of the irritant test article by gastric intubation. Furthermore, it cannot be excluded that administration of large quantities of an antimicrobial substance resulted in disturbance of the intestinal microflora which, in turn, would result in deficiencies in nutrients, in particular for rabbits species. It should, in contrast, be noted that in feeding studies for rodents and dogs (with human-like intestinal function), high doses of sorbic acid are well tolerated, which supports these conclusions."
+        },
+        {
+            "References": "European Chemicals Agency (ECHA); Registered Substances, Hexa-2,4-dienoic acid (CAS Number: 110-44-1) (EC Number: 203-768-7) (Last updated: December 27, 2015). Available from, as of May 2, 2016: https://echa.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ The NOAEL for male and female /rats/ of the P-generation was established at 3000 mg/kg bw/day. The statistically significant reduction of food intake in particular for F0 and F1 dams at 1000 and 3000 mg/kg bw/day, in the presence of caloric substitution by sorbic acid was considered to be the cause of reduced body weight development and slight developmental disturbances (morphological landmarks, learning and memory) of the F1/F2 offspring of the mid and high dose group during lactation. The reason for this effect remains unknown, however nutritional deficiencies in the pups masked by caloric overcompensation in lactating females might be an explanation. The NOAEL concerning effects on development of the conceptus and the offspring (F1-generation) through sexual maturity was established at 1000 mg/kg bw/day. Unscheduled deaths and clinical signs in F1 weanlings selected for mating (observed for 5 juveniles at 3000 mg/kg bw/day and one juvenile at 1000 mg/kg bw/day) during early pre-mating period is not uncommon in oral (gavage) reproduction toxicity studies. When administering excessive dose levels to juveniles as in this case, intolerance to oral gavage treatment often is a more important aspect rather than toxic effects induced by the test compound itself - findings that would not be necessarily seen in a corresponding dietary (feeding) study. Hence, these deaths may also be considered as incidental and not treatment related, and therefore of no toxicological relevance."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 814",
+            "Value": "/GENOTOXICITY/ Sorbic acid ... /was/ inactive in vitro in the Syrian hamster embryo (SHE) fibroblast micronucleus test and the SHE cell transformation test."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 814",
+            "Value": "/GENOTOXICITY/ When administered orally at doses up to 5000 mg/kg, sorbic acid increased the frequency of micronuclei in mice. ... When incubated with cultured human A549 cells, sorbic acid did not initiate DNA repair in the unscheduled DNA synthesis assay. The authors concluded that sorbic acid ... is not susceptible to oxidative degradation to 4,5-oxohexenoate, a compound mutagenic in the Ames assay."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 814",
+            "Value": "/GENOTOXICITY/ Food-grade sorbic acid in distilled water (15 mg/kg/day) was administered to groups of 10 male Swiss albino mice by oral gavage for 30 successive days. The bone marrow of the mice showed an increase in the effects of the spindle apparatus of bone marrow cells, but sorbic acid did not damage chromosomes and was therefore not considered clastogenic."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 813",
+            "Value": "/GENOTOXICITY/ A significant increase in the frequency of sister chromatid exchanges was observed in bone marrow cells of mice following intraperitoneal injection with 75, 100, or 150 mg/kg of sorbic acid, but not with 25 or 50 mg/kg. In a micronucleus assay, the highest dose level (150 mg/kg), but not the 2.5 or 20 mg/kg dose level, of sorbic acid produced a significant increase in micronuclei formations."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 813",
+            "Value": "/GENOTOXICITY/ When mice were fed a diet containing 15% sorbic acid for a period of up to 6 months, ether extracts of the intestinal contents of the mice were not mutagenic to Salmonella typhimurium TA98, but the acidic components obtained by fractionating the ether extracts showed slight mutagenic activity after the addition of a liver 9000-g supernatant metabolic activation system. These results suggested that mutagens were gradually produced in the intestine and moved into the liver where they were metabolically activated."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 813",
+            "Value": "/GENOTOXICITY/ Sorbic acid was negative in the Salmonella reverse mutation assay (Ames test) with and without rat liver S9 metabolic activation. Sorbic acid was also negative in the Chinese hamster fibroblast chromosomal aberration test."
+        },
+        {
+            "References": "PMID:18156260",
+            "Value": "/OTHER TOXICITY INFORMATION/ The weak organic acid sorbic acid is a commonly used food preservative, as it inhibits the growth of bacteria, yeasts, and molds. We have used genome-wide transcriptional profiling of Bacillus subtilis cells during mild sorbic acid stress to reveal the growth-inhibitory activity of this preservative and to identify potential resistance mechanisms. Our analysis demonstrated that sorbic acid-stressed cells induce responses normally seen upon nutrient limitation. This is indicated by the strong derepression of the CcpA, CodY, and Fur regulon and the induction of tricarboxylic acid cycle genes, SigL- and SigH-mediated genes, and the stringent response. Intriguingly, these conditions did not lead to the activation of sporulation, competence, or the general stress response. The fatty acid biosynthesis (fab) genes and BkdR-regulated genes are upregulated, which may indicate plasma membrane remodeling. This was further supported by the reduced sensitivity toward the fab inhibitor cerulenin upon sorbic acid stress. ..."
+        },
+        {
+            "References": "PMID:26338121",
+            "Value": "/OTHER TOXICITY INFORMATION/ Bacillus subtilis spores are a problem for the food industry as they are able to survive preservation processes. The spores often reside in food products, where their inherent protection against various stress treatments causes food spoilage. Sorbic acid is widely used as a weak acid preservative in the food industry. Its effect on spore germination and outgrowth in a combined, 'hurdle', preservation setting has gained limited attention. Therefore, the effects of mild sorbic acid (3 mM), heat-treatment (85 \u00b0C for 10 min) and a combination of both mild stresses on germination and outgrowth of B. subtilis 1A700 spores were analyzed at single spore level. The heat-treatment of the spore population resulted in a germination efficiency of 46.8% and an outgrowth efficiency of 32.9%. In the presence of sorbic acid (3 mM), the germination and outgrowth efficiency was 93.3% and 80.4% respectively whereas the combined heat and sorbic acid stress led to germination and outgrowth efficiencies of 52.7% and 27.0% respectively. The heat treatment clearly primarily affected the germination process, while sorbic acid affected the outgrowth and generation time. In addition a new 'burst' time-point was defined as the time-point at which the spore coat visibly breaks and/or is shed. The combined stresses had a synergistic effect on the time of the end of germination to the burst time-point, increasing both the mean and its variation more than either of the single stresses did."
+        },
+        {
+            "References": "PMID:21315984",
+            "Value": "/OTHER TOXICITY INFORMATION/ Sorbic acid (SA) is widely used as a preservative, but the effect of SA on spore germination and outgrowth has gained limited attention up to now. Therefore, the effect of sorbic acid on germination of spores of Bacillus cereus strain ATCC 14579 was analyzed both at phenotype and transcriptome level. Spore germination and outgrowth were assessed at pH 5.5 without and with 0.75, 1.5 and 3.0 mM (final concentrations) undissociated sorbic acid (HSA). This resulted in distinct HSA concentration-dependent phenotypes, varying from reduced germination and outgrowth rates to complete blockage of germination at 3.0 mM HSA. The phenotypes reflecting different stages in the germination process could be confirmed using flow cytometry and could be recognized at transcriptome level by distinct expression profiles. In the absence and presence of 0.75 and 1.5 mM HSA, similar cellular ATP levels were found up to the initial stage of outgrowth, suggesting that HSA-induced inhibition of outgrowth is not caused by depletion of ATP. Transcriptome analysis revealed the presence of a limited number of transcripts in dormant spores, outgrowth related expression, and genes specifically associated with sorbic acid stress, including alterations in cell envelope and multidrug resistance. ..."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of June 2, 2016: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) ECHA; Search for Chemicals. Hexa-2,4-dienoic acid (CAS 110-44-1) Registered Substances Dossier. European Chemical Agency. Available from, as of June 2, 2015: https://echa.europa.eu/ (4) Dorko CL et al; Sorbic Acid. Kirk-Othmer Encyclopedia of Chemical Technology. (1999-2016). New York, NY: John Wiley & Sons. Online Posting Date: Sept 15, 2014. (5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of sorbic acid can be estimated to be 9(SRC). According to a classification scheme(2), this estimated Koc value suggests that sorbic acid is expected to have very high mobility in soil. A Koc of less than 1 was estimated for sorbic using an HPLC method(3). The pKa of sorbic acid is 4.76(4), indicating that this compound will exist almost entirely in the anion form in the environment and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(5)."
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "_id": {
+        "$oid": "6682e8a1c4e5dba5ffba268f"
+    },
+    "CID": {
+        "$numberInt": "8011"
+    },
+    "Name": "ETHYLENE CYANOHYDRIN",
+    "IUPACName": "3-hydroxypropanenitrile",
+    "CanonicalSMILES": "C(CO)C#N",
+    "Synonyms": [
+        "3-Hydroxypropionitrile",
+        "109-78-4",
+        "3-Hydroxypropanenitrile",
+        "Hydracrylonitrile",
+        "ETHYLENE CYANOHYDRIN",
+        "2-Cyanoethanol",
+        "Propanenitrile",
+        "3-hydroxy-",
+        "Glycol cyanohydrin",
+        "Methanolacetonitrile",
+        "Hydroxypropanenitrile",
+        "2-Hydroxycyanoethane",
+        "2-Cyanoethyl alcohol",
+        "beta-Hpn",
+        "beta-Cyanoethanol",
+        "beta-Hpn3"
+    ],
+    "IsomericSMILES": "C(CO)C#N",
+    "INCHI": "InChI=1S/C3H5NO/c4-2-1-3-5/h5H,1,3H2",
+    "INCHIKEY": "WSGYTJNNHPZFKR-UHFFFAOYSA-N",
+    "Formula": "C3H5NO",
+    "MolecularWeight": {
+        "$numberDouble": "71.08"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "-0.9"
+    },
+    "Complexity": {
+        "$numberInt": "51"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Sangster J; LOGKOW Databank, A Databank of Evaluated Octanol-Water Partition Coefficients (LOG P) on Microcomputer Diskette, Montreal, Quebec, Canada: Sangster Res Lab (1994) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3.2 was calculated for ethylene cyanohydrin(SRC), using a log Kow of -0.94(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Sasaki S; pp. 283-98 in Aquatic Pollutants. Hutzinger O et al, eds. Oxford, UK: Pergamon Press (1978)",
+            "Value": "AEROBIC: Ethylene cyanohydrin is confirmed to be biodegradable according to the standard test of the Japanese Ministry of Industry and Trade (MITI) that employs a mixed inoculum obtained from freshwater, soil, and sludge(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Sangster J; LOGKOW Databank. Sangster Res. Lab., Montreal Quebec, Canada (1994)",
+            "Value": "log Kow= -0.94"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Clayton, G.D., F.E. Clayton (eds.) Patty's Industrial Hygiene and Toxicology. Volumes 2A, 2B, 2C, 2D, 2E, 2F: Toxicology. 4th ed. New York, NY: John Wiley & Sons Inc., 1993-1994., p. 3147",
+            "Value": "Saturated vapor inhalation for 8 hr produced no effects /on rats/."
+        },
+        {
+            "References": "Clayton, G.D., F.E. Clayton (eds.) Patty's Industrial Hygiene and Toxicology. Volumes 2A, 2B, 2C, 2D, 2E, 2F: Toxicology. 4th ed. New York, NY: John Wiley & Sons Inc., 1993-1994., p. 3147",
+            "Value": "Single applications to skin caused moderate local irritation but no toxicity up to 3.8 g/kg in the rabbit. In 15 repeated applications to rabbit skin, there was no injury."
+        },
+        {
+            "References": "Clayton, G.D., F.E. Clayton (eds.) Patty's Industrial Hygiene and Toxicology. Volumes 2A, 2B, 2C, 2D, 2E, 2F: Toxicology. 4th ed. New York, NY: John Wiley & Sons Inc., 1993-1994., p. 3148",
+            "Value": ".../It/ was applied to... skin (0.5 ml/guinea pig)... no effect was noted in 24 hr."
+        },
+        {
+            "References": "Patty, F. (ed.). Industrial Hygiene and Toxicology: Volume II: Toxicology. 2nd ed. New York: Interscience Publishers, 1963., p. 2026",
+            "Value": "/IN THE RAT/.../ETHYLENE CYANOHYDRIN WAS/ FOUND NOT TO PRODUCE GROWTH EFFECTS..."
+        },
+        {
+            "References": "HIROSE M ET AL; NAGOYA MED J 25(1-2) 1 (1980)",
+            "Value": "MALE RATS & MICE WERE GIVEN 100 PPM IN THEIR DIET CONTINUOUSLY FOR 78 WK. BODY WT WERE LOWER IN TEST ANIMALS THAN CONTROLS, THEIR RED BLOOD CELL, WHITE BLOOD CELL, HEMOGLOBIN, & HEMATOCRIT LEVELS WERE ALSO LOWER THAN CONTROLS."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992) (2) Swann RL et al; Res Rev 85: 23 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc for ethylene cyanohydrin can be estimated to be about 1(SRC). According to a classification scheme(2), this estimated Koc value suggests that ethylene cyanohydrin is expected to have very high mobility in soil."
+        }
+    ]
+}

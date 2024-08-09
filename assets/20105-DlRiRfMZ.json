@@ -1,0 +1,63 @@
+{
+    "_id": {
+        "$oid": "66927109303528b49832d7a8"
+    },
+    "CID": {
+        "$numberInt": "20105"
+    },
+    "Name": "Dipropetryn",
+    "IUPACName": "6-ethylsulfanyl-2-N,4-N-di(propan-2-yl)-1,3,5-triazine-2,4-diamine",
+    "CanonicalSMILES": "CCSC1=NC(=NC(=N1)NC(C)C)NC(C)C",
+    "Synonyms": [
+        "Dipropetryn",
+        "4147-51-7",
+        "Cotofor",
+        "Sancap",
+        "DIPROPETRYNE",
+        "GS-16068",
+        "2-Ethylthio-4,6-bis(isopropylamino)-s-triazine",
+        "2-(Ethylthio)-4,6-bis(isopropylamino)-s-triazine",
+        "\"1,3,5-Triazine-2,4-diamine",
+        "6-(ethylthio)-N,N-bis(1-methylethyl)-\"",
+        "\"6-(Ethylthio)-N,N-bis(1-methylethyl)-1,3,5-triazine-2,4-diamine\"",
+        "HMU670U9DQ",
+        "s-Triazine",
+        "2-(ethylthio)-4,6-bis(isopropylamino)-",
+        "GS 16068; Sancap;Cotofor",
+        "6-(ethylthio)-N2,N4-diisopropyl-1,3,5-triazine-2,4-diamine",
+        "s-Triazine",
+        "2,4-bis(isopropylamino)-6-ethylthio-"
+    ],
+    "IsomericSMILES": "CCSC1=NC(=NC(=N1)NC(C)C)NC(C)C",
+    "INCHI": "InChI=1S/C11H21N5S/c1-6-17-11-15-9(12-7(2)3)14-10(16-11)13-8(4)5/h7-8H,6H2,1-5H3,(H2,12,13,14,15,16)",
+    "INCHIKEY": "NPWMZOGDXOFZIN-UHFFFAOYSA-N",
+    "Formula": "C11H21N5S",
+    "MolecularWeight": {
+        "$numberDouble": "255.39"
+    },
+    "Description": "Dipropetryn is a member of 1,3,5-triazines.",
+    "XlogP": {
+        "$numberDouble": "3.9"
+    },
+    "Complexity": {
+        "$numberInt": "194"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The absorption of 14C-dipropetryn (2-ethylthio-4,6-bis-isopropylamine-s-triazine) and 14C-prometryn [2,4-bis(isopropylamino)-6-(methylthio)-s-triazine] by roots of intact seedlings of corn (Zea mays L. \u2018Iowa Chief) and oats (Avena sativa L. \u2018Cimarron\u2019) was very extensive and occurred to about the same degree in both species after application to the root medium. The translocation of 14C-label of dipropetryn to the shoots was low in corn as compared to oats. Prometryn 14C-label was more readily translocated to the tops of corn than dipropetryn and was more readily translocated in oats than corn. Dipropetryn 14C-label entered excised leaves through the transpiration stream during a short exposure period and translocated to a greater extent in oats than in corn. The 14C-label of dipropetryn became immobilized in excised leaves after about 4 h. The 14C-label of prometryn was initially more mobile in excised leaves of oats than corn. However, translocation of the 14C-label of prometryn continued in both species during 10 h of treatment and there was very little difference in the final distribution pattern. DNP (2,4-dinitrophenol) did not affect the distribution pattern of the 14C-label of dipropetryn or prometryn in corn after 10 h treatments.",
+            "reference": "Basler, E., Murray, D. S., & Santelmann, P. W. (1978). Translocation of Dipropetryn and Prometryn in Seedlings and Excised Leaves of Oats (Avena sativa) and Corn (Zea mays). Weed Science, 26(4), 358-361.",
+            "method": {
+                "Test Plant": "Corn and oats were used as the test plants.",
+                "Apply Location": "The 14C-labeled herbicides were applied to the soil around pre-germinated seedlings. Excised leaf uptake experiments involved applying 14C-herbicide solution to the cut leaf bases.",
+                "Plant Grown Condition": "Pre-germinated seeds grown in plastic cartons with quartz sand at 30\u00b0C under 10 klux light.",
+                "Chemical Preparation": "14C-dipropetryn (8.6 \u03bcCi/mg) applied at 2 ppm in soil.10 ppm 14C-labeled herbicide solutions for excised leaf study.",
+                "Pesticide Application Details for the Plant": "-",
+                "Other Information": "-"
+            },
+            "result": "[{\"Plant\": \"Corn\", \"Hours after application\": 1, \"5cm from base (% of absorbed)\": 12.65, \"10cm from base (%)\": 3.42, \"15cm from base (%)\": 0.1}, {\"Plant\": \"Corn\", \"Hours after application\": 4, \"5cm from base (% of absorbed)\": 11.29, \"10cm from base (%)\": 4.94, \"15cm from base (%)\": 0.31}, {\"Plant\": \"Corn\", \"Hours after application\": 10, \"5cm from base (% of absorbed)\": 10.12, \"10cm from base (%)\": 5.84, \"15cm from base (%)\": 1.42}, {\"Plant\": \"Oats\", \"Hours after application\": 1, \"5cm from base (% of absorbed)\": 8.03, \"10cm from base (%)\": 4.53, \"15cm from base (%)\": 0.55}, {\"Plant\": \"Oats\", \"Hours after application\": 4, \"5cm from base (% of absorbed)\": 7.6, \"10cm from base (%)\": 6.19, \"15cm from base (%)\": 2.19}, {\"Plant\": \"Oats\", \"Hours after application\": 10, \"5cm from base (% of absorbed)\": 6.85, \"10cm from base (%)\": 7.16, \"15cm from base (%)\": 4.36}]"
+        }
+    ]
+}

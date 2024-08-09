@@ -1,0 +1,117 @@
+{
+    "_id": {
+        "$oid": "6682e7e2c4e5dba5ffba22d3"
+    },
+    "CID": {
+        "$numberInt": "1110"
+    },
+    "Name": "SUCCINIC ACID",
+    "IUPACName": "butanedioic acid",
+    "CanonicalSMILES": "C(CC(=O)O)C(=O)O",
+    "Synonyms": [
+        "succinic acid",
+        "butanedioic acid",
+        "110-15-6",
+        "Amber acid",
+        "Asuccin",
+        "Dihydrofumaric acid",
+        "Wormwood acid",
+        "Katasuccin",
+        "Bernsteinsaure",
+        "1,2-Ethanedicarboxylic acid",
+        "ethylenesuccinic acid",
+        "1,4-Butanedioic acid",
+        "Wormwood",
+        "Succinicum acidum",
+        "Butandisaeure"
+    ],
+    "IsomericSMILES": "C(CC(=O)O)C(=O)O",
+    "INCHI": "InChI=1S/C4H6O4/c5-3(6)1-2-4(7)8/h1-2H2,(H,5,6)(H,7,8)",
+    "INCHIKEY": "KDYFGRWQOYBRFD-UHFFFAOYSA-N",
+    "Formula": "C4H6O4",
+    "MolecularWeight": {
+        "$numberDouble": "118.09"
+    },
+    "Description": "Succinic acid is an alpha,omega-dicarboxylic acid resulting from the formal oxidation of each of the terminal methyl groups of butane to the corresponding carboxy group. It is an intermediate metabolite in the citric acid cycle. It has a role as a nutraceutical, a radiation protective agent, an anti-ulcer drug, a micronutrient and a fundamental metabolite. It is an alpha,omega-dicarboxylic acid and a C4-dicarboxylic acid. It is a conjugate acid of a succinate(1-).",
+    "XlogP": {
+        "$numberDouble": "-0.6"
+    },
+    "Complexity": {
+        "$numberInt": "92"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 9 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated for succinic acid (SRC), using a log Kow of -0.59(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF value suggests that bioconcentraion in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Huddleston RL et al; in Water Resour Symp 13 (Land Treat: Hazard Waste Manage Altern): 41-61 (1986) (2) Dore M et al; Trib Cebedeau 28: 3-11 (1975) (3) Heukelekian H, Rand MC; J Water Pollut Contr Assoc 27: 1040-53 (1955) (4) Malaney GW, Gerhold RM; J Water Pollut Control Fed 41: R18-R33 (1969) (5) McKinney RE et al; Sew Indust Wastes 28: 547-57 (1956) (6) Takemoto S et al; Suishitsu Odaka Kenkyu 4: 80-90 (1981) (7) Tate RL III; Appl Environ Micro 37: 1085-90 (1979) (8) Chemicals Inspection and Testing Institute; Biodegradation and bioaccumulation data of existing chemicals based on the CSCL Japan. Japan Chemical Industry Ecology - Toxicology and Information Center. ISBN 4-89074-101-1 (1992)",
+            "Value": "AEROBIC: Succinic acid has been observed to biodegrade in soil at rates ranging from 52 to 89% in 7 days to 71 to 95% in 84 days at an initial concn of 1000 ppm(1). Succinic acid reached 35% of its theoretical BOD in 5 days using a sewage inoculum(2). In a Warburg test using a sewage seed, succinic acid reached 67.5% of its theoretical BOD in 5 days(3). In a Warburg test using an activated sludge inoculum, succinic acid (concentration of 500 ppm) reached 11.2%, 27.2%, and 42.4% of its theoretical BOD in 6, 12, and 24 hours, respectively(4). In a Warburg test using an activated sludge inoculum acclimated to phenol, succinic acid, present at a concn of 500 ppm, reached 57% of its theoretical BOD after 12 hours(5). In screening tests, succinic acid, present at a concn of 5 ppm, reached 73.9% and 73.6% of its theoretical BOD in 5 days in water and seawater, respectively(6). In screening tests, succinic acid, present at a concn of 2 and 5 ppm, reached 72.8% and 73.2% of its theoretical BOD in 5 days, respectively in seawater and water, respectively(6). Succinate was observed to degrade in a soil study, based on carbon dioxide evolution, using Pahokee muck at rates ranging from 1.18 to 1.97 14CO2 evolution (14C%/cu cm soil min) in Oct for fallow soil and soil planted with grass, respectively; 0.56 to 0.82 14CO2 evolution (14C%/cu cm soil min) in Jan for fallow soil and soil planted with grass, respectively(7). Succinic acid, present at 100 mg/L, reached 78% of its theoretical BOD in 14 days using an activated sludge inoculum at 30 mg/L and the Japanese MITI test(8)."
+        },
+        {
+            "References": "(1) Speece RE; Environ Sci Technol 17: 416A-27A (1983) (2) Chou WL et al; Biotechnol Bioeng Symp 8: 391-414 (1979)",
+            "Value": "ANAEROBIC: Succinic acid was identified as being amenable to anaerobic biodegradation(1). After a lag period of 10 days, succinic acid was metabolized at a rate of 110 mg/l day by anaerobic bacteria acclimated to acetate culture(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 9",
+            "Value": "log Kow = -0.59"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 756",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Succinic acid is slight skin irritant and a strong eye irritant in rats. Application of 750 ug of succinic acid as a 15% solution produced severe damage in rabbit eyes. The clinical signs of acute toxicity in rats are weakness and diarrhea."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 757",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Large iv doses of sodium succinate produced vomiting and diarrhea in cats... ."
+        },
+        {
+            "References": "EPA/Office of Pollution Prevention and Toxics; High Production Volume (HPV) Challenge Program's Robust Summaries and Test Plans. Dicarboxylic Acid Category. Available from, as of July 26, 2004: https://www.epa.gov/hpv/pubs/hpvrstp.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rats/Fischer (F344) males and females,10 per group /were exposed for/ 13 weeks ad libitum /to/ 0, 0.3, 0.6, 1.25, 2.5, 5, 10% monosodium succinate, purity 100.2%. ...Severe suppression of body weight gain occurred in rats in the 10% group, and all of the rats in this group died during the first 4 weeks of the experiment. However, in the other dose groups all of the rats survived to the end of the experiment. Suppression of body weight gain was observed at >/=2.5%. The volume of drinking water consumed was very small in the highest dose groups, although it was larger in the 5% group than in the other groups. No specific dose-related changes were observed in any parameters in the hematological and biochemical investigations. Rats that died during the experiment were severely emaciated. However, no toxic lesions caused by the test substance were found in any organs of these rats histopathologically, although atrophy of the organs was observed. No specific lesions were observed histologically in any of the other test groups. On the basis of body weight depression, the maximum tolerated dose of monosodium succinate was determined to be approximately 2-2.5% when given in the drinking water. /Monosodium succinate/"
+        },
+        {
+            "References": "PMID:7390598",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Administration of 500 mg/100 g/day for 20 days to rats 60 days post-operative after induction of bladder stone formation. Stone formation in 36% of animals treated with succinic acid, 60% in controls."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 757",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ In a 2-yr toxicity/carcinogenicity study, monosodium succinate was given ad libitum in drinking water at levels of 0, 1, or 2% to groups of 50 male and 50 female F344 rats. No toxic lesion specifically caused by long-term administration of monosodium succinate was detected. /Monosodium succinate/"
+        },
+        {
+            "References": "Airapetiants MG et al; Ah Vyssh Nerv Deiat Im I P Pavlova 51 (3): 360-6 (2001)",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ The neurosis-like state of white rats is accompanied by development of cerebral hypoxia. Negative symptoms of the neurosis-like state (behavioral, anatomic and energy) were decreased by /oral/ administration of succinate (30 mg/kg) during the second half of the neurotization process. Succinate provided chiefly the delayed action on the system arterial tension, on the succinate dehydrogenase and NADH dehydrogenase activity. The effects depended on the propensity of a rat to the catatonic \"freezing\". The \"freezing\" was detected by a specific breathing pattern: a short inhale and a long pause. In \"freezing\" rats succinate corrected the system tension to a greater extent, while in \"non-freezing\" animals it corrected to a greater extent the succinate and NADH dehydrogenase activities. The positive effect of succinate administration is probably associated with its antihypoxic properties."
+        },
+        {
+            "References": "PMID:14561530",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ The putative anxiolytic activity of succinic acid was examined in male mice by using a number of experimental paradigms of anxiety and compared with that of the known anxiolytic compound diazepam. Use of the elevated plus-maze test revealed that diazepam (1.0, 2.0 and 4.0 mg/kg, /orally/) or succinic acid (3.0 or 6.0 mg/kg, /orally/) increased the percentage of entries into open arms and of time spent on open arms. In novel food consumption test, succinic acid (3.0, 6.0, and 12.0 mg/kg, ip) caused significant increases in food intake during 5 min when compared with the vehicle. In the stress-induced hyperthermia test, 40 min after drug administration rectal temperature was measured, succinic acid at dose of 1.5 mg/kg, inhibited stress-induced hyperthermia. Thus, these findings indicated that, in contrast with diazepam, succinic acid exhibits anxiolytic-like effect."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 757",
+            "Value": "/GENOTOXICITY/ Succinic acid did not induce mutations at concentrations up to 5 mg/plate in an Ames test using S.typhimurium strains TA92, TA94, TA98, TA100, TA1535, and TA1537 with or without a liver homogenate from rats pretreated with the polychlorinated biphenyl KC-400, and no clastogenic effects were seen in Chinese hamster fibroblast cells at concentrations up to 1 mg/mL. The acid inhibited DNA synthesis in transformed human fibroblasts in vitro."
+        },
+        {
+            "References": "PMID:9250892",
+            "Value": "/OTHER TOXICITY INFORMATION/ /To determine if/... succinic acid /is/ an exacerbating factor in ulcerative colitis, ...its influence on rat colonic mucosa in terms of mucosal blood flow and superoxide generation /is investigated/. ...After the instillation of succinic acid of any concentration tested to the colon, mucosal blood flow decreased. Histopathologically, the higher the concentration of succinic acid, the greater was the erosion formation in the colonic mucosa, while significant polymorpho-nuclear cell infiltration superoxide generation from colon tissue were observed with 0.01% succinic acid compared with higher or lower concentrations. Succinic acid, at fecal concentrations found in active stage ulcerative colitis, appears to be implicated in mucosal injury, mediated by a decrease in colonic mucosal blood flow and infiltration of superoxide-generating polymorpho-nuclear cells into the mucosa."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Kawamura K, Kaplan IR; Environ Sci Technol 21: 105-10 (1987) (2) Miller L et al; Marine Biology 5: 375-83 (1979)",
+            "Value": "Succinic acid was detected in soil samples from the UCLA campus at concns ranging from 17.5 to 33.9 nmol/g and bog sediment collected in the foothills of the western Sierra Nevada Mountains at a concn of 341 nmol/g(1). Succinate was detected in sediment samples from Loch Eil, Scotland(2). Succinate was detected in higher amounts, 42.2 ug/g dry weight, at Station E-70 on Loch Eil which receives a higher input of organic matter from a pulp and paper mill than Station E-24, where succinate was identified at a concn of 0.1 ug/g dry weight(2)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 9 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Dean JA;  Handbook of Organic Chemistry. NY, NY: McGraw-Hill, Inc. (1987) (5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "The Koc of succinic acid is estimated as 11(SRC), using a log Kow of -0.59(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that succinic acid is expected to have very high mobility in soil. One of the pKa values of succinic acid is 4.21(4), indicating that this compound will exist in anion form in the environment and anions generally do not adsorb more strongly to organic carbon and clay than their neutral counterparts(5)."
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "66927118303528b49832d7e4"
+    },
+    "CID": {
+        "$numberInt": "11150163"
+    },
+    "Name": "Metalaxyl-M",
+    "IUPACName": "methyl (2R)-2-(N-(2-methoxyacetyl)-2,6-dimethylanilino)propanoate",
+    "CanonicalSMILES": "CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)COC",
+    "Synonyms": [
+        "Metalaxyl-M",
+        "Mefenoxam",
+        "70630-17-0",
+        "(-)-Metalaxyl",
+        "Ridomil Gold",
+        "Methenoxam",
+        "Subdue Maxx",
+        "R-metalaxyl",
+        "Metalaxyl-M [ISO:BSI]",
+        "UNII-F1Q54ONN4H",
+        "Methyl N-(methoxyacetyl)-N-(2,6-xylyl)-D-alaninate",
+        "(R)-Metalaxyl",
+        "F1Q54ONN4H",
+        "(-)-(R)-Metalaxyl",
+        "methyl N-(2,6-dimethylphenyl)-N-(methoxyacetyl)-D-alaninate"
+    ],
+    "IsomericSMILES": "CC1=C(C(=CC=C1)C)N([C@H](C)C(=O)OC)C(=O)COC",
+    "INCHI": "InChI=1S/C15H21NO4/c1-10-7-6-8-11(2)14(10)16(13(17)9-19-4)12(3)15(18)20-5/h6-8,12H,9H2,1-5H3/t12-/m1/s1",
+    "INCHIKEY": "ZQEIXNIJLIKNTD-GFCCVEGCSA-N",
+    "Formula": "C15H21NO4",
+    "MolecularWeight": {
+        "$numberDouble": "279.33"
+    },
+    "Description": "Metalaxyl-M is a methyl N-(2,6-dimethylphenyl)-N-(methoxyacetyl)alaninate that is the more active R-enantiomer of metalaxyl. A systemic fungicide, it is active against phytopathogens of the order Peronosporales and is used to conrtrol Pythium in a number of vegetable crops. It has a role as an agrochemical. It is a methyl N-(2,6-dimethylphenyl)-N-(methoxyacetyl)alaninate, a D-alanine derivative, an acylamino acid fungicide and an anilide fungicide. It is functionally related to a D-alanine. It is an enantiomer of a (S)-metalaxyl.",
+    "XlogP": {
+        "$numberDouble": "1.6"
+    },
+    "Complexity": {
+        "$numberInt": "335"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Production of chrysanthemum (Dendranthema grandiflora) in greenhouses often requires intensive pesticide use, raising concerns about food safety and human health. This study investigated the uptake, translocation, and residue dissipation of typical fungicides (metalaxyl-M and fludioxonil) and insecticides (cyantraniliprole and thiamethoxam) in greenhouse chrysanthemum when applied to soils. Chrysanthemum plants absorbed these pesticides from soils to various degrees, with bioconcentration factors (BCF) positively correlated with the lipophilicity (log Kow) of pesticides. The highly lipophilic fludioxonil (log Kow = 4.12) had the greatest BCF (2.96 \u00b1 0.41 g/g), while the hydrophilic thiamethoxam (log Kow = 0.13) had the lowest (0.09 \u00b1 0.03 g/g). Translocation factors (TF) from roots to shoots followed the order of TF_leaf > TF_stem > TF_flower. Metalaxyl-M and cyantraniliprole, with medium lipophilicity (log Kow of 1.71 and 2.02, respectively), and hydrophilic thiamethoxam showed relatively strong translocation potentials with TF values in the range of 0.29\u20130.81, 0.36\u20132.74, and 0.30\u20131.03, respectively.",
+            "reference": "Gong, W., Jiang, M., Zhang, T., Zhang, W., Liang, G., Li, B., ... & Han, P. (2020). Uptake and dissipation of metalaxyl-M, fludioxonil, cyantraniliprole and thiamethoxam in greenhouse chrysanthemum. Environmental pollution, 257, 113499.",
+            "method": {
+                "Test Plant": "Chrysanthemun",
+                "Apply Location": "Root application (soil application)",
+                "Plant Grown Condition": "Plants were cultivated in plastic pots (500 \u00d7 340 \u00d7 263 mm) filled with dry soil mass of 6 \u00b1 0.5 kg, with a temperature of 21 \u00b1 2\u00b0C and relative humidity of 75 \u00b1 2% in a greenhouse.",
+                "Chemical Preparation": "A commercial formulation of 62.5 g/L metalaxyl-M fludioxonil SC (37.5 g/L for metalaxyl-M and 25 g/L for fludioxonil), and a commercial formulation of 40% cyantraniliprole thiamethoxam SC (20% for each) were used. A mixed pesticide solution (200 mL) was prepared at the manufacturer-recommended dose (3.2, 2.1, 4.3, and 4.3 kg/ha for metalaxyl-M, fludioxonil, cyantraniliprole, and thiamethoxam, respectively).",
+                "Pesticide Application Details for the Plant": "Chrysanthemun plants received a mixed pesticide solution (200 mL) once at the manufacturer-recommended dose (low dose) or at the high dose (doubling the recommended dose) two or three times with a 7-day interval.",
+                "Other Information": "The experiment was designed in a randomized block design with two adjacent blocks separated by a 0.5-m alley."
+            },
+            "result": "[{\"Days after application\": 1, \"Flower (mg/kg)\": 0.068, \"Leaf (mg/kg)\": 0.223, \"Stem (mg/kg)\": 0.112}, {\"Days after application\": 2, \"Flower (mg/kg)\": 0.1, \"Leaf (mg/kg)\": 0.23, \"Stem (mg/kg)\": 0.119}, {\"Days after application\": 3, \"Flower (mg/kg)\": 0.151, \"Leaf (mg/kg)\": 0.291, \"Stem (mg/kg)\": 0.204}, {\"Days after application\": 5, \"Flower (mg/kg)\": 0.122, \"Leaf (mg/kg)\": 0.464, \"Stem (mg/kg)\": 0.309}, {\"Days after application\": 7, \"Flower (mg/kg)\": 0.101, \"Leaf (mg/kg)\": 0.485, \"Stem (mg/kg)\": 0.305}, {\"Days after application\": 14, \"Flower (mg/kg)\": 0.085, \"Leaf (mg/kg)\": 0.305, \"Stem (mg/kg)\": 0.342}, {\"Days after application\": 21, \"Flower (mg/kg)\": 0.071, \"Leaf (mg/kg)\": 0.157, \"Stem (mg/kg)\": 0.302}]"
+        }
+    ]
+}

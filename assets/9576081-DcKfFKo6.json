@@ -1,0 +1,77 @@
+{
+    "_id": {
+        "$oid": "669270eb303528b49832d735"
+    },
+    "CID": {
+        "$numberInt": "9576081"
+    },
+    "Name": "Oxabetrinil",
+    "IUPACName": "(Z)-N-(1,3-dioxolan-2-ylmethoxy)benzenecarboximidoyl cyanide",
+    "CanonicalSMILES": "C1COC(O1)CON=C(C#N)C2=CC=CC=C2",
+    "Synonyms": [
+        "Oxabetrinil",
+        "Concep II",
+        "74782-23-3",
+        "CGA 92194",
+        "cga-92194",
+        "1G03P0ZH9Y",
+        "N-((1,3-Dioxolan-2-yl)methoxy)benzimidoyl cyanide",
+        ".alpha.-((1,3-Dioxolan-2-ylmethoxy)imino)benzeneacetonitrile",
+        "Benzeneacetonitrile",
+        ".alpha.-[(1,3-dioxolan-2-ylmethoxy)imino]-",
+        "N-(1,3-dioxolan-2-ylmethoxy)benzenecarboximidoyl cyanide",
+        "Oxabetrinil [ISO]",
+        "Oxabetrinil [BSI:ISO]",
+        "BENZENEACETONITRILE",
+        ".ALPHA.-((1,3-DIOXOLAN-2-YLMETHOXY)IMINO)-",
+        "(E)-oxabetrinil",
+        "(E)-C-(1,3-dioxolan-2-yl)benzenecarbonimidoyl cyanide"
+    ],
+    "IsomericSMILES": "C1COC(O1)CO/N=C(\\C#N)/C2=CC=CC=C2",
+    "INCHI": "InChI=1S/C12H12N2O3/c13-8-11(10-4-2-1-3-5-10)14-17-9-12-15-6-7-16-12/h1-5,12H,6-7,9H2/b14-11+",
+    "INCHIKEY": "WFVUIONFJOAYPK-SDNWHVSQSA-N",
+    "Formula": "C12H12N2O3",
+    "MolecularWeight": {
+        "$numberDouble": "232.23"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "1.7"
+    },
+    "Complexity": {
+        "$numberInt": "309"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The study elucidates the systemic characteristics of oxabetrinil, a safener used in grain sorghum cultivation. When applied to imbibed sorghum seeds, oxabetrinil was taken up predominantly by the seeds, exhibiting greater and more rapid uptake compared to CGA-133205, another safener investigated in the study. The absorbed oxabetrinil was primarily concentrated in the coleoptiles of germinating sorghum seedlings, indicating its systemic translocation within the plant. Although very little translocation of oxabetrinil occurred to the roots, there was notable redistribution to the coleoptiles of the germinated seedlings. The study suggests that the radioactivity from the absorbed oxabetrinil may either directly move into the coleoptiles as they emerge or be translocated to the coleoptiles after uptake through the seed. Additionally, oxabetrinil showed signs of metabolism in sorghum tissues, resulting in the formation of water-soluble metabolites over time. Interestingly, oxabetrinil's treatment of sorghum seeds increased the uptake of the herbicide metolachlor, suggesting an influence on the plant's ability to absorb other compounds. Furthermore, oxabetrinil and CGA-133205 both enhanced the rate of metolachlor metabolism by conjugating it to glutathione, a process that is crucial in herbicide detoxification. Overall, oxabetrinil demonstrates systemic movement within the grain sorghum plant, concentrating in the coleoptiles and potentially influencing the plant's uptake and metabolism of other herbicidal compounds like metolachlor.",
+            "reference": "Yenne, S. P., Hatzios, K. K., & Meredith, S. A. (1990). Uptake, translocation, and metabolism of oxabetrinil and CGA-133205 in grain sorghum (Sorghum bicolor) and their influence on metolachlor metabolism. Journal of Agricultural and Food Chemistry, 38(10), 1957\u20131961. doi:10.1021/jf00100a017\u00a0",
+            "method": {
+                "Test Plant": "Grain sorghum seed variety Funk G-522 DR",
+                "Apply Location": "Foliar application.",
+                "Plant Grown Condition": "Incubated at 30\u00b0C for varying lengths of time depending on the experiment",
+                "Chemical Preparation": "Analytical grade (>95% purity) and radiolabeled oxabetrinil, CGA-133205, and metolachlor provided by Ciba-Geigy Corp., Greensboro, NC",
+                "Pesticide Application Details for the Plant": "2 \u03bcL of 1 mM [14C]oxabetrinil (phenyl labeled; specific activity 12.2 mCi/mmol) or 1 mM [14C]CGA-133205 (phenyl labeled; specific activity 9.8 mCi/mmol) was applied to 40 untreated seeds of grain sorghum.At 0, 0.5, 1, 2, 4, 24, 48, and 72 hours after applying the 14C-labeled safener, seeds or seedlings were rinsed in 80% methanol to determine the amount of 14C-labeled safener that remained on the exterior of the seeds.",
+                "Other Information": "40 replicates."
+            },
+            "result": "[{\"Hours after application\": 0.5, \"Uptake (% of applied)\": 54.2, \"Coleoptile (%)\": \"-\", \"Root (%)\": \"-\", \"Seed (%)\": \"-\"}, {\"Hours after application\": 1.0, \"Uptake (% of applied)\": 55.4, \"Coleoptile (%)\": \"-\", \"Root (%)\": \"-\", \"Seed (%)\": \"-\"}, {\"Hours after application\": 2.0, \"Uptake (% of applied)\": 66.7, \"Coleoptile (%)\": \"-\", \"Root (%)\": \"-\", \"Seed (%)\": \"-\"}, {\"Hours after application\": 4.0, \"Uptake (% of applied)\": 72.5, \"Coleoptile (%)\": \"-\", \"Root (%)\": \"-\", \"Seed (%)\": \"-\"}, {\"Hours after application\": 24.0, \"Uptake (% of applied)\": 78.0, \"Coleoptile (%)\": \"-\", \"Root (%)\": \"-\", \"Seed (%)\": \"-\"}, {\"Hours after application\": 48.0, \"Uptake (% of applied)\": 81.5, \"Coleoptile (%)\": \"64.3\", \"Root (%)\": \"10.9\", \"Seed (%)\": \"6.3\"}, {\"Hours after application\": 72.0, \"Uptake (% of applied)\": 84.1, \"Coleoptile (%)\": \"68.3\", \"Root (%)\": \"12.2\", \"Seed (%)\": \"3.6\"}]"
+        },
+        {
+            "content": "The study investigated the uptake, translocation, and metabolism of the safeners oxabetrinil and CGA-133205 in grain sorghum (Sorghum bicolor, var. Funk G-522-DR). Imbibed seeds were treated with radiolabeled oxabetrinil ([14C]oxabetrinil) and CGA-133205 ([14C]CGA-133205), and the uptake of both safeners by grain sorghum increased over the 72-hour duration of the experiment. A higher percentage of the applied oxabetrinil was taken up compared to CGA-133205. However, there was very little translocation of either safener to the roots. The total amount of extractable oxabetrinil and CGA-133205 from the coleoptiles (the protective sheath covering the emerging shoot) of grain sorghum increased with time. The water-soluble portion of the extracted radioactivity also increased over time, indicating that both safeners were metabolized by the grain sorghum seedlings. Thin-layer chromatography (TLC) analysis of the water-soluble extracts revealed that a small portion of the safener oxabetrinil may conjugate with glutathione in sorghum. However, the safener CGA-133205 did not conjugate with glutathione. Unidentified metabolites of [14C]oxabetrinil and [14C]CGA-133205 were detected. Treating grain sorghum with oxabetrinil increased the uptake of radiolabeled metolachlor, a herbicide, but did not affect its translocation. On the other hand, treating grain sorghum with CGA-133205 increased the amount of radiolabel from metolachlor that translocated to the roots. Both oxabetrinil and CGA-133205 increased the rate of metabolism of [14C]metolachlor to a water-soluble metabolite during the initial 4 hours after application, but not at 8 hours. TLC analysis of water-soluble extracts from grain sorghum coleoptiles 4 hours after application of [14C]metolachlor revealed that both safeners increased the formation of the glutathione conjugate of metolachlor and concurrently decreased the amount of parent metolachlor in the extract.",
+            "reference": "Yenne, S. P., Hatzios, K. K., & Meredith, S. A. (1990). Uptake, translocation, and metabolism of oxabetrinil and CGA-133205 in grain sorghum (Sorghum bicolor) and their influence on metolachlor metabolism. Journal of agricultural and food chemistry, 38(10), 1957-1961.",
+            "method": {
+                "Test Plant": "Grain sorghum seed variety Funk G-522 DR",
+                "Apply Location": "Seed treatment",
+                "Plant Grown Condition": "Seeds placed on moistened filter paper in petri dishes and incubated at 30\u00b0C",
+                "Chemical Preparation": "Seeds were either untreated or coated with the recommended use rates of the safeners oxabetrinil (1.25 g of ai/kg of seeds) or CGA-133205 (0.4 g of ai/kg of seeds)",
+                "Pesticide Application Details for the Plant": "Approximately 40 seeds of each treatment were used",
+                "Other Information": "Seeds were incubated for varying lengths of time depending on the experiment. For uptake and translocation studies, untreated seeds were incubated for 12 hours at 30\u00b0C, then labeled with 2 \u00b5l of 1 mM [14C]oxabetrinil (specific activity 12.2 mCi/mmol) or 1 mM [14C]CGA-133205 (specific activity 9.8 mCi/mmol). The labeled seeds were rinsed in 80% methanol at specific time points (0, 0.5, 1, 2, 4, 24, 48, and 72 hours) to determine the amount of labeled safener remaining on the exterior. Seeds were also oxidized at specific time points (0, 0.5, 1, 2, and 4 hours) to evaluate translocation to the root, and at 24 hours, the root was removed and oxidized to evaluate translocation from the seed to the root. At 48 and 72 hours, the coleoptile and the root were removed and all three parts (seed, coleoptile, root) were oxidized to determine the amount of translocation of radiolabeled safener into the respective tissues."
+            },
+            "result": "[{\"Hours after application\": 48, \"Coleoptile (% of absorbed)\": 64.3, \"Root (%)\": 10.9, \"Seed (%)\": 6.3}, {\"Hours after application\": 72, \"Coleoptile (% of absorbed)\": 68.3, \"Root (%)\": 12.2, \"Seed (%)\": 3.6}]"
+        }
+    ]
+}

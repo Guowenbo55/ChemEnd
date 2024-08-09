@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "6692711d303528b49832d7f9"
+    },
+    "CID": {
+        "$numberInt": "9576037"
+    },
+    "Name": "Pymetrozine",
+    "IUPACName": "6-methyl-4-[(E)-pyridin-3-ylmethylideneamino]-2,5-dihydro-1,2,4-triazin-3-one",
+    "CanonicalSMILES": "CC1=NNC(=O)N(C1)N=CC2=CN=CC=C2",
+    "Synonyms": [
+        "Pymetrozine",
+        "123312-89-0",
+        "Pymetrozin",
+        "1,2,4-Triazin-3(2H)-one",
+        "4,5-dihydro-6-methyl-4-[(E)-(3-pyridinylmethylene)amino]-",
+        "Fulfill",
+        "CHEBI:39311",
+        "Plenum",
+        "F0G3V7874J",
+        "6-methyl-4-[(E)-pyridin-3-ylmethylideneamino]-2,5-dihydro-1,2,4-triazin-3-one",
+        "(E)-4,5-dihydro-6-methyl-4-((3-pyridinylmethylene)amino)-1,2,4-triazin-3(2H)-one",
+        "6-methyl-4-{[(1E)-pyridin-3-ylmethylene]amino}-4,5-dihydro-1,2,4-triazin-3(2H)-one",
+        "1,2,4-Triazin-3(2H)-one",
+        "4,5-dihydro-6-methyl-4-((E)-(3-pyridinylmethylene)amino)-",
+        "CGA 215944",
+        "HSDB 7054",
+        "Pymetrozine  [ISO:BSI]"
+    ],
+    "IsomericSMILES": "CC1=NNC(=O)N(C1)/N=C/C2=CN=CC=C2",
+    "INCHI": "InChI=1S/C10H11N5O/c1-8-7-15(10(16)14-13-8)12-6-9-3-2-4-11-5-9/h2-6H,7H2,1H3,(H,14,16)/b12-6+",
+    "INCHIKEY": "QHMTXANCGGJZRX-WUXMJOGZSA-N",
+    "Formula": "C10H11N5O",
+    "MolecularWeight": {
+        "$numberDouble": "217.23"
+    },
+    "Description": "Pymetrozine is a member of the class of 1,2,4-triazines that is 4,5-dihydro-1,2,4-triazin-3(2H)-one substituted by a methyl group at position 6 and a (pyridin-3-ylmethylidene)amino group at position 4. It has a role as an antifeedant, an environmental contaminant, a xenobiotic and a TRPV channel modulator. It is a member of 1,2,4-triazines and a member of pyridines.",
+    "XlogP": {
+        "$numberDouble": "0"
+    },
+    "Complexity": {
+        "$numberInt": "325"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "In this study, the uptake, transport, and subcellular distribution of the pesticides pymetrozine and spirotetramat, along with spirotetramat metabolites B-enol, B-glu, B-mono, and B-keto, were investigated under hydroponic conditions. The results showed that both spirotetramat and pymetrozine had high bioconcentration in lettuce roots, with root concentration factor (RCF) values exceeding 1 after 24 hours of exposure. Pymetrozine exhibited higher translocation from roots to shoots compared to spirotetramat. Pymetrozine was primarily absorbed in roots via the symplastic pathway and stored in the soluble fraction of lettuce root and shoot cells. Spirotetramat and its metabolites showed major enrichments in the cell wall and soluble fractions of root cells. In lettuce shoot cells, spirotetramat and B-enol were mainly enriched in the soluble fraction, while B-keto and B-glu accumulated in cell walls and organelles, respectively. Both symplastic and apoplastic pathways were involved in spirotetramat absorption. The uptake of pymetrozine and spirotetramat by lettuce roots was passive, with no aquaporin-mediated dissimilation or diffusion. These findings improve our understanding of the transfer of these pesticides and their metabolites from the environment to lettuce, as well as their subsequent bioaccumulation. The study suggests a new approach for efficient lettuce pest control using spirotetramat and pymetrozine, while also highlighting the importance of evaluating the food safety and environmental risks associated with these compounds and their metabolites.",
+            "reference": "Liu, G., Feng, X., Guo, Y., Wang, X., An, K., Dong, J., & Liu, Y. (2023). Uptake and Biotransformation of Spirotetramat and Pymetrozine in Lettuce (Lactuca sativa L. var. ramosa Hort.). Journal of Agricultural and Food Chemistry, 71(22), 8356-8366.",
+            "method": {
+                "Test Plant": "Italian lettuce (Lactuca sativa L. var. ramosa Hort. 151)",
+                "Apply Location": "Root application (pesticides added to hydroponic nutrient solution)",
+                "Plant Grown Condition": "Lettuce seeds were surface sterilized, germinated on moist filter paper for 3 days at 25\u00b0C, then transplanted to black plastic pots and grown in full-strength Hoagland nutrient solution in a plant incubator (130\u00b15 \u03bcmol/m2.s light intensity, 16h light/8h dark photoperiod, 60% relative humidity, 25/20\u00b0C day/night temperature).",
+                "Chemical Preparation": "Pymetrozine and spirotetramat (>96% purity) were purchased. Standard pymetrozine (>97% purity), spirotetramat (>98% purity) and its metabolites B-enol, B-keto, B-mono, B-glu (purities >94-99%) were also obtained commercially.",
+                "Pesticide Application Details for the Plant": "5 mg/L pymetrozine and 5 mg/L spirotetramat were separately added to the hydroponic nutrient solutions. 15 batches of lettuce seedlings were transferred to opaque pots with 5L spiked nutrient solutions.",
+                "Other Information": "15 blank control seedlings were grown in unspiked nutrient solution."
+            },
+            "result": "[{\"Hours after application\": 2, \"Root concentration factor\": 0.318, \"Transfer factor\": 0.124}, {\"Hours after application\": 6, \"Root concentration factor\": 0.681, \"Transfer factor\": 0.179}, {\"Hours after application\": 12, \"Root concentration factor\": 0.761, \"Transfer factor\": 0.22}, {\"Hours after application\": 24, \"Root concentration factor\": 1.011, \"Transfer factor\": 0.4}, {\"Hours after application\": 72, \"Root concentration factor\": 1.011, \"Transfer factor\": 1.2}, {\"Hours after application\": 120, \"Root concentration factor\": 1.534, \"Transfer factor\": 1.71}, {\"Hours after application\": 168, \"Root concentration factor\": 2.113, \"Transfer factor\": 1.696}, {\"Hours after application\": 240, \"Root concentration factor\": 1.965, \"Transfer factor\": 2.344}]"
+        }
+    ]
+}

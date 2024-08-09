@@ -1,0 +1,69 @@
+{
+    "_id": {
+        "$oid": "6682e7f2c4e5dba5ffba2321"
+    },
+    "CID": {
+        "$numberInt": "2727"
+    },
+    "Name": "CHLORPROPAMIDE",
+    "IUPACName": "1-(4-chlorophenyl)sulfonyl-3-propylurea",
+    "CanonicalSMILES": "CCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)Cl",
+    "Synonyms": [
+        "chlorpropamide",
+        "94-20-2",
+        "Chloropropamide",
+        "Diabinese",
+        "Chlorpropamid",
+        "Diabenese",
+        "Glucamide",
+        "Meldian",
+        "Chlorodiabina",
+        "Chloronase",
+        "Diabeneza",
+        "Diabetoral",
+        "Adiaben",
+        "Catanil",
+        "Diabaril"
+    ],
+    "IsomericSMILES": "CCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)Cl",
+    "INCHI": "InChI=1S/C10H13ClN2O3S/c1-2-7-12-10(14)13-17(15,16)9-5-3-8(11)4-6-9/h3-6H,2,7H2,1H3,(H2,12,13,14)",
+    "INCHIKEY": "RKWGIWYCVPQPMF-UHFFFAOYSA-N",
+    "Formula": "C10H13ClN2O3S",
+    "MolecularWeight": {
+        "$numberDouble": "276.74"
+    },
+    "Description": "Chlorpropamide is an N-sulfonylurea that is urea in which a hydrogen attached to one of the nitrogens is substituted by 4-chlorobenzenesulfonyl group and a hydrogen attached to the other nitrogen is substituted by propyl group. Chlorpropamide is a hypoglycaemic agent used in the treatment of type 2 (non-insulin-dependent) diabetes mellitus not responding to dietary modification. It has a role as a hypoglycemic agent and an insulin secretagogue. It is a N-sulfonylurea and a member of monochlorobenzenes.",
+    "XlogP": {
+        "$numberDouble": "2.3"
+    },
+    "Complexity": {
+        "$numberInt": "345"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 73",
+            "Value": "log Kow= 2.27"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Jones, L.M., et al. Veterinary Pharmacology & Therapeutics. 4th ed. Ames: Iowa State University Press, 1977., p. 704",
+            "Value": "...ACTION OF SULFONYLUREAS APPEARS TO BE STIMULATION OF RELEASE OF INSULIN FROM BETA CELLS. ...TO BE EFFECTIVE, PT MUST HAVE SOME FUNCTIONAL ISLET CELLS... /HYPOGLYCEMIC SULFONYLUREAS/"
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B. Molinoff, R.W. Ruddon, A.G. Goodman (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 9th ed. New York, NY: McGraw-Hill, 1996., p. 1507",
+            "Value": "Sulfonylureas cause hypoglycemia by stimulating insulin release from pancreatic beta cells. Their effects in the treatment of diabetes ... are more complex. /Sulfonylureas/"
+        },
+        {
+            "References": "Ellenhorn, M.J., S. Schonwald, G. Ordog, J. Wasserberger. Ellenhorn's Medical Toxicology: Diagnosis and Treatment of Human Poisoning. 2nd ed. Baltimore, MD: Williams and Wilkins, 1997., p. 723",
+            "Value": "Sulfonylureas are now...thought to act by a number of different mechanisms. 1. ...produce a depolarization of the pancreatic islet beta cell membrane potassium ion permeability. This results in a release of preformed insulin into the circulation and occurs mostly in non-insulin dependent diabetics. 2. ...reduce basal glucose output from the liver... 3. increase insulin receptor binding... 4. ...increasing intracellular levels of AMP... 5. increase insulin secretion by suppressing the release of glucagon and somatostatin from alpha and delta pancreatic cells. /Sulfonylureas/"
+        },
+        {
+            "References": "USP. Convention. USPDI - Drug Information for the Health  Care Professional. 19th ed. Volume I.Micromedex, Inc.  Englewood, CO., 1999. Content Prepared by the U.S.  Pharmacopieal Convention, Inc., p. 284",
+            "Value": "Sulfonylureas lower blood glucose in NIDDM by directly stimulating the acute release of insulin from functioning beta cells of pancreatic islet tissue by an unknown process that involves a sulfonylurea receptor on the beta cell. Sulfonylureas inhibit the ATP potassium channels on the beta cell membrane and potassium efflux, which results in depolarization and calcium influx, calcium-calmodulin binding, kinase activation, and release of insulin containing granules by exocytosis, an effect similar to that of glucose. Insulin is a hormone that lowers blood glucose and controls the storage and metabolism of carbohydrates, proteins, and fats. Therefore, sulfonylureas are effective only in patients whose pancreata are capable of producing insulin. /Sulfonylurea antidiabetic agents/"
+        }
+    ]
+}

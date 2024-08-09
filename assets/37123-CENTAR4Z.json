@@ -1,0 +1,63 @@
+{
+    "_id": {
+        "$oid": "6682e979c4e5dba5ffba2ace"
+    },
+    "CID": {
+        "$numberInt": "37123"
+    },
+    "Name": "DIFLUBENZURON",
+    "IUPACName": "N-[(4-chlorophenyl)carbamoyl]-2,6-difluorobenzamide",
+    "CanonicalSMILES": "C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC=C(C=C2)Cl)F",
+    "Synonyms": [
+        "DIFLUBENZURON",
+        "35367-38-5",
+        "Difluron",
+        "Dimilin",
+        "Duphacid",
+        "Larvakil",
+        "Astonex",
+        "Dimilin G1",
+        "Dimilin G4",
+        "Dimilin ODC-45",
+        "Dimilin WP-25",
+        "1-(4-Chlorophenyl)-3-(2,6-difluorobenzoyl)urea",
+        "Thompson Hayward 6040",
+        "Thompson-hayward TH6040",
+        "Philips-duphar PH 60-40"
+    ],
+    "IsomericSMILES": "C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC=C(C=C2)Cl)F",
+    "INCHI": "InChI=1S/C14H9ClF2N2O2/c15-8-4-6-9(7-5-8)18-14(21)19-13(20)12-10(16)2-1-3-11(12)17/h1-7H,(H2,18,19,20,21)",
+    "INCHIKEY": "QQQYTWIFVNKMRW-UHFFFAOYSA-N",
+    "Formula": "C14H9ClF2N2O2",
+    "MolecularWeight": {
+        "$numberDouble": "310.68"
+    },
+    "Description": "Diflubenzuron is a benzoylurea insecticide that is urea in which a hydrogen attached to one of the nitrogens is replaced by a 4-chlorophenyl group, and a hydrogen attached to the other nitrogen is replaced bgy a 2,6-difluorobenzoyl group. It has a role as an insect sterilant. It is a benzoylurea insecticide and a member of monochlorobenzenes. It is functionally related to a 1,3-difluorobenzene.",
+    "XlogP": {
+        "$numberDouble": "3.9"
+    },
+    "Complexity": {
+        "$numberInt": "379"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Martinat PJ et al; Bull Environ Contam Toxicol 39: 142-9 (1987) (2) Nigg HN et al; Bull Environ Contam Toxicol 36: 833-8 (1986) (3) Prendergast BF et al; J Environ Sci Health B30: 359-76 (1995) (4) Wimmer MJ et al; J Agric Food Chem 41: 2184-90 (1993)",
+            "Value": "During the use of diflubenzuron in the suppression of insect defoliators, residues were detected 21 days after application at a concentration of 0.18 ppm on foliage at Sleepy Creek Public Hunting and Fishing Area, Morgan County, WV(1). Dislodgeable residues of diflubenzuron were identified 1 and 29 days postapplication (March-April, 1978) at respective concentrations of 0.17 and 0.13 ppm on the leaves in an orange grove in Florida(2). Dislodgeable residues of diflubenzuron were identified 1 and 29 days postapplication (July-August, 1978) at respective concentrations of 0.10 and 0.05 ppm on the leaves in an orange grove in Florida(2). Diflubenzuron was detected on leaves in a Pennsylvania forest that was recently sprayed at concentrations of 7.2-235.22 ng/sq cm on the upper canopy and 5.46-131.44 ng/sq cm on leaves of the lower canopy(3). After aerial spraying of the Appalachian forest, West Virginia in 1991, diflubenzuron was detected in foliage of trees at 2.91-75 ng/sq cm (upper canopy) and 1.92-24.9 ng/sq cm (lower canopy)(4). These concentrations decreased roughly 40-47% after a rain event(4)."
+        }
+    ],
+    "animal_concentrations": [
+        {
+            "References": "PMID:3111567",
+            "Value": "During the use of diflubenzuron in the suppression of insect defoliators, residues were detected at a concentration of 0.09 ppm in canopy birds 21 days post application at Sleepy Creek Public Hunting and Fishing Area, Morgan County, WV; however, no diflubenzuron residues were found in understory birds 21 days after application(1)."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "PMID:3087443",
+            "Value": "SOIL: Dislodgeable residues of diflubenzuron were identified 1 and 29 days post-application (March-April, 1978) at respective concentrations of 0.35 and 0.14 ppm on soil samples taken midway between trees in an orange grove in Florida. In the same study, residues were identified 1 and 29 days post-application at respective concentrations of 2.68 and 1.07 ppm on soil samples taken at the drip line(1)."
+        }
+    ]
+}

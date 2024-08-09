@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "6682e85ac4e5dba5ffba252d"
+    },
+    "CID": {
+        "$numberInt": "6719"
+    },
+    "Name": "Diphacinone",
+    "IUPACName": "2-(2,2-diphenylacetyl)indene-1,3-dione",
+    "CanonicalSMILES": "C1=CC=C(C=C1)C(C2=CC=CC=C2)C(=O)C3C(=O)C4=CC=CC=C4C3=O",
+    "Synonyms": [
+        "Diphacinone",
+        "DIPHENADIONE",
+        "82-66-6",
+        "Diphenandione",
+        "Didandin",
+        "Diphenacin",
+        "Promar",
+        "Diphenadion",
+        "Dipaxin",
+        "Diphacin",
+        "Oragulant",
+        "Ratindan",
+        "Didion",
+        "Diphac",
+        "Ramik"
+    ],
+    "IsomericSMILES": "C1=CC=C(C=C1)C(C2=CC=CC=C2)C(=O)C3C(=O)C4=CC=CC=C4C3=O",
+    "INCHI": "InChI=1S/C23H16O3/c24-21-17-13-7-8-14-18(17)22(25)20(21)23(26)19(15-9-3-1-4-10-15)16-11-5-2-6-12-16/h1-14,19-20H",
+    "INCHIKEY": "JYGLAHSAISAEAL-UHFFFAOYSA-N",
+    "Formula": "C23H16O3",
+    "MolecularWeight": {
+        "$numberDouble": "340.4"
+    },
+    "Description": "Diphenadione is a diarylmethane and a beta-triketone.",
+    "XlogP": {
+        "$numberDouble": "3.7"
+    },
+    "Complexity": {
+        "$numberInt": "512"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "animal_concentrations": [
+        {
+            "References": "PMID:10231745",
+            "Value": "Fifty one incidences of poisoning by anticoagulant rodenticides were documented in wildlife submitted for diagnosis by the public between 1971 and 1997 in New York and two adjoining states. Diphacinone was identified in the livers of 1 snowy owl (Nyctea scandiaca), 2 white-tailed deer (Odocoileus virginianus), and 1 gray squirrel (Sciurus carolinensis) at concentrations ranging from 0.2 - 0.93 ppm (1). Diphacinone was detected at a concentration range of 0.008 - 0.02 ppm (wet-wt) in livers from 8 of 164 barn owls (Tyto alba), barred owls (Strix varia), and great horned owls (Bubo virginianus) collected in the province of British Columbia and the Yukon Territory, Canada from 1988 to 2003(2)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) USEPA; Reregistration Eligibility Decisions (REDs) Database Rodenticide Cluster. USEPA 738-R-98-007. Available from, as of Mar 3, 2014: https://www.epa.gov/pesticides/reregistration/status.htm",
+            "Value": "AEROBIC: Radio-labeled (benzyl ring or both phenyl rings)[14C]diphacinone was metabolized with a half-life of 28.3 to 31.7 days, respectively, in sandy loam soils incubated aerobically in the dark at 25 \u00b0C for 3.5 months. The major degradate (defined as >10% of the applied) detected in the phenyl ring labeled study was identified as diphenylglycolic acid and was present at a maximum of 24.5% of the applied at one month after application. Diphenylglycolic acid was also detected in the benzyl ring labeled study at a very low concentration (<10% of the applied). By 3.5 months post-treatment, 42.5% of the applied radioactivity was accounted for as 14CO2 in benzyl ring labeled [14C]diphacinone, and 37.3% of the applied radioactivity was accounted for as 14CO2 in the phenyl ring labeled [14C]diphacinone(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "USEPA; Reregistration Eligibility Decisions (REDs) Database Rodenticide Cluster. USEPA 738-R-98-007. Available from, as of Mar 3, 2014: https://www.epa.gov/pesticides/reregistration/status.htm",
+            "Value": "log Kow = 4.27"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:864593",
+            "Value": "Diphenadione delayed inhibition of prothrombin synthesis, correlated with delayed inhibition of vit K1 2,3-epoxide in vivo. Results provide evidence for proposed mechanism of action by preventing regeneration of vit K1 from its metabolite vit K1 2,3-epoxide."
+        },
+        {
+            "References": "Dart, R.C. (ed). Medical Toxicology. Third Edition, Lippincott Williams & Wilkins. Philadelphia, PA. 2004., p. 1499",
+            "Value": "Rodenticide anticoagulants inhibit the dithiothreitol-dependent vitamin K reductase reactions and prevent vitamin K hydroquinone regeneration, which is evident by the significant incr in serum vitamin 2,3 epoxide levels and a concurrent incr in the serum vitamin K epoxide-vitamin K ratio. Inhibition of vitamin k reductases indirectly inhibits active prothrombin complex protein formation. Rodenticide anticoagulants inhibit vitamin k regeneration almost immediately, but the anticoagulant effect is delayed until the vitamin k stores are depleted and sufficient active coagulation factors are removed from circulation."
+        }
+    ]
+}

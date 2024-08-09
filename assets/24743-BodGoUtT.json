@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "66927106303528b49832d79d"
+    },
+    "CID": {
+        "$numberInt": "24743"
+    },
+    "Name": "Desmedipham",
+    "IUPACName": "[3-(ethoxycarbonylamino)phenyl] N-phenylcarbamate",
+    "CanonicalSMILES": "CCOC(=O)NC1=CC(=CC=C1)OC(=O)NC2=CC=CC=C2",
+    "Synonyms": [
+        "DESMEDIPHAM",
+        "13684-56-5",
+        "Bentanex",
+        "Betanex",
+        "Synbetan D",
+        "Betanal AM",
+        "Schering 38107",
+        "Ethyl (3-((phenylcarbamoyl)oxy)phenyl)carbamate",
+        "3-Ethoxycarbonylaminophenyl-N-phenylcarbamate",
+        "EP-475",
+        "Ethyl phenylcarbamoyloxyphenylcarbamate",
+        "\"Ethyl 3-phenylcarbamoyloxycarbanilate\"",
+        "[3-(ethoxycarbonylamino)phenyl] N-phenylcarbamate",
+        "SN 38107",
+        "Carbanilic acid",
+        "m-carbaniloyloxy-",
+        "ethyl ester"
+    ],
+    "IsomericSMILES": "CCOC(=O)NC1=CC(=CC=C1)OC(=O)NC2=CC=CC=C2",
+    "INCHI": "InChI=1S/C16H16N2O4/c1-2-21-15(19)18-13-9-6-10-14(11-13)22-16(20)17-12-7-4-3-5-8-12/h3-11H,2H2,1H3,(H,17,20)(H,18,19)",
+    "INCHIKEY": "WZJZMXBKUWKXTQ-UHFFFAOYSA-N",
+    "Formula": "C16H16N2O4",
+    "MolecularWeight": {
+        "$numberDouble": "300.31"
+    },
+    "Description": "Desmedipham is a carbamate ester that is phenylcarbamic acid in which the hydrogen of the hydroxy group has been replaced by a 3-[(ethoxycarbonyl)amino]phenyl group. It is an agrochemical used as a herbicide. It has a role as a xenobiotic, an environmental contaminant, a herbicide and an agrochemical. It is functionally related to a phenylcarbamic acid.",
+    "XlogP": {
+        "$numberDouble": "3.4"
+    },
+    "Complexity": {
+        "$numberInt": "369"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The selectivity of phenmedipham and desmedipham on wild mustard, redroot pigweed, and sugar beet was investigated by examining spray retention, absorption, translocation, and metabolism. Wild mustard showed severe inhibition of total photosynthesis within 5 hours of herbicide application, with no recovery, while sugar beet exhibited slight inhibition but recovered after 24 hours. Redroot pigweed recovered from phenmedipham treatment but not from desmedipham treatment. Differences in spray retention or foliar absorption did not explain selectivity. Redroot pigweed translocated more desmedipham than phenmedipham and metabolized more phenmedipham than desmedipham within 5 hours of application. The initial detoxication reaction of the parent compound appeared to be the key factor explaining selectivity.",
+            "reference": "Hendrick, L. W., Meggitt, W. F., & Penner, D. (1974). Basis for selectivity of phenmedipham and desmedipham on wild mustard, redroot pigweed, and sugar beet. Weed science, 22(2), 179-184.",
+            "method": {
+                "Test Plant": "Pigweed (Amaranthus spp.), wild mustard (Brassica kaber), and sugar beet (Beta vulgaris) plants",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Plants were grown in greenhouse soil in 909-ml cups until pigweed had 8 leaves, mustard 6 leaves, and sugar beets 4 leaves. They were grown at 20\u00b0C, 24-27 klux light intensity with 16 hr daylength prior to treatment. For retention and translocation studies, plants were grown in growth chambers at 25\u00b0C under continuous light.",
+                "Chemical Preparation": "14C-labeled phenmedipham (specific activity 5.5 mCi/mmole, 96% pure) and 14C-desmedipham (specific activity 1.95 mCi/mmole, 98% pure) were used. The herbicides were dissolved in formulated products diluted 20-fold with water.",
+                "Pesticide Application Details for the Plant": "5 \u03bcl droplets containing 0.1 \u03bcCi 14C-herbicide were applied in lanolin rings on second oldest leaf.",
+                "Other Information": "Three to four replications were used for physiological measurements and retention studies. Two replications for foliar translocation studies. Treated plants were radioautographed at intervals to visualize translocation."
+            },
+            "result": "[{\"Plant\": \"Wild mustard\", \"Hours after application\": 5, \"Absorbed (%)\": 17.6, \"Translocated (%)\": 29.5, \"Metabolized (%)\": 12.81}, {\"Plant\": \"Wild mustard\", \"Hours after application\": 24, \"Absorbed (%)\": 39.2, \"Translocated (%)\": 43.7, \"Metabolized (%)\": 33.37}, {\"Plant\": \"Redroot pigweed\", \"Hours after application\": 5, \"Absorbed (%)\": 25.7, \"Translocated (%)\": 57.7, \"Metabolized (%)\": 17.61}, {\"Plant\": \"Redroot pigweed\", \"Hours after application\": 24, \"Absorbed (%)\": 39.1, \"Translocated (%)\": 36.5, \"Metabolized (%)\": 62.61}, {\"Plant\": \"Sugar beet\", \"Hours after application\": 5, \"Absorbed (%)\": 22.5, \"Translocated (%)\": 21.2, \"Metabolized (%)\": 67.06}, {\"Plant\": \"Sugar beet\", \"Hours after application\": 24, \"Absorbed (%)\": 39.9, \"Translocated (%)\": 21.1, \"Metabolized (%)\": 93.69}]"
+        }
+    ]
+}

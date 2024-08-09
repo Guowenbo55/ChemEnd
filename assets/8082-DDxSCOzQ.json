@@ -1,0 +1,205 @@
+{
+    "_id": {
+        "$oid": "6682e8a8c4e5dba5ffba26af"
+    },
+    "CID": {
+        "$numberInt": "8082"
+    },
+    "Name": "PIPERIDINE",
+    "IUPACName": "piperidine",
+    "CanonicalSMILES": "C1CCNCC1",
+    "Synonyms": [
+        "PIPERIDINE",
+        "110-89-4",
+        "Hexahydropyridine",
+        "Cyclopentimine",
+        "Azacyclohexane",
+        "Piperidin",
+        "Cypentil",
+        "Hexazane",
+        "Pentamethyleneimine",
+        "Pentamethylenimine",
+        "Perhydropyridine",
+        "Pyridine",
+        "hexahydro-",
+        "Pentamethyleneamine",
+        "azinane",
+        "FEMA No. 2908"
+    ],
+    "IsomericSMILES": "C1CCNCC1",
+    "INCHI": "InChI=1S/C5H11N/c1-2-4-6-5-3-1/h6H,1-5H2",
+    "INCHIKEY": "NQRYJNQNLNOLGT-UHFFFAOYSA-N",
+    "Formula": "C5H11N",
+    "MolecularWeight": {
+        "$numberDouble": "85.15"
+    },
+    "Description": "Piperidine is an azacycloalkane that is cyclohexane in which one of the carbons is replaced by a nitrogen. It is a metabolite of cadaverine, a polyamine found in the human intestine. It has a role as a reagent, a protic solvent, a base, a catalyst, a plant metabolite, a human metabolite and a non-polar solvent. It is a saturated organic heteromonocyclic parent, an azacycloalkane, a secondary amine and a member of piperidines. It is a conjugate base of a piperidinium.",
+    "XlogP": {
+        "$numberDouble": "0.8"
+    },
+    "Complexity": {
+        "$numberInt": "30"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Uhegbu FO, Maduagwu EN; Bull Environ Contam Toxicol; 55: 643-49 (1995) (2) Irvine WJ, Saxby MJ; Phytochemistry 8: 473-6 (1969) (3) Kataoka H et al; Bull Environ Contam Toxicol 59:570-6 (1997)",
+            "Value": "Piperidine was identified, not quantified, in various plants and roots from Nigeria, Africa, which are used as native medicinals, namely Pleiocera barteri, Alsotonia boonei, and Morinda lucida, and believed to have antimalaria activity(1). Piperidine has been identified in tobacco leaf(2,3) at concentrations of 45 ug/cigarette(3)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 15 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for piperidine(SRC), using a log Kow of 0.84(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Ver 2006.01.30 Updated. National Institute of Technology and Evaluation. Tokyo, Japan. Piperidine. 110-89-4. Available from the database query page at https://www.safe.nite.go.jp/english/kizon/KIZON_start_hazkizon.html as of Jun 2007. (2) Sasaki S; p.283-298 in Aquatic Pollutants; Transformation & Biological Effects. Pergamon Press (1978) (3) Pitter P, Simanova J; Sb Vys Sk Chem Technol Praze (Oddil) F: Technol Vody Pros Tredi F22: 93-113 (1978) (4) Klein D et al; Ann Nutr Aliment 32: 425-435 (1978) (5) Archer MC et al; IARC Sci Publ 19: 239-246 (1978)",
+            "Value": "AEROBIC: Piperidine, present at 100 mg/L, reached 66.9 % of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L and the Japanese MITI test(1). Piperidine is readily biodegradable in screening tests using mixed soil and sewage(2) or sewage(3) inocula. Greater than 30% BOD theoretical in 2 weeks was observed with the mixed inoculum BOD test(2). There is some evidence from pure culture studies that suggests that under certain situations microorganisms may form N-nitrosopiperidine(4); however, other pure culture studies suggest that piperidine is not nitrosated(5)."
+        },
+        {
+            "References": "PMID:12146621",
+            "Value": "ANAEROBIC: Piperidine was found to degrade anaerobically via denitrification in 12-15 days in microbial consortia from freshwater sediments, estuarine sediments and activated sludge(1)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Golovnya RV et al; IARC Sci Publ 41: 327-335 (1982) (2) Neurath GB et al; Food Cosmet Toxicol 15: 275-282 (1977)",
+            "Value": "Piperidine was detected in 4 of 6 fish samples at concentrations of 0.2-0.7 ppm(1) and in Cod roe at 0.210 ppm(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 15",
+            "Value": "log Kow = 0.84"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "BG Chemie; Toxikologische Bewertung Nr. 72. Piperidin CAS-Nr. 110-89-4 ISSN 0937-4248 (November 2000) Available from, as of August 1, 2007: https://www.bgchemie.de",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The acute toxicity data for piperidine are - with exceptions - in relatively good agreement and suggest that as a xenobiotic, piperidine is harmful upon administration via different routes of exposure. The values found for the most frequently determined parameter, the oral LD50 in the rat, are found to be in good agreement at approximately 400 mg/kg body weight. ... The only acute dermal toxicity study available was conducted in the rabbit and yielded an LD50 of 276 mg/kg body weight, demonstrating that the effects of dermal and oral exposure to the chemical are similar. ... The clinical signs seen in acute piperidine intoxication are not very substance-specific. Oral administraiton primarily produces gastrointestinal bleeding and necrosis which are induced by the severe irritant and corrosive properties of the chemical."
+        },
+        {
+            "References": "BG Chemie; Toxikologische Bewertung Nr. 72. Piperidin CAS-Nr. 110-89-4 ISSN 0937-4248 (November 2000) Available from, as of August 1, 2007: https://www.bgchemie.de",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Piperidine has a corrosive effect on the skin and eyes of rabbits."
+        },
+        {
+            "References": "USEPA; High Production Volume Information System (HPVIS); Piperidine (110-89-4). Available from, as of July 18, 2007: https://iaspub.epa.gov/oppthpv/quicksearch.display?pChem=101794",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... /Sprague-Dawley/ rats were fasted for 16 to 20 hours before /piperidine/ administration. The prefasted weights were 190 to 300 g. Fixed-dose procedure: Groups of ten rats (five males and five females) were administered the test substance /by gavage/ at concentrations of 5, 50, 500 and 2000 mg/kg. Rats were observed for signs of toxicity for 14 days post dose and were autopsied at the end of the study. ... Up-and-down method: Female rats were dosed, one at a time, starting with the first rat at the best estimate of the LD50. If the first rat was alive at the end of 24 hours, the next rat was given a higher dose. If the first rat died, then the next rat received a lower dose. The dose for the next rat was increased or decreased by a factor of 1.3. ... Rats were observed for signs of toxicity for 14 days post dose and were autopsied at the end of the study. Only females were used because they are generally equal in sensitivity or more sensitive /than/ males. Up-and-down method LD50 = 337 mg/kg (95% confidence limit of 245 - 465 mg/kg). ... clinical signs ... observed /in the fixed dose group/ during the 14-day observation period: decreased motor activity, respiratory effects, tremors, blanching and piloerection. These clinical signs were observed within one-day post dose and lasted for one day. No autopsy findings were noted. ... clinical signs ... observed /in the up-and-down method group/ during the 14-day observation period: decreased motor activity, respiratory effects, tremors, blanching, piloerection, ataxia and salivation. These clinical signs were observed within one-day post dose and lasted for one day. Stomach and intestinal hemorrhage with ulcers was noted at autopsy. Based on the results from both procedures, the test substance was considered harmful according to EC criteria."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 4:1142",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Piperidine causes moderately severe skin irritation when applied to guinea pig skin."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 4:1142",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Severe eye damage with permanent corneal injury results from instillation in rabbit eye."
+        },
+        {
+            "References": "Patty, F. (ed.). Industrial Hygiene and Toxicology: Volume II: Toxicology. 2nd ed. New York: Interscience Publishers, 1963., p. 2198",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Piperidine ... exhibits relatively high ... toxicity when admin undiluted to laboratory animals ... . 10% soln in water is ... less toxic when given orally to rats since some animals survive 100 mg/kg but not 200 mg/kg. Animals show weakness, respiratory distress & convulsions."
+        },
+        {
+            "References": "Patty, F. (ed.). Industrial Hygiene and Toxicology: Volume II: Toxicology. 2nd ed. New York: Interscience Publishers, 1963., p. 2185",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Piperidine ... exhibits strong primary irritant properties for skin, mucous membranes, and eyes, and relatively high degree of acute toxicity. Effective doses produce ... ataxia..."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 742",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  In testing on rabbit eyes without control of pH, it caused severe injury of the cornea, graded 9 on a scale of 1 to 10 at twenty four hr. Tested in aqueous solution at 0.023 molar concentration by continuous application for ten min after mechanical removal of the corneal epithelium to permit penetration, at pH 11 the solution caused slight reversible graying of the cornea, and at pH 10 caused no significant injury."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 4:1143",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ It is well absorbed from gastrointestinal tract and absorption through skin is sufficient to produce death in small animals."
+        },
+        {
+            "References": "USEPA; High Production Volume Information System (HPVIS); Piperidine (110-89-4). Available from, as of July 18, 2007: https://iaspub.epa.gov/oppthpv/quicksearch.display?pChem=101794",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Two groups of 20 rats and 6 rabbits were administered ... /piperidine/ via inhalation in 700-liter chambers at concentrations of 0.01+/- 0.001 or 0.002 +/- 0.0003 mg/L, 4 hr/day, 5 times/wk for 4 months. ... Concentration in the chambers was recorded eight times in the course of each 4-hr exposure (at 30, 60, 90, 120, 150, 180, 210 and 240 min). ... Actual dose received: 0.01 mg/L and 0.002 mg/L. Body weights of the animals in the 0.01 mg/L exposure group were reduced beginning at 14 days of exposure and remained reduced throughout the recovery period. ... Skin capillary endurance in the animals exposed to 0.01 mg/L was lower than the controls at the start and end of exposures and also at the end of the recovery period. ... At the end of the exposure period animals in the 0.01 mg/L group had a reduced amount of hippuric acid in the urine compared to controls. Impaired kidney function in the 0.01 mg/L group was observed at the end of the exposure period based on the lower daily diuresis than controls. Relative lung weights of animals exposed to 0.01 mg/L at the 4 month necropsy were increased compared to the control group. Histopathologic evaluations of animals exposed to 0.01 mg/L at 4 months of exposure: scars in the myocardium, including random necrotic areas; random thickening of alveolar walls of the lungs; protein dystrophy in the liver; hyaline droplet degeneration in the kidneys; dead germinal epithelium and appearance of gigantic cells in the testicles; and fewer lymphoid elements in the stroma of the spleen. ... The morphological changes of the internal organs of the animals exposed to 0.002 mg/L of the test substance were much less prominent than those of the higher exposure group and were fully reversible. ... NOAEL = 0.002 mg/L; LOAEL = 0.01 mg/L."
+        },
+        {
+            "References": "Snyder, R. (ed.). Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume II: Nitrogen and Phosphorus Solvents. Amsterdam-New York-Oxford: Elsevier, 1990., p. 254",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Exposure of rats and rabbits to 2.87 ppm piperidine 4 hr/day for 4 months decreased body weight gains, altered the cardiovascular system, brain electrical activity and spermatogenesis, and caused dystrophic changes in the liver and kidneys. At 0.57 ppm, arterial pressure was decreased and skin capillary permeability and neuromuscualr irritability were increased."
+        },
+        {
+            "References": "BG Chemie; Toxikologische Bewertung Nr. 72. Piperidin CAS-Nr. 110-89-4 ISSN 0937-4248 (November 2000) Available from, as of August 1, 2007: https://www.bgchemie.de",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In a 4-week inhalation toxicity study of piperidine in rats (6 hr whole-body exposure 5 days/wk) which was conducted in accordance with OECD guideline No. 412, there were no substance-related changes up to a concentration level of 70 mg/cu m, compared with ...controls. At a concentration of 348 mg/cu m, a slight increase in relative liver weights and a tendency towards retardation of body weight gain was observed. Comprehensive functional and neurohistopathological investigations on the chemical's neurotoxicity which were carried out within the framework of the study gave no indications of any neurotoxic effects."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 4:1142",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Ten doses of piperidine at 90 mg/kg during a 2-week period produced marked weight loss, necrosis of the liver, and possible kidney damage in rats."
+        },
+        {
+            "References": "BG Chemie; Toxikologische Bewertung Nr. 72. Piperidin CAS-Nr. 110-89-4 ISSN 0937-4248 (November 2000) Available from, as of August 1, 2007: https://www.bgchemie.de",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ In several studies in which rats and mice were exposed to pure piperidine, no indications of carcinogenicity were found. The studies were conducted in A/He mice receiving 19 piperidine doses of 50 mg/kg body weight by ip injection within 6 1/2 weeks (followed by an 18-week observation period) and in Sprague-Dawley rats, which were given piperidine in their drinking water for 75 weeks in one study and for 50 weeks in another (0.1 and 0.09% piperidine, respectively, in water). In view of the negative carcinogenicity and the predominantly negative genotoxicity findings described above, it appears unlikely that the piperidine molecule itself is capable of inducing cancer in the body."
+        },
+        {
+            "References": "USEPA; High Production Volume Information System (HPVIS); Piperidine (110-89-4). Available from, as of July 18, 2007: https://iaspub.epa.gov/oppthpv/quicksearch.display?pChem=101794",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ The possible formation of N-nitroso compounds in vivo from ingested secondary or tertiary amines and nitrite was tested with piperidine and 12 other amino compounds. Piperidine /at 0.09%/ was administered to /Sprague-Dawley/ rats in the drinking water with or without /0.2%/ sodium nitrite /in drinking water/. ... Fifteen male and 15 female rats per test group and 26 male and 30 female rats in the control group (approximately 8 to 10 weeks old at study initiation) were provided 60 mL of the appropriate dose solution to drink for five days per week. On the remaining two days of each week, tap water was provided. The treatment period, following the above regimen, lasted for 50 weeks for the treated groups and 2 years for the control group. Animals were maintained on study after the treatment period until spontaneous death or until they became moribund and were killed. A complete necropsy was performed on all animals and tissues were retained and examined histologically. Incidence of tumors for rats chronically exposed to 0.09% piperidine or 0.09% piperidine with 0.2% sodium nitrite was not significantly increased as compared to control rats receiving 0.2% sodium nitrite in drinking water. The NOAEL was determined to be 0.09% piperidine in drinking water for tumorigenesis."
+        },
+        {
+            "References": "BG Chemie; Toxikologische Bewertung Nr. 72. Piperidin CAS-Nr. 110-89-4 ISSN 0937-4248 (November 2000) Available from, as of August 1, 2007: https://www.bgchemie.de",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ A study in ddy mice successfully demonstrated that simultaneous administration of nitrite and piperidine led to a marked increase in the incidence of urinary bladder cancer when cholesterol pellets containing piperidine hydrochloride were surgically implanted into the urinary bladder and the rats were given sodium nitrite (0.1%) in their drinking water for 40 weeks. /Piperidine hydrochloride/"
+        },
+        {
+            "References": "Snyder, R. (ed.). Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume II: Nitrogen and Phosphorus Solvents. Amsterdam-New York-Oxford: Elsevier, 1990., p. 255",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Inhalation of 2.9 ppm piperidine 4 hr/day for 4 mo caused altered spermatogenesis in rats. Decreased embryo weight was caused by inhalation of 4.3 ppm, but not 0.9 ppm, piperidine in rats throughout pregnancy and 29 ppm also caused an increase in the resorption rate."
+        },
+        {
+            "References": "USEPA; High Production Volume Information System (HPVIS); Piperidine (110-89-4). Available from, as of July 18, 2007: https://iaspub.epa.gov/oppthpv/quicksearch.display?pChem=101794",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ /In a/ developmental toxicity/teratogenicity /study/, female rats /were/ administered piperidine by inhalation until gestation day 21 at doses of 3, 15, and 100 mg/cu m. Exposure scenario 1: Throughout the entire pregnancy; exposure scenario 2: On day 4 of pregnancy (implantation period) at 100 and 3 mg/cu m only; or exposure scenario 3: On day 9 of pregnancy (placental period). Maternal toxicity NOEL: 3 mg/cu m; Developmental toxicity NOEL: 3 mg/cu m; Actual dose received: 3 + or - 2.6 mg/cu m, 15 + or - 1.5 mg/cu m, 100 + or - 7.0 mg/cu m. ... Animals exposed to 15 and 100 mg/cu m gained significantly less weight than the control group. ... The number of implantation sites and the number of fetuses per female was reduced (statistically significant) at 100 mg/cu m in the group of females exposed on day 4 of pregnancy (exposure scenario 2). Fetal body weight was statistically significantly reduced in all exposure groups compared to control when exposed during the entire pregnancy (exposure scenario 1). ..."
+        },
+        {
+            "References": "BG Chemie; Toxikologische Bewertung Nr. 72. Piperidin CAS-Nr. 110-89-4 ISSN 0937-4248 (November 2000) Available from, as of August 1, 2007: https://www.bgchemie.de",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ The neurotoxicity of piperidine was comprehensively investigated in a 28-day inhalation study in rats in accordance with OECD guideline No. 412, by means of a functional observational battery comprising a total of 32 parameters of sensory and motor function and neurohistopathological examination upon perfusion fixation, applying the relevant EPA guidelines. Concentration levels up to 100 ppm (348 mg/cu m) showed no effect."
+        },
+        {
+            "References": "Snyder, R. (ed.). Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume II: Nitrogen and Phosphorus Solvents. Amsterdam-New York-Oxford: Elsevier, 1990., p. 256",
+            "Value": "/GENOTOXICITY/ Piperidine tested negative in the Salmonella/microsome Ames test. It also tested negative in the EPA Genetox Program host-mediated assay."
+        },
+        {
+            "References": "Snyder, R. (ed.). Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume II: Nitrogen and Phosphorus Solvents. Amsterdam-New York-Oxford: Elsevier, 1990., p. 256",
+            "Value": "/GENOTOXICITY/ /Piperidine tested negative in the following assays:/ direct bacterial, host-mediated, and microsomal mutagenesis."
+        },
+        {
+            "References": "BG Chemie; Toxikologische Bewertung Nr. 72. Piperidin CAS-Nr. 110-89-4 ISSN 0937-4248 (November 2000) Available from, as of August 1, 2007: https://www.bgchemie.de",
+            "Value": "/GENOTOXICITY/",
+            "Table": "[{'Test System': 'Salmonella typhimurium TA1530, TA1531, TA1532, TA1964', 'Conditions': '12.76 mg/ml w. S-9; 1-5 mg/plate without S-9', 'S-9 Source': 'Mouse liver S-9', 'Results': 'Negative'}, {'Test System': 'S. typhimurium TA98, TA100, TA1535, TA1537', 'Conditions': '0.25 mg/plate', 'S-9 Source': 'Aroclor-induced rat liver', 'Results': 'Negative'}, {'Test System': 'S. typhimurium TA100, TA1535', 'Conditions': '32, 64 , 128 ug/plate (highest dose  toxic)', 'S-9 Source': nan, 'Results': 'Positive in TA100 in the 32 and 64 ug doses'}, {'Test System': 'Escherichia coli, polA+, polA-', 'Conditions': '10 ug/plate in spot test and 3.41 mg/mL in incubation test', 'S-9 Source': 'Phenobarbital-induced mouse liver', 'Results': 'Negative'}, {'Test System': 'E. coli K12 343/112', 'Conditions': 'To 86 mg/mL', 'S-9 Source': 'Aroclor-induced rat liver', 'Results': 'Negative'}, {'Test System': 'Actinomyces streptomycini kras', 'Conditions': '4.25 mg/mL', 'S-9 Source': nan, 'Results': 'Negative'}]"
+        },
+        {
+            "References": "USEPA; High Production Volume Information System (HPVIS); Piperidine (110-89-4). Available from, as of July 18, 2007: https://iaspub.epa.gov/oppthpv/quicksearch.display?pChem=101794",
+            "Value": "/GENOTOXICITY/ /In a mammalian cell forward mutation assay, piperidine/ produced increases in the mutation frequency in the treated cultures relative to the control cultures at total growths of 10% or higher that were dose-related and statistically significant at the 1% level or greater. Cell type: Heterozygous L5178Y+/- 3.7.2.C mouse lymphoma cells. Metabolic activation: S9 homogenate derived from livers of Aroclor 1254-induced male Sprague-Dawley rats. The test substance produced increases in mutation frequency between three- and four-fold at a concentration of 6.06 x 10E-3 mol/L without metabolic activation. The total growth at this concentration was 24%. Cytotoxic concentration: 7.07 x 10E-3 mol/L without metabolic activation. Genotoxic effects: Positive without metabolic activation only."
+        },
+        {
+            "References": "Snyder, R. (ed.). Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume II: Nitrogen and Phosphorus Solvents. Amsterdam-New York-Oxford: Elsevier, 1990., p. 256",
+            "Value": "/GENOTOXICITY/ Piperidine was not carcinogenic in the Strain A mouse pulmonary tumor system and no DNA damage was found in an alkaline elution/rat hepatocyte assay."
+        },
+        {
+            "References": "BG Chemie; Toxikologische Bewertung Nr. 72. Piperidin CAS-Nr. 110-89-4 ISSN 0937-4248 (November 2000) Available from, as of August 1, 2007: https://www.bgchemie.de",
+            "Value": "/GENOTOXICITY/ In the mouse micronucleus test carried out in vivo, single oral administration of piperidine was not observed to cause chromosomal damage at dose levels of up to 400 mg/kg body weight (maximum tolerated dose)."
+        },
+        {
+            "References": "BG Chemie; Toxikologische Bewertung Nr. 72. Piperidin CAS-Nr. 110-89-4 ISSN 0937-4248 (November 2000) Available from, as of August 1, 2007: https://www.bgchemie.de",
+            "Value": "/GENOTOXICITY/ The DNA-damaging effects of piperidine have been investigated in vitro in the DNA repair test on Escherichia coli strains polA- and K12, in tests for induction of DNA strand breaks in primary rat hepatocytes and mouse lymphoma cells, in the Host Mediated Assay in the mouse and in Escherichia coli K12 strains as well as in vivo in rat studies on the induction of DNA strand breaks in leukocytes, esophageal cells and hepatocytes. WIth the exception of one single positive result at the highest concentration level tested on mouse lymphoma cells in the presence of metabolic activation, all findings ... were negative."
+        },
+        {
+            "References": "BG Chemie; Toxikologische Bewertung Nr. 72. Piperidin CAS-Nr. 110-89-4 ISSN 0937-4248 (November 2000) Available from, as of August 1, 2007: https://www.bgchemie.de",
+            "Value": "/OTHER TOXICITY INFORMATION/ It has been demonstrated that sodium nitrite and piperidine react to form N-nitrosopiperidine in situ in the stomach and the small intestine of the rat as well as in vitro in isolated gastric juice of the rat."
+        },
+        {
+            "References": "BG Chemie; Toxikologische Bewertung Nr. 72. Piperidin CAS-Nr. 110-89-4 ISSN 0937-4248 (November 2000) Available from, as of August 1, 2007: https://www.bgchemie.de",
+            "Value": "/OTHER TOXICITY INFORMATION/ Closely related to coniine and nicotine in terms of chemical structure, piperidine is capable of producing both peripheral and central effects. Peripherally, the predominant actions include increases in blood pressure, respiration and muscle contraction. The chemical's central actions are reported to include prolongation of sleeping time following anesthesia, partial inhibition of escape response, inhibition of aggressive behavior and cerebral synaptic stimulation."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 4:1142",
+            "Value": "/OTHER TOXICITY INFORMATION/ ... Doses  /of 5-10 mg/kg iv in dogs or cats/ stimulate respirations and increase heart rate."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "PMID:7141540",
+            "Value": "SOIL: Piperidine was detected, not quantified, in soils not under cultivation(1)."
+        }
+    ]
+}

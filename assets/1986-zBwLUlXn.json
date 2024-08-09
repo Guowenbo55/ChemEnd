@@ -1,0 +1,77 @@
+{
+    "_id": {
+        "$oid": "6682e7e7c4e5dba5ffba22ec"
+    },
+    "CID": {
+        "$numberInt": "1986"
+    },
+    "Name": "ACETAZOLAMIDE",
+    "IUPACName": "N-(5-sulfamoyl-1,3,4-thiadiazol-2-yl)acetamide",
+    "CanonicalSMILES": "CC(=O)NC1=NN=C(S1)S(=O)(=O)N",
+    "Synonyms": [
+        "acetazolamide",
+        "59-66-5",
+        "Diamox",
+        "Acetamox",
+        "Nephramide",
+        "Glaupax",
+        "N-(5-Sulfamoyl-1,3,4-thiadiazol-2-yl)acetamide",
+        "Acetazolamid",
+        "Defiltran",
+        "Phonurit",
+        "Donmox",
+        "Edemox",
+        "Didoc",
+        "Diuriwas",
+        "Cidamex"
+    ],
+    "IsomericSMILES": "CC(=O)NC1=NN=C(S1)S(=O)(=O)N",
+    "INCHI": "InChI=1S/C4H6N4O3S2/c1-2(9)6-3-7-8-4(12-3)13(5,10)11/h1H3,(H2,5,10,11)(H,6,7,9)",
+    "INCHIKEY": "BZKPWHYZMXOIDC-UHFFFAOYSA-N",
+    "Formula": "C4H6N4O3S2",
+    "MolecularWeight": {
+        "$numberDouble": "222.3"
+    },
+    "Description": "Acetazolamide is a sulfonamide, a member of thiadiazoles and a monocarboxylic acid amide. It has a role as a diuretic, an anticonvulsant and an EC 4.2.1.1 (carbonic anhydrase) inhibitor. It is a conjugate acid of an acetazolamide(1-). It derives from a hydride of a 1,3,4-thiadiazole.",
+    "XlogP": {
+        "$numberDouble": "-0.3"
+    },
+    "Complexity": {
+        "$numberInt": "297"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 9",
+            "Value": "Log P= -0.45"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B. Molinoff, R.W. Ruddon, A.G. Goodman (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 9th ed. New York, NY: McGraw-Hill, 1996., p. 693",
+            "Value": "Carbonic anhydrase inhibitors potently inhibit (IC50 for acetazolamide is 10 nM) both the membrane bound and cytoplasmic forms of carbonic anhydrase, resulting in nearly complete abolition of NaHCO3 reabsorption in the proximal tubule. /Carbonic Anhydrase Inhibitors/"
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B. Molinoff, R.W. Ruddon, A.G. Goodman (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 9th ed. New York, NY: McGraw-Hill, 1996., p. 693",
+            "Value": "Although the proximal tubule is the major site of action of carbonic anhydrase inhibitors, carbonic anhydrase also is involved in secretion of titratable acid in the collecting duct system (a process which involves a proton pump), and therefore the collecting duct system is a secondary site of action for this class of drugs. /Carbonic Anhydrase Inhibitors/"
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B. Molinoff, R.W. Ruddon, A.G. Goodman (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 9th ed. New York, NY: McGraw-Hill, 1996., p. 694",
+            "Value": "Acetazolamide frequently causes paresthesias and somnolence, suggesting an action of carbonic anhydrase inhibitors in the CNS. The efficacy of acetazolamide in epilepsy is in part due to the production of metabolic acidosis; however, direct actions of acetazolamide in the CNS also contribute to its anticonvulsant action."
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B. Molinoff, R.W. Ruddon, A.G. Goodman (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 9th ed. New York, NY: McGraw-Hill, 1996., p. 694",
+            "Value": "... Inhibition of carbonic anhydrase decreases the rate of formation of aqueous humor and consequently reduce intraocular pressure. /Carbonic Anhydrase Inhibitors/"
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B. Molinoff, R.W. Ruddon, A.G. Goodman (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 9th ed. New York, NY: McGraw-Hill, 1996., p. 694",
+            "Value": "Due to interference with carbonic anhydrase activity in RBCs, carbonic anhydrase inhibitors increase CO2 levels in peripheral tissues and decrease CO2 levels in expired gas. /Carbonic Anhydrase Inhibitors/"
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B. Molinoff, R.W. Ruddon, A.G. Goodman (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 9th ed. New York, NY: McGraw-Hill, 1996., p. 694",
+            "Value": "By inhibiting proximal reabsorption, carbonic anhydrase inhibitors increase delivery of solutes to the macula densa. This triggers tubuloglomerular feedback (TGF) which increases afferent arteriolar resistance and reduces renal blood flow (RBF) and glomerular filtration rate (GFR). /Carbonic Anhydrase Inhibitors/"
+        }
+    ]
+}

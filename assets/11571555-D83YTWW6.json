@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "6692711e303528b49832d7fc"
+    },
+    "CID": {
+        "$numberInt": "11571555"
+    },
+    "Name": "Pyroxsulam",
+    "IUPACName": "N-(5,7-dimethoxy-[1,2,4]triazolo[1,5-a]pyrimidin-2-yl)-2-methoxy-4-(trifluoromethyl)pyridine-3-sulfonamide",
+    "CanonicalSMILES": "COC1=CC(=NC2=NC(=NN12)NS(=O)(=O)C3=C(C=CN=C3OC)C(F)(F)F)OC",
+    "Synonyms": [
+        "Pyroxsulam",
+        "422556-08-9",
+        "Pyroxsulam [ISO]",
+        "UNII-N9N7LU19AP",
+        "N-(5,7-dimethoxy-[1,2,4]triazolo[1,5-a]pyrimidin-2-yl)-2-methoxy-4-(trifluoromethyl)pyridine-3-sulfonamide",
+        "N9N7LU19AP",
+        "C14H13F3N6O5S",
+        "N-(5,7-DIMETHOXY(1,2,4)TRIAZOLO(1,5-A)PYRIMIDIN-2-YL)-2-METHOXY-4-(TRIFLUOROMETHYL)PYRIDINE-3-SULFONAMIDE",
+        "N-(5,7-dimethoxy[1,2,4]triazolo[1,5-a]pyrimidin-2-yl)-2-methoxy-4-(trifluoromethyl)pyridine-3-sulfonamide",
+        "ADMITT",
+        "POWERFLEX",
+        "PYROXSULAM [MI]",
+        "Pyroxsulam 100 microg/mL in Acetonitrile",
+        "SCHEMBL95924",
+        "DTXSID7044344"
+    ],
+    "IsomericSMILES": "COC1=CC(=NC2=NC(=NN12)NS(=O)(=O)C3=C(C=CN=C3OC)C(F)(F)F)OC",
+    "INCHI": "InChI=1S/C14H13F3N6O5S/c1-26-8-6-9(27-2)23-13(19-8)20-12(21-23)22-29(24,25)10-7(14(15,16)17)4-5-18-11(10)28-3/h4-6H,1-3H3,(H,21,22)",
+    "INCHIKEY": "GLBLPMUBLHYFCW-UHFFFAOYSA-N",
+    "Formula": "C14H13F3N6O5S",
+    "MolecularWeight": {
+        "$numberDouble": "434.35"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "1.7"
+    },
+    "Complexity": {
+        "$numberInt": "665"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Wheat shows selectivity to pyroxsulam, a new broad-spectrum herbicide with high activity on blackgrass. Studies were performed to establish whether uptake, translocation or metabolism were responsible for the differential activity in wheat compared with blackgrass. In addition, the effect of the safener cloquintocet-mexyl on metabolism was evaluated in wheat and blackgrass shoots. Root uptake of pyroxsulam in blackgrass was significantly higher than in wheat, suggesting a possible activity enhancement in blackgrass owing to root uptake. Translocation to foliage from root uptake as well as translocation out of treated foliage following foliar applications was low in wheat compared with blackgrass, likely owing to the rapid metabolism of pyroxsulam in wheat. Wheat metabolized pyroxsulam significantly faster than blackgrass to the less active O-dealkylation product. Wheat shoots metabolized pyroxsulam faster when the safener cloquintocet-mexyl was present, but cloquintocet-mexyl did not increase the rate of metabolism in blackgrass. The selectivity of pyroxsulam to wheat relative to blackgrass was connected primarily with differences in the rate of metabolism and generation of an inactive metabolite. Metabolism in wheat restricted subsequent movement of radioactivity out of the treated leaf. The rapid metabolism in wheat was increased by the addition of cloquintocet-mexyl.",
+            "reference": "Gerrit J deBoer; Scott Thornburgh; Jeff Gilbert; Roger E Gast (2011). The impact of uptake, translocation and metabolism on the differential selectivity between blackgrass and wheat for the herbicide pyroxsulam. , 67(3), 279\u2013286.doi:10.1002/ps.2062\u00a0    ",
+            "method": {
+                "Test Plant": "Wheat (cv. Anza, Pioneer 25R18; Pioneer Hi-Bred International, Johnston, IA) and blackgrass (Herbiseed, Berkshire, UK/farm in Oxfordshire) plants",
+                "Apply Location": "Hydroponic solution for wheat; sand for blackgrass",
+                "Plant Grown Condition": "Greenhouse conditions with a photoperiod of 16 hours, an average temperature of 18\u00b0C, and a photosynthetic photon flux density of 300 \u00b5mol/m\u00b2/s",
+                "Chemical Preparation": "14C-pyroxsulam and 14C-florasulam with specific activities of 1.09 GBq mmol^-1 and 0.8 GBq mmol^-1 respectively, prepared by Dow AgroSciences specialty synthesis group. 14C-pyroxsulam solubilized in an aqueous solution of 1% (v/v) Actirob B (methylated rape seed oil adjuvant) to form a concentration of 100 mg/L with activity levels of 2 kBq mL^-1. Foliar application of 12.5 g ha^-1 of pyroxsulam and 12.5g ha^-1 of cloquintocet mexyl with a herbicide:safener ratio of 1:1",
+                "Pesticide Application Details for the Plant": "Wheat plants: 1.8 \u00b5g of 14C-pyroxsulam or florasulam added to a 120 mL hydroponic solution; final concentration 15 ppb.Blackgrass plants: approximately 0.3 \u00b5g of 14C-pyroxsulam or florasulam added to a 20 mL volume of water; final concentration 15 ppb",
+                "Other Information": "-"
+            },
+            "result": "[{\"Plant\": \"Wheat\", \"Unnamed: 1\": NaN, \"Time After Application\": \"8 hours\", \"Absorbed (%)\": 58.5, \"Translocated (%)\": 9.7}, {\"Plant\": \"Wheat\", \"Unnamed: 1\": NaN, \"Time After Application\": \"24 hours\", \"Absorbed (%)\": 66.2, \"Translocated (%)\": 11.3}, {\"Plant\": \"Wheat\", \"Unnamed: 1\": NaN, \"Time After Application\": \"48 hours\", \"Absorbed (%)\": 56.4, \"Translocated (%)\": 9.0}, {\"Plant\": \"Blackgrass\", \"Unnamed: 1\": \"8 hours\", \"Time After Application\": \"34.9\", \"Absorbed (%)\": 28.4, \"Translocated (%)\": NaN}, {\"Plant\": \"Blackgrass\", \"Unnamed: 1\": \"24 hours\", \"Time After Application\": \"61.3\", \"Absorbed (%)\": 13.6, \"Translocated (%)\": NaN}, {\"Plant\": \"Blackgrass\", \"Unnamed: 1\": \"48 hours\", \"Time After Application\": \"54.0\", \"Absorbed (%)\": 43.7, \"Translocated (%)\": NaN}]"
+        }
+    ]
+}

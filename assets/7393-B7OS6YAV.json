@@ -1,0 +1,69 @@
+{
+    "_id": {
+        "$oid": "6682e87ac4e5dba5ffba25ca"
+    },
+    "CID": {
+        "$numberInt": "7393"
+    },
+    "Name": "p-tert-Butylphenol",
+    "IUPACName": "4-tert-butylphenol",
+    "CanonicalSMILES": "CC(C)(C)C1=CC=C(C=C1)O",
+    "Synonyms": [
+        "4-tert-Butylphenol",
+        "98-54-4",
+        "p-tert-Butylphenol",
+        "4-(tert-Butyl)phenol",
+        "Butylphen",
+        "4-(1,1-Dimethylethyl)phenol",
+        "PTBP",
+        "p-t-Butyl phenol",
+        "4-t-Butylphenol",
+        "Phenol",
+        "4-(1,1-dimethylethyl)-",
+        "Phenol",
+        "p-tert-butyl-",
+        "p-t-Butylphenol",
+        "4-tert-butyl-phenol",
+        "p-terc.Butylfenol",
+        "para-tertiary-butylphenol"
+    ],
+    "IsomericSMILES": "CC(C)(C)C1=CC=C(C=C1)O",
+    "INCHI": "InChI=1S/C10H14O/c1-10(2,3)8-4-6-9(11)7-5-8/h4-7,11H,1-3H3",
+    "INCHIKEY": "QHPQWRBYOIRBIT-UHFFFAOYSA-N",
+    "Formula": "C10H14O",
+    "MolecularWeight": {
+        "$numberDouble": "150.22"
+    },
+    "Description": "4-tert-butylphenol is a member of the class of phenols that is phenol substituted with a tert-butyl group at position 4. It has a role as an allergen.",
+    "XlogP": {
+        "$numberDouble": "3.3"
+    },
+    "Complexity": {
+        "$numberInt": "115"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "animal_concentrations": [
+        {
+            "References": "(1) Tsuda T et al; Bull Environ Contam Toxicol 68: 126-131 (2002)",
+            "Value": "p-tert-Butylphenol was not detected (detection limit not reported) in snails collected from the Fujima and Shiratori Rivers (near Lake Biwa, Japan) during 1999-2000(1)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Barber LB et al; Environ Sci Technol 40: 603-611 (2006)",
+            "Value": "Fish (Tilapia and Gambusia) collected from the Tres Rios Wetlands near Phoenix, AZ in 1998 and 2000 contained p-tert-butylphenol concentrations of 16-35 ng/L(1)."
+        },
+        {
+            "References": "PMID:26206390",
+            "Value": "The present study determined concentrations of estrogenic bisphenol A (BPA), nonylphenol, octylphenol (4-tert-octylphenol), butylphenol (4-tert-butylphenol), and progestogenic norethindrone by liquid chromatography-tandem mass spectrometry in bile extracts from field fish from the Xin'an River and market fish in Shanghai, China. Compared with the field fish, endocrine disrupting chemical (EDC) concentrations in market fish bile were at relatively high levels with high detectable rates. The average concentrations of BPA, nonylphenol, 4-tert-octylphenol, 4-tert-butylphenol, and norethindrone in field fish bile were 30.1 ug/L, 203 ug/L, 4.69 ug/L, 7.84 ug/L, and 0.514 ug/L, respectively; in market fish bile they were 240 ug/L, 528 ug/L, 76.5 ug/L, 12.8 ug/L, and 5.26 ug/L, respectively; and in the surface water of Xin'an River they were 38.8 ng/L, 7.91 ng/L, 1.98 ng/L, 2.66 ng/L, and 0.116 ng/L, respectively. The average of total estrogenic activity of river water was 3.32 ng/L estradiol equivalents. High bioconcentration factors (BCFs) were discovered for all 5 EDCs (998-fold) in field fish bile. Furthermore, the authors analyzed the BCF value of BPA in fish bile after 30-days exposure to environmentally relevant concentrations of BPA in the laboratory, and the analysis revealed that BCF in fish bile (BCFFish bile) changed in an inverse concentration-dependent manner based on the log10-transformed BPA concentration in water. Strikingly, the data from the field study were well fitted within this trend. The data together suggested that analysis of fish bile extracts could be an efficient method for assessing waterborne EDCs exposure for aquatic biota."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Heemken OP et al; Chemosphere 45: 245-259 (2001)",
+            "Value": "SEDIMENT: Analysis of sediment samples taken from the Elbe River, Germany, and tributaries in 1998 identified p-tert-butylphenol concentrations of 19-82 ug/kg dry mass(1)."
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "_id": {
+        "$oid": "6682e7d7c4e5dba5ffba229c"
+    },
+    "CID": {
+        "$numberInt": "674"
+    },
+    "Name": "Dimethylamine",
+    "IUPACName": "N-methylmethanamine",
+    "CanonicalSMILES": "CNC",
+    "Synonyms": [
+        "dimethylamine",
+        "N-Methylmethanamine",
+        "124-40-3",
+        "N,N-Dimethylamine",
+        "Methanamine",
+        "N-methyl-",
+        "Dimethylamine (anhydrous)",
+        "RCRA waste number U092",
+        "dimethyl-amine",
+        "Dimethylamine anhydrous",
+        "(CH3)2NH",
+        "NSC 8650",
+        "HNMe2",
+        "Me2NH",
+        "CCRIS 981",
+        "HSDB 933"
+    ],
+    "IsomericSMILES": "CNC",
+    "INCHI": "InChI=1S/C2H7N/c1-3-2/h3H,1-2H3",
+    "INCHIKEY": "ROSDSFDQCJNGOL-UHFFFAOYSA-N",
+    "Formula": "C2H7N",
+    "MolecularWeight": {
+        "$numberDouble": "45.08"
+    },
+    "Description": "Dimethylamine is a secondary aliphatic amine where both N-substituents are methyl. It has a role as a metabolite. It is a secondary aliphatic amine and a member of methylamines. It is a conjugate base of a dimethylaminium.",
+    "XlogP": {
+        "$numberDouble": "-0.2"
+    },
+    "Complexity": {
+        "$numberInt": "2"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Steiner M, Hartmann T; Planta 79: 113-21 (1968) (2) Uhegbu FO, Maduagwu EN; Bull Environ Contam Toxicol; 55: 643-49 (1995) (3) Irvine WJ, Saxby MJ; Phytochemistry 8: 473-6 (1969)",
+            "Value": "Dimethylamine was detected in 2 (Desmarestia aculeata, Desmarestia viridis) of 28 marine algae from three classes: Chlorophyceae, Phaeophyceae, Rhodophyceae(1). Dimethylamine was identified, not quantified, in various medicinal plants and roots from Africa(2). Dimethylamine has been identified in tobacco leaf (4-75 ppm)(3)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 5 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of October 4, 2018: https://www2.epa.gov/tsca-screening-tools/ (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for dimethylamine(SRC), using a log Kow of -0.38(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of October 4, 2018: https://www.safe.nite.go.jp/english/db.html (2) Smith AE, Aubin AJ; J Agric Food Chem 40: 2299-2301 (1992) (3) Calamari D et al; Chemosphere 9: 753-62 (1980) (4) Dojlido JR; Investigations of Biodegradability and Toxicity of Organic Compounds, EPA 600/2-79-163 p.118 (1979) (5) Chudoba J et al; Chem Prum 19: 76-80 (1969) (6) Kitano M; Biodeg and Bioaccum Test on Chem Substances, OECD Tokyo Meeting, Reference Book TSU-No. 3 (1978) (7) Sasaki S; pp.283-98 in Aquatic Pollutants: Transformation and Biological Effects, Hutzinger, O et al eds, Pergamon Press (1978) (8) Greene S et al; J Environ Qual 10: 416-21 (1981) (9) Tate RL, Alexander M; Appl Environ Microbiol 31: 399-403 (1976)",
+            "Value": "AEROBIC: Dimethylamine, present at 100 mg/L, reached 88% of its Theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1). Dimethylamine was biodegraded 69-89% in three Saskatchewan soils during a 7 day incubation period(2). In a screening study, dimethylamine completely degraded from a starting concentration of 10 mg/L with both an activated sludge and freshwater/sediment inoculum(3); after 5 days incubation, 70 and 80% of Theoretical BOD was consumed in the activated sludge and the sediment, respectively(3). Another screening study that employed an activated sludge inoculum reported 100% degradation in 6 and 12 days when the initial dimethylamine concentration was 20 mg/L and 135 mg/L, respectively(4). In a laboratory activated sludge unit, dimethylamine was completely removed from inflows of up to 135 mg/L with retention times of 4 hr indicating that it should be readily degraded in biological treatment plants(4). The half-life in Vistula River water (Warsaw, Poland) was 1.6 days after a 0.3 day lag(4). Dimethylamine is confirmed to be biodegradable according to the standard test of the Japanese Ministry of Industry and Trade (MITI) that employs a mixed inoculum obtained from freshwater, soil, and sludge(5-7). When 250 ppm dimethylamine was added to a fine sand loam and sandy soil amended with sewage and nitrite-N, 50% degradation occurred in 2 days in the sand loam, while 20% degradation occurred in the sandy soil(8). N-nitrosodimethylamine was formed in the degradation(8). 50 to >90% degradation occurred in four silt loam or loam soils within 14 days(9)."
+        },
+        {
+            "References": "(1) Boethling RS, Alexander M; Environ Sci Technol 13: 989-91 (1979) (2) Digeronimo MJ et al; Effect of Chemical Structure and Concentration on Microbial Degradation in Model Ecosystems, EPA-600/9-79-012 pp.154-66 (1979)",
+            "Value": "AEROBIC: When dimethylamine was added to stream water, the maximum rate of biodegradation was proportional to the initial amine concentration over a concentration range from several nanograms to several milligrams per liter(1). At the highest concentration studied, 10 mg/L, the half-life of dimethylamine was 1.5 days(1). In 4 days all of the dimethylamine was mineralized when the initial concentration ranged from 2.8 parts per trillion to 90 ppb, while 90% was mineralized when the concentration was 18 ppm(2)."
+        },
+        {
+            "References": "(1) Tate RL, Alexander M; Appl Environ Microbiol 31: 399-403 (1976) (2) Hongwei Y et al; Ecotoxicol Environ Saf 63: 299-305 (2006)",
+            "Value": "ANAEROBIC: Under anaerobic conditions, one of the silt loam soils tested required 35 days to achieve 86% removal of dimethylamine(1). Dimethylamine, present at 100 mg/L, incubated at 35 \u00b0C for 50 days was found to be readily biodegradable under anaerobic conditions(2)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Neurath GB et al; Food Cosmet Toxicol 15: 275-82 (1977) (2) Hamano T et al; Agric Biol Chem 45: 2237-43 (1981)",
+            "Value": "Dimethylamine was found in cod roe at 6.3 ppm(1), and in herring at 3.4-45 ppm(1) and 54.76 ppm(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 5",
+            "Value": "log Kow  = -0.38"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "PMID:7113921",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The sensory irritation potential of dimethylamine (DMA) inhalation on male Fischer-344 rats and male Swiss-Webster mice was evaluated by measuring the reflex decrease in respiratory rate. In addition, the six hour LC50 for rats exposed to dimethylamine was established. Groups of 3 or 4 rats and mice were exposed for 10 minutes to concentrations of DMA ranging from 49 to 1576 ppm during which time the respiratory rate was monitored and recorded. Sensory irritation concentration-response curves were obtained and RD50 values (concentration which elicits a 50% decrease in respiratory rate) were determined to be 573 and 511 ppm for rats and mice, respectively. In another set of experiments seven groups of male rats were exposed to concentrations of DMA ranging from 600 to 6119 ppm for six hours. Mortality counts were made during and for 48 hours post exposure. The six hour LC50 was determined to be 4540 ppm. Histopathologic examination of the respiratory tract revealed concentration related changes ranging from ulceration and necrosis to rhinitis, tracheitis, and emphysema. Overall, DMA was found to be less potent as a sensory irritant than other airborne irritants."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Histopathologic evaluation of the respiratory tract of rats exposed by inhalation at single concentrations ranging from 600 to 6000 ppm /for 6 hr/ revealed concentration-related changes ranging from ulceration and necrosis to rhinitis, tracheitis, and emphysema."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Mice exposed at 813 to 1626 ppm DMA had ocular and respiratory irritation and than cyanosis, convulsions, and death occurred above 5420 ppm. Pathologic evaluation revealed massive hemorrhages near the periphery of the lungs and peripheral emphysema in those mice that died during exposure. Small hemorrhages were found in the lungs of mice sacrificed 20 days postexposure."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ DMA is a sensory irritant; the RD50 concentrations (reduction in respiratory rate of 50%) in mice and rats during a 10 minute exposure were 511 and 573 ppm, respectively. A lower RD50 of 70 ppm (95% confidence limits of 63 ppm to 80 ppm) has also been reported for mice."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In a repeated exposure study, mice were exposed by inhalation 6 hours/day for 5 days at 511 ppm of DMA. Body weight decreased by 10% to 25% in all animals, and 3 of 24 mice died during exposure. Nasal lesions were observed in these animals."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 710",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ An acute 6 hr whole body exposure of male F344 rats to dimethylamine concn ranging from 600 to 6000 ppm for 6 hr, which produced a spectrum of pathological changes in the nasal passage, including severe congestion, ulcerative rhinitis, and necrosis of the nasal turbinates ... . Lesions outside the respiratory tract were evident in livers of rats exposed to 2500 to 6000 ppm, and corneal edema was observed in the eyes of rats at 1000 ppm; corneal ulceration, keratitis, edema, and loss of Descement's membrane was present at 2500 to 6000 ppm; in addition, many rats exposed to 4000 or 6000 ppm had necrosis of the iris and severe degeneration of the lens, suggestive of acute cataract formation."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 348",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ 5% soln dropped once on rabbit eye caused hemorrhages in conjunctiva, corneal edema, and superficial opacities. ... a drop of undiluted dimethylamine placed on rabbit's cornea, with the lids then closed and no irrigation performed, caused the cornea to become whitish blue & translucent within few sec, then white as sclera in a min ..."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 1",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In rabbits, a 5% solution administered to the eye caused hemorrhage in the conjunctiva, corneal edema, and superficial opacities. A 6% solution caused marked swelling of the eyelids and serous exudation. Undiluted DMA made the cornea translucent almost immediately and produced severe corneal injury."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 1",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ A 6% solution of DMA, when applied to the skin of rabbits, caused reddening, then thickening and ulceration after a single treatment. A 3% solution produced similar effects after five treatments."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 1",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ DMA was a skin sensitizer in the guinea pig closed epicutaneous test."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the Threshold Limit Values and Biological Exposure Indices. 5th ed. Cincinnati, OH: American Conference of Governmental Industrial Hygienists, 1986., p. 206",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... Groups of 10 rats, 6 guinea pigs & 1 rabbit of each sex plus 5 female mice & 1 monkey were given repeated 7-hr daily exposures, 5 days/wk for 18-20 wk @ concn of either 183 or 97 ppm ... corneal injury was observed in guinea pigs & rabbits after 9 days ... central lobular fatty degeneration & necrosis of parenchymal cells of the liver ... in rats, guinea pigs, rabbits & mice. Tubular degeneration of testes was observed in the male rabbit @ the higher concn & in the male monkey @ the lower concn."
+        },
+        {
+            "References": "Snyder, R. (ed.). Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume II: Nitrogen and Phosphorus Solvents. Amsterdam-New York-Oxford: Elsevier, 1990., p. 78",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Exposure to 175 ppm dimethylamine for 6 hr/day for 9 days was shown to inhibit mucociliary function of rats, with mucostasis being more variable in extent than cilia stasis."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 1",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ DMA added to the diet (150 mg/kg body weight) for 3.5 months increased liver demethylase activity even in the presence of the enzyme inducer casein."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... Rats were exposed by inhalation 6 hours/day, 5 days/week for 13 weeks at 10, 30, or 100 ppm of DMA. Decreased body weights were observed in the 30 and 100 ppm groups during the first week and in the 100 ppm group in the second week. No body weight effect was observed in rats exposed at 10 ppm. /SRP: No additional information was reported./"
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In a subchronic study, 15 rats, 15 guinea pigs, 3 rabbits, 2 dogs, and 3 monkeys were exposed continuously by inhalation at approximately 5 ppm of DMA for 90 days. There were no deaths or signs of toxicity and all hematologic values were normal. On histopathologic examination, interstitial inflammatory changes were noted in the lungs of each species. The three rabbits and two monkeys showed dilatation of the bronchi."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 710",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Exposure of rats, mice, guinea pigs and rabbits to 97 or 185 ppm of dimethylamine 7 hr/day, 5 days/week for 18 to 20 weeks revealed corneal injury in eyes of guinea pigs and rabbits as well as central lobular fatty degeneration and necrosis of the liver in all species. However, histopathological examination of rats, guinea pigs, rabbits, monkeys, and dogs exposed to 9 mg/cu m of dimethylamine continuously for 90 days produced only mild inflammatory changes in the lungs of species; dilated bronchi in rabbits and monkeys were noted."
+        },
+        {
+            "References": "PMID:3988003",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Dimethylamine is a widely used commodity chemical, for which there are few chronic toxicity data. Male and female F-344 rats and B6C3F1 mice were exposed by inhalation to 0, 10, 50, or 175 ppm dimethylamine (DMA) for 6 hr/day, 5 days/week for 12 months. Groups of 9-10 male and female rats and mice were necropsied after 6 and 12 months of exposure. No male mice were sacrificed at 12 months due to a high incidence of early deaths in that group. The mean body weight gain of rats and mice exposed to 175 ppm DMA was depressed to approximately 90% of control after 3 weeks of exposure. The only other treatment-related changes were concentration-related lesions in the nasal passages. Two distinct locations in the nose were affected: the respiratory epithelium in the anterior nasal passages, and the olfactory epithelium, especially that lining the anterior dorsal meatus. There was focal destruction of the anterior nasoturbinate and nasal septum, local inflammation, and focal squamous metaplasia of the respiratory epithelium in rats and mice. Mild goblet cell hyperplasia was observed only in rats. The olfactory epithelium exhibited extensive loss of sensory cells with less damage to sustentacular cells. There was also loss of olfactory nerves, hypertrophy of Bowman's glands, and distension of the ducts of these glands by serocellular debris in regions underlying degenerating olfactory epithelium. At the 175-ppm exposure level, rats had more extensive olfactory lesions than mice, with hyperplasia of small basophilic cells adjacent to the basement membrane being present in rats but not mice. After 12 months of exposure to 10 ppm DMA, minimal loss of olfactory sensory cells and their axons in olfactory nerve bundles was observed in the nasal passages of a few rats and mice. These results indicate that the olfactory sensory cell is highly sensitive to the toxic effects of DMA, with minor lesions being produced in rodents even at the current threshold limit value of 10 ppm."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ In a 2 year inhalation study, groups of 95 male and 95 female rats and mice were exposed 6 hours/day, 5 days/week at 10, 50, or 175 ppm of DMA. Concentration dependent toxicity was characterized by decreased body weight (175 ppm only) and progressive inflammatory, degenerative, and hyperplastic lesions of the nasal passages. Nasal toxicity was similar in both rats and mice (no sex differences) affecting respiratory and olfactory epithelia. Lesions were severe at 175 ppm, moderate at 50 ppm, and focal and mild at 10 ppm. ... Selected animals were killed at 6, 12, 18, and 24 months and subjected to pathological examinations. No increase in tumor incidences were found. No evidence of a carcinogenic response was observed in these animals."
+        },
+        {
+            "References": "PMID:6147286",
+            "Value": "/ENDOCRINE MODULATION/ Pancreatic islet homogenates displayed Ca2+-dependent transglutaminase activity. Dimethylamine inhibited transglutaminase activity and glucose-stimulated insulin release. The impairment of insulin release by methylamines is not necessarily linked to inhibition of transglutaminase activity."
+        },
+        {
+            "References": "PMID:8332077",
+            "Value": "/GENOTOXICITY/ The genotoxicity of dimethylamine (DMA) was investigated in the D7 strain of Saccharomyces cerevisiae. DMA was able to induce mitotic gene conversion and point reverse mutation in the presence of metabolic activation (S9 fraction). To study the co-mutagenicity/co-carcinogenicity or toxicity of DMA, changes in xenobiotic metabolizing enzymes were studied in purified microsomes from DMA-induced mice or rats receiving a single or three consecutive doses (25 or 50 mg/kg body wt). Pentoxyresorufin O-dealkylase (class IIB1 P450, PROD), ethoxyresorufin O-deethylase (IA1, EROD) and p-nitrophenol hydroxylase (IIE1, pNPH) were all affected by DMA treatment with a loss of activity of 62, 55 and 54% in the mouse, or 64, 25 and 56% in the rat for PROD, EROD and pNPH activities, respectively, at the highest tested dose. No significant alteration of P450 IIIA-like activity was seen. Results indicated that the metabolites of DMA induced genetic activity in yeast. In addition, a clear non-specific hepatotoxic effect was recorded as a significant reduction in activity of the selected monooxygenases."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/GENOTOXICITY/ DMA was weakly mutagenic in Salmonella typhimurium strain TA 1530 in the presence of a mouse liver activation system. No mutagenic activity occurred without activation, and no activity was found in a host-mediated assay in mice."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/GENOTOXICITY/ Coupled with a rat liver S-9 activation system, DMA was not mutagenic in the Chinese hamster ovary/HGPRT assay, nor did it induce unschedule DNA synthesis in primary culture of rat hepatocytes."
+        },
+        {
+            "References": "PMID:7045640",
+            "Value": "/GENOTOXICITY/ Nitrogenous compounds such as guanidine, ureide, secondary amines and polyamines were pyrolysed at 300, 400, 500 and 600 degrees C for 3 min, and the mutagenic activities of the pyrolysates were assayed on Salmonella typhimurium TA98 and TA100 with or without metabolic activation by S9 mix. Among 21 pyrolysates tested, 14, from methylguanidine, agmatine, dihydrouracil, dimethylamine, diethylamine, trimethylamine, triethylamine, pyrrolidine, morpholine, sarcosine, piperazine, piperidine, spermine and spermidine, showed mutagenic activity. In the presence of S9 mix, the mutagenic activity began to appear from the pyrolysate at 400 degrees C, and the pyrolysate at 600 degrees C showed the highest mutagenic activity except that from methylguanidine. The mutagenic activity formed by pyrolysis was more active on TA98 than TA100. In the absence of S9 mix, only 3 pyrolysates - from dimethylamine, diethylamine and pyrrolidine - showed slight mutagenic activity toward TA100. The highest mutagenic activity was observed with the pyrolysate from spermine, followed by those from piperidine, spermidine, piperazine and triethylamine. Some nitrogenous compounds showed slight mutagenic activity after pyrolysis at 300 degrees C for 20 min, although none of the compounds tested showed any mutagenic activity after pyrolysis at 300 degrees C for 3 min."
+        },
+        {
+            "References": "PMID:27792203",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Long-term exposure and inhalation of odorous compounds from poultry manure can be harmful to farm workers and the surrounding residents as well as animals. The aim of the present study was to determine the cytotoxicity and IC50 values of common odorous compounds such as ammonium, dimethylamine, trimethylamine, butyric acid, phenol, and indole in the chick liver hepatocellular carcinoma cell line LMH (Leghorn Male Hepatoma), in vitro, using MTT (3-(4,5-dimethylthiazolyl-2)-2,5-diphenyltetrazolium bromide) and PrestoBlue cytotoxicity assays. The cells were microscopically examined for any morphological changes post treatment. Dimethylamine exhibited the strongest cytotoxic effect on LMH cells with an IC50 value of 0.06% and 0.04% after an exposure of 24 hr and 48 hr, respectively. Both ammonium and trimethylamine had comparable cytotoxicity and their IC50 values were 0.08% and 0.04% after 24 hr and 48 hr, respectively. Of note, indole had the lowest cytotoxicity as the majority of cells were viable even after 72 hr exposure. Thus, the IC50 for indole was not calculated. Results achieved from both MTT and PrestoBlue assays were comparable. Moreover, the morphological changes induced by the tested odors in LMH cells resulted in monolayer destruction, cytoplasm vacuolization, chromatin condensation, and changes in nucleus and cell shape. Our study showed harmful effects of odorous compounds in chick tissues."
+        },
+        {
+            "References": "PMID:3660407",
+            "Value": "/OTHER TOXICITY INFORMATION/ Dimethylamine (DMA) is a highly water soluble gas with many industrial applications. Male F-344 rats were exposed to 175 ppm DMA 6 hr per day for 1, 2, 4, or 9 days or 2 years. Gross changes in nasal structure were recorded, effects of DMA on the mucociliary apparatus were assessed using video analysis, and tissues were evaluated for histopathology. In vitro nasal mucociliary flow patterns, mucus flow rates, and ciliary activity were studied and recorded for video motion analysis. There were distinct and generally consistent differences in the shape of the naso-, maxillo-, and ethmoid turbinates between young and old animals. Acute and chronic DMA exposures resulted in erosion of the anterior margins of the naso- and maxilloturbinates and fenestration of the adjacent septum. Ciliastasis and mucostasis were observed only on the anteromedial aspect of the maxilloturbinate. In the chronically exposed rats, mucociliary activity was present in areas adjacent to erosions of the turbinates and septum. Abnormal mucus flow patterns, including altered or reversed direction of flow and \"whirlpool-like\" formation, were observed in all treated rats, but were more severe following chronic exposure. There was a good correlation between the distribution of responses as assessed by histopathology and abnormal mucociliary function at all time points. In conclusion, the mucociliary apparatus continues to function in the nasal passages of rats having localized destruction of nasal epithelium, induced by DMA exposure, and this clearance system responds to alterations of nasal structure by modification of mucus flow patterns."
+        },
+        {
+            "References": "PMID:24602912",
+            "Value": "/OTHER TOXICITY INFORMATION/ This review compiles available information on the concentrations, sources, fate and toxicity of amines and amine-related compounds in surface waters, including rivers, lakes, reservoirs, wetlands and seawater. There is a strong need for this information, especially given the emergence of amine-based post-combustion CO2 capture technologies, which may represent a new and significant source of amines to the environment. We identify a broad range of anthropogenic and natural sources of amines, nitrosamines and nitramines to the aquatic environment, and identify some key fate and degradation pathways of these compounds. There were very few data available on amines in surface waters, with reported concentrations often below detection and only rarely exceeding 10 ug/L. Reported concentrations for seawater and reservoirs were below detection or very low, while for lakes and rivers, concentrations spanned several orders of magnitude. The most prevalent and commonly detected amines were methylamine (MA), dimethylamine (DMA), ethylamine (EA), diethylamine (DEA) and monoethanolamine (MEAT). The paucity of data may reflect the analytical challenges posed by determination of amines in complex environmental matrices at ambient levels. We provide an overview of available aquatic toxicological data for amines and conclude that at current environmental concentrations, amines are not likely to be of toxicological concern to the aquatic environment, however, the potential for amines to act as precursors in the formation of nitrosamines and nitramines may represent a risk of contamination of drinking water supplies by these often carcinogenic compounds. More research on the prevalence and toxicity of amines, nitrosamines and nitramines in natural waters is necessary before the environmental impact of new point sources from carbon capture facilities can be adequately quantified."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Golovnya RV et al; USSR Acad Med Sci pp. 327-35 (1982)",
+            "Value": "SOIL: Dimethylamine was identified, not quantified, in uncultivated loamy soil from the Moscow region(1). Since this soil is uncultivated, it is possible that the amines are formed naturally rather than resulting from contamination or as a metabolite of a fertilizer or a pesticide(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Rao PSC, Davidson JM; Retention and Transformation of Selected Pesticides and Phosphorus in Soil-Water Systems, A Critical Review. Washington, DC: USEPA-600/S3-82-060 (1982) (2) von Oepen B et al; Chemosphere 22: 285-304 (1991) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The adsorption isotherm for dimethylamine in 5 soils was linear and resulted in a mean Koc of 434.9(1). A Koc value of 508 was reported for dimethylamine in lake sediment(2). According to a classification scheme(3), this Koc data suggests that dimethylamine is expected to have moderate mobility in soil."
+        }
+    ]
+}

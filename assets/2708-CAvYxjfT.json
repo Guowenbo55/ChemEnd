@@ -1,0 +1,65 @@
+{
+    "_id": {
+        "$oid": "6682e7f0c4e5dba5ffba2318"
+    },
+    "CID": {
+        "$numberInt": "2708"
+    },
+    "Name": "CHLORAMBUCIL",
+    "IUPACName": "4-[4-[bis(2-chloroethyl)amino]phenyl]butanoic acid",
+    "CanonicalSMILES": "C1=CC(=CC=C1CCCC(=O)O)N(CCCl)CCCl",
+    "Synonyms": [
+        "chlorambucil",
+        "305-03-3",
+        "Ambochlorin",
+        "Leukeran",
+        "Chloroambucil",
+        "Chloraminophen",
+        "Chlorbutin",
+        "Chloraminophene",
+        "Chlorobutine",
+        "Amboclorin",
+        "Ecloril",
+        "Chlorbutine",
+        "Chlorobutin",
+        "Lympholysin",
+        "Chlocambucil"
+    ],
+    "IsomericSMILES": "C1=CC(=CC=C1CCCC(=O)O)N(CCCl)CCCl",
+    "INCHI": "InChI=1S/C14H19Cl2NO2/c15-8-10-17(11-9-16)13-6-4-12(5-7-13)2-1-3-14(18)19/h4-7H,1-3,8-11H2,(H,18,19)",
+    "INCHIKEY": "JCKYGMPEJWAADB-UHFFFAOYSA-N",
+    "Formula": "C14H19Cl2NO2",
+    "MolecularWeight": {
+        "$numberDouble": "304.2"
+    },
+    "Description": "Chlorambucil is a monocarboxylic acid that is butanoic acid substituted at position 4 by a 4-[bis(2-chloroethyl)amino]phenyl group. A chemotherapy drug that can be used in combination with the antibody obinutuzumab for the treatment of chronic lymphocytic leukemia. It has a role as an alkylating agent, a carcinogenic agent, an antineoplastic agent, an immunosuppressive agent and a drug allergen. It is a nitrogen mustard, an organochlorine compound, an aromatic amine, a tertiary amino compound and a monocarboxylic acid.",
+    "XlogP": {
+        "$numberDouble": "1.7"
+    },
+    "Complexity": {
+        "$numberInt": "250"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 124",
+            "Value": "log Kow = 1.70 at pH 7.4"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "American Society of Health-System Pharmacists 2011; Drug Information 2011. Bethesda, MD. 2011, p. 983",
+            "Value": "As an alkylating agent, chlorambucil interferes with DNA replication and transcription of RNA, and ultimately results in the disruption of nucleic acid function. In vitro studies have shown that the major metabolite of chlorambucil (phenylacetic acid mustard), which is also a bifunctional alkylating compound, has antineoplastic activity against some neoplastic human cell lines that is approximately equal to that of chlorambucil. Therefore, the major metabolite of chlorambucil may contribute to the in vivo antitumor activity of the drug. Chlorambucil also possesses some immunosuppressive activity, principally due to its suppression of lymphocytes. The drug is the slowest acting and generally least toxic of the presently available nitrogen mustard derivatives."
+        },
+        {
+            "References": "PMID:1551913",
+            "Value": "A marked transient increase was observed in ribonucleotide reductase activity within 2 hr of exposing BALB/c 3T3 mouse cells to DNA damaging concentrations of chlorambucil. Elevations in activity were accompanied by transient increases in the mRNA levels of both genes (R1 and R2) that code for ribonucleotide reductase. Only the protein for the limiting component for enzyme activity R2 was significantly elevated in chlorambucil treated cultures. The chlorambucil effects upon activity and regulation of ribonucleotide reductase occurred without any detectable changes in the rate of DNA synthesis, as would be expected if the elevation in enzyme activity is required for DNA repair. The chlorambucil-induced elevations in R1 and R2 message levels were blocked by treatment of cells with actinomycin D or the tumor promoter 12-O-tetradecanoylphorbol-13-acetate indicating the importance of the reductase transcriptional process in responding to the action of chlorambucil and providing evidence for the involvement of a protein kinase C pathway in the regulation of mammalian ribonucleotide reductase. In addition to the chlorambucil-induced elevations in enzyme activity, message, and protein levels, the drug was also shown to be an inhibitor of ribonucleotide reductase activity in cell-free preparations. Both R1 and R2 proteins were targets for chlorambucil, in keeping with the known alkylating abilities of the drug."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V100A 52 (2012)",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Reaction of one of the two chloroethyl groups of chlorambucil with the N7 position of guanine or adenine of double-stranded DNA leads to the formation of mono-adducts. These are repaired rapidly in an error-free fashion by methylguanine methyltransferase (sometimes called alkylguanine alkyltransferase). However, some cells lack this repair activity, usually because of silencing of the corresponding gene, and the unrepaired DNA mono-adduct then forms a complex with mismatch-repair enzymes. The subsequent inhibition of DNA replication can eventually induce DNA breakage. The second chloroethyl group of the DNA mono-adduct with chlorambucil can interact with proteins but more importantly, because of its juxtaposition to other bases in the major groove of DNA, it can react with a DNA base to form an interstrand DNA cross-link. This DNA crosslink complex is quite stable, and its repair requires nucleotide excision repair factors (such as xeroderma pigmentosum complementation group F-excison repair cross-complementing rodent repair deficiency, complementation group, 1-XPF-ERCC1) that act slowly by homologous recombination. The DNA cross-link attracts several binding proteins, probably the BRCA1 and BRCA2 proteins, Fanconi anemia gene product, and Nijmegen breakage syndrome gene product to form a complex. As shown in cultured HeLa cells, addition of chlorambucil prolongs S-phase and induces a corresponding mitotic delay. The magnitude of these effects correlates with the level of DNA cross-links. Treatment of cells in the G2-phase of the cell cycle does not induce mitotic delay but does inhibit DNA synthesis in the subsequent cell cycle, and causes a delay in the next mitosis, suggesting that at least some lesions induced by chlorambucil are long-lasting."
+        }
+    ]
+}

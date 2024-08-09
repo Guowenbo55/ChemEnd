@@ -1,0 +1,75 @@
+{
+    "_id": {
+        "$oid": "6692710a303528b49832d7ac"
+    },
+    "CID": {
+        "$numberInt": "91756"
+    },
+    "Name": "Ethametsulfuron-methyl",
+    "IUPACName": "methyl 2-[[4-ethoxy-6-(methylamino)-1,3,5-triazin-2-yl]carbamoylsulfamoyl]benzoate",
+    "CanonicalSMILES": "CCOC1=NC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC)NC",
+    "Synonyms": [
+        "Ethametsulfuron-methyl",
+        "97780-06-8",
+        "Ethametsulfuron methyl",
+        "Muster",
+        "methyl 2-[[4-ethoxy-6-(methylamino)-1,3,5-triazin-2-yl]carbamoylsulfamoyl]benzoate",
+        "DPX-A 7881",
+        "Ethametsulfuron-methyl [ISO]",
+        "C54ZP2XRYX",
+        "Methyl 2-(((((4-ethoxy-6-(methylamino)-1,3,5-triazin-2-yl)amino)carbonyl)amino)sulfonyl)benzoate",
+        "CHEMBL1885280",
+        "Benzoic acid",
+        "2-(((((4-ethoxy-6-(methylamino)-1,3,5-triazin-2-yl)amino)carbonyl)amino)sulfonyl)-",
+        "methyl ester",
+        "UNII-C54ZP2XRYX",
+        "Ethametsulfuron methyl ester",
+        "Salsa",
+        "DPX-A7881"
+    ],
+    "IsomericSMILES": "CCOC1=NC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC)NC",
+    "INCHI": "InChI=1S/C15H18N6O6S/c1-4-27-15-19-12(16-2)17-13(20-15)18-14(23)21-28(24,25)10-8-6-5-7-9(10)11(22)26-3/h5-8H,4H2,1-3H3,(H3,16,17,18,19,20,21,23)",
+    "INCHIKEY": "ZINJLDJMHCUBIP-UHFFFAOYSA-N",
+    "Formula": "C15H18N6O6S",
+    "MolecularWeight": {
+        "$numberDouble": "410.4"
+    },
+    "Description": "Ethametsulfuron-methyl is a methyl ester resulting from the formal condensation of the carboxy group of ethametsulfuron with methanol. A herbicide used for the control of broad-leaved weeds in oil seed rape and fodder rape. It has a role as a herbicide and an EC 2.2.1.6 (acetolactate synthase) inhibitor. It is a diamino-1,3,5-triazine, a N-sulfonylurea, an aromatic ether, a benzoate ester and a methyl ester. It is functionally related to an ethametsulfuron.",
+    "XlogP": {
+        "$numberDouble": "1.8"
+    },
+    "Complexity": {
+        "$numberInt": "641"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The metabolism and fate of ethametsulfuron-methyl in rutabaga were studied. Absorption and translocation of [14C]ethametsulfuron-methyl in rutabaga remained stable over 50 days, with less than 4% of recovered radioactivity in the root. Ethametsulfuron-methyl was metabolized into two major metabolites, O-desethylethametsulfuron-methyl and N-desmethyl-O-desethylethametsulfuron-methyl, after an unstable R-hydroxy ethoxy intermediate dissipated 3 days after treatment. Residue analysis indicated that at a spray dose of 30 g of active ingredient ha-1 and a harvest weight of 0.5 kg, the edible portion of rutabaga root would contain no ethametsulfuron-methyl and 1.3 ppb total of both identified metabolites. Toxicological assessment suggests that ethametsulfuron-methyl and its metabolites pose little or no risk to consumers of rutabagas.\n",
+            "reference": "Van Eerd, L. L., & Hall, J. C. (2000). Metabolism and fate of [14C] ethametsulfuron-methyl in rutabaga (Brassica napobrassica Mill.). Journal of agricultural and food chemistry, 48(7), 2977-2985.",
+            "method": {
+                "Test Plant": "Rutabaga (Brassica napus var. napobrassica cv. Laurentian)",
+                "Apply Location": "Foliar application on adaxial midsection of the third leaf",
+                "Plant Growth Condition": "Seeds planted in Styrofoam cups with Turface montmorillonite clay potting medium for absorption/translocation/metabolism experiments. For other experiments, plants grown in Premier Promix peat moss potting medium. Grown in controlled environment room at 24/16\u00b0C day/night, 16h photoperiod, 450 \u03bcmol/m2/s light intensity, 65% relative humidity. Fertilized 3-4 times weekly with 20-20-20 NPK solution.",
+                "Chemical Preparation": "Triazine-U-14C and phenyl-U-14C labeled ethametsulfuron-methyl (specific activities 752.1 and 605.1 MBq/mmol respectively, >94% purity) dissolved in 0.1M phosphate buffered saline pH 7.5 with 10% ethanol and 0.5% Tween 20.",
+                "Pesticide Application Details for the Plant": "Ten 1-\u03bcL drops of 5.1 kBq (~300,000 DPM, 30 g ai/ha/plant) 14C-ethametsulfuron solution applied to adaxial midsection of third leaf at 3-leaf stage.",
+                "Other Information": "Plants harvested at 3, 10, 15, 30, 50 days after treatment (DAT). Absorption determined by leaf rinse method. Translocation assessed by combustion of plant parts"
+            },
+            "result": "[{\"Days after application\": 4.5, \"Leaf rinse (% of recovered)\": 86.6, \"Treated leaf (%)\": 1.1, \"Unextractable (%)\": 6.0, \"Foliage (%)\": 0.4, \"Fibrous roots (%)\": 1.4}, {\"Days after application\": 1.4, \"Leaf rinse (% of recovered)\": 87.3, \"Treated leaf (%)\": 1.7, \"Unextractable (%)\": 7.7, \"Foliage (%)\": 0.4, \"Fibrous roots (%)\": 1.5}, {\"Days after application\": 1.0, \"Leaf rinse (% of recovered)\": 88.3, \"Treated leaf (%)\": 1.9, \"Unextractable (%)\": 6.8, \"Foliage (%)\": 0.4, \"Fibrous roots (%)\": 1.2}, {\"Days after application\": 1.4, \"Leaf rinse (% of recovered)\": 88.6, \"Treated leaf (%)\": 2.6, \"Unextractable (%)\": 4.9, \"Foliage (%)\": 0.5, \"Fibrous roots (%)\": 2.3}, {\"Days after application\": 2.7, \"Leaf rinse (% of recovered)\": 85.2, \"Treated leaf (%)\": 4.4, \"Unextractable (%)\": 4.9, \"Foliage (%)\": 1.0, \"Fibrous roots (%)\": 3.1}]"
+        },
+        {
+            "content": "Under controlled-environment conditions, ethametsulfuron-methyl doses that inhibited growth by 50% (ED50) were >100 and <1 g of active ingredient (ai) ha-1 for ethametsulfuron-methyl-resistant (R) and -susceptible (S) wild mustard, respectively. Absorption and translocation of the herbicide showed no differences between the two biotypes. Three days after treatment, approximately 90%, 5%, and 2% of the applied [14C]ethametsulfuron-methyl was found in the treated leaf, foliage, and roots of each biotype, respectively. Acetolactate synthase extracted from both biotypes was equally sensitive to both ethametsulfuron-methyl and chlorsulfuron, indicating that resistance was not due to differences in the target site, absorption, or translocation. However, ethametsulfuron-methyl was metabolized more rapidly in the R than the S biotype, with 82%, 73%, 42%, 30%, and 17% of the recovered radioactivity remaining as ethametsulfuron-methyl in R wild mustard 3, 6, 18, 48, and 72 h after treatment, respectively. Conversely, 84%, 79%, 85%, and 73% of the 14C was ethametsulfuron-methyl in the S biotype 12, 24, 48, and 72 h after treatment, respectively. Based on these results, resistance is proposed to be due to enhanced metabolism of ethametsulfuron-methyl in the R biotype.",
+            "reference": "Veldhuis, L. J., Hall, L. M., O'Donovan, J. T., Dyer, W., & Hall, J. C. (2000). Metabolism-based resistance of a wild mustard (Sinapis arvensis L.) biotype to ethametsulfuron-methyl. Journal of Agricultural and Food Chemistry, 48(7), 2986-2990.",
+            "method": {
+                "Test Plant": "Resistant (R) and susceptible (S) biotypes of wild mustard (Sinapis arvensis)",
+                "Apply Location": "Foliar application on adaxial surface of second fully expanded leaf",
+                "Plant Growth Condition": "Seeds germinated on 0.6% agar then transplanted to 10-cm pots with soil. Grown in controlled environment room at 25/21\u00b0C day/night, 16h photoperiod, 500 \u03bcmol/m2/s light intensity. Fertilized twice weekly with 20-20-20 NPK nutrient solution.",
+                "Chemical Preparation": "[phenyl-U-14C]ethametsulfuron-methyl (specific activity 605.9 MBq/mmol) dissolved in ethanol, then diluted in 0.1M phosphate buffer pH 7.5 with 0.5% Tween 20 to final 563 \u03bcM concentration and 10% ethanol.",
+                "Pesticide Application Details for the Plant": "Ten 1-\u03bcL drops of radiolabeled 563 \u03bcM ethametsulfuron solution applied to adaxial leaf surface of R and S plants at 3-4 leaf stage.",
+                "Other Information": "Plants harvested at 0, 12, 24, 48, 72 hours after treatment. Unabsorbed 14C washed from treated leaf."
+            },
+            "result": "[{\"Plant\": \"wild mustard\", \"Hours after application\": 12.0, \"Uptake (% of recovered)\": 70.05, \"Translocation (% of recovered)\": 7.97}, {\"Plant\": \"wild mustard\", \"Hours after application\": 24.0, \"Uptake (% of recovered)\": 77.51, \"Translocation (% of recovered)\": 8.82}, {\"Plant\": \"wild mustard\", \"Hours after application\": 48.0, \"Uptake (% of recovered)\": 84.55, \"Translocation (% of recovered)\": 11.38}, {\"Plant\": \"wild mustard\", \"Hours after application\": 72.0, \"Uptake (% of recovered)\": 86.63, \"Translocation (% of recovered)\": 14.04}, {\"Plant\": \"12\", \"Hours after application\": 57.61, \"Uptake (% of recovered)\": 7.87, \"Translocation (% of recovered)\": NaN}, {\"Plant\": \"24\", \"Hours after application\": 75.02, \"Uptake (% of recovered)\": 11.06, \"Translocation (% of recovered)\": NaN}, {\"Plant\": \"48\", \"Hours after application\": 84.55, \"Uptake (% of recovered)\": 11.56, \"Translocation (% of recovered)\": NaN}, {\"Plant\": \"72\", \"Hours after application\": 78.34, \"Uptake (% of recovered)\": 9.25, \"Translocation (% of recovered)\": NaN}]"
+        }
+    ]
+}

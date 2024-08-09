@@ -1,0 +1,96 @@
+{
+    "_id": {
+        "$oid": "6682e7e6c4e5dba5ffba22e8"
+    },
+    "CID": {
+        "$numberInt": "1752"
+    },
+    "Name": "4-Nonylphenol",
+    "IUPACName": "4-nonylphenol",
+    "CanonicalSMILES": "CCCCCCCCCC1=CC=C(C=C1)O",
+    "Synonyms": [
+        "4-nonylphenol",
+        "4-n-Nonylphenol",
+        "104-40-5",
+        "p-Nonylphenol",
+        "4-nonyl phenol",
+        "para-Nonylphenol",
+        "Phenol",
+        "4-nonyl-",
+        "p-n-Nonylphenol",
+        "Phenol",
+        "p-nonyl-",
+        "para Nonyl phenol",
+        "p -n -Nonylphenol",
+        "4-Nonyl-Phenol",
+        "4-n-Nonyl phenol",
+        "DTXSID5033836",
+        "CHEBI:34440"
+    ],
+    "IsomericSMILES": "CCCCCCCCCC1=CC=C(C=C1)O",
+    "INCHI": "InChI=1S/C15H24O/c1-2-3-4-5-6-7-8-9-14-10-12-15(16)13-11-14/h10-13,16H,2-9H2,1H3",
+    "INCHIKEY": "IGFHQQFPSIBGKE-UHFFFAOYSA-N",
+    "Formula": "C15H24O",
+    "MolecularWeight": {
+        "$numberDouble": "220.35"
+    },
+    "Description": "4-nonylphenol is a member of the class of phenols that is phenol which is para-substituted with a nonyl group. It has a role as an environmental contaminant.",
+    "XlogP": {
+        "$numberDouble": "5.9"
+    },
+    "Complexity": {
+        "$numberInt": "148"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Hu J et al; Environ Sci Technol 39: 4801-4807 (2005) (2) Diehl J et al; Chemosphere 87: 490-7 (2012)",
+            "Value": "4-Nonylphenol was detected at 440 ng/g in phytoplankton collected from Bohai Bay, China in May, Jun and Sep 2002(1). An eelgrass sample collected from Morro Bay, CA contained 4-nonylphenol at 33 ng/g(2)."
+        }
+    ],
+    "animal_concentrations": [
+        {
+            "References": "(1) Hu J et al; Environ Sci Technol 39: 4801-4807 (2005) (2) Nehring I et al; Arch Environ Contam Toxicol 72: 552-61 (2017)",
+            "Value": "4-Nonylphenol was detected at 239.6 ng/g lipid in herring gull (Larus argentatus) collected from Bohai Bay, China in Nov 2002(1). In the fur of 17 Baltic grey seals (Halichoerus grypus) collected 2014-2015 from the Baltic Sea and feathers of 26 herring gulls (Larus argentatus) collected 2010-2012 from the Gulf of Gdansk, 4-nonylphenol was detected at 5.5-91.3 and 4.9-151.3 ng/g dry weight, respectively(2)."
+        },
+        {
+            "References": "(1) Diehl J et al; Chemosphere 87: 490-7 (2012)",
+            "Value": "The concentration of 4-nonylphenol in the liver of marine organisms collected 2007-2010 from Morro Bay, CA was as follows(1):",
+            "Table": "[{'Organism': 'grebes/loon', 'Genus species': 'Aechmorphorus/Gavia pacifica', 'Concn (ng/g wet weight)': 261, 'Concn (ng/g lipid weight)': '15,700'}, {'Organism': 'sea lion', 'Genus species': 'Zalophus califonianus', 'Concn (ng/g wet weight)': 754, 'Concn (ng/g lipid weight)': '25,000'}, {'Organism': 'harbor porpoise', 'Genus species': 'Phocoena phocoena', 'Concn (ng/g wet weight)': 807, 'Concn (ng/g lipid weight)': '14,000'}, {'Organism': 'sea otter', 'Genus species': 'Enhydra lutris nereis', 'Concn (ng/g wet weight)': 3680, 'Concn (ng/g lipid weight)': '138,000'}]"
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Tsuda T et al; Chemosphere 41: 757-62 (2000)",
+            "Value": "4-Nonylphenol was detected in fish collected Apr 1998 to Mar 1999 from eight rivers (Senjyo, Nagasawa, Hayama, Konze, Sanmyo, Hebisuna, Seri, Yone) flowing into Lake Biwa, Japan at the following concentrations(1):",
+            "Table": "[{'Fish': 'pale chub', 'Genus species': 'Zacco platypus', 'No. sampled': 8, 'Concn (ng/g wet weight)': '<10-63'}, {'Fish': 'Ayu sweetfish', 'Genus species': 'Plecoglossus altivelis', 'No. sampled': 8, 'Concn (ng/g wet weight)': '10-110'}, {'Fish': 'dark chub', 'Genus species': 'Zacco temminckii', 'No. sampled': 6, 'Concn (ng/g wet weight)': '<10-13'}, {'Fish': 'crucian carp', 'Genus species': 'Carassius carassius', 'No. sampled': 5, 'Concn (ng/g wet weight)': '<10-34'}, {'Fish': 'large-mouth bass', 'Genus species': 'Micropterus salmoides', 'No. sampled': 4, 'Concn (ng/g wet weight)': '<10-13'}, {'Fish': 'bluegill', 'Genus species': 'Lepomis macrochirus', 'No. sampled': 4, 'Concn (ng/g wet weight)': '10-24'}]"
+        },
+        {
+            "References": "(1) Hu J et al; Environ Sci Technol 39: 4801-4807 (2005)",
+            "Value": "4-Nonylphenol was detected in marine organisms collected from Bohai Bay, China in May, Jun and Sep 2002 at the following concentrations(1):",
+            "Table": "[{'Organism': 'zooplankton', 'Genus species': nan, 'Concn (ng/g lipid weight)': 677.8}, {'Organism': 'crab', 'Genus species': 'Portunus trituberculatus', 'Concn (ng/g lipid weight)': 154.2}, {'Organism': 'shrimp', 'Genus species': 'Upogebia sp.', 'Concn (ng/g lipid weight)': 173.8}, {'Organism': 'clam', 'Genus species': 'Ruditapes philippinarum', 'Concn (ng/g lipid weight)': 170.3}, {'Organism': 'whelk', 'Genus species': 'Rapana venosa', 'Concn (ng/g lipid weight)': 142.6}, {'Organism': 'scallop', 'Genus species': 'Argopecten irradians', 'Concn (ng/g lipid weight)': 155.5}, {'Organism': 'weever', 'Genus species': 'Lateolabras japonicus', 'Concn (ng/g lipid weight)': 277.9}, {'Organism': 'catfish', 'Genus species': 'Chaeturichthys stigmatias', 'Concn (ng/g lipid weight)': 151.4}, {'Organism': 'bartail flathead', 'Genus species': 'Platycephalus indicus', 'Concn (ng/g lipid weight)': 196.6}, {'Organism': 'white flower croaker', 'Genus species': 'Nibea albiflora', 'Concn (ng/g lipid weight)': 177.1}, {'Organism': 'wolffish', 'Genus species': 'Obontamblyopu rubicundus', 'Concn (ng/g lipid weight)': 309.3}, {'Organism': 'mullet', 'Genus species': 'Liza so-iuy', 'Concn (ng/g lipid weight)': 324.9}]"
+        },
+        {
+            "References": "(1) Tsuda T et al; Bull Environ Contam Toxicol 68: 126-31 (2002)",
+            "Value": "In river snail (Senotaia quadrata histrica) and melanian snail (Semisulcospira libertina libertina) samples collected Jun-Oct 1999 from the Fujima and Shiratori Rivers in Japan, 4-nonylphenol was detected at 28-19.3 and 1.0-7.0 ng/g wet weight, respectively(1)."
+        },
+        {
+            "References": "(1) Cheng C et al; Chemosphere 65: 2152-9 (2006)",
+            "Value": "The concentration of 4-nonylphenol was reported in oysters (Crassostrea gigas) and snails (Thais clavigera) collected Aug and Dec 2003 from Tai-shi and Chi-ku, Taiwan as follows(1):",
+            "Table": "[{'Species': 'Oyster', 'Sample Site': 'Tai-shi', 'Month/# Collected': 'Aug/21', 'Concn Range (ng/g)': '490-1970', 'Mean Concn (ng/g)': 1080}, {'Species': nan, 'Sample Site': nan, 'Month/# Collected': 'Dec/44', 'Concn Range (ng/g)': '140-5190', 'Mean Concn (ng/g)': 1000}, {'Species': nan, 'Sample Site': 'Chi-ku', 'Month/# Collected': 'Aug/7', 'Concn Range (ng/g)': '130-2810', 'Mean Concn (ng/g)': 580}, {'Species': nan, 'Sample Site': nan, 'Month/# Collected': 'Dec/20', 'Concn Range (ng/g)': '160-3320', 'Mean Concn (ng/g)': 880}, {'Species': 'Snail', 'Sample Site': 'Tai-shi', 'Month/# Collected': 'Aug/50', 'Concn Range (ng/g)': '300-3910', 'Mean Concn (ng/g)': 1560}, {'Species': nan, 'Sample Site': nan, 'Month/# Collected': 'Dec/59', 'Concn Range (ng/g)': '66-2350', 'Mean Concn (ng/g)': 700}, {'Species': nan, 'Sample Site': 'Chi-ku', 'Month/# Collected': 'Aug/39', 'Concn Range (ng/g)': '380-3840', 'Mean Concn (ng/g)': 1380}, {'Species': nan, 'Sample Site': nan, 'Month/# Collected': 'Dec/84', 'Concn Range (ng/g)': '130-3230', 'Mean Concn (ng/g)': 750}]"
+        },
+        {
+            "References": "(1) Diehl J et al; Chemosphere 87: 490-7 (2012)",
+            "Value": "The concentration of 4-nonylphenol in marine organisms collected 2006-2011 from Morro Bay, CA were as follows(1):",
+            "Table": "[{'Organism': 'oysters', 'Genus species': 'Crassostrea gigas', 'Concn (ng/g wet weight)': 480, 'Concn (ng/g lipid weight)': '62,800'}, {'Organism': 'mussel', 'Genus species': 'Mytilus californianus', 'Concn (ng/g wet weight)': 122, 'Concn (ng/g lipid weight)': '12,700'}, {'Organism': 'invertebrates', 'Genus species': nan, 'Concn (ng/g wet weight)': 103, 'Concn (ng/g lipid weight)': '107,000'}, {'Organism': 'ghost shrimp', 'Genus species': 'Neotrypaea californiensis', 'Concn (ng/g wet weight)': 2380, 'Concn (ng/g lipid weight)': '24,200'}, {'Organism': 'arrow goby', 'Genus species': 'Clevelandia ios', 'Concn (ng/g wet weight)': 237, 'Concn (ng/g lipid weight)': '36,100'}, {'Organism': 'arrow goby (liver)', 'Genus species': 'Clevelandia ios', 'Concn (ng/g wet weight)': 2070, 'Concn (ng/g lipid weight)': '52,200'}, {'Organism': 'staghorn sculpin (liver)', 'Genus species': 'Leptocottus armatus', 'Concn (ng/g wet weight)': 1760, 'Concn (ng/g lipid weight)': '139,000'}, {'Organism': 'Pacific sanddab (liver)', 'Genus species': 'Citharichthys sordidus', 'Concn (ng/g wet weight)': 2920, 'Concn (ng/g lipid weight)': '96,200'}]"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Heinis LJ et al; Environ Toxicol Chem 18: 363-75 (1999) (2) Diehl J et al; Chemosphere 87: 490-7 (2012) (3) Writer JH et al; Environ Sci Technol 46: 860-8 (2012) (4) Mayer T et al; Environ Pollut 147: 683-90 (2007) (5) Cheng C et al; Chemosphere 65: 2152-9 (2006)",
+            "Value": "SEDIMENT: 4-Nonylphenol was detected in 72% of sediment samples collected in 1989 from 30 US rivers at <2.9-2960 ug/kg with an average of 162 ug/kg(1). Sediment samples collected 2008 and 2009 from 5 sites in Morro Bay, CA contained 4-nonylphenol at not detected to 157 ng/g dry weight(2). 4-Nonylphenol was detected at 100 and 140 ug/kg in sediment samples collected 2.1 and 10 km downstream from a waste water effluent point on the Redwood River, MN; it was not detected (detection limit 100 ug/kg) in samples collected upstream(3). 4-Nonylphenol was detected at <0.01-1.75 ug/g in 21 surface sediment samples collected 2001-2002 from 6 locations of Cootes Paradise, Ontario, Canada(4). The mean concentration of 4-nonylphenol was 190 and 130 ng/g dry weight in sediment samples collected Nov 2003 from Tai-shi and Chi-ku, Taiwan, respectively(5)."
+        }
+    ]
+}

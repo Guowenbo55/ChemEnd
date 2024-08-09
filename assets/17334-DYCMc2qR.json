@@ -1,0 +1,66 @@
+{
+    "_id": {
+        "$oid": "669270f1303528b49832d74b"
+    },
+    "CID": {
+        "$numberInt": "17334"
+    },
+    "Name": "Chlorflurenol-methyl",
+    "IUPACName": "methyl 2-chloro-9-hydroxyfluorene-9-carboxylate",
+    "CanonicalSMILES": "COC(=O)C1(C2=CC=CC=C2C3=C1C=C(C=C3)Cl)O",
+    "Synonyms": [
+        "Chlorflurenol-methyl",
+        "2536-31-4",
+        "Chlorflurecol methyl ester",
+        "Chloroflurenol-methyl",
+        "Morphactin",
+        "Maintain A",
+        "Chlorflurecol-methyl",
+        "Chlorflurenol-methyl ester",
+        "Methyl 2-chloro-9-hydroxyfluorene-9-carboxylate",
+        "Methyl 2-chloro-9-hydroxy-9H-fluorene-9-carboxylate",
+        "Chloroflurenol-methyl [ISO]",
+        "IT 3456",
+        "Chlorflurenol methyl ester",
+        "Fluorene-9-carboxylic acid",
+        "2-chloro-9-hydroxy-",
+        "methyl ester",
+        "9H-Fluorene-9-carboxylic acid",
+        "2-chloro-9-hydroxy-",
+        "methyl ester"
+    ],
+    "IsomericSMILES": "COC(=O)C1(C2=CC=CC=C2C3=C1C=C(C=C3)Cl)O",
+    "INCHI": "InChI=1S/C15H11ClO3/c1-19-14(17)15(18)12-5-3-2-4-10(12)11-7-6-9(16)8-13(11)15/h2-8,18H,1H3",
+    "INCHIKEY": "LINPVWIEWJTEEJ-UHFFFAOYSA-N",
+    "Formula": "C15H11ClO3",
+    "MolecularWeight": {
+        "$numberDouble": "274.7"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "3"
+    },
+    "Complexity": {
+        "$numberInt": "372"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Chlorflurenol methyl, while demonstrating notable root bud activity stimulation at a rate of 0.6 kg/ha, induces effects such as terminal growth inhibition and leaf abnormalities. It exhibits strong acropetal and weak basipetal movement within the plant. Interestingly, chlorflurenol methyl considerably amplifies the leaf absorption and subsequent root translocation of dicamba, a herbicide, when applied simultaneously. The root exudation of dicamba is also augmented under the influence of chlorflurenol methyl. However, the pre-treatment with chlorflurenol methyl before dicamba application shows limited impact on enhancing root translocation, posing an intriguing area for further exploration. Field experiments display consistent enhancement in Canada thistle control with the combined application of dicamba and chlorflurenol, especially at lower dicamba rates and in May. ",
+            "reference": "Baradari, M. R., Haderlie, L. C., & Wilson, R. G. (1980). Chlorflurenol effects on absorption and translocation of dicamba in Canada thistle (Cirsium arvense). Weed Science, 28(2), 197-200.",
+            "method": {
+                "Test Plant": "Canada thistle (seeds from western Nebraska)",
+                "Apply Location": "Foliar application on the third or fifth leaf from the top, approximately 2 m above the collar of the vine",
+                "Plant Grown Condition": "Raised in earthen pots (30 cm diameter) filled with potting mixture (1:1:1 soil: sand: farmyard manure). Plants were irrigated daily using a drip irrigation system.",
+                "Chemical preparation": "-",
+                "Received pesticide of plant": "Commercial chlorflurenol was applied foliarly at rates equivalent to 0.0, 0.1, 0.6, and 1.1 kg/ha when the plants were 4 weeks old.",
+                "Other Information": "Thirteen replications"
+            },
+            "result": "[{\"Time After Application\": \"1 day\", \"Treated Leaf %\": \"16%\", \"Upper Shoot %\": \"3%\", \"Lower Shoot %\": \"2%\", \"Roots %\": \"<1%\"}, {\"Time After Application\": \"2 days\", \"Treated Leaf %\": \"22%\", \"Upper Shoot %\": \"5%\", \"Lower Shoot %\": \"2.5%\", \"Roots %\": \"<1%\"}, {\"Time After Application\": \"3 days\", \"Treated Leaf %\": \"18%\", \"Upper Shoot %\": \"10%\", \"Lower Shoot %\": \"2%\", \"Roots %\": \"<1%\"}, {\"Time After Application\": \"5 days\", \"Treated Leaf %\": \"28%\", \"Upper Shoot %\": \"14%\", \"Lower Shoot %\": \"3.5%\", \"Roots %\": \"<1%\"}]"
+        }
+    ]
+}

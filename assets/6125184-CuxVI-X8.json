@@ -1,0 +1,63 @@
+{
+    "_id": {
+        "$oid": "66927107303528b49832d7a2"
+    },
+    "CID": {
+        "$numberInt": "6125184"
+    },
+    "Name": "Diflufenzopyr",
+    "IUPACName": "2-[(E)-N-[(3,5-difluorophenyl)carbamoylamino]-C-methylcarbonimidoyl]pyridine-3-carboxylic acid",
+    "CanonicalSMILES": "CC(=NNC(=O)NC1=CC(=CC(=C1)F)F)C2=C(C=CC=N2)C(=O)O",
+    "Synonyms": [
+        "Diflufenzopyr",
+        "Diflufenzopyr [ISO]",
+        "SAN 835H",
+        "109293-97-2",
+        "Diflufenzopyr [MI]",
+        "Diflufenzopyr [HSDB]",
+        "S0EIQ4F6KN",
+        "SAN-835H",
+        "Distinct",
+        "2-(1-(4-(3,5-Difluorophenyl)semicarbazono)ethyl)nicotinic acid",
+        "2-((E)-1-(4-(3,5-Difluorophenyl)semicarbazono)ethyl)nicotinic acid",
+        "2-(1-(2-(((3,5-Difluorophenyl)amino)carbonyl)hydrazinylidene)ethyl)-3-pyridinecarboxylic acid",
+        "1957168-02-3",
+        "2-((1E)-1-(2-(((3,5-Difluorophenyl)amino)carbonyl)hydrazinylidene)ethyl)-3-pyridinecarboxylic acid",
+        "3-Pyridinecarboxylic acid",
+        "2-((1E)-1-(2-(((3,5-difluorophenyl)amino)carbonyl)hydrazinylidene)ethyl)-"
+    ],
+    "IsomericSMILES": "C/C(=N\\NC(=O)NC1=CC(=CC(=C1)F)F)/C2=C(C=CC=N2)C(=O)O",
+    "INCHI": "InChI=1S/C15H12F2N4O3/c1-8(13-12(14(22)23)3-2-4-18-13)20-21-15(24)19-11-6-9(16)5-10(17)7-11/h2-7H,1H3,(H,22,23)(H2,19,21,24)/b20-8+",
+    "INCHIKEY": "IRJQWZWMQCVOLA-DNTJNYDQSA-N",
+    "Formula": "C15H12F2N4O3",
+    "MolecularWeight": {
+        "$numberDouble": "334.28"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "1.8"
+    },
+    "Complexity": {
+        "$numberInt": "493"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The behavior of diflufenzopyr, particularly in the context of BAS 662H, stands out in its interaction with dicamba and its influence on different plant species. In weed species like Amaranthus retroflexus and Galium aparine, diflufenzopyr showed a synergistic effect with dicamba. This combination increased the activity of ACC synthase and ethylene formation, leading to subsequent accumulation of (\u00fe)-abscisic acid (ABA) within 20 hours. This accumulation correlated with growth inhibition, hydrogen peroxide overproduction, and tissue damage, enhancing the herbicidal effects of dicamba. However, in corn plants, diflufenzopyr behaved differently. It limited the translocation and uptake of dicamba. When applied alone or as BAS 662H, diflufenzopyr resulted in notably lower concentrations of radioactivity beyond treated areas in corn plants compared to weed species. Additionally, it selectively reduced the foliar uptake of dicamba by about 50% in corn compared to treatment without diflufenzopyr. Moreover, diflufenzopyr exhibited a faster metabolism within corn plants compared to weed species. This rapid metabolism in corn, coupled with lower uptake and translocation of dicamba, prevented the synergistic enhancement of dicamba's herbicidal activity seen in weed species. The higher tolerance of corn to dicamba in the presence of diflufenzopyr was due to these factors, making BAS 662H more effective in weed control while preserving corn tolerance to dicamba.",
+            "reference": "Grossmann, K., Caspar, G., Kwiatkowski, J., & Bowe, S. J. (2002). On the mechanism of selectivity of the corn herbicide BAS 662H: a combination of the novel auxin transport inhibitor diflufenzopyr and the auxin herbicide dicamba. Pest Management Science, 58(10), 1002\u20131014. doi:10.1002/ps.549\u00a0",
+            "method": {
+                "Test Plant": "Galium aparine L, Amaranthus retroflexus L, Zea mays L (cv Dea)",
+                "Apply Location": "Root treatment",
+                "Plant Grown Condition": "Seeds germinated in soil in the greenhouse, seedlings raised in vermiculite substrate moistened with half-strength Linsmaier Skoog medium to the third whorl (Galium aparine) or leaf stage (Amaranthus retroflexus, Zea mays L (cv Dea)) under controlled conditions in a climate room",
+                "Chemical Preparation": "Compounds were prepared in acetone solution (1 ml /itre, final concentration) for root treatment, and aqueous solutions containing the sodium salts of compounds and the adjuvant Dash HC (2.5g litre-1; equivalent to a field rate of 1 litre ha-1) for foliar application",
+                "Pesticide Application Details for the Plant": "For root treatment, diflufenzopyr and dicamba were added as their free acids to the medium in acetone solution (1 ml litre-1, final concentration). For foliar application, plants in hydroponics were sprayed uniformly on a turntable with 155 ml per vessel of aqueous solutions containing the sodium salts of compounds and the adjuvant Dash HC (2.5g litre-1; equivalent to a field rate of 1 litre ha-1) using an airbrush spray gun (Badger Profi 150, Revell, Bu\u00a8nde, Germany)",
+                "Other Information": "Three plants per vessel, five replicates"
+            },
+            "result": "[{\"Time after application\": \"2 hours\", \"Species\": \"Corn\", \"Absorption (ug/g fw)\": \"<0.1\", \"% in Root\": \"-\", \"% in Shoot\": \"-\"}, {\"Time after application\": \"5 hours\", \"Species\": \"Corn\", \"Absorption (ug/g fw)\": \"<0.1\", \"% in Root\": \"-\", \"% in Shoot\": \"-\"}, {\"Time after application\": \"16 hours\", \"Species\": \"Corn\", \"Absorption (ug/g fw)\": \"0.1\", \"% in Root\": \"89\", \"% in Shoot\": \"11\"}, {\"Time after application\": \"2 hours\", \"Species\": \"Galium aparine\", \"Absorption (ug/g fw)\": \"<0.1\", \"% in Root\": \"-\", \"% in Shoot\": \"-\"}, {\"Time after application\": \"5 hours\", \"Species\": \"Galium aparine\", \"Absorption (ug/g fw)\": \"<0.1\", \"% in Root\": \"-\", \"% in Shoot\": \"-\"}, {\"Time after application\": \"16 hours\", \"Species\": \"Galium aparine\", \"Absorption (ug/g fw)\": \"0.1\", \"% in Root\": \"57\", \"% in Shoot\": \"43\"}, {\"Time after application\": \"2 hours\", \"Species\": \"Amaranthus retroflexus\", \"Absorption (ug/g fw)\": \"0.42\", \"% in Root\": \"-\", \"% in Shoot\": \"-\"}, {\"Time after application\": \"5 hours\", \"Species\": \"Amaranthus retroflexus\", \"Absorption (ug/g fw)\": \"0.51\", \"% in Root\": \"-\", \"% in Shoot\": \"-\"}, {\"Time after application\": \"16 hours\", \"Species\": \"Amaranthus retroflexus\", \"Absorption (ug/g fw)\": \"0.71\", \"% in Root\": \"55\", \"% in Shoot\": \"45\"}]"
+        }
+    ]
+}

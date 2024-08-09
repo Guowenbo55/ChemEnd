@@ -1,0 +1,93 @@
+{
+    "_id": {
+        "$oid": "6682e98dc4e5dba5ffba2b30"
+    },
+    "CID": {
+        "$numberInt": "91664"
+    },
+    "Name": "Tolclofos-methyl",
+    "IUPACName": "(2,6-dichloro-4-methylphenoxy)-dimethoxy-sulfanylidene-lambda5-phosphane",
+    "CanonicalSMILES": "CC1=CC(=C(C(=C1)Cl)OP(=S)(OC)OC)Cl",
+    "Synonyms": [
+        "Tolclofos-methyl",
+        "57018-04-9",
+        "Rizolex",
+        "Risolex",
+        "o-(2,6-Dichloro-4-methylphenyl) o,o-dimethyl phosphorothioate",
+        "Basilex",
+        "S-3349",
+        "O-2,6-Dichloro-p-tolyl O,O-dimethyl phosphorothioate",
+        "Phosphorothioic acid",
+        "O-(2,6-dichloro-4-methylphenyl) O,O-dimethylester",
+        "G42OQL6F5B",
+        "Phosphorothioic acid",
+        "O-(2,6-dichloro-4-methylphenyl) O,O-dimethyl ester",
+        "O-(2,6-Dichloro-p-tolyl) O,O-dimethyl thiophosphate",
+        "DTXSID0034776",
+        "CHEBI:81731",
+        "Toclofos-methyl"
+    ],
+    "IsomericSMILES": "CC1=CC(=C(C(=C1)Cl)OP(=S)(OC)OC)Cl",
+    "INCHI": "InChI=1S/C9H11Cl2O3PS/c1-6-4-7(10)9(8(11)5-6)14-15(16,12-2)13-3/h4-5H,1-3H3",
+    "INCHIKEY": "OBZIQQJJIKNWNO-UHFFFAOYSA-N",
+    "Formula": "C9H11Cl2O3PS",
+    "MolecularWeight": {
+        "$numberDouble": "301.13"
+    },
+    "Description": "Tolclofos-methyl is an organic thiophosphate that is 2,6-dichloro-4-methylphenol in which the hydrogen of the hydroxy group group has been replaced by a dimethoxyphosphorothioyl group. Tolclofos-methyl is a phospholipid biosynthesis inhibitor and fungicide that is used for controlling soil-borne diseases caused by Typhula incarnata, Corticium rolfsii, Typhula ishikariensis, and Rhizoctonia solani. It has a role as an antifungal agrochemical. It is an organic thiophosphate and a dichlorobenzene.",
+    "XlogP": {
+        "$numberDouble": "4.7"
+    },
+    "Complexity": {
+        "$numberInt": "260"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Fantke P et al; Environ Sci Technol 48: 8588-602 (2014)",
+            "Value": "The dissipation half-life of tolclofos-methyl from plants was reported as 1.54-2.13 days(1)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Tsuda T et al; Bull Environ Contam Toxicol 57: 442-9 (1996)",
+            "Value": "Tolclofos-methyl was not detected (detection limit 5-10 ng/g) in pale chub (Zacco platypus), ayu sweetfish (Plecoglossus altivelis) or dark chub (Zacco temminckii) samples collected Apr 1992-Mar 1993 from seven rivers flowing into Lake Biwa, Japan(1)."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Kawata K et al; J AOAC Int 88: 1440-51 (2005)",
+            "Value": "SEDIMENT: Tolclofos-methyl was not detected (detection limit 3 ug/kg) in sediment samples collected May-Sep 1999 from the Shin River, Niigata, Japan(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "We conducted uptake experiments with 12 different organic chemicals using 16 plant species and observed variations in their ability to take up and translocate these chemicals. The shoot and root concentrations of each chemical varied among the plant species. Root concentration factor values increased with an increasing log of the n-octanol-water partition coefficient (log Kow) of the organic chemicals, suggesting that root concentrations may be predicted to some extent based on log Kow. Root-to-shoot translocation was also related to log Kow, as the shoot-to-root concentration ratio decreased with increasing log Kow. However, the relationship between shoot concentration factor value and log Kow was not clear and differed among plant species.",
+            "reference": "Namiki, S., Otani, T., Motoki, Y., Seike, N., & Iwafune, T. (2018). Differential uptake and translocation of organic chemicals by several plant species from soil. Journal of pesticide science, 43(2), 96-107.",
+            "method": {
+                "Test Plant": "Hordeum distichon, Zea mays L., Glycine max Merrill, Phaseolus vulgaris L., Brassica oleracea L. var. capitata, Brassica rapa L. war. peruviridis, Chrysanthemum coronarium L., Lactuca sativa L., Allissms wakegi Araki, Apium graveolens L. war. dulce, Solanum lycopersicum Mill., Capsicum grossism, Cucumtis sativis L., Cucurbita maxima Duch., Spinacia oleracea L., and Beta vulgaris L. var. cicla.",
+                "Apply Location": "Soil application",
+                "Plant Grown Condition": "Seeds germinated in nursery soil in growth chamber at 20\u00b0C, 14:10 hr light:dark cycle. Seedlings transplanted at 7-28 days into test soil pots and grown for 21 more days under same conditions. Soil moisture maintained at 50-70% water holding capacity (WHC).",
+                "Chemical Preparation": "12 organic chemicals (10 pesticides, \u03b2-HCH, dieldrin) with log Kow -0.6 to 5 dissolved in acetone at 50 mg/L. 1 L mixture added to 278g Celite powder, acetone evaporated leaving 92.6-133.6 \u03bcg/g of each chemical on Celite.",
+                "Pesticide Application Details for the Plant": "450g uncontaminated soil mixed with 5g chemical-loaded Celite in 600 mL pots. Fertilized with chemical fertilizer and dolomite. Final concentrations ranged 81.0-129.7 \u03bcg/pot.",
+                "Other Information": "Plants grown to obtain 1-2g root dry weight per species. At 21 days, shoots and roots harvested, fresh weights measured, divided into subsamples to determine moisture content and chemical concentrations."
+            },
+            "result": "[{\"Plant\": \"Hordeum distichon\", \"Shoot (mg/kg)\": 0.02, \"Root (mg/kg)\": 0.04, \"Uptake (mg/kg)\": 0.05}, {\"Plant\": \"Zea mays L.\", \"Shoot (mg/kg)\": 0.02, \"Root (mg/kg)\": 0.4, \"Uptake (mg/kg)\": 0.03}, {\"Plant\": \"Glycine max Merrill\", \"Shoot (mg/kg)\": 0.02, \"Root (mg/kg)\": 0.7, \"Uptake (mg/kg)\": 0.04}, {\"Plant\": \"Phaseolus vulgaris L.\", \"Shoot (mg/kg)\": 0.02, \"Root (mg/kg)\": 0.34, \"Uptake (mg/kg)\": 0.05}, {\"Plant\": \"Brassica oleracea L. var. capitata\", \"Shoot (mg/kg)\": 0.02, \"Root (mg/kg)\": 0.57, \"Uptake (mg/kg)\": 0.1}, {\"Plant\": \"Brassica rapa L. war. peruviridis\", \"Shoot (mg/kg)\": 0.02, \"Root (mg/kg)\": 0.31, \"Uptake (mg/kg)\": 0.08}, {\"Plant\": \"Chrysanthemum coronarium L.\", \"Shoot (mg/kg)\": 0.06, \"Root (mg/kg)\": 34.22, \"Uptake (mg/kg)\": 1.37}, {\"Plant\": \"Lactuca sativa L.\", \"Shoot (mg/kg)\": 0.02, \"Root (mg/kg)\": 0.66, \"Uptake (mg/kg)\": 0.11}, {\"Plant\": \"Allissms wakegi Araki\", \"Shoot (mg/kg)\": 0.02, \"Root (mg/kg)\": 0.74, \"Uptake (mg/kg)\": 0.08}, {\"Plant\": \"Apium graveolens L. war. dulce\", \"Shoot (mg/kg)\": 0.04, \"Root (mg/kg)\": 3.58, \"Uptake (mg/kg)\": 0.42}, {\"Plant\": \"Solanum lycopersicum Mill.\", \"Shoot (mg/kg)\": 0.02, \"Root (mg/kg)\": 0.42, \"Uptake (mg/kg)\": 0.06}, {\"Plant\": \"Capsicum grossism\", \"Shoot (mg/kg)\": 0.02, \"Root (mg/kg)\": 0.2, \"Uptake (mg/kg)\": 0.05}, {\"Plant\": \"Cucumtis sativis L.\", \"Shoot (mg/kg)\": 0.03, \"Root (mg/kg)\": 2.34, \"Uptake (mg/kg)\": 0.2}, {\"Plant\": \"Cucurbita maxima Duch.\", \"Shoot (mg/kg)\": 0.02, \"Root (mg/kg)\": 2.02, \"Uptake (mg/kg)\": 0.13}, {\"Plant\": \"Spinacia oleracea L.\", \"Shoot (mg/kg)\": 0.02, \"Root (mg/kg)\": 0.16, \"Uptake (mg/kg)\": 0.04}, {\"Plant\": \"Beta vulgaris L. var. cicla\", \"Shoot (mg/kg)\": 0.02, \"Root (mg/kg)\": 0.11, \"Uptake (mg/kg)\": 0.08}]"
+        },
+        {
+            "content": "We conducted experiments cultivating Brassica rapa var. perviridis in soil treated with four pesticides (fenobucarb, procymidone, flutolanil, and tolclofos methyl) under varying conditions of temperature, day length, and soil water content. Our investigation focused on assessing the plants' uptake and translocation abilities of these pesticides under different growth conditions. We observed that the root concentration factor (RCF) of pesticides tended to increase with higher temperatures, although the influence of temperature on the transpiration stream concentration factor (TSCF) varied depending on the specific pesticide. Additionally, both RCFs and TSCFs of pesticides were notably higher under short days. Surprisingly, soil water content did not significantly impact the uptake and translocation of the pesticides. These findings underscore the importance of considering growth conditions, particularly temperature and day length, in developing accurate models for predicting plant uptake of these pesticides.",
+            "reference": "Namiki, S., Otani, T., Motoki, Y., & Seike, N. (2018). The influence of Brassica rapa var. perviridis growth conditions on the uptake and translocation of pesticides. Journal of Pesticide Science, 43(4), 248-254.",
+            "method": {
+                "Test Plant": "Brassica rapa L. var. perviridis 'Yokattana'",
+                "Apply Location": "Soil application",
+                "Plant Grown Condition": "Plastic pots (600 mL) were filled with 450 g of uncontaminated Andosol soil (loam texture, pH 5.5, cation exchange capacity 33.8 cmol(+)/kg, organic carbon 52.1 g/kg, water-holding capacity 747.1 mL/kg) mixed with 5 g of Celite powder containing pesticides. The soil was fertilized with 5 g of chemical fertilizer (0.4 g N, 0.17 g P, 0.34 g K) and 5 g dolomite.",
+                "Chemical Preparation": "Four pesticides (fenobucarb, procymidone, flutolanil, tolclofos-methyl) with high log Kow values were dissolved in acetone to 40 mg/L. The mixture was added to Celite powder, and acetone was evaporated, resulting in 82.7 \u03bcg fenobucarb, 81.0 \u03bcg procymidone, 104.0 \u03bcg flutolanil, and 102.9 \u03bcg tolclofos-methyl per 1 g Celite.",
+                "Pesticide Application Details for the Plant": "The prepared Celite powder containing pesticides (5 g) was mixed with 450 g of uncontaminated soil in each 600 mL plastic pot.",
+                "Other Information": "The uptake experiments were conducted in quadruplicate. Pesticide concentrations in plant shoots and roots were analyzed by GC-MS after extraction with aceton"
+            },
+            "result": "[{\"Temperature\": 15, \"Shoot (mg/kg)\": 0.007, \"Root (mg/kg)\": 0.43}, {\"Temperature\": 20, \"Shoot (mg/kg)\": 0.008, \"Root (mg/kg)\": 0.35}, {\"Temperature\": 25, \"Shoot (mg/kg)\": 0.006, \"Root (mg/kg)\": 0.33}]"
+        }
+    ]
+}

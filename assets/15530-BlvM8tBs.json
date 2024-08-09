@@ -1,0 +1,92 @@
+{
+    "_id": {
+        "$oid": "6682e91fc4e5dba5ffba2906"
+    },
+    "CID": {
+        "$numberInt": "15530"
+    },
+    "Name": "BANTROL",
+    "IUPACName": "4-hydroxy-3,5-diiodobenzonitrile",
+    "CanonicalSMILES": "C1=C(C=C(C(=C1I)O)I)C#N",
+    "Synonyms": [
+        "Ioxynil",
+        "1689-83-4",
+        "4-Hydroxy-3,5-diiodobenzonitrile",
+        "Actril",
+        "3,5-Diiodo-4-hydroxybenzonitrile",
+        "Bentrol",
+        "Benzonitrile",
+        "4-hydroxy-3,5-diiodo-",
+        "Cipotril",
+        "Trevespan",
+        "Certrol",
+        "Joxynil",
+        "Loxynil",
+        "Iotox",
+        "2,6-Diiodo-4-cyanophenol",
+        "4-Cyano-2,6-diiodophenol"
+    ],
+    "IsomericSMILES": "C1=C(C=C(C(=C1I)O)I)C#N",
+    "INCHI": "InChI=1S/C7H3I2NO/c8-5-1-4(3-10)2-6(9)7(5)11/h1-2,11H",
+    "INCHIKEY": "NRXQIUSYPAHGNM-UHFFFAOYSA-N",
+    "Formula": "C7H3I2NO",
+    "MolecularWeight": {
+        "$numberDouble": "370.91"
+    },
+    "Description": "Ioxynil is a nitrile that is benzonitrile substituted by a hydroxy group at position 4 and iodo groups at positions 3 and 5. It has a role as a xenobiotic, an environmental contaminant and a herbicide. It is a nitrile and an iodophenol.",
+    "XlogP": {
+        "$numberDouble": "2"
+    },
+    "Complexity": {
+        "$numberInt": "176"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch L et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Amer Chem Soc, Washington, DC. p. 25 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF value of 3 was calculated for Bantrol(SRC), using a measured log Kow of 0.90(1) and a recommended regression-derived equation(2). According to a classification scheme(3), this BCF value suggests that bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "Kearney, P.C., and D. D. Kaufman (eds.) Herbicides: Chemistry, Degredation and Mode of Action. Volumes 1 and 2. 2nd ed. New York: Marcel Dekker, Inc., 1975., p. 584",
+            "Value": "...IOXYNIL.../HAS/ HALF-LIFE OF LESS THAN 2 WK IN SOILS. WHEN STERILE SOILS WERE TREATED WITH IOXYNIL...LITTLE OR NO DEGRADATION WAS /DETECTED/... IN NONSTERILE SOILS...DEGRADATION WAS RAPID. DEGRADATION PRODUCTS FROM NONSTERILE SOILS TREATED WITH ...IOXYNIL WERE...IDENTIFIED AS THE BENZOIC ACID DERIVATIVES WITH TRACES OF INORGANIC IODIDE FROM IOXYNIL."
+        },
+        {
+            "References": "Kearney, P.C., and D. D. Kaufman (eds.) Herbicides: Chemistry, Degredation and Mode of Action. Volumes 1 and 2. 2nd ed. New York: Marcel Dekker, Inc., 1975., p. 584",
+            "Value": "/Researchers/ attributed the reduced effectiveness of ... herbicide during adaptation studies to microbial degradation. Recent studies ... have also provided indirect evidence for the adaptation of Erwinia carotovora, Pseudomonas fluorescens, and Bacillus species to ioxynil."
+        },
+        {
+            "References": "(1) Zaki MA et al; Ann Appl Biol 59: 481-91 (1967) (2) Hsu JMC, Camper ND; Pestic Biochem Physiol 5: 47-51 (1975)(3) Hsu JC, Camper ND; Can J Microbiol 21: 2008-12 (1975)",
+            "Value": "In nonsterile soil, Bantrol was biodegraded to 3,5-diiodo-4-hydroxybenzoic acid through its intermediate amide; free iodine was also liberated(1). Degradation of both ring and cyano-labelled Bantrol to CO2 in a clay loam soil with high organic matter content was measured; 14CO2 was released more quickly initially from the cyano-labelled Bantrol(2). No 14CO2 was released from autoclaved soil or from ring-labelled Bantrol under anaerobic conditions(2). Cyano-labelled Bantrol under anaerobic conditions released a small amount of 14CO2. Metabolites from the aerobic biodegradation of Bantrol were 3,5-diiodo-4-hydroxybenzamide and 3,5-diiodo-4-hydroxybenzoic acid(2). The aerobic half-life of Bantrol degradation in a clay loam soil with high organic matter content was 9-10 days(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 25",
+            "Value": "Log Kow = 0.90 at pH 6.5"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Kearney, P.C., and D. D. Kaufman (eds.) Herbicides: Chemistry, Degredation and Mode of Action. Volumes 1 and 2. 2nd ed. New York: Marcel Dekker, Inc., 1975., p. 585",
+            "Value": "/Ioxynil is a/ highly active uncoupler of oxidative phosphorylation in plants & animals & inhibitor of photoreduction and photophosphorylation reactions in chloroplasts. ...higher concn of ioxynil ... also inhibit electron transport in isolated mitochondria and chloroplasts. ... Indirect evidence suggests that ioxynil ... causes a rapid and severe alteration in the energy balance of the plant cell. ... Levels of ATP were reduced 90% in excised soybean hypocotyls when compared to controls 3 hr after treatment with high concn (2X10-4 M) of ioxynil. ... The hormonal control of proteolytic and amylolytic enzyme activity in germinating seeds has been studied extensively. The studies indicate that ... ioxynil may either interfere with the development or transport of cytokinin & gibberellin hormones, or may interfere with the biosynthetic processes leading to enzyme formation."
+        },
+        {
+            "References": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. Old Woking, Surrey, United Kingdom: Royal Society of Chemistry/Unwin Brothers Ltd., 1983., p. A233/Oct 83",
+            "Value": "Acts by inhibition of the second light reaction of photosynthesis..."
+        },
+        {
+            "References": "Hertel C, Marme D; Pestic Biochem Physiol 19 (3): 282-90 (1983)",
+            "Value": "The herbicide ... ioxynil ... inhibited energy dependent Ca(2)+ uptake in plant (maize, zucchini) mitochondria at a concn where /it/ did not inhibit ADP phosphorylation and did not interfere with tubulin polymerization. A common mechanism of action of /this herbicide/ is probably the inhibition of the regulation of cytoplasmic free Ca(2)+ concn which may in turn lead to many physiological malfunctions."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch L et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Amer Chem Soc, Washington, DC. p. 25 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 23 (1983) (4) Zaki MA et al; Ann Appl Biol 59: 481-91 (1967)",
+            "Value": "The Koc of Bantrol is estimated as approximately 75(SRC), using a measured log Kow of 0.90(1) and a regression-derived equation(2,SRC). According to a recommended classification scheme(3), this estimated Koc value suggests that Bantrol has high mobility in soil(SRC). Alkaline soils adsorbed small amounts of Bantrol on soil particles(4)."
+        }
+    ]
+}

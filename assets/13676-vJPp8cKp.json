@@ -1,0 +1,99 @@
+{
+    "_id": {
+        "$oid": "6682e90ec4e5dba5ffba28b2"
+    },
+    "CID": {
+        "$numberInt": "13676"
+    },
+    "Name": "FONOFOS",
+    "IUPACName": "ethoxy-ethyl-phenylsulfanyl-sulfanylidene-lambda5-phosphane",
+    "CanonicalSMILES": "CCOP(=S)(CC)SC1=CC=CC=C1",
+    "Synonyms": [
+        "Fonofos",
+        "Dyfonate",
+        "944-22-9",
+        "DYPHONATE",
+        "Fonophos",
+        "Difonate",
+        "Difonatul",
+        "Stauffer N 2790",
+        "Fonofos [ISO]",
+        "O-Ethyl S-phenyl ethylphosphonodithioate",
+        "OMS 410",
+        "ENT 25,796",
+        "O-Ethyl S-phenyl ethyldithiophosphonate",
+        "Ethylphosphonodithioic acid O-ethyl S-phenyl ester",
+        "Phosphonodithioic acid",
+        "ethyl-",
+        "O-ethyl S-phenyl ester"
+    ],
+    "IsomericSMILES": "CCOP(=S)(CC)SC1=CC=CC=C1",
+    "INCHI": "InChI=1S/C10H15OPS2/c1-3-11-12(13,4-2)14-10-8-6-5-7-9-10/h5-9H,3-4H2,1-2H3",
+    "INCHIKEY": "KVGLBTYUCJYMND-UHFFFAOYSA-N",
+    "Formula": "C10H15OPS2",
+    "MolecularWeight": {
+        "$numberDouble": "246.3"
+    },
+    "Description": "Fonofos is an organic thiophosphate and an organothiophosphate insecticide. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, an EC 3.1.1.8 (cholinesterase) inhibitor and an agrochemical.",
+    "XlogP": {
+        "$numberDouble": "3.9"
+    },
+    "Complexity": {
+        "$numberInt": "202"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Metcalf RL; Adv Environ Sci Technol 8: 195-221 (1977) (2) USEPA; R.E.D. /Reregistration Eligibility Decisions/ Facts on O-Ethyl S-phenyl ethylphosphonodithiolate (Fonofos) /944-22-9/. USEPA 738-F-99-019. Available from the Database Query page at https://www.epa.gov/pesticides/reregistration/status.htm as of July 22, 2003. (3) Franke C et al; Chemosphere 29: 1501-14 (1994) (4) Freed VH et al; Environ Health Perspect 13: 77-81 (1976) (5) Boethling RS, Mackay D; Handbook of Property Estimation Methods for Chemicals. Boca Raton, FL: Lewis Pub p. 317 (2000)",
+            "Value": "A BCF of less than 2 for dyphonate was measured using mosquito fish (Gambusia affinis)(1). A BCF of 300 has also been reported but with a 90% depuration within 14 days(2). According to a classification scheme(3), BCF values of <30 are low and from 100 to 1000 are high(SRC). Aquatic organisms readily metabolize this class of compounds(4) and organophosphates can be altered chemically(5) once released into the environment."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Miles JRW et al; Bull Environ Contam Toxicol 22: 312-8 (1979) (2) Ahmad N et al; Bull Environ Contam Toxicol 23: 423-9 (1979) (3) Wilde G; J Econ Entomol 83: 1250-3 (1990) (4) Racke KD, Coats JR; J Agric Food Chem 36: 193-9 (1988)",
+            "Value": "Biodegradation is the major process for the loss of dyphonate in soil(1). Biodegradation of dyphonate is faster in dyphonate-treated soil than untreated soil(2,3). The major metabolite of biodegradation of dyphonate in dyphonate-treated soil is carbon dioxide with dyphonate-oxon, methyl phenyl sulfone and other unidentified polar products as minor metabolites(4)."
+        },
+        {
+            "References": "(1) Racke KD, Coats JR; pp. 68-81 in Enhanced Biodegradation of Pesticides in the Environment, ACS Sym Ser 426, Washington, DC: ACS (1990) (2) Somasundaram L et al; Bull Environ Contam Toxicol 39: 579-86 (1987) (3) Cisar JL, Snyder GH; Crop Sci 36: 1433-8 (1996)",
+            "Value": "AEROBIC: The rate of mineralization was higher in soil which had been previously treated with dyphonate(1). In a soil with a history of dyphonate use, 20.8% of applied dyphonate mineralized to carbon dioxide during 1 week of incubation(1). Dyphonate persisted longer in manure-applied soil, possibly due to greater soil binding of the insecticide making it less available for microbial degradation(2). Dyphonate, applied to USGA Tidwarf bermuda grass on a Florida putting green at a concn of 0.44 g active ingredient/sq m, was detected in first clippings at 4 mg/sq m but rapidly dropped thereafter following two application cycles(3). Less than 0.1% of the applied test chemical was recovered in thatch, soil, or percolate and loss was attributed to microbial degradation in the thatch layer(3)."
+        },
+        {
+            "References": "(1) Johnson B; Setting revised specific numerical values. April 1991. CA Dept Food Agric, Div Pest Manag., Environ Haz Prog. EH 91-6 pp. 17 (1991)",
+            "Value": "Estimated half-lives of 120 and 150 days under aerobic and anaerobic conditions, respectively, have been reported for dyphonate in soil(1)."
+        },
+        {
+            "References": "(1) Tu CM, Miles JRW; Res Rev 64: 17-65 (1976)",
+            "Value": "Two fungal species isolated from soil readily degraded dyphonate; metabolites isolated were dyphonate-oxon, ethylethoxyphosphonothioic acid, ethylethoxyphosphonic acid, methyl phenyl sulfoxide and methyl phenyl sulfone(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 78",
+            "Value": "log Kow= 3.94"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 34",
+            "Value": "Organophosphates poison insects and mammals primarily by phosphorylation of the acetylcholinesterase enzyme at nerve endings. ... At sufficient dosage, loss of enzyme function allows accumulation of acetylcholine (the impulse- transmitter substance) at cholinergic neuroeffector junctions (muscarinic effects, and at skeletal myoneural junctions and in autonomic ganglia (nicotinic effects). Organophosphates also impair nerve impulse transmission in the brain ... . /Organophosphate pesticides/"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Miles JRW, Harris CR; J Environ Sci Health B13: 199-209 (1978) (2) Kadoum AM, Mock DE; J Agric Food Chem 26: 45-50 (1978) (3) Hallberg GR; Agric Ecosystems Environ 26: 299-367 (1989) (4) Krapac IG et al; J Soil Contam 4: 209-26 (1995) (5) Webber MD, Wang C; Can J Soil Sci 75: 513-24 (1995)",
+            "Value": "SOIL: Dyphonate was detected at a range of not detected (detection limit 0.01 mg/kg) to 1.10 mg/kg in 28 farms in 6 vegetable growing areas in Southwestern Ontario in 1976(1). The median concn of dyphonate in sediment of tailwater pits from irrigated corn and sorghum fields in KS ranged 4.0-48.4 ug/kg(2). A maximum concn of 771 ug/kg was detected in the sediment of one pit(2). Dyphonate was detected at max concn of greater than 1000 ug/kg in soils in loading and rinse areas of a farm chemical supply in IA(3). 822 soil samples from 49 agrichemical facilities situated throughout Illinois were analyzed. Dyphonate was handled in 32 facilities; 5 soil samples tested positive with 4 sites testing positive with the following results: 96 ug/kg median concn, 238 ug/kg mean concn, range: 34-4,300 ug/kg, common range of detection limits - 20-60 ug/kg(4). Dyphonate was observed at concns ranging from not detected to 72 ug/kg dry wt in samples from selected Canadian agricultural soils(5)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Gustafson DI; Environ Toxicol Chem 8: 339-57 (1989) (2) Rao PSC et al; Soil Crop Sci Soc Fl Proc 44: 1-8 (1985) (3) Richards RP, Baker DB; Environ Toxicol Chem 12: 13-26 (1993) (4) Wauchope RD et al; Rev Environ Contam Toxicol 123: 1-155 (1992) (5) Larson SJ et al; Chemosphere 31: 3305-21 (1995) (6) Johnson B; Setting revised specific numerical values. April 1991. CA Dept Food Agric, Div Pest Manag., Environ Haz Prog. EH 91-6 pp. 17 (1991) (7) Swann RL et al; Res Rev 85: 17-28 (1983) (8) Lichtenstein EP et al; J Agric Food Chem 20: 831-8 (1972) (9) Chapman RA et al; J Environ Sci Health B19: 259-70 (1984) (10) Lichtenstein EP, Liang TT; J Agric Food Chem 35: 173-8 (1987) (11) Choudhry GG; Toxicol Environ Chem 6: 127-71 (1983) (12) Khan SU, Belanger A; Chemosphere 16: 167-70 (1987)",
+            "Value": "Koc values for dyphonate in soil vary widely and range from 68 to 5,128(1-6). According to a classification scheme(7), Koc values of 50 to 150 indicate high mobility and greater than 5,000 indicate immobile in soil. Laboratory and field leaching studies indicate that dyphonate has low to very low mobility in silt loam, sandy loam and organic soil, but is relatively mobile in quartz sand(8-10). The adsorption of dyphonate increases with decreasing temperature and increase in organic content, particularly humic acid and associated cation content of soil(11). A certain fraction of both dyphonate and its oxon metabolite form bound residues in soil and the latter fraction increases with time(12)."
+        },
+        {
+            "References": "(1) Brown CD et al; Pest Sci 43: 131-40 (1995)",
+            "Value": "Dyphonate, applied in the 1989 and 1990 growing seasons to 0.25 ha plots of Dunkeswicke clay loam, Cockle park, Northumberland, UK planted to winter wheat, was quantified in mole-drained surface area, mole-drained drainflow, and undrained drainflow as follows: the 1989/90 season - 0.1, 0.2, and 0.1 in aqueous phase water samples, respectively; 0.3, <0.1, and 1.7 ug/l in sediment-phase water samples, respectively; 1990/91 season - 50.5, 3.0, and 20.1 in aqueous phase water samples, respectively; 48.1, 2.3, and 23.2 ug/l in sediment-phase water samples, respectively(1). The sharp concn increase in the second year was attributed to more intense water flow that season and a winter characterized by intense thawing and freezing, loosening the soil aggregate(1)."
+        }
+    ]
+}

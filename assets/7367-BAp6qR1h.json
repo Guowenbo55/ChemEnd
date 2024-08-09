@@ -1,0 +1,70 @@
+{
+    "_id": {
+        "$oid": "6682e879c4e5dba5ffba25c5"
+    },
+    "CID": {
+        "$numberInt": "7367"
+    },
+    "Name": "BENZOTRICHLORIDE",
+    "IUPACName": "trichloromethylbenzene",
+    "CanonicalSMILES": "C1=CC=C(C=C1)C(Cl)(Cl)Cl",
+    "Synonyms": [
+        "BENZOTRICHLORIDE",
+        "98-07-7",
+        "(Trichloromethyl)benzene",
+        "Trichloromethylbenzene",
+        "alpha,alpha,alpha-Trichlorotoluene",
+        "Phenylchloroform",
+        "TRICHLOROTOLUENE",
+        "Benzyl trichloride",
+        "Toluene trichloride",
+        "Benzenyl trichloride",
+        "1-(Trichloromethyl)benzene",
+        "Benzene",
+        "(trichloromethyl)-",
+        "Benzylidyne chloride",
+        "Phenyltrichloromethane",
+        "Trichlorophenylmethane"
+    ],
+    "IsomericSMILES": "C1=CC=C(C=C1)C(Cl)(Cl)Cl",
+    "INCHI": "InChI=1S/C7H5Cl3/c8-7(9,10)6-4-2-1-3-5-6/h1-5H",
+    "INCHIKEY": "XEMRAKSQROQPBR-UHFFFAOYSA-N",
+    "Formula": "C7H5Cl3",
+    "MolecularWeight": {
+        "$numberDouble": "195.5"
+    },
+    "Description": "(trichloromethyl)benzene is an organochlorine compound that is toluene in which all three hydrogens of the methyl group have been replaced by chlorines. It is used as an intermediate in organic synthesis and dye chemistry. It has a role as a carcinogenic agent. It is a member of benzenes, a volatile organic compound and an organochlorine compound.",
+    "XlogP": {
+        "$numberDouble": "3.7"
+    },
+    "Complexity": {
+        "$numberInt": "99"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Meylan WM, Howard PH; J Pharm Sci 84: 83-92 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994) (4) Budavari S; The Merck Index - Encyclopedia of Chemicals, Drugs, and Biologicals. Rahway, NJ: Merck and Co Inc pg 173 (1989) (5) Mabey W, Mill T; J Phys Chem Ref Data 7: 383 (1978) (6) Laughton PM, Robertson RE; Can J Chem 37: 1491 (1959)",
+            "Value": "An estimated BCF value of 540 was calculated for benzotrichloride(SRC), using an estimated log Kow of 3.9(1,SRC) and a recommended regression-derived equation(2). According to a recommended classification scheme(3), this BCF value suggests that bioconcentration in aquatic organisms will be an important fate process(SRC). However, due to the rapid hydrolysis of benzotrichloride in water(4-6), bioconcentration in aquatic organisms is not expected to occur(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Steinhaeuser KG et al; Vom Wasser 67: 147-54 (1986)",
+            "Value": "Using a modified OECD-Screening-Test, DOC removal with benzotrichloride was 95-97% after 3 days(1). However, because of the rapid hydrolysis rate, this biodegradation study is probably for benzoic acid, the hydrolysis product of benzotrichloride."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 27",
+            "Value": "log Kow= 2.92"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 28: 459-65 (1992) (2) Swann RL et al; Res Rev 85: 23 (1983) (3) Budavari S; The Merck Index - Encyclopedia of Chemicals, Drugs, and Biologicals. Rahway, NJ: Merck and Co Inc pg 173 (1989) (4) Mabey W, Mill T; J Phys Chem Ref Data 7: 383 (1978) (5) Laughton PM, Robertson RE; Can J Chem 37: 1491 (1959)",
+            "Value": "Using a structure estimation method based on molecular connectivity indexes(1), the Koc of benzotrichloride is estimated as approximately 1200(SRC). According to a recommended classification scheme(2), this estimated Koc value suggests that benzotrichloride has slight mobility in soil(SRC). Due to the rapid hydrolysis of benzotrichloride in water(3-5), leaching in moist soils should not be significant due to its degradation to benzoic and hydrochloric acid(SRC)."
+        }
+    ]
+}

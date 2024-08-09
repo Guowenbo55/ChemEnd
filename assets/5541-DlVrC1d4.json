@@ -1,0 +1,227 @@
+{
+    "_id": {
+        "$oid": "6682e823c4e5dba5ffba2416"
+    },
+    "CID": {
+        "$numberInt": "5541"
+    },
+    "Name": "TRIACETIN",
+    "IUPACName": "2,3-diacetyloxypropyl acetate",
+    "CanonicalSMILES": "CC(=O)OCC(COC(=O)C)OC(=O)C",
+    "Synonyms": [
+        "triacetin",
+        "102-76-1",
+        "Glyceryl triacetate",
+        "Glycerol triacetate",
+        "Enzactin",
+        "Glycerin triacetate",
+        "Triacetine",
+        "Triacetylglycerol",
+        "Fungacetin",
+        "Glyped",
+        "Vanay",
+        "Triacetyl glycerine",
+        "Kesscoflex TRA",
+        "Kodaflex triacetin",
+        "1,2,3-Propanetriol",
+        "triacetate"
+    ],
+    "IsomericSMILES": "CC(=O)OCC(COC(=O)C)OC(=O)C",
+    "INCHI": "InChI=1S/C9H14O6/c1-6(10)13-4-9(15-8(3)12)5-14-7(2)11/h9H,4-5H2,1-3H3",
+    "INCHIKEY": "URAYPUMNDPQOKB-UHFFFAOYSA-N",
+    "Formula": "C9H14O6",
+    "MolecularWeight": {
+        "$numberDouble": "218.2"
+    },
+    "Description": "Triacetin is a triglyceride obtained by acetylation of the three hydroxy groups of glycerol. It has fungistatic properties (based on release of acetic acid) and has been used in the topical treatment of minor dermatophyte infections. It has a role as a plant metabolite, a solvent, a fuel additive, an adjuvant, a food additive carrier, a food emulsifier, a food humectant and an antifungal drug. It is functionally related to an acetic acid.",
+    "XlogP": {
+        "$numberDouble": "0.2"
+    },
+    "Complexity": {
+        "$numberInt": "229"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Morrison LR; Glycerol. Kirk-Othmer Encyclopedia of Chemical Technology. (1999-2015). New York, NY: John Wiley & Sons. Online Posting Date: December 4, 2000.",
+            "Value": "Triacetin occurs naturally in small quantities in the seed of Euonymus europaeus (European spindletree)(1)."
+        },
+        {
+            "References": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Triacetin. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of May 28, 2015: https://www.ars-grin.gov/duke/",
+            "Value": "Triacetin detections in plants(1).",
+            "Table": "[{'Genus species': 'Carica papaya', 'Family': 'Caricaceae', 'Common name': 'Papaya', 'Part': 'Fruit', 'Concn (ppm)': 'not reported'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 63 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of June 3, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm/ (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for triacetin(SRC), using a log Kow of 0.25(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform(CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of June 2, 2015: https://www.safe.nite.go.jp/english/db.html (2) Hutchins SR et al; Environ Toxicol Chem 2: 195-216 (1983)",
+            "Value": "AEROBIC: Triacetin, present at 100 mg/L, reached 91-94% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L and the Japanese MITI test(1). Using a rapid infiltration system for treating primary and secondary effluents, triacetin, present in a feed solution at a concentration of 0.094 ug/L, was not detected in the column effluent(2). The specific loss process was not identified(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 63",
+            "Value": "log Kow = 0.25"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 931",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ...Tested on rabbit eyes has been found to cause no injury... ."
+        },
+        {
+            "References": "Patty, F. (ed.). Industrial Hygiene and Toxicology: Volume II: Toxicology. 2nd ed. New York: Interscience Publishers, 1963., p. 1871",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ...Rats made very good weight gains when triacetin replaced fat in diet for extent of 55% of total diet."
+        },
+        {
+            "References": "Cosmetic Ingredient Review Expert Panel; International Journal of Toxicology: 22(suppl. 2): 1-10 (2003)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Six female mongrel dogs were used to determine the effect of Triacetin on serum phosphorus, calcium, and magnesium metabolism. A 5% v/v aqueous solution of Triacetin was infused intravenously at a rate of 47 umol/kg/min for 3 hr. Arterial blood was sampled at 15 to 30-min intervals, and urine was collected during infusion. No significant changes in total serum calcium or phosphorus concentrations were observed; however, serum magnesium concentrations were statistically significantly decreased 90 min after the initiation of dosing and remained decreased until the end of the study. During Triacetin infusion, the plasma acetate concentration increased from 0.13 to 1.32 mmol/L at 30 min; the concentration gradually declined to /approximately/ 1 mmol/L during the last hour of the study. No change was observed in the fractional excretion of calcium, magnesium, or phosphorus. The authors speculated that the decrease in serum magnesium was probably because of cellular uptake rather than accelerated excretion. Baseline blood pH was not significantly altered."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V6 710",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ When placed (0.1 mL) undiluted into rabbit eyes, triacetin was slightly to moderately irritating. It was not irritating when immediately irrigated for 6 min."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V6 710",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The symptoms of toxicity with triacetin are primarily weakness and ataxia. Animals near death exhibit severe dyspnea, muscular tremors, and occasional convulsions, usually 2-22 min after the injection. Also various degrees of hemorrhage in the lung have been observed. It does not appear to affect the liver, spleen, heart, or kidneys."
+        },
+        {
+            "References": "Cosmetic Ingredient Review Expert Panel; International Journal of Toxicology: 22(suppl. 2): 1-10 (2003)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In a study examining the effect of Triacetin on nitrogen balance, whole-body kinetics, and muscle and liver fractional protein synthetic rates, /investigators/ infused male Sprague-Dawley rats with isovolemic, isocaloric, and isonitrogenous parenteral diets. Thirty percent of the nonprotein energy of the diets was lipid energy, and for groups of 6, 10, and 6 animals, the lipid energy was composed of 0%, 50%, and 90% Triacetin, respectively. No difference was observed in the plasma acetate concentration of animals that received Triacetin compared to those that did not. The liver weight was significantly decreased in the animals given Triacetin. Protein concentration in the liver and rectus muscle was similar for all three groups. Cumulative nitrogen balance was positive for all animals, and no significant difference in nitrogen balance was observed on days 6 and 7. Lipid composition had very little effect on plasma leucine kinetics. Also, fractional protein synthetic rates in the rectus muscle and liver were similar for all animals."
+        },
+        {
+            "References": "Cosmetic Ingredient Review Expert Panel; International Journal of Toxicology: 22(suppl. 2): 1-10 (2003)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The acute dermal LD50 of Triacetin was determined using groups of five albino rabbits. A  dose of 5 g/kg was applied to intact and abraded skin. The animals were observed for 7 days after  dosing. None of the animals died. The dermal LD50 of Triacetin for rabbits was >5 g/kg. Additional  dermal LD50 values were >20 mL/kg for guinea pigs and >2 g/kg for rabbits."
+        },
+        {
+            "References": "Cosmetic Ingredient Review Expert Panel; International Journal of Toxicology: 22(suppl. 2): 1-10 (2003)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Groups of 10 mice were dosed with 1.0 to 3.0 cc/kg and groups of 10 rats were dosed with 2.0  to 10.0 cc/kg aqueous triacetin. The mice and rats were observed for 5 and 15 days after dosing,  respectively. Two, 2, 7, and 10 mice of the 1.0-, 2.0-, 3.0-, and 3.5-cc/kg groups and 1, 6, and 10  rats of the 2.0-, 3.0-, and 4-10-cc/kg groups died, respectively. The animals usually died within 20  min to 3 or 4 hr after injection. The authors noted marked depression, weakness, prostration, and in  some animals, labored respiration just before death. Hemorrhagic areas in the lungs and some  swelling of the convoluted tubules of the kidney were observed, along with hydropic degeneration and  necrosis of the tubules in some areas. Also, the authors stated that the liver appeared to be congested."
+        },
+        {
+            "References": "Cosmetic Ingredient Review Expert Panel; International Journal of Toxicology: 22(suppl. 2): 1-10 (2003)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ /Investigators examined/ the dermal irritation potential of triacetin in guinea pigs. Doses of 5 and 10 cc/kg were applied under an occlusive patch for 24 hr. Slight erythema was observed. Occlusive patches with 5 to 20 cc/kg were tested using three animals. Slight edema and \"1-3 erythema\" were observed. Slight skin irritation was observed in the high dose animals."
+        },
+        {
+            "References": "Cosmetic Ingredient Review Expert Panel; International Journal of Toxicology: 22(suppl. 2): 1-10 (2003)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In a study using groups of four rabbits, in which ocular tissue sampling was done, 0.1 mL  was instilled into both eyes. A control group of four rabbits was not treated. Animals were killed  after 2 or 24 hr. In the Draize test, triacetin had a total Draize score of 1 after 2 hr (0 for the  cornea and 0.7 for the conjunctiva); corneal thickness did not change. After 2 hr, the corneal  percentage of dry weight/wet weight was significantly decreased, but not after 24 hr, compared to  controls. No difference was observed for conjunctival percentage of dry weight/wet weight or Evan's blue concentration/dry weight at 2 or 24 hr."
+        },
+        {
+            "References": "PMID:1512631",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... These studies were undertaken to investigate triacetin, the water-soluble triglyceride of acetate when it is incorporated into nutritionally balanced total parenteral nutrition formulas. Male Sprague-Dawley rats (n=22) were fed an isovolemic, isocaloric and isonitrogenous diet for 7 d. The lipid energy represented 30% of the nonprotein energy with short-chain triglycerides representing 0, 50 or 90% of the lipid energy. Plasma acetate concentration was determined as well as indicators of protein metabolism: daily and cumulative nitrogen balance, whole body leucine kinetics and rectus muscle and liver fractional protein synthetic rates. No overt toxic effects were observed at any point during the study. As the proportion of short-chain triglycerides in the diet increased from 0 to 50 or 90% of the lipid energy, cumulative nitrogen balance increased 50 or 120%, respectively (p < 0.05). Whole-body and tissue leucine kinetics (determined during the last 2.5 hr of the 7-d study) were unaffected by the lipid composition of the diet. Plasma acetate concentration was not significantly different among groups."
+        },
+        {
+            "References": "PMID:1901105",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Triacetin, the water-soluble triglyceride of acetate, was infused in mongrel dogs at isocaloric (N=6) or hypercaloric (approximately 1.5 resting energy expenditure (REE), N=7) rates in mongrel dogs for 3 hr. Ketone body and glucose production rates were quantified with [(13)C2] acetoacetate and [3H]glucose, respectively. Four additional animals were infused with glycerol to serve as controls for the hypercaloric triacetin infusion. Energy expenditure was determined in the isocaloric experiments. No evidence of acute toxicity was observed during triacetin infusion at either rate. Plasma acetate concentrations increased from basal levels to approximately 1 and approximately 13 mmol/L in the isocaloric and hypercaloric experiments, respectively. Plasma lactate and pyruvate concentrations decreased dramatically after 30 min of both isocaloric and hypercaloric triacetin infusions. Glucose production rates did not increase in either group, but glucose clearance decreased significantly in both groups (p < 0.05) over the last hour of triacetin infusion. Plasma ketone body concentrations increased from 1.4 to 3.5 and 1.8 to 13.5 mumol/kg.min, respectively, during isocaloric and hypercaloric triacetin infusion. Resting energy expenditure increased from 3.0 +/- 0.3 to 4.0 +/- 0.5 kcal/kg.hr during isocaloric triacetin infusion (p < 0.05)."
+        },
+        {
+            "References": "Cosmetic Ingredient Review Expert Panel; International Journal of Toxicology: 22(suppl. 2): 1-10 (2003)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Groups of three, three, and two guinea pigs were used to determine the irritation potential of triacetin .... At the end of a 14-day observation period, erythema, slight edema, alopecia, and desquamation were observed."
+        },
+        {
+            "References": "PMID:19803785",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Patients suffering from traumatic brain injury (TBI) have decreased markers of energy metabolism, including N-acetylaspartate (NAA) and ATP. In the nervous system, NAA-derived acetate provides acetyl-CoA required for myelin lipid synthesis. Acetate can also be oxidized in mitochondria for the derivation of metabolic energy. In the current study, using the controlled cortical impact model of TBI in rats, we investigated the effects of the hydrophobic acetate precursor, glyceryltriacetate (GTA), as a method of delivering metabolizable acetate to the injured brain. We found that GTA administration significantly increased the levels of both NAA and ATP in the injured hemisphere 4 and 6 days after injury, and also resulted in significantly improved motor performance in rats 3 days after injury."
+        },
+        {
+            "References": "PMID:24898794",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Acetate supplementation reduces neuroglia activation and pro-inflammatory cytokine expression in rat models of neuroinflammation and Lyme neuroborreliosis. Because single-dose glyceryl triacetate (GTA) treatment increases brain phosphocreatine and reduces brain AMP levels, we postulate that GTA modulates adenosine metabolizing enzymes and receptors, which may be a possible mechanism to reduce neuroinflammation. To test this hypothesis, we quantified the ability of GTA to alter brain levels of ecto-5'-nucleotidase (CD73), adenosine kinase (AK), and adenosine A2A receptor using western blot analysis and CD73 activity by measuring the rate of AMP hydrolysis. Neuroinflammation was induced by continuous bacterial lipopolysaccharide (LPS) infusion in the fourth ventricle of the brain for 14 and 28 days. Three treatment strategies were employed, one and two where rats received prophylactic GTA through oral gavage with LPS infusion for 14 or 28 days. In the third treatment regimen, an interventional strategy was used where rats were subjected to 28 days of neuroinflammation, and GTA treatment was started on day 14 following the start of the LPS infusion. We found that rats subjected to neuroinflammation for 28 days had a 28% reduction in CD73 levels and a 43% increase in AK levels that was reversed with prophylactic acetate supplementation. CD73 activity in these rats was increased by 46% with the 28-day GTA treatment compared to the water-treated rats. Rats subjected to neuroinflammation for 14 days showed a 50% increase in levels of the adenosine A2A receptor, which was prevented with prophylactic acetate supplementation. Interventional GTA therapy, beginning on day 14 following the induction of neuroinflammation, resulted in a 67% increase in CD73 levels and a 155% increase in adenosine A2A receptor levels. These results support the hypothesis that acetate supplementation can modulate brain CD73, AK and adenosine A2A receptor levels, and possibly influence purinergic signaling."
+        },
+        {
+            "References": "PMID:24574778",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ /The objective of this study was/ to examine the effect of intra-gastric triacetin on both upper gastrointestinal motility and proximal gastric tone in conscious dogs. Three beagle dogs under sedation were surgically implanted with gastrocutaneous fistula in the gastric body and force transducers in the gastric antrum and duodenum. Beginning at week-2 after insertion, the animals were either fasted for 24 hr or fed a liquid meal 2-3 hr before the experiment. With the animals fully conscious, a polyethylene bag was inserted into the proximal stomach through the gastrocutaneous fistula, followed by 15 min of air inflation (minimal distending pressure of +2 mm Hg) and then 20 mL of a low-, mid- or high-concentration triacetin solution (0.5%, 1.0% and 2.0%) or warm water (vehicle control). The proximal stomach receptive volume and gastric antral and duodenal contractions were measured over 10 min. The experiment was repeated twice per week over several months, with each animal receiving at least one infusion of the various triacetin solutions and the vehicle at different times. Intergroup differences were assessed by ANOVA and Bonferroni-Dunn post-hoc testing. Intra-gastric infusion of mid- and high concentration triacetin induced an increase in the proximal stomach receptive volume, and the average increase induced by the high-concentration at 0-4 min after infusion was significantly greater than that induced by the vehicle control (62.4 +/- 9.8 vs 18.4 +/- 4.7, P < 0.01). The mid- and high-concentration triacetin also produced a temporary inhibition of the gastric antral contractions at 2 min after infusions; however, only the fasted group showed triacetin-induced antral contractile inhibition that was significantly greater than that in the vehicle control group (P < 0.05). In addition, only the fasted group showed a high-concentration triacetin-induced increase in duodenal contractions at 9-10 min that was significantly different from that in the vehicle control group (P < 0.05). Intra-gastric infusion of 1.0%-2.0% triacetin delays gastric emptying by increasing proximal stomach receptive volume, temporarily inhibiting gastric antral contractions and facilitating duodenal contractions."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V6 710",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In the rat, inhalation of 250 ppm triacetin (6 hr/day, 5 days/wk for 13 weeks) or saturated triacetin vapor (6 hr/day for 5 days) produced no clinical signs of toxicity or histopathological effects."
+        },
+        {
+            "References": "Sheftel, V.O.; Indirect Food Additives and Polymers. Migration and Toxicology. Lewis Publishers, Boca Raton, FL. 2000., p. 284",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In 3-month feeding studies, growing rats were found to tolerate up to 20% triacetin in the diet, but diets containing 60% triacetin caused marked retardation of body weight gain and considerable increase in deaths."
+        },
+        {
+            "References": "Cosmetic Ingredient Review Expert Panel; International Journal of Toxicology: 22(suppl. 2): 1-10 (2003)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Groups of eight male Sprague-Dawley rats that were fed diets containing 30% triacetin (and 30% glycerin or propylene glycol) as a starch substitute for 3 to 4 or 12 to 13 weeks, growth was relatively poor. Liver enlargement was observed in all animals."
+        },
+        {
+            "References": "Cosmetic Ingredient Review Expert Panel; International Journal of Toxicology: 22(suppl. 2): 1-10 (2003)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ The metabolic effect of Triacetin on intestinal mucosal cells and plasma substrates in male Sprague-Dawley rats was assessed /in a sub-chronic study/. Rats were fed for 30 days a diet in which 28.5% of the total calories were supplied by Triacetin. No overt signs of toxicity were observed."
+        },
+        {
+            "References": "Cosmetic Ingredient Review Expert Panel; International Journal of Toxicology: 22(suppl. 2): 1-10 (2003)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ /Investigators/ exposed a group of three rats to 250 ppm triacetin /by inhalation/ for 6 hr per day, 5 days per week, for 64 days. The no-observed-effect level (NOEL) was 250 ppm. Three rats were also exposed to 8271 ppm triacetin for 6 hr per day for 64 days. The NOEL was 8271 ppm."
+        },
+        {
+            "References": "PMID:19685155",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Wild-type and tremor rat pups were given glyceryl triacetate (GTA) orally twice daily, initially at a dose of 4.2 g/kg from postnatal days 7 through 14, and at 5.8 g/kg from day 15 through 23, and thereafter in food (7.5%) and water (5%). At the end of the trial (approximately 90 to 120 days) sera and tissues from rats were analyzed for changes in blood chemistry and histopathology. In the high-dose animal studies, no significant differences in the mean blood chemistry values occurred between treated and untreated groups, and no lesions indicating toxicity were detectable in any of the tissues examined. Lack of GTA toxicity in high-dose animal studies, suggests that higher, effective dose studies in human Canavan disease patients are warranted."
+        },
+        {
+            "References": "PMID:21651431",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Aliphatic carbonyl compounds are used as ingredients in cigarette tobacco or cigarette filters. A battery of tests was used to compare toxicity of mainstream smoke from experimental cigarettes containing 15 aliphatic carbonyl compounds that were added individually to experimental cigarettes at three different levels. Smoke from experimental and control cigarettes were evaluated using analytical chemistry, in vitro cytotoxicity (neutral red uptake), and mutagenicity (five bacterial strains) studies. For one compound, glycerol triacetate (GTA), two 90-day inhalation studies were also performed, using different inclusion levels into either tobacco or cigarette filter. Several smoke constituent concentrations were reduced with the highest inclusion level of GTA in tobacco; incorporation of GTA into the filter, and the other compounds into tobacco, produced effectively no changes. Cytotoxicity was reduced by the highest inclusion of GTA into tobacco for both gas-vapor and particulate phases of smoke; incorporation of GTA into the filter, and the other compounds into tobacco, showed no changes. Mutagenicity was reduced by the middle and high inclusion levels of GTA into tobacco (TA1537 strain with S9); incorporation of GTA into the filter, and the other compounds into tobacco, showed no changes. Inclusion of GTA in tobacco at 100,000 ppm reduced the biological effects of the smoke in the various test systems reported in this study, although inclusion into the filter did not appear to have any major effect on the endpoints studied ..."
+        },
+        {
+            "References": "PMID:23321384",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Acetate supplementation in rats increases plasma acetate and brain acetyl-CoA levels. Although acetate is used as a marker to study glial energy metabolism, the effect that acetate supplementation has on normal brain energy stores has not been quantified. To determine the effect(s) that an increase in acetyl-CoA levels has on brain energy metabolism, we measured brain nucleotide, phosphagen and glycogen levels, and quantified cardiolipin content and mitochondrial number in rats subjected to acetate supplementation. Acetate supplementation was induced with glyceryl triacetate (GTA) by oral gavage (6 g/kg body weight). Rats used for biochemical analysis were euthanized using head-focused microwave irradiation at 2, and 4 hr following treatment to immediately stop metabolism. We found that acetate did not alter brain ATP, ADP, NAD, GTP levels, or the energy charge ratio [ECR, (ATP+1/2ADP)/(ATP+ADP+AMP)] when compared to controls. However, after 4 hr of treatment brain phosphocreatine levels were significantly elevated with a concomitant reduction in AMP levels with no change in glycogen levels. In parallel studies where rats were treated with GTA for 28 days, we found that acetate did not alter brain glycogen and mitochondrial biogenesis as determined by measuring brain cardiolipin content, the fatty acid composition of cardiolipin and using quantitative ultra-structural analysis to determine mitochondrial density/unit area of cytoplasm in hippocampal CA3 neurons. Collectively, these data suggest that an increase in brain acetyl-CoA levels by acetate supplementation does increase brain energy stores however it has no effect on brain glycogen and neuronal mitochondrial biogenesis."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Triacetin (102-76-1) (2000 CD-ROM edition). Available from, as of February 18, 2005: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Neurotoxic effects of triacetin include tremors and convulsions."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Triacetin (102-76-1) (2000 CD-ROM edition). Available from, as of February 18, 2005: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ /Negative in the Ames test using Salmonella typhimurium strains TA98, TA100, TA1535, TA1537 at concentrations of 50, 150, 500, 1500, 5000 ug/plate with and without metabolic activation./"
+        },
+        {
+            "References": "Cosmetic Ingredient Review Expert Panel; International Journal of Toxicology: 22(suppl. 2): 1-10 (2003)",
+            "Value": "/GENOTOXICITY/ The mutagenic potential of Triacetin was determined using adult Drosophila melanogaster. A  dose of 0.2 to 0.3 mg Triacetin had a spontaneous mutation rate of approximately one mutation per 750 chromosomes."
+        },
+        {
+            "References": "Cosmetic Ingredient Review Expert Panel; International Journal of Toxicology: 22(suppl. 2): 1-10 (2003)",
+            "Value": "/GENOTOXICITY/ The mutagenic potential of Triacetin was evaluated in a suspension test with and without metabolic activation. Test concentrations were 0.0013%, 0.00065%, and 0.000325% with S. typhimurium strains TA1535, TA1537, and TA1538 and 1.25%, 2.5%, and 5.0% with Saccharomyces cerevisiae strain D4. DMSO was used as the solvent. Appropriate negative and positive controls were used and gave expected results. Triacetin was not mutagenic in the suspension tests with or without metabolic activation."
+        },
+        {
+            "References": "Fiume MZ; Int J Toxicol 22 (Suppl 2): 1-10 (2003)",
+            "Value": "/GENOTOXICITY/ ... Triacetin, with and without metabolic activation, was not mutagenic in the Ames assay or a suspension test. It was also not mutagenic in an in vivo assay using Drosophila."
+        },
+        {
+            "References": "Cosmetic Ingredient Review Expert Panel; International Journal of Toxicology: 22(suppl. 2): 1-10 (2003)",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ In an in vitro study, the penetration of Triacetin into the corium of human skin was determined by topical application of Triacetin to the epidermis (which was later separated from the corium), and then measuring the antimicrobial activity. Using leg skin, a plastic cylinder was attached to the epidermis, and 0.01 cc Triacetin was applied for 20 to 24 hr. The skin was then washed and the epidermis removed. Six-millimeter punches of the corium were taken and implanted on the culture medium, with the epidermal side in contact with the medium. When inhibition of growth around the corium occurred, the radius of inhibition was measured. There was no average inhibition of positive responses with Triacetin cream. The researchers speculated that an antimicrobial agent may penetrate into the corium and not diffuse into the surrounding medium when assayed, and that this might give a false-negative report of its ability to penetrate the epidermis."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V6 710",
+            "Value": "/OTHER TOXICITY INFORMATION/ Nonaqueous drug vehicles containing triacetin caused local tissue irritation. However, it was neither irritating nor sensitizing when absorbed through guinea pig skin."
+        },
+        {
+            "References": "Cosmetic Ingredient Review Expert Panel; International Journal of Toxicology: 22(suppl. 2): 1-10 (2003)",
+            "Value": "/OTHER TOXICITY INFORMATION/ Groups of eight Long-Evans rats were given a continuous nasogastric infusion 462 kJ/kg of a diet containing either 16% or 32% triacetin. No adverse effects, such as diarrhea or change in normal activity, were observed."
+        },
+        {
+            "References": "Fiume MZ; Int J Toxicol 22 (Suppl 2): 1-10 (2003)",
+            "Value": "/OTHER TOXICITY INFORMATION/ ... Triacetin was, at most, slightly irritating to guinea pig skin. However, in one study, it caused erythema, slight edema, alopecia, and desquamation. Triacetin was not sensitizing in guinea pigs; however, test concentrations were not stated. Triacetin caused some irritation in rabbit eyes."
+        },
+        {
+            "References": "Fiume MZ; Int J Toxicol 22 (Suppl 2): 1-10 (2003)",
+            "Value": "/OTHER TOXICITY INFORMATION/ ... In short-term feeding studies, Triacetin affected weight gain. Triacetin was not toxic in short-term studies when administered via inhalation or parenterally or in subchronic studies when administered via feed or inhalation."
+        },
+        {
+            "References": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-203",
+            "Value": "/OTHER TOXICITY INFORMATION/ Laboratory rats have tolerated diets consisting of 50% triacetin. If hydrolized... /systemic/ acidosis is a possible consequence."
+        },
+        {
+            "References": "Cosmetic Ingredient Review Expert Panel; International Journal of Toxicology: 22(suppl. 2): 1-10 (2003)",
+            "Value": "/OTHER TOXICITY INFORMATION/ Diacetin was slightly less toxic than Triacetin, and the researchers concluded that the order of toxicity of the acetins appears to increase with the degree of acetylation."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of June 3, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of triacetin can be estimated to be 40(SRC). According to a classification scheme(2), this estimated Koc value suggests that triacetin is expected to have very high mobility in soil."
+        }
+    ]
+}

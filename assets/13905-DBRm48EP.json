@@ -1,0 +1,75 @@
+{
+    "_id": {
+        "$oid": "66927120303528b49832d805"
+    },
+    "CID": {
+        "$numberInt": "13905"
+    },
+    "Name": "Simetryn",
+    "IUPACName": "2-N,4-N-diethyl-6-methylsulfanyl-1,3,5-triazine-2,4-diamine",
+    "CanonicalSMILES": "CCNC1=NC(=NC(=N1)SC)NCC",
+    "Synonyms": [
+        "Simetryn",
+        "1014-70-6",
+        "GY-Bon",
+        "Symetryne",
+        "SIMETRYNE",
+        "Cymetrin",
+        "2,4-Bis(ethylamino)-6-methylthio-1,3,5-triazine",
+        "\"1,3,5-Triazine-2,4-diamine",
+        "N,N-diethyl-6-(methylthio)-\"",
+        "2,4-Bis(ethylamino)-6-(methylthio)-s-triazine",
+        "\"N,N-Diethyl-6-(methylthio)-1,3,5-triazine-2,4-diamine\"",
+        "2-Methylthio-4,6-bis(ethylamino)-s-triazine",
+        "2,4-Di(ethylamino)-6-methylthio-1,3,5-triazine",
+        "NSC 163051",
+        "G 32911",
+        "s-Triazine",
+        "2,4-bis(ethylamino)-6-(methylthio)-"
+    ],
+    "IsomericSMILES": "CCNC1=NC(=NC(=N1)SC)NCC",
+    "INCHI": "InChI=1S/C8H15N5S/c1-4-9-6-11-7(10-5-2)13-8(12-6)14-3/h4-5H2,1-3H3,(H2,9,10,11,12,13)",
+    "INCHIKEY": "MGLWZSOBALDPEK-UHFFFAOYSA-N",
+    "Formula": "C8H15N5S",
+    "MolecularWeight": {
+        "$numberDouble": "213.31"
+    },
+    "Description": "Simetryn is a diamino-1,3,5-triazine that is N,N'-diethyl-1,3,5-triazine-2,4-diamine substituted by a methylthio group at position 6. It has a role as a herbicide. It is a diamino-1,3,5-triazine and a methylthio-1,3,5-triazine.",
+    "XlogP": {
+        "$numberDouble": "2.5"
+    },
+    "Complexity": {
+        "$numberInt": "143"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The herbicide dimethametryn has been found to exhibit higher phytotoxicity to rice cultivars and barnyardgrass compared to simetryn. Their difference in electron transport inhibition during photosynthesis was identified as a factor influencing their phytotoxic effects, which varied between plant species. While barnyardgrass and the rice cultivar Choseng Tongil showed little difference in growth response between simetryn and dimethametryn, the Nihonbare rice cultivar exhibited greater tolerance to simetryn but relatively low tolerance to dimethametryn. In an experiment, two rice cultivars, Nihonbare and Choseng Tongil, and barnyardgrass were exposed to simetryn or dimethametryn at a concentration of 10-5M, chosen based on previous observations of differential phytotoxicity. The absorption, translocation, and metabolism of 14C-labeled simetryn and dimethametryn were compared to elucidate the mechanism underlying the herbicides' differential phytotoxic activity.",
+            "reference": "\u677e\u672c\u5b8f, \u30c1\u30ca\u30a6\u30a9\u30f3\u30bd\u30f3\u30d0\u30c3\u30c8, & \u77f3\u585a\u7693\u9020. (1987). Mechanism of differential phytotoxicity of simetryn and dimethametryn on rice cultivars and barnyardgrass. \u96d1\u8349\u7814\u7a76, 32(2), 129-135.",
+            "method": {
+                "Test Plant": "Two rice cultivars (Oryza sativa L. cvs. Nihonbare and Choseng Tongil) and barnyardgrass (Echinochloa oryzicola Vasing.)",
+                "Apply Location": "Root application",
+                "Plant Grown Condition": "Details on how the plants were grown were not provided.",
+                "Chemical Preparation": "14C-labeled simetryn and dimethametryn were used with specific activities adjusted to 1.00 mCi/mmole by diluting with non-radiolabeled herbicides. 10^-5 M solutions of simetryn or dimethametryn with 2.00 mCi/mmole specific activity were prepared.",
+                "Pesticide Application Details for the Plant": "Roots were soaked for up to 24 hours in nutrient solutions containing 10^-5 M simetryn or dimethametryn. This concentration was chosen based on previous observation of differential phytotoxicity between the two herbicides.",
+                "Other Information": "After treatment, plants were washed, separated into roots and shoots, oven-dried,"
+            },
+            "result": "[{\"Plant Hours after application\": 50.35, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 0.69}, {\"Plant Hours after application\": 59.39, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 1.47}, {\"Plant Hours after application\": 69.94, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 2.67}, {\"Plant Hours after application\": 74.17, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 3.86}, {\"Plant Hours after application\": 78.09, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 7.54}, {\"Plant Hours after application\": 45.22, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 0.53}, {\"Plant Hours after application\": 49.14, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 0.96}, {\"Plant Hours after application\": 61.2, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 1.56}, {\"Plant Hours after application\": 63.31, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 2.15}, {\"Plant Hours after application\": 68.14, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 4.6}, {\"Plant Hours after application\": 37.98, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 0.55}, {\"Plant Hours after application\": 55.47, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 1.0}, {\"Plant Hours after application\": 63.31, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 1.41}, {\"Plant Hours after application\": 70.55, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 2.09}, {\"Plant Hours after application\": 79.59, \"Absorption (x 1000000 dpm/g) Translocation from roots to shoots (%) Shoots (x 100000 dpm/g)\": 6.16}]"
+        },
+        {
+            "content": "The study investigated the physiological properties of various rice varieties in response to the herbicide simetryne under changing temperatures and its relation to phytotoxicity. Different rice varieties, including the Japanese type ('Nipponbare' and 'Bluebell'), the Indian type ('IR-8' and 'CH-45'), and their hybrid varieties ('Shinsen' and 'T\u014ditsu'), were tested. It was found that the Japanese rice varieties showed resistance to simetryne, while the Indian type and many hybrid varieties were susceptible. However, under high-temperature conditions, even the Japanese rice varieties exhibited phytotoxicity, suggesting a complex mechanism. The study assessed the impact of temperature on the degree of phytotoxicity of simetryne in both resistant and susceptible varieties. The results showed that while the resistant variety ('Nipponbare') exhibited significant growth inhibition at high concentrations, recovery from phytotoxicity was observed even at low concentrations. The high-temperature conditions induced stronger and faster phytotoxic effects compared to low-temperature conditions in both resistant and susceptible varieties. Additionally, the study examined the absorption and translocation of simetryne in different rice varieties, revealing variations in absorption rates among varieties and higher absorption at higher temperatures. Overall, the study demonstrated that different rice varieties exhibit varying responses to simetryne based on their physiological characteristics, with Japanese varieties showing higher sensitivity to temperature changes, leading to rapid increases in internal concentration and subsequent phytotoxicity.",
+            "reference": "\u77f3\u585a\u7693\u9020, \u677e\u672c\u5b8f, & \u89d2\u672c\u82b3\u6a39. (1984). Effect of temperature on absorption and translocation of simetryn in rice cultivars. \u96d1\u8349\u7814\u7a76, 29(2), 116-122.",
+            "method": {
+                "Test Plant": "Two cultivars each of japonica rice (Nihonbare, Bluebell), indica rice (IR-8, CH-45), and their hybrids (Yushin, Tongil)",
+                "Apply Location": "Root application",
+                "Plant Grown Condition": "Seeds were germinated at 25\u00b0C for 2 days, then transferred to plastic trays and grown to the 1-leaf stage. Seedlings were transplanted to 1L plastic pots containing Kasugai's nutrient solution which was renewed every 3 days. Plants were grown to the 3-leaf stage in a growth chamber at 25\u00b0C day/20\u00b0C night, 60% relative humidity, 22 klux light intensity with 13-hour photoperiods.",
+                "Chemical Preparation": "14C-simetryn solution with 97% radiochemical purity and specific activity of 3.62 mCi/mM was used at 1.74 x 10-7 M concentration.",
+                "Pesticide Application Details for the Plant": "Intact roots of the 3-leaf stage plants were placed in the 14C-simetryn solution at either 32\u00b0C or 25\u00b0C.",
+                "Other Information": "Plants were removed from the solution at 1, 3, 6 and 24 hours after treatment."
+            },
+            "result": "[{\"Temperature\": \"High\", \"Plant\": \"Nihonbare\", \"Translocation to shoots (% of absorbed,1h)\": 26.9, \"Translocation to shoots (% of absorbed,3h)\": 45.3, \"Translocation to shoots (% of absorbed,6h)\": 53.4, \"Translocation to shoots (% of absorbed,24h)\": 74.5}, {\"Temperature\": \"High\", \"Plant\": \"Bluebell\", \"Translocation to shoots (% of absorbed,1h)\": 29.0, \"Translocation to shoots (% of absorbed,3h)\": 58.0, \"Translocation to shoots (% of absorbed,6h)\": 70.3, \"Translocation to shoots (% of absorbed,24h)\": 81.1}, {\"Temperature\": \"High\", \"Plant\": \"Yushin\", \"Translocation to shoots (% of absorbed,1h)\": 14.5, \"Translocation to shoots (% of absorbed,3h)\": 30.0, \"Translocation to shoots (% of absorbed,6h)\": 46.4, \"Translocation to shoots (% of absorbed,24h)\": 66.4}, {\"Temperature\": \"High\", \"Plant\": \"Tongil\", \"Translocation to shoots (% of absorbed,1h)\": 16.6, \"Translocation to shoots (% of absorbed,3h)\": 33.7, \"Translocation to shoots (% of absorbed,6h)\": 45.5, \"Translocation to shoots (% of absorbed,24h)\": 65.7}, {\"Temperature\": \"High\", \"Plant\": \"IR-8\", \"Translocation to shoots (% of absorbed,1h)\": 18.7, \"Translocation to shoots (% of absorbed,3h)\": 32.6, \"Translocation to shoots (% of absorbed,6h)\": 45.3, \"Translocation to shoots (% of absorbed,24h)\": 71.4}, {\"Temperature\": \"High\", \"Plant\": \"CH-45\", \"Translocation to shoots (% of absorbed,1h)\": 27.1, \"Translocation to shoots (% of absorbed,3h)\": 43.6, \"Translocation to shoots (% of absorbed,6h)\": 55.1, \"Translocation to shoots (% of absorbed,24h)\": 69.4}, {\"Temperature\": \"Low\", \"Plant\": \"Nihonbare\", \"Translocation to shoots (% of absorbed,1h)\": 16.6, \"Translocation to shoots (% of absorbed,3h)\": 33.5, \"Translocation to shoots (% of absorbed,6h)\": 51.7, \"Translocation to shoots (% of absorbed,24h)\": 72.7}, {\"Temperature\": \"Low\", \"Plant\": \"Bluebell\", \"Translocation to shoots (% of absorbed,1h)\": 14.5, \"Translocation to shoots (% of absorbed,3h)\": 37.8, \"Translocation to shoots (% of absorbed,6h)\": 51.9, \"Translocation to shoots (% of absorbed,24h)\": 71.4}, {\"Temperature\": \"Low\", \"Plant\": \"Yushin\", \"Translocation to shoots (% of absorbed,1h)\": 13.7, \"Translocation to shoots (% of absorbed,3h)\": 31.3, \"Translocation to shoots (% of absorbed,6h)\": 41.4, \"Translocation to shoots (% of absorbed,24h)\": 63.9}, {\"Temperature\": \"Low\", \"Plant\": \"Tongil\", \"Translocation to shoots (% of absorbed,1h)\": 13.1, \"Translocation to shoots (% of absorbed,3h)\": 27.6, \"Translocation to shoots (% of absorbed,6h)\": 43.6, \"Translocation to shoots (% of absorbed,24h)\": 64.5}, {\"Temperature\": \"Low\", \"Plant\": \"IR-8\", \"Translocation to shoots (% of absorbed,1h)\": 19.5, \"Translocation to shoots (% of absorbed,3h)\": 36.0, \"Translocation to shoots (% of absorbed,6h)\": 49.7, \"Translocation to shoots (% of absorbed,24h)\": 62.1}, {\"Temperature\": \"Low\", \"Plant\": \"CH-45\", \"Translocation to shoots (% of absorbed,1h)\": 23.1, \"Translocation to shoots (% of absorbed,3h)\": 44.8, \"Translocation to shoots (% of absorbed,6h)\": 51.7, \"Translocation to shoots (% of absorbed,24h)\": 71.4}]"
+        }
+    ]
+}

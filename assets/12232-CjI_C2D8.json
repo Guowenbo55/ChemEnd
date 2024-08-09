@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "6682e8fec4e5dba5ffba2861"
+    },
+    "CID": {
+        "$numberInt": "12232"
+    },
+    "Name": "Dimethyl Disulfide",
+    "IUPACName": "(methyldisulfanyl)methane",
+    "CanonicalSMILES": "CSSC",
+    "Synonyms": [
+        "Dimethyl disulfide",
+        "624-92-0",
+        "METHYL DISULFIDE",
+        "Dimethyldisulfide",
+        "Dimethyl disulphide",
+        "DMDS",
+        "Disulfide",
+        "dimethyl",
+        "2,3-Dithiabutane",
+        "(Methyldisulfanyl)methane",
+        "Methyldisulfide",
+        "Methyldithiomethane",
+        "(Methyldithio)methane",
+        "Sulfa-hitech",
+        "dimethyldisulphide",
+        "FEMA No. 3536"
+    ],
+    "IsomericSMILES": "CSSC",
+    "INCHI": "InChI=1S/C2H6S2/c1-3-4-2/h1-2H3",
+    "INCHIKEY": "WQOXQRCZOLPYPM-UHFFFAOYSA-N",
+    "Formula": "C2H6S2",
+    "MolecularWeight": {
+        "$numberDouble": "94.2"
+    },
+    "Description": "Dimethyl disulfide is an organic disulfide that is methane in which one of the hydrogens has been replaced by a methyldisulfanyl group. It has a role as a xenobiotic metabolite.",
+    "XlogP": {
+        "$numberDouble": "1.8"
+    },
+    "Complexity": {
+        "$numberInt": "6"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Puxbaum H, Konig G; Atmos Environ 31: 291-94 (1997) (2) Arnault I et al; Int J Environ Anal Chem 84: 75-82 (2004)",
+            "Value": "Volatile organic compounds emitted from Allium ursinum, planted as ground cover, contained dimethyl disulfide; an average emission rate for this compound was measured as 0.239 ug/g-hr (per unit of ground area 14.6 ug/sq m-hr)(1)."
+        },
+        {
+            "References": "(1) Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Cymene. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Nov 6, 2013: https://www.ars-grin.gov/duke/",
+            "Value": "Plants containing dimethyldusulfide(1).",
+            "Table": "[{'Genus species': 'Brassica oleracea var gongylodes', 'Common name': 'Kohlrabi', 'Part': 'stem', 'Concn (ppm)': 11.21}, {'Genus species': 'Allium sativum var sativum', 'Common name': 'Garlic', 'Part': 'bulb', 'Concn (ppm)': 2.5}, {'Genus species': 'Allium ampeloprasum', 'Common name': 'Elephant garlic', 'Part': 'plant', 'Concn (ppm)': nan}, {'Genus species': 'Allium cepa', 'Common name': 'Shalot', 'Part': 'bulb', 'Concn (ppm)': nan}, {'Genus species': 'Brassica oleracea var botrytis l var botrytis', 'Common name': 'Cauliflower', 'Part': 'plant', 'Concn (ppm)': nan}]"
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Gossett RW et al; Marine Pollut Bull 14: 387-92 (1983) (2) Chung HY; J Agric Food Chem 47: 2280-7 (1999)",
+            "Value": "Concentrations of dimethyl disulfide were below the detection limit of 0.3 ug/L in various aquatic species (California halibut (Paralichthys californicus), scorpion fish (Scorpaena guttata), Dover sole (Microstomus pacificus), red pointer crap (Mursia gaudichaudii), ridgeback prawn (Sicyonia ingentis)). Animals were collected near a discharge from a Los Angeles County treatment plant where the effluent contained an average dimethyl disulfide concentration of 45 ug/L)(1). Dimethyl disulfide was detected in the leg, body and carapace of the Asian crab, Charybdis feriatus, at an average of 5.6, 1.6 and 11.1 ug/kg, respectively(2)."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Gossett RW et al; Marine Pollut Bull 14: 387-92 (1983)",
+            "Value": "SEDIMENT: Concentrations of dimethyl disulfide in sediment samples collected near a discharge from a Los Angeles County treatment plant (effluent containing an average dimethyl disulfide concentration of 45 ug/L) were below the detection limit of 0.5 ug/kg(1)."
+        },
+        {
+            "References": "Verschueren, K. Handbook of Environmental Data on Organic Chemicals. Volumes 1-2. 4th ed. John Wiley & Sons. New York, NY. 2001, p. 912",
+            "Value": "SOIL: Biogenic dimethyl disulfide emissions from soils in USA: 0.002 g sulfur/cu m/yr (Wadesville, IN, Alfisol, Sept-Oct 1977); 0.0014 g sulfur/cu m/yr (Philo, OH, Inceptisol, Oct 1977); 0.0001 g sulfur/cu m/yr (Dismal Swamp, NC, Histosol, Oct 1977); 0.0039 g sulfur/cu m/yr (Cox's Landing, NC-freshly clipped marsh, Oct 1977)"
+        }
+    ]
+}

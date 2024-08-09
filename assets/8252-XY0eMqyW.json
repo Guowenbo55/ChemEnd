@@ -1,0 +1,154 @@
+{
+    "_id": {
+        "$oid": "6682e8b3c4e5dba5ffba26e8"
+    },
+    "CID": {
+        "$numberInt": "8252"
+    },
+    "Name": "Propylene",
+    "IUPACName": "prop-1-ene",
+    "CanonicalSMILES": "CC=C",
+    "Synonyms": [
+        "PROPYLENE",
+        "Propene",
+        "prop-1-ene",
+        "1-Propene",
+        "Methylethylene",
+        "Methylethene",
+        "1-Propylene",
+        "115-07-1",
+        "Propene",
+        "pure",
+        "NCI-C50077",
+        "CCRIS 1356",
+        "HSDB 175",
+        "UNII-AUG1H506LY",
+        "EINECS 204-062-1",
+        "AUG1H506LY"
+    ],
+    "IsomericSMILES": "CC=C",
+    "INCHI": "InChI=1S/C3H6/c1-3-2/h3H,1H2,2H3",
+    "INCHIKEY": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+    "Formula": "C3H6",
+    "MolecularWeight": {
+        "$numberDouble": "42.08"
+    },
+    "Description": "Propene is an alkene that is propane with a double bond at position 1. It has a role as a refrigerant and a xenobiotic. It is an alkene and a gas molecular entity.",
+    "XlogP": {
+        "$numberDouble": "1.4"
+    },
+    "Complexity": {
+        "$numberInt": "7"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Isidorov VA et al; Atmos Environ 19: 1-8 (1985) (2) IARC; Some Monomers, Plastics and Synthetic Elastomers, and Acrolein. IARC Monographs on the Evaluation of the Carcinogenic Risk of Chemicals to Humans. World Health Org., Inter Agency Res Cancer. 19: 213-17 (1979) (3) US Dept Agric; US Dept Agric, Agric Res Service. 1992-2016. Dr. Duke's Phytochemical and Ethnobotanical Databases. Propene. Available from, as of Jul 6, 2017: https://phytochem.nal.usda.gov/phytochem/search",
+            "Value": "Propylene was qualitatively detected in emissions from European fir(1), Scotch pine(1), and the gaseous metabolites released by cotton seeds(2). The compound was reported present in garlic bulb (Allium sativum var. sativum; Liliaceae) at a low concentration of 0.01 to a high concentration of 6.0 ppm(3)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 6 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Jul 6, 2017: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 7 was calculated in fish for propylene(SRC), using a log Kow of 1.77(1) and a regression-derived equation(2). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Hou CT et al; Appl Environ Microb 46: 171-7 (1983) (2) Perry JJ; The Role of Co-oxidation and Commensalism in the Biodegradation of Recalcitrant Molecules (NTIS PB-80-28-034) U.S. Army Research Office (1980) (3) Hou CT et al; Appl Environ Microb 38: 127-34 (1979) (4) Patel RN et al; Div Ind Microb 23: 187-205 (1982)",
+            "Value": "PURE CULTURE: Sixteen cell-free cultures of bacteria (Mycobacterium; Brevibacterium, Pseudomonas, Nocardia, Arthrobacter, Corynebacterium, Actinomyces and Acinetobacter spp) acclimated to propane isolated from lake water from Warinanaco Park, Linden NJ and from lake and soil samples from Bayway Refinery, Linden, NJ were isolated. The rate of epoxidation to 1,2-epoxypropane ranged from 0.3 to 6.10 umol/hr per mg of protein. Using Brevibacterium, propylene oxide was formed at a rate of 0.52 umol/10 min-mg protein(1). Propylene was utilized by Mycobacterium convolution acclimated to propane with 56 uL O2 taken up/mg cells-hour in the Warburg test, resulting in production of acrylic acid. However, the latter did cause inhibition of growth(2). Cell-free cultures of Methylosinaus trichosporium and Methylococcus capsulatus, isolated from lake water from Warinanaco Park, Linden NJ and from lake and soil samples from Bayway Refinery, Linden, NJ and acclimated to methane, were found to convert propylene to propylene oxide at a rate ranging from 2.5 to 5.5 umol/hr per mg of protein(3,4)."
+        },
+        {
+            "References": "USEPA/ECAO; Summary Health Assessment Document For Propylene (Draft) p.2-12 (1986) EPA Contract No. 68-02-4030",
+            "Value": "... PL-1 (an axenic culture isolated from marine soil) in the presence or absence of arsenite (an inhibitor of pyruvate metabolism) metabolised propylene ... into two products, the first containing one carbon atom and the second containing two. Isocitrate lyase activity and fatty acid profile determination further indicated that ... PL-1 oxidized propylene via attack at the double bond, resulting in cleavage of the molecule."
+        },
+        {
+            "References": "USEPA/ECAO; Summary Health Assessment Document For Propylene (Draft) p.2-12 (1986) EPA Contract No. 68-02-4030",
+            "Value": "Radiolabeled experiments with (14)C propylene and (14)CO2 in PL-1 (an axenic culture isolated from marine soil) in the presence or absence of arsenite (an inhibitor of pyruvate metabolism) indicated that propylene was not metabolized into pyruvate, but rather was cleaved into two products, the first containing one carbon atom and the second containing two. Isocitrate lyase activity and fatty acid profile determination further indicated that ... PL-1 oxidized propylene via attack at the double bond, resulting in cleavage of the molecule."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 6",
+            "Value": "log Kow = 1.77"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Smith AM, et al; Biochemistry 22: 1645-50 (1983) as cited in USEPA/ECAO; Summary Health Assessment Document For Propylene (Draft) p.2-13 (1986) EPA Contract No 68-02-4030",
+            "Value": "In an in vitro study of the mechanism of action of ethylene as a plant growth inhibitor, the effects of ethylene and some of its analogs, including propylene, on the oxidation of indole-3-acetic acid were examined. Ethylene and its analogs inhibited the oxidation of indole-3-acetic acid by peroxidase under conditions where the iron complex (compound III, an oxy-ferrous complex of peroxidase) shuttle was activated. Inhibition occurred only in the presence of the superoxide anion radical 02(-). Spectral and kinetic data indicated that ethylene and its analogs enhanced the rate of reaction of 02(-) with peroxidase; ie, the iron complex (compound III) shuttle, resulting in the formation of compound III. Propylene was a less effective inhibitor than ethylene."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Threshold Limit Values for Chemical Substances and Physical Agents and Biological Exposure Indices. ACGIH, Cincinnati, OH 2014",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ...Exposure to 6 ppm propylene for 6 hours produced 160 ng propylene oxide per gram of blood in rats... 600 ppm propylene for 8 hours produced 740 ng propylene oxide per gram of blood. Both exposure concentrations reduced nasal and liver cytochrome P450 levels (to differing degrees)."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 p.80",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  A concentration of 40% produced light anesthesia in rats, with no toxic symptoms within 6 hr, and an exposure to 55% for 3 to 6 min, 65% for 2 to 5 min, and 70% for 1 to 3 min resulted in deep anesthesia with no CNS signs or symptoms. However ... propylene was found to be a cardiac sensitizer in the dog. /Animal experiments with/ cats exhibit no toxic signs when anesthesia was induced with propylene concentration of 20 to 31%, some subtle effects from 40 to 50%, blood pressure decrease and rapid pulse at 70%, and the unusual ventricular ectopic beat from 50 to 80%."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Inhalation exposure of Sprague-Dawley rats at concentrations of propylene up to 65000 ppm for 4 hours showed no evidence of hepatotoxicity..."
+        },
+        {
+            "References": "Sheftel, V.O.; Indirect Food Additives and Polymers. Migration and Toxicology. Lewis Publishers, Boca Raton, FL. 2000., p. 137",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Mice were administered a dose of 3.75 mg/kg bw for 4 months. The treatment caused no changes in the behavior of animals, body weight gain, or oxygen consumption. Gross pathology examination failed to reveal alterations in the relative weights and histology of the visceral organs."
+        },
+        {
+            "References": "PMID:3389657",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Propylene was administered by inhalation, 7 hours daily, 5 days weekly, at a concentration of 5000, 1000, 200 and 0 ppm, to Sprague-Dawley rats and Swiss mice. Groups of 120 male and 120 female rats (high-dose and controls) or 100 male and 100 female rats (mid- and low-dose) were treated for 104 weeks, and groups of 100 male and 100 female mice (each dose and controls) for 78 weeks. The animals were kept under observation until spontaneous death. Under the tested experimental conditions, the monomer was not shown to be carcinogenic."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 p.80",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/  Rats and mice of both sexes exposed to propene at concentrations ranging from 625 to 10,000 ppm for 6 hr/day, 5days/week for 14 days, 14 weeks and 103 weeks, showed no significantly different survival and mean body weights than those of the controls."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 p.81",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Chronic exposure of mice to minimal /SRP: CNS depressant/ ... concentrations caused moderate to very slight fatty degeneration of the liver, but somewhat less than ethylene."
+        },
+        {
+            "References": "PMID:6495335",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Chronic toxicity studies ... were conducted by exposing groups of 50 F344/N rats and 50 B6C3F1 mice of both sexes to either 5,000 or 10,000 ppm concentration of propylene for 6 hr/day, 5 days/wk for 103 wk. Controls, (groups of 50 rats and 50 mice of each sex in similar chambers) received only clean air on a similar schedule. Survival and mean body weights of exposed and control male and female rats and mice were similar. In exposed rats, increased incidences of non-neoplastic lesions were observed in the nasal cavity. These consisted of epithelial hyperplasia in female rats exposed to the high concentrations and squamous metaplasia in female rats exposed to both concentrations and in male rats exposed to the low concentration. In addition inflammatory changes characterized by an influx of lymphocytes, macrophages, and granulocytes into the submucosa and granulocytes into the lumen occurred in male rats of both exposure groups."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013.",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ...the inhalation exposure of pregnant Wistar rats to propylene from implantation to one day prior to the expected day of parturition (days 6-19 postcoitum) elicited no maternal toxicity, prenatal or developmental toxicity, or teratogenicity at all tested concentrations up to 10,000 ppm."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 p.80",
+            "Value": "/GENOTOXICITY/ Propylene is not mutagenic when tested in Escherichia coli, but conversely, protects against mutation."
+        },
+        {
+            "References": "PMID:2009867",
+            "Value": "/GENOTOXICITY/ ... In a version of the L51784 mouse lymphoma assay ..., propylene was not cytotoxic or mutagenic in the absence of S9 mix. In the presence of S9 mix, propylene showed inconsistent, nonreproducible mutagenic responses."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V60 173 (1994)",
+            "Value": "/GENOTOXICITY/  Propylene did not induce gene mutation in Salmonella typhimurium TA100 exposed for 7 hr to 20% propylene in air in either the presence or absence of an exogenous metabolic activation system. Exposure of L5178Y mouse lymphoma cells to 20-50% propylene in air for 4 hr did not induce mutations at the tk locus in the absence of metabolic activation but did produce inconclusive results in the presence of an exogenous metabolic activation system from rat liver."
+        },
+        {
+            "References": "PMID:15141366",
+            "Value": "/GENOTOXICITY/ Six-wk-old male F344 rates were exposed to 0, 200, 2000, or 10,000 ppm propylene by inhalation for 4 weeks (6 hr/day, 5 days/wk), and mutant frequencies were determined in the Hprt gene of splenic T-lymphocytes. Twenty milligrams of cyclophosphamide monohydrate (CPP)/kg bw, given on the penultimate day of propylene exposure, was used as a positive control mutagen. Rats (n=8/group) were necropsied for isolation of T-cells 8 weeks after the last dose, a sampling time that produced peak spleen Hprt mutant frequencies (Mfs) in a preliminary mutant manifestation study using CCP treatment. Hprt Mfs were measured via the T-cell cloning assay, which was performed without knowledge of the animal treatment groups. Mean Hprt Mfs were significantly increased over control values (mean Mf = 5.24 +/- 1.55 (SD)x10-6) in CPP-treated rats (10.37 +/- 4.30 x10-6, P=0.007). However, Hprt Mfs in propylene-exposed rats were not significantly increased over background, with mean Mfs of 4.90 +/- 1.84x10-6 (P= 0.152), 5.05 +/- 3.70x10-6 (P=0.895), and 5.95 +/- 2.49x10-6 (P=0.500) for animals exposed to 200, 2000, or 10,000 ppm propylene, respectively."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V60 173 (1994)",
+            "Value": "/GENOTOXICITY-DNA ADDUCTS/ Alkylation of DNA at the N7 position of guanine was investigated in male CBA mice exposed to atmospheric propylene or uniformly labelled (14)C-propylene. The adduct levels were related to the concentration of propylene oxide (0.88 mmol/kg bw), calculated from the rate of propylene metabolism. Immediately after exposure to 107 MBq uniformly labelled (14)C-propylene (18.1 MBq/mmol propylene) for 7 hr in a closed exposure chamber, in which the atmospheric concentration-time course was measured after injection of a single dose into the chamber atmosphere, the mice were killed and 2-hydroxypropyl-DNA adducts were measured. The values were: liver, 3000 pmol/g DNA; kidney, 3000 pmol/g DNA; and spleen, 2000 pmol/g DNA."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Kvenvolden KA, Redden GD; Geochim Cosmochim ACTA 44: 1145-50 (1980)",
+            "Value": "SEDIMENT: In 1977, respective propylene concentrations in core samples taken from the Bering shelf, Bering slope, and Aleutian basin were: 9-77, 7-87, and 6-40 mL/L interstitial water(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Jul 6, 2017: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of propylene can be estimated to be 22(SRC). According to a classification scheme(2), this estimated Koc value suggests that propylene is expected to have very high mobility in soil(SRC)."
+        }
+    ]
+}

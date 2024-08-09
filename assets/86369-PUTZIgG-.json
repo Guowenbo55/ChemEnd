@@ -1,0 +1,75 @@
+{
+    "_id": {
+        "$oid": "669270f4303528b49832d757"
+    },
+    "CID": {
+        "$numberInt": "86369"
+    },
+    "Name": "Sulfentrazone",
+    "IUPACName": "N-[2,4-dichloro-5-[4-(difluoromethyl)-3-methyl-5-oxo-1,2,4-triazol-1-yl]phenyl]methanesulfonamide",
+    "CanonicalSMILES": "CC1=NN(C(=O)N1C(F)F)C2=C(C=C(C(=C2)NS(=O)(=O)C)Cl)Cl",
+    "Synonyms": [
+        "Sulfentrazone",
+        "122836-35-5",
+        "Authority",
+        "Sulfentrazone [ISO]",
+        "boral",
+        "Sulfentrazon",
+        "FP-846",
+        "F 6285",
+        "CHEBI:9339",
+        "Methanesulfonamide",
+        "N-[2,4-dichloro-5-[4-(difluoromethyl)-4,5-dihydro-3-methyl-5-oxo-1H-1,2,4-triazol-1-yl]phenyl]-",
+        "N-(2,4-Dichloro-5-(4-(difluoromethyl)-4,5-dihydro-3-methyl-5-oxo-1H-1,2,4-triazol-1-yl)phenyl)methanesulfonamide",
+        "DTXSID6032645",
+        "7TY7WT1599",
+        "FMC-97285",
+        "Methanesulfonamide",
+        "N-(2,4-dichloro-5-(4-(difluoromethyl)-4,5-dihydro-3-methyl-5-oxo-1H-1,2,4-triazol-1-yl)phenyl)-"
+    ],
+    "IsomericSMILES": "CC1=NN(C(=O)N1C(F)F)C2=C(C=C(C(=C2)NS(=O)(=O)C)Cl)Cl",
+    "INCHI": "InChI=1S/C11H10Cl2F2N4O3S/c1-5-16-19(11(20)18(5)10(14)15)9-4-8(17-23(2,21)22)6(12)3-7(9)13/h3-4,10,17H,1-2H3",
+    "INCHIKEY": "OORLZFUTLGXMEF-UHFFFAOYSA-N",
+    "Formula": "C11H10Cl2F2N4O3S",
+    "MolecularWeight": {
+        "$numberDouble": "387.2"
+    },
+    "Description": "Sulfentrazone is a member of the class of triazoles that is 5-oxo-1,2,4-triazole which is substituted at positions 1, 3, and 4 by 2,4-dichloro-5-[(methylsulfonyl)amino]phenyl, methyl, and difluoromethyl groups, respectively. A protoporphyrinogen oxidase inhibitor, it is used as a herbicide to control broad-leaved weeds in soya and tobacco crops. Not approved for use within the European Union. It has a role as an EC 1.3.3.4 (protoporphyrinogen oxidase) inhibitor, a herbicide and an agrochemical. It is a sulfonamide, a dichlorobenzene, an organofluorine compound and a member of triazoles.",
+    "XlogP": {
+        "$numberDouble": "2.3"
+    },
+    "Complexity": {
+        "$numberInt": "613"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Observations highlighted distinct absorption and translocation patterns of sulfentrazone among these species. Common lambsquarters and jimsonweed exhibited significantly higher absorption of sulfentrazone compared to potato after 24- and 48-hour exposures. Furthermore, translocation of sulfentrazone from roots to shoots was notably greater in the weed species than in potato. These findings propose that the variance in sulfentrazone tolerance among these plants stems primarily from the differences in root absorption and translocation of the herbicide from roots to shoots. Such variations in herbicide uptake and movement within the plant structure significantly influence its efficacy and potential impact on different plant species.",
+            "reference": "Bailey, W. A., Hatzios, K. K., Bradley, K. W., & Wilson, H. P. (2003). Absorption, translocation, and metabolism of sulfentrazone in potato and selected weed species. Weed Science, 51(1), 32\u201336. doi:10.1614/0043-1745(2003)051[0032:atamos]2.0.co;2\u00a0",
+            "method": {
+                "Test Plant": "Common lambsquarters, jimsonweed, and Superior white table-stock seed potato",
+                "Apply Location": "Roots placed in 100 ml of quarter-strength Hoagland\u2019s nutrient solution spiked with [14C]sulfentrazone",
+                "Plant Grown Condition": "Seedlings were pregerminated on moist filter paper in a growth chamber under alternating day and night temperatures of 35 and 25 \u00b0C, respectively, with a 12-hour photoperiod. After emergence, seedlings were transplanted into pots containing a 1:1 mixture of vermiculite and sand. Seed potato pieces were planted directly into pots containing the vermiculite-sand mixture. Plants were fertilized weekly with water-soluble fertilizer.",
+                "Chemical preparation": "[14C]sulfentrazone with a radiochemical purity of 97.2% and a specific activity of 807 kBq mmol/1 was used.",
+                "Received pesticide of plant": "Plants were exposed to 3.7 \u00b1 0.2 kBq [14C]sulfentrazone in the Hoagland\u2019s nutrient solution.",
+                "Other Information": "Six randomly selected plants of each species were harvested at each collection time (6, 12, 24, and 48 hours) for absorption and translocation experiments."
+            },
+            "result": "[{\"Plant\": \"potato\", \" Time after apply\": \"6 hours\", \"Absorption\": \"0.021 kBq/g\", \"Roots (%)\": \"78.5 \\u00b1 7.3%\", \"Shoots (%)\": \"21.5 \\u00b1 7.3%\"}, {\"Plant\": \"potato\", \" Time after apply\": \"12 hours\", \"Absorption\": \"0.025 kBq/g\", \"Roots (%)\": \"83.2 \\u00b1 6.9%\", \"Shoots (%)\": \"16.8 \\u00b1 6.9%\"}, {\"Plant\": \"potato\", \" Time after apply\": \"24 hours\", \"Absorption\": \"0.025 kBq/g\", \"Roots (%)\": \"77.0 \\u00b1 5.6%\", \"Shoots (%)\": \"23.0 \\u00b1 5.6%\"}, {\"Plant\": \"potato\", \" Time after apply\": \"48 hours\", \"Absorption\": \"0.04 kBq/g\", \"Roots (%)\": \"78.3 \\u00b1 4.5%\", \"Shoots (%)\": \"21.7 \\u00b1 4.5%\"}, {\"Plant\": \"jimsonweed\", \" Time after apply\": \"6 hours\", \"Absorption\": \"0.041 kBq/g\", \"Roots (%)\": \"62.3 \\u00b1 3.6%\", \"Shoots (%)\": \"37.7 \\u00b1 3.6%\"}, {\"Plant\": \"jimsonweed\", \" Time after apply\": \"12 hours\", \"Absorption\": \"0.053 kBq/g\", \"Roots (%)\": \"62.5 \\u00b1 5.3%\", \"Shoots (%)\": \"37.5 \\u00b1 5.3%\"}, {\"Plant\": \"jimsonweed\", \" Time after apply\": \"24 hours\", \"Absorption\": \"0.06 kBq/g\", \"Roots (%)\": \"58.5 \\u00b1 4.6%\", \"Shoots (%)\": \"41.5 \\u00b1 4.6%\"}, {\"Plant\": \"jimsonweed\", \" Time after apply\": \"48 hours\", \"Absorption\": \"0.07 kBq/g\", \"Roots (%)\": \"56.8 \\u00b1 4.4%\", \"Shoots (%)\": \"43.2 \\u00b1 4.4%\"}, {\"Plant\": \"common lambsquarters\", \" Time after apply\": \"6 hours\", \"Absorption\": \"0.03 kBq/g\", \"Roots (%)\": \"54.7 \\u00b1 4.3%\", \"Shoots (%)\": \"45.3 \\u00b1 4.3%\"}, {\"Plant\": \"common lambsquarters\", \" Time after apply\": \"12 hours\", \"Absorption\": \"0.04 kBq/g\", \"Roots (%)\": \"61.1 \\u00b1 3.4%\", \"Shoots (%)\": \"38.8 \\u00b1 3.4%\"}, {\"Plant\": \"common lambsquarters\", \" Time after apply\": \"24 hours\", \"Absorption\": \"0.065 kBq/g\", \"Roots (%)\": \"57.8 \\u00b1 3.5%\", \"Shoots (%)\": \"42.2 \\u00b1 3.5%\"}, {\"Plant\": \"common lambsquarters\", \" Time after apply\": \"48 hours\", \"Absorption\": \"0.12 kBq/g\", \"Roots (%)\": \"52.2 \\u00b1 5.4%\", \"Shoots (%)\": \"47.8 \\u00b1 5.4%\"}]"
+        },
+        {
+            "content": "Research was conducted to evaluate root uptake, translocation, and metabolism of 14C-sulfentrazone alone or in a mixture with clomazone in solution in flue-cured tobacco transplants. Uptake and translocation of sulfentrazone was rapid and was not affected by the addition of clomazone. Fifty-nine and 65% of the 14C absorbed by the plant was translocated to the leaves within 24 h with sulfentrazone alone and in the clomazone plus sulfentrazone mixture, respectively. Differences in plant metabolism were observed between sulfentrazone alone and sulfentrazone plus clomazone. After 3 h, 66% of the 14C recovered from the leaves was metabolized when sulfentrazone was applied alone, compared to 91% when sulfentrazone was applied with clomazone. The difference could indicate that metabolism of sulfentrazone by tobacco transplants was enhanced by the presence of clomazone",
+            "reference": "Fisher, L. R., Burke, I. C., Price, A. J., Smith, W. D., & Wilcut, J. W. (2006). Uptake, translocation, and metabolism of root absorbed sulfentrazone and sulfentrazone plus clomazone in flue-cured tobacco transplants.\u00a0Weed technology,\u00a020(4), 898-902.",
+            "method": {
+                "Test Plant": "Flue-cured tobacco 'NC 71' (Nicotiana tabacum)",
+                "Apply Location": "Root application",
+                "Plant Grown Condition": "Transplants produced in a greenhouse float system, acclimated in a growth chamber at 26\u00b0C and a photoperiod of 14 h light at 500 \u00b5mol m-2 s-1 provided by both fluorescent and incandescent lamps",
+                "Chemical Preparation": "Sulfentrazone provided was radiolabeled with [14C] in the phenyl ring (98.7% purity, specific activity of 10.55 x 108 Bq mmole-1), technical-grade sulfentrazone (91% pure), and technical-grade clomazone (90% pure) dissolved in Hoagland's solution",
+                "Pesticide Application Details for the Plant": "Radiolabeled sulfentrazone applied at a concentration of 1.83 kBq and 0.44 mg ai L-1 technical-grade sulfentrazone alone or with 1.32 mg ai L-1 technical-grade clomazone",
+                "Other Information": "Four replications of treatments in uptake and translocation studies."
+            },
+            "result": "[{\"Time after application\": \"24 hours\", \"Treatment\": \"Sulfentrazone alone\", \"Absorbed (%)\": 6, \"Root (%)\": 26, \"Stem (%)\": 15, \"Leaves (%)\": 59}, {\"Time after application\": \"48 hours\", \"Treatment\": \"Sulfentrazone alone\", \"Absorbed (%)\": 6, \"Root (%)\": 20, \"Stem (%)\": 17, \"Leaves (%)\": 62}, {\"Time after application\": \"72 hours\", \"Treatment\": \"Sulfentrazone alone\", \"Absorbed (%)\": 5, \"Root (%)\": 19, \"Stem (%)\": 20, \"Leaves (%)\": 62}, {\"Time after application\": \"96 hours\", \"Treatment\": \"Sulfentrazone alone\", \"Absorbed (%)\": 6, \"Root (%)\": 21, \"Stem (%)\": 15, \"Leaves (%)\": 64}, {\"Time after application\": \"24 hours\", \"Treatment\": \"Sulfentrazone + Clomazone\", \"Absorbed (%)\": 6, \"Root (%)\": 14, \"Stem (%)\": 21, \"Leaves (%)\": 65}, {\"Time after application\": \"48 hours\", \"Treatment\": \"Sulfentrazone + Clomazone\", \"Absorbed (%)\": 4, \"Root (%)\": 10, \"Stem (%)\": 0, \"Leaves (%)\": 70}, {\"Time after application\": \"72 hours\", \"Treatment\": \"Sulfentrazone + Clomazone\", \"Absorbed (%)\": 4, \"Root (%)\": 11, \"Stem (%)\": 18, \"Leaves (%)\": 72}, {\"Time after application\": \"96 hours\", \"Treatment\": \"Sulfentrazone + Clomazone\", \"Absorbed (%)\": 7, \"Root (%)\": 8, \"Stem (%)\": 24, \"Leaves (%)\": 69}]"
+        }
+    ]
+}

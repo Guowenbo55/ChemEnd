@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "66927127303528b49832d81e"
+    },
+    "CID": {
+        "$numberInt": "11097730"
+    },
+    "Name": "Cyclanilide",
+    "IUPACName": "1-[(2,4-dichlorophenyl)carbamoyl]cyclopropane-1-carboxylic acid",
+    "CanonicalSMILES": "C1CC1(C(=O)NC2=C(C=C(C=C2)Cl)Cl)C(=O)O",
+    "Synonyms": [
+        "Cyclanilide",
+        "113136-77-9",
+        "Finish",
+        "1-((2,4-Dichlorophenyl)carbamoyl)cyclopropanecarboxylic acid",
+        "Cyclanilide [ISO]",
+        "RPA 90946",
+        "E5WZ0SSS5V",
+        "1-[(2,4-dichlorophenyl)carbamoyl]cyclopropane-1-carboxylic Acid",
+        "DTXSID5032600",
+        "1-(2,4-dichlorophenylcarbamoyl)cyclopropancarboxylic acid",
+        "1-((2,4-dichlorophenyl)carbamoyl)cyclopropane-1-carboxylic acid",
+        "1-(((2,4-Dichlorophenyl)amino)carbonyl)cyclopropanecarboxylic acid",
+        "1-[[(2,4-Dichlorophenyl)amino]carbonyl]cyclopropanecarboxylic Acid",
+        "1-[(2,4-dichlorophenyl)carbamoyl]cyclopropanecarboxylic acid",
+        "Cyclopropanecarboxylic acid",
+        "1-(((2,4-dichlorophenyl)amino)carbonyl)-"
+    ],
+    "IsomericSMILES": "C1CC1(C(=O)NC2=C(C=C(C=C2)Cl)Cl)C(=O)O",
+    "INCHI": "InChI=1S/C11H9Cl2NO3/c12-6-1-2-8(7(13)5-6)14-9(15)11(3-4-11)10(16)17/h1-2,5H,3-4H2,(H,14,15)(H,16,17)",
+    "INCHIKEY": "GLWWLNJJJCTFMZ-UHFFFAOYSA-N",
+    "Formula": "C11H9Cl2NO3",
+    "MolecularWeight": {
+        "$numberDouble": "274.1"
+    },
+    "Description": "Cyclanilide is a monocarboxylic acid that is cyclopropanecarboxylic acid that is substituted by a 3,5-dichlorophenylcarbamoyl group at position 1. It is a plant growth regulator which is used as a cotton harvest aid. It has a role as a plant growth regulator and a fungicide. It is a dichlorobenzene, a member of cyclopropanes, an anilide and a monocarboxylic acid.",
+    "XlogP": {
+        "$numberDouble": "2.8"
+    },
+    "Complexity": {
+        "$numberInt": "344"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Greenhouse studies were conducted to evaluate the rain-free requirement for mepiquat chloride and mepiquat chloride plus cyclanilide with and without surfactant, as well as to assess the absorption and translocation of cyclanilide, a component of a new cotton plant growth regulator. The results showed no significant differences in the number of nodes, leaf area, and fresh and dry weight of plant parts with any plant growth regulator (PGR) treatment and rainfall simulation combination. Both PGRs responded similarly to rainfall interval, with an increase in rain-free period leading to reduced cotton height. The data indicated that an 8-hour rain-free period is necessary to maximize efficacy, regardless of the use of surfactant. Cyclanilide absorption ranged from 11 to 15% at 3 and 48 hours after treatment (HAT), respectively. On average, 18% of the applied cyclanilide remained in the treated leaf, while 1.7 and 6.5% were found in the above and below treated leaf tissue, respectively.",
+            "reference": "Thomas, W. E., Everman, W. J., Collins, J. R., Koger, C. H., & Wilcut, J. W. (2007). Rain-free requirement and physiological properties of cotton plant growth regulators. Pesticide biochemistry and physiology, 88(3), 247-251.",
+            "method": {
+                "Test Plant": "Stoneville '4892 RR/BG' cotton",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Grown in 30-cm pots with commercial potting medium Metro Mix 200. Maintained in plastic greenhouse at 28 \u00b1 2\u00b0C constant temperature.Supplemented with 4 h mercury halide lights for 16-h day length",
+                "Chemical Preparation": "Mepiquat chloride 16.1 g ai/ha + cyclanilide 3.9 g ai/ha (Stance, Bayer CropScience). Mepiquat chloride 24.5 g ai/ha (MepiChlor, MicroFlo). Non-ionic surfactant Induce (Helena Chemical Co.) at 0.25% v/v. Radiolabelled [14C]cyclanilide with 7.5 kBq/mg specific activity",
+                "Pesticide Application Details for the Plant": "Applied at matchhead square (10-11 leaf stage) over the top. For rain-free study, 8 rainfall timings from 0.25 to 24 h after treatment",
+                "Other information and Other Information": "Plant height, nodal lengths, leaf area, biomass data recorded at intervals. Absorption quantified by leaf washing and radioassay"
+            },
+            "result": "[{\"Treated leaf (% of applied)\": 17.53, \"Above treated leaf (%)\": 1.65, \"Below treated leaf (%)\": 5.64, \"Roots (%)\": 0.82, \"Leaf wash (%)\": 58.03}]"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "669270f5303528b49832d75b"
+    },
+    "CID": {
+        "$numberInt": "38839"
+    },
+    "Name": "Methoxyphenone",
+    "IUPACName": "(4-methoxy-3-methylphenyl)-(3-methylphenyl)methanone",
+    "CanonicalSMILES": "CC1=CC(=CC=C1)C(=O)C2=CC(=C(C=C2)OC)C",
+    "Synonyms": [
+        "METHOXYPHENONE",
+        "41295-28-7",
+        "\"4-Methoxy-3,3-dimethylbenzophenone\"",
+        "Kayametone",
+        "(4-Methoxy-3-methylphenyl)(m-tolyl)methanone",
+        "Methanone",
+        "(4-methoxy-3-methylphenyl)(3-methylphenyl)-",
+        "(4-Methoxy-3-methylphenyl)(3-methylphenyl)methanone",
+        "(4-methoxy-3-methylphenyl)-(3-methylphenyl)methanone",
+        "CHEBI:82245",
+        "0FKO9511Y1",
+        "NK 049",
+        "EINECS 255-300-6",
+        "BRN 1966899",
+        "UNII-0FKO9511Y1",
+        "SCHEMBL51436"
+    ],
+    "IsomericSMILES": "CC1=CC(=CC=C1)C(=O)C2=CC(=C(C=C2)OC)C",
+    "INCHI": "InChI=1S/C16H16O2/c1-11-5-4-6-13(9-11)16(17)14-7-8-15(18-3)12(2)10-14/h4-10H,1-3H3",
+    "INCHIKEY": "BWPYBAJTDILQPY-UHFFFAOYSA-N",
+    "Formula": "C16H16O2",
+    "MolecularWeight": {
+        "$numberDouble": "240.3"
+    },
+    "Description": "Methoxyphenone is a member of benzophenones.",
+    "XlogP": {
+        "$numberDouble": "4"
+    },
+    "Complexity": {
+        "$numberInt": "287"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The study investigated the absorption, translocation, and metabolism of 3,3'-dimethyl-4-methoxybenzophenone (NK-049) applied to rice and barnyardgrass to elucidate its selective herbicidal action between the two plants. Marked differences were observed in the rates and amounts of absorption and translocation between rice (tolerant) and barnyardgrass (susceptible) plants. When applied to the leaf surface, NK-049 readily penetrated the barnyardgrass leaf, while in rice, the absorption was slow. Translocation both upward and downward from the treated zone through leaf veins was slight in both plants. When applied to roots by dipping in NK-049 solution, barnyardgrass absorbed significantly more chemical compared to rice and readily translocated to aerial parts. When applied to intact seeds, NK-049 was absorbed more rapidly by barnyardgrass on a seed weight basis, while on a seed number basis, rice seeds absorbed more NK-049 than barnyardgrass seeds. Once absorbed by seeds, radioactivity was translocated to the first leaves in the seedlings of both rice and barnyardgrass, with a significantly greater amount in barnyardgrass than in rice. No appreciable difference was found in the metabolism of NK-049 between the two plants. The study suggested that the selective action of NK-049 is mainly influenced by differences in the rate and amount of absorption and translocation between rice and barnyardgrass. Carotenoid formation in barnyardgrass was strongly inhibited by NK-049, whereas that in rice was not affected, indicating a significant difference in the susceptibility of the carotenoid-biosynthesis systems of the two plants to NK-049, contributing to the selective herbicidal action of the chemical.",
+            "reference": "FUJII, Y., Kurokawa, T., YAMAGUCHI, I., & Misato, T. (1978). Selective herbicidal activity of 3, 3'-dimethyl-4-methoxybenzophenone (methoxyphenone, NK-049); absorption, translocation and metabolism. J Pestic Sci, 3, 291-298.",
+            "method": {
+                "Test Plant": "Rice (Oryza sativa L. c. v. Nihonbare) and barnyardgrass (Echinocloa crus-galli B. var. orizicola OHWI)",
+                "Apply Location": "Foliar (leaf surface) application, root application, seed application.",
+                "Plant Grown Condition": "Grown in plastic pots in a greenhouse at 28\u00b0C.",
+                "Chemical Preparation": "14C-NK-049 labeled at the carbonyl carbon, specific activity of 5.5 mCi/mmol, with impurity less than 1%.",
+                "Pesticide Application Details for the Plant": "(A) Foliar application: 0.2 \u03bcg of 50% ethanolic solution of 14C-NK-049 applied in 1 cm width on the surface of a second leaf of the 3-leaf stage plants.(B) Root application: Plants at 2 or 3-leaf stage were rooted up and their roots were dipped in 2 ppm 14C-NK-049 solution after being washed with tap water.(C) Seed application: One gram of dry seeds were dipped in a serial concentration of 14C-NK-049 solution for several hours. Concentration ratio: the rate of pesticides content in seed to pesticides of dipping solution. Translocation ratio: percentage of pesticides in leaf to pesticides in seed.",
+                "Other Information": "-"
+            },
+            "result": "[{\"Plant\": \"Rice\", \"Apply method\": \"Foliar apply\", \"Time after application\": \"0.5 hours\", \"Surface wash (%)\": \"93.9\", \"Leaf (%)\": \"11.0\"}, {\"Plant\": \"Rice\", \"Apply method\": \"Foliar apply\", \"Time after application\": \"1 hour\", \"Surface wash (%)\": \"85.7\", \"Leaf (%)\": \"15.1\"}, {\"Plant\": \"Rice\", \"Apply method\": \"Foliar apply\", \"Time after application\": \"3 hours\", \"Surface wash (%)\": \"73.5\", \"Leaf (%)\": \"27.9\"}, {\"Plant\": \"Rice\", \"Apply method\": \"Foliar apply\", \"Time after application\": \"6 hours\", \"Surface wash (%)\": \"47.0\", \"Leaf (%)\": \"33.8\"}, {\"Plant\": \"Rice\", \"Apply method\": \"Foliar apply\", \"Time after application\": \"9 hours\", \"Surface wash (%)\": \"36.9\", \"Leaf (%)\": \"41.1\"}, {\"Plant\": \"Rice\", \"Apply method\": \"Foliar apply\", \"Time after application\": \"24 hours\", \"Surface wash (%)\": \"18.5\", \"Leaf (%)\": \"52.3\"}, {\"Plant\": \"Rice\", \"Apply method\": \"Foliar apply\", \"Time after application\": \"48 hours\", \"Surface wash (%)\": \"13.3\", \"Leaf (%)\": \"58.8\"}, {\"Plant\": \"Rice\", \"Apply method\": \"Foliar apply\", \"Time after application\": \"72 hours\", \"Surface wash (%)\": \"11.4\", \"Leaf (%)\": \"55.5\"}, {\"Plant\": \"Rice\", \"Apply method\": \"Foliar apply\", \"Time after application\": \"96 hours\", \"Surface wash (%)\": \"6.9\", \"Leaf (%)\": \"53.7\"}, {\"Plant\": \"Barnyardgrass\", \"Apply method\": \"Foliar apply\", \"Time after application\": \"0.5 hours\", \"Surface wash (%)\": \"70.1\", \"Leaf (%)\": \"30.0\"}, {\"Plant\": \"Barnyardgrass\", \"Apply method\": \"Foliar apply\", \"Time after application\": \"1 hour\", \"Surface wash (%)\": \"54.7\", \"Leaf (%)\": \"47.6\"}, {\"Plant\": \"Barnyardgrass\", \"Apply method\": \"Foliar apply\", \"Time after application\": \"3 hours\", \"Surface wash (%)\": \"22.9\", \"Leaf (%)\": \"63.3\"}, {\"Plant\": \"Barnyardgrass\", \"Apply method\": \"Foliar apply\", \"Time after application\": \"6 hours\", \"Surface wash (%)\": \"11.7\", \"Leaf (%)\": \"71.9\"}, {\"Plant\": \"Barnyardgrass\", \"Apply method\": \"Foliar apply\", \"Time after application\": \"9 hours\", \"Surface wash (%)\": \"9.7\", \"Leaf (%)\": \"72.4\"}, {\"Plant\": \"Barnyardgrass\", \"Apply method\": \"Foliar apply\", \"Time after application\": \"24 hours\", \"Surface wash (%)\": \"7.1\", \"Leaf (%)\": \"62.2\"}, {\"Plant\": \"Barnyardgrass\", \"Apply method\": \"Foliar apply\", \"Time after application\": \"48 hours\", \"Surface wash (%)\": \"5.1\", \"Leaf (%)\": \"61.7\"}, {\"Plant\": \"Barnyardgrass\", \"Apply method\": \"Foliar apply\", \"Time after application\": \"72 hours\", \"Surface wash (%)\": \"2.2\", \"Leaf (%)\": \"62.7\"}, {\"Plant\": \"Barnyardgrass\", \"Apply method\": \"Foliar apply\", \"Time after application\": \"96 hours\", \"Surface wash (%)\": \"1.0\", \"Leaf (%)\": \"55.4\"}, {\"Plant\": \"Rice\", \"Apply method\": \"Root apply\", \"Time after application\": \"3 hours\", \"Surface wash (%)\": \"3 ug/g dry issue in leaves\", \"Leaf (%)\": \"30 ug/g dry issue in root\"}, {\"Plant\": \"Rice\", \"Apply method\": \"Root apply\", \"Time after application\": \"8 hours\", \"Surface wash (%)\": \"5 ug/g dry issue in leaves\", \"Leaf (%)\": \"37 ug/g dry issue in root\"}, {\"Plant\": \"Rice\", \"Apply method\": \"Root apply\", \"Time after application\": \"24 hours\", \"Surface wash (%)\": \"7 ug/g dry issue in leaves\", \"Leaf (%)\": \"50 ug/g dry issue in root\"}, {\"Plant\": \"Rice\", \"Apply method\": \"Root apply\", \"Time after application\": \"48 hours\", \"Surface wash (%)\": \"10 ug/g dry issue in leaves\", \"Leaf (%)\": \"78 ug/g dry issue in root\"}, {\"Plant\": \"Barnyardgrass\", \"Apply method\": \"Root apply\", \"Time after application\": \"3 hours\", \"Surface wash (%)\": \"17 ug/g dry issue in leaves\", \"Leaf (%)\": \"59 ug/g dry issue in root\"}, {\"Plant\": \"Barnyardgrass\", \"Apply method\": \"Root apply\", \"Time after application\": \"8 hours\", \"Surface wash (%)\": \"24 ug/g dry issue in leaves\", \"Leaf (%)\": \"78 ug/g dry issue in root\"}, {\"Plant\": \"Barnyardgrass\", \"Apply method\": \"Root apply\", \"Time after application\": \"24 hours\", \"Surface wash (%)\": \"40 ug/g dry issue in leaves\", \"Leaf (%)\": \"102 ug/g dry issue in root\"}, {\"Plant\": \"Barnyardgrass\", \"Apply method\": \"Root apply\", \"Time after application\": \"48 hours\", \"Surface wash (%)\": \"44 ug/g dry issue in leaves\", \"Leaf (%)\": \"130 ug/g dry issue in root\"}, {\"Plant\": \"Rice\", \"Apply method\": \"Seed apply\", \"Time after application\": \"24 hours after applying 1 ppm solution\", \"Surface wash (%)\": \"3.1 concentration ratio\", \"Leaf (%)\": \"4.3 translocation ratio\"}, {\"Plant\": \"Rice\", \"Apply method\": \"Seed apply\", \"Time after application\": \"24 hours after applying 5 ppm solution\", \"Surface wash (%)\": \"3.4 concentration ratio\", \"Leaf (%)\": \"1.7 translocation ratio\"}, {\"Plant\": \"Rice\", \"Apply method\": \"Seed apply\", \"Time after application\": \"24 hours after applying 25 ppm solution\", \"Surface wash (%)\": \"2.1 concentration ratio\", \"Leaf (%)\": \"2.1 translocation ratio\"}, {\"Plant\": \"Rice\", \"Apply method\": \"Seed apply\", \"Time after application\": \"24 hours after applying 50 ppm solution\", \"Surface wash (%)\": \"2.0 concentration ratio\", \"Leaf (%)\": \"1.4 translocation ratio\"}, {\"Plant\": \"Rice\", \"Apply method\": \"Seed apply\", \"Time after application\": \"24 hours after applying 100 ppm solution\", \"Surface wash (%)\": \"2.2 concentration ratio\", \"Leaf (%)\": \"1.1 translocation ratio\"}, {\"Plant\": \"Rice\", \"Apply method\": \"Seed apply\", \"Time after application\": \"24 hours after applying 200 ppm solution\", \"Surface wash (%)\": \"2.8 concentration ratio\", \"Leaf (%)\": \"0.5 translocation ratio\"}, {\"Plant\": \"Barnyardgrass\", \"Apply method\": \"Seed apply\", \"Time after application\": \"24 hours after applying 1 ppm solution\", \"Surface wash (%)\": \"9.4 concentration ratio\", \"Leaf (%)\": \"19.1 translocation ratio\"}, {\"Plant\": \"Barnyardgrass\", \"Apply method\": \"Seed apply\", \"Time after application\": \"24 hours after applying 5 ppm solution\", \"Surface wash (%)\": \"9.2 concentration ratio\", \"Leaf (%)\": \"10.8 translocation ratio\"}, {\"Plant\": \"Barnyardgrass\", \"Apply method\": \"Seed apply\", \"Time after application\": \"24 hours after applying 25 ppm solution\", \"Surface wash (%)\": \"8.7 concentration ratio\", \"Leaf (%)\": \"8.9 translocation ratio\"}, {\"Plant\": \"Barnyardgrass\", \"Apply method\": \"Seed apply\", \"Time after application\": \"24 hours after applying 50 ppm solution\", \"Surface wash (%)\": \"7.9 concentration ratio\", \"Leaf (%)\": \"10.4 translocation ratio\"}, {\"Plant\": \"Barnyardgrass\", \"Apply method\": \"Seed apply\", \"Time after application\": \"24 hours after applying 100 ppm solution\", \"Surface wash (%)\": \"8.2 concentration ratio\", \"Leaf (%)\": \"6.4 translocation ratio\"}, {\"Plant\": \"Barnyardgrass\", \"Apply method\": \"Seed apply\", \"Time after application\": \"24 hours after applying 200 ppm solution\", \"Surface wash (%)\": \"6.5 concentration ratio\", \"Leaf (%)\": \"6.3 translocation ratio\"}]"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "_id": {
+        "$oid": "6682e87ec4e5dba5ffba25dd"
+    },
+    "CID": {
+        "$numberInt": "7474"
+    },
+    "Name": "1-CHLORO-4-NITROBENZENE",
+    "IUPACName": "1-chloro-4-nitrobenzene",
+    "CanonicalSMILES": "C1=CC(=CC=C1[N+](=O)[O-])Cl",
+    "Synonyms": [
+        "4-Chloronitrobenzene",
+        "1-CHLORO-4-NITROBENZENE",
+        "100-00-5",
+        "p-Chloronitrobenzene",
+        "p-Nitrochlorobenzene",
+        "Benzene",
+        "1-chloro-4-nitro-",
+        "4-Nitrochlorobenzene",
+        "PNCB",
+        "4-Chloro-1-nitrobenzene",
+        "p-Nitrophenyl chloride",
+        "p-Nitrochlorobenzol",
+        "p-Nitroclorobenzene",
+        "1-Nitro-4-chlorobenzene",
+        "4-Nitro-1-chlorobenzene",
+        "p-Nitrochloorbenzeen"
+    ],
+    "IsomericSMILES": "C1=CC(=CC=C1[N+](=O)[O-])Cl",
+    "INCHI": "InChI=1S/C6H4ClNO2/c7-5-1-3-6(4-2-5)8(9)10/h1-4H",
+    "INCHIKEY": "CZGCEKJOLUNIFY-UHFFFAOYSA-N",
+    "Formula": "C6H4ClNO2",
+    "MolecularWeight": {
+        "$numberDouble": "157.55"
+    },
+    "Description": "4-Chloronitrobenzene is a C-nitro compound.",
+    "XlogP": {
+        "$numberDouble": "2.4"
+    },
+    "Complexity": {
+        "$numberInt": "126"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) National Institute of Technology and Evlauation. Japan Chemical Industry Ecology - Toxicology and Information Center. Avialable at: https://www.safe.nite.go.jp/english/kizon/KIZON_start_hazkizon.html as of July 6, 2007. (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "Carp exposed to solutions containing 0.15 ppm 1-chloro-4-nitrobenzene for 8 weeks had BCF values ranging from 5.8-20.9, and carp exposed to solutions containing 0.015 ppm 1-chloro-4-nitrobenzene had BCF values ranging from 7.5-18.1(1). According to a classification scheme(2), these BCF values suggest bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Alexander M; Lustigman BK; J Agric Food Chem 14: 410-3 (1966) (2) National Institute of Technology and Evaluation. Japan Chemical Industry Ecology - Toxicology and Information Center. Available at: https://www.safe.nite.go.jp/english/kizon/KIZON_start_hazkizon.html as of July 6, 2007.",
+            "Value": "AEROBIC: 10 ug/mL 1-chloro-4-nitrobenzene inoculated with a mixed culture of microorganisms in soil was observed to be resistant to biodegradation (significant ring cleavage, as measured by UV absorbance, was not detected after 64 days)(1). 1-Chloro-4-nitrobenzene , present at 100 mg/L, reached 0 percent of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L and the Japanese MITI test(2)."
+        },
+        {
+            "References": "(1) Bielaszczyk E et al; Acta Microbiol Pol 16: 243-8(1967) (2) Corbett MD, Corbett BR; Appl Env Microbiol 41: 942-9 (1981)",
+            "Value": "PURE CULTURE: 61-70% reduction of 1-chloro-4-nitrobenzene after 8 - 13 days was observed when a mixture of 1-chloro-4-nitrobenzene and 2,4-dinitrochlorobenzene under continuous flow conditions involving feeding, aeration, settling and reflux was inoculated with a species of Arthrobacter simplex isolated from industrial waste. When two aeration columns were used, one with A. simplex and the other with A. simplex, Streptomyces coelicolor, Fusarium sp. and Trichoderma viridis isolated from soil, a 90% reduction of the nitro compounds was observed after 10 days. The reduction of 1-chloro-4-nitrobenzene produced p-chloroaniline and some undefined products(1). The yeast Rhodosporidiam sp. reduced 1-chloro-4-nitrobenzene under aerobic conditions to give 4-chloroacetanilide and 4-chloro-2-hydroxyacetanilide as final major metabolites(2). Whether these reductions in pure culture would occur in waste water treatment plants is unknown(SRC)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "PMID:6685729",
+            "Value": "1-Chloro-4-nitrobenzene was found in the edible portion of various species of fish taken from the Mississippi River 0, 60 and 150 miles south of St. Louis, MO at concentrations ranging from 0.008 to 0.63 ppm(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 17",
+            "Value": "log Kow = 2.39"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992) (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of 1-chloro-4-nitrobenzene can be estimated to be 310(SRC). According to a classification scheme(2), this estimated Koc value suggests that 1-chloro-4-nitrobenzene is expected to have moderate mobility in soil(SRC)."
+        }
+    ]
+}

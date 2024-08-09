@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "66927126303528b49832d81b"
+    },
+    "CID": {
+        "$numberInt": "560193"
+    },
+    "Name": "Vamidothion",
+    "IUPACName": "2-(2-dimethoxyphosphorylsulfanylethylsulfanyl)-N-methylpropanamide",
+    "CanonicalSMILES": "CC(C(=O)NC)SCCSP(=O)(OC)OC",
+    "Synonyms": [
+        "VAMIDOTHION",
+        "2275-23-2",
+        "Vamidoate",
+        "Kilval",
+        "Trucidor",
+        "American cyanamid-43073",
+        "NPH 83",
+        "ENT 26,613",
+        "Dimethyl S-(2-(1-methylcarbamoylethylthio)ethyl) phosphorothiolate",
+        "O,O-Dimethyl S-(2-(1-methylcarbamoylethylthio)ethyl) phosphorothioate",
+        "R.P. 10,465",
+        "2-(2-Dimethoxyphosphinoylthioethylthio)-N-methylpropionamide",
+        "O,O-Dimethyl S-2-(1-N-methylcarbamoylethylmercapto)ethyl thiophosphate",
+        "N-Methyl O,O-dimethylthiolophosphoryl-5-thia-3-methyl-2-valeramide",
+        "H1G712H762"
+    ],
+    "IsomericSMILES": "CC(C(=O)NC)SCCSP(=O)(OC)OC",
+    "INCHI": "InChI=1S/C8H18NO4PS2/c1-7(8(10)9-2)15-5-6-16-14(11,12-3)13-4/h7H,5-6H2,1-4H3,(H,9,10)",
+    "INCHIKEY": "LESVOLZBIFDZGS-UHFFFAOYSA-N",
+    "Formula": "C8H18NO4PS2",
+    "MolecularWeight": {
+        "$numberDouble": "287.3"
+    },
+    "Description": "Vamidothion is an organic thiophosphate that is N-methyl-2-[(2-sulfanylethyl)sulfanyl]propanamide in which the thiol group has been converted into the corresponding O,O-dimethyl thiophoshate. Formerly used as an insecticide and acaricide, it is no longer approved for use within the European Union. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, an acaricide, an agrochemical, an antibacterial agent and an antifungal agent. It is an organic thiophosphate and an organothiophosphate insecticide. It is functionally related to a 2-((2-hydroxyethyl)sulfanyl)-N-methylpropionamide.",
+    "XlogP": {
+        "$numberDouble": "0.3"
+    },
+    "Complexity": {
+        "$numberInt": "256"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The penetration and translocation of vamidothion, dimethoate, disulfoton, thiometon, and mecarbam in rice plants were investigated using 32P-labeled compounds. Specifically, emulsifiable concentrates of these insecticides were applied to the soil surface of rice plants, and the penetration, translocation, and accompanying insecticidal activity were examined. The results showed that disulfoton exhibited high concentrations in the underground parts of the rice plant shortly after application, indicating rapid penetration into the underground parts. Dimethoate showed almost equal concentrations in both the above-ground and underground parts, suggesting that it can easily penetrate and translocate within the plant body. In contrast, the penetration and translocation of vamidothion were gradual, while those of thiometon and mecarbam were weak. The increase in mortality of the green rice leafhopper (Nephotettix cincticeps) in an insecticide bioassay conducted using the same application method corresponded roughly to the increase in insecticide concentrations in the above-ground parts. At the end of the experiment (6 days after application), residues of vamidothion were low.",
+            "reference": "\u77f3\u9ed2\u4e08\u96c4, & \u658e\u85e4\u54f2\u592b. (1971). The Fundamental Research to the Application of Systemic Insecticides (II). The Absorption and Translocation of Several Insecticides in Rice Plant by Soil Application. \u9632\u866b\u79d1\u5b66, 36(1), 17-24.",
+            "method": {
+                "Test Plant": "Rice seedlings (Oryza sativa)",
+                "Apply Location": "Soil (root application)",
+                "Plant Grown Condition": "Air-dried paddy field soil, watered as prescribed",
+                "Chemical Preparation": "Sulfur powder, methanol, and ammonia were added to 22.4 mCi/g of S-p-dimethyl phosphite to form an ammonium salt of 32p-0,0-dimethylthiophosphate. Addition of equimolar 5-chloro-3-thia-2-N-methylvaleramide in acetone to the reaction mixture gave S-p-Vamidothion, 0,0-dimethylS-[2-(1-methylcarbamoylethylthio)ethyl]phosphorodithioate. Each compound was dissolved in chloroform and washed with water before being concentrated to dryness. Purity of each compound was determined by means of distribution of radioactivity in silica gel thin-layer chromatography and colorimetric determination with palladium chloride. Some compounds were further purified with thin-layer chromatography. Each compound was added to aceton:benzene:Newcoa 1863 at a ratio of 30:30:30 W/W to make a 10% emulsifiable concentration.",
+                "Pesticide Application Details for the Plant": "Each compound, at a 10% emulsifiable concentration, was diluted to 0.05% with distilled water. After 2 days from transplanting, the diluted solution of each compound was evenly distributed onto the soil surface at a rate of 20 mL (as active ingredient) per petri dish. The plants were not directly contaminated with the solution. The rice plants were kept in a growth chamber set at 25\u00b0C with a 10-W fluorescent lamp and supplied with water to maintain the water surface at a constant level.",
+                "Other Information": "-"
+            },
+            "result": "[{\"Time after Application\": \"6 hours\", \"Aerial (ppm)\": 0.36, \"Root (ppm)\": 1.87}, {\"Time after Application\": \"24 hours\", \"Aerial (ppm)\": 0.84, \"Root (ppm)\": 1.14}, {\"Time after Application\": \"48 hours\", \"Aerial (ppm)\": 4.08, \"Root (ppm)\": 1.18}, {\"Time after Application\": \"72 hours\", \"Aerial (ppm)\": 2.28, \"Root (ppm)\": 0.62}]"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "6682e97ac4e5dba5ffba2ad2"
+    },
+    "CID": {
+        "$numberInt": "37517"
+    },
+    "Name": "Iprodione",
+    "IUPACName": "3-(3,5-dichlorophenyl)-2,4-dioxo-N-propan-2-ylimidazolidine-1-carboxamide",
+    "CanonicalSMILES": "CC(C)NC(=O)N1CC(=O)N(C1=O)C2=CC(=CC(=C2)Cl)Cl",
+    "Synonyms": [
+        "IPRODIONE",
+        "36734-19-7",
+        "Rovral",
+        "Glycophene",
+        "Promidione",
+        "Glycophen",
+        "Iprodial",
+        "Verisan",
+        "Kidan",
+        "Rovral flo",
+        "Rovral PM",
+        "Anfor",
+        "Rovrol",
+        "Rovral 50WP",
+        "Chipco 26019"
+    ],
+    "IsomericSMILES": "CC(C)NC(=O)N1CC(=O)N(C1=O)C2=CC(=CC(=C2)Cl)Cl",
+    "INCHI": "InChI=1S/C13H13Cl2N3O3/c1-7(2)16-12(20)17-6-11(19)18(13(17)21)10-4-8(14)3-9(15)5-10/h3-5,7H,6H2,1-2H3,(H,16,20)",
+    "INCHIKEY": "ONUFESLQCSAYKA-UHFFFAOYSA-N",
+    "Formula": "C13H13Cl2N3O3",
+    "MolecularWeight": {
+        "$numberDouble": "330.16"
+    },
+    "Description": "Iprodione is an imidazolidine-2,4-dione in which the nitrogen at position 1 is substituted by an N-(isopropyl)carboxamide group while that at position 3 is substituted by a 3,5-dichlorophenyl group. A contact fungicide, it blocks the growth of the fungal mycelium and inhibits the germination of fungal spores. It is used on fruit and vegetable crops affected by various fungal diseases. It is also used as a nematicide. It has a role as a nematicide and an antifungal agrochemical. It is an imidazolidine-2,4-dione, a member of ureas, a member of benzenes, an imidazole fungicide and a dichlorophenyl dicarboximide fungicide.",
+    "XlogP": {
+        "$numberDouble": "3.1"
+    },
+    "Complexity": {
+        "$numberInt": "448"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The experimental fungicide E-0858 has been identified and confirmed as -[5-(2-methoxypyridinyl)]-cyclopropane-carboxamide with a molecular mass of 192 Da. It belongs to a new class of fungicides and has a heterocyclic, anilide derivative structure with an empirical formula of C\u2081\u2084H\u2081\u2085NO. Translocation studies using autoradiography, thin-layer chromatography (TLC), and combustion to radioactive carbon dioxide were conducted on almond floral tissues treated with 'C-E-0858 and 'C-iprodione. The fungicides were applied to either the petals or the sepals of closed blossoms on detached shoots from almond trees of different ages. The results showed that translocation of 'C-E-0858 into stamens and pistils ranged from 4 to 8% of the recovered radioactivity, while 'C-iprodione showed a lower translocation of 1 to 3% in the same tissues. On potted plants, translocation of the fungicides into internal floral parts ranged from 1 to 2% for E-0858 and was 1% for iprodione. Higher radioactive counts were observed in stamens and pistils when the fungicides were applied to the sepals rather than the petals. TLC analysis of 'C-E-0858-treated blossoms revealed three radioactive spots, but only the parent compound showed fungitoxic activity against the mycelium of Monilinia laxa. Some of the 'C-iprodione was converted into three radioactive products in almond blossoms, with the parent compound and one metabolite exhibiting fungitoxic activity against M. laxa. Bioassays demonstrated that E-0858 and iprodione applied to closed blossoms provided stamen protection similar to that of the systemic fungicide benomyl.",
+            "reference": "Osorio, J. M., Adaskaveg, J. E., Ogawa, J. M., Bostock, R. M., & Jones, A. D. Systemic Activity and Fungitoxicity of Iprodione and E-0858 (N-15-(2-methoxypyridinyl)-Cyclopropane-Carboxamide).",
+            "method": {
+                "Test Plant": "Almond blossoms",
+                "Apply Location": "Petals or sepals",
+                "Plant Grown Condition": "Unopened blossoms at the pink bud stage of bloom",
+                "Chemical Preparation": "14C-E-0858, 0-[1-14C]ethyl 0-2-isopropoxycarbonylphenyl N-isopropylphosphoramidothioate; 14C-Iprodione, 3-(3,5-dichlorophenyl)-N-(1-methylethyl)-2,4-dioxo-1-imidazolidine-carboxamide",
+                "Pesticide Application Details for the Plant": "10 \u03bcl of 300 \u03bcg a.i./ml (1.5 \u03bcCi/ml) E-0858 or iprodione applied to unopened almond blossoms",
+                "Other Information": "Five replicates in the detached-shoot experiments (one blossom per shoot) and seven replicates in the potted plant experiments (one blossom per plant). Translocation expressed as the percentage of radioactivity recovered per blossom. Percent radioactivity of each fungicide recovered in each blossom part compared using general linear model and t test procedures (SAS, version 6.04. SAS Institute Inc., Cary, NC). Fungitoxicity assessed based on the zone of mycelial inhibition formed around each spot and rated as positive (inhibition) or negative (no inhibition). Each treatment replicated four times, and the experiment performed twice."
+            },
+            "result": "[{\"Crop\": \"Drake Blossoms\", \"Day After Application\": 3, \"Application Part\": \"Petal\", \"Petals (%)\": 98.7, \"Sepals (%)\": 1.2, \"Stamens (%)\": 0.1, \"Pistils (%)\": 0.0}, {\"Crop\": \"Drake Blossoms\", \"Day After Application\": 3, \"Application Part\": \"Sepal\", \"Petals (%)\": 1.6, \"Sepals (%)\": 97.9, \"Stamens (%)\": 0.4, \"Pistils (%)\": 0.1}, {\"Crop\": \"Thompson Blossoms\", \"Day After Application\": 3, \"Application Part\": \"Petal\", \"Petals (%)\": 98.5, \"Sepals (%)\": 1.0, \"Stamens (%)\": 0.4, \"Pistils (%)\": 0.1}, {\"Crop\": \"Thompson Blossoms\", \"Day After Application\": 3, \"Application Part\": \"Sepal\", \"Petals (%)\": 1.7, \"Sepals (%)\": 97.2, \"Stamens (%)\": 0.7, \"Pistils (%)\": 0.4}, {\"Crop\": \"Ne Plus Ultra Blossoms\", \"Day After Application\": 3, \"Application Part\": \"Petal\", \"Petals (%)\": 99.2, \"Sepals (%)\": 0.7, \"Stamens (%)\": 0.1, \"Pistils (%)\": 0.0}, {\"Crop\": \"Ne Plus Ultra Blossoms\", \"Day After Application\": 3, \"Application Part\": \"Sepal\", \"Petals (%)\": 0.9, \"Sepals (%)\": 99.0, \"Stamens (%)\": 0.1, \"Pistils (%)\": 0.0}]"
+        }
+    ]
+}

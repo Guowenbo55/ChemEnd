@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "66927120303528b49832d806"
+    },
+    "CID": {
+        "$numberInt": "11140605"
+    },
+    "Name": "S-Metolachlor",
+    "IUPACName": "2-chloro-N-(2-ethyl-6-methylphenyl)-N-[(2S)-1-methoxypropan-2-yl]acetamide",
+    "CanonicalSMILES": "CCC1=CC=CC(=C1N(C(C)COC)C(=O)CCl)C",
+    "Synonyms": [
+        "S-Metolachlor",
+        "87392-12-9",
+        "(S)-Metolachlor",
+        "(S)-Metolachor",
+        "S-Metolachlor [ISO]",
+        "Brawl",
+        "S-Metholachlor",
+        "Dual Gold",
+        "Dual II Magnum",
+        "1O4NMK7I6H",
+        "2-chloro-N-(2-ethyl-6-methylphenyl)-N-[(2S)-1-methoxypropan-2-yl]acetamide",
+        "DTXSID6032431",
+        "CHEBI:83647",
+        "S-Metolachlor 10 microg/mL in Cyclohexane",
+        "alpha-Metolachlor"
+    ],
+    "IsomericSMILES": "CCC1=CC=CC(=C1N([C@@H](C)COC)C(=O)CCl)C",
+    "INCHI": "InChI=1S/C15H22ClNO2/c1-5-13-8-6-7-11(2)15(13)17(14(18)9-16)12(3)10-19-4/h6-8,12H,5,9-10H2,1-4H3/t12-/m0/s1",
+    "INCHIKEY": "WVQBLGZPHOPPFO-LBPRGKRZSA-N",
+    "Formula": "C15H22ClNO2",
+    "MolecularWeight": {
+        "$numberDouble": "283.79"
+    },
+    "Description": "(S)-metolachlor is the (S)-enantiomer of 2-chloro-N-(2-ethyl-6-methylphenyl)-N-(1-methoxypropan-2-yl)acetamide. It is an enantiomer of a (R)-metolachlor.",
+    "XlogP": {
+        "$numberDouble": "3.1"
+    },
+    "Complexity": {
+        "$numberInt": "285"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Greenhouse and laboratory experiments were conducted to evaluate the tolerance of four commercial sugarbeet varieties to s-metolachlor and dimethenamid-P, determine the principle site of absorption of these herbicides, and determine the physiological basis for differential tolerance among varieties to these herbicides. \u2018Beta 5833R\u2019 was the most tolerant sugarbeet variety, and \u2018Hilleshog 7172RZ\u2019 was the most susceptible sugarbeet variety to injury from s-metolachlor and dimethenamid-P. The primary site of s-metolachlor and dimethenamid-P absorption was through the sugarbeet roots; however, some absorption occurred through the sugarbeet hypocotyl. Sugarbeet injury was greater from dimethenamid-P than s-metolachlor when sugarbeet was grown in soil. However, when sugarbeet was grown hydroponically, injury from the herbicides was similar, indicating that the relative availability of these herbicides in the soil greatly influenced sugarbeet injury. Reduced translocation and slower metabolism of 14C-dimethenamid-P in both the roots and shoots of the sugarbeet plants most likely contributed to the greater susceptibility of sugarbeet to dimethenamid-P compared with s-metolachlor. Metabolism of 14C-herbicides in sugarbeet shoots was 0.7 to 2.1 h slower in the more susceptible sugarbeet varieties compared with the more tolerant variety, Beta 5833R. This was the most significant factor contributing to differences in sugarbeet variety tolerance to both s-metolachlor and dimethenamid-P.",
+            "reference": "Bollman, S. L., Sprague, C. L., & Penner, D. (2008). Physiological basis for tolerance of sugarbeet varieties to S-metolachlor and dimethenamid-P. Weed science, 56(1), 18-25.",
+            "method": {
+                "Test Plant": "Sugarbeet varieties 'Crystal 963', 'Hilleshog 7172RZ', 'Beta 5833R', and four seed lots of 'Beta 5451'",
+                "Apply Location": "Root application",
+                "Plant Grown Condition": "Sugarbeet seeds were planted in 10 x 10 cm plastic pots filled with a Spinks loamy sand soil (2.4% organic matter, pH 6.8). Plants were grown in the greenhouse with supplemental sodium vapor lighting providing 1,000 \u03bcmol/m2/s midday light intensity in a 16-hour day.",
+                "Chemical Preparation": "-",
+                "Pesticide Application Details for the Plant": "At the 2-leaf stage, herbicides were applied to the leaf surface only, soil surface only, or leaf + soil surfaces using an overhead sprayer at 187 L/ha. For specific site tests, herbicides were applied to roots by soil drench below the hypocotyl, to hypocotyl by soil drench on activated charcoal layer, or hypocotyl + roots.",
+                "Other Information": "Shoot biomass was harvested 21 days after treatment (DAT), dried and weighed to calculate % reduction relative to untreated controls"
+            },
+            "result": "[{\"Plant\": \"Beta 5833R\", \"Translocation to shoot (% of absorbed, 6h)\": 57.3, \"Translocation to shoot (% of absorbed, 12h)\": 57.4, \"Translocation to shoot (% of absorbed, 24h)\": 60.7, \"Translocation to shoot (% of absorbed, 48h)\": 63.0}, {\"Plant\": \"Crystal 963\", \"Translocation to shoot (% of absorbed, 6h)\": 54.1, \"Translocation to shoot (% of absorbed, 12h)\": 56.8, \"Translocation to shoot (% of absorbed, 24h)\": 61.3, \"Translocation to shoot (% of absorbed, 48h)\": 67.1}, {\"Plant\": \"Beta 5451\", \"Translocation to shoot (% of absorbed, 6h)\": 58.7, \"Translocation to shoot (% of absorbed, 12h)\": 60.7, \"Translocation to shoot (% of absorbed, 24h)\": 63.4, \"Translocation to shoot (% of absorbed, 48h)\": 67.4}, {\"Plant\": \"Hilleshog 7172RZ\", \"Translocation to shoot (% of absorbed, 6h)\": 63.2, \"Translocation to shoot (% of absorbed, 12h)\": 63.2, \"Translocation to shoot (% of absorbed, 24h)\": 69.1, \"Translocation to shoot (% of absorbed, 48h)\": 71.4}]"
+        }
+    ]
+}

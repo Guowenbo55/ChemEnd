@@ -1,0 +1,69 @@
+{
+    "_id": {
+        "$oid": "6682e814c4e5dba5ffba23cd"
+    },
+    "CID": {
+        "$numberInt": "4754"
+    },
+    "Name": "PHENACETIN",
+    "IUPACName": "N-(4-ethoxyphenyl)acetamide",
+    "CanonicalSMILES": "CCOC1=CC=C(C=C1)NC(=O)C",
+    "Synonyms": [
+        "phenacetin",
+        "62-44-2",
+        "N-(4-Ethoxyphenyl)acetamide",
+        "Acetophenetidin",
+        "Acetphenetidin",
+        "Acetophenetidine",
+        "Acetophenetin",
+        "p-Acetophenetidide",
+        "Phenacetine",
+        "Phenazetin",
+        "\"4-Ethoxyacetanilide\"",
+        "Phenacetinum",
+        "Fenidina",
+        "Kalmin",
+        "Achrocidin"
+    ],
+    "IsomericSMILES": "CCOC1=CC=C(C=C1)NC(=O)C",
+    "INCHI": "InChI=1S/C10H13NO2/c1-3-13-10-6-4-9(5-7-10)11-8(2)12/h4-7H,3H2,1-2H3,(H,11,12)",
+    "INCHIKEY": "CPJSUEIXXCENMM-UHFFFAOYSA-N",
+    "Formula": "C10H13NO2",
+    "MolecularWeight": {
+        "$numberDouble": "179.22"
+    },
+    "Description": "Phenacetin is a member of the class of acetamides that is acetamide in which one of the hydrogens attached to the nitrogen is substituted by a 4-ethoxyphenyl group. It has a role as a non-narcotic analgesic, a peripheral nervous system drug and a cyclooxygenase 3 inhibitor. It is a member of acetamides and an aromatic ether. It is functionally related to a N-phenylacetamide, a 4-ethoxyaniline and a paracetamol.",
+    "XlogP": {
+        "$numberDouble": "1.6"
+    },
+    "Complexity": {
+        "$numberInt": "162"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Nakagawa Y et al; Environ Toxicol Chem 11: 901-16 (1992)",
+            "Value": "log Kow = 1.58"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:14592552",
+            "Value": "The present study was aimed to test the possible cyclooxygenase (COX)-1/COX-2 selectivity of the old analgesic drug phenacetin and its metabolite p-phenetidine, which exhibits high renal toxicity. Paracetamol (acetaminophen), the main metabolite of phenacetin with low renal toxicity, and indomethacin were selected as reference compounds. Collagen-stimulated platelet thromboxane B2 (TxB2) production and phorbol 12-myristate-13-acetate (PMA)-induced neutrophil prostaglandin E2 (PGE2) synthesis were used as indicators for COX-1 and COX-2 activity, respectively. Phenacetin was even less potent than paracetamol to reduce the production of both TxB2 and PGE2, and no clear preference for either of the COX-enzymes was seen. P-phenetidine was a more potent inhibitor, already at nanomolar level, of the synthesis of these prostanoids than indomethacin and showed some preference to COX-2 inhibition. Somewhat higher, micromolar, concentrations of p-phenetidine also reduced COX-2 expression in neutrophils. We suggest that the very potent inhibitory activity of p-phenetidine on PGE2 synthesis combined with the reduction of COX-2 expression could explain the renal papillary necrosis in phenacetin kidney."
+        },
+        {
+            "References": "PMID:8669429",
+            "Value": "Analgesic nephropathy is a unique drug-induced kidney disease characterized pathologically by renal papillary necrosis and chronic interstitial nephritis, and is the result of excessive consumption of combination antipyretic analgesics. The clinical features of the disorder relate mainly to the papillary necrosis, renal colic, and obstructive uropathy and the development of chronic renal failure in a small percentage of patients. There are significant geographic variations in the clinical features that may be related to the differing combinations of analgesics. The pathogenesis of the disease is in part related to the kidneys' ability to concentrate drugs in the papillae. The following sequence of events presents a plausible explanation for the evolution of the disease. If a combination of phenacetin and aspirin is ingested, the following steps occur. Phenacetin is converted in the gut and liver to acetaminophen by first-pass metabolism. Acetaminophen is then taken up by the kidney and excreted. During its excretion, acetaminophen becomes concentrated in the papillae of the kidney during physiologic degrees of antidiuresis, the concentration being up to five times the intracellular concentration of other tissues. Acetaminophen undergoes oxidative metabolism by prostaglandin H synthase to a reactive quinoneimine that is conjugated to glutathione. If acetaminophen is present alone, there is sufficient glutathione generated in the papillae to detoxify the reactive intermediate. If the acetaminophen is ingested with aspirin, the aspirin is converted to salicylate and salicylate becomes highly concentrated in both the cortex and papillae of the kidney. Salicylate is a potent depletor of glutathione. The mechanism is not completely understood; however, the inhibition of the production of NADPH via the pentose shunt is a possible explanation. With the cellular glutathione depleted, the reactive metabolite of acetaminophen then produces lipid peroxides and arylation of tissue proteins, ultimately resulting in necrosis of the papillae."
+        },
+        {
+            "References": "Thomson/Micromedex. Drug Information for the Health Care  Professional. Volume 1,  Greenwood Village, CO. 2007., p. 16",
+            "Value": "The mechanism of analgesic action has not been fully determined. Acetaminophen may act predominantly by inhibiting prostaglandin synthesis in the central nervous system (CNS) and, to a lesser extent, through peripheral action by blocking pain impulse generation. The peripheral action may also be due to inhibition of of the synthesis or actions of other substances that sensitive pain receptors to mechanical or chemical stimulation. /Acetaminophen/"
+        },
+        {
+            "References": "Thomson/Micromedex. Drug Information for the Health Care  Professional. Volume 1,  Greenwood Village, CO. 2007., p. 16",
+            "Value": "Acetaminophen probably produces antipyresis by acting centrally on the hypothalamic heat-regulating center to produce peripheral vasodilation resulting in increased blood flow through the skin, sweating, and heat loss. The central action probably involves inhibition of prostaglandin synthesis in the hypothalamus. /Acetaminophen/"
+        }
+    ]
+}

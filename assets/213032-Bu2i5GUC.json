@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "66927128303528b49832d825"
+    },
+    "CID": {
+        "$numberInt": "213032"
+    },
+    "Name": "Famoxadone",
+    "IUPACName": "3-anilino-5-methyl-5-(4-phenoxyphenyl)-1,3-oxazolidine-2,4-dione",
+    "CanonicalSMILES": "CC1(C(=O)N(C(=O)O1)NC2=CC=CC=C2)C3=CC=C(C=C3)OC4=CC=CC=C4",
+    "Synonyms": [
+        "Famoxadone",
+        "131807-57-3",
+        "DPX-JE 874",
+        "3-anilino-5-methyl-5-(4-phenoxyphenyl)-1,3-oxazolidine-2,4-dione",
+        "2,4-Oxazolidinedione",
+        "5-methyl-5-(4-phenoxyphenyl)-3-(phenylamino)-",
+        "DPX-JE 874;Famoxate",
+        "Famoxate",
+        "V1C07OR6II",
+        "5-METHYL-5-(4-PHENOXYPHENYL)-3-(PHENYLAMINO)-2,4-OXAZOLIDINEDIONE",
+        "DTXSID8034588",
+        "CHEBI:83250",
+        "Famoxadon",
+        "2,4-oxazolidinedione",
+        "5-methyl-5-(4-phenoxyphenyl)-3- (phenylamino)-",
+        "Famoxadone [ISO:BSI]",
+        "5-methyl-5-(4-phenoxyphenyl)-3-(phenylamino)-1,3-oxazolidine-2,4-dione"
+    ],
+    "IsomericSMILES": "CC1(C(=O)N(C(=O)O1)NC2=CC=CC=C2)C3=CC=C(C=C3)OC4=CC=CC=C4",
+    "INCHI": "InChI=1S/C22H18N2O4/c1-22(16-12-14-19(15-13-16)27-18-10-6-3-7-11-18)20(25)24(21(26)28-22)23-17-8-4-2-5-9-17/h2-15,23H,1H3",
+    "INCHIKEY": "PCCSBWNGDMYFCW-UHFFFAOYSA-N",
+    "Formula": "C22H18N2O4",
+    "MolecularWeight": {
+        "$numberDouble": "374.4"
+    },
+    "Description": "5-methyl-5-(4-phenoxyphenyl)-3-(phenylamino)-1,3-oxazolidine-2,4-dione is a member of the class of oxazolidinones that is 1,3-oxazolidine-2,4-dione in which the hydrogen attached to the nitrogen is substituted by a phenylamino group and the hydrogens at position 5 are substituted by methyl and 4-phenoxyphenyl groups. It is an aromatic ether, a carbohydrazide and an oxazolidinone.",
+    "XlogP": {
+        "$numberDouble": "5"
+    },
+    "Complexity": {
+        "$numberInt": "563"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The study investigated the uptake, translocation, and subcellular distribution of oxathiapiprolin and famoxadone in tomato plants using hydroponic experiments. The results showed that both fungicides mainly accumulated in the tomato roots with limited translocation to the upper parts of the plant. Root absorption and inhibitor studies indicated the dominance of apoplastic and symplastic pathways in the uptake of oxathiapiprolin and famoxadone by the tomato roots, respectively. The uptake process for both fungicides followed passive and aquaporin-dependent transport mechanisms. In terms of storage, insoluble cell components such as cell organelles and walls were the dominant compartments for both fungicides. In the protoplast, oxathiapiprolin had a higher proportion in the soluble fraction compared to famoxadone. Overall, the study provides a detailed understanding of the transfer of oxathiapiprolin and famoxadone from the environment to tomato plants, which can be useful for predicting their uptake and distribution.",
+            "reference": "Feng, X., Liu, G., Wang, X., An, K., Guo, Y., Liu, Y., & Dong, J. (2022). Uptake, translocation, and subcellular distribution of oxathiapiprolin and famoxadone in tomato plants (Lycopersicon esculentum Miller). Journal of Agricultural and Food Chemistry, 70(39), 12310-12319.",
+            "method": {
+                "Test Plant": "Tomato (Solanum lycopersicum cv. Fenlina)",
+                "Apply Location": "Root uptake study (solution culture)",
+                "Plant Growth Condition": "Then transferred to nutrient solution (composition given in Table S1, pH 6.5) and grown for 3 more weeks, renewing solution every 2 days. Uniform seedlings with 12\u00b11 cm roots, 30\u00b11 cm shoots selected and transplanted into PVC boxes with 5 L nutrient solution per box (15 seedlings/box) for exposure experiments.",
+                "Chemical Preparation": "Oxathiapiprolin and famoxadone prepared in nutrient solutions at 0, 0.5, 1, 2, 5, 10 mg/L concentrations.",
+                "Pesticide Application Details for the Plant": "2 g fresh/dead roots incubated in 10 mL 0.01 M CaCl2 with 100 mg/L NaN3 and fungicides at 0.5-10 mg/L for 24 h.",
+                "Other Information": "3 replicates per concentration. Roots/shoots separated, weighed, roots homogenized to quantify fungicide."
+            },
+            "result": "[{\"Concentration (mg/L)\": 0.25, \"Roots (mg/kg)\": 7.27, \"Stems (mg/kg)\": 0.058, \"Leaves (mg/kg)\": 0.047}, {\"Concentration (mg/L)\": 0.38, \"Roots (mg/kg)\": 10.25, \"Stems (mg/kg)\": 0.082, \"Leaves (mg/kg)\": 0.066}, {\"Concentration (mg/L)\": 0.45, \"Roots (mg/kg)\": 31.68, \"Stems (mg/kg)\": 0.254, \"Leaves (mg/kg)\": 0.2}, {\"Concentration (mg/L)\": 0.7, \"Roots (mg/kg)\": 63.73, \"Stems (mg/kg)\": 0.51, \"Leaves (mg/kg)\": 0.41}, {\"Concentration (mg/L)\": 1.1, \"Roots (mg/kg)\": 103.6, \"Stems (mg/kg)\": 0.83, \"Leaves (mg/kg)\": 0.66}]"
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "_id": {
+        "$oid": "6682e7ddc4e5dba5ffba22b8"
+    },
+    "CID": {
+        "$numberInt": "936"
+    },
+    "Name": "Nicotinamide",
+    "IUPACName": "pyridine-3-carboxamide",
+    "CanonicalSMILES": "C1=CC(=CN=C1)C(=O)N",
+    "Synonyms": [
+        "nicotinamide",
+        "niacinamide",
+        "98-92-0",
+        "3-Pyridinecarboxamide",
+        "pyridine-3-carboxamide",
+        "Nicotinic acid amide",
+        "vitamin PP",
+        "Aminicotin",
+        "Amixicotyn",
+        "Papulex",
+        "Nicotylamide",
+        "Endobion",
+        "Hansamid",
+        "Nicobion",
+        "Nikotinamid"
+    ],
+    "IsomericSMILES": "C1=CC(=CN=C1)C(=O)N",
+    "INCHI": "InChI=1S/C6H6N2O/c7-6(9)5-2-1-3-8-4-5/h1-4H,(H2,7,9)",
+    "INCHIKEY": "DFPAKSUCGFBDDF-UHFFFAOYSA-N",
+    "Formula": "C6H6N2O",
+    "MolecularWeight": {
+        "$numberDouble": "122.12"
+    },
+    "Description": "Nicotinamide is a pyridinecarboxamide that is pyridine in which the hydrogen at position 3 is replaced by a carboxamide group. It has a role as an EC 2.4.2.30 (NAD(+) ADP-ribosyltransferase) inhibitor, a metabolite, a cofactor, an antioxidant, a neuroprotective agent, an EC 3.5.1.98 (histone deacetylase) inhibitor, an anti-inflammatory agent, a Sir2 inhibitor, a Saccharomyces cerevisiae metabolite, an Escherichia coli metabolite, a mouse metabolite, a human urinary metabolite and a geroprotector. It is a vitamin B3, a pyridinecarboxamide and a pyridine alkaloid. It is functionally related to a nicotinic acid.",
+    "XlogP": {
+        "$numberDouble": "-0.4"
+    },
+    "Complexity": {
+        "$numberInt": "114"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Dr. Duke's Phytochemical and Ethnobotanical Databases. Nicotinic Acid. Available from, as of June 19, 2018: https://phytochem.nal.usda.gov/phytochem/search",
+            "Value": "Nicotinamide occurrence in plants(1).",
+            "Table": "[{'Genus species': 'Agrimonia eupatoria', 'Family': 'Rosaceae', 'Common name(s)': 'Arimony, Sticklewort', 'Part': 'Leaf', 'Concn (ppm)': '100-300'}, {'Genus species': 'Linum usitatissimum', 'Family': 'Linaceae', 'Common name(s)': 'Linseed, Flax', 'Part': 'Seed', 'Concn (ppm)': '38'}, {'Genus species': 'Theobroma cacao', 'Family': 'Sterculiaceae', 'Common name(s)': 'Cacao', 'Part': 'Seed', 'Concn (ppm)': '21'}, {'Genus species': 'Pisum sativum', 'Family': 'Fabaceae', 'Common name(s)': 'Pea', 'Part': 'Sprout seedling', 'Concn (ppm)': '0.7'}, {'Genus species': 'Panax ginsend', 'Family': 'Araliaceae', 'Common name(s)': 'Oriental Ginseng; Korean Ginseng; Chinese Ginseng; Ginseng', 'Part': 'Root', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Petroselinum crispum', 'Family': 'Apiaceae', 'Common name(s)': 'Parsley', 'Part': 'Plant', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Anemarrhena asphodeloides', 'Family': 'Liliaceae', 'Common name(s)': 'Zhi-Mu; Chih-Mu', 'Part': 'Rhizome', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Angelica sinensis', 'Family': 'Apiaceae', 'Common name(s)': 'Dang Gui; Dong Quai; Dang Qui; Dong Gui; Chinese Angelica; Dang Quai', 'Part': 'Root', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Trigonella foenum-graecum', 'Family': 'Fabaceae', 'Common name(s)': 'Alholva (Sp.); Greek Hay; Fenugreek; Greek Clover; Bockshornklee (Ger.)', 'Part': 'Seed', 'Concn (ppm)': 'not reported'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 19 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of June 19, 2018: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for nicotinamide(SRC), using a log Kow of -0.37(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "PMID:2858520",
+            "Value": "AEROBIC: Nicotinamide was determined to be readily biodegradable in an aerobic screening test recommended by the Department of Environment, Standing Committee of Analysts, UK(1)."
+        },
+        {
+            "References": "(1) Shukla OP; J Sci Ind Res 43: 98-116 (1984)",
+            "Value": "ANAEROBIC: Nicotinamide was not degraded using an anaerobic spore-forming rod (Clostridia sp.) bacteria isolated from Potamac River mud(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 19",
+            "Value": "log Kow = -0.37"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "OECD; Screening Information Data Set (SIDS) Inital Assessment Report for SIDS Initial Assessment Meeting (SIAM) 15, 3-Pyridinecarboxamide (Nicotinamide) (98-92-0) p.14 (October 2002). Available from, as of June 4, 2018: https://www.inchem.org/pages/sids.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Application of 0.1 g nicotinamide to the eyes of 3 rabbits induced irritation in two of the animals, which was reversible within 7 days. The third animal showed irritation after 2 hours and was killed for humane reasons. In a second study with a similar design irritant effects were reversible within one week except for hyperemia of the conjunctivae in one animal."
+        },
+        {
+            "References": "PMID:6444527",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Single ip injection of nicotinamide (100 mg/kg) to male rats was shown to significantly induce all components of the hepatic microsomal mixed function oxidase system as well as activities of drug-metabolizing enzymes."
+        },
+        {
+            "References": "Cosmetic Ingredient Review (CIR) Expert Panel; Final Report of the Safety Assessment of Niacinamide and Niacin p.14; Intl J of Toxicology 24 (Suppl 5): 1-31 (2005). Available from, as of June 4, 2018: https://www.cir-safety.org/ingredients",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Seven New Zealand White rabbits were intradermally injected with a series of low concentrations of niacinamide, sodium lauryl sulfate, and saline control. Niacinamide at 0.1, 0.25, 1, and 2.5% dissolved in saline, sodium lauryl sulfate at 0.02, 0.005, 0.1, and 0.5%, and saline were given in aliquots of 0.1 mL at different sites on the clipped dorsum of each rabbit. The size and nature of the reactions were assessed under a uniform white light at 24 and 48 hr after injection. ... Niacinamide produced a slight irritation in three out of seven animals at 2.5%, with a mean reaction size of 2.43 mm at 24 hr, and no visible response at 1, 0.25, and 0.1%. The level of response to all concentrations of niacinamide was less than to 0.5 and 0.1% sodium lauryl sulfate. At 0.5% sodium lauryl sulfate, distinct to fairly well developed irritation and slight necrosis was seen in all seven animals with a mean reaction size of 20.29 mm at 24 hr. Under the conditions of this study, 2.5% niacinamide was only marginally irritating to rabbit skin. The overall level of irritation was significantly less than that produced by sodium lauryl sulfate."
+        },
+        {
+            "References": "OECD; Screening Information Data Set (SIDS) Inital Assessment Report for SIDS Initial Assessment Meeting (SIAM) 15, 3-Pyridinecarboxamide (Nicotinamide) (98-92-0) p.15 (October 2002). Available from, as of June 4, 2018: https://www.inchem.org/pages/sids.html",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... Male rats (10/treatment) were fed diets with high or low fat content with or without added nicotinamide (100 mg/kg bw per day) during 3 or 6 weeks. Increased concentrations of fat in the liver were found only when the high fat diet was combined with an excessive intake of nicotinamide. A further study suggested that the fatty livers resulted from an induced choline deficiency brought about by the methylation of nicotinamide to the excretory product N1- methylnicotinamide."
+        },
+        {
+            "References": "PMID:11145115",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ This report describes a comparison of the outcome of chronic oral administration of nicotinamide on the development of diabetes in obese diabetic (db/db) and non-obese diabetic (NOD) mice models of type 2 and type 1 diabetes, respectively. Nicotinamide was administered in the diet (5 g/kg diet) for 12 (db/db) or 24 (NOD) weeks. Over the 12 weeks of the study, control diabetic (db/db) mice became progressively more hyperglycemic and glycosuric, while serum and pancreatic insulin levels decreased compared with those on day 0. In mice treated with nicotinamide, there was a pronounced acceleration in the development of hyperglycemia and glycosuria, as well as a decrease in pancreatic insulin levels, compared with time-matched controls. In addition, the morphology of the pancreatic islets of nicotinamide-treated diabetic (db/db) mice showed an enhanced islet disorganization. By comparison, in NOD mice, nicotinamide prevented the decline in serum and pancreatic insulin levels and maintained normal islet architecture and insulin content. Our data shows that in contrast to its preventative effects on the development of autoimmune diabetes in NOD mice, chronic nicotinamide administration to obese diabetic (db/db) mice markedly accelerated the progression of diabetes. The results of our study caution against the use of nicotinamide in insulin-resistant states, such as type 2 diabetes."
+        },
+        {
+            "References": "Cosmetic Ingredient Review (CIR) Expert Panel; Final Report of the Safety Assessment of Niacinamide and Niacin p.12; Intl J of Toxicology 24 (Suppl 5): 1-31 (2005). Available from, as of June 4, 2018: https://www.cir-safety.org/ingredients",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ A decreased growth rate in male Vanderbilt strain rats fed diets containing 10% casein and large amounts of niacin or niacinamide daily /was reported/. The rats weighed 48 to 54 g at the onset of the study and received diets containing 1% or 2% (1.0 or 2.0 g/kg bw) niacinamide or niacin for 30 or 40 days. Each feeding group consisted of six rats and most experiments were repeated three times. Growth rate was decreased to a greater degree with niacinamide than with niacin. ... Almost complete growth inhibition occurred in animals fed 1% niacinamide."
+        },
+        {
+            "References": "Cosmetic Ingredient Review (CIR) Expert Panel; Final Report of the Safety Assessment of Niacinamide and Niacin p.12; Intl J of Toxicology 24 (Suppl 5): 1-31 (2005). Available from, as of June 4, 2018: https://www.cir-safety.org/ingredients",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Groups of 12 male rats /were fed/ niacinamide in their diet for a period of 8 to 12 weeks. At 0.1% of the diet (100 mg/kg bw per day), niacinamide caused no significant change in the growth rate; at 0.2%, growth rate was enhanced; but at 0.4%, a marked inhibition of growth rate resulted."
+        },
+        {
+            "References": "OECD; Screening Information Data Set (SIDS) Inital Assessment Report for SIDS Initial Assessment Meeting (SIAM) 15, 3-Pyridinecarboxamide (Nicotinamide) (98-92-0) p.14 (October 2002). Available from, as of June 4, 2018: https://www.inchem.org/pages/sids.html",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In a 4-week oral toxicity study 5 rats/sex/treatment received 0, 215 and 1000 mg nicotinamide/kg bw/day by gavage. Two additional groups of 5 rats, treated with 0 and 1000 mg/kg bw/day, were included in the study design and were allowed to recover for a 6 week period. In treated males body weight gain and food consumption were significantly decreased during part of the treatment period. Liver weight was increased in all treated animals. This finding was accompanied histopathologically by mild liver centrilobular hypertrophy. These effects were considered to be an adaptive response to nicotinamide treatment in males. In females at the high dose group extramedullary hematopoiesis of the spleen was reported. The NOAEL derived from this study is 215 mg/kg bw/day."
+        },
+        {
+            "References": "Grodetskaya NS et al; Gig Tr Prof Zabol 0 (9): 36 (1980)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Chronic inhalation action of Vitamin PP dust in concentrations 5.8 +/- 0.54 and 0.43 +/- 0.047 produced small changes of the cardiovascular system of rats."
+        },
+        {
+            "References": "Cosmetic Ingredient Review (CIR) Expert Panel; Final Report of the Safety Assessment of Niacinamide and Niacin p.18; Intl J of Toxicology 24 (Suppl 5): 1-31 (2005). Available from, as of June 4, 2018: https://www.cir-safety.org/ingredients",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/  A solution of 1% niacinamide was administered in the drinking water of Swiss albino mice (50 male and 50 female) for life that were six weeks of age at the beginning of the experiment. An untreated control group of 100 male and 100 female mice were observed until death. All animals were killed if in poor condition or were allowed to die and complete necropsies were performed. The average daily consumption of the 1% niacin drinking water was 6.6 mL for the females and 10.0 mL for males. The treatment had no substantial effect on survival rates when compared to untreated controls and had no carcinogenic effect."
+        },
+        {
+            "References": "PMID:3155647",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity: Initiation-Promotion/ Nicotinamide administered in the drinking water of male Fischer 344 rats increased the number of renal tubular cell tumors of rats treated with an i.p. injection of diethylnitrosamine (25-mg/kg body weight). The incidence of kidneys with tumors in rats treated with diethylnitrosamine alone was 5%. In rats which received diethylnitrosamine and then were promoted with either 30 or 6.7 mM nicotinamide in their drinking water, the incidence of kidneys with tumors rose to 59 and 28%, respectively. Rats which were on 30 mM nicotinamide but did not receive diethylnitrosamine had no kidney tumors present. These results show that nicotinamide promoted diethylnitrosamine-induced renal tubular cell tumorigenesis."
+        },
+        {
+            "References": "PMID:24507733",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Recent evidence shows that excess nicotinamide can cause epigenetic changes in developing rats. The aim of the present study was to investigate the effects of maternal nicotinamide supplementation on the fetus. Female rats were randomized into four groups fed a standard chow diet (control group) or diets supplemented with 1 g/kg of nicotinamide (low-dose group), 4 g/kg of nicotinamide (high-dose group) or 4 g/kg of nicotinamide plus 2 g/kg of betaine (betaine group) for 14-16 days before mating and throughout the study. Fetal tissue samples were collected on the 20th day of pregnancy. Compared with the control group, the high-dose group had a higher fetal death rate, and the average fetal body weight was higher in the low-dose group but lower in the high-dose group. Nicotinamide supplementation led to a decrease in placental and fetal hepatic genomic DNA methylation and genomic uracil contents (a factor modifying DNA for diversity) in the placenta and fetal liver and brain, which could be completely or partially prevented by betaine. Moreover, nicotinamide supplementation induced tissue-specific alterations in the mRNA expression of the genes encoding nicotinamide N-methyltransferase, DNA methyltransferase 1, catalase and tumor protein p53 in the placenta and fetal liver. High-dose nicotinamide supplementation increased fetal hepatic a-fetoprotein mRNA level, which was prevented by betaine supplementation. It is concluded that maternal nicotinamide supplementation can induce changes in fetal epigenetic modification and DNA base composition. The present study raises the concern that maternal nicotinamide supplementation may play a role in the development of epigenetic-related diseases in the offspring."
+        },
+        {
+            "References": "Cosmetic Ingredient Review (CIR) Expert Panel; Final Report of the Safety Assessment of Niacinamide and Niacin; Intl J of Toxicology 24 (Suppl 5): 19 (2005) https://www.cir-safety.org/ingredients",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Pregnant BL6 mice were given 61 mg/kg bw niacinamide administered subcutaneously in DMSO (dimethyl sulfoxide) daily beginning on the 6th day and continuing through the 14th day of pregnancy. The mice were sacrificed on the 18th day of gestation and the following effects were studied: implantation and/or fetal mortality, fetal weight, volume of amniotic fluid, fetal development, maternal weight gain, and maternal liver weight. There was a reduction in the amount of amniotic fluid per fetus and maternal liver weight but no significant effects on the mouse fetuses were seen."
+        },
+        {
+            "References": "Voronina TA; Farmakol Toksikol (Moscow) 44 (6): 680 (1981)",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ In mice nicotinamide in doses of 500-2000 mg/kg depresses orientation reflexes and exploring behavior, and has antiaggressive and anticonvulsant properties."
+        },
+        {
+            "References": "OECD; Screening Information Data Set (SIDS) Inital Assessment Report for SIDS Initial Assessment Meeting (SIAM) 15, 3-Pyridinecarboxamide (Nicotinamide) (98-92-0) p.15 (October 2002). Available from, as of June 4, 2018: https://www.inchem.org/pages/sids.html",
+            "Value": "/GENOTOXICITY/ Nicotinamide was negative in an Ames test performed with Salmonella strains TA 98, TA 100, TA 1535, TA 1537 and TA 1538 both with and without metabolic activation (rat S-9). Other tests using Salmonella strains and liver S-9-mixes from rat, mouse or monkey showed a similar result. One Ames test using TA 97a and TA 102 showed a weak, questionable response in the strain TA 102 in absence of metabolic activation. Nicotinamide was not mutagenic in Saccharomyces strain D4."
+        },
+        {
+            "References": "Cosmetic Ingredient Review (CIR) Expert Panel; Final Report of the Safety Assessment of Niacinamide and Niacin p.15; Intl J of Toxicology 24 (Suppl 5): 1-31 (2005). Available from, as of June 4, 2018: https://www.cir-safety.org/ingredients",
+            "Value": "/GENOTOXICITY/ Niacinamide and niacin were tested at 5, 0.5, 0.05, 0.005, and 0.0005% w/w or v/v in Saccharomyces cerevisiae, strain D4 and Salmonella typhimurium strains TA 1535, 1537, 1538, 98, and 100 with and without metabolic activation. Liver homogenates were prepared from the following mammalian species: ICR random bred adult male mice, Sprague-Dawley adult male rats, and Macaca mulatta adult male monkeys. The positive controls used in direct and activation assays were: methylnitrosoguanidine, ethylmethanesulfonate, 2-nitrofluourene, quinacrine mustard, dimethylnitrosamine, 2-acetylaminofluorene, 8-aminoquinoline, 2-aminoanthracene. Neither niacinamide nor niacin exhibited mutagenic activity in any of the assays used in these studies."
+        },
+        {
+            "References": "Cosmetic Ingredient Review (CIR) Expert Panel; Final Report of the Safety Assessment of Niacinamide and Niacin p.16; Intl J of Toxicology 24 (Suppl 5): 15 (2005). Available from, as of June 4, 2018: https://www.cir-safety.org/ingredients",
+            "Value": "/GENOTOXICITY/ An Ames test using Salmonella typhimurium strains TA 92, TA 1535, TA 100, TA 1537, TA 94 and TA 98, with and without metabolic activation, and a chromosome aberration test using a Chinese hamster fibroblast cell line were carried out on both niacin and niacinamide. At a maximum dose of 50 mg/plate and 2 mg/mL, niacinamide was negative in both the Ames and chromosome test, respectively. In the Ames and chromosome test, niacin tested negative at maximum concentrations of 10 mg/plate and 2 mg/mL, respectively. However, in a later study, /it was/ reported that niacinamide at concentrations of 3 mg/mL (25 mM) induced large structural chromosome aberrations in vitro in Chinese hamster ovary cells."
+        },
+        {
+            "References": "OECD; Screening Information Data Set (SIDS) Inital Assessment Report for SIDS Initial Assessment Meeting (SIAM) 15, 3-Pyridinecarboxamide (Nicotinamide) (98-92-0) p.16 (October 2002). Available from, as of June 4, 2018: https://www.inchem.org/pages/sids.html",
+            "Value": "/GENOTOXICITY/  Two independent micronucleus tests (according to OECD 474) were performed with ip administration /of 1470 mg/kg (21 animals/sex; Test 1) or 681, 1000 and 1470 mg/kg (14 mice/sex/treatment; Test 2) nicotinamide/ to male and female mice. No increased incidence of micronucleated erythrocytes was found in both tests, except for a slightly increased incidence in males treated at 1470 mg/kg bw in the first test sacrificed after 48 hours."
+        },
+        {
+            "References": "Cosmetic Ingredient Review (CIR) Expert Panel; Final Report of the Safety Assessment of Niacinamide and Niacin p.11; Intl J of Toxicology 24 (Suppl 5): 1-31 (2005). Available from, as of June 4, 2018: https://www.cir-safety.org/ingredients",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ The toxicity of niacinamide to ... mouse peritoneal macrophages harvested and cultured for three days in the presence of niacinamide at 10, 100, 250, 500, or 1000 ug/mL /were assessed/. Changes in morphology, the ability to phagocytose particulate carmine, and the dehydrogenase activity of the cells were measured. Niacinamide was virtually non-toxic to cultured macrophages. At 1 mg/mL, slight toxic effects could be observed, but the cells were still capable of ingesting particulate carmine."
+        },
+        {
+            "References": "OECD; Screening Information Data Set (SIDS) Inital Assessment Report for SIDS Initial Assessment Meeting (SIAM) 15, 3-Pyridinecarboxamide (Nicotinamide) (98-92-0) p.14 (October 2002). Available from, as of June 4, 2018: https://www.inchem.org/pages/sids.html",
+            "Value": "/IMMUNOTOXICITY/ In a guinea pig maximization test slight skin reactions were observed at the challenge in 4 of 20 test animals and 0 of 10 control animals. Therefore, it was concluded that this test was negative. The result was acknowledged by the results of a Buehler test, which was performed on 10 treated animals and 5 controls. None of the tested animals showed sensitization."
+        },
+        {
+            "References": "Young, L.Y., M.A. Koda-Kimble (eds.). Applied Therapeutics. The Clinical Use of Drugs. 6th ed. Vancouver, WA., Applied Therapeutics, Inc. 1995., p. 48-7",
+            "Value": "/OTHER TOXICITY INFORMATION/ Nicotinamide is thought to serve as a free radical scavenger, thereby limiting DNA and beta-cell damage."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of June 19, 2018: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of nicotinamide can be estimated to be 8(SRC). According to a classification scheme(2), this estimated Koc value suggests that nicotinamide is expected to have very high mobility in soil(SRC)."
+        }
+    ]
+}

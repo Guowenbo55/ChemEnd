@@ -1,0 +1,63 @@
+{
+    "_id": {
+        "$oid": "6682e8dec4e5dba5ffba27bf"
+    },
+    "CID": {
+        "$numberInt": "10178"
+    },
+    "Name": "TETRYL",
+    "IUPACName": "N-methyl-N-(2,4,6-trinitrophenyl)nitramide",
+    "CanonicalSMILES": "CN(C1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]",
+    "Synonyms": [
+        "Tetryl",
+        "Nitramine",
+        "Tetralite",
+        "Tetril",
+        "Picrylmethylnitramine",
+        "479-45-8",
+        "Picrylnitromethylamine",
+        "N-Methyl-N-picrylnitramine",
+        "N-Picryl-N-methylnitramine",
+        "2,4,6-Tetryl",
+        "Trinitrophenylmethylnitramine",
+        "N-METHYL-N,2,4,6-TETRANITROANILINE",
+        "Nitramine (indicator)",
+        "N-Methyl-N,2,4,6-tetranitrobenzenamine",
+        "2,4,6-(Trinitrophenyl)methylnitroamine"
+    ],
+    "IsomericSMILES": "CN(C1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-]",
+    "INCHI": "InChI=1S/C7H5N5O8/c1-8(12(19)20)7-5(10(15)16)2-4(9(13)14)3-6(7)11(17)18/h2-3H,1H3",
+    "INCHIKEY": "AGUIVNYEYSCPNI-UHFFFAOYSA-N",
+    "Formula": "C7H5N5O8",
+    "MolecularWeight": {
+        "$numberDouble": "287.14"
+    },
+    "Description": "N-methyl-N-picrylnitramine is a nitramine that is methylamine in which one of the hydrogens attached to the nitrogen is substituted by a nitro group while the other is substituted by a 2,4,6-trinitrophenyl group. A yellow crystalline powder, it is a high explosive, capable of being detonated by friction, shock, or a spark. It has a role as an explosive.",
+    "XlogP": {
+        "$numberDouble": "1.7"
+    },
+    "Complexity": {
+        "$numberInt": "409"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_biodegradations": [
+        {
+            "References": "(1) ATSDR; Toxicological Profile for Tetryl. Prepared by Research Triangle Institute for US Dep of Health and Human Services Agency of Toxic Substances and Disease Registry. June 1995 (2) Boopathy R, Manning J; Water Environ 70: 1049-1055 (1998)",
+            "Value": "Data from composting experiments suggest that biodegradation of tetryl may occur under some conditions(1). When tetryl-contaminated sediment was added to hay-horse feed or sewage sludge-wood chip compost, 90% of the tetryl was removed after 44 days(1). A first-order half-life of 1.2 weeks was calculated for tetryl in a manure-hay-sawdust compost(1). Tetryl was completely biodegraded in a laboratory reactor using a soil slurry amended with molasses over a 3 month operation period(2). Metabolites identified included trinitro-N-methylaniline, trinitrobenzeneamine, dinitrobenzenediamine, nitroaniline and aniline(2). In previous experiments using anoxic conditions and in the absence of co-substrates such as molasses, tetryl and trinitrotoluene (TNT) were not degraded(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "US EPA; Estimation Program Interface (EPI) Suite. Ver.3.11. June 10, 2003. Available from, as of Feb 24, 2004: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm",
+            "Value": "log Kow = 1.64 /Estimated/"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Small MJ, Rosenblatt DH; Munitions Production Products of Potential Concern as Waterborne Pollutants - Phase II. Aberdeen, MD: US Army Medical Bioengineering Res Devel Lab p.20-2 (1974) (2) Boopathy R, Manning J; Water Environ 70: 1049-1055 (1998) (3) Black RM et al; J Chromatogr 637: 71-80 (1993) (4) Dacre JC; Drug Metab Rev 26: 649-662 (1994) (5) Valsaraj KT et al; J Hazard Mater 59: 1-12 (1998) (6) ATSDR; Toxicological Profile for Tetryl. Prepared by Research Triangle Institute for US Dep of Health and Human Services Agency of Toxic Substances and Disease Registry. June 1995",
+            "Value": "Analysis of surface soil collected from the Joliet Army Ammunition Plant in Aug 1973 detected tetryl levels of 472-562 mg/kg soil(1); analysis of subsurface soil detected levels of 1.45-84.4 g/kg soil(1). It was estimated that approximately 31,000 pounds of tetryl was contained in the soil at the Joliet Army Ammunition Plant site in Aug 1973, less than one month after tetryl production had been terminated(1). Soil sampled at this site in 1995 still contained 2500-15000 mg/kg in several samples(2). Tetryl was identified, not quantified, in soil samples taken from northern Iraq near the Turkey and Iran border(3). Tetryl was identified, not quantified, in soils from army bases in Alabama and Louisiana(4). Tetryl was identified, not quantified in soil samples obtained from the Alabama Army Ammunition plant near Talladega and a US army facility in Vicksburg, MS(5). Tetryl was detected in sediment samples taken at the Iowa Army Ammunition Plant at a maximum concentration of of 33 ug/g(6)."
+        }
+    ]
+}

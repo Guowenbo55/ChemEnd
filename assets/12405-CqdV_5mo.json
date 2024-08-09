@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "6682e901c4e5dba5ffba2870"
+    },
+    "CID": {
+        "$numberInt": "12405"
+    },
+    "Name": "n-Docosane",
+    "IUPACName": "docosane",
+    "CanonicalSMILES": "CCCCCCCCCCCCCCCCCCCCCC",
+    "Synonyms": [
+        "DOCOSANE",
+        "n-Docosane",
+        "629-97-0",
+        "Dokosan",
+        "UNII-OW99Q363KO",
+        "OW99Q363KO",
+        "EINECS 211-121-5",
+        "NSC 77139",
+        "NSC-77139",
+        "PARAFOL 22-95",
+        "DTXSID7047063",
+        "CHEBI:46050",
+        "HSDB 8352",
+        "CH3-[CH2]20-CH3",
+        "MFCD00009348"
+    ],
+    "IsomericSMILES": "CCCCCCCCCCCCCCCCCCCCCC",
+    "INCHI": "InChI=1S/C22H46/c1-3-5-7-9-11-13-15-17-19-21-22-20-18-16-14-12-10-8-6-4-2/h3-22H2,1-2H3",
+    "INCHIKEY": "HOWGUJZVBDQJKV-UHFFFAOYSA-N",
+    "Formula": "C22H46",
+    "MolecularWeight": {
+        "$numberDouble": "310.6"
+    },
+    "Description": "Docosane is a straight-chain alkane with 22 carbon atoms. It has a role as a plant metabolite.",
+    "XlogP": {
+        "$numberDouble": "11.5"
+    },
+    "Complexity": {
+        "$numberInt": "153"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) US Dept Agric; US Dept Agric, Agric Res Service. 1992-2016. Dr. Duke's Phytochemical and Ethnobotanical Databases. Docosane. Available from, as of Jan 18, 2017: https://phytochem.nal.usda.gov/phytochem/search",
+            "Value": "Docosane detections in plants used in food and medicinal applications(1). /Docosane/",
+            "Table": "[{'Genus species': 'Glycyrrhiza glabra', 'Family': 'Fabaceae', 'Common name(s)': 'Licorice-Root; Smooth Licorice; Licorice; Common Licorice', 'Part': 'Root', 'Concn (ppm)': '25'}, {'Genus species': 'Vanilla planifolia', 'Family': 'Orchidaceae', 'Common name(s)': 'Vanilla; Bourbon Vanilla', 'Part': 'Fruit', 'Concn (ppm)': '22'}, {'Genus species': 'Thymus cilicicus', 'Family': 'Lamiaceae', 'Common name(s)': 'Anatolian Thyme', 'Part': 'Shoot', 'Concn (ppm)': '15'}, {'Genus species': 'Rheum palmatum', 'Family': 'Polygonaceae', 'Common name(s)': 'Chinese Rhubarb', 'Part': 'Rhizome', 'Concn (ppm)': '0.5'}, {'Genus species': 'Pimenta dioica', 'Family': 'Myrtaceae', 'Common name(s)': 'Pimenta; Allspice; Clover-Pepper; Pimento; Jamaica-Pepper', 'Part': 'Plant', 'Concn (ppm)': 'Not reported'}, {'Genus species': 'Pimenta racemosa', 'Family': 'Myrtaceae', 'Common name(s)': 'Bayrum Tree; West Indian Bay', 'Part': 'Leaf', 'Concn (ppm)': 'Not reported'}, {'Genus species': 'Tilia sp.', 'Family': 'Tiliaceae', 'Common name(s)': 'Basswood; Lime; Linden', 'Part': 'Flower', 'Concn (ppm)': 'Not reported'}]"
+        },
+        {
+            "References": "(1) US Dept Agric; US Dept Agric, Agric Res Service. 1992-2016. Dr. Duke's Phytochemical and Ethnobotanical Databases. n-Docosane. Available from, as of Nov 17, 2016: https://phytochem.nal.usda.gov/phytochem/search",
+            "Value": "n-Docosane detections in plants used in food and medicinal applications(1).",
+            "Table": "[{'Genus species': 'Aloe vera', 'Family': 'Aloeaceae', 'Common name(s)': 'Aloe; Bitter Aloes', 'Part': 'Juice', 'Concn (ppm)': 'Not reported'}, {'Genus species': 'Carica papaya', 'Family': 'Caricaceae', 'Common name(s)': 'Papaya', 'Part': 'Seed Oil', 'Concn (ppm)': 'Not reported'}, {'Genus species': 'Harpagophytum procumbens', 'Family': 'Pedaliaceae', 'Common name(s)': \"Devil's Claw; Grapple Plant\", 'Part': 'Tuber', 'Concn (ppm)': 'Not reported'}, {'Genus species': 'Helianthus annuus', 'Family': 'Asteraceae', 'Common name(s)': 'Sunflower; Girasol', 'Part': 'Seed', 'Concn (ppm)': 'Not reported'}, {'Genus species': 'Ligustrum japonicum', 'Family': 'Oleaceae', 'Common name(s)': 'Japanese Privet; Ligustri Fructus', 'Part': 'Flower', 'Concn (ppm)': 'Not reported'}, {'Genus species': 'Melissa officinalis', 'Family': 'Lamiaceae', 'Common name(s)': 'Lemonbalm; Bee Balm', 'Part': 'Tissue Culture', 'Concn (ppm)': '0.1'}, {'Genus species': 'Oenanthe javanica', 'Family': 'Apiaceae', 'Common name(s)': 'Javan Water Dropwort', 'Part': 'Shoot', 'Concn (ppm)': 'Not reported'}, {'Genus species': 'Petasites hybridus', 'Family': 'Asteraceae', 'Common name(s)': 'European Butterbur', 'Part': 'Root', 'Concn (ppm)': 'Not reported'}, {'Genus species': 'Plantago ovata', 'Family': 'Plantaginaceae', 'Common name(s)': 'Blond Psyllium', 'Part': 'Seed Coat', 'Concn (ppm)': 'Not reported'}, {'Genus species': 'Scutellaria basicalensis', 'Family': 'Lamiaceae', 'Common name(s)': 'Chinese Skullcap; Baikul Skullcap; Huang Qin', 'Part': 'Roote Essential Oil', 'Concn (ppm)': 'Not reported'}, {'Genus species': 'Vanilla planifolia', 'Family': 'Orchidaceae', 'Common name(s)': 'Bourbon vanilla', 'Part': 'Fruit', 'Concn (ppm)': 'Not reported'}]"
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Al-Hassan JM et al; Bull Environ Contam Toxicol 65: 646-53 (2000) (2) Al-Hassan JM et al; Bull Environ Contam Toxicol 66: 646-52 (2001)",
+            "Value": "Barnacle samples collected from five locations in the Arabian Gulf had concentrations of docosane ranging from not detected to 4360 ng/g(1). Catfish samples collected from seven locations in the Arabian Gulf had concentrations of docosane ranging from <0.1 to 196 ng/g(2)."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Hori T et al; Bull Environ Contam Toxicol 83: 455-461 (2009)",
+            "Value": "SEDIMENTS: Docosane was detected in sediment samples from from 14 sites along the Shinano River in Japan, from November 2005 to April 2006, at concentrations ranging from 2.2 to 19 ng/g(1)."
+        },
+        {
+            "References": "(1) Rushdi AI et al; Arch Environ Contam Toxicol 49: 457-470 (2005)",
+            "Value": "SOIL: During winter 2002 soil and sand samples, from six locations in the Riyadh metropolitan area of Saudi Arabia, were examined for extractable organic matter; docosane was detected at relative concentrations between 0.09 to 0.65% (of total extractable organic matter) at five of six locations(1)."
+        }
+    ]
+}

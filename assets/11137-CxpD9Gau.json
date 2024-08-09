@@ -1,0 +1,81 @@
+{
+    "_id": {
+        "$oid": "6682e8efc4e5dba5ffba2814"
+    },
+    "CID": {
+        "$numberInt": "11137"
+    },
+    "Name": "3-NITROPHENOL",
+    "IUPACName": "3-nitrophenol",
+    "CanonicalSMILES": "C1=CC(=CC(=C1)O)[N+](=O)[O-]",
+    "Synonyms": [
+        "3-Nitrophenol",
+        "554-84-7",
+        "M-NITROPHENOL",
+        "3-Hydroxynitrobenzene",
+        "Phenol",
+        "3-nitro-",
+        "m-Hydroxynitrobenzene",
+        "Phenol",
+        "m-nitro-",
+        "m-Nitrofenol",
+        "meta-Nitrophenol",
+        "3-nitro-phenol",
+        "1-Hydroxy-3-nitrobenzene",
+        "NSC 1551",
+        "T6P4T52V9W",
+        "DTXSID2025765",
+        "CHEBI:34346"
+    ],
+    "IsomericSMILES": "C1=CC(=CC(=C1)O)[N+](=O)[O-]",
+    "INCHI": "InChI=1S/C6H5NO3/c8-6-3-1-2-5(4-6)7(9)10/h1-4,8H",
+    "INCHIKEY": "RTZZCYNQPHTPPL-UHFFFAOYSA-N",
+    "Formula": "C6H5NO3",
+    "MolecularWeight": {
+        "$numberDouble": "139.11"
+    },
+    "Description": "3-nitrophenol is a member of the class of 3-nitrophenols that is phenol in which one of the hydrogens that is meta to the hydroxy group has been replaced by a nitro group.",
+    "XlogP": {
+        "$numberDouble": "2"
+    },
+    "Complexity": {
+        "$numberInt": "131"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Sacan MT et al; J Chem Inf Comput Sci 44: 985-992 (2004) (2) Hansch C et al; Exploring QSAR Fundamentals and Applications in Chemistry and Biology. Washington,DC: Amer Chem Soc (1995) (3) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2011. Available from, as of Feb 13, 2012: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (4) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "3-Nitrophenol has a reported experimental BCF of 25 in fish(1). An estimated BCF of 10 was calculated in fish for 3-nitrophenol(SRC), using a log Kow of 2.00(2) and a regression-derived equation(3). According to a classification scheme(4), these BCF values suggest that bioconcentration in aquatic organisms is low."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Alexander M, Lustigman BK; J Agric Food Chem 14: 410-3 (1966) (2) Haller HD; J Water Pollut Control Fed 50: 2771-7 (1978) (3) Zahn R, Wellens H; Z Wasser Abwasser Forsch 13: 1-7 (1980) (4) Chemicals Inspection and Testing Institute; Biodegradation and bioaccumulation data of existing chemicals based on the CSCL Japan. Japan Chemical Industry Ecology - Toxicology and Information Center. Available from, as of Mar 2, 2012: https://www.safe.nite.go.jp/english/kizon/KIZON_start_hazkizon.html",
+            "Value": "AEROBIC: More than 64 days were required to biodegrade 3-nitrophenol in a soil inoculum study(1) and 3-nitrophenol was completely degraded in 3-5 days in another soil inoculum study(2). 3-Nitrophenol was degraded 90% using an activated sludge in 16 days including a 10 day lag period(3). 3-Nitrophenol, present at 30 mg/L, reached 48-64% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 100 mg/L in the Japanese MITI test(4), suggesting that the compound may be readily biodegradable(SRC)."
+        },
+        {
+            "References": "(1) Boyd SA et al; Appl Environ Microbiol 46: 50-4 (1983) (2) Sudhakar-Barik, Sethunathan N; J Environ Qual 7: 349-52 (1978) (3) O'Conner OA, Young LY; Environ Sci Technol 30: 1419-28 (1996) (4) Battersby NS, Wilson V; Appl Environ Microbiol 55: 433-39 (1989) (5) Tseng SK et al; Environ Technol 17: 1225-1233 (1996) (6) Lu GH et al; Bull Environ Contam Toxicol 69: 111-116 (2002) (7) Lu GH et al; Environ Toxicol Chem 22: 272-275 (2003)",
+            "Value": "ANAEROBIC: 3-Nitrophenol was completely mineralized in 1 week in an anaerobic sewage sludge(1). 3-Nitrophenol was degraded 72% and 67% in 2 flooded soils over a 10 day incubation period(2). No biodegradation of 3-nitrophenol was observed under denitrifying conditions during a 30 day incubation period(3). 3-Nitrophenol was not degraded in a primary digesting sludge under methanogenic conditions during a 90 day incubation period(4). In an anaerobic biofilter implementation, 3-nitrophenol was largely converted (65-92% removal efficiency) to aminophenol(5). Using river water from the Songhua River in China and a sealed-bottle biodegradation method, 3-nitrophenol had a 5-day theoretical BOD of 37%(6). In another sealed-bottle test using bacteria from the Songhua River in China, 3-nitrophenol was found to be readily biodegradable with a first-order degradation rate of 0.54/day(7)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 18",
+            "Value": "log Kow = 2.00"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "USEPA; Nitrophenols: Hazard Profile (Draft) p.18 (1980)",
+            "Value": "Nitrophenols interfere with normal metabolism by uncoupling oxidative phosphorylation. For the mononitrophenols, the order of severity of effects is 4->3-> 2-nitrophenol."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Borisover MD, Graber ER; Chemosphere 34: 1761-76 (1997) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2011. Available from, as of Feb 13, 2012: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Serjeant EP, Dempsey B; Ionisation Constants of Organic Acids in Aqueous Solution. IUPAC Chemical Data Series No 23. New York, NY: Pergamon Press pp. 989 (1979) (5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000) (6) Gawlik BM et al; Chemosphere 36: 2903-19 (1998) (7) Gawlik BM et al; Chemosphere 41: 1337-1347 (2000) (8) Loekke H; Ecotoxicol Environ Safety 8: 395-409 (1984) (9) Tulp HC et al; Environ Sci Technol 43: 9189-9195 (2009)",
+            "Value": "A single measured Koc of 48 has been reported for 3-nitrophenol(1). Using a structure estimation method based on molecular connectivity indices(2), the Koc of 3-nitrophenol can be estimated to be 290(SRC). According to a classification scheme(3), these Koc values suggest that 3-nitrophenol is expected to have high to moderate mobility in soil. The pKa of 3-nitrophenol is 8.36(4), indicating that this compound will partially exist in anion form in the environment and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(5). Experimental Koc data for other nitrophenol isomers(6-9) indicate 3-nitrophenol may be more mobile in the anionic form than in the neutral form(SRC)."
+        }
+    ]
+}

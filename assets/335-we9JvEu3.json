@@ -1,0 +1,112 @@
+{
+    "_id": {
+        "$oid": "6682e7d3c4e5dba5ffba2288"
+    },
+    "CID": {
+        "$numberInt": "335"
+    },
+    "Name": "o-CRESOL",
+    "IUPACName": "2-methylphenol",
+    "CanonicalSMILES": "CC1=CC=CC=C1O",
+    "Synonyms": [
+        "o-cresol",
+        "2-Methylphenol",
+        "95-48-7",
+        "Orthocresol",
+        "2-hydroxytoluene",
+        "2-Cresol",
+        "Phenol",
+        "2-methyl-",
+        "o-methylphenol",
+        "o-Cresylic acid",
+        "o-Oxytoluene",
+        "o-Toluol",
+        "1-Hydroxy-2-methylbenzene",
+        "ortho-cresol",
+        "o-Hydroxytoluene",
+        "o-Methylphenylol"
+    ],
+    "IsomericSMILES": "CC1=CC=CC=C1O",
+    "INCHI": "InChI=1S/C7H8O/c1-6-4-2-3-5-7(6)8/h2-5,8H,1H3",
+    "INCHIKEY": "QWVGKYWNOKOFNN-UHFFFAOYSA-N",
+    "Formula": "C7H8O",
+    "MolecularWeight": {
+        "$numberDouble": "108.14"
+    },
+    "Description": "O-cresol is a cresol that is phenol substituted by a methyl group at position 2. It is a minor urinary metabolite of toluene. It has a role as a human xenobiotic metabolite.",
+    "XlogP": {
+        "$numberDouble": "2"
+    },
+    "Complexity": {
+        "$numberInt": "70"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Fiege H; Cresols and Xylenols. Ullmann's Encyclopedia of Industrial Chemistry. 7th ed. (1999-2014). New York, NY: John Wiley & Sons. Online Posting Date: Jun 15, 2000.",
+            "Value": "Cresols, including o-cresol, are widespread in nature occurring in many plants and trees(1). Cresols occur in various plant lipid constituents, including oils from jasmine, cassia and easter lily, ylang ylang, and Yucca gloriosa flowers, peppermint, eucalyptus, and camphor. Oils from conifers, oaks, and sandalwood trees also contain cresols(1)."
+        },
+        {
+            "References": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. o-Cresol. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Jan 1, 2015: https://www.ars-grin.gov/duke/",
+            "Value": "o-Cresol occurrence in various plants(1).",
+            "Table": "[{'Genus species': 'Artemisia capillaris THUNB.', 'Family': 'Asteraceae', 'Common name': 'Capillary Wormwood', 'Part': 'Essential Oil'}, {'Genus species': 'Artemisia dracunculus L.', 'Family': 'Asteraceae', 'Common name': 'Tarragon', 'Part': 'Plant'}, {'Genus species': 'Asparagus officinalis L.', 'Family': 'Liliaceae', 'Common name': 'Asparagus', 'Part': 'Shoot'}, {'Genus species': 'Camellia sinensis (L.) KUNTZE', 'Family': 'Theaceae', 'Common name': 'Tea', 'Part': 'Leaf'}, {'Genus species': 'Coffea arabica L', 'Family': 'Rubiaceae', 'Common name': 'Coffee', 'Part': 'Seed'}, {'Genus species': 'Elaeis guineensis JACQ.', 'Family': 'Arecaceae', 'Common name': 'African Oil Palm', 'Part': 'Plant'}, {'Genus species': 'Glycyrrhiza glabra L.', 'Family': 'Fabaceae', 'Common name': 'Licorice', 'Part': 'Root'}, {'Genus species': 'Ligustrum japonicum THUNB.', 'Family': 'Oleaceae', 'Common name': 'Japanese Privet', 'Part': 'Flower'}, {'Genus species': 'Lycopersicon esculentum MILLER', 'Family': 'Solanaceae', 'Common name': 'Tomato', 'Part': 'Fruit'}, {'Genus species': 'Mentha pulegium L.', 'Family': 'Lamiaceae', 'Common name': 'European Pennyroyal', 'Part': 'Essential Oil'}, {'Genus species': 'Morus alba L.', 'Family': 'Moraceae', 'Common name': 'White Mulberry', 'Part': 'Plant'}, {'Genus species': 'Pogostemon cablin (BLANCO) BENTH.', 'Family': 'Lamiaceae', 'Common name': 'Patchouli', 'Part': 'Leaf'}, {'Genus species': 'Prunus cerasus L.', 'Family': 'Rosaceae', 'Common name': 'Sour Cherry', 'Part': 'Plant'}, {'Genus species': 'Santalum album L.', 'Family': 'Santalaceae', 'Common name': 'White Sandalwood', 'Part': 'Wood'}, {'Genus species': 'Mentha x piperita subsp. nothosubsp. piperita', 'Family': 'Lamiaceae', 'Common name': 'Peppermint', 'Part': 'Leaf'}]"
+        }
+    ],
+    "animal_concentrations": [
+        {
+            "References": "(1) Lebedev AT et al; Sci Total Environ 212: 153-62 (1998)",
+            "Value": "o-Cresol concentrations of 10 to 208 ug/kg dry wt were detected in the birds eggs collected from the Lake Baikal region (Selenga River estuary, Russia)(1).",
+            "Table": "[{'Genus species': 'Anas platyrhynchos', 'Common Name': 'mallard', 'Concn (ug/kg dry wt)': '208'}, {'Genus species': 'Anas acuta', 'Common Name': 'pintail', 'Concn (ug/kg dry wt)': '<10'}, {'Genus species': 'Anas clypeata', 'Common Name': 'shoveler', 'Concn (ug/kg dry wt)': '72'}, {'Genus species': 'Aythya fuligula', 'Common Name': 'tufted duck', 'Concn (ug/kg dry wt)': '<10'}, {'Genus species': 'Aythya ferina', 'Common Name': 'pochard', 'Concn (ug/kg dry wt)': '<10'}, {'Genus species': 'Anser anser', 'Common Name': 'goose', 'Concn (ug/kg dry wt)': '<10'}, {'Genus species': 'Gallus gallus (1)', 'Common Name': 'domestic fowl', 'Concn (ug/kg dry wt)': '33.6'}, {'Genus species': 'Gallus gallus (2)', 'Common Name': 'domestic fowl', 'Concn (ug/kg dry wt)': '86.4'}, {'Genus species': 'Ardea cinerea', 'Common Name': 'heron', 'Concn (ug/kg dry wt)': '21.6'}, {'Genus species': 'Larus argentatus', 'Common Name': 'herring gull', 'Concn (ug/kg dry wt)': '12'}, {'Genus species': 'Larus canus', 'Common Name': 'common gull', 'Concn (ug/kg dry wt)': '16.8'}, {'Genus species': 'Sterna hirundo', 'Common Name': 'common tern', 'Concn (ug/kg dry wt)': '<10'}, {'Genus species': 'Larus ridibundus', 'Common Name': 'black-headed gull', 'Concn (ug/kg dry wt)': '48'}, {'Genus species': 'Vanellus vanellus', 'Common Name': 'lapwing', 'Concn (ug/kg dry wt)': '<10'}, {'Genus species': 'Podiceps auritus', 'Common Name': 'Slavonian grebe', 'Concn (ug/kg dry wt)': '<10'}, {'Genus species': 'Tringa stagnatilis', 'Common Name': 'marsh sandpiper', 'Concn (ug/kg dry wt)': '22.5'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) OECD; SIDS Initial Assessment Report. o-Cresol (CAS No. 95-48-7), October 1998). Available from, as of Dec 30, 2014: https://www.chem.unep.ch/irptc/sids/OECDSIDS/95487.pdf (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "A BCF of 10.7 was measured for o-cresol in zebrafish (Brachydanio rerio) according to OECD GL 305E(1). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is low."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Alexander M, Lustigman BK; J Agric Food Chem 14: 410-3 (1966) (2) Baird RB et al; Arch Environ Contam Toxicol 2: 165-78 (1974) (3) Heukelekian H, Rand MC; J Water Pollut Contr Assoc 29: 1040-53 (1955) (4) Pitter P; Water Res 10: 231-5 (1976) (5) Singer PC et al; Treatability and Assess of Coal Conversion Waste Waters Phase I p 178 USEPA-600/7-79-248 (1979) (6) Takemoto S et al; Suishitsu Odaku Kenkyu 4: 80-90 (1981) (7) Urushigawa Y et al; Kogai Shigen Kenkyusho Iho 12: 37-46 (1983) (8) Young RHF et al; J Water Pollut Contr Fed 40: 354-68 (1968) (9) Ludzack FJ, Ettinger MB; J Water Pollut Contrl Fed 32:1173-200 (1960) (10) Godsy EM et al; Bull Environ Contam Toxicol 30: 261-8 (1983) (11) Medvedev VA, Davidov VD; Pochvovedenie 11: 22-8 (1972) (12) Goerlitz DF et al; Environ Sci Technol 19: 955-61 (1985) (13) Arvin E et al; Int Conf Physiochemical Biol Detox Hazard Wastes 2: 828-47 (1989) (14) Boyd TJ, Carlucci AF; Aquatic Toxicol 25: 71-82 (1993) (15) Dawson TD, Chang FH; Bull Environ Contam Toxicol 49: 10-17 (1992) (16) Desai S et al; Determination of Monod Kinetics of Toxic Compounds by Respirometry for Structure-biodegradability Relationships ACS Symp Ser (Emerging Technol Hazard Waste Manage) 142-156 (1989) (17) Loehr RC; Treatability Potential For EPA Listed Hazardous Wastes In Soil. USEPA Robert S Kerr Environ Res Lab, ADA, OK USEPA/600/2-89/011 (1989)",
+            "Value": "AEROBIC: o-Cresol biodegrades rapidly in screening studies using soil, sewage, activated sludge, or municipal wastewater inocula(1-8). Acclimation is frequently not necessary(1-3,6-8). o-Cresol was completely degraded in river water in 2 and 7 days at 20 and 4 \u00b0C, respectively(9). In a field study, water from a down gradient well below a coal distillation plant showed a 76% concentration reduction (after corrections for dispersion were made) compared with near surface water(10). o-Cresol is reported to degrade in soil but no rates were given(11). The disproportionate decrease in concn of o-cresol in groundwater down-gradient from a wood preserving facility has been ascribed to biodegradation(12). o-Cresol was completely degraded in 20 days using groundwater obtained from a gasoline-contaminated aquifer incubated under aerobic conditions(13). The half-life of o-cresol in southern California coastal waters was reported as 50 days(14). Pure cultures isolated from reed-sedge peat bogs completely degraded o-cresol during a 48 hour incubation period(15). The first-order aerobic biodegradation rate constant of o-cresol was reported as 0.0023/day(16), corresponding to a half-life of about 305 days(SRC). Biodegradation half-lives of 1.6 and 5.1 days were reported for 2 agricultural soils(17)."
+        },
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Jan 1, 2015: https://www.safe.nite.go.jp/english/db.html (2) ECHA; o-Cresol (CAS No. 95-48-6) Registered Substances Dossier. European Chemical Agency. Available from, as of Dec 30, 2014: https://echa.europa.eu/",
+            "Value": "AEROBIC: In a December 2012 publication, o-cresol was judged to be readily biodegradable based measured biodegradability of analogue compounds using the Japanese MITI test(1). Using OECD Guideline 302B (Inherent biodegradability: Zahn-Wellens/EMPA Test) and adapted activated sludge inoculum, o-cresol had 90% degradation in 4 days and 100% removal in 7 days(2). Using OECD Guideline 301C (Ready Biodegradability: Modified MITI Test (I)), o-cresol had >80 to <95% in 20-40 days of incubation classifying the compound as readily biodegradable(2). An aerobic study using acclimated activated sludge identified 3-methylcatechol, 4-methylresorcinol and methylhydroquinone as biodegradation products(2)."
+        },
+        {
+            "References": "(1) Horowitz A et al; Dev Ind Microbiol 23: 435-44 (1982) (2) Battersby NS, Wilson V; Appl Environ Microbiol 55: 433-39 (1989) (3) Christensen TH et al; pp. 1/207-1/214 in Proc ISWA Int Congr Exhib 7th Yokohama, Japan (1996) (4) Flyvbjerg J et al; pp. 471-79 in In Situ Bioreclamation. Hinchee RE, Olfenbuttel R,F eds. Stoneham, MA: Butterworth-Heinemann (1991) (5) ECHA; o-Cresol (CAS No. 95-48-6) Registered Substances Dossier. European Chemical Agency. Available from, as of Dec 30, 2014: https://echa.europa.eu/",
+            "Value": "ANAEROBIC: No mineralization was observed when o-cresol was incubated with two digester sludge samples for 8 weeks under anaerobic conditions(1), nor was there any mineralization in 29 weeks when incubated with anaerobic freshwater sediment(1). o-Cresol was not biodegraded in an anaerobic digester sludge over a 10 week incubation period(2). In-situ microcosms installed in landfill leachate plumes under anaerobic conditions resulted in no biodegradation of o-cresol during a 60 day incubation period(3). o-Cresol was completely degraded in creosote contaminated groundwater in 95 days (lag time, 70 days) at 10 \u00b0C and 39 days (lag time, 30 days) at 20 \u00b0C under nitrate reducing conditions(4). An anaerobic study using sludge from 12 treatment plants found that o-cresol, at 30-50 mg/L concentrations, had 0% CH4 evolution after 8 weeks of incubation(5)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Cha YJ, Caderwallader KR; J Food Sci 60: 19-24 (1995)",
+            "Value": "o-Cresol was detected in salt-fermented big-eyed herring (Harenga zunasi) at a concentration of 18.6 ng/g(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 32",
+            "Value": "log Kow = 1.95"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Schwarzbauer J et al; Org Geochem 31: 1713-1731 (2000)",
+            "Value": "SEDIMENT: o-Cresol was identified, not quantified, in sediment samples obtained from the Elbe River, Germany(1)."
+        },
+        {
+            "References": "(1) McCreary JJ et al; Chemosphere 12: 1619-32 (1983) (2) Pakdel H et al; pp. 381-421 in Groundwater Contamination and Analysis at Hazardous Waste Sites. Lesage S, Jackson RE, eds. New York, NY: Marcel Dekker, Inc (1994)",
+            "Value": "SOIL: o-Cresol was detected at maximum concentrations of 12, 21 and 34 ug/g in the soil of an abandoned pine tar manufacturing plant in Gainesville, FL(1). o-Cresol was detected at concentrations of 0-8.8 ug/kg in soil in Ville Mercier, Quebec, Canada(2)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) ECHA; Search For Chemicals. O-cresol (95-48-6) Registered Substances Dossier. Full. European Chemical Agency. Available from, as of Dec 30, 2014: https://echa.europa.eu/ (2) Kopinke FD et al; Environ Sci Technol 29: 941-50 (1995) (3) Artiola-Fortuny J, Fuller WH; Soil Sci 133: 18-26 (1982) (4) Yediler A et al; Toxicol Environ Chem 31-32: 119-125 (1991) (5) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "A Koc of 22 was measured for o-cresol in a Brookston clay loam soil(1). The log Koc of  o-cresol in river sediment and coal sediment was reported as 1.7 and 1.75, respectively(2), which correspond to Koc values of 50 and 56(SRC). Based on measured Freundlich isotherms for o-cresol in five different horizon soils (organic content of 0.3 to 0.9%)(3), the Koc ranged from 36 to 240 with an average of 147(SRC). An o-cresol Koc of 246 was determined in batch experiments using a sandy soil with an organic content of 1.5%(4).  According to a classification scheme(5), these Koc values indicate that o-cresol is expected to have very high to moderate mobility in soil."
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "669270f4303528b49832d759"
+    },
+    "CID": {
+        "$numberInt": "41648"
+    },
+    "Name": "Isouron",
+    "IUPACName": "3-(5-tert-butyl-1,2-oxazol-3-yl)-1,1-dimethylurea",
+    "CanonicalSMILES": "CC(C)(C)C1=CC(=NO1)NC(=O)N(C)C",
+    "Synonyms": [
+        "ISOURON",
+        "55861-78-4",
+        "3-(5-(tert-Butyl)isoxazol-3-yl)-1,1-dimethylurea",
+        "3-(5-tert-butyl-1,2-oxazol-3-yl)-1,1-dimethylurea",
+        "3-(5-tert-Butylisoxazol-3-yl)-1,1-dimethylurea",
+        "EBG244KQOD",
+        "\"N-(5-(1,1-Dimethylethyl)-3-isoxazolyl)-N,N-dimethylurea\"",
+        "1-(5-tert-butyl-1,2-oxazol-3-yl)-3,3-dimethylurea",
+        "\"Urea",
+        "N-(5-(1,1-dimethylethyl)-3-isoxazolyl)-N,N-dimethyl-\"",
+        "Caswell No. 419E",
+        "Isouron [ANSI:BSI:ISO]",
+        "Isouron [ISO]",
+        "SSH 43",
+        "UNII-EBG244KQOD",
+        "EL-187"
+    ],
+    "IsomericSMILES": "CC(C)(C)C1=CC(=NO1)NC(=O)N(C)C",
+    "INCHI": "InChI=1S/C10H17N3O2/c1-10(2,3)7-6-8(12-15-7)11-9(14)13(4)5/h6H,1-5H3,(H,11,12,14)",
+    "INCHIKEY": "JLLJHQLUZAKJFH-UHFFFAOYSA-N",
+    "Formula": "C10H17N3O2",
+    "MolecularWeight": {
+        "$numberDouble": "211.26"
+    },
+    "Description": "Isouron is an oxazole.",
+    "XlogP": {
+        "$numberDouble": "1.6"
+    },
+    "Complexity": {
+        "$numberInt": "235"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "uptake of isouron by sugarcane plants from soil was more rapid during the first 7 weeks than during the later stage. Specific activity in plants reached a maximum in 4-7 weeks. More than 83% of the radioactivity translocated to leaves after 2 weeks. Larger amount of radioactivity was detected in the young leaves at the earlier stage, but most of the activity was found in the old leaves at the late stage after 7 weeks. Up to 7 weeks, 97.7 to 94.4% of the radioactivities were extractable with methanol-water (2:1) from the leaves. Among them, dichloromethane extractable parts decreased from 73.4 to 26.3%, while water soluble fractions increased from 24.6 to 69.4% as the time elapsed. Since 5.4 to 17.7% of the radio_x0002_activities in the aqueous phase were extractable with dichloromethane after acid hydrolysis, the existence of metabolites in conjugated form was suggested.",
+            "reference": "\u9673\u7389\u9e9f, \u5449\u5929\u57fa, \u8449\u9d3b\u5c55, & \u738b\u4e00\u96c4. (1983). Uptake and Translocation of Isouron in Sugarcane Plants. Journal of Pesticide Science, 8(4), 607-611.",
+            "method": {
+                "Test Plant": "Sugarcane (cv. F160)",
+                "Apply Location": "Soil application (treated with isouron)",
+                "Plant Grown Condition": "Sandy loam soil with clay 6%, silt 28%, sand 66%, organic matter 1.18%, pH 6.5 (H2O)",
+                "Chemical preparation": "Pure isouron and 14C-isouron labeled at position 5 of the isoxazole ring with a specific activity of 8.28 mCi/mmol were provided. The soil was treated with 4 mg cold isouron amended with 1 \u03bcCi hot material per kg air-dried soil (equivalent to 1 kg a.i./ha) at 1 cm thickness.",
+                "Pesticide Application Details for the Plant": "The soil surface was covered with soil treated with 4 mg of cold Isouron, amended with 1 \u03bcCi of hot material per kg of air-dried soil (equivalent to 1 kg a.i./ha, the recommended rate used in sugarcane fields) at a thickness of 1 cm.",
+                "Other Information": "Four flats by planting 4 rows of 6 plants in each flat were cultivated in the experiment."
+            },
+            "result": "[{\"Time after application\": \"1 day\", \"Absorption\": \"<1 * 10^4 CPM per plant\", \"Leaf (%)\": \"31.7 (16.7 in 0 leaf; 15.0 in 1st leaf)\", \"Scale (%)\": 33.2, \"Stem (%)\": 8.7, \"Root (%)\": 26.4}, {\"Time after application\": \"3 days\", \"Absorption\": \"<1 * 10^4 CPM per plant\", \"Leaf (%)\": \"50.1 (11.4 in 0 leaf; 23.4 in 1st leaf; 15.3 in 2nd leaf)\", \"Scale (%)\": 12.8, \"Stem (%)\": 5.4, \"Root (%)\": 31.7}, {\"Time after application\": \"7 days\", \"Absorption\": \"1 * 10^4 CPM per plant\", \"Leaf (%)\": \"63.5 (22.1 in 0 leaf; 22.3 in 1st leaf; 19.1 in 2nd leaf)\", \"Scale (%)\": 18.8, \"Stem (%)\": 4.9, \"Root (%)\": 12.8}, {\"Time after application\": \"14 days\", \"Absorption\": \"2 * 10^4 CPM per plant\", \"Leaf (%)\": \"83.5 (23.0 in 0 leaf; 22.8 in 1st leaf; 23.1 in 2nd leaf; 14.6 in 3rd leaf)\", \"Scale (%)\": 7.3, \"Stem (%)\": 1.9, \"Root (%)\": 7.3}, {\"Time after application\": \"28 days\", \"Absorption\": \"5 * 10^4 CPM per plant\", \"Leaf (%)\": \"84.8 (17.2 in 0 leaf; 32.2 in 1st leaf; 22.0 in 2nd leaf; 13.4 in 3rd leaf)\", \"Scale (%)\": 5.3, \"Stem (%)\": 1.9, \"Root (%)\": 7.9}, {\"Time after application\": \"49 days\", \"Absorption\": \"6.5 * 10^4 CPM per plant\", \"Leaf (%)\": \"86.4 (3.3 in 0 leaf; 6.4 in 1st leaf; 15.1 in 2nd leaf; 19.2 in 3rd leaf; 25.1 in 4th leaf; 17.4 in 5th leaf)\", \"Scale (%)\": 7.7, \"Stem (%)\": 2.4, \"Root (%)\": 3.5}, {\"Time after application\": \"112 days\", \"Absorption\": \"8 * 10^4 CPM per plant\", \"Leaf (%)\": \"87.2 (5.9 in 0 leaf; 3.2 in 1st leaf; 6.0 in 2nd leaf; 10.5 in 3rd leaf; 13.2 in 4th leaf; 14.0 in 5th leaf; 34.4 in dead leaf)\", \"Scale (%)\": 0.0, \"Stem (%)\": 3.4, \"Root (%)\": 9.4}, {\"Time after application\": \"175 days\", \"Absorption\": \"10 * 10^4 CPM per plant\", \"Leaf (%)\": \"87.6 (1.7 in 0 leaf; 2.0 in 1st leaf; 5.9 in 2nd leaf; 5.9 in 3rd leaf; 5.8 in 4th leaf; 8.3 in 5th leaf; 9.8 in 6th leaf; 48.2 in dead leaf)\", \"Scale (%)\": 0.0, \"Stem (%)\": 8.5, \"Root (%)\": 3.9}]"
+        }
+    ]
+}

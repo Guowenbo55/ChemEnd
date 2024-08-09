@@ -1,0 +1,103 @@
+{
+    "_id": {
+        "$oid": "6682e80ac4e5dba5ffba239e"
+    },
+    "CID": {
+        "$numberInt": "4096"
+    },
+    "Name": "METHAMIDOPHOS",
+    "IUPACName": "[amino(methylsulfanyl)phosphoryl]oxymethane",
+    "CanonicalSMILES": "COP(=O)(N)SC",
+    "Synonyms": [
+        "methamidophos",
+        "Metamidophos",
+        "10265-92-6",
+        "Tamaron",
+        "O,S-Dimethyl phosphoramidothioate",
+        "MONITOR",
+        "Pillaron",
+        "Tahmabon",
+        "Amidor",
+        "Filitox",
+        "Hamidop",
+        "Patrole",
+        "Tamanox",
+        "Acephate-met",
+        "Sniper"
+    ],
+    "IsomericSMILES": "COP(=O)(N)SC",
+    "INCHI": "InChI=1S/C2H8NO2PS/c1-5-6(3,4)7-2/h1-2H3,(H2,3,4)",
+    "INCHIKEY": "NNKVPIKMPCQWCG-UHFFFAOYSA-N",
+    "Formula": "C2H8NO2PS",
+    "MolecularWeight": {
+        "$numberDouble": "141.13"
+    },
+    "Description": "Methamidophos is an organic thiophosphate resulting from the N-deacylation of the proinsecticide acephate. It has a role as an acaricide, an agrochemical and an avicide. It is an organic thiophosphate, a phosphoramide and an organothiophosphate insecticide.",
+    "XlogP": {
+        "$numberDouble": "-0.9"
+    },
+    "Complexity": {
+        "$numberInt": "95"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "PMID:1992493",
+            "Value": "Methamidophos was qualitatively identified in 100%, 13%, 8%, 7%, 33%, 5%, and 53% of beans, broccoli, cabbage, cauliflower, lettuce, potato, and tomato samples tested during the California Department of Food and Agriculture pesticide residue monitoring of various food samples for the test period of 1989, respectively(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Tomlin CDS, ed; The Pesticide Manual. 11th ed. Farnham, Surrey, UK: British Crop Protection Council p. 808 (1997) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3.1 was calculated for methamidophos(SRC), using a log Kow of -0.8(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) USDA; ARS Pesticide Properties Database on Methamidophos (10265-92-6). Available from, as of July 2, 2003: https://www.ars.usda.gov/Services/docs.htm?docid=14199",
+            "Value": "AEROBIC: Half-lives in Mooretown, NJ loam, Florida sandy loam, and sandy loam were 0.583, 4.8, and 6.1 days under aerobic conditions(1)."
+        },
+        {
+            "References": "(1) USDA; ARS Pesticide Properties Database on Methamidophos (10265-92-6). Available from, as of July 2, 2003: https://www.ars.usda.gov/Services/docs.htm?docid=14199",
+            "Value": "ANAEROBIC: Half-lives in loamy sand and sandy loam were 11 and 4 days, respectively, under anaerobic conditions(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium, 11 th ed., British Crop Protection Council, Surrey, England 1997, p. 808",
+            "Value": "log Kow = -0.8 @ 20 \u00b0C"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "WHO; Environ Health Criteria 63: Organophosphorus pesticides (1986). Available from, as of July 3,2003: https://www.inchem.org/pages/ehc.html",
+            "Value": "Organophosphorus insecticides exert their acute effects in both insects and mammals by inhibiting acetylcholinesterase (AChE) in the nervous system with subsequent accumulation of toxic levels of acetylcholine (ACh), which is a neurotransmitter.  In many cases, the organophosphorylated enzyme is fairly stable, so that recovery from intoxication may be slow. /Organophosphorus Pesticides/"
+        },
+        {
+            "References": "PMID:1660708",
+            "Value": "The interaction with neural neuropathy target esterase and acetylcholinesterase in vivo of methamidophos, its resolved stereoisomers and five higher O-alkyl homologs has been examined along with the ability of these cmpd to cause organophosphorus induced delayed polyneuropathy in adult hens. For the lower homologs, acetylcholinesterase was more sensitive than neuropathy target esterase and it was impossible to achieve high inhibition of neuropathy target esterase in vivo without both prophylaxis and therapy against acute anticholinesterase effects; for the n-hexyl homolog high inhibition of neuropathy target esterase could be achieved without obvious anticholinesterase effects and spontaneous reactivation of inhibited acetycholinesterase was seen as in vitro. The maximum tolerated dose of L(-) methamidophos or of the ethyl- or isopropyl homologs did not inhibit neuropathy target esterase more than 60%, and surviving birds did not develop organophosphorus induced delayed polyneuropathy. The n-propyl, n-butyl and n-hexyl compounds caused typical organophosphorus induced delayed polyneuropathy at doses causing a peak of 70-95% inhibition of neuropathy target esterase in brain, spinal cord and sciatic nerve soon after dosing. Racemic methamidophos caused unusually mild organophosphorus induced delayed polyneuropathy associated with very high inhibition of neuropathy target esterase at doses estimated to be > 8 times the unprotected LD50 and the D-(+) isomer caused organophosphorus induced delayed polyneuropathy at about 5-7 times the LD50. Clinical effects correlated with histopathology in 19 out of 20 examined birds. In contrast to results of many previous studies with organophosphates and phosphonates, all these cases of organophosphorus induced delayed polyneuropathy were associated with formation of inhibited neuropathy target esterase which could be reactivated ex vivo by treatment of autopsy tissue with KF solution. It is not clear whether aging of inhibited neuropathy target esterase had occurred but with less associated stabilization of the enzyme-phosphorus bond or whether, even without aging, the unusual N-unsubstituted phosphoramidate caused sufficient disturbance in or near the neuropathy target esterase target to initiate the same degenerative process as that caused typically by generation of aged organophosphorylated neuropathy target esterase."
+        },
+        {
+            "References": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 34",
+            "Value": "Organophosphates poison insects and mammals primarily by phosphorylation of the acetylcholinesterase enzyme at nerve endings. ... At sufficient dosage, loss of enzyme function allows accumulation of acetylcholine (the impulse- transmitter substance) at cholinergic neuroeffector junctions (muscarinic effects, and at skeletal myoneural junctions and in autonomic ganglia (micotinic effects). Organophosphates also impair nerve impulse transmission in the brain ... . /Organophosphate pesticides/"
+        },
+        {
+            "References": "USEPA/Office of Pesticide Programs; Methamidophos- Revised Toxicology Chapter for RED. February 2000. Available from, as of June 16, 2003: https://www.epa.gov/oppsrrd1/op/methamidophos/rev_tox.pdf",
+            "Value": "In a neuropathy target esterase (NTE) study in hens, inhibition of NTE activity in the brain was: 66% at twice the LD50 (50 mg/kg) for Methamidophos (+/-) with 89% of the inhibited NTE being reactivated in an unmodified (unaged) form. For the Methamidophos (+) isomer, NTE was inhibited 98% at ten times the LD50 (400 mg/kg) with 86% of the inhibited NTE being reactivated in an unaged form. For the Methamidophos (-) isomer, NTE was inhibited by 58-84% at five times the LD50 (400 mg/kg) with 27% of the inhibited NTE being reactivated in an unaged form. Approximately 73% of the inhibited NTE was modified (aged). Based on the marked percentage of aged NTE, the (-) isomer could be considered a possible trigger for organophosphorus esterase-induced delayed polyneuropathy (OPIDP)."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Melluso G et al; Bull Envrion Contam Toxicol 52: 13-18 (1994)",
+            "Value": "SEDIMENT: Methamidophos concentrations in sediment collected during 1988-1989 from three sites from the Sarno River, southern Italy were 117, 130, and 200 ng/g dry weight(1). Methamidophos concentrations in sediment from the Volturno River, southern Italy were below the detection limit (<30 pg/g dry weight) for two sites and 130 ng/g dry weight for a third site(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Wauchope RD et al; Rev Environ Contam Toxicol 123: 1-36 (1991) (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "A Koc of 5 has been reported for methamidophos(1). According to a classification scheme(2), this Koc value suggests that methamidophos is expected to have very high mobility in soil."
+        }
+    ]
+}

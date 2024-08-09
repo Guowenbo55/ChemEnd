@@ -1,0 +1,78 @@
+{
+    "_id": {
+        "$oid": "6682e904c4e5dba5ffba2881"
+    },
+    "CID": {
+        "$numberInt": "12542"
+    },
+    "Name": "FLUOROACETAMIDE",
+    "IUPACName": "2-fluoroacetamide",
+    "CanonicalSMILES": "C(C(=O)N)F",
+    "Synonyms": [
+        "FLUOROACETAMIDE",
+        "2-Fluoroacetamide",
+        "640-19-7",
+        "Monofluoroacetamide",
+        "Acetamide",
+        "2-fluoro-",
+        "Fluorkill",
+        "Fluoroacetic acid amide",
+        "Megatox",
+        "Fussol",
+        "Yanock",
+        "Fluoroakil 100",
+        "Fluorakil 100",
+        "Navron",
+        "Compound 1081",
+        "Fluoracetamide"
+    ],
+    "IsomericSMILES": "C(C(=O)N)F",
+    "INCHI": "InChI=1S/C2H4FNO/c3-1-2(4)5/h1H2,(H2,4,5)",
+    "INCHIKEY": "FVTWJXMFYOXOKK-UHFFFAOYSA-N",
+    "Formula": "C2H4FNO",
+    "MolecularWeight": {
+        "$numberDouble": "77.06"
+    },
+    "Description": "2-fluoroacetamide is acetamide substituted at C-2 by a fluorine atom.",
+    "XlogP": {
+        "$numberDouble": "-1"
+    },
+    "Complexity": {
+        "$numberInt": "44"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Thom NS, Agg AR; Proc R Soc Lond B 189: 347-57 (1975) (2) David WAL, Gardiner BOC; Nature 209: 1367-8 (1966)",
+            "Value": "Fluoroacetamide is reported to be a chemical that should be degradable by biological sewage treatment provided suitable acclimatization can be achieved(1). The persistence of fluoroacetamide was studied in garden soil by determining its toxicity to aphids(2). At a concn of 50 ppm, toxicity had ceased after 11 weeks of incubation and at a conc of 10 ppm, toxicity lasted only 3 weeks(2). In a control soil that had been steam sterilized, toxicity was still evident at both concs after 17 weeks suggesting that the degradation was microbial in nature(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 4",
+            "Value": "log Kow= -1.05"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Doull, J., C.D.Klassen, and M.D. Amdur (eds.). Casarett and Doull's Toxicology. 3rd ed., New York: Macmillan Co., Inc., 1986., p. 565",
+            "Value": "FLUOROACETATE PRODUCES ITS TOXIC ACTION BY INHIBITING THE CITRIC ACID CYCLE. THE FLUORINE SUBSTITUTED ACETATE BECOMES INCORPORATED, AS A NORMAL ACETATE, INTO FLUOROACETYL COENZYME A, WHICH CONDENSES WITH OXALOACETATE TO FORM FLUOROCITRATE. FLUOROCITRATE INHIBITS THE ENZYME ACONITASE & THEREBY INHIBITS THE CONVERSION OF CITRATE TO ISOCITRATE. AS A RESULT THERE IS AN ACCUMULATION OF LARGE QUANTITIES OF CITRATE IN THE TISSUE, & THE CYCLE IS BLOCKED. ... THE HEART & CNS ARE THE MOST CRITICAL TISSUES INVOLVED IN POISONING BY GENERAL INHIBITION OF OXIDATIVE ENERGY METABOLISM. /FLUOROACETATE/"
+        },
+        {
+            "References": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. III-193",
+            "Value": "FLUOROACETAMIDE ... /IS/ TOXIC TO MAMMALS PRESUMABLY BECAUSE OF METABOLIC ... /HYDROLYSIS/ TO FLUOROACETATE."
+        },
+        {
+            "References": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 492",
+            "Value": "Moderately fast-acting rodenticide which is less likely to lead to poison shyness because of sublethal dosing. It acts chiefly on the heart, with secondary effects on CNS."
+        }
+    ],
+    "plant_translocation": [
+        {
+            "References": "Chapman, C., & Phillips, M. A. (1958). Fluoroacetamide as a systemic insecticide. Nature, 181(4626), 1810-1811",
+            "Value": "IT may be of interest to report that we found, as preliminary to many field experiments on the systemic insecticidal activity of fluoroacetamide against aphid pests of a number of flowering plants, that cuttings of rose bushes (unidentified species), infested very seriously with Macrosiphum rosae L. and their cut ends dipped in solutions of the insecticide at certain concentration (with 0.05 per cent wetting agent added), gave the kills indicated."
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "_id": {
+        "$oid": "6692712c303528b49832d833"
+    },
+    "CID": {
+        "$numberInt": "70400055"
+    },
+    "Name": "Unii-E6slk39vzn",
+    "IUPACName": "2-(2,4-dichlorophenoxy)acetate;tris(2-hydroxyethyl)azanium",
+    "CanonicalSMILES": "C1=CC(=C(C=C1Cl)Cl)OCC(=O)[O-].C(CO)[NH+](CCO)CCO",
+    "Synonyms": [
+        "Caswell No. 315AC",
+        "UNII-E6SLK39VZN",
+        "SCHEMBL10595297",
+        "EINECS 219-911-1",
+        "2,4-D tris(2-hydroxyethyl)ammonium",
+        "2,4-D-tris(2-Hydroxyethyl)ammonium",
+        "EPA Pesticide Chemical Code 030033",
+        "NS00081581",
+        "Acetic acid",
+        "(2,4-dichlorophenoxy)-",
+        "triethanolamine salt"
+    ],
+    "IsomericSMILES": "C1=CC(=C(C=C1Cl)Cl)OCC(=O)[O-].C(CO)[NH+](CCO)CCO",
+    "INCHI": "InChI=1S/C8H6Cl2O3.C6H15NO3/c9-5-1-2-7(6(10)3-5)13-4-8(11)12;8-4-1-7(2-5-9)3-6-10/h1-3H,4H2,(H,11,12);8-10H,1-6H2",
+    "INCHIKEY": "OLHMQEQGSVBLTJ-UHFFFAOYSA-N",
+    "Formula": "C14H21Cl2NO6",
+    "MolecularWeight": {
+        "$numberDouble": "370.2"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "NaN"
+    },
+    "Complexity": {
+        "$numberInt": "237"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The study investigated the impact of two fatty amine surfactants, Armoblen 557 and Ethomeen T/27, on the foliar absorption, translocation, and efficacy of 2,4-dichlorophenoxyacetic acid triethanolamine salt (2,4-DTR). The results showed that both surfactants significantly enhanced the foliar absorption of 2,4-DTR in black nightshade (Solanum nigrum L.) when applied at a concentration of 0.5% (w/v), increasing absorption by a factor of 4. However, applying the surfactants at a concentration of 0.05% (w/v) had no effect on absorption. The surfactants also reduced the translocation efficiency of 14C from 2,4-DTR in black nightshade by a factor of 1.5-2. Additionally, both surfactants greatly improved the efficacy of 2,4-DTR when applied at a concentration of 2.4 mM in the spray solution. At a higher concentration of 11.3 mM, the surfactants enhanced efficacy at a concentration of 0.5% but not at 0.05%. The findings suggested that altering the hydrophilic/lipophilic characteristics of the fatty amine surfactant by incorporating propylene oxide groups did not influence the absorption and efficacy of 2,4-DTR.",
+            "reference": "de Ruiter, H., Straatman, K. R., & Meinen, E. (1995). Influence of two fatty amine surfactants on foliar absorption, translocation, and efficacy of 2, 4-D triethanolamine salt. Journal of Agricultural and Food Chemistry, 43(12), 3093-3097.",
+            "method": {
+                "Test Plant": "Black nightshade (Solanum nigrum)",
+                "Apply Location": "Foliar",
+                "Plant Grown Condition": "Hydroponically in a growth chamber under 14 hours of light, 18/12(\u00b10.5) \u00b0C (day/night) temperature, and 70/80 (\u00b15)% (day/night) relative humidity. The experiments with 14C-labeled herbicides were performed in an identical growth chamber under the same conditions, except that the night temperature was 18\u00b0C.",
+                "Chemical Preparation": "2,4-D triethanolamine salt (2,4-DTR) and 2,4-Dichlorophenoxy[2-14C]acetic acid triethanolamine salt were used. The concentrations of 2,4-DTR (labeled plus unlabeled) were 11.3 mM (specific activity 29.47 MBq mmol-1), equivalent to the molarity of 2,4-D acid when applied at a rate of 1 kg ha-1 at a spray volume of 400 L ha-1. The specific activity of the radioactive 2,4-DTR was 12.8 x 1010 and 44.8 x 1010 Bq/tmol-1, respectively. Additional solutions were prepared in which 2,4-DTR and 2,4-D were combined, and the 14C-label was associated with either 2,4-DTR or 2,4-D.",
+                "Pesticide Application Details for the Plant": "The solutions were applied to the leaf surface as five 1-\u00b5L drops (334 Bq, \u00b5L-1) to a discrete area (diameter < 1 cm) on the adaxial surface in the median part of the leaf, outlined with waterproof ink. It took 1 h to apply all of the herbicide solutions.",
+                "Other Information": "The experiments were part of a program using several species. Acetone was added to the 2,4-DTR solutions to facilitate the application of drops to difficult-to-wet leaf surfaces. The efficiency of the washing procedure was extensively tested, and recovery of 100% was measured."
+            },
+            "result": "[{\"Surfactants\": \"-\", \"Uptake (% of applied)\": 8.0, \"Translocation\": 3.2, \"Translocation/Uptake x 100%\": 44.0, \"Recovery (%)\": 100.3}, {\"Surfactants\": \"0.05% A557\", \"Uptake (% of applied)\": 8.0, \"Translocation\": 2.7, \"Translocation/Uptake x 100%\": 41.5, \"Recovery (%)\": 94.4}, {\"Surfactants\": \"0.5% A557\", \"Uptake (% of applied)\": 32.4, \"Translocation\": 7.9, \"Translocation/Uptake x 100%\": 27.8, \"Recovery (%)\": 84.5}, {\"Surfactants\": \"0.05% ET/27\", \"Uptake (% of applied)\": 5.4, \"Translocation\": 2.6, \"Translocation/Uptake x 100%\": 54.1, \"Recovery (%)\": 100.2}, {\"Surfactants\": \"0.5% ET/27\", \"Uptake (% of applied)\": 30.7, \"Translocation\": 5.9, \"Translocation/Uptake x 100%\": 25.2, \"Recovery (%)\": 91.9}]"
+        }
+    ]
+}

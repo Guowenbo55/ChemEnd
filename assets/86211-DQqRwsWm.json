@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "66927114303528b49832d7d5"
+    },
+    "CID": {
+        "$numberInt": "86211"
+    },
+    "Name": "Ipconazole",
+    "IUPACName": "2-[(4-chlorophenyl)methyl]-5-propan-2-yl-1-(1,2,4-triazol-1-ylmethyl)cyclopentan-1-ol",
+    "CanonicalSMILES": "CC(C)C1CCC(C1(CN2C=NC=N2)O)CC3=CC=C(C=C3)Cl",
+    "Synonyms": [
+        "Ipconazole",
+        "125225-28-7",
+        "2-[(4-chlorophenyl)methyl]-5-propan-2-yl-1-(1,2,4-triazol-1-ylmethyl)cyclopentan-1-ol",
+        "DTXSID7034674",
+        "CHEBI:81770",
+        "2-((4-chlorophenyl)methyl)-5-(1-methylethyl)-1-(1H-1,2,4-triazol-1-ylmethyl)cyclopentanol",
+        "Ipconazole [ISO]",
+        "Rancona",
+        "UNII-FC61260G4Q",
+        "2-[(4-chlorophenyl)methyl]-5-(1-methylethyl)-1-(1H-1,2,4-triazol-1-ylmethyl)cyclopentanol",
+        "SCHEMBL21696",
+        "CHEMBL3185422",
+        "DTXCID5014674",
+        "FC61260G4Q",
+        "Tox21_302497"
+    ],
+    "IsomericSMILES": "CC(C)C1CCC(C1(CN2C=NC=N2)O)CC3=CC=C(C=C3)Cl",
+    "INCHI": "InChI=1S/C18H24ClN3O/c1-13(2)17-8-5-15(9-14-3-6-16(19)7-4-14)18(17,23)10-22-12-20-11-21-22/h3-4,6-7,11-13,15,17,23H,5,8-10H2,1-2H3",
+    "INCHIKEY": "QTYCMDBMOLSEAM-UHFFFAOYSA-N",
+    "Formula": "C18H24ClN3O",
+    "MolecularWeight": {
+        "$numberDouble": "333.9"
+    },
+    "Description": "Ipconazole is a member of the class of cyclopentanols carrying 1,2,4-triazol-1-ylmethyl, 4-chlorobenzyl and isopropyl substituents at positions 1, 2 and 5 respectively. Used to control a range of seed diseases in rice, vegetables and other, mainly non-food, crops. It has a role as an EC 1.14.13.70 (sterol 14alpha-demethylase) inhibitor and an antifungal agrochemical. It is a member of cyclopentanols, a member of monochlorobenzenes, a member of triazoles, a tertiary alcohol, a conazole fungicide and a triazole fungicide.",
+    "XlogP": {
+        "$numberDouble": "4.1"
+    },
+    "Complexity": {
+        "$numberInt": "387"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The metabolism of ipconazole, isopropyl-l-(1H-l,2,4-triazol-l-ylmethyl), after seed treatment was investigated in rice seedlings and mature plants. Seeds were treated with two types of 14C-labeled ipconazole, [T-14C]-ipconazole labeled at the triazole ring and [B-14C]-ipconazole labeled at the benzylmethylene position. After 22 days, 40-41% of the applied radioactivity was recovered from soil, 27% from roots and seeds, and only 0.36-0.42% from rice shoots. The main metabolites in rice seedlings were oxidative products at the carbons of the isopropyl group and the benzylmethylene, with trace amounts of conjugated metabolites. Residues in hulled rice from plants treated with [T-14C]-ipconazole and [B-14C]-ipconazole were 2.5 \u00b5g eq./kg and 0.2 csg eq./kg, respectively. Ipconazole and its metabolites detected in seedlings were not found in hulled rice, with most of the radioactivity from [T-14C]-ipconazole detected in the unextractable residue and water-soluble fraction from hulled rice.",
+            "reference": "\u6c38\u585a\u9686\u7531, \u9f4b\u85e4\u5eb7\u6bc5, \u5343\u7530\u5e38\u660e, \u4f50\u7af9\u6176\u543e, & \u5c71\u53e3\u52c7. (1994). Metabolism of ipconazole, a new triazole fungicide for seed treatment, in rice plants. Journal of Pesticide Science, 19(4), 285-297.",
+            "method": {
+                "Test Plant": "Rice (Oryza sativa L. cv. Nihonbare)",
+                "Apply Location": "Seed treatment",
+                "Plant Grown Condition": "Seeds harvested in 1989, selected with salt solution before use. Details of plant growing conditions not provided.",
+                "Chemical Preparation": "[T-14C]-ipconazole labeled on triazole ring (specific activity 1.88 GBq/mmol, 98.2/1.8 isomer ratio).[B-14C]-ipconazole labeled on benzyl position (specific activity 1.92 GBq/mmol, 94.4/5.6 isomer ratio). Radiolabeled compounds purified by column chromatography. Authentic standards of ipconazole and metabolites synthesized",
+                "Pesticide Application Details for the Plant": "Seeds soaked in [T-14C]-ipconazole suspension (199 or 19 MBq/mmol) for 24h or 10 min respectively. Or seeds dressed by adding 199 MBq/mmol [T-14C]-ipconazole powder at 0.5% seed weight. Treated seeds soaked in water at 28\u00b0C for 3 days or kept unsoaked",
+                "Other Information": "Radioactivity measured by liquid scintillation counting. Seeds washed with benzene to remove surface residues"
+            },
+            "result": "[{\"Pretreatment of seed soaking\": \"300 ug a.i./ml 24hr\", \"Benzene washing (% of recovered)\": 57.1, \"Chaff (%)\": 41.0, \"Hulled rice (%)\": 1.9}, {\"Pretreatment of seed soaking\": \"3000 ug a.i./ml 10 min\", \"Benzene washing (% of recovered)\": 77.9, \"Chaff (%)\": 20.6, \"Hulled rice (%)\": 1.5}, {\"Pretreatment of seed soaking\": \"dressing\", \"Benzene washing (% of recovered)\": 89.1, \"Chaff (%)\": 10.8, \"Hulled rice (%)\": 0.1}]"
+        }
+    ]
+}

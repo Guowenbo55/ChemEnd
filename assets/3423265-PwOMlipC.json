@@ -1,0 +1,78 @@
+{
+    "_id": {
+        "$oid": "6682e9afc4e5dba5ffba2bdc"
+    },
+    "CID": {
+        "$numberInt": "3423265"
+    },
+    "Name": "SODIUM LAURYL SULFATE",
+    "IUPACName": "sodium;dodecyl sulfate",
+    "CanonicalSMILES": "CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+]",
+    "Synonyms": [
+        "Sodium dodecyl sulfate",
+        "151-21-3",
+        "SODIUM LAURYL SULFATE",
+        "Sodium lauryl sulphate",
+        "Sodium dodecylsulfate",
+        "Sodium dodecyl sulphate",
+        "Dodecyl sulfate sodium salt",
+        "Neutrazyme",
+        "Sodium n-dodecyl sulfate",
+        "Irium",
+        "Sulfuric acid monododecyl ester sodium salt",
+        "Dodecyl sodium sulfate",
+        "Dodecyl sulfate",
+        "sodium salt",
+        "Anticerumen",
+        "Duponal"
+    ],
+    "IsomericSMILES": "CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+]",
+    "INCHI": "InChI=1S/C12H26O4S.Na/c1-2-3-4-5-6-7-8-9-10-11-12-16-17(13,14)15;/h2-12H2,1H3,(H,13,14,15);/q;+1/p-1",
+    "INCHIKEY": "DBMJMQXJHONAFJ-UHFFFAOYSA-M",
+    "Formula": "C12H25NaO4S",
+    "MolecularWeight": {
+        "$numberDouble": "288.38"
+    },
+    "Description": "Sodium dodecyl sulfate is an organic sodium salt that is the sodium salt of dodecyl hydrogen sulfate. It has a role as a detergent and a protein denaturant. It contains a dodecyl sulfate.",
+    "XlogP": {
+        "$numberDouble": "NaN"
+    },
+    "Complexity": {
+        "$numberInt": "249"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 76 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Jun 24, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm/ (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 71 was calculated for sodium lauryl sulfate(SRC), using a log Kow of 1.6(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is moderate."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Biodegradation and bioaccumulation data of existing chemicals based on the CSCL Japan. Japan Chemical Industry Ecology - Toxicology and Information Center. ISBN 4-89074-101-1 (1992) (2) Deschenes L et al; Hydrol Sci J 40: 471-484 (1995) (3) Anderson DJ et al; Appl Environ Microbiol 56: 758-63 (1990)",
+            "Value": "AEROBIC: Sodium lauryl sulfate, present at 100 mg/L, reached 85% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1). In 10 days, approximately 60% of sodium lauryl sulfate, present at 10 mg/kg, was mineralized in a creosote-contaminated sandy loam soil; the rate of biodegradation decreased slightly at higher concentrations(2). The biodegradation of sodium lauryl sulfate varied considerably in river water samples collected from four locations of a polluted river at two times(3). The time to removal of approximately 80% of the initial concentration (approximately 25 ppm) of sodium lauryl sulfate ranged from 50-140 hours depending upon the season in which the samples were collected and the inoculum source(3)."
+        },
+        {
+            "References": "(1) Margesin R, Schinner F; Int Biodeterior Biodegradation 41: 139-43 (1998)",
+            "Value": "AEROBIC: Sodium lauryl sulfate biodegradation was noted at 10 \u00b0C by diesel-oil degrading cold-adapted soil inocula in mineral medium. Sixteen out of the 29 inocula were capable of degrading 500-1000 mg sodium lauryl sulfate/L within 96 hrs at 10 \u00b0C. Three of these were not capable of degrading sodium lauryl sulfate 2000 mg/L(1)."
+        },
+        {
+            "References": "(1) Wagener S, Schink B; Wat Res 21: 615-622 (1987)",
+            "Value": "ANAEROBIC: Anaerobic degradation of sodium lauryl sulfate, using anoxic sludge from a wastewater treatment plant and a polluted river as the inoculum, resulted in inhibitory effects at >100 mg/L and >50 mg/L, respectively(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 107",
+            "Value": "log Kow = 1.60"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Jun 24, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of sodium lauryl sulfate can be estimated to be 3200(SRC). According to a classification scheme(2), this estimated Koc value suggests that sodium lauryl sulfate is expected to have slight mobility in soil."
+        }
+    ]
+}

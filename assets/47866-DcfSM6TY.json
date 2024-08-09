@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "66927105303528b49832d79b"
+    },
+    "CID": {
+        "$numberInt": "47866"
+    },
+    "Name": "Cyromazine",
+    "IUPACName": "2-N-cyclopropyl-1,3,5-triazine-2,4,6-triamine",
+    "CanonicalSMILES": "C1CC1NC2=NC(=NC(=N2)N)N",
+    "Synonyms": [
+        "CYROMAZINE",
+        "66215-27-8",
+        "Larvadex",
+        "Cyromazin",
+        "Vetrazin",
+        "Neporex",
+        "Trigard",
+        "Cyclopropylmelamine",
+        "Vetrazine",
+        "Citation",
+        "Cypromazine",
+        "Azimethiphos",
+        "Cga 72662",
+        "N-Cyclopropyl-1,3,5-triazine-2,4,6-triamine",
+        "2-Cyclopropylamino-4,6-diamino-s-triazine"
+    ],
+    "IsomericSMILES": "C1CC1NC2=NC(=NC(=N2)N)N",
+    "INCHI": "InChI=1S/C6H10N6/c7-4-10-5(8)12-6(11-4)9-3-1-2-3/h3H,1-2H2,(H5,7,8,9,10,11,12)",
+    "INCHIKEY": "LVQDKIWDGQRHTE-UHFFFAOYSA-N",
+    "Formula": "C6H10N6",
+    "MolecularWeight": {
+        "$numberDouble": "166.18"
+    },
+    "Description": "Cyromazine is a triamino-1,3,5-triazine. It has a role as a triazine insecticide and a mouse metabolite.",
+    "XlogP": {
+        "$numberDouble": "-0.2"
+    },
+    "Complexity": {
+        "$numberInt": "148"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Acetamiprid (ACE) and cyromazine (CYR) are the two pesticides that are used relatively frequently and in large quantities in cowpea growing areas in Hainan. The uptake, translocation and metabolic patterns and subcellular distribution of these two pesticides in cowpea are important factors affecting pesticide residues in cowpea and assessing the dietary safety of cowpea. In this study, we investigated the uptake, translocation, subcellular distribution, and metabolic pathway of ACE and CYR in cowpea under laboratory hydroponic conditions. The distribution trends of both ACE and CYR in cowpea plants were leaves >stems >roots. The distribution of both pesticides in subcellular tissues of cowpea was cell soluble fraction >cell wall >cell organelle, and both transport modes were passive. A multiplicity of metabolic reactions of both pesticides occurred in cowpea, including dealkylation, hydroxylation and methylation. The results of the dietary risk assessment indicate that ACE is safe for use in cowpeas, but CYR poses an acute dietary risk to infants and young children. This study provided a basis for insights into the transport and distribution of ACE and CYR in vegetables and contributes to the assessment of whether pesticide residues in vegetables could pose a potential threat to human health at high concentrations of pesticides in the environment.",
+            "reference": "Zhang, S., Zhang, Y., Ren, S., Lu, H., Li, J., Liang, X., ... & Zhang, C. (2023). Uptake, translocation and metabolism of acetamiprid and cyromazine by cowpea (Vigna unguiculata L.). Environmental Pollution, 331, 121839.",
+            "method": {
+                "Test Plant": "Cowpea (Vigna unguiculata) seeds",
+                "Apply Location": "Hydroponic application",
+                "Plant Grown Condition": "Incubator at 25\u00b0C with 16 hours of light per day, day and night temperatures of 25\u00b0C and 20\u00b0C, respectively, and 70% relative humidity",
+                "Chemical Preparation": "Acetamiprid (ACE) and cyromazine (CYR) were used. ACE had a molecular weight of 222.68 g/mol, log Kow of 0.8, and water solubility of 2950 mg/L at 20\u00b0C. CYR had a molecular weight of 166.18 g/mol, log Kow of 0.069, and water solubility of 13,000 mg/L at 20\u00b0C.",
+                "Pesticide Application Details for the Plant": "Nominal concentration of ACE and CYR in the exposure solution was 20 mg/L. The hydroponic cultivation containers were covered with aluminum foil to prevent algal growth and nutrient solution evaporation. Nutrient solution was refreshed every 3 days.",
+                "Other Information": "At least 300 cowpea plants were replicated at a time, and each treatment was repeated three times. Samples of seedling roots, stems, and leaves were taken at 6, 12, 24, 48, 72, 96, 120, 144, and 168 hours after exposure. The bioconcentration factor (BCF) and translocation factor (TF) of both pesticides in cowpea roots, stems, and leaves were calculated. Dietary risk assessment methods posed by acetamiprid and cyromazine were performed according to the method of Fu et al. (2020a)."
+            },
+            "result": "[{\"Time after application\": \"6 hours\", \"TF Leaves/Stems\": 0.52, \"TF Stems/Roots\": 0.92, \"TF Leaves/Stems (2)\": 1.35, \"TF Stems/Roots (2)\": 0.12}, {\"Time after application\": \"12 hours\", \"TF Leaves/Stems\": 0.74, \"TF Stems/Roots\": 0.81, \"TF Leaves/Stems (2)\": 1.4, \"TF Stems/Roots (2)\": 0.225}, {\"Time after application\": \"24 hours\", \"TF Leaves/Stems\": 1.25, \"TF Stems/Roots\": 0.88, \"TF Leaves/Stems (2)\": 1.05, \"TF Stems/Roots (2)\": 0.626}, {\"Time after application\": \"48 hours\", \"TF Leaves/Stems\": 1.68, \"TF Stems/Roots\": 1.21, \"TF Leaves/Stems (2)\": 1.8, \"TF Stems/Roots (2)\": 0.723}, {\"Time after application\": \"72 hours\", \"TF Leaves/Stems\": 1.87, \"TF Stems/Roots\": 1.18, \"TF Leaves/Stems (2)\": 1.55, \"TF Stems/Roots (2)\": 1.067}, {\"Time after application\": \"96 hours\", \"TF Leaves/Stems\": 1.97, \"TF Stems/Roots\": 1.2, \"TF Leaves/Stems (2)\": 1.49, \"TF Stems/Roots (2)\": 1.089}, {\"Time after application\": \"120 hours\", \"TF Leaves/Stems\": 1.87, \"TF Stems/Roots\": 1.22, \"TF Leaves/Stems (2)\": 1.51, \"TF Stems/Roots (2)\": 1.089}, {\"Time after application\": \"144 hours\", \"TF Leaves/Stems\": 1.98, \"TF Stems/Roots\": 1.2, \"TF Leaves/Stems (2)\": 1.47, \"TF Stems/Roots (2)\": 1.085}, {\"Time after application\": \"168 hours\", \"TF Leaves/Stems\": 1.98, \"TF Stems/Roots\": 1.21, \"TF Leaves/Stems (2)\": 1.49, \"TF Stems/Roots (2)\": 1.085}]"
+        },
+        {
+            "content": "The residues and metabolism of radio-labeled cyromazine (N-cyclopropyl-1,3,5-triazine-2,4,6-triamine) formulated as a 750 g kg-' WP ('Trigard' 75WP) were studied in greenhouse tomatoes. Residues of cyromazine and its metabolites were remarkably persistent, with only a slight loss occurring within a 30-day period. Findings with tomatoes were similar to those with glass plates when exposed to cyromazine. Little volatilization occurred from either tomato or glass surfaces kept under greenhouse conditions. The only metabolite identified was melamine on both glass plates and tomatoes. Two other metabolites were found but were not identified.",
+            "reference": "Root, D. S., Hongtrakul, T., & Dauterman, W. C. (1996). Studies on the absorption, residues and metabolism of cyromazine in tomatoes. Pesticide Science, 48(1), 25-30.",
+            "method": {
+                "Test Plant": "Tomato (Lycopersicon esculentum Mill., cv. Marion) seeds",
+                "Apply Location": "Foliar application on tomato leaflets",
+                "Plant Grown Condition": "Seeds were germinated in the greenhouse in plastic trays containing growing media ('Terra-lite' - a mixture of Canadian Sphagnum peatmoss, horticulture vermiculite, and perlite). Individual seedlings were transferred into 10-cm diameter clay pots when they were in the true third-leaf stage (21 days after sowing). Other sets of plants were grown in three-week intervals for consecutive experiments.",
+                "Chemical Preparation": "[Ring-U-14C] cyromazine with a specific activity of 67.0 mCi mg-1 and radiochemical purity of 97.5%, technical cyromazine with a purity >96%, and inert ingredients of the commercial cyromazine 750 g kg-1 WP, 'Trigarc@ 75WP, were provided by CIBA, Greensboro, NC, USA. Melamine with a purity >99% was obtained from Aldrich Chemical Company Inc., Milwaukee, WI, USA. Additional standards provided by CIBA were hydroxycyromazine, ammelide, and ammeline.",
+                "Pesticide Application Details for the Plant": "['4C]Cyromazine was applied to tomato leaflets, and plants were sampled at 1, 3, 7, and 10 days after treatment, 0.75ug applied per plant.",
+                "Other Information": "-"
+            },
+            "result": "[{\"Time after application\": \"1 day\", \"Surface (ug)\": 0.6, \"Internal (ug)\": 0.13, \"Residual (ug)\": 0.01}, {\"Time after application\": \"3 days\", \"Surface (ug)\": 0.55, \"Internal (ug)\": 0.17, \"Residual (ug)\": 0.01}, {\"Time after application\": \"7 days\", \"Surface (ug)\": 0.33, \"Internal (ug)\": 0.24, \"Residual (ug)\": 0.02}, {\"Time after application\": \"14 days\", \"Surface (ug)\": 0.38, \"Internal (ug)\": 0.29, \"Residual (ug)\": 0.02}, {\"Time after application\": \"21 days\", \"Surface (ug)\": 0.4, \"Internal (ug)\": 0.25, \"Residual (ug)\": 0.02}, {\"Time after application\": \"28 days\", \"Surface (ug)\": 0.27, \"Internal (ug)\": 0.34, \"Residual (ug)\": 0.02}]"
+        }
+    ]
+}

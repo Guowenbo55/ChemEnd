@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "669270ed303528b49832d73d"
+    },
+    "CID": {
+        "$numberInt": "19588"
+    },
+    "Name": "Fenobucarb",
+    "IUPACName": "(2-butan-2-ylphenyl) N-methylcarbamate",
+    "CanonicalSMILES": "CCC(C)C1=CC=CC=C1OC(=O)NC",
+    "Synonyms": [
+        "Fenobucarb",
+        "3766-81-2",
+        "BPMC",
+        "2-sec-Butylphenyl N-methylcarbamate",
+        "Baycarb",
+        "Bassa",
+        "2-sec-Butylphenyl methylcarbamate",
+        "Fenobcarb",
+        "Barizon",
+        "Carvil",
+        "Hopcin",
+        "Osbac",
+        "2-(1-Methylpropyl)phenyl methylcarbamate",
+        "Bayer 41367C",
+        "Bayer 41637"
+    ],
+    "IsomericSMILES": "CCC(C)C1=CC=CC=C1OC(=O)NC",
+    "INCHI": "InChI=1S/C12H17NO2/c1-4-9(2)10-7-5-6-8-11(10)15-12(14)13-3/h5-9H,4H2,1-3H3,(H,13,14)",
+    "INCHIKEY": "DIRFUJHNVNOBMY-UHFFFAOYSA-N",
+    "Formula": "C12H17NO2",
+    "MolecularWeight": {
+        "$numberDouble": "207.27"
+    },
+    "Description": "Fenobucarb is a carbamate ester obtained by the formal condensation of 2-sec-butylphenol with methylcarbamic acid. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, an agrochemical, a herbicide, an insecticide and an environmental contaminant. It is functionally related to a methylcarbamic acid and a 2-sec-butylphenol.",
+    "XlogP": {
+        "$numberDouble": "2.8"
+    },
+    "Complexity": {
+        "$numberInt": "206"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "We conducted uptake experiments with 12 different organic chemicals using 16 plant species and observed variations in their ability to take up and translocate these chemicals. The shoot and root concentrations of each chemical varied among the plant species. Root concentration factor values increased with an increasing log of the n-octanol-water partition coefficient (log Kow) of the organic chemicals, suggesting that root concentrations may be predicted to some extent based on log Kow. Root-to-shoot translocation was also related to log Kow, as the shoot-to-root concentration ratio decreased with increasing log Kow. However, the relationship between shoot concentration factor value and log Kow was not clear and differed among plant species.",
+            "reference": "Namiki, S., Otani, T., Motoki, Y., Seike, N., & Iwafune, T. (2018). Differential uptake and translocation of organic chemicals by several plant species from soil. Journal of pesticide science, 43(2), 96-107.",
+            "method": {
+                "Test Plant": "Hordeum distichon, Zea mays L., Glycine max Merrill, Phaseolus vulgaris L., Brassica oleracea L. var. capitata, Brassica rapa L. war. peruviridis, Chrysanthemum coronarium L., Lactuca sativa L., Allissms wakegi Araki, Apium graveolens L. war. dulce, Solanum lycopersicum Mill., Capsicum grossism, Cucumtis sativis L., Cucurbita maxima Duch., Spinacia oleracea L., and Beta vulgaris L. var. cicla.",
+                "Apply Location": "Soil application",
+                "Plant Grown Condition": "Seeds germinated in nursery soil in growth chamber at 20\u00b0C, 14:10 hr light:dark cycle. Seedlings transplanted at 7-28 days into test soil pots and grown for 21 more days under same conditions. Soil moisture maintained at 50-70% water holding capacity (WHC).",
+                "Chemical Preparation": "12 organic chemicals (10 pesticides, \u03b2-HCH, dieldrin) with log Kow -0.6 to 5 dissolved in acetone at 50 mg/L. 1 L mixture added to 278g Celite powder, acetone evaporated leaving 92.6-133.6 \u03bcg/g of each chemical on Celite.",
+                "Pesticide Application Details for the Plant": "450g uncontaminated soil mixed with 5g chemical-loaded Celite in 600 mL pots. Fertilized with chemical fertilizer and dolomite. Final concentrations ranged 81.0-129.7 \u03bcg/pot.",
+                "Other Information": "Plants grown to obtain 1-2g root dry weight per species. At 21 days, shoots and roots harvested, fresh weights measured, divided into subsamples to determine moisture content and chemical concentrations."
+            },
+            "result": "[{\"Plant\": \"Hordeum distichon\", \"Shoot (mg/kg)\": 0.24, \"Root (mg/kg)\": 0.15, \"Uptake (mg/kg)\": 0.97}, {\"Plant\": \"Zea mays L.\", \"Shoot (mg/kg)\": 0.95, \"Root (mg/kg)\": 0.28, \"Uptake (mg/kg)\": 1.73}, {\"Plant\": \"Glycine max Merrill\", \"Shoot (mg/kg)\": 0.58, \"Root (mg/kg)\": 0.39, \"Uptake (mg/kg)\": 2.12}, {\"Plant\": \"Phaseolus vulgaris L.\", \"Shoot (mg/kg)\": 0.14, \"Root (mg/kg)\": 0.15, \"Uptake (mg/kg)\": 0.49}, {\"Plant\": \"Brassica oleracea L. var. capitata\", \"Shoot (mg/kg)\": 0.24, \"Root (mg/kg)\": 0.17, \"Uptake (mg/kg)\": 1.63}, {\"Plant\": \"Brassica rapa L. war. peruviridis\", \"Shoot (mg/kg)\": 0.15, \"Root (mg/kg)\": 0.12, \"Uptake (mg/kg)\": 0.73}, {\"Plant\": \"Chrysanthemum coronarium L.\", \"Shoot (mg/kg)\": 4.8, \"Root (mg/kg)\": 8.96, \"Uptake (mg/kg)\": 16.95}, {\"Plant\": \"Lactuca sativa L.\", \"Shoot (mg/kg)\": 0.02, \"Root (mg/kg)\": 0.04, \"Uptake (mg/kg)\": 0.11}, {\"Plant\": \"Allissms wakegi Araki\", \"Shoot (mg/kg)\": 0.57, \"Root (mg/kg)\": 1.59, \"Uptake (mg/kg)\": 2.42}, {\"Plant\": \"Apium graveolens L. war. dulce\", \"Shoot (mg/kg)\": 5.74, \"Root (mg/kg)\": 2.05, \"Uptake (mg/kg)\": 13.32}, {\"Plant\": \"Solanum lycopersicum Mill.\", \"Shoot (mg/kg)\": 0.54, \"Root (mg/kg)\": 0.1, \"Uptake (mg/kg)\": 2.31}, {\"Plant\": \"Capsicum grossism\", \"Shoot (mg/kg)\": 0.08, \"Root (mg/kg)\": 0.16, \"Uptake (mg/kg)\": 0.31}, {\"Plant\": \"Cucumtis sativis L.\", \"Shoot (mg/kg)\": 0.37, \"Root (mg/kg)\": 1.76, \"Uptake (mg/kg)\": 2.31}, {\"Plant\": \"Cucurbita maxima Duch.\", \"Shoot (mg/kg)\": 1.24, \"Root (mg/kg)\": 1.86, \"Uptake (mg/kg)\": 9.34}, {\"Plant\": \"Spinacia oleracea L.\", \"Shoot (mg/kg)\": 0.05, \"Root (mg/kg)\": 0.09, \"Uptake (mg/kg)\": 0.15}, {\"Plant\": \"Beta vulgaris L. var. cicla\", \"Shoot (mg/kg)\": 0.15, \"Root (mg/kg)\": 0.11, \"Uptake (mg/kg)\": 0.56}]"
+        }
+    ]
+}

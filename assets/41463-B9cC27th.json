@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "6692711e303528b49832d7fb"
+    },
+    "CID": {
+        "$numberInt": "41463"
+    },
+    "Name": "Pyridate",
+    "IUPACName": "(6-chloro-3-phenylpyridazin-4-yl) octylsulfanylformate",
+    "CanonicalSMILES": "CCCCCCCCSC(=O)OC1=CC(=NN=C1C2=CC=CC=C2)Cl",
+    "Synonyms": [
+        "Pyridate",
+        "55512-33-9",
+        "Pyridat",
+        "Lentagran",
+        "Fenpyrate",
+        "Pyron",
+        "Tough",
+        "CL 11344",
+        "O-(6-Chloro-3-phenyl-4-pyridazinyl) S-octyl carbonothioate",
+        "P1 3419",
+        "JQH131LU0A",
+        "DTXSID2032639",
+        "CHEBI:81971",
+        "CARBONOTHIOIC ACID",
+        "O-(6-CHLORO-3-PHENYL-4-PYRIDAZINYL) S-OCTYL ESTER",
+        "Pyridat",
+        "analytical standard"
+    ],
+    "IsomericSMILES": "CCCCCCCCSC(=O)OC1=CC(=NN=C1C2=CC=CC=C2)Cl",
+    "INCHI": "InChI=1S/C19H23ClN2O2S/c1-2-3-4-5-6-10-13-25-19(23)24-16-14-17(20)21-22-18(16)15-11-8-7-9-12-15/h7-9,11-12,14H,2-6,10,13H2,1H3",
+    "INCHIKEY": "JTZCTMAVMHRNTR-UHFFFAOYSA-N",
+    "Formula": "C19H23ClN2O2S",
+    "MolecularWeight": {
+        "$numberDouble": "378.9"
+    },
+    "Description": "Pyridate is a member of pyridazines.",
+    "XlogP": {
+        "$numberDouble": "6.6"
+    },
+    "Complexity": {
+        "$numberInt": "380"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Tank-mixed combinations of pyridate and 2,4-DB were synergistic with respect to sicklepod control and independent with respect to Florida beggarweed control and peanut tolerance in greenhouse studies. Leaf absorption of\u00a014C-pyridate was generally enhanced by the addition of 2,4-DB. Translocation of\u00a014C-pyridate out of the treated leaf did exceed 21% of the amount absorbed across all species, and\u00a014C-pyridate was not affected by the addition of 2,4-DB. Sensitivity of peanut, Florida beggarweed, and sicklepod to pyridate was independent of both adsorption and translocation. Metabolic detoxification of pyridate into a benign metabolite was highest in the tolerant peanut, lowest in highly susceptible Florida beggarweed, and intermediate in slightly susceptible sicklepod. Absorption of\u00a014C-2,4-DB by peanut was increased by approximately 10% with the addition of pyridate. No such increase was observed in either Florida beggarweed or sicklepod. Translocation of\u00a014C-2,4-DB out of the treated leaf was not affected by the addition of pyridate in any of the three species evaluated.",
+            "reference": "Hicks, T. V., Wehtje, G. R., & Grey, T. L. (1998). The interaction of pyridate and 2, 4-DB in peanut (Arachis hypogaea), Florida beggarweed (Desmodium tortuosum), and sicklepod (Senna obtusifolia). weed Science, 46(3), 284-288.",
+            "method": {
+                "Test Plant": "Peanut, sicklepod, and Florida beggarweed",
+                "Apply Location": "Applied as a single 5-\u03bcl drop to the youngest fully expanded leaf of each plant",
+                "Plant Grown Condition": "Seeds were planted in 1-L pots containing a Dothan loamy sand (fine-loamy, siliceous, thermic plinthic paleudults, pH= 6.2). Seedlings were thinned to three per pot after emergence. Plants were surface watered daily and grown in a greenhouse with approximate day/night temperatures of 32/24\u00b0C and a 16-h photoperiod. Experiments were conducted on 21-day-old plants.",
+                "Chemical Preparation": "Commercially formulated and 14C-labeled pyridate and 2,4-DB were used to prepare solutions with radioactivity count of approximately 5,000 dpm \u03bcl-1. Herbicide concentrations were equivalent to 1.00 kg ai ha-1 for pyridate and 0.22 kg ae ha-1 for 2,4-DB.",
+                "Pesticide Application Details for the Plant": "Four treatments - (1) 14C-pyridate (2) 14C-pyridate plus 2,4-DB (3) 14C-2,4-DB (4) 14C-2,4-DB plus pyridate. Treatments were applied to four single-plant replicates of each species.",
+                "Other Information": "A randomized complete block design with three replications was used for each experiment which was repeated over time. Data were pooled as results were consistent."
+            },
+            "result": "[{\"Plant\": \"Penaut\", \"Treatment\": \"Pyridate alone\", \"Leaf wash (% of applied)\": 38, \"Treated leaf (%)\": 49, \"Above Treated leaf (%)\": 6, \"Below treated leaf (%)\": 7}, {\"Plant\": \"Penaut\", \"Treatment\": \"Pyridate + 2,4-DB\", \"Leaf wash (% of applied)\": 16, \"Treated leaf (%)\": 76, \"Above Treated leaf (%)\": 3, \"Below treated leaf (%)\": 5}, {\"Plant\": \"Florida beggarrweed\", \"Treatment\": \"Pyridate alone\", \"Leaf wash (% of applied)\": 35, \"Treated leaf (%)\": 56, \"Above Treated leaf (%)\": 4, \"Below treated leaf (%)\": 5}, {\"Plant\": \"Florida beggarrweed\", \"Treatment\": \"Pyridate + 2,4-DB\", \"Leaf wash (% of applied)\": 21, \"Treated leaf (%)\": 65, \"Above Treated leaf (%)\": 7, \"Below treated leaf (%)\": 7}, {\"Plant\": \"Sicklepod\", \"Treatment\": \"Pyridate alone\", \"Leaf wash (% of applied)\": 26, \"Treated leaf (%)\": 67, \"Above Treated leaf (%)\": 3, \"Below treated leaf (%)\": 4}, {\"Plant\": \"Sicklepod\", \"Treatment\": \"Pyridate + 2,4-DB\", \"Leaf wash (% of applied)\": 10, \"Treated leaf (%)\": 85, \"Above Treated leaf (%)\": 2, \"Below treated leaf (%)\": 3}]"
+        }
+    ]
+}

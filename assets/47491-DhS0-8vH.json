@@ -1,0 +1,100 @@
+{
+    "_id": {
+        "$oid": "66927102303528b49832d78e"
+    },
+    "CID": {
+        "$numberInt": "47491"
+    },
+    "Name": "Chlorsulfuron",
+    "IUPACName": "1-(2-chlorophenyl)sulfonyl-3-(4-methoxy-6-methyl-1,3,5-triazin-2-yl)urea",
+    "CanonicalSMILES": "CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2Cl",
+    "Synonyms": [
+        "CHLORSULFURON",
+        "64902-72-3",
+        "Chlorosulfuron",
+        "Glean",
+        "Chlorsulfon",
+        "Telar",
+        "Trilixon",
+        "2-Chlorsulfuron",
+        "1-(2-chlorophenyl)sulfonyl-3-(4-methoxy-6-methyl-1,3,5-triazin-2-yl)urea",
+        "DPX 4189",
+        "79793-04-7",
+        "1-(2-Chlorophenylsulfonyl)-3-(4-methoxy-6-methyl-1,3,5-triazin-2-yl)urea",
+        "2-Chloro-N-((4-methoxy-6-methyl-1,3,5-triazin-2-yl)aminocarbonyl)-benzenesulfonamide",
+        "CHEMBL1229721",
+        "DTXSID7023980"
+    ],
+    "IsomericSMILES": "CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2Cl",
+    "INCHI": "InChI=1S/C12H12ClN5O4S/c1-7-14-10(17-12(15-7)22-2)16-11(19)18-23(20,21)9-6-4-3-5-8(9)13/h3-6H,1-2H3,(H2,14,15,16,17,18,19)",
+    "INCHIKEY": "VJYIFXVZLXQVHO-UHFFFAOYSA-N",
+    "Formula": "C12H12ClN5O4S",
+    "MolecularWeight": {
+        "$numberDouble": "357.77"
+    },
+    "Description": "Chlorsulfuron is an N-sulfonylurea that is N-carbamoyl-2-chlorobenzenesulfonamide in which one of the hydrogens attached to the non-sulfonylated nitrogen has been replaced by a 4-methoxy-6-methyl-1,3,5-triazin-2-yl group. A herbicide used for the control of broadleaf weeds in wheat, barley and oats. It has a role as an agrochemical, a herbicide and an EC 2.2.1.6 (acetolactate synthase) inhibitor. It is a N-sulfonylurea, a member of monochlorobenzenes and a methoxy-1,3,5-triazine.",
+    "XlogP": {
+        "$numberDouble": "2.3"
+    },
+    "Complexity": {
+        "$numberInt": "514"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "When Canada thistle (Cirsium arvense) was treated with 14C-chlorsulfuron, a herbicide, absorption rates were measured. Following foliar treatment, 39% of the herbicide was absorbed, while absorption was 16% when it was added to a nutrient solution in which the plants were growing. Translocation of the herbicide within the plant was limited, with only 10% of the applied 14C moving out of the treated leaf and 10% moving from the roots to other parts of the plant when absorbed from the nutrient solution. Metabolism of chlorsulfuron was not observed in Canada thistle 48 hours after foliar treatment, but when absorbed by the roots from the nutrient solution, nearly 25% of the 14C in the plants was present as polar products, 13% had an Rf value matching benzenesulfonamide standards, and the remaining 62% remained as chlorsulfuron. The herbicide had suppressive effects on regrowth, reduced whole plant weight, and affected root bud number and weight.",
+            "reference": "Petersen, P. J., & Swisher, B. A. (1985). Absorption, translocation, and metabolism of 14C-chlorsulfuron in Canada thistle (Cirsium arvense). Weed Science, 33(1), 7-11.",
+            "method": {
+                "Test Plant": "Canada thistle (Cirsium arvense)",
+                "Apply Location": "Two separate treatments - 1) foliar application on 5th youngest leaf of parent shoot, 2) foliar application on secondary shoot derived from root bud.",
+                "Plant Grown Condition": "Seed was planted in vermiculite and seedlings transferred to nutrient solution at 2-leaf stage. Plants grown for ~2 months at 26/20\u00b0C day/night, 50/70% RH, 490 \u03bcE/m2/s light intensity for 10 h photoperiod. For greenhouse study, seedlings transplanted to 20-cm pots with Sharpsburg silty clay loam soil and grown for ~3 months before treatment.",
+                "Chemical Preparation": "14C-chlorsulfuron (specific activity 6.01 \u03bcCi/mg) in aqueous solution at ~0.17 \u03bcCi applied in 10 \u03bcl droplets on both sides of midvein for foliar treatments. In greenhouse study, commercial chlorsulfuron formulation applied at 11, 21, 31, 41 and 71 g ai/ha.",
+                "Pesticide Application Details for the Plant": "Two foliar treatment regimes with 5 replicates each - 1) applied to 5th youngest leaf of parent shoot, 2) applied to secondary shoot.",
+                "Other Information": "Plants harvested 48 h after foliar treatment. Treated leaf washed with dichloromethane to remove unabsorbed herbicide. Plant parts lyophilized, weighed, ground and extracted twice with dichloromethane and methanol. In greenhouse study, topgrowth removed 48 h after treatment and plants allowed to regrow. Emerged shoots counted at 2, 3 and 5 weeks after topgrowth removal. At 5 weeks, fresh shoot weights recorded. 5 replicate pots per treatment rate."
+            },
+            "result": "[{\"Treatment\": \"Parent plant treated\", \"Unnamed: 1\": 84, \"Treated Leaf (%)\": 9, \"Leaves aboved treated (%)\": 2, \"Unnamed: 4\": 1, \"Leaves below treated (%)\": 0.4, \"Largest secondary shoot (%)\": 4, \"All other secondary shoots (%)\": NaN, \"Roots (%)\": NaN}, {\"Treatment\": \"Largest secondary shoot treated\", \"Unnamed: 1\": 70, \"Treated Leaf (%)\": 8, \"Leaves aboved treated (%)\": 7, \"Unnamed: 4\": 4, \"Leaves below treated (%)\": 7.0, \"Largest secondary shoot (%)\": 4, \"All other secondary shoots (%)\": NaN, \"Roots (%)\": NaN}]"
+        },
+        {
+            "content": "In laboratory studies, the basis for chlorsulfuron selectivity between Kentucky bluegrass (Poa pratensis L. CV. Kenblue) and tall fescue (Festuca arundinacea Schreb. CV. Rebel) was investigated. It was found that tall fescue absorbed and translocated more foliar-applied [14C]-labeled chlorsulfuron from the treated leaf compared to Kentucky bluegrass. Although both species absorbed similar amounts of chlorsulfuron from the nutrient solution into the roots, tall fescue translocated more of the absorbed radioactivity to the shoots. Additionally, tall fescue metabolized chlorsulfuron in the shoots slightly more slowly than Kentucky bluegrass. These factors collectively contributed to the higher tolerance of Kentucky bluegrass compared to tall fescue to chlors\n\n\n\n\n",
+            "reference": "Goatley, J. M., Powell, A. J., Barrett, M., & Witt, W. W. (1990). Absorption, translocation, and metabolism of chlorsulfuron in Kentucky bluegrass and tall fescue. Journal of the American Society for Horticultural Science, 115(5), 771-774.",
+            "method": {
+                "Test Plant": "Kentucky bluegrass ('Kenblue') and tall fescue ('Rebel')",
+                "Apply Location": "Foliar application on youngest fully expanded leaf. Root application by adding [14C]chlorsulfuron to nutrient solution",
+                "Plant Grown Condition": "10.2 cm diameter plugs grown in greenhouse for 1 month before separating individual transplants. Transplants grown in 500 ml cups with 2:1 soil:vermiculite mix for at least 8 weeks before experiments. Maintained at 15 cm clipping height, subirrigated, fertilized as needed",
+                "Chemical Preparation": "Foliar: 0.44 g/L [14C]chlorsulfuron (specific activity 11.5 Ci/mg) in 10% acetone + 0.2% surfactant. Root: 4.4 g/L [14C]chlorsulfuron solution added to give 0.7 \u03bcM in nutrient solution",
+                "Pesticide Application Details for the Plant": "Foliar: 10 \u03bcl (0.5 \u03bcl droplets) applied to 2 cm2 area of youngest fully expanded leaf. Root: 2 \u03bcl of 4.4 g/L solution (0.11 \u03bcCi) added to 40 ml nutrient solution",
+                "Other Information": "Foliar absorption/translocation: 3 replicates per harvest at 3, 6, 24, 48, 96 h. Root absorption/translocation: 3 replicates harvested at 96 h",
+                "Foliar metabolism": "3 replicate plants treated, harvested at 4 days. HPLC analysis done."
+            },
+            "result": "[{\"Plant\": \"Kentucky bluegrass\", \"Treatment\": \"Foliar-applied\", \"Treated leaf(% of absorbed)\": \"90.6\", \"Other foliage (%)\": \"4.5\", \"Shoot(%)\": 2.2, \"Root(%)\": 2.1, \"Rhizome(%)\": \"0.6\"}, {\"Plant\": \"Kentucky bluegrass\", \"Treatment\": \"Root-applied\", \"Treated leaf(% of absorbed)\": \"-\", \"Other foliage (%)\": \"-\", \"Shoot(%)\": 50.6, \"Root(%)\": 45.8, \"Rhizome(%)\": \"3.6\"}, {\"Plant\": \"Tall fescue\", \"Treatment\": \"Foliar-applied\", \"Treated leaf(% of absorbed)\": \"86.2\", \"Other foliage (%)\": \"7.0\", \"Shoot(%)\": 4.8, \"Root(%)\": 2.0, \"Rhizome(%)\": \"-\"}, {\"Plant\": \"Tall fescue\", \"Treatment\": \"Root-applied\", \"Treated leaf(% of absorbed)\": \"-\", \"Other foliage (%)\": \"-\", \"Shoot(%)\": 80.8, \"Root(%)\": 19.2, \"Rhizome(%)\": \"-\"}]"
+        },
+        {
+            "content": "Both C-clopyralid (3,6-dichloropicolinic acid) and 14C-chlorsulfuron {2-chloro-N- [ [(4-methoxy-6-methyl-1,3,5-triazin-2-yl)amino] carbonyl] benzenesulfonamide} were readily absorbed by Canada thistle [Cirsium arvense (L.) Scop. #CIRAR] leaves, with 99% and 75% of the applied doses absorbed, respectively, 144 hours after application. Absorbed 14C-clopyralid was rapidly exported from the treated leaves, whereas 14C-chlorsulfuron was translocated much more slowly. After 144 hours, 29% of the applied 14C-clopyralid and 5% of the applied 14C-chlorsulfuron were recovered in the roots and developing root buds of Canada thistle plants. Smaller amounts of the two herbicides were absorbed and translocated in perennial sowthistle (Sonchus arvensis L. #SONAR) than in Canada thistle. More 14C-clopyralid than 14C-chlorsulfuron was absorbed and translocated out of treated leaves of perennial sowthistle, but equal amounts, 3 to 4% of the applied doses, were recovered in the roots and root buds 144 hours after application. Foliar applications of clopyralid, followed by removal of the treated shoot 24, 72, or 144 hours after application, markedly reduced shoot regrowth in both Canada thistle and perennial sowthistle. Similar treatment with chlorsulfuron did not prevent shoot regrowth in either species.",
+            "reference": "Devine, M. D., & Born, W. H. V. (1985). Absorption, translocation, and foliar activity of clopyralid and chlorsulfuron in Canada thistle (Cirsium arvense) and perennial sowthistle (Sonchus arvensis). Weed Science, 33(4), 524-530.",
+            "method": {
+                "Test Plant": "Canada thistle (Cirsium arvense) and quackgrass (Elytrigia repens)",
+                "Apply Location": "Foliar application on young, expanded leaf (5th-7th oldest leaf)",
+                "Plant Grown Condition": "Grown from 5 cm root cuttings in vermiculite.Transplanted to silica sand in 9 cm pots when shoots ~2 cm tall. Grown in growth cabinet at 20/18\u00b0C day/night, 16 h photoperiod, ~500 \u03bcE/m2/s light, 70% RH. Supplied with 1/2 strength Hoagland's nutrient solution",
+                "Chemical Preparation": "14C-clopyralid (sp. act. 429 MBq/mmol) or 14C-chlorsulfuron (phenyl-14C, sp. act. 79.6 MBq/mmol). Dissolved in 10% aqueous ethanol with 0.5% surfactant ~940 Bq in 10 \u03bcl application solution",
+                "Pesticide Application Details for the Plant": "10 \u03bcl applied as 8-10 droplets on both sides of midrib of young expanded leaf when shoot had 8-10 leaves",
+                "Other Information": "Treated leaf rinsed 3x with 10% aqueous ethanol to determine unabsorbed 14C.Plants separated into treated leaf, shoots above, shoots below, fibrous roots, rest of root system, new buds/shoots on roots. Plant parts air-dried, weighed, combusted and 14C quantified by liquid scintillation spectrometry"
+            },
+            "result": "[{\"Plant\": \"Canada thistle 144\", \"Hours after application\": 21.5, \"Leaf wash (% of applied)\": 43.0, \"Treated leaf (%)\": 10.5, \"Upper shoot (%)\": 5.3, \"Lower shoot (%)\": 1.1, \"Taproot (%)\": 2.2, \"Fibrous roots (%)\": 1.8, \"Developing root buds (%)\": 14.6, \"Unaccounted for (%)\": NaN}, {\"Plant\": \"Perennial sowthistle\", \"Hours after application\": 144.0, \"Leaf wash (% of applied)\": 70.2, \"Treated leaf (%)\": 20.5, \"Upper shoot (%)\": 4.5, \"Lower shoot (%)\": 2.1, \"Taproot (%)\": 0.7, \"Fibrous roots (%)\": 2.1, \"Developing root buds (%)\": 0.1, \"Unaccounted for (%)\": \"-\"}]"
+        },
+        {
+            "content": "The absorption and translocation patterns of foliar applied 14C- chlorsulfuron {2-chloro-N- [[(4-methoxy-6-methyl-1,3,5- triazin- 2 - yl)amino] carbonyl] benzenesulfon-amide} and 14C-metsulfuron {2- [[[[(4-methoxy-6-methyl-1,3,5- triazin- 2-yl)amino] carbonyl] amino] sulfonyl] benzoic acid} in wild garlic (Allium vineale L. # ALLVI) were similar. Both 14C-chlorsulfuron and l4C-metsulfuron were readily absorbed by wild garlic, with 62 and 58%, respectively, of the applied doses absorbed 144 h after application. After 144 h, 17% of the applied 14C-chlorsulfuron and 16% of the applied 14C-metsulfuron were translocated out of the treated leaf, with the greatest amounts concentrating in young shoot tissues. Chlorsulfuron and metsulfuron reduced wild garlic shoot dry weight, height, and the number of leaves, more when they were applied to the foliage, or to both the foliage and the soil, than when they were applied to the soil alone.",
+            "reference": "Leys, A. R., & Slife, F. W. (1988). Absorption and translocation of 14C-chlorsulfuron and 14C-metsulfuron in wild garlic (Allium vineale). Weed Science, 36(1), 1-4.",
+            "method": {
+                "Test Plant": "Wild garlic (Allium vineale)",
+                "Apply Location": "Foliar application on the youngest fully expanded leaf",
+                "Plant Grown Condition": "Wild garlic plants were grown in 470-ml jars containing modified Hoagland's No. 2 nutrient solution in a growth cabinet. The nutrient solution was aerated, and fresh solution was added as required.",
+                "Chemical Preparation": "0.1 \u03bcCi of 14C-chlorsulfuron (uniformly phenyl-labeled 2.15 mCi/mM) or 14C-metsulfuron (uniformly phenyl-labeled, 3.28 mCi/mM) was applied. The herbicides were formulated by dissolving in acetone and adding to distilled water, with a final concentration of 20% acetone, 0.2% oxysorbic surfactant, and 79.8% water.",
+                "Pesticide Application Details for the Plant": "Each wild garlic plant received either 16.7 \u03bcg chlorsulfuron or 11.6 \u03bcg metsulfuron applied as twenty 1.0-\u03bcl droplets on the adaxial groove of the youngest fully expanded leaf.",
+                "Other Information": "Plants were harvested at 12, 48, and 144 hours after treatment. The root system was rinsed, blotted dry, and sectioned into various parts along with the plant parts."
+            },
+            "result": "[{\"Hours after application\": 12, \"Leaf wash (% of applied)\": 86.2, \"Treated leaf (%)\": 1.9, \"Apical meristerm (%)\": 0.2, \"Younger leaves (%)\": 1.0, \"Older leaves (%)\": 0.2, \"Parent bulb (%)\": 0.1, \"Roots (%)\": 0.1, \"Nutrient solution (%)\": 0.2}, {\"Hours after application\": 48, \"Leaf wash (% of applied)\": 73.9, \"Treated leaf (%)\": 13.7, \"Apical meristerm (%)\": 0.2, \"Younger leaves (%)\": 0.7, \"Older leaves (%)\": 0.1, \"Parent bulb (%)\": 0.3, \"Roots (%)\": 0.3, \"Nutrient solution (%)\": 1.1}, {\"Hours after application\": 144, \"Leaf wash (% of applied)\": 32.5, \"Treated leaf (%)\": 48.9, \"Apical meristerm (%)\": 2.1, \"Younger leaves (%)\": 3.8, \"Older leaves (%)\": 0.9, \"Parent bulb (%)\": 2.5, \"Roots (%)\": 3.8, \"Nutrient solution (%)\": 3.8}]"
+        }
+    ]
+}

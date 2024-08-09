@@ -1,0 +1,75 @@
+{
+    "_id": {
+        "$oid": "6692711c303528b49832d7f4"
+    },
+    "CID": {
+        "$numberInt": "36242"
+    },
+    "Name": "Procymidone",
+    "IUPACName": "3-(3,5-dichlorophenyl)-1,5-dimethyl-3-azabicyclo[3.1.0]hexane-2,4-dione",
+    "CanonicalSMILES": "CC12CC1(C(=O)N(C2=O)C3=CC(=CC(=C3)Cl)Cl)C",
+    "Synonyms": [
+        "PROCYMIDONE",
+        "32809-16-8",
+        "Sumilex",
+        "3-(3,5-Dichlorophenyl)-1,5-dimethyl-3-azabicyclo[3.1.0]hexane-2,4-dione",
+        "Procymidox",
+        "(1S)-3-(3,5-dichlorophenyl)-1,5-dimethyl-3-azabicyclo[3.1.0]hexane-2,4-dione",
+        "DTXSID9033923",
+        "Procymidone 100 microg/mL in Isooctane",
+        "Procymidone 1000 microg/mL in Acetone",
+        "Procymidone 10 microg/mL in Cyclohexane",
+        "DTXCID7013923",
+        "CAS-32809-16-8",
+        "3-Azabicyclo[3.1.0]hexane-2,4-dione",
+        "3-(3,5-dichlorophenyl)-1,5-dimethyl-",
+        "1,2-Cyclopropanedicarboximide",
+        "N-(3,5-dichlorophenyl)-1,2-dimethyl-",
+        "SCHEMBL23093"
+    ],
+    "IsomericSMILES": "CC12CC1(C(=O)N(C2=O)C3=CC(=CC(=C3)Cl)Cl)C",
+    "INCHI": "InChI=1S/C13H11Cl2NO2/c1-12-6-13(12,2)11(18)16(10(12)17)9-4-7(14)3-8(15)5-9/h3-5H,6H2,1-2H3",
+    "INCHIKEY": "QXJKBPAVAHBARF-UHFFFAOYSA-N",
+    "Formula": "C13H11Cl2NO2",
+    "MolecularWeight": {
+        "$numberDouble": "284.13"
+    },
+    "Description": "Procymidone can cause cancer according to The Environmental Protection Agency (EPA).",
+    "XlogP": {
+        "$numberDouble": "3"
+    },
+    "Complexity": {
+        "$numberInt": "405"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "We conducted uptake experiments with 12 different organic chemicals using 16 plant species and observed variations in their ability to take up and translocate these chemicals. The shoot and root concentrations of each chemical varied among the plant species. Root concentration factor values increased with an increasing log of the n-octanol-water partition coefficient (log Kow) of the organic chemicals, suggesting that root concentrations may be predicted to some extent based on log Kow. Root-to-shoot translocation was also related to log Kow, as the shoot-to-root concentration ratio decreased with increasing log Kow. However, the relationship between shoot concentration factor value and log Kow was not clear and differed among plant species.",
+            "reference": "Namiki, S., Otani, T., Motoki, Y., Seike, N., & Iwafune, T. (2018). Differential uptake and translocation of organic chemicals by several plant species from soil. Journal of pesticide science, 43(2), 96-107.",
+            "method": {
+                "Test Plant": "Hordeum distichon, Zea mays L., Glycine max Merrill, Phaseolus vulgaris L., Brassica oleracea L. var. capitata, Brassica rapa L. war. peruviridis, Chrysanthemum coronarium L., Lactuca sativa L., Allissms wakegi Araki, Apium graveolens L. war. dulce, Solanum lycopersicum Mill., Capsicum grossism, Cucumtis sativis L., Cucurbita maxima Duch., Spinacia oleracea L., and Beta vulgaris L. var. cicla.",
+                "Apply Location": "Soil application",
+                "Plant Grown Condition": "Seeds germinated in nursery soil in growth chamber at 20\u00b0C, 14:10 hr light:dark cycle. Seedlings transplanted at 7-28 days into test soil pots and grown for 21 more days under same conditions. Soil moisture maintained at 50-70% water holding capacity (WHC).",
+                "Chemical Preparation": "12 organic chemicals (10 pesticides, \u03b2-HCH, dieldrin) with log Kow -0.6 to 5 dissolved in acetone at 50 mg/L. 1 L mixture added to 278g Celite powder, acetone evaporated leaving 92.6-133.6 \u03bcg/g of each chemical on Celite.",
+                "Pesticide Application Details for the Plant": "450g uncontaminated soil mixed with 5g chemical-loaded Celite in 600 mL pots. Fertilized with chemical fertilizer and dolomite. Final concentrations ranged 81.0-129.7 \u03bcg/pot.",
+                "Other Information": "Plants grown to obtain 1-2g root dry weight per species. At 21 days, shoots and roots harvested, fresh weights measured, divided into subsamples to determine moisture content and chemical concentrations."
+            },
+            "result": "[{\"Plant\": \"Hordeum distichon\", \"Shoot (mg/kg)\": 2.11, \"Root (mg/kg)\": 0.24, \"Uptake (mg/kg)\": 8.48}, {\"Plant\": \"Zea mays L.\", \"Shoot (mg/kg)\": 1.66, \"Root (mg/kg)\": 0.53, \"Uptake (mg/kg)\": 3.01}, {\"Plant\": \"Glycine max Merrill\", \"Shoot (mg/kg)\": 1.85, \"Root (mg/kg)\": 1.37, \"Uptake (mg/kg)\": 6.96}, {\"Plant\": \"Phaseolus vulgaris L.\", \"Shoot (mg/kg)\": 0.26, \"Root (mg/kg)\": 0.63, \"Uptake (mg/kg)\": 0.92}, {\"Plant\": \"Brassica oleracea L. var. capitata\", \"Shoot (mg/kg)\": 2.09, \"Root (mg/kg)\": 0.46, \"Uptake (mg/kg)\": 14.41}, {\"Plant\": \"Brassica rapa L. war. peruviridis\", \"Shoot (mg/kg)\": 2.2, \"Root (mg/kg)\": 0.39, \"Uptake (mg/kg)\": 10.84}, {\"Plant\": \"Chrysanthemum coronarium L.\", \"Shoot (mg/kg)\": 0.98, \"Root (mg/kg)\": 14.08, \"Uptake (mg/kg)\": 3.47}, {\"Plant\": \"Lactuca sativa L.\", \"Shoot (mg/kg)\": 0.35, \"Root (mg/kg)\": 0.66, \"Uptake (mg/kg)\": 2.16}, {\"Plant\": \"Allissms wakegi Araki\", \"Shoot (mg/kg)\": 2.07, \"Root (mg/kg)\": 1.78, \"Uptake (mg/kg)\": 8.83}, {\"Plant\": \"Apium graveolens L. war. dulce\", \"Shoot (mg/kg)\": 0.2, \"Root (mg/kg)\": 5.01, \"Uptake (mg/kg)\": 0.47}, {\"Plant\": \"Solanum lycopersicum Mill.\", \"Shoot (mg/kg)\": 1.82, \"Root (mg/kg)\": 0.55, \"Uptake (mg/kg)\": 7.74}, {\"Plant\": \"Capsicum grossism\", \"Shoot (mg/kg)\": 1.26, \"Root (mg/kg)\": 0.26, \"Uptake (mg/kg)\": 4.89}, {\"Plant\": \"Cucumtis sativis L.\", \"Shoot (mg/kg)\": 1.62, \"Root (mg/kg)\": 2.48, \"Uptake (mg/kg)\": 10.17}, {\"Plant\": \"Cucurbita maxima Duch.\", \"Shoot (mg/kg)\": 0.89, \"Root (mg/kg)\": 2.17, \"Uptake (mg/kg)\": 6.52}, {\"Plant\": \"Spinacia oleracea L.\", \"Shoot (mg/kg)\": 0.42, \"Root (mg/kg)\": 0.73, \"Uptake (mg/kg)\": 1.22}, {\"Plant\": \"Beta vulgaris L. var. cicla\", \"Shoot (mg/kg)\": 0.9, \"Root (mg/kg)\": 0.21, \"Uptake (mg/kg)\": 3.4}]"
+        },
+        {
+            "content": "Translocation and metabolism of a systemic fungicide procymidone (Sumilex) were examined in cucumber and bean plants under laboratory conditions. The fungicide disappeared from the plants with a half-life of 20 days after foliar application at a rate of 250 \u00b5g per leaf. Procymidone was metabolized in plants via hydroxylation at the methyl or the 4-position of the phenyl group, or hydrolysis at the cyclic imide linkage. It was found to be very little translocated to other parts of the plants, including edible portions. When the fungicide was applied to the surface of a cucumber fruit, approximately 24% of the applied radioactivity penetrated into the fruit in a day, but there was no significant increase thereafter. When bean plant seedlings were cultivated for 42 days in soils treated with 10 ppm of 14C-procymidone, shoots, pods, and seeds contained 12.3-15.3 ppm and 0.42-0.66 ppm of 14C, respectively. Preincubation of procymidone-treated soils for up to 5 months significantly lowered 14C residues taken up in plants, especially in shoots, pods, and seeds.",
+            "reference": "\u4e09\u4e0a\u4fe1\u53ef, \u5409\u6751\u6df3, \u5c71\u7530\u5b8f\u5f66, & \u5bae\u672c\u7d14\u4e4b. (1984). Translocation and metabolism of procymidone in cucumber and bean plants. Journal of Pesticide Science, 9(1), 131-136.",
+            "method": {
+                "Test Plant": "Cucumber (Cucumis sativus L, cv Kurumeochiai H-type), Kidney bean (Phaseolus vulgaris L.)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "6-week old cucumber plants bearing 2-3 fruits per plant, grown in Wagner pots (26.5 cm i.d. x 30 cm height) with soil in a greenhouse at 25\u00b12\u00b0C, 40-80% relative humidity. Cucumber fruit weight was ~5 g at treatment and ~20 g at harvest.",
+                "Chemical Preparation": "14C-procymidone (specific activity 4.67 mCi/mmol, >99.9% radiochemical purity) was diluted with a 1:9 mixture of emulsifying agent (Hymal PS-10AS) and isophorone, then mixed with water to form a 500 ppm active ingredient aqueous suspension.",
+                "Pesticide Application Details for the Plant": "0.5 ml of the 14C-procymidone suspension (equivalent to 250 \u03bcg per leaf, calculated from 1.5 kg/ha field application rate) was evenly applied to the upper surface of the 6th cucumber leaf near fruit area, or the 4th leaf of kidney bean plants.",
+                "Other Information": "two plants of each species were harvested and divided into treated leaf, other untreated shoots, edible portions, and roots."
+            },
+            "result": "[{\"Plant\": \"Cucumber\", \"Treated leaves (ppm)\": 18, \"Shoots (ppm)\": 0.038, \"Edible protions (ppm)\": 0.025, \"Roots (ppm)\": 0.001}, {\"Plant\": \"Bean\", \"Treated leaves (ppm)\": 38, \"Shoots (ppm)\": 0.019, \"Edible protions (ppm)\": 0.017, \"Roots (ppm)\": 0.001}]"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "_id": {
+        "$oid": "6682e896c4e5dba5ffba2658"
+    },
+    "CID": {
+        "$numberInt": "7892"
+    },
+    "Name": "2-METHYLPENTANE",
+    "IUPACName": "2-methylpentane",
+    "CanonicalSMILES": "CCCC(C)C",
+    "Synonyms": [
+        "2-METHYLPENTANE",
+        "Isohexane",
+        "107-83-5",
+        "Pentane",
+        "2-methyl-",
+        "73513-42-5",
+        "Hexanes",
+        "2-Methyl pentane",
+        "1,1-Dimethylbutane",
+        "64742-49-0",
+        "2-Methyl-pentane",
+        "SOLVENT DEGREASER",
+        "Methyl pentane",
+        "49IB0U6MLD",
+        "43133-95-5",
+        "DTXSID4029143"
+    ],
+    "IsomericSMILES": "CCCC(C)C",
+    "INCHI": "InChI=1S/C6H14/c1-4-5-6(2)3/h6H,4-5H2,1-3H3",
+    "INCHIKEY": "AFABGHUZZDYHJO-UHFFFAOYSA-N",
+    "Formula": "C6H14",
+    "MolecularWeight": {
+        "$numberDouble": "86.18"
+    },
+    "Description": "2-Methylpentane is an alkane.",
+    "XlogP": {
+        "$numberDouble": "3.2"
+    },
+    "Complexity": {
+        "$numberInt": "21"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Nov 20, 2013: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm/ (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 61 was calculated in fish for 2-methylpentane(SRC), using an estimated log Kow of 3.21(1) and a regression-derived equation(1). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is moderate(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Corapcopglu MY, Hossian MA; J Theoret Biol 142: 503-16 (1990) (2) Jamison VW et al; pp. 187-96 in Proc Int Biodeg Symp 3rd Sharpley JM, Kapalan AM, eds., Essex, England (1976) (3) Buswell JA, Jurtshuk P; Arch Microbiol 64: 215-22 (1969) (4) Prince RC, et al. Environ Sci Technol. 41:3316-3321( 2007) (5) Brakstad OG. AMOS Report NO. 2. 2000. (6) Solano-Serena F et al; Appl Microbiol Biotechnol 54: 121-5 (2000) (7) Xie G, Barcelona MJ; Environ Sci Technol 37: 4751-4760 (2003) (8) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Oct 11, 2013: https://www.safe.nite.go.jp/english/db.html",
+            "Value": "AEROBIC: Indigenous soil microbes will biodegrade petroleum hydrocarbons under aerobic conditions(1). A quarter of the microorganisms isolated from gasoline-contaminated groundwater, most notably of the Nocardia sp., supported growth of 2-methylpentane(2). Generally iso-alkanes are significantly more resistant to microbial attack than n-alkanes(3). However, a soil microorganism, Corynebacterium sp. oxidized 2-methylpentane, at about the same rate as n-pentane, although at a significantly lower rate than n-hexane(3). A mean half-life of 5.9 days was reported for all detectable hydrocarbons in an aerobic biodegradation study of gasoline in water from a domestic sewage treatment plant(4). The biodegradation half-lives of the C6-saturates compound group (n-hexane, 2-methylpentane, 3-methylpentane, methylcylcopentane and cyclohexane), determined from biodegradation tests with water accommodated fractions(WAF) of Statjofrd fresh oil, Aquila fresh oil, and Marine diesel in seawater at 13 \u00b0C, were 2.8, 1.7, and 3.5 days respectively (without correction for lag phase) (5). The mean half-life from results for all three oils was determined to be 2.7 days for the C6-saturates group(5). 2-Methylpentane, and 10 other components of gasoline were completely degraded in a screening study using an activated sludge inoculum in less than 34 days(6). A mixture containing isopentane, pentane, cyclopentane, 2,3-dimethylbutane, 2-methylpentane, 3-methylpentane, and cyclohexane, showed little degradation over the course of 30 days in a sediment/groundwater obtained from a contaminated jet fuel site in Oscoda, MI(7). 2-Methylpentane, present at 100 mg/L, reached 93% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L in a screening test assessing biodegradation in water(8). Therefore, 2-methylpentane is confirmed to be readily biodegradable according to the standard test of the Japanese Ministry of Industry and Trade (MITI) (8)."
+        },
+        {
+            "References": "(1) Corapcopglu MY, Hossian MA; J Theoret Biol 142: 503-16 (1990)",
+            "Value": "ANAEROBIC: Biodegradation of petroleum hydrocarbons occurs under anaerobic conditions at a slower rate than aerobic degradation, particularly by sulfur-reducing bacteria(1)."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "PMID:7251182",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Thirty rats oral admin daily for 8 wk 2-methylpentane diluted in olive oil. Methylpentane was less neurotoxic than n-hexane."
+        },
+        {
+            "References": "ROSSI L ET AL; RIV MED LAV IG IND 2 (SUPPL): 97 (1978)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Over 9 mo period, 20 rabbits exposed to 2-methylpentane 6 hr/day/6 days/wk. No symptoms of early polyneuropathy were found. Butyrylcholine esterase values were lower."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Nov 20, 2013: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Endo S et al; Environ Sci Technol 42: 5897-5903 (2008)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of 2-methylpentane can be estimated to be 610(SRC). According to a classification scheme(2), this estimated Koc value suggests that 2-methylpentane is expected to have low mobility in soil. A sorption experiment using lignite samples resulted in a log Kd of 2.92 for 2-methylpentane(3)."
+        }
+    ]
+}

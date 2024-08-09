@@ -1,0 +1,75 @@
+{
+    "_id": {
+        "$oid": "66927126303528b49832d81d"
+    },
+    "CID": {
+        "$numberInt": "91735"
+    },
+    "Name": "Diflufenican",
+    "IUPACName": "N-(2,4-difluorophenyl)-2-[3-(trifluoromethyl)phenoxy]pyridine-3-carboxamide",
+    "CanonicalSMILES": "C1=CC(=CC(=C1)OC2=C(C=CC=N2)C(=O)NC3=C(C=C(C=C3)F)F)C(F)(F)F",
+    "Synonyms": [
+        "Diflufenican",
+        "83164-33-4",
+        "N-(2,4-Difluorophenyl)-2-(3-(trifluoromethyl)phenoxy)nicotinamide",
+        "N-(2,4-difluorophenyl)-2-[3-(trifluoromethyl)phenoxy]pyridine-3-carboxamide",
+        "\"2,4-Difluoro-2-(alpha,alpha,alpha-trifluoro-m-tolyloxy)nicotinanilide\"",
+        "Diflufenicanil",
+        "3T8D1VDO6K",
+        "N-(2,4-Difluorophenyl)-2-(3-(trifluoromethyl)phenoxy)-3-pyridinecarboxamide",
+        "DTXSID4041494",
+        "CHEBI:81824",
+        "3-Pyridinecarboxamide",
+        "N-(2,4-difluorophenyl)-2-(3-(trifluoromethyl)phenoxy)-",
+        "N-(2,4-difluorophenyl)-2-(3-trifluoromethylphenoxy)nicotinamide",
+        "N-(2,4-difluorophenyl)-2-[3-(trifluoromethyl)phenoxy]nicotinamide",
+        "Diflufenican [BSI:ISO]",
+        "3-Pyridinecarboxamide",
+        "N-(2,4-difluorophenyl)-2-[3-(trifluoromethyl)phenoxy]-"
+    ],
+    "IsomericSMILES": "C1=CC(=CC(=C1)OC2=C(C=CC=N2)C(=O)NC3=C(C=C(C=C3)F)F)C(F)(F)F",
+    "INCHI": "InChI=1S/C19H11F5N2O2/c20-12-6-7-16(15(21)10-12)26-17(27)14-5-2-8-25-18(14)28-13-4-1-3-11(9-13)19(22,23)24/h1-10H,(H,26,27)",
+    "INCHIKEY": "WYEHFWKAOXOVJD-UHFFFAOYSA-N",
+    "Formula": "C19H11F5N2O2",
+    "MolecularWeight": {
+        "$numberDouble": "394.3"
+    },
+    "Description": "Diflufenican is a pyridinecarboxamide that is pyridine-3-carboxamide substituted by a 2,4-difluorophenyl group at the carbamoyl nitrogen and a 3-(trifluoromethyl)phenoxy group at position 2. It has a role as an environmental contaminant, a xenobiotic, a herbicide and a carotenoid biosynthesis inhibitor. It is an aromatic ether, a member of (trifluoromethyl)benzenes and a pyridinecarboxamide.",
+    "XlogP": {
+        "$numberDouble": "4.6"
+    },
+    "Complexity": {
+        "$numberInt": "533"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Diflufenican, a pre- and early post-emergence herbicide, was found to be highly active against a wide range of weeds at application rates of 5-250 g/ha. Studies on the mode of selectivity with [14C]diflufenican have demonstrated that selectivity between cereal crops and selected weed species is primarily due to differential uptake and indirectly to translocation; 'depth protection' appears to be the major reason for selectivity of soil-applied diflufenican.",
+            "reference": "Haynes, C., & Kirkwood, R. C. (1992). Studies on the mode of action of diflufenican in selected crop and weed species: Basis of selectivity of pre\u2010and early post\u2010emergence applications. Pesticide science, 35(2), 161-165.",
+            "method": {
+                "Test Plant": "Winter wheat (Triticum aestivum L. cv. Flanders), barley (Hordeum vulgare L. cv. Triumph), and weed species - Galium aparine L., Setaria viridis L., Stellaria media L. Vill., Viola arvensis L.",
+                "Apply Location": "foliar spray",
+                "Plant Grown Condition": "Seeds sown in John Innes No. 2 compost or vermiculite and grown in glasshouse/growth cabinets. Growth cabinet conditions: 20\u00b10.5\u00b0C day/18\u00b10.5\u00b0C night, 90\u00b15% humidity, 27000 lux for 14 h",
+                "Chemical Preparation": "Diflufenican as 500 g/L emulsifiable concentrate from Rhone Poulenc Ltd. Radiolabelled [14C]diflufenican in the pyridine ring with 754 MBq/mM specific activity",
+                "Pesticide Application Details for the Plant": "Pre-emergence spray at 0, 0.35, 0.7, 1.4, 2.8, 7, 14 mM (0-1104 g ai/ha). Foliar spray of [14C]diflufenican + 0.1 g/L Tween 20 on first leaf",
+                "Other Information": "Herbicidal activity assessed by shoot/root weights, chlorophyll content"
+            },
+            "result": "[{\"Plant Wash (% of applied)\": 96.1, \"Uptake (%)\": 0.3, \"Translocated (%)\": 0.1, \"Recovery (%)\": 96.4}, {\"Plant Wash (% of applied)\": 90.5, \"Uptake (%)\": 1.0, \"Translocated (%)\": 0.2, \"Recovery (%)\": 91.9}, {\"Plant Wash (% of applied)\": 93.3, \"Uptake (%)\": 4.9, \"Translocated (%)\": 1.5, \"Recovery (%)\": 93.2}, {\"Plant Wash (% of applied)\": 87.0, \"Uptake (%)\": 5.8, \"Translocated (%)\": 1.7, \"Recovery (%)\": 94.8}, {\"Plant Wash (% of applied)\": 90.7, \"Uptake (%)\": 7.9, \"Translocated (%)\": 0.4, \"Recovery (%)\": 98.5}, {\"Plant Wash (% of applied)\": 85.1, \"Uptake (%)\": 6.9, \"Translocated (%)\": 1.9, \"Recovery (%)\": 91.9}]"
+        },
+        {
+            "content": "The herbicide diflufenican is an effective pre-emergence compound used for the control of difficult dicotyledonous weeds in winter cereals. It is less efficient when applied post-emergence, with activity depending on the dose reaching the apical meristems. Contact with diflufenican has no significant effect on other parts of the plant, and translocation is negligible. In the absence of surfactants, the uptake of diflufenican is minimal and complete approximately 2 hours after treatment. Surfactant incorporation increases the time over which uptake occurs, with efficiency depending on surfactant type and lipophilicity. \"Silwet L-77\" (1.09 liter-1) was the only surfactant tested that caused sufficient damage to the apex to prevent subsequent recovery of the plant. The effect of nonylphenol ethoxylate surfactants at concentrations above the critical micelle concentration (approximately 1.0 g liter-1) appeared to be partly attributable to leaf damage caused by the surfactant, possibly facilitating uptake. Increasing leaf coverage by surfactants did not necessarily improve uptake and activity.",
+            "reference": "Knight, H., & Kirkwood, R. C. (1991). Cuticular penetration of foliar\u2010applied diflufenican in Galium aparine L. Pesticide science, 33(3), 305-317.",
+            "method": {
+                "Test Plant": "Galium aparine L. (cleavers/bedstraw weed species)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Seeds planted in John Innes no. 2 compost at 1 cm depth in 13 cm pots. Grown in glasshouse at 20\u00b15\u00b0C with 14 h supplemental lighting. Cold treatment for 1 week before transferring to glasshouse",
+                "Chemical Preparation": "Diflufenican as aqueous suspension concentrate (FR1078/3) formulation. Radiolabelled [14C]diflufenican in formulated form with 189 kBq/mg specific activity. Surfactants used - Tween 20, Tween 61, Silwet L-77, nonylphenol ethoxylates (NPE 4, 5.5, 6.5, 10, 12, 14)",
+                "Pesticide Application Details for the Plant": "Spray application of diflufenican (2.5x10^-6 M) at 200 L/ha. Foliar drop application of 2 x 0.5 \u03bcl droplets of [14C]diflufenican (with/without surfactants). Surfactant concentrations used: 0.1, 1.0, 10 g/L for Tween 20/61, Silwet L-77",
+                "Other information and Other Information": "Herbicidal effects visually scored on 0-5 scale based on chlorosis"
+            },
+            "result": "[{\"Hours after application\": 1, \"Acetone wash (% of applied)\": 94.3, \"Chloroform wash (%)\": 0.9, \"Treated tissue (%)\": 0.5, \"Untreated tissue (%)\": 0.7}, {\"Hours after application\": 2, \"Acetone wash (% of applied)\": 95.7, \"Chloroform wash (%)\": 0.8, \"Treated tissue (%)\": 0.7, \"Untreated tissue (%)\": 0.2}, {\"Hours after application\": 4, \"Acetone wash (% of applied)\": 93.1, \"Chloroform wash (%)\": 0.5, \"Treated tissue (%)\": 0.7, \"Untreated tissue (%)\": 0.2}, {\"Hours after application\": 8, \"Acetone wash (% of applied)\": 97.2, \"Chloroform wash (%)\": 0.6, \"Treated tissue (%)\": 0.6, \"Untreated tissue (%)\": 0.2}]"
+        }
+    ]
+}

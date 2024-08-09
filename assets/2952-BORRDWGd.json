@@ -1,0 +1,67 @@
+{
+    "_id": {
+        "$oid": "6682e7f6c4e5dba5ffba2337"
+    },
+    "CID": {
+        "$numberInt": "2952"
+    },
+    "Name": "DANTROLENE",
+    "IUPACName": "1-[[5-(4-nitrophenyl)furan-2-yl]methylideneamino]imidazolidine-2,4-dione",
+    "CanonicalSMILES": "C1C(=O)NC(=O)N1N=CC2=CC=C(O2)C3=CC=C(C=C3)[N+](=O)[O-]",
+    "Synonyms": [
+        "dantrolene",
+        "7261-97-4",
+        "CHEBI:4317",
+        "DTXSID7022881",
+        "1-[[5-(4-nitrophenyl)furan-2-yl]methylideneamino]imidazolidine-2,4-dione",
+        "Spectrum_001537",
+        "Prestwick0_000291",
+        "Prestwick1_000291",
+        "Spectrum2_001180",
+        "Spectrum3_001567",
+        "Spectrum4_000163",
+        "CBiol_001748",
+        "SCHEMBL56848",
+        "KBioGR_000025",
+        "KBioGR_000645"
+    ],
+    "IsomericSMILES": "C1C(=O)NC(=O)N1N=CC2=CC=C(O2)C3=CC=C(C=C3)[N+](=O)[O-]",
+    "INCHI": "InChI=1S/C14H10N4O5/c19-13-8-17(14(20)16-13)15-7-11-5-6-12(23-11)9-1-3-10(4-2-9)18(21)22/h1-7H,8H2,(H,16,19,20)",
+    "INCHIKEY": "OZOMQRBLCMDCEG-UHFFFAOYSA-N",
+    "Formula": "C14H10N4O5",
+    "MolecularWeight": {
+        "$numberDouble": "314.25"
+    },
+    "Description": "Dantrolene is the hydrazone resulting from the formal condensation of 5-(4-nitrophenyl)furfural with 1-aminohydantoin. A ryanodine receptor antagonist used for the relief of chronic severe spasticity and malignant hyperthermia. It has a role as a muscle relaxant, a ryanodine receptor antagonist and a neuroprotective agent. It is an imidazolidine-2,4-dione and a hydrazone. It is a conjugate acid of a dantrolene(1-).",
+    "XlogP": {
+        "$numberDouble": "1.7"
+    },
+    "Complexity": {
+        "$numberInt": "524"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "mechanism_of_action": [
+        {
+            "References": "Gilman, A. G., L. S. Goodman, and A. Gilman. (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 6th ed. New York: Macmillan Publishing Co., Inc. 1980., p. 490",
+            "Value": "DANTROLENE /PRODUCES RELAXATION &/ REDUCES CONTRACTION OF SKELETAL MUSCLE BY DIRECT ACTION ON EXCITATION-CONTRACTION COUPLING, PERHAPS BY DECR AMT OF CALCIUM RELEASED FROM SARCOPLASMIC RETICULUM. ...IT DOES NOT IMPAIR POLYSYNAPTIC REFLEXES PREFERENTIALLY AS DO CENTRALLY ACTING MUSCLE RELAXANTS. DANTROLENE DIMINISHES FORCE OF ELECTRICALLY INDUCED TWITCHES...WITHOUT ALTERING MUSCLE ACTION POTENTIALS.../&/ REDUCES REFLEX MORE THAN VOLUNTARY CONTRACTION. .../IT/ DOES NOT AFFECT NEUROMUSCULAR TRANSMISSION, NOR...CHANGE ELECTRICAL POTENTIAL PROPERTIES OF SKELETAL MUSCLE MEMBRANES. IN PATIENTS WITH UPPER MOTONEURON LESIONS, SPASTICITY IS GENERALLY DIMINISHED...& FUNCTIONAL CAPACITY IS OFTEN IMPROVED."
+        },
+        {
+            "References": "ELLIS KO, WESSELS FL; MUSCLE RELAXANT PROPERTIES OF THE IDENTIFIED METABOLITES OF DANTROLENE; NAUNYN-SCHMIEDEBERG'S ARCH PHARMACOL 301(3) 237 (1978)",
+            "Value": "DANTROLENE & 5-HYDROXYDANTROLENE INHIBITED RAT MUSCLE CONTRACTION RESPONSES IN DOSE-DEPENDENT MANNER IN VIVO & IN VITRO. 5-HYDROXYDANTROLENE WAS LESS POTENT THAN DANTROLENE."
+        },
+        {
+            "References": "CECCHI G ET AL; THE DEVELOPMENT OF THE FORCE-VELOCITY RELATION IN NORMAL AND DANTROLENE-TREATED FROG SINGLE MUSCLE FIBERS; J MUSCLE RES CELL MOTIL 4(4) 395 (1983)",
+            "Value": "DANTROLENE INHIBITS CALCIUM 2+ ION (CA2+) RELEASE FROM THE SARCOPLASMIC RETICULUM OF FROG MUSCLE."
+        },
+        {
+            "References": "HALSALL PJ, ELLIS FR; THE CONTROL OF MUSCLE CONTRACTURE BY THE ACTION OF DANTROLENE ON THE SARCOLEMMA; ACTA ANAESTHESIOL SCAND 27(3) 229 (1983)",
+            "Value": "IN RAT DIAPHRAGM PREPN DANTROLENE HAD NO EFFECT ON CONTRACTURES INDUCED BY 2,4-DINITROPHENOL, BUT REDUCED SIGNIFICANTLY THE CONTRACTURE PRODUCED BY K+. THE MAJOR ACTION OF DANTROLENE APPEARS TO BE ON THE SARCOLEMMA, WHICH MAY BE THE SITE OF THE MALIGNANT HYPERPYREXIA ABNORMALITY."
+        },
+        {
+            "References": "SCHWARZ JR, SPIELMANN RP; DANTROLENE: EVIDENCE FOR EFFECTS ON SODIUM PERMEABILITY PROPERTIES OF THE NODAL MEMBRANE; EXPERIENTIA 39(7) 755 (1983)",
+            "Value": "DANTROLENE ADDED TO PREPN OF VOLTAGE-CLAMPED MYELINATED FROG NERVE FIBERS SHIFTED THE POTENTIAL-DEPENDENT PARAMETERS DESCRIBING SODIUM ION (NA+) PERMEABILITY TOWARDS MORE NEGATIVE MEMBRANE POTENTIALS. APPARENTLY, A CHANGE IN THE NEGATIVE SURFACE CHARGE OF THE MEMBRANE IS INDUCED."
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "_id": {
+        "$oid": "6682e880c4e5dba5ffba25e9"
+    },
+    "CID": {
+        "$numberInt": "7504"
+    },
+    "Name": "Benzylamine",
+    "IUPACName": "phenylmethanamine",
+    "CanonicalSMILES": "C1=CC=C(C=C1)CN",
+    "Synonyms": [
+        "BENZYLAMINE",
+        "phenylmethanamine",
+        "100-46-9",
+        "Benzenemethanamine",
+        "Monobenzylamine",
+        "(Phenylmethyl)amine",
+        "alpha-Aminotoluene",
+        "(Aminomethyl)benzene",
+        "1-phenylmethanamine",
+        "N-Benzylamine",
+        "Moringine",
+        "89551-24-6",
+        "Phenylmethylamine",
+        "Sumine 2005",
+        "omega-Aminotoluene"
+    ],
+    "IsomericSMILES": "C1=CC=C(C=C1)CN",
+    "INCHI": "InChI=1S/C7H9N/c8-6-7-4-2-1-3-5-7/h1-5H,6,8H2",
+    "INCHIKEY": "WGQKYBSKWIADBV-UHFFFAOYSA-N",
+    "Formula": "C7H9N",
+    "MolecularWeight": {
+        "$numberDouble": "107.15"
+    },
+    "Description": "Benzylamine is a primary amine compound having benzyl as the N-substituent. It has been isolated from Moringa oleifera (horseradish tree). It has a role as an EC 3.5.5.1 (nitrilase) inhibitor, a plant metabolite and an allergen. It is a primary amine and an aralkylamine. It is a conjugate base of a benzylaminium.",
+    "XlogP": {
+        "$numberDouble": "1.1"
+    },
+    "Complexity": {
+        "$numberInt": "55"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Benzylamine. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Dec 9, 2010: https://www.ars-grin.gov/duke/",
+            "Value": "Plants containing benzylamine(1). ",
+            "Table": "[{'Genus species': 'Brassica oleracea var. sabellica l. var. acephala DC', 'Common Name': 'Curly Kale, Kale, Kitchen Kale, Scotch Kale', 'Concentration (ppm)': '3.8', 'Plant part': 'Leaf'}, {'Genus species': 'Apium graveolens L.', 'Common Name': 'Celery', 'Concentration (ppm)': '3.4', 'Plant part': 'Stem'}, {'Genus species': 'Zea mays L.', 'Common Name': 'Corn', 'Concentration (ppm)': '3.4', 'Plant part': 'Seed'}, {'Genus species': 'Brassica oleracea var. capitata l. var. capitata', 'Common Name': 'Cabbage, Red Cabbage, White Cabbage', 'Concentration (ppm)': '3.3', 'Plant part': 'Leaf'}, {'Genus species': 'Malus domestica BORKH.', 'Common Name': 'Apple', 'Concentration (ppm)': '3', 'Plant part': 'Fruit'}, {'Genus species': 'Daucus carota L.', 'Common Name': 'Carrot', 'Concentration (ppm)': '2.8', 'Plant part': 'Root'}, {'Genus species': 'Brassica oleracea var. botrytis l. var. botrytis L.', 'Common Name': 'Cauliflower', 'Concentration (ppm)': '1.4', 'Plant part': 'Flower'}, {'Genus species': 'Malus domestica BORKH.', 'Common Name': 'Apple', 'Concentration (ppm)': 'Not Quantified', 'Plant part': 'Fruit Epidermis'}, {'Genus species': 'Moringa oleifera LAM.', 'Common Name': 'Ben Nut, Benzolive Tree, Drumstick Tree, Horseradish Tree, Jacinto (Sp.), Moringa, West Indian Ben', 'Concentration (ppm)': 'Not Qunatified', 'Plant part': 'Bark'}]"
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of March 30, 2010: https://www.safe.nite.go.jp/english/db.html. (2) Gerike P, Fischer WK; Ecotox Environ Safety 3: 159-73 (1979) (3) Zahn R, Wellens H; Z Wasser Abwasser Forsch 13: 1-7 (1980) (4) Federle TW, Pastwa GM; Ground Water 26: 761-70 (1988) (5) Malaney GW; J Water Pollut Control Fed 32: 1300-11 (1960) (6) Lutin PA et al; Purdue Univ Eng Bull, Ext Series 118: 131-45 (1965)",
+            "Value": "AEROBIC: Benzylamine, present at 100 mg/L, reached an average 63.5% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1). The results of different screening tests indicate that benzylamine is readily biodegradable(2); the test and results are as follows(3): Coupled Units test: 101% DOC removal; Zahn-Wellens test: 96% DOC removal after 4 days; Sturm test: 90% CO2 evolution; OECD Screening test: 96% DOC removal; Closed Bottle test: 30-day theoretical BOD of 53% using modified procedures(1). Using the Zahn-Wellens test, a degradation in excess of 90% was observed over a six-day incubation period(3). Biomineralization of benzylamine was measured (via 14-CO2 evolution) in sediment taken beneath a laundromat waste-water pond and a pristine control pond(4); benzylamine was rapidly degraded in both sediments without a lag period(4); depending upon depth of sediment, the mineralization rate constant ranged from 0.096 to 0.313 per day(3); the mean half-life was 3.3 days(3). Concentrations of 500 mg/L benzylamine were toxic to microorganisms in Warburg respirometer studies using activated sludge inocula(5,6)."
+        },
+        {
+            "References": "(1) Subba-Rao RV et al; Appl Environ Microbiol 43: 1139-50 (1982) (2) Miller ME, Alexander M; Environ Sci Technol 25: 240-5 (1991) (3) Subba-Rao RV, Alexander M; Appl Environ Microbiol 44: 659-68 (1982)",
+            "Value": "AEROBIC: Biomineralization of benzylamine was measured (via 14-CO2 evolution) in lake water at concentrations ranging from 0.1 ng/mL to 1.0 ug/mL(1); over a 6-day incubation period, 96.1-98.9% of initial benzylamine mineralized(1). Addition of clay to lake water has been observed to retard the biodegradation rate of benzylamine due to sorption to clay surfaces which decreases the bioavailablity to microbes; however, the benzylamine still biodegraded readily(2,3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 32",
+            "Value": "log Kow = 1.09"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:12628667",
+            "Value": "Glucose, 3-deoxyglucosone (3-DG), and methylglyoxal (MG) oxidatively deaminated benzylamine to benzaldehyde in the presence of Cu(2+) at a physiological pH and temperature but not glyoxal. 3-DG and MG were more effective oxidants than glucose. We have determined the effects of metal ions, pH, oxygen, and radical scavengers on the oxidative deamination. The formation of benzaldehyde was greatest with Cu(2+), and was accelerated at a higher pH and in the presence of oxygen. EDTA, catalase, and dimethyl sulfoxide significantly inhibited the oxidation, suggesting the participation of reactive oxygen species. From these results, we propose a mechanism for the oxidative deamination by the Strecker-type reaction and the reactive oxygen species-mediated oxidation during glycoxidation."
+        },
+        {
+            "References": "PMID:17989349",
+            "Value": "Human semicarbazide-sensitive amine oxidase (SSAO) is a target for novel anti-inflammatory drugs that inhibit enzymatic activity. However, progress in developing such drugs has been hampered by an incomplete understanding of mechanisms involved in substrate turnover. We report here results of a comparative study of human and bovine SSAO enzymes that reveal binding of substrates and other ligands to at least two (human) and up to four (bovine) distinct sites on enzyme monomers. Anaerobic spectroscopy reveals binding of substrates (spermidine and benzylamine) and of an imidazoline site ligand (clonidine) to the reduced active site of bovine SSAO, whereas interactions with oxidized enzyme are evident in kinetic assays and crystallization studies. Radioligand binding experiments with [(3)H]tetraphenylphosphonium, an inhibitor of bovine SSAO that binds to an anionic cavity outside the active site, reveal competition with spermidine, benzylamine, and clonidine, indicating that these ligands also bind to this second anionic region. Kinetic models of bovine SSAO are consistent with one spermidine molecule straddling the active and secondary sites on both oxidized and reduced enzyme, whereas these sites are occupied by two individual molecules of smaller substrates such as benzylamine. Clonidine and other imidazoline site ligands enhance or inhibit activity as a result of differing affinities for both sites on oxidized and reduced enzyme. In contrast, although analyses of kinetic data obtained with human SSAO are also consistent with ligands binding to oxidized and reduced enzyme, ...  no apparent requirement for substrate or modulator binding to any secondary site to model enzyme behavior /was observed/."
+        }
+    ]
+}

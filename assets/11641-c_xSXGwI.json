@@ -1,0 +1,169 @@
+{
+    "_id": {
+        "$oid": "6682e8f7c4e5dba5ffba283e"
+    },
+    "CID": {
+        "$numberInt": "11641"
+    },
+    "Name": "VINYL BROMIDE",
+    "IUPACName": "bromoethene",
+    "CanonicalSMILES": "C=CBr",
+    "Synonyms": [
+        "VINYL BROMIDE",
+        "Bromoethene",
+        "Bromoethylene",
+        "593-60-2",
+        "Ethene",
+        "bromo-",
+        "Monobromoethylene",
+        "vinylbromide",
+        "Vinylbromid",
+        "Bromure de vinyle",
+        "C2H3Br",
+        "1-Bromoethylene",
+        "Ethylene",
+        "bromo-",
+        "bromo-ethene",
+        "NCI-C50373",
+        "83NRW59KFY"
+    ],
+    "IsomericSMILES": "C=CBr",
+    "INCHI": "InChI=1S/C2H3Br/c1-2-3/h2H,1H2",
+    "INCHIKEY": "INLLPKCGLOXCIV-UHFFFAOYSA-N",
+    "Formula": "C2H3Br",
+    "MolecularWeight": {
+        "$numberDouble": "106.95"
+    },
+    "Description": "Bromoethene is a monohaloethene and a bromoalkene.",
+    "XlogP": {
+        "$numberDouble": "1.5"
+    },
+    "Complexity": {
+        "$numberInt": "10"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 4 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated for vinyl bromide(SRC), using a log Kow of 1.57(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 4",
+            "Value": "log Kow= 1.57"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Solomon JJ; IARC Sci Publ (150): 123-35 (1999)",
+            "Value": "Simple epoxides such as ethylene oxide, propylene oxide, epichlorohydrin and glycidol are mutagenic and carcinogenic compounds that are important industrial chemicals. Mutagenic and carcinogenic epoxides can also be formed metabolically from Industrially important compounds such as alkenes (ethylene, butadiene, propylene and styrene), vinyl halides (vinyl chloride and vinyl bromide) and other vinyl monomers (acrylonitrile and acrylamide). Simple epoxides react with nucleosides and DNA predominantly by the SN2 mechanism at the most nucleophilic sites (ring nitrogens) in DNA to form 2-hydroxy-2-alkyl adducts. The major hydroxyalkyl adducts that form at N7 of deoxyguanosine and N3 of deoxyadenosine are chemically unstable owing to the presence of a charged quaternary nitrogen at the site of alkylation, and they depurinate spontaneously to remove the charge, forming potentially mutagenic abasic sites. Hydroxyalkylation at N1 of deoxyadenosine and N3 of deoxycytidine also results in the production of charged, unstable species because the pKa increases dramatically after alkylation. The charge can be lost from these adducts by the formation of cyclic adducts, which occurs when there is a good leaving group on the hydroxyalkyl side-chain. Most simple epoxides remove the charge on hydroxyalkyl adducts at N1 of deoxyadenosine and N3 of deoxyxytidine by competitive rearrangements, such as hydrolytic deamination, to form 1-hydroxyalkyl-deoxyinosine and 3-hydroxyalkyl-deoxyuridine adducts and Dimroth rearrangement to form N6-hydroxyalkyl-deoxyadenosine adducts. These rearrangements are facilitated intramolecularly by the formation of cyclic intermediates, with the participation of the hydroxyl group of the hydroxyalkyl side-chain. These adducts are uncharged, stable and potentially mutagenic and are likely to contribute to the biological activity of simple epoxides."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "American Conference of Governmental Industrial Hygienists, Inc. Documentation of the Threshold Limit Values and Biological Exposure Indices. 6th ed. Volumes I, II, III. Cincinnati, OH: ACGIH, 1991., p. 1690",
+            "Value": "LIQ VINYL BROMIDE IS SLIGHTLY TO MODERATELY IRRITATING TO EYES, BUT NONIRRITATING TO INTACT OR ABRADED RABBIT SKIN."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists, Inc. Documentation of the Threshold Limit Values and Biological Exposure Indices. 6th ed. Volumes I, II, III. Cincinnati, OH: ACGIH, 1991., p. 1690",
+            "Value": "AN INHALATION STUDY IN RATS EXPOSED 7 HR/DAY, 5 DAYS/WK FOR 4 WK AT 10,000 PPM VINYL BROMIDE REVEALED SIGNIFICANT REDUCTIONS IN BODY WEIGHT AFTER 15 DAYS OF EXPOSURE, BUT NO COMPOUND-RELATED GROSS OR MICROSCOPIC PATHOLOGICAL CHANGES AFTER 20 EXPOSURE DAYS."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V39 138 (1986)",
+            "Value": "A GROUP OF 30 FEMALE ICR/HA SWISS MICE WAS INJECTED SUBCUTANEOUSLY WITH 25 MG/ANIMAL VINYL BROMIDE IN 0.05 ML TRIOCTANOIN ONCE WEEKLY FOR 48 WK & OBSERVED UP TO 420 DAYS. NO LOCAL TUMOR WAS SEEN IN TREATED MICE, NOR IN 30 MICE GIVEN 48 WEEKLY INJECTIONS OF TRIOCTANOIN ALONE, NOR IN 60 UNTREATED CONTROLS OBSERVED UP TO 420 DAYS. (THE WORKING GROUP NOTED THAT EXAM OF ANIMALS FOR PATHOLOGICAL LESIONS WAS LIMITED TO INJECTION SITE)."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V19 371 (1979)",
+            "Value": "EXPOSURES OF SALMONELLA TYPHIMURIUM TA1530 OR TA100 TO VAPORS OF VINYL BROMIDE IN AIR CAUSED MUTAGENIC EFFECTS. ADDITION OF 9000XG LIVER SUPERNATANT FRACTIONS FROM PHENOBARBITAL-PRETREATED MICE OR FROM HUMAN LIVER BIOPSIES ENHANCED MUTAGENICITY."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V39 137 (1986)",
+            "Value": "A group of 30 female ICR/HA Swiss mice received topical applications of 15 mg vinyl bromide (purity unspecified) in 0.1 ml acetone thrice weekly for 60 wk. No skin tumor was observed. In a two-stage skin carcinogenesis study to test for initiating activity, further groups of 30 mice received a single application of vinyl bromide followed by thrice-weekly applications for 60 wk of 2.5 ug 12-O-tetradecanoylphorbol 13-acetate (TPA) in 0.1 ml acetone, a single application of 7,12-dimethylbenz(a)anthracene followed by treatment with 12-0-tetradecanoylphorbol 13-acetate (positive controls), treatment with 12-0-tetradecanoylphorbol 13-acetate only, or no treatment at all (160 mice). One of 30 mice treated with vinyl bromide followed by 12-0-tetradecanoylphorbol 13-acetate developed a skin papilloma at 412 days; one skin carcinoma occurred among the 30 12-0-tetradecanoylphorbol 13-acetate-treated controls after 44 days; no skin tumor developed in 160 untreated controls within 420 days; and the positive control group showed the expected high number of skin tumors. (The Working Group noted that sites other than the skin were not exam, & that the test material was volatile)."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V39 139 (1986)",
+            "Value": "The hepatotoxicity of vinyl bromide in rats is enhanced by pretreatment with polychlorinated biphenyls. Aroclor 1254-pretreated rats exposed by inhalation for 4 hr to 44,000 mg/cu m (10,000 ppm) vinyl bromide showed increases in serum alanine-alpha-ketoglutarate transaminase & serum sorbitol dehydrogenase & histological signs of liver damage. The enhancement was more pronounced in fasted than in fed rats."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V39 138 (1986)",
+            "Value": "Groups of 120 male & 120 female Sprague-Dawley rats, 9 to 10 wk of age, were exposed to 10, 50, 250 or 1250 ppm (44, 219, 1093 or 5875 mg/cu m) vinyl bromide (purity, 99.9%; 0.02% hydroquinone methyl ether as stabilizer, as well as 0.03% ethylene oxide, 0.0007% acetylene, 0.008% aldehydes & ketones) in air for 6 hr/day on 5 days/wk for 104 wk, at which time they were sacrificed. In the group exposed to 1250 ppm, exposure was terminated at 72 wk because about 50% of animals had died, & the remainder were sacrificed. A group of 144 male & 144 female rats served as untreated controls. Avg survival time was not stated. Treatment-related increases in incidences of liver angiosarcoma were observed in all treated groups: males: 0/144 controls, 7/120 at 10 ppm (p< 0.025); 36/120 at 50 ppm (p< 0.001); 61/120 at 250 ppm (p< 0.001) & 43/120 at 1250 ppm (p< 0.0001); females: 1/144, 10/120, 50/120, 61/120 & 41/120, respectively (p< 0.001 for all groups). In addition, incr were observed in the incidences of squamous-cell carcinoma of the Zymbal gland: males 2/142, 1/99, 1/112, 13/114 p< 0.005) & 35/116 (p< 0.005); females, 0/139, 0/99, 3/113, 2/119 & 11/114 p< 0.001), neoplastic nodules & hepatocellular carcinomas: males, 4/143, 5/103, 10/119, 13/120 (p< 0.025) & 5/119; females: 7/142, 18/101 (p< 0.005), 12/113, 21/118 (p< 0.005) & 9/112 in treated animals compared to controls."
+        },
+        {
+            "References": "Sittig, M. Handbook of Toxic and Hazardous Chemicals and   Carcinogens, 1985. 2nd ed. Park Ridge, NJ: Noyes Data   Corporation, 1985., p. 918",
+            "Value": "Points of attack: In animals: liver, lung, breast, zymbal gland, lymphatic system."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V39 139 (1986)",
+            "Value": "Newborn Wistar rats exposed to 8800 mg/cu m (2000 ppm) vinyl bromide for 8 hr/day on 5 days/wk for 8-15 wk developed ATPase-deficient foci in the liver, but to an extent about ten-fold lower than was seen after similar exposure to vinyl chloride."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V19 371 (1979)",
+            "Value": "PHENOBARBITAL PRETREATMENT OF RATS INDUCED ACCELERATION OF VINYL BROMIDE DEBROMINATION IN ANIMALS EXPOSED TO 2% (88 G/CU M; 20000 PPM) VINYL BROMIDE FOR 5 HR DAY ONCE, TWICE OR FOR 5 OR 10 CONSECUTIVE DAYS. TOXIC INJURY TO LIVER OBSERVED DURING FIRST 2 DAYS OF EXPOSURE WAS REVERSED BY DAY 5."
+        },
+        {
+            "References": "USEPA; Chemical Hazard Information Profile: Vinyl Bromide (Draft) p.282 (1980)",
+            "Value": "Chronic exposure studies, rats inhaling an atmosphere containing 10,000 ppm vinyl bromide for 7 hr/day, 5 days/wk for 4 wks become hypoactive & drowsy within 1 hr after each initiation of exposure there after remaining motionless in their cages for the duration of the exposure."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V39 138 (1986)",
+            "Value": "In subacute inhalation studies, rats were exposed to 44,000 mg/cu m (10,000 ppm) vinyl bromide in air for 7 hr/day on five days/wk for 4 wks; & rats, rabbits & monkeys were exposed to 1,100 or 2,200 mg/cu m (250 or 500 ppm) vinyl bromide for 6 hr a day on five days/wk for six months. No significant change was detected in food consumption, hematology, gross pathology or histopathology."
+        },
+        {
+            "References": "PMID:7135391",
+            "Value": "The carcinogenicity of vinyl bromide was evaluated during an inhalation study in which Sprague Dawley rats were exposed for 6 hr daily, 5 days/wk for 2 yr, in 6 cu m stainless steel and glass inhalation chambers. The 4 exposure levels to vinyl bromide in air were 9.7, 52, 247, and 1235 ppm. The controls were exposed to filtered and conditioned outside air. Moribund rats and rats in groups scheduled for termination from the control and exposed levels following 6, 12, 18 and 24 mo. of exposure were necropsied and examined for histopathologic changes. Body weights, mortality, hematology, urinalysis, clinical chemistry, terminal organ weights, histopathology and analytical observations were conducted. A decline in body weights was evident among all exposure levels. Microcytic anemia, elevated serum bromide levels, decreased blood urea nitrogen, elevated alkaline phosphatase, elevated lacate dehydrogenase and hematuria were observed. Angiosarcomas, primarily of the liver, were induced in male and female rats in all exposure groups. An increase in the number of Zymbal's gland neoplasms was found in both male and female rats at 52, 247 and 1235 ppm exposure levels. An increased incidence of primary hepatocellular neoplasms was seen in males exposed to 247 ppm and in females exposed to 9.7, 52 and 247 ppm. The increase in primary hepatocellular neoplasms was detected primarily in animals that survived the 24 mo. exposure or died following 18 mo. of exposure. No exposure related pathology was observed in the brains of the rats."
+        },
+        {
+            "References": "Clayton, G.D., F.E. Clayton (eds.) Patty's Industrial Hygiene and Toxicology. Volumes 2A, 2B, 2C, 2D, 2E, 2F: Toxicology. 4th ed. New York, NY: John Wiley & Sons Inc., 1993-1994., p. 4178-79",
+            "Value": ".../Vinyl bromide/ was found to be slightly to moderately irritating to the eyes, to be essentially nonirritating to the intact or abraded skin of rabbits, and to produce no frostbite from evaporation of the liquid."
+        },
+        {
+            "References": "Clayton, G.D., F.E. Clayton (eds.) Patty's Industrial Hygiene and Toxicology. Volumes 2A, 2B, 2C, 2D, 2E, 2F: Toxicology. 4th ed. New York, NY: John Wiley & Sons Inc., 1993-1994., p. 4179",
+            "Value": ".../It was/ reported that 7 mmol/liter was the highest tolerable concentration for mice exposed for 10 min and that half that concentration produced pronounced anesthesia."
+        },
+        {
+            "References": "Clayton, G.D., F.E. Clayton (eds.) Patty's Industrial Hygiene and Toxicology. Volumes 2A, 2B, 2C, 2D, 2E, 2F: Toxicology. 4th ed. New York, NY: John Wiley & Sons Inc., 1993-1994., p. 4179",
+            "Value": "... Acute inhalation toxicity studies showed that exposure of rats to a nominal concentration of 100,000 ppm (437,636 mg/cu m) resulted in deep anesthesia and death within 15 minutes, but if the exposure was terminated before death, all animals recovered and survived. Exposure to a nominal concentration of 50,000 ppm (218,818 mg/cu m) resulted in unconsciousness within 25 minutes. All animals survived a 1 1/2-hour exposure, but not a 7 hour exposure. At 25,000 ppm (109,409 mg/cu m) rats were anesthetized, but they recovered rapidly when removed from the atmosphere even after 7 hours of exposure. Necropsy of survivors of the 50,000 ppm groups 2 weeks after exposure revealed slight to moderate liver and kidney damage. However, no abnormality was observed grossly in the survivors of the 25,000 ppm group."
+        },
+        {
+            "References": "Clayton, G.D., F.E. Clayton (eds.) Patty's Industrial Hygiene and Toxicology. Volumes 2A, 2B, 2C, 2D, 2E, 2F: Toxicology. 4th ed. New York, NY: John Wiley & Sons Inc., 1993-1994., p. 4179",
+            "Value": "Male and female rats, rabbits, and monkeys were repeatedly exposed 6 hr/day to either 250 or 500 ppm for 6 mo with no apparent effect except for an increase in blood bromide ion concn. There were no compound-related effects with respect to demeanor, body and organ weights, food consumption, a number of hematologic parameters, or mortality. Gross and microscopic examination of the major organs and tissues at the end of the exposure period revealed no remarkable abnormal changes."
+        },
+        {
+            "References": "Clayton, G.D., F.E. Clayton (eds.) Patty's Industrial Hygiene and Toxicology. Volumes 2A, 2B, 2C, 2D, 2E, 2F: Toxicology. 4th ed. New York, NY: John Wiley & Sons Inc., 1993-1994., p. 4179",
+            "Value": "Vinyl bromide vapors have been shown to be mutagenic in Salmonella typhimurium TA 1530 and TA 100. Addition of rats and human liver enzymes enhanced activity in the in vitro system."
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 3544",
+            "Value": "Vinyl bromide has been shown to be carcinogenic in male and female rats exposed to either 10, 50, 250, and 1250 ppm in a lifetime study (still in progess at time of writing). The effects were so severe at 1250 ppm that this group was terminated after 74 weeks; the remaining groups were kept for 24 months. Angiosarcomas, primarily of the liver, were found in both sexes at all four concentrations. Neoplasms of the ceruminal (Zymbal) glands of the ears occurred in both sexes at the highest concentration and in male rats at 250 ppm. The incidence of hepatocellular neoplasms was increased at 250 ppm in both sexes and in female rats at 10 ppm."
+        },
+        {
+            "References": "O'Donoghue, J.L. (ed.). Neurotoxicity of Industrial and Commercial Chemicals. Volume I. Boca Raton, FL: CRC Press, Inc., 1985., p. 140",
+            "Value": "Acute neurotoxic effects reported in animals include anesthesia. /From table/"
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists, Inc. Documentation of the Threshold Limit Values and Biological Exposure Indices. 6th ed. Volumes I, II, III. Cincinnati, OH: ACGIH, 1991., p. 1691",
+            "Value": "Vinyl bromide was mutagenic in standard short-term tests with Salmonella typhimurium & tradescantia in the presence of mammalian exogenous metabolic activation."
+        },
+        {
+            "References": "USEPA; Chemical Hazard Information Profile: Vinyl Bromide (Draft) p.284 (1980)",
+            "Value": "In an inhalation study, male rats were exposed to 2% vinyl bromide 4 or 5 hr per day for 1, 2, 5 or 10 consecutive days. This treatment was also combined with administration of bromide in the drinking water. Vinyl bromide exposure caused significant weight loss during the first few days (weight loss amplified by administration of phenobarbital). ... Rats received phenobarbital along with the vinyl bromide treatment lost more weight than could be accounted for in pair feeding studies. ... Vinyl bromide alone did not cause liver aberrations observable by light microscope. Those animals subjected to phenobarbital and vinyl bromide showed accentuation of hepatic lobular markings. Several grayish white foci measuring 0.1 to 1 cm were observed in one rat liver observed after 2 days of exposure. Some rats experienced moderate congestion of the lungs."
+        },
+        {
+            "References": "PMID:9804871",
+            "Value": "The micronucleus test is widely used to assess in vivo clastogenicity because of its convenience, but it is not appropriate for some carcinogenic chemical classes. Halogenated compounds, for example, are inconsistent micronucleus inducers. We assessed the genotoxicity of 7 haloalkanes and haloalkenes carcinogenic to rodents in 7 mouse organs-stomach, liver, kidney, bladder, lung, brain, and bone marrow-using the alkaline single cell gel electrophoresis (SCG) assay. The carcinogens we studied were 1, 2-dibromo-3-chloropropane (DBCP), 1,3-dichloropropene (mixture of cis and trans) (DCP), 1,2-dibromoethane (EDB), 1,2-dichloroethane (EDC), vinyl bromide, dichloromethane, and carbon tetrachloride; only DBCP induces micronuclei in mouse bone marrow. Mice were sacrificed 3 or 24 h after carcinogen administration. Vinyl bromide yielded DNA damage in all of the organs except for bone marrow. DBCP induced DNA damage in the stomach, liver, kidney, lung, and bone marrow; EDB in the stomach, liver, kidney, bladder, and lung; and dichloromethane in the liver and lung. Since no deaths, morbidity, clinical signs, organ pathology, or microscopic signs of necrosis were observed, the DNA damage was not attributable to cytotoxicity. We suggest that the alkaline SCG assay can be used in multiple organs to detect in vivo genotoxicity that is not expressed in bone marrow cells in mice given non-necrogenic doses of halocompounds."
+        },
+        {
+            "References": "PMID:6119816",
+            "Value": "Eighteen compounds structurally related to the mutagenic carcinogen vinyl chloride have been tested for mutagenicity in five strains of Salmonella typhimurium. Acrolein, acrolein diethylacetal, acrylonitrile, allyl alcohol, allyl bromide, crotonaldehyde, crotyl alcohol, and vinyl bromide were mutagenic with one or more strains; acrolein bisulfite, acrolein oxime, acrylamide, acrylic acid, allylamine, trans-cinnamaldehyde, trans-cinnamic acid, crotonic acid, methyl methacrylate, and vinyl acetate were not mutagenic. The mutagenicity tests were performed both without and with activation by rat and hamster liver microsomal preparations (S9). All compounds were tested in the plate incorporation and/or liquid preincubation tests except vinyl bromide, which was tested as a gas."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 4 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of vinyl bromide is estimated as 170(SRC), using a log Kow of 1.57(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that vinyl bromide is expected to have moderate mobility in soil(SRC)."
+        }
+    ]
+}

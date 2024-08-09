@@ -1,0 +1,77 @@
+{
+    "_id": {
+        "$oid": "6682e872c4e5dba5ffba25a4"
+    },
+    "CID": {
+        "$numberInt": "7259"
+    },
+    "Name": "2,5-XYLIDINE",
+    "IUPACName": "2,5-dimethylaniline",
+    "CanonicalSMILES": "CC1=CC(=C(C=C1)C)N",
+    "Synonyms": [
+        "2,5-Dimethylaniline",
+        "95-78-3",
+        "2,5-XYLIDINE",
+        "p-Xylidine",
+        "1-Amino-2,5-dimethylbenzene",
+        "2,5-Dimethylbenzenamine",
+        "2,5-Dimethylphenylamine",
+        "2-Amino-1,4-xylene",
+        "Benzenamine",
+        "2,5-dimethyl-",
+        "5-Methyl-o-toluidine",
+        "6-Methyl-m-toluidine",
+        "2,5-Xylidene",
+        "p-Dimethylaniline",
+        "2-Amino-p-xylene",
+        "Aniline",
+        "2,5-dimethyl-"
+    ],
+    "IsomericSMILES": "CC1=CC(=C(C=C1)C)N",
+    "INCHI": "InChI=1S/C8H11N/c1-6-3-4-7(2)8(9)5-6/h3-5H,9H2,1-2H3",
+    "INCHIKEY": "VOWZNBNDMFLQGM-UHFFFAOYSA-N",
+    "Formula": "C8H11N",
+    "MolecularWeight": {
+        "$numberDouble": "121.18"
+    },
+    "Description": "2,5-dimethylaniline is a primary arylamine that is aniline in which the hydrogens at the 2- and 5-positions are replaced by methyl groups. It is used in the manufacture of dyes and other chemicals. It is a dimethylaniline and a primary arylamine.",
+    "XlogP": {
+        "$numberDouble": "1.8"
+    },
+    "Complexity": {
+        "$numberInt": "90"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V16 380 (1978)",
+            "Value": "... Has been detected in the steam distillate of cured Latakia tobacco, which is used in pipe tobacco."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Biodegradation and Bioaccumulation Data of Existing Chemicals Based on the CSCL Japan. Japan Chemical Industry Ecology-Toxicology and Information Center. ISBN #4-89074-101-1 (1992) (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "A BCF value of 1.5-3.2 and <3.8 was measured for 2,5-xylidine at 1 and 0.1 mg/l, respectively, in carp(1). According to a classification scheme(2), these BCF values suggest that bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Biodegradation and Bioaccumulation Data of Existing Chemicals Based on the CSCL Japan. Japan Chemical Industry Ecology-Toxicology and Information Center. ISBN #4-89074-101-1 (1992) (2) Sasaki S; pp. 283-98 in Aquatic Pollutants: Transformation and Biological Effects. Hutzinger, O et al (eds). Oxford: Pergamon Press (1978) (3) Pitter P; Water Res 10: 231-35 (1976)",
+            "Value": "2,5-Xylidine, present at 100 mg/L, reached 0-1% of its theoretical BOD in 4 weeks using an activated sludge inoculum(1). In the Japanese MITI test, 2,5-xylidine (present at 100 mg/L) was classified as slow to biodegrade indicating that only 0-29% of the theoretical BOD was reached in 2 weeks using an activated sludge inoculum(2). 2,5-Xylidine, initially present at 200 mg/L COD, reached 96.5% degradation (measured as removal of COD) with a rate of biodegradation of 3.6 mg COD/g-hr using an activated sludge inoculum(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 34",
+            "Value": "log Kow = 1.83 at pH 7.4"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Amer Chem Soc, Washington, DC. p. 45 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 23 (1983) (4) Bollag JM et al; J Agric Food Chem 26: 1302-1306 (1978) (5) Adrian P et al; Toxicol Environ Chem 20-21: 109-120 (1989)",
+            "Value": "The Koc of 2,5-xylidine is estimated as approximately 240(SRC), using a measured log Kow of 1.83(1) and a regression-derived equation(2,SRC). According to a recommended classification scheme(3), this estimated Koc value suggests that 2,5-xylidine has moderate mobility in soil(SRC). However, anilines are expected to bind strongly to humus or soil organic matter in soils due to the high reactivity of the aromatic amino group(4,5). Low adsorption is observed at a neutral pH with pure clay minerals or soils for substituted anilines(5)."
+        }
+    ]
+}

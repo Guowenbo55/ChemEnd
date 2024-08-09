@@ -1,0 +1,99 @@
+{
+    "_id": {
+        "$oid": "6682e8b0c4e5dba5ffba26da"
+    },
+    "CID": {
+        "$numberInt": "8184"
+    },
+    "Name": "1-UNDECANOL",
+    "IUPACName": "undecan-1-ol",
+    "CanonicalSMILES": "CCCCCCCCCCCO",
+    "Synonyms": [
+        "1-UNDECANOL",
+        "Undecan-1-ol",
+        "112-42-5",
+        "Undecyl alcohol",
+        "Undecanol",
+        "n-Undecanol",
+        "n-Undecyl alcohol",
+        "Hendecanoic alcohol",
+        "Hendecyl alcohol",
+        "1-Hendecanol",
+        "Alcohol C-11",
+        "n-Hendecylenic alcohol",
+        "Tip-Nip",
+        "1-Undecyl alcohol",
+        "n-Undecan-1-ol"
+    ],
+    "IsomericSMILES": "CCCCCCCCCCCO",
+    "INCHI": "InChI=1S/C11H24O/c1-2-3-4-5-6-7-8-9-10-11-12/h12H,2-11H2,1H3",
+    "INCHIKEY": "KJIOQYGWTQBHNH-UHFFFAOYSA-N",
+    "Formula": "C11H24O",
+    "MolecularWeight": {
+        "$numberDouble": "172.31"
+    },
+    "Description": "Undecan-1-ol is a primary alcohol that is undecane substituted by a hydroxy group at position 1. It has a role as a plant metabolite and a flavouring agent. It is a primary alcohol and an undecanol.",
+    "XlogP": {
+        "$numberDouble": "4.6"
+    },
+    "Complexity": {
+        "$numberInt": "71"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Abraham MH et al; J Pharm Sci 83: 1085-100 (1994) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 5-5 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 86 was calculated for 1-undecanol(SRC), using a log Kow of 4.72(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is moderate(SRC), provided the compound is not metabolized by the organism(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Babeu L, Vaishnav DD; J Indust Microb 2: 107-15 (1987) (2) Vaishnav DD et al; Chemosphere 16: 695-703 (1987) (3) Yonezawa Y et al; Kogai Shigen Kenkyusho Iho 11: 77-82 (1981)",
+            "Value": "AEROBIC: Using acclimated mixed microbial cultures, the theoretical and 5-day BOD for 1-undecanol were determined to be 16.50% and 4.5 mmol/mmol chemical, respectively(1). After 5 days at 21 \u00b0C in sewage, the theoretical BOD for 1-undecanol was 27.6%(2). 1-Undecanol had a zero order biodegradation rate of 0.125 ppm/hour and a first order biodegradation rate constant of 6.1X10-3/hour by activated sludge(3). Using this biodegradation rate constant a half-life of 4.7 days can be calculated(SRC)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Hesselberg RJ, Seelye JG; Identification of Organic Compounds in Great Lake Fishes by Gas Chromatography/Mass Spectrometry Admen Rep No 82-1. Ann Arbor, MI: US Fish and Wildlife Soc Great Lakes Fishery Lab pp. 49 (1982)",
+            "Value": "1-Undecanol was qualitatively identified in Lake Michigan lake trout at Charlevoix, MI on 9/25/77(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "PMID:7983591",
+            "Value": "log Kow = 4.72"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Kubo I et al; Bioorg Med Chem 11 (6): 1117-22 (2003)",
+            "Value": "... Undecanol was the most potent fungicide followed by decanol. The time-kill curve study showed that undecanol was fungicidal against S. cerevisiae at any growth stages was not influenced by pH values. The alcohols tested inhibited glucose-induced acidification by inhibiting the plasma membrane H(+)-ATPase. The primary antifungal action of amphipathic medium-chain (C(9)-C(12)) alkanols comes mainly from their ability as nonionic surfactants to disrupt the native membrane-associated function of the integral proteins."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "PMID:12429475",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  ... The flux of melatonin across hairless rat skin was found to be dependent on the carbon chain length of the fatty alcohols, with decanol showing the maximum permeation of melatonin. All fatty alcohols increased the transepidermal water loss (TEWL) and skin blood flow significantly compared with the vehicle. The fatty alcohols (decanol, undecanol and lauryl alcohol), which showed greater permeation of melatonin, also produced greater TEWL, skin blood flow and erythema. Tridecanol and myristyl alcohol showed lower permeation enhancement effect but caused greater skin irritation."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 1062",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Undecanol rated 3 on rabbit eyes. /The most severe injuries rated 10./"
+        },
+        {
+            "References": "YOSHIDA M, HOSHII H; AGR BIOL CHEM 35 (10): 1610 (1971)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ UNDECYL ALCOHOL INDUCED NUTRITIONAL ENCEPHALOMALACIA WHEN FED TO 1-DAY-OLD CHICKS FOR 3 WEEKS."
+        },
+        {
+            "References": "PMID:5921284",
+            "Value": "/OTHER TOXICITY INFORMATION/  TOXIC TO RATS BY ASPIRATION. AS CHAIN LENGTH OF THE N-PRIMARY ALCOHOL INCR C11-C13, MORTALITY RATIO DID NOT CHANGE, BUT ANIMALS SURVIVED LONGER & THEN DIED OF PULMONARY EDEMA & HEMORRHAGE."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Abraham MH et al; J Pharm Sci 83: 1085-100 (1994) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 23 (1983)",
+            "Value": "The Koc of 1-undecanol is estimated as 8,800(SRC), using a log Kow of 4.72(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that 1-undecanol is expected to be immobile in soil."
+        }
+    ]
+}

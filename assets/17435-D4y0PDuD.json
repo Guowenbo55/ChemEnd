@@ -1,0 +1,113 @@
+{
+    "_id": {
+        "$oid": "6682e92dc4e5dba5ffba294c"
+    },
+    "CID": {
+        "$numberInt": "17435"
+    },
+    "Name": "PHENTHOATE",
+    "IUPACName": "ethyl 2-dimethoxyphosphinothioylsulfanyl-2-phenylacetate",
+    "CanonicalSMILES": "CCOC(=O)C(C1=CC=CC=C1)SP(=S)(OC)OC",
+    "Synonyms": [
+        "PHENTHOATE",
+        "Fenthoate",
+        "2597-03-7",
+        "Dimephenthioate",
+        "Dimephenthoate",
+        "Phendal",
+        "Papthion",
+        "Cidial",
+        "Tagson",
+        "Tsidial",
+        "Elsan",
+        "Dimefenthoat",
+        "Cidemul",
+        "Tanone",
+        "Montecatini L-561"
+    ],
+    "IsomericSMILES": "CCOC(=O)C(C1=CC=CC=C1)SP(=S)(OC)OC",
+    "INCHI": "InChI=1S/C12H17O4PS2/c1-4-16-12(13)11(10-8-6-5-7-9-10)19-17(18,14-2)15-3/h5-9,11H,4H2,1-3H3",
+    "INCHIKEY": "XAMUDJHXFNRLCY-UHFFFAOYSA-N",
+    "Formula": "C12H17O4PS2",
+    "MolecularWeight": {
+        "$numberDouble": "320.4"
+    },
+    "Description": "Phenthoate is an organic thiophosphate that is ethyl mandelate in which the hydroxy group has been replaced by a (dimethoxyphosphorothioyl)sulfanediyl group. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, an acaricide and an agrochemical. It is an organic thiophosphate, an organothiophosphate insecticide and an ethyl ester.",
+    "XlogP": {
+        "$numberDouble": "3.7"
+    },
+    "Complexity": {
+        "$numberInt": "324"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "Kenaga EE; Ecotoxicology and Environmental Safety 4: 34 (1980)",
+            "Value": "Bioconcentration factor = 31 (calculated from water solubility by regression equations). /From table/"
+        },
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Biodegradation and Bioaccumulation Data of Existing Chemicals Based on the CSCL Japan. Japan Chemical Industry Ecology - Toxicology and Information Center. ISBN 4-89074-101-1 (1992) (2) Kanazawa J; Rev Plant Prot Res 13: 27-36 (1980) (3) Tsuda T et al; Chemosphere 25: 1945-51 (1992) (4) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Professional Reference Book. Heller SR consult ed, Washington, DC: Amer Chem Soc (1995) (5) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (6) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "A six-week bioconcentration study using carp and phenthoate concentrations of 2.5 and 0.25 ug/l gave BCF values of 3.7-29 and 7.1-34, respectively(1). Another bioconcetration study using topmouth gudgeon in a continuous flow system gave a BCF value of 36(2). The BCF of phenthoate in the whole body of willow shiners after 168 hours was 713(3). An estimated BCF value of 375 was calculated for phenthoate(SRC), using an experimental log Kow of 3.69(4) and a recommended regression-derived equation(5). According to a recommended classification scheme(6), these BCF values suggest high bioconcentration in aquatic organisms(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Biodegradation and Bioaccumulation Data of Existing Chemicals Based on the CSCL Japan. Japan Chemical Industry Ecology - Toxicology and Information Center. ISBN 4-89074-101-1 (1992) (2) Iwata Y et al; Bull Environ Contam Tox 14: 49-56 (1975)",
+            "Value": "A four-week biodegradation study using 30 mg/l sludge and a phenthoate concentration of 100 mg/l gave a theoretical BOD of 0-3%(1). In various soils (silty clay loam, clay, and sandy loam), 50% of the phenthoate present degraded within 10 days, and over 95% within 30 days(2). In a drier soil (fine sandy loam), 62% of the phenthoate remained after 75 days, but less than 1% remained after an additional 75 days(2). This degradation was attributed to loss by soil microorganisms(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 791",
+            "Value": "Kow = 4900"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. Old Woking, Surrey, United Kingdom: Royal Society of Chemistry/Unwin Brothers Ltd., 1983., p. A320/Oct 83",
+            "Value": "Cholinesterase inhibitor."
+        },
+        {
+            "References": "Gilman, A.G., T.W. Rall, A.S. Nies and P. Taylor (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 8th ed. New York, NY. Pergamon Press, 1990., p. 138",
+            "Value": "The cardiovascular actions of anticholinesterase agents are complex, since they reflect both ganglionic and postganglionic effects of accumulated ACh on the heart and blood vessels. The predominant effect on the heart from the peripheral action of accumulated ACh is bradycardia, resulting in a fall in cardiac output. Higher doses usually cause a fall in blood pressure, often as a consequence of effects of anticholinesterase agents on the medullary vasomotor centers of the CNS. /Anticholinesterase agents/"
+        },
+        {
+            "References": "Dreisbach, R.H. Handbook of Poisoning. 12th ed. Norwalk, CT: Appleton and Lange, 1987., p. 113",
+            "Value": "Organophosphorus derivatives act by combining with and inactivating the enzyme acetylcholinesterase. ... The inactivation of cholinesterase by cholinesterase inhibitor pesticides allows the accumulation of large amounts of acetylcholine, with resultant widespread effects that may be ... separated into 4 categories: (1) Potentiation of postganglionic parasympathetic activity. ... (2) Persistent depolarization of skeletal muscle ... (3) Initial stimulation following depression of cells of central nervous system ... (4) Variable ganglionic stimulation or blockade ... /Cholinesterase inhibitor pesticides/"
+        },
+        {
+            "References": "International Labour Office. Encyclopedia of Occupational Health and Safety. Vols. I&II. Geneva, Switzerland: International Labour Office, 1983., p. 1638",
+            "Value": "The main feature of the toxic mechanism of organophosphorus pesticides is inhibition of the esterase enzyme activity, in particular of cholinesterase, which plays an important physiological part. Organophosphorus pesticides can also indirectly interact with the biochemical receptors of acetylcholine. /Organophosphorus pesticides/"
+        },
+        {
+            "References": "Hayes, W.J., Jr., E.R. Laws, Jr., (eds.). Handbook of Pesticide Toxicology. Volume 2. Classes of Pesticides. New York, NY: Academic Press, Inc., 1991., p. 943",
+            "Value": "... The serum cholinesterase activity of 14 men and 16 women at seven approximately equal intervals throughout one 24 hr day was measured. The lowest average value, ... was 92% of the mean of all values at other sampling times. The next lowest value was 98.7% of the same mean. /It was/ concluded that the small variation observed did not take the form of a regular curve but was entirely individual without correspondence to hour. /Organic phosphorus pesticides/"
+        },
+        {
+            "References": "Hayes, W.J., Jr., E.R. Laws, Jr., (eds.). Handbook of Pesticide Toxicology. Volume 2. Classes of Pesticides. New York, NY: Academic Press, Inc., 1991., p. 943",
+            "Value": "... Differences /were not detected in cholinesterase/ enzyme activity related to age and sex, probably because their samples were too small to measure the minor differences that exist. There is no change in red blood cell cholinesterase activity in adults associated with age. ... Activity of this enzyme increases progressively during the first year of life, it is higher in children under 3 yr of age than in older children, and it is markedly higher in 5 yr old children than in 3 yr olds. /Organic phosphorus pesticides/"
+        },
+        {
+            "References": "Hayes, W.J., Jr., E.R. Laws, Jr., (eds.). Handbook of Pesticide Toxicology. Volume 2. Classes of Pesticides. New York, NY: Academic Press, Inc., 1991., p. 943",
+            "Value": "Cholinesterase activity of plasma is significantly higher in men than in women, and this is true no matter which of several choline esters are used as substrate in measuring the enzyme activity. According to some, the difference is confined to young people. There is no sex difference in the red cell enzyme activity. Serum cholinesterase activity of blacks tends to be lower than whites of the same sex. /Organic phosphorus pesticides/"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Lee HK et al; Nongsa Sihom Yongu Pogo 26: (2, Soil Fert Crop Prot Mycol Farm Prod Util): 99-104 (1984)",
+            "Value": "phenthoate was found in only a few out of 108 soil samples taken from a paddy field in 1982(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "Kenaga EE; Ecotoxicology and Environmental Safety 4: 34 (1980)",
+            "Value": "KOC = 240 (calculated from water solubility by regression equations). /From table/"
+        },
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR consult ed, Washington, DC: Amer Chem Soc (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 23 (1983)",
+            "Value": "The Koc of phenthoate is estimated as approximately 2420(SRC), using an experimental log Kow of 3.69(1) and a regression-derived equation(2,SRC). According to a recommended classification scheme(3), this estimated Koc value suggests that phenthoate should have slight mobility in soil(SRC)."
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "66927116303528b49832d7db"
+    },
+    "CID": {
+        "$numberInt": "84098"
+    },
+    "Name": "Isoxaflutole",
+    "IUPACName": "(5-cyclopropyl-1,2-oxazol-4-yl)-[2-methylsulfonyl-4-(trifluoromethyl)phenyl]methanone",
+    "CanonicalSMILES": "CS(=O)(=O)C1=C(C=CC(=C1)C(F)(F)F)C(=O)C2=C(ON=C2)C3CC3",
+    "Synonyms": [
+        "Isoxaflutole",
+        "141112-29-0",
+        "Merlin",
+        "Balance",
+        "(5-Cyclopropylisoxazol-4-yl)(2-(methylsulfonyl)-4-(trifluoromethyl)phenyl)methanone",
+        "Isoxaflutole [ISO]",
+        "EXP 31130A",
+        "Methanone",
+        "(5-cyclopropyl-4-isoxazolyl)[2-(methylsulfonyl)-4-(trifluoromethyl)phenyl]-",
+        "Merlin;RP 201772",
+        "RPA 201772",
+        "0T9R0O0EYT",
+        "RP 201772",
+        "DTXSID5034723",
+        "(5-cyclopropyl-1,2-oxazol-4-yl)-[2-methylsulfonyl-4-(trifluoromethyl)phenyl]methanone",
+        "264-EUP-99"
+    ],
+    "IsomericSMILES": "CS(=O)(=O)C1=C(C=CC(=C1)C(F)(F)F)C(=O)C2=C(ON=C2)C3CC3",
+    "INCHI": "InChI=1S/C15H12F3NO4S/c1-24(21,22)12-6-9(15(16,17)18)4-5-10(12)13(20)11-7-19-23-14(11)8-2-3-8/h4-8H,2-3H2,1H3",
+    "INCHIKEY": "OYIKARCXOQLFHF-UHFFFAOYSA-N",
+    "Formula": "C15H12F3NO4S",
+    "MolecularWeight": {
+        "$numberDouble": "359.3"
+    },
+    "Description": "Isoxaflutole is a member of the class of isoxazoles that is 1,2-oxazole substituted by a 2-(methanesulfonyl)-4-(trifluoromethyl)benzoyl group and a cyclopropyl group at positions 4 and 5, respectively. It is a 4-hydroxyphenylpyruvate dioxygenase inhibitor which is used as a herbicide for weed control in maize and sugarcane. It has a role as an EC 1.13.11.27 (4-hydroxyphenylpyruvate dioxygenase) inhibitor, a proherbicide and an agrochemical. It is a member of cyclopropanes, a member of isoxazoles, an aromatic ketone, a member of (trifluoromethyl)benzenes and a sulfone.",
+    "XlogP": {
+        "$numberDouble": "2.4"
+    },
+    "Complexity": {
+        "$numberInt": "597"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Isoxaflutole, a herbicide, exhibits varying degrees of translocation within giant foxtail plants based on the adjuvants used in combination with it. Studies indicate that its application in combination with different adjuvants\u2014such as nonionic surfactant (NIS), crop oil concentrate (COC), and methylated seed oil (MSO)\u2014affects its translocation within the plant. When applied alone, isoxaflutole showed minimal translocation out of the treated leaf. However, when used in conjunction with NIS, COC, or MSO, the translocation of isoxaflutole increased. For instance, isoxaflutole applied with NIS, COC, or MSO resulted in 20%, 18%, and 32% translocation, respectively, of absorbed compounds out of the treated leaf. This translocation was observed to be predominantly directed towards the shoot region above the treated leaf rather than below. The addition of urea ammonium nitrate (UAN) further increased the translocation percentages for isoxaflutole with NIS or COC. Interestingly, although the application of UAN with isoxaflutole plus MSO did not increase the translocation percentage, the combination itself led to substantial translocation compared to other treatments. This indicates that the choice of adjuvants can significantly influence the translocation patterns of isoxaflutole within giant foxtail plants, suggesting potential variations in its efficacy based on formulation.\n",
+            "reference": "Young, B. G., & Hart, S. E. (1998). Optimizing foliar activity of isoxaflutole on giant foxtail (Setaria faberi) with various adjuvants. Weed Science, 46(4), 397-402.",
+            "method": {
+                "Test Plant": "Giant foxtail (Setaria faberi) seed",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Plants were grown at 24 \u00b1 2\u00b0C with sunlight supplemented by mercury halide lamps to provide a total midday light intensity of 1000 \u03bcmol m^-2 s^-1 in a 16-hour day. Plants were watered and fertilized as needed for optimum growth.",
+                "Chemical Preparation": "Isoxaflutole was applied at 10 and 20 g ai ha^-1 alone or in combination with different adjuvants, including NIS at 0.25% (v/v), COC, or MSO at 1.0% (v/v), with and without 28% UAN at 2.5% (v/v).",
+                "Pesticide Application Details for the Plant": "Giant foxtail plants were treated at the two- to three-leaf growth stage with 237 L ha^-1 spray volume at 125 kPa pressure using an Allen track sprayer. The plants were harvested 14 days after treatment (DAT) to measure dry weight per pot.",
+                "Other Information": "Studies were conducted twice in a randomized complete block design with four replications."
+            },
+            "result": "[{\"Treatment\": \"Isoxaflutole alone\", \"Total Absorbed (%)\": 21, \"Cuticle (%)\": 6, \"Treated Leaf (%)\": 14, \"Above Treated Leaf (%)\": 0, \"Below Treated Leaf (%)\": 1, \"Roots (%)\": 0, \"Translocated (%)\": 3}, {\"Treatment\": \"Isoxaflutole with NIS\", \"Total Absorbed (%)\": 42, \"Cuticle (%)\": 13, \"Treated Leaf (%)\": 20, \"Above Treated Leaf (%)\": 7, \"Below Treated Leaf (%)\": 2, \"Roots (%)\": 0, \"Translocated (%)\": 20}, {\"Treatment\": \"Isoxaflutole with COC\", \"Total Absorbed (%)\": 60, \"Cuticle (%)\": 19, \"Treated Leaf (%)\": 31, \"Above Treated Leaf (%)\": 7, \"Below Treated Leaf (%)\": 3, \"Roots (%)\": 0, \"Translocated (%)\": 18}, {\"Treatment\": \"Isoxaflutole with MSO\", \"Total Absorbed (%)\": 91, \"Cuticle (%)\": 21, \"Treated Leaf (%)\": 40, \"Above Treated Leaf (%)\": 21, \"Below Treated Leaf (%)\": 8, \"Roots (%)\": 1, \"Translocated (%)\": 32}, {\"Treatment\": \"Isoxaflutole with NIS + UAN\", \"Total Absorbed (%)\": 44, \"Cuticle (%)\": 11, \"Treated Leaf (%)\": 19, \"Above Treated Leaf (%)\": 11, \"Below Treated Leaf (%)\": 3, \"Roots (%)\": 0, \"Translocated (%)\": 31}, {\"Treatment\": \"Isoxaflutole with COC + UAN\", \"Total Absorbed (%)\": 79, \"Cuticle (%)\": 21, \"Treated Leaf (%)\": 31, \"Above Treated Leaf (%)\": 19, \"Below Treated Leaf (%)\": 7, \"Roots (%)\": 1, \"Translocated (%)\": 33}, {\"Treatment\": \"Isoxaflutole with MSO + UAN\", \"Total Absorbed (%)\": 291, \"Cuticle (%)\": 16, \"Treated Leaf (%)\": 48, \"Above Treated Leaf (%)\": 22, \"Below Treated Leaf (%)\": 5, \"Roots (%)\": 0, \"Translocated (%)\": 29}]"
+        }
+    ]
+}

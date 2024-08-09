@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "6692712f303528b49832d83f"
+    },
+    "CID": {
+        "$numberInt": "52998"
+    },
+    "Name": "Sulfometuron",
+    "IUPACName": "2-[(4,6-dimethylpyrimidin-2-yl)carbamoylsulfamoyl]benzoic acid",
+    "CanonicalSMILES": "CC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)O)C",
+    "Synonyms": [
+        "SULFOMETURON",
+        "74223-56-6",
+        "2-[(4,6-dimethylpyrimidin-2-yl)carbamoylsulfamoyl]benzoic acid",
+        "2-(3-(4,6-Dimethylpyrimidin-2-yl)ureidosulfonyl)benzoic acid",
+        "CHEBI:82042",
+        "031E04UF2X",
+        "2-(((((4,6-Dimethyl-2-pyrimidinyl)amino)carbonyl)amino)sulfonyl)benzoic acid",
+        "Benzoic acid",
+        "2-(((((4,6-dimethyl-2-pyrimidinyl)amino)carbonyl)amino)sulfonyl)-",
+        "Benzoic acid",
+        "2-[[[[(4,6-dimethyl-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]-",
+        "Sulfometuron [ANSI:BSI:ISO]",
+        "BRN 0937935",
+        "UNII-031E04UF2X",
+        "2-(3-(4,6-Dimethylpyrimidin-2-yl)ureidosulphonyl)benzoic acid",
+        "SULFOMETURON [ISO]",
+        "SCHEMBL66180"
+    ],
+    "IsomericSMILES": "CC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)O)C",
+    "INCHI": "InChI=1S/C14H14N4O5S/c1-8-7-9(2)16-13(15-8)17-14(21)18-24(22,23)11-6-4-3-5-10(11)12(19)20/h3-7H,1-2H3,(H,19,20)(H2,15,16,17,18,21)",
+    "INCHIKEY": "FZMKKCQHDROFNI-UHFFFAOYSA-N",
+    "Formula": "C14H14N4O5S",
+    "MolecularWeight": {
+        "$numberDouble": "350.35"
+    },
+    "Description": "Sulfometuron is an N-sulfonylurea that is urea substituted by 4,6-dimethylpyrimidin-2-yl and (2-carboxyphenyl)sulfonyl groups at positions 1 and 3, respectively. It has a role as a herbicide and an EC 2.2.1.6 (acetolactate synthase) inhibitor. It is a member of benzoic acids, a member of pyrimidines, a N-sulfonylurea and a monocarboxylic acid.",
+    "XlogP": {
+        "$numberDouble": "1.5"
+    },
+    "Complexity": {
+        "$numberInt": "566"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Sulfometuron, when applied as a foliar and/or soil application, prevented regrowth of bahiagrass. Sulfometuron application did not reduce regrowth of centipedegrass regardless of method of application. Sulfometuron was absorbed by the roots and foliage of centipedegrass and bahiagrass. Symplasmic translocation of the herbicide was evident in both species. Translocation of foliar-applied sulfometuron increased from approximately 1% at 48 h after application to 23% at 72 h in bahiagrass. Metabolism of sulfometuron was greater in centipedegrass (69% of foliar-applied, 10% of root-applied) at 72 h after application than in bahiagrass (30% of foliar-applied and 4% of root-applied). Tolerance of centipedegrass to sulfometuron appeared to be related to a high degree of herbicide metabolism in this species.",
+            "reference": "Baird, J. H., Wilcut, J. W., Wehtje, G. R., Dickens, R., & Sharpe, S. (1989). Absorption, translocation, and metabolism of sulfometuron in centipedegrass (Eremochloa ophiuroides) and bahiagrass (Paspalum notatum). Weed science, 37(1), 42-46.",
+            "method": {
+                "Test Plant": "Centipedegrass (Eremochloa ophiuroides) and bahiagrass (Paspalum notatum)",
+                "Apply Location": "Root application",
+                "Plant Grown Condition": "The plants were grown in a greenhouse maintained at 30/20 C day/night temperatures for approximately 1 month before treatment. Average relative humidity was 70%. Natural light was supplemented with a combination of fluorescent and incandescent bulbs producing 250 \u03bcmol/m2/s for a 16-h photoperiod. Individual plants at the two- to three-leaf stage were transferred from flats to perforated 1-L pots containing a Dothan loamy sand (Plinthic Paleudult) soil.",
+                "Chemical Preparation": "The commercial formulation of sulfometuron (dispersible granule, 75% active ingredient) was used. Oxysorbic (20% POE) (polyoxyethylene sorbitan mono-oleate) was added at 0.25% (v/v) to the sulfometuron spray mixture.",
+                "Pesticide Application Details for the Plant": "Sulfometuron was applied at rates of 140, 210, and 280 g ai/ha. The appropriate amount of herbicide solution was calculated based on the pot surface area, diluted in 5 ml water, and pipetted directly onto the soil surface.",
+                "Other Information": "Individual plants were transferred to 3-L containers of aerated quarter-strength Hoagland's solution at pH 6 for 24 h, then to 15-ml unaerated nutrient solution containing approximately 250,000 dpm of 14C-sulfometuron for 24 h uptake period before being returned to the original nutrient solution."
+            },
+            "result": "[{\"Plant\": \"Centipedegrass\", \"Hours afterapplication\": 24, \"Absorption(% of applied)\": 17, \"Root (%)\": 4, \"Shoot (%)\": 13}, {\"Plant\": \"Centipedegrass\", \"Hours afterapplication\": 72, \"Absorption(% of applied)\": 15, \"Root (%)\": 2, \"Shoot (%)\": 13}, {\"Plant\": \"Bahiagrass\", \"Hours afterapplication\": 24, \"Absorption(% of applied)\": 12, \"Root (%)\": 3, \"Shoot (%)\": 10}, {\"Plant\": \"Bahiagrass\", \"Hours afterapplication\": 72, \"Absorption(% of applied)\": 13, \"Root (%)\": 1, \"Shoot (%)\": 12}]"
+        }
+    ]
+}

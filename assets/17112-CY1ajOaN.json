@@ -1,0 +1,74 @@
+{
+    "_id": {
+        "$oid": "669270f5303528b49832d75a"
+    },
+    "CID": {
+        "$numberInt": "17112"
+    },
+    "Name": "Glyphosine",
+    "IUPACName": "2-[bis(phosphonomethyl)amino]acetic acid",
+    "CanonicalSMILES": "C(C(=O)O)N(CP(=O)(O)O)CP(=O)(O)O",
+    "Synonyms": [
+        "GLYPHOSINE",
+        "2439-99-8",
+        "N,N-Bis(phosphonomethyl)glycine",
+        "Glyphosphine",
+        "Glycine",
+        "N,N-bis(phosphonomethyl)-",
+        "2-[bis(phosphonomethyl)amino]acetic acid",
+        "2-(bis(phosphonomethyl)amino)acetic acid",
+        "N,N-bis(phosphonomethyl)aminoacetic acid",
+        "CP 41845",
+        "Glycine-N,N-bis(methylenephosphonic acid)",
+        "CHEBI:63484",
+        "2U96121SKR",
+        "Glyphosine [ANSI]",
+        "Caswell No. 471A",
+        "Glycinedimethanephosphonic acid;C 9552; CP 41845; GDMP;Polaris"
+    ],
+    "IsomericSMILES": "C(C(=O)O)N(CP(=O)(O)O)CP(=O)(O)O",
+    "INCHI": "InChI=1S/C4H11NO8P2/c6-4(7)1-5(2-14(8,9)10)3-15(11,12)13/h1-3H2,(H,6,7)(H2,8,9,10)(H2,11,12,13)",
+    "INCHIKEY": "OXHDYFKENBXUEM-UHFFFAOYSA-N",
+    "Formula": "C4H11NO8P2",
+    "MolecularWeight": {
+        "$numberDouble": "263.08"
+    },
+    "Description": "Glyphosine is a tertiary amino compound that consists of glycine bearing two N-phosphonomethyl substituents. It has a role as a plant growth retardant. It is a glycine derivative, a member of phosphonic acids and a tertiary amino compound.",
+    "XlogP": {
+        "$numberDouble": "-5.9"
+    },
+    "Complexity": {
+        "$numberInt": "293"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The investigation into the translocation of radioactive glyphosate (N-(phosphonomethyl)glycine) in plants, particularly quackgrass (Agropyron repens), revealed significant translocation of the radioactive material to rhizomes and untreated shoots. The use of adjuvants alongside glyphosate influenced its phytotoxicity to quackgrass, with bentazon reducing the translocation of 14C. In other perennial and annual weed species, glyphosate moved to regions of high metabolic activity. Glyphosate application reduced the total photosynthesis more in quackgrass than in wheat, indicating varying effects on different plant species. The study aimed to understand factors influencing herbicide action, absorption, and basipetal translocation, essential for effective weed control with foliar-applied herbicides like glyphosate. The addition of adjuvants, such as bentazon, impacted the translocation and activity of glyphosate in quackgrass, emphasizing the significance of formulations and adjuvants in herbicide effectiveness.",
+            "reference": "Sprankle, P., Meggitt, W. F., & Penner, D. (1975). Absorption, action, and translocation of glyphosate. Weed Science, 23(3), 235-240.",
+            "method": {
+                "Test Plant": "Quackgrass plants (Agropyron repens)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Grown from three-node rhizome sections, maintained under greenhouse conditions at 25 \u00b1 2\u00b0C",
+                "Chemical Preparation": "Glyphosate applied at 0 and 2.24 kg/ha plus MON 00273 surfactant at 0.8% (v/v), X-774 at 0.2% (v/v), or phytobland oil 5 at 1% (v/v) in 428 L/ha at 2.11 kg/cm pressure.",
+                "Pesticide Application Details for the Plant": "5 \u00b5Ci of 14C-glyphosate applied as a 5 \u00b5L drop on a middle leaf of each 3- to 4-leaf quackgrass plant.",
+                "Other Information": "Three replications for quackgrass plants."
+            },
+            "result": "[{\"Time after application\": \"4 hours\", \"Absorption (%)\": 34.2, \"Treated shoot (%)\": 85.1, \"Treated leaf (%)\": 5.8, \"Untreated shoots and rhizomes (%)\": 9.1}, {\"Time after application\": \"8 hours\", \"Absorption (%)\": 39.6, \"Treated shoot (%)\": 63.5, \"Treated leaf (%)\": 10.5, \"Untreated shoots and rhizomes (%)\": 26.0}, {\"Time after application\": \"24 hours\", \"Absorption (%)\": 44.7, \"Treated shoot (%)\": 25.1, \"Treated leaf (%)\": 26.0, \"Untreated shoots and rhizomes (%)\": 48.9}, {\"Time after application\": \"48 hours\", \"Absorption (%)\": 53.2, \"Treated shoot (%)\": 15.8, \"Treated leaf (%)\": 17.5, \"Untreated shoots and rhizomes (%)\": 66.7}]"
+        },
+        {
+            "content": "The study compared the absorption and translocation of the isopropylamine salts of 14C-glyphosate and 14C-imazapyr in established terrestrial alligatorweed. The results showed that alligatorweed absorbed more than twice as much imazapyr compared to glyphosate when applied to the leaves. Furthermore, imazapyr exhibited greater translocation to the underground storage tissues of alligatorweed compared to glyphosate. This disparity in translocation to roots and subterranean storage tissues is suggested as a potential mechanism for the tolerance of alligatorweed to glyphosate and its susceptibility to imazapyr.",
+            "reference": "Tucker, T. A., Langeland, K. A., & Corbin, F. T. (1994). Absorption and translocation of 14C-imazapyr and 14C-glyphosate in alligatorweed Alternanthera philoxeroides. Weed Technology, 8(1), 32-36.",
+            "method": {
+                "Test Plant": "Alligatorweed",
+                "Apply Location": "Adaxial surface of four expanded leaves near the shoot apex",
+                "Plant Grown Condition": "Cultured in a greenhouse for two years, then transferred to a field plot in Clayton, NC and grown under field conditions for 8 weeks in August and September 1986",
+                "Chemical Preparation": "14C-labeled glyphosate with a specific activity of 832 kBq/mg and 14C-labeled imazapyr with a specific activity of 1106 kBq/mg, both applied in water containing 0.5% surfactant",
+                "Pesticide Application Details for the Plant": "Non-radiolabeled herbicides applied post-emergence using a CO2-pressurized backpack sprayer equipped with tapered fan nozzles, delivering 1.12 kg/ha of each herbicide separately in 345 L/ha of total spray volume",
+                "Other Information": "Plants were arranged in a randomized complete block design with four replications. Absorption and translocation were analyzed at 0, 1, 2, 4, and 8 days after treatment. Plant sections were harvested and sectioned into treated leaves, shoots below treated leaves, axillary buds, and roots. External plant cuticles were removed by washing treated leaves in distilled water and chloroform. Radioactivity was measured by liquid scintillation spectrometry."
+            },
+            "result": "[{\"Time after application\": \"1 day\", \"Treated leaf (%)\": 18.4, \"Axillary buds (%)\": 0.2, \"Roots (%)\": 0.3}, {\"Time after application\": \"2 days\", \"Treated leaf (%)\": 15.0, \"Axillary buds (%)\": 0.6, \"Roots (%)\": 0.3}, {\"Time after application\": \"4 days\", \"Treated leaf (%)\": 28.0, \"Axillary buds (%)\": 0.8, \"Roots (%)\": 0.7}, {\"Time after application\": \"8 days\", \"Treated leaf (%)\": 39.1, \"Axillary buds (%)\": 2.0, \"Roots (%)\": 0.9}]"
+        }
+    ]
+}

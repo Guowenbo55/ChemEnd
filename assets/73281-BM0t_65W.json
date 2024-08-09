@@ -1,0 +1,87 @@
+{
+    "_id": {
+        "$oid": "6682e989c4e5dba5ffba2b1d"
+    },
+    "CID": {
+        "$numberInt": "73281"
+    },
+    "Name": "Nicosulfuron",
+    "IUPACName": "2-[(4,6-dimethoxypyrimidin-2-yl)carbamoylsulfamoyl]-N,N-dimethylpyridine-3-carboxamide",
+    "CanonicalSMILES": "CN(C)C(=O)C1=C(N=CC=C1)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC",
+    "Synonyms": [
+        "Nicosulfuron",
+        "111991-09-4",
+        "Milagro",
+        "Motivell",
+        "Accent (herbicide)",
+        "SL 950",
+        "Nicosulfuron [ISO]",
+        "CHEBI:7554",
+        "DTXSID6034764",
+        "2-(N-((4,6-Dimethoxypyrimidin-2-yl)carbamoyl)sulfamoyl)-N,N-dimethylnicotinamide",
+        "CG297D9264",
+        "3-Pyridinecarboxamide",
+        "2-(((((4,6-dimethoxy-2-pyrimidinyl)amino)carbonyl)amino)sulfonyl)-N,N-dimethyl-",
+        "2-({[(4,6-dimethoxypyrimidin-2-yl)carbamoyl]amino}sulfonyl)-N,N-dimethylpyridine-3-carboxamide",
+        "2-[(4,6-dimethoxypyrimidin-2-yl)carbamoylsulfamoyl]-N,N-dimethyl-pyridine-3-carboxamide",
+        "2-[[[[(4,6-Dimethoxy-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]-N,N-dimethyl-3-pyridinecarboxamide"
+    ],
+    "IsomericSMILES": "CN(C)C(=O)C1=C(N=CC=C1)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC",
+    "INCHI": "InChI=1S/C15H18N6O6S/c1-21(2)13(22)9-6-5-7-16-12(9)28(24,25)20-15(23)19-14-17-10(26-3)8-11(18-14)27-4/h5-8H,1-4H3,(H2,17,18,19,20,23)",
+    "INCHIKEY": "RTCOGUMHFFWOJV-UHFFFAOYSA-N",
+    "Formula": "C15H18N6O6S",
+    "MolecularWeight": {
+        "$numberDouble": "410.4"
+    },
+    "Description": "Nicosulfuron is a N-sulfonylurea that is 2-(carbamoylsulfamoyl)-N,N-dimethylpyridine-3-carboxamide substituted by a 4,6-dimethoxypyrimidin-2-yl group at the amino nitrogen. It has a role as an environmental contaminant, a xenobiotic and a herbicide. It is a member of pyridines, a N-sulfonylurea and a member of pyrimidines.",
+    "XlogP": {
+        "$numberDouble": "0.6"
+    },
+    "Complexity": {
+        "$numberInt": "642"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Nicosulfuron provides POST weed control in corn, pastures, and grassy roadsides, and has potential for use in fine turfgrass. The objective of this research was to evaluate tolerance, absorption, translocation, and metabolism of nicosulfuron in annual bluegrass and four turfgrass species. In greenhouse experiments, relative tolerance of grasses to nicosulfuron (35, 70, or 140 g ai ha\u22121) from high to low was bermudagrass = zoysiagrass > tall fescue > creeping bentgrass > annual bluegrass. In laboratory experiments, grasses had similar foliar and root absorption of 14C-nicosulfuon. Annual bluegrass and creeping bentgrass averaged 80% greater radioactivity per unit dry mass in shoots than bermudagrass following root uptake of 14C-nicosulfuron, but other species were similar to these grasses. At 72 h after treatment (HAT), annual bluegrass metabolized 36% of absorbed 14C-nicosulfuron, which was less than bermudagrass, tall fescue, and zoysiagrass that metabolized 47 to 58%. Creeping bentgrass metabolism of nicosulfuron was similar to annual bluegrass. Tall fescue had similar levels of metabolism to bermudagrass and zoysiagrass, averaging 67%, at 168 HAT but produced fewer metabolites. Overall, turfgrass tolerance to nicosulfuron is associated with relative herbicide concentrations in shoots and differential species metabolism.",
+            "reference": "Sidhu, S. S., Yu, J., & McCullough, P. E. (2014). Nicosulfuron absorption, translocation, and metabolism in annual bluegrass and four turfgrass species. Weed science, 62(3), 433-440.",
+            "method": {
+                "Test Plant": "Annual bluegrass, bermudagrass, tall fescue, zoysiagrass",
+                "Apply Location": "Foliar application for absorption/translocation, root application for root absorption/translocation",
+                "Plant Growth Condition": "Established in pots, thinned to 1 plant after emergence, allowed to develop 3-5 tillers. Grown in growth chamber at 27/20\u00b0C day/night, 12 h photoperiod, 350 \u03bcmol/m2/s light, ~50% RH",
+                "Chemical Preparation": "14C-nicosulfuron, pyrimidine ring labeled, 55 mCi/mmol specific activity, 98% purity. Foliar application - 187.165 mg/L nicosulfuron + 0.25% v/v crop oil concentrate. Root application - Added to half-strength Hoagland's solution to simulate 70 g ai/ha rate.",
+                "Pesticide Application Details for the Plant": "Foliar - Broadcast spray of non-radiolabeled nicosulfuron at 70 g ai/ha, then 1 leaf spotted with 2 x 1 mL droplets of 14C solution (100 Bq total). Root - Plants grown hydroponically, roots submerged in 25 mL spiked half-strength Hoagland's with 292 Bq 14C-nicosulfuron.",
+                "Other information and Other Information": "Randomized design with 4 replicates. Foliar absorption - Plants harvested at 4, 24, 96 h after treatment (HAT). Treated leaf washed, shoots/roots oxidized and radioactivity quantified. Root absorption - Plants harvested at 72 HAT. Roots washed, shoots/roots separated, oxidized, radioactivity quantified."
+            },
+            "result": "[{\"Application method\": \"Foliar application\", \"Plant\": \"Annual bluegrass\", \"Treated leaf\": \"46%\", \"Nontreated shoots\": \"44%\", \"Roots\": \"10%\"}, {\"Application method\": \"Foliar application\", \"Plant\": \"Bermudagrass\", \"Treated leaf\": \"51%\", \"Nontreated shoots\": \"46%\", \"Roots\": \"3%\"}, {\"Application method\": \"Foliar application\", \"Plant\": \"Creeping bentgrass\", \"Treated leaf\": \"58%\", \"Nontreated shoots\": \"34%\", \"Roots\": \"8%\"}, {\"Application method\": \"Foliar application\", \"Plant\": \"Tall fescue\", \"Treated leaf\": \"62%\", \"Nontreated shoots\": \"30%\", \"Roots\": \"8%\"}, {\"Application method\": \"Foliar application\", \"Plant\": \"Zoysiagrass\", \"Treated leaf\": \"67%\", \"Nontreated shoots\": \"26%\", \"Roots\": \"7%\"}, {\"Application method\": \"Root application\", \"Plant\": \"Annual bluegrass\", \"Treated leaf\": \"-\", \"Nontreated shoots\": \"234 Bq/g\", \"Roots\": \"354 Bq/g\"}, {\"Application method\": \"Root application\", \"Plant\": \"Bermudagrass\", \"Treated leaf\": \"-\", \"Nontreated shoots\": \"138 Bq/g\", \"Roots\": \"389 Bq/g\"}, {\"Application method\": \"Root application\", \"Plant\": \"Creeping bentgrass\", \"Treated leaf\": \"-\", \"Nontreated shoots\": \"262 Bq/g\", \"Roots\": \"453 Bq/g\"}, {\"Application method\": \"Root application\", \"Plant\": \"Tall fescue\", \"Treated leaf\": \"-\", \"Nontreated shoots\": \"196 Bq/g\", \"Roots\": \"502 Bq/g\"}, {\"Application method\": \"Root application\", \"Plant\": \"Zoysiagrass\", \"Treated leaf\": \"-\", \"Nontreated shoots\": \"196 Bq/g\", \"Roots\": \"689 Bq/g\"}]"
+        },
+        {
+            "content": "In the study, it was found that Ambrosia artemisiifolia L. (common ragweed) and Digitaria ischaemum Schreb. (smooth crabgrass) are not effectively controlled by nicosulfuron and rimsulfuron even at the highest recommended application rates. However, Panicum miliaceum L. (wild proso millet), Amaranthus retroflexus L. (redroot pigweed), and Avena fatua L. (wild oat) are susceptible to these herbicides. The foliar absorption and translocation of 14C-nicosulfuron and 14C-rimsulfuron were studied in these weed species up to 48 hours after treatment (HAT). It was observed that differences in herbicide uptake and translocation were not correlated with the species' susceptibility. By 48 HAT, more than 50% of both herbicides remained on the treated leaf surface. Foliar absorption of rimsulfuron was found to be greater than that of nicosulfuron in A. retroflexus, P. miliaceum, and A. artemisiifolia. Most of the absorbed herbicide remained in the treated leaf of each weed species. The export of 14C-nicosulfuron ranged from 28% to 54% of that absorbed, while it was 15% to 39% for 14C-rimsulfuron. The absorption and translocation rates of both herbicides were highest within the initial 6 HAT and decreased thereafter. Both herbicides showed approximately the same distribution pattern within each weed species.",
+            "reference": "Mekki, M., & Leroux, G. D. (1995). Foliar absorption and translocation of nicosulfuron and rimsulfuron in five annual weed species. Weed Research, 35(5), 377-383.",
+            "method": {
+                "Test Plant": "Amaranthus retroflexus, Ambrosia artemisiifolia, Avena fatua, Digitaria ischaemum, and Panicum miliaceum",
+                "Apply Location": "Foliar application on adaxial surface of the youngest fully developed leaf",
+                "Plant Grown Condition": "Seeds were sown 2 cm deep in plastic pots filled with vermiculite and placed in the glasshouse. After emergence, thinned to 3 seedlings per pot. Fertilized twice daily with nutrient solution.",
+                "Chemical Preparation": "Radiolabeled nicosulfuron and rimsulfuron (14C-2-pyridine, 99% purity) with specific activities of 2.33 and 1.68 MBq/mg were dissolved in acetonitrile initially. Before application, acetonitrile evaporated and herbicides re-dissolved in 50 mM potassium phosphate buffer (pH 7) with 10% ethanol and 0.5% Tween-20. Final radioactivity ~400 and 300 Bq/\u03bcL for nicosulfuron and rimsulfuron respectively, equivalent to 35 g ai/ha field rate.",
+                "Pesticide Application Details for the Plant": "5 \u03bcL of each herbicide solution applied to the adaxial surface of youngest fully developed leaf using a microsyringe. For broad-leaved species with 4-6 leaves, 3rd leaf treated.",
+                "Other Information": "-"
+            },
+            "result": "[{\"Plant\": \"Panicum miliaceum\", \"Younger Leaves (% of absorbed)\": 25.34, \"Sheath of treated leaf (%)\": \"19.48\", \"Older leaf (%)\": \"-\", \"Secondary tillers (%)\": \"2.72\", \"Roots(%)\": 6.07}, {\"Plant\": \"Digitaria ischaemum\", \"Younger Leaves (% of absorbed)\": 8.59, \"Sheath of treated leaf (%)\": \"-\", \"Older leaf (%)\": \"5.86\", \"Secondary tillers (%)\": \"7.75\", \"Roots(%)\": 6.28}, {\"Plant\": \"Avena fatua\", \"Younger Leaves (% of absorbed)\": 11.93, \"Sheath of treated leaf (%)\": \"18.22\", \"Older leaf (%)\": \"-\", \"Secondary tillers (%)\": \"-\", \"Roots(%)\": 24.92}, {\"Plant\": \"Amaranthus retroflexus\", \"Younger Leaves (% of absorbed)\": 19.06, \"Sheath of treated leaf (%)\": \"-\", \"Older leaf (%)\": \"-\", \"Secondary tillers (%)\": \"21.37\", \"Roots(%)\": 7.53}, {\"Plant\": \"Ambrosia artemisiifolia\", \"Younger Leaves (% of absorbed)\": 20.52, \"Sheath of treated leaf (%)\": \"8.17\", \"Older leaf (%)\": \"2.93\", \"Secondary tillers (%)\": \"-\", \"Roots(%)\": 5.44}]"
+        },
+        {
+            "content": "The study found that broadleaf signalgrass is sensitive to nicosulfuron but resistant to primisulfuron, while corn is resistant to both herbicides. The research aimed to determine the effect of varying light levels and air temperatures on the absorption, translocation, and metabolism of nicosulfuron and primisulfuron in broadleaf signalgrass and corn. Corn absorbed between 60% and 85% of the applied nicosulfuron and primisulfuron within 72 hours after treatment (HAT), depending on the environmental conditions. Absorption, translocation, and metabolism were all more rapid at higher temperatures and light intensities. Translocation of both herbicides out of the treated leaf in corn was less than 4.5% of the herbicide absorbed through 72 HAT. Corn rapidly metabolized both herbicides, with primisulfuron being metabolized more rapidly than nicosulfuron. Broadleaf signalgrass absorbed 20% more nicosulfuron than primisulfuron through 72 HAT. Nicosulfuron translocation out of the treated leaf in broadleaf signalgrass was less than 15% of the absorbed herbicide through 72 HAT, while primisulfuron translocation was about 40% during the same period. Primisulfuron metabolism was more rapid than nicosulfuron in broadleaf signalgrass.",
+            "reference": "Gallaher, K., Mueller, T. C., Hayes, R. M., Schwartz, O., & Barrett, M. (1999). Absorption, translocation, and metabolism of primisulfuron and nicosulfuron in broadleaf signalgrass (Brachiaria platyphylla) and corn. Weed science, 47(1), 8-12.",
+            "method": {
+                "Test Plant": "Corn and broadleaf signalgrass",
+                "Apply Location": "Foliar application on the adaxial surface of the second uppermost fully expanded leaf",
+                "Plant Grown Condition": "Plants were grown in a commercial soil-less potting mix in the greenhouse. Seeds were sown in 470 mL cups, thinned to 1 plant per cup at 10 days after planting (DAP). Watered as needed and fertilized weekly with 300 \u03bcg/g NO\u2083\u207b, P\u2082O\u2085, K\u2082O solution until runoff. Moved to growth chambers at 15 DAP and allowed 4 days to equilibrate.",
+                "Chemical Preparation": "14C-nicosulfuron (85% purity) and 14C-primisulfuron (99% purity) treatment solutions prepared in 1:1 water:acetonitrile mixture with 0.25% nonionic surfactant. Each 8 \u03bcL application contained 2.08 kBq 14C-nicosulfuron or 2.25 kBq 14C-primisulfuron.",
+                "Pesticide Application Details for the Plant": "Plants sprayed with 32 g ai/ha nicosulfuron and 36 g ai/ha primisulfuron using commercial formulations in 90 L/ha carrier volume with 0.25% nonionic surfactant in a moving-nozzle spray chamber.",
+                "Other Information": "Randomized block design with species as block effect and 4 herbicide x environment combinations as treatments within blocks."
+            },
+            "result": "[{\"Plant\": \"Corn\", \"Pretreatment\": \"High light\", \"Translocation to shoots (% of absorbed)\": 3.0, \"Translocation to roots (% of absorbed)\": 1.9}, {\"Plant\": \"Corn\", \"Pretreatment\": \"Low light\", \"Translocation to shoots (% of absorbed)\": 1.7, \"Translocation to roots (% of absorbed)\": 1.5}, {\"Plant\": \"CornBroadleaf signalgrass\", \"Pretreatment\": \"High light\", \"Translocation to shoots (% of absorbed)\": 11.3, \"Translocation to roots (% of absorbed)\": 3.1}, {\"Plant\": \"CornBroadleaf signalgrass\", \"Pretreatment\": \"Low light\", \"Translocation to shoots (% of absorbed)\": 1.5, \"Translocation to roots (% of absorbed)\": 0.5}]"
+        }
+    ]
+}

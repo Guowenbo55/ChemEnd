@@ -1,0 +1,66 @@
+{
+    "_id": {
+        "$oid": "6682e98dc4e5dba5ffba2b33"
+    },
+    "CID": {
+        "$numberInt": "91752"
+    },
+    "Name": "Cadusafos",
+    "IUPACName": "2-[butan-2-ylsulfanyl(ethoxy)phosphoryl]sulfanylbutane",
+    "CanonicalSMILES": "CCC(C)SP(=O)(OCC)SC(C)CC",
+    "Synonyms": [
+        "Cadusafos",
+        "95465-99-9",
+        "Ebufos",
+        "Rugby",
+        "Sebufos",
+        "Sebuphos",
+        "Taredan",
+        "S,S-Di-sec-butyl O-ethyl phosphorodithioate",
+        "Cadusafos [ISO]",
+        "O-Ethyl-S,S-di-sec-butylphosphorodithioate",
+        "FMC 67825",
+        "103735-82-6",
+        "2-[butan-2-ylsulfanyl(ethoxy)phosphoryl]sulfanylbutane",
+        "O-Ethyl-S,S-bis(1-methylpropyl)phosphorodithioate",
+        "O-Ethyl S,S-bis(1-methylpropyl) phosphorodithioate"
+    ],
+    "IsomericSMILES": "CCC(C)SP(=O)(OCC)SC(C)CC",
+    "INCHI": "InChI=1S/C10H23O2PS2/c1-6-9(4)14-13(11,12-8-3)15-10(5)7-2/h9-10H,6-8H2,1-5H3",
+    "INCHIKEY": "KXRPCFINVWWFHQ-UHFFFAOYSA-N",
+    "Formula": "C10H23O2PS2",
+    "MolecularWeight": {
+        "$numberDouble": "270.4"
+    },
+    "Description": "Cadusafos is an organic thiophosphate and an organothiophosphate insecticide. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, a nematicide and an agrochemical.",
+    "XlogP": {
+        "$numberDouble": "3.3"
+    },
+    "Complexity": {
+        "$numberInt": "196"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Castillo LE et al; Environ Toxicol Chem 19: 1942-50 (2000)",
+            "Value": "SEDIMENT: Cadusafos was detected in 1 of 37 sediment samples from streams in the Suerte River Basin, Costa Rica at a concentration of 16 ug/kg dry weight; samples were collected from June 1993 to December 1996(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "The productivity of chickpea, Cicer arietinum (L.), and tomato, Solanum lycopersicum (L.), is adversely affected by root-knot nematode, Meloidogyne species. Nematode-resistant chickpea and tomato are lacking except for a few varieties, and therefore grower demand is not met. The available nematicides, namely, carbosulfan, cadusafos, phorate, and triazophos, were evaluated for their efficacy and persistence in soil and crops to devise nematode management decisions. In alluvial soil, cadusafos was the most persistent nematicide, followed by phorate, carbosulfan, and triazophos in that order. The percent dissipation of cadusafos was greater (P < 0.05) in chickpea than in tomato plots, which influenced its half-life in the soil. Nematicide residues were differentially taken up by chickpea and tomato plant roots, with active absorption continuing for up to 45 days. Cadusafos and triazophos were absorbed to a greater extent (P < 0.05) in tomato than in chickpea. The translocation of residues to the shoot was highest by day 15 for cadusafos and at day 45 for other nematicides, with carbosulfan residues translocated the most. Nematicide residue concentrations in shoots never exceeded those in roots, with residues in both roots and shoots persisting beyond 90 days. Nematicide residues in green seeds of chickpea and tomato fruits were all below the Codex/German MRLs of 0.02, including the Indian tolerances of 0.1 \u03bcg/g in fruits and vegetables. Cadusafos was found to be the most effective nematicide followed by triazophos against Meloidogyne incognita and reniform nematode, Rotylenchulus reniformis. Application of cadusafos (Rugby 10 G) or, alternatively, spray application of triazophos (Hostathion 40 EC) in planting furrows, both at 1.0 kg of active ingredient/ha, followed by light irrigation, is recommended for the effective control of M. incognita and R. reniformis infestations on chickpea and tomato.",
+            "reference": "Meher, H. C., Gajbhiye, V. T., Singh, G., Kamra, A., & Chawla, G. (2010). Persistence and nematicidal efficacy of carbosulfan, cadusafos, phorate, and triazophos in soil and uptake by chickpea and tomato crops under tropical conditions. Journal of agricultural and food chemistry, 58(3), 1815-1822.",
+            "method": {
+                "Test Plant": "Tomato (cv. Pusa Ruby), Chickpea (cv. Pusa 362)",
+                "Apply Location": "Soil application - carbosulfan and triazophos sprayed in planting furrows, cadusafos and phorate applied as granules in furrows",
+                "Plant Grown Condition": "Field microplots of 6 m2 size, naturally infested with root-knot and reniform nematodes. Alluvial soil with pH 8.2, CEC 2.10 me/110g, 73.2% sand, 7.6% silt, 19.0% clay, 0.91% OC. Tomato transplanted at 35 days old with 50 cm x 30 cm spacing. Chickpea sown with 30 cm x 15 cm row spacing. Recommended NPK fertilizer (25:50:25 kg/ha) applied 1 day before nematicide treatment. Tomato plots flood irrigated (5 cm) at 20 day intervals, chickpea at 30 day intervals",
+                "Chemical Preparation": "Technical grade carbosulfan (98%), cadusafos (98%), triazophos (97.6%), phorate (91.7%). Carbosulfan 25% EC, triazophos 40% EC, cadusafos 10G, phorate 10G formulations used",
+                "Pesticide Application Details for the Plant": ".Factorial experiment with 4 nematicides x 3 rates (0, 1, 2 kg ai/ha) in 5 replicates. Carbosulfan and triazophos sprayed in furrows, cadusafos and phorate applied as granules. 1X and 2X recommended rates evaluated to study over-application impacts",
+                "Other information and Other Information": "-"
+            },
+            "result": "[{\"Plant\": \"Chickpea\", \"Concentration (Kg a.i./ha)\": 1, \"Times after application\": 15, \"Root (ug/g)\": 1.77, \"Shoot (ug/g)\": 0.0}, {\"Plant\": \"Chickpea\", \"Concentration (Kg a.i./ha)\": 1, \"Times after application\": 30, \"Root (ug/g)\": 3.14, \"Shoot (ug/g)\": 0.0}, {\"Plant\": \"Chickpea\", \"Concentration (Kg a.i./ha)\": 1, \"Times after application\": 45, \"Root (ug/g)\": 159.0, \"Shoot (ug/g)\": 0.0}, {\"Plant\": \"Chickpea\", \"Concentration (Kg a.i./ha)\": 1, \"Times after application\": 60, \"Root (ug/g)\": 1.14, \"Shoot (ug/g)\": 0.0}, {\"Plant\": \"Chickpea\", \"Concentration (Kg a.i./ha)\": 1, \"Times after application\": 90, \"Root (ug/g)\": 0.34, \"Shoot (ug/g)\": 0.0}, {\"Plant\": \"Chickpea\", \"Concentration (Kg a.i./ha)\": 1, \"Times after application\": 120, \"Root (ug/g)\": 0.0, \"Shoot (ug/g)\": 0.0}, {\"Plant\": \"Chickpea\", \"Concentration (Kg a.i./ha)\": 2, \"Times after application\": 15, \"Root (ug/g)\": 2.91, \"Shoot (ug/g)\": 0.69}, {\"Plant\": \"Chickpea\", \"Concentration (Kg a.i./ha)\": 2, \"Times after application\": 30, \"Root (ug/g)\": 4.85, \"Shoot (ug/g)\": 0.49}, {\"Plant\": \"Chickpea\", \"Concentration (Kg a.i./ha)\": 2, \"Times after application\": 45, \"Root (ug/g)\": 3.71, \"Shoot (ug/g)\": 0.29}, {\"Plant\": \"Chickpea\", \"Concentration (Kg a.i./ha)\": 2, \"Times after application\": 60, \"Root (ug/g)\": 1.65, \"Shoot (ug/g)\": 0.0}, {\"Plant\": \"Chickpea\", \"Concentration (Kg a.i./ha)\": 2, \"Times after application\": 90, \"Root (ug/g)\": 0.85, \"Shoot (ug/g)\": 0.0}, {\"Plant\": \"Chickpea\", \"Concentration (Kg a.i./ha)\": 2, \"Times after application\": 120, \"Root (ug/g)\": 0.34, \"Shoot (ug/g)\": 0.0}, {\"Plant\": \"Tomato\", \"Concentration (Kg a.i./ha)\": 1, \"Times after application\": 15, \"Root (ug/g)\": 1.14, \"Shoot (ug/g)\": 0.19}, {\"Plant\": \"Tomato\", \"Concentration (Kg a.i./ha)\": 1, \"Times after application\": 30, \"Root (ug/g)\": 3.14, \"Shoot (ug/g)\": 0.09}, {\"Plant\": \"Tomato\", \"Concentration (Kg a.i./ha)\": 1, \"Times after application\": 45, \"Root (ug/g)\": 2.74, \"Shoot (ug/g)\": 0.0}, {\"Plant\": \"Tomato\", \"Concentration (Kg a.i./ha)\": 1, \"Times after application\": 60, \"Root (ug/g)\": 1.77, \"Shoot (ug/g)\": 0.0}, {\"Plant\": \"Tomato\", \"Concentration (Kg a.i./ha)\": 1, \"Times after application\": 90, \"Root (ug/g)\": 0.91, \"Shoot (ug/g)\": 0.0}, {\"Plant\": \"Tomato\", \"Concentration (Kg a.i./ha)\": 1, \"Times after application\": 120, \"Root (ug/g)\": 0.34, \"Shoot (ug/g)\": 0.0}, {\"Plant\": \"Tomato\", \"Concentration (Kg a.i./ha)\": 2, \"Times after application\": 15, \"Root (ug/g)\": 3.19, \"Shoot (ug/g)\": 0.38}, {\"Plant\": \"Tomato\", \"Concentration (Kg a.i./ha)\": 2, \"Times after application\": 30, \"Root (ug/g)\": 6.34, \"Shoot (ug/g)\": 0.38}, {\"Plant\": \"Tomato\", \"Concentration (Kg a.i./ha)\": 2, \"Times after application\": 45, \"Root (ug/g)\": 4.85, \"Shoot (ug/g)\": 0.51}, {\"Plant\": \"Tomato\", \"Concentration (Kg a.i./ha)\": 2, \"Times after application\": 60, \"Root (ug/g)\": 3.54, \"Shoot (ug/g)\": 0.0}, {\"Plant\": \"Tomato\", \"Concentration (Kg a.i./ha)\": 2, \"Times after application\": 90, \"Root (ug/g)\": 1.31, \"Shoot (ug/g)\": 0.0}, {\"Plant\": \"Tomato\", \"Concentration (Kg a.i./ha)\": 2, \"Times after application\": 120, \"Root (ug/g)\": 0.34, \"Shoot (ug/g)\": 0.0}]"
+        }
+    ]
+}

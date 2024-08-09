@@ -1,0 +1,91 @@
+{
+    "_id": {
+        "$oid": "6682e99ac4e5dba5ffba2b72"
+    },
+    "CID": {
+        "$numberInt": "442021"
+    },
+    "Name": "BRUCINE",
+    "IUPACName": "(4aR,5aS,8aR,13aS,15aS,15bR)-10,11-dimethoxy-4a,5,5a,7,8,13a,15,15a,15b,16-decahydro-2H-4,6-methanoindolo[3,2,1-ij]oxepino[2,3,4-de]pyrrolo[2,3-h]quinolin-14-one",
+    "CanonicalSMILES": "COC1=C(C=C2C(=C1)C34CCN5C3CC6C7C4N2C(=O)CC7OCC=C6C5)OC",
+    "Synonyms": [
+        "BRUCINE",
+        "357-57-3",
+        "10,11-Dimethoxystrychnine",
+        "Brucinum",
+        "2,3-Dimethoxystrychnine",
+        "(-)-Brucine",
+        "l-Brucine",
+        "2,3-Dimethoxystrychnidin-10-one",
+        "Brucine",
+        "Anhydrous",
+        "Strychnidin-10-one",
+        "2,3-dimethoxy-",
+        "10,11-Dimethystrychnine",
+        "Brucina",
+        "Brucin",
+        "6NG17YCK6H",
+        "Brucine alkaloid"
+    ],
+    "IsomericSMILES": "COC1=C(C=C2C(=C1)[C@]34CCN5[C@H]3C[C@@H]6[C@@H]7[C@@H]4N2C(=O)C[C@@H]7OCC=C6C5)OC",
+    "INCHI": "InChI=1S/C23H26N2O4/c1-27-16-8-14-15(9-17(16)28-2)25-20(26)10-18-21-13-7-19-23(14,22(21)25)4-5-24(19)11-12(13)3-6-29-18/h3,8-9,13,18-19,21-22H,4-7,10-11H2,1-2H3/t13-,18-,19-,21-,22-,23+/m0/s1",
+    "INCHIKEY": "RRKTZKIUPZVBMF-IBTVXLQLSA-N",
+    "Formula": "C23H26N2O4",
+    "MolecularWeight": {
+        "$numberDouble": "394.5"
+    },
+    "Description": "Brucine is a monoterpenoid indole alkaloid and an organic heteroheptacyclic compound.",
+    "XlogP": {
+        "$numberDouble": "1"
+    },
+    "Complexity": {
+        "$numberInt": "785"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Budavari S; The Merck Index. 12th ed. Whitehouse Station,NJ: Merck and Co., Inc. p. 238 (1996) (2) Young CT; Kirk-Othmer Encycl Chem Tech 4th. NY,NY: Wiley Interscience 17: 555 (1996)",
+            "Value": "Brucine is a constituent of the seeds of Strychnos sp. (e.g. S. nuxvomica(1,2), and S. ignatii Berg., Loganiaceae(1))."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR., consult. ed., Washington, DC: Amer Chem Soc p. 180 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated for brucine(SRC), using a log Kow of 0.98(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Loehr R; Treatability potential for EPA listed hazardous wastes in soil. Ada,OK: Robert S. Kerr Environ Res Lab. USEPA600/2-89/011 (1989)",
+            "Value": "Brucine was incubated for 65 days in the dark at 20 \u00b0C at a concn of 180 and 150 ppm in Texas (pH=7.8) and Mississippi (pH= 4.8) soils, with 16% and 12% moisture content(1). Half-lives of 23.1 and 37.1 days, respectively, were noted(1). However, no distinction was made between specific loss mechanisms."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 180",
+            "Value": "Log Kow= 0.98"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Zeiger E et al; Environ Mutagen 9: 1-110 (1987)",
+            "Value": "Brucine was evaluated for mutagenicity in the Salmonella/microsome preincubation assay using the standard protocol approved by the National Toxicology Program. Brucine was tested at doses of 0, 33, 100, 333, 1000, 3333, and 6666 ug/plate in four Salmonella typhimurium strains (TA98, TA100, TA1535, and TA1537) in the presence and absence of Aroclor induced rat or hamster liver S9 /metabolic activation system/. Brucine was negative in these tests and the highest ineffective dose level tested in any Salmonella tester strain was 6666 ug/plate."
+        },
+        {
+            "References": "Verschueren, K. Handbook of Environmental Data of Organic Chemicals. 2nd ed. New York, NY: Van Nostrand Reinhold Co., 1983., p. 294",
+            "Value": "Lepomis macrochirus (bluegill sunfish); static bioassay in fresh water at 23 \u00b0C, mild aeration applied after 24 hr; material added 63 ppm: % survival after 24 hr, was 0; material added 40 ppm: % survival after 24 hr, 48 hr, 72 hr, & 96 hr was 40, 30, 20, & 20 respectively; material added 32 ppm: % survival after 24 hr, 48 hr, 72 hr & 96 hr was 90, 80, 60, & 40 respectively; material added 25 ppm: % survival after 24 hr, 48 hr, 72 hr, 96 hr was 100."
+        },
+        {
+            "References": "Verschueren, K. Handbook of Environmental Data of Organic Chemicals. 2nd ed. New York, NY: Van Nostrand Reinhold Co., 1983., p. 294",
+            "Value": "Menidia beryllina; static bioassay in synthetic seawater at 23 \u00b0C, mild aeration applied after 24 hr; material added 32 ppm: % survival after 24 hr, 48 hr, 72 hr, & 96 hr was 80, 60, 40, & 20 respectively; material added 18 ppm: % survival after 24 hr, 48 hr, 72 hr, & 96 hr was 100, 100, 80, & 70 respectively; material added 10 ppm: % survival after 24 hr, 48 hr, 72 hr & 96 hr was 100, 100, 100, & 90 respectively."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992) (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Lide DR; CRC Handbook of Chemistry and Physics. 79th ed. Boca Raton, FL: CRC Press Inc. p. 8-56 (1998)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc for brucine can be estimated to be 81(SRC). According to a classification scheme(2), this estimated Koc value suggests that brucine is expected to have high mobility in soil. The pKa of brucine is 8.28(3) indicating that this compound will exist in the protonated form in the environment and cations generally adsorb to organic carbon and clay more strongly than their neutral counterparts. Volatilization from moist soil surfaces is not expected to be an important fate process because the cation is not expected to volatilize. Therefore, the ability of brucine to adsorb to sediments an soil cannot be predicted with certainty since this compound may act markedly different than its estimated Koc value indicates(SRC)."
+        }
+    ]
+}

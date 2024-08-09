@@ -1,0 +1,75 @@
+{
+    "_id": {
+        "$oid": "6692710b303528b49832d7b2"
+    },
+    "CID": {
+        "$numberInt": "47938"
+    },
+    "Name": "Fenoxaprop-ethyl",
+    "IUPACName": "ethyl 2-[4-[(6-chloro-1,3-benzoxazol-2-yl)oxy]phenoxy]propanoate",
+    "CanonicalSMILES": "CCOC(=O)C(C)OC1=CC=C(C=C1)OC2=NC3=C(O2)C=C(C=C3)Cl",
+    "Synonyms": [
+        "FENOXAPROP-ETHYL",
+        "66441-23-4",
+        "Fenoxaprop ethyl",
+        "Acclaim",
+        "Furore",
+        "Depon",
+        "Whip",
+        "Fenoxaprop ethyl ester",
+        "PUMA",
+        "HOE-A 25-01",
+        "HOE 33171",
+        "Fenoxaprop-ethyl [ISO]",
+        "ethyl 2-[4-[(6-chloro-1,3-benzoxazol-2-yl)oxy]phenoxy]propanoate",
+        "Propanoic acid",
+        "2-[4-[(6-chloro-2-benzoxazolyl)oxy]phenoxy]-",
+        "ethyl ester",
+        "CHEBI:5008"
+    ],
+    "IsomericSMILES": "CCOC(=O)C(C)OC1=CC=C(C=C1)OC2=NC3=C(O2)C=C(C=C3)Cl",
+    "INCHI": "InChI=1S/C18H16ClNO5/c1-3-22-17(21)11(2)23-13-5-7-14(8-6-13)24-18-20-15-9-4-12(19)10-16(15)25-18/h4-11H,3H2,1-2H3",
+    "INCHIKEY": "PQKBPHSEKWERTG-UHFFFAOYSA-N",
+    "Formula": "C18H16ClNO5",
+    "MolecularWeight": {
+        "$numberDouble": "361.8"
+    },
+    "Description": "Fenoxaprop ethyl is an aromatic ether.",
+    "XlogP": {
+        "$numberDouble": "4.1"
+    },
+    "Complexity": {
+        "$numberInt": "443"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Under controlled environment growth room conditions, the EDSo values were determined for oat (Avena sativa L. cv. OAC Woodstock) and crabgrass (Digitaria ischaemum (Schreb., Muhl.)) at the three-leaf stage in response to foliar-applied fenoxaprop-ethyl. The EDSo values were found to be 58.5 and 15.8 g ai/ha for oat and crabgrass, respectively, at the three-leaf stage. For crabgrass at the three-tiller stage, the EDSo value was 11.9 g ai/ha. Wheat (Triticum aestivum L. cv. Fredrick) was found to be tolerant to fenoxaprop-ethyl, so the EDSo value for wheat was not determined. When radioactively labeled [14C]fenoxaprop-ethyl was applied to the foliage, wheat, crabgrass, and oat absorbed 62%, 40%, and 35% of the applied radioactivity after 8 hours, and 84%, 84%, and 54% after 72 hours, respectively. Approximately 8%, 9%, and 3% of the applied radioactivity moved acropetally (upward) to the portion of the second leaf above the treated zone after 72 hours in wheat, oat, and crabgrass, respectively. Less than 2% of the applied radioactivity moved basipetally (downward) from the treated zone in all plant species. These results indicate that the differences in sensitivity between wheat and the sensitive species are not due to differences in the absorption or translocation of fenoxaprop-ethyl. However, the sensitivity differences between crabgrass and oat may be partially explained by differences in absorption and translocation. Metabolism studies revealed that in wheat, 62% of the recovered radioactivity was bound to insoluble constituents or converted to polar metabolites. In crabgrass and oat, these fractions accounted for only 28% and 40%, respectively. The bound and polar fractions likely represent detoxified forms of the herbicide. Oat predominantly produced metabolite A (27%), while crabgrass predominantly produced metabolite B (36%). Wheat produced small amounts of metabolites A (10%) and B (4%). Metabolite A, which is likely a glycosyl-ester conjugate, hydrolyzed to metabolite B when treated with p-glucosidase. The product of ether bond cleavage, 6-chloro-2,3-dihydro-benzoxazol-2-one, accounted for 21% to 26% of the recovered radioactivity in all three species.",
+            "reference": "Lefsrud, C., & Hall, J. C. (1989). Basis for sensitivity differences among crabgrass, oat, and wheat to fenoxaprop-ethyl. Pesticide Biochemistry and Physiology, 34(3), 218-227.",
+            "method": {
+                "Test Plants": "Crabgrass, oat, and wheat.",
+                "Apply Location": "Foliar application.",
+                "Plant Grown Condition": "Plants were grown in a growth room with controlled temperature (19 \u00b1 1\u00b0C day/night) and a 16-h photoperiod, with a relative humidity of 64/70%.",
+                "Chemical Preparation": "Radiolabeled fenoxaprop-ethyl was dissolved in an emulsifiable concentrate formulation to a concentration of 60 g ai/liter and then in water to give a final concentration of 1.02 g ai/liter and a specific activity of 167 Bq/kl.",
+                "Pesticide Application Details for the Plant": "Herbicide treatments were applied using a motorized hood sprayer equipped with a flat fan nozzle, delivering 195 liter/ha at 275 kPa. Crabgrass, oat, and wheat were treated at doses ranging from 6.31 to 39.8, 25.1 to 158, and 126 to 794 g ai/ha, respectively. The potting medium was shielded during herbicide application.",
+                "Other Information": "Plants were harvested 14 days after treatment. Shoot height, fresh and dry weights of shoots and roots were determined. Absorption and translocation experiments were conducted at various time points (1, 8, 16, 24, 48, and 72 hr) after application, with plants dissected into various parts for analysis."
+            },
+            "result": "[{\"Time After Application\": \"8 hours\", \"Species\": \"Crabgrass\", \"% Absorbed\": \"38%\", \"Acropetal Translocation Rate\": 1.6, \"Basipetal Translocation Rate\": 0.22}, {\"Time After Application\": \"16 hours\", \"Species\": \"Crabgrass\", \"% Absorbed\": \"52%\", \"Acropetal Translocation Rate\": 1.6, \"Basipetal Translocation Rate\": 0.33}, {\"Time After Application\": \"24 hours\", \"Species\": \"Crabgrass\", \"% Absorbed\": \"76%\", \"Acropetal Translocation Rate\": 1.7, \"Basipetal Translocation Rate\": 0.5}, {\"Time After Application\": \"48 hours\", \"Species\": \"Crabgrass\", \"% Absorbed\": \"81%\", \"Acropetal Translocation Rate\": 3.4, \"Basipetal Translocation Rate\": 1.3}, {\"Time After Application\": \"72 hours\", \"Species\": \"Crabgrass\", \"% Absorbed\": \"81%\", \"Acropetal Translocation Rate\": 2.5, \"Basipetal Translocation Rate\": 1.7}, {\"Time After Application\": \"8 hours\", \"Species\": \"Oat\", \"% Absorbed\": \"35%\", \"Acropetal Translocation Rate\": 0.5, \"Basipetal Translocation Rate\": 0.0}, {\"Time After Application\": \"16 hours\", \"Species\": \"Oat\", \"% Absorbed\": \"40%\", \"Acropetal Translocation Rate\": 1.5, \"Basipetal Translocation Rate\": 0.1}, {\"Time After Application\": \"24 hours\", \"Species\": \"Oat\", \"% Absorbed\": \"42%\", \"Acropetal Translocation Rate\": 3.8, \"Basipetal Translocation Rate\": 0.21}, {\"Time After Application\": \"48 hours\", \"Species\": \"Oat\", \"% Absorbed\": \"46%\", \"Acropetal Translocation Rate\": 7.4, \"Basipetal Translocation Rate\": 0.7}, {\"Time After Application\": \"72 hours\", \"Species\": \"Oat\", \"% Absorbed\": \"52%\", \"Acropetal Translocation Rate\": 8.6, \"Basipetal Translocation Rate\": 1.7}, {\"Time After Application\": \"8 hours\", \"Species\": \"Wheat\", \"% Absorbed\": \"61%\", \"Acropetal Translocation Rate\": 2.3, \"Basipetal Translocation Rate\": 0.0}, {\"Time After Application\": \"16 hours\", \"Species\": \"Wheat\", \"% Absorbed\": \"66%\", \"Acropetal Translocation Rate\": 4.0, \"Basipetal Translocation Rate\": 0.1}, {\"Time After Application\": \"24 hours\", \"Species\": \"Wheat\", \"% Absorbed\": \"70%\", \"Acropetal Translocation Rate\": 7.0, \"Basipetal Translocation Rate\": 0.35}, {\"Time After Application\": \"48 hours\", \"Species\": \"Wheat\", \"% Absorbed\": \"78%\", \"Acropetal Translocation Rate\": 8.4, \"Basipetal Translocation Rate\": 0.88}, {\"Time After Application\": \"72 hours\", \"Species\": \"Wheat\", \"% Absorbed\": \"82%\", \"Acropetal Translocation Rate\": 8.3, \"Basipetal Translocation Rate\": 1.4}]"
+        },
+        {
+            "content": "The study investigated the effect of water stress on the absorption and translocation of 14C-labelled fenoxaprop-ethyl and imazamethabenz-methyl in Avena fatua L. (wild oat), as well as the herbicides' phytotoxicity under water stress conditions. The results showed that water stress reduced the absorption and translocation of both herbicides when plants were harvested within 24 hours after application. However, the effect diminished after 48 hours. Water stress also reduced the phytotoxicity of fenoxaprop-ethyl but not imazamethabenz-methyl when applied as individual droplets. These findings suggest that changes in herbicide absorption and translocation may not be the major physiological processes driving the differential response of Avena fatua to fenoxaprop-ethyl and imazamethabenz-methyl under water stress.",
+            "reference": "Xie, H. S., Hsiao, A. I., QulCk, W. A., & Hume, J. A. (1996). Influence of water stress on absorption, translocation and phytotoxicity of fenoxaprop\u2010ethyl and imazamethabenz\u2010methyl in Avena fatua. Weed Research, 36(1), 65-71.",
+            "method": {
+                "Test Plant": "Avena fatua (wild oat)",
+                "Apply Location": "Foliar application (droplets on adaxial midsection of second lamina)",
+                "Plant Growth Condition": "Seeds pre-germinated on moist filter paper for 5 days, then transplanted to 7.5 cm pots with loamy sand soil (pH 7.6, nutrients given). Grown in growth chamber at 21\u00b0C day/15\u00b0C night, 40-60% RH, 400 \u03bcmol/m2/s light for 16 h photoperiod. Non-stressed plants watered daily. Water-stressed plants water withheld for 7 days before herbicide application showing wilting, then maintained at ~25% field capacity for 10 more days.",
+                "Chemical Preparation": "[14C]fenoxaprop-ethyl - stock 7.24 \u03bcCi/mL in ethanol, working solution 11.25 \u03bcCi/mL with 1500 \u03bcg/mL in commercial EC formulation. [14C]imazamethabenz-methyl - stock 8.70 \u03bcCi/mL in methanol, working solution 11.25 \u03bcCi/mL with 3000 \u03bcg/mL in commercial SC formulation.",
+                "Pesticide Application Details for the Plant": "Two 2 \u03bcL droplets of working herbicide solutions applied to adaxial midsection of second leaf lamina.",
+                "Other Information": "Plants harvested at 24, 48, 96 h after treatment, divided into treated leaf, foliage, roots. Surface washed with 10% ethanol+0.5% Tween 20 (fenoxaprop) or 0.1% Tween 20 (imazamethabenz). Plant parts combusted and 14C quantified by liquid scintillation counting."
+            },
+            "result": "[{\"Treatment\": \"Non-stressed\", \"Hours after application\": 24, \"Treated area (% of applied)\": 99, \"Untreated area of foliage (%)\": 0.4, \"Roots (%)\": 0.4}, {\"Treatment\": \"Non-stressed\", \"Hours after application\": 48, \"Treated area (% of applied)\": 98, \"Untreated area of foliage (%)\": 1.0, \"Roots (%)\": 1.0}, {\"Treatment\": \"Non-stressed\", \"Hours after application\": 96, \"Treated area (% of applied)\": 96, \"Untreated area of foliage (%)\": 2.0, \"Roots (%)\": 2.0}, {\"Treatment\": \"Water-stressed\", \"Hours after application\": 24, \"Treated area (% of applied)\": 99, \"Untreated area of foliage (%)\": 0.4, \"Roots (%)\": 0.4}, {\"Treatment\": \"Water-stressed\", \"Hours after application\": 48, \"Treated area (% of applied)\": 99, \"Untreated area of foliage (%)\": 0.5, \"Roots (%)\": 0.5}, {\"Treatment\": \"Water-stressed\", \"Hours after application\": 96, \"Treated area (% of applied)\": 97, \"Untreated area of foliage (%)\": 2.0, \"Roots (%)\": 2.0}]"
+        }
+    ]
+}

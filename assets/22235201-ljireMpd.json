@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "6692712b303528b49832d830"
+    },
+    "CID": {
+        "$numberInt": "22235201"
+    },
+    "Name": "Cloransulam",
+    "IUPACName": "3-chloro-2-[(5-ethoxy-7-fluoro-[1,2,4]triazolo[1,5-c]pyrimidin-2-yl)sulfonylamino]benzoic acid",
+    "CanonicalSMILES": "CCOC1=NC(=CC2=NC(=NN21)S(=O)(=O)NC3=C(C=CC=C3Cl)C(=O)O)F",
+    "Synonyms": [
+        "Cloransulam",
+        "159518-97-5",
+        "Cloransulam [ISO]",
+        "3-chloro-2-[[(5-ethoxy-7-fluoro[1,2,4]triazolo[1,5-c]pyrimidin-2-yl)sulfonyl]amino]benzoic acid",
+        "UNII-0453190L7E",
+        "3-chloro-2-[(5-ethoxy-7-fluoro-[1,2,4]triazolo[1,5-c]pyrimidin-2-yl)sulfonylamino]benzoic acid",
+        "0453190L7E",
+        "cloransulame",
+        "3-CHLORO-2-(((5-ETHOXY-7-FLUORO(1,2,4)TRIAZOLO(1,5-C)PYRIMIDIN-2-YL)SULFONYL)AMINO)BENZOIC ACID",
+        "3-Chloro-2-[[(5-ethoxy-7-fluoro[1,2,4]triazolo[1,5-c]pyrimidin-2-yl)sulfonyl]amino]benzoic acid; Cloransulam; XDE 565",
+        "3-chloro-2-{[(5-ethoxy-7-fluoro[1,2,4]triazolo[1,5-c]pyrimidin-2-yl)sulfonyl]amino}benzoic acid",
+        "Cloransulam (free acid)",
+        "SCHEMBL118467",
+        "DTXSID60166671",
+        "CHEBI:131998"
+    ],
+    "IsomericSMILES": "CCOC1=NC(=CC2=NC(=NN21)S(=O)(=O)NC3=C(C=CC=C3Cl)C(=O)O)F",
+    "INCHI": "InChI=1S/C14H11ClFN5O5S/c1-2-26-14-17-9(16)6-10-18-13(19-21(10)14)27(24,25)20-11-7(12(22)23)4-3-5-8(11)15/h3-6,20H,2H2,1H3,(H,22,23)",
+    "INCHIKEY": "YIANBKOBVRMNPR-UHFFFAOYSA-N",
+    "Formula": "C14H11ClFN5O5S",
+    "MolecularWeight": {
+        "$numberDouble": "415.8"
+    },
+    "Description": "Cloransulam is a sulfonamide resulting from the formal condensation of the sulfonic acid group of 5-ethoxy-7-fluoro[1,2,4]triazolo[1,5-c]pyrimidine-2-sulfonic acid with the amino group of 2-amino-3-chlorobenzoic acid. The methyl ester of cloransulam, generally known as cloransulam-methyl, is used as a herbicide for the control of post-emergence control of broad-leaved weeds in soybeans. It has a role as a herbicide. It is a monocarboxylic acid, a sulfonamide, an aromatic ether, an organofluorine compound, a member of monochlorobenzenes and a member of triazolopyrimidines.",
+    "XlogP": {
+        "$numberDouble": "2.8"
+    },
+    "Complexity": {
+        "$numberInt": "652"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Field and laboratory studies were conducted to evaluate herbicide efficacy, absorption, and translocation of cloransulam within broadleaf weeds. Control of morning glory species and velvetleaf with cloransulam was dependent upon application rate and timing. A reduced rate of cloransulam (9 g ai ha-1) was as effective as the labeled rate (18 g ha-1) when applications were targeted to small to midsize morning glory and velvetleaf. Prickly sida, hemp sesbania, and sicklepod were suppressed by cloransulam. Contour maps predicted accurately weed control for all species except tall morningglory. Cloransulam absorption and translocation provided some information about tolerance mechanisms. Susceptible species, entireleaf morningglory and velvetleaf, both rapidly absorbed 14C-cloransulam. Absorption in the more tolerant velvetleaf was 20% lower than entireleaf morningglory at all harvest times. Absorption of 14C-cloransulam in prickly sida was only 26% 6 h after treatment, and absorption did not increase with time. Differences in cloransulam absorption and translocation partially explained differences in susceptibility among some weed species but not others.",
+            "reference": "Barnes, J. W., & Oliver, L. R. (2004). Cloransulam absorption, translocation, and efficacy on common broadleaf weed species. Weed science, 52(4), 634-641.",
+            "method": {
+                "Test Plant": "Common broadleaf weed species including common cocklebur, entireleaf morningglory, pitted morningglory (Ipomoea lacunosa L.), tall morningglory, prickly sida, hemp sesbania, sicklepod, Palmer amaranth (Amaranthus palmeri S.Wats), and velvetleaf.",
+                "Apply Location": "Foliar application.",
+                "Plant Grown Condition": "Grown at the Arkansas Agricultural Research and Extension Center, Fayetteville, AR, on a Taloka silt loam with 27% sand, 64% silt, 9% clay, pH of 6.1, and 1% organic matter, in a greenhouse from May through September, utilizing natural day length.",
+                "Chemical Preparation": "Commercial formulation of cloransulam was applied at various rates (0, 4.5, 9, 18, 36, and 72 g ai ha-1) and three application timings (1, 2, and 3 weeks after emergence).",
+                "Pesticide Application Details for the Plant": "Cloransulam was applied with a CO2-backpack sprayer in a volume of 187 L ha-1 and included a crop oil concentrate (COC) at 1% v/v. Grass weed species were controlled with POST applications of clethodim at 106 g ai ha-1 and COC at 1% v/v.",
+                "Other Information": "The experimental design was a randomized complete block (RCB) with four replications and a factorial arrangement of treatments."
+            },
+            "result": "[{\"Plant\": \"Entireleaf Morningglory\", \"Time After Application (hours)\": 6, \"Recovered (%)\": 46.0, \"Total Translocated (%)\": \"2.0\"}, {\"Plant\": \"Entireleaf Morningglory\", \"Time After Application (hours)\": 12, \"Recovered (%)\": 55.0, \"Total Translocated (%)\": \"3.0\"}, {\"Plant\": \"Entireleaf Morningglory\", \"Time After Application (hours)\": 24, \"Recovered (%)\": 54.0, \"Total Translocated (%)\": \"5.7\"}, {\"Plant\": \"Entireleaf Morningglory\", \"Time After Application (hours)\": 48, \"Recovered (%)\": 61.0, \"Total Translocated (%)\": \"7.7\"}, {\"Plant\": \"Entireleaf Morningglory\", \"Time After Application (hours)\": 72, \"Recovered (%)\": 67.0, \"Total Translocated (%)\": \"8.0\"}, {\"Plant\": \"Entireleaf Morningglory\", \"Time After Application (hours)\": 96, \"Recovered (%)\": 70.0, \"Total Translocated (%)\": \"7.7\"}, {\"Plant\": \"Velvetleaf\", \"Time After Application (hours)\": 6, \"Recovered (%)\": 26.0, \"Total Translocated (%)\": \"0.7\"}, {\"Plant\": \"Velvetleaf\", \"Time After Application (hours)\": 12, \"Recovered (%)\": 28.0, \"Total Translocated (%)\": \"1.4\"}, {\"Plant\": \"Velvetleaf\", \"Time After Application (hours)\": 24, \"Recovered (%)\": 34.0, \"Total Translocated (%)\": \"1.4\"}, {\"Plant\": \"Velvetleaf\", \"Time After Application (hours)\": 48, \"Recovered (%)\": 41.0, \"Total Translocated (%)\": \"1.2\"}, {\"Plant\": \"Velvetleaf\", \"Time After Application (hours)\": 72, \"Recovered (%)\": 45.0, \"Total Translocated (%)\": \"1.8\"}, {\"Plant\": \"Velvetleaf\", \"Time After Application (hours)\": 96, \"Recovered (%)\": 48.0, \"Total Translocated (%)\": \"1.5\"}, {\"Plant\": \"Prickly Sida\", \"Time After Application (hours)\": 6, \"Recovered (%)\": 26.0, \"Total Translocated (%)\": \"0.8\"}, {\"Plant\": \"Prickly Sida\", \"Time After Application (hours)\": 12, \"Recovered (%)\": 24.0, \"Total Translocated (%)\": \"1.1\"}, {\"Plant\": \"Prickly Sida\", \"Time After Application (hours)\": 24, \"Recovered (%)\": 25.0, \"Total Translocated (%)\": \"1.6\"}, {\"Plant\": \"Prickly Sida\", \"Time After Application (hours)\": 48, \"Recovered (%)\": 28.0, \"Total Translocated (%)\": \"1.6\"}, {\"Plant\": \"Prickly Sida\", \"Time After Application (hours)\": 72, \"Recovered (%)\": 25.0, \"Total Translocated (%)\": \"2.1\"}, {\"Plant\": \"Prickly Sida\", \"Time After Application (hours)\": 96, \"Recovered (%)\": 27.0, \"Total Translocated (%)\": \"2.2\"}, {\"Plant\": \"Hemp Sesbania\", \"Time After Application (hours)\": 6, \"Recovered (%)\": 64.0, \"Total Translocated (%)\": \"3.9\"}, {\"Plant\": \"Hemp Sesbania\", \"Time After Application (hours)\": 12, \"Recovered (%)\": 67.0, \"Total Translocated (%)\": \"6.9\"}, {\"Plant\": \"Hemp Sesbania\", \"Time After Application (hours)\": 24, \"Recovered (%)\": 67.0, \"Total Translocated (%)\": \"10.7\"}, {\"Plant\": \"Hemp Sesbania\", \"Time After Application (hours)\": 48, \"Recovered (%)\": 67.0, \"Total Translocated (%)\": \"14.4\"}, {\"Plant\": \"Hemp Sesbania\", \"Time After Application (hours)\": 72, \"Recovered (%)\": 65.0, \"Total Translocated (%)\": \"15.4\"}, {\"Plant\": \"Hemp Sesbania\", \"Time After Application (hours)\": 96, \"Recovered (%)\": 67.0, \"Total Translocated (%)\": \"14.1\"}, {\"Plant\": \"Sicklepod\", \"Time After Application (hours)\": 6, \"Recovered (%)\": 82.0, \"Total Translocated (%)\": \"3.9\"}, {\"Plant\": \"Sicklepod\", \"Time After Application (hours)\": 12, \"Recovered (%)\": 83.0, \"Total Translocated (%)\": \"6.9\"}, {\"Plant\": \"Sicklepod\", \"Time After Application (hours)\": 24, \"Recovered (%)\": 85.0, \"Total Translocated (%)\": \"10.7\"}, {\"Plant\": \"Sicklepod\", \"Time After Application (hours)\": 48, \"Recovered (%)\": 86.0, \"Total Translocated (%)\": \"14.4\"}, {\"Plant\": \"Sicklepod\", \"Time After Application (hours)\": 72, \"Recovered (%)\": 87.0, \"Total Translocated (%)\": \"15.4\"}, {\"Plant\": \"Sicklepod\", \"Time After Application (hours)\": 96, \"Recovered (%)\": 87.0, \"Total Translocated (%)\": \"14.1\"}, {\"Plant\": \"Palmer Amaranth\", \"Time After Application (hours)\": 6, \"Recovered (%)\": 38.0, \"Total Translocated (%)\": \"2.4\"}, {\"Plant\": \"Palmer Amaranth\", \"Time After Application (hours)\": 12, \"Recovered (%)\": 44.0, \"Total Translocated (%)\": \"4.0\"}, {\"Plant\": \"Palmer Amaranth\", \"Time After Application (hours)\": 24, \"Recovered (%)\": 51.0, \"Total Translocated (%)\": \"4.6\"}, {\"Plant\": \"Palmer Amaranth\", \"Time After Application (hours)\": 48, \"Recovered (%)\": 54.0, \"Total Translocated (%)\": \"4.2\"}, {\"Plant\": \"Palmer Amaranth\", \"Time After Application (hours)\": 72, \"Recovered (%)\": 56.0, \"Total Translocated (%)\": \"5.3\"}, {\"Plant\": \"Palmer Amaranth\", \"Time After Application (hours)\": 96, \"Recovered (%)\": 60.0, \"Total Translocated (%)\": \"5.7\"}, {\"Plant\": \"Mean Value\", \"Time After Application (hours)\": 6, \"Recovered (%)\": 98.1, \"Total Translocated (%)\": \"0.5 (Acropetal), 1.0 (Basipetal), 0.4 (Root)\"}, {\"Plant\": \"Mean Value\", \"Time After Application (hours)\": 12, \"Recovered (%)\": 96.7, \"Total Translocated (%)\": \"1.1 (Acropetal), 1.8 (Basipetal), 0.4 (Root)\"}, {\"Plant\": \"Mean Value\", \"Time After Application (hours)\": 24, \"Recovered (%)\": 95.5, \"Total Translocated (%)\": \"1.8 (Acropetal), 2.2 (Basipetal), 0.4 (Root)\"}, {\"Plant\": \"Mean Value\", \"Time After Application (hours)\": 48, \"Recovered (%)\": 94.6, \"Total Translocated (%)\": \"1.9 (Acropetal), 3.0 (Basipetal), 0.4 (Root)\"}, {\"Plant\": \"Mean Value\", \"Time After Application (hours)\": 72, \"Recovered (%)\": 94.1, \"Total Translocated (%)\": \"2.2 (Acropetal), 3.2 (Basipetal), 0.5 (Root)\"}, {\"Plant\": \"Mean Value\", \"Time After Application (hours)\": 96, \"Recovered (%)\": 94.7, \"Total Translocated (%)\": \"2.0 (Acropetal), 2.9 (Basipetal), 0.5 (Root)\"}]"
+        }
+    ]
+}

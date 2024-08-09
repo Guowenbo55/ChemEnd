@@ -1,0 +1,64 @@
+{
+    "_id": {
+        "$oid": "6682e9adc4e5dba5ffba2bd3"
+    },
+    "CID": {
+        "$numberInt": "3032581"
+    },
+    "Name": "Maneb",
+    "IUPACName": "manganese(2+);N-[2-(sulfidocarbothioylamino)ethyl]carbamodithioate",
+    "CanonicalSMILES": "C(CNC(=S)[S-])NC(=S)[S-].[Mn+2]",
+    "Synonyms": [
+        "MANEB",
+        "12427-38-2",
+        "Manebgan",
+        "Trimangol",
+        "Maneb 80",
+        "Manzate",
+        "Manganese ethylenebisthiocarbamate",
+        "1,2-Ethylenediylbis(carbamodithioato)manganese",
+        "Manganese",
+        "((1,2-ethanediylbis(carbamodithioato))(2-))-",
+        "Ethylenebis(dithiocarbamic acid) manganous salt",
+        "DTXCID70794",
+        "DTXSID9020794",
+        "K221E12G7T",
+        "Farmaneb",
+        "Manesan"
+    ],
+    "IsomericSMILES": "C(CNC(=S)[S-])NC(=S)[S-].[Mn+2]",
+    "INCHI": "InChI=1S/C4H8N2S4.Mn/c7-3(8)5-1-2-6-4(9)10;/h1-2H2,(H2,5,7,8)(H2,6,9,10);/q;+2/p-2",
+    "INCHIKEY": "YKSNLCVSTHTHJA-UHFFFAOYSA-L",
+    "Formula": "C4H6MnN2S4",
+    "MolecularWeight": {
+        "$numberDouble": "265.3"
+    },
+    "Description": "Maneb can cause cancer according to The Environmental Protection Agency (EPA).",
+    "XlogP": {
+        "$numberDouble": "NaN"
+    },
+    "Complexity": {
+        "$numberInt": "108"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "PMID:858851",
+            "Value": "Five field crops (tomatoes, potatoes, cucumbers, summer squash and cantaloupes) were collected from 17 different locations throughout the US where maneb fungicide had been applied from 1-14 days previously and analyzed for maneb and ethylenethiourea (ETU) residues(1); maneb residues ranged from <0.1 to 4.0 ppm while ETU residues were <0.05 ppm(1)."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "PMID:12685755",
+            "Value": "SEDIMENT: Maneb was detected at 3.26-49 mg/kg in 16.67% of 12 sediment samples taken from Taihu Lake, China in 2000(1)."
+        }
+    ],
+    "plant_translocation": [
+        {
+            "References": "Wilding, N., & Brobyn, P. J. (1980). Effects of fungicides on development of Entomophthora aphidis. Transactions of the British Mycological Society, 75(2), 297\u2013302. doi:10.1016/s0007-1536(80)80092-1",
+            "Value": "The study investigated the effects of different fungicides on the fungus Entomophthora aphidis, which is known to infect pea aphids. The researchers tested three systemic fungicides (benomyl, ethirimol, and tridemorph) and seven non-systemic fungicides (captafol, captan, fentin acetate with maneb, mancozeb, maneb, thiram, and zineb) at concentrations commonly used in field applications.The results showed that all the tested fungicides inhibited the germination of E. aphidis conidia (asexual spores) and also suppressed the mycelial growth of the fungus in vitro. Among them, benomyl, fentin acetate with maneb, maneb, and thiram were found to be particularly effective, as they killed the fungus outright. Additionally, the study examined the impact of these fungicides on the infectivity of E. aphidis for pea aphids. Aphicidal effects were observed with benomyl, tridemorph, and thiram. Several non-systemic fungicides, with the exception of captafol and zineb, reduced the fungus's infectivity when the aphids were topically treated with the fungicides 6 hours before being exposed to the fungus. The suppressive effects persisted even when the aphids were inoculated with the fungus 48 hours after fungicide treatment. Interestingly, when aphids were inoculated with the fungus before fungicide treatment, most of the non-systemic fungicides (except zineb) still decreased the fungus's infectivity, regardless of whether the fungicides were applied 22 or 70 hours after inoculation. However, fungicides like captafol, zineb, and maneb showed reduced effectiveness in reducing the fungus's infectivity. Lastly, the researchers noticed variations in the number of conidia released from infected aphids treated with the fungicides. Benomyl and tridemorph decreased conidia production, while captafol and captan increased it. In summary, the study demonstrated that certain systemic and non-systemic fungicides have varying effects on Entomophthora aphidis, with some showing aphicidal activity and others suppressing the fungus's infectivity. The timing of fungicide application in relation to aphid inoculation and the type of fungicide used played a crucial role in determining their effectiveness."
+        }
+    ]
+}

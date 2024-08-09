@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "66927120303528b49832d804"
+    },
+    "CID": {
+        "$numberInt": "10085783"
+    },
+    "Name": "Simeconazole",
+    "IUPACName": "2-(4-fluorophenyl)-1-(1,2,4-triazol-1-yl)-3-trimethylsilylpropan-2-ol",
+    "CanonicalSMILES": "C[Si](C)(C)CC(CN1C=NC=N1)(C2=CC=C(C=C2)F)O",
+    "Synonyms": [
+        "Simeconazole",
+        "149508-90-7",
+        "Simeconazole [ISO]",
+        "UNII-S74F9FQA9F",
+        "S74F9FQA9F",
+        "2-(4-fluorophenyl)-1-(1,2,4-triazol-1-yl)-3-trimethylsilylpropan-2-ol",
+        "CHEBI:83996",
+        "2-(4-fluorophenyl)-1-(1H-1,2,4-triazol-1-yl)-3-(trimethylsilyl)propan-2-ol",
+        "Simeconazole 100 microg/mL in Acetonitrile",
+        "MOGARIT",
+        "SANLIT",
+        "SIPCONAZOLE",
+        "SIMECONAZOLE [MI]",
+        "SCHEMBL21670",
+        "CHEMBL2252186"
+    ],
+    "IsomericSMILES": "C[Si](C)(C)CC(CN1C=NC=N1)(C2=CC=C(C=C2)F)O",
+    "INCHI": "InChI=1S/C14H20FN3OSi/c1-20(2,3)9-14(19,8-18-11-16-10-17-18)12-4-6-13(15)7-5-12/h4-7,10-11,19H,8-9H2,1-3H3",
+    "INCHIKEY": "YABFPHSQTSFWQB-UHFFFAOYSA-N",
+    "Formula": "C14H20FN3OSi",
+    "MolecularWeight": {
+        "$numberDouble": "293.41"
+    },
+    "Description": "2-(4-fluorophenyl)-1-(1,2,4-triazol-1-yl)-3-(trimethylsilyl)propan-2-ol is a member of the class of triazoles that is 2-(4-fluorophenyl)-1-(1,2,4-triazol-1-yl)-3-(trimethylsilyl)propane carrying an additional hydroxy substituent at position 2. It is a member of triazoles, a member of monofluorobenzenes, an organosilicon compound and a tertiary alcohol.",
+    "XlogP": {
+        "$numberDouble": "NaN"
+    },
+    "Complexity": {
+        "$numberInt": "318"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The systemic activity of simeconazole (RS-2-(4-fluorophenyl)-1-(1H-1,2,4-triazol-1-yl)-3-trimethylsilylpropan-2-ol) in plants was compared with that of eight other sterol demethylation inhibitor (DMI) fungicides. Simeconazole prevented the infection of Blumeria graminis (DC) Speer f. sp. hordei Marchal on barley leaves within a radius of several centimeters from the edge of local treatment on the leaves when the compound was separated from the leaves by glass coverslips. This reveals that simeconazole has prominent vapor-phase activity. Simeconazole showed excellent curative activity against barley powdery mildew when treated 1\u20133 days after inoculation. Furthermore, this indicates that simeconazole has notable translaminar activity because, when the compound was applied onto either the adaxial or abaxial leaf surface, it showed excellent efficacy against powdery mildew on the opposite side of the leaf surface of barley and cucumber. Simeconazole also showed excellent efficacy against barley powdery mildew by soil drench 24 h after inoculation. This suggests that simeconazole was absorbed very quickly into the barley plant after treatment. The permeability of the compound through cuticular membranes prepared from tomato fruits was about 20% at 22 h after treatment and was much superior to that of the other DMI fungicides tested.",
+            "reference": "Tsuda, M., Itoh, H., & Kato, S. (2004). Evaluation of the systemic activity of simeconazole in comparison with that of other DMI fungicides. Pest management science, 60(9), 875-880.",
+            "method": {
+                "Test Plant": "Barley (Hordeum vulgare cv. Akashinriki) and cucumber (Cucumis sativus cv. Sagamihanpaku) seedlings",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Barley and cucumber seedlings were grown in 4-cm and 5-cm square pots respectively until the one-true-leaf stage.",
+                "Chemical Preparation": "The DMI fungicides tested were simeconazole (200 g/kg wettable powder), difenoconazole (100 g/kg WP), fenbuconazole (220 g/L SC), hexaconazole (20 g/L SC), imibenconazole (150 g/kg WP), oxpoconazole fumarate (200 g/kg WP), tebuconazole (100 g/L SC), tetraconazole (116 g/L ME) and triflumizole (300 g/kg WP).",
+                "Pesticide Application Details for the Plant": "For fungicidal activity, the compounds were sprayed uniformly on barley and cucumber leaves at 0.2-40 mg AI/L. 3 hours after treatment, plants were inoculated by dusting spores of Blumeria graminis (barley) or Sphaerotheca cucurbitae (cucumber).",
+                "Other Information": "Fungicidal activity tests had 3 replicates. Non-treated leaf area tests had 6 replicates."
+            },
+            "result": "[{\"Abaxial of translaminar activity (mm) Adaxial of translaminar activity (mm)\": 22.0, \"Proximal of vapour-phase activity (mm)\": 15.6, \"Distal of vapour phase activity (mm)\": 13.8}]"
+        }
+    ]
+}

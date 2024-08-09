@@ -1,0 +1,63 @@
+{
+    "_id": {
+        "$oid": "66927127303528b49832d821"
+    },
+    "CID": {
+        "$numberInt": "107720"
+    },
+    "Name": "Indoxacarb",
+    "IUPACName": "methyl (4aS)-7-chloro-2-[methoxycarbonyl-[4-(trifluoromethoxy)phenyl]carbamoyl]-3,5-dihydroindeno[1,2-e][1,3,4]oxadiazine-4a-carboxylate",
+    "CanonicalSMILES": "COC(=O)C12CC3=C(C1=NN(CO2)C(=O)N(C4=CC=C(C=C4)OC(F)(F)F)C(=O)OC)C=CC(=C3)Cl",
+    "Synonyms": [
+        "Indoxacarb",
+        "173584-44-6",
+        "Steward",
+        "(S)-Indoxacarb",
+        "Insecticide",
+        "Provaunt",
+        "Advion",
+        "Avaunt",
+        "Indoxacarb [ISO]",
+        "Avent",
+        "174060-41-4",
+        "DPX-KN128",
+        "52H0D26MWR",
+        "Indeno(1,2-e)(1,3,4)oxadiazine-4a(3H)-carboxylic acid",
+        "7-chloro-2,5-dihydro-2-(((methoxycarbonyl)(4-(trifluoromethoxy)phenyl)amino)carbonyl)-",
+        "methyl ester",
+        "(4aS)-",
+        "DTXSID1032690"
+    ],
+    "IsomericSMILES": "COC(=O)[C@]12CC3=C(C1=NN(CO2)C(=O)N(C4=CC=C(C=C4)OC(F)(F)F)C(=O)OC)C=CC(=C3)Cl",
+    "INCHI": "InChI=1S/C22H17ClF3N3O7/c1-33-18(30)21-10-12-9-13(23)3-8-16(12)17(21)27-28(11-35-21)19(31)29(20(32)34-2)14-4-6-15(7-5-14)36-22(24,25)26/h3-9H,10-11H2,1-2H3/t21-/m0/s1",
+    "INCHIKEY": "VBCVPMMZEGZULK-NRFANRHFSA-N",
+    "Formula": "C22H17ClF3N3O7",
+    "MolecularWeight": {
+        "$numberDouble": "527.8"
+    },
+    "Description": "Indoxacarb is an organochlorine insecticide and a methyl ester. It has a role as a voltage-gated sodium channel blocker.",
+    "XlogP": {
+        "$numberDouble": "4.8"
+    },
+    "Complexity": {
+        "$numberInt": "912"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Indoxacarb is a novel, non-systemic insecticide belonging to the oxadiazine group, characterized by its chemical formula C22H17CIF3N3O7 and chemical name (S)-methyl 7-chloro-2,5-dihydro-2-[[methoxycarbonyl)[4-(trifluoromethoxy)phenyl]amino]carbonyl]indeno[1,2-e][1,3,4]oxadiazine-4a(3H)-carboxylate. It's the first commercialized insecticide of its kind (Dupont) and exhibits low vapor pressure, making it relatively non-volatile (<1.0 x 10-7 mmHg at 25 \u00baC), and possesses low water solubility (0.2 mg/L at 25 \u00baC and pH 7.0). With a Henry's law constant of <6 x 10-10 atm-m3/mol at 25 \u00baC, and an octanol-water coefficient (log Kow) of 4.65 (Kow= 4.50 x 104), volatilization isn't a significant contributor to its disappearance. Indoxacarb effectively targets lepidopteran larvae by disrupting sodium ion entry into their nerve cells, leading to paralysis and death within a short period, typically less than 5 days. Notably, it demonstrates limited impact on non-target insects and has been found to spare many immature wasp parasites and predators.",
+            "reference": "In this study, indoxacarb-fatty acid starch ester nano-formulations (IN-SE) were prepared using high-speed emulsification and ultrasonic dispersion technology. Fatty acid corn starch esters were used as a matrix to encapsulate the nonsystemic pesticide indoxacarb (IN). The structure and morphology of the nano-formulations were characterized using IR, UV, particle size analysis, transmission electron microscopy, and leaf contact angle measurements. The study also investigated the sustained release, antiphotolysis capabilities, and systemic translocation of the nano-formulations. Results showed that the IN-SE formulations had better release-controlled and UV-shielding capabilities compared to conventional formulations. The IN-SE nano-formulation also demonstrated systemic translocation in plants, facilitated by the starch ester matrix. Furthermore, the toxicity and insecticidal duration of the IN-SE nano-formulation were evaluated in greenhouse conditions usingSpodoptera lituraas the test target. Results showed that after 7 days of application, the lethality rate of the IN-SE formulation toS. liturawas 9.2% higher than that of the ordinary suspension concentrate (IN-SC) formulation.",
+            "method": {
+                "Test Plant": "Corn plants",
+                "Apply Location": "Root and stem application (brushing below leaves)",
+                "Plant Grown Condition": "Planted in \u03d528 x 20 cm plastic pots\u3002Grown in greenhouse for 25 days before experiment",
+                "Chemical Preparation": "Indoxacarb (97% purity)",
+                "Pesticide Application Details for the Plant": "100 ppm of indoxacarb-carboxylic acid starch ester nanoformulation (IN-SE) appliedApplied by evenly brushing onto roots and stems below leaves, avoiding leaves.  Applied at 3 different time intervals - 3, 7, 15 days",
+                "Other Information": "Leaves collected from treated plants"
+            },
+            "result": "[{\"Treatment\": \"Nano-formulations\", \"Days after application\": 3, \"Leaves (mg/kg)\": 0.22}, {\"Treatment\": \"Nano-formulations\", \"Days after application\": 7, \"Leaves (mg/kg)\": 0.11}, {\"Treatment\": \"Nano-formulations\", \"Days after application\": 15, \"Leaves (mg/kg)\": 0.043}, {\"Treatment\": \"Ordinary suspension\", \"Days after application\": 3, \"Leaves (mg/kg)\": 0.048}, {\"Treatment\": \"Ordinary suspension\", \"Days after application\": 7, \"Leaves (mg/kg)\": 0.06}, {\"Treatment\": \"Ordinary suspension\", \"Days after application\": 15, \"Leaves (mg/kg)\": 0.038}]"
+        }
+    ]
+}

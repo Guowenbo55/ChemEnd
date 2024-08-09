@@ -1,0 +1,63 @@
+{
+    "_id": {
+        "$oid": "669270ff303528b49832d784"
+    },
+    "CID": {
+        "$numberInt": "38884"
+    },
+    "Name": "Bupirimate",
+    "IUPACName": "[5-butyl-2-(ethylamino)-6-methylpyrimidin-4-yl] N,N-dimethylsulfamate",
+    "CanonicalSMILES": "CCCCC1=C(N=C(N=C1OS(=O)(=O)N(C)C)NCC)C",
+    "Synonyms": [
+        "Bupirimate",
+        "41483-43-6",
+        "Nimrod",
+        "5-Butyl-2-ethylamino-6-methylpyrimidin-4-yl dimethylsulfamate",
+        "5-Butyl-2-ethylamino-6-methylpyrimidin-4-yldimethylsulphamate",
+        "MCJ121RIOI",
+        "5-Butyl-2-(ethylamino)-6-methyl-4-pyrimidinyl dimethylsulfamate",
+        "Sulfamic acid",
+        "dimethyl-",
+        "5-butyl-2-(ethylamino)-6-methyl-4-pyrimidinyl ester",
+        "2-Aethylamino-5-butyl-4-yl-dimethylsulfamat",
+        "DTXSID6041688",
+        "5-Butyl-2-ethylamino-6-methylpyrimidin-4-yl dimethylsulphamate",
+        "CHEBI:81952",
+        "Dimethylsulfamic acid 5-butyl-2-(ethylamino)-6-methyl-4-pyrimidinyl ester",
+        "Bupirimate",
+        "90%",
+        "Bupirimate 100 microg/mL in Acetonitrile"
+    ],
+    "IsomericSMILES": "CCCCC1=C(N=C(N=C1OS(=O)(=O)N(C)C)NCC)C",
+    "INCHI": "InChI=1S/C13H24N4O3S/c1-6-8-9-11-10(3)15-13(14-7-2)16-12(11)20-21(18,19)17(4)5/h6-9H2,1-5H3,(H,14,15,16)",
+    "INCHIKEY": "DSKJPMWIHSOYEA-UHFFFAOYSA-N",
+    "Formula": "C13H24N4O3S",
+    "MolecularWeight": {
+        "$numberDouble": "316.42"
+    },
+    "Description": "Bupirimate is a member of the class of aminopyrimidines that is 2-ethylaminopyrimidine carrying methyl, butyl and dimethylaminosulfooxy substituents at posiitons 4, 5 and 6 respectively. It has a role as an androgen antagonist and an antifungal agrochemical. It is a secondary amino compound, a sulfamate ester, an aminopyrimidine and a pyrimidine fungicide.",
+    "XlogP": {
+        "$numberDouble": "2.7"
+    },
+    "Complexity": {
+        "$numberInt": "397"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The present study aimed to investigate the distribution and migration of eleven systemic and non-systemic pesticides between the skin and pulp of apples. It also examined the behavior of these pesticides during thermal processes ranging from 40\u00b0C to 150\u00b0C in two apple varieties. Gas and liquid chromatography-tandem mass spectrometry were employed for analytical investigations. Variations in pesticide concentrations between the pulp and skin were observed depending on the apple variety. Pirimicarb showed the highest transfer to the pulp, while boscalid and deltamethrin remained predominantly on the skin. Surprisingly, boscalid was found to be more present in the apple skin than in the pulp. Drying and dry pasteurization processes were the most effective in reducing pesticide levels in apples with and without skin, respectively. Thermal processes resulted in processing factors ranging from 0.06 to 0.98 for ten pesticides, with acetamiprid being the only pesticide whose levels were not decreased. The study discussed the relationship between pesticide distribution, behavior, and physico-chemical properties, particularly water solubility. The findings contribute to a better understanding of pesticide efficacy and removal in apples.",
+            "reference": "Hrynko, I., Kaczy\u0144ski, P., Pietruszy\u0144ska, M., & \u0141ozowicka, B. (2023). The effect of food thermal processes on the residue concentration of systemic and non-systemic pesticides in apples. Food Control, 143, 109267.",
+            "method": {
+                "Test Plant": "Two apple varieties (not specified)",
+                "Apply Location": "Surface application (skin)",
+                "Plant Grown Condition": "-",
+                "Chemical Preparation": "Eleven systemic and non-systemic pesticides - pirimicarb, boscalid, deltamethrin, and 8 others (not specified)",
+                "Pesticide Application Details for the Plant": "Pesticides applied to apple skin surface.  Fruit prepared in such a manner was subjected to artificial inoculation through submersion for 8 h in a solution containing selected plant protection products.",
+                "Other information and Other Information": "Study investigated distribution of pesticides between skin and pulp using GC/LC-MS/MS analysis. Relates pesticide behavior to physico-chemical properties like water solubility"
+            },
+            "result": "[{\"Size\": \"Medium-size apple\", \"% in apple pulp\": 5.2, \"% in apple skin\": 94.8}, {\"Size\": \"Large-size apple\", \"% in apple pulp\": 9.3, \"% in apple skin\": 90.7}]"
+        }
+    ]
+}

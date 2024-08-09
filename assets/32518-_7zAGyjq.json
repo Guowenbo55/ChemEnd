@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "66927125303528b49832d816"
+    },
+    "CID": {
+        "$numberInt": "32518"
+    },
+    "Name": "Tridemorph",
+    "IUPACName": "2,6-dimethyl-4-tridecylmorpholine",
+    "CanonicalSMILES": "CCCCCCCCCCCCCN1CC(OC(C1)C)C",
+    "Synonyms": [
+        "Tridemorph",
+        "24602-86-6",
+        "2,6-DIMETHYL-4-TRIDECYLMORPHOLINE",
+        "Calixin",
+        "81412-43-3",
+        "Calixine",
+        "Kalinin",
+        "Morpholine",
+        "2,6-dimethyl-4-tridecyl-",
+        "F 220 (fungicide)",
+        "Tridemorphe",
+        "Kalixin",
+        "N-Tridecyl-2,6-dimethylmorpholine",
+        "BASF 220F",
+        "Tridemorph [ISO]",
+        "Tridemorf"
+    ],
+    "IsomericSMILES": "CCCCCCCCCCCCCN1CC(OC(C1)C)C",
+    "INCHI": "InChI=1S/C19H39NO/c1-4-5-6-7-8-9-10-11-12-13-14-15-20-16-18(2)21-19(3)17-20/h18-19H,4-17H2,1-3H3",
+    "INCHIKEY": "YTOPFCCWCSOHFV-UHFFFAOYSA-N",
+    "Formula": "C19H39NO",
+    "MolecularWeight": {
+        "$numberDouble": "297.5"
+    },
+    "Description": "2,6-dimethyl-4-tridecylmorpholine is a member of the class of morpholines that is 2,6-dimethylmorpholine in which the hydrogen attached to the nitrogen is replaced by a tridecyl group. The configuration at positions 2 and 6 is unknown or unspecified. It has a role as an antifungal agrochemical. It is a member of morpholines and a tertiary amino compound.",
+    "XlogP": {
+        "$numberDouble": "6.9"
+    },
+    "Complexity": {
+        "$numberInt": "222"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Morpholine fungicides, despite being lipophilic, exhibit systemic properties in plants, likely due to their protonation at the pH of plant compartments, which yields a more polar cation form. This characteristic could be advantageous and may be applicable to other lipophilic pesticides. In a study with barley, uptake and transport of 14C-labelled dodemorph and tridemorph, two morpholine fungicides, were investigated using bathing solutions of varying pH. Uptake and transport were minimal at pH 5 but increased significantly at pH 8. Tridemorph, being more lipophilic, accumulated more in roots at pH 8 and was moderately translocated to shoots. Dodemorph, on the other hand, was highly efficient in translocating to shoots at pH 8, moving into the xylem across the endodermis at 23 times the efficiency of water, despite lower accumulation in roots compared to tridemorph. The study suggests that uptake and translocation of these fungicides are equilibrium processes maintained over time and can be explained by their partitioning and accumulation in acidic plant compartments through ion trapping as the protonated form, highlighting the importance of pKa and lipophilicity in their behavior.",
+            "reference": "Chamberlain, K., Patel, S., & Bromilow, R. H. (1998). Uptake by roots and translocation to shoots of two morpholine fungicides in barley. Pesticide science, 54(1), 1-7.",
+            "method": {
+                "Test Plant": "Barley (Hordeum vulgare L. cv. Alexis)",
+                "Apply Location": "Uptake studies were done by transferring 10-day-old barley plants to buffer solutions containing the fungicides.",
+                "Plant Grown Condition": "Seeds germinated on moist tissue paper, then transferred to aerated half-strength Hoagland's nutrient solution and grown in controlled environment (16 hour day at 20\u00b0C, 10 klux; 8 hour night at 16\u00b0C).",
+                "Chemical Preparation": "Dodemorph and [morpholin-2,6-14C]dodemorph (radiochemical purity 98.0%) used at ~34 MBq/mmol specific activity. Tridemorph and [morpholin-2,6-14C]tridemorph (radiochemical purity 99.7%) used at ~34 MBq/mmol. Initial fungicide concentrations of 5 \u03bcM in buffer solutions at pH 5.0 to 8.0.",
+                "Pesticide Application Details for the Plant": "10-day-old barley plants (groups of 6) transferred to 100 mL buffer solutions with 5 \u03bcM fungicide for 24 and 48 hour uptake periods.",
+                "Other Information": "2 replicates of 6 plants each at each pH level (5.0, 6.0, 7.0, 8.0)."
+            },
+            "result": "[{\"Hours after application\": 24, \"PH\": 5, \"Root concentration factor\": 71.97, \"Transpiration stream concentration factor\": 3.37}, {\"Hours after application\": 24, \"PH\": 6, \"Root concentration factor\": 86.32, \"Transpiration stream concentration factor\": 7.12}, {\"Hours after application\": 24, \"PH\": 7, \"Root concentration factor\": 101.56, \"Transpiration stream concentration factor\": 8.73}, {\"Hours after application\": 24, \"PH\": 8, \"Root concentration factor\": 112.55, \"Transpiration stream concentration factor\": 8.6}, {\"Hours after application\": 48, \"PH\": 5, \"Root concentration factor\": 92.15, \"Transpiration stream concentration factor\": 4.61}, {\"Hours after application\": 48, \"PH\": 6, \"Root concentration factor\": 84.52, \"Transpiration stream concentration factor\": 6.06}, {\"Hours after application\": 48, \"PH\": 7, \"Root concentration factor\": 96.18, \"Transpiration stream concentration factor\": 7.86}, {\"Hours after application\": 48, \"PH\": 8, \"Root concentration factor\": 108.74, \"Transpiration stream concentration factor\": 8.54}]"
+        }
+    ]
+}

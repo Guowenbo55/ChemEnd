@@ -1,0 +1,85 @@
+{
+    "_id": {
+        "$oid": "6682e7efc4e5dba5ffba2312"
+    },
+    "CID": {
+        "$numberInt": "2554"
+    },
+    "Name": "CARBAMAZEPINE",
+    "IUPACName": "benzo[b][1]benzazepine-11-carboxamide",
+    "CanonicalSMILES": "C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N",
+    "Synonyms": [
+        "carbamazepine",
+        "298-46-4",
+        "Tegretol",
+        "Carbamazepen",
+        "Biston",
+        "Finlepsin",
+        "Equetro",
+        "Tegretal",
+        "5H-Dibenzo[b,f]azepine-5-carboxamide",
+        "Carbazepine",
+        "Timonil",
+        "5H-Dibenz[b,f]azepine-5-carboxamide",
+        "Carbamezepine",
+        "Karbamazepin",
+        "Carbatrol"
+    ],
+    "IsomericSMILES": "C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N",
+    "INCHI": "InChI=1S/C15H12N2O/c16-15(18)17-13-7-3-1-5-11(13)9-10-12-6-2-4-8-14(12)17/h1-10H,(H2,16,18)",
+    "INCHIKEY": "FFGPTBGBLSHEPO-UHFFFAOYSA-N",
+    "Formula": "C15H12N2O",
+    "MolecularWeight": {
+        "$numberDouble": "236.27"
+    },
+    "Description": "Carbamazepine is a dibenzoazepine that is 5H-dibenzo[b,f]azepine carrying a carbamoyl substituent at the azepine nitrogen, used as an anticonvulsant. It has a role as an anticonvulsant, an EC 3.5.1.98 (histone deacetylase) inhibitor, a mitogen, a glutamate transporter activator, an antimanic drug, an analgesic, a non-narcotic analgesic, an environmental contaminant, a xenobiotic, a drug allergen and a sodium channel blocker. It is a dibenzoazepine and a member of ureas.",
+    "XlogP": {
+        "$numberDouble": "2.5"
+    },
+    "Complexity": {
+        "$numberInt": "326"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Dal Pozzo A et al; Int J Pharm 50: 97-101 (1989)",
+            "Value": "log Kow = 2.45"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Thomson/Micromedex. Drug Information for the Health Care  Professional. Volume 1,  Greenwood Village, CO. 2007., p. 703",
+            "Value": "Anticonvulsant: Exact mechanism unknown; may act postsynaptically by limiting the ability of neurons to sustain high frequency repetitive firing of action potentials through enhancement of sodium channel inactivation; in addition to altering neuronal excitability, may act presynaptically to block the release of neurotransmitter by blocking presynaptic sodium channels and the firing of action potentials, which in turn decreases synaptic transmission."
+        },
+        {
+            "References": "Thomson/Micromedex. Drug Information for the Health Care  Professional. Volume 1,  Greenwood Village, CO. 2007., p. 703",
+            "Value": "Antineuralgic: Exact mechanism unknown; may involve gamma-aminobutyric acid (GABAB) receptors, which may be linked to calcium channels."
+        },
+        {
+            "References": "Thomson/Micromedex. Drug Information for the Health Care  Professional. Volume 1,  Greenwood Village, CO. 2007., p. 703",
+            "Value": "Antimanic; antipsychotic: Exact mechanism is unknown; may be related to either the anticonvulsant or the antineuralgic effects of carbamazepine, or to tis effects on neurotransmitter modulator systems."
+        },
+        {
+            "References": "Thomson/Micromedex. Drug Information for the Health Care  Professional. Volume 1,  Greenwood Village, CO. 2007., p. 703",
+            "Value": "Antidiuretic: Exact mechanism unknown; may exert a hypothalamic effect on the osmoreceptors mediated via secretion of antidiuretic hormone (ADH), or may have a direct effect on the renal tubule."
+        },
+        {
+            "References": "PMID:16806101",
+            "Value": "Despite being approved for treating bipolar disorder, carbamazepine's mechanism of action is not fully understood. Carbamazepine and lithium, when administered chronically to rats, decrease brain messenger ribonucleic acid (mRNA), protein, and activity levels of the arachidonic acid-selective cytosolic phospholipase A2 (cPLA2). The ability of lithium to decrease cPLA2 mRNA was ascribed to its ability to down-regulate the cPLA2 transcription factor, AP-2. The present study was undertaken to see whether chronic carbamazepine treatment also would down-regulate the AP-2 transcription factor. Male CDF-344 rats received (intraperitoneally for 30 days) 25 mg/kg per day or vehicle. Transcription factors regulating cPLA2 were measured by gelshift assay in the frontal cortex. Chronic carbamazepine decreased AP-2 transcription factor-binding activity, cyclic adenosine monophosphate (cAMP)--dependent protein kinase A (PKA) activity, nuclear phospho AP-2, and the protein but not mRNA level of AP-2alpha in rat frontal cortex. There was no significant change in activator protein (AP) 1, nuclear factor kappa B (NF-kappaB), glucocorticoid response element, or polyoma enhancer activator 3 (PEA3). These results support the hypothesis that, like lithium, carbamazepine's down-regulation of AP-2 transcription factor activity may be responsible for down-regulating cPLA2 gene transcription. Chronically administered carbamazepine appears to decrease AP-2 DNA-binding activity by decreasing cAMP-dependent PKA activity, phosphorylation of AP-2 protein, and the protein level of its AP-2alpha subunit in rat frontal cortex."
+        },
+        {
+            "References": "PMID:16150575",
+            "Value": "Glutamate transporters (also called excitatory amino acid transporters, EAAT) participate in maintaining extracellular homeostasis of glutamate, a major excitatory neurotransmitter, and regulating glutamate neurotransmission. EAAT3, the major neuronal EAAT, may also regulate gamma-aminobutyric acid-mediated inhibitory neurotransmission. Dysfunction of EAAT3 has been shown to induce seizure in rats. We hypothesize that carbamazepine, a commonly used antiepileptic agent, enhances EAAT3 activity. We tested this hypothesis using oocytes artificially expressing EAAT3 and C6 rat glioma cells expressing endogenous EAAT3. In oocytes, carbamazepine dose-dependently enhanced EAAT3 activity. The EC50 of this carbamazepine effect was 12.2uM. The concentrations of carbamazepine to significantly enhance EAAT3 activity were within the therapeutic serum levels (17-51uM) of carbamazepine for the antiepileptic effect. Carbamazepine decreased the Km but did not change the maximal response of EAAT3 to glutamate. Carbamazepine-increased EAAT3 activity was inhibited by wortmannin or LY-294002, phosphatidylinositol 3-kinase (PI3K) inhibitors, but was not affected by staurosporine, chelerythrine or calphostin C, protein kinase C inhibitors. In C6 cells, carbamazepine also enhanced the endogenous EAAT3 activity. However, carbamazepine did not affect the activity of EAAT4 expressed in Cos7 cells. These results suggest that carbamazepine at clinically relevant concentrations specifically enhances the affinity of EAAT3 for glutamate to increase EAAT3 activity via a PI3K-dependent pathway. EAAT3 may be a therapeutic target for carbamazepine in the central nervous system."
+        },
+        {
+            "References": "PMID:15850602",
+            "Value": "Carbamazepine is a common antiepileptic drug that acts through multiple mechanisms including blockade and potentiation of cation channels and modulation of neurotransmitter levels. Whether it affects any component of the gene transcription machinery is unknown. Histone deacetylases (HDAC) are important in the regulation of gene expression and are currently considered a potential target for drug development. Using a high-throughput screening assay based on acetylation-dependent gene expression, we identified carbamazepine as a candidate and proceeded to characterize its effects on HDAC. Carbamazepine induced acetylation of histone H4 in the HepG2 liver carcinoma cell line. Carbamazepine inhibited HDAC 3 and HDAC 7, which are representatives of HDAC class I and II respectively. Quantitative testing in an in vitro assay demonstrated HDAC inhibition with an IC50 of 2 uM. The major active metabolite of carbamazepine, carbamazepine-10,11-epoxide, was found to have the same HDAC inhibitory activity. The IC50 is considerably lower than therapeutic plasma levels that are typically achieved in patients (25-51 uM). ..."
+        },
+        {
+            "References": "PMID:16895979",
+            "Value": "Carbamazepine (CBZ) aggravates many generalized seizures types, particularly absence seizures, but the mechanisms underlying this are poorly understood. GABA signaling within the reticular nucleus (Rt) and the ventrobasal complex (VB) of the thalamus is critical to the neurophysiology of absence seizures. The hypothesis that carbamazepine aggravates absence seizures by acting at the VB thalamus via a GABA(A) receptor-mediated mechanism was investigated in a genetic rat model, generalized absence epilepsy rats from Strasbourg (GAERS). Seizure activity was quantified by a 90-min electroencephalogram recording postdrug injection. Intracerebroventricular injections of carbamazepine (15 ug in 4 uL) resulted in seizure aggravation versus vehicle treatment, with a mean increase in seizure time of 40%. This indicates that carbamazepine acts directly, rather than via a metabolite, on the brain to aggravate seizures. Seizure aggravation also occurred following bilateral microinjection of carbamazepine (0.75 ug in 0.2 uL) into the VB (53%) but not following injection into the Rt (-9%). However, seizure aggravation was blocked when the GABA(A) receptor antagonist, bicuculline (BIC, 0.04 ug in 0.2 uL), was coinjected with carbamazepine into the VB. Injection of BIC alone (versus vehicle) into the VB also blocked seizure aggravation following systemic administration of carbamazepine (15 mg/kg i.p.). In vitro studies in Xenopus oocytes expressing recombinant GABA(A) receptors demonstrated that carbamazepine produced a dose-dependent potentiation of the GABA current at a physiological relevant concentration range (1-100 uM). These data demonstrate that carbamazepine acts at the VB thalamus to aggravate absence seizures in GAERS and that activation of GABA(A) receptors is critical to this effect."
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "66927106303528b49832d79e"
+    },
+    "CID": {
+        "$numberInt": "53309"
+    },
+    "Name": "Diclobutrazol",
+    "IUPACName": "1-(2,4-dichlorophenyl)-4,4-dimethyl-2-(1,2,4-triazol-1-yl)pentan-3-ol",
+    "CanonicalSMILES": "CC(C)(C)C(C(CC1=C(C=C(C=C1)Cl)Cl)N2C=NC=N2)O",
+    "Synonyms": [
+        "DICLOBUTRAZOL",
+        "Vigil",
+        "75736-33-3",
+        "Dichlobutrazol",
+        "66345-62-8",
+        "1-(2,4-Dichlorophenyl)-4,4-dimethyl-2-(1,2,4-triazol-1-yl)pentan-3-ol",
+        "CHEBI:4506",
+        "Diclobutrazol [BSI:ISO]",
+        "ALPHA-TERT-BUTYL-BETA-[(2,4-DICHLOROPHENYL)METHYL]-1H-1,2,4-TRIAZOL-1-ETHANOL",
+        "PP296",
+        "alpha-tert-Butyl-beta-((2,4-dichlorophenyl)methyl)-1H-1,2,4-triazol-1-ethanol",
+        "Diclobutrazole",
+        "EINECS 266-324-1",
+        "SCHEMBL21654",
+        "CHEMBL1553129"
+    ],
+    "IsomericSMILES": "CC(C)(C)C(C(CC1=C(C=C(C=C1)Cl)Cl)N2C=NC=N2)O",
+    "INCHI": "InChI=1S/C15H19Cl2N3O/c1-15(2,3)14(21)13(20-9-18-8-19-20)6-10-4-5-11(16)7-12(10)17/h4-5,7-9,13-14,21H,6H2,1-3H3",
+    "INCHIKEY": "URDNHJIVMYZFRT-UHFFFAOYSA-N",
+    "Formula": "C15H19Cl2N3O",
+    "MolecularWeight": {
+        "$numberDouble": "328.2"
+    },
+    "Description": "Diclobutrazol is a conazole fungicide and a triazole fungicide.",
+    "XlogP": {
+        "$numberDouble": "3.8"
+    },
+    "Complexity": {
+        "$numberInt": "337"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The study investigated the impact of various commercial nonionic polyoxyethylene surfactants on the foliar penetration and movement of ethirimol and diclobutrazol, systemic fungicides, in wheat plants. Application of both fungicides was in 0.2 PI droplets of aqueous suspension formulations containing 0.5 g litre-1 of C-labelled active ingredient, with surfactants at concentrations of 0.2-10 g litre-1. Optimal uptake required surfactants with specific properties; for diclobutrazol, low E content (5-6) surfactants at 5 g litre-1 were best, while ethirimol uptake was enhanced by surfactants with E content >10 at lower concentrations (<1 g litre-1). Aliphatic alcohol hydrophobe surfactants were more effective in uptake than nonylphenol-based ones. 'Tween 20' was effective only for ethirimol, while 'Synperonic PE",
+            "reference": "Holloway, P. J., Wong, W. W. C., Partridge, H. J., Seaman, D., & Perry, R. B. (1992). Effects of some nonionic polyoxyethylene surfactants on uptake of ethirimol and diclobutrazol from suspension formulations applied to wheat leaves. Pesticide science, 34(2), 109-118.",
+            "method": {
+                "Test Plant": "Wheat (Triticum aestivum L.) plants, two varieties - cv. Avalon (winter sown) and cv. Minarette (spring sown)",
+                "Apply Location": "Foliar application to adaxial surface of youngest fully expanded leaf on main stem, and to flag leaf",
+                "Plant Grown Condition": "Plants were raised from seeds in 1987 and 1988 in 10-cm square pots with John Innes compost containing slow-release fertilizer. Seeds were arranged in rows of 5 per pot. After germination in a gauze-sided glasshouse, pots were transferred outside onto gravel base. Overhead watering was done and soluble fertilizer was applied weekly once established.",
+                "Chemical Preparation": "14C-labeled suspensionconcentrates (SC) of diclobutrazol (specific activity 2.22 GBq/mmol) and ethirimol (specific activity 0.93 GBq/mmol) containing ~4 MBq in 20 g ai/liter were prepared by milling with glass beads and suspending agent. Particle size was 1-5 \u03bcm.",
+                "Pesticide Application Details for the Plant": "Fungicide formulations were applied as 10 x 0.2 \u03bcl droplets (~700 \u03bcm diameter) to leaves, with 1 \u03bcg ai per leaf containing ~0.6 MBq radioactivity. 5 replicates were used.",
+                "Other Information": "Plants were acclimatized in a controlled environment room 2-3 days before experiments at seasonal temperatures with 16-hr photoperiod and ~300 \u03bcmol/m2/s light intensity. Relative humidity was 74-93%."
+            },
+            "result": "[{\"Surfactant\": \"7 molar E content of 1-Alkanols\", \"Days after application\": 1, \"Acropetal movement (% of applied)\": 3.3, \"Acropetal (% of absorbed)\": 22.4}, {\"Surfactant\": \"7 molar E content of 1-Alkanols\", \"Days after application\": 2, \"Acropetal movement (% of applied)\": 6.6, \"Acropetal (% of absorbed)\": 29.5}, {\"Surfactant\": \"7 molar E content of 1-Alkanols\", \"Days after application\": 5, \"Acropetal movement (% of applied)\": 14.3, \"Acropetal (% of absorbed)\": 36.5}, {\"Surfactant\": \"7 molar E content of 1-Alkanols\", \"Days after application\": 10, \"Acropetal movement (% of applied)\": 17.7, \"Acropetal (% of absorbed)\": 37.7}, {\"Surfactant\": \"11 molar E content of 1-Alkanols\", \"Days after application\": 1, \"Acropetal movement (% of applied)\": 6.0, \"Acropetal (% of absorbed)\": 22.7}, {\"Surfactant\": \"11 molar E content of 1-Alkanols\", \"Days after application\": 2, \"Acropetal movement (% of applied)\": 10.1, \"Acropetal (% of absorbed)\": 27.7}, {\"Surfactant\": \"11 molar E content of 1-Alkanols\", \"Days after application\": 5, \"Acropetal movement (% of applied)\": 24.1, \"Acropetal (% of absorbed)\": 36.9}, {\"Surfactant\": \"11 molar E content of 1-Alkanols\", \"Days after application\": 10, \"Acropetal movement (% of applied)\": 31.8, \"Acropetal (% of absorbed)\": 42.1}, {\"Surfactant\": \"20 molar E content of 1-Alkanols\", \"Days after application\": 1, \"Acropetal movement (% of applied)\": 3.5, \"Acropetal (% of absorbed)\": 17.7}, {\"Surfactant\": \"20 molar E content of 1-Alkanols\", \"Days after application\": 2, \"Acropetal movement (% of applied)\": 5.8, \"Acropetal (% of absorbed)\": 23.2}, {\"Surfactant\": \"20 molar E content of 1-Alkanols\", \"Days after application\": 5, \"Acropetal movement (% of applied)\": 19.1, \"Acropetal (% of absorbed)\": 31.7}, {\"Surfactant\": \"20 molar E content of 1-Alkanols\", \"Days after application\": 10, \"Acropetal movement (% of applied)\": 28.2, \"Acropetal (% of absorbed)\": 39.5}, {\"Surfactant\": \"5 molar E content of 4-Nonylphenol\", \"Days after application\": 1, \"Acropetal movement (% of applied)\": 0.6, \"Acropetal (% of absorbed)\": 20.0}, {\"Surfactant\": \"5 molar E content of 4-Nonylphenol\", \"Days after application\": 2, \"Acropetal movement (% of applied)\": 0.8, \"Acropetal (% of absorbed)\": 21.0}, {\"Surfactant\": \"5 molar E content of 4-Nonylphenol\", \"Days after application\": 5, \"Acropetal movement (% of applied)\": 2.5, \"Acropetal (% of absorbed)\": 27.8}, {\"Surfactant\": \"5 molar E content of 4-Nonylphenol\", \"Days after application\": 10, \"Acropetal movement (% of applied)\": 4.5, \"Acropetal (% of absorbed)\": 30.4}, {\"Surfactant\": \"8 molar E content of 4-Nonylphenol\", \"Days after application\": 1, \"Acropetal movement (% of applied)\": 1.6, \"Acropetal (% of absorbed)\": 11.3}, {\"Surfactant\": \"8 molar E content of 4-Nonylphenol\", \"Days after application\": 2, \"Acropetal movement (% of applied)\": 1.4, \"Acropetal (% of absorbed)\": 17.9}, {\"Surfactant\": \"8 molar E content of 4-Nonylphenol\", \"Days after application\": 5, \"Acropetal movement (% of applied)\": 6.1, \"Acropetal (% of absorbed)\": 27.2}, {\"Surfactant\": \"8 molar E content of 4-Nonylphenol\", \"Days after application\": 10, \"Acropetal movement (% of applied)\": 8.6, \"Acropetal (% of absorbed)\": 30.8}, {\"Surfactant\": \"20 molar E content of 4-Nonylphenol\", \"Days after application\": 1, \"Acropetal movement (% of applied)\": 1.8, \"Acropetal (% of absorbed)\": 14.6}, {\"Surfactant\": \"20 molar E content of 4-Nonylphenol\", \"Days after application\": 2, \"Acropetal movement (% of applied)\": 3.3, \"Acropetal (% of absorbed)\": 20.8}, {\"Surfactant\": \"20 molar E content of 4-Nonylphenol\", \"Days after application\": 5, \"Acropetal movement (% of applied)\": 6.1, \"Acropetal (% of absorbed)\": 29.6}, {\"Surfactant\": \"20 molar E content of 4-Nonylphenol\", \"Days after application\": 10, \"Acropetal movement (% of applied)\": 13.1, \"Acropetal (% of absorbed)\": 32.8}]"
+        }
+    ]
+}

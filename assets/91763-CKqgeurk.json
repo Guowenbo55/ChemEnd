@@ -1,0 +1,77 @@
+{
+    "_id": {
+        "$oid": "66927111303528b49832d7cb"
+    },
+    "CID": {
+        "$numberInt": "91763"
+    },
+    "Name": "Halosulfuron-methyl",
+    "IUPACName": "methyl 3-chloro-5-[(4,6-dimethoxypyrimidin-2-yl)carbamoylsulfamoyl]-1-methylpyrazole-4-carboxylate",
+    "CanonicalSMILES": "CN1C(=C(C(=N1)Cl)C(=O)OC)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC",
+    "Synonyms": [
+        "Halosulfuron-methyl",
+        "100784-20-1",
+        "Battalion",
+        "Halosulfuron methyl",
+        "Sempra",
+        "Inpool",
+        "Sandea",
+        "Permit 75WG",
+        "MON 12000",
+        "Halosulfuron-methyl [ISO:BSI]",
+        "1H-Pyrazole-4-carboxylic acid",
+        "3-chloro-5-[[[[(4,6-dimethoxy-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]-1-methyl-",
+        "methyl ester",
+        "MON 12037",
+        "NC 319",
+        "1H-Pyrazole-4-carboxylic acid",
+        "3-chloro-5-(((((4,6-dimethoxy-2-pyrimidinyl)amino)carbonyl)amino)sulfonyl)-1-methyl-",
+        "methyl ester",
+        "A 841101"
+    ],
+    "IsomericSMILES": "CN1C(=C(C(=N1)Cl)C(=O)OC)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC",
+    "INCHI": "InChI=1S/C13H15ClN6O7S/c1-20-10(8(9(14)18-20)11(21)27-4)28(23,24)19-13(22)17-12-15-6(25-2)5-7(16-12)26-3/h5H,1-4H3,(H2,15,16,17,19,22)",
+    "INCHIKEY": "FMGZEUWROYGLAY-UHFFFAOYSA-N",
+    "Formula": "C13H15ClN6O7S",
+    "MolecularWeight": {
+        "$numberDouble": "434.81"
+    },
+    "Description": "Halosulfuron-methyl is a member of pyrazoles.",
+    "XlogP": {
+        "$numberDouble": "1.3"
+    },
+    "Complexity": {
+        "$numberInt": "665"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The study investigated the translocation of foliar-applied [14C]halosulfuron-methyl in various plant species: cucumber, summer squash, pitted morningglory, and velvetleaf. Absorption varied across species, reaching a plateau around 60% in cucumber and velvetleaf and peaking at 80% in pitted morningglory after 72 hours. However, none of these species translocated more than 23% of the absorbed halosulfuron out of the treated leaf. Cucumber and summer squash predominantly exhibited basipetal translocation, while velvetleaf showed acropetal movement. Pitted morningglory displayed negligible directional movement. Most absorbed halosulfuron remained in the treated leaf, with over 80% detected in velvetleaf, summer squash, and pitted morningglory, contrasting with less than 20% in cucumber, indicating rapid metabolism in cucumber, influencing its tolerance. Summer squash and velvetleaf susceptibility might stem from limited metabolism, while pitted morningglory's tolerance could relate to limited translocation with some metabolism. The differential sensitivity among species may be linked to variations in the amount of radioactivity translocated out of the treated leaf. Overall, halosulfuron-methyl exhibited limited translocation, primarily remaining in the treated leaf across these plant species, influencing their sensitivity to the herbicide.",
+            "reference": "Besan\u00e7on, T. E., Jennings, K. M., & Everman, W. J. (2017). Absorption, Translocation, and Metabolism of Halosulfuron in Cucumber, Summer Squash, and Selected Weeds. Weed Science, 65(04), 461\u2013467. doi:10.1017/wsc.2017.15\u00a0",
+            "method": {
+                "Test Plant": "'Early Prolific Straightneck' summer squash, 'Poinsett 76' cucumber, velvetleaf, pitted morningglory",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Plants were grown in 10 by 10 cm square plastic pots in a greenhouse under a 24/15\u00b0C day/night temperature regime with a 16-hour photoperiod. Natural light was supplemented with metal-halide lighting for 4 hours daily with an average midday photosynthetic photon flux of 700 \u00b5mol m^-2 s^-1. Plants were watered daily and fertilized as needed with a fertilizer solution containing 6 mg/L of 20% N, 20% P2O5, and 20% K2O.",
+                "Chemical Preparation": "Formulated halosulfuron-methyl (Sandea\u00ae, 75%, Gowan, Yuma, AZ 85366) at 40 g ai/ha plus 0.25% v/v nonionic surfactant (NIS; Induce\u00ae surfactant, Helena Chemical, Memphis, TN 38137) was applied to uncovered parts of the plants.",
+                "Pesticide Application Details for the Plant": "Radiolabeled ([14C]pyrazole) halosulfuron-methyl with a specific activity of 2575 kBq/mg and 98% radioactive purity was used for foliar application.",
+                "Other Information": "-"
+            },
+            "result": "[{\"Plant\": \"Cucumber\", \"Time After Application\": \"4, 24, 48, 72 hours\", \"Absorption (%)\": 60, \"Treated Leaf (%)\": 86, \"Above Treated Leaf (%)\": 2, \"Below Treated Leaf (%)\": 10, \"Root (%)\": \"< 1\"}, {\"Plant\": \"Summer Squash\", \"Time After Application\": \"4, 24, 48, 72 hours\", \"Absorption (%)\": 40, \"Treated Leaf (%)\": 77, \"Above Treated Leaf (%)\": 4, \"Below Treated Leaf (%)\": 16, \"Root (%)\": \"3\"}, {\"Plant\": \"Pitted Morningglory\", \"Time After Application\": \"4, 24, 48, 72 hours\", \"Absorption (%)\": 72, \"Treated Leaf (%)\": 85, \"Above Treated Leaf (%)\": 5, \"Below Treated Leaf (%)\": 8, \"Root (%)\": \"2\"}, {\"Plant\": \"Velvetleaf\", \"Time After Application\": \"4, 24, 48, 72 hours\", \"Absorption (%)\": 52, \"Treated Leaf (%)\": 79, \"Above Treated Leaf (%)\": 14, \"Below Treated Leaf (%)\": 6, \"Root (%)\": \"< 1\"}]"
+        },
+        {
+            "content": "Greenhouse studies were conducted to investigate the absorption, translocation, and metabolism of foliar-applied [14C]halosulfuron-methyl in cucumber, summer squash, pitted morningglory, and velvetleaf. Cucumber and summer squash were treated at the 4-leaf stage, whereas velvetleaf and pitted morningglory were treated at 10 cm. All plants were collected at 4, 24, 48, and 72 h after treatment (HAT) for absorption and translocation studies and an additional 96-HAT interval was included in the metabolism study. Absorption did not exceed 45% in summer squash, whereas it plateaued around 60% in velvetleaf and cucumber and reached 80% in pitted morningglory 72 HAT. None of the four species translocated more than 23% of absorbed halosulfuron out of the treated leaf. Translocation in cucumber and summer squash was predominantly basipetal, while acropetal movement prevailed in velvetleaf. No significant direction of movement was observed for pitted morningglory. Negligible translocation occurred toward the roots, regardless of plant species. Of the total amount of [14C]halosulfuron-methyl absorbed into the plants at 96 HAT, more than 80% remained in the form of the parent compound in velvetleaf, summer squash, and pitted morningglory, whereas less than 20% was detected in cucumber. Rapid and high herbicide metabolism may explain cucumber tolerance to halosulfuron-methyl, while lack of metabolism contributes to summer squash and velvetleaf susceptibility. Pitted morningglory tolerance may be due to limited translocation associated with some level of metabolism, but further research would be needed to investigate other potential causes.",
+            "reference": "Besan\u00e7on, T. E., Jennings, K. M., & Everman, W. J. (2017). Absorption, translocation, and metabolism of halosulfuron in cucumber, summer squash, and selected weeds. Weed science, 65(4), 461-467.",
+            "method": {
+                "Test Plant": "'Early Prolific Straightneck' summer squash (Cucurbita pepo L.), 'Poinsett 76' cucumber (Cucumis sativus L.), velvetleaf (Abutilon theophrasti Medik.), and pitted morningglory (Ipomoea lacunosa L.)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Plants were grown in 10 by 10 cm square plastic pots filled with a professional growing mix in a greenhouse under 24/15 C day/night temperature regime with a 16-h photoperiod and supplemented with metal-halide lighting providing an average midday photosynthetic photon flux of 700 \u03bcmol/m^2/s. Plants were fertilized as needed with a 20-20-20 water-soluble fertilizer.",
+                "Chemical Preparation": "Radiolabeled [14C]halosulfuron-methyl with a specific activity of 2575 kBq/mg and 98% radioactive purity was used. Formulated halosulfuron-methyl (Sandea\u00ae, 75% active ingredient) was applied at 40 g ai/ha plus 0.25% v/v nonionic surfactant. The radiolabeled mixture contained a 1:1 v/v mixture of deionized water, acetone, [14C]halosulfuron-methyl, formulated halosulfuron-methyl, and 0.25% v/v nonionic surfactant to deliver 1.7 kBq/plant (40 g ai/ha).",
+                "Pesticide Application Details for the Plant": "Not explicitly stated, but assumed to be one application of halosulfuron-methyl per plant based on the methodology.",
+                "Other Information": "Plants were harvested at 4, 24, 48, and 72 hours after treatment (HAT) for absorption and translocation studies."
+            },
+            "result": "[{\"Plant\": \"Cucumber\", \"Treated leaf (% of absorbed)\": 86, \"Above treated leaf (%)\": 2, \"Below tereated leaf (%)\": 10, \"Roots (%)\": 1}, {\"Plant\": \"Summer squash\", \"Treated leaf (% of absorbed)\": 77, \"Above treated leaf (%)\": 4, \"Below tereated leaf (%)\": 16, \"Roots (%)\": 3}, {\"Plant\": \"Pitted morningglory\", \"Treated leaf (% of absorbed)\": 85, \"Above treated leaf (%)\": 5, \"Below tereated leaf (%)\": 8, \"Roots (%)\": 2}, {\"Plant\": \"Velvetleaf\", \"Treated leaf (% of absorbed)\": 79, \"Above treated leaf (%)\": 14, \"Below tereated leaf (%)\": 6, \"Roots (%)\": 1}]"
+        }
+    ]
+}

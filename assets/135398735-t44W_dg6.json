@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "6682e9dbc4e5dba5ffba2cbc"
+    },
+    "CID": {
+        "$numberInt": "135398735"
+    },
+    "Name": "RIFAMPIN",
+    "IUPACName": "[(7S,9E,11S,12R,13S,14R,15R,16R,17S,18S,19E,21Z)-2,15,17,27,29-pentahydroxy-11-methoxy-3,7,12,14,16,18,22-heptamethyl-26-[(E)-(4-methylpiperazin-1-yl)iminomethyl]-6,23-dioxo-8,30-dioxa-24-azatetracyclo[23.3.1.14,7.05,28]triaconta-1(29),2,4,9,19,21,25,27-octaen-13-yl] acetate",
+    "CanonicalSMILES": "CC1C=CC=C(C(=O)NC2=C(C(=C3C(=C2O)C(=C(C4=C3C(=O)C(O4)(OC=CC(C(C(C(C(C(C1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)C=NN5CCN(CC5)C)C",
+    "Synonyms": [
+        "Rifampicin",
+        "rifampin",
+        "Rifadin",
+        "Rimactane",
+        "Rimactan",
+        "Rifamycin AMP",
+        "Rifaldazine",
+        "Rifaprodin",
+        "Rifoldin",
+        "Rifa",
+        "13292-46-1",
+        "Rifampicinum",
+        "Riforal",
+        "Rimactizid",
+        "Abrifam"
+    ],
+    "IsomericSMILES": "C[C@H]1/C=C/C=C(\\C(=O)NC2=C(C(=C3C(=C2O)C(=C(C4=C3C(=O)[C@](O4)(O/C=C/[C@@H]([C@H]([C@H]([C@@H]([C@@H]([C@@H]([C@H]1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)/C=N/N5CCN(CC5)C)/C",
+    "INCHI": "InChI=1S/C43H58N4O12/c1-21-12-11-13-22(2)42(55)45-33-28(20-44-47-17-15-46(9)16-18-47)37(52)30-31(38(33)53)36(51)26(6)40-32(30)41(54)43(8,59-40)57-19-14-29(56-10)23(3)39(58-27(7)48)25(5)35(50)24(4)34(21)49/h11-14,19-21,23-25,29,34-35,39,49-53H,15-18H2,1-10H3,(H,45,55)/b12-11+,19-14+,22-13-,44-20+/t21-,23+,24+,25+,29-,34-,35+,39+,43-/m0/s1",
+    "INCHIKEY": "JQXXHWHPUNPDRT-WLSIYKJHSA-N",
+    "Formula": "C43H58N4O12",
+    "MolecularWeight": {
+        "$numberDouble": "822.9"
+    },
+    "Description": "Rifampicin is a member of the class of rifamycins that is a a semisynthetic antibiotic derived from Amycolatopsis rifamycinica (previously known as Amycolatopsis mediterranei and Streptomyces mediterranei). It has a role as an EC 2.7.7.6 (RNA polymerase) inhibitor, a DNA synthesis inhibitor, an antitubercular agent, a leprostatic drug, an Escherichia coli metabolite, a protein synthesis inhibitor, a neuroprotective agent, an angiogenesis inhibitor, a pregnane X receptor agonist, an antineoplastic agent, an antiamoebic agent and a geroprotector. It is a N-iminopiperazine, a N-methylpiperazine, a hydrazone, a cyclic ketal, a semisynthetic derivative and a member of rifamycins. It is a tautomer of a rifampicin zwitterion.",
+    "XlogP": {
+        "$numberDouble": "4.9"
+    },
+    "Complexity": {
+        "$numberInt": "1620"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "US EPA; Estimation Program Interface (EPI) Suite. Ver.3.11. June 10, 2003. Available from, as of Apr 8, 2004: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm",
+            "Value": "log Kow = 4.24 /Estimated/"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "American Medical Association, AMA Department of Drugs, AMA Drug Evaluations. 3rd ed. Littleton, Massachusetts: PSG Publishing Co., Inc., 1977., p. 808",
+            "Value": "Although rifampin is most active during cell multiplication ... /it/ appears to have some effect on resting cells. Electron microscopy has revealed changes in cytoplasm and disappearance of ribosomes in tubercle bacilli exposed to rifampin, indicating inhibition of DNA-dependent RNA polymerase."
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 1278",
+            "Value": "Rifampin inhibits DNA-dependent RNA polymerase of mycobacteria and other microorganisms by forming a stable drug-enzyme complex, leading to suppression of initiation of chain formation (but not chain elongation) in RNA synthesis. More specifically, the beta subunit of this complex enzyme is the site of action of the drug, although rifampin binds only to the holoenzyme. Nuclear RNA polymerase from a variety of eukaryotic cells does not bind rifampin, and RNA synthesis is correspondingly unaffected. While rifampin can inhibit RNA synthesis in mammalian mitochondria, considerably higher concentrations of the drug are required than for the inhibition of the bacterial enzyme."
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 1278",
+            "Value": "High concentrations of rifamycin antibiotics also inhibit viral DNA-dependent RNA polymerases and reverse transcriptases."
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 1278",
+            "Value": "Rifampin is bactericidal for both intracellular and extracellular microorganisms."
+        },
+        {
+            "References": "PMID:2015817",
+            "Value": "Developmental expression of CYPlAl, CYPlA2 and CYP3A6 in the rabbit have been studied. Cytochromes P450IAl, P450IA2 and P450IIIA6 exhibited comparable patterns of developmental expression. Present at low level (less than 0.05 mnol/ng) in the new born animal up to week 3, these proteins sharply accumulated between weeks 3 and 4 to reach a maximum by week 4 (P450IAl, 0.2 nmol/mg; P450IA2, 0.8 nmol/ng; P450IIIA6, 0.12 nmol/mg) and decr in the adult (P450IAl, 0.2 nmol/mg; P450IA2, 0.4 mnol/mg; P450IIIA6, 0.09 nmol/mg). Cytochromes P450IAl and P450IA2 were not expressed in the untreated fetus. Onset of CYP3A6 gene expression occurred at day 30 of gestation and both transcription and mRNA accumulation were transplacentally inducible by rifampicin only shortly before birth, i.e. after treatment of the females between days 28 and 30 of gestation. Both long (1.85 kb) and short (1.7 kb) mRNA transcripts were expressed in untreated or rifampicin treated fetuses. CYP3A6 gene expression was also induced by rifampicin in l week old and 2 week old animals. Developmental expression of CYPlAl and CYPlA2 genes was shown to be closely related to the diet change accompanying weaning which occurs at weeks 3-4. In animals subjected to either delayed (week 6) or early (week 2) weaning, sharp accumulation of messages, proteins and related activities were delayed or anticipated accordingly with respect to normal weaning. Artificially scheduled weaning gave similar results when repeated with biological grade lucern (grown in the absence of chemical fertilizers, pesticides) ... the main constituent of commercial rabbit chow. While CYP3A6 gene expression could be brought forward by early weaning at week 2, both message and protein did not exhibit incr accumulation after delayed weaning at week 6, and remained at the low level of the new born animal. Treatment of l week old and 2 week old animals with triiodothyronine or of 3 week old animals with propylthiouracil, an antithyroid factor, did not modify the normal pattern of developmental expression of genes CYPlAl, CYPlA2 and CYP3A6. ..."
+        }
+    ]
+}

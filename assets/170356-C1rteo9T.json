@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "6692710e303528b49832d7bd"
+    },
+    "CID": {
+        "$numberInt": "170356"
+    },
+    "Name": "Flucetosulfuron",
+    "IUPACName": "[1-[3-[(4,6-dimethoxypyrimidin-2-yl)carbamoylsulfamoyl]pyridin-2-yl]-2-fluoropropyl] 2-methoxyacetate",
+    "CanonicalSMILES": "CC(C(C1=C(C=CC=N1)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC)OC(=O)COC)F",
+    "Synonyms": [
+        "Flucetosulfuron",
+        "412928-75-7",
+        "9A9M9J02PX",
+        "1-(3-(N-((4,6-dimethoxypyrimidin-2-yl)carbamoyl)sulfamoyl)pyridin-2-yl)-2-fluoropropyl 2-methoxyacetate",
+        "Acetic acid",
+        "methoxy-",
+        "1-(3-(((((4,6-dimethoxy-2-pyrimidinyl)amino)carbonyl)amino)sulfonyl)-2-pyridinyl)-2-fluoropropyl ester",
+        "Flucetosulfuron [ISO]",
+        "Flucetosulfuron [ISO:BSI]",
+        "UNII-9A9M9J02PX",
+        "LGC 42153",
+        "[1-[3-[(4,6-dimethoxypyrimidin-2-yl)carbamoylsulfamoyl]pyridin-2-yl]-2-fluoropropyl] 2-methoxyacetate",
+        "SCHEMBL118237",
+        "AMY379",
+        "DTXSID2058095",
+        "SCHEMBL15427726",
+        "CHEBI:81740"
+    ],
+    "IsomericSMILES": "CC(C(C1=C(C=CC=N1)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC)OC(=O)COC)F",
+    "INCHI": "InChI=1S/C18H22FN5O8S/c1-10(19)16(32-14(25)9-29-2)15-11(6-5-7-20-15)33(27,28)24-18(26)23-17-21-12(30-3)8-13(22-17)31-4/h5-8,10,16H,9H2,1-4H3,(H2,21,22,23,24,26)",
+    "INCHIKEY": "FICWGWVVIRLNRB-UHFFFAOYSA-N",
+    "Formula": "C18H22FN5O8S",
+    "MolecularWeight": {
+        "$numberDouble": "487.5"
+    },
+    "Description": "Flucetosulfuron is a member of pyridines and a sulfonamide.",
+    "XlogP": {
+        "$numberDouble": "1.2"
+    },
+    "Complexity": {
+        "$numberInt": "743"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Flucetosulfuron is a sulfonylurea herbicide effective against barnyardgrass (Echinochloa crus-galli) in paddy rice (Oryza sativa). This study aimed to understand the physiological basis of selectivity between barnyardgrass and rice regarding the absorption, translocation, and metabolism of foliar-applied flucetosulfuron. Results showed that barnyardgrass initially absorbed over 70% of [14C]flucetosulfuron at 6 hours after treatment (HAT), while rice absorbed only about 20% of the applied radioactivity. Over time, barnyardgrass absorbed 3.6, 2.8, 1.7, and 1.6 times more than rice at 12, 24, 48, and 72 HAT, respectively. This greater absorption led to about 3 times more translocation out of the treated leaf in barnyardgrass compared to rice.",
+            "reference": "Hwang, K. H., Koo, S. J., Lee, J. N., Chang, H. R., & Kim, K. (2007). Comparative absorption, translocation and metabolism of the herbicide flucetosulfuron in rice and barnyardgrass.",
+            "method": {
+                "Test Plant": "Rice (Oryza sativa, cv. Ilpum) and barnyardgrass (Echinochloa crus-galli)",
+                "Apply Location": "Foliar application on adaxial surface of middle of third fully expanded leaf",
+                "Plant Grown Condition": "Seeds were germinated in flats with commercial greenhouse soil mix and watered with tap water. Plants were grown in a greenhouse maintained at 25\u00b13/15\u00b13\u00b0C day/night with a 14-hour photoperiod for 6 days until the 3 to 3.5 leaf stage at application time.",
+                "Chemical Preparation": "A 50% acetone solution containing 0.1% Tween 20 and 4.34 kBq of radiolabelled [\u03b1-14C-pyridine] flucetosulfuron (specific activity 57.18 mCi/mmol, >98% purity) was prepared.",
+                "Pesticide Application Details for the Plant": "10 \u03bcl of the radiolabelled solution was applied in 10 droplets to the adaxial leaf surface of the middle of third fully expanded leaf of rice and barnyardgrass.",
+                "Other Information": "Plants were harvested at 1, 3, 6, 12, 24, 48, 72 hours after treatment (HAT). At harvest, the treated 3rd leaf was washed sequentially three times with acetonitrile:water (20:80 v/v) to remove unabsorbed 14C. Plants were separated into treated leaf, first/second leaves, fourth leaf, and roots. Oxidative combustion followed by liquid scintillation counting was used to quantify 14C in each plant part. The study did not mention replicates."
+            },
+            "result": "[{\"Plant\": \"Rice\", \"Hours after application\": 6, \"Absorption (% of applied)\": 18.65, \"Translocation to 4-leaf and root (% of recovered)\": 0.67}, {\"Plant\": \"Rice\", \"Hours after application\": 12, \"Absorption (% of applied)\": 22.82, \"Translocation to 4-leaf and root (% of recovered)\": 2.12}, {\"Plant\": \"Rice\", \"Hours after application\": 24, \"Absorption (% of applied)\": 33.41, \"Translocation to 4-leaf and root (% of recovered)\": 2.83}, {\"Plant\": \"Rice\", \"Hours after application\": 48, \"Absorption (% of applied)\": 55.21, \"Translocation to 4-leaf and root (% of recovered)\": 3.33}, {\"Plant\": \"Rice\", \"Hours after application\": 72, \"Absorption (% of applied)\": 58.89, \"Translocation to 4-leaf and root (% of recovered)\": 2.74}, {\"Plant\": \"Barnyardgrass\", \"Hours after application\": 6, \"Absorption (% of applied)\": 71.9, \"Translocation to 4-leaf and root (% of recovered)\": 3.89}, {\"Plant\": \"Barnyardgrass\", \"Hours after application\": 12, \"Absorption (% of applied)\": 82.2, \"Translocation to 4-leaf and root (% of recovered)\": 5.04}, {\"Plant\": \"Barnyardgrass\", \"Hours after application\": 24, \"Absorption (% of applied)\": 85.88, \"Translocation to 4-leaf and root (% of recovered)\": 7.61}, {\"Plant\": \"Barnyardgrass\", \"Hours after application\": 48, \"Absorption (% of applied)\": 93.98, \"Translocation to 4-leaf and root (% of recovered)\": 6.84}, {\"Plant\": \"Barnyardgrass\", \"Hours after application\": 72, \"Absorption (% of applied)\": 93.98, \"Translocation to 4-leaf and root (% of recovered)\": 9.17}]"
+        }
+    ]
+}

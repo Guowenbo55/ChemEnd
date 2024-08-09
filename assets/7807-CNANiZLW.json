@@ -1,0 +1,82 @@
+{
+    "_id": {
+        "$oid": "6682e88ec4e5dba5ffba2630"
+    },
+    "CID": {
+        "$numberInt": "7807"
+    },
+    "Name": "4-BROMOANILINE",
+    "IUPACName": "4-bromoaniline",
+    "CanonicalSMILES": "C1=CC(=CC=C1N)Br",
+    "Synonyms": [
+        "4-Bromoaniline",
+        "106-40-1",
+        "P-BROMOANILINE",
+        "Benzenamine",
+        "4-bromo-",
+        "4-Bromobenzenamine",
+        "p-Bromophenylamine",
+        "Aniline",
+        "p-bromo-",
+        "4-Bromo-aniline",
+        "4-Bromobenzeneamine",
+        "p-bromo aniline",
+        "4-Bromanilinu",
+        "4-Bromo-phenylamine",
+        "4-Bromoaniline",
+        "97%",
+        "MFCD00007822",
+        "DTXSID7021867"
+    ],
+    "IsomericSMILES": "C1=CC(=CC=C1N)Br",
+    "INCHI": "InChI=1S/C6H6BrN/c7-5-1-3-6(8)4-2-5/h1-4H,8H2",
+    "INCHIKEY": "WDFQBORIUYODSI-UHFFFAOYSA-N",
+    "Formula": "C6H6BrN",
+    "MolecularWeight": {
+        "$numberDouble": "172.02"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "2.3"
+    },
+    "Complexity": {
+        "$numberInt": "66"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 19 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of May 17, 2013: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 14 was calculated in fish for 4-bromoaniline(SRC), using a log Kow of 2.26(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) El-Fantroussi S; Appl Environ Microbiol 66(12): 5110-5115 (2000) (2) Bornick H et al; Water Res 35(3): 619-624 (2001)",
+            "Value": "AEROBIC: Soil enrichment cultures extracted from soils that had been treated with herbicides (such as linuron and metobromuron) over multiple years were able to readily degrade the herbicides and their degradation products (4-bromoaniline was the degradation product from metobromuron)(1); untreated control soil samples from the same location did not show any degradation activity(1). In biodegradation studies using Elbe River water and a testfilter methodology, 4-bromoaniline had a mean degradation rate of 0.67/hr (half-life of about 1 hour)(2); degradation rate in control samples was only 0.007/hr (half-life of 99 hours)(2)."
+        },
+        {
+            "References": "(1) Susarla S et al; Wat Sci Tech 34(7): 37-43 (1996)",
+            "Value": "ANAEROBIC: In anaerobic biodegradation tests using an estuarine sediment from the Tsurumi River in Japan, 4-bromoaniline had an observed degradation rate of 0.00557/day which corresponded to a half-life of 124.4 days(1)."
+        },
+        {
+            "References": "(1) Bordeleau LM, Bartha R; Can J Microbiol 18: 1873-82 (1972) (2) Zeyer J et al; Appl Environ Microbiol 50: 447-53 (1985)",
+            "Value": "PURE CULTURE: Purified enzymes of the soil fungus Geotrichum candidum biotransformed p-bromoaniline to 4,4'- dibromoazobenzene(1). A strain of Moraxella sp used p-bromoaniline as a sole source of carbon and nitrogen(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 19",
+            "Value": "log Kow = 2.26"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Briggs GG; J Agric Food Chem 29: 1050-9 (1981) (2) Gonzalez-Pradaa E et al; Chemosphere 59: 721-728 (2005) (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Perrin DD; Dissociation constants of organic bases in aqueous solution. IUPAC Chem Data Ser, Buttersworth, London (1965) (5) Bollag JM et al; J Agric Food Chem 26: 1302-6 (1978) (6) Adrian P et al; Toxicol Environ Chem 20-21: 109-20 (1989)",
+            "Value": "Soil adsorption studies using four silt loam soils and a 2-hour adsorption period determined a mean log Kom (K organic matter) of 1.72 (which corresponds to a log Koc of 1.96 and Koc of 91 for 4-bromoaniline(1). A Koc of 217.9 was determined in sorption studies using a calcareous Spanish soil(2); manual addition of dissolved organic carbon (from peat or tannic acid) was found to increase 4-bromoanline adsorption on soil(2). According to a classification scheme(3), these Koc values suggests that 4-bromoaniline is expected to have moderate to high mobility in soil. The pKa of 4-bromoaniline is 3.86(4), indicating that this compound is a weak base and will exist predominantly in the non-ionized form in the environment. However, anilines are expected to bind strongly to humus or organic matter in soils due to the high reactivity of the aromatic amino group(5,6), suggesting that mobility may be much lower in some soils(SRC)."
+        }
+    ]
+}

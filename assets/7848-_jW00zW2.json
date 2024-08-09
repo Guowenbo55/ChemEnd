@@ -1,0 +1,113 @@
+{
+    "_id": {
+        "$oid": "6682e892c4e5dba5ffba2644"
+    },
+    "CID": {
+        "$numberInt": "7848"
+    },
+    "Name": "PROPYL MERCAPTAN",
+    "IUPACName": "propane-1-thiol",
+    "CanonicalSMILES": "CCCS",
+    "Synonyms": [
+        "1-Propanethiol",
+        "Propane-1-thiol",
+        "Propanethiol",
+        "107-03-9",
+        "PROPYL MERCAPTAN",
+        "n-Propylmercaptan",
+        "n-Propyl mercaptan",
+        "n-Propylthiol",
+        "1-Mercaptopropane",
+        "1-Propylmercaptan",
+        "Propylthiol",
+        "1-Propyl mercaptan",
+        "Thiopropyl alcohol",
+        "n-Thiopropyl alcohol",
+        "1-propylthiol"
+    ],
+    "IsomericSMILES": "CCCS",
+    "INCHI": "InChI=1S/C3H8S/c1-2-3-4/h4H,2-3H2,1H3",
+    "INCHIKEY": "SUVIGLJNEAMWEG-UHFFFAOYSA-N",
+    "Formula": "C3H8S",
+    "MolecularWeight": {
+        "$numberDouble": "76.16"
+    },
+    "Description": "Propane-1-thiol is an alkanethiol that is propane substituted by a thiol group at position 1. It has a role as a plant metabolite.",
+    "XlogP": {
+        "$numberDouble": "1.8"
+    },
+    "Complexity": {
+        "$numberInt": "7"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Bingham E et al, eds; Patty's Industrial Hygiene and Toxicology 5th ed. 7: 692 (2001)",
+            "Value": "Propyl mercaptan has been identified in the volatile products of freshly crushed onion and related plant bulbs(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 7 (1995) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 5 was calculated for propyl mercaptan(SRC), using a log Kow of 1.81(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Marion CV, Malaney GW; J Water Pollut Control Fed 35: 1269-84 (1963)",
+            "Value": "Using a Warburg respirometer, propyl mercaptan was slowly bio-oxidized by a pure culture seed of Alcaligenes faecalis bacteria that was isolated from an activated sludge(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 7",
+            "Value": "log Kow = 1.81"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 p.694",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  Propyl mercaptan produced severe eye irritation when instilled into rabbit eyes."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 p.694",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  In the 24 hr occluded dermal toxicity test, 2000 mg/kg /to the rabbit's skin/  produced gray mottled skin which became dry, thick, and corrugated after 4 days. Animals reportedly experienced pain immediately after application."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 p.693",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ During exposures, clinical signs /in rats/ included depressed activity, squinting, ataxia, shaking movements, and labored breathing."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 765",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Exposure of animals to high concentration of vapor has induced rubbing and closure of eyes in about 15 min. Application of drop to rabbit eyes caused moderate immediate irritation. Hyperemia of conjunctiva, chemosis, and discharge increased for 1 or 2 days, but eyes returned to normal in 8 days."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 p.693",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  An acute inhalation study in rats found that the lethal concentration is higher than 5.66 mg/L, although some aerosol was present in the exposure chamber for a 4 hour exposure. No deaths occurred, but signs of respiratory and ocular irritation were evident during the exposure."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 p.694",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  A 4 hr skin test in rabbits was negative for corrosivity."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 p.694",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  0.5 mL applied to rabbit skin for 24 hr was a slight irritant and caused erythema in three of six rabbits on both abraded and nonabraded sites."
+        },
+        {
+            "References": "PMID:567755",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/  Propanethiol induced pronounced ataxia in rats virtually identical to that of ethanol."
+        },
+        {
+            "References": "PMID:4981448",
+            "Value": "/ALTERNATIVE IN VITRO TESTS/ Propyl mercaptan noncompetitively inhibited p-nitrophenylesterase activity of bovine erythrocyte carbonic anhydrase."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 7 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of propyl mercaptan is estimated as 230(SRC), using a log Kow of 1.81(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that propyl mercaptan is expected to have moderate mobility in soil."
+        }
+    ]
+}

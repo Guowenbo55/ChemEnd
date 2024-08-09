@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "6692710e303528b49832d7bc"
+    },
+    "CID": {
+        "$numberInt": "12056760"
+    },
+    "Name": "Flucarbazone-sodium",
+    "IUPACName": "sodium;(3-methoxy-4-methyl-5-oxo-1,2,4-triazole-1-carbonyl)-[2-(trifluoromethoxy)phenyl]sulfonylazanide",
+    "CanonicalSMILES": "CN1C(=NN(C1=O)C(=O)[N-]S(=O)(=O)C2=CC=CC=C2OC(F)(F)F)OC.[Na+]",
+    "Synonyms": [
+        "Flucarbazone-sodium",
+        "Flucarbazone sodium",
+        "181274-17-9",
+        "FLUCARBAZONE-NA",
+        "DTXSID3034614",
+        "CHEBI:82010",
+        "sodium;(3-methoxy-4-methyl-5-oxo-1,2,4-triazole-1-carbonyl)-[2-(trifluoromethoxy)phenyl]sulfonylazanide",
+        "Flucarbazone sodium 100 microg/mL in Acetonitrile/Water",
+        "Sodium (3-methoxy-4-methyl-5-oxo-4,5-dihydro-1H-1,2,4-triazole-1-carbonyl)((2-(trifluoromethoxy)phenyl)sulfonyl)amide",
+        "flucarbazone sodium salt",
+        "BAY-MKH-6562",
+        "CHEMBL3183196",
+        "DTXCID1014614",
+        "FLUCARBAZONE-SODIUM [ISO]",
+        "MKH-6562"
+    ],
+    "IsomericSMILES": "CN1C(=NN(C1=O)C(=O)[N-]S(=O)(=O)C2=CC=CC=C2OC(F)(F)F)OC.[Na+]",
+    "INCHI": "InChI=1S/C12H11F3N4O6S.Na/c1-18-10(24-2)16-19(11(18)21)9(20)17-26(22,23)8-6-4-3-5-7(8)25-12(13,14)15;/h3-6H,1-2H3,(H,17,20);/q;+1/p-1",
+    "INCHIKEY": "UOUXAYAIONPXDH-UHFFFAOYSA-M",
+    "Formula": "C12H10F3N4NaO6S",
+    "MolecularWeight": {
+        "$numberDouble": "418.28"
+    },
+    "Description": "Flucarbazone-sodium is an organic sodium salt resulting from the formal reaction of the sulfonamide amino group of flucarbazone with 1 mol eq. of sodium hydride. An acetolactate synthase inhibitor, it is used as a herbicide to control grass weeds in cereal crops. Not approved for use within the European Union. It has a role as an EC 2.2.1.6 (acetolactate synthase) inhibitor, a herbicide and an agrochemical. It contains a flucarbazone(1-).",
+    "XlogP": {
+        "$numberDouble": "NaN"
+    },
+    "Complexity": {
+        "$numberInt": "711"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Perennial ryegrass is overseeded in bermudagrass and Kentucky bluegrass to improve turf quality, but selective control may be warranted for transition back to monostand turfgrass. Flucarbazone\u2013sodium controls perennial ryegrass in bermudagrass and Kentucky bluegrass, but the physiological basis of selectivity has received limited investigation. Greenhouse and laboratory experiments were conducted to evaluate efficacy, absorption, translocation, and metabolism of flucarbazone\u2013sodium in these grasses. Flucarbazone\u2013sodium reduced perennial ryegrass shoot mass from the nontreated an average \u2248 22 times and 3 times more than bermudagrass and Kentucky bluegrass at 4 wk after treatment, respectively. In laboratory experiments, foliar and root absorption of 14C\u2013flucarbazone\u2013sodium were similar among species. Bermudagrass distributed \u2248 25% more foliar-absorbed 14C to nontreated shoots than Kentucky bluegrass and perennial ryegrass. From root applications, all grasses averaged 84% distribution of 14C to shoots. Bermudagrass and Kentucky bluegrass metabolized 100% and 74% of 14C\u2013flucarbazone\u2013sodium at 1 d after treatment (DAT), whereas perennial ryegrass metabolism measured 44, 58, and 65% at 1, 3, and 7 DAT, respectively. Bermudagrass, Kentucky bluegrass, and perennial ryegrass had 4, 4, and 2 metabolites after 7 d, respectively. Results suggest differential metabolism of flucarbazone\u2013sodium is attributed to selectivity for controlling perennial ryegrass in bermudagrass and Kentucky bluegrass.",
+            "reference": "McCullough, P. E., Sidhu, S. S., Singh, R., & Reed, T. V. (2014). Flucarbazone\u2013Sodium Absorption, Translocation, and Metabolism in Bermudagrass, Kentucky Bluegrass, and Perennial Ryegrass. Weed science, 62(2), 230-236.",
+            "method": {
+                "Test Plant": "'Princess-77' bermudagrass, 'Midnight' Kentucky bluegrass, and 'Manhattan V' perennial ryegrass",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Grasses were seeded in pots with 3.8-cm diameter and 20-cm depth in sand:peat moss (80:20 v/v) media. After reaching 3-5 tiller stage, individual plants were transplanted to 79 cm2 and 10-cm depth pots and placed in a greenhouse at 23/17\u00b0C a week before treatment.",
+                "Chemical Preparation": "14C-flucarbazone-sodium (specific activity 64.9 mCi/mmol) was used, formulated product added to simulate 30 g ai/ha at 374 L/ha with 0.125% v/v non-ionic surfactant.",
+                "Pesticide Application Details for the Plant": "Broadcast spray of flucarbazone at 0, 30 or 60 g ai/ha followed by 2 \u03bcl droplet of 14C-solution on a fully expanded leaf.",
+                "Other Information": "nFoliar study had 4 replicates in randomized complete block design. Harvests at 1, 4, 8, 24, 48, 72 hours after treatment (HAT). 14C quantified by combustion and liquid scintillation."
+            },
+            "result": "[{\"Plant\": \"Bermudagrass\", \"Hours after application\": 24, \"Treated leaf (%)\": 75, \"Nontreated shoots (%)\": 25, \"Roots (%)\": 0}, {\"Plant\": \"Bermudagrass\", \"Hours after application\": 72, \"Treated leaf (%)\": 68, \"Nontreated shoots (%)\": 32, \"Roots (%)\": 0}, {\"Plant\": \"Kentucky bluegrass\", \"Hours after application\": 24, \"Treated leaf (%)\": 80, \"Nontreated shoots (%)\": 18, \"Roots (%)\": 2}, {\"Plant\": \"Kentucky bluegrass\", \"Hours after application\": 72, \"Treated leaf (%)\": 94, \"Nontreated shoots (%)\": 6, \"Roots (%)\": 0}, {\"Plant\": \"Perennial ryegrass\", \"Hours after application\": 24, \"Treated leaf (%)\": 84, \"Nontreated shoots (%)\": 16, \"Roots (%)\": 0}, {\"Plant\": \"Perennial ryegrass\", \"Hours after application\": 72, \"Treated leaf (%)\": 90, \"Nontreated shoots (%)\": 10, \"Roots (%)\": 0}]"
+        }
+    ]
+}

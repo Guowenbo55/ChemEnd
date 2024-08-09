@@ -1,0 +1,92 @@
+{
+    "_id": {
+        "$oid": "6682e81ec4e5dba5ffba23fe"
+    },
+    "CID": {
+        "$numberInt": "5237"
+    },
+    "Name": "Fluoroacetic acid",
+    "IUPACName": "2-fluoroacetic acid",
+    "CanonicalSMILES": "C(C(=O)O)F",
+    "Synonyms": [
+        "FLUOROACETIC ACID",
+        "2-Fluoroacetic acid",
+        "144-49-0",
+        "Cymonic acid",
+        "Gifblaar poison",
+        "Monofluoroacetic acid",
+        "Fluoroethanoic acid",
+        "Acetic acid",
+        "fluoro-",
+        "Monofluoressigsaure",
+        "Acetic acid",
+        "2-fluoro-",
+        "Acide-monofluoracetique",
+        "Monofluorazijnzuur",
+        "Acido monofluoroacetio",
+        "HFA",
+        "Monofluoroacetate"
+    ],
+    "IsomericSMILES": "C(C(=O)O)F",
+    "INCHI": "InChI=1S/C2H3FO2/c3-1-2(4)5/h1H2,(H,4,5)",
+    "INCHIKEY": "QEWYKACRFQMRMB-UHFFFAOYSA-N",
+    "Formula": "C2H3FO2",
+    "MolecularWeight": {
+        "$numberDouble": "78.04"
+    },
+    "Description": "Fluoroacetic acid is a haloacetic acid that is acetic acid in which one of the methyl hydrogens is substituted by fluorine. It has a role as an EC 4.2.1.3 (aconitate hydratase) inhibitor. It is an organofluorine compound and a haloacetic acid. It is a conjugate acid of a fluoroacetate.",
+    "XlogP": {
+        "$numberDouble": "0.2"
+    },
+    "Complexity": {
+        "$numberInt": "42"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) US Dept Agric; US Dept Agric, Agric Res Service. 1992-2016. Dr. Duke's Phytochemical and Ethnobotanical Databases. Methional. Available from, as of Nov 8, 2018: https://phytochem.nal.usda.gov/phytochem/search (2) Meyer M, O'Hagan D; Chemistry in Britain 28: 785-8 (1992) (3) Elliott AJ; Fluorinated Acetic Acids. Kirk-Othmer Encyclopedia of Chemical Technology. (1999-2018). New York, NY: John Wiley & Sons. Online Posting Date: 4 Dec 2000",
+            "Value": "Fluoroacetic acid is reported present at a maximum concentration of 9.5 ppm in gum of Cluster-Bean (Cyamopsis tetragonoloba; Fabaceae)(1). Fluoroacetic acid has been found as a toxic constituent of gifblaar (Dichapetalum cymosum; Dichapetalaceae), a poisonous South African plant(2,3); at least two dozen other poisonous plant species have also been found to contain fluoroacetic acid(3)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Nov 8, 2018: https://www2.epa.gov/tsca-screening-tools (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for fluoroacetic acid(SRC), using an estimated log Kow of 0.03(1) and a regression-derived equation(1). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Thom NS, Agg AR; Proc. Royal Soc London B 189: 347-8 (1965) (2) Clarke M et al, eds; Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, p. 162 (1981) (3) Booth LH et al; Bull Environ Contam Toxicol 62:34-9 (1999)",
+            "Value": "AEROBIC: Fluoracetic acid has been identified as potentially removed by biological sewage treatment provided suitable acclimatization can be achieved(1). As a class, fluoroacetates are slowly destroyed by soil bacteria, and do not usually persist in soil for more than 2 months(2). Following the addition of sodium fluoroacetic acid to a New Zealand-based stream water ecosystem model with Myriophyllum triphyllum, fluoroacetic acid was detected as a degradation product; proposed soil biodegradation pathways for the acid were the formation of glycollate or formation of oxaloacetate degrading to fluorocitrate(3)."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Klaassen, C.D. (ed). Casarett and Doull's Toxicology. The  Basic Science of Poisons. 6th ed. New York, NY:  McGraw-Hill, 2001., p. 801",
+            "Value": "The mechanism of action involves the incorporation of the fluoroacetate into fluoroacetyl-coenzyme A, which condenses with oxaloacetate to form fluorocitrate, which inhibits the enzyme aconitase and prevents the conversion of citrate to isocitrate in the tricarboxylic (Krebs) cycle. Inhibition of this system by fluorocitrate results in reduced glucose metabolism and cellular respiration and affects tissue energy stores. /Fluoroacetic acid and derivatives/"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Nov 8, 2018: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Dean JA; Lange's Handbook of Chemistry 13th ed. New York, NY: McGraw-Hill Book Co. p. 5-39 (1985) (4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of fluoroacetic acid can be estimated to be 1.4(SRC). According to a classification scheme(2), this estimated Koc value suggests that fluoroacetic acid is expected to have very high mobility in soil. The pKa of fluoroacetic acid is 2.59(3), indicating that this compound will exist almost entirely in the anion form in the environment and anions generally do not adsorb more strongly to organic carbon and clay than their neutral counterparts(5)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "A series of 14C-labelled benzoic acids was synthesized to investigate their phloem translocation in plants and assess the role of pKa and lipophilicity in determining their movement. When these substituted benzoic acids were applied to castor bean plants by injection into the petioles, the compounds with intermediate lipophilicity (2-fluoro-, 4-chloro-, and 3,4-dichlorobenzoic acids) exhibited the highest concentrations in phloem exudates. On the other hand, the more polar 4-methyl-2,3,5,6-tetrafluoro- and pentafluorobenzoic acids showed lower translocation, possibly due to their lower pKa values compared to the other benzoic acids tested. The polar 4-ureidobenzoic acid and the lipophilic 3-(4-methylphenoxy)benzoic acid were both translocated less efficiently in the phloem. These findings align with previous observations on phenoxyacetic acids and provide further evidence for the significance of ionization in the accumulation and retention of chemicals in phloem sieve tubes.",
+            "reference": "Chamberlain, K. Physico-chemical Factors Determining the Phloem Translocation of Benzoic Acids.\u00a0EPS,\u00a03, 7.",
+            "method": {
+                "Test Plant": "Ricinus communis L. var. Gibsonii (castor bean)",
+                "Apply Location": "Petiole injection for Ricinus communis.",
+                "Plant Grown Condition": "Ricinus communis seedlings were grown in nutrient solution for three to four weeks until they possessed four true leaves.",
+                "Chemical Preparation": "Various 14C-labeled substituted benzoic acids were synthesized, including [14C]4-ureidobenzoic acid and others purchased or received as gifts. All compounds were used at specific activities of 74 and 7.4 MBq mmol-1 in the castor bean and barley experiments respectively.",
+                "Pesticide Application Details for the Plant": "For Ricinus communis, a solution of chemical in distilled water (2 mM for the 14C-labelled benzoic acids) was injected into the hollow petioles (7 \u00b5l per petiole) of the two mature leaves. Phloem sap was collected from shallow incisions made with a razor blade at the top of the stem and at the base of the plant.",
+                "Other Information": "-"
+            },
+            "result": "[{\"Time after injection\": 1.21, \"Phloem mobility factor of lower stem Phloem mobility factor of upper stem\": 6.09}, {\"Time after injection\": 2.43, \"Phloem mobility factor of lower stem Phloem mobility factor of upper stem\": 10.43}, {\"Time after injection\": 2.43, \"Phloem mobility factor of lower stem Phloem mobility factor of upper stem\": 8.94}, {\"Time after injection\": 1.76, \"Phloem mobility factor of lower stem Phloem mobility factor of upper stem\": 5.69}, {\"Time after injection\": 1.08, \"Phloem mobility factor of lower stem Phloem mobility factor of upper stem\": 2.84}, {\"Time after injection\": 0.54, \"Phloem mobility factor of lower stem Phloem mobility factor of upper stem\": 1.62}]"
+        }
+    ]
+}

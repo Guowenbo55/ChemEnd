@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "669270f1303528b49832d74d"
+    },
+    "CID": {
+        "$numberInt": "41462"
+    },
+    "Name": "Buthidazole",
+    "IUPACName": "3-(5-tert-butyl-1,3,4-thiadiazol-2-yl)-4-hydroxy-1-methylimidazolidin-2-one",
+    "CanonicalSMILES": "CC(C)(C)C1=NN=C(S1)N2C(CN(C2=O)C)O",
+    "Synonyms": [
+        "BUTHIDAZOLE",
+        "55511-98-3",
+        "Ravage",
+        "3-(5-tert-butyl-1,3,4-thiadiazol-2-yl)-4-hydroxy-1-methylimidazolidin-2-one",
+        "Z2H2TBF6S1",
+        "Buthiazole",
+        "2-Imidazolidinone",
+        "3-(5-(1,1-dimethylethyl)-1,3,4-thiadiazol-2-yl)-4-hydroxy-1-methyl-",
+        "2-Imidazolidinone",
+        "3-[5-(1,1-dimethylethyl)-1,3,4-thiadiazol-2-yl]-4-hydroxy-1-methyl-",
+        "Buthidazole [ANSI]",
+        "Caswell No. 721A",
+        "3-(5-(1,1-DIMETHYLETHYL)-1,3,4-THIADIAZOL-2-YL)-4-HYDROXY-1-METHYL-2-IMIDAZOLIDINONE",
+        "VEL-5026",
+        "EINECS 259-685-1",
+        "Buthidazole [ANSI:ISO]",
+        "UNII-Z2H2TBF6S1"
+    ],
+    "IsomericSMILES": "CC(C)(C)C1=NN=C(S1)N2C(CN(C2=O)C)O",
+    "INCHI": "InChI=1S/C10H16N4O2S/c1-10(2,3)7-11-12-8(17-7)14-6(15)5-13(4)9(14)16/h6,15H,5H2,1-4H3",
+    "INCHIKEY": "SWMGXKSQWDSBKV-UHFFFAOYSA-N",
+    "Formula": "C10H16N4O2S",
+    "MolecularWeight": {
+        "$numberDouble": "256.33"
+    },
+    "Description": "Buthidazole is a N-acylurea.",
+    "XlogP": {
+        "$numberDouble": "1"
+    },
+    "Complexity": {
+        "$numberInt": "320"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Buthidazole, a systemic pesticide, displayed similar absorption by both alfalfa and quackgrass through leaves and roots following application. Interestingly, while absorption rates were comparable, the translocation pattern varied significantly. Despite quick root uptake in both species, it predominantly moved through the apoplast to reach leaves, showing limited basipetal translocation to the roots after foliar application. However, rapid movement from roots to leaves was observed within a day, with substantial percentages (91% in alfalfa, 66% in quackgrass) of the herbicide translocated, indicating systemic movement within plants. This systemic action was crucial for the herbicide's efficacy, particularly in disrupting photosynthesis, as indicated by its rapid presence in leaves where it exerts its impact. Furthermore, differential metabolism significantly contributed to the selectivity of buthidazole between these plants, with alfalfa showing rapid metabolization, while quackgrass exhibited slower metabolism, largely retaining the unmetabolized form of the pesticide even after 6 days. This difference in metabolic rates likely plays a pivotal role in the herbicide's selectivity between these plant species.\n\n\n\n\n\n",
+            "reference": "Hatzios, K. K., & Penner, D. (1980). Absorption, Translocation, and Metabolism of 14C-Buthidazole in Alfalfa (Medicago sativa) and Quackgrass (Agropyon repens). Weed Science, 28(6), 635\u2013639. doi:10.1017/s0043174500061403\u00a0",
+            "method": {
+                "Test Plant": "Alfalfa (Medicago sativa) and quackgrass (Elymus repens)",
+                "Apply Location": "Foliar and Root",
+                "Plant Growth Condition": "Seeds of alfalfa planted in wooden boxes filled with greenhouse soil, grown under greenhouse conditions with a 14-hour photoperiod, then subjected to dormancy and acclimated before being transplanted into greenhouse soil in 946-ml cups. Quackgrass plants grown from rhizomes collected after dormancy in waxed cups under the same greenhouse conditions. Both plants used at specific heights for the foliar and root application studies.",
+                "Chemical Preparation": "Foliar and root application of 14C-buthidazole, with a 5-\u03bcl drop containing 0.1 \u03bcCi of 14C-buthidazole in 1% aqueous ethanol solution placed on specified leaves for foliar application, and plants placed in modified Hoagland's No. 1 solution containing 10 \u03bcCi/L of 14C-buthidazole for root uptake study.",
+                "Other Information": "Two experiments with two replications per experiment."
+            },
+            "result": "[{\"Plant\": NaN, \"Unnamed: 1\": \"Foliar\", \"Apply Type\": NaN, \"Time After Application\": \"1 day\", \"Absorbed in Treated Leaf (dpm/mg)\": \"5600\", \"% in Treated Leaf\": \"92%\", \"% in Shoot and Leaves\": \"5%\", \"% in Roots\": \"2%\", \"% in Methanol-Soluble\": \"1%\"}, {\"Plant\": NaN, \"Unnamed: 1\": \"Foliar\", \"Apply Type\": NaN, \"Time After Application\": \"3 days\", \"Absorbed in Treated Leaf (dpm/mg)\": \"4400\", \"% in Treated Leaf\": \"92%\", \"% in Shoot and Leaves\": \"4%\", \"% in Roots\": \"1%\", \"% in Methanol-Soluble\": \"3%\"}, {\"Plant\": NaN, \"Unnamed: 1\": \"Foliar\", \"Apply Type\": NaN, \"Time After Application\": \"14 days\", \"Absorbed in Treated Leaf (dpm/mg)\": \"3000\", \"% in Treated Leaf\": \"91%\", \"% in Shoot and Leaves\": \"4%\", \"% in Roots\": \"2%\", \"% in Methanol-Soluble\": \"4%\"}, {\"Plant\": \"Foliar\", \"Unnamed: 1\": NaN, \"Apply Type\": \"1 day\", \"Time After Application\": \"4900\", \"Absorbed in Treated Leaf (dpm/mg)\": \"95%\", \"% in Treated Leaf\": \"3%\", \"% in Shoot and Leaves\": \"1%\", \"% in Roots\": \"1%\", \"% in Methanol-Soluble\": NaN}, {\"Plant\": \"Foliar\", \"Unnamed: 1\": NaN, \"Apply Type\": \"3 days\", \"Time After Application\": \"2800\", \"Absorbed in Treated Leaf (dpm/mg)\": \"90%\", \"% in Treated Leaf\": \"5%\", \"% in Shoot and Leaves\": \"2%\", \"% in Roots\": \"4%\", \"% in Methanol-Soluble\": NaN}, {\"Plant\": \"Foliar\", \"Unnamed: 1\": NaN, \"Apply Type\": \"14 days\", \"Time After Application\": \"3600\", \"Absorbed in Treated Leaf (dpm/mg)\": \"95%\", \"% in Treated Leaf\": \"2%\", \"% in Shoot and Leaves\": \"1%\", \"% in Roots\": \"4%\", \"% in Methanol-Soluble\": NaN}, {\"Plant\": NaN, \"Unnamed: 1\": \"Root\", \"Apply Type\": NaN, \"Time After Application\": \"1 day\", \"Absorbed in Treated Leaf (dpm/mg)\": \"5100\", \"% in Treated Leaf\": \"15200\", \"% in Shoot and Leaves\": \"89%\", \"% in Roots\": \"7%\", \"% in Methanol-Soluble\": \"4%\"}, {\"Plant\": NaN, \"Unnamed: 1\": \"Root\", \"Apply Type\": NaN, \"Time After Application\": \"3 days\", \"Absorbed in Treated Leaf (dpm/mg)\": \"2200\", \"% in Treated Leaf\": \"20600\", \"% in Shoot and Leaves\": \"94%\", \"% in Roots\": \"2%\", \"% in Methanol-Soluble\": \"4%\"}, {\"Plant\": NaN, \"Unnamed: 1\": \"Root\", \"Apply Type\": NaN, \"Time After Application\": \"6 days\", \"Absorbed in Treated Leaf (dpm/mg)\": \"1300\", \"% in Treated Leaf\": \"19100\", \"% in Shoot and Leaves\": \"94%\", \"% in Roots\": \"1%\", \"% in Methanol-Soluble\": \"4%\"}, {\"Plant\": \"Root\", \"Unnamed: 1\": NaN, \"Apply Type\": \"1 day\", \"Time After Application\": \"850\", \"Absorbed in Treated Leaf (dpm/mg)\": \"6400\", \"% in Treated Leaf\": \"59%\", \"% in Shoot and Leaves\": \"26%\", \"% in Roots\": \"15%\", \"% in Methanol-Soluble\": NaN}, {\"Plant\": \"Root\", \"Unnamed: 1\": NaN, \"Apply Type\": \"3 days\", \"Time After Application\": \"280\", \"Absorbed in Treated Leaf (dpm/mg)\": \"11200\", \"% in Treated Leaf\": \"89%\", \"% in Shoot and Leaves\": \"4%\", \"% in Roots\": \"7%\", \"% in Methanol-Soluble\": NaN}, {\"Plant\": \"Root\", \"Unnamed: 1\": NaN, \"Apply Type\": \"6 days\", \"Time After Application\": \"260\", \"Absorbed in Treated Leaf (dpm/mg)\": \"7800\", \"% in Treated Leaf\": \"83%\", \"% in Shoot and Leaves\": \"7%\", \"% in Roots\": \"10%\", \"% in Methanol-Soluble\": NaN}]"
+        }
+    ]
+}

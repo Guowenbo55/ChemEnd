@@ -1,0 +1,74 @@
+{
+    "_id": {
+        "$oid": "6682e84fc4e5dba5ffba24f5"
+    },
+    "CID": {
+        "$numberInt": "6529"
+    },
+    "Name": "TRI-P-CRESYL PHOSPHATE",
+    "IUPACName": "tris(4-methylphenyl) phosphate",
+    "CanonicalSMILES": "CC1=CC=C(C=C1)OP(=O)(OC2=CC=C(C=C2)C)OC3=CC=C(C=C3)C",
+    "Synonyms": [
+        "TRICRESYL PHOSPHATE",
+        "Tri-p-tolyl phosphate",
+        "78-32-0",
+        "TRI-P-CRESYL PHOSPHATE",
+        "Tris(4-methylphenyl) phosphate",
+        "Phosphoric acid",
+        "tris(4-methylphenyl) ester",
+        "Phosphoric acid",
+        "tri-p-tolyl ester",
+        "tri-p-tolylphosphate",
+        "tris-p-tolyl phosphate",
+        "Phosphoric acid",
+        "tri(4-tolyl)ester",
+        "Tri-4-cresyl phosphate",
+        "Tris(p-cresyl) phosphate",
+        "Tris(p-methylphenyl) phosphate",
+        "Phosphoric Acid Tri-p-tolyl Ester",
+        "NSC-2181"
+    ],
+    "IsomericSMILES": "CC1=CC=C(C=C1)OP(=O)(OC2=CC=C(C=C2)C)OC3=CC=C(C=C3)C",
+    "INCHI": "InChI=1S/C21H21O4P/c1-16-4-10-19(11-5-16)23-26(22,24-20-12-6-17(2)7-13-20)25-21-14-8-18(3)9-15-21/h4-15H,1-3H3",
+    "INCHIKEY": "BOSMZFBHAYFUBJ-UHFFFAOYSA-N",
+    "Formula": "C21H21O4P",
+    "MolecularWeight": {
+        "$numberDouble": "368.4"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "5.1"
+    },
+    "Complexity": {
+        "$numberInt": "392"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "PMID:4040784",
+            "Value": "Tri-p-cresyl phosphate was detected in the shoot 1.72 ug/g, pod 0.09 ug/g, leaf 1.14 ug/g, and stem 6.28 ug/g of soybean plants grown 90 days in soil containing tri-p-cresyl phosphate(1)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Cho KJ et al; Water Sci Technol 30: 189-97 (1994) (2) Howard PH, Deo PG; Bull Environ Contam Toxicol 22: 337-44 (1979) (3) Ku Y, Alvarez GH; Appl Environ Microbiol 43: 619-22 (1982) (4) Sasaki S; pp. 283-98 in Aquatic Pollutants: Transformation and Biological Effects. Hutzinger O et al eds. Oxford: Pergamon Press (1978)",
+            "Value": "AEROBIC: Biodegradation of tri-p-cresyl phosphate in river water and bottom sediment followed first-order kinetics(1). The first-order rate constant in river water ranged from approximately 0.0073 per hour at 14 \u00b0C to 0.0091 per hour at 25 \u00b0C(1); this corresponds to a half-life of about 4 days at 14 \u00b0C and 3.2 days at 25 \u00b0C(SRC). The first-order rate constant in bottom sediment ranged from approximately 0.0043 per hour at 14 \u00b0C to 0.0055 per hour at 25 \u00b0C(1); this corresponds to a half-life of about 6.7 days at 14 \u00b0C and 5.3 days at 25 \u00b0C(SRC). The half-life of tri-p-cresyl phosphate in Lake Ontario water, following a lag period of 2 days, was 2 days(2). In a laboratory model sewage treatment system 70 to 80% of methyl C-14 tri-p-cresyl phosphate added at 1 ug/ml was degraded in 24 hours using an activated sludge seed; the major metabolite was identified as p-hydroxybenzoic acid(3). In biodegradation tests using an activated sludge seed, tri-p-cresyl phosphate was observed to be biodegradable(4)."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Cho KJ et al; Water Sci Technol 30: 189-97 (1994)",
+            "Value": "Tricresyl phosphate, unspecified isomer, was detected in Detroit river sediments at concentrations ranging from 0.23 to 1.30 ug/L(1). Tri-p-cresyl phosphate was detected in bottom sediment from the Kurose River, Japan at concentrations ranging from 0.003 ug/g in April 1992 to 0.03 ug/g in July 1992(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.10. Jan, 2011. Available from, as of Oct 2, 2012: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (2) Swann RL et al; Res Rev 85: 23 (1983) (3) Takimoto K et al; Environ Sci Technol 32: 3907-3912 (1998) (4) Cho KM et al; Wat Sci Tech 30: 189-197 (1994)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc for tri-p-cresyl phosphate can be estimated to be 4.4X10+4(SRC). According to a recommended classification scheme(2), this estimated Koc value suggests that tri-p-cresyl phosphate is expected to be immobile in soil(SRC). Tri-p-cresyl phosphate was found to adsorb strongly to clay minerals in sorption tests(3). Using bottom sediment from a river, tri-p-cresyl phosphate was found to adsorb strongly to the sediment with a Freundlich isotherm constant of 138(4); it was further observed that tri-p-cresyl phosphate in the water column adsorbed to sediment and precipitated to the bottom(4)."
+        }
+    ]
+}

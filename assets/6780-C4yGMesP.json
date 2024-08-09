@@ -1,0 +1,119 @@
+{
+    "_id": {
+        "$oid": "6682e85dc4e5dba5ffba2538"
+    },
+    "CID": {
+        "$numberInt": "6780"
+    },
+    "Name": "ANTHRAQUINONE",
+    "IUPACName": "anthracene-9,10-dione",
+    "CanonicalSMILES": "C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3C2=O",
+    "Synonyms": [
+        "ANTHRAQUINONE",
+        "84-65-1",
+        "anthracene-9,10-dione",
+        "9,10-Anthraquinone",
+        "9,10-Anthracenedione",
+        "Anthradione",
+        "9,10-Dioxoanthracene",
+        "Hoelite",
+        "Morkit",
+        "Corbit",
+        "9,10-Anthrachinon",
+        "Anthra-9,10-quinone",
+        "Anthrachinon",
+        "Anthrapel",
+        "9,10-quinone"
+    ],
+    "IsomericSMILES": "C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3C2=O",
+    "INCHI": "InChI=1S/C14H8O2/c15-13-9-5-1-2-6-10(9)14(16)12-8-4-3-7-11(12)13/h1-8H",
+    "INCHIKEY": "RZVHIXYEVGDQDX-UHFFFAOYSA-N",
+    "Formula": "C14H8O2",
+    "MolecularWeight": {
+        "$numberDouble": "208.21"
+    },
+    "Description": "9,10-anthraquinone is an anthraquinone that is anthracene in which positions 9 and 10 have been oxidised to carbonyls.",
+    "XlogP": {
+        "$numberDouble": "3.4"
+    },
+    "Complexity": {
+        "$numberInt": "261"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Holoubek I et al; Toxicol Environ Chem 29: 251-260 (1991)",
+            "Value": "2 of 6 samples of mosses collected near a chemical factory in Czechoslovakia and 3 of 6 samples of needles from the same area contained anthraquinone; (mosses = 1756.8 to 4054.1 ng/g; needles = 459.5 to 1918.9 ng/g)(1)."
+        }
+    ],
+    "animal_concentrations": [
+        {
+            "References": "(1) Holoubek I et al; Toxicol Environ Chem 29: 251-260 (1991)",
+            "Value": "2 of 5 earthworm samples collected near a chemical factory in Czechoslovakia contained anthraquinone; (concentrations = 473 to 4715.9 ng/g)(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 118 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 12 was calculated for anthraquinone(SRC), using a log Kow of 3.39(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Struijs J, Stoltenkamp J; Ecotoxicol Environ Safety 19: 204- 211 (1990) (2) Chemicals Inspection and Testing Institute; Biodegradation and Bioaccumulation Data of Existing Chemicals Based on the CSCL Japan. Japan Chemical Industry Ecology-Toxicology and Information Center. ISBN 4-89074-101-1 (1992) (3) De Morsier A et al; Chemosphere 16: 833-47 (1987) (4) Nyholm N; Chemosphere 21: 1477-87 (1990) (5) Blok J, Booy M; Ecotox Environ Saf 8: 410-22 (1984)",
+            "Value": "AEROBIC: Anthraquinone (at 10 mg/L organic carbon), inoculated with activated sludge, reached 28% of the theoretical CO2 within 28 days(1). 52.3% of the initial concn of anthraquinone (100 mg/L) was biodegraded by an activated sludge inoculum (time = 3 weeks)(2). Biodegradation of anthraquinone was measured using three standard tests (each using activated sludge inocula)(3). Over a 20 day period, 51-91%, 81-93%, and 70% of the added anthraquinone was biodegraded in the Sturm test, MITI test, and the RDA test, respectively(3). Anthraquinone (at 100 mg/L) was biodegraded by 46% over a 28 day period (UK-MITI test); a lag time of about 7 days was observed(4). Varying activated sludge inoculum sizes had little impact on the final oxidation of anthraquinone; 40-60% oxidation at 56 days was seen for all inoculum levels(5)."
+        },
+        {
+            "References": "(1) Rontani JF et al; Chemosphere 14: 1909-912 (1985) (2) Kondo M et al; Eisei Kagaku 34: 188-95 (1988) (3) Mueller JG et al; Appl Environ Microbiol 57: 1277-285 (1991)",
+            "Value": "AEROBIC: A mixed bacterial population (EM4) isolated from sea water foam biodegraded anthraquinone (concentration = 1 g/L); 50% of the added compound was degraded over 10 days(1). Metabolites included benzoic and phthalic acids in low concentrations(1). Over a three day period, 82% of the added anthraquinone (at 10 mg/L) was degraded by river water, 91% was degraded by sea water(2). Anthraquinone was present in groundwater at an initial concentration of 3.3 ug/ml; 1.9 ug/ml remained after 3 days, and an undetectable amount was left following 5 days after inoculation with a mixed population derived from creosote contaminated soil(3)."
+        },
+        {
+            "References": "(1) Field JA et al; Appl Environ Microbiol 58: 2219-2226 (1992) (2) Mueller JG et al; Environ Sci Technol 25: 1045-1055 (1991) (3) Mueller JG et al; Appl Environ Microbiol 55: 3085-3090 (1989)",
+            "Value": "AEROBIC: White rot fungi of the genus Trametes degraded anthracene without any accumulation of anthraquinone suggesting that either anthraquinone was not formed as a metabolite of this process or that this genus can rapidly metabolize anthraquinone(1). Lignolytic cultures of Phanerochaete chrysosporium metabolized anthraquinone(1). Anthraquinone, initially present at 48.6 mg/3 kg soil, was biodegraded by the soil bacterial population to 15.3 mg/3 kg soil following 12 weeks incubation(2). Anthraquinone initially present at 1229.7 mg/3 kg sediment was biodegraded by the sediment bacterial population to 1122.9 mg/3 kg sediment following 12 weeks incubation(2). A seven strain bacterial community isolated from a coal-tar contaminated soil biodegraded anthraquinone with only 6.5% of the initial concentration remaining after 3 days(3)."
+        },
+        {
+            "References": "PMID:9228769",
+            "Value": "AEROBIC: A BOD/ThOD of 54% and a CO2/ThCO2 of 41% were measured in a biodegradation study using a garden soil inoculum and a 58-day incubation period(1); a BOD/ThOD of 52% and a CO2/ThCO2 of 21% were measured in a biodegradation study using an activated sludge inoculum and a 13-day incubation period(1)."
+        },
+        {
+            "References": "PMID:16347851",
+            "Value": "ANAEROBIC: Anthraquinone, using an anaerobic digesting sludge inoculum, inhibited gas production for 4 weeks (lag phase >75 days) before limited net gas production began; the volume of gas produced during the experiment (60-100 days) was not greater than that produced by the blanks. It was not possible to say whether degradation of this compound occurred as this gas may have been produced either by degradation of anthraquinone or by degradation of substrates in the sludge which were not degraded during the inhibitory phase(1)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "PMID:6175248",
+            "Value": "42 ppb anthraquinone was detected in Black River (Ohio) bullhead catfish(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 118",
+            "Value": "log Kow = 3.39"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "White-Stevens, R. (ed.). Pesticides in the Environment: Volume 1, Part 1, Part 2. New York: Marcel Dekker, Inc., 1971., p. 9",
+            "Value": "The quinones are alpha-beta-unsaturated ketones and react with sulfhydryl (-SH) groups. This reaction has been suggested as the critical biochemical lesion involving the -SH groups of enzymes such as amylase and carboxylase which are inhibited by quinones. ... Overall /fungicidal/ mechanism may involve binding of enzyme to quinone nucleus by substitution or addition at the double bond, oxidative reaction with -SH group, and change in redox potential. /Quinones/"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Meyer S et al; Anal Chem 71: 4023-9 (1999)",
+            "Value": "SOIL: Anthraquinone concs of 2 and 20 mg/kg were detected in two soil samples collected from coal tar creosote waste site in Germany(1)."
+        },
+        {
+            "References": "(1) Milano JC, Vernet JL; Oceanis 14: 19-27 (1988) (2) Terashi A et al; Bull Environ Contam Toxicol 50: 348-55 (1993) (3) Lopes TJ, Furlong ET; Environ Sci Technol 20: 727-37 (2001)",
+            "Value": "SEDIMENT: Marine sediments from the sewage area of Marseilles, France contained anthraquinone in 9 of 10 sites (concentration = 2 to 400 ng/g)(1). Sediment from Dokai Bay contained anthraquinone(2). Anthraquinone was detected in 22.2% of 500 streambed sediment samples collected from 536 sites in 20 major river basins in the US between 1992 and 1995(3); the maximum reported concentration was 2100 ug/kg dry weight with 50th percentile concentration <50 ug/kg(3)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Gawlik,BM et al; Chemosphere 36: 2903-19 (1998) (2) Swann RL et al; Res Rev 85: 23 (1983) (3) Tomlin CDS, ed. Anthraquinone (84-65-1). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council (4) Cordy GE et al; Ground Water Monit Remed 24: 58-69 (2004)",
+            "Value": "Using an HPLC screening technique and five European reference soils, Koc values ranging from 2,755 to 17,416 were determined for anthraquinone(1).  According to a suggested classification scheme(2), these Koc values suggest that anthraquinone has slight mobility or is immobile in soil(SRC). Laboratory trials with BBA soils did not reveal any leaching potential(3). Results of a 23-day soil column leaching study have shown that anthraquinone has the potential to reach ground water under recharge conditions similar to those in arid and semi-arid climates(4)."
+        }
+    ]
+}

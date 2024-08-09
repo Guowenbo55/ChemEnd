@@ -1,0 +1,79 @@
+{
+    "_id": {
+        "$oid": "6682e8c2c4e5dba5ffba2733"
+    },
+    "CID": {
+        "$numberInt": "8607"
+    },
+    "Name": "FOLPET",
+    "IUPACName": "2-(trichloromethylsulfanyl)isoindole-1,3-dione",
+    "CanonicalSMILES": "C1=CC=C2C(=C1)C(=O)N(C2=O)SC(Cl)(Cl)Cl",
+    "Synonyms": [
+        "Folpet",
+        "133-07-3",
+        "Faltan",
+        "Orthophaltan",
+        "Phthaltan",
+        "Folpel",
+        "Spolacid",
+        "Folnit",
+        "Folpan",
+        "Ftalan",
+        "Intercide TMP",
+        "PHALTAN",
+        "Acryptan",
+        "Vinicoll",
+        "Fungitrol 11"
+    ],
+    "IsomericSMILES": "C1=CC=C2C(=C1)C(=O)N(C2=O)SC(Cl)(Cl)Cl",
+    "INCHI": "InChI=1S/C9H4Cl3NO2S/c10-9(11,12)16-13-7(14)5-3-1-2-4-6(5)8(13)15/h1-4H",
+    "INCHIKEY": "HKIOYBQGHSTUDB-UHFFFAOYSA-N",
+    "Formula": "C9H4Cl3NO2S",
+    "MolecularWeight": {
+        "$numberDouble": "296.6"
+    },
+    "Description": "Folpet is a member of the class of phthalimides that is phthalimide in which the hydrogen attached to the nitrogen is replaced by a trichloromethylthio group. An agricultural fungicide, it has been used to control mildew, leaf spot, and other diseases in crops sice the 1950s. It has a role as an antifungal agrochemical. It is an organochlorine compound, an organosulfur compound and a phthalimide fungicide. It is functionally related to a phthalimide.",
+    "XlogP": {
+        "$numberDouble": "2.8"
+    },
+    "Complexity": {
+        "$numberInt": "307"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) USEPA; Reregistration Eligibility Decisions (REDs) Database on Folpet (133-07-3). USEPA738-R-99-011. Available from, as of Jan 12, 2012: https://www.epa.gov/pesticides/reregistration/status.htm",
+            "Value": "In Dade County, FL, five foliar applications of folpet (50WP) at 3 lb ai/acre/application were applied to avocados. Following the final application, triplicate samples of avocados were collected at 1, 3, 7, 14, and 28 days post treatment. Folpet residues at day 1 were 0.101-0.183 ppm and declined to <0.05-0.066 ppm by day 28. The maximum folpet residue (0.356 ppm) was found in the day 3 sample(1)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) USEPA; Reregistration Eligibility Decisions (REDs) Database on Folpet (133-07-3). USEPA738-R-99-011. Available from, as of Jan 12, 2012: https://www.epa.gov/pesticides/reregistration/status.htm",
+            "Value": "AEROBIC: A first-order half-life of 75.4 days was measured for the degradation of radio-labeled folpet, applied at 10 ug/L to Georgia sandy loam soil. The degradation pattern was described to be biphasic, with rapid degradation occurring between days 0-14 and slower degradation occurring between days 14-365 post-treatment. The Environmental Protection Agency calculated an integrated first-order half-life of 2.55 days using non-linear regression on the non-transformed data. An earlier study measured a half-life of 2.4 days with 74% of the applied radioactivity detected as 14CO2 at 7 days post-treatment for the degradation of radiolabeled folpet applied at 5.92 ppm to a sandy loam soil. Degradation products are carbon dioxide, phthalimide and phthalic acid(1)."
+        },
+        {
+            "References": "(1) USEPA; Reregistration Eligibility Decisions (REDs) Database on Folpet (133-07-3). USEPA738-R-99-011. Available from, as of Jan 12, 2012: https://www.epa.gov/pesticides/reregistration/status.htm",
+            "Value": "ANAEROBIC: Radiolabeled folpet had an estimated half-life of 14.6 days when applied to anoxic Georgia sandy loam soil at 10 ppm(1). In an earlier study, a half-life of <7 days was measured for the degradation of 5.33 ppm folpet in an anaerobic loamy sand(1). The major degradation products reported in both studies were carbon dioxide, phthalimide, and phathalic acid(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 50",
+            "Value": "log Kow = 2.85"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "USEPA; Office of Prevention, Pesticides and Toxic Substances; Reregistration Eligibility Decision (RED) for Folpet (133-07-3). EPA738-R-99-011 (November 1999). Available from, as of January 13, 2012: https://www.epa.gov/pesticides/reregistration/status_page_b.htm",
+            "Value": "Both folpet and captan appear to exert toxicity via the reaction of thiophosgene with the gastrointestinal tract. A more thorough review has been conducted on the mechanistic studies submitted for the related fungicide, captan. For captan, the Agency has concluded that thiophosgene is most likely implicated in the duodenal tumors, although its exact mode of action is unclear and a genotoxic component cannot be ruled out."
+        }
+    ],
+    "plant_translocation": [
+        {
+            "References": "Gordon, E. B. (1998). Carcinogenic risk characterization for folpet. Toxicology Letters, 95, 140. doi:10.1016/s0378-4274(98)80557-2",
+            "Value": "Captan and folpet are contact fungicides used in pesticides for over 50 years. They react directly or through release of thiophosgene, resulting in fungicidal activity. Due to high reactivity, captan and folpet do not enter systemic circulation in relevant amounts. Even if reaching bloodstream, their degradation half-life is <10 seconds and released thiophosgene is sequestered within 1 second in human blood. Thus, any systemic effects seen in animal studies are likely from initial local irritation at the site of contact like the gastrointestinal or respiratory tract. They are not treatment-related systemic effects. Folpet is a non-systemic fungicide that induces duodenal tumors in mice above 1000 ppm in diet. EPA has classified it a probable human carcinogen. However, evidence indicates folpet is non-genotoxic, acts locally and reversibly, has a clear threshold, and likely poses no carcinogenic risk to humans from agrochemical use. Supporting evidence includes:No genotoxicity in vivo; Duodenal villi identified as toxicity target; Compensatory crypt cell proliferation following villi disruption ;NOELs demonstrated for tumors, villi disruption, increased crypt cell proliferation.Additionally, folpet degrades rapidly via hydrolysis and thiol interactions, limiting effects to the gastrointestinal tract. Its rapid breakdown in blood (half-life <1 minute) and low dermal penetration are also relevant in assessing low systemic risk. Folpet lacks systemic activity and the overall cancer risk characterization indicates essentially no human carcinogenicity risk from agrochemical usage."
+        }
+    ]
+}

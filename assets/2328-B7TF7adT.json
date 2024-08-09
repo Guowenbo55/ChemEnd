@@ -1,0 +1,75 @@
+{
+    "_id": {
+        "$oid": "669270ff303528b49832d782"
+    },
+    "CID": {
+        "$numberInt": "2328"
+    },
+    "Name": "Bentazone",
+    "IUPACName": "2,2-dioxo-3-propan-2-yl-1H-2lambda6,1,3-benzothiadiazin-4-one",
+    "CanonicalSMILES": "CC(C)N1C(=O)C2=CC=CC=C2NS1(=O)=O",
+    "Synonyms": [
+        "Bentazone",
+        "bentazon",
+        "25057-89-0",
+        "Basagran",
+        "Bendioxide",
+        "Leader",
+        "Basagran 480",
+        "Pentazone",
+        "1H-2,1,3-Benzothiadiazin-4(3H)-one",
+        "3-(1-methylethyl)-",
+        "2,2-dioxide",
+        "BAS 351H",
+        "BAS 3510H",
+        "BAS 3512H",
+        "BAS 3517H",
+        "BAS 3510",
+        "BAS 351-07H"
+    ],
+    "IsomericSMILES": "CC(C)N1C(=O)C2=CC=CC=C2NS1(=O)=O",
+    "INCHI": "InChI=1S/C10H12N2O3S/c1-7(2)12-10(13)8-5-3-4-6-9(8)11-16(12,14)15/h3-7,11H,1-2H3",
+    "INCHIKEY": "ZOMSMJKLGFBRBS-UHFFFAOYSA-N",
+    "Formula": "C10H12N2O3S",
+    "MolecularWeight": {
+        "$numberDouble": "240.28"
+    },
+    "Description": "Bentazone is a benzothiadiazine that is 1H-2,1,3-benzothiadiazin-4(3H)-one 2,2-dioxide substituted by an isopropyl group at position 3. It has a role as an environmental contaminant, a xenobiotic and a herbicide.",
+    "XlogP": {
+        "$numberDouble": "2.8"
+    },
+    "Complexity": {
+        "$numberInt": "385"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The study found that both sweet pepper (Capsicum annuum L. 'Keystone Resistant Giant') and hot pepper (Capsicum chinense L. 'Bohemian Chili') exhibited similar patterns of uptake and translocation of 14C-bentazon, a herbicide. The majority of the absorbed 14C remained in the treated leaves, with limited movement towards other parts of the plants. Interestingly, hot pepper showed a significantly faster rate of herbicide metabolism compared to sweet pepper at 1 and 4 days after application. Methanol extracts from both pepper species contained two unidentified metabolites of bentazon. These findings suggest variations in the metabolism of bentazon between the two pepper species.",
+            "reference": "Baltazar, A. M., & Monaco, T. J. (1984). Uptake, translocation, and metabolism of bentazon by two pepper species (Capsicum annuum and Capsicum chinense). Weed science, 32(2), 258-263.",
+            "method": {
+                "Test Plant": "Sweet pepper (Capsicum annuum L. 'Keystone Resistant Giant') and hot pepper (Capsicum chinense L. 'Bohemian Chili')",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Seeds germinated in sand, transplanted to sand pots, grown in greenhouse (27/15C day/night) with daily nutrient solution. Moved to growth chamber (30/20C, 60/80% RH, 14/10 h day/night) 4 days before treatment.",
+                "Chemical Preparation": "0.28 kg ai/ha bentazon spray, plus 0.25 \u03bcCi ring-labeled 14C-bentazon (specific activity 13.7 mCi/mmole) in 50% ethanol applied to leaf centers for quantification. 0.05 \u03bcCi 14C-bentazon applied for autoradiography.",
+                "Pesticide Application Details for the Plant": "40 \u03bcL of 14C solution applied to centers of 3rd and 4th true leaves (20 \u03bcL/leaf) for quantification plants. 10 \u03bcL of 14C solution to center of 3rd true leaf for autoradiography plants.",
+                "Other Information": "Treated plants kept in growth chamber for 1, 4, or 8 days after application. All treatments replicated 3 times in completely randomized design. Rinses, extractions, combustions and radioassays conducted to quantify uptake, translocation and metabolism."
+            },
+            "result": "[{\"Plant\": \"Sweet pepper\", \"Days after application\": 1, \"Treated leaves (dpm/100mg)\": 9705, \"Above treated leaves(dpm/100mg)\": 1628, \"Below treated leaves (dpm/100mg)\": 654, \"Roots (dpm/100mg)\": 108}, {\"Plant\": \"Sweet pepper\", \"Days after application\": 4, \"Treated leaves (dpm/100mg)\": 15039, \"Above treated leaves(dpm/100mg)\": 890, \"Below treated leaves (dpm/100mg)\": 444, \"Roots (dpm/100mg)\": 61}, {\"Plant\": \"Sweet pepper\", \"Days after application\": 7, \"Treated leaves (dpm/100mg)\": 16570, \"Above treated leaves(dpm/100mg)\": 607, \"Below treated leaves (dpm/100mg)\": 720, \"Roots (dpm/100mg)\": 198}, {\"Plant\": \"Hot pepper\", \"Days after application\": 1, \"Treated leaves (dpm/100mg)\": 18875, \"Above treated leaves(dpm/100mg)\": 865, \"Below treated leaves (dpm/100mg)\": 728, \"Roots (dpm/100mg)\": 115}, {\"Plant\": \"Hot pepper\", \"Days after application\": 4, \"Treated leaves (dpm/100mg)\": 27614, \"Above treated leaves(dpm/100mg)\": 1025, \"Below treated leaves (dpm/100mg)\": 679, \"Roots (dpm/100mg)\": 105}, {\"Plant\": \"Hot pepper\", \"Days after application\": 7, \"Treated leaves (dpm/100mg)\": 49557, \"Above treated leaves(dpm/100mg)\": 735, \"Below treated leaves (dpm/100mg)\": 713, \"Roots (dpm/100mg)\": 217}]"
+        },
+        {
+            "content": "Translocation of 14C-labeled and toxicity of nonradiolabeled bentazon [3-isopropyl-1H-2,1,3-benzothiadiazin-(4)3H-one 2,2-dioxide] was determined for common cocklebur (Xanthium pensylvanicum Wallr.) and soybeans [Glycine max (L.) Merr.]. Significantly greater 14C-movement and herbicide toxicity occurred in common cocklebur growing in wet soil at field capacity than in dry soil near the wilting point. In common cocklebur there was a trend toward greater bentazon toxicity and 14C-translocation at high temperature (35 C) and high relative humidity (RH) (96%) than at low temperature (25 C) and low RH (35%). \u2018Lee 68\u2019 soybeans were injured less than 10% by bentazon under any environmental condition of this study. Translocation of 14C was primarily acropetal in both common cocklebur and soybeans. Herbicide movement was affected by leaf maturity with the greatest movement of 14C resulting from 14C-bentazon applied to the most mature common cocklebur leaf near the base of the shoot and to soybeans at the youngest fully expanded leaf near the apex of the shoot. Bentazon was more toxic and 14C translocation was greater in the soybean cultivar \u2018Hurrelbrink\u2019 than \u2018Hill\u2019 or Hill X Hurrelbrink cross.\n",
+            "reference": "Wills, G. D. (1976). Translocation of bentazon in soybeans and common cocklebur. Weed Science, 24(6), 536-540.",
+            "method": {
+                "Test Plant": "Soybeans (Glycine max) and common cocklebur (Xanthium strumarium).",
+                "Apply Location": "Bentazon was applied to soybeans with three fully expanded trifoliolate leaves and to common cocklebur with six to eight alternate leaves.",
+                "Plant Grown Condition": "Prior to treatment, soybeans and common cocklebur were grown under normal greenhouse conditions in 10-cm plastic pots containing Bosket very fine sandy loam soil.",
+                "Chemical Preparation": "14C-bentazon was radiolabeled at the number 10 carbon located in the central position between the two rings of the compound, with a specific activity of 2.99 mCi/mM.",
+                "Pesticide Application Details for the Plant": "The 14C-bentazon (0.13 \u00b5Ci) was applied in water as a 10-\u00b5l droplet to the upper surface of a single leaf per plant from a microsyringe, unless indicated differently. Herbicide toxicity was determined on other plants with commercial grade bentazon applied over-the-top using a mechanical spray table. Toxicity ratings were visually estimated using a scale of 0 for no effect and 100 for complete weed control or crop injury.",
+                "Other Information": "Treatments were replicated three to six times, and entire experiments were repeated once unless otherwise stated."
+            },
+            "result": "[{\"Plant\": \"Hill soybean\", \"Temperatures\": 24, \"Buds (%)\": 14, \"Trifoliolates (% of movement)\": 10, \"Unifoliolates (%)\": 1, \"Roots (%)\": 1, \"Overall (%)\": 11}, {\"Plant\": \"Hill soybean\", \"Temperatures\": 35, \"Buds (%)\": 22, \"Trifoliolates (% of movement)\": 22, \"Unifoliolates (%)\": 2, \"Roots (%)\": 3, \"Overall (%)\": 19}, {\"Plant\": \"Hurrelbrink soybean\", \"Temperatures\": 24, \"Buds (%)\": 64, \"Trifoliolates (% of movement)\": 60, \"Unifoliolates (%)\": 20, \"Roots (%)\": 14, \"Overall (%)\": 48}, {\"Plant\": \"Hurrelbrink soybean\", \"Temperatures\": 35, \"Buds (%)\": 87, \"Trifoliolates (% of movement)\": 80, \"Unifoliolates (%)\": 23, \"Roots (%)\": 16, \"Overall (%)\": 62}]"
+        }
+    ]
+}

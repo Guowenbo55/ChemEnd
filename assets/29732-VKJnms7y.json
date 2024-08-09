@@ -1,0 +1,80 @@
+{
+    "_id": {
+        "$oid": "6682e965c4e5dba5ffba2a6a"
+    },
+    "CID": {
+        "$numberInt": "29732"
+    },
+    "Name": "OXADIAZON",
+    "IUPACName": "5-tert-butyl-3-(2,4-dichloro-5-propan-2-yloxyphenyl)-1,3,4-oxadiazol-2-one",
+    "CanonicalSMILES": "CC(C)OC1=C(C=C(C(=C1)N2C(=O)OC(=N2)C(C)(C)C)Cl)Cl",
+    "Synonyms": [
+        "OXADIAZON",
+        "19666-30-9",
+        "Ronstar",
+        "Oxadiazone",
+        "Oxydiazon",
+        "RP 17623",
+        "5-tert-butyl-3-(2,4-dichloro-5-propan-2-yloxyphenyl)-1,3,4-oxadiazol-2-one",
+        "5-(tert-Butyl)-3-(2,4-dichloro-5-isopropoxyphenyl)-1,3,4-oxadiazol-2(3H)-one",
+        "G 315",
+        "5-tert-Butyl-3-(2,4-dichloro-5-isopropoxyphenyl)-1,3,4-oxadiazol-2(3H)-one",
+        "C6U0E0YTP6",
+        "DTXSID3024239",
+        "CHEBI:81786",
+        "2-tert-Butyl-4-(2,4-dichloro-5-isopropyloxyphenyl)-1,3,4-oxadiazolin-5-one",
+        "1,3,4-Oxazol-2(3H)-one",
+        "3-(2,4-dichloro-5-(1-methylethoxy)phenyl)-5-(1,1-dimethylethyl)-"
+    ],
+    "IsomericSMILES": "CC(C)OC1=C(C=C(C(=C1)N2C(=O)OC(=N2)C(C)(C)C)Cl)Cl",
+    "INCHI": "InChI=1S/C15H18Cl2N2O3/c1-8(2)21-12-7-11(9(16)6-10(12)17)19-14(20)22-13(18-19)15(3,4)5/h6-8H,1-5H3",
+    "INCHIKEY": "CHNUNORXWHYHNE-UHFFFAOYSA-N",
+    "Formula": "C15H18Cl2N2O3",
+    "MolecularWeight": {
+        "$numberDouble": "345.2"
+    },
+    "Description": "Oxadiazon is an aromatic ether.",
+    "XlogP": {
+        "$numberDouble": "4.8"
+    },
+    "Complexity": {
+        "$numberInt": "462"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Iwakuma T et al; Chemosphere 27:677-91 (1993)",
+            "Value": "SEDIMENT: Oxadiazon was detected in river sediment (organic carbon contents of 0.49-4.05 mg/g) samples collected from the Koise River tributaries in Japan during a rice cultivation period between May and September 1985 at a maximum concn of 10 ug/kg during August(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "The mode of action and selectivity of oxadiazon [2-tert-butyl-4(2,4-dichloro-5-isopropoxyphenyl)-\u03b42-1,3,4-oxadiazolin-5-one] were investigated in tolerant rice (Oryza sativa L.) and susceptible barnyardgrass [Echinochloa crus-galli (L.) Beauv. \u266f3 ECHCG]. Oxadiazon produced only brown spots on the foliage of rice plants at higher rates (> 500 ppmv), while LC50 for barnyardgrass was 250 ppmv. Translocation of 14C-oxadiazon from the treated leaf was minimal in both species; after 7 days, about 2 and 3% of applied 14 C translocated in rice and barnyardgrass, respectively. In rice, 14C recovered in water and chloroform washings of the treated leaf was 25% in each and in barnyardgrass, 20 and 18%, respectively. After water and chloroform washings, 14C-oxadiazon present in the treated leaf of barnyardgrass and rice was 36 and 26%, respectively. In rice and barnyardgrass, unaltered 14C-oxadiazon represented 86 and 79% of applied 14C, respectively, 7 days after application. In barnyardgrass 7 days after foliar application, oxadiazon inhibited 14CO2 fixation and the export of fixed carbon. The effects were less marked in rice.",
+            "reference": "Achhireddy, N. R., Kirkwood, R. C., & Fletcher, W. W. (1984). Oxadiazon absorption, translocation, and metabolism in rice (Oryza sativa) and barnyardgrass (Echinochloa crus-galli). Weed science, 32(6), 727-731.",
+            "method": {
+                "Test Plant": "Rice and barnyard grass",
+                "Apply Location": "Foliar application on the fully expanded second leaf",
+                "Plant Grown Condition": "Seeds planted in potting medium (loam:peat:sand = 7:3:2 v/v/v) in 10 cm diameter plastic pots. Medium fortified with limestone, macro and micronutrients. After germination, thinned to 4 plants/pot. Grown in heated greenhouse at 22\u00b12\u00b0C under white fluorescent lights with 14-h photoperiod.",
+                "Chemical Preparation": "14C-oxadiazon [2-tert-butyl-4(2,4-dichloro-5-isopropoxyphenyl)-\u03942-(1-14C)-1,3,4-oxadiazolin-5-one] with specific activity 25.87 mCi/mmol. 0.47 \u03bcg (0.05 \u03bcCi) 14C-oxadiazon applied as two 2-\u03bcL droplets with 0.1% oxysorbic surfactant.",
+                "Pesticide Application Details for the Plant": "two 2-\u03bcL droplets of 0.47 \u03bcg (0.05 \u03bcCi) 14C-oxadiazon + 0.1% oxysorbic applied to adaxial surface of fully expanded 2nd leaf at 4-leaf stage.",
+                "Other Information": "After herbicide spray, plants transferred to growth chamber at 20\u00b10.5\u00b0C, 417 \u03bcmol/m2/s PPFD for 14 h, 70\u00b15% RH for 2 weeks."
+            },
+            "result": "[{\"Plant\": \"Rice\", \"Leaf wash water (%)\": 24.6, \"Leaf wash chloroform (%)\": 24.7, \"Treated leaf (%)\": 26.4, \"Shoot (%)\": 1.8, \"Root (%)\": 0.3}, {\"Plant\": \"Barnyardgrass\", \"Leaf wash water (%)\": 19.9, \"Leaf wash chloroform (%)\": 18.0, \"Treated leaf (%)\": 36.3, \"Shoot (%)\": 2.6, \"Root (%)\": 0.5}]"
+        },
+        {
+            "content": "The study focused on the absorption, translocation, and metabolism of oxadiazon in rice plants. Three types of HC-labeled oxadiazon were used, and 14C-labeled oxadiazon was applied to soil under submerged conditions. Oxadiazon was found to be translocated significantly to shoots and accumulated in the lower leaves and stems, with a small portion also reaching the head parts of the plant. Chemical transformation in the plants resulted in the production of dealkylated compounds, oxidized alcohol, and carboxylic acid as metabolites. Two unidentified metabolites were also detected, with one being translocated to head parts from leaves and stems. The translocation and accumulation of oxadiazon and its metabolites were discussed in relation to the physiological conditions of rice plants.",
+            "reference": "Ishizuka, K., Hirata, H., & Fukunaga, K. (1975). Absorption, Translocation and Metabolism of 2-tert-Butyl-4-(2, 4-dichloro-5-isopropoxyphenyl)-\u03942-1, 3, 4-oxadiazolin-5-one (Oxadiazon) in Rice Plants. Agricultural and biological chemistry, 39(7), 1431-1446.",
+            "method": {
+                "Test Plant": "Rice (Oryza sativa L. cv. kimmaze or nihonbare)",
+                "Apply Location": "root application",
+                "Plant Grown Condition": "Seeds surface-sterilized, germinated in seedling tray, then 4-5 leaf stage seedlings of cv. kimmaze transplanted to 25 cm diameter x 30 cm deep Wagner pots filled with 7 kg Tanashi volcanic ash soil, 3 kg sand, 3.5 kg gravel.",
+                "Chemical Preparation": "Three 14C-labeled oxadiazon compounds used - oxadiazolin-2-14C (Oxa-1), oxadiazolin-5-14C (Oxa-2 contained ~2.5% impurities), and phenyl-universal-14C (Oxa-3). Radiochemical properties listed in Table 1.",
+                "Pesticide Application Details for the Plant": "-",
+                "Other Information": "-"
+            },
+            "result": "[{\"Days after application Translocation to shoots (ppm)\": 0.2, \"Roots (ppm)\": 2.4}, {\"Days after application Translocation to shoots (ppm)\": 0.3, \"Roots (ppm)\": 4.2}, {\"Days after application Translocation to shoots (ppm)\": 1.5, \"Roots (ppm)\": 9.4}, {\"Days after application Translocation to shoots (ppm)\": 3.1, \"Roots (ppm)\": 10.5}, {\"Days after application Translocation to shoots (ppm)\": 3.6, \"Roots (ppm)\": 14.4}]"
+        }
+    ]
+}

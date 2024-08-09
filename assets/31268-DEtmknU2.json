@@ -1,0 +1,136 @@
+{
+    "_id": {
+        "$oid": "6682e96cc4e5dba5ffba2a8b"
+    },
+    "CID": {
+        "$numberInt": "31268"
+    },
+    "Name": "PYRROLIDINE",
+    "IUPACName": "pyrrolidine",
+    "CanonicalSMILES": "C1CCNC1",
+    "Synonyms": [
+        "PYRROLIDINE",
+        "123-75-1",
+        "Tetrahydropyrrole",
+        "Tetrahydro pyrrole",
+        "Azacyclopentane",
+        "Azolidine",
+        "Tetramethylenimine",
+        "Butylenimine",
+        "Perhydropyrrole",
+        "Prolamine",
+        "1-Azacyclopentane",
+        "Pyrrolidine ring",
+        "Pyrrole",
+        "tetrahydro-",
+        "Tetramethyleneimine",
+        "FEMA No. 3523"
+    ],
+    "IsomericSMILES": "C1CCNC1",
+    "INCHI": "InChI=1S/C4H9N/c1-2-4-5-3-1/h5H,1-4H2",
+    "INCHIKEY": "RWRDLPDLKQPQOW-UHFFFAOYSA-N",
+    "Formula": "C4H9N",
+    "MolecularWeight": {
+        "$numberDouble": "71.12"
+    },
+    "Description": "Pyrrolidine is a cyclic amine whose five-membered ring contains four carbon atoms and one nitrogen atom; the parent compound of the pyrrolidine family. It is a saturated organic heteromonocyclic parent, a member of pyrrolidines and an azacycloalkane. It is a conjugate base of a pyrrolidinium ion.",
+    "XlogP": {
+        "$numberDouble": "0.5"
+    },
+    "Complexity": {
+        "$numberInt": "22"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Hamano T et al; Agric Biol Chem 45: 2237-43 (1981) (2) Neurath GB et al; Food Cosmet Toxicol 15: 275-82 (1977)",
+            "Value": "Pyrrolidine was detected in 10 g samples of spinach and miso at 0.250 ppm and 0.020 ppm, respectively(1). Pyrrolidine can be found in spinach, red radish, and celery at 2.5 mg/kg, 38 mg/kg, and 0.4 mg/kg, respectively(2). It can also be found in maize, apple peels, beans, kale, paprika red and cornichons at 3.5 mg/kg, 1.5 mg/kg, 0.2 mg/kg, 1.6 mg/kg, 0.6 mg/kg, and 0.1 mg/kg, respectively(2). It is also found in barley, hops, and malt at 0.9 mg/kg, 1 mg/kg, and 1.5 mg/kg, respectively(2)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 10 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for pyrrolidine(SRC), using a log Kow of 0.46(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Rothkopf GS, Bartha R; J Amer Oil Chem Soc 61: 977-80 (1984)",
+            "Value": "AEROBIC: Flasks, containing 20 mL of basal salts inoculated with 1 mL of fresh sewage sludge, were incubated aerobically with agitation at 28 \u00b0C. After one week, these enrichment cultures were assayed for cell protein yield by the Lowry method. Pyrrolidine degradation displayed an increase of protein yield of 170 ug/mL from a maximum protein yield potential of 175 ug/mL, suggesting biodegradability(1)."
+        },
+        {
+            "References": "PMID:12146621",
+            "Value": "ANAEROBIC: Pyrrolidine was found to degrade anaerobically via denitrification in 7-15 days in microbial consortia from freshwater sediments, estuarine sediments and activated sludge(1)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Hamano T et al; Agric Biol Chem 45: 2237-43 (1981)",
+            "Value": "Pyrrolidine was detected in 10 g samples of cod roe at 0.006 ppm(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 10",
+            "Value": "log Kow = 0.46 at pH 13"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 4:1135",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ...Inhalation studies with rats at 120, 440, and 2600 ppm for single 6 hr exposures killed no animals."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 4:1135",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ...Small IV doses (<1 mg/kg) in dogs and cats produce increases in blood pressure and respiratory rate. The pressor activity is reduced by ganglionic blocking agents or sympathectomy."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 4:1135",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Lethal oral doses in rats affected gastrointestinal mucosa and caused vascular disorders. Inhalation exposure in mice resulted in irritation, excitement, and convulsions."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 4:1135",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Primary skin irritation studies on adult albino rabbits indicate pyrrolidine to be a severe skin irritant. Based on its alkaline characteristics, it is probably a severe eye irritant, even as a 20% solution."
+        },
+        {
+            "References": "BIBRA; Toxicity Profile for Pyrrolidine p. 5 (1989). Available from, as of December 3, 2007: https://www.bibra-information.co.uk/profilelist.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Pyrrolidine vapor caused irritation to the skin, eyes, nose and lungs of rats. It was of moderate acute oral toxicity in rats and mice with effects on the stomach, blood vessels, gastro-intestinal tract and liver of rats. Acute inhalation in mice was moderately toxic and may have had effects on the liver and kidneys in rats."
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 2687",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Others reported intense congestion of stomach and possible liver injury. Inhalation exposure to rats caused lacrimation, nasal irritation and red discharge, and irritation to paws. Pathology revealed bronchitis, conjunctivitis, and possible liver and kidney injury."
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 2687",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Administration to rats produced convulsive seizures. ...Suggest it may act by inhibiting enzymes involved in brain glutamate and aspartate metabolism. In vitro studies, with a rat liver mitochondrial monoamine oxidase system, showed pyrrolidine to be a hyperbolic competitive inhibitor."
+        },
+        {
+            "References": "Clugnet MC, Laget P; Electrophysiol Eff Nicotine Proc Int Symp 49 (1979)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Pyrrolidine when injected in the jugular vein, had no obvious effects on the cardiac functioning or neo- and archeo- cortical activities of the rats. At greater than 22 mg/kg, pyrrolidine induced some cardiac function alterations which were reversible."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 4:1135",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ During or after 10 oral doses of 135 mg/kg, rats showed no evidence of toxicity."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 4:1135",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/  A limited chronic study with rats at 2.6 mg/cu m, 4 hr/day for 6 months resulted in increased excitability of the nervous system, decreased diuresis, and decreased hemoglobin."
+        },
+        {
+            "References": "PMID:351383",
+            "Value": "/GENOTOXICITY/ Panel of tests including direct bacterial assay, microsomal mutagenesis assay and host-mediated assay. Negative results were observed for pyrrolidine in all 3 assay systems."
+        },
+        {
+            "References": "PMID:3276507",
+            "Value": "/GENOTOXICITY/ A number of solvent compounds ...  were tested in Saccharomyces cerevisiae ...  pyrrolidine ... /was/ negative for aneuploidy induction."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 10 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Cabani S; Trans Faraday Soc 67: 1933-42 (1971) (5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "The Koc of pyrrolidine is estimated as 42(SRC), using a log Kow of 0.46(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that pyrrolidine is expected to have very high mobility in soil. The pKa of pyrrolidine is 11.31(4), indicating that this compound will primarily exist in the cation form in the environment and cations generally adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(5)."
+        }
+    ]
+}

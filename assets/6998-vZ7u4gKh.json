@@ -1,0 +1,98 @@
+{
+    "_id": {
+        "$oid": "6682e865c4e5dba5ffba2562"
+    },
+    "CID": {
+        "$numberInt": "6998"
+    },
+    "Name": "2-Hydroxybenzaldehyde",
+    "IUPACName": "2-hydroxybenzaldehyde",
+    "CanonicalSMILES": "C1=CC=C(C(=C1)C=O)O",
+    "Synonyms": [
+        "SALICYLALDEHYDE",
+        "2-Hydroxybenzaldehyde",
+        "90-02-8",
+        "o-Hydroxybenzaldehyde",
+        "o-Formylphenol",
+        "Salicylal",
+        "2-Formylphenol",
+        "Salicylic aldehyde",
+        "Benzaldehyde",
+        "2-hydroxy-",
+        "Salicyladehyde",
+        "Salicylaldehyd",
+        "Salizylaldehyd",
+        "Benzaldehyde",
+        "o-hydroxy-",
+        "2-HYDROXY-BENZALDEHYDE",
+        "FEMA No. 3004"
+    ],
+    "IsomericSMILES": "C1=CC=C(C(=C1)C=O)O",
+    "INCHI": "InChI=1S/C7H6O2/c8-5-6-3-1-2-4-7(6)9/h1-5,9H",
+    "INCHIKEY": "SMQUZDBALVYZAC-UHFFFAOYSA-N",
+    "Formula": "C7H6O2",
+    "MolecularWeight": {
+        "$numberDouble": "122.12"
+    },
+    "Description": "Salicylaldehyde is a hydroxybenzaldehyde carrying a hydroxy substituent at position 2. It has a role as a nematicide and a plant metabolite.",
+    "XlogP": {
+        "$numberDouble": "1.8"
+    },
+    "Complexity": {
+        "$numberInt": "101"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) US Dept Agric; US Dept Agric, Agric Res Service. 1992-2016. Dr. Duke's Phytochemical and Ethnobotanical Databases. Salicylaldehyde. Available from, as of Oct 11, 2017: https://phytochem.nal.usda.gov/phytochem/search",
+            "Value": "2-Hydroxybenzaldehyde detections in plants(1).",
+            "Table": "[{'Genus species': 'Filipendula ulmaria', 'Family': 'Rosaceae', 'Common name': 'Queen of the Meadow; Meadowsweet', 'Part': 'Essential oil', 'Concn (ppm)': '750,000'}, {'Genus species': 'Filipendula ulmaria', 'Family': 'Rosaceae', 'Common name': 'Queen of the Meadow; Meadowsweet', 'Part': 'Flower Essent. Oil', 'Concn (ppm)': '748,000'}, {'Genus species': 'Aspalathus linearis', 'Family': 'Fabaceae', 'Common name': 'Red Bush Tea, Rooibos, Kaffree Tea', 'Part': 'Leaf Essent. Oil', 'Concn (ppm)': '1000'}, {'Genus species': 'Tagetes minuta', 'Family': 'Asteraceae', 'Common name': 'Stinking Roger, Dwarf Marigold, Wild Marigold, Aztec marigold, Mexican Marigold, Muster John Henry', 'Part': 'Plant', 'Concn (ppm)': '395'}, {'Genus species': 'Camellia sinensis', 'Family': 'Theaceae', 'Common name': 'Tea', 'Part': 'Leaf', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Mentha pulegium', 'Family': 'Lamiaceae', 'Common name': 'European Pennyroyal', 'Part': 'Essential Oil', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Lycopersicon esculentum', 'Family': 'Solanaceae', 'Common name': 'Tomato', 'Part': 'Fruit', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Tagetes minuta', 'Family': 'Asteraceae', 'Common name': 'Stinking Roger', 'Part': 'Essential Oil', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Nicotiana tabacum', 'Family': 'Solanaceae', 'Common name': 'Tobacco', 'Part': 'Leaf', 'Concn (ppm)': 'Not reported'}, {'Genus species': 'Filipendula ulmaria', 'Family': 'Rosaceae', 'Common name': 'Queen of the Meadow; Meadowsweet', 'Part': 'Flower', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Fagopyrum esculentum', 'Family': 'Polygonaceae', 'Common name': 'Buckwheat', 'Part': 'Seed', 'Concn (ppm)': 'not reported'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 29 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Oct 12, 2017: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 7 was calculated in fish for 2-hydroxybenzaldehyde(SRC), using a log Kow of 1.81(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Oct 12, 2017: https://www.safe.nite.go.jp/english/db.html",
+            "Value": "AEROBIC: 2-Hydroxybenzaldehyde, present at 30 mg/L, reached 2% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 100 mg/L in the Japanese MITI test; the test substance formed salicylic acid, 100% by HPLC(1). In an inherent degradation test 2-hydroxybenzaldehyde was confirmed to be biodegradable, proliferation in the sludge was observed, and neither salicylaldehyde nor salycylic acid remained(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 29",
+            "Value": "log Kow = 1.81"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 1056",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Salicylaldehyde fed to male rats for 10 days or more caused an increase in the number and size of hepatic and renal microbodies and caused fibrillar material to appear. The drug did not cause fibrillar material to appear in hepatic microbodies of mice or microbodies of transplantable rat hepatomas."
+        },
+        {
+            "References": "PMID:7163628",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ In the present study, we investigated a correlation of fetotoxicity induced by salicylic acid (SA) analogues to their hypocalcemic effect. Among of SA analogues, acetylsalicylic acid, salicylaldehyde, salicyl-alcohol, methyl salicylate and SA evoked a hypocalcemia in rats and mice but the other analogues had no effect by their single administration. The additional administration of dihydroxybenzoic acids elicited the hypocalcemia following the fetal toxicities induced by SA analogues paralleled to that of their hypocalcemic effect. A hypocalcemic effect was induced only by the benzoic acids with hydroxy group existing in ortho-position."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 1056",
+            "Value": "/OTHER TOXICITY INFORMATION/ Salicylaldehyde and its acetyl derivatives are all less potent analgesics and antinflammatory agents in rodents than salicylic acid and aspirin."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Bandowe BAM, Wilcke W; J Enviro Qual 39: 1349-1358 (2010)",
+            "Value": "SEDIMENT: 2-Hydroxybenzaldehyde was detected in Manaus, Mainz, and Berlin, Germany soils at concentrations of 6.2, 9.7, 41 ng/g, respectively; soils were collected from the Terra Firme of the Amazon basin in Brazil, sampling dates not reported(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 29 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Oct 12, 2017: https://www2.epa.gov/tsca-screening-tools (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of 2-hydroxybenzaldehyde is estimated as 73(SRC), using a log Kow of 1.81(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that 2-hydroxybenzaldehyde is expected to have high mobility in soil."
+        }
+    ]
+}

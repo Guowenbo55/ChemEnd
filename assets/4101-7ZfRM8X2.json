@@ -1,0 +1,93 @@
+{
+    "_id": {
+        "$oid": "6682e80bc4e5dba5ffba239f"
+    },
+    "CID": {
+        "$numberInt": "4101"
+    },
+    "Name": "METHENAMINE",
+    "IUPACName": "1,3,5,7-tetrazatricyclo[3.3.1.13,7]decane",
+    "CanonicalSMILES": "C1N2CN3CN1CN(C2)C3",
+    "Synonyms": [
+        "methenamine",
+        "Hexamethylenetetramine",
+        "100-97-0",
+        "Hexamine",
+        "Urotropine",
+        "Aminoform",
+        "Hexamethylenamine",
+        "Urotropin",
+        "1,3,5,7-Tetraazaadamantane",
+        "HMTA",
+        "Hexamethylene tetramine",
+        "Methenamin",
+        "Uritone",
+        "Hexamethylenetetraamine",
+        "Formamine"
+    ],
+    "IsomericSMILES": "C1N2CN3CN1CN(C2)C3",
+    "INCHI": "InChI=1S/C6H12N4/c1-7-2-9-4-8(1)5-10(3-7)6-9/h1-6H2",
+    "INCHIKEY": "VKYKSIONXSXAKP-UHFFFAOYSA-N",
+    "Formula": "C6H12N4",
+    "MolecularWeight": {
+        "$numberDouble": "140.19"
+    },
+    "Description": "Hexamethylenetetramine is a polycyclic cage that is adamantane in which the carbon atoms at positions 1, 3, 5 and 7 are replaced by nitrogen atoms. It has a role as an antibacterial drug. It is a polycyclic cage, a polyazaalkane and a tetramine.",
+    "XlogP": {
+        "$numberDouble": "0.3"
+    },
+    "Complexity": {
+        "$numberInt": "84"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) ECHA; Search for Chemicals. Methenamine (CAS 100-97-0) Registered Substances Dossier. European Chemical Agency. Available from, as of Jan 29, 2016: https://echa.europa.eu/ (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Jan 29, 2016: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for methenamine(SRC), using a log Kow of -2.18(1) and a regression-derived equation(2). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) VanGinkel CG, Stroo CA; Ecotox Environ Safety 24: 319-27 (1992) (2) Thom NS, Agg AR; Proc R Soc Lond B 189: 347-57 (1975) (3) Swope HG, Kenna M; Sewage Ind Waste 21: 467-8 (1950) (4) Smith A, Colquhoun KO; Chemosphere 16: 1555-6 (1987) (5) Colquhoun KO; Diss Abstr Int B 49: 5499-500 (1989) (6) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Feb 2, 2016: https://www.safe.nite.go.jp/english/db.html (7) Painter HA, King EF; Chemosphere 15: 471-478 (1986) (8) Smith A, Colquhoun KO; Chemosphere 16: 1555-1556 (1987) (9) OECD; SIDS Initial Assessment Profile, SIAM 24, Methenamine (100-97-0), April 17-20, 2007. Available from, as of Feb 1, 2016: https://webnet.oecd.org/hpv/ui/Search.aspx",
+            "Value": "AEROBIC: In a closed bottle test using a secondary activated sludge inoculum, methenamine was found to be readily biodegradable with 70% biodegraded after 28 days(1). Methenamine was categorized as a synthetic organic chemical unlikely to be removed during biological sewage treatment, even after prolonged exposure of the biota(2). In a 5-day BOD test using a sewage seed, methenamine reached 2.02% of its theoretical BOD(3). Using an activated sludge inoculum, up to 87% removal of methenamine was observed after a 28 day incubation period(4). Methenamine was not degraded in the SCAS test, but it was degraded during 28-day die-away tests(5); no rates were given(SRC). Methenamine, present at 30 mg/L, reached 22% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 100 mg/L in the Japanese MITI test(6); degradation based on TOC and other parameters was 48% suggesting an abiotic hydrolysis component of the degradation(SRC). Methenamine was degraded in various screening tests (>70% DOC, >60% ThoD), but not in activated sludge simulation tests (<25% DOC removal)(7); it was suggested that methenamine would undergo hydrolysis or auto-oxidation in the 28-day screening tests to form biodegradable products, which are not produced in sufficient quantity in 3-hour simulation tests(7). It was observed that methenamine could inhibit degradation, by lowering microbial populations, in both sewage and activated sludge tests depending on concentration(8). Various biological screening studies have observed between 28-100% degradation of methenamine(9); part (or most) of the degradation can be explained by hydrolysis to form formaldehyde and ammonia followed by biodegradation(9); the degradation rate increases with acidity(9)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Cha YJ, Cadwallader KR; J Food Sci 60: 19-24 (1995)",
+            "Value": "Methenamine was tentatively identified in Korean salt-fermented anchovy (Engraulis japonica) paste, hair tail (Trichiurus japonica) viscera paste and shrimp (Acetes chimensis) paste at concentrations of 1,540, 3,820, and 3,990 ng/g, respectively(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "ECHA; Search for Chemicals. Methenamine (CAS 100-97-0) Registered Substances Dossier. European Chemical Agency; Available from, as of Jan 29, 2016: https://echa.europa.eu/",
+            "Value": "log Kow = -2.18 at pH 7-9, 20 \u00b0C"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 1155",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The dose at which mice begin to die following acute oral exposure is reported to be 512 mg/kg. Injection (intravenous, intraperitoneal, subcutaneous) LD50's in rats, mice, cats, and guinea pigs range from 200 to 512 mg/kg. This limited information suggests that /methenamine/ is moderately toxic following acute exposure."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 1155",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ No skin irritation was seen from a neoprene sponge containing an unspecified concentration of HMTA, and mild irritation occurred when a 5% solution of a mixture that contained 40% HMTA was placed on the skin of guinea pigs."
+        },
+        {
+            "References": "McEvoy, G.K. (ed.). American Hospital Formulary Service - Drug Information 97. Bethesda, MD: American Society of Health-System Pharmacists, Inc. 1997 (Plus Supplements)., p. 631",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In chronic toxicity studies in dogs and rats receiving oral methenamine in a dosage of 50-200 mg/kg daily and 0.8-6.4 g/kg daily, respectively, gastric and bladder irritation occurred with some hemorrhagic sites and ulceration. Methenamine hippurate has been administered to rats for 12 months and to monkeys for 6 months at dosages equivalent to twice the usual recommended human dosage without evidence of adverse effects."
+        },
+        {
+            "References": "Plumb D.C. Veterinary Drug Handbook. 8th ed. (pocket). Ames, IA: Wiley-Blackwell, 2015., p. 942",
+            "Value": "/VETERINARY CASE REPORTS/ Dogs have received single IV dosages of up to 600 mg/kg of methenamine hippurate without overt toxic effects."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Jan 29, 2016: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 23 (1983) (3) Cooney AP et al; J Chem Soc, Perkin Trans 2 1986: 835-839 (1986) (4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc for methenamine can be estimated to be about 10(SRC). According to a classification scheme(2), this estimated Koc value suggests that methenamine is expected to have very high mobility in soil(SRC). The pKa of methenamine is 4.89(3), indicating that this compound will exist partially in cation form in the environment and cations generally adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(4)."
+        }
+    ]
+}

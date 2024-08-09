@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "669270f4303528b49832d758"
+    },
+    "CID": {
+        "$numberInt": "52997"
+    },
+    "Name": "Sulfometuron-methyl",
+    "IUPACName": "methyl 2-[(4,6-dimethylpyrimidin-2-yl)carbamoylsulfamoyl]benzoate",
+    "CanonicalSMILES": "CC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC)C",
+    "Synonyms": [
+        "sulfometuron-methyl",
+        "SULFOMETURON METHYL",
+        "74222-97-2",
+        "OUST",
+        "DPX-T5648",
+        "Sulfometuron methyl ester",
+        "Caswell No. 561D",
+        "Aa 5648",
+        "Sulfometuron-methyl [ISO]",
+        "DPX 5648",
+        "methyl 2-[(4,6-dimethylpyrimidin-2-yl)carbamoylsulfamoyl]benzoate",
+        "JLY5D60J1A",
+        "CHEBI:9348",
+        "DTXSID0034936",
+        "Benzoic acid",
+        "2-[[[[(4,6-dimethyl-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]-",
+        "methyl ester"
+    ],
+    "IsomericSMILES": "CC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC)C",
+    "INCHI": "InChI=1S/C15H16N4O5S/c1-9-8-10(2)17-14(16-9)18-15(21)19-25(22,23)12-7-5-4-6-11(12)13(20)24-3/h4-8H,1-3H3,(H2,16,17,18,19,21)",
+    "INCHIKEY": "ZDXMLEQEMNLCQG-UHFFFAOYSA-N",
+    "Formula": "C15H16N4O5S",
+    "MolecularWeight": {
+        "$numberDouble": "364.4"
+    },
+    "Description": "Sulfometuron methyl is a benzoate ester that is the methyl ester of 2-{[(4,6-dimethylpyrimidin-2-yl)carbamoyl]sulfamoyl}benzoic acid. It has a role as a herbicide and an EC 2.2.1.6 (acetolactate synthase) inhibitor. It is a member of pyrimidines, a benzoate ester and a N-sulfonylurea. It is functionally related to a sulfometuron.",
+    "XlogP": {
+        "$numberDouble": "1.9"
+    },
+    "Complexity": {
+        "$numberInt": "581"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The study investigated sulfometuron-methyl, a herbicide component in a mixture used in Brazilian sugarcane fields, focusing on its absorption and movement within sugarcane plants at different growth stages. Interestingly, there was no variation in the absorption of sulfometuron-methyl between sugarcane plants at the 2-3-leaf and 5-6-leaf stages. However, significant differences were observed in the distribution of sulfometuron-methyl within the plants. While the total absorption and translocation out of the treated leaf did not differ between the growth stages, the accumulation of sulfometuron-methyl in specific plant parts varied. At the 2-3-leaf stage, more 14C accumulated in the roots, particularly sett roots, whereas in the 5-6-leaf stage, greater accumulation was noticed in the sett. This disparity in accumulation could potentially explain the differences in phytotoxicity responses observed between the two growth stages in the field. The study suggests that although the absorption remained consistent, the varying accumulation patterns within different parts of the plants might contribute to the observed differences in sensitivity to sulfometuron-methyl. Further analysis on sulfometuron-methyl metabolism is recommended to elucidate the underlying causes of differential accumulation and phytotoxic responses among different growth stages of sugarcane plants treated with the herbicide mixture.",
+            "reference": "Assis, J. S. J. D., Tornisielo, V. L., Reis, F. C. D., Martins, B. A. B., Toledo, R. E. B., & Filho, R. V. (2018). Absorption and translocation of sulfometuron-methyl in sugarcane (Saccharum officinarum L.) at different growth stages. Journal of Environmental Science and Health, Part B, 1\u20135. doi:10.1080/03601234.2018.1480162\u00a0",
+            "method": {
+                "Test Plant": "Sugarcane (CTC 15 cultivar)",
+                "Apply Location": "Foliar application (fully expanded leaf)",
+                "Plant Grown Condition": "Sugarcane setts with one bud per sett buried at 15 cm in the soil inside 5-L pots. Plants were grown in the greenhouse until reaching two phenological stages: 2-3 leaf and 5-6 leaf.",
+                "Chemical Preparation": "[14C]sulfometuron-methyl (98% radiochemical purity, specific activity 1.2 MBq/mg) was used as the radiolabeled component, and the commercial formulated mixture of diuron, chlorthal-dimethyl, and sulfometuron-methyl (Front, Dupont, Brazil) was used as the non-radiolabeled component of the working solution.",
+                "Pesticide Application Details for the Plant": "The final radioactivity of the radiolabeled working solution was 33.33 Bq/mL, the fully expanded leaf of all plants was treated with thirty 1uL-droplets of the radiolabeled working solution, totaling 1kBq per plant",
+                "Other Information": "Plants were harvested at 3, 9, 24, 48, and 72 hours after herbicide treatment. Each treatment was replicated multiple times, but the exact number of replicates is not provided."
+            },
+            "result": "[{\"Time after application\": \"3 hours\", \"Growth stage\": \"2-3 leaf stage\", \"Above treated leaf (%)\": 0.052, \"Below treated leaf (%)\": 0.258, \"Sett (%)\": 0.195, \"Root (%)\": 2.63}, {\"Time after application\": \"3 hours\", \"Growth stage\": \"5-6 leaf stage\", \"Above treated leaf (%)\": 0.817, \"Below treated leaf (%)\": 0.435, \"Sett (%)\": 2.631, \"Root (%)\": 0.54}, {\"Time after application\": \"9 hours\", \"Growth stage\": \"2-3 leaf stage\", \"Above treated leaf (%)\": 0.064, \"Below treated leaf (%)\": 0.117, \"Sett (%)\": 0.176, \"Root (%)\": 2.62}, {\"Time after application\": \"9 hours\", \"Growth stage\": \"5-6 leaf stage\", \"Above treated leaf (%)\": 0.529, \"Below treated leaf (%)\": 0.763, \"Sett (%)\": 4.242, \"Root (%)\": 1.38}, {\"Time after application\": \"24 hours\", \"Growth stage\": \"2-3 leaf stage\", \"Above treated leaf (%)\": 0.028, \"Below treated leaf (%)\": 0.118, \"Sett (%)\": 0.119, \"Root (%)\": 2.49}, {\"Time after application\": \"24 hours\", \"Growth stage\": \"5-6 leaf stage\", \"Above treated leaf (%)\": 0.397, \"Below treated leaf (%)\": 0.68, \"Sett (%)\": 3.494, \"Root (%)\": 0.38}, {\"Time after application\": \"48 hours\", \"Growth stage\": \"2-3 leaf stage\", \"Above treated leaf (%)\": 0.019, \"Below treated leaf (%)\": 0.094, \"Sett (%)\": 0.146, \"Root (%)\": 1.793}, {\"Time after application\": \"48 hours\", \"Growth stage\": \"5-6 leaf stage\", \"Above treated leaf (%)\": 0.611, \"Below treated leaf (%)\": 0.376, \"Sett (%)\": 3.171, \"Root (%)\": 0.19}, {\"Time after application\": \"72 hours\", \"Growth stage\": \"2-3 leaf stage\", \"Above treated leaf (%)\": 0.007, \"Below treated leaf (%)\": 0.076, \"Sett (%)\": 0.035, \"Root (%)\": 2.268}, {\"Time after application\": \"72 hours\", \"Growth stage\": \"5-6 leaf stage\", \"Above treated leaf (%)\": 0.659, \"Below treated leaf (%)\": 0.6, \"Sett (%)\": 3.477, \"Root (%)\": 0.257}]"
+        }
+    ]
+}

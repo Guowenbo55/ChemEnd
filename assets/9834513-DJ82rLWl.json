@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "6692710c303528b49832d7b7"
+    },
+    "CID": {
+        "$numberInt": "9834513"
+    },
+    "Name": "Flonicamid",
+    "IUPACName": "N-(cyanomethyl)-4-(trifluoromethyl)pyridine-3-carboxamide",
+    "CanonicalSMILES": "C1=CN=CC(=C1C(F)(F)F)C(=O)NCC#N",
+    "Synonyms": [
+        "Flonicamid",
+        "158062-67-0",
+        "Aria",
+        "Flonicamid [ISO]",
+        "N-(cyanomethyl)-4-(trifluoromethyl)nicotinamide",
+        "3-Pyridinecarboxamide",
+        "N-(cyanomethyl)-4-(trifluoromethyl)-",
+        "N-(Cyanomethyl)-4-(trifluoromethyl)-3-pyridinecarboxamide",
+        "N-(cyanomethyl)-4-(trifluoromethyl)pyridine-3-carboxamide",
+        "CHEBI:39291",
+        "9500W2Z53J",
+        "IKI 220",
+        "F 1785",
+        "UNII-9500W2Z53J",
+        "HSDB 7937",
+        "BELEAF"
+    ],
+    "IsomericSMILES": "C1=CN=CC(=C1C(F)(F)F)C(=O)NCC#N",
+    "INCHI": "InChI=1S/C9H6F3N3O/c10-9(11,12)7-1-3-14-5-6(7)8(16)15-4-2-13/h1,3,5H,4H2,(H,15,16)",
+    "INCHIKEY": "RLQJEEJISHYWON-UHFFFAOYSA-N",
+    "Formula": "C9H6F3N3O",
+    "MolecularWeight": {
+        "$numberDouble": "229.16"
+    },
+    "Description": "Flonicamid is a pyridinecarboxamide that is nicotinamide substituted by a trifluoromethyl group at position 4 and a cyanomethyl group at the carbamoyl nitrogen atom. It has a role as a xenobiotic, an environmental contaminant and an insecticide. It is a pyridinecarboxamide, a nitrile and an organofluorine compound. It is functionally related to a nicotinamide.",
+    "XlogP": {
+        "$numberDouble": "0.8"
+    },
+    "Complexity": {
+        "$numberInt": "307"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The present study aimed to investigate the distribution and migration of eleven systemic and non-systemic pesticides between the skin and pulp of apples. It also examined the behavior of these pesticides during thermal processes ranging from 40\u00b0C to 150\u00b0C in two apple varieties. Gas and liquid chromatography-tandem mass spectrometry were employed for analytical investigations. Variations in pesticide concentrations between the pulp and skin were observed depending on the apple variety. Pirimicarb showed the highest transfer to the pulp, while boscalid and deltamethrin remained predominantly on the skin. Surprisingly, boscalid was found to be more present in the apple skin than in the pulp. Drying and dry pasteurization processes were the most effective in reducing pesticide levels in apples with and without skin, respectively. Thermal processes resulted in processing factors ranging from 0.06 to 0.98 for ten pesticides, with acetamiprid being the only pesticide whose levels were not decreased. The study discussed the relationship between pesticide distribution, behavior, and physico-chemical properties, particularly water solubility. The findings contribute to a better understanding of pesticide efficacy and removal in apples.",
+            "reference": "Hrynko, I., Kaczy\u0144ski, P., Pietruszy\u0144ska, M., & \u0141ozowicka, B. (2023). The effect of food thermal processes on the residue concentration of systemic and non-systemic pesticides in apples. Food Control, 143, 109267.",
+            "method": {
+                "Test Plant": "Two apple varieties (not specified)",
+                "Apply Location": "Surface application (skin)",
+                "Plant Grown Condition": "-",
+                "Chemical Preparation": "Eleven systemic and non-systemic pesticides - pirimicarb, boscalid, deltamethrin, and 8 others (not specified)",
+                "Pesticide Application Details for the Plant": "Pesticides applied to apple skin surface.  Fruit prepared in such a manner was subjected to artificial inoculation through submersion for 8 h in a solution containing selected plant protection products.",
+                "Other information and Other Information": "Study investigated distribution of pesticides between skin and pulp using GC/LC-MS/MS analysis. Relates pesticide behavior to physico-chemical properties like water solubility"
+            },
+            "result": "[{\"Size\": \"Medium-size apple\", \"% in apple pulp\": 68.8, \"% in apple skin\": 31.2}, {\"Size\": \"Large-size apple\", \"% in apple pulp\": 65.5, \"% in apple skin\": 34.5}]"
+        }
+    ]
+}

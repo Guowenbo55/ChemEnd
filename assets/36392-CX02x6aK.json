@@ -1,0 +1,67 @@
+{
+    "_id": {
+        "$oid": "6682e978c4e5dba5ffba2ac9"
+    },
+    "CID": {
+        "$numberInt": "36392"
+    },
+    "Name": "FLUCHLORALIN",
+    "IUPACName": "N-(2-chloroethyl)-2,6-dinitro-N-propyl-4-(trifluoromethyl)aniline",
+    "CanonicalSMILES": "CCCN(CCCl)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]",
+    "Synonyms": [
+        "FLUCHLORALIN",
+        "33245-39-5",
+        "Basalin",
+        "N-(2-Chloroethyl)-2,6-dinitro-N-propyl-4-(trifluoromethyl)aniline",
+        "BAS 3924H",
+        "BAS 3920",
+        "BAS 3921",
+        "BAS 3922",
+        "BAS 392 04 H",
+        "N-(2-Chloroethyl)-2,6-dinitro-N-propyl-4-(trifluoromethyl)benzenamine",
+        "Benzenamine",
+        "N-(2-chloroethyl)-2,6-dinitro-N-propyl-4-(trifluoromethyl)-",
+        "98UIF19AH9",
+        "DTXSID9032614",
+        "CHEBI:81919",
+        "N-Propyl-N-(2-chloroethyl)-2,6-dinitro-4-trifluoromethylaniline"
+    ],
+    "IsomericSMILES": "CCCN(CCCl)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]",
+    "INCHI": "InChI=1S/C12H13ClF3N3O4/c1-2-4-17(5-3-13)11-9(18(20)21)6-8(12(14,15)16)7-10(11)19(22)23/h6-7H,2-5H2,1H3",
+    "INCHIKEY": "MNFMIVVPXOGUMX-UHFFFAOYSA-N",
+    "Formula": "C12H13ClF3N3O4",
+    "MolecularWeight": {
+        "$numberDouble": "355.7"
+    },
+    "Description": "Fluchloralin is a C-nitro compound.",
+    "XlogP": {
+        "$numberDouble": "5"
+    },
+    "Complexity": {
+        "$numberInt": "403"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "sediment_soil_concentrations": [
+        {
+            "References": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 237",
+            "Value": "LOW LEVEL SOIL RESIDUES MAY PERSIST FOR MORE THAN ONE SEASON AFTER APPLICATION, AND PHYTOTOXICITY TO VERY SENSITIVE CROPS MAY OCCUR."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "The study examined the root absorption and translocation of [14C]fluchloralin, as well as its toxicity, in groundnut (Arachis hypogaea L.) and pigweed (Amaranthus viridis L.). It was found that groundnut absorbed about twice the amount of fluchloralin compared to pigweed during continuous application over 4 and 8 days. Groundnut retained 80% of the absorbed [14C] in the roots after 8 days, while pigweed showed rapid translocation to the leaves, with 45% and 70% of the absorbed [14C] found in the leaves at 1 and 8 days after application, respectively. Pigweed also exhibited different patterns of fluchloralin metabolism compared to groundnut, with most of the herbicide being metabolized by pigweed roots. The tolerance of pigweed to fluchloralin and the sensitivity of groundnut can be attributed to differential root absorption, translocation, and metabolism of the herbicide. The accumulation of absorbed fluchloralin in the roots of groundnut may contribute to the inhibition of crop plant growth.",
+            "reference": "Durgesha, M. (1994). Absorption, translocation and metabolism of fluchloralin in groundnut (Arachis hypogaea) and pigweed (Amaranthus viridis). Crop Protection, 13(4), 286\u2013290. doi:10.1016/0261-2194(94)90017-5\u00a0",
+            "method": {
+                "Test Plant": "Pigweed (Amaranthus viridis L.) and groundnut (Arachis hypogaea L. cv. TMV-2)",
+                "Apply Location": "Root application",
+                "Plant Grown Condition": "Seeds were soaked in distilled water for 18 hours, germinated on moistened filter paper for 48 hours at 25\u00b0C in dark, then seedlings were transferred to 1.0 L beakers with 850 ml Hoagland's No. 1 solution. Beakers were aerated for 6 hours daily, solution refilled as needed. Plants were grown in a growth chamber at 25\u00b0C, 60 W/m2 light intensity with 16/8 hour light/dark period until 3-4 leaf stage.",
+                "Chemical Preparation": "10 \u03bcM (0.51 \u03bcCi/\u03bcM) of ring-labelled [14C]fluchloralin with 98.6% purity was added to the nutrient solution.",
+                "Pesticide Application Details for the Plant": "[14C]fluchloralin was applied to the plants by adding to the nutrient solution when plants reached 3-4 leaf stage.",
+                "Other Information": "Six replicates per treatment with 5 plants per replicate as a single unit."
+            },
+            "result": "[{\"Plant\": \"Groundnut\", \"Days after application\": 1, \"Roots and cotyledons (dpm/mg)\": 813, \"Stem (dpm/mg)\": 129, \"Leaves (dpm/mg)\": 73}, {\"Plant\": \"Groundnut\", \"Days after application\": 4, \"Roots and cotyledons (dpm/mg)\": 1632, \"Stem (dpm/mg)\": 114, \"Leaves (dpm/mg)\": 132}, {\"Plant\": \"Groundnut\", \"Days after application\": 8, \"Roots and cotyledons (dpm/mg)\": 2183, \"Stem (dpm/mg)\": 109, \"Leaves (dpm/mg)\": 194}, {\"Plant\": \"Pigweed\", \"Days after application\": 1, \"Roots and cotyledons (dpm/mg)\": 354, \"Stem (dpm/mg)\": 151, \"Leaves (dpm/mg)\": 437}, {\"Plant\": \"Pigweed\", \"Days after application\": 4, \"Roots and cotyledons (dpm/mg)\": 219, \"Stem (dpm/mg)\": 122, \"Leaves (dpm/mg)\": 514}, {\"Plant\": \"Pigweed\", \"Days after application\": 8, \"Roots and cotyledons (dpm/mg)\": 211, \"Stem (dpm/mg)\": 167, \"Leaves (dpm/mg)\": 965}]"
+        }
+    ]
+}

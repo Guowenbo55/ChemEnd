@@ -1,0 +1,65 @@
+{
+    "_id": {
+        "$oid": "6682e817c4e5dba5ffba23de"
+    },
+    "CID": {
+        "$numberInt": "4915"
+    },
+    "Name": "PROCARBAZINE",
+    "IUPACName": "4-[(2-methylhydrazinyl)methyl]-N-propan-2-ylbenzamide",
+    "CanonicalSMILES": "CC(C)NC(=O)C1=CC=C(C=C1)CNNC",
+    "Synonyms": [
+        "procarbazine",
+        "671-16-9",
+        "Procarbazin",
+        "Ibenzmethyzin",
+        "Ibenzmethyzine",
+        "Procarbazin [German]",
+        "Procarbazina",
+        "Procarbazinum",
+        "Procarbazinum [INN-Latin]",
+        "Procarbazina [INN-Spanish]",
+        "N-Isopropyl-4-((2-methylhydrazinyl)methyl)benzamide",
+        "\"N-4-Isopropylcarbamoylbenzyl-N-methylhydrazine\"",
+        "2-(p-Isopropylcarbamoylbenzyl)-1-methylhydrazine",
+        "p-(2-Methylhydrazinomethyl)-N-isopropylbenzamide",
+        "1-Methyl-2-(p-(isopropylcarbamoyl)benzyl)hydrazine"
+    ],
+    "IsomericSMILES": "CC(C)NC(=O)C1=CC=C(C=C1)CNNC",
+    "INCHI": "InChI=1S/C12H19N3O/c1-9(2)15-12(16)11-6-4-10(5-7-11)8-14-13-3/h4-7,9,13-14H,8H2,1-3H3,(H,15,16)",
+    "INCHIKEY": "CPTBDICYNRMXFX-UHFFFAOYSA-N",
+    "Formula": "C12H19N3O",
+    "MolecularWeight": {
+        "$numberDouble": "221.3"
+    },
+    "Description": "Procarbazine is a benzamide obtained by formal condensation of the carboxy group of 4-[(2-methylhydrazino)methyl]benzoic acid with the amino group of isopropylamine. An antineoplastic chemotherapy drug used for treatment of Hodgkin's lymphoma. Metabolism yields azo-procarbazine and hydrogen peroxide, which results in the breaking of DNA strands. It has a role as an antineoplastic agent. It is a member of hydrazines and a member of benzamides. It is a conjugate base of a procarbazine(1+).",
+    "XlogP": {
+        "$numberDouble": "0.1"
+    },
+    "Complexity": {
+        "$numberInt": "210"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 106",
+            "Value": "log Kow = 0.06"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Thomson.Micromedex. Drug Information for the  Health Care Professional. 24th ed. Volume 1.  Plus Updates. Content Reviewed by the United States Pharmacopeial Convention, Inc. Greenwood Village, CO. 2004., p. 2372",
+            "Value": "Procarbazine is an alkylating agent. The exact mechanism of antineoplastic action is unknown but is thought to resemble that of the alkylating agents; procarbazine is cell cycle-specific for the S phase of cell division. Procarbazine is thought to inhibit DNA, RNA, and protein synthesis."
+        },
+        {
+            "References": "PMID:2328502",
+            "Value": "O-6-Methylguanine was measured in blood leukocyte DNA of seven patients with Hodgkin's or non-Hodgkin's lymphoma during therapeutic exposure to procarbazine involving three daily p.o. doses (50 mg each) for 10 days (corresponding to 2.1 mg/kg/day for a 70-kg human). Adduct accumulation was observed in all seven cases, reaching levels up to 0.28 fmol/microgram of DNA (0.45 umol/mol of guanine). In one individual, maximal levels of adduct were reached after 7 days of exposure, followed by a steady decline, whereas in all other individuals continuous accumulation was observed throughout the exposure period. In four individuals for which data were available for day 11 (12 to 16 hr after the final intake of procarbazine), decreased amounts of O-6-methylguanine were observed relative to the last previous measurements. The accumulation of O-6-methylguanine was linearly correlated with the cumulative dose of procarbazine, with a slope of 0.011 fmol of O-6-methylguanine/microgram of DNA per mg/kg of body weight or 2.68x10-4 fmol of O-6-methylguanine DNA per mg/sq m. Two hr after the administration of single p.o. doses of l to 10 mg/kg of procarbazine to rats, O-6-methylguanine formation in leukocyte DNA was just under half that in liver DNA and showed a linear relationship with dose with a slope of 0.017 fmol/microgram of DNA per mg/kg of body weight or 5.67x10-4 fmol of O-6-methylguanine/microgram of DNA per mg/sq m. A negative correlation between the rate of accumulation of O-6-methylguanine in different individuals and lymphocyte O-6-alkylguanine-DNA alkyltransferase was observed, demonstrating a probable protective effect of O-6-alkylguanine-DNA alkyltransferase against the accumulation of O-6-methylguanine during exposure to methylating agents. This observation supports the suggestion of a possible role of procarbazine-induced O-6-methylguanine in the pathogenesis of acute nonlymphocytic leukemia appearing after treatment with chemotherapeutic protocols which include procarbazine, based on the finding of low lymphocyte O-6-alkylguanine-DNA alkyltransferase levels in patients with such therapy-related neoplastic disease. Lymphocyte O-6-alkylguanine-DNA alkyltransferase levels were mainly in the range of 5 to 10 fmol/micrograms of DNA and showed no consistent variation during procarbazine exposure."
+        },
+        {
+            "References": "Thomson.Micromedex. Drug Information for the  Health Care Professional. 24th ed. Volume 1.  Plus Updates. Content Reviewed by the United States Pharmacopeial Convention, Inc. Greenwood Village, CO. 2004., p. 2372",
+            "Value": "Procarbazine causes weak inhibition of monoamine oxidase (MAO). MAO inhibitors prevent the inactivation of tyramine by hepatic and gastrointestinal monoamine oxidase. Tyramine in the bloodstream releases norepinephrine from the sympathetic nerve terminals and produces a sudden increase in blood pressure."
+        }
+    ]
+}

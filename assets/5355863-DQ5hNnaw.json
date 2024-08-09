@@ -1,0 +1,170 @@
+{
+    "_id": {
+        "$oid": "6682e9bac4e5dba5ffba2c17"
+    },
+    "CID": {
+        "$numberInt": "5355863"
+    },
+    "Name": "MEVINPHOS",
+    "IUPACName": "methyl (E)-3-dimethoxyphosphoryloxybut-2-enoate",
+    "CanonicalSMILES": "CC(=CC(=O)OC)OP(=O)(OC)OC",
+    "Synonyms": [
+        "mevinphos",
+        "cis-Mevinphos",
+        "Phosdrin",
+        "cis-Phosdrin",
+        "(E)-Mevinphos",
+        "Fosdrin",
+        "7786-34-7",
+        "Meniphos",
+        "Phosfene",
+        "Gesfid",
+        "Menite",
+        "298-01-1",
+        "CMDP",
+        "Mevinfos",
+        "Compound 2046"
+    ],
+    "IsomericSMILES": "C/C(=C\\C(=O)OC)/OP(=O)(OC)OC",
+    "INCHI": "InChI=1S/C7H13O6P/c1-6(5-7(8)10-2)13-14(9,11-3)12-4/h5H,1-4H3/b6-5+",
+    "INCHIKEY": "GEPDYQSQVLXLEU-AATRIKPKSA-N",
+    "Formula": "C7H13O6P",
+    "MolecularWeight": {
+        "$numberDouble": "224.15"
+    },
+    "Description": "Mevinphos is a dialkyl phosphate and an organophosphate insecticide. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, an acaricide, an agrochemical and an avicide. It is functionally related to a methyl 3-hydroxybut-2-enoate.",
+    "XlogP": {
+        "$numberDouble": "1.2"
+    },
+    "Complexity": {
+        "$numberInt": "263"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Willis GH, McDowell LW; Rev Environ Contam Toxicol 100: 23- 73 (1987) (2) Beynon KI et al; Res Rev 47: 55-142 (1973) (3) Boehncke A et al; Chemosphere 21: 1109-24 (1990) (4) Spencer JR et al; Chemosphere 24: 773-7 (1992)",
+            "Value": "Mevinphos is metabolized by plants and has half-lives of 0.7 and 0.5 days on alfalfa and beans, respectively(1). Early field studies demonstrated that 90% of the applied mevinphos was lost in 0.8 to 4.2 days in a range of crops and that 99% of initial residues were lost in 3.9 days(2). Mean mevinphos losses from lettuce, kohlrabi, green beans, and summer wheat after field application ranged from 86- 99% in 24 hr; loss were ascribed to evaporation(3). A study conducted in Monterey County, CA to ascertain whether mevinphos dissipation on row crops was seasonally dependent and therefore might require a reevaluation of worker reentry intervals, found that the overall half-lives for June, 24 hr (SD = 10 hr), was not markedly different from that for October, 18 hr (SD = 8 hr)(4)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Meylan WM, Howard PH; J Pharm Sci 84: 83-92 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods, NY: McGraw-Hill Chapt 5, Eqn 5-2 (1982) (3) Beynon KI et al; Res Rev 47: 55-142 (1973)",
+            "Value": "Using an estimated log Kow of -0.24(1), one would estimate a BCF of 0.4 for mevinphos using a recommended regression equation(2). This would indicate that mevinphos would not bioconcentrate in aquatic organisms. Bioaccumulation of mevinphos may be unlikely in some systems because it is metabolized in some animals(3)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Getzin LW, Rosefield I; J Agric Food Chem 16: 598-601 (1968) (2) Sharom MS et al; Water Res 14: 1089-93 (1980)",
+            "Value": "In laboratory studies in Chehalis clay loam, 95% of the applied mevinphos degraded in 1 day(1). An enzyme was found to be responsible for the degradation which was heat labile(1). Another investigator, who did hydrolysis studies of mevinphos in water, reported that mevinphos degradation in soil was generally rapid with a half-life of 2-12 hr(2). This degradation rate, which is much more rapid than the rate of hydrolysis in water at pH 9(2), is consistent with a microbially-mediated process(SRC)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 703",
+            "Value": "log Kow = 0.13"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "CARRICABURU P ET AL; ELECTRORETINOGRAPHIC STUDY OF THE WHITE MOUSE INTOXICATED BY ORGANO-PHOSPHORUS. MEVINPHOS AND MALATHION; TOXICOL EUR RES 3 (2): 87-91 (1981)",
+            "Value": "ELECTRORETINOGRAPHIC RESULTS INDICATE THAT MEVINPHOS PERTURBS RETINAL FUNCTIONING OF WHITE MOUSE BY ACTING (1) DIRECTLY ON THE PHOTORECEPTORS; (2) BY SYNAPTOLYTIC EFFECT DUE TO INHIBITION OF CHOLINESTERASES; (3) BY DAMAGE OF THE BIPOLAR &/OR THE GANGLION NEURONS."
+        },
+        {
+            "References": "Dreisbach, R.H. Handbook of Poisoning. 12th ed. Norwalk, CT: Appleton and Lange, 1987., p. 113",
+            "Value": "Organophosphorus derivatives act by combining with and inactivating the enzyme acetylcholinesterase. ... The inactivation of cholinesterase by cholinesterase inhibitor pesticides allows the accumulation of large amounts of acetylcholine, with resultant widespread effects that may be ... separated into 4 categories: (1) Potentiation of postganglionic parasympathetic activity. ... (2) Persistent depolarization of skeletal muscle ... (3) Initial stimulation following depression of cells of central nervous system ... (4) Variable ganglionic stimulation or blockade ... /Cholinesterase inhibitor pesticides/"
+        },
+        {
+            "References": "International Labour Office. Encyclopedia of Occupational Health and Safety. Vols. I&II. Geneva, Switzerland: International Labour Office, 1983., p. 1638",
+            "Value": "The main feature of the toxic mechanism of organophosphorus pesticides is inhibition of the esterase enzyme activity, in particular of cholinesterase, which plays an important physiological part. Organophosphorus pesticides can also indirectly interact with the biochemical receptors of acetylcholine. /Organophosphorus pesticides/"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "American Conference of Governmental Industrial Hygienists, Inc. Documentation of the Threshold Limit Values and Biological Exposure Indices. 6th ed. Volumes I, II, III. Cincinnati, OH: ACGIH, 1991., p. 1044",
+            "Value": "When groups of female rats were fed mevinphos at 0, 6.3, 12.5, 50, or 100 ppm, all rats died within 3 weeks at 100 ppm; at 50 ppm for 60 days, rats showed reduced growth, slight tremor, and brain cholinesterase only 20% of normal. The rats fed 6.3 ppm mevinphos showed slight tremors, and brain cholinesterase activity was 90% that of the controls."
+        },
+        {
+            "References": "Menzie, C. M. Metabolism of Pesticides, An Update. U.S. Department of the Interior, Fish, Wild-life Service, Special Scientific Report - Wildlife No. 184, Washington, DC: U.S. Government Printing Office, l974., p. 291",
+            "Value": "THE BIMOLECULAR RATE CONSTANT FOR INHIBITION OF BOVINE ERYTHROCYTE CHOLINESTERASE WAS DETERMINED @ 37 \u00b0C TO BE 1.36X10+5 MOLES/MIN."
+        },
+        {
+            "References": "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 151",
+            "Value": "... /CAUSES/ MIOSIS IN PRESENCE OF MILD OR EVEN NO SYSTEMIC ILLNESS. ... RATS ARE KILLED BY INCLUSION OF 400 PPM MEVINPHOS IN DIET FOR 13 WK; 200 PPM /IN DIET/ FOR 14 WK IS LETHAL FOR DOGS. /CIS-MEVINPHOS/"
+        },
+        {
+            "References": "Spencer, E. Y. Guide to the Chemicals Used in Crop Protection. 7th ed. Publication 1093. Research Institute, Agriculture Canada, Ottawa, Canada: Information Canada, 1982., p. 400",
+            "Value": "/IT HAS/ NO PHYTOTOXIC EFFECTS WHEN USED AS RECOMMENDED."
+        },
+        {
+            "References": "U.S. Department of the Interior, Fish and Wildlife Service. Handbook of Toxicity of Pesticides to Wildlife. Resource Publication 153. Washington, DC: U.S. Government Printing Office, 1984., p. 54",
+            "Value": "ACUTE SYMPTOMS /BIRDS/: ATAXIA, EITHER LOW OR HIGH CARRIAGE, TOES CURLED, TACHYPNEA, DYSPNEA, SALIVATION, DIARRHEA, TREMORS, PHONATION, TETANY OR VIOLENT TERMINAL WING-BEAT CONVULSIONS ... MORTALITIES USUALLY OCCURRED BETWEEN 4 & 34 MIN IN MALLARDS & BETWEEN 5 & 20 MIN IN /GROUSE AND PHEASANTS, ORAL/"
+        },
+        {
+            "References": "KAHLON PS, BANERJEE MR; EVALUATION OF BRAVO, PHOSDRIN AND TELVAR AS POSSIBLE ENVIRONMENTAL MUTAGENS. BULL ENVIRON CONTAM TOXICOL 22 (3): 366-70 (1970)",
+            "Value": "CHROMOSOME ABERRATIONS STUDIED IN BARLEY SEEDS EXPOSED TO 250, 500 OR 1000 PPM MEVINPHOS. PERCENTAGE OF CELLS WITH MITOTIC IRREGULARITIES WERE 5, 18, 26 & 24% TO 0 THROUGH 1000 PPM TREATMENT LEVELS. MEVINPHOS RULED TOXIC TO PLANTS BECAUSE IT DECR HEIGHT."
+        },
+        {
+            "References": "Skinner CS, Kilgore WW; Application of a Dermal Self-Exposure Model to Worker Re-entry. J Toxicol Environ Health 9 (3): 461-82 (1982)",
+            "Value": "The dermal toxicity of five organophosphate insecticides was investigated with a mouse intermittent self-exposure model. Blood cholinesterases were monitored on days 3 and 1 before exposure and for 4-6 days during exposure to foliar residues. Responses were greater in unmuzzled than in muzzled animals due to oral contamination. After 2 10 hr exposures, unmuzzled mice showed a log linear cholinesterase responses across a wide range of foliar pesticide concentrations. Foliar pesticide levels that caused a 50% depression in plasma or red blood cell cholinesterase were determined with log probit dose response analysis. The greatest cholinesterase responses for emulsifiable concentrate and encapsulated formulations were found with diazinon, followed by parathion and methyl parathion. Azinphos-methyl and mevinphos produced no significant responses in muzzled mice at maximal foliar concn. Symptomatology, food consumption and body weight provided less sensitive indicators of response than cholinesterase. ..."
+        },
+        {
+            "References": "Skinner CS, Kilgore WK; Acute Dermal Toxicities of Various Organophosphate Insecticides in Mice. J Toxicol Environ Health 9 (3): 491-7 (1982)",
+            "Value": "Dermal LD50 values for five organophosphate insecticides (incl mevinphos) were determined by application of soln to hind feet of Swiss Webster mice. Values were simultaneously generated for the ED50 (mg/kg) for both cholinesterase (ChE) and acetylcholinesterase (AChE). Lethality was greatest with mevinphos. LD50 values were higher than reported values for mice treated on shaved back skin. Cholinesterase ED50 values (ChE 39 mg/kg & AChE 3 mg/kg) roughly agreed with LD50 value (12 mg/kg) for mevinphos."
+        },
+        {
+            "References": "Humphreys, D.J. Veterinary Toxicology. 3rd ed. London, England: Bailliere Tindell, 1988., p. 168",
+            "Value": "Inclusion of 200 ppm ... in the diet for 14 weeks is lethal for dogs ... ."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 679",
+            "Value": "... /Tests have shown/ changes in the electroretinogram in mice from ... mevinphos ... ."
+        },
+        {
+            "References": "Humphreys, D.J. Veterinary Toxicology. 3rd ed. London, England: Bailliere Tindell, 1988., p. 168",
+            "Value": "Mevinphos ... has the unusual property of causing miosis in the presence of mild or even no systemic effects."
+        },
+        {
+            "References": "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 153",
+            "Value": "The signs of poisoning due to organophosphorus cmpd are those due to accumulation of acetylcholine & hence overstimulation of parasympathetic nervous system. It is usual to divide them under 3 headings: muscarinic, nicotinic & central. Muscarinic signs ... consist of hypersalivation, lacrimation, sweating & nasal discharge. Miosis, dyspnea, vomiting, diarrhea & frequency of urination ... Nicotinic effects consist of fasciculation of muscles, weakness & paralysis. Central nervous system effects include nervousness, apprehension, ataxia, convulsions & coma. Death is due to resp failure, or sometimes cardiac arrest. There is little difference between signs produced by different organophosphorus compounds, but route of absorption may influence one system more than another. /Organophosphorus cmpd/"
+        },
+        {
+            "References": "Booth, N.H., L.E. McDonald (eds.). Veterinary Pharmacology and Therapeutics. 5th ed. Ames, Iowa: Iowa State University Press, 1982., p. 985",
+            "Value": "In adult cattle the minimum toxic oral dose of organophosphate pesticides varies from 1 to 125 mg/kg; the minimum toxic dermal concentration varies from 0.5 to 3%, but these figures are not sacred. The literature is not complete with regard to animal toxicity of organophosphates; even if it were, toxicity values would not be reliable because of the number of factors that influence toxicity of these chemicals under different conditions of use. These factors, not actual numbers, warrant discussion. /Organophosphorus pesticides/"
+        },
+        {
+            "References": "Booth, N.H., L.E. McDonald (eds.). Veterinary Pharmacology and Therapeutics. 5th ed. Ames, Iowa: Iowa State University Press, 1982., p. 986",
+            "Value": "Biologic factors also influence toxicity of organophosphates. Species is very important here. ... Age of the animal is another biologic factor that alters toxicity of organophosphate pesticides. Compounds that do not require enzymatic activation are more toxic in very young animals in which the enzymes of pesticide degradation are deficient. Compounds that require enzymatic activation are not so toxic for very young animals because the enzymes of activation are deficient during the early weeks of life. Sex of the animals can also alter toxicity of organophosphates ... . /Organophosphate pesticides/"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "Doull, J., C.D.Klassen, and M.D. Amdur (eds.). Casarett and Doull's Toxicology. 3rd ed., New York: Macmillan Co., Inc., 1986., p. 837",
+            "Value": "... THE AMOUNT OF MEVINPHOS BOUND BY SOILS INCREASED WITH INCREASING ORGAINC CONTENT. ... SOIL MOISTURE HAS A MAJOR INFLUENCE ON THE AVAILABILITY AND EXTRACTABILITY OF RESIDUES OF ORGANOPHOSPHORUS PESTICIDES ... BECAUSE OF COMPETITION BETWEEN THE INSECTICIDES AND WATER FOR ADSORPTION SITES ON CLAY PARTICLES. ... MEVINPHOS /WHEN COMPARED TO OTHER ORGANOPHOSPHORUS PESTICIDES/ 1.4-FOLD MORE ACTIVE IN MOIST SOILS THAN IN DRY SOILS. HOWEVER, EVEN THOUGH THERE IS A MAJOR INTERACTION BETWEEN INSECTICIDES AND WATER, IT DOES NOT APPEAR TO MOVE FREELY IN SOILS WITH WATER, AND LOSS BY LEACHING DOES NOT APPEAR TO BE A MAJOR FACTOR. ..."
+        },
+        {
+            "References": "Banares-Munoz MA; Agrochimica 29 (5/6): 435-44 (1985)",
+            "Value": "The adsorption of phosdrin by graphite oxide was examined as a model for the interaction of the pesticide with humic substances in the soil. Adsorption was studied by the imbibition at room temperature, isothermic imbibition/desorption at 318 K in the absence of adsorbate vapor. X-ray defraction and IR spectroscopic studies of the graphite oxide samples revealed the formation of two interlayer complexes (monolayer and bilayer) and an interactionn of phosdrin with the graphite oxide by hydrogen bonds involving the oxygen atom of the phosphoryl group and the hydroxyl of the carbonated layer of the graphite oxide; there was also a greater affinity of the graphite oxide for the Z-isomer in the pseudo-cis conformation."
+        },
+        {
+            "References": "(1) Sharom MS et al; Water Res 14: 1095-1100 (1980) (2) Wauchope RD et al; Rev Environ Contam Toxicol 123: 1-155 (1991) (3) Sanders PF, Seiber JN; ACS Symp Ser 259 (Treatment and Disposal of Pesticide Waste): 279-95 (12984) (4) Sanchez-Camazano M, Sanchez-Martin MJ; Bull Environ Contam Toxicol 44: 106-13 (1990)",
+            "Value": "According to the Pesticides Property Database, the Koc for mevinphos is 44(2). The soil/water distribution constant (Kd) and Koc for mevinphos using Reiff sandy loam soil (1.6% OC) are 1.1(3) and 68(SRC), respectively. The Freundlich adsorption constant and exponent, 1/n, for mevinphos in organic soil (43.7% OC, pH 6.1) are 19 and 0.95, respectively(1, SRC), from which a Koc of 44 may be derived(SRC). Mevinphos was almost completely (98.4%) leached from Plainfield sand (0.40% OC, pH 7.0) with 200 ml of water, while 80.4% was leached from organic soil (43.7% OC, pH 6.1); and additional 9.4% was leached with a second 200 ml aliquot of water(1). Mevinphos forms a stable interlayer complex with montmorillonite; the interaction mechanism is primarily ion- dipole(4). The adsorption of mevinphos was determined in 20 soils, both natural and oxidized to destroy organic carbon, with a range of organic matter, clay type and content, and pH(4). The Freundlich K and exponent, 1/n, and soil-water distribution constant, Kd, varies between 0.01-55.81, 0.37-1.40, and 0.81- 29.07, respectively, with higher K values corresponding to higher 1/n values(4). The results of simple and multiple correlation analyses for the natural and oxidized soils indicate that the most important parameter in the adsorption of mevinphos by soil is the clay content of the soil(4). Adsorption is facilitated by clay-organic matter complexes(4). The clay content and organic matter accounted for 59% of the variability in adsorption(4). These results indicate that Koc is not a useful measure of mevinphos' adsorptivity to soil(SRC)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "Mevinphos displayed relatively slower absorption and translocation through broccoli plants compared to other insecticides like demeton. While most compounds showed greater efficacy against aphids at higher temperatures, the mortality caused by mevinphos was less influenced by changes in temperature. This indicates mevinphos may be transported more slowly through the broccoli vascular system and its activity on pests is not as dependent on temperature fluctuations. The data suggests mevinphos has characteristics such as solubility that make it less subject to external thermal variations in its translocated concentration and resulting biocontrol effects on aphids compared to other studied pesticides.",
+            "reference": "Shirck, F. H., & Landis, B. J. (1970). Rates of Absorption and Translocation of Some Systemic Insecticides in Broccoli Determined by Mortality of Feeding Green Peach Aphid12. Journal of Economic Entomology, 63(3), 781\u2013782. doi:10.1093/jee/63.3.781\u00a0",
+            "method": {
+                "Test Plant": "Green peach aphids (Myzus persicae)",
+                "Apply Location": "Root application",
+                "Plant Grown Condition": "The stock of green peach aphids used was obtained from potato at Yakima and was held in cages of 'Green Sprouting' broccoli plants in a green house.",
+                "Chemical Preparation": "Pesticides was first prepared as a 1% emulsion in water and further diluted to a final concentration of 30 ppm of insecticide.",
+                "Pesticide Application Details for the Plant": "Each plant was treated with the insecticide emulsion of 30 ppm.",
+                "Other Information": "20 plants for each treatment"
+            },
+            "result": "[{\"Time after application\": \"24 hours\", \"Mortality (%)\": 50}, {\"Time after application\": \"48 hours\", \"Mortality (%)\": 92}, {\"Time after application\": \"72 hours\", \"Mortality (%)\": 97}]"
+        }
+    ]
+}

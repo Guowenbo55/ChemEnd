@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "66927115303528b49832d7da"
+    },
+    "CID": {
+        "$numberInt": "25271089"
+    },
+    "Name": "Isopyrazam",
+    "IUPACName": "3-(difluoromethyl)-1-methyl-N-(11-propan-2-yl-3-tricyclo[6.2.1.02,7]undeca-2(7),3,5-trienyl)pyrazole-4-carboxamide",
+    "CanonicalSMILES": "CC(C)C1C2CCC1C3=C2C=CC=C3NC(=O)C4=CN(N=C4C(F)F)C",
+    "Synonyms": [
+        "Isopyrazam",
+        "881685-58-1",
+        "3-(difluoromethyl)-1-methyl-N-(11-propan-2-yl-3-tricyclo[6.2.1.02,7]undeca-2(7),3,5-trienyl)pyrazole-4-carboxamide",
+        "3-(difluoromethyl)-N-(9-isopropyl-1,2,3,4-tetrahydro-1,4-methanonaphthalen-5-yl)-1-methyl-1H-pyrazole-4-carboxamide",
+        "Isopyrazam 100 microg/mL in Acetonitrile",
+        "3-(difluoromethyl)-N-(9-isopropyl-1,2,3,4-tetrahydro-1,4-methanonaphthalen-5-yl)-1-methylpyrazole-4-carboxamide",
+        "Isopyrazam [ISO]",
+        "UNII-F098T24Q5Q",
+        "SCHEMBL162518",
+        "DTXSID7058208",
+        "CHEBI:83128",
+        "F098T24Q5Q",
+        "NS00040576",
+        "Q27156655",
+        "1,4-methanonaphthalen-5-yl)-1-methylpyrazole-4-carboxamide"
+    ],
+    "IsomericSMILES": "CC(C)C1C2CCC1C3=C2C=CC=C3NC(=O)C4=CN(N=C4C(F)F)C",
+    "INCHI": "InChI=1S/C20H23F2N3O/c1-10(2)16-12-7-8-13(16)17-11(12)5-4-6-15(17)23-20(26)14-9-25(3)24-18(14)19(21)22/h4-6,9-10,12-13,16,19H,7-8H2,1-3H3,(H,23,26)",
+    "INCHIKEY": "XTDZGXBTXBEZDN-UHFFFAOYSA-N",
+    "Formula": "C20H23F2N3O",
+    "MolecularWeight": {
+        "$numberDouble": "359.4"
+    },
+    "Description": "3-(difluoromethyl)-N-(9-isopropyl-1,2,3,4-tetrahydro-1,4-methanonaphthalen-5-yl)-1-methylpyrazole-4-carboxamide is an aromatic amide obtained by formal condensation of the carboxy group of 3-(difluoromethyl)-1-methylpyrazole-4-carboxylic acid with the amino group of 9-isopropyl-1,2,3,4-tetrahydro-1,4-methanonaphthalen-5-amine. It is an aromatic amide, an organofluorine compound, a member of pyrazoles and a bridged compound.",
+    "XlogP": {
+        "$numberDouble": "4"
+    },
+    "Complexity": {
+        "$numberInt": "543"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The research indicates that isopyrazam, a novel fungicide, demonstrates systemic movement in cucumber plants, showcasing translaminar and transverse translocation properties. The fungicide shows efficacy against powdery mildew, significantly reducing disease severity in treated plants. The systemic movement of isopyrazam from roots to cotyledons and leaves is observed, particularly at higher concentrations, enhancing its efficacy in controlling powdery mildew. Isopyrazam's systemic translocation from roots to leaves highlights its potential to be absorbed by cucumber roots, subsequently aiding in the management of foliar diseases, emphasizing its systemic nature within the plant's vascular system. This systemic movement contributes to the extended duration of activity against cucumber powdery mildew, demonstrating its effectiveness over an extended period compared to other fungicides currently used.",
+            "reference": "He, L., Cui, K., Ma, D., Shen, R., Huang, X., Jiang, J., \u2026 Liu, F. (2017). Activity, Translocation, and Persistence of Isopyrazam for Controlling Cucumber Powdery Mildew. Plant Disease, 101(7), 1139\u20131144. doi:10.1094/pdis-07-16-0981-re\u00a0",
+            "method": {
+                "Test Plant": "Cucumber (Cucumis sativus cv. Xintai Mici)",
+                "Apply Location": "Foliar application on cotyledons, leaves",
+                "Plant Grown Condition": "Seeds soaked at 40\u00b0C for 6 h, then incubated at 25\u00b0C until hypocotyl 3-4 mm. Grown in 20 cm pots with autoclaved sandy loam and compost (3:1 ratio). Greenhouse conditions: 25\u00b0C, 16 h photoperiod, 3,800 lx intensity, 80% RH",
+                "Chemical Preparation": "Isopyrazam (99%), hexaconazole (95%), difenoconazole (92%), azoxystrobin (93%), pyraclostrobin (97%), kresoxim-methyl (94%). Isopyrazam 125 EC, difenoconazole 10 WG, azoxystrobin 250 SC, hexaconazole 5 ME, pyraclostrobin 250 EC, kresoxim-methyl 50 WG. Stock solutions of 10 mg/mL prepared and stored at -20\u00b0C",
+                "Pesticide Application Details for the Plant": "Isopyrazam at 60 mg/L sprayed on cotyledons (right half adaxial, abaxial) to evaluate transverse, translaminar movement. At 3-leaf stage, fungicides sprayed on adaxial right half, abaxial surface, lower leaf, top leaf to assess transverse, translaminar, acropetal, basipetal translocation",
+                "Other Information": "Powdery mildew inoculation (1 x 10^3 conidia/mL) 24 h after fungicide application. Disease severity rated on 0-9 scale after 10 days. Disease index and efficacy calculated. 15 plants per treatment, experiment repeated 3 times"
+            },
+            "result": "[{\"Concentration\": \"60 mg/L\", \"Tramslaminar movement on cotyledon (% of efficacy)\": 94.4, \"Transverse movement on cotyledon (%)\": 88.96, \"Translaminar movment on leaf (%)\": 95.26, \"Transverse movement on leaf (%)\": 82.83, \"Acropetal uptake transmission on leaf (%)\": 16.54, \"Basipetal uptake transmission on leaf (%)\": 1.5}]"
+        }
+    ]
+}

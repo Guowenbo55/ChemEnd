@@ -1,0 +1,64 @@
+{
+    "_id": {
+        "$oid": "669270f1303528b49832d74c"
+    },
+    "CID": {
+        "$numberInt": "86414"
+    },
+    "Name": "Halosulfuron",
+    "IUPACName": "3-chloro-5-[(4,6-dimethoxypyrimidin-2-yl)carbamoylsulfamoyl]-1-methylpyrazole-4-carboxylic acid",
+    "CanonicalSMILES": "CN1C(=C(C(=N1)Cl)C(=O)O)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC",
+    "Synonyms": [
+        "Halosulfuron",
+        "135397-30-7",
+        "3-chloro-5-[(4,6-dimethoxypyrimidin-2-yl)carbamoylsulfamoyl]-1-methylpyrazole-4-carboxylic acid",
+        "8WU8U5S0UR",
+        "1H-Pyrazole-4-carboxylic acid",
+        "3-chloro-5-[[[[(4,6-dimethoxy-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]-1-methyl-",
+        "Halosulfuron [ISO:BSI]",
+        "UNII-8WU8U5S0UR",
+        "1H-Pyrazole-4-carboxylic acid",
+        "3-chloro-5-(((((4,6-dimethoxy-2-pyrimidinyl)amino)carbonyl)amino)sulfonyl)-1-methyl-",
+        "HALOSULFURON [ISO]",
+        "SCHEMBL66216",
+        "CHEMBL2251588",
+        "DTXSID3074947",
+        "AKOS025311541",
+        "Q27271137",
+        "3-CHLORO-5-(((((4,6-DIMETHOXY-2-PYRIMIDINYL)AMINO)CARBONYL)AMINO)SULFONYL)-1-METHYL-1H-PYRAZOLE-4-CARBOXYLIC ACID"
+    ],
+    "IsomericSMILES": "CN1C(=C(C(=N1)Cl)C(=O)O)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC",
+    "INCHI": "InChI=1S/C12H13ClN6O7S/c1-19-9(7(10(20)21)8(13)17-19)27(23,24)18-12(22)16-11-14-5(25-2)4-6(15-11)26-3/h4H,1-3H3,(H,20,21)(H2,14,15,16,18,22)",
+    "INCHIKEY": "LXKOADMMGWXPJQ-UHFFFAOYSA-N",
+    "Formula": "C12H13ClN6O7S",
+    "MolecularWeight": {
+        "$numberDouble": "420.79"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "1"
+    },
+    "Complexity": {
+        "$numberInt": "649"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The study investigated the response of common lambsquarters to halosulfuron-methyl and 2,4-D applications, assessing their effects on absorption, translocation, and metabolism of halosulfuron. Halosulfuron alone did not effectively control the weed, whereas 2,4-D showed a decline in fresh weights with increasing rates. When combined, these herbicides exhibited a synergistic effect, resulting in lower fresh weights compared to individual applications. Laboratory findings suggested that the absorption and translocation of halosulfuron were not impacted by the addition of 2,4-D. Results revealed that 14C-halosulfuron absorption increased over time, while translocation out of the treated leaf remained minimal (less than 6%). Only a small percentage of halosulfuron was detected in the foliage above the treated leaf, and even less below or in the roots. The limited translocation observed was attributed to halosulfuron's physiochemical properties as a weak acid, likely involving phloem-mediated movement and constrained by its mode of action. ",
+            "reference": "Isaacs, M. A., Hatzios, K. K., Wilson, H. P., & Toler, J. (2006). Halosulfuron and 2, 4-D mixtures' effects on common lambsquarters (Chenopodium album). Weed Technology, 20(1), 137-142.",
+            "method": {
+                "Test Plant": "Common lambsquarters (Chenopodium album)",
+                "Apply Location": "Foliar",
+                "Plant Grown Condition": "Seeds planted in a commercial potting medium in 0.5-L styrofoam cups, germinated and grown in greenhouse conditions with temperatures maintained at 31\u00b15\u00b0C, supplemented with metal halide lamps providing 14 hours of illumination per day, and watered daily with a complete fertilizer applied weekly.",
+                "Chemical Preparation": "Halosulfuron applied alone and in mixtures with 2,4-D at various rates, with a nonionic surfactant included at 0.25% (v/v) with all herbicide treatments.",
+                "Received Pesticide of Plant": "0, 4.5, 9, 18, and 36 g/ha of halosulfuron applied alone and in mixtures with 2,4-D at 0, 17, 35, and 70 g/ha.",
+                "Other Information": "Three replicates for all treatments."
+            },
+            "result": "[{\"Time After Application\": \"6 hours\", \"Absorbed (% of applied)\": \"54%\", \"Treated Leaf (% of applied)\": \"96%\", \"Above Treated Leaf (% of applied)\": \"3%\"}, {\"Time After Application\": \"24 hours\", \"Absorbed (% of applied)\": \"76%\", \"Treated Leaf (% of applied)\": \"97%\", \"Above Treated Leaf (% of applied)\": \"2%\"}, {\"Time After Application\": \"72 hours\", \"Absorbed (% of applied)\": \"88%\", \"Treated Leaf (% of applied)\": \"95%\", \"Above Treated Leaf (% of applied)\": \"3%\"}]"
+        }
+    ]
+}

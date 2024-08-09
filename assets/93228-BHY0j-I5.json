@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "669270f9303528b49832d76c"
+    },
+    "CID": {
+        "$numberInt": "93228"
+    },
+    "Name": "Fluoroimide",
+    "IUPACName": "3,4-dichloro-1-(4-fluorophenyl)pyrrole-2,5-dione",
+    "CanonicalSMILES": "C1=CC(=CC=C1N2C(=O)C(=C(C2=O)Cl)Cl)F",
+    "Synonyms": [
+        "Fluoroimide",
+        "41205-21-4",
+        "3,4-Dichloro-1-(4-fluorophenyl)-1H-pyrrole-2,5-dione",
+        "Fluoromide",
+        "Spat",
+        "Spartcide",
+        "2,3-Dichloro-N-4-fluorophenylmaleimide",
+        "MK 23",
+        "Sparticide",
+        "N-p-Fluorophenyl-2,3-dichloromaleimide",
+        "3,4-dichloro-1-(4-fluorophenyl)pyrrole-2,5-dione",
+        "1H-Pyrrole-2,5-dione",
+        "3,4-dichloro-1-(4-fluorophenyl)-",
+        "2RA6KRO7U9",
+        "CHEBI:81826",
+        "NSC622384"
+    ],
+    "IsomericSMILES": "C1=CC(=CC=C1N2C(=O)C(=C(C2=O)Cl)Cl)F",
+    "INCHI": "InChI=1S/C10H4Cl2FNO2/c11-7-8(12)10(16)14(9(7)15)6-3-1-5(13)2-4-6/h1-4H",
+    "INCHIKEY": "IPENDKRRWFURRE-UHFFFAOYSA-N",
+    "Formula": "C10H4Cl2FNO2",
+    "MolecularWeight": {
+        "$numberDouble": "260.04"
+    },
+    "Description": "Fluoroimide is a maleimide that is substituted at positions 3 and 4 by chlorines and on the nitrogen by a p-fluorophenyl group. Previously used as a fungicide (now obsolete). It has a role as an antifungal agrochemical. It is an organofluorine pesticide, a member of maleimides, an organochlorine pesticide, a dicarboximide fungicide and a member of monofluorobenzenes.",
+    "XlogP": {
+        "$numberDouble": "2.8"
+    },
+    "Complexity": {
+        "$numberInt": "351"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The fate of Fluoroimide, N-(4-fluorophenyl)-2, 3-dichloromaleimide, on/in Inu-apple trees (Males prunifolia BORKHOUSEN) was investigated using two 14C-labeled compounds at either benzene ring or carbonyl group. Half lives of Fluoroimide applied on the leaves and fruits were about 20 days and 30 days, respectively. It remained mainly unchanged on the applied surface and was slowly absorbed by the plant. Only 2 % of applied Fluoroimide was translocated into the leaves 9 days after treatment, and 9% and 18% of applied radioactivity were absorbed and translocated into the leaves and fruits, respectively, after 93 days. A main metabolite of Fluoroimide was sodium 4-fluorodichloromaleanilate, a hydrolyzed compound of imide ring, that was identified by MS, IR, NMR and FX. Other four metabolites, such as 4-fluoroaniline, (E)-2, 3-dichloro-N-(4-fluorophenyl)acrylamide, N-(4-fluorophenyl) maleimide and N-(4-fluorophenyl) succinimide, were identified by cochromatography on tlc and MS, but residual amounts of these metabolites were quite low both in the leaves and fruits. It is considered that succinimide moiety of a reduced metabolite was derived from dichloromaleic acid portion of Fluoroimide, but not from the plant component.",
+            "reference": "\u5c0f\u5ddd\u90a6\u5f66, \u76f8\u6ca2\u5b8f\u4fdd, & \u5c71\u5185\u6587\u96c4. (1980). Absorption, translocation and metabolism of fluoroimide in Inu-apple trees, Malus prunifolia Borkhousen.\u00a0Journal of Pesticide Science,\u00a05(1), 29-36.",
+            "method": {
+                "Test Plant": "Inu-apple trees (Malus prunifolia BORKHOUSEN), ten years old, were used during the falling time of blossoms and fruiting time.",
+                "Apply Location": "Foliar application was performed on the leaves.",
+                "Plant Grown Condition": "Experiments were conducted in a growth chamber with an illumination of about 20,000 lux, set to daytime (11 hours) from July to September.",
+                "Chemical Preparation": "Two kinds of 14C-Fluoroimide were used:BR-Fluoroimide, labeled at the benzene ring, with a specific activity of 5.2 mCi/mmol and radiochemical purity >99%. CO-Fluoroimide, labeled at the carbonyl group, with a specific activity of 3.9 mCi/mmol and radiochemical purity >99%.",
+                "Pesticide Application Details for the Plant": "14C-Fluoroimide was applied at a concentration of 1000 ppm in a wettable powder form, containing 78% 14C-Fluoroimide, 5% surfactants, and 17% carrier, homogenized in water. Absorption and translocation experiments used a 750 ppm solution of Dain in water as the medium.",
+                "Other Information": "Radioanalysis and Autoradiography: Utilized a liquid scintillation spectrometer (TRI-GARB 3385) and different scintillator mixes for radioactivity measurement. Autoradiograms of plant tissue and thin-layer chromatographic plates were developed."
+            },
+            "result": "[{\"Days after application\": 9, \"Chemical\": \"BR-Fluoroimide\", \"Application method\": \"Face\", \"Applied part (% of absorbed)\": 98.2, \"Non-applied part (%)\": 1.8}, {\"Days after application\": 9, \"Chemical\": \"BR-Fluoroimide\", \"Application method\": \"Back\", \"Applied part (% of absorbed)\": 97.7, \"Non-applied part (%)\": 2.3}, {\"Days after application\": 9, \"Chemical\": \"CO-Fluoroimide\", \"Application method\": \"Face\", \"Applied part (% of absorbed)\": 99.5, \"Non-applied part (%)\": 0.5}, {\"Days after application\": 9, \"Chemical\": \"CO-Fluoroimide\", \"Application method\": \"Back\", \"Applied part (% of absorbed)\": 98.3, \"Non-applied part (%)\": 1.7}]"
+        }
+    ]
+}

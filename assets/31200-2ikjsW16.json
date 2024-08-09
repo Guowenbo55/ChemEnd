@@ -1,0 +1,110 @@
+{
+    "_id": {
+        "$oid": "6682e968c4e5dba5ffba2a78"
+    },
+    "CID": {
+        "$numberInt": "31200"
+    },
+    "Name": "Fenitrothion",
+    "IUPACName": "dimethoxy-(3-methyl-4-nitrophenoxy)-sulfanylidene-lambda5-phosphane",
+    "CanonicalSMILES": "CC1=C(C=CC(=C1)OP(=S)(OC)OC)[N+](=O)[O-]",
+    "Synonyms": [
+        "FENITROTHION",
+        "122-14-5",
+        "Phenitrothion",
+        "Methylnitrophos",
+        "Sumithion",
+        "Folithion",
+        "Metathion",
+        "Nitrophos",
+        "Oleosumifene",
+        "Ovadofos",
+        "Owadofos",
+        "Owadophos",
+        "Sumifene",
+        "Verthion",
+        "Cekutrothion"
+    ],
+    "IsomericSMILES": "CC1=C(C=CC(=C1)OP(=S)(OC)OC)[N+](=O)[O-]",
+    "INCHI": "InChI=1S/C9H12NO5PS/c1-7-6-8(4-5-9(7)10(11)12)15-16(17,13-2)14-3/h4-6H,1-3H3",
+    "INCHIKEY": "ZNOLGFHPUIJIMJ-UHFFFAOYSA-N",
+    "Formula": "C9H12NO5PS",
+    "MolecularWeight": {
+        "$numberDouble": "277.24"
+    },
+    "Description": "Fenitrothion is an organic thiophosphate that is O,O-dimethyl O-phenyl phosphorothioate substituted by a methyl group at position 3 and a nitro group at position 4. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, an agrochemical, an acaricide, an EC 3.1.1.8 (cholinesterase) inhibitor and an insecticide. It is an organic thiophosphate and a C-nitro compound. It is functionally related to a 4-nitro-m-cresol.",
+    "XlogP": {
+        "$numberDouble": "3.3"
+    },
+    "Complexity": {
+        "$numberInt": "313"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Sundaram KMS; J Environ Health B22: 413-38 (1987)",
+            "Value": "It was reported that fenitrothion persisted in leaf tissues and may act as a micro sink for the pesticide(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Feb 28, 2017: https://www.safe.nite.go.jp/english/db.html (2) Kanazawa J; Pestic Sci 12: 417-24 (1981) (3) Holmes SB et al; Bull Environ Contam Toxicol 33: 468-75 (1984) (4) Hawker DW, Connell DW; Ecotoxicol Environ Safety 11: 184-97 (1986) (5) Sancho E et al; Bull Environ Contam Toxicol 60: 809-815 (1998) (6) Tsuda T et al; Comp Biochem Physiol 116C: 213-18 (1997) (7) Tsuda T et al; Toxicol Environ Chem 24: 185-90 (1989) (8) Jackson SH et al; J Agric Food Chem 57: 958-67 (2009) (9) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "BCF values of 8.0 to 53.6 and 1.5 to 101.7 were calculated in fish for fenitrothion(SRC), using carp (Cyprinus carpio) which were exposed over an 8-week period at concentrations of 20 and 2 ppb, respectively(1). Measured BCF values of 246 in topmouth gudgeon(2), 225-650 in lake trout(3), and 129 in mussels(4) have also been reported. An experiment using the European eel measured BCFs of 2.6-24.8(5). Average BCFs of 71.1, 141, 37.5, 24.6, and 30.8 were measured in the female guppy, male guppy, killifish, goldfish and white cloud mountain fish, respectively(6). Bioconcentration factors for fenitrothion in whole body freshwater fish ranged from 158.0 (+/-29.3) at 6 hr to 364 (+/-97.8) at 168 hr using willow shiner (Gnathopogon caerulescens) which were exposed to 25 ug/L (+/-3.5) in continuous flow-through tanks for up to 168 hours(7). Following an EPA guideline study, a whole body BCF of 130 was reported for fenitrothion in bluegill fish (Lepomic macrochirus) exposed for 28 days(8). According to a classification scheme(9), BCF values of less than 30 are low and values from 100 to 1000 are considered high(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Feb 28, 2017: https://www.safe.nite.go.jp/english/db.html (2) Roy S et al; Biomed Chromat 10: 60-4 (1996) (3) Adhya TK et al; Biol Fertil Soils 4: 36-40 (1987) (4) Liu D et al; Environ Sci Technol 15: 788-93 (1981) (5) Hashizume K et al; Jpn J Toxicol Environ Health 40: 78-90 (1994) (6) Maguire RJ, Hale EJ; J Agric Food Chem 28: 372-8 (1980) (7) Weinberger P et al; Bull Environ Contam Toxicol 28: 484-9 (1982) (8) MacRae IC; Rev Environ Contam Toxicol 109: 1-87 (1989) (9) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK: British Crop Protection Council. Fenitrothion (122-14-5) (2008-2010)",
+            "Value": "AEROBIC: Fenitrothion, present at 100 mg/L, reached 0% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L(1). Fenitrothion exhibited 75% degradation after 90 days in alluvial soil from the Northern plains of India; three unknown metabolites were reported(2). In another experiment with five alluvial Indian rice soils, biodegradation half-lives ranged from 4.4 to 153.7 days under non-flooded conditions, where degradation was due to microbially-mediated hydrolysis producing 3-methyl-4-nitrophenol(3). Biodegradation half-lives of fenitrothion using activated sludge, soil, and sediments were 5.5 days with co-metabolites and 73 days in the absence of co-metabolites (glucose and peptone were added as carbon source of co-metabolites)(4). Fenitrothion biodegradation rate in Ara-ike, Makinoga-ike and Tatsuga-ike ponds in Nagoya City, Japan, in 4 and 7 days ranged from 1-35 and 13-55%, 10-26 and 12-82%, and 3-39 and 18-50%, respectively(5). Fenitrothion sprayed on a pond fell below detectable levels in 2 days and the only metabolite detected in water was 3-methyl-4-nitrophenol possibly due to microbial-mediated hydrolysis(7). In the sediment, aminofenitrothion was detected possibly due to reduction of the nitro group and the aminofenitrothion persisted in the sediment for less than 4 days(7). Fenitrothion was degraded more extensively by estuarine water microorganisms than by lake water and distilled water microorganisms(7,8). Desmethyl fenitrothion and 3-methyl-4-nitrophenol were the major degradation products(7,8). Fenitrothion applied to Balsam fir and spruce foliage resulted in 75 to 80% degradation within 2 weeks; major metabolites include 3-methyl-4-nitrophenol, the oxygen analogue and decomposition products desmethylfenitrothion, dimethylphosphorothionic acid and phosphorothionic acid(9)."
+        },
+        {
+            "References": "PMID:3655189",
+            "Value": "AEROBIC: Degradation of fenitrothion in sterile and non-sterile soils at various pH and moisture content was examined resulting in half-lives ranging from 13 to over 5,000 days. Overall the loss of fenitrothion in soil was attributed to both biotic and abiotic processes and was generally faster in non-sterile soil than sterile soil. The rate of degradation was dependant on pH, soil type, organic amendment, soil moisture content and fenitrothion concentration(1).",
+            "Table": "[{'Half-life (days)': '13', 'Concn (ppm)': 100, 'pH': 10.0, 'Moisture content (%)': 50, 'Soil': 'non-sterile clay loam'}, {'Half-life (days)': '44', 'Concn (ppm)': 100, 'pH': 10.0, 'Moisture content (%)': 50, 'Soil': 'non-sterile sandy loam'}, {'Half-life (days)': '65', 'Concn (ppm)': 100, 'pH': 7.3, 'Moisture content (%)': 50, 'Soil': 'non-sterile clay loam'}, {'Half-life (days)': '81', 'Concn (ppm)': 100, 'pH': 7.3, 'Moisture content (%)': 50, 'Soil': 'sterile clay loam'}, {'Half-life (days)': '138', 'Concn (ppm)': 100, 'pH': 7.2, 'Moisture content (%)': 50, 'Soil': 'non-sterile sandy loam'}, {'Half-life (days)': '144', 'Concn (ppm)': 100, 'pH': 7.2, 'Moisture content (%)': 50, 'Soil': 'sterile sandy loam'}, {'Half-life (days)': '1,249', 'Concn (ppm)': 1000, 'pH': 7.3, 'Moisture content (%)': 50, 'Soil': 'sterile clay loam'}, {'Half-life (days)': '1,348', 'Concn (ppm)': 1000, 'pH': 7.2, 'Moisture content (%)': 50, 'Soil': 'sterile sandy loam'}, {'Half-life (days)': '1,608', 'Concn (ppm)': 1000, 'pH': 7.2, 'Moisture content (%)': 50, 'Soil': 'non-sterile sandy loam'}, {'Half-life (days)': '1,883', 'Concn (ppm)': 1000, 'pH': 7.3, 'Moisture content (%)': 50, 'Soil': 'non-sterile clay loam'}, {'Half-life (days)': '2,068', 'Concn (ppm)': 1000, 'pH': 4.0, 'Moisture content (%)': 50, 'Soil': 'non-sterile clay loam'}, {'Half-life (days)': '5,873', 'Concn (ppm)': 1000, 'pH': 7.2, 'Moisture content (%)': 50, 'Soil': 'sterile sandy loam'}]"
+        },
+        {
+            "References": "(1) Adhya TK et al; Biol Fertil Soils 4: 36-40 (1987) (2) Liu D et al; Environ Sci Technol 15: 788-93 (1981)",
+            "Value": "ANAEROBIC: In an experiment with five alluvial Indian rice soils, biodegradation half-lives ranged from 3.9-10.9 days under flooded conditions, where the nitro group was reduced to form aminofenitrothion(1). The biodegradation half-lives of fenitrothion in cyclone fermentors with a mixture of microorganisms from activated sludge, soil and sediments were 1 day with cometabolites (glucose and peptone were added as carbon source of cometabolites) and anaerobic conditions, and 9.8 days in the absence of cometabolites and anaerobic conditions(2)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Sundaram KMS; J Environ Sci Health B22: 413-38 (1987) (2) Dogheim SM et al; J AOAC Intern 79: 949-52 (1996)",
+            "Value": "In study published in 1987, fenitrothion was not detected in fish collected from neighboring unsprayed streams following application of the pesticide in a nearby forest(1). It was not detected in fish analyzed from Egyptian local markets in 1991-1992(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 60",
+            "Value": "log Kow = 3.30"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. 2nd ed. Lechworth, Herts, England: The Royal Society of Chemistry, 1987., p. A199/AUG 87",
+            "Value": "Cholinesterase inhibitor."
+        },
+        {
+            "References": "WHO/International Programme on Chemical Safety; Environmental Health Criteria 133, Fenitrothion p.95 (1992). Available from, as of February 2, 2017: https://www.inchem.org/pages/ehc.html",
+            "Value": "Fenitrothion is not a strong inhibitor of AChE in vitro, but is much more so in vivo. The compound converted in the animal body to the active esterase inhibitor, fenitrooxon (O,O-dimethyl O-(3-methyl-4-nitrophenyl)phosphate), by the action of microsomal mixed function monooxygenase in liver and other tissues."
+        },
+        {
+            "References": "WHO/International Programme on Chemical Safety; Environmental Health Criteria 133, Fenitrothion p.95 (1992). Available from, as of February 2, 2017: https://www.inchem.org/pages/ehc.html",
+            "Value": "... /Authors/ concluded that dealkylation was an important factor among the many that contribute to the lower mammalian toxicity of fenitrothion compared with that of methylparathion. For example, the cholinesterase inhibition of fenitrooxon is less, the activation by conversion of P=S to P=O, slower, the translocation of fenitrothion more rapid, and the detoxification rate of fenitrothion, higher. Comparison of metabolites, at equitoxic doses in white mice (i.e., 17 mg methylparathion/kg and 850 mg fenitrothion/kg) showed that demethylation is the major detoxification path for fenitrothion at high doses (200-850 mg/kg), but not for methylparathion. However, inherently, demethylation of both compounds proceeds in a similar way and both fenitrothion and methylparathion are metabolized at a similar rate in vivo. ... /It was/ concluded that the relatively poorer penetration of fenitrooxon into the brain explained the selectively lower toxicity of fenitrothion rather than the dealkylation detoxification mechanism."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Eidt DC et al; Arch Environ Contam Toxicol 13: 43-52 (1984) (2) Glooschenko WA et al; Pestic Monit J 10: 61-7 (1976) (3) Sundaram KMS; J Environ Sci Health B22: 413-38 (1987) (4) Tsuda T et al; Bull Env Cont Tox 82: 683-689 (2009)",
+            "Value": "SEDIMENT: Following the spraying of a stream in New Brunswick, Canada at a peak water concentration of 15.2 ug/L, the max concentration of fenitrothion in a bottom sediment was 0.9 ug/g (ppm)(1). The concentration of fenitrothion in sediments generally decreased as the distance downstream from the treated area increased(1). During the summer of 1974, no fenitrothion was detected in sediment from the upper Great Lakes at a detection limit of 0.02 ug/g(2). Concentration of fenitrothion ranged from less than 0.01 to 0.21 ug/g in unsprayed stream and pond sediments located approx. 200 m from a conifer forest in New Brunswick, Canada which was sprayed with fenitrothion(3). No fenitrothion was detected in these sediments (detection limit 0.01 ppm) a year later suggesting that fenitrothion is not persistent in sediments(3). The concentration of fenitrothion in an unsprayed soil within 200 m of a spraying zone ranged 0.01-0.20 ppm, but the concentration dropped below the detection limit (0.01 ppm) a year later(3). In 2007, fenitrothion was detected in sediments from the southern and northen basins of Lake Biwa in Japan at concentrations of less than 1 ug/kg(4)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Kanazawa J; Environ Toxicol Chem 8: 477-84 (1989) (2) Singh N et al; J Environ Sci Health B25: 713-28 (1990) (3) Sundaram KMS et al; J Environ Sci Health B32: 1-24 (1997) (4) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Measured fenitrothion Koc values of 593 and 254 in Tsukuba and Kanuma soils(1) and 1531, 1201, 833, and 1061 in 4 rice soils(2) have been determined. A study conducted on organic and silty clay loam soil, from the Boreal Forest in Ontario, Canada, indicate a maximum adsorption rate of 92 ug/g and 81 ug/g, respectively, in 30 hrs when fenitrothion-acetone is added to the soils(3). In the same experiment, studies with a buffer solution showed 38 and 48% desorption rate after 50 hrs extraction time(3). According to a classification scheme(4), these Koc values suggests that fenitrothion is expected to have low to moderate mobility in soil(SRC). The soil sorption coefficients ((ug pesticide/g soil)/(ug pesticide/g water)) for fenitrothion were 25.1 in clay loam and 3.5 in high clay soil. The soil sorption constants were 593 and 254 respectively, with a mean of 424."
+        }
+    ]
+}

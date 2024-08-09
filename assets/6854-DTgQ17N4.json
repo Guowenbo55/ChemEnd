@@ -1,0 +1,109 @@
+{
+    "_id": {
+        "$oid": "6682e860c4e5dba5ffba2548"
+    },
+    "CID": {
+        "$numberInt": "6854"
+    },
+    "Name": "Carbazole",
+    "IUPACName": "9H-carbazole",
+    "CanonicalSMILES": "C1=CC=C2C(=C1)C3=CC=CC=C3N2",
+    "Synonyms": [
+        "CARBAZOLE",
+        "9H-Carbazole",
+        "86-74-8",
+        "Dibenzopyrrole",
+        "Diphenylenimine",
+        "9-Azafluorene",
+        "Diphenylenimide",
+        "Diphenyleneimine",
+        "Dibenzo[b,d]pyrrole",
+        "USAF EK-600",
+        "Dibenzo(b,d)pyrrole",
+        "NSC 3498",
+        "SKF 20091",
+        "0P2197HHHN",
+        "DTXSID4020248"
+    ],
+    "IsomericSMILES": "C1=CC=C2C(=C1)C3=CC=CC=C3N2",
+    "INCHI": "InChI=1S/C12H9N/c1-3-7-11-9(5-1)10-6-2-4-8-12(10)13-11/h1-8,13H",
+    "INCHIKEY": "UJOBWOGCFQCDNV-UHFFFAOYSA-N",
+    "Formula": "C12H9N",
+    "MolecularWeight": {
+        "$numberDouble": "167.21"
+    },
+    "Description": "9H-carbazole is a carbazole. It is a tautomer of a 3H-carbazole, a 1H-carbazole, an 8aH-carbazole and a 4aH-carbazole.",
+    "XlogP": {
+        "$numberDouble": "3.7"
+    },
+    "Complexity": {
+        "$numberInt": "170"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Holoubek I et al; Tox and Environ Chem 29: 251-60 (1991)",
+            "Value": "Carbazole was detected at concentrations of 402.8, 1277.8, 750, 902.8, 2541.7, 3515.3, and 223.7 ng/g in 7 of 12 vegetation samples (mosses and needles) taken near the Urx chemical factory, Valasske Mezirici, Czechoslovakia on September 13, 1989(1)."
+        },
+        {
+            "References": "(1) US Dept Agric; US Dept Agric, Agric Res Service. 1992-2017. Dr. Duke's Phytochemical and Ethnobotanical Databases. Carbazole. Available from, as of Mar 17, 2017: https://phytochem.nal.usda.gov/phytochem/search",
+            "Value": "Carbazole was detected, not quantified in the Indian Curry Tree (Murraya koenigii (Rutaceae))(1)."
+        }
+    ],
+    "animal_concentrations": [
+        {
+            "References": "(1) Holoubek I et al; Tox Environ Chem 29: 251-60 (1991)",
+            "Value": "Carbazole was identified at a concentration of 448.8 ng/g in 1 of 10 soil and earthworm samples taken near the Urx chemical factory, Valasske Mezirici, Czechoslovakia on August 31, 1989(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Mar 15, 2017: https://www.safe.nite.go.jp/english/db.html (2) Lu PY et al; Environ Health Perspect 24: 201-208 (1978) (3) DeVoogt P et al; Aquatic Tox 20: 169-194 (1991) (4) Franke C et al; Chemosphere 29: 1501-1514 (1994) (5) Arnot JA et el; Environ Toxicol Chem 27: 2263-2270 (2008) (6) Southworth GR et al; Bull Environ Contam Toxicol 23: 73-78 (1979)",
+            "Value": "A BCF range of 34-412 was measured in fish for carbazole using carp (Cyprinus carpio) which were exposed over an 6-week period to 0.05 and 0.005 ppm carbazole(1). A BCF of 125 was measured in mosquito fish (Gambusia affinis) in a model ecosystem(2). A static experimental method using guppies (Poecilia reticulata) determined a carbazole BCF of 500(3). According to a classification scheme(4), these BCF values suggest the potential for bioconcentration in aquatic organisms is moderate to high, provided the compound is not metabolized by the organism(SRC). A measured fish biotransformation half-life of 1.15 days has been reported for carbazole(5). Log BCFs for carbazole in alga (Oedogonium cardiacum), snail (Physa sp.) and mosquito larvae (Culex pepiens) were measured to be 1.69, 2.13 and 2.05, respectively; however, carbazole was metabolized to N-methyl and N-acetyl derivatives(2). The log BCF for carbazole in Daphnia pulex was experimentally determined to be 2.06(6)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Mar 15, 2017: https://www.safe.nite.go.jp/english/db.html (2) ECHA; Search for Chemicals. Carbazole (86-74-8) Registered Substances Dossier. European Chemical Agency. Available from, as of Mar 17, 2017: https://echa.europa.eu/ (3) Collin G; Carbazole. Ullmann's Encyclopedia of Industrial Chemistry. 7th ed. (1999-2016). New York, NY: John Wiley & Sons. Online Posting Date: 15 Apr 2006",
+            "Value": "AEROBIC: Carbazole, present at 100 mg/L, reached 2.8% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test which classified the compound as not readily biodegradable(1). In a test for ready biodegradability according to OECD test guideline 301 E (Modified OECD Screening Test) using a mixed inoculum of a domestic sewage plant effluent and an aqueous bacterial solution extracted from local soil, carbazole was degraded to 86% within 7 days and to 93% within 28 days which passed criteria for being readily biodegradable(2). Carbazole is reported to be biodegradable by adapted microorganisms in water and soil(3)."
+        },
+        {
+            "References": "(1) Smith JH et al; Environ Pathways of Selected Chemicals in Freshwater Systems Part II. May 1978. USEPA-600/7-78-074. Atlanta, GA: US EPA, Environ Res Lab. Natl Serv Ctr Environ Pub (NSCEP). Available from, as of Mar 21, 2017: https://www.epa.gov/nscep (2) Mueller JG et al; Appl Environ Microb 57: 1277-85 (1991) (3) Grosser RJ et al; Appl Environ Microb 57: 3462-9 (1991) (4) Medvedev V, Davidov VD; pp 245-54 in Decomposition of Toxic & Nontoxic Organic Compounds is Soil., Overcash MR, ed., Ann Arbor, MI: Ann Arbor Sci Publ (1981) (5) Grosser RJ et al; Environ Toxicol Chem 14: 375-382 (1995)",
+            "Value": "AEROBIC: Based on pseudo-first order biodegradation rate constants of 2.7-9.7 per hr from batch fermentation screening studies using sewage inocula and 700-800 ppm carbazole, half-lives of 4.3 min-15.4 min can be estimated for carbazole(1). After 14 days of incubation at 30 \u00b0C, indigenous microorganisms removed 66% of carbazole (initial concentration of 2.9 ug/mL) from contaminated groundwater taken from the American Creosote Works Superfund site, Pensacola, FL(2). Levels of indigenous carbazole mineralization varied from 0 to 46% after 60 days in mineralization experiments using C14 labeled carbazole in 3 southern Illinois soils(3). In the same experiment, the carbazole-degrading bacterium, Xanthamonas sp., was reintroduced and enhanced mineralization to 45% after 7 days in a soil where little indigenous mineralization occurred(3). Carbazole initial concentrations of 500 and 5 ppm did not degrade after 90 and 15 days, respectively, in Chernozen loamy soil at 19 \u00b0C based on thin layer chromatography(4). Using soils collected from an abandoned coal tar refinery in Ohio, carbazole was mineralized over a 64-day incubation period in serum bottle respirometry studies(5)."
+        },
+        {
+            "References": "(1) Pereira WE et al; Environ Toxicol Chem 6: 163-76 (1987) (2) Hongwei Y et al; Ecotox Environ Safety 63: 299-305 (2006)",
+            "Value": "ANAEROBIC: Carbazole was completely degraded under anaerobic conditions in a methane potential assay; however, there was no evidence of the degradation of carbazole in groundwater suggesting that the microorganisms responsible for the degradation of carbazole under anaerobic conditions were not able to degrade carbazole in the subsurface(1). Static serum bottle tests using an anaerobic sludge inoculum taken from digester tanks at a municipal wastewater treatment plant in Beijing found that carbazole was poorly degraded over a 50-day incubation period(2)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "PMID:6175248",
+            "Value": "Carbazole was detected at a concentration of 110 ppb in a bullhead catfish (Ictalurus nebulosus) from the Black River, OH(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 96",
+            "Value": "log Kow = 3.72"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Kauss PB, Hamdy YS; Hydrobiologia 219: 37-62 (1991) (2) Villanueva J et al; Chemosphere 22: 317-26 (1991) (3) West WR et al; Environ Sci Technol 22: 224-8 (1988) (4) Malins DC et al; Carcinogenesis 6: 1463-9 (1985) (5) Huntley SL et al; Arch Environ Contam Toxicol 28: 93-107 (1995) Klecka G et al; Rev Envieon Contam Toxicol 207: 1-93 (2010) (6) Lopes TJ, Furlong ET; Environ Toxicol Chem 20(4): 727-737 (2001)",
+            "Value": "SEDIMENT: Carbazole was detected in 10 of 12 sediment samples taken from St. Mary's River, connecting Lake Superior with Lake Huron, in 1985 at concentrations ranging from 0.04 to 14.0 mg/kg(1). Carbazole was detected at concentrations ranging from 3.1 to 80 ug/g in 4 of 7 sediment samples taken from the Nervion River, Spain at an uncontrolled hazardous waste dump(2). Carbazole was qualitatively detected in Black River (Lorain, OH) sediment near the outfall of a coking plant associated with a steel production facility(3). Carbazole was identified at average concentrations of 79 (+ or - 34) and 1700 (+ or - 1300) ng/g in 4 and 9 sediment samples, respectively at two separate sites from Eagle Harbor, WA(4). Sediments collected from the Newark Bay Estuary, New Jersey between 1991-1993 had median carbazole levels (dry wt) of 0.70 mg/kg (Arthur Kill site), 0.65 mg/kg (Hackensack River), 0.40 mg/kg (Kill Van Kull), 0.55 mg/kg (Newark Bay) and 0.70 mg/kg (Passaic River)(5). Carbazole was detected in 100% of 18 sediment samples from the Great Lakes basin at a median concentration of 50 ng/g dry wt (range of 20-130 ng/g)(6). Streambed sediment samples collected from 494 sites in 20 major river basins across the US during 1992-1995 had positive carbazole detections in 12.6% of all samples; concentrations of <50, 81, 180 and 1400 ug/kg dry wt at the 75th, 90th, 95th and maximum value, respectively, were reported(6)."
+        },
+        {
+            "References": "PMID:25543159",
+            "Value": "SOIL: Soil samples collected from Xi'an, China contained a mean carbazole concentration of 7.5 ng/g (range of 4.0-14.2 ng/g)(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Ainsworth CC et al; Soil Sci Soc 53: 1391-401 (1989) (2) Schuurmann G et al; Environ Sci Technol 40: 7005-7011 (2006) (3) Jonassen KEN et al; Environ Toxicol Chem 22: 741-745 (2003) (4) Smith JH et al; Environ Pathways of Selected Chemicals in Freshwater Systems Part II. May 1978. USEPA-600/7-78-074. Atlanta, GA: US EPA, Environ Res Lab. Natl Serv Ctr Environ Pub (NSCEP). Available from, as of Mar 21, 2017: https://www.epa.gov/nscep (5) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Based on an experimental Koc range of 114 to 1180, the average Koc value in 21 soil horizons comprised of nine different soils was determined to be 637(1). The variation of Koc value in different soils was thought to result from variation of organic matter sorbent in structure and content(1). Experimentally determined Koc values 2500(2) and 4980(3) have also been reported. In CA-Montmorillonite soil (0.06% organic content) and Coyote Creek sediment (1.4% organic content), Koc values of 5300 and 12500 were measured for carbazole(4). According to a classification scheme(5), the Koc range suggests that carbazole mobility can range from high mobility to being immobile in soil, with most values suggesting low mobility to immobility(SRC)."
+        }
+    ]
+}

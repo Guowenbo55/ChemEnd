@@ -1,0 +1,67 @@
+{
+    "_id": {
+        "$oid": "6682e7f0c4e5dba5ffba231a"
+    },
+    "CID": {
+        "$numberInt": "2712"
+    },
+    "Name": "CHLORDIAZEPOXIDE",
+    "IUPACName": "7-chloro-4-hydroxy-N-methyl-5-phenyl-3H-1,4-benzodiazepin-2-imine",
+    "CanonicalSMILES": "CN=C1CN(C(=C2C=C(C=CC2=N1)Cl)C3=CC=CC=C3)O",
+    "Synonyms": [
+        "chlordiazepoxide",
+        "58-25-3",
+        "Methaminodiazepoxide",
+        "Librium",
+        "Librelease",
+        "Libritabs",
+        "Clopoxide",
+        "Radepur",
+        "Lygen",
+        "7-Chloro-N-methyl-5-phenyl-3H-1,4-benzodiazepin-2-amine 4-oxide",
+        "3H-1,4-Benzodiazepin-2-amine",
+        "7-chloro-N-methyl-5-phenyl-",
+        "4-oxide",
+        "7-chloro-4-hydroxy-N-methyl-5-phenyl-3H-1,4-benzodiazepin-2-imine",
+        "Chlordiazepoxide civ",
+        "Chlozepid",
+        "Elenium"
+    ],
+    "IsomericSMILES": "CN=C1CN(C(=C2C=C(C=CC2=N1)Cl)C3=CC=CC=C3)O",
+    "INCHI": "InChI=1S/C16H14ClN3O/c1-18-15-10-20(21)16(11-5-3-2-4-6-11)13-9-12(17)7-8-14(13)19-15/h2-9,21H,10H2,1H3",
+    "INCHIKEY": "BUCORZSTKDOEKQ-UHFFFAOYSA-N",
+    "Formula": "C16H14ClN3O",
+    "MolecularWeight": {
+        "$numberDouble": "299.75"
+    },
+    "Description": "7-chloro-4-hydroxy-N-methyl-5-phenyl-3H-1,4-benzodiazepin-2-imine is a benzodiazepine.",
+    "XlogP": {
+        "$numberDouble": "2.4"
+    },
+    "Complexity": {
+        "$numberInt": "580"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 139",
+            "Value": "log Kow= 2.44"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "ABRAMETS II, KOMISSAROV IV; BYULL EKSP BIOL MED 94 (10): 58-61 (1982)",
+            "Value": "IN METHYLATED SPINAL CORD FROM 9-15-DAY-OLD-RATS, CHLORDIAZEPOXIDE ENHANCED EVOKED SYNAPTIC RESPONSES MEDIATED BY GAMMA-AMINOBUTYRIC ACID (GABA) AND POTENTIATED GABA-INDUCED DEPOLARIZATION OF PRIMARY AFFERENTS AND HYPERPOLARIZATION OF MOTOR NEURONS. THE GABA-POTENTIATING EFFECT OF CHLORDIAZEPOXIDE WAS INCREASED BY ELEVATED CL- IN THE MEDIUM, BUT DID NOT DEPEND ON THE CONCENTRATION OF K+. APPARENTLY, CHLORDIAZEPOXIDE MAY PROLONG THE LIFE SPAN OF THE CHLORINE IONOPHORE COUPLED WITH GABA RECEPTORS OF THE SPINAL CORD."
+        },
+        {
+            "References": "Gilman, A.G., L.S.Goodman, and A. Gilman. (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 7th ed. New York: Macmillan Publishing Co., Inc., 1985., p. 345",
+            "Value": "Currently, there is general agreement that most, if not all of the actions of benzodiazepines are a result of potentiation of the neural inhibition that is mediated by gamma-aminobutyric acid (GABA). This view is supported by behavioral and electrophysiological evidence that the effects of benzodiazepines are reduced or prevented by prior treatment with antagonists of gamma-aminobutyric acid (eg, bicuculline) or inhibitors of the synthesis of the transmitter (eg, thiosemicarbazide). ... Most attention has been focused on the ability of benzodiazepines to potentiate the actions of gamma-aminobutyric acid on neurons at all levels of the neuraxis. ... A substantial body of biochemical evidence has accumulated that suggests a close molecular association between sites of action for gamma-aminobutyric acid and the benzodiazepines. /Benzodiazepines/"
+        },
+        {
+            "References": "Gilman, A.G., L.S.Goodman, and A. Gilman. (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 7th ed. New York: Macmillan Publishing Co., Inc., 1985., p. 465",
+            "Value": "A large body of electrophysiological and biochemical observations has linked the actions of benzodiazepines to the functions of receptor chloride ionophore systems that are regulated by gamma-aminobutyric acid. The evidence includes the ability of various benzodiazepines to potentiate the effects of exogenous gamma-aminobutyric acid or to enhance gamma-aminobutyric acid mediated presynaptic and postsynaptic inhibitory pathways. Further, specific sites for benzodiazepines have been characterized in cell membranes from brain, and their properties can be modified by gamma-aminobutyric acid and by chloride or related ions that are known to carry current through channels that are regulated by gamma-aminobutyric acid. ... Two different types of receptors for gamma-aminobutyric acid /are detected/ in hippocampal pyramidal cells; diazepam potentiates somatic responses to gamma-aminobutyric acid that involve increases in chloride conductance ... potentiation of responses to gamma-aminobutyric acid requires concentrations of benzodiazepines 10 to 100 fold greater than those achieved in the CSF during therapy ... These observations suggest that the anticonvulsant effects of the benzodiazepines may not depend entirely upon actions on gamma-aminobutyric acid-ergic neurotransmission or on channels for chloride ions. /Benzodiazepines/"
+        }
+    ]
+}

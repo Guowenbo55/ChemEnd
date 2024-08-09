@@ -1,0 +1,85 @@
+{
+    "_id": {
+        "$oid": "6682e91cc4e5dba5ffba28fa"
+    },
+    "CID": {
+        "$numberInt": "14994"
+    },
+    "Name": "DINOTERB",
+    "IUPACName": "2-tert-butyl-4,6-dinitrophenol",
+    "CanonicalSMILES": "CC(C)(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])O",
+    "Synonyms": [
+        "DINOTERB",
+        "2-tert-Butyl-4,6-dinitrophenol",
+        "1420-07-1",
+        "Dinoterbe",
+        "Stirpan forte",
+        "Herbogil",
+        "Dntbp",
+        "Phenol",
+        "2-(1,1-dimethylethyl)-4,6-dinitro-",
+        "2,4-Dinitro-6-tert-butylphenol",
+        "Phenol",
+        "2-tert-butyl-4,6-dinitro-",
+        "Phenol",
+        "o-t-butyl-4,6-dinitro-",
+        "2-(1,1-Dimethylethyl)-4,6-dinitrophenol",
+        "Phenol",
+        "o-tert-butyl-4,6-dinitro-",
+        "NSC 166496",
+        "2O5H456CFI"
+    ],
+    "IsomericSMILES": "CC(C)(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])O",
+    "INCHI": "InChI=1S/C10H12N2O5/c1-10(2,3)7-4-6(11(14)15)5-8(9(7)13)12(16)17/h4-5,13H,1-3H3",
+    "INCHIKEY": "IIPZYDQGBIWLBU-UHFFFAOYSA-N",
+    "Formula": "C10H12N2O5",
+    "MolecularWeight": {
+        "$numberDouble": "240.21"
+    },
+    "Description": "Dinoterb is a member of phenols and a C-nitro compound.",
+    "XlogP": {
+        "$numberDouble": "3.4"
+    },
+    "Complexity": {
+        "$numberInt": "314"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "animal_concentrations": [
+        {
+            "References": "De Lavaur E, Arnold A; Phytiatr.-Phytopharm 30 (2): 889-95 (1981)",
+            "Value": "From 1977 to 1979, 274 samples of game animals found dead in the fields of France were analyzed for the general survey of hazards from pesticides organized by the National Office of Game. Among the animals examined, 34% contained residues of pesticides or PCBs. The main products considered as hazardous to wildlife /included/ ... dinoterb. These /hazardous products/ were found in 21.5% of animals analyzed."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Nendza M; pp 43-66 in Bioaccumulation Aquat Syst Proc Int Workshop., Nagel R, Loskill R, eds., Weinheim, Germany: VCH (1990)",
+            "Value": "A BCF of 25 was reported for dinoterb, test conditions not specified(1). According to a classification scheme(2), this BCF value suggests bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Martins JM, Mermoud A; J Contam Hydrol 33: 187-210 (1998)",
+            "Value": "AEROBIC: In a mono-pesticide solid aqueous suspension biodegradation test, with a starting concentration of 20 mg/L, dinoterb had a half-life of 68 days(1). When mixed with other pesticides in the same test the half-life increased to 198 days. In a mono-pesticide unsaturated soil batch biodegradation test dinoterb had a half-life of 46 days(1)."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Belbachir O et al; Pestic Biochem Physiol 14 (3): 309-313 (1980)",
+            "Value": "Dinoterb, a contact herbicide, affects respiration and photosynthesis of mitochondria and chloroplasts. On mitochondria, at low concentrations, it acts as an uncoupler of oxidative phosphorylation; at higher concentrations, it inhibits the electron transport chains, probably before cytochrome c. On chloroplasts, dinoterb has a stimulatory effect on oxygen uptake in the reduced dichlorophenol-indophenol-methyl viologen couple; however, it is also an inhibitor of the Hill reaction and its site of inhibition is located before plastoquinone, near photosystem II."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Canton JH et al; Catch-up Operation on Old Pesticides: An Integration. RIVM-678801002 (NTIS PB92-105063). Rijkinst, Volksgezondh, Milieuhyg. Bilthoven, The Netherlands pp 149 (1991)",
+            "Value": "SOIL: Dinoterb was detected as residue in soil one year after application at <0.01 ug/kg(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Martins JM, Mermoud A; J Contam Hydrol 33:187-210 (1998) (2) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Heimlich F, Nolte J; Sci Total Environ 132: 125-31 (1993) (5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "The Koc of dinoterb has been reported to be 98, measured in alluvial sandy soil (7.8% clay, 30% silt, 62.2% sand, 0.64% organic carbon)(1). According to a classification scheme(2), this Koc value suggests that dinoterb is expected to have high mobility in soil. The pKa values of 4.8(3) and 5.0(4) indicate that this compound will exist almost entirely in the anion form in the environment and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(5)."
+        }
+    ]
+}

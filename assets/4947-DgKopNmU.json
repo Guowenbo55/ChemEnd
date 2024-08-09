@@ -1,0 +1,326 @@
+{
+    "_id": {
+        "$oid": "6682e81ac4e5dba5ffba23ec"
+    },
+    "CID": {
+        "$numberInt": "4947"
+    },
+    "Name": "PROPYL GALLATE",
+    "IUPACName": "propyl 3,4,5-trihydroxybenzoate",
+    "CanonicalSMILES": "CCCOC(=O)C1=CC(=C(C(=C1)O)O)O",
+    "Synonyms": [
+        "propyl gallate",
+        "121-79-9",
+        "Propyl 3,4,5-trihydroxybenzoate",
+        "N-Propyl gallate",
+        "Progallin P",
+        "Gallic acid",
+        "propyl ester",
+        "Tenox PG",
+        "Nipagallin P",
+        "Gallic acid propyl ester",
+        "3,4,5-Trihydroxybenzoic acid propyl ester",
+        "NIPA 49",
+        "Benzoic acid",
+        "3,4,5-trihydroxy-",
+        "propyl ester",
+        "n-Propyl 3,4,5-trihydroxybenzoate",
+        "FEMA No. 2947",
+        "3,4,5-Trihydroxybenzene-1-propylcarboxylate"
+    ],
+    "IsomericSMILES": "CCCOC(=O)C1=CC(=C(C(=C1)O)O)O",
+    "INCHI": "InChI=1S/C10H12O5/c1-2-3-15-10(14)6-4-7(11)9(13)8(12)5-6/h4-5,11-13H,2-3H2,1H3",
+    "INCHIKEY": "ZTHYODDOHIVTJV-UHFFFAOYSA-N",
+    "Formula": "C10H12O5",
+    "MolecularWeight": {
+        "$numberDouble": "212.2"
+    },
+    "Description": "N-propyl gallate is a trihydroxybenzoic acid.",
+    "XlogP": {
+        "$numberDouble": "1.8"
+    },
+    "Complexity": {
+        "$numberInt": "206"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) US Dept Agric; US Dept Agric, Agric Res Service. 1992-2016. Dr. Duke's Phytochemical and Ethnobotanical Databases. n-Propyl Gallate. Available from, as of Oct 25, 2016: https://phytochem.nal.usda.gov/phytochem/search",
+            "Value": "Propyl gallate was detected, not quantified in corn kernels (Zea mays, Poceae)(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 73 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Oct 24, 2016: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 7 was calculated in fish for propyl gallate(SRC), using a log Kow of 1.80(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Quinchia LA et al; J Agric Food Chem 59: 12917-12924 (2011) (2) USEPA; Inert Reassessment Propyl Gallate (CAS Reg. No. 121-79-9), December 2005. Available from, as of Oct 24, 2016: https://www.epa.gov/sites/production/files/2015-04/documents/propyl.pdf",
+            "Value": "AEROBIC: Propyl gallate is reported to be a biodegradable antioxidant effective in oxidatively stabilizing vegetable oils according to REACH (Registration, Evaluation, Authorization and Restriction of Chemicals) biodegradability regulations(1). Propyl gallate is expected to biodegrade in the environment with ultimate aerobic degradation estimated to be weeks and primary degradation in days(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 73",
+            "Value": "log Kow = 1.80"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:20689985",
+            "Value": "The present study aimed to assess anti-inflammatory activity and underlying mechanism of n-propyl gallate, the n-propyl ester of gallic acid. n-Propyl gallate was shown to contain anti-inflammatory activity using two experimental animal models, acetic acid-induced permeability model in mice, and air pouch model in rats. It suppressed production of nitric oxide and induction of inducible nitric oxide synthase and cyclooxygenase-2 in the lipopolysaccharide (LPS)-stimulated RAW264.7 macrophage cells. It was able to diminish reactive oxygen species level elevated in the LPS-stimulated RAW264.7 macrophage cells. It also suppressed gelatinolytic activity of matrix metalloproteinase-9 enhanced in the LPS-stimulated RAW264.7 macrophage cells. It inhibited inhibitory kappaB-aplha degradation and enhanced NF-kappaB promoter activity in the stimulated macrophage cells. It was able to suppress phosphorylation of c-Jun NH(2)-terminal kinase 1/2 (JNK1/2) and activation of c-Jun promoter activity in the stimulated macrophage cells. In brief, n-propyl gallate possesses anti-inflammatory activity via down-regulation of NF-kappaB and JNK pathways."
+        },
+        {
+            "References": "PMID:21112369",
+            "Value": "... In the present study, we demonstrate that propyl gallate (PG) reduced cell viability in THP-1, Jurkat, and HL-60 leukemia cells and induced apoptosis in THP-1 cells. PG activated caspases 3, 8, and 9 and increased the levels of p53, Bax, Fas, and Fas ligand. PG activated mitogen-activated protein kinases (MAPKs), inhibited nuclear translocation of the nuclear factor erythroid 2-related factor 2 (Nrf-2) and induced intracellular glutathione (GSH) depletion. In addition, PG increased superoxide dismutase-1 expression and decreased intracellular levels of reactive oxygen species. Our data show ... that an early event of PG-induced apoptosis is MAPKs/Nrf-2-mediated GSH depletion and that PG induced apoptosis via multiple pathways in human leukemia. PG might serve as a potential chemotherapeutic agent or food supplement for human leukemia patients."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "EPA/Office of Prevention, Pesticides, and Toxic Substances; Memorandum: Reassessment of Two Exemptions from the Requirement of a Tolerance For Propyl Gallate (CAS Reg. No. 121-79-9) p. 5 (2005). Available from, as of October 12, 2016: https://www3.epa.gov/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Guinea pig: 10% /propyl gallate/ in propylene glycol applied to shaved skin for 48 hours /resulted in/ no local lesions or primary irritation. /from table/"
+        },
+        {
+            "References": "EPA/Office of Prevention, Pesticides, and Toxic Substances; Memorandum: Reassessment of Two Exemptions from the Requirement of a Tolerance For Propyl Gallate (CAS Reg. No. 121-79-9) p. 5 (2005). Available from, as of October 12, 2016: https://www3.epa.gov/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Rabbit: <1 percent /propyl gallate/ in a lipstick. Primary skin irritation test - applied to intact and abraded skin, three 24-hour applications. Not a primary irritant. /from table/"
+        },
+        {
+            "References": "EPA/Office of Prevention, Pesticides, and Toxic Substances; Memorandum: Reassessment of Two Exemptions from the Requirement of a Tolerance For Propyl Gallate (CAS Reg. No. 121-79-9) p. 5 (2005). Available from, as of October 12, 2016: https://www3.epa.gov/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Rabbit: 0.003 percent /propyl gallate/ in suntan cream. Primary skin irritation- intact and abraded, three 24-hour applications. No edema, not a primary skin irritant. /from table/"
+        },
+        {
+            "References": "EPA/Office of Prevention, Pesticides, and Toxic Substances; Memorandum: Reassessment of Two Exemptions from the Requirement of a Tolerance For Propyl Gallate (CAS Reg. No. 121-79-9) p. 6 (2005). Available from, as of October 12, 2016: https://www3.epa.gov/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Rabbit: 0.003 percent /propyl gallate/ in suntan oil. Primary skin irritation- intact, three 6-hour applications. Practically nonirritating. /from table/"
+        },
+        {
+            "References": "EPA/Office of Prevention, Pesticides, and Toxic Substances; Memorandum: Reassessment of Two Exemptions from the Requirement of a Tolerance For Propyl Gallate (CAS Reg. No. 121-79-9) p. 6 (2005). Available from, as of October 12, 2016: https://www3.epa.gov/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Rabbit: Lipstick containing <7% propyl gallate. Nonirritant /to eyes/. /from table/"
+        },
+        {
+            "References": "EPA/Office of Prevention, Pesticides, and Toxic Substances; Memorandum: Reassessment of Two Exemptions from the Requirement of a Tolerance For Propyl Gallate (CAS Reg. No. 121-79-9) p. 6 (2005). Available from, as of October 12, 2016: https://www3.epa.gov/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Rabbit: Sun protection stick containing 0.003% propyl gallate. Nonirritant /to eyes/. /from table/"
+        },
+        {
+            "References": "EPA/Office of Prevention, Pesticides, and Toxic Substances; Memorandum: Reassessment of Two Exemptions from the Requirement of a Tolerance For Propyl Gallate (CAS Reg. No. 121-79-9) p. 6 (2005). Available from, as of October 12, 2016: https://www3.epa.gov/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Rabbit: Suntan cream containing 0.003% propyl gallate. Nonirritant /to eyes/. /from table/"
+        },
+        {
+            "References": "EPA/Office of Prevention, Pesticides, and Toxic Substances; Memorandum: Reassessment of Two Exemptions from the Requirement of a Tolerance For Propyl Gallate (CAS Reg. No. 121-79-9) p. 6 (2005). Available from, as of October 12, 2016: https://www3.epa.gov/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Rabbit (6 rabbits for each formulation): 6 cosmetic formulations each containing 0.003% propyl gallate. Nonirritant /to eyes/. /from table/"
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V6 731",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In a 4-wk oral toxicity study, rats (6 animals/group/sex) ingested 0%, 0.1%, 0.5%, or 2.5% /propyl gallate/ in feed. In rats ingesting the highest dose, a decrease in weight gain of more than 10%, dirty tails, thickening of the stomach wall, necrosis, and ulceration of the stomach mucosa, a moderate to severe granulomatous inflammatory response in the submucosa and muscular wall of the stomach, anemia, hyperplastic tubuli in the outer medulla of the kidneys, and increased activity of several microsomal and cytoplasmic drug-metabolizing enzymes in the liver were observed. Increased activity of hepatic drug metabolizing enzymes was also noted in rats treated with 0.5% propyl gallate. No effects were noted in those ingesting 0.1%."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V6 731",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In rats (10/group/sex) fed a diet containing 0, 0.05, 0.19, or 0.75 propyl gallate for 13 wk, changes in hematological parameters, spleen morphology, and activities of ethoxyresorufin-o-deethylase, glucuronyl transferase, and glutathione-s-transferase were noted in the high-dose animals."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V6 731",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In a 90-day study ... no toxic effects were noted in mice ingesting diets containing 0.5 or 1.0% propyl gallate."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Weanling female Sprague-Dawley rats were fed high polyunsaturated fat, high saturate fat or low fat diets for 1 mo, with or without the addition of 0.3% propyl gallate. Propyl gallate caused no measurable difference in body weights, relative liver weight or liver microsomal protein values. Liver enzyme activity of aniline hydroxylase, aminopyrene N-demethylase and cytochrome-C-reductase were not affected by treatment, nor was the liver concn of cytochrome p450 and microsomal protein."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ A 4 wk oral toxicity study with propyl gallate was performed in rats (6 animals/group/sex) at dose levels of 0, 1,000, 5,000 and 25,000 mg/kg feed. ... In the high-dose group both females and males gained less weight than those in the control group. Hemoglobin concn, packed cell volume, red blood cell concn, mean corpuscular volume and mean corpuscular hemoglobin were lowered in the high-dose group. Consistent with the anemia, an increased extramedullary hematopoiesis and slightly decreased hemosiderosis were noted in the spleen. In kidneys hyperplastic tubuli in the outer medulla were detected. In the liver of the animals of the 5,000 and 25,000 mg/kg feed groups increases in activity of aminopyrine-N-demethylase and glucuronyl-transferase and glutathione-s-transferase and an increase in cytochrome p450 content were detected ... ."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ A toxicity study with propyl gallate in SPF-derived Wistar RIVM:Tox rats (10 animals/group/sex) was performed in which they were fed a semisynthetic diet containing 0, 490, 1,910 or 7,455 /ppm in the diet/ for 13 wk. ... Adverse effects of propyl gallate observed in the high-dose group were effects on the hematopoietic system reflected in the hematological parameters ... and the morphological changes ... in the spleen. The other effects of propyl gallate comprised a decreased incidence of nephrocalcinosis normally seen in female rats on semisynthetic diet, an increased activity of ethoxy-resorufin-o-deethylase (EROD) in the high-dose group and an increased activity of the conjugating enzymes glucuronyl-transferase and glutathione-s-transferase, in the mid and high-dose groups receiving propyl gallate."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Propyl gallate incorporation into the diet (0.52 and 2%) and fed to male F-344 rats, for 9 days neither affected the morphological appearance of the forestomach squamous epithelium nor induced changes in the (methyl-(3)H) thymidine labelling index in the fundic region of the forestomach ... ."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V6 731",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Twenty guinea pigs fed 0.02% propyl gallate in the diet for 14 mo and 7 dogs fed 0.01% for a year showed no signs of toxicity."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Propyl gallate fed to guinea-pigs in groups of 20 at a level of 0.02% in the diet for 14 mo caused no observed ill effects ... ."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ A level of 0.01% propyl gallate in the diet was well tolerated by a group of seven dogs over a period of 14 mo ... ."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 50 mice ... equally divided by sex were maintained on diets containing 0, 0.25 or 1.0% n-propyl gallate for a period of 21 mo. Water intake, food consumption and growth of test animals were comparable to controls. Treated male mice showed a greater percentage survival than control mice at termination. Hematologic measurements ... were similar for test and control animals. At autopsy, a comparison of relative organ/bw showed a reduction in the relative spleen weight of males on the 1% diet. No cmpd-related histopathological changes were observed ... ."
+        },
+        {
+            "References": "Abdo KM et al; J Am Coll Toxicol 2 (6): 425 (1983)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Chronic toxicity studies were conducted by maintaining groups of 50 F344 rats and 50 B6C3F1 mice of each sex on nutritionally complete diets containing 0%, 0.6%, or 1.2% propyl gallate for 103 weeks. Survival of rats and mice of both sexes was not significantly affected by the administration of this compound. Dosed rats and mice showed growth retardation and reduced feed utilization efficiency. Increased incidence of hepatic cytoplasmic vacuolization and suppurative inflammation of the prostate gland were observed in dosed male rats and were considered to be related to propyl gallate administration. Tumors of the preputial gland, islet cell tumors of the pancreas, and pheochromocytoma of the adrenal gland were observed with significantly (p < 0.05) higher incidence in the low-dose male rats; however, there was little evidence of a dose response or of an effect in the high-dose group. Rare tumors (an astrocytoma and u glioma) were found in the brains of two low-dose female rats but none was found in the high-dose group. Malignant lymphoma occurred with a significant (p ~ 0.05) positive trend in male mice and the incidence in the high-dose group was significantly (p < 0.05) higher than that of the concurrent controls. However, the high-dose incidence was not significantly different from the historical control rate for the laboratory that conducted the bioassay. Under the conditions of the bioassay, propyl gallate was not considered to be clearly carcinogenic for F344 rats, although the increased incidence of preputial gland tumors, islet-cell tumors of the pancreas, and pheochromocytoma of the adrenal glands in low dose male rats may have been related to compound administration. Thus, the evidence for carcinogenicity in male rats is regarded as being equivocal, while there was no indication of a carcinogenic response in female rats. Propyl gallate was not considered to be carcinogenic for B6C3F1 mice, although the increased incidence of malignant lymphoma in dosed male mice may have been related to administration of the test compound."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ A level of 5% propyl gallate in the diet in a 2-yr chronic toxicity study in rats and mice gave rise to patchy hyperplasia in the ... . At a level of 1%, no difference was noted between test and control animals ... ."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 10 male and 10 female rats were fed for 2 yr on diets containing 0, 0.001, 0.01, 0.12, 1.2, or 2.3% propyl gallate. The groups receiving 1.17 and 2.34% propyl gallate showed stunted growth and evidence of renal damage. In the other groups, there was no detectable effect on hemoglobin, erythrocyte or leucocyte levels in the blood, nor on the histopathological appearance of the organs examined ... ."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Lung adenomas were induced in strain A mice by chronic treatment with nitrite in drinking water and morpholine in food. Addition of gallic acid to the diet resulted in an 86% inhibition of adenoma induction. Dietary gallic acid reduced or did not affect the induction of adenomas by mononitrosopiperazine or nitrosomorpholine given in drinking water, and failed to induce lung adenomas when given alone ... . /Gallic acid/"
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Weanling (21 day old) female Sprague-Dawley rats were fed with one of three basal diets: polyunsaturated fat (20% corn oil, HPF); saturate fat (18% coconut oil and 2% linoleic acid, HSF); or low fat (2% linoleic acid, LF), with and without 0.3% propyl gallate (PG). At 50 days of age, one half of each group (30 rats/group) received 10 mg of DMBA in 1 mL corn oil p.o. as a tumor inducer. Both the amt of fat and the degree of unsaturation were found to affect the extent of protection against tumorigenesis afforded by propyl gallate, with some protection seen in all three dietary groups. Tumor incidences at 32 wk of age were: HPF, 100%; HSF, 63%; LF, 29%; HPF+PG, 77%; HSF+PG 11%. Tumors grew most rapidly in the HPF group. Propyl gallate did not alter the function of the hepatic mixed oxidase system by induction or inhibition under the dietary conditions used ... ."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V6 731-2",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Administration /to rats/ of 2.5% propyl gallate in the diet caused maternal toxicity and slight retardation of fetal development, but no teratogenic effects."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V6 732",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ In dose levels up to 250 mg/kg/day, propyl gallate had no effects on organogenesis in rabbits."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Addition of 50 umol of propyl gallate to a rat testis microsomal preparation in the presence of arachidonate stimulated the formation of prostaglandin PGF2. Addition of 0.1 mmol vitamin E instead ... did not results in increased production of any of the prostaglandins. Addition of propyl gallate to similar preparations from vitamin E-deficient rats resulted in an increase in production of PGF2 only. In the female rat both dietary lipid and dietary propyl gallate affect prostaglandin synthesis by mammary gland preparations. ... Propyl gallate stimulates formation of prostaglandin PGF2 in mammary gland from rats fed polyunsaturated fats, but inhibits PGF2 synthesis in rats fed a saturated fat diet. Stimulation of synthesis of different prostaglandins may occur in preparations to which propyl gallate was added exogenously as compared to a dietary source of the cmpd. Changes in levels of PGF2 have been correlated with the susceptibility of rats to mammary tumors induced by 7,12-dimethyl-benzo(a)anthracene ... ."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Propyl gallate was fed to rats at concn of 0.035, 0.2 or 0.5% in the diet for 2 successive generations. Neither effects on reproduction performance nor on indices of reproduction were reported. No abnormalities were observed in the organs or tissues of the rats at autopsy ... ."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/GENOTOXICITY/ Four-wk old random-bred ICR Swiss male mice were fed diets containing 0, 10, 100, 1,000, or 5,000 /ppm in the diet/ for 3 mo. They were exposed to 50 or 125 rad of whole gamma radiation from a 137-Cs source. Thirty hr after irradiation, animals were scored for micronuclei in polychromatic bone marrow erythrocytes. As compared to controls not give propyl gallate, the propyl gallate-treated animals had an increased incidence of micronuclei of about 1.6-2-fold. However, there was no dose dependence, 10 ppm of propyl gallate was as effective in producing radio-sensitization as 5,000 ppm feed ... ."
+        },
+        {
+            "References": "PMID:10685008",
+            "Value": "/GENOTOXICITY/ Tannic acid and its hydrolyzed products such as ellagic acid, gallic acid and propyl gallate were tested for mutagenicities using Ames Salmonella tester strains TA98 and TA100. Also, the antimutagenic activities of these compounds against a number of direct mutagens including 2-nitrofluorene (2-NF), 4,4'-dinitro-2-biphenylamine, 1-nitropyrene, 1,3-dinitropyrene, 2-nitro-p-phenylenediamine, 3-nitro-o-phenylenediamine, 4-nitro-o-phenylenediamine were tested. None of these tannic acid compounds was mutagenic. They also failed to show antimutagenic activity towards the tested direct mutagens. However, tannic acid at non-growth inhibitory concentrations reduced the revertant numbers of TA98 in the presence of S9 mix when benzidine, 3,3'-4,4'-tetraminobiphenyl, 4-aminobiphenyl, and N,N-N', N'-tetramethylbenzidine were used as the mutagens. These results suggest that tannic acid, but not its hydrolytic products, affects the metabolic activation of these mutagens."
+        },
+        {
+            "References": "PMID:11673077",
+            "Value": "/GENOTOXICITY/ We investigated whether propyl gallate (PG) can induce sister-chromatid exchanges (SCEs) and chromosomal aberrations (CAs) in CHO-K1 cells. In the absence of an exogeneous metabolizing system, treatments with 0.25-1.5 mM PG in plugged flasks for 3 hr resulted in increases in SCEs, CAs, and endoreduplications (ERDs), which were followed by an increase in the percentage of cells showing cell-cycle delay. At the end of the treatment, a decrease in PG concentration and production of PG dimer and ellagic acid (EA) in the medium were detected, indicating that PG had autoxidized. EA, an oxide of PG, was not genotoxic even at 0.3 mM, the maximum concentration soluble in the medium. Several oxygen radical scavengers (superoxide dismutase (SOD), catalase, glutathione and o-phenanthroline (OP)) and an inhibitor of catalase activity (3-amino-1,2,4-triazole (AT)), did not significantly influence PG genotoxicity. When PG autoxidation was suppressed by low pH (6.8) or a 5% CO(2) atmosphere, cell-cycle delay intensified and induction of SCEs and CAs occurred even at the lowest PG dose (0.1 mM). When PG (0.5 mM) was assayed in the presence of S9 (1.5-9%), gallic acid (GA), a metabolite of PG, was generated in direct proportion to the S9 concentration, while cell-cycle delay and genotoxic effects varied inversely with S9 concentration at the levels over 3%. GA also autoxidized and at >/= 0.5 mM it induced SCEs. Both catalase and AT suppressed the induction of SCEs by GA or inhibited cell proliferation, indicating that H(2)O(2) participated in the effects. In conclusion, PG in the presence or absence of S9 can induce SCEs, CAs, and ERDs, and the oxides, metabolites and oxygen-free radicals generated during the treatment are partly responsible for these effects."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V6 732",
+            "Value": "/GENOTOXICITY/ At a concentration of 0-0.1 mg/plate, propyl gallate was mutagenic in S. typhimurium strain TA102, in the presence, but not the absense, of S-9."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V6 732",
+            "Value": "/GENOTOXICITY/ At a concentration up to 100 mg/kg, propyl gallate did not alter the cytogenetics of metaphase cells from bone marrow of rats."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V6 732",
+            "Value": "/GENOTOXICITY/ An intraperitoneal injection of 900 mg/kg propyl gallate caused a positive result in a mouse micronucleus test."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V6 732",
+            "Value": "/GENOTOXICITY/ Propyl gallate (0.5-2.0 mM) caused cytotoxicity, DNA fragmentation, and mitochondrial dysfunction in isolated rat hepatocytes. Conversely, it protected hepatocytes and isolated perfused livers against oxygen radical toxicity."
+        },
+        {
+            "References": "Mortelmans K et al; Environ Mutagen 8:1-119 (1986)",
+            "Value": "/GENOTOXICITY/ Propyl gallate was found to be negative when tested for mutagenicity using the Salmonella/microsome preincubation assay, using the standard protocol approved by the National Toxicology Program (NTP). Propyl gallate was tested in as many as 5 Salmonella typhimurium strains (TA1535, TA1537, TA97, TA98, and TA100) in the presence and absence of rat and hamster liver S-9, at doses of 0.010, 0.033, 0.100, 0.333, and 1.000 mg/plate. The highest ineffective dose tested without noticeable toxicity in any S. typhimurium strain was 0.333 mg/plate. At the high dose, slight to total clearing of the background bacterial lawn occurred under nearly all test conditions."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/GENOTOXICITY/ /Propyl gallate/ was investigated in vivo by the cytogenetic analysis of metaphase cells from the bone marrow of rats (Sprague-Dawley C-D strain). The dosages employed were 5,0, 50.0 and 500 mg/kg bw. Propyl gallate was /not/ mutagenic ... ."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/GENOTOXICITY/ The genotoxic effect of propyl gallate was studied using Salmonella typhimurium strains TA-1530 and G-46 and Saccharomyces D-3 in presence of absence of metabolic activation. A 0.25% concn was tested. Propyl gallate was non-mutagenic in all tests."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/GENOTOXICITY/ In a host-mediated assay, propyl gallate was tested at dose levels equivalent to 5, 50, 500 and 2,000 mg/kg bw in ICR Swiss mice employing, as indicated organisms, Salmonella G-46 and TA-1530 and Saccharomyces D-3. Propyl gallate was non-mutagenic under the conditions of the test."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/GENOTOXICITY/ Propyl gallate inhibited the genotoxicity of benzo(a)pyrene for Salmonella typhimurium (Strain TA 98), and moderately increased the mutagenicity of aflatoxin B1 for Salmonella typhimurium TA 100 and TA 98 ... ."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016:) https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/GENOTOXICITY/ Propyl gallate was not mutagenic to Salmonella strains TA 98 or TA 100 with or without activation by liver extracts from arochlor-induced rats. ... These workers observed a small increase in aflatoxin B1 mutagenesis in TA 100 in the presence of propyl gallate ... ."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/GENOTOXICITY/ In a dominant lethal test, Sprague-Dawley CD strain male rats were dosed at 5, 50 and 500 mg/kg bw. In an acute study, a single dose was admin with subsequent mating for each of 8 wk. Propyl gallate did not produce any significant dominant lethality. In a subacute study, five daily doses were admin (5 x 5, 5 x 50, 5 x 500 and 5 x 5,000 mg/kg bw). Males were subsequently mated for each of 7 wk. No dominant lethal effects were noted ... ."
+        },
+        {
+            "References": "PMID:24012771",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ ... Transport and distribution of n-propyl gallate and two analogs were investigated in the rat liver. Isolated perfused rat liver was used. n-Propyl gallate, methyl gallate, n-octyl gallate and transformation products were quantified by high pressure-liquid chromatography coupled to fluorescence detection. The interactions of n-propyl gallate and analogs with the liver presented three main characteristics: (1) the hydrolytic release of gallic acid from n-propyl gallate and methyl gallate was very fast compared with the subsequent transformations of the gallic acid moiety; (2) transport of the esters was very fast and flow-limited in contrast to the slow and barrier-limited transport of gallic acid; (3) the apparent distribution volume of n-propyl gallate, but probably also of methyl gallate and n-octyl gallate, greatly exceeded the water space in the liver, contrary to the gallic acid space which is smaller than the water space. It can be concluded that at low portal concentrations (<50 uM) the gallic acid esters are 100% extracted during a single passage through the liver, releasing mainly gallic acid into the systemic circulation. For the latter a considerable time is required until complete biotransformation. The exposure of the liver to the esters, however, is quite prolonged due to extensive intracellular binding."
+        },
+        {
+            "References": "PMID:10198304",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ We previously showed that the cell-permeant antioxidant 2(3)-tert-butyl-4-hydroxyanisole (BHA) inhibited germinal vesicle breakdown (GVBD) in oocyte-cumulus complexes (OCC) of the rat. The objective of the present studies was to assess other antioxidants and whether such inhibition was reversible. Spontaneous GVBD in OCC incubated for 2 h was significantly inhibited (P < 0.005) by nordihydroguaiaretic acid (NDGA; GVBD = 19.4%), BHA (GVBD = 25.7%), octyl gallate (OG; GVBD = 52.2%), ethoxyquin (EQ; GVBD = 58.8%), 2, 6-di-tert-butyl-hydroxymethyl phenol (TBHMP; GVBD = 59%), butylated hydroxytoluene (BHT; GVBD = 59.5%), and tert-butyl hydroperoxide (TBHP; GVBD = 60.0%). Other antioxidants that produced lower but significant (P < 0.05) inhibition of oocyte maturation included propyl gallate (PG; GVBD = 70.3%), 2,4,5-trihydroxybutrophenone (THBP; GVBD = 71.4%), and lauryl gallate (LG; GVBD = 71.4%). Antioxidants that had no effect on oocyte maturation at the same concentration (100 microM) included ascorbic acid, vitamin E, and Trolox. Inhibition of GVBD was evident for up to 8 hr of incubation of OCC and denuded oocytes (DO) with BHA or NDGA and was reversed by washing. NDGA was less potent than BHA for inhibition of GVBD in DO, unlike that seen with OCC. Oocyte maturation was induced by incubation of follicles for 3 hr with human chorionic gonadotropin (hCG), and this response was inhibited by BHA or NDGA. These findings support the conclusion that cell-permeant antioxidants inhibit spontaneous resumption of meiosis, which may implicate a role of oxygen radicals in oocyte maturation."
+        },
+        {
+            "References": "PMID:17056012",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Catechins have recently been reported to increase the cellular content of the hypoxia-inducible factor (HIF)-1alpha within mammalian cells. These catechins have a gallate moiety as a common structure. We now report that n-propyl gallate (nPG) also increases the HIF-1alpha protein in the rat heart-derived H9c2 cells. The increase was dose-dependent and reached a maximum at 2-4 hr after the addition of nPG to the cells. nPG did not change the HIF-1alpha mRNA level, showing that the increase is a posttranscriptional event. Although nPG did not inhibit the HIF prolyl hydroxylase, gallate, the hydrolysis product of nPG, inhibited the enzyme completely at submillimolar concentrations. Model building studies on the human HIF prolyl hydroxylase 2 showed that the two phenolate oxygen atoms of gallate form a chelate with the active site Fe(2+), while the carboxyl group of gallate forms a strong ionic/hydrogen bonding interaction with Arg383, explaining why nPG, which has an esterified carboxyl group, is unable to inhibit the hydroxylase. Together with the observation that gallate was detected in the H9c2 cells treated with nPG, these results suggest that nPG incorporated into the cells is hydrolyzed and the released gallate inhibits the HIF prolyl hydroxylase, thereby reducing the HIF degradation rate and increasing the HIF-1alpha content."
+        },
+        {
+            "References": "PMID:18054051",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ ... In the present study, we investigated the possible undesirable effects of propyl gallate and gallic acid on gap junctional intercellular communication (GJIC), inhibition of which is closely linked to carcinogenesis. Gallic acid and propyl gallate exhibited dose-dependent free-radical-scavenging activities as determined by 1,1-diphenyl-2-picrylhydrazyl- or 2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)-radical-scavenging assays, and the free-radical-scavenging activity of gallic acid was stronger than that of propyl gallate. However, using WB-F344 rat liver epithelial cells, gallic acid inhibited GJIC in a dose-dependent manner, while propyl gallate had no significant effect compared with untreated controls. The gallic-acid-induced inhibition of GJIC was reversible, with a recovery of nearly 65% after 120 min. Gallic acid induced the phosphorylation of connexin 43 (Cx43) and phosphorylation of extracellular-signal-regulated kinase1/2 (ERK1/2). The gallic-acid-induced inhibition of GJIC was attenuated by treatment with mitogen-activated protein kinase kinase inhibitors (U0126 and PD098059). U0126 blocked the gallic-acid-induced phosphorylation of Cx43 and ERK1/2, indicating that the gallic-acid-induced inhibition of GJIC is mediated by phosphorylation of Cx43 via activation of ERK1/2. In addition, gallic-acid-induced inhibition of GJIC was protected by ascorbic acid and quercetin, which might represent a simple example of the different effects of natural antioxidants in carcinogenesis."
+        },
+        {
+            "References": "PMID:20159035",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Propyl gallate (PG) as a synthetic antioxidant exerts a variety of effects on tissue and cell functions. Here, we evaluated the effects of PG on the growth and death of endothelial cells (ECs), especially calf pulmonary artery endothelial cells (CPAEC) in relation to reactive oxygen species (ROS) and glutathione (GSH). PG dose-dependently inhibited the growth of CPAEC and human umbilical vein endothelial cells (HUVEC) at 24 hr. PG induced cell death in CPAEC, which was accompanied by the loss of mitochondrial membrane potential (MMP; DeltaPsi(m)). PG generally increased ROS level in CPAEC but not in HUVEC. PG also dose-dependently increased GSH depleted cells in both ECs. The treatment with antioxidant of N-acetyl-cysteine (NAC) or ascorbate acid (AA) prevented CPAEC growth inhibition and death by PG, which was accompanied by the attenuation of GSH depletion but not by the reduction of ROS level. In conclusion, PG induced growth inhibition and death of ECs, especially CPAEC via GSH depletion."
+        },
+        {
+            "References": "PMID:21442671",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ n-Propyl gallate dose-dependently displayed an inhibitory effect on chick chorioallantoic membrane (CAM) angiogenesis. It markedly increased the endostatin level in both isolated CAM tissues and human umbilical vein endothelial cells (HUVECs). n-Propyl gallate was also able to enhance the endostatin mRNA level in HUVECs. Antinociceptive activity of n-propyl gallate was assessed using an acetic acid-induced writhing test in mice. In brief, n-propyl gallate possesses antiangiogenic activity via up-regulation of endostatin."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Propyl gallate inhibited liver mixed function oxidase (MFO) and demethylase activity when added at concn of 50 to 500 uM to liver microsomal preparations obtained from male Sprague-Dawley rats. Specifically, the cmpd inhibited benzopyrene hydroxylase activity and demethylase activity with ethyl morphine, aminopyrene or benzphetamine as substrate. No induction of mixed function oxidase activity was noted when propyl gallate was injected ip at 300 mg/kg bw 24 hr prior to sacrifice and assay. The microsomes from the treated animals had lower demethylase activity ... ."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Addition of 24 or 125 umol of propyl gallate to an mixed function oxidase assay system prepared from the tissues of male Sprague-Dawley rats (liver, kidneys, stomach, colon and small intestine) inhibited the oxidation of benzo(a)pyrene ... ."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/IMMUNOTOXICITY/ Propyl gallate, gallic acid and nordihydroguaiaretic acid were all potent inhibitors of the in vitro mouse spleen cell antibody response as assayed by antisheep erythrocyte plaque-forming cell response. These cmpds also suppressed clone formation in vitro by human WISH or mouse L-cells ... ."
+        },
+        {
+            "References": "Archer DL et al; Proceedings of the Society for Experimental Biology and Medicine 156: 465 (1977)",
+            "Value": "/IMMUNOTOXICITY/ At concn as low as 5x10-6 M, gallic acid, a metabolite of propyl gallate and tannic acid, suppressed the anti-sheep erythrocyte plaque forming cell response of C57Bl/6 mouse spleen cells when added to cultures as late as 48 hr after antigen addition. Gallic acid induced suppression was reversed by 2-mercaptoethanol added at the same time as, or up to 48 hr after, antigen. Gallic acid also suppressed mitogen induced DNA synthesis of C57Bl/6 T lymphocytes, and this suppression was reversed by 2-mercaptoethanol. Gallic acid had no effect on the response of athymic nude mouse spleen cells to the thymus-independent antigen Escherichia coli 0127:B8, and failed to suppress lipopolysaccharide-induced B lymphocyte DNA synthesis. ... Gallic acid selectively suppresses a macrophage-dependent T lymphocyte function(s). /Gallic acid/"
+        },
+        {
+            "References": "PMID:15910789",
+            "Value": "/OTHER TOXICITY INFORMATION/ ... In the present study we explored the role of oxidants present in ambient particles in causing damage to the mucociliary epithelium. We explored the protective effects of pretreatment with three substances (n-propyl gallate, DL-alpha-tocopherol acetate, and EDTA) on the frog palate exposed to residual oil fly ash (ROFA). The parameters analyzed were mucociliary transport (MCT) and ciliary beating frequency (CBF) after 0, 10, 20, 30, 60, and 120 min of exposure. MCT was decreased significantly by ROFA (p<0.001), with a significant interaction effect (p=0.02) between the duration of exposure and treatment with antioxidants. The inhibitory effects on MCT of the substances tested were significantly different (p=0.002); vitamin E was similar to control (Ringer) and different from all other groups. CBF showed no significant effect of duration of exposure (p=0.465), but a significant interaction between duration of exposure and treatments was observed (p=0.011). Significant differences were detected among treatments (p<0.001), with ROFA and n-propyl gallate at concentrations of 50 uM presenting a short-lived increase in CBF, which was not observed in the remaining groups. The results showed that both MCT and CBF were affected within a short period (100 min) of exposure to ROFA and that the presence of antioxidant substances, such as vitamin E (4 mg/mL) and n-propyl gallate (300 uM), protected against the mucociliary impairment induced by ROFA on the frog palate."
+        },
+        {
+            "References": "PMID:18047470",
+            "Value": "/OTHER TOXICITY INFORMATION/ HIF-1 (hypoxia-inducible factor 1) is a master regulator of cellular adaptive responses to hypoxia. The expression and transcriptional activity of the HIF-1alpha subunit is stringently controlled by intracellular oxygen tension through the action of prolyl and asparaginyl hydroxylases. In the present study we demonstrate that PG (n-propyl gallate) activates HIF-1 and expression of its downstream target genes under normoxic conditions in cultured cells and in mice. The stability and transcriptional activity of HIF-1alpha are increased by PG. PG treatment inhibits the interaction between HIF-1alpha and VHL (von Hippel-Lindau protein) and promotes the interaction between HIF-1alpha and p300, indicating that PG inhibits the activity of both prolyl and asparaginyl HIF-1alpha hydroxylases. We conclude that PG activates HIF-1 and enhances the resultant gene expression by directly affecting the intracellular oxygen sensing system in vitro and in vivo and that PG represents a lead compound for the development of a non-toxic activator of HIF-1."
+        },
+        {
+            "References": "PMID:21425119",
+            "Value": "/OTHER TOXICITY INFORMATION/ The uncoupling of the vascular endothelial growth factor-nitric oxide (VEGF-NO) axis may play a vital role in inducing glomerular endothelial dysfunction. We investigate the factors that contribute to the imbalance of the VEGF-NO axis and evaluate the effect of propyl gallate on preventing endothelial dysfunction. Streptozotocin (STZ, 60 mg/kg) was administrated to rats to establish an animal diabetic nephropathy model. The diabetic rats were randomly divided into a diabetic model group and a propyl gallate-treated group. Animals were sacrificed 8 weeks after the model was established. Periodic acid-Schiff staining was conducted to observe pathological changes, and reverse transcriptase polymerase chain reaction and Western blot were employed to analyze endothelial nitric oxide synthase (eNOS) and VEGF expressions. Commercial kits were used to detect glomerular eNOS activity and NO production, as well as oxidative stress. Compared with that in the normal control group, glomerular eNOS activity significantly decreased in diabetic rats, but eNOS expression remained at the same level. The expression of VEGF increased at this stage. Levels of glomerular oxidative stress also increased in diabetic rats and were inversely correlated with eNOS activity. Treatment with propyl gallate restored eNOS activity, ameliorated oxidative stress and improved glomerular pathological changes, but did not alter eNOS and VEGF expressions. The imbalance of the VEGF-NO axis in the glomeruli of diabetic rats may have resulted from eNOS inactivation, but not from the decrement in eNOS expressions at the early stage of rat diabetic nephropathy. Propyl gallate improved glomerular pathological changes in diabetic rats, possibly through oxidative stress reduction and VEGF-NO axis recovery."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V6 732",
+            "Value": "/OTHER TOXICITY INFORMATION/ When injected intradermally, propyl gallate (20 mM) is a moderate skin sensitizer in guinea pigs."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/OTHER TOXICITY INFORMATION/ Weight gain depression of more than 10% was observed in male rats receiving diets containing 12,500 or 25,000 and in females receiving 25,000 mg propyl gallate/kg feed. Dirty tails, indicating GI disturbance, were noted in both sexes at 25,000 mg propyl gallate/kg feed. In the 25,000 mg/kg feed groups, reddish duodenal mucosa was reported in both sexes, in addition to thickening of the stomach wall with necrosis and ulceration of the mucosal surface of the stomach, and moderate to severe granulomatous inflammatory response in the submucosa and muscular wall of the stomach. No stomach nor duodenal lesions were noted in either sex at 6,000 or 12,500 mg/kg feed ... ."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/OTHER TOXICITY INFORMATION/ Diets containing 0.2% propyl gallate were fed to pigs without observed ill effect; no anemia was observed ... ."
+        },
+        {
+            "References": "International Programme on Chemical Safety/World Health Organization; Food Additives Series 32, Gallates (1993). Available from, as of October 10, 2016: https://www.inchem.org/documents/jecfa/jecmono/v32je02.htm",
+            "Value": "/OTHER TOXICITY INFORMATION/ The induction of epidermal ornithine decarboxylase by 12-O-tetradecanoylphorbyl-13 acetate in mouse epidermis was inhibited by the topical application of propyl gallate. Its potency was approx 10% of that of BHA ... ."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Oct 24, 2016: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Shahidi F, ed; Handbook of Antioxidants for Food Preservation. Waltham, MA; Woodhead Publishing, p. 54 (2015)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of propyl gallate can be estimated to be 490(SRC). According to a classification scheme(2), this estimated Koc value suggests that propyl gallate is expected to have moderate mobility in soil."
+        }
+    ]
+}

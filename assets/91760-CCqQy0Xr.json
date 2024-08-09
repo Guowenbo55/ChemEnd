@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "669270ec303528b49832d738"
+    },
+    "CID": {
+        "$numberInt": "91760"
+    },
+    "Name": "Sulcotrione",
+    "IUPACName": "2-(2-chloro-4-methylsulfonylbenzoyl)cyclohexane-1,3-dione",
+    "CanonicalSMILES": "CS(=O)(=O)C1=CC(=C(C=C1)C(=O)C2C(=O)CCCC2=O)Cl",
+    "Synonyms": [
+        "Sulcotrione",
+        "99105-77-8",
+        "2-(2-Chloro-4-(methylsulfonyl)benzoyl)cyclohexane-1,3-dione",
+        "1,3-Cyclohexanedione",
+        "2-[2-chloro-4-(methylsulfonyl)benzoyl]-",
+        "2-(2-chloro-4-methylsulfonylbenzoyl)cyclohexane-1,3-dione",
+        "Sulcotrione [ISO]",
+        "5UEH9SXW7V",
+        "123174-48-1",
+        "2-[2-Chloro-4-(methylsulfonyl)benzoyl]-1,3-cyclohexanedione",
+        "CHEBI:83465",
+        "2-(2-chloro-4-(methylsulfonyl)benzoyl)-1,3-cyclohexanedione",
+        "Sulcotrione 100 microg/mL in Acetonitrile",
+        "2-(2-CHLORO-4-METHYLSULFONYL-BENZOYL)CYCLOHEXANE-1,3-DIONE",
+        "mikado",
+        "2-[2-chloro-4-(methylsulfonyl)benzoyl]cyclohexane-1,3-dione"
+    ],
+    "IsomericSMILES": "CS(=O)(=O)C1=CC(=C(C=C1)C(=O)C2C(=O)CCCC2=O)Cl",
+    "INCHI": "InChI=1S/C14H13ClO5S/c1-21(19,20)8-5-6-9(10(15)7-8)14(18)13-11(16)3-2-4-12(13)17/h5-7,13H,2-4H2,1H3",
+    "INCHIKEY": "PQTBTIFWAXVEPB-UHFFFAOYSA-N",
+    "Formula": "C14H13ClO5S",
+    "MolecularWeight": {
+        "$numberDouble": "328.8"
+    },
+    "Description": "Sulcotrione is an aromatic ketone that is cyclohexane-1,3-dione substituted by a 2-chloro-4-(methylsulfonyl)benzoyl group at position 2. It has a role as an environmental contaminant, a xenobiotic, a herbicide and a carotenoid biosynthesis inhibitor. It is an aromatic ketone, a sulfone, a member of cyclohexanones and a beta-triketone.",
+    "XlogP": {
+        "$numberDouble": "1.5"
+    },
+    "Complexity": {
+        "$numberInt": "546"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Studies were conducted to compare foliar- and root-based absorption and translocation of SC-0051 (proposed name sulcotrione) in corn and soybean using radio-tracer techniques. Visual injury symptoms expressed in soybean by SC-0051 were bleaching in newly formed (meristematic) tissue followed by necrosis. Corn expressed little to no visual injury. SC-0051 was absorbed more rapidly by foliage of corn and soybean than by their roots. Although soybean absorbed more SC-0051 through roots than did corn, there was no difference between species in foliar absorption of SC-0051. SC-0051 was rapidly translocated throughout corn plants but was concentrated mainly in the meristematic tissue of soybean. Even though there were slight differences in absorption and translocation of SC-0051 in corn and soybean, it is likely that differential metabolism of the herbicide explains selectivity.",
+            "reference": "Armel, G. R., Mayonado, D. J., Hatzios, K. K., & Wilson, H. P. (2004). Absorption and translocation of SC-0051 in corn and soybean.\u00a0Weed technology,\u00a018(2), 211-214.",
+            "method": {
+                "Test Plant": "Corn ('Gutwein 69B') and soybean ('Essex').",
+                "Apply Location": "Root and foliar applications.",
+                "Plant Grown Condition": "Grown in a growth chamber with a 25\u00b0C temperature, a 14-hour light cycle (100 \u00b5E/m\u00b2/s), and a 10-hour dark cycle. Potting mixture for root uptake studies was sand\u2013peat\u2013weblite (1:1:1, v/v/v); for foliar uptake studies, plants were grown in vermiculite and watered with half-strength Hoagland solution.",
+                "Chemical Preparation": "14C SC-0051 used with a specific activity of 1147.91 kBq/mg. Root-based absorption used 0.033 mg/ml SC-0051 in full-strength Hoagland solution. Foliar-based absorption involved a 20-ml drop containing 3.7 kBq 14C SC-0051 in acetone\u2013water (1:1, v/v) solution.",
+                "Pesticide Application Details for the Plant": "For root absorption, plants were exposed to 100 ml of treatment solution. For foliar absorption, a 20-ml drop of the treatment was applied to leaves.",
+                "Other Information and Other Information": "Experiments were conducted in a completely randomized design with three replicates and repeated over time. Statistical analysis included ANOVA and Fisher\u2019s LSD test at 0.05 significance level."
+            },
+            "result": "[{\"Plant\": \"Corn\", \"Apply location\": \"Root\", \"Hours after application\": 12, \"Roots(% of recovered)\": 53, \"Shoots(%)\": \"47\", \"Treated Leaf (%)\": \"-\", \"Old leaves (%)\": \"-\", \"New Leaves(%)\": \"-\"}, {\"Plant\": \"Corn\", \"Apply location\": \"Root\", \"Hours after application\": 48, \"Roots(% of recovered)\": 52, \"Shoots(%)\": \"48\", \"Treated Leaf (%)\": \"-\", \"Old leaves (%)\": \"-\", \"New Leaves(%)\": \"-\"}, {\"Plant\": \"Corn\", \"Apply location\": \"Root\", \"Hours after application\": 96, \"Roots(% of recovered)\": 50, \"Shoots(%)\": \"50\", \"Treated Leaf (%)\": \"-\", \"Old leaves (%)\": \"-\", \"New Leaves(%)\": \"-\"}, {\"Plant\": \"Corn\", \"Apply location\": \"Foliar\", \"Hours after application\": 12, \"Roots(% of recovered)\": 23, \"Shoots(%)\": \"36\", \"Treated Leaf (%)\": \"41\", \"Old leaves (%)\": \"-\", \"New Leaves(%)\": \"-\"}, {\"Plant\": \"Corn\", \"Apply location\": \"Foliar\", \"Hours after application\": 48, \"Roots(% of recovered)\": 28, \"Shoots(%)\": \"49\", \"Treated Leaf (%)\": \"23\", \"Old leaves (%)\": \"-\", \"New Leaves(%)\": \"-\"}, {\"Plant\": \"Corn\", \"Apply location\": \"Foliar\", \"Hours after application\": 96, \"Roots(% of recovered)\": 15, \"Shoots(%)\": \"48\", \"Treated Leaf (%)\": \"37\", \"Old leaves (%)\": \"-\", \"New Leaves(%)\": \"-\"}, {\"Plant\": \"Soybean\", \"Apply location\": \"Root\", \"Hours after application\": 12, \"Roots(% of recovered)\": 40, \"Shoots(%)\": \"-\", \"Treated Leaf (%)\": \"-\", \"Old leaves (%)\": \"35\", \"New Leaves(%)\": \"25\"}, {\"Plant\": \"Soybean\", \"Apply location\": \"Root\", \"Hours after application\": 48, \"Roots(% of recovered)\": 35, \"Shoots(%)\": \"-\", \"Treated Leaf (%)\": \"-\", \"Old leaves (%)\": \"19\", \"New Leaves(%)\": \"46\"}, {\"Plant\": \"Soybean\", \"Apply location\": \"Root\", \"Hours after application\": 96, \"Roots(% of recovered)\": 35, \"Shoots(%)\": \"-\", \"Treated Leaf (%)\": \"-\", \"Old leaves (%)\": \"26\", \"New Leaves(%)\": \"39\"}, {\"Plant\": \"Soybean\", \"Apply location\": \"Foliar\", \"Hours after application\": 12, \"Roots(% of recovered)\": 8, \"Shoots(%)\": \"-\", \"Treated Leaf (%)\": \"83\", \"Old leaves (%)\": \"2\", \"New Leaves(%)\": \"7\"}, {\"Plant\": \"Soybean\", \"Apply location\": \"Foliar\", \"Hours after application\": 48, \"Roots(% of recovered)\": 6, \"Shoots(%)\": \"-\", \"Treated Leaf (%)\": \"70\", \"Old leaves (%)\": \"2\", \"New Leaves(%)\": \"22\"}, {\"Plant\": \"Soybean\", \"Apply location\": \"Foliar\", \"Hours after application\": 96, \"Roots(% of recovered)\": 11, \"Shoots(%)\": \"-\", \"Treated Leaf (%)\": \"74\", \"Old leaves (%)\": \"1\", \"New Leaves(%)\": \"14\"}]"
+        }
+    ]
+}

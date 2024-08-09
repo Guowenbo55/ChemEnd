@@ -1,0 +1,85 @@
+{
+    "_id": {
+        "$oid": "6682e907c4e5dba5ffba288f"
+    },
+    "CID": {
+        "$numberInt": "12901"
+    },
+    "Name": "PHOSMET",
+    "IUPACName": "2-(dimethoxyphosphinothioylsulfanylmethyl)isoindole-1,3-dione",
+    "CanonicalSMILES": "COP(=S)(OC)SCN1C(=O)C2=CC=CC=C2C1=O",
+    "Synonyms": [
+        "Phosmet",
+        "Fosmet",
+        "732-11-6",
+        "Decemthion",
+        "Phthalophos",
+        "Imidathion",
+        "Percolate",
+        "Prolate",
+        "IMIDAN",
+        "Ftalophos",
+        "Kemolate",
+        "Safidon",
+        "Simidan",
+        "Smidan",
+        "Decemthion P-6"
+    ],
+    "IsomericSMILES": "COP(=S)(OC)SCN1C(=O)C2=CC=CC=C2C1=O",
+    "INCHI": "InChI=1S/C11H12NO4PS2/c1-15-17(18,16-2)19-7-12-10(13)8-5-3-4-6-9(8)11(12)14/h3-6H,7H2,1-2H3",
+    "INCHIKEY": "LMNZTLDVJIUSHT-UHFFFAOYSA-N",
+    "Formula": "C11H12NO4PS2",
+    "MolecularWeight": {
+        "$numberDouble": "317.3"
+    },
+    "Description": "Phosmet is an organic thiophosphate, an organothiophosphate insecticide and a member of phthalimides. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, an acaricide and an agrochemical. It is functionally related to a N-(hydroxymethyl)phthalimide.",
+    "XlogP": {
+        "$numberDouble": "2.8"
+    },
+    "Complexity": {
+        "$numberInt": "399"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "JULIN AM; SANDERS HO; TRANS AM FISH SOC 106 (4): 386-92 (1977)",
+            "Value": "ACCUMULATION FACTORS FOR TECHNICAL IMIDAN AFTER 24 HR RANGED FROM 10 FOR FATHEAD MINNOW, CHANNEL CATFISH, & BLUEGILL TO 1 FOR DAMSELFLY. ACCUMULATION FACTORS AFTER 46 HR RANGED FROM 11 FOR CHANNEL CATFISH TO 2 FOR CLAM SHRIMP & DAMSELFLY."
+        },
+        {
+            "References": "(1) Tsuda T et al; Chemosphere 25: 1945-51 (1992) (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "Using a continuous flow-through system and willow shiner (Gnathopogon caerulescens) fish, phosmet BCF values ranging from 32 to 44 were determined for exposure periods of 24 to 168 hr(1). According to a classification scheme(2), these BCF values suggests bioconcentration in aquatic organisms is moderate(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "Menzie, C.M. Metabolism of Pesticides. U.S. Department of the Interior, Bureau of Sport Fisheries and Wildlife, Publication 127. Washington, DC: U.S. Government Printing Office, 1969., p. 225",
+            "Value": "PHTHALAMIC AND PHTHALIC ACIDS WERE FOUND AS ... HYDROLYSIS END PRODUCTS ... IN WATER ... HYDROLYSIS OF IMIDAN OCCURRED IN SOILS; AND TESTS INDICATED THAT THIS WAS NOT DEPENDENT ON MOISTURE ALONE BUT WAS DUE IN SOME DEGREE TO MICROBIAL ACTION. IN DRY SANDY LOAM SOIL, TIME FOR 50% DEGRADATION WAS 19 DAYS, COMPARED TO 3 DAYS IN MOIST SOIL."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Tomlin CDS, ed; Phosmet (732-11-6). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council.",
+            "Value": "log Kow = 2.95"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "EPA/OPP; Organophosphorus Cumulative Risk Assessment - 2006 Update. p 40. (August 2006) Downloadable as a zipped pdf file from https://www.epa.gov/pesticides/cumulative/2006-op/index.htm as of June 20, 2007",
+            "Value": "OPs including Phosmet exert their neurotoxicity by binding to and phosphorylating the enzyme acetylcholinesterase in both the central (brain) and peripheral nervous systems. There are laboratory animal data on OPs for cholinesterase activity in plasma, red blood cell (RBC) and brain, as well as behavioral or functional neurological effects ... Measures of acetylcholinesterase inhibition in the peripheral nervous system (PNS) are very limited for the OP pesticides. As a matter of /EPA/ science policy, blood cholinesterase data (plasma and RBC) are considered appropriate surrogate measures of potential effects on PNS acetylcholinesterase activity and of potential effects on the central nervous system (CNS) when brain cholinesterase data are lacking."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "PMID:8747019",
+            "Value": "SOIL: Soil samples were collected from the homes of farm workers, agricultural families and reference families in which no member was involved in agricultural practices in the State of Washington(1). The mean (range) of phosmet in soil samples were: 11 ng/g (0.0-101 ng/g ) farm workers homes; 38 ng/g (0.0-332 ng/g ) agricultural families homes; <7 ng/g (0-<7 ng/g) reference families homes(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) USDA; ARS Pesticide Properties List. Available at: https://www.ars.usda.gov/Services/docs.htm?docid=14147 as of July 23, 2007. (2) Swann RL et al; Res Rev 85: 23 (1983)",
+            "Value": "The US Department of Agriculture Pesticide Properties Database lists Koc values of 500-820 for phosmet(1). According to a classification scheme(2), this range of Koc values suggest that phosmet has low mobility in soil(SRC)."
+        }
+    ]
+}

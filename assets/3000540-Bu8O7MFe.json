@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "6682e9abc4e5dba5ffba2bca"
+    },
+    "CID": {
+        "$numberInt": "3000540"
+    },
+    "Name": "LINCOMYCIN",
+    "IUPACName": "(2S,4R)-N-[(1R,2R)-2-hydroxy-1-[(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-methylsulfanyloxan-2-yl]propyl]-1-methyl-4-propylpyrrolidine-2-carboxamide",
+    "CanonicalSMILES": "CCCC1CC(N(C1)C)C(=O)NC(C2C(C(C(C(O2)SC)O)O)O)C(C)O",
+    "Synonyms": [
+        "lincomycin",
+        "154-21-2",
+        "Lincolnensin",
+        "Cillimycin",
+        "Lincomycinum",
+        "Jiemycin",
+        "Lincomicina",
+        "Lincomycin A",
+        "Lincomycine",
+        "Bactramycin",
+        "Lincorex",
+        "Lincomycin (USAN/INN)",
+        "UNII-BOD072YW0F",
+        "BOD072YW0F",
+        "CHEMBL1447"
+    ],
+    "IsomericSMILES": "CCC[C@@H]1C[C@H](N(C1)C)C(=O)N[C@@H]([C@@H]2[C@@H]([C@@H]([C@H]([C@H](O2)SC)O)O)O)[C@@H](C)O",
+    "INCHI": "InChI=1S/C18H34N2O6S/c1-5-6-10-7-11(20(3)8-10)17(25)19-12(9(2)21)16-14(23)13(22)15(24)18(26-16)27-4/h9-16,18,21-24H,5-8H2,1-4H3,(H,19,25)/t9-,10-,11+,12-,13+,14-,15-,16-,18-/m1/s1",
+    "INCHIKEY": "OJMMVQQUTAEWLP-KIDUDLJLSA-N",
+    "Formula": "C18H34N2O6S",
+    "MolecularWeight": {
+        "$numberDouble": "406.5"
+    },
+    "Description": "Lincomycin is a carbohydrate-containing antibiotic produced by the actinomyces Streptomyces lincolnensis. It has a role as an antimicrobial agent and a bacterial metabolite. It is a carbohydrate-containing antibiotic, a S-glycosyl compound, a monocarboxylic acid amide, a pyrrolidinecarboxamide and a L-proline derivative.",
+    "XlogP": {
+        "$numberDouble": "0.2"
+    },
+    "Complexity": {
+        "$numberInt": "499"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 160",
+            "Value": "log Kow = 0.20"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "American Society of Health-System Pharmacists 2012; Drug Information 2012. Bethesda, MD. 2012, p. 477",
+            "Value": "Lincomycin may be bacteriostatic or bactericidal in action, depending on the concentration of the drug attained at the site of infection and the susceptibility of the infecting organism.  Lincomycin appears to inhibit protein synthesis in susceptible organisms by binding to 50S ribosomal subunits; the primary effect is inhibition of peptide bond formation. The site of action appears to be the same as that of clindamycin, erythromycin, and chloramphenicol."
+        },
+        {
+            "References": "PMID:7969063",
+            "Value": "/The authors/ ... investigated the inhibition of peptide bond formation by the antibiotic lincomycin, at 150 mM NH4Cl. /The authors/ ... used an in vitro system in which a ribosomal ternary complex, the acetyl[3H] phenylalanine-tRNA-70 S ribosome-poly(U) complex (complex C), reacts with puromycin, forming peptide bonds. Complex C can be considered an analog of the elongating ribosomal complex and puromycin an analog of aminoacyl-tRNA. In a previous study /the authors/ ... reported on the kinetics of inhibition by lincomycin at 100 mM NH4Cl. In the present investigation, /the authors/ ... find that an increase of the ammonium ion concentration to 150 mM causes profound changes in the kinetic behavior of the system, which can be summarized as follows. First, the association rate for complex C and lincomycin is increased. At a lincomycin concentration of 10 uM the apparent equilibration rate constant is 4.3 min-1 at 100 mM NH4Cl, whereas it becomes 6.7 min-1 at 150 mM. Second, at 150 mM NH4Cl, with increasing concentrations of lincomycin, there is a transition from competitive to mixed-noncompetitive inhibition. The prevailing notion is that lincomycin acts at the ribosomal A-site, a mechanism that agrees only with competitive kinetics (mutually exclusive binding between puromycin and lincomycin). At the molecular level, the change in the kinetics of inhibition that we observe may mean that the mutually exclusive binding between aminoacyl-tRNA and lincomycin is converted to simultaneous binding, as a result of conformational changes occurring in the elongating ribosomal complex."
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "_id": {
+        "$oid": "6682e851c4e5dba5ffba2500"
+    },
+    "CID": {
+        "$numberInt": "6558"
+    },
+    "Name": "ISOBUTYLAMINE",
+    "IUPACName": "2-methylpropan-1-amine",
+    "CanonicalSMILES": "CC(C)CN",
+    "Synonyms": [
+        "ISOBUTYLAMINE",
+        "78-81-9",
+        "2-methylpropan-1-amine",
+        "1-Amino-2-methylpropane",
+        "2-Methylpropylamine",
+        "Monoisobutylamine",
+        "Valamine",
+        "iso-Butylamine",
+        "1-Propanamine",
+        "2-methyl-",
+        "2-Methylpropanamine",
+        "I-Butylamine",
+        "2-Methyl-1-propanamine",
+        "3-Methyl-2-propylamine",
+        "isobutyl amine",
+        "2-Methyl-1-Aminopropane"
+    ],
+    "IsomericSMILES": "CC(C)CN",
+    "INCHI": "InChI=1S/C4H11N/c1-4(2)3-5/h4H,3,5H2,1-2H3",
+    "INCHIKEY": "KDSNLYIMUZNERS-UHFFFAOYSA-N",
+    "Formula": "C4H11N",
+    "MolecularWeight": {
+        "$numberDouble": "73.14"
+    },
+    "Description": "2-methylpropanamine is an alkylamine having isobutyl as the alkyl group. It has been isolated from Sambucus nigra (Elderberry). It has a role as a plant metabolite. It is a conjugate base of a 2-methylpropanaminium.",
+    "XlogP": {
+        "$numberDouble": "0.7"
+    },
+    "Complexity": {
+        "$numberInt": "17"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Steiner M, Hartmann T; Planta 79: 113-21 (1968) (2) Irvine WJ, Saxby MJ; Phytochem 8: 473-76 (1969)",
+            "Value": "Isobutylamine has been detected in various species of marine algae(1). It has been found to occur naturally in Latakia tobacco leaves(2)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 10 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated for isobutylamine(SRC), using a log Kow of 0.73(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Malaney GW; J Water Pollut Control Fed 35: 1300 (1960) (2) Marion CV, Malaney GW; J Water Pollut Control Fed 35: 1269 (1963) (3) Chemicals Inspection and Testing Institute; Japan Chemical Industry Ecology - Toxicology and Information Center. ISBN 4-89074-101-1 (1992)",
+            "Value": "AEROBIC: Isobutylamine was biologically-oxidized by aniline-acclimated activated sludge and the bacteria Alcaligenes faecalis, isolated from activated sludge using the Warburg technique(1,2). Isobutylamine was 87 percent and 68 percent biodegraded in duplicate tests during a 2 week incubation period using a Japanese MITI test(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 10",
+            "Value": "log Kow = 0.73"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "PMID:7071869",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The acute oral LD50 values of monobutylamines, incl isobutylamine, were determined in both male (195 g) and female (156 g) Sprague-Dawley rats. Signs of toxicity observed after single oral doses of the monobutylamines incl sedation, ataxia, nasal discharge, gasping, and salivation followed by convulsions and death at the higher dose levels. Gross pathol exam of animals that died after treatment revealed pulmonary edema."
+        },
+        {
+            "References": "Zenz, C., O.B. Dickerson, E.P. Horvath. Occupational Medicine. 3rd ed. St. Louis, MO., 1994, p. 707",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In animals, it is sympathomimetic, a cardiac depressant, and a convulsant."
+        },
+        {
+            "References": "Seglan PO, Gordon PB; Nol Pharmacol 18(3): 468-75 (1980)",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ More than 60 different amines have been tested for their effect on protein degradation and protein synthesis in isolated rat hepatocytes. ... All of the typically lysosomotrophic amines inhibited protein degradation to the same extent ... and their maximal effects were nonadditive. This may indicate a complete and selective blockade of the lysosomal pathway of protein degradation, making these compounds useful tools in the study of intracellular protein metabolism."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Golovnya RV et al; Amines in Soil as Possible Precursors of Nitroso Compounds. USSR Acad Med Sci pp. 327-35 (1987)",
+            "Value": "Isobutylamine was identified, not quantified, as a constituent of soil from Moscow, USSR(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 10 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 23 (1983) (4) Perrin DD; Dissociation constants of organic bases in aqueous solution. IUPAC Chem Data Ser, Buttersworth, London (1965) (5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "The Koc of isobutylamine is estimated as 60(SRC), using a log Kow of 0.73(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that isobutylamine is expected to have high mobility in soil. The pKa of isobutylamine is 10.68(4) indicating that this compound will exist almost entirely in the cation form in the environment and cations generally adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(5)."
+        }
+    ]
+}

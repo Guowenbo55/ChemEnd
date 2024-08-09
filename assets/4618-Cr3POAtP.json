@@ -1,0 +1,76 @@
+{
+    "_id": {
+        "$oid": "6682e811c4e5dba5ffba23bd"
+    },
+    "CID": {
+        "$numberInt": "4618"
+    },
+    "Name": "OXYDEMETON-METHYL",
+    "IUPACName": "1-dimethoxyphosphorylsulfanyl-2-ethylsulfinylethane",
+    "CanonicalSMILES": "CCS(=O)CCSP(=O)(OC)OC",
+    "Synonyms": [
+        "OXYDEMETON-METHYL",
+        "Demeton-S-methyl sulfoxide",
+        "301-12-2",
+        "Oxydemeton methyl",
+        "Metasystox-R",
+        "Methyl oxydemeton S",
+        "Metasystox R",
+        "Metaisosystox sulfoxide",
+        "oxdemetonmethyl",
+        "Demeton-S methyl sulfoxide",
+        "1-dimethoxyphosphorylsulfanyl-2-ethylsulfinylethane",
+        "Phosphorothioic acid",
+        "S-(2-(ethylsulfinyl)ethyl) O,O-dimethyl ester",
+        "O,O-Dimethyl S-(2-(ethylsulfinyl)ethyl) monothiophosphate",
+        "O,O-Dimethyl S-(2-(ethylsulfinyl)ethyl) phosphorothioate",
+        "S-(2-(Ethylsulfinyl)ethyl) O,O-dimethyl phosphorothioate"
+    ],
+    "IsomericSMILES": "CCS(=O)CCSP(=O)(OC)OC",
+    "INCHI": "InChI=1S/C6H15O4PS2/c1-4-13(8)6-5-12-11(7,9-2)10-3/h4-6H2,1-3H3",
+    "INCHIKEY": "PMCVMORKVPSKHZ-UHFFFAOYSA-N",
+    "Formula": "C6H15O4PS2",
+    "MolecularWeight": {
+        "$numberDouble": "246.3"
+    },
+    "Description": "Oxydemeton-methyl is an organic thiophosphate and an organothiophosphate insecticide. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, an acaricide and an agrochemical. It is functionally related to a 2-(ethanesulfinyl)ethanol.",
+    "XlogP": {
+        "$numberDouble": "-0.7"
+    },
+    "Complexity": {
+        "$numberInt": "201"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Tomlin CDS, ed; The Pesticide Manual World Compendium. 11th ed., Surrey, England: British Crop Protection Council p. 917 (1997)  (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3.1 was calculated for oxydemeton-methyl(SRC), using a log Kow of -0.74(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Ziegler W et al; J Agric Food Chem 28: 1102-6 (1980)",
+            "Value": "While no biodegradation rates were located for screening tests or natural systems, oxydemeton-methyl has been shown to be degraded by many soil microorganisms(1). One microorganism, Pseudomonas putida, cleaved the thioester bond to form 2-(ethylsulfinyl)ethanethiol, which was subsequently oxidized to bis(2-(ethylsulfinyl)ethyl)disulfide, and 2-(ethylsulfonyl)ethanethiol(1). Another microorganism, a Nocardia sp. produced bis(2-(ethylsulfonyl)ethyl)disulfide, bis[2-(ethylsulfinyl)ethyl]sulfide, and bis(2-(ethylsulfonyl)ethyl)sulfide via oxidation, beta-elimination, and hydrolysis(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium, 11 th ed., British Crop Protection Council, Surrey, England 1997, p. 917",
+            "Value": "log Kow = -0.74 @ 21 \u00b0C"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "WHO; Environ Health Criteria 63: Organophosphorus pesticides (1986). Available from, as of July 3,2003: https://www.inchem.org/pages/ehc.html",
+            "Value": "Organophosphorus insecticides exert their acute effects in both insects and mammals by inhibiting acetylcholinesterase (AChE) in the nervous system with subsequent accumulation of toxic levels of acetylcholine (ACh), which is a neurotransmitter.  In many cases, the organophosphorylated enzyme is fairly stable, so that recovery from intoxication may be slow. /Organophosphorus Pesticides/"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Tomlin CDS, ed; The Pesticide Manual World Compendium. 11th ed., Surrey, England: British Crop Protection Council p. 917 (1997) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Freed VH, Haque R; Res Rev 52: 89-116 (1974)",
+            "Value": "The Koc of oxydemeton-methyl is estimated as 9(SRC), using a log Kow of -0.74(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that oxydemeton-methyl is expected to have very high mobility in soil. One investigator estimated that oxydemeton-methyl would leach >35 cm in loam soil at 25 \u00b0C in a year(4)."
+        }
+    ]
+}

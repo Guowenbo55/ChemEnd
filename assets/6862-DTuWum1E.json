@@ -1,0 +1,75 @@
+{
+    "_id": {
+        "$oid": "6682e860c4e5dba5ffba254a"
+    },
+    "CID": {
+        "$numberInt": "6862"
+    },
+    "Name": "1-NAPHTHALENEACETIC ACID",
+    "IUPACName": "2-naphthalen-1-ylacetic acid",
+    "CanonicalSMILES": "C1=CC=C2C(=C1)C=CC=C2CC(=O)O",
+    "Synonyms": [
+        "86-87-3",
+        "1-Naphthylacetic acid",
+        "1-NAPHTHALENEACETIC ACID",
+        "2-(Naphthalen-1-Yl)Acetic Acid",
+        "1-Naphthalene acetic acid",
+        "Naphthalene-1-acetic acid",
+        "NAPHTHALENEACETIC ACID",
+        "Phyomone",
+        "Planofix",
+        "Fruitone N",
+        "Transplantone",
+        "Fruitofix",
+        "Planofixe",
+        "Celmone",
+        "alpha-Naphthylacetic acid"
+    ],
+    "IsomericSMILES": "C1=CC=C2C(=C1)C=CC=C2CC(=O)O",
+    "INCHI": "InChI=1S/C12H10O2/c13-12(14)8-10-6-3-5-9-4-1-2-7-11(9)10/h1-7H,8H2,(H,13,14)",
+    "INCHIKEY": "PRPINYUDVPFIRX-UHFFFAOYSA-N",
+    "Formula": "C12H10O2",
+    "MolecularWeight": {
+        "$numberDouble": "186.21"
+    },
+    "Description": "1-naphthaleneacetic acid is a naphthylacetic acid substituted by a carboxymethyl group at position 1. It has a role as a synthetic auxin. It is a conjugate acid of a 1-naphthaleneacetate.",
+    "XlogP": {
+        "$numberDouble": "2.7"
+    },
+    "Complexity": {
+        "$numberInt": "212"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Bukovac MJ et al; Weed Sci 38: 289-98 (1990) (2) Baker EA et al; Pestic Sci 34: 167-82 (1992)",
+            "Value": "1-Naphthaleneacetic acid was shown to be readily absorbed in tomato fruit cuticles(1). Lipophilic in nature, 1-naphthaleneacetic acid applied as a spray concn of 1 g/l to maize, rape, strawberry, and sugar beet resulted in plant uptake rates of 26, 98, 96, and 61% of amount applied, respectively, after 24 hrs; plants characterized by waxy leaves exhibited more rapid uptake(2). Use of a surfactant (NP8, nonylphenol) decreased the rate of absorption to 17, 15, 35, and 13%, respectively(2)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Biodegradation and bioaccumulation data of existing chemicals based on the CSCL Japan. Japan Chemical Industry Ecology - Toxicology and Information Center. ISBN 4-89074-101-1 (1992) (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "BCFs of 0.15-0.59 and <1.7-4.2 were measured in carp (Cyprinus carpio) for 1-naphthaleneacetic acid at test chemical concns of 0.5 and 0.05 mg/l, respectively(1). According to a classification scheme(2), these BCFs suggest the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Biodegradation and bioaccumulation data of existing chemicals based on the CSCL Japan. Japan Chemical Industry Ecology - Toxicology and Information Center. ISBN 4-89074-101-1 (1992) (2) Weber JB; pp. 15-41 in Mechanics of pesticide movement into ground water. Honeycutt RC, Schadebacker DJ, eds. Ann Arbor, MI: Ann Arbor Press (1994)",
+            "Value": "AEROBIC: 1-Naphthaleneacetic acid, present at 30 mg/l, reached 0% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 100 mg/l and the Japanese MITI test(1). 1-Naphthaleneacetic acid has a reported half-life in soil of 10 days, attributed to microbial degradation(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Sangster J; LOGKOW Databank. Sangster Res. Lab., Montreal Quebec, Canada (1994)",
+            "Value": "log Kow = 2.24"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Sangster J; LOGKOW Databank. Sangster Res. Lab., Montreal Quebec, Canada (1994) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Kortum G et al; Dissociation Constants of Organic Acids in Aqueous Solution. International Union of Pure and Applied Chemistry. London: Butterworth (1961) (5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000) (5) Bollag JM et al; J Agric Food Chem 26: 1302-6 (1978) (6) Adrian P et al; Toxicol Environ Chem 20-21: 109-20 (1989)",
+            "Value": "The Koc of 1-naphthaleneacetic acid is estimated as 390(SRC), using a log Kow of 2.24(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that 1-naphthaleneacetic acid is expected to have moderate mobility in soil. The pKa of 1-naphthaleneacetic acid is 4.23(4), indicating that this compound will primarily exist in the dissociated form in the environment and anions generally have greater mobility than their neutral counterparts(5)."
+        }
+    ]
+}

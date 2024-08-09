@@ -1,0 +1,107 @@
+{
+    "_id": {
+        "$oid": "6682e7d1c4e5dba5ffba227f"
+    },
+    "CID": {
+        "$numberInt": "284"
+    },
+    "Name": "FORMIC ACID",
+    "IUPACName": "formic acid",
+    "CanonicalSMILES": "C(=O)O",
+    "Synonyms": [
+        "formic acid",
+        "Methanoic acid",
+        "64-18-6",
+        "Formylic acid",
+        "Aminic acid",
+        "Bilorin",
+        "Hydrogen carboxylic acid",
+        "Formisoton",
+        "Formira",
+        "Myrmicyl",
+        "Collo-bueglatt",
+        "Collo-didax",
+        "Acide formique",
+        "Add-F",
+        "Ameisensaeure"
+    ],
+    "IsomericSMILES": "C(=O)O",
+    "INCHI": "InChI=1S/CH2O2/c2-1-3/h1H,(H,2,3)",
+    "INCHIKEY": "BDAGIHXWWSANSR-UHFFFAOYSA-N",
+    "Formula": "CH2O2",
+    "MolecularWeight": {
+        "$numberDouble": "46.025"
+    },
+    "Description": "Formic acid is the simplest carboxylic acid, containing a single carbon. Occurs naturally in various sources including the venom of bee and ant stings, and is a useful organic synthetic reagent. Principally used as a preservative and antibacterial agent in livestock feed. Induces severe metabolic acidosis and ocular injury in human subjects. It has a role as an antibacterial agent, a protic solvent, a metabolite, a solvent and an astringent. It is a conjugate acid of a formate.",
+    "XlogP": {
+        "$numberDouble": "-0.2"
+    },
+    "Complexity": {
+        "$numberInt": "10"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Formic Acid. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Oct 13, 2011: https://www.ars-grin.gov/duke/",
+            "Value": "The shrub Purging Croton (Croton tiglium L.) was reported to contain formic acid in the seed at 4000 ppm(1)."
+        }
+    ],
+    "animal_concentrations": [
+        {
+            "References": "(1) Reutemann W, Kieczka H; Ullmann's Encyclopedia of Industrial Chemistry. 7th ed. (1999-2011). New York, NY: John Wiley & Sons; Formic Acid. Online Posting Date: 15 Jun 2000",
+            "Value": "Formic acid is found in the red ant, Formica rufa, and has been detected in the poison or defense systems of ants, bees, and other insects(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 3 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2010. Available from, as of Oct 16, 2011: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for formic acid(SRC), using a log Kow of -0.54(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Gaffney PE, Ingols RS; Water Sew Works 108: 91 (1961) (2) Heukelekian H, Rand MC; J Water Pollut Contr Assoc 29: 1040-1053 (1955) (3) Malaney GW, Gerhold RM; J Water Pollut Control Fed 41: R18-R33 (1969) (4) McKinney RE et al; Sew Indust Wastes 28: 547-557 (1956) (5) Placak OR, Ruchhoft CC; Sewage Works J 19: 423-440 (1947) (6) Price KS et al; J Water Pollut Contr Fed 46: 63-77 (1974) (7) Takemoto S et al; Suishitsu Odaku Kenkyu 4: 80-90 (1981) (8) Leenheer JA et al; Environ Sci Technol 10: 445-451 (1976) (9) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Oct 17, 2011: https://www.safe.nite.go.jp/english/db.html",
+            "Value": "AEROBIC: Formic acid biodegrades readily in screening tests(1-9). Specific results include: 4.3 and 38.8% of theoretical BOD after 5 and 10 days using a sewage inoculum(1); 43.7-77.6% of theoretical BOD after 5 days with a sewage inoculum(2); 70% of theoretical BOD in 24 hours using activated sludge(3); 66% of theoretical BOD in 12 hours using an activated sludge inoculum(4); 39.9% of theoretical BOD in 24 hours with activated sludge(5); 48 and 51% of theoretical BOD after 5 days with unacclimated and acclimated sewage inoculum, respectively(6); and 40.5 and 51.7% of theoretical BOD after 5 days with sewage inocula in fresh water and synthetic seawater, respectively(7). Microorganisms are present in the air that can degrade formate in rainwater(8). Formic acid, present at 100 mg/L, reached 110% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(9)."
+        },
+        {
+            "References": "(1) Chou WL et al; Bioeng Symp 8: 391-414 (1979)",
+            "Value": "ANAEROBIC: Formic acid is amenable to anaerobic biodegradation. In one study, 89% degradation was obtained after a 4 day lag by methane fermentation(1)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Reutemann W, Kieczka H; Ullmann's Encyclopedia of Industrial Chemistry. 7th ed. (1999-2011). New York, NY: John Wiley & Sons; Formic Acid. Online Posting Date: 15 Jun 2000 (2) UCMP; Introduction to Cnidaria. Berkeley, CA: Univ CA Museum Paleontology. Available from, as of Oct 13, 2011: https://www.ucmp.berkeley.edu/cnidaria/cnidaria.html",
+            "Value": "Formic acid has been detected in the poison or defense systems of cnidarians(1), (e.g. jellyfish, stinging coral)(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 3",
+            "Value": "log Kow = -0.54"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Sheftel, V.O.; Indirect Food Additives and Polymers. Migration and Toxicology. Lewis Publishers, Boca Raton, FL. 2000., p. 914",
+            "Value": "Formic acid is an inhibitor of the mitochondrial cytochrome oxidase causing histotoxic hypoxia. The most significant acid load results from the hypoxic metabolism. Urinary acidification is affected by formic acid."
+        },
+        {
+            "References": "Goldfrank, L.R. (ed). Goldfrank's Toxicologic Emergencies.  7th Edition McGraw-Hill New York, New York 2002., p. 200",
+            "Value": "Formic acid is a mitochondrial toxin, and exerts effects primarily in areas (such as the retina or basal ganglia) that poorly tolerate an interruption in the energy supplied by oxidative phosphorylation."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Maeda H, Kawai A; Nippon Suisan Gakkaishi 52: 1205-8 (1986)",
+            "Value": "SEDIMENT: The formic acid concentration in the 0-1 cm layer of sediment at 2 stations in Lake Biwa in Japan was 437 and 64 ppm (wet weight), while the respective concentration in the 9-10 cm layer was 23-110 ppm(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 3 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Riddick JA et al; Organic Solvents. Techniques of Chemistry 2. 4th ed, New York, NY: Wiley-Interscience p. 360 (1986) (5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "The Koc of formic acid is estimated as 1(SRC), using a log Kow of -0.54(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that formic acid is expected to have very high mobility in soil. The pKa of formic acid is 3.75(4), indicating that this compound will primarily exist in anion form in the environment and anions generally do not adsorb more strongly to organic carbon and clay than their neutral counterparts(5)."
+        }
+    ]
+}

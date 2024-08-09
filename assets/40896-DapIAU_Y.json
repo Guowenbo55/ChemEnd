@@ -1,0 +1,74 @@
+{
+    "_id": {
+        "$oid": "66927117303528b49832d7e1"
+    },
+    "CID": {
+        "$numberInt": "40896"
+    },
+    "Name": "Mefluidide",
+    "IUPACName": "N-[2,4-dimethyl-5-(trifluoromethylsulfonylamino)phenyl]acetamide",
+    "CanonicalSMILES": "CC1=CC(=C(C=C1NC(=O)C)NS(=O)(=O)C(F)(F)F)C",
+    "Synonyms": [
+        "MEFLUIDIDE",
+        "53780-34-0",
+        "Embark",
+        "Vistar",
+        "Vistar herbicide",
+        "Trim-Cut",
+        "Embark 2S",
+        "Embark plant growth regulator",
+        "5-Acetamido-2,4-dimethyltrifluoromethanesulfonanilide",
+        "VEL 3973",
+        "N-(2,4-Dimethyl-5-(((trifluoromethyl)sulfonyl)amino)phenyl)acetamide",
+        "MBR 12325",
+        "\"5-(1,1,1-Trifluoromethanesulfonamido)acet-2,4-xylidide\"",
+        "\"Acetanilide",
+        "2,4-dimethyl-5-((trifluoromethyl)sulfonamido)-\"",
+        "EPA Pesticide Chemical Code 114002"
+    ],
+    "IsomericSMILES": "CC1=CC(=C(C=C1NC(=O)C)NS(=O)(=O)C(F)(F)F)C",
+    "INCHI": "InChI=1S/C11H13F3N2O3S/c1-6-4-7(2)10(5-9(6)15-8(3)17)16-20(18,19)11(12,13)14/h4-5,16H,1-3H3,(H,15,17)",
+    "INCHIKEY": "OKIBNKKYNPBDRS-UHFFFAOYSA-N",
+    "Formula": "C11H13F3N2O3S",
+    "MolecularWeight": {
+        "$numberDouble": "310.29"
+    },
+    "Description": "Mefluidide is a sulfonamide.",
+    "XlogP": {
+        "$numberDouble": "2"
+    },
+    "Complexity": {
+        "$numberInt": "459"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Absorption and translocation characteristics of both root- and shoot-applied mefluidide N-[2,4-dimethyl-5-[[(trifluoromethyl) sulfonyl] amino] phenyl] acetamide were determined in soybean [Glycine max (L.) Merr. \u2018Wells\u2019], common cocklebur (Xanthium pensylvanicum Wallr.), and giant foxtail (Setaria faberi Herrm.). Absorption of 14C-mefluidide was greater through the foliage than the roots of all plant species. Rate of leaf absorption and translocation of 14C initially was greater in giant foxtail than in either soybean or common cocklebur, but these processes failed to increase greatly with time in giant foxtail. Absorption and translocation increased over time in soybean and common cocklebur. Soybean absorbed slightly greater quantities of 14C-mefluidide than common cocklebur, but by 8 days after labeling, common cocklebur translocated approximately 47% more radio-label out of the treated leaf than soybean. The foliar-applied 14C-label appeared to move in the phloem along with the assimilate stream in all species, mainly to areas of high metabolic activity. 14C was associated with the root systems and/or nutrient solutions of soybean and giant foxtail, but not of common cocklebur. Exuded material chromatographed as mefluidide. Movement of 14C-label in all root-treated plants appeared to be confined within the xylem with older tissue containing greater amounts of 14C than the younger tissue. Differences in selectivity between crop and weed species may be partially due to differential mefluidide absorption, translocation, and subsequent concentration in certain plant tissues.",
+            "reference": "Bloomberg, J. R., & Wax, L. M. (1978). Absorption and translocation of mefluidide by soybean (Glycine max), common cocklebur (Xanthium pensylvanicum), and giant foxtail (Setaria faberi). Weed Science, 26(5), 434-440.",
+            "method": {
+                "Test Plant": "Soybean, common cocklebur, giant foxtail",
+                "Apply Location": "Root application",
+                "Plant Grown Condition": "Germinated in sand:vermiculite medium in a growth chamber at 28\u00b0C day and 20\u00b0C night temperatures, 14-h photoperiod with approximately 900 microeinsteins of photosynthetically active radiation, and 60% relative humidity",
+                "Chemical Preparation": "14C-diethanolamine salt formulation of mefluidide",
+                "Pesticide Application Details for the Plant": "Soybean and common cocklebur received treatments of 6.5 \u00b5g of 14C-diethanolamine salt formulation of mefluidide, while giant foxtail received 4.4 \u00b5g. Radioactivity was applied directly to the adaxial surface of the leaf or in the nutrient solution. Treatment periods were 1, 4, and 8 days for soybean and common cocklebur, and 1, 3, and 6 days for giant foxtail.",
+                "Other Information": "After each treatment period, an aliquot of nutrient solution was removed and analyzed for 14C content. Treated leaves were removed and washed for quantification by liquid scintillation assay. Absorption by the leaf was determined by subtracting the amount of 14C found in the leaf wash from the total amount initially applied. Samples were analyzed using thin layer chromatography to determine the form of radioactivity in the leaf washes and nutrient solutions. Autoradiography was conducted on one plant of each species at the end of each treatment period."
+            },
+            "result": "[{\"Species\": \"Soybean\", \"Days after application\": 1, \"Absorbed (%)\": 0.67, \"Translocated (%)\": 0.17, \"Absorbed in root (%)\": 83, \"Absorbed in root top (%)\": 16, \"Absorbed in tissue above (%)\": 1}, {\"Species\": \"Soybean\", \"Days after application\": 4, \"Absorbed (%)\": 6.55, \"Translocated (%)\": 2.22, \"Absorbed in root (%)\": 66, \"Absorbed in root top (%)\": 26, \"Absorbed in tissue above (%)\": 8}, {\"Species\": \"Soybean\", \"Days after application\": 8, \"Absorbed (%)\": 22.65, \"Translocated (%)\": 7.96, \"Absorbed in root (%)\": 65, \"Absorbed in root top (%)\": 18, \"Absorbed in tissue above (%)\": 17}, {\"Species\": \"Common cocklebur\", \"Days after application\": 1, \"Absorbed (%)\": 0.42, \"Translocated (%)\": 0.14, \"Absorbed in root (%)\": 69, \"Absorbed in root top (%)\": 30, \"Absorbed in tissue above (%)\": 1}, {\"Species\": \"Common cocklebur\", \"Days after application\": 4, \"Absorbed (%)\": 2.06, \"Translocated (%)\": 0.52, \"Absorbed in root (%)\": 78, \"Absorbed in root top (%)\": 16, \"Absorbed in tissue above (%)\": 6}, {\"Species\": \"Common cocklebur\", \"Days after application\": 8, \"Absorbed (%)\": 17.2, \"Translocated (%)\": 3.86, \"Absorbed in root (%)\": 76, \"Absorbed in root top (%)\": 12, \"Absorbed in tissue above (%)\": 12}, {\"Species\": \"Giant foxtail\", \"Days after application\": 1, \"Absorbed (%)\": 0.34, \"Translocated (%)\": 0.11, \"Absorbed in root (%)\": 86, \"Absorbed in root top (%)\": 11, \"Absorbed in tissue above (%)\": 3}, {\"Species\": \"Giant foxtail\", \"Days after application\": 3, \"Absorbed (%)\": 1.16, \"Translocated (%)\": 0.21, \"Absorbed in root (%)\": 82, \"Absorbed in root top (%)\": 12, \"Absorbed in tissue above (%)\": 6}, {\"Species\": \"Giant foxtail\", \"Days after application\": 6, \"Absorbed (%)\": 2.71, \"Translocated (%)\": 0.7, \"Absorbed in root (%)\": 75, \"Absorbed in root top (%)\": 18, \"Absorbed in tissue above (%)\": 7}]"
+        },
+        {
+            "content": "The penetration, translocation, and metabolism of acifluorfen {5-[2-chloro-4-(trifluoromethyl)phenoxy]-2-nitrobenzoic acid} in ivyleaf morningglory [Ipomoea hederacea (L.) Jacq. \u266f3 IPOHE], velvetleaf (Abutilon theophrasti Medic. \u266f ABUTH), common cocklebur (Xanthium pensylvanicum Wallr. \u266f XANPE), and soybean [Glycine max (L.) Merr.] were studied. An application to plants of 0.3 kg ai/ha mefluidide {N-[2,4-dimethyl-5-[[(trifluoromethyl)sulfonyl] amino] phenyl] acetamide} 0, 3, 5, or 7 days prior to treatment with 14C-acifluorfen often altered one or more of the physiological processes under study. Pretreatment of ivyleaf morningglory with mefluidide 3, 5, or 7 days prior to application of 14C-acifluorfen increased penetration of 14C and decreased metabolism of acifluorfen, while translocation was unaffected. All mefluidide treatments increased penetration of 14C-acifluorfen into velvetleaf, while the 3-, 5-, and 7-day pretreatments decreased acifluorfen metabolism. Penetration of acifluorfen into common cocklebur was unaffected by pretreatment with mefluidide. However, the 7-day mefluidide pretreatment of common cocklebur increased translocation of 14C into the upper leaves and decreased acifluorfen metabolism. Penetration and translocation of the radiolabel from 14C-acifluorfen in soybean was unaffected by pretreatment with mefluidide. Metabolism of acifluorfen by soybean was decreased by the 0-day mefluidide treatment but was unaffected by the 3-, 5-, or 7-day mefluidide pretreatment.",
+            "reference": "Hook, B. J., & Glenn, S. (1984). Penetration, translocation, and metabolism of acifluorfen following pretreatment with mefluidide. Weed Science, 32(5), 691-696.",
+            "method": {
+                "Test Plants": "Ivyleaf morningglory, velvetleaf, common cocklebur, and soybean (Glycine max)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Seeds were germinated in a greenhouse in plastic flats containing Sunnyside silt loam with a pH of 7.3 and 2.0% organic matter. Plants were transplanted into styrofoam cups containing a 50:50 mixture of potting soil and vermiculite. They were watered daily with Hoagland No. 1 nutrient solution under 14-hour daylight with supplementary light. Day and night temperatures were 28\u00b0C and 21\u00b0C, respectively.",
+                "Chemical Preparation": "Unlabeled mefluidide was applied at 0.3 kg ai/ha to the test plants. 14C-acifluorfen (3.32 mCi/g) and 14C-mefluidide (41.7 mCi/g) were also applied separately. A nonionic surfactant was applied at 0.5% (v/v) before 14C applications.",
+                "Pesticide Application Details for the Plant": "Labeled herbicides were applied to the third true leaf of the weed species and to the center leaflet of the second trifoliate of soybean. The herbicides were applied in a total volume of 10 \u03bcL containing either 0.04 \u03bcCi 14C-acifluorfen or 0.07 \u03bcCi 14C-mefluidide.",
+                "Other Information": "Plants were harvested 7 days after 14C application. Treated leaves were rinsed, and plant parts were divided into sections for analysis, including treated leaf and petiole, upper leaves, lower leaves, and roots. Each plant part was dried, combusted, and analyzed for 14C by scintillation spectrometry. The experiment was arranged with multiple replicates for each treatment."
+            },
+            "result": "[{\"Plant\": \"Melfluidide alone\", \"Treatment\": 7, \"Days after application\": 70.4, \"Leaf wash (% of recovered)\": 23.3, \"Treated leaf (%)\": 3.0, \"Upper leaves (%) Lower leaves (%)\": 2.6, \"Roots (%)\": 0.7, \"Total absorbed (%)\": 29.6}, {\"Plant\": \"Acifluorfen + Melfluidide\", \"Treatment\": 3, \"Days after application\": 67.0, \"Leaf wash (% of recovered)\": 31.1, \"Treated leaf (%)\": 0.6, \"Upper leaves (%) Lower leaves (%)\": 0.9, \"Roots (%)\": 0.4, \"Total absorbed (%)\": 33.0}, {\"Plant\": \"Acifluorfen + Melfluidide\", \"Treatment\": 5, \"Days after application\": 63.5, \"Leaf wash (% of recovered)\": 34.1, \"Treated leaf (%)\": 10.0, \"Upper leaves (%) Lower leaves (%)\": 0.9, \"Roots (%)\": 0.5, \"Total absorbed (%)\": 36.5}, {\"Plant\": \"Acifluorfen + Melfluidide\", \"Treatment\": 7, \"Days after application\": 63.9, \"Leaf wash (% of recovered)\": 34.3, \"Treated leaf (%)\": 0.7, \"Upper leaves (%) Lower leaves (%)\": 0.6, \"Roots (%)\": 0.5, \"Total absorbed (%)\": 36.1}, {\"Plant\": \"Melfluidide alone\", \"Treatment\": 7, \"Days after application\": 79.5, \"Leaf wash (% of recovered)\": 16.8, \"Treated leaf (%)\": 2.0, \"Upper leaves (%) Lower leaves (%)\": 1.1, \"Roots (%)\": 0.6, \"Total absorbed (%)\": 20.5}, {\"Plant\": \"Acifluorfen + Melfluidide\", \"Treatment\": 3, \"Days after application\": 69.3, \"Leaf wash (% of recovered)\": 29.6, \"Treated leaf (%)\": 0.3, \"Upper leaves (%) Lower leaves (%)\": 0.4, \"Roots (%)\": 0.4, \"Total absorbed (%)\": 30.7}, {\"Plant\": \"Acifluorfen + Melfluidide\", \"Treatment\": 5, \"Days after application\": 74.3, \"Leaf wash (% of recovered)\": 24.7, \"Treated leaf (%)\": 0.3, \"Upper leaves (%) Lower leaves (%)\": 0.3, \"Roots (%)\": 0.4, \"Total absorbed (%)\": 25.7}, {\"Plant\": \"Acifluorfen + Melfluidide\", \"Treatment\": 7, \"Days after application\": 73.3, \"Leaf wash (% of recovered)\": 25.6, \"Treated leaf (%)\": 0.3, \"Upper leaves (%) Lower leaves (%)\": 0.3, \"Roots (%)\": 0.5, \"Total absorbed (%)\": 26.7}, {\"Plant\": \"Melfluidide alone\", \"Treatment\": 7, \"Days after application\": 80.2, \"Leaf wash (% of recovered)\": 13.5, \"Treated leaf (%)\": 3.7, \"Upper leaves (%) Lower leaves (%)\": 1.7, \"Roots (%)\": 0.9, \"Total absorbed (%)\": 19.8}, {\"Plant\": \"Acifluorfen + Melfluidide\", \"Treatment\": 3, \"Days after application\": 80.3, \"Leaf wash (% of recovered)\": 15.4, \"Treated leaf (%)\": 2.7, \"Upper leaves (%) Lower leaves (%)\": 1.2, \"Roots (%)\": 0.4, \"Total absorbed (%)\": 19.7}, {\"Plant\": \"Acifluorfen + Melfluidide\", \"Treatment\": 5, \"Days after application\": 80.1, \"Leaf wash (% of recovered)\": 15.3, \"Treated leaf (%)\": 3.3, \"Upper leaves (%) Lower leaves (%)\": 1.0, \"Roots (%)\": 0.3, \"Total absorbed (%)\": 19.9}, {\"Plant\": \"Acifluorfen + Melfluidide\", \"Treatment\": 7, \"Days after application\": 77.8, \"Leaf wash (% of recovered)\": 15.9, \"Treated leaf (%)\": 4.5, \"Upper leaves (%) Lower leaves (%)\": 1.4, \"Roots (%)\": 0.4, \"Total absorbed (%)\": 22.2}, {\"Plant\": \"Melfluidide alone\", \"Treatment\": 7, \"Days after application\": 71.7, \"Leaf wash (% of recovered)\": 19.2, \"Treated leaf (%)\": 4.5, \"Upper leaves (%) Lower leaves (%)\": 2.8, \"Roots (%)\": 1.8, \"Total absorbed (%)\": 28.3}, {\"Plant\": \"Acifluorfen + Melfluidide\", \"Treatment\": 3, \"Days after application\": 73.5, \"Leaf wash (% of recovered)\": 26.1, \"Treated leaf (%)\": 0.1, \"Upper leaves (%) Lower leaves (%)\": 0.1, \"Roots (%)\": 0.2, \"Total absorbed (%)\": 26.5}, {\"Plant\": \"Acifluorfen + Melfluidide\", \"Treatment\": 5, \"Days after application\": 76.0, \"Leaf wash (% of recovered)\": 23.5, \"Treated leaf (%)\": 0.2, \"Upper leaves (%) Lower leaves (%)\": 0.1, \"Roots (%)\": 0.2, \"Total absorbed (%)\": 24.0}, {\"Plant\": \"Acifluorfen + Melfluidide\", \"Treatment\": 7, \"Days after application\": 77.7, \"Leaf wash (% of recovered)\": 21.7, \"Treated leaf (%)\": 0.2, \"Upper leaves (%) Lower leaves (%)\": 0.2, \"Roots (%)\": 0.2, \"Total absorbed (%)\": 22.3}]"
+        }
+    ]
+}

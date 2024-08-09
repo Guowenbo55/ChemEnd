@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "669270f2303528b49832d74e"
+    },
+    "CID": {
+        "$numberInt": "6440577"
+    },
+    "Name": "Difenopenten-ethyl",
+    "IUPACName": "ethyl (E)-4-[4-[4-(trifluoromethyl)phenoxy]phenoxy]pent-2-enoate",
+    "CanonicalSMILES": "CCOC(=O)C=CC(C)OC1=CC=C(C=C1)OC2=CC=C(C=C2)C(F)(F)F",
+    "Synonyms": [
+        "Difenopenten-ethyl",
+        "Difenopenten-ethyl [ISO]",
+        "B2E8TYV780",
+        "71101-05-8",
+        "2-Pentenoic acid",
+        "4-(4-(4-(trifluoromethyl)phenoxy)phenoxy)-",
+        "ethyl ester",
+        "Difenopentene-ethyl",
+        "78818-87-8",
+        "UNII-B2E8TYV780",
+        "2-PENTENOIC ACID",
+        "4-(4-(4-(TRIFLUOROMETHYL)PHENOXY)PHENOXY)-",
+        "ETHYL ESTER",
+        "(2E)-",
+        "2-Pentenoic acid",
+        "4-[4-[4-(trifluoromethyl)phenoxy]phenoxy]-",
+        "ethyl ester",
+        "(2E)-",
+        "SCHEMBL732546",
+        "NEHGWVYDSJWTJK-YIXHJXPBSA-N",
+        "2-Pentenoic acid",
+        "4-(4-(4-(trifluoromethyl)phenoxy)phenoxy)-",
+        "ethyl ester",
+        "(E)-(+-)-",
+        "NS00133827",
+        "Q27274277"
+    ],
+    "IsomericSMILES": "CCOC(=O)/C=C/C(C)OC1=CC=C(C=C1)OC2=CC=C(C=C2)C(F)(F)F",
+    "INCHI": "InChI=1S/C20H19F3O4/c1-3-25-19(24)13-4-14(2)26-16-9-11-18(12-10-16)27-17-7-5-15(6-8-17)20(21,22)23/h4-14H,3H2,1-2H3/b13-4+",
+    "INCHIKEY": "NEHGWVYDSJWTJK-YIXHJXPBSA-N",
+    "Formula": "C20H19F3O4",
+    "MolecularWeight": {
+        "$numberDouble": "380.4"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "5.2"
+    },
+    "Complexity": {
+        "$numberInt": "476"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Difenopenten-ethyl, a postemergence graminicide, shows rapid absorption through both root and leaf surfaces in wheat and soybean, but its translocation within these species is notably restricted. When applied to roots, the majority of the recovered radioactivity (86% in wheat and 94% in soybean) stayed in the roots, while leaf applications resulted in almost all of the recovered radioactivity remaining in the treated leaf areas of both plants. Limited movement beyond the treated zones implies that translocation might not significantly contribute to the selectivity of difenopenten-ethyl between wheat and soybean. Metabolism studies revealed that a considerable portion of the radioactivity remained in the treated zones, suggesting a localization or strong binding at the absorption sites. Consequently, this restricted translocation and retention in treated areas rather than differential absorption, translocation, or metabolism might shape the herbicide's selectivity. This aligns with findings from similar graminicides, indicating their poor translocation in the symplast or apoplast and their tendency to remain localized at the absorption site.",
+            "reference": "Shimabukuro, R. H., Walsh, W. C., & Hoffer, B. L. (1989). The absorption, translocation, and metabolism of difenopenten-ethyl in soybean and wheat. Pesticide Biochemistry and Physiology, 33(1), 57\u201368. doi:10.1016/0048-3575(89)90076-x\u00a0",
+            "method": {
+                "Test Plant": "Wheat (Triticum aestivum L. cv. Waldron) and Soybean (Glycine max (L.) Met-r. cv Wilken)",
+                "Apply Location": "Wheat seedlings were treated with difenopenten-ethyl at the 1st to 2nd leaf stages. Soybean seedlings had their first trifoliolate leaves excised at the base of the petioles for treatment.",
+                "Plant Grown Condition": "Wheat seedlings were grown in metal flats with vermiculite in the greenhouse. After 11 days, they were transferred to aerated one-third-strength Hoagland\u2019s solution in a controlled environment chamber. Soybean seeds were sown in soil and grown in the greenhouse. After 16 days, they were also transferred to the same Hoagland\u2019s solution.",
+                "Chemical preparation": "Treatments were made using 4-trifluoromethylphenoxy[U-14C]difenopenten-ethyl (sp act 8.3 mCi/mmol) diluted with unlabeled difenopenten-ethyl to the required specific activities. Treatments were typically made with 10 \u00b5M, 1% acetone solutions of [14C]-difenopenten-ethyl prepared in distilled water.",
+                "Received pesticide of plant": "Wheat and soybean seedlings were root-treated individually with 15 and 30 ml of aerated [14C]difenopenten-ethyl, respectively (sp act 0.6 mCi/mmol).",
+                "Other Information": "-"
+            },
+            "result": "[{\"Application Type\": \"Foliar apply\", \"Plant\": \"Wheat\", \"Absorption\": \"Absorption readily\", \"% in Treated Leaf or Root\": \"99% in treated leaf\"}, {\"Application Type\": \"Foliar apply\", \"Plant\": \"Soybean\", \"Absorption\": \"Absorption readily\", \"% in Treated Leaf or Root\": \"99% in treated leaf\"}, {\"Application Type\": \"Root apply\", \"Plant\": \"Wheat\", \"Absorption\": \"Absorption readily\", \"% in Treated Leaf or Root\": \"86% in root\"}, {\"Application Type\": \"Root apply\", \"Plant\": \"Soybean\", \"Absorption\": \"Absorption readily\", \"% in Treated Leaf or Root\": \"94% in root\"}]"
+        }
+    ]
+}

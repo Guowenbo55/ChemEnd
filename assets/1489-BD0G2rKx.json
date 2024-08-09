@@ -1,0 +1,86 @@
+{
+    "_id": {
+        "$oid": "669270f9303528b49832d76d"
+    },
+    "CID": {
+        "$numberInt": "1489"
+    },
+    "Name": "4-(2,4-Dichlorophenoxy)butanoic acid",
+    "IUPACName": "4-(2,4-dichlorophenoxy)butanoic acid",
+    "CanonicalSMILES": "C1=CC(=C(C=C1Cl)Cl)OCCCC(=O)O",
+    "Synonyms": [
+        "4-(2,4-Dichlorophenoxy)butanoic acid",
+        "94-82-6",
+        "2,4-DB",
+        "2,4-dichlorophenoxybutyric acid",
+        "Butoxone",
+        "Butyrac",
+        "4-(2,4-DICHLOROPHENOXY)BUTYRIC ACID",
+        "2,4-D butyric acid",
+        "Legumex D",
+        "Butormone",
+        "Buratal",
+        "Butirex",
+        "Butoxon",
+        "Butoxone ester",
+        "Butyrac ester"
+    ],
+    "IsomericSMILES": "C1=CC(=C(C=C1Cl)Cl)OCCCC(=O)O",
+    "INCHI": "InChI=1S/C10H10Cl2O3/c11-7-3-4-9(8(12)6-7)15-5-1-2-10(13)14/h3-4,6H,1-2,5H2,(H,13,14)",
+    "INCHIKEY": "YIVXMZJTEQBPQO-UHFFFAOYSA-N",
+    "Formula": "C10H10Cl2O3",
+    "MolecularWeight": {
+        "$numberDouble": "249.09"
+    },
+    "Description": "2,4-DB is a monocarboxylic acid that is butyric acid in which one of the hydrogens at position 4 is replaced by a 2,4-dichlorophenoxy group. A selective post-emergence herbicide. It has a role as an agrochemical, a synthetic auxin and a phenoxy herbicide. It is an organochlorine compound, a monocarboxylic acid and an aromatic ether. It is a conjugate acid of a 4-(2,4-dichlorophenoxy)butanoate.",
+    "XlogP": {
+        "$numberDouble": "3.5"
+    },
+    "Complexity": {
+        "$numberInt": "211"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The absorption and translocation of 14C in 14C-ring-labelled 4-(2,4-dichlorophenoxy)butyric acid (2,4-DB) at 1 and 7 days after foliar treatment of soybean [Glycine max (L.) Merr.] and cocklebur (Xanthium sp.) were investigated at 3, 5, 7, and 11 weeks after planting by means of radioautography and standard radioassay methods. Partitioning of radioactivity varied with plant age and with treatment time. Although a species difference was not observed in the total uptake of 2,4-DB, the rate of penetration of the herbicide was greater in cocklebur than in soybean. The 2,4-DB was retained in the treated leaf and was not translocated to other plant parts. Translocated radioactivity occurred principally in actively growing parts of both species, but only trace quantities were detected in soybean. No radioactivity was detected in the lower leaves of either plant. Plant response to 2,4-DB may be partially explained on the basis of differential penetration and translocation.",
+            "reference": "Wathana, S., Corbin, F. T., & Waldrep, T. W. (1972). Absorption and translocation of 2, 4-DB in soybean and cocklebur. Weed science, 20(1), 120-123.",
+            "method": {
+                "Test Plant": "Soybean (Glycine max) and Cocklebur (Xanthium strumarium)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Supplementary light, daily watering, photoperiod of 15-hour day and 9-hour night during the first 7 weeks, 12-hour photoperiod during the last 4 weeks, greenhouse temperature ranging from 22\u00b0C at night to 26\u00b0C during the day",
+                "Chemical Preparation": "Herbicidal solution prepared by dissolving 6 mg of C-ring-labelled 2,4-DB (specific activity = 9.98 \u03bcCi/mM), 140 mg of unlabelled analytical grade 2,4-DB, and 1 g of dimethylamine in 100 ml water",
+                "Pesticide Application Details for the Plant": "114 \u03bcg of 2,4-DB applied per plant in 40 drops on the leaf veins (2 \u03bcl/drop) with a microliter syringe equipped with a repeating adaptor",
+                "Other Information": "Both species were transferred from the greenhouse to a growth chamber and were treated with 2,4-DB at 3, 5, 7, and 11 weeks after planting. Two plants grown in one pot made up one replicate, and three replicates were used in each treatment. A minimum of three replications was used for both species."
+            },
+            "result": "[{\"Plant\": \"3 weeks\", \"Grown Stage\": 1, \"Exposure days\": 79.1, \"Treated leaf (% of total extracted) Upper stem (%)\": \"0.9\", \"Upper leaves (%)\": \"5.5\", \"Lower stem (%)\": \"4.7\", \"Root(%)\": \"9.8\", \"Lower Laves (%)\": \"-\"}, {\"Plant\": \"3 weeks\", \"Grown Stage\": 7, \"Exposure days\": 87.7, \"Treated leaf (% of total extracted) Upper stem (%)\": \"-\", \"Upper leaves (%)\": \"0.5\", \"Lower stem (%)\": \"5.4\", \"Root(%)\": \"6.4\", \"Lower Laves (%)\": \"-\"}, {\"Plant\": \"5 weeks\", \"Grown Stage\": 1, \"Exposure days\": 90.8, \"Treated leaf (% of total extracted) Upper stem (%)\": \"-\", \"Upper leaves (%)\": \"-\", \"Lower stem (%)\": \"1.8\", \"Root(%)\": \"7.4\", \"Lower Laves (%)\": \"-\"}, {\"Plant\": \"5 weeks\", \"Grown Stage\": 7, \"Exposure days\": 98.2, \"Treated leaf (% of total extracted) Upper stem (%)\": \"-\", \"Upper leaves (%)\": \"-\", \"Lower stem (%)\": \"1.0\", \"Root(%)\": \"0.8\", \"Lower Laves (%)\": \"-\"}, {\"Plant\": \"7 weeks\", \"Grown Stage\": 1, \"Exposure days\": 86.2, \"Treated leaf (% of total extracted) Upper stem (%)\": \"0.9\", \"Upper leaves (%)\": \"1.3\", \"Lower stem (%)\": \"9.3\", \"Root(%)\": \"2.3\", \"Lower Laves (%)\": \"-\"}, {\"Plant\": \"7 weeks\", \"Grown Stage\": 7, \"Exposure days\": 81.9, \"Treated leaf (% of total extracted) Upper stem (%)\": \"-\", \"Upper leaves (%)\": \"7.2\", \"Lower stem (%)\": \"3.8\", \"Root(%)\": \"7.1\", \"Lower Laves (%)\": \"-\"}, {\"Plant\": \"11 weeks\", \"Grown Stage\": 1, \"Exposure days\": 88.4, \"Treated leaf (% of total extracted) Upper stem (%)\": \"0.1\", \"Upper leaves (%)\": \"1.4\", \"Lower stem (%)\": \"8.4\", \"Root(%)\": \"1.7\", \"Lower Laves (%)\": \"-\"}, {\"Plant\": \"11 weeks\", \"Grown Stage\": 7, \"Exposure days\": 91.7, \"Treated leaf (% of total extracted) Upper stem (%)\": \"1.2\", \"Upper leaves (%)\": \"0.8\", \"Lower stem (%)\": \"3.9\", \"Root(%)\": \"2.4\", \"Lower Laves (%)\": \"-\"}, {\"Plant\": \"3 weeks\", \"Grown Stage\": 1, \"Exposure days\": 95.4, \"Treated leaf (% of total extracted) Upper stem (%)\": \"-\", \"Upper leaves (%)\": \"1.1\", \"Lower stem (%)\": \"1.9\", \"Root(%)\": \"1.6\", \"Lower Laves (%)\": \"-\"}, {\"Plant\": \"3 weeks\", \"Grown Stage\": 7, \"Exposure days\": 98.9, \"Treated leaf (% of total extracted) Upper stem (%)\": \"-\", \"Upper leaves (%)\": \"-\", \"Lower stem (%)\": \"0.6\", \"Root(%)\": \"0.5\", \"Lower Laves (%)\": \"-\"}, {\"Plant\": \"5 weeks\", \"Grown Stage\": 1, \"Exposure days\": 98.4, \"Treated leaf (% of total extracted) Upper stem (%)\": \"-\", \"Upper leaves (%)\": \"-\", \"Lower stem (%)\": \"0.7\", \"Root(%)\": \"0.9\", \"Lower Laves (%)\": \"-\"}, {\"Plant\": \"5 weeks\", \"Grown Stage\": 7, \"Exposure days\": 98.2, \"Treated leaf (% of total extracted) Upper stem (%)\": \"-\", \"Upper leaves (%)\": \"-\", \"Lower stem (%)\": \"1.0\", \"Root(%)\": \"0.8\", \"Lower Laves (%)\": \"-\"}, {\"Plant\": \"7 weeks\", \"Grown Stage\": 1, \"Exposure days\": 98.9, \"Treated leaf (% of total extracted) Upper stem (%)\": \"-\", \"Upper leaves (%)\": \"-\", \"Lower stem (%)\": \"1.1\", \"Root(%)\": \"-\", \"Lower Laves (%)\": \"-\"}, {\"Plant\": \"7 weeks\", \"Grown Stage\": 7, \"Exposure days\": 100.0, \"Treated leaf (% of total extracted) Upper stem (%)\": \"-\", \"Upper leaves (%)\": \"-\", \"Lower stem (%)\": \"-\", \"Root(%)\": \"-\", \"Lower Laves (%)\": \"-\"}, {\"Plant\": \"11 weeks\", \"Grown Stage\": 1, \"Exposure days\": 100.0, \"Treated leaf (% of total extracted) Upper stem (%)\": \"-\", \"Upper leaves (%)\": \"-\", \"Lower stem (%)\": \"-\", \"Root(%)\": \"-\", \"Lower Laves (%)\": \"-\"}, {\"Plant\": \"11 weeks\", \"Grown Stage\": 7, \"Exposure days\": 100.0, \"Treated leaf (% of total extracted) Upper stem (%)\": \"-\", \"Upper leaves (%)\": \"-\", \"Lower stem (%)\": \"-\", \"Root(%)\": \"-\", \"Lower Laves (%)\": \"-\"}]"
+        },
+        {
+            "content": "Mixtures of chlorimuron and 2,4-DB were additive with respect to crop injury and were either additive or slightly antagonistic with respect to weed control in greenhouse experiments. Absorption and translocation of 14C following application of 14C-chlorimuron and 14C-2,4-DB were not affected by the presence of the other unlabeled herbicide, except in Florida beggarweed and peanut where 2,4-DB affected distribution of 14C-chlorimuron in the treated leaf. In field studies, maximum efficacy was obtained with mixtures of chlorimuron plus 2,4-DB applied 7 or 9 wk after planting. Florida beggarweed control was greatest with chlorimuron or chlorimuron mixtures while the addition of 2,4-DB to chlorimuron improved morningglory and sicklepod control. At 9 and 11 wk after planting, addition of 2,4-DB to chlorimuron controlled Florida beggarweed better than chlorimuron alone. Peanut yields were increased by the addition of 2,4-DB at later applications.",
+            "reference": "Wehtje, G. R., Wilcut, J. W., & Mcguire, J. A. (1993). Absorption, translocation, and phytotoxicity of chlorimuron and 2, 4-DB mixtures in peanut (Arachis hypogaea) and selected weed species. Weed Science, 41(3), 347-352.",
+            "method": {
+                "Test Plant": "Peanut, sicklepod, Florida beggarweed",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Greenhouse conditions with day/night temperatures of 32/24\u00b0C and a photoperiod of 16 hours of natural lighting",
+                "Chemical Preparation": "2,4-DB and chlorimuron applied separately and in combination, using commercially formulated and 14C-labeled herbicides",
+                "Pesticide Application Details for the Plant": "Herbicide treatments consisted of a factorial arrangement of chlorimuron at 0, 2.2, 4.4, and 8.8 g ae ha-1 and 2,4-DB at 0, 140, and 280 g ae ha-1. Treatments were applied to three pots of each species with a moving-belt sprayer delivering a spray volume of 168 L ha-1. A nonionic surfactant was added at 25% by volume to the spray solutions.",
+                "Other Information": "Experimental design was a randomized complete block with three replicates. Plants were in the 3- to 4-leaf growth stage at the time of application. Foliar fresh weights of the plants were determined 10 days after treatment and expressed as percent of the untreated control. Each herbicide solution was applied as a single 5-\u00b5l drop to the youngest fully expanded leaf of each plant. There were four single-plant replicates for each species."
+            },
+            "result": "[{\"Plant\": \"Penaut\", \"Treatment\": \"2,4-DB alone\", \"Leaf wash (% of applied)\": 76, \"1-cm diameter around target(%)\": 17, \"Remainder of treated leaf (%)\": 3, \"Adjacent leaflet (%)\": \"3\"}, {\"Plant\": \"Penaut\", \"Treatment\": \"2,4-DB + chlorimuron\", \"Leaf wash (% of applied)\": 79, \"1-cm diameter around target(%)\": 15, \"Remainder of treated leaf (%)\": 4, \"Adjacent leaflet (%)\": \"2\"}, {\"Plant\": \"Sicklepod\", \"Treatment\": \"2,4-DB alone\", \"Leaf wash (% of applied)\": 81, \"1-cm diameter around target(%)\": 16, \"Remainder of treated leaf (%)\": 1, \"Adjacent leaflet (%)\": \"1\"}, {\"Plant\": \"Sicklepod\", \"Treatment\": \"2,4-DB + chlorimuron\", \"Leaf wash (% of applied)\": 75, \"1-cm diameter around target(%)\": 12, \"Remainder of treated leaf (%)\": 9, \"Adjacent leaflet (%)\": \"2\"}, {\"Plant\": \"Florida beggarweed\", \"Treatment\": \"2,4-DB alone\", \"Leaf wash (% of applied)\": 70, \"1-cm diameter around target(%)\": 17, \"Remainder of treated leaf (%)\": 13, \"Adjacent leaflet (%)\": \"-\"}, {\"Plant\": \"Florida beggarweed\", \"Treatment\": \"2,4-DB + chlorimuron\", \"Leaf wash (% of applied)\": 71, \"1-cm diameter around target(%)\": 12, \"Remainder of treated leaf (%)\": 11, \"Adjacent leaflet (%)\": \"-\"}]"
+        },
+        {
+            "content": "Tank-mixed combinations of pyridate and 2,4-DB were synergistic with respect to sicklepod control and independent with respect to Florida beggarweed control and peanut tolerance in greenhouse studies. Leaf absorption of\u00a014C-pyridate was generally enhanced by the addition of 2,4-DB. Translocation of\u00a014C-pyridate out of the treated leaf did exceed 21% of the amount absorbed across all species, and\u00a014C-pyridate was not affected by the addition of 2,4-DB. Sensitivity of peanut, Florida beggarweed, and sicklepod to pyridate was independent of both adsorption and translocation. Metabolic detoxification of pyridate into a benign metabolite was highest in the tolerant peanut, lowest in highly susceptible Florida beggarweed, and intermediate in slightly susceptible sicklepod. Absorption of\u00a014C-2,4-DB by peanut was increased by approximately 10% with the addition of pyridate. No such increase was observed in either Florida beggarweed or sicklepod. Translocation of\u00a014C-2,4-DB out of the treated leaf was not affected by the addition of pyridate in any of the three species evaluated.",
+            "reference": "Hicks, T. V., Wehtje, G. R., & Grey, T. L. (1998). The interaction of pyridate and 2, 4-DB in peanut (Arachis hypogaea), Florida beggarweed (Desmodium tortuosum), and sicklepod (Senna obtusifolia). weed Science, 46(3), 284-288.",
+            "method": {
+                "Test Plant": "Peanut, sicklepod, and Florida beggarweed",
+                "Apply Location": "Applied as a single 5-\u03bcl drop to the youngest fully expanded leaf of each plant",
+                "Plant Grown Condition": "Seeds were planted in 1-L pots containing a Dothan loamy sand (fine-loamy, siliceous, thermic plinthic paleudults, pH= 6.2). Seedlings were thinned to three per pot after emergence. Plants were surface watered daily and grown in a greenhouse with approximate day/night temperatures of 32/24\u00b0C and a 16-h photoperiod. Experiments were conducted on 21-day-old plants.",
+                "Chemical Preparation": "Commercially formulated and 14C-labeled pyridate and 2,4-DB were used to prepare solutions with radioactivity count of approximately 5,000 dpm \u03bcl-1. Herbicide concentrations were equivalent to 1.00 kg ai ha-1 for pyridate and 0.22 kg ae ha-1 for 2,4-DB.",
+                "Pesticide Application Details for the Plant": "Four treatments - (1) 14C-pyridate (2) 14C-pyridate plus 2,4-DB (3) 14C-2,4-DB (4) 14C-2,4-DB plus pyridate. Treatments were applied to four single-plant replicates of each species.",
+                "Other Information": "A randomized complete block design with three replications was used for each experiment which was repeated over time. Data were pooled as results were consistent."
+            },
+            "result": "[{\"Plant\": \"Penaut\", \"Treatment\": \"2,4-DB alone\", \"Leaf wash (% of applied)\": 18, \"Treated leaf (%)\": 70, \"Above Treated leaf (%)\": 4, \"Below treated leaf (%)\": 8}, {\"Plant\": \"Penaut\", \"Treatment\": \"2,4-DB + pyridate\", \"Leaf wash (% of applied)\": 8, \"Treated leaf (%)\": 79, \"Above Treated leaf (%)\": 4, \"Below treated leaf (%)\": 9}, {\"Plant\": \"Florida beggarrweed\", \"Treatment\": \"2,4-DB alone\", \"Leaf wash (% of applied)\": 12, \"Treated leaf (%)\": 78, \"Above Treated leaf (%)\": 6, \"Below treated leaf (%)\": 4}, {\"Plant\": \"Florida beggarrweed\", \"Treatment\": \"2,4-DB + pyridate\", \"Leaf wash (% of applied)\": 7, \"Treated leaf (%)\": 81, \"Above Treated leaf (%)\": 6, \"Below treated leaf (%)\": 6}, {\"Plant\": \"Sicklepod\", \"Treatment\": \"2,4-DB alone\", \"Leaf wash (% of applied)\": 4, \"Treated leaf (%)\": 73, \"Above Treated leaf (%)\": 6, \"Below treated leaf (%)\": 17}, {\"Plant\": \"Sicklepod\", \"Treatment\": \"2,4-DB + pyridate\", \"Leaf wash (% of applied)\": 4, \"Treated leaf (%)\": 72, \"Above Treated leaf (%)\": 6, \"Below treated leaf (%)\": 18}]"
+        }
+    ]
+}

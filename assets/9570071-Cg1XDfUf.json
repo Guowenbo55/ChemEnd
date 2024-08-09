@@ -1,0 +1,88 @@
+{
+    "_id": {
+        "$oid": "669270fb303528b49832d774"
+    },
+    "CID": {
+        "$numberInt": "9570071"
+    },
+    "Name": "Aldicarb",
+    "IUPACName": "[(E)-(2-methyl-2-methylsulfanylpropylidene)amino] N-methylcarbamate",
+    "CanonicalSMILES": "CC(C)(C=NOC(=O)NC)SC",
+    "Synonyms": [
+        "aldicarb",
+        "116-06-3",
+        "Aldicarbe",
+        "Propanal",
+        "2-methyl-2-(methylthio)-",
+        "O-[(methylamino)carbonyl]oxime",
+        "2-Methyl-2-(methylthio)propanal",
+        "O-((methylamino)carbonyl)oxime",
+        "Temik 10 G",
+        "2-Methyl-2-(methylthio)propionaldehyde O-(methylcarbamoyl)oxime",
+        "Aldicarb D3",
+        "NSC 379586",
+        "OMS-771",
+        "2-Methyl-2-methylthio-propionaldehyd-O-(N-methyl-carbamoyl)-oxim",
+        "DTXCID1039",
+        "(1E)-2-methyl-2-(methylthio)propanal O-[(methylamino)carbonyl]oxime",
+        "2-methyl-N-[(methylcarbamoyl)oxy]-2-(methylsulfanyl)propan-1-imine",
+        "CAS-116-06-3"
+    ],
+    "IsomericSMILES": "CC(C)(/C=N/OC(=O)NC)SC",
+    "INCHI": "InChI=1S/C7H14N2O2S/c1-7(2,12-4)5-9-11-6(10)8-3/h5H,1-4H3,(H,8,10)/b9-5+",
+    "INCHIKEY": "QGLZXHRNAYXIBU-WEVVVXLNSA-N",
+    "Formula": "C7H14N2O2S",
+    "MolecularWeight": {
+        "$numberDouble": "190.27"
+    },
+    "Description": "Aldicarb is the oxime carbamate resulting from the addition of 2-methyl-2-(methylsulfanyl)propanaldoxime to methyl isocyanate. A member of the class of oxime carbamate insecticides, aldicarb is a mixture of E and Z isomers; it is not known which isomer is more active. It has a role as a carbamate insecticide, an EC 3.1.1.7 (acetylcholinesterase) inhibitor, an acaricide and a nematicide. It is functionally related to a 2-methyl-2-(methylsulfanyl)propanal oxime and a methyl isocyanate.",
+    "XlogP": {
+        "$numberDouble": "1.1"
+    },
+    "Complexity": {
+        "$numberInt": "180"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Experiments were conducted to study the degradation of aldicarb, an oxime carbamate insecticide, in different soil conditions and its accumulation by various plant species. The degradation of aldicarb in soil followed first-order kinetics, with half-lives (t1/2) of 12.0 and 2.7 days in sterile and non-sterile soil, respectively, indicating the significant role of microorganisms in its degradation. In the presence of plants, aldicarb degraded more rapidly, with t1/2 values of 1.6, 1.4, and 1.7 days in soil grown with corn, mung bean, and cowpea, respectively. The comparison between plant-promoted degradation and plant uptake revealed that the enhanced removal of aldicarb in plant-grown soil was primarily attributed to plant-promoted degradation in the rhizosphere.",
+            "reference": "Sun, H., Xu, J., Yang, S., Liu, G., & Dai, S. (2004). Plant uptake of aldicarb from contaminated soil and its enhanced degradation in the rhizosphere. Chemosphere, 54(4), 569-574.",
+            "method": {
+                "Test Plant": "Corn (Zea mays), mung bean (Vigna radiata), and cowpea (V. unguiculata)",
+                "Apply Location": "Soil application",
+                "Plant Grown Condition": "Growth chamber maintained at 25\u00b11\u00b0C",
+                "Chemical Preparation": "-",
+                "Pesticide Application Details for the Plant": "Soils were amended with aldicarb and water immediately before planting. The proportion was 100 g soil: 15 ml water, and the initial concentration of aldicarb was 20 mg/kg soil."
+            },
+            "result": "[{\"Plant\": \"Corn\", \"Days after application\": 0.25, \"Bioconcentration factor\": 0.05}, {\"Plant\": \"Corn\", \"Days after application\": 1.0, \"Bioconcentration factor\": 0.52}, {\"Plant\": \"Corn\", \"Days after application\": 2.0, \"Bioconcentration factor\": 0.94}, {\"Plant\": \"Corn\", \"Days after application\": 4.0, \"Bioconcentration factor\": 2.28}, {\"Plant\": \"Corn\", \"Days after application\": 7.0, \"Bioconcentration factor\": 2.78}, {\"Plant\": \"Corn\", \"Days after application\": 10.0, \"Bioconcentration factor\": 2.35}, {\"Plant\": \"Mung bean\", \"Days after application\": 0.25, \"Bioconcentration factor\": 0.12}, {\"Plant\": \"Mung bean\", \"Days after application\": 1.0, \"Bioconcentration factor\": 0.1}, {\"Plant\": \"Mung bean\", \"Days after application\": 2.0, \"Bioconcentration factor\": 0.43}, {\"Plant\": \"Mung bean\", \"Days after application\": 4.0, \"Bioconcentration factor\": 1.26}, {\"Plant\": \"Mung bean\", \"Days after application\": 7.0, \"Bioconcentration factor\": 3.82}, {\"Plant\": \"Mung bean\", \"Days after application\": 10.0, \"Bioconcentration factor\": 5.23}, {\"Plant\": \"Cowpea\", \"Days after application\": 0.25, \"Bioconcentration factor\": 0.1}, {\"Plant\": \"Cowpea\", \"Days after application\": 1.0, \"Bioconcentration factor\": 0.25}, {\"Plant\": \"Cowpea\", \"Days after application\": 2.0, \"Bioconcentration factor\": 0.35}, {\"Plant\": \"Cowpea\", \"Days after application\": 4.0, \"Bioconcentration factor\": 1.39}, {\"Plant\": \"Cowpea\", \"Days after application\": 7.0, \"Bioconcentration factor\": 2.37}, {\"Plant\": \"Cowpea\", \"Days after application\": 10.0, \"Bioconcentration factor\": 1.05}]"
+        },
+        {
+            "content": "In laboratory testing, the hatching of Tylenchulus semipenetrans eggs was stimulated at concentrations of 1 and 10 \u03bcg/ml of aldicarb solution, while it was inhibited at 50 and 100 \u03bcg/ml. Aldicarb exhibited a higher inhibitory effect on egg hatch compared to aldicarb sulfoxide and aldicarb sulfone. The inhibition of hatching at high concentrations was associated with delays in molting processes, lack of larval movement within the egg, and delays in embryonic development. Nematode motility was reduced at 10, 50, and 100 \u03bcg/ml of aldicarb and aldicarb sulfoxide solutions, as well as at 50 and 100 \u03bcg/ml of aldicarb sulfone. Male development was hindered at 10 \u03bcg/ml and almost completely inhibited at 50 and 100 \u03bcg/ml of the three chemicals. In greenhouse tests, female development and reproduction on citrus seedling roots were suppressed by aldicarb at a rate of 2.6 \u03bcg/ml and completely inhibited at 10.6 \u03bcg/ml of soil solution over a 50-day experimental period. Under field conditions, there was minimal systemic movement of aldicarb into roots beyond the treated areas. Aldicarb reduced the population of nematode larvae and female adults in the second year after the second treatment. There were no significant differences in egg hatch and sex ratio of citrus nematodes between treated and untreated roots.",
+            "reference": "Huang, S. P., & Van Gundy, S. D. (1978). Effects of aldicarb and its sulfoxide and sulfone on the biology of Tylenchulus semipenetrans. Journal of Nematology, 10(1), 100.",
+            "method": {
+                "Test Plant": "Citrus roots infected with Tylenchulus semipenetrans",
+                "Apply Location": "Root application",
+                "Plant Grown Condition": "-",
+                "Chemical Preparation": "Technical grade aldicarb, aldicarb sulfoxide, and aldicarb sulfone (Union Carbide Corporation)",
+                "Pesticide Application Details for the Plant": "Granules of aldicarb (15 G) blended in water for 5 min, and the chemical solution recovered by pouring over a 149.8-\u00b5m (100-mesh) screen to hold back the corn-cob grit.",
+                "Other Information": "Large quantities of eggs of T. semipenetrans were collected from infected citrus roots by blending in water, passing through screens, and washing to separate eggs, larvae, and female citrus nematodes. Newly hatched larvae were collected every 24 h and stored at 4\u00b0C until tested."
+            },
+            "result": "[{\"Treatment\": \"Aldicarb\", \"Samples\": \"Tree\", \"Females (Number of citrus nematodes)\": 403, \"Larvae\": 2902, \"Eggs\": 8913, \"Eggs & larvae / Female\": 29}, {\"Treatment\": \"Aldicarb\", \"Samples\": \"Center\", \"Females (Number of citrus nematodes)\": 487, \"Larvae\": 3035, \"Eggs\": 9650, \"Eggs & larvae / Female\": 26}, {\"Treatment\": \"Nontreated\", \"Samples\": \"Tree\", \"Females (Number of citrus nematodes)\": 827, \"Larvae\": 7406, \"Eggs\": 25170, \"Eggs & larvae / Female\": 40}, {\"Treatment\": \"Nontreated\", \"Samples\": \"Center\", \"Females (Number of citrus nematodes)\": 560, \"Larvae\": 3435, \"Eggs\": 9961, \"Eggs & larvae / Female\": 25}]"
+        },
+        {
+            "content": "The isomeric systemic carbamoyloximes, aldicarb, and butocarboxim, were used in young peach and plum groves at different dose rates to control the green leafhopper Asymmetrasca decedem Paoli. The effectiveness of the treatments was evaluated by measuring shoot growth rate and assessing adult leafhopper mortality. In the laboratory, leafhoppers collected from the field were placed on detached peach leaves for 24 hours. Residues of the insecticides and their sulphoxide and sulphone metabolites were analyzed in the peach tree leaves 18 and 31 days after treatment. Only the sulphoxide and sulphone metabolites were detected, constituting 70-80% of the toxic residues after 18 days and 50-70% after 31 days. Peach leaves treated with aldicarb had higher concentrations of these toxic metabolites and exhibited greater toxicity to leafhoppers compared to leaves treated with butocarboxim, even when the application rate was identical.",
+            "reference": "Klein, M., Aharonson, N., & Muszkat, L. (1984). Foliar residues and toxicity to green leafhoppers of the systemic insecticides aldicarb and its isomer butocarboxim in young peach and plum groves. Pesticide science, 15(5), 520-525.",
+            "method": {
+                "Test Plant": "Peach (var. Jubilee), plum (var. Sweet Elinor)",
+                "Apply Location": "Soil application around tree base (5-10 cm deep beneath drip irrigation point)",
+                "Plant Grown Condition": "2-year-old peach grove with trees ~2 m high, 1.5 m canopy diameter, spaced 3 x 4.5 m. Young peach and plum trees (varieties not specified)Heavy clay soil, pH 7.8, irrigated by drip system twice weekly",
+                "Chemical Preparation": "Butocarboxim 50% emulsifiable concentrate formulation. Aldicarb 10% granular formulation",
+                "Pesticide Application Details for the Plant": "Butocarboxim: 1.5, 3.0, 6.0, 7.5, 15.0 g ai/tree. Aldicarb: 0.75, 1.5, 2.0, 3.0 g ai/tree. 4 replicates of 3 trees each per treatment",
+                "Other information and Other Information": "Evaluated shoot/terminal growth, leaf bioassays, leaf residue analysis. Replicate details provided (4 reps of 3 trees each)"
+            },
+            "result": "[{\"Plant\": \"Peach\", \"Concentraion (g a.i. per tree)\": 1.5, \"Days after application\": 7, \"Mortality of green leafhopper\": 90}, {\"Plant\": \"Peach\", \"Concentraion (g a.i. per tree)\": 1.5, \"Days after application\": 14, \"Mortality of green leafhopper\": 97}, {\"Plant\": \"Peach\", \"Concentraion (g a.i. per tree)\": 1.5, \"Days after application\": 20, \"Mortality of green leafhopper\": 83}, {\"Plant\": \"Peach\", \"Concentraion (g a.i. per tree)\": 1.5, \"Days after application\": 35, \"Mortality of green leafhopper\": 90}, {\"Plant\": \"Peach\", \"Concentraion (g a.i. per tree)\": 1.5, \"Days after application\": 42, \"Mortality of green leafhopper\": 97}, {\"Plant\": \"Peach\", \"Concentraion (g a.i. per tree)\": 3.0, \"Days after application\": 7, \"Mortality of green leafhopper\": 73}, {\"Plant\": \"Peach\", \"Concentraion (g a.i. per tree)\": 3.0, \"Days after application\": 14, \"Mortality of green leafhopper\": 100}, {\"Plant\": \"Peach\", \"Concentraion (g a.i. per tree)\": 3.0, \"Days after application\": 20, \"Mortality of green leafhopper\": 93}, {\"Plant\": \"Peach\", \"Concentraion (g a.i. per tree)\": 3.0, \"Days after application\": 35, \"Mortality of green leafhopper\": 90}, {\"Plant\": \"Peach\", \"Concentraion (g a.i. per tree)\": 3.0, \"Days after application\": 42, \"Mortality of green leafhopper\": 93}, {\"Plant\": \"Plum\", \"Concentraion (g a.i. per tree)\": 3.0, \"Days after application\": 5, \"Mortality of green leafhopper\": 63}, {\"Plant\": \"Plum\", \"Concentraion (g a.i. per tree)\": 3.0, \"Days after application\": 8, \"Mortality of green leafhopper\": 80}, {\"Plant\": \"Plum\", \"Concentraion (g a.i. per tree)\": 3.0, \"Days after application\": 18, \"Mortality of green leafhopper\": 33}, {\"Plant\": \"Plum\", \"Concentraion (g a.i. per tree)\": 3.0, \"Days after application\": 24, \"Mortality of green leafhopper\": 33}]"
+        }
+    ]
+}

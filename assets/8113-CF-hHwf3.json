@@ -1,0 +1,195 @@
+{
+    "_id": {
+        "$oid": "6682e8aac4e5dba5ffba26bc"
+    },
+    "CID": {
+        "$numberInt": "8113"
+    },
+    "Name": "DIETHANOLAMINE",
+    "IUPACName": "2-(2-hydroxyethylamino)ethanol",
+    "CanonicalSMILES": "C(CO)NCCO",
+    "Synonyms": [
+        "DIETHANOLAMINE",
+        "111-42-2",
+        "\"2,2-Iminodiethanol\"",
+        "Diolamine",
+        "Iminodiethanol",
+        "Bis(2-hydroxyethyl)amine",
+        "Diethylolamine",
+        "2-(2-Hydroxyethylamino)ethanol",
+        "\"2,2-Dihydroxydiethylamine\"",
+        "N,N-Diethanolamine",
+        "Diethanolamin",
+        "\"Ethanol",
+        "2,2-iminobis-\"",
+        "\"2,2-Iminobisethanol\"",
+        "\"2,2-Azanediyldiethanol\"",
+        "Di(2-hydroxyethyl)amine"
+    ],
+    "IsomericSMILES": "C(CO)NCCO",
+    "INCHI": "InChI=1S/C4H11NO2/c6-3-1-5-2-4-7/h5-7H,1-4H2",
+    "INCHIKEY": "ZBCBWPMODOFKDW-UHFFFAOYSA-N",
+    "Formula": "C4H11NO2",
+    "MolecularWeight": {
+        "$numberDouble": "105.14"
+    },
+    "Description": "Diethanolamine is a member of the class of ethanolamines that is ethanolamine having a N-hydroxyethyl substituent. It has a role as a human xenobiotic metabolite. It is functionally related to an ethanolamine.",
+    "XlogP": {
+        "$numberDouble": "-1.4"
+    },
+    "Complexity": {
+        "$numberInt": "28"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 10 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Jan 20, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm/ (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for diethanolamine(SRC), using a log Kow of -1.43(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Boethling RS, Alexander M; Environ Sci Tech 13: 989-91 (1979) (2) Yordy JR, Alexander M; J Environ Qual 10: 266-70 (1981) (3) Mills EJ, Stack VT; Proc 9th Ind Waste Conf Eng Bull Purdue Univ: Ext Ser 9: 449-64 (1955)",
+            "Value": "AEROBIC: Biodegradation of diethanolamine has been reported in many die-away tests(1-3). N-Nitrosodiethanolamine has been identified as a metabolite of diethanolamine in natural water samples and sewage(2).",
+            "Table": "[{'Media': 'River Water', 'Initial Concn': '21 mg/L', 'Incubation Time (days)': 4, '% Biodegradation': 5.0, 'Reference': 1}, {'Media': 'River Water', 'Initial Concn': '210 ug/L', 'Incubation Time (days)': 4, '% Biodegradation': 55.0, 'Reference': 1}, {'Media': 'River Water', 'Initial Concn': '21 ng/L', 'Incubation Time (days)': 4, '% Biodegradation': 32.0, 'Reference': 1}, {'Media': 'Lake Water', 'Initial Concn': '1.1 ppm', 'Incubation Time (days)': 14, '% Biodegradation': 31.0, 'Reference': 2}, {'Media': 'Acidic Lake Water', 'Initial Concn': '1.1 ppm', 'Incubation Time (days)': 14, '% Biodegradation': 1.2, 'Reference': 2}, {'Media': 'Sewage', 'Initial Concn': '1.1 ppm', 'Incubation Time (days)': 14, '% Biodegradation': 53.0, 'Reference': 2}, {'Media': 'River Water', 'Initial Concn': '50 ppm', 'Incubation Time (days)': 10, '% Biodegradation': 90.0, 'Reference': 3}]"
+        },
+        {
+            "References": "(1) Lamb CB, Jenkins GF; pp 326-39 in Proc 8th Ind Waste Conf Purdue Univ (1952) (2) Price KS et al; J Water Poll Contr Fed 46: 63-77 (1974) (3) Bridie AL et al; Water Res 13: 627-30 (1979) (4) Gannon JE et al; Microbios 23: 7-18 (1978) (5) Pitter P; Water Res 10: 63-77 (1976)",
+            "Value": "AEROBIC: Many theoretical BOD tests have been reported for diethanolamine(1-5).",
+            "Table": "[{'Media': 'Water', 'Initial Concn (ppm)': 2.5, 'Incubation Time (days)': 5, '% Biodegradation': 0.9, 'Reference': 1}, {'Media': 'Water', 'Initial Concn (ppm)': 2.5, 'Incubation Time (days)': 10, '% Biodegradation': 1.4, 'Reference': 1}, {'Media': 'Water', 'Initial Concn (ppm)': 2.5, 'Incubation Time (days)': 15, '% Biodegradation': 3.5, 'Reference': 1}, {'Media': 'Water', 'Initial Concn (ppm)': 2.5, 'Incubation Time (days)': 20, '% Biodegradation': 6.8, 'Reference': 1}, {'Media': 'Water', 'Initial Concn (ppm)': nan, 'Incubation Time (days)': 20, '% Biodegradation': 88.0, 'Reference': 2}, {'Media': 'Synthetic Seawater', 'Initial Concn (ppm)': nan, 'Incubation Time (days)': 20, '% Biodegradation': 76.0, 'Reference': 2}, {'Media': 'Water (unadapted)', 'Initial Concn (ppm)': nan, 'Incubation Time (days)': 5, '% Biodegradation': 2.0, 'Reference': 3}, {'Media': 'Water (adapted)', 'Initial Concn (ppm)': nan, 'Incubation Time (days)': 5, '% Biodegradation': 77.0, 'Reference': 3}, {'Media': 'Water', 'Initial Concn (ppm)': 500.0, 'Incubation Time (days)': 10, '% Biodegradation': 97.0, 'Reference': 4}, {'Media': 'Water', 'Initial Concn (ppm)': 100.0, 'Incubation Time (days)': 5, '% Biodegradation': 97.0, 'Reference': 5}]"
+        },
+        {
+            "References": "(1) Gerike P, Fischer WK; Ecotox Environ Safety 3: 159-73 (1979) (2) Kitano M; OECD Tokyo Meeting Reference Book Tsu-No. 3 (1978)",
+            "Value": "AEROBIC: Various biodegradation test results reported for diethanolamine(1-2). Ammonia and nitrogen dioxide have been reported as break down products of diethanolamine(2).",
+            "Table": "[{'Test': 'Zahn-Wellens', 'Initial Concn (ppm)': 400, 'Incubation Time (days)': 3, '% Biodegradation': 94.0, 'Reference': 1}, {'Test': 'Sturm', 'Initial Concn (ppm)': 10, 'Incubation Time (days)': 28, '% Biodegradation': 88.0, 'Reference': 1}, {'Test': 'Sturm', 'Initial Concn (ppm)': 10, 'Incubation Time (days)': 42, '% Biodegradation': 97.0, 'Reference': 1}, {'Test': 'OECD Screening Test', 'Initial Concn (ppm)': 20, 'Incubation Time (days)': 19, '% Biodegradation': 100.0, 'Reference': 1}, {'Test': 'Modified Closed Bottle', 'Initial Concn (ppm)': 2, 'Incubation Time (days)': 30, '% Biodegradation': 94.0, 'Reference': 1}, {'Test': 'MITI', 'Initial Concn (ppm)': 50, 'Incubation Time (days)': 14, '% Biodegradation': 3.0, 'Reference': 1}, {'Test': 'MITI', 'Initial Concn (ppm)': 100, 'Incubation Time (days)': 14, '% Biodegradation': 74.6, 'Reference': 2}, {'Test': 'MITI', 'Initial Concn (ppm)': 100, 'Incubation Time (days)': 14, '% Biodegradation': 51.4, 'Reference': 2}]"
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 10",
+            "Value": "log Kow= - 1.43"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:17204582",
+            "Value": "Diethanolamine (DEA) is a widely used ingredient in many consumer products and in a number of industrial applications. It has been previously reported that dermal administration of DEA to mice diminished hepatic stores of choline and altered brain development in the fetus. The aim of this study was to use mouse neural precursor cells in vitro to assess the mechanism underlying the effects of DEA. Cells exposed to DEA treatment (3mM) proliferated less (by 5-bromo-2-deoxyuridine incorporation) at 48 hr (24% of control [CT]), and had increased apoptosis at 72 hr (308% of CT). Uptake of choline into cells was reduced by DEA treatment (to 52% of CT), resulting in diminished intracellular concentrations of choline and phosphocholine (55 and 12% of CT, respectively). When choline concentration in the growth medium was increased threefold (to 210 uM), the effects of DEA exposure on cell proliferation and apoptosis were prevented, however, intracellular phosphocholine concentrations remained low. In choline kinase assays, we observed that DEA can be phosphorylated to phospho-DEA at the expense of choline. Thus, the effects of DEA are likely mediated by inhibition of choline transport into neural precursor cells and by altered metabolism of choline. /This/ study/ suggests that prenatal exposure to DEA may have a detrimental effect on brain development."
+        },
+        {
+            "References": "PMID:16014740",
+            "Value": "Diethanolamine increased the incidence and multiplicity of liver tumors in the mouse following chronic exposure. Diethanolamine is known to inhibit cellular choline uptake. Since choline deficiency produces tumors in rodents, diethanolamine, through choline depletion, may result in tumor development in rodents. The potential for diethanolamine to function through this mode of action in humans is not known. The present studies examined the effect of diethanolamine (0-500 mug/mL) and choline depletion on DNA synthesis and changes in expression of genes involved in cell growth pathways in primary cultures of mouse, rat, and human hepatocytes. In mouse and rat hepatocytes DNA synthesis was increased following treatment with 10 mug/mL diethanolamine and higher (3- to 4-fold over control). In contrast, diethanolamine failed to increase DNA synthesis in human hepatocytes. Incubation of hepatocytes in medium containing reduced choline (1/10 to 1/100 of normal medium; 0.898 to 0.0898 mg/L vs. 8.98 mg/L) increased DNA synthesis (1.6- and 1.8-fold of control in mouse and rat hepatocytes, respectively); however, choline depletion did not induce DNA synthesis in human hepatocytes. Mouse and rat hepatocytes incubated in medium supplemented with 2- to 50-fold excess choline reduced diethanolamine-induced DNA synthesis to control levels or below. Gene expression analysis of mouse and rat hepatocytes following diethanolamine treatment showed increases in genes associated with cell growth and decreases in expression of genes involved in apoptotic pathways. These results support the hypothesis that choline depletion is central to the mode of action for the induction of rodent hepatic neoplasia by diethanolamine. Furthermore, since diethanolamine treatment or choline depletion failed to induce DNA synthesis in human hepatocytes, these results suggest that humans may not be at risk from the carcinogenic effects of diethanolamine."
+        },
+        {
+            "References": "PMID:442087",
+            "Value": "Diethanolamine which interferes with phospholipid metab produced a loss of mitochondrial integrity after subacute admin to Sprague-Dawley rats."
+        },
+        {
+            "References": "PMID:442086",
+            "Value": "Diethanolamine inhibited in vitro synthesis of phosphatidyl choline and phosphatidyl ethanolamine in rat liver tissue."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 784",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ The maximum daily dose having no effect in rats over a 90-day period is 0.02 g/kg; a daily dose of 0.17 g/kg over same period produces microscopic pathology and deaths and 0.09 g/kg causes changes in liver or kidney weights."
+        },
+        {
+            "References": "PMID:18420328",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Systemic and respiratory tract (RT) toxicity of triethanolamine (TEA) was assessed in a 28-day nose-only inhalation study in Wistar rats (10 animals/sex, concentrations: 0, 20, 100, 500 mg/cu m; 5 days/week, 6 hr/day). In two nose-only 90-day inhalation studies, with similar exposure design, Wistar rats were exposed to 0, 15, 150, 400 mg/cu m diethanolamine (DEA) (DEA Study 1:13 animals/sex, general subchronic study) and to 0, 1.5, 3, 8mg/cu m (DEA Study 2:10 animals/sex) to specifically investigate respiratory tract toxicity. Only DEA induced systemic toxicity at or above 150mg/cu m (body and organ weight changes, clinical- and histo-pathological changes indicative for mild blood, liver, kidney and testicular effects). Neurotoxicity was not observed for both substances. Exposure to both substances resulted in laryngeal epithelial changes starting from 3mg/cu m for DEA (reversible metaplasia at the base of the epiglottis, inflammation at higher concentrations extending into the trachea) or from 20mg/cu m for TEA (focal inflammation, starting in single male animals). TEA appears to be less potent with respect to systemic toxicity and RT irritancy than DEA. The 90-day no adverse effect concentration\" (NOAEC) for changes due to TEA exposure in the respiratory tract was 4.7mg/cu m derived by extrapolation from the NOAEC of the 28 day study."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 784",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ A 10% solution applied to rabbits' skin caused redness; higher concentrations caused increasing injury."
+        },
+        {
+            "References": "PMID:16188361",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Diethanolamine (DEA) is a chemical used widely in a number of industries and is present in many consumer products. Studies by the National Toxicology Program (NTP) have indicated that lifetime dermal exposure to DEA increased the incidence and multiplicity of liver tumors in mice, but not in rats. In addition, DEA was not carcinogenic when tested in the Tg.Ac transgenic mouse model. Short-term genotoxicity tests have yielded negative results. In view of these apparent inconsistencies, we have critically evaluated the NTP studies and other data relevant to assessing the carcinogenic potential of DEA. The available data indicate that DEA induces mouse liver tumors by a non-genotoxic mode of action that involves its ability to cause choline deficiency. The following experimental evidence supports this hypothesis. DEA decreased the hepatic choline metabolites and S-adenosylmethionine levels in mice, similar to those observed in choline-deficient mice. In contrast, DEA had no effect in the rat, a species in which it was not carcinogenic at a maximum tolerated dose level. In addition, a consistent dose-effect relationship had been established between choline deficiency and carcinogenic activity since all DEA dosages that induced tumors in the NTP studies were also shown to cause choline deficiency. DEA decreased phosphatidylcholine synthesis by blocking the cellular uptake of choline in vitro, but these events did not occur in the presence of excess choline. Finally, DEA induced transformation in the Syrian hamster embryo cells, increased S-phase DNA synthesis in mouse hepatocytes, and decreased gap junctional intracellular communication in primary cultured mouse and rat hepatocytes, but all these events were prevented with choline supplementation. Since choline is an essential nutrient in mammals, this mode of action is qualitatively applicable to humans. However, there are marked species differences in susceptibility to choline deficiency, with rats and mice being far more susceptible than other mammalian species including humans. These differences are attributed to quantitative differences in the enzyme kinetics controlling choline metabolism. The fact that DEA was carcinogenic in mice but not in rats also has important implications for human risk assessment. DEA has been shown to be less readily absorbed across rat and human skin than mouse skin. Since a no observed effect level for DEA-induced choline deficiency in mice has been established to be 10 mg/kg/d, this indicates that there is a critical level of DEA that must be attained in order to affect choline homeostasis. The lack of a carcinogenic response in rats suggests that exposure to DEA did not reach this critical level. Since rodents are far more sensitive to choline deficiency than humans, it can be concluded that the hepatocarcinogenic effect of DEA in mice is not predictive of similar susceptibility in humans."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V101 126 (2012)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 50 male and 50 female B6C3F1 mice, 6 weeks of age, received dermal applications of 0, 40, 80 or 160 mg/kg body weight (bw) diethanolamine (purity, > 99%) in 95% ethanol on 5 days per week for 103 weeks. Survival of treated males was similar to that of vehicle controls, but that of treated females was significantly reduced (44/50, 33/50, 33/50 and 23/50 for the control, low-, mid- and high-dose groups, respectively). The mean body weights of the mid- and high-dose males were lower than those of the vehicle controls after weeks 88 and 77, respectively. The mean body weights of the low- and mid-dose females were lower than those of the vehicle controls from week 73, but those of the high-dose females were reduced compared with the vehicle controls from week 53. In male mice, the incidence of hepatocellular adenoma, hepatocellular carcinoma and of hepatocellular adenoma and carcinoma (combined) in all dosed groups was significantly greater than that in the vehicle-control group (hepatocellular adenoma: 31/50, 42/50, 49/50 and 45/50 (P < 0.001, poly-3 trend test); hepatocellular carcinoma: 12/50, 17/50, 33/50 and 34/50 (P < 0.001, poly-3 trend test), for the control, low-, mid- and high-dose groups, respectively). In addition, the incidence of hepatoblastoma in the mid- and high-dose groups was significantly increased compared with vehicle controls (0/50, 2/50, 8/50 (P = 0.004, pairwise comparison) and 5/50 (P = 0.028, pairwise comparison) in the control, low-, mid- and high-dose groups, respectively). In female mice, the incidence of hepatocellular adenoma and carcinoma was significantly higher than that in the vehicle controls (hepatocellular adenoma: 32/50, 50/50, 48/50 and 48/50 (P < 0.001, poly-3 trend test); hepatocellular carcinoma: 5/50, 19/50, 38/50 and 42/50 (P < 0.001, poly-3 trend test) in the control, low-, mid- and high-dose groups, respectively). The incidence of renal tubule adenoma in males showed an increase after standard singlesection examination (1/50, 4/50, 6/50 and 6/50 (P = 0.05, poly-3 trend test) in the control, low-, mid- and high-dose groups, respectively). When single sectioning and extended-step sectioning were combined, the incidence was: 1/50, 6/50, 8/50 and 7/50 (P = 0.046, poly-3 trend test) for the control, low-, mid- and high-dose groups, respectively."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V101 128 (2012)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 15-20 female Tg.AC mice, which carry a zeta-globin promoted v-Ha-ras gene on an FVB background, 14 weeks of age, received dermal applications of diethanolamine in 95% ethanol. ... The diethanolamine was administered in 200-uL volumes, five times a week for 20 weeks. The concurrent negative-control groups were treated with 200 L 95% ethanol. The positive-control group was treated with 1.25 ug 12-O-tetradecanoylphorbol 13-acetate (approximately 99% pure) twice a week for 20 weeks. The doses of diethanolamine selected were ...  5, 10 or 20 mg/mouse per application (higher than the maximum tolerated dose). Survival was high in both the control (90%) and treated groups (80-95%). Lesions were diagnosed as papillomas when they reached at least 1 mm in diameter and persisted for 3 weeks. Animals that did not survive to the end of week 10 were not included in the data summaries or calculations. Six weeks after the last application, all surviving mice were killed. There was no evidence of chronic irritation or ulceration at the site of application. In contrast to the positive controls, 18/20 of which developed multiple papillomas, there was no increase in the incidence of skin tumors in diethanolamine-treated animals in this model"
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V101 126 (2012)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 50 male and 50 female F344/N rats, 6 weeks of age, received dermal applications of diethanolamine (purity, > 99%) in 95% ethanol on 5 days per week for 103 weeks. Males received 0, 16, 32 or 64 and females received 0, 8, 16 or 32 mg/kg bw. Survival rates for treated males and females were similar to those of corresponding vehicle-control groups. The mean body weight of the high-dose males was lower than that of the vehicle controls from week 8 and that of the high dose females was lower than that of the vehicle controls from week 97. There was no increase in tumor incidence in treated groups compared with the vehicle controls."
+        },
+        {
+            "References": "PMID:18948303",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Diethanolamine (DEA) is a common ingredient of personal care products. Dermal administration of DEA diminishes hepatic stores of the essential nutrient choline and alters brain development. /The authors/ previously reported that 80 mg/kg/day of DEA during pregnancy in mice reduced neurogenesis and increased apoptosis in the fetal hippocampus. This study was designed to establish the dose-response relationships for this effect of DEA. Timed-pregnant C57BL/6 mouse dams were dosed dermally from gestation day 7-17 with DEA at 0 (controls), 5, 40, 60, and 80 mg/kg body/day. Fetuses (embryonic day 17 (E17)) from dams treated dermally with 80 mg/kg body/day DEA had decreased neural progenitor cell mitosis at the ventricular surface of the ventricular zone (hippocampus, 54.1 +/- 5.5%; cortex, 58.9 +/- 6.8%; compared to controls; p < 0.01). Also, this dose of DEA to dams increased rates of apoptosis in E17 fetal hippocampus (to 177.2 +/- 21.5% of control; measured using activated caspase-3; p < 0.01). This dose of DEA resulted in accumulation of DEA and its metabolites in liver and in plasma. At doses of DEA less than 80 mg/kg body/day to dams, there were no differences between treated and control groups..."
+        },
+        {
+            "References": "PMID:15954084",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Diethanolamine (DEA), a widely used surfactant, was administered to pregnant mice at the oral LD10 resulting in failure of pups to grow and thrive through postnatal day (PND) 3. The toxicity profile for DEA differs among rodent species. This study investigated DEA-induced postnatal toxicity in a second species.  Timed-mated Sprague-Dawley rats were dosed (0, 50, 125, 200, 250, or 300 mg DEA/kg/day, p.o.) on gestational days (GD) 6-19. Dams and pups were monitored for body weight, feed/water intake, clinical signs, litter size, and sex ratio. At necropsy (PND 21), maternal liver and kidney weights and number of uterine implantation sites were recorded.  The high-dose group was terminated early due to excessive toxicity. The estimated maternal LD10 was 218 mg/kg/day. Maternal effects included decreased body weight and relative feed intake (>or=200 mg/kg/day), transiently reduced relative water intake (125 and 250 mg/kg/day), and increased absolute kidney weight (>or=125 mg/kg/day). Postimplantation loss (PND 0) and pup mortality (PND 0-4) were increased (>or=200 and >or=125 mg/kg/day, respectively). Pup body weight was reduced (>or=200 mg/kg/day) as late as PND 21.  CONCLUSIONS: This study demonstrates reduced postnatal growth and survival in a second species after gestational exposure to DEA, persistence of toxic effects through the end of lactation, possibly due to long elimination half-life, and maternal and developmental toxicity no-observed-adverse-effect level (NOAELs) (50 mg/kg/day) and lowest-observed-adverse-effect level (LOAELs) (125 mg/kg/day) for oral DEA exposure during embryo/fetal development in the rat."
+        },
+        {
+            "References": "PMID:16873886",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Diethanolamine (DEA) is present in many consumer products such as shampoo. Dermal administration of DEA diminishes hepatic stores of the essential nutrient choline, and /the authors/ previously reported that dietary choline deficiency during pregnancy reduces neurogenesis and increases apoptosis in the hippocampus of fetal rats and mice. Therefore, DEA could also alter brain development. Timed-pregnant C57BL/6 mice were dosed dermally from gestation day 7 through 17 with DEA at 0, 20, 80, 160, 320, and 640 mg/kg body/day. At doses of DEA > 80 mg/kg body/day, /the authors/ observed decreased litter size. In fetuses (embryonic day 17) collected from dams treated dermally with 80 mg/kg body/day DEA, /they/ observed decreased neural progenitor cell mitosis at the ventricular surface of the ventricular zone of the hippocampus [to 56+/-14% (se) histone 3 (H3) phosphorylation as compared to controls; P < 0.01]. /The authors/ also observed increased apoptosis in fetal hippocampus (to 170+/-10% of control measured using TUNEL and to 178+/-7% of control measured using activated caspase 3; P < 0.01). Thus, maternal exposure to DEA reduces the number of neural progenitor cells in hippocampus by two mechanisms, and this could permanently alter memory function in offspring of mothers exposed to this common ingredient of shampoos and soaps."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V101 131 (2012)",
+            "Value": "/GENOTOXICITY/ Four-day-old Drosophila melanogaster females were given 4% sucrose solutions containing 5, 10, 20, 40 or 80% diethanolamine for 24 hours; after a 2-hour recovery period, they were mated with 7-day-old males. The frequencies of meiotic non-disjunction in Drosophila oocytes were analysed in the progeny from three successive 24-hour broods. Diethanolamine induced similar increases in the frequencies of female non-disjunction (chromosome malsegregation) at all concentrations."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V101 130 (2012)",
+            "Value": "/GENOTOXICITY/ Diethanolamine was not mutagenic in Salmonella typhimurium strains TA100, TA1535, TA1537, TA1538, or TA98, in Escherichia coli WP2 uvrA, or in L5178Y mouse lymphoma cells incubated in the presence or absence of metabolic activation systems. It did not induce sister chromatid exchange or chromosomal aberrations in cultured Chinese hamster ovary cells or mitotic gene conversion in Saccharomyces cerevisiae."
+        },
+        {
+            "References": "PMID:23448142",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ This paper deals with the synthesis of nitrogen mustard analogs, derivatives of purine bases. Alkylation in position N-9 and diethanolamine fixation on position 6 were managed by microwave irradiations. Chlorination of these dihydroxylated intermediates led to a cyclization, giving tricyclic purine base analogs bearing a chloroethyl chain. Finally, MTT assays on obtained compounds do not show cytotoxicity on four different cancer cell lines."
+        },
+        {
+            "References": "PMID:16396840",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ DNA methylation is an epigenetic mechanism regulating transcription, which when disrupted, can alter gene expression and contribute to carcinogenesis. Diethanolamine (DEA), a non-genotoxic alkanolamine, produces liver tumors in mice. Studies suggest DEA inhibits choline uptake and causes biochemical changes consistent with choline deficiency (CD). Rodents fed methyl-deficient diets exhibit altered methylation of hepatic DNA and an increase in liver tumors, e.g., CD causes liver tumors in B6C3F1 mice. /It was/ hypothesized that DEA-induced CD leads to altered methylation patterns which facilitates tumorigenesis. B6C3F1 hepatocytes in primary culture were grown in the presence of either 4.5 mM DEA, 3 mM Phenobarbital (PB), or CD media for 48 h. These concentrations induced comparable increases in DNA synthesis. PB, a nongenotoxic rodent liver carcinogen known to alter methylation in mouse liver, was included as a positive control. Global, average, DNA methylation status was not affected. The methylation status of GC-rich regions of DNA, which are often associated with promoter regions, were assessed via methylation-sensitive restriction digestion and arbitrarily primed PCR with capillary electrophoretic separation and detection of PCR products. DEA, PB, and CD treatments resulted in 54, 63, and 54 regions of altered methylation (RAMs), respectively, and the majority were hypomethylations. A high proportion of RAMs (72%) were identical when DEA was compared to CD. Similarly, 70% were identical between PB and CD. Altered patterns of methylation in GC-rich regions induced by DEA and PB resemble that of CD and indicate that altered DNA methylation is an epigenetic mechanism involved in the facilitation of mouse liver tumorigenesis."
+        },
+        {
+            "References": "PMID:442086",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Diethanolamine inhibited in vitro synthesis of phosphatidyl choline and phosphatidyl ethanolamine in rat liver tissue."
+        },
+        {
+            "References": "PMID:16046796",
+            "Value": "/OTHER TOXICITY INFORMATION/ ... This study was conducted to characterize spontaneous and chemically-induced rodent heart lesions. A retrospective light-microscopic evaluation was performed on the hearts of F344 rats and B6C3F1 mice from National Toxicology Program studies of six chemicals in which chemically-induced myocardial toxicity was present: oxymetholone, monochloroacetic acid, 3,3'-4,4'- tetrachoroazoxybenzene, diethanolamine, urethane, and methyl bromide. Two myocardial lesions were observed: cardiomyopathy (multifocal myofiber degeneration that could occur spontaneously or as a treatment effect) and degeneration (diffuse myofiber degeneration that was clearly related to treatment). Oxymetholone produced cardiotoxicity that was apparent as an increase in the incidence and average severity of cardiomyopathy. The remaining five chemicals produced degeneration, which appeared morphologically similar with each of the chemicals. Based on available information concerning possible mechanisms by which each of these chemicals may induce cardiotoxicity, this evaluation indicated it may be possible to place the chemicals into two main categories: (1) those that primarily affected the coronary vasculature with secondary effects on the myocardium (oxymetholone), and (2) those that had a direct toxic effect on the myocardial cells (the remaining five chemicals). Beyond this, however, light-microscopic findings did not indicate any specific mechanisms..."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 784",
+            "Value": "/OTHER TOXICITY INFORMATION/ Administration of diethanolamine by the intravenous route in dogs resulted in increased blood pressure, diuresis, salivation, and pupillary dilatation."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 784",
+            "Value": "/OTHER TOXICITY INFORMATION/ The undiluted liquid and 40% solns produce severe eye burns, whereas 15% produces minor damage."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 333",
+            "Value": "/OTHER TOXICITY INFORMATION/ Applied to rabbit cornea, liq may cause moderate injury, graded 5 on scale of 1 to 10 after 24 hr, but if liq is washed off with water within few min, injury is slight and eyes return to normal within 24 hr."
+        },
+        {
+            "References": "PMID:442086",
+            "Value": "/OTHER TOXICITY INFORMATION/ Given to rats repeatedly at the rate of  330 mg/kg/day diethanolamine caused significant inhibition of phosphatidyl choline and ethanolamine. Reduction of choline and ethanolamine incorporation occurred in liver and synthesis of ethanolamine phosphoglycerides declined."
+        },
+        {
+            "References": "PMID:442087",
+            "Value": "/OTHER TOXICITY INFORMATION/ Diethanolamine which interferes with phospholipid metab produced a loss of mitochondrial integrity after subacute admin to Sprague-Dawley rats."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Readman JW et al; Mar Pollut Bull 26: 613-9 (1993)",
+            "Value": "SEDIMENT: Diethanolamine was detected in sediment samples from the Ebro Delta at <0.001 to 0.027 ug/g dry weight in samples collected Dec 1990 to June 1991(1)."
+        },
+        {
+            "References": "(1) Krapac IG et al; J Soil Contam 4: 209-26 (1995)",
+            "Value": "SOIL: Diethanolamine was detected in 50 of 822 soil samples from 21 of 49 agrichemical facilities in Illinois, concentrations of 18 to 517 ug/kg were detected(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Davis JW, Carpenter CL; Rev Environ Contam Toxicol 149:87-137 (1997) (2) Schuurmann G et al; Environ Sci Technol 40:7005-11 (2006) (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Chremos G, Zimmerman HJKR; Texas J Sci 11: 467-70 (1959) (5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000) (6) Sithole BB, Guy RD; Environ Int 11: 499-504 (1985)",
+            "Value": "The Koc of diethanolamine has been reported as 3.97(1) and an experimental log Koc of 0.60(2). According to a classification scheme(3), these Koc values suggest that diethanolamine is expected to have very high mobility in soil. The pKa of diethanolamine is 8.96(4), indicating that this compound will exist partially in cation form in the environment and cations generally adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(5). Diethanolamine has been shown to adsorb to humic acid which may be contained in soils and sediments(6). The adsorption of diethanolamine on humic acid changed very slightly from pH 4-8, (40-45% adsorption)(6)."
+        }
+    ]
+}

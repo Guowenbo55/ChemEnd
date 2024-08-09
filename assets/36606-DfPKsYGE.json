@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "66927128303528b49832d822"
+    },
+    "CID": {
+        "$numberInt": "36606"
+    },
+    "Name": "Isopropalin",
+    "IUPACName": "2,6-dinitro-4-propan-2-yl-N,N-dipropylaniline",
+    "CanonicalSMILES": "CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])C(C)C)[N+](=O)[O-]",
+    "Synonyms": [
+        "ISOPROPALIN",
+        "33820-53-0",
+        "Paarlan",
+        "4-Isopropyl-2,6-dinitro-N,N-dipropylaniline",
+        "Cumidine",
+        "2,6-dinitro-N,N-dipropyl-",
+        "2,6-dinitro-4-propan-2-yl-N,N-dipropylaniline",
+        "EL-179",
+        "Benzenamine",
+        "4-(1-methylethyl)-2,6-dinitro-N,N-dipropyl-",
+        "4-(1-Methylethyl)-2,6-dinitro-N,N-dipropylbenzenamine",
+        "52GZD1I41N",
+        "Isopropaline",
+        "DTXSID8024157",
+        "CHEBI:82189",
+        "DTXCID904157",
+        "Caswell No. 506A"
+    ],
+    "IsomericSMILES": "CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])C(C)C)[N+](=O)[O-]",
+    "INCHI": "InChI=1S/C15H23N3O4/c1-5-7-16(8-6-2)15-13(17(19)20)9-12(11(3)4)10-14(15)18(21)22/h9-11H,5-8H2,1-4H3",
+    "INCHIKEY": "NEKOXWSIMFDGMA-UHFFFAOYSA-N",
+    "Formula": "C15H23N3O4",
+    "MolecularWeight": {
+        "$numberDouble": "309.36"
+    },
+    "Description": "Isopropalin is a C-nitro compound.",
+    "XlogP": {
+        "$numberDouble": "5.6"
+    },
+    "Complexity": {
+        "$numberInt": "348"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Field soil studies using 14C-isopropalin (2,6-dinitro N-dipropylcumidine) have shown its biodegradability. No recognizable transformation products in soil accumulated beyond 4% of the applied herbicide. After 15 months, approximately 25% of the applied isopropalin remained in the soil, and less than 10% was observed after 28 months. Only negligible amounts of radioactivity were detected in crops grown in soil treated with the herbicide. Isopropalin and its recognizable transformation products were not detected in any of the plant tissues examined. Fractionation techniques indicated that the radioactivity was randomly distributed throughout the plant tissue.",
+            "reference": "Golab, T., & Althaus, W. A. (1975). Transformation of isopropalin in soil and plants. Weed Science, 23(3), 165-171.",
+            "method": {
+                "Test Plant": "Tomato and pepper",
+                "Apply Location": "The labeled isopropalin herbicide was incorporated into the soil",
+                "Plant Grown Condition": "The treated soil plots (0.65 m2) were planted with tomato and pepper seeds at 0.5-1 cm depth, and tobacco transplants of 8-12 cm height immediately after herbicide application. Prior to planting, 500 kg/ha of 6-20-20 fertilizer was applied. After planting, routine management was followed except for keeping the soil undisturbed. Wheat was also grown in the treated plots the following year. The experimental location had an average annual rainfall of 100 cm. The soil type was Crosby silt loam.",
+                "Chemical Preparation": "Uniformly ring-labeled 14C-isopropalin with radiochemical purity >99% and specific activities of 2 \u03bcCi/mg and 1 \u03bcCi/mg were used for soil applications of 1.68 kg/ha and 3.36 kg/ha respectively after diluting with unlabeled isopropalin.",
+                "Pesticide Application Details for the Plant": "The herbicide isopropalin was applied to soil at two rates - 1.68 kg/ha and 3.36 kg/ha for tomato, pepper and tobacco plants.",
+                "Other Information": "Soil samples were collected from 0-7.5 cm and 7.5-15 cm depths at different time intervals"
+            },
+            "result": "[{\"Plant\": \"Tomato\", \"Weeks after application\": 6, \"Aerial (ppm)\": \"0.030\", \"Fruit (ppm)\": \"0\"}, {\"Plant\": \"Tomato\", \"Weeks after application\": 9, \"Aerial (ppm)\": \"0.020\", \"Fruit (ppm)\": \"0.002\"}, {\"Plant\": \"Tomato\", \"Weeks after application\": 11, \"Aerial (ppm)\": \"0.016\", \"Fruit (ppm)\": \"0.002\"}, {\"Plant\": \"Tomato\", \"Weeks after application\": 16, \"Aerial (ppm)\": \"0\", \"Fruit (ppm)\": \"0.002\"}, {\"Plant\": \"Peppers\", \"Weeks after application\": 6, \"Aerial (ppm)\": \"-\", \"Fruit (ppm)\": \"-\"}, {\"Plant\": \"Peppers\", \"Weeks after application\": 9, \"Aerial (ppm)\": \"0.25\", \"Fruit (ppm)\": \"0.002\"}, {\"Plant\": \"Peppers\", \"Weeks after application\": 11, \"Aerial (ppm)\": \"0.18\", \"Fruit (ppm)\": \"0.002\"}, {\"Plant\": \"Peppers\", \"Weeks after application\": 16, \"Aerial (ppm)\": \"0\", \"Fruit (ppm)\": \"0.002\"}]"
+        }
+    ]
+}

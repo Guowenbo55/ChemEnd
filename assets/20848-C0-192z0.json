@@ -1,0 +1,107 @@
+{
+    "_id": {
+        "$oid": "6682e937c4e5dba5ffba2981"
+    },
+    "CID": {
+        "$numberInt": "20848"
+    },
+    "Name": "NITRALIN",
+    "IUPACName": "4-methylsulfonyl-2,6-dinitro-N,N-dipropylaniline",
+    "CanonicalSMILES": "CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])S(=O)(=O)C)[N+](=O)[O-]",
+    "Synonyms": [
+        "NITRALIN",
+        "4726-14-1",
+        "Planavin",
+        "Nitraline",
+        "Planuin",
+        "Planavin 75",
+        "Niralin",
+        "2,6-Dinitro-4-methylsulfonyl-N,N-dipropylaniline",
+        "4-methylsulfonyl-2,6-dinitro-N,N-dipropylaniline",
+        "SD 11831",
+        "Aniline",
+        "4-(methylsulfonyl)-2,6-dinitro-N,N-dipropyl-",
+        "Benzenamine",
+        "4-(methylsulfonyl)-2,6-dinitro-N,N-dipropyl-",
+        "4-(Methylsulfonyl)-2,6-dinitro-N,N-dipropylaniline",
+        "4-(Methylsulfonyl)-2,6-dinitro-N,N-dipropylbenzenamine",
+        "4-(Methylsulfonyl)-2,6-dinitro-N,N-dipropylbenzeneamine"
+    ],
+    "IsomericSMILES": "CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])S(=O)(=O)C)[N+](=O)[O-]",
+    "INCHI": "InChI=1S/C13H19N3O6S/c1-4-6-14(7-5-2)13-11(15(17)18)8-10(23(3,21)22)9-12(13)16(19)20/h8-9H,4-7H2,1-3H3",
+    "INCHIKEY": "UMKANAFDOQQUKE-UHFFFAOYSA-N",
+    "Formula": "C13H19N3O6S",
+    "MolecularWeight": {
+        "$numberDouble": "345.37"
+    },
+    "Description": "Nitralin is a C-nitro compound.",
+    "XlogP": {
+        "$numberDouble": "3.7"
+    },
+    "Complexity": {
+        "$numberInt": "491"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Yalkowsky SH, Dannenfelser RM; Aquasol Database of Aqueous Solubility. Version 5 (1992) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF value of 820 was calculated for nitralin(SRC), using an experimental water solubility of 0.6 mg/L(1) and a recommended regression-derived equation(2). According to a classification scheme, this BCF value suggests that bioconcentration in aquatic organisms will be high(3)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Kearney PC, Kaufman DD; Herbicides: Chemistry, Degradation and Mode of Action Vol 1 Marcel Dekker, Inc: NY, NY 2nd ed (1975) (2) Stoller EW, Wax LM; J Environ Qual 6: 124-127 (1977)",
+            "Value": "Investigations with nitralin demonstrates that degradation of the dinitroanilines in soil is affected by aerobic and anaerobic conditions(1). The aerobic pathway proceeds by a series of oxidative dealkylation steps; the anaerobic pathway is initiated via a sequential reduction of the nitro groups(1). Nitralin half-lives in Drummer and Cisne soils in the laboratory are 3.7 and 2.4 months respectively(2)."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Worthing, C.R., S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 7th ed. Lavenham, Suffolk, Great Britain: The Lavenham Press Limited, 1983., p. 401",
+            "Value": "NITRALIN IS SELECTIVE HERBICIDE ACTING BY DISRUPTION OF PRIMARY CELL WALL FORMATION DURING CELL DIVISION."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Worthing, C.R., S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 7th ed. Lavenham, Suffolk, Great Britain: The Lavenham Press Limited, 1983., p. 401",
+            "Value": "IN 2-YEAR FEEDING TRIALS 'NO EFFECT' LEVELS FOR RATS AND DOGS WAS 2000 MG/KG DIET."
+        },
+        {
+            "References": "Kearney, P.C., and D. D. Kaufman (eds.) Herbicides: Chemistry, Degredation and Mode of Action. Volumes 1 and 2. 2nd ed. New York: Marcel Dekker, Inc., 1975., p. 493",
+            "Value": "AT.../10-4 MOLAR NITRALIN/ NET PHOSPHORUS UPTAKE /IN ISOLATED MITOCHONDRIA/ WAS REDUCED BY MORE THAN 50% IN SORGHUM & CORN. PHOSPHORUS UPTAKE IN SOYBEAN WAS REDUCED BY SAME MAGNITUDE WITH.../NITRALIN/ CONCN @ 10-6 MOLAR."
+        },
+        {
+            "References": "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 305",
+            "Value": "A FEW SIGNS SUCH AS MILD SALIVATION & DIARRHEA HAVE BEEN ELICITED BY FEEDING LABORATORY ANIMALS EXCESSIVE AMOUNTS."
+        },
+        {
+            "References": "U.S. Department of the Interior, Fish and Wildlife Service. Handbook of Toxicity of Pesticides to Wildlife. Resource Publication 153. Washington, DC: U.S. Government Printing Office, 1984., p. 66",
+            "Value": "THE 30 DAY EMLD /EMPIRICAL MINIMUM LETHAL DOSAGE/ FOR MALLARDS & CHUKARS IS GREATER THAN 100 MG/KG/DAY. MALLARDS GIVEN 100 PPM IN THEIR DIETS FOR 30 DAYS SHOWED NO GROSS EFFECTS OTHER THAN SLIGHTLY REDUCED FEED INTAKE."
+        },
+        {
+            "References": "RAO KS, DAD NK; J FISH BIOL 14 (6): 517-22 (1979)",
+            "Value": "HERBICIDE TOXICITY TO FRESHWATER FISHES & ECTOPROCTA WAS NOTED WITH REFERENCE TO PLANAVIN, AND MIXTURES OF PLANAVIN."
+        },
+        {
+            "References": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. Old Woking, Surrey, United Kingdom: Royal Society of Chemistry/Unwin Brothers Ltd., 1983., p. A299/OCT 83",
+            "Value": "Toxic to bees. Mixtures with linuron not toxic to bees when used as prescribed."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "Worthing, C.R., S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 7th ed. Lavenham, Suffolk, Great Britain: The Lavenham Press Limited, 1983., p. 401",
+            "Value": "IT IS RELATIVELY IMMOBILE IN SOIL & 50% LOSS OCCURS IN ABOUT 30-50 DAYS."
+        },
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 28: 459-65 (1992) (2) Swann RL et al; Res Rev 85: 23 (1983) (3) Kenaga EE; Ecotoxicol Environ Safety 4: 26-38 (1980) (4) Hamaker JW, Thompson JM; in Organic Chemicals in the Soil Environment. Goring CAI, Hamaker JN (eds) 1: 49-144 (1972)",
+            "Value": "Using a structure estimation method based on molecular connectivity indexes(1), the Koc for nitralin can be estimated to be about 980(SRC). Another value has been experimentally determined to be 960(3). An average value of Koc for nitralin has been determined to be 500 in soil with an organic carbon content of 1-5%(4). According to a recommended classification scheme(2), these Koc values suggest that nitralin has medium to low mobility in soil(SRC)."
+        }
+    ],
+    "plant_translocation": [
+        {
+            "References": "Ketchersid, M. L., Boswell, T. E., & Merkle, M. G. (1969). Uptake and Translocation of Substituted Aniline Herbicides in Peanut Seedlings 1. Agronomy Journal, 61(2), 185-187.",
+            "Value": "nitralin, a herbicide, within plants. The researchers conducted experiments using sorghum (Sorghum bicolor) and cucumber (Cucumis sativus) seedlings. They applied localized treatments of nitralin to different parts of the shoot zone and observed its movement within the plants. The results of the study showed that the maximum uptake of 14C-labeled nitralin occurred through the coleoptilar node of sorghum and the hypocotyl hook of cucumber. The radioactivity levels peaked within 12 to 24 hours after application. When nitralin was applied to the coleoptilar node of sorghum, some radioactivity was extracted from the coleoptile tip after 12 hours. After 96 hours, the percentage of radioactivity in the plant material from the coleoptile segment and the coleoptilar node were almost equal. However, there was very little movement of nitralin from the coleoptilar node to other parts of the plant. In the case of cucumber, the highest extractable radioactivity was observed in the hypocotyl hook, while the lowest was observed in the hypocotyl. The cotyledon treatment with nitralin showed radioactivity levels equal to those of the hypocotyl hook treatment. Little translocation of nitralin was observed after application to the cotyledon or hypocotyl hook of cucumber."
+        }
+    ]
+}

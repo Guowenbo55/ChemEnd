@@ -1,0 +1,81 @@
+{
+    "_id": {
+        "$oid": "6682e936c4e5dba5ffba2979"
+    },
+    "CID": {
+        "$numberInt": "19649"
+    },
+    "Name": "Streptomycin",
+    "IUPACName": "2-[(1R,2R,3S,4R,5R,6S)-3-(diaminomethylideneamino)-4-[(2R,3R,4R,5S)-3-[(2S,3S,4S,5R,6S)-4,5-dihydroxy-6-(hydroxymethyl)-3-(methylamino)oxan-2-yl]oxy-4-formyl-4-hydroxy-5-methyloxolan-2-yl]oxy-2,5,6-trihydroxycyclohexyl]guanidine",
+    "CanonicalSMILES": "CC1C(C(C(O1)OC2C(C(C(C(C2O)O)N=C(N)N)O)N=C(N)N)OC3C(C(C(C(O3)CO)O)O)NC)(C=O)O",
+    "Synonyms": [
+        "streptomycin",
+        "57-92-1",
+        "Streptomycin A",
+        "Strepcen",
+        "Gerox",
+        "Streptomycine",
+        "Agrimycin",
+        "Agrept",
+        "Neodiestreptopab",
+        "Estreptomicina",
+        "Streptomicina",
+        "Streptomycinum",
+        "Streptomyzin",
+        "Hokko-mycin",
+        "CHEBI:17076"
+    ],
+    "IsomericSMILES": "C[C@H]1[C@@]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H]([C@@H]([C@H]2O)O)N=C(N)N)O)N=C(N)N)O[C@H]3[C@H]([C@@H]([C@H]([C@@H](O3)CO)O)O)NC)(C=O)O",
+    "INCHI": "InChI=1S/C21H39N7O12/c1-5-21(36,4-30)16(40-17-9(26-2)13(34)10(31)6(3-29)38-17)18(37-5)39-15-8(28-20(24)25)11(32)7(27-19(22)23)12(33)14(15)35/h4-18,26,29,31-36H,3H2,1-2H3,(H4,22,23,27)(H4,24,25,28)/t5-,6-,7+,8-,9-,10-,11+,12-,13-,14+,15+,16-,17-,18-,21+/m0/s1",
+    "INCHIKEY": "UCSJYZPVAKXKNQ-HZYVHMACSA-N",
+    "Formula": "C21H39N7O12",
+    "MolecularWeight": {
+        "$numberDouble": "581.6"
+    },
+    "Description": "Streptomycin is a amino cyclitol glycoside that consists of streptidine having a disaccharyl moiety attached at the 4-position. The parent of the streptomycin class It has a role as an antimicrobial agent, an antimicrobial drug, an antibacterial drug, a protein synthesis inhibitor, a bacterial metabolite and an antifungal agrochemical. It is an antibiotic antifungal drug, an antibiotic fungicide and a member of streptomycins. It is functionally related to a streptidine. It is a conjugate base of a streptomycin(3+).",
+    "XlogP": {
+        "$numberDouble": "-8"
+    },
+    "Complexity": {
+        "$numberInt": "940"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Feb 7, 2017: https://www2.epa.gov/tsca-screening-tools (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for streptomycin(SRC), using an estimated log Kow of -7.53(1) and a regression-derived equation(1). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Padula DJ et al; Chemosphere 86(7): 709-717 (2012) (2) Love DC et al; Environ Sci Technol 45: 7232-7240 (2011)",
+            "Value": "Streptomycin was tested for but not detected in Australian farmed yellowtail kingfish (Seriola lalandi) and mulloway (Argyrosomus hololepidotus), farmed in Arno Bay and Whyalla, Spencer Gulf, South Australia; detection limit = 0.1 mg/kg(1). Of the fish samples exceeding the European Union safety standards, streptomycin was present in less than 1% of fish violation samples reported by the European Union 2001-2008(2)."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Gilman, A.G., T.W. Rall, A.S. Nies and P. Taylor (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 8th ed. New York, NY. Pergamon Press, 1990., p. 1100",
+            "Value": "The primary intracellular site of action of the aminoglycosides is the 30 S ribosomal subunit, which consists of 21 proteins and a single 16 S molecule of RNA. at least three of these proteins and perhaps the 16 S ribosomal RNA as well contribute to the streptomycin binding site, and alterations of these molecules markedly affect the binding and subsequent action of streptomycin. For example, a single amino acid substitution of asparagine for lysine at position 42 of one ribosomal protein (S12) prevents binding of the drug; the resultant mutant is totally resistant to streptomycin. Another mutant, in which glutamine is the amino acid at this position, is dependent on streptomycin."
+        },
+        {
+            "References": "PMID:23322043",
+            "Value": "During protein synthesis, the ribosome selects aminoacyl-transfer RNAs with anticodons matching the messenger RNA codon present in the A site of the small ribosomal subunit. The aminoglycoside antibiotic streptomycin disrupts decoding by binding close to the site of codon recognition. Here we use X-ray crystallography to define the impact of streptomycin on the decoding site of the Thermus thermophilus 30S ribosomal subunit in complexes with cognate or near-cognate anticodon stem-loop analogues and messenger RNA. Our crystal structures display a significant local distortion of 16S ribosomal RNA induced by streptomycin, including the crucial bases A1492 and A1493 that participate directly in codon recognition. Consistent with kinetic data, we observe that streptomycin stabilizes the near-cognate anticodon stem-loop analogue complex, while destabilizing the cognate anticodon stem-loop analogue complex. These data reveal how streptomycin disrupts the recognition of cognate anticodon stem-loop analogues and yet improves recognition of a near-cognate anticodon stem-loop analogue."
+        },
+        {
+            "References": "PMID:25205267",
+            "Value": "The antibiotic streptomycin is widely used in the treatment of microbial infections. The primary mechanism of action is inhibition of translation by binding to the ribosome, ... .Early in the study of this antibiotic, a mysterious streptomycin-induced potassium efflux preceding any decrease in viability was observed; it was speculated that this changed the electrochemical gradient such that streptomycin better accessed the cytoplasm. Here we use a high-throughput screen to search for compounds targeting the mechanosensitive channel of large conductance (MscL) and find dihydrostreptomycin among the 'hits'. Furthermore, we find that MscL is not only necessary for the previously described streptomycin-induced potassium efflux, but also directly increases MscL activity in electrophysiological studies. The data suggest that gating MscL is a novel mode of action of dihydrostreptomycin, and that MscL's large pore may provide a mechanism for cell entry."
+        },
+        {
+            "References": "PMID:17657587",
+            "Value": "... Aminoglycosides are aminocyclitols that kill bacteria by inhibiting protein synthesis as they bind to the 16S rRNA and by disrupting the integrity of bacterial cell membrane. Aminoglycoside resistance mechanisms include: (a) the deactivation of aminoglycosides by N-acetylation, adenylylation or O-phosphorylation, (b) the reduction of the intracellular concentration of aminoglycosides by changes in outer membrane permeability, decreased inner membrane transport, active efflux, and drug trapping, (c) the alteration of the 30S ribosomal subunit target by mutation, and (d) methylation of the aminoglycoside binding site. ... /Aminoglycosides/"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Gavalchin J, Katz SE; J AOAC Inter 77(2): 481 (1994) (2) Goodman LS, Gilman A, eds; The Pharmacological Basis of Therapeutics. 5th ed. New York, NY: Macmillan Publishing Co., Inc., p. 1167 (1975) (3) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "Streptomycin is very water soluble and adsorbs strongly onto negatively charged clay soils. The compound, present at 6.6 ug/g, was not detected following incubation in a typical agricultural soil incorporated with chicken feces for 30 days at 30 \u00b0C, 20 \u00b0C and 4 \u00b0C. The soil a sandy loam from Adelphia NJ (sandy loam, pH 6.0, 16.3% clay, 60.0% sand, 23.7% silt) had no history of agricultural usage. Loss was atributed to complete adsorption by the clay fraction(1). This indicates that streptomycin is expected to be immobile in soil(SRC). Streptomycin is a highly polar organic base(2) indicating it will exist almost entirely in the cation form in the environment. Cations generally adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(3)."
+        }
+    ]
+}

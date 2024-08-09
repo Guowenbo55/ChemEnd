@@ -1,0 +1,243 @@
+{
+    "_id": {
+        "$oid": "6682e7dfc4e5dba5ffba22c6"
+    },
+    "CID": {
+        "$numberInt": "996"
+    },
+    "Name": "PHENOL",
+    "IUPACName": "phenol",
+    "CanonicalSMILES": "C1=CC=C(C=C1)O",
+    "Synonyms": [
+        "phenol",
+        "108-95-2",
+        "carbolic acid",
+        "Hydroxybenzene",
+        "Phenic acid",
+        "Oxybenzene",
+        "Benzenol",
+        "Phenylic acid",
+        "Phenylic alcohol",
+        "Monophenol",
+        "Phenyl hydrate",
+        "Phenyl hydroxide",
+        "PhOH",
+        "Monohydroxybenzene",
+        "Paoscle"
+    ],
+    "IsomericSMILES": "C1=CC=C(C=C1)O",
+    "INCHI": "InChI=1S/C6H6O/c7-6-4-2-1-3-5-6/h1-5,7H",
+    "INCHIKEY": "ISWSIDIOOBJBQZ-UHFFFAOYSA-N",
+    "Formula": "C6H6O",
+    "MolecularWeight": {
+        "$numberDouble": "94.11"
+    },
+    "Description": "Phenol is an organic hydroxy compound that consists of benzene bearing a single hydroxy substituent. The parent of the class of phenols. It has a role as a disinfectant, an antiseptic drug, a human xenobiotic metabolite and a mouse metabolite. It is a conjugate acid of a phenolate.",
+    "XlogP": {
+        "$numberDouble": "1.5"
+    },
+    "Complexity": {
+        "$numberInt": "46"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "animal_concentrations": [
+        {
+            "References": "(1) USEPA; pp. C-5 to C-6 in Ambient Water Quality Criteria Phenol USEPA 440/6-80-066 (PB 81-117772) (1980) (2) Lebedev AT et al; Sci Tot Environ 212: 153-62 (1998)",
+            "Value": "Phenol is a natural component of animal matter(1). Phenol concns (mg/kg) in various rabbit (n=6) tissues and wastes were: 0-0.7 (blood); 0 (CNS); 0-1.0 (kidney); 0-2.3 (lung); 0-1.6 (muscle); 0-1.6 (G.I. tract, including contents); 0-0.3 (heart, spleen, thymus, testes, adrenals); 0-3.9 (urine, 24 hr volume); 0.4-5.3 (feces, 24 hr volume)(1). Eggs (white and yolk combined) of 15 bird species were collected in the Lake Baikal region (Selenga river estuary) in Russia(2). Phenol concns ranged from <20 (Gallus gallus, domestic fowl) to 840 (Podiceps auritus, Slavonian grebe) ug/kg dry weight(2)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Freitag D et al; p. 119 in QSAR Environ Toxicol Proc Workshop Quant Struct-Act Relat. Kaiser KLE, ed. Netherlands: Reidel (1984) (2) Kobayashi K et al; Bull Jap Soc Sci Fish 45: 173-5 (1979) (3) Nendza M; pp. 43-66 in Bioaccumulation Aquat Sys Proc Int Workshop, 1990, Nagel R & Loskill R eds, VCH: Weinheim, Germany (1990) (4) Loehr RC, Krishnamoorthy R; Haz Waste Haz Mat 5: 109-19 (1988) (5) Dauble DD et al; Bull Environ Contam Toxicol 37: 125-32 (1986) (6) Nagel R, Urich K; Bull Environ Contam Toxicol 24: 374-8 (1980) (7) Call DJ et al; Arch Environ Contam Toxicol 9: 699-714 (1980) (8) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "The BCFs reported in fish include: Goldorfe, 20 (1); goldfish, (Carassius auratus), 1.9(2); fish (unspecified), 17(3); fish (unspecified), 1.7(4); and 39, rainbow trout (Salmo gairdneri) (5). Phenol was rapidly eliminated from goldfish(6) and therefore would be unlikely to bioaccumulate(SRC). When U-14C-phenol was interperitonially administered to goldfish, the concn decreased to one tenth the initial concn in 2 hr(6). A BCF of 15,800 was reported in fathead minnows using 14C labeled phenol(7). Minor amounts of 14C in tissues were present as parent compound after 28 days of exposure to radiolabeled phenol(7). Parent compound comprised 1.5% of total 14C as phenol after 28 days of depuration(7). According to a classification scheme(8), reported BCF values and the rapid elimination of phenol suggests that bioaccumulation of phenol is unlikely(SRC). According to a classification scheme, BCF values <30 are low and from 100 or greater are high(8)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Biodegradation and bioaccumulation data of existing chemicals based on the CSCL Japan. Japan Chemical Industry Ecology-Toxicology and Information Center p. 3-46, ISBN 4-89074-101-1 (1992) (2) Alexander M, Lustigman BK; J Agric Food Chem 14: 410-3 (1966) (3) Baird RB et al; Arch Environ Contam Toxicol 2: 165-78 (1974) (4) Meyer JS et al; Environ Toxicol Chem 3: 583-7 (1984) (5) Price KS et al; J Water Pollut Contr Fed 46: 63-77 (1974) (6) Yonezawa Y et al; Kogai Shigen Kenkyusho Iho 15: 75-86 (1985) (7) Deeley GM et al; Appl Environ Microbiol 49: 867-9 (1985) (8) Heukelekian H, Rand MC; J Water Pollut Contr Assoc 29: 1040-53 (1955) (9) Callahan MA et al; Water-Related Fate of 129 Priority Pollutants Vol II Chap 83 USEPA-440/4-79-029B (1979)",
+            "Value": "AEROBIC: Phenol is a benchmark chemical in screening tests and there is abundant data to indicate that phenol biodegrades fast in aerobic screening tests using a variety of techniques and inocula, including acclimated and unacclimated activated sludge, sewage, and soil(SRC). Only selected results are included here (SRC). In a 2-week biodegradation screening test (MITI test) using phenol (100 mg/l) and an activated sludge inoculum, 85% of theoretical BOD was removed(1). Phenol was completely removed in 1 day or less using a soil suspension(2) or activated sludge inocula(3,6). Complete degradation was observed in 4 days using sediment from an oil refinery settling pond as an inoculum(4). It was shown that the presence of aromatic compounds like benzene and naphthalene had a mild inhibitory effect on degradation(4). In five days, the BOD consumed was 90% and 50% of theoretical using a sewage inoculum and freshwater and seawater, respectively(5). Another investigator who obtained 80% of theoretical BOD consumed after 5 days demonstrated that adaptation of the inoculum has a marked effect on the biodegradation rate(8). Decreasing the concn of phenol significantly reduces the lag time required to initiate degradation and increases the removal rate(9). The maximum mineralization rates of phenol in sewage and landfill leachate were 6.5X10-4 and 2.7X10-4 hr-1, respectively(7). A lag period was observed in landfill leachate(7)."
+        },
+        {
+            "References": "(1) McKinney RE et al; Sew Ind Wastes 28: 547-57 (1956) (2) Stratton RG et al; J Am Water Works Assoc 75: 463-9 (1983) (3) Stover EL, Kincannon DF; J Water Pollut Control Fed 55: 97-109 (1983) (4) Davis EM et al; Water Res 15: 1125-7 (1981) (5) Rizet M et al; Prog Water Technol 9: 203-15 (1977) (6) Mills RE; Can J Chem Eng 37: 117-83 (1959) (7) Canviro Consultants; Thirty seven municipal water pollution control plants, pilot monitoring study, Vol 1. Interim report, Ontario Ministry of the Environment, Water Resources Branch, ISBN 0-7729-4900-X (1988)",
+            "Value": "Phenol readily biodegrades in biological treatment plants; removals in an aerobic activated sludge reactor (retention time of 8 hr)(3) and a continuous reactor(6) was close to 100%. Partial inhibition has been noted at concns as low as 50 ppm in aerobic reactors using industrial wastewater seed and activated sludge seed(4). In a semi-continuous activated sludge (SCAS) test with phenol, 39% of theoretical BOD was consumed in 12 hr(1). The COD reduction ranged from 60-99% in a test using a biofilm reactor with a 0.9 hr retention time(2). Phenol was also completely removed in an artificial recharge pilot plant(5). In a monitoring study of 37 water pollution control plants in Ontario, Canada, the concn of phenol was markedly reduced both in number of detections and concn after more progressive stages of treatment (i.e, primary, secondary, tertiary)(7)."
+        },
+        {
+            "References": "(1) Lee RF, Ryan C; Microbial Degradation of Pollutants in Marine Environments. USEPA-600/9-79-012 pp. 443-50 (1979) (2) Peters GT, Cowell FS; Hydrobiologia 174: 79-87 (1989) (3) Rubin HE, Alexander M; Environ Sci Tech 17: 104-7 (1983) (4) Ludzack FJ, Ettinger MB; J Water Pollut Control Fed 32: 1173-200 (1960)",
+            "Value": "Phenol completely mineralized in <1 day in water from 3 lakes; rates increase with increasing concns of phenol and the organic content of the water (e.g., degraded faster in an eutrophic lake than an oligotropic one(3). It was completely removed in river water after 2 days at 20 \u00b0C and after 4 days at 4 \u00b0C(4). Degradation is slower in salt water; the degradation rate in the estuarine Skidway River, GA was 0.079 hr-1 (half-life 9 days)(1). Laboratory tests were conducted to ascertain the seasonal mineralization of trace levels of 14C-phenol by heterotrophic microorganisms in seston and surface sediment at four sites in southwestern Virginia(2). The mean turnover rates for the four sites between April and May 1986 at 10 \u00b0C were 0.015, 0.023, 0.023, and 0.064 mg/hr sediment ash-free dry wt (AFDW)(2). Mineralization reached a maximum of 1.21X10-4 to 1.16X10-3 mg phenol mineralized/mg AFDW-hr in October, an increase of 92-625% for seston samples and 46-128% for sediment samples over baseline August levels, despite decreasing stream temperatures(2). This autumnal peak in phenol degradation is attributed to the pulsed input of allochthonous detritus, especially leaf litter which contains substantial quantities of phenol and related compounds(2)."
+        },
+        {
+            "References": "(1) Haider K et al; Arch Microbiol 96: 183-200 (1974) (2) Scott HD et al; J Environ Qual 12: 91-5 (1983) (3) Shiu WY et al; Chemosphere 29: 1155-24 (1994) (4) Medvedev V et al; Pochvovedenie 6: 128-31 (1975) (5) Baker MD, Mayfield CI; Water Air Soil Pollut 13: 411 (1980) (6) Konopka A, Turco R; Appl Environ Microbiol 57: 2260-68 (1991)",
+            "Value": "Phenol degradation in soil is completed in 2-5 days, even in subsurface soils(5). The percent mineralization in an alkaline, para-brown soil under aerobic conditions was 45.5%, 48%, and 65% after 3, 7, and 70 days, respectively(1). Half-lives for degr of low concn of phenol in Captina (pH 5.7, 1.1% organic matter) and Palouse silt loam (pH 5.7, 3.6% organic matter) soils were 2.70 and 3.51 hrs(2). Its disappearance from a Chernozem soil increased from 10 to 110 days as the concn of phenol increased from 1000 to 9000 ppm(4). The biodegradation half-life in acidic and basic soil has been reported to be 552 and 98.4 hr, respectively(3). The biodegradation of phenol in subsurface under a typical Midwest agricultural soil was studied by determining rates in strata of a 26-m bore(6). Phenol biodegraded rapidly (within 0-1 day) in samples from the aquifer capillary fringe, saturated zone, and surface soil; lag periods and lower rates were found in till samples(6). The half-lives and lag times were (sample, half-life, lag): surface layers (<2 m) 2.8-4.6 days, 0-1 day lag; aquifer (>23 m), 1.0-3.5 days, 0 days lag; till (12 m), 116 days, 16 day lag; subsoil (8 m), 21 days, 2 day lag(6)."
+        },
+        {
+            "References": "(1) Battersby NS, Wilson V; Appl Environ Microbiol 55: 433-9 (1989) (2) Healy JB Jr, Young LY; Food Microbiol Toxicol 35: 216-8 (1978) (3) Boyd SA et al; Appl Environ Microbiol 46: 50-4 (1983) (4) Horowitz A et al; Dev Ind Microbiol 23: 435-44 (1982)",
+            "Value": "Phenol completely biodegraded in a test to determine its anaerobic biodegradation potential under methanogenic conditions(1). Gas production increased rapidly after a 6 day lag period(1). The laboratory test was performed at 35 \u00b0C in serum bottles using an anaerobic digester sludge inoculum in which total gas production was measured over at least a 60 day period(1). Sterile controls were used to correct for abiotic gas production(1). Another investigator obtained 100% degradation in 28 days with an 18 day lag; on redose, complete degradation was obtained in 10 days with no lag(2). In 14 days, 100, 91, and 99% mineralization of phenol was obtained on incubation with 3 digester sludges(3,4)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Nicola RM; J Environ Health 49: 342-7 (1987) (2) Camanzo J et al; J Great Lakes Res 13: 296-309 (1987) (3) Morales A et al; Water Environ Res 64: 669-81 (1992) (4) Gosset, RW et al; pp. 29-37 in Coastal Waters Res Project Biennial Report for the Years 1981-1982. Bascom W, ed, Long Beach CA: Southern Calif Coastal Water Res Project (1983)",
+            "Value": "The USEPA caught bottomfish from 4 sites along Commencement Bay, Tacoma, WA, and edible portions of the fish were analyzed for priority pollutants, heavy metals, and pesticides(1). The highest mean level of phenol was 0.1415 ppm (Point Defiance), and the highest level was 0.22 ppm(1). In a 1983 survey of composite, nearshore whole fish samples collected from 13 Lake Michigan tributaries and Grand Traverse Bay (2 species from each site), phenol was only detected in common carp (0.16 ppm) and channel catfish (0.06 ppm) from Grand River, common carp (0.02 ppm) from Muskegon River, and common carp (0.09 ppm) from Pere Marquette River(2). In northern Alberta in a region near a pulp mill, phenol was not detected (detection limit 0.03 ppm) in 22 fish (muscle) collected in the summer and fall of 1990(3). Phenol concns (wet weight) in white croaker samples from southern California were 42 ug/kg (White Point), 96 ug/kg (Santa Monica Bay), 100 ug/kg (Belmont Pier), 116 ug/kg (Cabrillo Pier) and 231 ug/kg (Orange County)(4). Phenol was the only compound present above the GC/MS detection limit(4)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 20",
+            "Value": "Log Kow = 1.46"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:3975240",
+            "Value": "The effects of monoamine depletors and monoamine denervators on phenol induced tremor were studied in mice. The tremor induced by phenol was enhanced by pretreatment with reserpine or tetrabenazine, but not with syrosingopine. However, alpha-methyl-p-tyrosine, p-chlorophenylalanine or 6-hydroxydopamine did not affect the tremor. These results suggest that the depletion of central monoamines as a whole contribute to the enhancement of the tremor induced by phenol."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "O'Donoghue JL; Phenol and Related Substances. In: Neurotoxicity of Industrial and Commercial Chemicals CRC Press pp. 739-53 (1985)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Inhalation of phenol was related to stimulation of central nervous system, followed by severe depression. Exposure of animals to phenol resulted in paralysis in some animal species, but not in others."
+        },
+        {
+            "References": "Humphreys, D.J. Veterinary Toxicology. 3rd ed. London, England: Bailliere Tindell, 1988., p. 205",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Poisoning from prep containing phenol is occasionally seen in domestic animals, but especially in cats."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 720",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Glaucoma has been induced experimentally in rabbits by injecting 5% phenol in almond oil subconjunctivally in all four quadrants."
+        },
+        {
+            "References": "USEPA; Ambient Water Quality Criteria Doc: Phenol p.C-23-6 (1980) EPA 440/5-80-066",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In animals, the pathological changes produced by phenol vary with the route of absorption, vehicle employed, concentration, and duration of exposure. Local skin disorders include eczema, inflammation, discoloration, papillomas, necrosis, sloughing, and gangrene. After oral ingestion, the mucous membranes of the throat and esophagus may show swelling, corrosions, and necrosis, with hemorrhage and serous infiltration of the surrounding areas. In severe intoxication, the lungs may show hyperemia, infarcts, bronchopneumonia, purulent bronchitis, and hyperplasia of the peribronchial tissues. Myocardial degeneration and necrosis can be present. The hepatic cells may be enlarged, pale, and coarsely granular with swollen fragmented and pyknotic nuclei. Prolonged administration of phenol may cause parenchymatous nephritis, hyperemia, edema of the convoluted tubules, and degenerative changes of the glomeruli. Blood cells become hyaline, with granules. Marked striation of the muscle fibers is also seen."
+        },
+        {
+            "References": "PMID:6833829",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  In Sprague-Dawley rats, 1/2 of the animals became deeply comatose with 540 uM of ip phenol and 100% with 600 uM. Five stages of encephalopathy were readily distinguished with symptoms of increased and decreased muscle tonus, righting reflex, and body tremor until recovery or death of animals."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 720",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ On rabbit eyes, crystalline or concn aq phenol causees almost instantaneous white opacification of the corneal epithelium. Eight hr after application the cornea is anesthetic, the surface ulcerated, and the stroma opaque. In 5 wk there is entropion, scarring of the conjunctiva, and opacity of the cornea."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the Threshold Limit Values and Biological Exposure Indices. 5th ed. Cincinnati, OH: American Conference of Governmental Industrial Hygienists, 1986., p. 469",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ...Guinea pigs were severely injured due to inhalation for 20 days of phenol vapor at concentrations of from 25 to 50 ppm. Post mortem evidence of acute toxicity to lung, heart, liver, and kidneys was found."
+        },
+        {
+            "References": "Gossel, T.A., J.D. Bricker. Principles of Clinical Toxicology. 3rd ed. New York, NY: Raven Press, Ltd., 1994., p. 222",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Death immediately after poisoning usually occurs from respiratory depression."
+        },
+        {
+            "References": "PMID:10914530",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  Three adult dogs were evaluated following oral admin of phenol by the owner. All three dogs experienced severe oral and gastric ulceration. Hematological abnormalities included neutropenia with the presence of toxic neutrophils, thrombocytopenia, and increased muscle enzymes. Endoscopic exam was performed, and biopsies yielded a diagnosis of gastric mucosal necrosis in two of the dogs. Following supportive care, the dogs recovered completely. Phenol is a caustic, highly poisonous derivative of coal tar. The dogs of this report were poisoned inadvertently by their owner who received misinformation concerning the use of this chemical via the Internet."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 392",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  At high bolus doses in rats, phenol causes a characteristic muscular twitching behavior; this has been characterized as a neuromuscular effect, and is readily reversible when blood levels of free phenol decr below about 3 ug/ml."
+        },
+        {
+            "References": "Humphreys, D.J. Veterinary Toxicology. 3rd ed. London, England: Bailliere Tindell, 1988., p. 206",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ A dog bathed in a phenolic disinfectant developed signs including an anorexia, excessive salivation, muscular twitching, vomiting, cutaneous erythema, pruritis and necrosis and a rectal temperature of 40.0 \u00b0C. Topical and parenteral antibiotic treatment resulted in recovery within one week."
+        },
+        {
+            "References": "Humphreys, D.J. Veterinary Toxicology. 3rd ed. London, England: Bailliere Tindell, 1988., p. 205",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The post-mortem changes associated with ingestion of phenol or cresol are those that would be expected following exposure to any extremely irritant and corrosive poison."
+        },
+        {
+            "References": "PMID:11288933",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ The toxicity of phenol vapor was evaluated in male and female Fischer 344 rats (20/sex/group) via flow-past nose-only inhalation exposure. The test animals were exposed to target concns of 0 (air control), 0.5, 5.0, or 25 ppm of phenol in air for 6 hr/day, 5 days/wk, for 2 weeks. High pressure liquid chromatography (HPLC) measurement of phenol test atmospheres determined mean (+/- standard deviation) analytical concns of 0.0 +/- 0.0, 0.52 +/- 0.078, 4.9 +/- 0.57, and 25 +/- 2.2 ppm, respectively. After 2 weeks of exposure, 10 test animals/sex/group were sampled for clinical chemistry and hematology parameters, and then sacrificed. Histopathological exam included the nasopharyngeal tissues, larynx, trachea, lungs with mainstem bronchi, kidney, liver, and spleen. The remaining 10 animals/sex/group were retained for a 2-wk recovery period. Recovery groups of animals were evaluated as described previously and then sacrificed. No signs of toxicity in clinical observations (including overt neurological signs), body weights, food consumption, clinical pathology, organ weights, macroscopic pathology or microscopic pathology were seen during the exposures or at either sacrifice interval. In conclusion, 2-wk inhalation exposures to phenol vapor at concns up to and including 25 ppm did not produce any adverse effects."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 388",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rats were exposed to 100 mg/cu m (25 ppm) phenol vapors continuously for 15 days. Numerous signs of neurological impairment, including muscle twitching and disturbed walking rhythm and posture, were noted after 3-5 days, although these effects were reversible. There was also clinical chemical evidence of liver damage."
+        },
+        {
+            "References": "Bioassay of Phenol for Possible Carcinogenicity (1980) Technical Rpt Series No. 203 DHEW Pub No. (NIH) 80-#1759, U.S. Department of Health Education and Welfare, National Cancer Institute, Bethesda, MD 20014",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ ... Under the conditions of this bioassay, phenol was not carcinogenic for either male or female F344 rats or male and female B6C3F1 mice. Levels of Evidence of Carcinogenicity: Male Rats: Negative; Female Rats: Negative; Male Mice: Negative; Female Mice: Negative."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 1",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ ... Phenol was administered to rats or mice at 0, 2500, or 5000 ppm in drinking water for 103 weeks. An increased incidence of leukemia and lymphomas was detected only in the low dose male rats."
+        },
+        {
+            "References": "USEPA; Ambient Water Quality Criteria Doc: Phenol p.32 (1980) EPA 440/5-80-066",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ The S strain albino mice showed strong promoting activity for tumor formation after initiation with 0.3 mg 9,10-dimethyl-1,2-benzanthracene (DMBA) followed by repeated skin applications of 20% phenol. 20% phenol soln produced significant damage to the skin and was weakly carcinogenic when applied alone. Phenol in a 5% soln had moderate promoting activity, but was not carcinogenic without previous initiation."
+        },
+        {
+            "References": "USEPA; Ambient Water Quality Criteria Doc: Phenol p.31 (1980) EPA 440/5-80-066",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Following initiation with 9,10-dimethyl-1-2,-benzanthracene (DMBA) and promotion by croton oil through skin painting, mice received 2 wk dermal applications of 2.5 mg phenol (as a 10% solution in benzene). Mice exhibited severe skin damage, decreased body weight and increased mortality. After 13 weeks, 22/23 mice had developed papillomas, and 13% had carcinomas of the skin. In mice treated with DMBA only, 3/21 survivors exhibited papillomas after 42 weeks. Through skin painting with 10% phenol, 5/14 survivors (36%) had papillomas after 52 weeks. In this group, skin painting was continued to 72 weeks at which time one fibrosarcoma was diagnosed."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 391",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Several studies of promotional effects of phenol on polycyclic hydrocarbon-induced skin carcinogenesis showed slight promotional effect. For example, papillomas, but not carcinomas, were observed on the skin of mice dosed repeatedly with 20% phenol in acetone, and none with 5% phenol, for 32 weeks. However, prior treatment with 7,12-dimethylbenzanthracene (DMBA) followed by phenol treatment caused a dose-related incr in malignant tumors. The 20% soln caused ulceration and scarring of the skin; the 5% soln caused slight transient crusting. ... /It was concluded/ that phenol at ulcerative concns promoted tumor development of known mouse skin carcinogens."
+        },
+        {
+            "References": "PMID:11488554",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ This study evaluated the potential reproductive toxicity of phenol in a rat two-generation reproduction study, which included additional study endpoints, such as sperm count and motility, developmental landmarks, histological evaluation of suspect target organs (liver, kidneys, spleen, and thymus), weanling reproductive organ weights, and an immunotoxicity screening plaque assay. Phenol was administered to 30 Sprague-Dawley rats/sex/group in the drinking water at concns of 0, 200, 1,000, or 5,000 ppm. Parental (P1) animals were treated for 10 weeks prior to mating, during mating, gestation, lactation, and until sacrifice. The F1 generation (P1 offspring) was treated using a similar regimen, while the F2 generation was not treated. After mating, 10 P1 males/group were evaluated using standard clinical pathology parameters and an immunotoxicity screening plaque assay. Significant reductions in water and food consumption were observed in the 5,000-ppm group in both generations; corollary reductions in body weight/body weight gain were also observed. Mating performance and fertility in both generations were similar to controls, and no adverse effects on vaginal cytology or male reproductive function were observed. Vaginal opening and preputial separation were delayed in the 5,000-ppm group, and were considered to be secondary to the reduction in F1 body weight. Litter survival of both generations was reduced in the 5,000-ppm group. Absolute uterus and prostate weights were decreased in the F1 generation at all dose levels; however, no underlying pathology was observed and there was no functional deficit in reproductive performance. Therefore, these findings were not considered to be adverse. No evidence of immunotoxicity was noted in the 5,000-ppm group. The effects noted at the high concn were presumed to be associated with flavor aversion to phenol in the drinking water. Based on a comprehensive exam of all parameters, the no-observable-adverse-effect level (NOAEL) for reproductive toxicity of phenol administered in drinking water to rats is 1,000 ppm. The corresponding daily intake of phenol for an adult rat at the NOAEL of 1,000 ppm is equivalent to about 70 mg/kg/day for males and 93 mg/kg/day for females."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 390",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ The weight of evidence indicates that phenol is not a developmental toxicant, except perhaps at maternally toxic concns. ... In a ... study conducted in the Swiss albino (CD1) mice, doses of 140 or 280 mg/kg were administered daily by gavage through days 6-15 of gestation. There were no effects at the middle dose, but the high dose was both maternally toxic (11%, tremors, ataxia, decreased body weight gain) and developmentally toxic (20% decr in fetal body weight; slight incr in cleft palate from 0-4%)."
+        },
+        {
+            "References": "Shepard, T.H. Catalog of Teratogenic Agents. 5th ed. Baltimore, MD: The Johns Hopkins University Press, 1986., p. 448",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ...Rats /were injected/ ip on days 8-10 or 11-15 /of gestation/ with up to 200 mg/kg. No adverse fetal effects were observed."
+        },
+        {
+            "References": "PMID:8622729",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/  ...The purpose of this study was to examine the time course of denervation and recovery in several hindlimb muscles following application of a 5% aq soln of phenol to the sciatic nerve. Phenol was applied to the sciatic nerve of adult female rats either by intraneural or perineural injection. Axonal degeneration was evident within the sciatic nerve 2 days following phenol application, although variable amounts of damage were observed. By 2 weeks, the soleus and tibialis anterior had atrophied to 63% and 51% of control. Reinnervation of hindlimb muscles occurred between 2 and 4 weeks following the nerve block. Following denervation, the soleus became slower in that all of the fibers expressed the slow myosin heavy chain (MHC). At 5 months, maximum tension of the soleus was 74% of control and the muscle consisted of more fast fibers on average, some of which expressed IIx MHC. These data suggest that 5% phenol causes an injury to the nerve that is more severe than a crush injury, and that reinnervation of denervated muscles may be by motoneurons other than those that originally innervated the muscles."
+        },
+        {
+            "References": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. III-344",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ ...Sometimes there is only mild pain or discomfort because phenol demyelinates or otherwise destroys many types of nerve fibers."
+        },
+        {
+            "References": "NIOSH; Criteria Document: Phenol p.62 (1976) DHEW Pub NIOSH 76-196",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Excessive doses of phenol in animals have been shown to depress the vasomotor center of the brain producing motor disturbances and blood changes of sufficient magnitude to induce cardiac arrest, respiratory failure, and coma followed by death."
+        },
+        {
+            "References": "PMID:2336068",
+            "Value": "/GENOTOXICITY/ Possible interactions between hydroquinone (HQ) and phenol (PHE), 2 known benzene metabolites, in inducing micronuclei in mouse bone marrow cells were investigated. HQ and PHE administered alone gave weak and negative results, respectively, at the doses tested. However, simultaneous admin of both compounds caused a considerable incr in the induction of micronuclei as well as an incr in bone marrow toxicity. Using 3 different statistical methods, it was shown that the observed joint effect was significantly higher than additive interaction, and was close to multiplicative interaction. These findings bring further support to the hypothesis that the toxic and genotoxic effects of benzene are produced by several metabolites acting synergistically."
+        },
+        {
+            "References": "NTP; Fiscal Year 1987 Annual Plan p.82 (1987) NTP-87-001",
+            "Value": "/GENOTOXICITY/ Phenol tested positive for mutagenicity in L5178Y Mouse Lymphoma cells."
+        },
+        {
+            "References": "PMID:3930237",
+            "Value": "/GENOTOXICITY/ Phenol was evaluated for the induction of sex-linked recessive lethal mutations in Drosophila melanogaster by the National Toxicology Program. Canton-S wild-type males were treated with concentrations of phenol that result in approximately 30% mortality. Following treatment, males were mated individually to 3 harems of Basc virgin females to produce 3 broods for analysis. The concentrations of phenol tested by injection (5250 ppm) or feeding (2000 ppm) were negative in this assay."
+        },
+        {
+            "References": "Cleland, J.G., G.L. Kingsbury. Multimedia Environmental Goals for Environmental Assessment. Volume 1. EPA-600/7-77-136a. Research Triangle Park, NC: EPA, Nov. 1977., p. E-182",
+            "Value": "/GENOTOXICITY/ Experiments with Drosophila have shown phenol to be highly mutagenic."
+        },
+        {
+            "References": "PMID:3930957",
+            "Value": "/GENOTOXICITY/ ... Phenol is metabolized to DNA reactants at a low rate by human lymphocytes; the addition of S9 amplifies the rate of metabolism."
+        },
+        {
+            "References": "Sheftel, V.O.; Indirect Food Additives and Polymers. Migration and Toxicology. Lewis Publishers, Boca Raton, FL. 2000., p. 135",
+            "Value": "/GENOTOXICITY/ Phenol induced /sister chromatid exchanges/ and mutations in cultured human cells. Positive results were noted in mouse lymphoma cells test. Phenol showed weak capability to induce micronuclei in bone marrow cells of pregnant mice and, transplacentally, in fetal liver cells. it did not produce DNA damage in cultured animal cells. Phenol was negative in Salmonella mutagenicity assay."
+        },
+        {
+            "References": "PMID:6484990",
+            "Value": "/ALTERNATIVE IN VITRO TESTS/ Male B6C3F1 mouse bone marrow adherent stromal cells were plated at 4X10+6 cells per 2 ml of DMEM medium in 35 mm tissue culture dishes. The growing stromal cell cultures were exposed to log 2 doses of phenol for 7 days. The doses which caused a 50% decrease in colony formation (TD50) was 190x10-6 M for phenol."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Webber MD, Wang C; Can J Soil Sci 75: 513-24 (1995)",
+            "Value": "SOIL: Phenol concns in 21 Canadian agricultural soils exceeded the 0.02 mg/kg dry weight detection limit, and in 5 soils phenol concns exceeded 0.15 mg/kg dry weight(1). No samples exceeded 1 mg/kg dry weight(1)."
+        },
+        {
+            "References": "(1) Konasewich D et al; Status Report on Organic and Heavy Metal Contaminants in Lakes Erie, Michigan, Huron and Superior Basins. Great Lake Water Quality Board (1978) (2) Jungclaus GA et al; Environ Sci Technol 12: 88-96 (1978) (3) Staples CA et al; Environ Toxicol Chem 4: 131-42 (1985) (4) Gossett RW et al; Marine Pollut Bull 14: 387-92 (1983) (5) Morales A et al; Water Environ Res 64: 669-81 (1992) (6) Lopes TJ, Furlong ET; Environ Toxicol Chem 20: 727-37 (2001)",
+            "Value": "SEDIMENT: From the EPA STORET database, of 318 data points, 9% were positive for phenol, with <1000 ppb median concn (dry weight)(3). Phenol concentration in sediment from Lake Huron was 13 ppm(1). Phenol was not detected in an unspecified industrial river in U.S. that is in an area of a speciality chemicals manufacturing plant(2). Sediment collected 6 km northwest of the Los Angeles county wastewater treatment plant discharge zone at Palos Verdes, CA had a phenol concentration of 10 ppb dry weight(4). Phenol concns in a northern Alberta region near a pulp mill, collected in fall and summer of 1990 (20 samples) ranged from not detected to 0.5 ppm (detection limit 0.08 ppm)(5). The occurrence of select semivolatile organic compounds in streambed sediment were assessed at 536 sites in 20 major river basins across the U.S. from 1992-1995(6). Phenol was found in 10.1% of the sites studied, and concns at the 75th, 90th, and 95th percentiles were <50, 50 and 100 ug/kg dry weight(6). The maximum phenol concentration was 210 ug/kg dry weight(6)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Artiola-Fortuny J, Fuller WH; Soil Sci 133: 18-26 (1982) (2) Scott HD et al; J Environ Qual 12: 91-5 (1983) (3) Ehrlich GG et al; Groundwater 20: 703-10 (1982) (4) Swann RL et al; Res Rev 85: 17-28 (1983) (5) Laquer FC, Manahan SE; Chemosphere 16: 1431-45 (1987) (6) Briggs GG; J Agric Food Chem 29: 1050-9 (1981) (7) Boyd SA et al; Appl Environ Microbiol 46: 50-4 (1983) (8) Luh MD, Baker RA; pp. 534-42 in Proc 25th Ind Waste Conf Purdue Univ (1970) (9) Lide DR, ed; CRC Handbook of Chemistry and Physics. 81st Ed. Boca Raton, FL: CRC Press LLC, p. 5-89 (2000) (10) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "Phenol is reported to have low adsorptivity to clay soils and silt loam(1) and no adsorption to aquifer material(3) and montmorillonite and kaolinite clays(8). The Koc for phenol to a Batcombe silt loam soil (pH 6.7, organic carbon 2.51%) was 30(6). It was 16 for a Brookstone clay loam (pH 5.7, organic matter 5.1%) and varied with pH and iron content of the soil(7). The Freundlich K and (1/N) for phenol in Captina (pH 5.7, 1.1 % organic matter) and Palouse silt loam (pH 5.7, 3.6% organic matter) soils were 0.58 (1.15) and 0.81 (1.00)(2); the Koc values for these soils are 91 and 39(SRC). Based on the reported Koc values, phenol would be expected to generally exhibit very high mobility in soil, based on a classification scheme(4). In a study of the adsorption of phenol onto siltstone associated with a Wyoming coal deposit suitable for in situ gasification, the pH of the solution was the major controlling factor with adsorption occurring at pH's below the pKa of phenol and no adsorption occurring at pH's above the pKa(5). The log of the Freundlich K value was approximately -4(5). Therefore, phenol may be transported by groundwater near in situ coal gasification sites due to the elevated pH's at these sites after gasification(5). The pKa of phenol is 9.99(9), indicating that it will be partially dissociated at the upper end of environmental pH range and its mobility may be pH dependent(SRC). In general, anions generally do not adsorb to organic carbon and clay as strongly as their neutral counterparts(10)."
+        }
+    ]
+}

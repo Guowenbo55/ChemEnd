@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "669270ed303528b49832d73a"
+    },
+    "CID": {
+        "$numberInt": "3034378"
+    },
+    "Name": "Benfuresate",
+    "IUPACName": "(3,3-dimethyl-2H-1-benzofuran-5-yl) ethanesulfonate",
+    "CanonicalSMILES": "CCS(=O)(=O)OC1=CC2=C(C=C1)OCC2(C)C",
+    "Synonyms": [
+        "Benfuresate",
+        "68505-69-1",
+        "Benfuresate [ISO]",
+        "2,3-Dihydro-3,3-dimethyl-5-benzofurylethanesulphonate",
+        "3,3-Dimethyl-2,3-dihydrobenzofuran-5-yl ethanesulfonate",
+        "5-ethylsulfonyloxy-3,3-dimethyl-2H-benzofuran",
+        "(3,3-dimethyl-2H-1-benzofuran-5-yl) ethanesulfonate",
+        "CHEBI:81756",
+        "5E3V59Y698",
+        "Cyperal",
+        "Benfuresate 100 microg/mL in Acetonitrile",
+        "Ethanesulfonic acid",
+        "2,3-dihydro-3,3-dimethyl-5-benzofuranyl ester",
+        "3,3-dimethyl-2,3-dihydro-1-benzofuran-5-yl ethane-1-sulfonate",
+        "EINECS 270-925-4",
+        "NC 20484"
+    ],
+    "IsomericSMILES": "CCS(=O)(=O)OC1=CC2=C(C=C1)OCC2(C)C",
+    "INCHI": "InChI=1S/C12H16O4S/c1-4-17(13,14)16-9-5-6-11-10(7-9)12(2,3)8-15-11/h5-7H,4,8H2,1-3H3",
+    "INCHIKEY": "QGQSRQPXXMTJCM-UHFFFAOYSA-N",
+    "Formula": "C12H16O4S",
+    "MolecularWeight": {
+        "$numberDouble": "256.32"
+    },
+    "Description": "Benfuresate is a member of benzofurans.",
+    "XlogP": {
+        "$numberDouble": "2.7"
+    },
+    "Complexity": {
+        "$numberInt": "369"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Benfuresate is a selective herbicide for control of purple nutsedge in cotton. Under outdoor conditions, young purple nutsedge shoots were highly sensitive to benfuresate incorporated into soil for up to eight days after initiation of shoot sprouting from the tuber, while older seedlings recovered from the damage and roots were less sensitive during this period of susceptibility. When applied directly to developing apical buds on the tuber, benfuresate caused severe damage to the treated bud and induced abrupt development of axillary buds, with negligible translocation to other buds or roots. Application to fully developed leaves had no effect, likely due to rapid metabolism and low basipetal mobility of the herbicide. Tubers also absorbed herbicide vapors. Root uptake of 14C-benfuresate resulted in rapid accumulation in the shoot, which had no phytotoxic effect regardless of concentration as the herbicide is rapidly converted to a non-toxic polar product. These results explain susceptibility at early growth stages and lack of sensitivity in mature plants. When applied to nutrient solution at concentrations up to 10-4 M, benfuresate did not affect purple nutsedge development. After one day in 10 \u03bcM 14C-benfuresate solution, 20% was taken up and distributed within the plant, with labeled radioactivity translocating from roots to shoot over 48 hours in herbicide-free solution, also present in untreated tubers, indicating partial route between roots and shoot. Insufficient uptake or translocation do not explain tolerance.",
+            "reference": "FISHLER, A., CASELEY, J. C., VARSANO, R., NEGBI, M., & RUBIN, B. (2006). Factors affecting benfuresate activity against purple nutsedge (Cyperus rotundas L.). Weed Research, 35(4), 279\u2013287. doi:10.1111/j.1365-3180.1995.tb01790.x\u00a0",
+            "method": {
+                "Test Plant": "Purple nutsedge (Cyperus rotundus L.)",
+                "Apply Location": "Root application.",
+                "Plant Grown Condition": "Experiments were conducted in controlled environment chambers set up to provide 12 hours of light (250 \u00b5E m^-2 s^-1) at 28\u00b0C, followed by 12 hours of darkness at 22\u00b0C, and 65% relative humidity.",
+                "Chemical Preparation": "C-labelled benfuresate (specific activity 5.143 x l0**3 KBqmg**-2; Benfuresate at concentrations of 0.3, 3.9, 19.7, and 39.4 \u03bcM was mixed in 2% agar and poured into disposable plastic pipette tips measuring 0.5 cm, which were applied directly to sprouting 0.5 cm apical buds on purple nutsedge to avoid direct contact with the tube. Apical buds were treated similarly using agar containing 3.9 \u03bcM 14C-labeled benfuresate solution with 6.7 kBq radioactive concentration, and the plants were separated into shoot, roots and tuber parts after 2, 4, and 8 days to determine radioactivity in each section",
+                "Other Information": "Three nutsedge tubers were planted in each 750 mL plastic pot for the critical period treatment experiment."
+            },
+            "result": "[{\"Time after application\": \"42 hours\", \"Pesticide amount (Kbq)\": 1.7, \"Unrecovered %\": \"98%\", \"Absorbed %\": \"1%\", \"Treated Bud Uptake %\": \"-\", \"Untreated Bud Uptake %\": \"-\", \"Treated Root Uptake %\": \"-\", \"Untreated Root Uptake %\": \"-\", \"Tuber Uptake %\": \"-\"}, {\"Time after application\": \"2 days\", \"Pesticide amount (Kbq)\": 6.7, \"Unrecovered %\": \"-\", \"Absorbed %\": \"-\", \"Treated Bud Uptake %\": \"90%\", \"Untreated Bud Uptake %\": \"25%\", \"Treated Root Uptake %\": \"30%\", \"Untreated Root Uptake %\": \"30%\", \"Tuber Uptake %\": \"35%\"}, {\"Time after application\": \"4 days\", \"Pesticide amount (Kbq)\": 6.7, \"Unrecovered %\": \"-\", \"Absorbed %\": \"-\", \"Treated Bud Uptake %\": \"92%\", \"Untreated Bud Uptake %\": \"30%\", \"Treated Root Uptake %\": \"77%\", \"Untreated Root Uptake %\": \"50%\", \"Tuber Uptake %\": \"60%\"}, {\"Time after application\": \"8 days\", \"Pesticide amount (Kbq)\": 6.7, \"Unrecovered %\": \"-\", \"Absorbed %\": \"-\", \"Treated Bud Uptake %\": \"95%\", \"Untreated Bud Uptake %\": \"95%\", \"Treated Root Uptake %\": \"95%\", \"Untreated Root Uptake %\": \"95%\", \"Tuber Uptake %\": \"95%\"}]"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "66927125303528b49832d817"
+    },
+    "CID": {
+        "$numberInt": "91699"
+    },
+    "Name": "Triflumizole",
+    "IUPACName": "N-[4-chloro-2-(trifluoromethyl)phenyl]-1-imidazol-1-yl-2-propoxyethanimine",
+    "CanonicalSMILES": "CCCOCC(=NC1=C(C=C(C=C1)Cl)C(F)(F)F)N2C=CN=C2",
+    "Synonyms": [
+        "Triflumizole",
+        "68694-11-1",
+        "Triflumizol",
+        "99387-89-0",
+        "Terraguard",
+        "Trifmine",
+        "Trifumine",
+        "Condor",
+        "Procure",
+        "NF-114",
+        "(E)-4-Chloro-alpha,alpha,alpha-trifluoro-N-(1-imidazol-1-yl-2-propoxyethylidene)-o-toluidine",
+        "N-[4-chloro-2-(trifluoromethyl)phenyl]-1-imidazol-1-yl-2-propoxyethanimine",
+        "1-(1-((4-Chloro-2-(trifluoromethyl)phenyl)imino)-2-propoxyethyl)-1H-imidazole",
+        "7J6Y4H9MV5",
+        "DTXSID2032500"
+    ],
+    "IsomericSMILES": "CCCOCC(=NC1=C(C=C(C=C1)Cl)C(F)(F)F)N2C=CN=C2",
+    "INCHI": "InChI=1S/C15H15ClF3N3O/c1-2-7-23-9-14(22-6-5-20-10-22)21-13-4-3-11(16)8-12(13)15(17,18)19/h3-6,8,10H,2,7,9H2,1H3",
+    "INCHIKEY": "HSMVPDGQOIQYSR-UHFFFAOYSA-N",
+    "Formula": "C15H15ClF3N3O",
+    "MolecularWeight": {
+        "$numberDouble": "345.75"
+    },
+    "Description": "Triflumizole is a carboxamidine resulting from the formal condensation of the amino group of 4-chloro-2-(trifluoromethyl)aniline with the oxygen of the acetyl group of N-(propoxyacetyl)imidazole. A sterol demethylation inhibitor, it is used as a fungicide for the control of powdery mildew, scab and other diseases on a variety of crops. It has a role as an EC 1.14.13.70 (sterol 14alpha-demethylase) inhibitor and an antifungal agrochemical. It is a member of monochlorobenzenes, a member of imidazoles, a member of (trifluoromethyl)benzenes, a carboxamidine, an ether, a conazole fungicide and an imidazole fungicide.",
+    "XlogP": {
+        "$numberDouble": "4"
+    },
+    "Complexity": {
+        "$numberInt": "406"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The absorption, translocation, and metabolism of the imidazole fungicide triflumizole were studied in cucumber plants after treating leaves and fruits with [phenyl-U-14C] triflumizole. Triflumizole was rapidly broken down with a half-life of about 4 days. Autoradiography and bioassay showed that triflumizole was translocated into the treated leaf, reaching a concentration sufficient to control powdery mildew. Dissipation of 14C was slower in the treated fruit than in the treated leaf due to faster and greater absorption of 14C into the peel and flesh. The half-life of triflumizole in the treated fruit was 6 days, and the concentration of total residual 14C in the fruit was equivalent to 0.12 ppm of triflumizole 14 days after treatment. In cucumber plants, triflumizole underwent imidazole ring cleavage as the initial step of the main metabolic pathway, resulting in a N-formyl degradate that was further metabolized to a major metabolite, N-(4-chloro-2-trifluoromethylphenyl)-propoxyacetamidine (FM-6-1), followed by depropylation at the ether linkage.",
+            "reference": "\u6a4b\u672c\u606d\u660e, \u6749\u672c\u8302\u4e8c, \u6dfb\u7530\u5409\u5247, \u4f50\u91ce\u614e\u4eae, \u4e2d\u7530\u662d, & \u6a4b\u672c\u7ae0. (1990). Absorption, Translocation and Metabolism of the Fungicide Triflumizole in Cucumber Plants. Journal of Pesticide Science, 15(3), 375-383.",
+            "method": {
+                "Test Plant": "Cucumber (Cucumis sativus L. cv. Sagamihanjiro)",
+                "Apply Location": "Foliar application as 0.8 mL suspension dotted uniformly on the upper surface of a second true leaf",
+                "Plant Grown Condition": "Cucumber seedlings transplanted into 16 cm diameter x 18 cm deep Wagner pots at the second true leaf stage and grown in a greenhouse at 20-30\u00b0C before treatment.",
+                "Chemical Preparation": "14C-triflumizole (4.0 mg, 307 MBq/mmol, >99% radiochemical purity) mixed with unlabeled triflumizole (4.25 mg), surfactant (1.75 mg), carriers (15.0 mg) in 30 mL water, diluted to 50 mL to make 1/2000 aqueous suspension equivalent to 30% wettable powder formulation.",
+                "Pesticide Application Details for the Plant": "Foliar application of 0.8 mL triflumizole suspension (approx. 1X field rate) at second to third leaf stage.",
+                "Other Information": "Combustion and LSC used to quantify 14C in extracts and residues to determine absorption and translocation."
+            },
+            "result": "[{\"Days after application\": 1, \"Treated leaf (% of applied)\": 87.0, \"Above treated leaf (%)\": 0.01, \"Below treated leaf (%)\": 0.01, \"Root (%)\": 0.01, \"Fruit (%)\": \"-\"}, {\"Days after application\": 3, \"Treated leaf (% of applied)\": 81.5, \"Above treated leaf (%)\": 0.01, \"Below treated leaf (%)\": 0.06, \"Root (%)\": 0.01, \"Fruit (%)\": \"-\"}, {\"Days after application\": 7, \"Treated leaf (% of applied)\": 62.3, \"Above treated leaf (%)\": 0.05, \"Below treated leaf (%)\": 0.07, \"Root (%)\": 0.01, \"Fruit (%)\": \"-\"}, {\"Days after application\": 14, \"Treated leaf (% of applied)\": 43.9, \"Above treated leaf (%)\": 0.23, \"Below treated leaf (%)\": 0.07, \"Root (%)\": 0.01, \"Fruit (%)\": \"-\"}, {\"Days after application\": 21, \"Treated leaf (% of applied)\": 28.0, \"Above treated leaf (%)\": 0.21, \"Below treated leaf (%)\": 0.14, \"Root (%)\": 0.08, \"Fruit (%)\": \"-\"}, {\"Days after application\": 45, \"Treated leaf (% of applied)\": 12.6, \"Above treated leaf (%)\": 0.63, \"Below treated leaf (%)\": 0.06, \"Root (%)\": 0.23, \"Fruit (%)\": \"0.26\"}]"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "_id": {
+        "$oid": "6682e98bc4e5dba5ffba2b29"
+    },
+    "CID": {
+        "$numberInt": "86367"
+    },
+    "Name": "CYPRODINIL",
+    "IUPACName": "4-cyclopropyl-6-methyl-N-phenylpyrimidin-2-amine",
+    "CanonicalSMILES": "CC1=CC(=NC(=N1)NC2=CC=CC=C2)C3CC3",
+    "Synonyms": [
+        "Cyprodinil",
+        "121552-61-2",
+        "4-Cyclopropyl-6-methyl-N-phenylpyrimidin-2-amine",
+        "4-Cyclopropyl-6-methyl-N-phenyl-2-pyrimidinamine",
+        "2-Pyrimidinamine",
+        "4-cyclopropyl-6-methyl-N-phenyl-",
+        "HSDB 7019",
+        "42P6T6OFWZ",
+        "CHEBI:4045",
+        "DTXSID1032359",
+        "4-cyclopropyl-6-methyl-N-phenyl-pyrimidin-2-amine",
+        "Cyprodinil 10 microg/mL in Isooctane",
+        "Cyprodinil 100 microg/mL in Methanol",
+        "Cyprodinil 1000 microg/mL in Acetone",
+        "Cyprodinil 10 microg/mL in Acetonitrile",
+        "2-Anilino-4-cyclopropyl-6-methylpyrimidine"
+    ],
+    "IsomericSMILES": "CC1=CC(=NC(=N1)NC2=CC=CC=C2)C3CC3",
+    "INCHI": "InChI=1S/C14H15N3/c1-10-9-13(11-7-8-11)17-14(15-10)16-12-5-3-2-4-6-12/h2-6,9,11H,7-8H2,1H3,(H,15,16,17)",
+    "INCHIKEY": "HAORKNGNJCEJBX-UHFFFAOYSA-N",
+    "Formula": "C14H15N3",
+    "MolecularWeight": {
+        "$numberDouble": "225.29"
+    },
+    "Description": "Cyprodinil is a member of the class of aminopyrimidine that is N-phenylpyrimidin-2-amine carrying additional cyclopropyl and methyl substituents at positions 4 and 6 respectively. A broad spectrum fungicide used to control a range of pathogens including Tapesia yallundae, Botrytis spp., Alternaria spp. and Rhynchospium secalis. Whilst it is a recognised irritant no serious human health concerns have been identified. It is moderately toxic to birds as well as most aquatic organisms and earthworms, but it is not considered toxic to honeybees. It has a role as an aryl hydrocarbon receptor agonist, an environmental contaminant, a xenobiotic and an antifungal agrochemical. It is an aminopyrimidine, a secondary amino compound, a member of cyclopropanes and an anilinopyrimidine fungicide.",
+    "XlogP": {
+        "$numberDouble": "3.1"
+    },
+    "Complexity": {
+        "$numberInt": "246"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Wightwick A et al; Arch Environ Contam Toxicol 62: 380-90 (2012) (2) Bermudez-Couso A et al; Water Res 41: 4515-25 (2007)",
+            "Value": "SEDIMENT: Cyprodinil was not detected in 96 sediment samples collected from 18 sites in the Yarra catchment area of Australia; samples were collected from Sept 2008 to Mar 2009(1). SOIL: Cyprodinil residues were reported at a maximum of about 400 ug/kg in soil sampled from fields along the River Alongos, Spain(2)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "Brown root rot disease (BRRD), caused by Phellinus noxius, is a significant tree disease in tropical and subtropical regions. To enhance the chemical control of BRRD and prevent the emergence of fungicide resistance in P. noxius, this study examined the control efficacy and systemic activity of fungicides with various modes of action. Fourteen fungicides with different modes of action were tested for their inhibitory effects on 39 P. noxius isolates from multiple regions. Cyproconazole, epoxiconazole, and tebuconazole (target-site G1) exhibited colony growth inhibition of P. noxius by 99.9% to 100% at 10 ppm and 97.7% to 99.8% at 1 ppm. Another effective fungicide was cyprodinil + fludioxonil (target-site D1 + E2), which showed growth inhibition of 96.9% at 10 ppm and 88.6% at 1 ppm. Acropetal translocation of six selected fungicides was evaluated in bishop wood (Bischofia javanica) seedlings, with cyproconazole and tebuconazole being the most efficiently absorbed by roots and transported acropetally. Greenhouse experiments indicated that cyproconazole, tebuconazole, and epoxiconazole have slightly higher potential for controlling BRRD compared to mepronil, prochloraz, and cyprodinil + fludioxonil. Since all tested fungicides lacked basipetal translocation, soil drenching should be considered over trunk injection for their use in BRRD control.",
+            "reference": "Liao, T. Z., Chen, Y. H., Tsai, J. N., Chao, C., Huang, T. P., Hong, C. F., ... & Chung, C. L. (2023). Translocation of fungicides and their efficacy in controlling Phellinus noxius, the cause of brown root rot disease. Plant Disease, 107(7), 2039-2053.",
+            "method": {
+                "Test Plant": "Bischofia javanica (bishop wood seedlings), 6-12 months old used due to abundant roots, tender tissues, high susceptibility",
+                "Apply Location": "Root immersion (acropetal) or stem injection (bidirectional)",
+                "Plant Grown Condition": "Maintained at 35\u00b0C day/30\u00b0C night, 55-95% RH in phytotron. Under natural light. Leaves trimmed to 3-5 trifoliate leaves per plant before assays",
+                "Chemical Preparation": "Root immersion - 100 ppm solutions of fungicides. Stem injection - Stock solutions ranging 75,000-625,000 ppm injected at 3 \u03bcL",
+                "Pesticide Application Details for the Plant": "Acropetal - 5 root tips immersed in 50 mL fungicide solution. Bidirectional - 3 \u03bcL fungicide stock injected into stem",
+                "Other Information": "Sampling at 7 and 21 days after treatment. Plant dissected into 5 cm segments (roots, stems, leaves). Fungicide concentrations measured by LC/GC-MS/MS. 2 independent trials with 6 plants per treatment (3 per timepoint)"
+            },
+            "result": "[{\"Pretreatment\": \"Root-tip immersion\", \"RCF\": \"+\", \"Acropetal\": \"+\", \"Basipetal\": NaN}, {\"Pretreatment\": \"Stem-injection\", \"RCF\": \"NA +++\", \"Acropetal\": \"-\", \"Basipetal\": NaN}]"
+        }
+    ]
+}

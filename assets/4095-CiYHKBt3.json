@@ -1,0 +1,65 @@
+{
+    "_id": {
+        "$oid": "6682e80ac4e5dba5ffba239d"
+    },
+    "CID": {
+        "$numberInt": "4095"
+    },
+    "Name": "Methadone",
+    "IUPACName": "6-(dimethylamino)-4,4-diphenylheptan-3-one",
+    "CanonicalSMILES": "CCC(=O)C(CC(C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2",
+    "Synonyms": [
+        "methadone",
+        "dl-Methadone",
+        "Diaminon",
+        "Dolophin",
+        "Phenadone",
+        "Heptadone",
+        "Amidone",
+        "Ketalgin",
+        "Methadon",
+        "Adanon",
+        "Physeptone",
+        "76-99-3",
+        "Algovetin",
+        "Heptanon",
+        "Sedo-Rapide"
+    ],
+    "IsomericSMILES": "CCC(=O)C(CC(C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2",
+    "INCHI": "InChI=1S/C21H27NO/c1-5-20(23)21(16-17(2)22(3)4,18-12-8-6-9-13-18)19-14-10-7-11-15-19/h6-15,17H,5,16H2,1-4H3",
+    "INCHIKEY": "USSIQXCVUWKGNF-UHFFFAOYSA-N",
+    "Formula": "C21H27NO",
+    "MolecularWeight": {
+        "$numberDouble": "309.4"
+    },
+    "Description": "Methadone is a racemate comprising equimolar amounts of dextromethadone and levomethadone. It is a opioid analgesic which is used as a painkiller and as a substitute for heroin in the treatment of heroin addiction. It has a role as an opioid analgesic, a mu-opioid receptor agonist, a xenobiotic, an environmental contaminant, a NMDA receptor antagonist and a serotonin uptake inhibitor. It contains a levomethadone and a dextromethadone.",
+    "XlogP": {
+        "$numberDouble": "3.9"
+    },
+    "Complexity": {
+        "$numberInt": "346"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 173",
+            "Value": "log Kow = 3.93"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "NIH; DailyMed. Current Medication Information for Methadone Hydrochloride Tablet (Updated: April 2017). Available from, as of October 2, 2017: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=eddf7077-02fb-4771-9823-31984f4ff2bb",
+            "Value": "Methadone hydrochloride is a mu-agonist; ... . Some data also indicate that methadone acts as an antagonist at the N-methyl-D-aspartate (NMDA) receptor. The contribution of NMDA receptor antagonism to methadone's efficacy is unknown."
+        },
+        {
+            "References": "PMID:20659105",
+            "Value": "Methadone activates opioid receptors to increase a potassium conductance mediated by G-protein coupled, inwardly rectifying, potassium (K(IR) 3) channels. Methadone also blocks K(IR) 3 channels and NMDA receptors. However, the concentration dependence and stereospecificity of receptor activation and channel blockade by methadone on single neurons has not been characterized. Intracellular and whole cell recording were made from locus coeruleus neurons in brain slices and the activation of mu-opioid receptors and blockade of K(IR) 3 and NMDA channels with l- and d-methadone was examined. The potency of l-methadone, measured by the amplitude of hyperpolarization was 16.5-fold higher than with than d-methadone. A maximum hyperpolarization was caused by both enantiomers (~30 mV), however, the maximum outward current measured with whole cell voltage-clamp recording was smaller than the current induced by [Met](5) enkephalin. The K(IR) 3 conductance induced by activation of a(2) -adrenoceptors was decreased with high concentrations of l- and d-methadone (10-30 uM). In addition, methadone blocked the resting inward rectifying conductance (K(IR) ). Both l- and d-methadone blocked the NMDA receptor-dependent current. The block of NMDA receptor-dependent current was voltage dependent suggesting that methadone acted as a channel blocker. Methadone activated mu-opioid receptors at low concentrations in a stereospecific manner. K(IR) 3 and NMDA receptor channel block was not stereospecific and required substantially higher concentrations. The separation in the concentration range suggests that the activation of mu-opioid receptors rather than the channel blocking properties mediate both the therapeutic and toxic actions of methadone."
+        },
+        {
+            "References": "Papich, M.G. Saunders Handbook of Veterinary Drugs Small and Large Animal. 3rd ed. St. Louis, MO: Elsevier Saunders, 2011, p. 483",
+            "Value": "Opioid agonist, analgesic. Action of methadone is to bind to mu-opiate and kappa-opiate receptors on nerves and inhibit release of neurotransmitters involved with transmission of pain stimuli (such as Substance P). Methadone also may antagonize NMDA (n-methyl D-asparate) receptors, which may contribute to the analgesic effect, decrease adverse CNS effects, and inhibit tolerance. ..."
+        }
+    ]
+}

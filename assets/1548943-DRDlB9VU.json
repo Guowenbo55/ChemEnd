@@ -1,0 +1,270 @@
+{
+    "_id": {
+        "$oid": "6682e9a8c4e5dba5ffba2bbc"
+    },
+    "CID": {
+        "$numberInt": "1548943"
+    },
+    "Name": "CAPSAICIN",
+    "IUPACName": "(E)-N-[(4-hydroxy-3-methoxyphenyl)methyl]-8-methylnon-6-enamide",
+    "CanonicalSMILES": "CC(C)C=CCCCCC(=O)NCC1=CC(=C(C=C1)O)OC",
+    "Synonyms": [
+        "Capsaicin",
+        "404-86-4",
+        "(E)-Capsaicin",
+        "Zostrix",
+        "CAPSAICINE",
+        "Qutenza",
+        "Styptysat",
+        "Axsain",
+        "trans-Capsaicin",
+        "Isodecenoic acid vanillylamide",
+        "Ausanil",
+        "E-CAPSAICIN",
+        "Mioton",
+        "NGX-4010",
+        "trans-8-Methyl-N-vanillyl-6-nonenamide"
+    ],
+    "IsomericSMILES": "CC(C)/C=C/CCCCC(=O)NCC1=CC(=C(C=C1)O)OC",
+    "INCHI": "InChI=1S/C18H27NO3/c1-14(2)8-6-4-5-7-9-18(21)19-13-15-10-11-16(20)17(12-15)22-3/h6,8,10-12,14,20H,4-5,7,9,13H2,1-3H3,(H,19,21)/b8-6+",
+    "INCHIKEY": "YKPUWZUDDOIDPM-SOFGYWHQSA-N",
+    "Formula": "C18H27NO3",
+    "MolecularWeight": {
+        "$numberDouble": "305.4"
+    },
+    "Description": "Capsaicin is a capsaicinoid. It has a role as a non-narcotic analgesic, a voltage-gated sodium channel blocker and a TRPV1 agonist.",
+    "XlogP": {
+        "$numberDouble": "3.6"
+    },
+    "Complexity": {
+        "$numberInt": "341"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) US Dept Agric; US Dept Agric, Agric Res Service. 1992-2016. Dr. Duke's Phytochemical and Ethnobotanical Databases. Capsaicin. Available from, as of Sept 28, 2016: https://phytochem.nal.usda.gov/phytochem/search",
+            "Value": "Capsaicin occurrence in plants(1).",
+            "Table": "[{'Genus species': 'Capsicum annuum', 'Family': 'Solanaceae', 'common name(s)': 'Cherry Pepper, Sweet Pepper, Bell Pepper, Paprika, Green Pepper, Cone Pepper', 'Part': 'Resin, Exudate, Sap', 'Concn (ppm)': '634000.0'}, {'Genus species': 'Capsicum frutescens', 'Family': 'Solanaceae', 'common name(s)': 'Hot Pepper, Tabasco, Cayenne, Chili, Red Chili, Spur Pepper', 'Part': 'Fruit', 'Concn (ppm)': '17900.0'}, {'Genus species': 'Capsicum annuum', 'Family': 'Solanaceae', 'common name(s)': 'Cherry Pepper, Sweet Pepper, Bell Pepper, Paprika, Green Pepper, Cone Pepper', 'Part': 'Fruit', 'Concn (ppm)': '4000.0'}, {'Genus species': 'Capsicum annuum', 'Family': 'Solanaceae', 'common name(s)': 'Cherry Pepper, Sweet Pepper, Bell Pepper, Paprika, Green Pepper, Cone Pepper', 'Part': 'Tissue Culture', 'Concn (ppm)': '590.0'}, {'Genus species': 'Capsicum frutescens', 'Family': 'Solanaceae', 'common name(s)': 'Hot Pepper, Tabasco, Cayenne, Chili, Red Chili, Spur Pepper', 'Part': 'Seed', 'Concn (ppm)': '5.0'}, {'Genus species': 'Capsicum frutescens', 'Family': 'Solanaceae', 'common name(s)': 'Hot Pepper, Tabasco, Cayenne, Chili, Red Chili, Spur Pepper', 'Part': 'Tissue Culture', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Capsicum frutescens', 'Family': 'Solanaceae', 'common name(s)': 'Hot Pepper, Tabasco, Cayenne, Chili, Red Chili, Spur Pepper', 'Part': 'Pericarp', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Zingiber officinale', 'Family': 'Zingiberaceae', 'common name(s)': 'Ginger', 'Part': 'Rhizome', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Zingiber officianle', 'Family': 'Zingiberaceae', 'common name(s)': 'Ginger', 'Part': 'Plant', 'Concn (ppm)': 'not reported'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) LaHann TR et al; Proc West Pharmacol Soc 32: 201-4 (1989) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of July 8, 2016: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 47 was calculated in fish for capsaicin(SRC), using a log Kow of 3.04(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is moderate(SRC)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "PMID:2780588",
+            "Value": "log Kow = 3.04"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Szallasi A, Blumberg PM; Life Sci 47 (16): 399-40 (1990)",
+            "Value": "Capsaicin, the pungent constituent of chili peppers, represents the paradigm for the capsaicinoids or vanilloids, a family of compounds shown to stimulate and then desensitize specific subpopulations of sensory receptors, including C-polymodal nociceptors, A-delta mechanoheat nociceptors and warm receptors of the skin, as well as enteroceptors of thin afferent fibers. ..."
+        },
+        {
+            "References": "PMID:16262998",
+            "Value": "... In rats desensitized by intraperitoneal (ip) capsaicin (i.e., abdominal non-systemic desensitization), mainly the first but not the later fever phases were reduced. The postprandial hyperthermia to intragastric injection of BaSO4 suspension was attenuated by either ip or perineural capsaicin treatment."
+        },
+        {
+            "References": "PMID:10496326",
+            "Value": "... Heat and protons as well as capsaicin activate VR1 to induce the influx of cations, particularly Ca2+ and Na+ ions. Characteristic effects of capsaicin are the induction of a burning sensation after acute administration and the desensitization of sensory neurons after large doses and prolonged administration. ...  Capsaicin alters several visceral functions. ... Capsaicin affects thermoregulation after intra-hypothalamic injection and releases glutamate from the hypothalamus and cerebral cortex slices, while VR1-like immunoreactivity is not apparent in these regions."
+        },
+        {
+            "References": "PMID:11352646",
+            "Value": "... 0.4 and 4 uM of capsaicin produced a significant tonic block on voltage-activated Na+ current (I(Na)) evoked by a depolarizing step to -40 mV from a holding potential of -100 mV (49 +/- 7% n=11, p<0.05 and 72 +/- 13% n=4, p<0.05 respectively). ... Capsaicin slowed the time decay of inactivation of I(Na), and increased the time constant of the recovery of inactivation. Capsaicin and tetrodotoxin (TTX) depressed contractility of isolated electrically driven left rat atria, being the depression of maximal velocity of force development (dF/dt(max)) with respect to control values of 19 +/- 3% at 1 uM of capsaicin and 22 +/- 2% at 1 uM of TTX."
+        },
+        {
+            "References": "PMID:11431102",
+            "Value": "... Capsaicin is capable of causing strand scission in calf thymus and plasmid DNA in the presence of Cu(II) and this breakage is mediated by reactive oxygen species, especially the hydroxyl radical. Capsaicin can directly generate hydroxyl radicals in the presence of Cu(II). ... Both capsaicin and dihydrocapsaicin (DHC) are able to reduce Cu(II) to Cu(I), which was shown to be an essential intermediate in the DNA cleavage reaction."
+        },
+        {
+            "References": "PMID:14744780",
+            "Value": "... In vitro, capsaicin inhibited vascular endothelial growth factor (VEGF) -induced proliferation, DNA synthesis, chemotactic motility, and capillary-like tube formation of primary cultured human endothelial cells. Capsaicin inhibited both VEGF-induced vessel sprouting in rat aortic ring assay and VEGF-induced vessel formation in the mouse Matrigel plug assay. Capsaicin was able to suppress tumor-induced angiogenesis in chick chorioallantoic membrane assay. Capsaicin caused G(1) arrest in endothelial cells. ... capsaicin inhibits VEGF-induced p38 mitogen-activated protein kinase, p125(FAK), and AKT activation, but its molecular target is distinct from the VEGF receptor KDR/Flk-1."
+        },
+        {
+            "References": "PMID:14871840",
+            "Value": "... Capsaicin suppressed the growth of leukemic cells, but not normal bone marrow mononuclear cells, via induction of G(0)-G(1) phase cell cycle arrest and apoptosis. Capsaicin-induced apoptosis was in association with the elevation of intracellular reactive oxygen species production. Capsaicin-sensitive leukemic cells were possessed of wild-type p53, resulting in the phosphorylation of p53 at the Ser-15 residue by the treatment of capsaicin. Abrogation of p53 expression by the antisense oligonucleotides significantly attenuated capsaicin-induced cell cycle arrest and apoptosis. Pretreatment with N-acetyl-L-cystein and catalase, but not superoxide dismutase, completely inhibited capsaicin-induced apoptosis by inhibiting phosphorylation of Ser-15 residue of p53.  Capsaicin effectively inhibited tumor growth and induced apoptosis in vivo using NOD/SCID mice with no toxic effects."
+        },
+        {
+            "References": "PMID:24746025",
+            "Value": "The transient receptor potential vanilloid 1 (TRPV1) is a cation channel that serves as a polymodal detector of noxious stimuli such as capsaicin. Therefore, capsaicin treatment has been used to investigate the physiological function of TRPV1. Here, we report physiological changes induced by treating neonatal rats with capsaicin. Capsaicin (50mg/kg) (cap-treated) or vehicle (vehicle-treated) was systemically administered to newborn SD rat pups within 48 h after birth. TRPV1 expression, intake volume of capsaicin water, and noxious heat sensation were measured 6 weeks after capsaicin treatment. Circadian body temperature and locomotion were recorded by biotelemetry. Expression of Per1, Per2, Bmal1, and Hsf1 (clock genes) was also investigated. Neonatal capsaicin treatment not only decreased TRPV1 expression but also induced desensitization to noxious heat stimuli. Circadian body temperature of cap-treated rats increased significantly compared with that of vehicle-treated rats. Additionally, the amplitude of the circadian body temperature was reversed in cap-treated rats. Expression of the hypothalamic Hsf1 and liver Per2 clock genes followed a similar trend. Therefore, we suggest that these findings will be useful in studying various physiological mechanisms related to TRPV1."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "PMID:9653892",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... after capsaicin (0.3 uM; 30 min) treatment of guinea pig tracheal smooth muscle preparations, the maximal contraction of the trachea after methacholine stimulation was strongly increased (capsaicin: 1.147 +/- 0.050 g vs. control: 0.717 +/- 0.047 g). This effect was completely nullified after pretreatment with capsazepine (2-[2-(4-chlorophenyl)ethyl-amino-thiocarbonyl]-7,8-dihydroxy-2,3, 4,5-tetrahydro-1H-2benzazepine; a vanilloid receptor antagonist) and YM38336 (a dual tachykinin NK1 and tachykinin NK2 receptor antagonist)."
+        },
+        {
+            "References": "PMID:15298541",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Two weeks after the initiation of the salt diet treatment, blood pressure (BP) became significantly higher in the capsaicin plus a high-salt diet (CAP + HS) group than in any of the other groups and this difference was maintained until the end of the treatment period. Beginning at 8 weeks after the initiation of the salt diet treatment (11 weeks of age), BP became higher in the control with a high-salt diet (CON + HS) group than in the control with a normal salt diet (CON + NS) and capsaicin plus normal salt diet (CAP + NS) groups. Blood pressure was not significantly different between the CON + NS and CAP + NS groups. Media thickness, media thickness to lumen ratio and cross-sectional area of the aorta, renal artery and mesenteric artery were significantly increased in the CAP + HS group compared with the other groups. Heart weight was also increased in the CAP + HS and CON + HS groups compared with the other groups. Similar structural changes in the blood vessels and heart were also found in the CON + HS group compared with the CON + NS group. Lumen diameter was not altered by the treatments in any of the arteries studied."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 175",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Fifty ug/mL /on the eyes of rats/ has caused obvious pain and blepharospasm. The blood vessels of the conjunctivae and lids became abnormally permeable to Evans blue dye injected intravenously. Application of local anesthetic prevented pain, but did not alter the vascular reaction."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 176",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Intravitreal injection of capsaicin in rabbits causes miosis and breakdown of the blood-aqueous barrier. This response can be blocked by pretreatment with tetrodotoxin or a \"substance P\" antagonist."
+        },
+        {
+            "References": "PMID:11515800",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... 10-uM capsaicin decreased the pressure threshold for micturition (PT) in both rats and hamsters, and 100-uM capsaicin decreased PT in hamsters and decreased micturition interval (MI) in both species. In addition, 100-uM capsaicin increased amplitude of micturition contractions (MAC) in rats but decreased the MAC in hamsters. Administration of calcitonin gene-related peptide (CGRP) (10 nmol/kg , iv) significantly decreased both MAC and PT in hamsters only, while capsaicin-induced desensitization of neuropeptide-containing afferents antagonized the urodynamic effects of intravesical capsaicin. Administration of the tachykinin NK2 receptor antagonist, Nepadutant (100 nmol/kg, iv), reduced the effects of capsaicin (100 uM) only in rats."
+        },
+        {
+            "References": "PMID:8887888",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Oral LD50 values /of capsaicin/ were 118.8 mg/kg for male and 97.4 mg/kg for female mice, and 161.2 mg/kg for male and 148.1 mg/kg for female rats. Major toxic symptoms in mice were salivation, erythema of skin, staggering gait, bradypnea, and cyanosis. Some animals showed tremor, clonic convulsion, dyspnea, and lateral or prone position and then died 4 to 26 min after dosing. Survivors recovered within 6 hr in mice and 24 hr in rats. Toxic symptoms of rats were almost the same as mice, but rats showing higher incidence of cyanosis, clonic or tonic convulsion, dyspnea and lateral position, and the recovery was later than mice."
+        },
+        {
+            "References": "PMID:15242019",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... There was a significantly lower concentration of neuropeptide Y (NPY) immunopositive cells in the arcuate and paraventricular nuclei of the capsaicin treated rats. In contrast, the cholecystokinin (CCK) expressions level was higher in the paraventricular nucleus of the capsaicin treated rats than in the control rats."
+        },
+        {
+            "References": "PMID:11686834",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Capsaicin inhibited the gastric acid secretion in pylorus-ligated rats when it was given intragastrically at a dose of 0.4-1.8 ug/kg. Small doses of capsaicin (up to 800 ug, ig) produced a dose-dependent inhibition (ID50=400 ug), and its inhibitory effect was exerted for 1 hr in healthy human subjects. While a small dose (5 ug/kg) of capsaicin caused inhibition, a high dose (50-100 mg/kg) enhanced the gastric mucosal lesions productivity by causing hyperacidity in pylorus-ligated animals. Capsaicin and its analog inhibited the development of different chemically induced gastric mucosal damage in various experimental models if they were given intragastric doses (microg/kg)."
+        },
+        {
+            "References": "PMID:12077468",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... In the first experiment, rats developed lesions in the neck area 11 days after injection. In the second experiment, lesions appeared in the skin of the back and occasionally in the neck area 10 days after injection. Development of lesions in the afflicted areas was paralleled by local reduction in the density of CGRP-immunoreactive (IR) nerve fibers, 80% in the first experiment and 72% in the second. The number of PGP-IR fibers was likewise reduced, by 39 and 41%, respectively. The density of the CGRP-IR fibers in the wound area was the same as in the adjacent, nonlesioned skin. The healing of the capsaicin-induced lesions was slow compared with surgical wounds in control animals. The wounds healed with hypertrophic scars. The healing process in the skin of the back was associated with the proliferation of CGRP-IR fibers."
+        },
+        {
+            "References": "PMID:10487297",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Inhalation of wood smoke (approximately 6 ml) via a tracheostomy immediately triggered only an augmented inspiration in 16 rats neonatally treated with capsaicin (50 mg/kg, subcutaneous injection). In contrast, inhaled wood smoke evoked a slowing of respiration in 11 neonatal vehicle-treated rats and an augmented inspiration in another five."
+        },
+        {
+            "References": "PMID:16051405",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... Results from these two studies indicate that pure trans-capsaicin ... is rapidly eliminated, induces transient tachycardia and hypertension, does not alter the duration of cardiac action potentials, and causes only very minimal organ toxicities."
+        },
+        {
+            "References": "PMID:1627743",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Capsaicin was administered in a semisynthetic powdered diet at 0.03125% level for the lifespan of Swiss mice starting from 6 weeks of age. As a result of capsaicin treatment, tumors of the cecum were induced in 22% of females and 14% of males, whereas the corresponding tumor incidences in untreated female and male controls were both 8%. Histopathologically, the tumors were classified as benign polypoid adenomas."
+        },
+        {
+            "References": "Park KK et al; Anticance Res 18 (6A): 4201-4206 (1998)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/  ... Repeated applications of capsaicin (10 mumol) onto the shaven backs of female ICR mice following a single-initiation dose of 7,12-dimethylbenz(a)anthracene did not cause any significant increase in papilloma formation and abnormal hyperplastic or inflammatory skin lesions, compared with the solvent control. Topical application of capsaicin did not induce the epidermal ornithine decarboxylase activity. The compound ameliorated the mouse skin carcinogenesis when given simultaneously with the tumor promoter, 12-o-tetradecanoylphorbol-13-acetate."
+        },
+        {
+            "References": "Quiroz U et al; Biol Reprod (Special Issue): 121 (2004)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ... The ovarian concentration of adrenaline (A) was higher in capsaicin (CAP)-treated rats. The concentration of noradrenaline (NA) was greater than control in posterior hypothalamic regions (PH) while their metabolite (MHPG; 3-methoxy-4-hydroxyphenylglycol) decreased in medium hypothalamic regions (MH) and PH compared with control group. The denervation with CAP did not modify the onset of puberty nor the number ova shed. However the serum estradiol (E2) and follicle stimulating hormone (FSH) levels were lower in CAP treated rats than in control ones. Differences in the concentration of progesterone (P4), testosterone (T) and luteinizing Hormone (LH) were not observed. The number of atretic follicles in denervated ovaries was increased."
+        },
+        {
+            "References": "Chanda S et al; Birth Defects Res A Clin Mol Teratol 73 (5): 359 (2005)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ... Effects of transcapsaicin on embryo/fetal development, consequent to maternal exposure, from implantation to closure of the hard palate /were investigated/. trans-Capsaicin was delivered by means of either a high-concentration patch (CDP; 8% w/w) to pregnant Sprague-Dawley rats or a liquid (CLF; 10% w/v) to timed-mated New Zealand White rabbits ... In rats, maternal NOEL was less than 25 sq cm but no ... litter parameters were affected by application of the CDP at sizes as high as 50 sq cm. Delays in skeletal ossification, evident as significant reductions in the average number of ossified hindlimb and forelimb phalanges (within historical control ranges) and metatarsals and a significant increase in the litter incidence of incompletely ossified 1st sternebra, occurred in the 50 sq cm CDP group. The values for ossified metatarsals were outside the historical control range in the 50 sq cm group. No other gross external, soft tissue or skeletal fetal alterations (malformations or variations) were caused by application of the CDP. In rabbits, maternal NOEL was less than 3 uL/sq cm but no ... litter parameters were affected. No fetal alterations (malformations or variations) were caused by dosages of CLF as high as 13 uL/ sq cm."
+        },
+        {
+            "References": "PMID:27318088",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Xenopus embryo serves as an ideal model for teratogenesis assays to examine the effects of any substances on the cellular processes critical for early development and adult tissue homeostasis. In our chemical library screening with frog embryo, capsaicin was found to repress the Wnt/beta-catenin signaling. Depending on the stages at which embryos became exposed to capsaicin, it could disrupt formation of dorsal or posterior body axis of embryo, which is associated with inhibition of maternal or zygotic Wnt signal in early development. In agreement with these phenotypes, capsaicin suppressed the expression of Wnt target genes such as Siamois and Chordin in the organizer region of embryo and in Wnt signals-stimulated tissue explants. In addition, the cellular level of beta-catenin, a key component of Wnt pathway, was down-regulated in capsaicin-treated embryonic cells. Unlike wild-type beta-catenin, its non-phosphorylatable mutant in which serine and threonine residues phosphorylated by GSK3 are substituted with alanine was not destabilized by capsaicin, indicative of the effect of this chemical on the phosphorylation status of beta-catenin. In support of this, capsaicin up-regulated the level of GSK3- or CK1-phosphorylated beta-catenin, concomitantly lowering that of its de-phosphorylated version. Notably, capsaicin augmented the phosphorylation of a phosphatase, PP2A at tyrosine 307, suggesting its repression of the enzymatic activity of the phosphatase. Furthermore, capsaicin still enhanced beta-catenin phosphorylation in cells treated with a GSK3 inhibitor, LiCl but not in those treated with a phosphatase inhibitor, okadaic acid. Together, these results indicate that capsaicin inhibits the patterning of the dorso-ventral and anterior-posterior body axes of embryo by repressing PP2A and thereby down-regulating the Wnt/beta-catenin signaling."
+        },
+        {
+            "References": "PMID:15862512",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ ... Capsaicin enhanced the frequency of spontaneous glutamatergic excitatory postsynaptic potentials (EPSCs). Capsaicin also increased the frequency of GABAergic inhibitory postsynaptic potentials (IPSCs), an effect that was sensitive to removal of extracellular calcium, but insensitive to tetrodotoxin."
+        },
+        {
+            "References": "Dart, R.C. (ed). Medical Toxicology. Third Edition, Lippincott Williams & Wilkins. Philadelphia, PA. 2004., p. 1680",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Capsaicin affects cutaneous sensory neurons through substance P, which depolarizes unmyelinated Type C and thinly myelinated type A neurons. The symptoms are due to nerve receptor stimulation and not local skin injury."
+        },
+        {
+            "References": "PMID:3310521",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ In L3 and L4 dorsal roots 85-93% of unmyelinated fibers and 9-33% of myelinated fibers were lost after 50-100 mg/kg capsaicin in neonatal rats. In rats treated with 85 mg/kg capsaicin, percentage losses of unmyelinated (89%) and myelinated (36%) fibers of L4 dorsal roots were remarkably similar to the calculated losses of small dark (92%) and large light (34%) neurons respectively in these ganglia. Studies with monoclonal antibody RT97 which labels the large light neurons only, confirmed that some RT97 negative cells (i.e., small dark neurons) remain after capsaicin treatment. At present no evidence exists to suggest that the cell death of small dark neurons or C fibers after neonatal capsaicin treatment is completely selective for subgroups of these neurons, either in relation to sensory modality, or in relation to immunocytochemical cell markers and peptide content. However much more data is required to establish whether this cell death is really nonselective as regards immunocytochemical markers."
+        },
+        {
+            "References": "PMID:1583153",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Previous results indicate that the pattern of capsaicin-induced degeneration in the rat central nervous system is age related. Experiments utilizing capsaicin's selective neurodegenerative effects to study the function of central neural circuits will therefore require a detailed understanding of capsaicin's central neurotoxicity in rats of different ages. The goal of this experiment was to characterize the degeneration induced in the rat brain by systemic treatment with capsaicin at different ages (10, 15, 20, 25, 30 or 75 days, or 11 months), using a cupric silver stain to label degenerating neurons. Results revealed degenerating cell bodies in the ventromedial brainstem in capsaicin-treated rats of all age groups though they were more numerous in adult rats than in pups. In addition many areas contained capsaicin-induced nerve terminal degeneration both in rat pups and in adult rats. These areas were the substantia gelatinosa of the spinal cord dorsal horn; the solitary tract; the nucleus of the solitary tract, visceral portion; the area postrema; the trigeminal nerve and spinal trigeminal nucleus; the medial nucleus of the inferior olive; the rostral dorsomedial and dorsolateral interpeduncular subnuclei and overlying interfascicular nucleus; the supramammillary area; the lateral septal nucleus; the bed nucleus of the stria terminalis anterior medial portion; the optic nerve and tract; the suprachiasmatic nucleus ventroposterolateral portion; the magnocellular subnucleus of the ventrolateral geniculate nucleus; the intergeniculate leaf; the medial pretectal nucleus and the olivary pretectal nucleus. In several but not all of these areas the apparent density of degenerating terminals was significantly less in adult rats than in pups. In other brain sites capsaicin-induced degeneration was observed only in rats younger than 30 days of age. These areas were the lateral habenula medial part; the sphenoid nucleus; and the stria medullaris. Still other brain sites lost their sensitivity to capsaicin sometime between 30 and 75 days of age. These areas were the bed nucleus of the stria terminalis medial posteromedial part; the medial preoptic nucleus central part; the septohypothalamic nucleus; the ventral reuniens area; and the ventromedial hypothalamic nucleus. Adult rats 75 days and 11 months of age did not differ detectably in their response to capsaicin. Thus, loss or attenuation of capsaicin sensitivity is not progressive throughout life. It does not occur in all capsaicin-sensitive sites. Where it does occur loss of sensitivity occurs prior to adulthood and follows a distinct and reproducible time course that may differ for different sites."
+        },
+        {
+            "References": "PMID:2052400",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Capsaicin has been used extensively as an experimental tool and in traditional and proprietary topical medications for acute soft tissue injuries. More recently it has been prescribed for several chronic pain conditions where it is usually administered topically for periods of several weeks. ... The consequences of this mode of application /have been studied/ in the rat. Capsaicin cream (0.075% or 0.75%) or a vehicle cream was applied twice daily to the hind paws of rats for a continuous period of 10 weeks. The hind paws treated with 0.75% capsaicin (but not 0.075%) became transiently hyperalgesic but there were no signs of discomfort or distress associated with the treatment. After 10 weeks of capsaicin application the ability of C fibers to produce neurogenic extravasation was markedly reduced. After 4 weeks of recovery this ability returned to normal in 0.075 capsaicin treated animals but remained impaired in the 0.75% group. This latter group showed a partial recovery 12 weeks after the end of treatment. The levels of substance P and calcitonin gene-related peptide (CGRP) in the sural nerve supplying the treated skin area were unchanged after both the 0.075% and 0.75% capsaicin treatments. The results suggest that the topical application of capsaicin at low concentration produces a reversible impairment of the terminals of C fibers in the skin without greatly exciting those fibers and without affecting the properties of cell soma. The number of afferent neurons in the L5 dorsal root ganglion projecting through the sural nerve was unchanged after 0.75% capsaicin treatment suggesting that the topical capsaicin treatment does not produce any cell death in the adult animal."
+        },
+        {
+            "References": "PMID:24700150",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Glial proliferation is a major component of the nervous system's response to injury. In addition to glial proliferation, injury may induce neuronal proliferation in areas of the adult nervous system not considered neurogenic. We have previously reported increased neural proliferation within adult nodose ganglia following capsaicin-induced neuronal death. However, proliferation within the dorsal root ganglia (DRG) remains to be characterized. We hypothesized that capsaicin-induced neuronal death would increase proliferation of satellite glial cells (SGCs) within the DRG. To test this hypothesis, 6-week-old Sprague-Dawley rats received a neurotoxic dose of capsaicin, and proliferation was quantified and characterized at multiple time points thereafter. Proliferation of satellite glial cells expressing the progenitor cell marker nestin was increased at 1 and 3 days following capsaicin administration as shown by BrdU incorporation. In addition to SGCs was a large population of proliferating resident macrophages, as shown by retrovirally mediated expression of /green fluorescent protein/. SGC proliferation at these early time points was followed by recovery of neuronal numbers after a loss of 40% of the neuronal population in the DRG. This recovery in neuronal number correlated with recovery of function as shown by paw withdrawal from a noxious heat source. Further understanding of the role that glial proliferation plays in the recovery of neuronal numbers and function may lead to the development of therapeutic treatments for neurodegenerative conditions."
+        },
+        {
+            "References": "PMID:9757021",
+            "Value": "/DEVELOPMENTAL NEUROTOXICITY/ ... Neonatal capsaicin injection induced neuronal apoptosis in the trigeminal ganglion. Apoptotic neurons had peripheral stacks of long parallel endoplasmic reticulum that are characteristic to primary neurons of the B-type, and exhibited nucleoplasmic condensation, nuclear shrinkage, and cytoplasmic fragmentation. Apoptotic neurons exhibited a sign of DNA fragmentation as revealed by a nick end labelling method. The proportion of apoptotic cells was quite low during the first 12 hr after capsaicin injection (<1%), rapidly increase to 10.44% by 24 hr, and decreased to 0.29% by 48 hr. Normal and vehicle control levels of apoptosis were <1%. Nerve growth factor (NGF, 0.5 mg/kg) simultaneously administered with capsaicin reduced the incidence of apoptosis by about 35% at 24 hr post-injection."
+        },
+        {
+            "References": "PMID:26054303",
+            "Value": "/DEVELOPMENTAL NEUROTOXICITY/ To gain a better understanding of the neuroplasticity of afferent neurons during postnatal ontogenesis, the distribution of neuronal nitric oxide synthase (nNOS) immunoreactivity was studied in the nodose ganglion (NG) and Th2 and L4 dorsal root ganglia (DRG) from vehicle-treated and capsaicin-treated female Wistar rats at different ages (10-day-old, 20-day-old, 30-day-old, and two-month-old). The percentage of nNOS-immunoreactive (IR) neurons decreased after capsaicin treatment in all studied ganglia in first 20 days of life, from 55.4% to 36.9% in the Th2 DRG, from 54.6% to 26.1% in the L4 DRG and from 37.1% to 15.0% in the NG. However, in the NG, the proportion of nNOS-IR neurons increased after day 20, from 11.8% to 23.9%. In the sensory ganglia of all studied rats, a high proportion of nNOS-IR neurons bound isolectin B4. Approximately 90% of the sensory nNOS-IR neurons bound to IB4 in the DRG and approximately 80% in the NG in capsaicin-treated and vehicle-treated rats. In 10-day-old rats, a large number of nNOS-IR neurons also expressed TrkA, and the proportion of nNOS(+)/TrkA(+) neurons was larger in the capsaicin-treated rats compared with the vehicle-treated animals. During development, the percentage of nNOS(+)/TrkA(+) cells decreased in the first month of life in both groups. The information provided here will also serve as a basis for future studies investigating mechanisms of sensory neuron development."
+        },
+        {
+            "References": "PMID:24975423",
+            "Value": "/DEVELOPMENTAL NEUROTOXICITY/ Treatment of neonatal rats with the transient receptor potential vanilloid 1 (TRPV1) channel agonist, capsaicin, produces life-long loss of sensory neurons expressing TRPV1 channels. Previously it was shown that rats treated on day 2 of life with capsaicin had behavioral hyperactivity in a novel environment at 5-7 weeks of age and brain changes reminiscent of those found in subjects with schizophrenia. The objective of the present study was to investigate brain and behavioral responses of adult rats treated as neonates with capsaicin. It was found that the brain changes found at 5-7 weeks in rats treated as neonates with capsaicin persisted into adulthood (12 weeks) but were less in older rats (16-18 weeks). Increased prepulse inhibition (PPI) of acoustic startle was found in these rats at 8 and 12 weeks of age rather than the deficit commonly found in animal models of schizophrenia. Subjects with schizophrenia also have reduced flare responses to niacin and methylnicotinate proposed to be mediated by prostaglandin D2 (PGD2). Flare responses are accompanied by cutaneous plasma extravasation. It was found that the cutaneous plasma extravasation responses to methylnicotinate and PGD2 were reduced in capsaicin-treated rats. In conclusion, several neuroanatomical changes observed in capsaicin-treated rats, as well as the reduced cutaneous plasma extravasation responses, indicate that the role of TRPV1 channels in schizophrenia is worthy of investigation."
+        },
+        {
+            "References": "PMID:15816527",
+            "Value": "/GENOTOXICITY/ ... Capsaicin, at 0.25 and 0.5 umole/plate, expressed a dose-dependent inhibition of the mutagenicity of Glu-P-1 and PhIP when they are metabolically activated by rat, hamster and human liver S9 and of Trp-P-2 when activated by rat and hamster liver S9. In contrast, capsaicin enhanced the mutagenicity of Trp-P-2 in TA98 when incubated with human liver S9."
+        },
+        {
+            "References": "PMID:15517568",
+            "Value": "/GENOTOXICITY/ ... The results confirm the absence of genotoxic activity of high-purity capsaicin in the bacterial mutation and chromosome aberration tests. In addition, no evidence of cytotoxicity or genotoxicity was seen in the rat bone marrow micronucleus test."
+        },
+        {
+            "References": "PMID:14706521",
+            "Value": "/GENOTOXICITY/ ... pure trans-capsaicin was not mutagenic to Salmonella typhimurium or Escherichia coli ...  trans-Capsaicin was weakly mutagenic in mouse lymphoma L5178Y cells, in the presence of S9 mix. Limited evidence for very weak activity was also obtained in the absence of S9 mix. trans-Capsaicin did not induce micronuclei in bone marrow cells when tested to the maximum tolerated dose of 800 mg/kg per day in male and 200 mg/kg per day in female CD-1 mice using a 0 h plus 24 hr oral dosing and 48 h sampling regimen. trans-capsaicin did not induce structural or numerical chromosomal aberrations when evaluated for its ability to induce clastogenicity in blood lymphocytes."
+        },
+        {
+            "References": "PMID:12034307",
+            "Value": "/GENOTOXICITY/ ... Capsaicin induced the formation of micronuclei (MN) in a dose-dependent manner in the cytokinesis-blocked lymphocytes. This increase was more evident in the absence of metabolic activation, with a maximum of 3.4-fold increase above the background. ... The results for the sister chromatid exchange (SCE) assay also show that capsaicin is genotoxic and in this case with a more homogeneous response among donors."
+        },
+        {
+            "References": "PMID:10550483",
+            "Value": "/GENOTOXICITY/ ... The concentration required to inhibit 50% of the protein synthesis (IC(50)) was found to be 60 uM after incubation with the toxin during one cellular cycle (5 days) of SHSY-5Y. The results of the comet test and DNA fragmentation assay clearly suggest that capsaicin is able to induce DNA strand breaks already with concentrations in the range of 50 uM, corresponding to 29.3 uM of capsaicin not bound to alpha-1 acid glycoprotein. Several daily topical applications of preparations containing 0.075% of capsaicin could lead to blood capsaicin concentration of this order of magnitude following transdermal passage (5% of the total quantity applied)."
+        },
+        {
+            "References": "PMID:12162577",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ ... Capsaicin (150 to 330 nM) in sensitive cells reduced the mixed inward current evoked by depolarizing step or ramp commands in all preparations. In cultured cells, the inward current was depressed to 32.78 +/- 26.42% (n=27) of the control. ... In 34 cultured cells, capsaicin increased the slope conductance to 170.5 +/- 68%. Percentage of capsaicin sensitive cells observed in nerve growth factor-treated cultured cell populations was higher (77.8%) than in the two other preparations (14.3 or 38.8%)."
+        },
+        {
+            "References": "PMID:15681035",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ ... Exposure to capsaicin not only promoted the generation of superoxide and iNOS, but also markedly suppressed the expression of SODs. Nitrite and nitrate, and the nitrotyrosine was also increased in proteins of C6 glioma cells exposed to capsaicin. Pretreatment of cells with 4 uM ebselen showed effective inhibitory effect on the capsaicin-induced apoptosis."
+        },
+        {
+            "References": "PMID:11408028",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ ... Treatment of HL-60 cells with 5-30 ug/mL capsaicin for 72 hr inhibited cell proliferation and induced a small increase in cell differentiation. Synergistic induction of HL-60 cell differentiation was observed when capsaicin was combined with either 5 nM 1,25-(OH)2D3 or 50 nM all-trans retinoic acid. Flow cytometric analysis indicated that combinations of 1,25-(OH)2D3 and capsaicin stimulated differentiation predominantly to monocytes whereas combinations of all-trans retinoic acid and capsaicin stimulated differentiation predominantly to granulocytes. Capsaicin enhanced protein kinase C activity in 1,25-(OH)2D3- and all-trans retinoic acid-treated HL-60 cells. In addition, inhibitors for protein kinase C [bisindolylmaleimide (GF-109203X), chelerythrine, 1-(5-isoquinolinesulfonyl)-2-methylpiperazine dihydrochloride (H-7)] and an inhibitor for extracellular signal-regulated kinase [2-(2'-amino-3'-methoxyphenyl)-oxanaphthalen-4-one (PD-098059)] significantly inhibited HL-60 cell differentiation induced by capsaicin in combination with either 1,25-(OH)2D3 or all-trans retinoic acid."
+        },
+        {
+            "References": "PMID:26160506",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Piperine (P), a sensory stimulant in black pepper, is an agonist on TRPV1 receptors. Earlier work has showed capsaicin-sensitive and -insensitive mechanisms of the contractile action of P on the intestine. The current isolated organ study in the guinea-pig ileum, urinary bladder and trachea (a) confirms the presence of such components of effect (ileum and bladder); (b) indicates TRPV1 involvement in the effect of 5 or 30 umol/L of P on the basis of an inhibitory action of the antagonist BCTC (ileum); (c) indicates that HC 030031-sensitive TRPA1 receptors and nifedipine-sensitive Ca(2+) channels contribute to the capsaicin-resistant contraction to 30 umol/L P (ileum) and (d) shows that the contractile effect of P up to 100 umol/L (guinea-pig trachea) or 30 umol/L (guinea-pig urinary bladder) is capsaicin-sensitive and mediated by TRPV1 receptors/channels."
+        },
+        {
+            "References": "PMID:25446918",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Transient receptor potential (TRP) proteins are non-selective cation channel proteins that are expressed throughout the body. Previous studies demonstrated the expression of TRP Vanilloid 1 (TRPV1), capsaicin (CAP) receptor, in sensory neurons. Recently, we reported TRPV1 expression in mouse motor nerve terminals (MNTs), where we observed that CAP protected MNTs from botulinum neurotoxin A (BoNT/A). Phrenic nerve diaphragm nerve muscle preparations (NMP) isolated from isoflurane anesthetized adult mice were analyzed for twitch tension, spontaneous (mEPCs) and nerve stimulus evoked (EPCs) acetylcholine release. When acutely applied to isolated NMP, CAP produced a concentration-dependent decline of twitch tension and produced a significant decline in the amplitude of EPCs and quantal content without any effect on the mEPCs. The suppression of nerve stimulus evoked acetylcholine release by CAP was antagonized by capsazepine (CPZ), a TRPV1 antagonist. CAP did not suppress phrenic nerve stimulus evoked acetylcholine release in TRPV1 knockout mice. Also, CAP treatment, in vitro, interfered with the localization of adapter protein 2 in cholinergic Neuro 2a cells. Wortmannin, (WMN; non-selective phosphoinositol kinase inhibitor), mimicked the effects of CAP by inhibiting the acetylcholine exocytosis. Our data suggest that TRPV1 proteins expressed at the MNT are coupled to the exo-endocytic mechanisms to regulate neuromuscular functions."
+        },
+        {
+            "References": "PMID:9565827",
+            "Value": "/IMMUNOTOXICITY/ ... In spleen cells of mice fed 20 ppm CAP there was a greater T-cell mitogen induced, lymphocyte proliferative response. The number of antibody-producing B cells and serum IgG and IgM levels increased in mice fed 20 ppm CAP as compared to the control with no CAP. ... Dietary CAP had no effect on phagocytic activity by peritoneal macrophages, but the levels of secreted TNF alpha increased in the groups fed 20 ppm CAP compared to the control."
+        },
+        {
+            "References": "PMID:10683513",
+            "Value": "/IMMUNOTOXICITY/ ... Capsaicin (Caps) treatment results in a marked reduction of thymus weight and cellularity. As shown by immunofluorescence and FACS analysis, profound depletion of double negative (DN), double positive (DP), and single positive (SP) CD4(+) cells was already evident at day 7 after treatment and persisted until day 28. Reduced numbers of SP CD8(+) cells were observed only at later time points. CD5(+) TCR gamma/delta(+) are particularly sensitive to neonatal Caps treatment. Caps-induced thymocyte depletion was associated with reduced proliferation in response to T cell mitogens. ... Neonatal Caps treatment induces apoptosis of thymus cells. Morphological analysis reveals the presence of apoptotic cells in the subcapsular thymus cortical region."
+        },
+        {
+            "References": "PMID:9404822",
+            "Value": "/OTHER TOXICITY INFORMATION/ ... In capsaicin-treated rats, intraganglionic laminar endings (IGLEs) were significantly diminished in all areas of the small intestine. Capsaicin also reduced wheat-germ agglutinin-horseradish peroxidase conjugate (WGA-HRP) activity in the medial and commissural nucleus of the solitary tract. Systemic capsaicin produces a long-lasting loss of vagal IGLEs in the small intestinal myenteric plexus."
+        },
+        {
+            "References": "PMID:9789176",
+            "Value": "/OTHER TOXICITY INFORMATION/ ... Keratinocyte growth was reduced 21% to 31% in commercial concentrations of capsaicin 0.025% to 0.20% weight/volume. Fibroblasts were reduced 5% to 10% during the first 6 hours of exposure to capsaicin and 30% after 24 hours across the full range of concentrations tested. At concentrations of at least 0.1% weight/volume, capsaicin penetrated the collagen matrixes, resulting in fibroblast degeneration not only on the surface but also in the inner layers."
+        },
+        {
+            "References": "PMID:25072597",
+            "Value": "/OTHER TOXICITY INFORMATION/ Targeting the energy storing white adipose tissue (WAT) by pharmacological and dietary means in order to promote its conversion to energy expending \"brite\" cell type holds promise as an anti-obesity approach. Present study was designed to investigate/revisit the effect of capsaicin on adipogenic differentiation with special reference to induction of \"brite\" phenotype during differentiation of 3T3-L1 preadipocytes. Multiple techniques such as Ca2+ influx assay, Oil Red-O staining, nutrigenomic analysis in preadipocytes and matured adipocytes have been employed to understand the effect of capsaicin at different doses. In addition to in-vitro experiments, in-vivo studies were carried out in high-fat diet (HFD) fed rats treated with resiniferatoxin (RTX) (a TRPV1 agonist) and in mice administered capsaicin. TRPV1 channels are expressed in preadipocytes but not in adipocytes. In preadipocytes, both capsaicin and RTX stimulate Ca2+ influx in dose-dependent manner. This stimulation may be prevented by capsazepine, a TRPV1 antagonist. At lower doses, capsaicin inhibits lipid accumulation and stimulates TRPV1 gene expression, while at higher doses it enhances accumulation of lipids and suppresses expression of its receptor. In doses of 0.1-100 uM, capsaicin promotes expression of major pro-adipogenic factor PPARgamma and some of its downstream targets. In concentrations of 1 uM, capsaicin up-regulates anti-adipogenic genes. Low-dose capsaicin treatment of 3T3-L1 preadipocytes differentiating into adipocytes results in increased expression of brown fat cell marker genes. In white adipose of mice, capsaicin administration leads to increase in browning-specific genes. Global TRPV1 ablation (ip by RTX administration) leads to increase in locomotor activity with no change in body weight. Our findings suggest the dual modulatory role of capsaicin in adipogenesis. Capsaicin inhibits adipogenesis in 3T3-L1 via TRPV1 activation and induces brown-like phenotype whereas higher doses."
+        },
+        {
+            "References": "PMID:25371244",
+            "Value": "/OTHER TOXICITY INFORMATION/ Orofacial cold hyperalgesia is known to cause severe persistent pain in the face following trigeminal nerve injury or inflammation, and transient receptor potential (TRP) vanilloid 1 (TRPV1) and TRP ankylin 1 (TRPA1) are thought to be involved in cold hyperalgesia. However, how these two receptors are involved in cold hyperalgesia is not fully understood. To clarify the mechanisms underlying facial cold hyperalgesia, nocifensive behaviors to cold stimulation, the expression of TRPV1 and TRPA1 in trigeminal ganglion (TG) neurons, and TG neuronal excitability to cold stimulation following facial capsaicin injection were examined in rats. The head-withdrawal reflex threshold (HWRT) to cold stimulation of the lateral facial skin was significantly decreased following facial capsaicin injection. This reduction of HWRT was significantly recovered following local injection of TRPV1 antagonist as well as TRPA1 antagonist. Approximately 30% of TG neurons innervating the lateral facial skin expressed both TRPV1 and TRPA1, and about 64% of TRPA1-positive neurons also expressed TRPV1. The TG neuronal excitability to noxious cold stimulation was significantly increased following facial capsaicin injection and this increase was recovered by pretreatment with TRPA1 antagonist. These findings suggest that TRPA1 sensitization via TRPV1 signaling in TG neurons is involved in cold hyperalgesia following facial skin capsaicin injection."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of July 8, 2016: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of capsaicin can be estimated to be 1.2X10+4(SRC). According to a classification scheme(2), this estimated Koc value suggests that capsaicin is expected to be immobile in soil."
+        }
+    ]
+}

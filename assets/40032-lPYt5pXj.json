@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "66927103303528b49832d792"
+    },
+    "CID": {
+        "$numberInt": "40032"
+    },
+    "Name": "Cloethocarb",
+    "IUPACName": "[2-(2-chloro-1-methoxyethoxy)phenyl] N-methylcarbamate",
+    "CanonicalSMILES": "CNC(=O)OC1=CC=CC=C1OC(CCl)OC",
+    "Synonyms": [
+        "CLOETHOCARB",
+        "51487-69-5",
+        "o-(2-Chloro-1-methoxyethoxy)phenyl methylcarbamate",
+        "2-(2-Chloro-1-methoxyethoxy)phenyl methylcarbamate",
+        "BVH4P57R5O",
+        "Lance",
+        "BAS 263-?52I; BAS 263I; BASF 263; Lance",
+        "Cloethocarb [BSI:ISO]",
+        "BAS 263",
+        "EINECS 257-236-4",
+        "BAS 263I",
+        "BASF 263",
+        "BAS 263-51I",
+        "BAS 263-52I",
+        "UNII-BVH4P57R5O"
+    ],
+    "IsomericSMILES": "CNC(=O)OC1=CC=CC=C1OC(CCl)OC",
+    "INCHI": "InChI=1S/C11H14ClNO4/c1-13-11(14)17-9-6-4-3-5-8(9)16-10(7-12)15-2/h3-6,10H,7H2,1-2H3,(H,13,14)",
+    "INCHIKEY": "PITWUHDDNUVBPT-UHFFFAOYSA-N",
+    "Formula": "C11H14ClNO4",
+    "MolecularWeight": {
+        "$numberDouble": "259.68"
+    },
+    "Description": "Cloethocarb is an aromatic ether.",
+    "XlogP": {
+        "$numberDouble": "1.3"
+    },
+    "Complexity": {
+        "$numberInt": "240"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Lance 15G (15% cloethocarb) was applied at rates of 2.0 and 4.0 g of active ingredient per 10 m of row as an in-furrow band to control the tuber flea beetle in potatoes (cv. Russet Burbank) at planting in a silt loam soil. Cloethocarb persisted in the soil for more than 64 days, following first-order kinetics with rate constants of 0.032 day^-1 and 0.023 day^-1, and half-lives of 21.7 days and 30.1 days at the low and high rates, respectively. The pesticide was readily translocated into potato leaves, with the highest concentration ratio between leaves and soil (3.35) in 37-day-old plants and the lowest (0.90) in 65-day-old plants. The concentrations in the leaves were lethal to adult beetles, effectively suppressing overwintered adult populations introduced to treated plants 28-30 days after planting. Almost complete adult mortality occurred within 24 hours of beetle release, significantly reducing the emergence of the next generation. Control of beetles released onto treated plants 56 and 64 days after planting was less effective.",
+            "reference": "Szeto, S. Y., Vernon, R. S., Price, P. M., & Mackenzie, J. R. (1991). Persistence and uptake of cloethocarb in a mineral soil and its efficacy against the tuber flea beetle, Epitrix tuberis Gentner. Journal of Agricultural and Food Chemistry, 39(3), 584-587.",
+            "method": {
+                "Test Plant": "Potatoes (cv. Russet Burbank)",
+                "Apply Location": "In-furrow application",
+                "Plant Grown Condition": "A silt loam soil (Abbotsford soil series, classification Othic Humo-Ferric Podzol, pH 5.76; organic matter content 5.1%, sand 39.6%, silt 54.1%, and clay 6.3%) at the Research Sub-station, Agriculture Canada, Abbotsford, BC. Potatoes were planted 30 cm apart and 15 cm deep in 3 m long rows. Each row contained 10 plants and was divided in half by a 50 cm x 50 cm vertically oriented sheet of cardboard.",
+                "Chemical Preparation": "The insecticides tested were Lance 15G (15% cloethocarb) at 2.0 and 4.0 g of ai/10 m, Dyfonate 10G (10% fonofos) at 1.0 and 2.0 g of ai/10 m, and Temik 15G (15% aldicarb) at 1.0 and 2.0 g of ai/10 m.",
+                "Pesticide Application Details for the Plant": "At planting, the granular insecticides were applied alongside the seed pieces with a hand-held shaker to furrows, 20 cm wide at the top and 10 cm wide at the bottom. Each insecticide was tested at two rates, paired 1 m apart, with at least 2 m between adjacent treatments.",
+                "Other Information": "The persistence and uptake of cloethocarb were determined from the 1987 field trials. Concentrations of cloethocarb in soil were determined 1, 5, 9, 20, 30, 42, and 64 days after application. Twenty cores of soil (2.5 cm diameter X 20 cm deep) were taken randomly from within the cloethocarb-treated band in each replicate to form a composite sample."
+            },
+            "result": "[{\"Days after application\": 1, \"Silt loam soil (ppm)\": 26.78, \"Leaves (ppm)\": 27.07}, {\"Days after application\": 5, \"Silt loam soil (ppm)\": 15.98, \"Leaves (ppm)\": 16.49}, {\"Days after application\": 9, \"Silt loam soil (ppm)\": 14.94, \"Leaves (ppm)\": 15.25}, {\"Days after application\": 20, \"Silt loam soil (ppm)\": 10.58, \"Leaves (ppm)\": 10.99}, {\"Days after application\": 30, \"Silt loam soil (ppm)\": 10.79, \"Leaves (ppm)\": 11.4}, {\"Days after application\": 42, \"Silt loam soil (ppm)\": 7.88, \"Leaves (ppm)\": 8.65}, {\"Days after application\": 64, \"Silt loam soil (ppm)\": 4.98, \"Leaves (ppm)\": 5.08}]"
+        }
+    ]
+}

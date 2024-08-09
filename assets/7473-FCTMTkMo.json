@@ -1,0 +1,170 @@
+{
+    "_id": {
+        "$oid": "6682e87ec4e5dba5ffba25dc"
+    },
+    "CID": {
+        "$numberInt": "7473"
+    },
+    "Name": "4-NITROTOLUENE",
+    "IUPACName": "1-methyl-4-nitrobenzene",
+    "CanonicalSMILES": "CC1=CC=C(C=C1)[N+](=O)[O-]",
+    "Synonyms": [
+        "4-NITROTOLUENE",
+        "1-Methyl-4-nitrobenzene",
+        "99-99-0",
+        "p-Nitrotoluene",
+        "Benzene",
+        "1-methyl-4-nitro-",
+        "4-Nitrotoluol",
+        "4-Methylnitrobenzene",
+        "Toluene",
+        "p-nitro-",
+        "p-Methylnitrobenzene",
+        "Nitrotoluene",
+        "p-",
+        "NCI-C60537",
+        "NSC 9579",
+        "DTXSID5023792",
+        "E88IMG14EX",
+        "CHEMBL155320"
+    ],
+    "IsomericSMILES": "CC1=CC=C(C=C1)[N+](=O)[O-]",
+    "INCHI": "InChI=1S/C7H7NO2/c1-6-2-4-7(5-3-6)8(9)10/h2-5H,1H3",
+    "INCHIKEY": "ZPTVNYMJQHSSEA-UHFFFAOYSA-N",
+    "Formula": "C7H7NO2",
+    "MolecularWeight": {
+        "$numberDouble": "137.14"
+    },
+    "Description": "4-nitrotoluene is a mononitrotoluene that consists of toluene bearing a nitro substituent at the 4-position.",
+    "XlogP": {
+        "$numberDouble": "2.4"
+    },
+    "Complexity": {
+        "$numberInt": "122"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 76 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994) (4) Kawasaki M; Ecotox Env Safety 4: 444-54 (1980) (5) Sasaki S; pp 283-98 in Aquatic Pollut, Transformation and Bio Effects, Hutzinger O, Van Leytoeld LH, Zoeteman BCJ eds (1978)",
+            "Value": "An estimated BCF of 13 was calculated for 4-nitrotoluene(SRC), using a log Kow of 2.37(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC). The BCF for 4-nitrotoluene has been measured to be low in an unidentified fish and in carp (Carprinus carpio)(4,5)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Biodegradation and bioaccumulation data of existing chemicals based on the CSCL Japan. Japan Chemical Industry Ecology - Toxicology and Information Center. Available from, as of Feb 1, 2012: https://www.safe.nite.go.jp/english/kizon/KIZON_start_hazkizon.html (2) Hallas LE, Alexander M; Appl Environ Microb 45: 1234-41 (1983) (3) Struijs J, Stoltenkamp J; Sci. Total Environ. 57: 161-70 (1986) (4) Pitter P; Wat Res 10: 231-5 (1976) (5) He Z and Spain JC; Appl. Environ. Microbiol. 66: 3010-3015 (2000) (6) Paca J et al; Soil Sediment Contam 14: 262-279 (2005)",
+            "Value": "AEROBIC: 4-Nitrotoluene, present at 100 mg/L, reached 0.8% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1) which indicates the compound is not readily biodegradable(1). Two studies demonstrated that 4-nitrotoluene could be completely degraded by unacclimated sludge withing two weeks when lower concentrations of 4-nitrotoluene (10 ppm) were used(2,3). When nitrotoluene-adapted activated sludges were used as an inoculum, however, 4-nitrotoluene was almost completely degraded (~98%) within 5 days, even when higher concentrations (200 mg/L) of 4-nitrotoluene were used(4). 2-Amino-4-methylphenol has been identified as a microbial degradation product of 4-nitrotoluene(5). Using a mixed culture isolated from a contaminated soil (near an ammunition plant), 4-nitrotoluene (at initial concentrations of 5 mg/L) degraded completely in 1 to 3 days in aerobic batch and continuous reactor tests(6)."
+        },
+        {
+            "References": "(1) Zoeteman et al; Chemosphere 9: 231-49 (1980) (2) Hallas LE, Alexander M; Appl Environ Microb 45: 1234-41 (1983) (3) Toze S & Zappia L; Water Res 33: 3040-3045 (1999)",
+            "Value": "ANAEROBIC: 4-Nitrotoluene has been observed to be degraded to toluidine under anaerobic biodegradation conditions with little additional biodegradation(1). When incubated at low concentrations (10 ppm), however, complete removal of  4-nitrotoluene has been observed(2). In anaerobic tests using wastewater from a munitions production facility, initial 4-nitrotoluene degraded by 38% in non-sterile conditions and by 25% in sterile conditions over a 36-day incubation period(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 76",
+            "Value": "log Kow = 2.37"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "PMID:6595071",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ To determine whether hepatic macromolecular covalent binding of mononitrotoluene isomers to hepatic DNA in vivo was decreased by inhibitors of sulfotransferase, male Fischer 344 rats were given a single oral dose of ring-U-(14)C-labeled 2-, 3-, or 4-nitrotoluene, and were killed at various times thereafter. Livers were removed and analyzed for total and covalently bound radiolabel. Maximal concentrations of total radiolabel were observed between 3 and 12 hr after the dose, and there were no large differences among the 3 isomers in peak concentrations achieved. Covalent binding to hepatic macromolecules was maximal 12 hrs after administration for all 3 isomers. Thereafter, concentration of covalently bound 2-nitrotoluene derived material were always 2-6 times higher than those of 3- or 4-nitrotoluene derived material. When DNA was isolated from livers of rats given mononitrotoluene isomers 12 hrs previously, only 2-nitrotoluene was observed to covalently bind at concentration above the limits of detection of the assay. The covalent binding of 2-nitrotoluene, but not that of 3- or 4-nitrotoluene, to both total hepatic macromolecules and DNA was markedly decreased by prior administration of pentachlorophenol or 2,6-dichloro-4-nitrophenol. Covalent binding to hepatic DNA was decreased by >96%. Thus, 2-nitrotoluene, but not 3- or 4-nitrotoluene, induces DNA excision repair. Furthermore, 2-nitrotoluene, like the hepatocarcinogen 2,6-dinitrotoluene, may require the action of sulfotransferase for its conversion to a species capable of covalently binding to hepatic DNA."
+        },
+        {
+            "References": "Kovalenko II; Farmakol Toksikol (Kiev) 8: 137-40 (1973)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ When administered orally at doses corresponding to 0.1-0.2 LD50 values in rats for 1-3 months, the hemotoxicity of toluene derivatives decrease in the order: trinitrotoluene, dinitrotoluene, m-nitrotoluene, p-nitrotoluene, and o-nitrotoluene. They caused anemia accompanied by reticulocytosis and a decrease in the level of SH-groups and an increase of fibrinogen in the blood."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 864",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In 14-day studies, male and female F344 rats had doses of 625-20,000 mg/kg in the diet, and B6C3F1 mice had doses of 388-10,000 mg/kg. In male rats, doses over 5,000 mg led to decreased body weight gain, but females were less susceptible. Although no treatment-related gross lesions were noted after 4-nitrotoluene, in male rats liver weights were increased in a dose-related fashion. No hepatic toxicity was seen in mice."
+        },
+        {
+            "References": "PMID:12209183",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/... Because of differences in the metabolism of the 3 isomers and their capability to bind to DNA, comparative toxicity studies of o-, m-, or p-nitrotoluene were conducted in F344 rats and B6C3F1 mice. ... In 14-day studies, o-nitrotoluene, m-nitrotoluene, or p-nitrotoluene was administered in the feed to male and female rats and mice at concentrations ranging from 388 to 20000 ppm (5 animals/chemical/species/sex/dose). There were no effects on survival or clinical signs of toxicity in these studies, although animals at the higher doses showed decreases in body weight gains relative to controls."
+        },
+        {
+            "References": "Dunnick JK et al; Fund Appl Toxicol 22 (3): 411-21 (1994)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... Because of differences in the metabolism of the three isomers and their capabilities to bind to DNA, comparative toxicity studies of o-, m-, and p-nitrotoluene were conducted in F344 rats and B6C3F1 mice. o-, m-, or p-Nitrotoluene was administered in the feed to male and female rats and mice at doses ranging from 625-10,000 ppm for 13 weeks. These doses delivered approximately 40-700 mg/kg bw/day for rats and 100-1700 mg/kg/day for mice. There were no treatment-related effects on survival in any of the studies. Decreased body weights relative to controls occurred in dosed rats and mice in all studies at the higher dose levels and were most pronounced in rats receiving o-nitrotoluene. Mesotheliomas of the tunica vaginalis were observed in 3 of 10 male rats receiving o-nitrotoluene at 5000 ppm, and mesothelial cell hyperplasia was observed in 2 of 10 male rats receiving o -nitrotoluene at 10,000 ppm. Kidney toxicity was observed in male rats receiving o-, m-, or p-nitrotoluene and included hyaline droplet nephropathy and an associated increase in the renal concentration of alpha2U-globulin. Evidence of liver toxicity in the male rats receiving o-nitrotoluene included hepatocyte vacuolization, oval cell hyperplasia, and increased serum bile acids, sorbitol dehydrogenase, and alanine aminotransferase. Although there was no histopathologic evidence of hepatic toxicity in male or female rats given the m- or p-isomers or in female rats given the o-isomer, treatment-related hepatic effects were detected in these groups, as measured by an increase in the relative liver weights and by elevations in serum bile acids and liver-specific enzymes. The spleens of treated male and female rats had a mild increase in hematopoiesis, hemosiderin deposition, and/or congestion. These splenic changes were slightly more prominent in rats administered the o- and p-isomers. Administration of o-, m-, or p-nitrotoluene impaired testicular function in the rat, as shown by testicular degeneration and reduction in the density, motility, and number of sperm cells. Administration of each isomer to rats caused increases in the length of the estrus cycle. The only histopathologic evidence for treatment-related toxicity in mice in the 13-week studies occurred in animals receiving the o-nitrotoluene isomer where the chemical caused degeneration and metaplasia of the olfactory epithelium. These comparative toxicity studies of o-, m-, or p -nitrotoluene showed that all three chemicals caused toxicity in the kidney, spleen, liver, and/or reproductive system in rats. ..."
+        },
+        {
+            "References": "PMID:7988386",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Studies were undertaken to determine the potential immunotoxicity of p-nitrotoluene in female B6C3F1-mice ... administered 200 to 600 mg/kg p-nitrotoluene a day for 14 days by gavage. Mice were evaluated for immunologic or toxicologic parameters on day 15. Mice demonstrated modest dose dependent increases in liver and spleen weights. The livers of mice exposed subchronically to 400 or 600mg/kg showed a mild to moderate swelling of the hepatocytes adjacent to the central veins. The swelling appeared to be reversible and there was no evidence of necrosis. The proportion of monocytes in the blood was decreased. Serum chemistries, bone marrow cellularity and the number of CFU-M and CFU-GM were not changed. A 24% decrease was noted in the percentage of CD4+ T-lymphocytes in the spleen. No dose dependent alteration of peritoneal macrophage numbers or differential count, unstimulated natural killer cell activity, response to B-cell mitogen lipopolysaccharide C3 activity or interferon levels was noted. Resistance to Listeria-monocytogenes but not to Streptococcus-pneumoniae, Plasmodium-yoelii or the B16F10 melanoma was noted along with increased resistance to the PyB6 tumor. The authors conclude that the immune system is an important target for toxicity of p-nitrotoluene. The decreased host resistance to L-monocytogenes may be attributed to the decrease in T-lymphocytes and to a decreased delayed hypersensitivity."
+        },
+        {
+            "References": "Toxicology & Carcinogenesis Studies of p-Nitrotoluene in F344/N Rats and B6C3F1 Mice p.5-6 Technical Report Series No. 498 (2002) NIH Publication No. 02-4432 U.S. Department of Health and Human Services, National Toxicology Program, National Institute of Environmental Health Sciences, Research Triangle Park, NC 27709",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 50 male and 50 female F344/N rats were fed diets containing 0, 1,250, 2,500 or 5,000 ppm p-nitrotoluene (equivalent to avg daily doses of approx 55, 110, 240 mg/kg p-nitrotoluene/kg bw to males and 60, 125 or 265 mg/kg to females for 105 wk. ... Groups of 50 male and 50 female B6C3F1 mice were fed diets containing 0, 1,250, 2,500 or 5,000 ppm p-nitrotoluene (equivalent to avg daily doses of approx 170, 345 or 690 mg/kg to males and 155, 315 or 660 mg/kg to females) for 105 or 106 wk.Under the conditions of these 2-year feed studies there was equivocal evidence of carcinogenic activity of p-nitrotoluene in male F344/N rats based on incr incidences of subcutaneous skin neoplasms. There was some evidence of carcinogenic activity of p-nitrotoluene in female F344/N rats based on incr incidences of clitoral gland neoplasms. There was equivocal evidence of carcinogenic activity of p-nitrotoluene in male B6C3F1 mice based incr incidences of alveolar/bronchiolar neoplasms. There was no evidence of carcinogenic activity of p-nitrotoluene in female B6C3F1 mice exposed to 1,250, 2,500 or 5,000 ppm."
+        },
+        {
+            "References": "PMID:12504353",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ ... o-Nitrotoluene, administered in the feed for up to 2 years, caused clear evidence for cancer at multiple sites in rats and mice. ... In contrast to o-nitrotoluene, p-nitrotoluene given in the feed over approximately the same exposure levels caused only equivocal evidence of carcinogenic activity in male rats (subcutaneous skin neoplasms); some evidence of carcinogenic activity in female rats (clitoral gland neoplasms); equivocal evidence of carcinogenic activity in male mice (lung neoplasms); and no evidence of carcinogenic activity in female mice. Differences in the o-nitrotoluene and p-nitrotoluene carcinogenic activity may be due to differences in the metabolism of the parent compound to carcinogenic metabolites."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V65 421 (1996)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/  Groups of 10 male and 10 female Wistar rats were administered daily by gavage 0.2 g/kg bw 2-nitrotoluene in olive oil, 0.3 g/kg bw 3-nitrotoluene in olive oil, 0.4 g/kg bw 4-nitrotoluene suspended in 1% methylcellulose, olive oil alone or methylcellulose alone on five days per week for three months. At the end of this period, the rats were paired in four groups: (i) five exposed males with five exposed females; (ii) five exposed males with five unexposed females; (iii) five unexposed males with five unexposed females; (iv) five unexposed males and five exposed females. The treatment was continued for three more months. Two deaths were observed in the exposed groups; these were due to errors in performing the intubation procedure. Splenic enlargement was observed in males exposed to each of the three isomers. ... With the 4-isomer, all nine exposed males had testicular atrophy and, in five of these, this was associated with necrosis of the seminiferous tubules. No adverse effect on reproduction or on the offspring was observed for any of the isomers."
+        },
+        {
+            "References": "PMID:1316972",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Prompted by reports of sexual impotence among chemical factory workers exposed to amsonic acid (4,4'-diaminostilbene-2,2'-disulfonic acid) and its synthetic precursors 4,4'-dinitrostilbene-2,2'-disulfonic acid (DNSDSA), 2-methyl-5-nitrobenzenesulfonic acid (MNBSA), and 4-nitrotoluene, the uterine-weight-increasing actions of single intraperitoneal doses of these chemicals were determined at 24 h after treatment in weanling female rats and compared to the results of similar experiments with diethylstilbestrol (DES) ... Doses of 100 mg/kg or less of amsonic acid were either without effects or produced equivocal effects, while uterine weights were increased after doses of 300 and 1000 mg/kg; doses of 3000 mg/kg were clearly toxic. Neither DNSDSA nor MNBSA increased uterine weight after doses that were not overtly toxic. Doses of 10 mg/kg or less of 4-nitrotoluene were without effect, but doses of 30 and 100 mg/kg increased uterine weights without producing overt toxicity; doses of 1000 mg/kg were clearly toxic. While both amsonic acid and 4-nitrotoluene exhibited uterotropic effects, they were both much weaker than DES in this respect."
+        },
+        {
+            "References": "PMID:16641538",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ 4-Nitrotoluene (4-NT) was administered orally at doses of 0, 40, 80, or 160 mg/kg/day by gavage to 24 Crj:CD (SD)IGS rats of each sex per group over two successive generations, and the effects on reproductive capacity in the parental animals and growth and development of the offspring were investigated. In the F0 and F1 parents, increased hepatic and/or renal weights were observed at the doses of 40 mg/kg or more in both generations, with lowered body weights in the F1 case and reduced feeding efficiency, histopathological changes in the kidney and spleen at doses of 80 and 160 mg/kg, as well as worsening of clinical signs and death during the perinatal period at 160 mg/kg in both generations. With regard to effects on the reproductive capacity, reduced vaginal opening was observed at 160 mg/kg in the F1 generation. However, no abnormalities were observed in the endocrine and reproductive organs or in serum hormone levels. In the F1 and F2 offspring, decrease in body weight gain and brain weights was observed at the doses of 80 and 160 mg/kg and reduced viability, with elongation or a tendency for elongation of the male anogenital distance at 160 mg/kg. Thus, the possibility that 4-NT exerted endocrine disrupting effects seems to be very low under the conditions of this study, and when the substance was administered to rats over two generations, doses less than 160 mg/kg/day did not induce any marked adverse effects on the reproductive capacity in the parental animals, with the no observed effect level (NOEL) and the no observed adverse effect (NOAEL) on growth and development in the offspring concluded to be 40 mg/kg/day."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 2",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ In a 13-week subchronic feeding study, all isomers of nitrotoluene were associated with impaired testicular function of the rats, as demonstrated by the histopathologic examination and by measurement of sperm density, mortality, and number. The length of the estrus cycle was increased in rats. Mice showed no signs of reproductive toxicity ..."
+        },
+        {
+            "References": "PMID:15265578",
+            "Value": "/BEHAVIORAL STUDIES/ It has not been known which endocrine disruptors exert their effects on neuronal functions, particularly leading to behavioral alterations. To address this, we examined the effects of p-nitrotoluene, an endocrine disruptor, on rat behavior and gene expression. Single intracisternal administration of p-nitrotoluene (ca. 10 ug) into 5-day-old male Wistar rats caused significant hyperactivity at 4-5 weeks of age. They were about 1.4-fold more active in the nocturnal phase after administration of p-nitrotoluene than control rats. Based on DNA array analyses, p-nitrotoluene decreased more than two-fold the levels of gene expression of the mesencephalic dopamine transporter at 8 weeks old. Thus, it was demonstrated for the first time that p-nitrotoluene definitely affected the developing brain, resulting in hyperactivity in the rat."
+        },
+        {
+            "References": "Miyata R et al; Eisei Shikensho Hokoku 99: 60-5 (1981)",
+            "Value": "/GENOTOXICITY/ p-Nitrotoluene, o-nitrotoluene, and m-nitrotoluene were examined for mutagenic activity in TA92, TA1535, TA100, TA94, and TA98 strains of S typhimurium in the presence and absence of hepatic 9000 x g supernatant (S9) containing the reduced form of nicotinamide-adenine dinucleotide phosphate generating system. ... The S9 fraction was prepared from livers of rats and mice after induction with KC400. p-Nitrotoluene (0.1-1 mg/plate) increased slightly Hist revertants/plate in TA100 over the spontaneous level in the presence of rat liver S9. ... No mutagenic effects were observed in the remaining chemicals, but these compounds had killing effects at 1-3 mg/plate in both the presence and absence of S9. ..."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V65 429 (1996)",
+            "Value": "/GENOTOXICITY/  4-Nitrotoluene did not induce micronuclei in polychromatic erythrocytes after intraperitoneal injection into male BDF1 mice."
+        },
+        {
+            "References": "PMID:6341826",
+            "Value": "/GENOTOXICITY/ The mutagenicities of the o, m, and p-isomers of nitrotoluene ... were tested with or without S9 mix and norharman in the Salmonella assay system. None of the compounds were mutagenic without norharman. ... The induction of mutagenesis with norharman was strong for the o-isomer, weak for the p-isomer, and was not observed for the m-isomer."
+        },
+        {
+            "References": "Huang Q-G et al; Bull Env Contam Toxicol 57 (3): 349-53 (1996)",
+            "Value": "/GENOTOXICITY/ Possible relationships between molecular structure and the genotoxicity of substituted nitrobenzenes were examined. Peripheral blood samples collected from a healthy male volunteer, 25 years old, with no history of exposure to any genotoxic agents were incubated with 1,3-dinitrobenzene, 1,4-dintrobenzene, 1,2-dintrobenzene, 2,4-dinitrotoluene, 2,4-dinitroaniline, 2,4-dinitrophenol, nitrobenzene, 4-nitrotoluene, 4-nitroaniline, 4-nitrophenol, 3-fluoro-4-chloronitrobenzene, 4-chloronitrobenzene, 3,4-dichloronitrobenzene, or 4-bromonitrobenzene for 24 hours at concentrations up to 1,000 millimoles per liter. After exposure, lymphocyte cultures were set up from the blood samples and scored for chromosome aberrations. All dinitro substituted compounds induced chromosome abnormalities. Among the mono nitro substituted compounds, nitrobenzene, 4-nitrotoluene, 4-nitrotoluene, and 4-nitrophenol were also genotoxic. The remaining four mono nitro compounds did not induce chromosome abnormalities. ... /Based on computation of Hansch substituent constants/ the authors suggest that the electron donating substituents on the benzene ring would delocalize the positive charge on the nitrogen atom of the arylnitrenium ion, the ultimate mutagenic species formed from a nitro substituted benzene. This charge delocalization would reduce the energy of the transition state, which, in turn, would accelerate the mutagenic reaction and increase the genotoxic response."
+        },
+        {
+            "References": "DHHS/NTP; Toxicology and Carcinogenesis Studies of p-nitrotoluene (Cas No. 99-99-0) in F344/N Rats and B6C3F1 Mice (Feed Studies) p.6 (2002) Technical Rpt Series No. 498 Pub No. 02-4432. Available from, as of February 23, 2012: https://ntp-server.niehs.nih.gov/",
+            "Value": "/GENOTOXICITY/ p-Nitrotoluene was not mutagenic in any of several strains of S. typhimurium, with or without metabolic activation enzymes (S9). A positive response to p-nitrotoluene was observed in the L5178Y mouse lymphoma cell assay in trials with S9. Significantly increased sister chromatid exchange frequencies were observed in cultured Chinese hamster ovary cells treated with p-nitrotoluene with and without S9. Chromosomal aberrations were also induced in Chinese hamster ovary cells treated with p-nitrotoluene in the presence of S9; no increased aberrations were seen without S9. p-Nitrotoluene did not induce a significant reproducible increase in the frequency of micronuclei in bone marrow polychromatic erythrocytes of male rats or male mice when administered by intraperitoneal injection."
+        },
+        {
+            "References": "DHHS/NTP; Toxicology Studies of o-, m-, and p-Nitrotoluenes (88-72-2, 99-08-1, 99-99-0) Administered in Dosed Feed to F344/N Rats and B6C3F1 Mice p.8 (1993) Technical Rpt Series No. 23 Pub No. 93-3346. Available from, as of February 23, 2012: https://ntp-server.niehs.nih.gov/",
+            "Value": "/GENOTOXICITY/ Unscheduled DNA synthesis (UDS) was increased in in vitro incubations of hepatocytes isolated from both sexes of rats and mice after receiving a single in vivo oral dose of o-nitrotoluene. UDS was not increased in a similar study with male rats given m- or p-nitrotoluene. o-Nitrotoluene also induced s-phase DNA synthesis in hepatocytes of rats but not in those of mice."
+        },
+        {
+            "References": "DHHS/NTP; Toxicology Studies of o-, m-, and p-Nitrotoluenes (88-72-2, 99-08-1, 99-99-0) Administered in Dosed Feed to F344/N Rats and B6C3F1 Mice p.8 (1993) Technical Rpt Series No. 23 Pub No. 93-3346. Available from, as of February 23, 2012: https://ntp-server.niehs.nih.gov/",
+            "Value": "/GENOTOXICITY/ The 3 nitrotoluene isomers were not mutagenic in Salmonella typhimurium strains TA100, TA1535, TA1537, and TA98. Only p-nitrotoluene induced chromosomal aberrations in cultured Chinese hamster ovary (CHO) cells, and this required metabolic activation. Sister-chromatid exchanges were increased in CHO cells following exposure to each isomer; the requirement for metabolic activation varied. Only p-nitrotoluene was studied in the mouse lymphoma L5178Y test; it caused mutations with metabolic activation."
+        },
+        {
+            "References": "PMID:12209183",
+            "Value": "/GENOTOXICITY/ ... Because of differences in the metabolism of the 3 isomers and their capability to bind to DNA, comparative toxicity studies of o-, m-, or p-nitrotoluene were conducted in F344 rats and B6C3F1 mice. ... The 3 nitrotoluene isomers were not mutagenic in Salmonella typhimurium strains TA100, TA1535, TA1537, and TA98. Only p-nitrotoluene induced chromosomal aberrations in cultured Chinese hamster ovary (CHO) cells, and this required metabolic activation. Sister-chromatid exchanges were increased in CHO cells following exposure to each isomer; the requirement for metabolic activation varied. ..Unscheduled DNA synthesis (UDS) was increased in in vitro incubations of hepatocytes isolated from both sexes of rats and mice after receiving a single in vivo oral dose of o-nitrotoluene. UDS was not increased in a similar study with male rats given m- or p-nitrotoluene. ..."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 2",
+            "Value": "/GENOTOXICITY/ Nitrotoluene... induced s-phase DNA synthesis in hepatocytes of rats but not those of mice. ...Sister-chromatid exchanges were increased in Chinese hamster ovary cells following exposure to each isomer."
+        },
+        {
+            "References": "Klaassen, C.D. (ed). Casarett and Doull's Toxicology. The  Basic Science of Poisons. 6th ed. New York, NY:  McGraw-Hill, 2001., p. 445",
+            "Value": "/OTHER TOXICITY INFORMATION/ Exposure to p-nitrotoluene has been demonstrated to suppress the antibody response to sRBC, to decrease the number of CD4+ splenic T cells, and to inhibit the /delayed hypersensitivity response/ to keyhole limpet hemocyanin (KLH). In addition, host resistance to L. monocytogenes was impaired, suggesting the T cell as a primary target."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Yang,K et al; Chemosphere 61: 116-128 (2005) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2011. Available from, as of Feb 1, 2012: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "A log Koc value of 2.14 (Koc = 138) was experimentally determined for 4-nitrotoluene in a single lake sediment from China(1). Using a structure estimation method based on molecular connectivity indices(2), the Koc of 4-nitrotoluene can be estimated to be 363(SRC). According to a classification scheme(3), the estimated and experimental Koc values suggest that 4-nitrotoluene is expected to have high to moderate mobility in soil."
+        }
+    ]
+}

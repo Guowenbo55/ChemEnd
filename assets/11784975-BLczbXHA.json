@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "6692711b303528b49832d7f1"
+    },
+    "CID": {
+        "$numberInt": "11784975"
+    },
+    "Name": "Penoxsulam",
+    "IUPACName": "2-(2,2-difluoroethoxy)-N-(5,8-dimethoxy-[1,2,4]triazolo[1,5-c]pyrimidin-2-yl)-6-(trifluoromethyl)benzenesulfonamide",
+    "CanonicalSMILES": "COC1=CN=C(N2C1=NC(=N2)NS(=O)(=O)C3=C(C=CC=C3OCC(F)F)C(F)(F)F)OC",
+    "Synonyms": [
+        "Penoxsulam",
+        "219714-96-2",
+        "Granite",
+        "Penoxsulam [ISO]",
+        "2-(2,2-difluoroethoxy)-N-(5,8-dimethoxy-[1,2,4]triazolo[1,5-c]pyrimidin-2-yl)-6-(trifluoromethyl)benzenesulfonamide",
+        "784ELC1SCZ",
+        "UNII-784ELC1SCZ",
+        "VIPER",
+        "DTXSID0034803",
+        "HSDB 7887",
+        "DTXCID8014803",
+        "CHEBI:81776",
+        "DE 638",
+        "DE-638",
+        "2-(2,2-difluoroethoxy)-n-(5,8-dimethoxy[1,2,4]triazolo[1,5-c]pyrimidin-2-yl)-6-(trifluoromethyl)benzenesulfonamide"
+    ],
+    "IsomericSMILES": "COC1=CN=C(N2C1=NC(=N2)NS(=O)(=O)C3=C(C=CC=C3OCC(F)F)C(F)(F)F)OC",
+    "INCHI": "InChI=1S/C16H14F5N5O5S/c1-29-10-6-22-15(30-2)26-13(10)23-14(24-26)25-32(27,28)12-8(16(19,20)21)4-3-5-9(12)31-7-11(17)18/h3-6,11H,7H2,1-2H3,(H,24,25)",
+    "INCHIKEY": "SYJGKVOENHZYMQ-UHFFFAOYSA-N",
+    "Formula": "C16H14F5N5O5S",
+    "MolecularWeight": {
+        "$numberDouble": "483.4"
+    },
+    "Description": "Penoxsulam is a member of triazolopyrimidines.",
+    "XlogP": {
+        "$numberDouble": "2.9"
+    },
+    "Complexity": {
+        "$numberInt": "727"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Hydrilla and Eurasian watermilfoil (EWM) are invasive aquatic plants that aggressively compete with native plants, forming dense, monotypic stands. Previous studies have established the selectivity and concentration exposure time requirements for aquatic herbicides used to control hydrilla and EWM; therefore, the objective of this research was to conduct a comparative study evaluating fluridone, triclopyr, and penoxsulam absorption and translocation in these two aquatic plants. Using 14C-labeled herbicides, absorption and translocation were measured over a 192-h time course. On the basis of differences in lipophilicity among the three herbicides (fluridone, penoxsulam, triclopyr), it was expected that fluridone would have the highest accumulation, with significantly lower accumulation for penoxsulam and triclopyr. However, experimental results did not support this hypothesis. Triclopyr accumulation was highest in EWM and was equivalent to fluridone in hydrilla. Penoxsulam absorption and translocation were low in both species. Additionally, accumulation after shoot exposure was approximately three times greater for EWM compared with hydrilla. Shoot-to-root translocation was limited, with a maximum of 12.5% of absorbed triclopyr reaching hydrilla roots 192 h after treatment.",
+            "reference": "Vassios, J. D., Nissen, S. J., Koschnick, T. J., & Heilman, M. A. (2017). Fluridone, penoxsulam, and triclopyr absorption and translocation by Eurasian watermilfoil (Myriophyllum spicatum) and hydrilla (Hydrilla verticillata). J Aquat Plant Manage, 55, 58-64.",
+            "method": {
+                "Test Plant": "Eurasian watermilfoil (EWM) biotype from Colorado and a fluridone-susceptible dioecious hydrilla population from Florida",
+                "Apply Location": "Shoot application",
+                "Plant Grown Condition": "EWM maintained in 1000L tanks year-round. Hydrilla maintained from tubers in 1000L tank year-round. Grown in greenhouse under 400W sodium halide lamps providing ~200 \u03bcmol/m2/s supplemental light. Mid-Nov to late Jan - 10h day length. Late Jan to mid-Nov - 10-15h day length (normal seasonal variation). 24\u00b0C day/18\u00b0C night temperatures. For absorption/translocation study, 15cm apical shoots transferred to 5cm diam jars with topsoil/fertilizer, allowed to root for ~14 days in 30L tanks before treatment.",
+                "Chemical Preparation": "10 \u03bcg/L fluridone with 41.67 kBq 14C-fluridone (1357.9 kBq/mg), 10 \u03bcg/L penoxsulam with 66.67 kBq 14C-penoxsulam (2273.3 kBq/mg), 1 mg/L triclopyr with 66.67 kBq 14C-triclopyr (2689.5 kBq/mg) plus supplemental technical triclopyr.",
+                "Pesticide Application Details for the Plant": "Rooted shoot cuttings transferred to 5cm jars with silica sand/fertilizer, agarose gel layer on top. 3 plants per 4L tank with 3L water. Treated with herbicide solutions.",
+                "Other Information": "3 replicate tanks per species per herbicide treatment. Plants harvested at 6, 12, 24, 48, 96, 192 hours after treatment (HAT). Shoots and roots separated, rinsed. Root exudates collected from sand washings."
+            },
+            "result": "[{\"Plant\": \"Hydrilla\", \"Hours after application\": 6, \"Shoot (ug/g)\": 0.036, \"Root (ug/g)\": 0.12, \"Translocation to roots (% of absorbed)\": 3.064}, {\"Plant\": \"Hydrilla\", \"Hours after application\": 12, \"Shoot (ug/g)\": 0.043, \"Root (ug/g)\": 0.149, \"Translocation to roots (% of absorbed)\": 5.685}, {\"Plant\": \"Hydrilla\", \"Hours after application\": 24, \"Shoot (ug/g)\": 0.055, \"Root (ug/g)\": 0.175, \"Translocation to roots (% of absorbed)\": 4.354}, {\"Plant\": \"Hydrilla\", \"Hours after application\": 48, \"Shoot (ug/g)\": 0.048, \"Root (ug/g)\": 0.21, \"Translocation to roots (% of absorbed)\": 6.572}, {\"Plant\": \"Hydrilla\", \"Hours after application\": 96, \"Shoot (ug/g)\": 0.092, \"Root (ug/g)\": 0.277, \"Translocation to roots (% of absorbed)\": 5.12}, {\"Plant\": \"Hydrilla\", \"Hours after application\": 192, \"Shoot (ug/g)\": 0.145, \"Root (ug/g)\": 0.419, \"Translocation to roots (% of absorbed)\": 6.129}, {\"Plant\": \"Eurasian watermilfoil\", \"Hours after application\": 6, \"Shoot (ug/g)\": 0.0, \"Root (ug/g)\": 0.007, \"Translocation to roots (% of absorbed)\": 1.927}, {\"Plant\": \"Eurasian watermilfoil\", \"Hours after application\": 12, \"Shoot (ug/g)\": 0.004, \"Root (ug/g)\": 0.018, \"Translocation to roots (% of absorbed)\": 3.052}, {\"Plant\": \"Eurasian watermilfoil\", \"Hours after application\": 24, \"Shoot (ug/g)\": 0.004, \"Root (ug/g)\": 0.018, \"Translocation to roots (% of absorbed)\": 1.927}, {\"Plant\": \"Eurasian watermilfoil\", \"Hours after application\": 48, \"Shoot (ug/g)\": 0.004, \"Root (ug/g)\": 0.016, \"Translocation to roots (% of absorbed)\": 1.485}, {\"Plant\": \"Eurasian watermilfoil\", \"Hours after application\": 96, \"Shoot (ug/g)\": 0.009, \"Root (ug/g)\": 0.042, \"Translocation to roots (% of absorbed)\": 4.056}, {\"Plant\": \"Eurasian watermilfoil\", \"Hours after application\": 192, \"Shoot (ug/g)\": 0.023, \"Root (ug/g)\": 0.037, \"Translocation to roots (% of absorbed)\": 1.325}]"
+        },
+        {
+            "content": "Laboratory studies were conducted in 2006 and 2007 to evaluate the effects of temperature and propanil on alligatorweed control with penoxsulam. Biomass reduction of alligatorweed at 42 d after treatment (DAT) compared to nontreated was greatest at 21/11 C (day/night) compared to 26/18 C or 30/25 C for all treatments. Propanil plus penoxsulam reduced biomass less than penoxsulam applied alone, independent of temperature. At 21 and 27 C, delaying propanil application 3 d after penoxsulam provided similar biomass reduction to penoxsulam applied alone. At 27 C and 30 C, delaying propanil application 10 d after treatment was required to achieve biomass reduction greater or equal to penoxsulam applied alone. Absorption and translocation of 14C penoxsulam indicated that propanil reduced absorption of penoxsulam into the treated leaf of alligatorweed 48 h after treatment. This research demonstrates the potential for propanil to antagonize penoxsulam when applied to alligatorweed. Under the most severe antagonistic conditions (30 C) propanil applications following penoxsulam needed to be delayed 10 d to avoid antagonism.",
+            "reference": "Willingham, S. D., Senseman, S. A., McCauley, G. N., & Chandler, J. M. (2008). Effect of temperature and propanil on penoxsulam efficacy, absorption, and translocation in alligatorweed (Alternanthera philoxeroides). Weed science, 56(6), 780-784.",
+            "method": {
+                "Test Plant": "Alligatorweed (Alternanthera philoxeroides)",
+                "Apply Location": "Foliar application",
+                "Plant Growth Condition": "Alligatorweed nodes planted in 3.8 cm diam x 21 cm deep cones with potting mix. Grown in growth chambers with 14 h photoperiod, 30\u00b0C day/25\u00b0C night temperatures. Watered daily and fertilized biweekly with nutrient solution.",
+                "Chemical Preparation": "Formulated penoxsulam at 0.035 kg/ha with 1% v/v crop oil concentrate. Penoxsulam at 0.035 kg/ha plus propanil at 3.36 kg/ha. 14C-penoxsulam labeled on benzene ring, 950 kBq/mmol specific activity, 99.1% radiochemical purity",
+                "Pesticide Application Details for the Plant": "Formulated treatments applied with CO2 backpack sprayer at 140 L/ha to 20-25 cm tall plants with 7-8 leaf pairs..  Within 0.5 h, 6 mL of 14C-penoxsulam solution applied as three 1 mL drops to adaxial surface of 4th leaf pair (representative field rate).",
+                "Other Information": "-"
+            },
+            "result": "[{\"Treatment\": \"Penoxsulam alone\", \"Hours after application\": 1, \"Water wash (% of recovered)\": 94.0, \"Methanol (%)\": 3.4, \"Treated leaf (%)\": 1.1, \"Above Treated leaf (%)\": 0.2, \"Below Treated leaf (%)\": 0.4, \"Roots (%)\": 0.4}, {\"Treatment\": \"Penoxsulam alone\", \"Hours after application\": 12, \"Water wash (% of recovered)\": 71.5, \"Methanol (%)\": 20.6, \"Treated leaf (%)\": 6.5, \"Above Treated leaf (%)\": 0.3, \"Below Treated leaf (%)\": 0.3, \"Roots (%)\": 0.3}, {\"Treatment\": \"Penoxsulam alone\", \"Hours after application\": 24, \"Water wash (% of recovered)\": 57.1, \"Methanol (%)\": 27.0, \"Treated leaf (%)\": 14.4, \"Above Treated leaf (%)\": 0.4, \"Below Treated leaf (%)\": 0.3, \"Roots (%)\": 0.5}, {\"Treatment\": \"Penoxsulam alone\", \"Hours after application\": 48, \"Water wash (% of recovered)\": 43.5, \"Methanol (%)\": 22.9, \"Treated leaf (%)\": 29.3, \"Above Treated leaf (%)\": 1.3, \"Below Treated leaf (%)\": 1.5, \"Roots (%)\": 1.2}, {\"Treatment\": \"Penoxsulam + propanil\", \"Hours after application\": 1, \"Water wash (% of recovered)\": 90.4, \"Methanol (%)\": 7.8, \"Treated leaf (%)\": 0.6, \"Above Treated leaf (%)\": 0.4, \"Below Treated leaf (%)\": 0.3, \"Roots (%)\": 0.2}, {\"Treatment\": \"Penoxsulam + propanil\", \"Hours after application\": 12, \"Water wash (% of recovered)\": 64.3, \"Methanol (%)\": 29.5, \"Treated leaf (%)\": 5.0, \"Above Treated leaf (%)\": 0.5, \"Below Treated leaf (%)\": 0.2, \"Roots (%)\": 0.2}, {\"Treatment\": \"Penoxsulam + propanil\", \"Hours after application\": 24, \"Water wash (% of recovered)\": 63.6, \"Methanol (%)\": 25.7, \"Treated leaf (%)\": 8.1, \"Above Treated leaf (%)\": 1.5, \"Below Treated leaf (%)\": 0.4, \"Roots (%)\": 0.3}, {\"Treatment\": \"Penoxsulam + propanil\", \"Hours after application\": 48, \"Water wash (% of recovered)\": 52.1, \"Methanol (%)\": 24.8, \"Treated leaf (%)\": 18.6, \"Above Treated leaf (%)\": 1.6, \"Below Treated leaf (%)\": 1.1, \"Roots (%)\": 1.3}]"
+        }
+    ]
+}

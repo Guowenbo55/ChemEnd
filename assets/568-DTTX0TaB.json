@@ -1,0 +1,119 @@
+{
+    "_id": {
+        "$oid": "6682e7d7c4e5dba5ffba2299"
+    },
+    "CID": {
+        "$numberInt": "568"
+    },
+    "Name": "DIBENZOFURAN",
+    "IUPACName": "dibenzofuran",
+    "CanonicalSMILES": "C1=CC=C2C(=C1)C3=CC=CC=C3O2",
+    "Synonyms": [
+        "dibenzofuran",
+        "Dibenzo[b,d]furan",
+        "132-64-9",
+        "diphenylene oxide",
+        "Dibenzofurans",
+        "\"2,2-Biphenylene oxide\"",
+        "\"2,2-Biphenylylene oxide\"",
+        "Dibenzo(b,d)furan",
+        "dibenzofurane",
+        "\"(1,1-Biphenyl)-2,2-diyl oxide\"",
+        "\"[1,1-Biphenyl]-2,2-diyl oxide\"",
+        "DTXSID2021993",
+        "CHEBI:28145",
+        "8U54U639VI",
+        "NSC-1245"
+    ],
+    "IsomericSMILES": "C1=CC=C2C(=C1)C3=CC=CC=C3O2",
+    "INCHI": "InChI=1S/C12H8O/c1-3-7-11-9(5-1)10-6-2-4-8-12(10)13-11/h1-8H",
+    "INCHIKEY": "TXCDCPKCNAJMEE-UHFFFAOYSA-N",
+    "Formula": "C12H8O",
+    "MolecularWeight": {
+        "$numberDouble": "168.19"
+    },
+    "Description": "Dibenzofuran is a mancude organic heterotricyclic parent that consists of a furan ring flanked by two benzene rings ortho-fused across the 2,3- and 4,5-positions. It has a role as a xenobiotic. It is a member of dibenzofurans, a polycyclic heteroarene and a mancude organic heterotricyclic parent.",
+    "XlogP": {
+        "$numberDouble": "4.1"
+    },
+    "Complexity": {
+        "$numberInt": "170"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Holoubek L et al; Toxicol Environ Chem 29: 251-60 (1991)",
+            "Value": "Dibenzofuran was found in two samples of pine needles (486.8 and 631.6 ng/g) collected in the vicinity of a manufacturing plant in Czechoslovakia that processes crude tar, but not in 5 other samples of needles and 6 samples of mosses(1)."
+        }
+    ],
+    "animal_concentrations": [
+        {
+            "References": "(1) Holoubek L et al; Toxicol Environ Chem 29: 251-60 (1991) (2) Lebedev AT et al; Sci Total Environ 212: 153-62 (1998)",
+            "Value": "Three of 6 earthworm samples collected in the vicinity of a manufacturing plant in Czechoslovakia that processed crude tar contained 58.4 to 93.9 ng/g of dibenzofuran(1). The concn of dibenzofuran in the eggs of birds of the Baikal region (Russia) were as follows (all ug/kg dry wt): mallard, 14.6; pintail, <5; shoveler, 51.5; tufted duck, 150.5; pochard, 12.8; goose, 34.4; domestic fowl, 53.6-137.5; heron, 48.2; herring gull, 11.2; common gull, 47.0; common tern, 34.4; black headed gull, 26.5; liapwing, 9.2; slavonian grebe, 64.1; marsh sandpiper, 57.8(2)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Lu PY et al; Environ Health Perspect 24: 201-8 (1978) (2) Chemicals Inspection and Testing Institute; Biodegradation and bioaccumulation data of existing chemicals based on the CSCL Japan. Japan Chemical Industry Ecology-Toxicology and Information Center. ISBN 4-89074-101-1 p. 9-12 (1992) (3) Carlson RM et al; Implications to the Aquatic Environment of Polynuclear Aromatic Hydrocarbons Liberated from Northern Great Plains Coal, USEPA-600/3-79-093 (1979) (4) Devillers J et al; Chemosphere 33: 1047-65 (1996) (5) Stephanatos BN, Knorr DF; Hydrocarbon Contam Soils 2: 811-28 (1992) (6) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "Bioconcentration factors (BCF) for dibenzofuran were measured during a 33-day model ecosystem study: alga, 82; snail, 2,858; mosquito, 2,094; fish, 947(1). Equilibrium BCFs in fathead minnows ranged from 1,100 to 1,700 during 28-day flow-through experiments; equilibrium concns were reached after 2 to 4 days of exposure(1). At initial dibenzofuran concns of 5 and 50 ug/l, BCF values for guppies ranged from 524 to 2,420 and 848 to 2,200, respectfully, over a 8-week period(2). Over 97% of the accumulated dibenzofuran was eliminated in 2 days during depuration tests in fathead minnow(3). A log BCF of 3.54 was measured for guppies (Poecilia reticulata)(4). Sea lamprey taken from the Broadhead Creek site (near a coal gasification plant contaminated with coal-tar in Stroudsburg, PA) had a BCF for dibenzofuran of 7.3 liters/kg(5). According to a classification scheme(6), BCF values for fish of 524 to 947(1,2) are high and from 1,100 to 2,420(1,2) are very high(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Biodegradation and  bioaccumulation data of existing chemicals based on the CSCL Japan. Japan Chemical Industry Ecology-Toxicology and Information Center. p. 9-21, ISBN 4-89074-101-1 (1992) (2) Kondo M et al; Eisei Kagaku 34: 188-95 (1988)",
+            "Value": "AEROBIC: Dibenzofuran, present at 100 mg/l, reached 0% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/l and the Japanese MITI test(1). In a 3-day cultivation test using Tama river water and coastal seawater, 22% and 12% of initial dibenzofuran (20 ppm) was degraded(2). On this basis, degradability of dibenzofuran was judged to be moderate-to-difficult(2)."
+        },
+        {
+            "References": "(1) Wittich R-M, et al; Appl Environ Microbiol 58: 1005-10 (1992) (2) Becher D et al; Appl Environ Microbiol 66: 4528-4531 (2000)",
+            "Value": "AEROBIC: A dibenzo-p-dioxin utilizing bacteria (Sphingomonas sp) was isolated from enrichment cultures inoculated with water samples from the river Elbe(1). The isolate grew with both dibenzo-p-dioxin and dibenzofuran as the sole sources of carbon and energy, showing doubling times of about 8 and 5 hr, respectively(1). Cells of the gram-negative bacterium Ralstonia sp. Strain SBUG 290 grown in the presence of biphenyl are able to cooxidize dibenzofuran which has been 1,2-hydroxylated(2). Meta-cleavage of the 1,2-dihydroxydibenzofuran produced 2-hydroxy-4-(3'-oxo-3'H-benzofuran-2'-yliden)but-2-enoic acid, which degraded completely via salicylic acid(2)."
+        },
+        {
+            "References": "(1) Wilson JT et al; Environ Toxicol Chem 4: 721-6 (1985) (2) Ward CH et al; pp. 19-39 in  Transport and Fate Processes in the Subsurface. Water Resour Symp 13 (1986) (3) Lee MD et al;  Dev Ind Microbiol 25: 557-65 (1984) (4) Jensen BK et al; J Contam Hydrol 3: 65-75 (1988) (5)  Thomas JM et al; J Ind Microbiol 4: 109-20 (1989) (6) Mueller JG et al; Appl Environ Microbiol  57: 1277-85 (1991) (7) Dyreborg S et al; J Contam Hydrol 25: 177-97 (1997)",
+            "Value": "AEROBIC: Dibenzofuran was degraded in a few days in laboratory studies using subsurface  materials from a site in Conroe, TX which had been contaminated by creosote chemicals(1). The  rate of dibenzofuran degradation in studies using pristine subsurface materials was relatively  slow and not much faster than in autoclaved controls, 3.9% per week(1). Restriction of oxygen  supply in the non-sterile experiments significantly lowered the degradation rate(1). Once  microbial adaptation had occurred, dibenzofuran rapidly biotransformed as long as an adequate  oxygen supply was present(1). In a laboratory study, factors affecting the biodegradation of  polynuclear aromatics in creosote-contaminated groundwater (Conroe, TX) were examined(2). The  results under specific experimental conditions were (conditions, biodegradation rate, percent  removal): nutrient and dissolved oxygen addition, 57%/wk, 100%; dissolved oxygen addition,  37%/wk, 94%; oxygen limited, 11%/wk, 12%; sterile control, 0%/wk, 0%(2). Groundwater from a  moderately contaminated well was sparged with nitrogen to see the effect of dissolved  oxygen(2); at high (9.0 mg/l) and low (1.8 mg/l) dissolved oxygen, the biotransformation rate  was 65.4%/ day and 39.5%/ day, respectively(2). Dibenzofuran degraded in creosote-contaminated  groundwater at a rate of 18.2-50%/wk with a 1-3 day lag(3). Degradation at an uncontaminated  site was 12.3%/week with a 6 day lag. Degradation was faster in the more highly contaminated  groundwater(3). Dibenzofuran degraded in 5 days (3 day lag period) in single substrate batch  experiments conducted at 10 \u00b0C at pH 7 using groundwater (without aquifer material) from an  oil-contaminated site in Denmark(4). In an analogous experiment using a mixed substrate of  selected nitrogen-and oxygen-containing aromatic compounds, dibenzofuran degraded in 14.5 days  (13 day lag period)(4). When dibenzofuran was aerobically incubated with groundwater from the  periphery of a plume of contamination from creosote, 38% degradation occurred in one week;  dibenzofuran was not detected after 2 weeks(5). In shake flask studies of the biodegradation  of creosote components by indigenous microorganisms in contaminated groundwater at a Superfund  site in Pensacola, FL, 38% and 87% dibenzofuran loss was found after 5 and 14 days incubation,  respectively(6). In a study using aerobic groundwater microcosms, dibenzofuran at 3.3 mg/l  degraded completely after 278 days (lag period = 118 days) from an aquifer contaminated with  creosote compounds while from a background aquifer, benzofuran degraded after 42 days (lag  period = 29 days)(7)."
+        },
+        {
+            "References": "(1) Ellis B et al; Environ Technol 12: 447-59 (1991) (2) Mueller JG et al; Environ Sci Technol 25:  1045-55 (1991)",
+            "Value": "AEROBIC: Indigenous microorganisms at contaminated sites can degrade dibenzofuran if stimulated(1,2). This was demonstrated at a creosote-contaminated site in Sweden where the concn of dibenzofuran at 8 sites, 652 mg/kg (mean), was reduced by an avg of 83% in 4 months(1). In laboratory studies of the biodegradation creosote constituents in soil from a abandoned wood-preserving facility in Pensacola, FL, 76% of dibenzofuran degraded in 1 week of incubation at 23 \u00b0C in special landfarming chambers(2). Analogous experiments performed with sediment resulted in 31% degradation in 12 weeks. Soil amendation did not have a marked effect of degradation(2). The reason suggested for the much slower degradation in sediment was the higher concn (190 times higher) and anaerobic source of the microorganisms in the sediment(2)."
+        },
+        {
+            "References": "(1) Arvin E et al; Int Conf Physiochem Biol Detoxif Hazard Wastes 2: 828-47 (1989)",
+            "Value": "ANAEROBIC: Dibenzofuran was biodegradable in anaerobic microcosms containing groundwater and aquifer material; degradation rates were not given(1)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Vassilaros DL et al; Anal Chem 54: 106-12 (1982) (2) Lindstroem-Seppae P et al; Toxicol Environ Chem 19: 83-6 (1989) (3) Braune B et al; Sci Total Environ 230: 145-207 (1999)",
+            "Value": "Dibenzofuran was qualitatively detected in bullhead catfish from the Black River and Buckeye Lake in OH and in striped bass from the Potomac River(1). Perch caught in oil-contaminated Finnish waters over an 18 month period following a spill and in a control area contained <0.1 and 0.2 ppb of dibenzofuran, respectively in muscle(2). The concn of dibenzofuran in muscle tissue from freshwater fish taken from the Northwest Territories (Canada) in the period 1990-1994 were as follows (all ng/g wet wt): arctic grayling, 0.13-0.17; burbot 0.13-0.15; longnose sucker, 0.27; lake whitefish, 0.30-0.43; lake trout, 0.16-0.21; northern pike, 0.09-0.25; round whitefish, 0.17-0.30; walleye, 0.19-0.22(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 96",
+            "Value": "log Kow= 4.12"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:9860888",
+            "Value": "tricyclic hydrocarbons /such as dibenzofuran/ induce Cyp1a2 gene expression in B6C3F1 mice via an Ah receptor-independent pathway."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Meyer S et al; Anal Chem 71: 4023-9 (1999)",
+            "Value": "SOIL: The concn of dibenzofuran was 5.7 mg/kg in a sandy soil taken from a wood processing plant in Northern Germany(1)."
+        },
+        {
+            "References": "(1) Bieri RH et al; Intern J Environ Anal Chem 26: 97-113 (1986) (2) Fabacher DL et al;  Environ Toxicol Chem 7: 529-43 (1988) (3) Bjoerseth A et al; Sci Total Environ 13: 71-86  (1979) (4) McFall JA et al; Chemosphere 14: 1561-9 (1985) (5) Malins DC et al; Carcinogenesis  6: 1463-9 (1985) (6) Holoubek L et al; Toxicol Environ Chem 29: 251-60 (1991) (7) West WR  etal; Environ Sci Technol 22: 224-8 (1988) (8) Simcik MF et al; Environ Sci Technol 30:  3039-3046 (1996) (9) Huntley SL et al; Arch Environ Contam Toxicol 28: 93-107 (1995) (10)  Phillips CR et al; Mar Environ Res 22: 33-74 (1987) (11) Terashi A et al; Bull Environ Contam  Toxicol 50: 348-55 (1993)",
+            "Value": "SEDIMENT: Dibenzofuran is one of 28 aromatic compounds that has been  regularly detected in surface sediments from the Elizabeth River which flows  into the Chesapeake Bay(1). It was found in sediment from 2 of 5 Great Lakes tributaries at concns of 1.70 and 9.50 ppm(2). Concns detected in sediments  from various sites of a Norwegian fjord receiving industrial effluents ranged  from 6.7 to 918.7 ppb dry wt(3). Sediments collected from Lake Pontchartrain  in LA in 1980 contained levels of 1.9 ppb dry wt(4). Concns in sediments from  Eagle Harbor (near Puget Sound, WA) in 1983, which had been receiving  creosote effluents, ranged from 31 to 3600 ug/kg(5). One of 4 sediment  samples and none of the 5 soil samples collected in the vicinity of a manufacturing plant in Czechoslovakia that processes crude tar contained  dibenzofuran (detection limit = 50 ng/g)(6). The concn in the positive sediment sample was 1315.8 ng/g(6). It was detected in Black River Sediment  near Lorain, OH, the site of a coking plant associated with a steel mill(7).  In sediment samples taken from Lake Michigan (between 1991-1993), the concn  of dibenzofuran ranged from 9.59 to 41.25 ng/g dry wt(8). The concns of  dibenzofuran in sediment cores in northern New Jersey waterways were  (waterway, frequency of detection, median using half of detection limit as  concn in samples where substance was not detected (ppm), maximum detected  (ppm)): Arthur Kill (n=24), 21%, 0.65, 6.0; Hackensack River (n=12), 17%,  0.58, 0.45; Kill Van Kull (n=12), 0%, 0.44, -; Newark Bay (n=45), 7%, 0.60,  13; Passaic River (n=95), 0.3%, 0.65, 74(9). The frequencies of detection and  medians must be treated with caution due, in part, to the high variability in  detection limits (as high as 57 ppm for one sample) which were attributed to matrix effects in the highly contaminated sediment (9). Sediment collected from Georges Bank (off Martha's Vineyard, MA) in 1982 had dibenzofuran levels of 0.94 ug/kg(10). Dibenzofuran was detected, but not quantified in Kondo Bay, Japan, a body of water that received untreated industrial and municipal waste(11)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof  Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 96 (1995) (2) Lyman WJ et  al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9  (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Bedient PB et al; Ground Water 22:  318-29 (1984) (5) Broholm M et al; J Contam Hydrol 39: 309-329 (1999)",
+            "Value": "The Koc of dibenzofuran is estimated as 4,200(SRC), using a log Kow of 4.12(1) and a  regression-derived equation(2). According to a classification scheme(3), this estimated Koc  value suggests that dibenzofuran is expected to have slight mobility in soil(SRC). Monitoring  of dibenzofuran in contaminated groundwater beneath an abandoned creosote facility in Conroe,  TX has suggested that leaching of dibenzofuran may be much more important than predicted from  estimation methods, although soil from this location had a very low organic content and other  co-contaminants present(4). Sorption of creosote compounds (including dibenzofuran) were  measured on natural clayey till soil column(5); a Kd of 4.31 l/kg was measured for  dibenzofuran (in the presence of other creosote compounds)(5)."
+        }
+    ]
+}

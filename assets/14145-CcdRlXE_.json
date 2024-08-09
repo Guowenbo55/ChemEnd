@@ -1,0 +1,69 @@
+{
+    "_id": {
+        "$oid": "6682e912c4e5dba5ffba28c4"
+    },
+    "CID": {
+        "$numberInt": "14145"
+    },
+    "Name": "DICHLOFLUANID",
+    "IUPACName": "N-[dichloro(fluoro)methyl]sulfanyl-N-(dimethylsulfamoyl)aniline",
+    "CanonicalSMILES": "CN(C)S(=O)(=O)N(C1=CC=CC=C1)SC(F)(Cl)Cl",
+    "Synonyms": [
+        "DICHLOFLUANID",
+        "1085-98-9",
+        "Dichlofluanide",
+        "Elvaron",
+        "Euparen",
+        "Euparene",
+        "Oiparen",
+        "Pecudin",
+        "Eparen",
+        "Bayer 47531",
+        "KUE 13032c",
+        "BAY 47531",
+        "KU 13-O32-C",
+        "NSC 218451",
+        "1,1-Dichloro-N-((dimethylamino)sulfonyl)-1-fluoro-N-phenylmethanesulfenamide"
+    ],
+    "IsomericSMILES": "CN(C)S(=O)(=O)N(C1=CC=CC=C1)SC(F)(Cl)Cl",
+    "INCHI": "InChI=1S/C9H11Cl2FN2O2S2/c1-13(2)18(15,16)14(17-9(10,11)12)8-6-4-3-5-7-8/h3-7H,1-2H3",
+    "INCHIKEY": "WURGXGVFSMYFCG-UHFFFAOYSA-N",
+    "Formula": "C9H11Cl2FN2O2S2",
+    "MolecularWeight": {
+        "$numberDouble": "333.2"
+    },
+    "Description": "Dichlofluanid is a member of the class of sulfamides that is sulfamide in which the hydrogens attached to one of the nitrogens are replaced by methyl groups, while those attached to the other nitrogen are replaced by a phenyl and a [dichloro(fluoro)methyl]sulfanediyl group. A fungicide introduced in 1965 and used in the cultivation of fruit and vegetables, as well as in wood preservatives, it is no longer approved for use in the European Union. It has a role as an acaricide and an antifungal agrochemical. It is a member of sulfamides, an organofluorine compound, an organochlorine compound and a phenylsulfamide fungicide. It is functionally related to a sulfamide.",
+    "XlogP": {
+        "$numberDouble": "3.6"
+    },
+    "Complexity": {
+        "$numberInt": "367"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Meylan WM, Howard PH; J Pharm Sci 84: 83-92 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF value of 70 was calculated for dichlofluanid(SRC), using an estimated log Kow of 2.72(1,SRC) and a recommended regression-derived equation(2). According to a recommended classification scheme(3), this BCF value suggests that bioconcentration in aquatic organisms may be an important fate process(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Kubiak R; BCPC Monograph 53: 133-40 (1992)",
+            "Value": "Dichlofluanid, added to a sandy loam and a silt loam was lost due to mineralization of this compound(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 28: 459-65 (1992) (2) Swann RL et al; Res Rev 85: 23 (1983) (3) Kubiak R; BCPC Monograph 53: 133-40 (1992)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc for dichlofluanid can be estimated to be about 1100(SRC). According to a recommended classification scheme(2), this estimated Koc value suggests that dichlofluanid has low mobility in soil(SRC). Dichlofluanid added to a sandy loam and a silt loam was found mainly in the 0-10 cm soil layers of both soils during a three year period(3)."
+        }
+    ],
+    "plant_translocation": [
+        {
+            "References": "Jalali, B. L., & Domsch, K. H. (1977). Effect of some Fungitoxicants on the Amino Acid Spectrum of Wheat Root Exudates. Journal of Phytopathology, 90(1), 22\u201326. doi:10.1111/j.1439-0434.1977.tb02881.x",
+            "Value": "In a study by Jalali and Domsch (1976), the impact of systemic and non-systemic fungicides on the amino acid composition of wheat root exudates was investigated. It was observed that the application of systemic fungicides like triforine and tridemorph led to a reduction in the overall content of total amino acids in the exudates. Despite this decrease, some individual amino acids were found to be released in higher amounts. Interestingly, the release of aromatic amino acids such as phenylalanine and tyrosine was either completely or partially inhibited. On the other hand, the non-systemic fungicide dichlofluanid exhibited fewer effects, apart from the suppression of exudation of glycine and aspartic acid. The diminished exudation of amino acids was found to be compensated to some extent by increased levels of other amino acids like proline, serine, and lysine. However, the study's available data didn't allow for definitive pathway interpretations. This research sheds light on the contrasting effects of systemic and non-systemic fungicides on wheat root exudates' amino acid profiles, contributing to a better understanding of the systemic behavior of these fungitoxicants in plants."
+        }
+    ]
+}

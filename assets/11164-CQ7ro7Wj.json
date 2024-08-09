@@ -1,0 +1,74 @@
+{
+    "_id": {
+        "$oid": "6682e8efc4e5dba5ffba2816"
+    },
+    "CID": {
+        "$numberInt": "11164"
+    },
+    "Name": "Glycidol",
+    "IUPACName": "oxiran-2-ylmethanol",
+    "CanonicalSMILES": "C1C(O1)CO",
+    "Synonyms": [
+        "GLYCIDOL",
+        "556-52-5",
+        "oxiran-2-ylmethanol",
+        "Oxiranemethanol",
+        "2,3-Epoxy-1-propanol",
+        "1-Propanol",
+        "2,3-epoxy-",
+        "Glycide",
+        "Oxiranylmethanol",
+        "Epihydrin alcohol",
+        "3-Hydroxypropylene oxide",
+        "2-(Hydroxymethyl)oxirane",
+        "2,3-Epoxypropanol",
+        "Glycidyl alcohol",
+        "Epoxypropyl alcohol",
+        "Allyl alcohol oxide"
+    ],
+    "IsomericSMILES": "C1C(O1)CO",
+    "INCHI": "InChI=1S/C3H6O2/c4-1-3-2-5-3/h3-4H,1-2H2",
+    "INCHIKEY": "CTKINSOISVBQLD-UHFFFAOYSA-N",
+    "Formula": "C3H6O2",
+    "MolecularWeight": {
+        "$numberDouble": "74.08"
+    },
+    "Description": "Glycidol is an epoxide and a primary alcohol. It is functionally related to a 1,2-epoxypropane.",
+    "XlogP": {
+        "$numberDouble": "-0.9"
+    },
+    "Complexity": {
+        "$numberInt": "35"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Deneer JW et al; Aquat Toxicol 13: 195-204 (1988) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.0. Jan, 2009. Available from, as of Oct 25, 2010: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for glycidol(SRC), using a log Kow of -0.95(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Oct 25, 2010: https://www.safe.nite.go.jp/english/db.html (2) Kaplan BL et al; Appl Environ Microbiol 43: 144-150 (1982)",
+            "Value": "AEROBIC: Glycidol, present at 100 mg/L, reached 85% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1). It was below the detection limit of 1 ppm after approximately 4 days at a test chemical concentration of 100 mg/L and added to an activated sludge inoculum in 250-ml Erlenmeyer shaker flasks incubated in both nutrient broth and basal salts media at 30 \u00b0C. When present as the sole source of carbon present, glycidol was below the detection limit after approximately 10 days(2)."
+        },
+        {
+            "References": "(1) Kaplan BL et al; Appl Environ Microbiol 43: 144 (1982)",
+            "Value": "ANAEROBIC: Glycidol, present at 100 mg/L, was below the detection limit of 1 ppm after approximately 4 days using an activated sludge inoculum in 250-ml Erlenmeyer shaker flasks incubated in both nutrient broth and basal salts media at 37 \u00b0C. When present as the sole source of carbon present, glycidol was below the detection limit after approximately 10 days(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Deneer JW et al; Aquat Toxicol 13: 195-204 (1988)",
+            "Value": "log Kow = -0.95"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Deneer JW et al; Aquat Toxicol 13: 195-204 (1988) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.0. Jan, 2009. Available from, as of DATE: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of glycidol is estimated as 1(SRC), using a log Kow of -0.95(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that glycidol is expected to have very high mobility in soil."
+        }
+    ]
+}

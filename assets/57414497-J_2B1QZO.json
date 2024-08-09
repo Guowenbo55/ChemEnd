@@ -1,0 +1,64 @@
+{
+    "_id": {
+        "$oid": "669270f3303528b49832d755"
+    },
+    "CID": {
+        "$numberInt": "57414497"
+    },
+    "Name": "Triflumezopyrim",
+    "IUPACName": "4-oxo-1-(pyrimidin-5-ylmethyl)-3-[3-(trifluoromethyl)phenyl]pyrido[1,2-a]pyrimidin-1-ium-2-olate",
+    "CanonicalSMILES": "C1=CC2=[N+](C(=C(C(=O)N2C=C1)C3=CC(=CC=C3)C(F)(F)F)[O-])CC4=CN=CN=C4",
+    "Synonyms": [
+        "Triflumezopyrim",
+        "1263133-33-0",
+        "Triflumezopyrim [ISO]",
+        "UNII-VP0231M1ER",
+        "VP0231M1ER",
+        "4-oxo-1-(pyrimidin-5-ylmethyl)-3-[3-(trifluoromethyl)phenyl]pyrido[1,2-a]pyrimidin-1-ium-2-olate",
+        "2,4-Dioxo-1-(5-pyrimidinylmethyl)-3-(3-(trifluoromethyl)phenyl)-2H-pyrido(1,2-a)pyrimidinium inner salt",
+        "DTXSID90155139",
+        "LHZOTJOOBRODLL-UHFFFAOYSA-N",
+        "HY-145296",
+        "CS-0370916",
+        "G71957",
+        "Q27291945",
+        "2,4-Dioxo-1-(pyrimidin-5-ylmethyl)-3-(3-(trifluoromethyl)phenyl)-3,4-dihydro-2H-pyrido[1,2-a]pyrimidin-1-ium-3-ide",
+        "2H-PYRIDO(1,2-A)PYRIMIDINIUM",
+        "2,4-DIOXO-1-(5-PYRIMIDINYLMETHYL)-3-(3-(TRIFLUOROMETHYL)PHENYL)-",
+        "INNER SALT"
+    ],
+    "IsomericSMILES": "C1=CC2=[N+](C(=C(C(=O)N2C=C1)C3=CC(=CC=C3)C(F)(F)F)[O-])CC4=CN=CN=C4",
+    "INCHI": "InChI=1S/C20H13F3N4O2/c21-20(22,23)15-5-3-4-14(8-15)17-18(28)26-7-2-1-6-16(26)27(19(17)29)11-13-9-24-12-25-10-13/h1-10,12H,11H2",
+    "INCHIKEY": "LHZOTJOOBRODLL-UHFFFAOYSA-N",
+    "Formula": "C20H13F3N4O2",
+    "MolecularWeight": {
+        "$numberDouble": "398.3"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "2.9"
+    },
+    "Complexity": {
+        "$numberInt": "794"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Triflumezopyrim, a new insecticide for managing pests in rice plants, was investigated for its uptake and translocation within the rice plant. Through hydroponic treatment, it was observed that triflumezopyrim could efficiently be absorbed by the rice roots and transported upward to the upper leaves. However, in the foliar treatment, while triflumezopyrim was detected in the lower leaves, it was not found in the roots in the short term. This suggests high acropetal translocation within the rice plant, showing a systemic movement of the insecticide. The systemicity of pesticides is influenced by their physical and chemical properties, affecting their movement within the plant. Triflumezopyrim's concentration was mainly concentrated on the treated leaves, indicating a localized effect. This research offers insights into the systemic behavior of triflumezopyrim within rice plants, highlighting its absorption, distribution, and movement within different plant parts, which could guide its application strategies for effective pest management and environmental safety considerations. Further efforts to enhance its systemic conductivity through formulation processing might be considered for practical applications.",
+            "reference": "Fan, T., Chen, X., Xu, Z., Liu, L., Shen, D., Dong, S., & Zhang, Q. (2020). Uptake and translocation of triflumezopyrim in rice plants. Journal of Agricultural and Food Chemistry, 68(27), 7086-7092.",
+            "method": {
+                "Test Plant": "Rice (Oryza sativa)",
+                "Apply Location": "Foliar treatment and hydroponic treatment.",
+                "Plant Grown Condition": "Rice was planted in a greenhouse at the Wenhui Road Campus of Yangzhou University. Water and soil were taken from the paddy field of the experimental farm of Yangzhou University. There was no use of insecticide triflumezopyrim in the paddy field.",
+                "Chemical preparation": "Standard triflumezopyrim was dissolved in chromatographic pure acetonitrile to prepare a 100 mg/L solution, which was then diluted to prepare a series of solutions of 12.5, 3.12, 1.56, 0.78, and 0.02 mg/L.",
+                "Received pesticide of plant": "Triflumezopyrim solutions of 2.5 and 5 mg/L were prepared for hydroponic treatment and foliar treatment. Tween-80 with a volume fraction of 0.1% was added to ensure the expansion of the agent on rice leaves.",
+                "Other Information": "Nine concentrations of triflumezopyrim ranging from 20 to 0.08 mg/L were prepared for determining insecticidal activity against N. lugens."
+            },
+            "result": "[{\"Application details\": \"Hydroponic treat, 2.5 mg/L, 24h\", \"Translocation factor of first leaf\": 0.84, \"Translocation factor of second leaf\": 1.05, \"Translocation factor of third leaf/ root\": 1.19}, {\"Application details\": \"Hydroponic treat, 2.5 mg/L, 48h\", \"Translocation factor of first leaf\": 0.658, \"Translocation factor of second leaf\": 0.892, \"Translocation factor of third leaf/ root\": 0.928}, {\"Application details\": \"Hydroponic treat, 2.5 mg/L, 72h\", \"Translocation factor of first leaf\": 0.748, \"Translocation factor of second leaf\": 0.544, \"Translocation factor of third leaf/ root\": 0.735}, {\"Application details\": \"Hydroponic treat, 5 mg/L, 24h\", \"Translocation factor of first leaf\": 0.588, \"Translocation factor of second leaf\": 0.574, \"Translocation factor of third leaf/ root\": 0.531}, {\"Application details\": \"Hydroponic treat, 5 mg/L, 48h\", \"Translocation factor of first leaf\": 0.56, \"Translocation factor of second leaf\": 0.489, \"Translocation factor of third leaf/ root\": 0.692}, {\"Application details\": \"Hydroponic treat, 5 mg/L, 72h\", \"Translocation factor of first leaf\": 0.496, \"Translocation factor of second leaf\": 0.283, \"Translocation factor of third leaf/ root\": 0.551}, {\"Application details\": \"Foliar apply, 2.5 mg/L, 24h\", \"Translocation factor of first leaf\": 0.0, \"Translocation factor of second leaf\": 0.0, \"Translocation factor of third leaf/ root\": 0.0}, {\"Application details\": \"Foliar apply, 2.5 mg/L, 48h\", \"Translocation factor of first leaf\": 0.258, \"Translocation factor of second leaf\": 0.582, \"Translocation factor of third leaf/ root\": 0.0}, {\"Application details\": \"Foliar apply, 2.5 mg/L, 72h\", \"Translocation factor of first leaf\": 0.22, \"Translocation factor of second leaf\": 0.804, \"Translocation factor of third leaf/ root\": 0.0}, {\"Application details\": \"Foliar apply, 5 mg/L, 24h\", \"Translocation factor of first leaf\": 0.228, \"Translocation factor of second leaf\": 0.621, \"Translocation factor of third leaf/ root\": 0.0}, {\"Application details\": \"Foliar apply, 5 mg/L, 48h\", \"Translocation factor of first leaf\": 0.155, \"Translocation factor of second leaf\": 0.426, \"Translocation factor of third leaf/ root\": 0.0}, {\"Application details\": \"Foliar apply, 5 mg/L, 72h\", \"Translocation factor of first leaf\": 0.155, \"Translocation factor of second leaf\": 0.55, \"Translocation factor of third leaf/ root\": 0.0}]"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "_id": {
+        "$oid": "6682e841c4e5dba5ffba24ad"
+    },
+    "CID": {
+        "$numberInt": "6341"
+    },
+    "Name": "ETHYLAMINE",
+    "IUPACName": "ethanamine",
+    "CanonicalSMILES": "CCN",
+    "Synonyms": [
+        "ETHYLAMINE",
+        "Ethanamine",
+        "Monoethylamine",
+        "Aminoethane",
+        "75-04-7",
+        "1-Aminoethane",
+        "Aethylamine",
+        "Etilamina",
+        "Etyloamina",
+        "Ethyl amine",
+        "CCRIS 6261",
+        "HSDB 803",
+        "UNII-YG6MGA6AT5",
+        "YG6MGA6AT5",
+        "EINECS 200-834-7"
+    ],
+    "IsomericSMILES": "CCN",
+    "INCHI": "InChI=1S/C2H7N/c1-2-3/h2-3H2,1H3",
+    "INCHIKEY": "QUSNBJAOOMFDIB-UHFFFAOYSA-N",
+    "Formula": "C2H7N",
+    "MolecularWeight": {
+        "$numberDouble": "45.08"
+    },
+    "Description": "Ethylamine is a two-carbon primary aliphatic amine. It has a role as a human metabolite. It is a conjugate base of an ethylaminium.",
+    "XlogP": {
+        "$numberDouble": "-0.3"
+    },
+    "Complexity": {
+        "$numberInt": "2"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Irvine WJ, Saxby MJ; Phytochemistry 8: 473-6 (1969)(2) Steiner M, Hartmann T; Planta 79: 113-21 (1968)",
+            "Value": "Ethylamine occurs in tobacco leaves(1) and has been found to be a volatile constituent of marine algae(2)."
+        },
+        {
+            "References": "(1) Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Ethylamine. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Jan 12, 2015: https://www.ars-grin.gov/duke/",
+            "Value": "Ethylamine occurrence in plants(1).",
+            "Table": "[{'Genus species': 'Humulus lupulus L.', 'Family': 'Cannabaceae', 'Common name': 'Hops', 'Part': 'Flower', 'Concn (ppm)': 5.2}, {'Genus species': 'Hordeum vulgare L.', 'Family': 'Poaceae', 'Common name': 'Barley', 'Part': 'Seed', 'Concn (ppm)': 3.4}, {'Genus species': 'Malus domestica', 'Family': 'Rosaceae', 'Common name': 'Apple', 'Part': 'Fruit', 'Concn (ppm)': 3.0}, {'Genus species': 'Zea mays L.', 'Family': 'Poaceae', 'Common name': 'Corn', 'Part': 'Seed', 'Concn (ppm)': 2.4}, {'Genus species': 'Brassica oleracea var captitata l. var capitata', 'Family': 'Brassicaceae', 'Common name': 'Cabbage', 'Part': 'Leaf', 'Concn (ppm)': 1.3}, {'Genus species': 'Daucus carota L.', 'Family': 'Apiaceae', 'Common name': 'Carrot', 'Part': 'Root', 'Concn (ppm)': 1.0}, {'Genus species': 'Glycine max (L.)', 'Family': 'Fabaceae', 'Common name': 'Soybean', 'Part': 'Seed', 'Concn (ppm)': nan}, {'Genus species': 'Crataegus laevigata', 'Family': 'Rosaceae', 'Common name': 'English Hawthorn', 'Part': 'Leaf', 'Concn (ppm)': nan}, {'Genus species': 'Mercurialis annua L.', 'Family': 'Euphorbiaceae', 'Common name': 'Annual Mercury', 'Part': 'Plant', 'Concn (ppm)': nan}, {'Genus species': 'Murraya sp.', 'Family': 'Rutaceae', 'Common name': nan, 'Part': 'Fruit', 'Concn (ppm)': nan}, {'Genus species': 'Nicotiana tabacum L.', 'Family': 'Solanaceae', 'Common name': 'Tobacco', 'Part': 'Leaf', 'Concn (ppm)': nan}, {'Genus species': 'Sambucus nigra L.', 'Family': 'Adoxaceae', 'Common name': 'European Elderberry', 'Part': 'Flower', 'Concn (ppm)': nan}, {'Genus species': 'Vitis vinifera L.', 'Family': 'Vitaceae', 'Common name': 'European Grape', 'Part': 'Fruit Juice', 'Concn (ppm)': nan}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 5 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Jan 9, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3.2 was calculated in fish for ethylamine(SRC), using a log Kow of -0.13(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Thom NS, Agg AR; Proc R Soc London B 189: 347-57 (1975) (2) Malaney GW; J Water Pollut Control Fed 32: 1300-11 (1960) (3) Chudoba J et al; Chem Prum 19: 76-80 (1969) (4) Slave T et al; Rev Chim 25: 666-70 (1974)",
+            "Value": "AEROBIC: Ethylamine is expected to be degraded by biological sewage treatment with suitable acclimation(1). Activated sludge acclimated to aniline removed 34% of theoretical BOD in 130 hours; the initial ethylamine concentration was 500 mg/L(2). Activated and non-activated sludge cultures were observed to rapidly degrade ethylamine(3,4)."
+        },
+        {
+            "References": "(1) Levering PR et al; Arch Microbiol 129: 72-80 (1981)",
+            "Value": "PURE CULTURE: An extract from a methylotrophic bacterium, Arthrobacter sp, oxidized ethylamine to hydrogen peroxide(1), oxuygen and ammonia(SRC)."
+        },
+        {
+            "References": "(1) Hongwei Y et al; Ecotox Environ Safety 63: 299-305 (2006)",
+            "Value": "ANAEROBIC: Ethylamine, present at 100 mg/L total organic carbon, was shown to be partially biodegradable in 50 days using an digester sludge inoculum at 300 mg/L total COD, obtained from a wastewater treatment plant in Beijing, China(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 5",
+            "Value": "log Kow = -0.13"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 715",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ A 70% solution applied to the skin of guinea pigs resulted in prompt skin burns leading to necrosis; when it was held in contact with guinea pigs for 2 hr, there was severe skin irritation  with extensive necrosis and deep scarring."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Ethylamine is irritating to both the skin and eyes of test animals. When applied to the skin of a rabbit, a small amount of redness was produced, indicating the material to be only mildly irritating to the skin. However, severe skin irritation with extensive necrosis and deep scarring was produced by 0,1 mL of a 70% ethylamine formulation held in contact with guinea pig skin for 24 hr. Prompt necrotic skin burns were produced from a 70% solution dropped on the skin of guinea pigs."
+        },
+        {
+            "References": "Directorate-General of Labour, the Netherlands; RA 7/90 (1990)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ After an /inhalation/ experiment in which rats were exposed for four hours to concentrations of 5000-12000 mg/cu m, ethylamine mainly acted on the eyes (swelling and milky look of the cornea, swollen eyes), nose (watery secretion), skin (etching effect on the eyelid), and the lungs (dyspnea). Morphological examination of the animals which died revealed an acute hyperemia in the brain and blood filled spots with border emphysema in the lung."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 715",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In a comparative inhalation study, /researchers/ exposed rabbits repeatedly to measured concentrations of ethylamine, diethylamine, and triethylamine. The three amines produces lung, liver and kidney damage at 100 ppm. The triethylamine produced definite degenerative changes in the heart at 100 ppm, whereas this was an inconstant finding with ethylamine and diethylamine; 50 ppm of these amines was sufficient to produce lung irritation and corneal injury (delayed until 2 weeks with ethylamine)."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rabbits exposed 7hr/day, 5days/week for 6 weeks at 50 ppm ethylamine produced irritation of the lungs and eyes. The lung lesions included peribronchitis and pneumonitis with thickening of small blood vessels. The ocular changes involved multiple epithelial erosions and edema of the cornea along with edema of the nictitating membrane. Focal muscular degeneration of the heart was seen in some rabbits."
+        },
+        {
+            "References": "Directorate-General of Labour, the Netherlands; RA 7/90 (1990)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ After 14 days feeding experiments with 2.5% with mice and rats, megamitochondria are induced. ... Oxidative phosphorylation is not changed and the megamitochondria formation is reversible."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rats exposed 6 hr/day, 5 days/week for 24 weeks at 10 or 100 ppm /ethylamine/ showed no adverse effects. In the same study at 500 ppm, body weight gains were reduced and inflammatory necrosis and squamous metaplasia were seen in the anterior portions of the nose."
+        },
+        {
+            "References": "Mortelmans K et al; Environ Mutagen 8:1-119 (1986)",
+            "Value": "/GENOTOXICITY/ Monoethylamine was tested for mutagenicity in the Salmonella/microsome preincubation assay using the standard protocol approved by the National Toxicology Program. Monoethylamine was tested at doses of 0.10, 0.33, 1.0, 3.3, and 10 mg/plate in as many as 5 Salmonella typhimurium strains (TA1535, TA1537, TA97, TA98, and TA100) in the presence and absence of rat or hamster liver S-9. Monoethylamine was negative in these tests and the highest ineffective dose tested without toxicity in any S. typhimurium strain was 3.3 mg/plate. All cultures at the 10 mg/plate dose exhibited slight to total clearing of the background lawn."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/GENOTOXICITY/ Ethylamine was negative in the Salmonella typhimurium assay, Escherichia coli, and produced an increase in sister-chromatid exchanges in Chinese hamster V79 cells."
+        },
+        {
+            "References": "PMID:1359114",
+            "Value": "/IMMUNOTOXICITY/ Cysteamine, a potent duodenal ulcerogen, stimulates gastric acid and gastrin secretion and decreases immunoreactive somatostatin (IRS) from the gut and hypothalamus of the rat. To elucidate the structural requirements for this effect, /the authors/  tested a series of cysteamine analogs for their IRS decreasing activity in comparison with their nucleophilic and reducing potencies. Adult female rats were sacrificed 4 hr after po administration of the test chemicals given in molar equivalents to 30 mg/100 g of cysteamine-HCl. IRS decreasing activity in gastric mucosa, expressed as percentage of controls is listed in descending order: cystamine (55%), cysteamine (59%), 2-dimethylaminethanethiol (59%), ethylamine (66%), 1,3-propanedithiol (70%), propylamine (75%) and 3-aminothiophenol (79%). ..."
+        },
+        {
+            "References": "PMID:6146312",
+            "Value": "/OTHER TOXICITY INFORMATION/ Rat pancreatic islets contain a Ca2+-activated and thiol-dependent transglutaminase (EC 2.3.2.13) comparable in activity with that found in rat liver, lung and spleen. ...  Preincubation of rat islets with primary-amine substrates of transglutaminase (monodansylcadaverine, methylamine, ethylamine, propylamine and cystamine) led to an inhibition of glucose-stimulated insulin release by these amines. Kinetic analysis of the competitive substrates methylamine, monodansylcadaverine, propylamine and ethylamine for their ability to inhibit islet transglutaminase activity indicated a potency that matched their ability to inhibit glucose-stimulated insulin release. When these amines were tested for their effects on glucose-stimulated protein synthesis and glucose utilization, the most potent inhibitor of insulin release, monodansylcadaverine, had no effect on either process at 100 uM. The amines cystamine, ethylamine, methylamine and propylamine had variable effects on these metabolic processes. For ethylamine, methylamine and propylamine, concentrations were found which inhibited glucose-stimulated insulin release in a manner which was found to be independent of their effects on either glucose oxidation or protein synthesis. Primary amines may therefore inhibit insulin release through their incorporation by islet transglutaminase into normal cross-linking sites. A role for protein cross-linking in the secretory mechanism is suggested."
+        },
+        {
+            "References": "Directorate-General of Labour, the Netherlands; RA 7/90 (1990)",
+            "Value": "/OTHER TOXICITY INFORMATION/ After a total dose of 10.82 g/kg sc applied to rats, ethylamine is a moderate inducer of duodenal ulcers and adrenocortical necrosis."
+        },
+        {
+            "References": "Directorate-General of Labour, the Netherlands; RA 7/90 (1990)",
+            "Value": "/OTHER TOXICITY INFORMATION/ Ethylamine as an uncharged molecule is capable of penetrating the membrane which leads to /an increase/ of pH and disturbances of many cell processes. ..."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Golovnya RV et al; USSR Acad Med Sci pp. 327-35 (1982)",
+            "Value": "SOIL: Ethylamine has been identified as a volatile component of uncultivated soil collected in the Moscow region, Russia; sample date not specified(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 5 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Jan 9, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Perrin DD; Dissociation constants of organic bases in aqueous solution. IUPAC Chem Data Ser, Buttersworth, London (1965) (5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "The Koc of ethylamine is estimated as 7(SRC), using a log Kow of -0.13(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that ethylamine is expected to have very high mobility in soil. Adsorption can be affected by the acidity of the soil; at a higher pH, cations have higher adsorption(SRC). The pKa of ethylamine is 10.87(4), indicating that this compound will exist almost entirely in the cation form in the environment and cations generally adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(5)."
+        }
+    ]
+}

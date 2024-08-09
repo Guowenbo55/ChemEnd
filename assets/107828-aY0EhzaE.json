@@ -1,0 +1,74 @@
+{
+    "_id": {
+        "$oid": "669270fe303528b49832d780"
+    },
+    "CID": {
+        "$numberInt": "107828"
+    },
+    "Name": "Bensulfuron",
+    "IUPACName": "2-[(4,6-dimethoxypyrimidin-2-yl)carbamoylsulfamoylmethyl]benzoic acid",
+    "CanonicalSMILES": "COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)CC2=CC=CC=C2C(=O)O)OC",
+    "Synonyms": [
+        "Bensulfuron",
+        "99283-01-9",
+        "Bensulfuron [ISO]",
+        "2-[(4,6-dimethoxypyrimidin-2-yl)carbamoylsulfamoylmethyl]benzoic acid",
+        "1G14TM383F",
+        "2-((((((4,6-Dimethoxy-2-pyrimidinyl)amino)carbonyl)amino)sulfonyl)methyl)benzoic acid",
+        "2-[[[[[(4,6-dimethoxy-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]methyl]benzoic acid",
+        "UNII-1G14TM383F",
+        "2-[[[[[(4,6-Dimethoxy-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]methyl]benzoic acid; Bensulfuron; Bensulfuron (Free Acid)",
+        "Bensulfuron (free acid)",
+        "SCHEMBL20834",
+        "DTXSID3074949",
+        "CHEBI:132880",
+        "PPWBRCCBKOWDNB-UHFFFAOYSA-N",
+        "Benzoic acid",
+        "2-((((((4,6-dimethoxy-2-pyrimidinyl)amino)carbonyl)amino)sulfonyl)methyl)-"
+    ],
+    "IsomericSMILES": "COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)CC2=CC=CC=C2C(=O)O)OC",
+    "INCHI": "InChI=1S/C15H16N4O7S/c1-25-11-7-12(26-2)17-14(16-11)18-15(22)19-27(23,24)8-9-5-3-4-6-10(9)13(20)21/h3-7H,8H2,1-2H3,(H,20,21)(H2,16,17,18,19,22)",
+    "INCHIKEY": "PPWBRCCBKOWDNB-UHFFFAOYSA-N",
+    "Formula": "C15H16N4O7S",
+    "MolecularWeight": {
+        "$numberDouble": "396.4"
+    },
+    "Description": "Bensulfuron is an N-sulfonylurea that is urea in which a hydrogen attached to one of the nitrogens has been replaced by an (o-carboxybenzyl)sulfonyl group, while a hydrogen attached to the other nitrogen has been replaced by a 4,6-dimethoxypyrimidin-2-yl group. An acetolactate synthase inhibitor, it is used (particularly as its methyl ester, bensulfuron-methyl) as a herbicide for the control of a variety of both annual and perennial weeds in crops, particularly wheat and rice. It has a role as a herbicide and an EC 2.2.1.6 (acetolactate synthase) inhibitor. It is a N-sulfonylurea, an aromatic ether, a member of pyrimidines and a member of benzoic acids.",
+    "XlogP": {
+        "$numberDouble": "1.3"
+    },
+    "Complexity": {
+        "$numberInt": "612"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Root absorption, translocation, and metabolism studies were conducted to determine the selective mode of action of i*C-bensulfuron in rice and Cyperus serotinus Rottb. It was found that rice absorbed a greater amount of bensulfuron compared to Cyperus serotinus. The translocation rates of bensulfuron from roots to shoots were much faster in Cyperus serotinus than in rice plants. Rice plants exhibited a very fast metabolic rate of bensulfuron, while Cyperus serotinus showed a slower metabolic rate. Consequently, after 12 hours of absorption, a greater amount of parent bensulfuron remained in the shoots of Cyperus serotinus compared to rice. These findings suggest that Cyperus serotinus is susceptible to bensulfuron due to its slower metabolic rate and fast translocation rate, while the tolerance of rice may be attributed to its faster metabolic rate.",
+            "reference": "Kwon, C. S., & Pyon, J. Y. (1993). Absorption, translocation and metabolism of bensulfuron in rice and Cyperus serotinus rottb. Korean Journal of Weed Science, 13(2), 75-80.",
+            "method": {
+                "Test Plant": "Rice cultivar, Samgang",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Intact 2-leaf stage rice seedlings were used.",
+                "Chemical Preparation": ":C-bensulfuron supplied by the Du Pont Company, uniformly ring-labeled with a specific activity of 16.6 uCi/mg.",
+                "Pesticide Application Details for the Plant": "Rice seedlings were dipped in 500 ml of 10-6 M 14C-bensulfuron for 3, 6, 12, and 24 hours. For translocation study, after 24-hour exposure to 14C-bensulfuron at 10-6 M, plants were transferred to the bensulfuron-free Kasugai nutrient solution and grown for 1, 3, 5, and 7 days.",
+                "Other Information": "Translocation rate was computed by the ratio of radioactivity in the shoots to that in the whole plants. Each treatment was replicated 3 times."
+            },
+            "result": "[{\"Plant\": \"Rice\", \"Days after treatment\": 0, \"Translocation rate (%)\": 27.72}, {\"Plant\": \"Rice\", \"Days after treatment\": 1, \"Translocation rate (%)\": 55.23}, {\"Plant\": \"Rice\", \"Days after treatment\": 3, \"Translocation rate (%)\": 54.82}, {\"Plant\": \"Rice\", \"Days after treatment\": 5, \"Translocation rate (%)\": 57.49}, {\"Plant\": \"Rice\", \"Days after treatment\": 7, \"Translocation rate (%)\": 57.08}, {\"Plant\": \"Cyperus serotinus\", \"Days after treatment\": 0, \"Translocation rate (%)\": 51.74}, {\"Plant\": \"Cyperus serotinus\", \"Days after treatment\": 1, \"Translocation rate (%)\": 74.53}, {\"Plant\": \"Cyperus serotinus\", \"Days after treatment\": 3, \"Translocation rate (%)\": 75.56}, {\"Plant\": \"Cyperus serotinus\", \"Days after treatment\": 5, \"Translocation rate (%)\": 78.02}, {\"Plant\": \"Cyperus serotinus\", \"Days after treatment\": 7, \"Translocation rate (%)\": 80.9}]"
+        },
+        {
+            "content": "Absorption, translocation, and metabolism studies were conducted to investigate the selectivity and herbicidal action of *C-bensulfuron in two rice cultivars and three paddy weeds at different temperatures. The results showed that absorption of *C-bensulfuron was greater at 30/25\u00b0C compared to 25/20\u00b0C, with cv. Sangpung exhibiting higher absorption than cv. Samgang. Among the paddy weeds, Cyperus serotinus and Sagittaria pygmaea showed greater absorption than Echinochloa crus-galli. Similarly, the translocation rate of bensulfuron was higher at 30/25\u00b0C than at 25/20\u00b0C, and cv. Sangpung exhibited higher translocation rate compared to cv. Samgang. Among the paddy weeds, Cyperus serotinus showed the highest translocation rate, followed by Sagittaria pygmaea and Echinochloa crus-galli. In terms of metabolism, the concentration of the parent compound in rice plants was greater in cv. Sangpung, which was susceptible to bensulfuron, compared to cv. Samgang. Additionally, a higher amount of the parent compound was distributed in the shoots and roots of Cyperus serotinus and Sagittaria pygmaea compared to Echinochloa crus-galli. These findings suggest that the sensitivity of rice cultivars to bensulfuron may be attributed to differences in inactivation metabolic ability, and the phytotoxicity of rice increased at high temperatures due to higher absorption. Furthermore, the higher herbicidal activity of bensulfuron in the three weed species at high temperatures may be associated with increased absorption and translocation.",
+            "reference": "Kang, T. G., & Pyon, J. Y. (1995). Absorption, translocation and metabolism of bensulfuron in rice and weeds at different temperatures. Korean Journal of Weed Science, 15(4), 321-328.",
+            "method": {
+                "Test Plant": "Rice (Oryza sativa, cv. Japonica), barnyardgrass (Echinochloa crus-galli), sicklepod (Senna obtusifolia), Florida beggarweed (Desmodium tortuosum)",
+                "Apply Location": "Foliar application",
+                "Plant Growth Condition": "Temperature maintained at 25/20\u00b0C and 30/25\u00b0C (day/night) in a growth chamber with humidity set at 70-80%",
+                "Chemical Preparation": "14C-bensulfuron with a specific activity of 16.6% Ci/mg and purity of 98%",
+                "Pesticide Application Details for the Plant": "Plants were exposed to 10 \u00b5M of 14C-bensulfuron for 24 hours, then grown in Kasugai nutrient solution for 1, 3, and 5 days.",
+                "Other Information": "-"
+            },
+            "result": "[{\"Plant\": \"Sangpung\", \"Temperatures\": \"25/20\", \"Days after application\": 1, \"Translocation rate (%)\": 28.06}, {\"Plant\": \"Sangpung\", \"Temperatures\": \"25/20\", \"Days after application\": 3, \"Translocation rate (%)\": 39.7}, {\"Plant\": \"Sangpung\", \"Temperatures\": \"25/20\", \"Days after application\": 5, \"Translocation rate (%)\": 55.48}, {\"Plant\": \"Sangpung\", \"Temperatures\": \"30/25\", \"Days after application\": 1, \"Translocation rate (%)\": 47.03}, {\"Plant\": \"Sangpung\", \"Temperatures\": \"30/25\", \"Days after application\": 3, \"Translocation rate (%)\": 45.28}, {\"Plant\": \"Sangpung\", \"Temperatures\": \"30/25\", \"Days after application\": 5, \"Translocation rate (%)\": 36.03}, {\"Plant\": \"Samgang\", \"Temperatures\": \"25/20\", \"Days after application\": 1, \"Translocation rate (%)\": 30.13}, {\"Plant\": \"Samgang\", \"Temperatures\": \"25/20\", \"Days after application\": 3, \"Translocation rate (%)\": 36.35}, {\"Plant\": \"Samgang\", \"Temperatures\": \"25/20\", \"Days after application\": 5, \"Translocation rate (%)\": 44.64}, {\"Plant\": \"Samgang\", \"Temperatures\": \"30/25\", \"Days after application\": 1, \"Translocation rate (%)\": 47.03}, {\"Plant\": \"Samgang\", \"Temperatures\": \"30/25\", \"Days after application\": 3, \"Translocation rate (%)\": 59.15}, {\"Plant\": \"Samgang\", \"Temperatures\": \"30/25\", \"Days after application\": 5, \"Translocation rate (%)\": 36.99}]"
+        }
+    ]
+}

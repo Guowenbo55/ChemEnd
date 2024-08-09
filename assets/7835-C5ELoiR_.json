@@ -1,0 +1,292 @@
+{
+    "_id": {
+        "$oid": "6682e890c4e5dba5ffba263a"
+    },
+    "CID": {
+        "$numberInt": "7835"
+    },
+    "Name": "EPICHLOROHYDRIN",
+    "IUPACName": "2-(chloromethyl)oxirane",
+    "CanonicalSMILES": "C1C(O1)CCl",
+    "Synonyms": [
+        "EPICHLOROHYDRIN",
+        "2-(Chloromethyl)oxirane",
+        "106-89-8",
+        "Epichlorhydrin",
+        "1-Chloro-2,3-epoxypropane",
+        "Oxirane",
+        "(chloromethyl)-",
+        "Epichlorhydrine",
+        "Glycidyl chloride",
+        "Chloromethyloxirane",
+        "1,2-Epoxy-3-chloropropane",
+        "2,3-Epoxypropyl chloride",
+        "Chloropropylene oxide",
+        "Epichloorhydrine",
+        "3-Chloro-1,2-epoxypropane",
+        "Glycerol epichlorhydrin"
+    ],
+    "IsomericSMILES": "C1C(O1)CCl",
+    "INCHI": "InChI=1S/C3H5ClO/c4-1-3-2-5-3/h3H,1-2H2",
+    "INCHIKEY": "BRLQWZUYTZBJKN-UHFFFAOYSA-N",
+    "Formula": "C3H5ClO",
+    "MolecularWeight": {
+        "$numberDouble": "92.52"
+    },
+    "Description": "Epichlorohydrin is an epoxide that is 1,2-epoxypropene in which one of the methyl hydrogens is substituted by chlorine. It is an organochlorine compound and an epoxide. It is functionally related to a 1,2-epoxypropane.",
+    "XlogP": {
+        "$numberDouble": "0.5"
+    },
+    "Complexity": {
+        "$numberInt": "37"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Deneer JW et al; Aquatic Toxicol 13: 195-204 (1988) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated for epichlorohydrin(SRC), using a log Kow of 0.45(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Japan Chemical Industry Ecology - Toxicology and Information Center. ISBN 4-89074-101-1 (1992) (2) Neilson AH; J Appl Bacteriol 69: 445-70 (1990) (3) Krijgsheld KR, van der Gen A; Chemosphere 15: 881-93 (1986) (4) Matsui S et al; Wat Sci Technol 20: 201-10 (1988)",
+            "Value": "AEROBIC: An unspecified amount of epichlorohydrin reached 18% of its theoretical BOD in 1 week using an activated sludge inoculum and the Japanese MITI test(1). Pure cultures were able to biodegrade epichlorohydrin rapidly to 3-chloro-1,2-propanediol(2). Epichlorohydrin achieved 3% of the theoretical BOD in a sewage sludge over a 5 day incubation period, but achieved 14% of the theoretical BOD following acclimation(3). Epichlorohydrin was 67% biodegraded in an activated sludge degradability test following a 1 day acclimation period(4)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Deneer JW et al; Aquat Toxicol 13: 195-204 (1988)",
+            "Value": "log Kow = 0.45"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "USEPA; Health Assessment Document: Epichlorohydrin p.4-6 (1983) EPA 600/8-83-032A",
+            "Value": "The two reactive electrophilic sites, the C-1 carbon in the epoxide ring and C-3, the chlorine-bearing carbon, behave as alkylating agents and can react nonenzymatically with glutathione or protein sulfhydryl groups."
+        },
+        {
+            "References": "USEPA; Health Assessment Document: Epichlorohydrin p.4-8 (1983) EPA 600/8-83-032A",
+            "Value": "3-Chloroglycerophosphate inhibited rat sperm enzyme activities (glyceraldehyde-3-phosphate dehydrogenase and triosephosphate isomerase) and hence glycolysis. Only the S(-) isomer and not the R(+) isomer of 3-chloro-1,2-propanediol produced antifertility or antiglycolytic effects. Since epichlorohydrin has not been shown to have enzyme inhibitory effects, it may be that it is metabolized in vivo to S(-) alpha-chlorohydrin phosphate, to exert its antifertility effect."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "WHO; Environmental Health Criteria Document No. 33: Epichlorohydrin (106-89-8). Available from, as of March 9, 2009: https://www.inchem.org/documents/ehc/ehc/ehc33.htm",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Twenty-four hours after a single 4-hr inhalation exposure of rats to epichlorohydrin levels of 7 - 350 mg/cu m, polyuria was accompanied by increases in kidney weight and in the specific gravity, and the protein and chloride contents of the urine.  In this study, bromosulphthalein retention decreased and the liver weight increased."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-1634  2007.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ No sensitization was observed when epichlorohydrin was repeatedly applied to the skin of guinea pigs at 0.01% in cotton seed oil or in another study using a modified Draize sensitization test. In another study, sensitization in guinea pigs was reported. The test procedure consisted of four applications of epichlorohydrin to the back of the guinea pig, an intradermal injection of Freund's adjuvant at the third application, and a 2-week rest period, followed by a challenge to epichlorohydrin."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-1634  2007.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ A one-drop application of epichlorohydrin to the conjunctival sac of the eyes of rabbits produced edema and hyperemia of the lid and mucous membranes, corneal clouding, sporadic winking, pupil constriction, and reduced eye slit. In another study, application of epichlorohydrin into the eyes of rabbits produced corneal injury."
+        },
+        {
+            "References": "Clayton, G.D., F.E. Clayton (eds.) Patty's Industrial Hygiene and Toxicology. Volumes 2A, 2B, 2C, 2D, 2E, 2F: Toxicology. 4th ed. New York, NY: John Wiley & Sons Inc., 1993-1994., p. 418",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ MARKEDLY IRRITATING TO EYE ON LOCAL CONTACT. VAPORS OF ABOUT 100 PPM ALSO GIVE RISE TO EYE IRRITATION. ... UNDILUTED ... IS INTENSELY IRRITATING TO THE DEPILATED SKIN OF LAB ANIMALS. REPEATED APPLICATIONS LEAD TO WIDESPREAD NECROSIS."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V11 135 (1976)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ REPEATED ORAL ADMIN OF 15 MG/KG BODY WT EPICHLOROHYDRIN PRODUCED REVERSIBLE INFERTILITY IN MALE RATS WITHIN 7 DAYS."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the Threshold Limit Values and Biological Exposure Indices. 5th ed. Cincinnati, OH: American Conference of Governmental Industrial Hygienists, 1986., p. 233",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rats failed to gain weight at a normal rate when exposed at a level of 32 ppm of the vapor for 91 days on a 7 hr/day, 5 day/wk schedule, and similar exposures at 16 ppm resulted in significant increase in kidney size. Trace amt of urinary coproporphyrins were noted at this level. ... Repeated 6 hr exposures at 120 ppm caused lung, liver and kidney injury in rats. Some respiratory distress was observed at 56 ppm, mild irritation at 27 ppm, and vague adverse effects at 17 ppm after 19 exposures. No effects were noted at 9 ppm."
+        },
+        {
+            "References": "Clayton, G.D., F.E. Clayton (eds.) Patty's Industrial Hygiene and Toxicology. Volumes 2A, 2B, 2C, 2D, 2E, 2F: Toxicology. 4th ed. New York, NY: John Wiley & Sons Inc., 1993-1994., p. 420",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... 140 /RATS/ ... EXPOSED 30 DAYS (6 HR/DAY) TO VAPOR CONCN 100 PPM & ... UNEXPOSED FOR REST OF THEIR LIFE-SPAN, @ LEAST 15 ... DEVELOPED SQUAMOUS CELL CARCINOMA OF NASAL CAVITY & 1 ... A NASAL CAVITY PAPILLOMA. IN LIFETIME STUDY ... 30 PPM (6 HR/DAY, 5 DAY/WK) 2/100 RATS HAVE DEVELOPED TUMORS ... NASAL ... & ... LARYNX ... ."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V71 609 (1999)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Adult male and female Sprague-Dawley rats /were treated/ with epichlorohydrin by gavage at dose levels of 3, 7, 19 and 46 mg/kg bw per day for 10 consecutive days and dose levels of 1, 5 and 25 mg/kg bw per day for 90 days. Although mortality was not affected by treatment, other adverse effects were observed. Significant decreases in both final mean body weight and total body weight gain were observed for both sexes at the highest dose level (46 mg/kg bw/day) in the 10-day dosing study; however, this was not observed in the 90-day study. Significant increases in relative kidney weights were seen at the two highest doses (19 and 46 mg/kg bw/day) for both sexes at the end of the 10-day dosing study and in the high-dose group (25 mg/kg bw/day) of each sex at the end of the 90-day study. Relative liver weights were significantly increased in the female high-dose group (46 mg/kg bw/day) and in the two highest-dose groups (19 and 46 mg/kg bw/day) for males in the 10-day dosing study. Increased relative liver weights were also observed in the highest-dose group of each sex at the end of the 90-day dosing study. In addition, relative testis weights were increased in males at the highest dose in the 10-day study. All other relative organ weights were unchanged in both sexes relative to controls. Significant decreases in erythrocyte count, hemoglobin and hematocrit levels were found in the male high-dose group after 10 and 90 days of epichlorohydrin dosing. In both sexes and in both the 10- and 90-day gavage studies, induction of dose-related lesions of the forestomach was observed. Histopathological examination revealed a range of inflammatory and epithelial alterations in both sexes. The most pronounced effect was a dose-related increase in mucosal hyperplasia and hyperkeratosis. The authors suggested that the lowest observable adverse effect level (LOAEL) for oral exposure for both sexes of Sprague-Dawley rats to epichlorohydrin is 3 mg/kg bw per day for 10 days and 1 mg/kg bw per day for a 90-day oral exposure."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V71 610 (1999)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Groups of 20 male and 20 female B6C3F1 mice, Fischer 344 rats and Sprague-Dawley rats were exposed for 6 hr per day on five days per week during a 90-day period to 0, 5, 25 or 50 ppm [0, 19, 95 or 189 mg/cu m] epichlorohydrin vapor. The following clinical signs were evaluated: body weight, hematology, urine analysis, blood serum urea nitrogen, serum alkaline phosphatase activity, serum glutamic pyruvic transaminase activity, serum glutamic oxaloacetic transaminase activity, serum glucose and gross pathology. In addition to histological examination, organ weights and organ: body weight ratios of brain, heart, liver, kidneys, testes, spleen and thymus were determined; the nasal turbinates were the most sensitive organ. Dose-related microscopic changes were seen in the nasal turbinates at 25 and 50 ppm. Other parameters evaluated showed minimal treatment-related effects at the 50 ppm level. No treatment-related effect was detected at the 5 ppm level of exposure."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, 1-chloro-2,3-epoxypropane (106-89-8) p 48 (2000 CD-ROM edition). Available from, as of March, 4 2009: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ /Male and female Wistar rats were exposed to ECH via inhalation at concentrations of 120 (11 exposures), 56 (18 exposures), 27 (18 exposures), 17 (19 exposures), and 9 (18 exposures) ppm for 6 hr/day, 5 days/week./ Groups of 4 males and 4 females rats exposed to ECH vapor: /At 120 ppm/ the groups developed labored breathing during the exposures and exhibited a nasal discharge from the 4th exposure onwards. After a total of 11 exposures, renal damage was evident in 4/8 rats, characterized histologically by atrophy of the peripheral cortical tubules. Necropsies performed at the end of the exposure period revealed lungs with patchy discoloration, congestion, edema and areas of inflammation. /At 56 ppm/ rats demonstrated respiratory distress and nasal discharge after the 10th exposure. However, no abnormalities were noted at necropsy. /At 27 ppm and 17 ppm/ the exposures produced no specific toxic effects apart from the generally poor condition of the rat compared to the colony. /At 9 ppm/ no effects /were observed/."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, 1-chloro-2,3-epoxypropane (106-89-8) p 50 (2000 CD-ROM edition). Available from, as of March, 4 2009: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ /Rats were exposed to concentrations of 0.053, 0.53, and 5.3 ppm ECH via inhalation for 98 days./ The only effects of toxicological significance were observed after exposure to 5.3 ppm. In this group, necropsy at the end of the exposure period revealed emphysematic lungs with bronchopneumonia and small areas of edema. \"Cloudy swelling\" of the epithelium of the kidney convoluted tubules was also observed. Microscopic foci of interstitial hemorrhage and venous congestion were observed in the heart. There were also reported to be severe lesions (unspecified) of the neurons in the medulla oblongata, hippocampus and cerebellum of the brain. From weekly observations made during the exposure period, it was claimed that rats exposed to 5.3 ppm exhibited an increase, compared to controls, in the \"latent reaction period\" of the \"motor-defence response to stimulation with electric current.\" No changes were observed in hematological parameters (eg RBC, WBC) in any of the groups ..."
+        },
+        {
+            "References": "U.S. Environmental Protection Agency's Integrated Risk Information System (IRIS) on Epichlorohydrin (106-89-8). Available from: https://www.epa.gov/iris/index.html on the Substance File List as of March 6, 2009.",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Groups of 23-32 Wistar rats (sex unspecified) /were/ exposed to 68 or 136 ppm epichlorohydrin (266 or 515 mg/cu m), 7 hours/day, 5 days/week (duration-adjusted to 55 and 107 mg/cu m), for 45 exposures. Similar groups of rats were exposed to 0, 5, 8, 17, 21 or 43 ppm epichlorohydrin (19, 30, 64, 80, or 163 mg/cu m) for 90 or 91 exposures (duration-adjusted to 4, 6.3, 13, 17, and 34 mg/cu m). Groups of two hybrid Basanji-Cocker dogs and two Rhesus macaque monkeys (sex unspecified) were also exposed to epichlorohydrin at 0 or 21 ppm (80 mg/cu m) for 90 exposures (duration-adjusted to 17 mg/cu m). Body weights were measured weekly and clinical chemistry was conducted six times during the study. Animals were sacrificed after the last exposure. The kidneys and liver were weighed and the tissues examined for histopathological changes. Exposure-related deaths occurred in rats exposed at 68 ppm or greater. These animals exhibited lung irritation, kidney injury, and weight gain depression. In the rat, a NOAEL of 43 ppm (HEC = 34 mg/cu m) was determined for these extrarespiratory effects. In the 21-ppm exposed monkeys and dogs, lung effects (e.g., hemosiderin deposits, bronchial irritation, and focal proliferation of alveolar septa), and kidney damage (e.g., focal cloudy swelling of the proximal convoluted tubules) were described in the study. However, no incidence data or statistical significance was provided for these findings. The study was also limited because the nasal turbinates were not examined and too few dogs and monkeys were tested."
+        },
+        {
+            "References": "WHO; Environmental Health Criteria Document No. 33: Epichlorohydrin (106-89-8). Available from, as of March 9, 2009: https://www.inchem.org/documents/ehc/ehc/ehc33.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rats received 11 - 80 mg of epichlorohydrin per kg body weight, orally or intraperitoneally, 3 - 7 times a week for 2 - 12 weeks. Reduced body weight gain, an increase in the relative weight of the kidneys, heart, and liver, and hematological changes were observed.  Degeneration of kidney tubuli was found at exposure levels of 40 and 80 mg/kg body weight.  Two rats died (1 at 40 mg/kg and 1 at 80 mg/kg).  The most frequently observed hematollogical changes were a decreased hemoglobin concentration and hematocrit and changes in (differential) white cell counts.  A decreased cytochrome P-450 content was reported in the liver, kidneys, and testes of rats after an oral dose of 80 mg/kg body weight."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-1634  2007.",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rats exposed 6 hours/day for 30 days via inhalation at 100 ppm and then observed for their lifespan, increased inflammation, suppuration, and destruction of the mucous membrane of the nasal turbinates were noted in addition to inflammation of the larynx and trachea. Lung disorders were mainly edema, congestion, and pneumonia. Kidney damage included dilation of cortical and medullary tubules."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-1634  2007.",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In rats exposed at 5.2 to 15.6 ppm for 6.5 months, reduced body weight gains and an increase in the threshold of excitability of the nervous system were noted. Occasional slight thickening of the alveolar walls and the presence of bronchitis were also observed."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V11 135 (1976)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ IN 12 WK...TEST IN RATS INJECTED IP WITH EPICHLOROHYDRIN ... DOSE-RELATED DECR IN HEMOGLOBIN VALUES; WITH DOSES OF 0.056 G/KG BODY WT AN INCR IN SEGMENTED NEUTROPHILS...REDN IN PROPORTION OF LYMPHOCYTES OCCURED AT DOSES ... @ ... 0.022 & 0.056 G/KG BODY WT ... INCR LEUKOCYTE COUNT WAS OBSERVED AFTER CHRONIC EXPOSURE ... CHRONICALLY TO VAPORS ... AT ... 2 MG/CU M. THE MAXIMUM TOLERATED DOSE IN A 13 WEEK SUBACUTE STUDY IN RATS FOLLOWING ORAL ADMIN OF EPICHLOROHYDRIN WAS 45 MG/KG BODY WEIGHT/DAY."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, 1-chloro-2,3-epoxypropane (106-89-8) p 62 (2000 CD-ROM edition). Available from, as of March, 4 2009: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ /Male Sprague-Dawley rats were exposed to 100 ppm ECH via inhalation for 6 hr/day for 30 days./ A mortality rate of 9% was seen among the treated animals within the first 8 weeks of the initial exposure, compared to 0% in the controls. Between 330 and 933 days after the onset of exposure, 13% of the ECH treated rats developed nasal tumors, of which 83% were found to have malignant squamous cell carcinomas. All of the carcinomas and 1 papilloma appeared to have developed from mucosa of the anterior half of the nasal cavity. No such tumors were observed in either sham-exposed or un-treated controls over the same time periods."
+        },
+        {
+            "References": "WHO; Environmental Health Criteria Document No. 33: Epichlorohydrin (106-89-8). Available from, as of March 9, 2009: https://www.inchem.org/documents/ehc/ehc/ehc33.htm",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 50 male and 50 female Wistar rats received 0, 2, and 10 mg of epichlorohydrin per kg body weight in distilled water, by stomach tube, 5 times per week for 104 weeks.  Gross and histo- pathological studies were carried out on all animals; haemotological studies were carried out at week 55 on 10 rats per sex and per dose.  In males, the body weight gain was significantly and dose- dependently reduced.  An elevated mortality rate was noted, reaching a maximum of 60%.  A high mortality rate, especially in females, between weeks 20 and 50 was due to obstruction by hair balls in the intestines, caused by the composition of the diet.  A dose-related decrease was found in the number of leukocytes in the females.  The incidence of hyperplasia of the forestomach epithelium at 0, 2, and 10 mg/kg body weight for female and male rats was 6 and 10%, 24 and 48%, and 14 and 12%, respectively.  The incidence of papillomas at this site was 4 and 2%, 4 and 12%, and 0 and 4%, respectively, and the incidence of carcinomas, 0%, 4 and 12%, and 48 and 70%.  Females were less affected than males.  The first carcinomas appeared after 20 months of exposure."
+        },
+        {
+            "References": "WHO; Environmental Health Criteria Document No. 33: Epichlorohydrin (106-89-8). Available from, as of March 9, 2009: https://www.inchem.org/documents/ehc/ehc/ehc33.htm",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 18 male Wistar rats received epichlorohydrin in the drinking-water at concentrations of 0, 375, 750, and 1500 mg/litre over a period of 81 weeks.  At intervals, the exposure was stopped for some days because of the poor condition of the rats.  The average total intakes were, respectively, 0, 8.8, 15.7, and 26.6 mg per rat, per day.  All surviving rats were examined at 81 weeks. The survival rates were, respectively, 55, 50, 55, and 67%.  Body weights were reduced in a dose-related manner.  The incidence of hyperplasia of the forestomach epithelium at 0, 375, 750, and 1500 mg/litre was 0, 78, 90, and 100%, respectively. The incidence of papillomas was 0, 0, 10, and 58%, respectively, and the incidence of carcinomas, 0, 0, 10, and 17%, respectively.  The number of tumours of the forestomach per rat rose from 5.6 at the lowest dose level to 32.8 at the highest.  Two out of the 12 surviving rats receiving 1500 mg/litre had squamous cell carcinomas in the oral cavity."
+        },
+        {
+            "References": "WHO; Environmental Health Criteria Document No. 33: Epichlorohydrin (106-89-8). Available from, as of March 9, 2009: https://www.inchem.org/documents/ehc/ehc/ehc33.htm",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Each of a group of 50 female ICR/HA Swiss mice received a dose of 1.0 mg of epichlorohydrin in tricaprylin, subcutaneously, once a week, for up to 580 days.  A group of 100 mice did not receive any treatment and a group of 50 mice received the vehicle only.  Local skin sarcomas were found in 6 treated mice and 1 vehicle-treated mice.  A local adenocarcinoma was found in one treated rat.  The median survival time was 486 days."
+        },
+        {
+            "References": "WHO; Environmental Health Criteria Document No. 33: Epichlorohydrin (106-89-8). Available from, as of March 9, 2009: https://www.inchem.org/documents/ehc/ehc/ehc33.htm",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Each of a group of 30 female ICR/HA Swiss mice received an intraperitoneal dose of 1.0 mg of epichlorohydrin in tricaprylin, once a week, for up to 450 days.  A group of 100 mice did not receive any treatment and a group of 50 mice received the vehicle only.  Papillary tumours were observed in the lungs of 11 exposed and 10 vehicle control mice."
+        },
+        {
+            "References": "WHO; Environmental Health Criteria Document No. 33: Epichlorohydrin (106-89-8). Available from, as of March 9, 2009: https://www.inchem.org/documents/ehc/ehc/ehc33.htm",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 100 male Sprague-Dawley rats were exposed for their lifetime (16 - 136 weeks), for 6 hr per day and 5 days per week, to epichlorohydrin vapour at concentrations of 38 and 113 mg/cu m air. The controls comprised 100 air-treated and 50 untreated rats. Survival was poor in both exposed and unexposed rats.  A mortality rate of 45% was reached in week 45 at 38 mg/cu m air and in week 60 at 113 mg/cu m air.  After week 40, a reduced body weight gain was seen at 113 mg/cu m air.  In all cases, severe lung congestion, bronchiolectasis, and pneumonia were observed.  At the highest concentration, 1 papilloma was detected in the nasal cavity after 57 weeks and 1 squamous cell carcinoma after 107 weeks.  At 38 mg/cu m, 1 pituitary adenoma was found compared with two at 113 mg/cu m air. No tumours were detected in the controls.  The kidney tubules were dilated and degenerated in 24% of air-treated rats, in 37% of the rats exposed to epichlorohydrin at 38 mg/m3, and in 65% of the rats exposed to 113 mg/cu m."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-1634  2007.",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ No tumors were noted in mice treated dermally with 2 mg of epichlorohydrin 3 times/week for 580 days. Similarly, in mice treated dermally with a \"brushful\" of epichlorohydrin 3 times/week, no tumors were noted during their lifetime. In an initiation-promotion study, mice received a single 2- mg dermal dose of epichlorohydrin. Two weeks later, a promoter [phorbol myristate acetate (PMA)] was applied three times weekly to the same site. A significant number of skin papillomas and one carcinoma were observed in treated animals as compared to controls. In mice that were injected subcutaneously with 1 mg epichlorohydrin weekly for 580 days, sarcomas and an adenocarcinoma developed at the injection site. In mice treated 3 times/week for 8 weeks either orally with a 100-mg/kg dose or given intraperitoneal injections at 20, 50, or 100 mg/kg and sacrificed at 24 weeks, a statistically significant increase in lung tumors was noted at the 100-mg/kg intraperitoneal dosage"
+        },
+        {
+            "References": "Searle, C. E. (ed.). Chemical Carcinogens. ACS Monograph 173. Washington, DC: American Chemical Society, 1976., p. 174",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ 5 UMOLES ADMIN TO MOUSE GAVE THESE TUMORS: 3% SKIN; 10% MALIGNANT LYMPHOMAS; 3% PULMONARY ADENOMAS. /FROM TABLE/"
+        },
+        {
+            "References": "Toth GP et al; Fund and Appl Toxicol 13 (1): 16-25 (1989)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Measurements were taken of fertility rates, litter sizes, and pup weights during development for female Long-Evans hooded rats exposed to epichlorohydrin prior to ovulation through fertilization and gestation. Epichlorohydrin treatment prior to fertilization and gestation was initiated for the purpose of studying possible effects on the hormonal regulation of the estrous cycle and to study changes in copulatory behavior as a manifestation of an adverse effect on the central nervus system. Male rats were dosed with 12.5, 25, or 50 mg/kg/day orally for 21 days. Females were treated similarly with 25, 50, or 100 mg/kg/day. The animals were paired with untreated mates. Fertility at the high dose male group was totally impaired. Female reproduction was unchanged. Treated males showed normal copulatory behavior. No statistical differences were noted for either sperm morphology or percentage motile sperm in both ejaculated and cauda epididymal samples from treated males. At the 50 mg/kg dose level, the number of sperm in ejaculates was normal while cauda epididymal sperm count was slightly decreased. At 12.5 mg/kg/day dose levels and above the man curvilinear velocity, straight line velocity, and amplitude of lateral head displacement or cauda epididymal sperm were significantly reduced. A reduction was also noted in sperm track linearity, but only at the 50 mg/kg/day dose level. A significant increase was noted in beat/cross frequency of sperm at 12.5 mg/kg/day and above. Dose dependent trends were noted in all of the above sperm motion parameters."
+        },
+        {
+            "References": "Slott VL et al; Govt Reports Announcements & Index (GRA&I) Issue 9, NTIS/PB91-149732 (1991)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ The effect of inhaled epichlorohydrin on rat sperm motility characteristics was evaluated. Male F-344 rats were exposed to 100 ppm epichlorohydrin via inhalation for 4 hrs on the morning of day 0 and killed immediately and on day 1, 2, 6 and 14 postexposure. Videotapes of cauda epididymal sperm were analyzed (300-350 sperm/sample) with a Hamilton Thorn Motility Analyzer. Epichlorohydrin did not affect the percentage of motile sperm at any time. However, transient changes in sperm velocity were found. On day 1 postexposure mean progressive (straight-line) and mean path (smoothed curvilinear) velocity were significantly decreased to 80% and 85% of control, respectively. The progressive velocities of sperm from both control and treated rats were normally distributed, indicating a general effect of epichlorohydrin on all sperm as opposed to a more severe effect on a spsecific sperm subpopulation. Both velocities remained slightly but significantly decreased on day 2 (92% and 93% of control for progressive and path velocity, respectively), and were unaffected at later timepoints. Other endpoints (testis and epididymis weights, testicular spermatid counts adn cauda epididymal sperm reserves) were unaltered by epichlorohydrin. Thus, inhaled epichlorohydrin produced specific, transient decreases in rat sperm velocity."
+        },
+        {
+            "References": "Marzulli, F.N., H.I. Maibach. Dermatotoxicology 4th ed. New York, NY: Hemisphere Publishing Corp., 1991., p. 706",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ There is evidence that epichlorohydrin may have adverse reproductive effects in animals, including testicular damage, estrous-cycle changes, intrauterine growth retardation, intrauterine death, congenital malformation, and alterations in postnatal development."
+        },
+        {
+            "References": "U.S. Environmental Protection Agency's Integrated Risk Information System (IRIS) on Epichlorohydrin (106-89-8). Available from: https://www.epa.gov/iris/index.html on the Substance File List as of March 6, 2009.",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ In a developmental toxicity study pregnant Sprague-Dawley rats (43-46/group) and New Zealand white rabbits (20-25/group) were exposed to 0, 2.5, or 25 ppm (0, 9.5, and 95 mg/cu m) epichlorohydrin, 7 hours/day, on gestational days 6-15 or 6-18 for rats and rabbits, respectively. Animals were sacrificed on the last day of gestation (day 21 for rats and day 29 for rabbits). Maternal body weight and liver weight were recorded and fetuses were examined for external, soft tissue (one-third fetuses), and skeletal abnormalities. In the high-concentration rats, maternal weight was significantly decreased on days 6, 8, 10, 12, and 16 of gestation. However, maternal weights were reported to be significantly less prior to exposure (data not provided in report) so this is not a reliable indication of maternal toxicity. In addition, maternal weight gain was not significantly reduced except on day 6. Food consumption was significantly lowered on gestational days 6-14 while water consumption was increased on gestational days 9-20 in the rats. In the 32-36 litters per group examined, there were no significant effects on fetal body weight, number of corpora lutea, live fetuses, implantations, resorptions, or malformations. In the 16- 23 litters per group of rabbits examined, no effects on maternal toxicity or developmental effects were observed. Although the nose, trachea, and lungs were preserved at necropsy, no histological observations are reported. This study demonstrates a free-standing NOAEL of 25 ppm (HEC /human equivalent concentration/ = 95 mg/cu m) for maternal and developmental toxicity."
+        },
+        {
+            "References": "PCS; Health and safety guide No. 8 on Epichlorohydrin (1987). Available from, as of March 9, 2009: https://www.inchem.org/documents/hsg/hsg/hsg008.htm",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Exposure to epichlorohydrin induced sterility in male rodents."
+        },
+        {
+            "References": "Fishbein L; Potential Indust Carcins & Mutagens p.45 (1977) EPA 560/5-77-005",
+            "Value": "/GENOTOXICITY/ Epichlorohydrin (without metabolic activation) at concn of 50 mM for an hr induced reverse mutations in Salmonella typhimurium G46 and TA100 tester strains. The mutagenic activity with TA1535 tester strain was markedly reduced in the presence of liver homogenates. Epichlorohydrin produced reverse mutations in Escherichia coli and in Neurospora crassa, recessive lethal mutations in Drosophila melanogaster, and was mutagenic in Klebsiella pneumoniae."
+        },
+        {
+            "References": "Fishbein L; Potential Indust Carcins & Mutagens p.46 (1977) EPA 560/5-77-005",
+            "Value": "/GENOTOXICITY/ Doses of 50 and 100 mg/kg of epichlorohydrin after 3 hr increased the frequency of reverse mutations using Salmonella typhimurium strains G46, TA100, and TA1950 in ICR female mice in a host-mediated assay."
+        },
+        {
+            "References": "Fishbein L; Potential Indust Carcins & Mutagens p.46 (1977) EPA 560/5-77-005",
+            "Value": "/GENOTOXICITY/ Mutagenic activity (as determined with the TA 1535 strain of Salmonella typhimurium) was detected in the urine of mice after oral administration of 200-400 mg/kg epichlorohydrin. ..."
+        },
+        {
+            "References": "Fishbein L; Potential Indust Carcins & Mutagens p.46 (1977) EPA 560/5-77-005",
+            "Value": "/GENOTOXICITY/ Epichlorohydrin induced dose-dependent chromosome abnormalities in bone marrow of ICR mice injected ip to a single dose of 1-50 mg/kg or repeated doses of five times at 5-20 mg/kg, or given po in a single dose of 5-100 mg/kg or repeated doses of five times at 20 mg/kg. Epichlorohydrin did not induce any dominant lethal mutation in ICR mice when given ip in a single dose of 5-40 mg/kg, 150 mg/kg, repeated doses of five times at 1-10 mg/kg, po in a single dose of 20 or 40 mg/kg or by repeated doses at five times at 4-20 mg/kg."
+        },
+        {
+            "References": "De Serres FJ, Hollaender A; Chemical Mutagens Vol 8 p.302 (1983)",
+            "Value": "/GENOTOXICITY/ Epichlorohydrin induces reverse mutation presumably through base-pair substitution in Salmonella strains TA1535 and TA100 without addition of S-9. The urine of exposed humans and mice also gives positive results in Salmonella without further metabolic activation."
+        },
+        {
+            "References": "De Serres FJ, Hollaender A; Chemical Mutagens Vol 8 p.302 (1983)",
+            "Value": "/GENOTOXICITY/ Forward mutations are produced in Neurospora in the absence of exogenous activation."
+        },
+        {
+            "References": "De Serres FJ, Hollaender A; Chemical Mutagens Vol 8 p.302 (1983)",
+            "Value": "/GENOTOXICITY/ Primary DNA damage tests using repair-proficient and deficient bacteria show largely positive results in the presence of activation."
+        },
+        {
+            "References": "PMID:2495439",
+            "Value": "/GENOTOXICITY/ The Drosophila wing somatic mutation and recombination test was applied to a series of chemicals to determine its suitability in genotoxicity screening. Epichlorohydrin was weakly positive in the sex linked recessive lethal test, but only after injection. Inhalation testing of 3 day old larvae for 1 hour showed inconclusive results for the lowest exposure (1 uL liquid injected into 1150 mL air), positive for small and large single spots and inconclusive for twin spots at the intermediate exposure (2 uL), and positive for all three mutations at the highest exposure (4 uL)."
+        },
+        {
+            "References": "Au WW et al; Teratogen, Carcinogen, & Mutagen 10 (2): 125-34 (1990)",
+            "Value": "/GENOTOXICITY/ The use of cytogenetic assays in genotoxic investigations was discussed and in vivo cytogenetic investigations conducted in mice and rats were reviewed. An inhalation investigation of the effects of a 1:1:0.5:1 mixture of benzene, chloroprene, epichlorohydrin, and xylene in CD-1 mice at concentrations up to 10 ppm, using induction of chromosome aberrations in splenic lymphocytes as the endpoint, revealed that low and medium doses increased the frequency of chromosome aberrations, whereas high doses decreased it."
+        },
+        {
+            "References": "PMID:2405262",
+            "Value": "/GENOTOXICITY/ The genotoxicity of monofunctional alkylating agents and their carcinogenicity potency in rodents were examined. Epichlorohydrin, was one several compounds which was tested for its genotoxic potential in a specially designed Escherichia coli assay system (Escherichia coli multitest). The multitest consisted of a set of Escherichia coli mutants created by fusing the cI and cro region and gal operon of two strains, MT103 and MT119. The endpoints were increases in mutation and recombination frequency and RecA-dependent protease activity (SOS induction). Increases in mutation and recombination frequency and numbers of SOS induction colonies induced by the alkylating agents were compared with previously published data obtained in carcinogenesis studies in rats. When analyzed separately, increases in mutant and recombinant frequencies and SOS induction colonies induced by the compounds did not correlate well with their carcinogenic potencies. When product of the mutant and recombinant frequencies were analyzed, it correlated well the in vivo carcinogenic potencies, correlation coefficient 0.95. Escherichia coli multitest is a rapid, simple test for assessing the correlation between carcinogenicity and genotoxicity of DNA damaging agents."
+        },
+        {
+            "References": "PMID:2651116",
+            "Value": "/GENOTOXICITY/ High purity and oxirane-stabilized trichloroethylene samples were tested for their mutagenic potential in Slmonella typhimurium strains TA 1535, TA 98, and TA 100. Stabilized trichloroethylene was tested using a preincubation protocol up to a dose level of 10,000 ug per plate, but no mutagenic response was observed in either the presence or absence of a supplementary metabolic activation system (S9 mix) derived from Aroclor 1254-induced male rat liver. Trichloroethylene without oxirane stabiliers also was nonmutagenic when tested in a vapor delivery system at nominal concentrations of up to 20% and using S9 mix derived from either rat or hamster. Trichloroethylene containing 0.5-0.6% 1,2-epoxybutane did induce mutagenic responses from strains TA 1535 and TA 100 in the presence and absence of S9 mix. The lowest effective dose was about 0.63% in TA 1535 in the absence of S9 mix. Vapor-phase tests with 1,2-epoxybutane showed that an atmospheric concentration of 0.009% could induce 12-fold and 3-fold increases, respectively, in strains TA 1535 and TA 100. These increases would account for the mutagenic activity of the stabilized trichloroethylene sample. Epichlorohydrin (another commonly used stabilizer) induced similar increases in mutant numbers at an atmospheric concentration of 0.0009%."
+        },
+        {
+            "References": "PMID:2034243",
+            "Value": "/GENOTOXICITY/ Deuterated and non-deuterated N-nitrosodimethylamine, epichlorohydrin and dimethyl sulfate were evaluated for the ability to induce DNA single-strand breaks in rat hepatocytes as measured by alkaline elution. Non-deuterated nitrosodimethylamine induced twice the amount of DNA-strand breaks as the deuterated form. No evidence of a deuterium isotone effect was seen for the direct-acting alkylating agents epichlorohydrin and dimethyl sulfate."
+        },
+        {
+            "References": "PMID:11137062",
+            "Value": "/GENOTOXICITY/ Alkyl epoxides have shown genotoxicity in many toxicology assays which has been associated with their covalent binding to DNA. Here aspects of the formation and properties of DNA adducts, induced by ... propylene oxide, epichlorohydrin, /and/ allyl glycidyl ether ... /are discussed/. The major DNA adducts formed by epoxides are 7-substituted guanines, 1- and 3-substituted adenines and 3-substituted cytosines. ... In vivo the main adduct is the 7-substituted guanines. The 1-substituted adenines have also shown marked levels, and these adducts should also be targets in biomonitoring of human exposures. Due to its low mutagenicity, 7-substituted guanines are considered as a surrogate marker for other mutagenic lesions, eg. those of 1-adenine or 3-uracil adducts."
+        },
+        {
+            "References": "PMID:17441735",
+            "Value": "/GENOTOXICITY/ Occupational exposure to epichlorohydrin (ECH)/ ... leads to chromosomal aberrations, and ECH has been shown previously to undergo reaction with DNA in vivo and in vitro. ... Denaturing polyacrylamide gel electrophoresis to monitor the possible formation of interstrand cross-links within DNA oligomers by ECH and the related compound, epibromohydrin (EBH). Although both compounds did indeed form cross-links between deoxyguanosine residues, EBH was a more efficient cross-linker than ECH. The optimal pH for cross-linking also varied, with ECH more efficient at pH 5.0 and EBH more efficient at pH 7.0. Both agents were relatively flexible in the sequences targeted, with comparable efficiencies for 5'-GGC and 5'GC sites. Furthermore, interstrand cross-linking by the two optical isomers of ECH correlated with their relative cytotoxicities, with R-ECH about twice as potent as S-ECH."
+        },
+        {
+            "References": "PMID:16369459",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ ... To gain a better understanding of epichlorohydrin (ECH) effects in vivo, the substance was tested on developing tissues utilizing the chick embryo chorioallantoic membrane (CAM) assay. ... Gelatin sponges adsorbed with ECH were implanted onto nine-day CAMs. After five days the membranes were fixed, cut in serial sections, and stained with toluidine blue. Sections of the ECH-treated CAMs were also submitted to immunocytochemistry for the basal lamina glycoprotein laminin and the gap junction protein connexin 43 (Cx43). Control CAMs were treated with saline solution and submitted to identical procedures. ... ECH-treated CAMs displayed proliferation of both the epithelial layers and the mesenchyme cells and vessels. The laminin immunolabeling was interrupted beneath the ectoderm thickenings, which penetrated the mesenchyme. The endoderm showed papilloma-like formations and its laminin-positive basal membrane protruded toward the mesenchyme, together with clusters of endodermal cells. The mesenchyme showed increased numbers of cells and microvessels. These reactions were restricted to regions corresponding to the implant. Cx43 expression was strongly decreased in the ECH-treated CAMs compared with the controls, where the connexin punctate pattern regularly decorated the epithelial cell contours. ... The study confirms that ECH elicits tissue proliferation at the contact site and corroborates the suggestion of an ECH carcinogenic effect due to hallmarks of tumoral growth, such as angiogenesis, basal membrane alterations, and loss of intercellular communication via gap junctions."
+        },
+        {
+            "References": "PMID:16549090",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Epichlorohydrin (a probable human carcinogen) was allowed to react with adenosine and the adducts were characterized by NMR and UV spectroscopy, and mass spectrometry. The adduct initially formed was 1-(3-chloro-2-hydroxypropyl)-adenosine, which subsequently ring closures to 1,N(6)-(2-hydroxypropyl)-adenosine at neutral and basic conditions. At acid conditions, the N-1 adduct undergoes a slow deamination to yield 1-(3-chloro-2-hydroxypropyl)-inosine. Minor adducts identified were 7-(3-chloro-2-hydroxypropyl)-adenosine and 3-(3-chloro-2-hydroxypropyl)-adenosine which are easily deglycosylated, and an adduct where the epichlorohydrin residue was attached to the sugar moiety of adenosine. A diadduct, 1,N(6)-(2-hydroxypropyl)-N(6)-(3-chloro-2-hydroxypropyl)-adenosine was also identified. The reaction of epichlorohydrin with calf thymus DNA gave 1,N(6)-(2-hydroxypropyl)-deoxyadenosine and 3-(3-chloro-2-hydroxypropyl)-adenine  (major adduct)."
+        },
+        {
+            "References": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-168",
+            "Value": "/VETERINARY CASE REPORTS/ ... POISONED ANIMALS SHOW CYANOSIS, MUSCULAR RELAXATION OR PARALYSIS, TREMOR, CONVULSIONS & DEATH IN RESPIRATORY ARREST. DEATH MAY BE DELAYED AS LONG AS 2 HR EVEN AFTER PARENTERAL ADMIN ... NO CHARACTERISTIC ORGAN PATHOLOGY ..."
+        },
+        {
+            "References": "Clayton, G.D., F.E. Clayton (eds.) Patty's Industrial Hygiene and Toxicology. Volumes 2A, 2B, 2C, 2D, 2E, 2F: Toxicology. 4th ed. New York, NY: John Wiley & Sons Inc., 1993-1994., p. 420",
+            "Value": "/OTHER TOXICITY INFORMATION/ /IN MICE & RATS DOSED WITH EPICHLOROHYDRIN/ THERE WAS A LOW ORDER OF ACTIVITY IN AN INITIATION-PROMOTION EXPT. THE ACTIVE COMPONENT OF CROTON OIL, PHORBOL MYRISTATE ACETATE, WAS USED AS THE PROMOTING AGENT."
+        },
+        {
+            "References": "USEPA; Health Assessment Document: Epichlorohydrin p.4-6 (1983) EPA 600/8-83-032A",
+            "Value": "/OTHER TOXICITY INFORMATION/ 3-Chloro-1,2-propanediol /to which epichlorohydrin may be enzymatically converted/ oxidized to chlorolactic acid. Conversion of beta-chlorolactic acid to oxalic acid may occur and could result in renal toxicity in rats due to deposition of oxalic acid crystals in the kidneys."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the Threshold Limit Values and Biological Exposure Indices. 5th ed. Cincinnati, OH: American Conference of Governmental Industrial Hygienists, 1986., p. 233",
+            "Value": "/OTHER TOXICITY INFORMATION/ DEATH IS ATTRIBUTABLE TO EFFECTS ON CNS & RESP TRACT FROM HIGH DOSAGES."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the Threshold Limit Values and Biological Exposure Indices. 5th ed. Cincinnati, OH: American Conference of Governmental Industrial Hygienists, 1986., p. 233",
+            "Value": "/OTHER TOXICITY INFORMATION/ EPICHLOROHYDRIN MANIFESTS CUMULATIVE ACTION AS A RESULT OF ITS NEPHROTOXICITY."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, 1-chloro-2,3-epoxypropane (106-89-8) p 74 (2000 CD-ROM edition). Available from, as of March, 4 2009: https://esis.jrc.ec.europa.eu/",
+            "Value": "/OTHER TOXICITY INFORMATION/ ... The binding of ECH to nucleic acids and proteins from various organs of rats and mice /was investigated/. 4 male Winstar rats and 12 male adult BALB/c mice were administered ip doses of 127 uCi [2-14C]-ECH/kg bw in 0.9% NaCl solution. 22 hr following administration, the fasted animals were sacrificed and their livers, lungs, kidneys and stomachs examined in respect to ECH covalently bound to DNA. On the basis of the covalent binding index (CBI) for carcinogens ... ECH should be considered as a weak indicator."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) DeLeer EWM; Water Res 19: 1411-19 (1985)",
+            "Value": "SEDIMENT: Epichlorohydrin was identified, not quantified, in river sediment near an epichlorohydrin manufacturing plant in the Netherlands(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Deneer JW et al; Aquatic Toxicol 13: 195-204 (1988) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of epichlorohydrin is estimated as 40(SRC), using a log Kow of 0.45(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that epichlorohydrin is expected to have very high mobility in soil(SRC)."
+        }
+    ]
+}

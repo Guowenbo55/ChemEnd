@@ -1,0 +1,244 @@
+{
+    "_id": {
+        "$oid": "6682e7d9c4e5dba5ffba22a7"
+    },
+    "CID": {
+        "$numberInt": "768"
+    },
+    "Name": "Hydrogen cyanide",
+    "IUPACName": "formonitrile",
+    "CanonicalSMILES": "C#N",
+    "Synonyms": [
+        "hydrogen cyanide",
+        "hydrocyanic acid",
+        "Formonitrile",
+        "Prussic acid",
+        "Cyanwasserstoff",
+        "Blausaeure",
+        "Formic anammonide",
+        "Zaclondiscoids",
+        "Evercyn",
+        "Cyclon",
+        "74-90-8",
+        "Cyclone B",
+        "Aero Liquid HCN",
+        "Agent AC",
+        "Cyaanwaterstof"
+    ],
+    "IsomericSMILES": "C#N",
+    "INCHI": "InChI=1S/CHN/c1-2/h1H",
+    "INCHIKEY": "LELOWRISYMNNSU-UHFFFAOYSA-N",
+    "Formula": "CHN",
+    "MolecularWeight": {
+        "$numberDouble": "27.025"
+    },
+    "Description": "Hydrogen cyanide is a one-carbon compound consisting of a methine group triple bonded to a nitrogen atom It has a role as a human metabolite, an Escherichia coli metabolite and a poison. It is a hydracid and a one-carbon compound. It is a conjugate acid of a cyanide. It is a tautomer of a hydrogen isocyanide.",
+    "XlogP": {
+        "$numberDouble": "0.1"
+    },
+    "Complexity": {
+        "$numberInt": "10"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) US Dept Agric, Agric Res Service. 1992-2016. Dr. Duke's Phytochemical and Ethnobotanical Databases. Carbon disulfide. Available from, as of Dec 20, 2017: https://phytochem.nal.usda.gov/phytochem/search (2) Ezeala DO, Okoro N; J Food Biochem 10: 125-32 (1986)",
+            "Value": "Hydrogen cyanide has been reported present in alfalfa plant (Madicago sativa; Fabaceae)(1). The hydrocyanic acid content of peeled cassava tubers from various localities in Eastern Nigeria (major cassava growing and consuming area) varied from 26 to 38 mg/100 g fresh weight. There was no correlation between the cyanide contents of cassava tubers and locality(2)."
+        },
+        {
+            "References": "(1) USEPA; Ambient Water Quality Criteria for Cyanides. p. C-6, US EPA 440/5-80-037. Washington, DC: Off Water Reg Stand. (1980). Available from, as of Dec 21, 2017: https://www.epa.gov/nscep (2) WHO; Early Detection of Occupational Diseases. Chpt 22, pp. 154-164. Geneva, Switzerland: World Health Organization (1986). Available from, as of Dec 22, 2017: https://apps.who.int/iris/handle/10665/37912 (3) Lasch EE, El Shawa R; Pediatrics 68: 5-7 (1981). Available from, as of Dec 26, 2017: https://pediatrics.aappublications.org/content/140/6?current-issue=y",
+            "Value": "Laetrile and amygdalin-containing fruit pits /cherries, peaches, apricots, apples, and pears/ have been implicated as causes of acute cyanide poisoning in humans(1). Cyanides themselves are not toxic unless converted into hydrogen cyanide (e.g., by gastric juice which contains hydrochloric acid)(2). Apricot kernels contain a cyanogenic substance called amygdalin, which after hydrolysis (after ingestion), liberates hydrocyanic acid(3)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 3 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Dec 21, 2017: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994) (4) USEPA; Ambient Water Quality Criteria for Cyanides. p. C-1, US EPA 440/5-80-037. Washington, DC: Off Water Reg Stand. (1980). Available from, as of Dec 21, 2017: https://www.epa.gov/nscep",
+            "Value": "An estimated BCF of 3 was calculated in fish for hydrogen cyanide(SRC), using a log Kow of -0.25(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC). Cyanide is not accumulated or stored in any mammalian species that had been studied(4)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Raef et al; Water Res 11: 485-92 (1977) (2) Wyatt JM, Palmer SJ; Biodegradation of Nitriles and Cyanide. in Natural and Synthetic Materials (1991)",
+            "Value": "AEROBIC: The metabolism of cyanide (10 mg/L) was studied using acclimated heterogeneous cultures in an aerated microferometer(1). It was determined that cyanide was readily biodegradable by acclimated cultures but highly toxic to non-acclimated cultures(1). The fungus Gloeocercospora sorghi was shown to convert hydrogen cyanide to formamide in the presence of water(2)."
+        },
+        {
+            "References": "Verschueren, K. Handbook of Environmental Data on Organic Chemicals. Volumes 1-2. 4th ed. John Wiley & Sons. New York, NY. 2001, p. 1288",
+            "Value": "AEROBIC: Waste water treatment; sludge digestion: at 25 mg/L: no adverse effect in 24 days; at 30 mg/L: initial retarding effect for 6 days; at 50 mg/L: 10% reduction in gas production."
+        },
+        {
+            "References": "(1) USEPA; Ambient Water Quality Criteria for Cyanides. p. C-24, US EPA 440/5-80-037. Washington, DC: Off Water Reg Stand. (1980). Available from, as of Dec 21, 2017: https://www.epa.gov/nscep",
+            "Value": "PURE CULTURE: Bacteria and protozoa may degrade cyanide by converting it to carbon dioxide and ammonia(1). /Cyanide/"
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 3",
+            "Value": "log Kow = -0.25"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "U.S. Dept Health & Human Services/Agency for Toxic Substances & Disease Registry; Toxicological Profile for Cyanide p.90-1(July 2006)",
+            "Value": "Cyanide (as hydrogen cyanide), originating in vivo by dissociation of potassium cyanide, sodium cyanide, and other cyanogenic compounds or arising from catabolism of cyanogenic glycosides, exerts its acute toxic effects by complexing with the ferric iron atom in metalloenzymes, resulting in histotoxic anoxia through inhibition of cytochrome c oxidase, metalloenzymes that function as the terminal oxidase of the inner mitochondrial membrane respiratory chain. A two-step process has been proposed: cyanide as hydrogen cyanide first penetrates a protein crevice of cytochrome c oxidase and binds to the protein. Hydrogen cyanide then binds to the trivalent iron ion of the enzyme, forming a relatively stable (but reversible) coordination complex. One mole of hydrogen cyanide is bound to one mole of cytochrome c oxidase. As a result, the enzyme becomes unable to catalyze the reactions in which electrons would be transferred from reduced cytochrome to oxygen. Cellular oxygen utilization is thus impaired, with resultant reduction in or cessation of aerobic metabolism. Glucose catabolism then shifts from the aerobic pathway to anaerobic metabolism including the pentose phosphate pathway, resulting in increased blood glucose, pyruvic acid, lactic acid, and nicotinamide adenine dinucleotide (NADPH) levels, and a decrease in the adenosine triphosphate/adenosine diphosphate (ATP/ADP) ratio. /Some investigators/ suggest that it is the binding of cyanide to oxidized CuB, the copper ion that is part of the dioxygen binding-site that leads to the inhibition of cytochrome c oxidase. The inhibition of oxygen use by cells (termed histoxic hypoxia) causes oxygen tensions to rise in peripheral tissues. This results in a decrease in the unloading gradient for oxyhemoglobin; thus, oxyhemoglobin is carried in the venous blood. Inhibition of oxygen utilization is thought to occur rapidly after cyanide exposure. ...  In addition to binding to cytochrome c oxidase, cyanide also binds to catalase, peroxidase, methemoglobin, hydroxocobalamin, phosphatase, tyrosinase, ascorbic acid oxidase, xanthine oxidase, and succinic dehydrogenase. These reactions may also contribute to the classic signs of cyanide toxicity. ..."
+        },
+        {
+            "References": "Nat'l Research Council Canada; The Effect of Cyanides on Aquatic Organisms with Emphasis Upon Fresh Water Fishes p.59 (1982) NRCC No.19246",
+            "Value": "The mitochondrial electron transport system may also be seriously disturbed by cyanide through the inhibition of succinate dehydrogenase, which is a nonheme flavin-containing iron-sulfur protein which passes electrons to the cytochrome system. The peculiarity of this enzyme is its sulfur linkages which are of the persulfide or sulfane type, favoring a \"labile sulfur\" condition that is essential for activity. Cyanide is a strong thiophile reacting with the \"labile\" sulfur thus breaking the persulfide bond."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "U.S. Dept Health & Human Services/Agency for Toxic Substances & Disease Registry; Toxicological Profile for Cyanide p.36 (July 2006)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Cardiovascular effects: Bradycardia, arrhythmias, and T-wave abnormalities were observed in monkeys exposed to 100 ppm hydrogen cyanide for 30 minutes."
+        },
+        {
+            "References": "International Programme on Chemical Safety; Concise International Chemical Assessment Document 61: Hydrogen Cyanide and Cyanides: Human Health Aspects (2004) Available from, as of January 5, 2018: https://www.inchem.org/documents/cicads/cicads/cicad61.htm",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The information on the relative sensitivity of various animals to hydrogen cyanide vapors is mainly based on early studies ... /in 1931/. In an extensive series of inhalation experiments, in which different species of animals were exposed to usually 5 to 8 different concentrations of hydrogen cyanide and followed until death, he showed that the lethal time (time for 50% of animals to die at 1000 mg/cu m) was 0.8, 1.0, 1.0, 1.0, 2.0, 2.0, 3.0, and 3.5 min for dogs, mice, cats, rabbits, rats, guinea-pigs, goats, and monkeys. Extrapolation to zero mortality gave the following maximal non-lethal concentrations to dogs, rats, mice, rabbits, monkeys, cats, goats, and guinea-pigs: 100, 100, 140, 180, 180, 180, 240, and 400 mg/cu m. There was thus a rough inverse relationship between sensitivity to hydrogen cyanide and body size, dogs being a notable exception."
+        },
+        {
+            "References": "International Programme on Chemical Safety; Concise International Chemical Assessment Document 61: Hydrogen Cyanide and Cyanides: Human Health Aspects (2004) Available from, as of January 5, 2018: https://www.inchem.org/documents/cicads/cicads/cicad61.htm",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Following application of cyanides in aqueous solution to the intact skin of New Zealand rabbits, the dermal LD50s of hydrogen cyanide, sodium cyanide, and potassium cyanide were 0.260, 0.298, and 0.343 mmol/kg body weight, respectively (corresponding to 6.8, 7.7, and 8.9 mg cyanide/kg body weight). The dermal toxicity of cyanide, especially of hydrogen cyanide, is markedly greater following application on abraded skin, which enhances the penetration of cyanide (LD50s of 0.087, 0.220, and 0.30 mmol/kg for hydrogen cyanide, sodium cyanide, and potassium cyanide, respectively). Local contact may produce mild burns."
+        },
+        {
+            "References": "PMID:6098227",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ It is suspected that hydrogen cyanide may be an important factor in incapacitating fire victims, but the effects of sublethal exposures are not well characterized. Also, the incapacitating effects of fire atmospheres result from exposure to a mixture of toxic products so that the contribution from each component is difficult to determine. The mechanisms of incapacitation in monkeys exposed to the pyrolysis products of polyacrylonitrile were compared to those resulting from low level hydrogen cyanide gas exposures. The physiological effects of the polyacrylonitrile atmospheres were almost identical to those of hydrogen cyanide gas alone. They consisted of hyperventilation, followed by loss of consciousness after 1-5 min, bradycardia with arrhythmias and T-wave abnormalities, and were followed by a rapid recovery after exposure. Hydrogen cyanide is considered to be the major toxic product formed by the pyrolysis of polyacrylonitrile. It is suggested that hydrogen cyanide may produce rapid incapacitation at low blood levels of cyanide in fires."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 287",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In rabbits, after sublethal doses of cyanide, changes in electroretinogram have been observed. /Cyanide/"
+        },
+        {
+            "References": "Ballantyne B; J Toxicol, Cutaneous Ocul Toxicol 2 (2-3): 119-29 (1983)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Acute systemic toxicity of hydrogen cyanide ... by instillation into the inferior conjunctival sac was investigated in rabbits. LD50 value of HCN was 0.039 mmol/kg. Signs of toxicity appeared rapidly & death occurred within 3 to 12 min ... . Thus, following ocular instillation, cyanides may be absorbed across the conjunctival blood vessels in amounts sufficient to produce systemic toxicity."
+        },
+        {
+            "References": "Matijak-Schaper M, Alarie Y; J Combust Toxicol 9 (Feb): 21-61 (1982)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ A series of experiments were performed in mice to evaluate the toxicity of carbon monoxide, hydrogen cyanide (HCN) and low oxide atm. The results for both carbon monoxide and HCN for the time concn relationships to produce asphyxiation and death indicate that the asphyxiation end-point did not offer advantages over the measurement of acute lethality. Percentage escape activity measurement for carbon monoxide was not a good measure since it occurred just prior to asphyxiation or death. Depression of central nervous system (CNS), measured by depression of resp rate, occurred at concentrations lower than the LC50 by about a factor of 3. Such an effect can be detected at even lower concentrations, & unlike asphyxiation or disappearance of escape activity, this effect is not followed immediately by death which was generally the case with other 2 endpoints. At low concentrations of oxygen, just above concn which caused death, a very small decrease in resp rate followed by recovery was observed; with both carbon monoxide and HCN, however, a severe resp depression was observed at concentrations below those inducing death and while recovery was fairly rapid with HCN, it was very slow with carbon monoxide."
+        },
+        {
+            "References": "PMID:24336460",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The ten Berge model, also known as the toxic load model, is an empirical approach in hazard assessment modeling for estimating the relationship between the inhalation toxicity of a chemical and the exposure duration. The toxic load (TL) is normally expressed as a function of vapor concentration (C) and duration (t), with TL equaling C(n) x t being a typical form. Hypothetically, any combination of concentration and time that yields the same \"toxic load\" will give a constant biological response. These formulas have been developed and tested using controlled, constant concentration animal studies, but the validity of applying these assumptions to time-varying concentration profiles has not been tested. Experiments were designed to test the validity of the model under conditions of non-constant acute exposure. Male Sprague-Dawley rats inhaled constant or pulsed concentrations of hydrogen cyanide (HCN) generated in a nose-only exposure system for 5, 15, or 30 min. The observed lethality of HCN for the 11 different C versus t profiles was used to evaluate the ability of the model to adequately describe the lethality of HCN under the conditions of non-constant inhalation exposure. The model was found to be applicable under the tested conditions, with the exception of the median lethality of very brief, high concentration, discontinuous exposures."
+        },
+        {
+            "References": "PMID:6662303",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Toxicologic evaluation of smoke produced during smoldering chair tests was undertaken by exposing mice to smoke emitted prior to, as well as following, flaming ignition of the chairs. By exposing several groups of mice to undiluted smoke from the room containing the chairs, as well as various dilutions of the smoke, different levels of acute lethality were obtained. Chairs constructed with polyurethane foam were found to create higher toxic atmospheres than chairs constructed with polyester or cotton fiber cushions. ... Sensory irritation monitored in mice during the smoldering tests indicated that an intense level of irritation was present long before large amounts of smoke were generated and long before flaming ignition occurred. The phenomenon of eye, nose and throat irritation would, therefore, be the first effect impeding escape attempts of individuals in a fire situation. Sensory irritation was followed by asphyxiation as evolution of carbon monoxide or hydrogen cyanide, or both, occurred."
+        },
+        {
+            "References": "Ilichkin VS et al; Gig Sanit (9): 82-84 (1985)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Toxicity of combustion products from ... polyurethane foam was examined in mice at 25 deg and at 19 vol % oxygen, and in a medium with higher temp (35 \u00b0C and 45 \u00b0C) and reduced oxygen level (16% and 11%). The exposure was for 30 min. ... polyurethane foam toxic effects were especially noticeable at 35 \u00b0C and 16% oxygen level. The toxic effect of polyurethane foam also increased with increasing temp and reduced oxygen content."
+        },
+        {
+            "References": "Kallonen R et al; J Fire Sci 3 (3): 145-60 (1985)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Chemical composition and the toxicity (rats) of the airborne combustion products (500-700 \u00b0C) of certain finish textiles and upholstery materials, which were either treated with fire retardants or untreated, were investigated. ... Relatively high concentrations of HCN (>100 ppm) were generated from modacrylic, wool, Flamentin (fire retardant; a mixture or ammonium salts) treated cotton, etc. ... Most of deaths in rats occurred during the 30 min exposure. At 500 \u00b0C, the most toxic materials were modacrylic, Flamentin-cotton and polyester fiber retardant fiber fill. At 700 \u00b0C, modacrylic, wool, Flamentin-cotton, had the strongest toxic effects, in decreasing order. Toxic effects were attributed to HCN and carbon monoxide. No toxic effect was linked to hydrogen chloride despite ... high concentrations."
+        },
+        {
+            "References": "Kustov VV et al; Gig Sanit (9): 79-81 (1983)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Combustion of a polyamide fiberglass for 5 min at air flow rates of 0.5, 1, or 2 L/min, generated 5.34, 3.25 and 0.122 mg HCN/L respectively. Carbon monoxide content also decreased with increasing air rate. ... A 5 min inhalation of combustion gases evolving at 0.5 L air/min, killed 50% of mice, whereas the offgases evolving at 1-2 L/min were nonlethal. Exposure to gases evolved at 0.5-2 L air/min during 1-, 2-, or 3- min combustion induced a 48.7, 32.3, and 19.2%, respectively, transformation of Hb into COHb."
+        },
+        {
+            "References": "International Programme on Chemical Safety; Concise International Chemical Assessment Document 61: Hydrogen Cyanide and Cyanides: Human Health Aspects (2004) Available from, as of January 5, 2018: https://www.inchem.org/documents/cicads/cicads/cicad61.htm",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ There are no qualitative differences in acute poisoning between cyanide compounds, since the cyanide ion is the common agent that primarily inhibits tissue cytochrome oxidase activity in rats, mice, and rabbits, with resulting anoxia. Although acute oral doses of cyanide cause cardiovascular, respiratory, and neuroelectric alterations, many studies have shown that the brain is the organ most sensitive to cyanide toxicity. Death from cyanide poisoning is believed to result from central nervous system depression, subsequent to inhibition of brain cytochrome oxidase activity. Typical signs of toxicity after inhalation of hydrogen cyanide in test species include rapid breathing, weak and ataxic movements, convulsions, loss of voluntary movement, coma, and decrease and irregularities in respiratory rate and depth preceding death."
+        },
+        {
+            "References": "International Programme on Chemical Safety; Concise International Chemical Assessment Document 61: Hydrogen Cyanide and Cyanides: Human Health Aspects (2004) Available from, as of January 5, 2018: https://www.inchem.org/documents/cicads/cicads/cicad61.htm",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ As a respiratory poison, free cyanide (hydrogen cyanide or cyanide ion) has high acute toxicity due to its primary toxic effect of inhibiting cytochrome oxidase (by binding heme iron), the terminal enzyme of the mitochondrial electron transport chain. Tissue utilization of oxygen is impaired, and, with time, a state of histotoxic anoxia occurs (oxidative metabolism is brought to complete cessation). Cyanide can also inhibit approximately 40 enzymes, including a number of other important metalloenzymes containing, for the most part, iron, copper, or molybdenum (e.g., alkaline phosphatase, carbonic anhydrase, catalase, peroxidase, ascorbic acid oxidase, xanthine oxidase, and succinic dehydrogenase); these reactions may also contribute to cyanide toxicity."
+        },
+        {
+            "References": "Nat'l Research Council Canada; The Effect of Cyanides on Aquatic Organisms with Emphasis Upon Fresh Water Fishes p.58 (1982) NRCC No.19246",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The inhibition of cytochrome oxidase is noncompetitive and hence, is independent of the relative proportions of toxicant and substrate with which the enzyme reacts. Thus, the acute toxicity of cyanide will be determined almost completely by the concn of cyanide (in the mitochondrial matrix) surrounding the structure on which cytochrome oxidase is thought to be located (oxysomes of the mitochondrial cristae). Differences in sensitivity to cyanide may occur between different animal species, and many plant mitochondria contain electron transport chains which are insensitive to cyanide."
+        },
+        {
+            "References": "Nat'l Research Council Canada; The Effect of Cyanides on Aquatic Organisms with Emphasis Upon Fresh Water Fishes p.58 (1982) NRCC No.19246",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ While the concn of cytochrome oxidase in fish mitochondria apparently does not vary with ambient temperature, the activity of the enzyme is greater in mitochondria from cold-associated individuals. Therefore, one would expect fish to be more sensitive to cyanide when acclimated to lower temperatures."
+        },
+        {
+            "References": "Nat'l Research Council Canada; The Effect of Cyanides on Aquatic Organisms with Emphasis Upon Fresh Water Fishes p.58 (1982) NRCC No.19246",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ When cyanide stops the production of ATP associated with the electron transport chain, another metabolic pathway is activated and ATP is synthesized via the degradation of glucose to lactic acid, or an equivalent end product. Degradation of glucose, commonly referred to as glycolysis, does not utilize oxygen but does not produce sufficient ATP to sustain organisms that are relatively active."
+        },
+        {
+            "References": "Nat'l Research Council Canada; The Effect of Cyanides on Aquatic Organisms with Emphasis Upon Fresh Water Fishes p.59 (1982) NRCC No.19246",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Hydroperoxidases consist of two classes of enzymes, catalases and peroxidases, both of which utilize hydrogen peroxide as a substrate. The ferro-heme group is strongly inhibited by cyanide, although the physiological significance at sublethal levels remains obscure. ... One tissue that could be seriously affected by the inhibition of catalase by cyanide is the blood, where the formation of hydrogen dioxide would lead to the oxidation of hemoglobin Fe(2+) into methemoglobin Fe(3+), thus reducing the oxygen carrying capacity of the organism."
+        },
+        {
+            "References": "Nat'l Research Council Canada; The Effect of Cyanides on Aquatic Organisms with Emphasis Upon Fresh Water Fishes p.60 (1982) NRCC No.19246",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ During chronic cyanide exposure the precursers of Vitamin B12 may react with cyanide, thereby reducing the amount of available Vitamin B12."
+        },
+        {
+            "References": "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 175",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The cyanide ion produces acute anoxia of the central nervous system by inactivating the cytochrome oxidase enzyme system necessary for tissue respiration. Death in acute cases occurs within a few seconds."
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 1893",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Cyanide has a very high affinity for iron in ferric state. When absorbed it reacts readily with ... iron of cytochrome oxidase in mitochondria; cellular respiration is thus inhibited & cytotoxic hypoxia results. Since utilization of oxygen is blocked, venous blood is oxygenated and is almost as bright red as arterial blood. Respiration is stimulated because chemoreceptive cells respond as they do to decreased oxygen. A transient stage of CNS stimulation with hyperpnea and headache is observed; finally there are hypoxic convulsions and death due to respiratory arrest. /Cyanide/"
+        },
+        {
+            "References": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. III-126",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Single doses of cyanide produce alterations in pattern of brain metabolites consistent with decr in oxidative metabolism & incr in glycolysis. Decr in brain gamma-aminobutyric acid ... have been ascribed to cyanide inhibition of glutamic acid decarboxylase. /Cyanide/"
+        },
+        {
+            "References": "Doull, J., C.D.Klassen, and M.D. Amdur (eds.). Casarett and Doull's Toxicology. 3rd ed., New York: Macmillan Co., Inc., 1986., p. 372",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The cortical gray matter, hippocampus (H1), corpora striata, & substantia nigra are commonly affected /by cyanide/. ... cyanide also has propensity for damaging white matter, particularly corpus callosum. Cyanide inhibits cytochrome oxidase & produces cytotoxic anoxia, but also causes hypotension through its effects on heart. /Cyanide/"
+        },
+        {
+            "References": "Booth, N.H., L.E. McDonald (eds.). Veterinary Pharmacology and Therapeutics. 5th ed. Ames, Iowa: Iowa State University Press, 1982., p. 961",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The cyanide ion (CN-) ... has a strong affinity for cobalt. /Cyanide ion/"
+        },
+        {
+            "References": "Ignarro LJ et al; J Pharmacol Exp Thr 26 (1): 30-36 (1986)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The objective was to ascertain whether cyanide shares the properties of methylene blue as a selective inhibitor of vascular smooth muscle relaxation elicited by agents that stimulate the formation of cyclic GMP. Experiments were performed with endothelium-intact rings prepared from bovine intrapulmonary artery. Methylene blue, a good inhibitor of soluble guanylate cyclase, antagonized both arterial relaxation and cyclic GMP accumulation in response to sodium nitroprusside, glyceryl trinitrate, S-nitroso-N-acetylpenicillamine and acetylcholine. In contrast, cyanide inhibited only the responses to sodium nitroprusside. ... Contractile responses to phenylephrine, potassium, and U46619 were potentiated by methylene blue but not by cyanide. Cyanide does not share the properties of methylene blue as an inhibitor of arterial relaxation elicited by vasodilators that stimulate cyclic GMP formation."
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 1893",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ /Cyanide/ ... reacts ... with trivalent iron of cytochrome oxidase in mitochondria to form the cytochrome oxidase-CN complex ... the cytochrome-oxidase-CN complex is dissociable; the mitochondrial enzyme sulfurtransferase ... mediates transfer of sulfur from thiosulfate to cyanide ion. Thus, thiocyanate is formed ... kinetic studies indicate that the cleavage of the thiosulfate sulfur-sulfur bond is the rate-limiting step in this reaction. Relatively minor pathways incl combination with cystine to form 2-imino-thiazolidine-4-carboxylic acid, oxidation to carbon dioxide & formate, and formation of cyanocobalamin. /Cyanide/"
+        },
+        {
+            "References": "PMID:18839291",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The four gases, nitric oxide (NO), carbon monoxide (CO), hydrogen sulfide (H(2)S) and hydrogen cyanide (HCN) all readily inhibit oxygen consumption by mitochondrial cytochrome oxidase. This inhibition is responsible for much of their toxicity when they are applied externally to the body. However, recently these gases have all been implicated, to greater or lesser extents, in normal cellular signalling events. In this review we analyse the chemistry of this inhibition, comparing and contrasting mechanism and discussing physiological consequences. The inhibition by NO and CO is dependent on oxygen concentration, but that of HCN and H(2)S is not. NO and H(2)S are readily metabolized by oxidative processes within cytochrome oxidase. In these cases the enzyme may act as a physiological detoxifier of these gases. CO oxidation is much slower and unlikely to be as physiologically important. The evidence for normal physiological levels of these gases interacting with cytochrome oxidase is equivocal, in part because there is little robust data about their steady state concentrations. A reasonable case can be made for NO, and perhaps CO and H(2)S, inhibiting cytochrome oxidase in vivo, but endogenous levels of HCN seem unlikely to be high enough."
+        },
+        {
+            "References": "Food and Agriculture Organization of the UN WHO; FAO Meeting Report No. PL/1965/10/2 WHO/Food Add/28.65  Evaluation of the Hazards to Consumers Resulting from the Use of Fumigants in the Protection of Food. (March 1965). Available from, as of January 5, 2018: https://www.inchem.org/documents/jmpr/jmpmono/v65apr09.htm",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Two groups of 20 rats (10 males and 10 females) were fed a diet fumigated with hydrogen cyanide, containing residual HCN in the concentration of 100 and 300 ppm, for two years. Another group of 20 rats was fed a control diet. Growth, food consumption and survival in  both groups were comparable. Hematological values determined initially and at the end of the experiment appeared to be within normal limits. Organ-body-weight ratios for the liver, kidneys, spleen, brain, heart, adrenals and testes or ovaries did not show any substantial differences from controls. Histological examination of tissues was carried out for the heart, lung, liver, spleen, stomach, small and large intestines, kidneys, adrenals, thyroid, testes or uterus and ovary, and the cerebrum and cerebellum of the brain /and/ ... no changes due to hydrogen cyanide feeding were found. At the end of the experiment the amount of free cyanide and thiocyanate in blood, liver and kidney was determined. In the group fed 100 ppm HCN free cyanide was found only in red blood cells with an average of 5.40 ug/100 mL, thiocyanate was found in plasma with an average of 936 ug/100 mL, in the liver and kidney 719 and 1023 ug/100 g of tissue, respectively.  In the group fed 300 ppm HCN, free cyanide was found in the liver of one rat and in the erythrocytes of less than 50% of animals (average 1.97 ug/100 g tissue). Average values for thiocyanate in plasma and erythrocytes were 1123 and 246 ug/100 mL, respectively, in the liver and kidney 665 and 1188 ug/100 g tissue, respectively. The average thiocyanate values in the controls were as follows: plasma 361 ug, red blood cells 73 ug per 100 mL; liver 566 ug, kidney 577 ug/100 g"
+        },
+        {
+            "References": "International Programme on Chemical Safety; Concise International Chemical Assessment Document 61: Hydrogen Cyanide and Cyanides: Human Health Aspects (2004) Available from, as of January 5, 2018: https://www.inchem.org/documents/cicads/cicads/cicad61.htm",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Pregnant Wistar rats (10 animals per group) were fed a cassava diet liberating 21 mg hydrogen cyanide/kg diet, fortified with 500 mg potassium cyanide/kg diet, throughout gestation and lactation. This is equivalent to an estimated daily dose of 16 mg cyanide/kg body weight. No effects were observed on the number, mortality at birth, or body weight of offspring or weight gain of pups during lactation."
+        },
+        {
+            "References": "International Programme on Chemical Safety; Concise International Chemical Assessment Document 61: Hydrogen Cyanide and Cyanides: Human Health Aspects (2004) Available from, as of January 5, 2018: https://www.inchem.org/documents/cicads/cicads/cicad61.htm",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Groups of pregnant hamsters were fed diets consisting of two types of cassava meal, either a \"low-cyanide\" (sweet cassava meal) or a \"high-cyanide\" (bitter cassava meal) variety. These were mixed (80:20) with laboratory chow and administered on days 3 to 14 of gestation. The cyanide concentration of the sweet cassava meals was 0.6 to 0.7 mmol/kg; that of the bitter cassava meal was 5 to 11 (mean 7.9) mmol/kg. Cassava-fed dams gained significantly less weight than did control animals (fed diet similar in nutritional value as cassava, but without cyanogenic glycosides), and their offspring showed evidence of fetotoxicity (reduced fetal body weight and reduced ossification of sacrocaudal vertebrae, metatarsals, and sternebrae). The bitter cassava also produced a significant increase in the number of runts compared with litters from dams fed either low-protein12 or laboratory-stock diets. The only teratogenic effects noted were hydrocephalus in three animals in the low-cyanide (sweet cassava) test group and one encephalocoele found in one animal in the high-cyanide (bitter cassava) test group. /Cyanide/"
+        },
+        {
+            "References": "U.S. Dept Health & Human Services/Agency for Toxic Substances & Disease Registry; Toxicological Profile for Cyanide p.40-1 (July 2006)",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ When rats were exposed to unspecified concentrations of hydrogen cyanide and kept unconscious for 20 to 60 minutes, lesions of various degrees developed in the brain ... . Necrosis was found mainly in the mid-sagittal sections of the brain. Demyelination was also reported and morphological signs indicative of remyelination were reported in rats several months after cyanide intoxication ... , but it was apparent that this process was slow and incomplete."
+        },
+        {
+            "References": "International Programme on Chemical Safety; Concise International Chemical Assessment Document 61: Hydrogen Cyanide and Cyanides: Human Health Aspects (2004) Available from, as of January 5, 2018: https://www.inchem.org/documents/cicads/cicads/cicad61.htm",
+            "Value": "/GENOTOXICITY/ Hydrogen cyanide induced mutations in S. typhimurium TA100 in the absence of S9 activation, but was not mutagenic to strain TA98 with or without S9 activation."
+        },
+        {
+            "References": "International Programme on Chemical Safety; Concise International Chemical Assessment Document 61: Hydrogen Cyanide and Cyanides: Human Health Aspects (2004) Available from, as of January 8, 2018: https://www.inchem.org/documents/cicads/cicads/cicad61.htm",
+            "Value": "/OTHER TOXICITY INFORMATION/ The concentration of hydrogen cyanide in inhaled air markedly affects the acute toxicity: the total amount of hydrogen cyanide inhaled leading to death is disproportionately larger at low exposure levels than at high exposure levels (and thus the time leading to death is disproportionately longer).",
+            "Table": "[{'Exposure Time': '10 sec', 'Median Lethal Toxicity as LC50 (mg/cu m)': 3778, 'Median Lethal Toxicity as Total Dose (min x mg/cu m)': 631}, {'Exposure Time': '1 min', 'Median Lethal Toxicity as LC50 (mg/cu m)': 1471, 'Median Lethal Toxicity as Total Dose (min x mg/cu m)': 1129}, {'Exposure Time': '5 min', 'Median Lethal Toxicity as LC50 (mg/cu m)': 493, 'Median Lethal Toxicity as Total Dose (min x mg/cu m)': 2463}, {'Exposure Time': '30 min', 'Median Lethal Toxicity as LC50 (mg/cu m)': 173, 'Median Lethal Toxicity as Total Dose (min x mg/cu m)': 5070}, {'Exposure Time': '60 min', 'Median Lethal Toxicity as LC50 (mg/cu m)': 158, 'Median Lethal Toxicity as Total Dose (min x mg/cu m)': 9441}]"
+        },
+        {
+            "References": "International Programme on Chemical Safety; Concise International Chemical Assessment Document 61: Hydrogen Cyanide and Cyanides: Human Health Aspects (2004) Available from, as of January 5, 2018: https://www.inchem.org/documents/cicads/cicads/cicad61.htm",
+            "Value": "/OTHER TOXICITY INFORMATION/ Potentiation to noise-induced hearing loss by exposure of rats to low concentrations of hydrogen cyanide was reported ... . It was suggested that hydrogen cyanide (34 mg/cu m for 3.5 hr) plus noise produced impaired auditory function by producing significant oxidative stress in the cochlea. Hydrogen cyanide alone did not cause significant hearing loss or hair cell loss."
+        },
+        {
+            "References": "PMID:6285553",
+            "Value": "/OTHER TOXICITY INFORMATION/ Groups of adult rats were repeatedly exposed to the pyrolysis products either of a rigid polyurethane foam or of hemlock, to which was added 0 or 200 ppm hydrogen cyanide (HCN) under conditions that did not result in depletion of oxygen in the exposure atmosphere. Other groups were exposed to HCN in air or in air + carbon monoxide. Some of the HCN exposed groups were presented with a chlorpromazine/thiosulfate combination protective against cyanide toxicity. Exposure to HCN without protective pretreatment was associated with mild cardiotoxicity as measured by the magnitude of release of cardiac-specific creatine phosphokinase activity and by the number of ectopic heart beats induced by norepinephrine injection. Much of the difference in the cardiotoxicities of polyurethane and hemlock smokes could be related to their different contents of HCN. However, the prevalence of focal histopathological lesions in the rat hearts did not correlate well with the other 2 measures of cardiotoxicity."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 3 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Dec 21, 2017: https://www2.epa.gov/tsca-screening-tools (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) USEPA; Ambient Water Quality Criteria for Cyanide - 1984. p. 1 US EPA 440/5-84-028. Washington, DC: Off Water Reg Stand. (1980). Available from, as of Dec 21, 2017: https://www.epa.gov/nscep (5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "The Koc of hydrogen cyanide  is estimated as 15(SRC), using a log Kow of -0.25(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that hydrogen cyanide  is expected to have very high mobility in soil. The pKa of hydrogen cyanide is 9.2(4), indicating that this compound will exist partially in the anion form in the environment and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(5)."
+        },
+        {
+            "References": "(1) Roy WR; Groundwater Contamination From Municipal Landfills in the USA. in Contamination of Groundwaters: Case studies., Adriano DC et al, eds., Northwood, UK: Scientific Review (1994) (2) Callahan MA, et al; Water-Related Environmental Fate of 129 Priority Pollutants. Vol I. Washington, DC: US Environ Prot Agency, USEPA-440/4 79-029a (1979)",
+            "Value": "Hydrogen cyanide is only weakly absorbed by organic matter(1). Hydrogen cyanide is not strongly partitioned into the sediments or suspended adsorbents, primarily due to its high solubility in water. Cyanide mobility is least where soils exhibit low pH, high concn of free iron oxides, and positively charged particles (eg, kaolin, chlorite, gibbsite). Mobility is greatest at high pH, high concentration of free calcium carbonate (high negative charge) and low clay content. Adsorption of hydrogen cyanide by montmorillonitic clays is fairly weak and is decreased by the presence of water(2)."
+        }
+    ]
+}

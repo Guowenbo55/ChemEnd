@@ -1,0 +1,92 @@
+{
+    "_id": {
+        "$oid": "6682e9dcc4e5dba5ffba2cc1"
+    },
+    "CID": {
+        "$numberInt": "135491830"
+    },
+    "Name": "SETHOXYDIM",
+    "IUPACName": "2-[(E)-N-ethoxy-C-propylcarbonimidoyl]-5-(2-ethylsulfanylpropyl)-3-hydroxycyclohex-2-en-1-one",
+    "CanonicalSMILES": "CCCC(=NOCC)C1=C(CC(CC1=O)CC(C)SCC)O",
+    "Synonyms": [
+        "SETHOXYDIM",
+        "74051-80-2",
+        "Fervinal",
+        "Tritex-extra",
+        "Cyethoxydim",
+        "CHEBI:81815",
+        "1189NNQ8F6",
+        "2-(1-(Ethoxyimino)butyl)-5-(2-(ethylthio)propyl)-3-hydroxy-2-cyclohexen-1-one",
+        "2-[1-(ethoxyamino)butylidene]-5-(2-ethylsulfanylpropyl)cyclohexane-1,3-dione",
+        "71441-80-0",
+        "Checkmate",
+        "Grasidim",
+        "Expand",
+        "Poast",
+        "2-(1-(Ethoxyimino)butyl)-5-(2-ethylthiopropyl)-3-hydroxycyclohex-2-en-1-one"
+    ],
+    "IsomericSMILES": "CCC/C(=N\\OCC)/C1=C(CC(CC1=O)CC(C)SCC)O",
+    "INCHI": "InChI=1S/C17H29NO3S/c1-5-8-14(18-21-6-2)17-15(19)10-13(11-16(17)20)9-12(4)22-7-3/h12-13,19H,5-11H2,1-4H3/b18-14+",
+    "INCHIKEY": "CSPPKDPQLUUTND-NBVRZTHBSA-N",
+    "Formula": "C17H29NO3S",
+    "MolecularWeight": {
+        "$numberDouble": "327.5"
+    },
+    "Description": "Sethoxydim is an organic hydroxy compound.",
+    "XlogP": {
+        "$numberDouble": "3.6"
+    },
+    "Complexity": {
+        "$numberInt": "432"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "sediment_soil_concentrations": [
+        {
+            "References": "PMID:8130408",
+            "Value": "SEDIMENT: Ten sampling sites on the Sarno and Volturno Rivers in the Campania region, Italy were studied from July 1, 1988 through June 30 , 1989(1). Three of four Sarno River sites tested positive, at concentrations of 26 ng/g (very polluted), 13 ng/g (agricultural area), and 64 ng/g (mouth of the Sarno River(1). One of six Vulturno River sites tested positive, with a concentration of 130 ng/g in a sample from the Regi Lagni mouth; all concentrations reported in ng/g dry weight(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "Laboratory experiments with 14C-herbicides were conducted with grain sorghum as an indicator species to determine the effects of imposed moisture stress on absorption, precent recovery, and acropetal and basipetal translocation of the butyl ester of fluazifop, the methyl ester of haloxyfop, the ethyl ester of quizalofop, and sethoxydim. Haloxyfop was the only herbicide where recovery decreased between the 3-and 48-h interval. All plants absorbed more of the herbicide at the 48-h interval than at the 3- or 6-h interval under both stressed and non-stressed conditions. Increased drought stress caused more acropetal movement with fluazifop and sethoxydim and less acropetal movement with quizalofop at the 3-h interval. Basipetal transloation, although different among herbicides, responded similarly to imposed moisture stress, which decreased basipetal translocation approximately 19%.",
+            "reference": "Reynolds, D. B., Wheless, T. G., Basler, E., & Murray, D. S. (1988). Moisture stress effects on absorption and translocation of four foliar-applied herbicides. Weed Technology, 2(4), 437-441.",
+            "method": {
+                "Test Plant": "Grain sorghum (Sorghum bicolor (L.) Moench. 'Acco BRY 90')",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "The plants were grown in a controlled environment chamber with a temperature regime of 29\u00b0C days and 21\u00b0C nights, a daytime relative humidity of 80% (\u00b15%), and a 12-h photoperiod at an average photosynthetic photon flux density of 240 \u03bcE\u00b7m\u22122\u00b7s\u22121.",
+                "Chemical Preparation": "Herbicides fluazifop (0.05 \u03bcCi/\u03bcl, carboxyl-14C), quizalofop (0.05 \u03bcCi/\u03bcl, phenol-14C), haloxyfop (0.05 \u03bcCi/\u03bcl, phenoxy-UL-14C), and sethoxydim (0.05 \u03bcCi/\u03bcl, H4-14C) were dissolved in acetone with 0.47% (v/v) octoxynol added.",
+                "Pesticide Application Details for the Plant": "Two drops of the respective 14C-herbicide solution were applied to the second most fully expanded true leaf 3 cm above the leaf collar.",
+                "Other Information": "The experimental design was a randomized complete block with a 3x2x4 factorial treatment arrangement and four replications"
+            },
+            "result": "[{\"Moisture stress\": \"High\", \"Hours after application\": 3, \"Translocated acropetally from treated area (%)\": 20}, {\"Moisture stress\": \"High\", \"Hours after application\": 6, \"Translocated acropetally from treated area (%)\": 11}, {\"Moisture stress\": \"High\", \"Hours after application\": 48, \"Translocated acropetally from treated area (%)\": 22}, {\"Moisture stress\": \"Low\", \"Hours after application\": 3, \"Translocated acropetally from treated area (%)\": 7}, {\"Moisture stress\": \"Low\", \"Hours after application\": 6, \"Translocated acropetally from treated area (%)\": 9}, {\"Moisture stress\": \"Low\", \"Hours after application\": 48, \"Translocated acropetally from treated area (%)\": 19}]"
+        },
+        {
+            "content": "Experiments were conducted to study the absorption and translocation of 14C-sethoxydim in oat plants foliarly treated with the herbicide along with various additives. It was found that safflower, soybean, linseed, and sunflower oils increased the foliar absorption and translocation of 14C more than palm oil but less than petroleum oil when applied without an emulsifier. The presence of an emulsifier in the oil additive enhanced 14C absorption and translocation, especially in soybean oil, making the absorption and translocation similar to petroleum oil with emulsifiers. The effect of emulsifier concentration on 14C absorption and translocation was more pronounced in soybean oil compared to petroleum oil, but the increase plateaued at around 15% with either oil. The percentage of 14C absorbed and translocated in oats increased with increasing soybean oil application rate but varied with the rate of sethoxydim application, suggesting a complex interaction between oil type, emulsifier, and herbicide concentration on absorption and translocation in oat plants.",
+            "reference": "Nalewaja, J. D., & Skrzypczak, G. A. (1986). Absorption and translocation of sethoxydim with additives. Weed Science, 34(5), 657-663.",
+            "method": {
+                "Test Plant": "Oat (Avena sativa)",
+                "Apply Location": "Foliar application to the second leaf",
+                "Plant Grown Condition": "Three oat plants were grown per pot to the one-leaf stage in soil contained in 0.5 L plastic pots in a greenhouse with natural light at 20 to 25\u00b0C. Then the pots were placed in a growth chamber with 20\u00b0C, 60 to 70% relative humidity, and a 16-h photoperiod with light intensity of 250 \u03bcE/m2/s. The plants were thinned to one uniform plant per pot 1 day before treatment.",
+                "Chemical Preparation": "Sethoxydim and additives like oils, emulsifiers were applied as multiple 5 \u03bcl applications. The emulsifiable and water-soluble additives were applied in water, and oils without emulsifiers were dissolved in 40:60 (v/v) acetone:water solution. Formulated sethoxydim and sethoxydim formulation agent were applied in water. 14C-sethoxydim (13.06 mCi/mmol) was dissolved in acetone and applied at 0.007 to 0.014 \u03bcCi depending on the experiment.",
+                "Pesticide Application Details for the Plant": "Sethoxydim was applied at 0.21 kg ai/ha along with various additives at 2.3 L/ha over the treated leaf area.",
+                "Other Information": "The treatment was applied and spread to cover a premarked 1 cm2 area midway between the tip and base of the second leaf."
+            },
+            "result": "[{\"Additives\": NaN, \"Wash (% of applied)\": 61.0, \"Treated area (%)\": 6.8, \"Base of treated leaf (%)\": 3.3, \"Tip of treated leaf (%)\": 2.6, \"Shoot (%)\": 3.5, \"Roots (%)\": 0.5, \"Translocated (%)\": 10.0}, {\"Additives\": \"Palm oil R\", \"Wash (% of applied)\": 49.6, \"Treated area (%)\": 9.8, \"Base of treated leaf (%)\": 5.6, \"Tip of treated leaf (%)\": 4.6, \"Shoot (%)\": 5.8, \"Roots (%)\": 0.9, \"Translocated (%)\": 16.9}, {\"Additives\": \"Safflower oil R\", \"Wash (% of applied)\": 21.3, \"Treated area (%)\": 15.6, \"Base of treated leaf (%)\": 9.5, \"Tip of treated leaf (%)\": 6.6, \"Shoot (%)\": 10.0, \"Roots (%)\": 1.4, \"Translocated (%)\": 27.5}, {\"Additives\": \"Soybean oil 1R\", \"Wash (% of applied)\": 28.0, \"Treated area (%)\": 15.6, \"Base of treated leaf (%)\": 9.9, \"Tip of treated leaf (%)\": 6.5, \"Shoot (%)\": 8.6, \"Roots (%)\": 1.0, \"Translocated (%)\": 26.0}, {\"Additives\": \"Linseed oil AM\", \"Wash (% of applied)\": 20.8, \"Treated area (%)\": 13.3, \"Base of treated leaf (%)\": 10.2, \"Tip of treated leaf (%)\": 7.4, \"Shoot (%)\": 10.3, \"Roots (%)\": 1.4, \"Translocated (%)\": 29.3}, {\"Additives\": \"Linseed oil raw\", \"Wash (% of applied)\": 18.3, \"Treated area (%)\": 16.3, \"Base of treated leaf (%)\": 9.4, \"Tip of treated leaf (%)\": 6.5, \"Shoot (%)\": 10.5, \"Roots (%)\": 1.4, \"Translocated (%)\": 27.8}, {\"Additives\": \"Sunflower oil DG\", \"Wash (% of applied)\": 24.7, \"Treated area (%)\": 16.3, \"Base of treated leaf (%)\": 9.1, \"Tip of treated leaf (%)\": 6.2, \"Shoot (%)\": 9.2, \"Roots (%)\": 1.2, \"Translocated (%)\": 25.7}, {\"Additives\": \"Petroleum oil 11N\", \"Wash (% of applied)\": 17.2, \"Treated area (%)\": 13.7, \"Base of treated leaf (%)\": 11.5, \"Tip of treated leaf (%)\": 9.8, \"Shoot (%)\": 11.1, \"Roots (%)\": 1.8, \"Translocated (%)\": 34.2}, {\"Additives\": \"Petroleum oil 7N\", \"Wash (% of applied)\": 14.5, \"Treated area (%)\": 13.2, \"Base of treated leaf (%)\": 11.8, \"Tip of treated leaf (%)\": 9.9, \"Shoot (%)\": 12.8, \"Roots (%)\": 1.6, \"Translocated (%)\": 36.2}, {\"Additives\": \"Glycerol\", \"Wash (% of applied)\": 24.7, \"Treated area (%)\": 14.5, \"Base of treated leaf (%)\": 10.8, \"Tip of treated leaf (%)\": 7.5, \"Shoot (%)\": 10.6, \"Roots (%)\": 1.3, \"Translocated (%)\": 30.3}, {\"Additives\": \"AT\", \"Wash (% of applied)\": 20.2, \"Treated area (%)\": 20.2, \"Base of treated leaf (%)\": 11.1, \"Tip of treated leaf (%)\": 8.0, \"Shoot (%)\": 9.9, \"Roots (%)\": 1.5, \"Translocated (%)\": 30.5}, {\"Additives\": \"BE\", \"Wash (% of applied)\": 18.3, \"Treated area (%)\": 15.0, \"Base of treated leaf (%)\": 11.3, \"Tip of treated leaf (%)\": 8.2, \"Shoot (%)\": 9.9, \"Roots (%)\": 1.5, \"Translocated (%)\": 30.9}, {\"Additives\": \"SO1R15BE\", \"Wash (% of applied)\": 13.8, \"Treated area (%)\": 18.4, \"Base of treated leaf (%)\": 13.0, \"Tip of treated leaf (%)\": 8.0, \"Shoot (%)\": 12.1, \"Roots (%)\": 1.4, \"Translocated (%)\": 34.6}, {\"Additives\": \"11N17AT\", \"Wash (% of applied)\": 15.1, \"Treated area (%)\": 13.6, \"Base of treated leaf (%)\": 12.8, \"Tip of treated leaf (%)\": 10.8, \"Shoot (%)\": 11.7, \"Roots (%)\": 1.4, \"Translocated (%)\": 36.8}]"
+        },
+        {
+            "content": "Quackgrass (Elytrigia repens) and barnyardgrass (Echinochloa crus-galli) were more than one hundred times more susceptible to sethoxydim than alfalfa (Medicago sativa 'Saranac') or navy bean (Phaseolus vulgaris 'Seafarer'). Uptake of sethoxydim from soil following post-emergence applications caused negligible reduction in E. crus-galli fresh weight. More than 80% of foliar-applied 14C-sethoxydim was absorbed within 6 hours in all species. Translocation occurred in all species with accumulation of 14C in rapidly growing plant tissues. Translocation to the roots was less than 8% of the total in all species. Most of the extracted 14C initially partitioned into an ethyl acetate-soluble fraction. The proportion of 14C in the ethyl acetate-soluble fraction decreased with time with a concomitant increase of that in the insoluble fraction. Differences in the quantity of 14C in the ethyl acetate-soluble fraction did not account for the observed selectivity.",
+            "reference": "Campbell, J. R., & Penner, D. (1987). Retention, absorption, translocation and distribution of sethoxydim in monocotyledonous and dicotyledonous plants. Weed research, 27(3), 179-186.",
+            "method": {
+                "Test Plant": "Elymus repens (quackgrass), Glycine max (navy bean), Medicago sativa (alfalfa), Echinochloa crus-galli",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Plants were grown in a potting soil (1:1:1 sandy loam soil:sand:peat) in 10-cm diameter, 1-L pots under supplemental fluorescent lighting with a 16-h photoperiod and light photon flux density of 150 \u03bcE/m2/s at mid-day. Temperatures were 25 to 30\u00b0C during the day and 18 to 22\u00b0C at night. Water was applied only to the soil surface after herbicide application.",
+                "Chemical Preparation": "Formulated sethoxydim and oil concentrate adjuvant at 1% (v/v) were used.",
+                "Pesticide Application Details for the Plant": "E. repens, E. crus-galli, and navy bean were sprayed at the fourth-, third-, and fourth-leaf stages, respectively. Alfalfa plants had 25 cm of regrowth after a single cutting. Herbicide was applied with a moving belt sprayer at 245 kPa pressure and 200 L/ha spray volume. Treatments were replicated six times and the experiment was repeated.",
+                "Other Information": "For retention study, plants were sprayed at 220 L/ha and 245 kPa, and shoots were washed immediately after application. Treatments were replicated seven times and the experiment was repeated."
+            },
+            "result": "[{\"Plant Hours after application\": 1, \"Treated leaf (% of absorbed)\": 97, \"Untreated leaves (%)\": 2, \"Roots rhizomes (%)\": 1}, {\"Plant Hours after application\": 6, \"Treated leaf (% of absorbed)\": 92, \"Untreated leaves (%)\": 7, \"Roots rhizomes (%)\": 1}, {\"Plant Hours after application\": 24, \"Treated leaf (% of absorbed)\": 84, \"Untreated leaves (%)\": 8, \"Roots rhizomes (%)\": 8}, {\"Plant Hours after application\": 168, \"Treated leaf (% of absorbed)\": 84, \"Untreated leaves (%)\": 8, \"Roots rhizomes (%)\": 8}, {\"Plant Hours after application\": 1, \"Treated leaf (% of absorbed)\": 98, \"Untreated leaves (%)\": 2, \"Roots rhizomes (%)\": 0}, {\"Plant Hours after application\": 6, \"Treated leaf (% of absorbed)\": 95, \"Untreated leaves (%)\": 4, \"Roots rhizomes (%)\": 1}, {\"Plant Hours after application\": 24, \"Treated leaf (% of absorbed)\": 91, \"Untreated leaves (%)\": 7, \"Roots rhizomes (%)\": 2}, {\"Plant Hours after application\": 168, \"Treated leaf (% of absorbed)\": 88, \"Untreated leaves (%)\": 10, \"Roots rhizomes (%)\": 2}, {\"Plant Hours after application\": 1, \"Treated leaf (% of absorbed)\": 98, \"Untreated leaves (%)\": 1, \"Roots rhizomes (%)\": 1}, {\"Plant Hours after application\": 6, \"Treated leaf (% of absorbed)\": 98, \"Untreated leaves (%)\": 2, \"Roots rhizomes (%)\": 0}, {\"Plant Hours after application\": 24, \"Treated leaf (% of absorbed)\": 95, \"Untreated leaves (%)\": 3, \"Roots rhizomes (%)\": 1}, {\"Plant Hours after application\": 168, \"Treated leaf (% of absorbed)\": 85, \"Untreated leaves (%)\": 13, \"Roots rhizomes (%)\": 1}, {\"Plant Hours after application\": 1, \"Treated leaf (% of absorbed)\": 94, \"Untreated leaves (%)\": 5, \"Roots rhizomes (%)\": 1}, {\"Plant Hours after application\": 6, \"Treated leaf (% of absorbed)\": 95, \"Untreated leaves (%)\": 3, \"Roots rhizomes (%)\": 2}, {\"Plant Hours after application\": 24, \"Treated leaf (% of absorbed)\": 87, \"Untreated leaves (%)\": 10, \"Roots rhizomes (%)\": 3}, {\"Plant Hours after application\": 168, \"Treated leaf (% of absorbed)\": 80, \"Untreated leaves (%)\": 17, \"Roots rhizomes (%)\": 3}]"
+        }
+    ]
+}

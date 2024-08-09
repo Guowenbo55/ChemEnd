@@ -1,0 +1,126 @@
+{
+    "_id": {
+        "$oid": "6682e881c4e5dba5ffba25ea"
+    },
+    "CID": {
+        "$numberInt": "7505"
+    },
+    "Name": "BENZONITRILE",
+    "IUPACName": "benzonitrile",
+    "CanonicalSMILES": "C1=CC=C(C=C1)C#N",
+    "Synonyms": [
+        "BENZONITRILE",
+        "100-47-0",
+        "Cyanobenzene",
+        "Phenyl cyanide",
+        "Benzenenitrile",
+        "Benzoic acid nitrile",
+        "Benzene",
+        "cyano-",
+        "Benzenecarbonitrile",
+        "Phenylcyanide",
+        "Fenylkyanid",
+        "benzonitril",
+        "Fenylkyanid [Czech]",
+        "NSC 8039",
+        "HSDB 45",
+        "CCRIS 3184"
+    ],
+    "IsomericSMILES": "C1=CC=C(C=C1)C#N",
+    "INCHI": "InChI=1S/C7H5N/c8-6-7-4-2-1-3-5-7/h1-5H",
+    "INCHIKEY": "JFDZBHWFFUWGJE-UHFFFAOYSA-N",
+    "Formula": "C7H5N",
+    "MolecularWeight": {
+        "$numberDouble": "103.12"
+    },
+    "Description": "Benzonitrile is a nitrile that is hydrogen cyanide in which the hydrogen has been replaced by a phenyl group. It is a member of benzenes and a nitrile.",
+    "XlogP": {
+        "$numberDouble": "1.6"
+    },
+    "Complexity": {
+        "$numberInt": "103"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 27 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Sept 15, 2014 https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm/ (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 5 was calculated in fish for benzonitrile(SRC), using a measured log Kow of 1.56(1) and a regression-derived equation(2).  According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Sept 15, 2014: https://www.safe.nite.go.jp/english/db.html (2) Sakuratani Y et al; SAR and QSAR in Environmental Research 16: 403-431 (2005) (3) Kitano M; Biodegradation and Bioaccumulation Test on Chemical Substance. OECD Tokyo Meeting. Reference Book TSU-No. 3 (1978) (4) Sasaki S; pp. 283-98 in Aquatic Pollutants. Hutzinger O et al, eds, Oxford, England: Pergamon Press (1978) (5) Ludzack FJ et al; Sew Indust Wastes 31: 33-44 (1959) (6) Ludzack FJ et al; pp. 547-65 in Proc of the 14th Ind Waste Conf, Eng Ext Series No. 104 (1959) (7) Kondo M et al; Eisei Kagaku 34: 188-95 (1988) (8) Zhang P et al; J Environ Qual 33: 868-872 (2004) (9) Zhang P et al; Environ Sci Technol 39: 5442-5448 (2005)",
+            "Value": "AEROBIC: Benzonitrile , present at 100 mg/L, reached 63.4% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1). Other screening studies give similar results (63.4-80.8%) and benzonitrile is confirmed to be biodegradable according to the standard test of the Japanese Ministry of Industry and Trade (MITI) that employs a mixed inoculum obtained from freshwater, soil, and sludge(2-4). The theoretical oxygen demand (ThOD) for benzonitrile in Ohio River Water from Cincinnati and/or aged sewage sludge were 0, 60, 90% and/or 0, 40, 80% after 2, 5, and 12 days, respectively(5). The BOD for benzonitrile in a bench-scale activated sludge unit was measured to be 93-98%(6). The BOD for benzonitrile in river water, present at 50 ppm, was 7%(7). Benzonitrile achieved 100% degradation after 280 minutes in a phosphate buffer solution in the soil and after 500 minutes in a soil slurry(8). Benzonitrile also achieved 20% and 44% in ash and ash-amended soil slurries at 2000 minutes, respectively(8). Benzonitrile achieved 88% degradation after 8, 10, and 12.5 hours in char-amended soil, soil and washed-char-amended soil slurries(9)."
+        },
+        {
+            "References": "(1) Kameya T et al; Sci Tot Environ 170: 43-51 (1995)",
+            "Value": "ANAEROBIC: Benzonitrile, present at a concentration of 3 mg-C/L, was biodegraded at 51% after 28 days under anaerobic conditions using a synthetic sewage inoculum at 37 \u00b0C(1)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Fukami K et al; J Agric Food Chem 50: 4512-5416 (2002)",
+            "Value": "Benzonitrile was detected, not quantified, in fish sauce from Southeast Asia(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 27",
+            "Value": "log Kow = 1.56"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "PMID:6732504",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Acute toxicity and metabolism of 21 nitriles in mice were studied in relation to their chemical structures. All the test nitriles liberated cyanide ions both in vivo and in vitro, with the exception of benzonitrile , although the extent of liberation and the effect of carbon tetrachloride (CCl4) pretreatment on the mortality of animals differed among nitriles. From these results, test compounds were tentatively divided into three groups. In group 1 (13 compounds), acute toxicity was greatly reduced by CCl4 pretreatment, in group 2 (seven compounds), toxicity was not significantly changed or was somewhat enhanced, and in group 3, benzonitrile only, toxicity was clearly enhanced. The amount of cyanide was higher (0.68-0.80 microgram CN/g brain) at death in the brains of mice given group-1 compounds, the level being comparable to that found in mice killed by dosing with potassium cyanide. After oral doses of each nitrile, the time course for cyanide levels in the liver varied among the compounds. The difference between group-1 and -2 compounds lay in the dose-cyanide liberation relationship in liver, and in the kinetics for cyanide liberation in the hepatic microsomal enzyme system. Double-reciprocal plots of enzyme activity showed a linear relationship for nitriles of group 1 and a non-linear one for group 2. The relationship between log (1/LD50) and log P for the compounds in group 1 fitted a parabolic plot, while that for compounds in group 2 was linear."
+        },
+        {
+            "References": "Snyder, R. (ed.). Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume II: Nitrogen and Phosphorus Solvents. Amsterdam-New York-Oxford: Elsevier, 1990., p. 331",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ /CNS depressive/ signs and changes in blood cholinesterase activity were observed /in rats and mice in an inhalation study with benzonitrile/. Indication of cumulative effects of benzonitrile were reported. Toxic signs included sluggishness, unsteady gait, a comatose state, convulsions of limb muscles, and death."
+        },
+        {
+            "References": "Snyder, R. (ed.). Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume II: Nitrogen and Phosphorus Solvents. Amsterdam-New York-Oxford: Elsevier, 1990., p. 331",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Benzonitrile produced mild eye irritation and no skin irriation in albino rabbits. ... Benzonitrile applied full strength to intact or abraded rabbit skin for 24 hr under occlusion was moderately irritating."
+        },
+        {
+            "References": "Snyder, R. (ed.). Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume II: Nitrogen and Phosphorus Solvents. Amsterdam-New York-Oxford: Elsevier, 1990., p. 331",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Exposure to 700 ppm benzonitrile (approximately 2-9 mg/L) for 4 hr was lethal within 0-2 days to all of a group of mice, while exposure to 890 ppm (3-8 mg/L) for 2 hr was lethal to one of seven mice within 2 days. ... However, in rats, benzonitrile vapor inhalation at 900 ppm (3.8 mg/L) for 4 hr was not lethal, although exposure to approximately 950 ppm benzonitrile (4.1 mg/L) for 8 hr was lethal, 8.0 mg/L for 4 hr was lethal to three of ten animals, and 0.8 mg/L for 4 hr was without effect. Both rats and mice showed irritation of the extremities during the first hour of exposure and this was followed by labored breathing poor coordination and prostration. Surviving rats showed a subnormal weight gain. At autopsy, no abnormal lesions were observed, but microscopic examination revealed multifocal areas of lymphoid hyperplasia with foamy macrophage accumulations in the lungs of the rats. Congestion and edema were noted in the mouse lungs. Hepatic congestion and sinusoidal dilation were also seen in mice."
+        },
+        {
+            "References": "Snyder, R. (ed.). Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume II: Nitrogen and Phosphorus Solvents. Amsterdam-New York-Oxford: Elsevier, 1990., p. 332",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ When benzonitrile was administered orally to rats in a single lethal dose (2 g/kg), cytochrome oxidase activity of the liver, kidneys, and heart was increased by 2-4 times. The nitrile initially increased the hippuric acid and NH3 and decreased the glucuronides of the urine. Rhodanides in the blood remained unchanged."
+        },
+        {
+            "References": "Snyder, R. (ed.). Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume II: Nitrogen and Phosphorus Solvents. Amsterdam-New York-Oxford: Elsevier, 1990., p. 331",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Exposure of rats to benzonitrile vapor in a concentration of 0.07 mg/L for 4-5 months was accompanied by CNS changes and altered liver function and blood chemistry as well as by changes in tissue-oxidizing processes."
+        },
+        {
+            "References": "PMID:14513206",
+            "Value": "/GENOTOXICITY/ In order to investigate the chromosomal genotoxicity of nitrobenzene and benzonitrile, ... the induction of micronuclei (MN) by these test compounds in V79 cells, as well as effects on the formation and stability of microtubules and on motor protein functions, /was studied/. No cytotoxicity was seen in V79 cell cultures in terms of Neutral red uptake after 18 h treatment with up to 1 mM nitrobenzene or 1 mM benzonitrile. Subsequently, a concentration range up to 100 micro M was used in the experiments on induction of MN. Both test compounds exhibit a weak, but definitely positive test result compared to the solvent (DMSO) control. Minimal effect concentrations of nitrobenzene and benzonitrile appeared as low as 0.01 micro M, and no-effect-concentrations were between 0.001 and 0.005 micro M. Clearly enhanced MN rates were found at 0.1 micro M and higher. Both, nitrobenzene and benzonitrile, induced mostly kinetochor (CREST)-positive micronuclei, thus characterising the chromosomal effects as aneugenic. In cell-free assays, a slight effect on tubulin assembly was observed at 1 mM nitrobenzene without addition of DMSO. Higher concentrations (5 mM) led to secondary effects. In presence of 1% DMSO, nitrobenzene exerted no detectable effect on tubulin assembly up to the solubility limit in water of about 15 mM. For benzonitrile in presence of DMSO, a clear dose-response of inhibition of tubulin assembly at 37 degrees C was seen above the no-effect-concentration of 2 mM, with an IC(50) of 13 mM and protein denaturation starting above a level of about 20 mM. The nature of the effects of nitrobenzene and benzonitrile on the association of tubulin to form microtubules was confirmed by electron microscopy. Treatment by either 5 mM nitrobenzene or 13 mM benzonitrile plus 1% DMSO left the microtubular structure intact whereas 5 mM nitrobenzene, in absence of DMSO, led to irregular cluster formations. The experiments demonstrate that both nitrobenzene and benzonitrile, in millimolar concentration ranges, may lead to interference with tubulin assembly in a cell-free system. The functionality of the tubulin-kinesin motor protein system was assessed using the microtubule gliding assay. Nitrobenzene affected the gliding velocity in a concentration-dependent manner, starting at about 7.5 micro M and reaching complete inhibition of motility at 30 micro M, whereas benzonitrile up to 200 micro M did not affect the kinesin-driven gliding velocity. The micronucleus assay data demonstrate a chromosomal endpoint of genotoxicity of nitrobenzene and benzonitrile. Aneugenic effects of both compounds occur at remarkably low concentrations, with lowest-effect-concentrations being 0.1 micro M. This points to the relevance of interactions with the cellular spindle apparatus."
+        },
+        {
+            "References": "Snyder, R. (ed.). Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume II: Nitrogen and Phosphorus Solvents. Amsterdam-New York-Oxford: Elsevier, 1990., p. 332",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Stimulation of the olfactory mucosa of the pithed frog with a puff of benzonitrile produced an electrical response from the receptor cells. Benzonitrile alters the difference spectra of oxidized cytochrome p450 in liver microsomes."
+        },
+        {
+            "References": "PMID:7497338",
+            "Value": "/OTHER TOXICITY INFORMATION/ The toxicities of 34 benzonitriles to Tetrahymena pyriformis have been measured. Structure-activity relationships indicate that for these compounds different mechanisms of toxic action are taking place dependent on the nature of the substituent. Benzonitrile itself, some halogenated and the toluene derivatives model as non-polar narcotics; more polar substituents model well as polar narcotics; whilst the nitro and aldehyde substituted benzonitriles, and compounds that may be metabolised to benzoquinone are shown to exhibit considerable excess toxicity and, thus, the probability is that they are acting by a specific mechanism of action. After the removal of two outliers, QSAR analysis reveals a significant three parameter equation, and confirms the importance of hydrophobicity and descriptors of reactivity for the comprehension and the prediction of the toxicity of the benzonitriles."
+        },
+        {
+            "References": "Cheav SL et al; Ann Pharm Fr 41 (4): 391-4 (1983)",
+            "Value": "/OTHER TOXICITY INFORMATION/ Benzonitrile was tested for anticonvulsant effect in mice and gave protection against pentylenetetrazole-induced convulsions."
+        },
+        {
+            "References": "Snyder, R. (ed.). Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume II: Nitrogen and Phosphorus Solvents. Amsterdam-New York-Oxford: Elsevier, 1990., p. 331",
+            "Value": "/OTHER TOXICITY INFORMATION/ Certain responses of rats following exposure to benzonitrile vapor (0.07 mg/L) exhibited age-rated differences. Erythrocyte and leukocyte counts and hemoglobin , albumin and gamma-globulin levels decreased while alpha1-, alpha2- and beta-globulin levels increased earlier and were compensated far more rapidly in adult rats than in juvenile or older animals."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 27 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Sept 15, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of benzonitrile is estimated as 150(SRC), using a log Kow of 1.56(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that benzonitrile is expected to have moderate mobility in soil(SRC)."
+        }
+    ]
+}

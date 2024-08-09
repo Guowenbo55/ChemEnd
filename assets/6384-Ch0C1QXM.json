@@ -1,0 +1,124 @@
+{
+    "_id": {
+        "$oid": "6682e846c4e5dba5ffba24c6"
+    },
+    "CID": {
+        "$numberInt": "6384"
+    },
+    "Name": "BROMOTRIFLUOROMETHANE",
+    "IUPACName": "bromo(trifluoro)methane",
+    "CanonicalSMILES": "C(F)(F)(F)Br",
+    "Synonyms": [
+        "Bromotrifluoromethane",
+        "75-63-8",
+        "Bromofluoroform",
+        "Trifluorobromomethane",
+        "bromo(trifluoro)methane",
+        "Trifluoromethyl bromide",
+        "Methane",
+        "bromotrifluoro-",
+        "Halon 1301",
+        "Monobromotrifluoromethane",
+        "Refrigerant 13B1",
+        "Daiflon 13B1",
+        "Fluorocarbon 1301",
+        "Khladon 13B1",
+        "Flugex 13B1",
+        "FREON 13B1"
+    ],
+    "IsomericSMILES": "C(F)(F)(F)Br",
+    "INCHI": "InChI=1S/CBrF3/c2-1(3,4)5",
+    "INCHIKEY": "RJCQBQGAPKAMLL-UHFFFAOYSA-N",
+    "Formula": "CBrF3",
+    "MolecularWeight": {
+        "$numberDouble": "148.91"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "2.2"
+    },
+    "Complexity": {
+        "$numberInt": "28"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, And Steric Constants. ACS Prof Ref Book. Washington,DC: Amer Chem Soc p. 3 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-672 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 5.4 was calculated for bromotrifluoromethane(SRC), using a log Kow of 1.86(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Boethling RS et al; Environ Sci Technol 28: 459-65 (1994)",
+            "Value": "Based upon the highly halogenated structure of bromotrifluoromethane, biodegradation is expected to be slow(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 3",
+            "Value": "log Kow= 1.86"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "WHO; Environmental Health Criteria 113: Fully Halogenated Chlorofluorocarbons p.20 (1990)",
+            "Value": "Cardiac arrhythmia, possibly aggravated by elevated levels of catecholamines due to stress ... is suggested as the cause of these adverse responses, which may lead to death. /Fluorocarbons/"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "American Conference of Governmental Industrial Hygienists, Inc. Documentation of the Threshold Limit Values and Biological Exposure Indices. 6th ed. Volumes I, II, III. Cincinnati, OH: ACGIH, 1991., p. 1640",
+            "Value": "... EXPOSURES TO TRIFLUOROBROMOMETHANE OF 20-25% RESULTED IN PERFORMANCE DECREMENTS FOR OPERANT-TRAINED MONKEYS. ... DOGS AND RATS /EXPOSED/ DAILY FOR 18 WEEKS AT AN AVERAGE CONCENTRATION OF 23000 /PPM/ TRIFLUOROBROMOMETHANE SHOWED NO SIGNS OF INTOXICATION AND NO PATHOLOGIC CHANGE WAS DETECTABLE AT NECROPSY."
+        },
+        {
+            "References": "Patty, F. (ed.). Industrial Hygiene and Toxicology: Volume II: Toxicology. 2nd ed. New York: Interscience Publishers, 1963., p. 1328",
+            "Value": "... APPROX LETHAL CONCN ... WAS 5070 MG/L AIR ... FOR 15 MIN EXPOSURE OF RATS. ... /AFTER DECOMP/ @ 800 \u00b0C ... APPROX LETHAL CONCN WAS 90 MG/L ... FOR A 15 MIN EXPOSURE OF RATS. RESPONSE WAS PRIMARILY RESPIRATORY DAMAGE WITH IRRITATION & EDEMA OF LUNGS. ... CONGESTION OF LIVER, SPLEEN & KIDNEY BUT NO CHANGES IN CIRCULATORY SYSTEM."
+        },
+        {
+            "References": "PMID:5022332",
+            "Value": "ADMIN TO CATS @ 228 MM HG IN AIR ATMOSPHERE FOR 5 MIN @ 73 PSIG (EQUIV TO 165 FT OF SEAWATER) PRODUCED FREQUENT NODAL HEART BEATS, INCR QRS INTERVAL FROM 0.05-0.06 SEC, & PRODUCED LUNG VACUOLIZATION & MINIMAL ALVEOLAR CAPILLARY ENGORGEMENT & INFLAMMATION."
+        },
+        {
+            "References": "VAN STEE EW, BACK KC; US AIR FORCE TECH DOC REP AMRL-TDR 68 (182): 1-20 (1971)",
+            "Value": "ANESTHETIZED DOGS EXPOSED TO BROMOTRIFLUOROMETHANE SHOWED A SIGNIFICANT DECREASE IN TOTAL PERIPHERAL RESISTANCE AND MYOCARDIAL CONTRACTILITY PRODUCED A REVERSIBLE HYPOTENSION DURING THE EXPOSURE."
+        },
+        {
+            "References": "PMID:1198616",
+            "Value": "EXPOSURE OF ANESTHETIZED DOGS TO BROMOTRIFLUOROMETHANE MAY RESULT IN DISTURBANCES OF MYOCARDIAL ENERGY METABOLISM THAT ARE CONNECTED TO MYOCARDIAL PERFORMANCE. BROMOTRIFLUOROMETHANE HAD LESS EFFECT THAN DID CBRCLF2 OR CH2BRCL."
+        },
+        {
+            "References": "PMID:7068013",
+            "Value": "In acute toxicity studies, mice were more sensitive to trifluorobromomethane than rats. Acute threshold concn of trifluorobromomethane from its effect on cholinesterase was 17000 mg/cu m. Basic pathogenic mechanism of trifluorobromomethane intoxication was hypoxia reduction in the tissue respiration and the blood function. A good correlation was observed between trifluorobromomethane intoxication and the title indexes."
+        },
+        {
+            "References": "PMID:7173904",
+            "Value": "The relative potency of effect of a wide range of halogenated and unsubstituted hydrocarbons on the CNS and heart of experimental animals were determined. The effects of these chemicals on the CNS and heart are probably structurally non-specific and the chemicals may be regarded as physical toxicants whose effects are predictable from their physicochemical properties."
+        },
+        {
+            "References": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-159",
+            "Value": "EARLY ANIMAL ... WORK INDICATED THAT HIGH VAPOR CONCN (EG, 20%) MAY CAUSE CONFUSION, PULMONARY IRRITATION, TREMORS & RARELY COMA, BUT THAT THESE EFFECTS WERE GENERALLY TRANSIENT & WITHOUT LATE SEQUELAE. /FLUOROCARBON REFRIGERANTS & PROPELLANTS/"
+        },
+        {
+            "References": "PMID:982473",
+            "Value": "Two series of experiments were conducted to determine the effects of bromotrifluoromethane, bromochlorodifluoromethane, and dichlorodifluoromethane on the isolated, perfused rabbit heart. Hearts were perfused through the aorta. Left ventricular mechanical activity was monitored concurrently with action potentials recorded from left ventricular myocardial fibers. In the first series, mechanical performance curves were determined for each of 7 hearts using intraventricular balloons to control end diastolic pressure. The relative effectiveness of these compounds as negative inotropic agents was bromochlorodifluoromethane > dichlorodifluoromethane > bromotrifluoromethane. In the 2nd series of experiments, hearts were exposed to increasing concentrations of each fluorocarbon. Controls were exposed to equivalent concentrations of nitrogen. Exposure to increasing concentrations of bromotrifluoromethane decreased peak left ventricular pressure, the integral of the pressure curve, and the time to 20% repolarization of the action potential. Exposure to increasing concentrations of bromochlorodifluoromethane reduced peak left ventricular pressure, the maximal rate of rise of the pressure curve and prolonged exposure to increasing levels of dichlorodifluoromethane decreased peak left ventricular pressure and the maximal rate of rise of the pressure curve."
+        },
+        {
+            "References": "PMID:4771604",
+            "Value": "Seventeen beagle dogs representing both sexes and weighing an average of 10 kg each were used in open chest experiments. The dogs were anesthetized by the continuous iv infusion of a mixture of 10% ethanol and 60 mg/l morphine sulfate in 5% glucose in water. Left ventricular pressure was monitored through a metal canula inserted through the left ventricular free wall following a left side thoractomy. Left ventricular pressure was used to control the horizontal deflection and change in pressure with time was used to control the vertical deflection of a vector oscilloscope. Peak change in pressure with time divided by P was calculated from the Lissajous figures generated, and provided an index of the inotropic state of the left ventricular myocardium. The method was validated using isoproterenol and propranolol, known inotropic agents. Since bromotrifluoromethane and bromochlorodifluoromethane (components of fire extinguishing systems used in both environmental closed and open life support systems) cause changes in mean arterial pressure, the effects of variable afterload on peak change in pressure with time divided by P were determined by aortic constriction. Both fluoroalkanes produced concentration-dependent decreases in peak change in pressure with time divided by P that reflected decreased myocardial contractility."
+        },
+        {
+            "References": "PMID:1198616",
+            "Value": "Thirty-four mongrel dogs were divided into 5 groups: 6 oxygen controls; 8 exposed to 27-75% bromotrifluoromethane in oxygen; 4 exposed to 27-75% nitrogen and oxygen; 9 exposed to 4-12% bromochlorodifluoromethane in oxygen; and 7 exposed to 0.3-1.0% chlorobromomethane in oxygen. Dogs were anesthetized and instruments for cardiovascular dynamic and myocardial metabolic monitoring through thoracotomies were implanted. Thirty-eight variables reflecting cardiovascular dynamics and myocardial metabolism were monitored before, during and after 45-min exposures to the respective compounds. The results of the exposures to the halogenated alkanes were compared with the results from the oxygen experiments except where significant differences were detected between oxygen and nitrogen exposures reflecting effects of oxygen exclusion, in which case the results of the corresponding fluorocarbon exposures were compared with the results from the nitrogen exposures. The most significant observation was the elevation of the coronary sinus blood oxygen partial pressure and oxygen content during exposure to bromochlorodifluoromethane or chlorobromomethane. Both of these variables increased in magnitude progressively during the exposures. The persistence of the effect postexposure was greater for bromochlorodifluoromethane than for chlorobromomethane. Exposure to bromotrifluoromethane, bromochlorodifluoromethane or chlorobromomethane may result in disturbances of myocardial energy metabolism that are connected to myocardial performance. Based on the concentration to which dogs must be exposed to elicit such responses, bromotrifluoromethane was least effective and chlorobromomethane was most effective. The bromochlorodifluoromethane was intermediate between the two but closer to the chlorobromomethane than to the bromotrifluoromethane."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, And Steric Constants. ACS Prof Ref Book. Washington,DC: Amer Chem Soc p. 3 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington,DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 23 (1983)",
+            "Value": "The Koc of bromotrifluoromethane is estimated as 49(SRC), using a log Kow of 1.86(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that bromotrifluoromethane is expected to have very high mobility in soil."
+        }
+    ]
+}

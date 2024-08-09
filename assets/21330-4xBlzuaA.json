@@ -1,0 +1,110 @@
+{
+    "_id": {
+        "$oid": "6682e938c4e5dba5ffba2985"
+    },
+    "CID": {
+        "$numberInt": "21330"
+    },
+    "Name": "OXYCARBOXIN",
+    "IUPACName": "6-methyl-4,4-dioxo-N-phenyl-2,3-dihydro-1,4-oxathiine-5-carboxamide",
+    "CanonicalSMILES": "CC1=C(S(=O)(=O)CCO1)C(=O)NC2=CC=CC=C2",
+    "Synonyms": [
+        "OXYCARBOXIN",
+        "Oxycarboxine",
+        "5259-88-1",
+        "Plantvax",
+        "Dcmod",
+        "Oxicarboxin",
+        "Vitavax sulfone",
+        "Carboxin sulfone",
+        "F 461 (Pesticide)",
+        "Plantvax 20",
+        "Rendor",
+        "Vitavex",
+        "Dioxide of vitavax",
+        "5,6-Dihydro-2-methyl-1,4-oxathiin-3-carboxanilide 4,4-dioxide",
+        "F461"
+    ],
+    "IsomericSMILES": "CC1=C(S(=O)(=O)CCO1)C(=O)NC2=CC=CC=C2",
+    "INCHI": "InChI=1S/C12H13NO4S/c1-9-11(18(15,16)8-7-17-9)12(14)13-10-5-3-2-4-6-10/h2-6H,7-8H2,1H3,(H,13,14)",
+    "INCHIKEY": "AMEKQAFGQBKLKX-UHFFFAOYSA-N",
+    "Formula": "C12H13NO4S",
+    "MolecularWeight": {
+        "$numberDouble": "267.3"
+    },
+    "Description": "Oxycarboxin is an anilide obtained by formal condensation of the amino group of aniline with the carboxy group of 2-methyl-5,6-dihydro-4,4-dioxo-1,4-oxathiine-3-carboxylic acid. A fungicide for the control of rust diseases on ornamentals, cereals and nursery trees as well as fairy rings on turf. It has a role as an EC 1.3.5.1 [succinate dehydrogenase (quinone)] inhibitor and an antifungal agrochemical. It is a sulfone, an anilide, an oxacycle, an organosulfur heterocyclic compound and an anilide fungicide.",
+    "XlogP": {
+        "$numberDouble": "0.7"
+    },
+    "Complexity": {
+        "$numberInt": "455"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Oxycarboxin. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)(3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated for oxycarboxin(SRC), using a log Kow of 0.77(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "BALASUBRAMANYA RH, PATIL RB; PLANT SOIL 57 (2-3): 457-61 (1980)",
+            "Value": "MICROORGANISMS FOUND IN WET SOILS WERE EXAMINED FOR THEIR ABILITY TO DEGRADE FUNGICIDES. THE BLUE-GREEN ALGAE ANABAENA, NOSTOC, & TOLYPOTHRIX EXTENSIVELY DEGRADED OXYCARBOXIN & CARBOXIN. THE PHOTOSYNTHETIC BACTERIUM RHODOSPIRILLUM DEGRADED OXYCARBOXIN TO A GREATER EXTENT THAN CARBOXIN. THE PROTOZOA, COLPODA BROUGHT ABOUT AN EXTENSIVE DEGRADATION OF CARBOXIN BUT NOT OF OXYCARBOXIN."
+        },
+        {
+            "References": "BALASUBRAMANYA RH, PATIL RB; MADRAS AGRIC J 63 (8-10): 505-8 (1976)",
+            "Value": "AN ISOLATE OF SOIL PSEUDOMONAS HYDROLYZED OXYCARBOXIN TO ANILINE & WAS CAPABLE OF UTILIZING OXYCARBOXIN AS ITS SOLE SOURCE OF C & N."
+        },
+        {
+            "References": "(1) Menzie CM; Metabolism of Pesticides Update III. Fish & Wildlife Service: Washington, DC NTIS PB83-165498 (1980) (2) Balasubramanya RH, Patil RB; Plant Soil 57: 457-61 (1980) (3) Balasubramanya RH, Patil RB; Plant Soil 57: 195-201 (1980)",
+            "Value": "When incubated with a Norcardia sp species isolated from soil, oxycarboxin was found to undergo amide hydrolysis(1). Blue-green algae (Anabaena, Nostoc, Tolypothrix, and Chlorella vulgaris) isolated from wet soil were found to degrade oxycarboxin(2). Oxycarboxin was found to degrade in five different soil types including 3 monoionic clays (red sandy loam, black clayey, laterite, saline alkalai, and coffee plantation), were found to degrade oxycarboxin in 10 days under aerobic conditions(3)."
+        },
+        {
+            "References": "(1) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Oxycarboxin. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)",
+            "Value": "The half-life of oxycarboxin in a sandy loam was reported to range from 2.5 to 8 weeks(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Oxycarboxin. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)",
+            "Value": "log Kow = 0.772"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Garg FC et al; Ann Microbiol (Paris) 132B (2): 231-9 (1981)",
+            "Value": "Oxycarboxin inhibited the growth of rhizobia in vitro at concentration of 19 ug/mL. Growth inhibition appeared to be primarily due to inhibition of respiration. The effect of oxycarboxin was more pronounced on RNA. Inhibition was transitory and the bacterium overcame this initial inhibition without mutation."
+        },
+        {
+            "References": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-317",
+            "Value": "/Oxycarboxin inhibits/ oxidative metabolism and succinic dehydrogenase in mitochondria of liver and bone."
+        },
+        {
+            "References": "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 2, 2nd ed. 2001. Academic Press, San Diego, California., p. 1198",
+            "Value": "Oxycarboxin inhibits oxidative metabolism and specifically succinate dehydrogenase activity in both fungal and vertebrate mitochondria, but the potency was much higher against the enzyme from the target species (Rhizoctonia solani, I50 = 6.8 uM; Ustilago maydis, I50 = 8.0 uM) than vertebrates (rat and mouse liver , I50 = 50-100 uM). It is less potent than carboxin as an inhibitor of complex II in both fungi and vertebrates."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992) (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc for oxycarboxin can be estimated to be 20(SRC). According to a classification scheme(2), this estimated Koc value suggests that oxycarboxin is expected to have very high mobility in soil."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "The study investigated the uptake and translocation of the systemic oxathiin fungicide carboxin and its sulfone analog, oxycarboxin, in bean plants. It was found that carboxin was taken up better by the roots of bean plants than oxycarboxin. Radioautography indicated apoplastic movement of both fungicides, leading to marginal accumulation in transpiring leaves, with no redistribution between organs up to 14 days after treatment cessation. Carboxin was rapidly oxidized in roots to the non-fungitoxic sulfoxide, while oxycarboxin persisted in root and leaf extracts for up to 21 days. The majority of the label in roots was acetone-insoluble, indicating binding to plant polymers, while in leaves, a smaller proportion was insoluble. Analysis showed that the carboxamide linkage in carboxin was hydrolyzed in roots, producing aniline, which bound to plant polymers and formed water-soluble conjugation products. These findings were confirmed by chemotherapy studies with bean rust, confirming the translocation, distribution, and decomposition patterns of the fungicides.",
+            "reference": "Snel, M., & Edgington, L. V. (1970). Uptake, translocation and decomposition of systemic oxathiin fungicides in bean. Phytopathology, 60(12), 1708-1716.",
+            "method": {
+                "Test Plant": "Bean (Phaseolus vulgaris cvs. Tendergreen and Pinto)",
+                "Apply Location": "Root uptake from nutrient solution (hydroponics)",
+                "Plant Growth Condition": "Seeds germinated in vermiculite. One week old seedlings transferred to half-strength Knop's nutrient solution. Grown in controlled environment cabinets at 21\u00b0C day/18\u00b0C night, 16 hr daylength, 60% relative humidity to minimize transpirational differences.",
+                "Chemical Preparation": "14C-labeled carboxin and oxycarboxin (anilino moiety labeled) synthesized by UniRoyal Research. Purity confirmed by TLC and UV absorption spectra. Specific activity 0.2 mCi/mmol.",
+                "Pesticide Application Details for the Plant": "3-week old plants exposed to 6.25 and 12.5 \u03bcM solutions of 14C-carboxin or 14C-oxycarboxin (0.1875 and 0.375 \u03bcCi) in 150 mL nutrient solution for 120 hours.",
+                "Other Information": "Uptake quantified by measuring remaining radioactivity in nutrient solution compared to controls. 1 mL aliquots in 15 mL scintillation cocktail counted for 10 min with quench correction."
+            },
+            "result": "[{\"Days after application\": 7, \"Stem (%)\": 1.81, \"Trifoliate leaves (% of absorbed)\": 2.57, \"Roots (%)\": 17.97, \"Unifoliate leaves (%)\": 40.58}, {\"Days after application\": 14, \"Stem (%)\": 1.11, \"Trifoliate leaves (% of absorbed)\": 2.86, \"Roots (%)\": 20.96, \"Unifoliate leaves (%)\": 32.97}, {\"Days after application\": 21, \"Stem (%)\": 1.11, \"Trifoliate leaves (% of absorbed)\": 3.16, \"Roots (%)\": 21.43, \"Unifoliate leaves (%)\": 33.67}, {\"Days after application\": 35, \"Stem (%)\": 0.58, \"Trifoliate leaves (% of absorbed)\": 2.28, \"Roots (%)\": 26.7, \"Unifoliate leaves (%)\": 17.39}]"
+        }
+    ]
+}

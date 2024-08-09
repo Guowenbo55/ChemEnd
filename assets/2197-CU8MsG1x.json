@@ -1,0 +1,66 @@
+{
+    "_id": {
+        "$oid": "6682e7eac4e5dba5ffba22fa"
+    },
+    "CID": {
+        "$numberInt": "2197"
+    },
+    "Name": "ANISINDIONE",
+    "IUPACName": "2-(4-methoxyphenyl)indene-1,3-dione",
+    "CanonicalSMILES": "COC1=CC=C(C=C1)C2C(=O)C3=CC=CC=C3C2=O",
+    "Synonyms": [
+        "anisindione",
+        "117-37-3",
+        "Miradon",
+        "2-(4-Methoxyphenyl)-1H-indene-1,3(2H)-dione",
+        "Anisin indandione",
+        "2-p-Anisyl-1,3-indandione",
+        "Unidone",
+        "Andion",
+        "Anisindiona",
+        "Anisindionum",
+        "1H-Indene-1,3(2H)-dione",
+        "2-(4-methoxyphenyl)-",
+        "2-(4-Methoxyphenyl)indan-1,3-dione",
+        "2-(p-Methoxyphenyl)indane-1,3-dione",
+        "2-para-Anisyl-1,3-indandione",
+        "2-(p-Methoxyphenyl)-1,3-indandione"
+    ],
+    "IsomericSMILES": "COC1=CC=C(C=C1)C2C(=O)C3=CC=CC=C3C2=O",
+    "INCHI": "InChI=1S/C16H12O3/c1-19-11-8-6-10(7-9-11)14-15(17)12-4-2-3-5-13(12)16(14)18/h2-9,14H,1H3",
+    "INCHIKEY": "XRCFXMGQEVUZFC-UHFFFAOYSA-N",
+    "Formula": "C16H12O3",
+    "MolecularWeight": {
+        "$numberDouble": "252.26"
+    },
+    "Description": "Anisindione is a cyclic beta-diketone consisting of indane-1,3-dione having a 4-methoxyphenyl substituent at the 4-position. It has a role as an anticoagulant and a vitamin K antagonist. It is a beta-diketone and an aromatic ketone. It derives from a hydride of an indane.",
+    "XlogP": {
+        "$numberDouble": "2.9"
+    },
+    "Complexity": {
+        "$numberInt": "344"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Sangster J; LOGKOW Databank. Sangster Res. Lab., Montreal Quebec, Canada (1994)",
+            "Value": "log Kow = 2.88"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Goodman, L.S., and A. Gilman. (eds.) The Pharmacological Basis of Therapeutics. 5th ed. New York: Macmillan Publishing Co., Inc., 1975., p. 1356",
+            "Value": "Oral anticoagulants have no direct effect on circulating clotting factors. Instead they block hepatic formation of factors II, VII, IX, and X by competitively inhibiting action of vitamin K. Synthesis of these factors is dependent upon sufficient supply of vitamin."
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 1527",
+            "Value": "The oral anticoagulants block the regeneration of reduced vitamin K and thereby induce a state of functional vitamin K deficiency. The mechanism of the inhibition of reductase(s) by the coumarin drugs is not known. There exist reductases that are less sensitive to these drugs but that act only at relatively high concentrations of oxidized vitamin K; this property may explain the observation that administration of sufficient vitamin K can counteract even large doses of oral anticoagulants. /Oral Anticoagulants/"
+        },
+        {
+            "References": "WHO; Environ Health Criteria 175: Anticoagulant Rodenticides p.46 (1995)",
+            "Value": "Both 4-hydroxycoumarin derivatives and indandiones (also known as oral anticoagulants) are antagonists of vitamin K. Their use as rodenticides is based on the inhibition of the vitamin K-dependent step in the synthesis of a number of blood coagulation factors. The vitamin K-dependent proteins ...in the coagulation cascade... are the procoagulant factors II (prothrombin), VII (proconvertin), IX (Christmas factor) and X (Stuart-Prower factor), and the coagulation-inhibiting proteins C and S. All these proteins are synthesized in the liver. Before they are released into the circulation the various precursor proteins undergo substantial (intracellular) post-translational modification. Vitamin K functions as a co-enzyme in one of these modifications, namely the carboxylation at well-defined positions of 10-12 glutamate residues into gamma-carboxyglutamate (Gla). The presence of these Gla residues is essential for the procoagulant activity of the various coagulations factors. Vitamin K hydroquinone (KH2) is the active co-enzyme, and its oxidation to vitamin K 2,3-epoxide (KO) provides the energy required for the carboxylation reaction. The epoxide is than recycled in two reduction steps mediated by the enzyme KO reductase... . The latter enzyme is the target enzyme for coumarin anticoagulants. Their blocking of the KO reductase leads to a rapid exhaustion of the supply of KH2, and thus to an effective prevention of the formation of Gla residues. This leads to an accumulation of non-carboxylated coagulation factor precursors in the liver. In some cases these precursors are processed further without being carboxylated, and (depending on the species) may appear in the circulation. At that stage the under-carboxylated proteins are designated as descarboxy coagulation factors. Normal coagulation factors circulate in the form of zymogens, which can only participate in the coagulation cascade after being activated by limited proteolytic degradation. Descarboxy coagulation factors have no procoagulant activity (i.e. they cannot be activated) and neither they can be converted into the active zymogens by vitamin K action. Whereas in anticoagulated humans high levels of circulating descarboxy coagulation factors are detectable, these levels are negligible in warfarin-treated rats and mice. /Anticoagulant rodenticides/"
+        }
+    ]
+}

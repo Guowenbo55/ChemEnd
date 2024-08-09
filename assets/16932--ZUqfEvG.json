@@ -1,0 +1,101 @@
+{
+    "_id": {
+        "$oid": "6682e929c4e5dba5ffba2939"
+    },
+    "CID": {
+        "$numberInt": "16932"
+    },
+    "Name": "1-Methylpyrene",
+    "IUPACName": "1-methylpyrene",
+    "CanonicalSMILES": "CC1=C2C=CC3=CC=CC4=C3C2=C(C=C1)C=C4",
+    "Synonyms": [
+        "1-METHYLPYRENE",
+        "2381-21-7",
+        "Pyrene",
+        "1-methyl-",
+        "3-Methylpyrene",
+        "Pyrene",
+        "methyl-",
+        "1-Methyl pyrene",
+        "AB8420OXQA",
+        "27577-90-8",
+        "DTXSID0025654",
+        "NSC-90776",
+        "1-Methylpyrene 10 microg/mL in Cyclohexane",
+        "METHYLPYRENE",
+        "210487-07-3",
+        "CCRIS 6066",
+        "HSDB 2162"
+    ],
+    "IsomericSMILES": "CC1=C2C=CC3=CC=CC4=C3C2=C(C=C1)C=C4",
+    "INCHI": "InChI=1S/C17H12/c1-11-5-6-14-8-7-12-3-2-4-13-9-10-15(11)17(14)16(12)13/h2-10H,1H3",
+    "INCHIKEY": "KBSPJIWZDWBDGM-UHFFFAOYSA-N",
+    "Formula": "C17H12",
+    "MolecularWeight": {
+        "$numberDouble": "216.28"
+    },
+    "Description": "1-Methylpyrene is a member of pyrenes.",
+    "XlogP": {
+        "$numberDouble": "5.4"
+    },
+    "Complexity": {
+        "$numberInt": "294"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Hemminki K, Veidebaum T; Scandinavian Journal of Work Environment and Health. 25: 33-39 (1999)",
+            "Value": "Pine needles collected from 4 sites in Sweden and 2 sites in Estonia had 1-methylpyrene levels of 4.1 to 140 ng/L dry wt(1)."
+        }
+    ],
+    "animal_concentrations": [
+        {
+            "References": "(1) Broman D et al; Environ Toxicol Chem 9: 429-42 (1990)",
+            "Value": "The mean concentration of 1-methylpyrene in common eider duck (Somateria mollissima) gallbladders was determined to be 1.4 ng/g dry wt, collected from the open northern Baltic Sea in early summer to early autumn of 1985 and 1986(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Mar 23, 2017: https://www2.epa.gov/tsca-screening-tools (2) Franke C et al; Chemosphere 29: 1501-14 (1994) (3) Santodonato J et al; in Health and Ecological Assessment of Polynuclear Aromatic Hydrocarbons; Lee SD, Grant L eds., Park Forest South IL: Pathotox Publ (1981) (4) Arnot JA et el; Environ Toxicol Chem 27: 2263-2270 (2008)",
+            "Value": "An estimated BCF of 1920 was calculated in fish for 1-methylpyrene(SRC), using an estimated log Kow of 5.48(1) and a regression-derived equation(1). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is very high(SRC), provided the compound is not metabolized by the organism(SRC). However, 1-methylpyrene may not bioconcentrate in aquatic organisms which contain microsomal oxidase, such as fish, as this enzyme enables the rapid metabolism of certain polycyclic aromatic hydrocarbons(3). A measured fish biotransformation half-life of 2.08 days has been reported for the analogous compound pyrene(4)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Lundstedt S et al; Environ Toxicol Chem 22: 1413-1420 (2003)",
+            "Value": "AEROBIC: Using a pilot-scale bioslurry treatment method with contaminated soil from a former gasworks site, the fraction of initial 1-methylpyrene remaining in the soil after 7, 24 and 29 days of incubation was 100, 85 and 62% respectively(1)."
+        },
+        {
+            "References": "(1) Boethling RS et al; Environ Sci Technol 28: 459-65 (1994) (2) Cerniglia CE; Biodegradation 3: 351-68 (1992) (3) Wild SR et al; pp. 457-62 in Agricultural Soils Amended With Sewage Sludges. Arendt F et al, eds. Netherlands: Kluwer Academic Publ (1990) (4) Grosser RJ et al; Appl Environ Microbiol 57: 3462-3469 (1991) (5) Aichberger H et al; Soil & Sediment Contamination 15: 73-85 (2006)",
+            "Value": "AEROBIC: Polycyclic aromatic hydrocarbons (PAHs) with four or more rings, such as 1-methylpyrene, are generally expected to be resistant to biodegradation(1). Biodegradation of the analogous compound pyrene is expected to occur slowly in soils, with estimated half-lives ranging from several weeks to years(2,3). Faster biodegradation rates occur with exposure to acclimated microbes(4). Soil microcosm studies using three industrial soils from Austria found pronounced biodegradation of pyrene in one soil (about 65-75% over 65 days of incubation), but only slight biodegradation in the other two soils(5)."
+        },
+        {
+            "References": "(1) Bayona JM et al; Intern J Environ Anal Chem 23: 289-303 (1986)",
+            "Value": "PURE CULTURE: 1-Methylpyrene, present in Arabian light crude oil, was determined to be resistant to degradation by pure culture strains of Pseudomonas sp. isolated from tanker ballast waters(1)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Lindstrom-Seppa P et al; Toxicol Environ Chem 19: 83-86 (1989) (2) Broman D et al; Environ Toxicol Chem 9: 429-42 (1990) (3) Bjorseth A et al; Sci Total Environ 13: 71-86 (1979)",
+            "Value": "The concentration of 1-methylpyrene in perch (Perca fluviatilis) following an oil spill in Vassa Archipelago, Finland was determined to be <0.1 ug/kg(1). The concentration of 1-methylpyrene in seston (planktonic bacteria, phtyoplankton and zooplankton) and blue mussel (Mytilus edulis, L.) soft parts was determined to be 21 and 2.2 ng/g dry wt, respectively. Mussels were collected in the open northern Baltic Sea from the early summer to early autumn of 1985 and 1986(1). Mussels collected from Saudafjorden, West Norway in October 1976 contained 0 to 3606 ppb 1-methylpyrene in Modiolus modiolus and 183 ppb 1-methylpyrene in Mytilus edulis(2)."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Naef C et al; Environ Sci Technol 26: 1444-57 (1992) (2) West WR et al; Arch Environ Contam Toxicol 15: 241-49 (1986) (3) Bjorseth A et al; Sci Total Environ 13: 71-86 (1979) (4) Kozin I et al; Chemosphere 33: 1435-47 (1996) (5) Echols KR et al; Arch Environ Contam Toxicol 55: 161-172 (2008)",
+            "Value": "SEDIMENT: 1-Methylpyrene was qualitatively identified in sediment collected near various industrial emission sources on the Swedish Baltic Coast(1). 1-Methylpyrene was positively identified in sediment from the Black River, Ohio, concentration not reported(2). Sediments collected from Saudafjorden, West Norway in October 1976 contained 0.2 to 513.5 ppb 1-methylpyrene, depending upon depth(3). 1-Methylpyrene was identified in crude sediment (from St. John's Harbour, Canada) and purified sediment at concentrations of 1.6 and 6.2 ng/g, respectively(4). 1-Methylpyrene levels of 0.6-27 ng/g dry wt were detected in sediments from 19 depositional areas along the lower Missouri River in 2002(5)."
+        },
+        {
+            "References": "(1) Yu X et al; Environ Sci Technol 24: 1732-38 (1990) (2) Lundstedt S et al; Environ Toxicol Chem 22: 1413-1420 (2003)",
+            "Value": "SOIL: Coastal sandy loam soil contaminated with coal tar taken from a site in southern New Jersey at a depth of 180 cm below the surface was found to contain 36.6 ug/g 1-methylpyrene/methylfluoranthene(1). 1-Methylpyrene was qualitatively detected in soil samples collected from a former gasworks site in Stockholm, Sweden(2)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Mar 23, 2017: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 23 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of 1-methylpyrene can be estimated to be 89,000(SRC). According to a classification scheme(2), this estimated Koc value suggests that 1-methylpyrene is expected to be immobile in soil."
+        }
+    ]
+}

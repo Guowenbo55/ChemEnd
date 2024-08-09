@@ -1,0 +1,74 @@
+{
+    "_id": {
+        "$oid": "66927113303528b49832d7d0"
+    },
+    "CID": {
+        "$numberInt": "54739"
+    },
+    "Name": "Imazaquin",
+    "IUPACName": "2-(4-methyl-5-oxo-4-propan-2-yl-1H-imidazol-2-yl)quinoline-3-carboxylic acid",
+    "CanonicalSMILES": "CC(C)C1(C(=O)NC(=N1)C2=NC3=CC=CC=C3C=C2C(=O)O)C",
+    "Synonyms": [
+        "IMAZAQUIN",
+        "81335-37-7",
+        "Imazaquin acid",
+        "Scepter Herbicide",
+        "Caswell No. 003C",
+        "Imazaquin [BSI:ISO]",
+        "Imazaquine [ISO-French]",
+        "2-(4-methyl-5-oxo-4-propan-2-yl-1H-imidazol-2-yl)quinoline-3-carboxylic acid",
+        "3-Quinolinecarboxylic acid",
+        "2-(4,5-dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1H-imidazol-2-yl)-",
+        "8LZY7C31XA",
+        "2-(5-Isopropyl-5-methyl-4-oxo-2-imidazolin-2-yl)-3-quinolinecarboxylic acid",
+        "CHEBI:5869",
+        "2-(4,5-Dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1H-imidazol-2-yl)-3-quinolinecarboxylic acid",
+        "DTXSID3024152",
+        "2-(4-ISOPROPYL-4-METHYL-5-OXO-4,5-DIHYDRO-1H-IMIDAZOL-2-YL)QUINOLINE-3-CARBOXYLIC ACID"
+    ],
+    "IsomericSMILES": "CC(C)C1(C(=O)NC(=N1)C2=NC3=CC=CC=C3C=C2C(=O)O)C",
+    "INCHI": "InChI=1S/C17H17N3O3/c1-9(2)17(3)16(23)19-14(20-17)13-11(15(21)22)8-10-6-4-5-7-12(10)18-13/h4-9H,1-3H3,(H,21,22)(H,19,20,23)",
+    "INCHIKEY": "CABMTIJINOIHOD-UHFFFAOYSA-N",
+    "Formula": "C17H17N3O3",
+    "MolecularWeight": {
+        "$numberDouble": "311.33"
+    },
+    "Description": "2-[4-methyl-5-oxo-4-(propan-2-yl)-4,5-dihydro-1H-imidazol-2-yl]quinoline-3-carboxylic acid is a quinolinemonocarboxylic acid that is quinoline-3-carboxylic acid which is substituted by a 4-methyl-5-oxo-4-(propan-2-yl)-4,5-dihydro-1H-imidazol-2-yl group at position 2. It is a quinolinemonocarboxylic acid, an imidazolone and a monocarboxylic acid.",
+    "XlogP": {
+        "$numberDouble": "2.5"
+    },
+    "Complexity": {
+        "$numberInt": "545"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Green manure species that are tolerant to the herbicide imazaquin can be used in crop rotation schemes that aim to reduce herbicide carryover to sensitive plants such as sunflower or corn. Three different doses of imazaquin (0, 0.15 and 0.28 kg ha-1) were applied during the pre-emergence growth stage to Dolichos lablab, Cajanus cajan, Canavalia ensiformis, Crotalaria juncea, C. breviflora, C. spectabilis, Mucuna deeringiana, M. cinerea, M. aterrima, Lupinus albus, Helianthus annuus, Pennisetum glaucum, Avena strigosa and Raphanus sativus, and the results were evaluated in a greenhouse. C. ensiformis and M. cinerea were selected from these species for being the most tolerant, and they were then evaluated for absorption and translocation of 14C-imazaquin in two different growth stages: the cotyledonary stage and the emergence of the first pair of true leaves. M. cinerea individuals showed the best potential for translocating imazaquin to the shoot when compared to C. ensiformes, which accumulated the herbicide mostly in its roots. These plants had a higher ability to accumulate herbicide during their most advanced stage of development, which demonstrates their potential for use in areas that have residual imazaquin.",
+            "reference": "Florido, F. G., Monquero, P. A., Dias, A. C. R., & Tornisielo, V. L. (2014). The absorption and translocation of imazaquin in green manures. Acta Scientiarum. Agronomy, 36, 291-300.",
+            "method": {
+                "Test Plant": "Canavalis ensiformis (jack bean), Mucuna cinerea (grey mucuna)",
+                "Apply Location": "Pre-emergence soil application",
+                "Plant Grown Condition": "1.5 dm3 soil in vases, top 2 cm layer treated with radiolabeled imazaquin",
+                "Chemical Preparation": "Imazaquin at 0, 0.15, 0.28 kg ai/ha",
+                "Pesticide Application Details for the Plant": "2 cm top soil layer treated with 14C-imazaquin solution, seeds planted between treated and untreated layers",
+                "Other information and Other Information": "For absorption study, 2 vases (reps) per species and growth stage. Absorption determined by combusting plant parts and liquid scintillation counting"
+            },
+            "result": "[{\"Plant\": \"C.ensiformis\", \"Apply stage\": \"Cotyledonary leaves\", \"Leaf (% of absorbed)\": 25.03, \"Stem (%)\": 12.13, \"Root (%)\": 49.9, \"Cotyledons (%)\": \"12.94\"}, {\"Plant\": \"C.ensiformis\", \"Apply stage\": \"First pair of true leaves\", \"Leaf (% of absorbed)\": 36.06, \"Stem (%)\": 9.57, \"Root (%)\": 54.38, \"Cotyledons (%)\": \"-\"}, {\"Plant\": \"M.cinerea\", \"Apply stage\": \"Cotyledonary leaves\", \"Leaf (% of absorbed)\": 31.14, \"Stem (%)\": 9.41, \"Root (%)\": 29.34, \"Cotyledons (%)\": \"30.12\"}, {\"Plant\": \"M.cinerea\", \"Apply stage\": \"First pair of true leaves\", \"Leaf (% of absorbed)\": 44.54, \"Stem (%)\": 8.75, \"Root (%)\": 28.45, \"Cotyledons (%)\": \"18.26\"}]"
+        },
+        {
+            "content": "The study investigated the impact of imazaquin on the absorption, translocation, and distribution of chlormequat chloride in CYCOCEL* CL in winter wheat. Three treatments were applied to the 5th leaf of the main stem at growth stage 5: (1) 14C-chlormequat chloride, (2) CYCOCEL* CL containing 14C-chlormequat chloride, and (3) CYCOCEL* CL containing 14C-imazaquin. The majority of the radioactivity absorbed (more than 85%) remained in the treated leaf. Ten days after application, 94.4% of the 14C-chlormequat was found in the treated leaf for chlormequat chloride alone, compared to 88.2% for the chlormequat chloride plus imazaquin treatment. This suggests that imazaquin increases the mobility and distribution pattern of chlormequat chloride in the plant.",
+            "reference": "Arissian, M., Perrissin-Fabert, D., Blouet, A., Morel, J. L., & Guckert, A. (1991). Effect of imazaquin on absorption, translocation, and pattern of distribution of chlormequat chloride in winter wheat. Journal of Plant Growth Regulation, 10, 1-4.",
+            "method": {
+                "Test Plant": "Winter wheat (Triticum aestivum L., cv. Fidel)",
+                "Apply Location": "Foliar application on 5th leaf of main stem",
+                "Plant Grown Condition": "Seeds germinated at 4\u00b0C, then transplanted to PVC tubes with sandy soil (pH 7). Grown in greenhouse at 30/20\u00b0C day/night, 16 h photoperiod. Drip irrigated with Hoagland's nutrient solution containing 0.0125 g N/pot at emergence and 0.025 g N/pot at tillering.",
+                "Chemical Preparation": "14C-chlormequat chloride (70.6 \u03bcCi) and 14C-imazaquin (38 \u03bcCi)",
+                "Pesticide Application Details for the Plant": "Non-radiolabeled applied at 90% of full rate. Then 10 \u03bcl radiolabeled solution applied on 5th leaf. 14C-imazaquin in CYCOCEL CL (46.1 \u03bcg chlormequat, 0.47 \u03bcg imazaquin, 672 Bq)",
+                "Other Information": "12 seedlings per batch. Sampled at 1, 6, 24, 48, 120, 240 h after treatment (2 plants/timepoint)"
+            },
+            "result": "[{\"Hours after application\": 1, \"Translocation to tillers (%)\": 0.73, \"Translocation to roots (%)\": 1.37}, {\"Hours after application\": 6, \"Translocation to tillers (%)\": 1.02, \"Translocation to roots (%)\": 1.6}, {\"Hours after application\": 24, \"Translocation to tillers (%)\": 2.54, \"Translocation to roots (%)\": 1.77}, {\"Hours after application\": 48, \"Translocation to tillers (%)\": 3.07, \"Translocation to roots (%)\": 1.65}, {\"Hours after application\": 120, \"Translocation to tillers (%)\": 3.46, \"Translocation to roots (%)\": 1.53}, {\"Hours after application\": 240, \"Translocation to tillers (%)\": 3.91, \"Translocation to roots (%)\": 3.02}]"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "66927112303528b49832d7ce"
+    },
+    "CID": {
+        "$numberInt": "54744"
+    },
+    "Name": "para-Imazamethabenz methyl",
+    "IUPACName": "methyl 4-methyl-2-(4-methyl-5-oxo-4-propan-2-yl-1H-imidazol-2-yl)benzoate",
+    "CanonicalSMILES": "CC1=CC(=C(C=C1)C(=O)OC)C2=NC(C(=O)N2)(C)C(C)C",
+    "Synonyms": [
+        "Imazamethabenz methyl (para)",
+        "p-Imazamethabenz methyl",
+        "para Imazamethabenz methyl",
+        "para-Imazamethabenz methyl",
+        "Assert",
+        "Dagger",
+        "69969-22-8",
+        "AC 222293",
+        "Methyl 2-(4-isopropyl-4-methyl-5-oxo-4,5-dihydro-1H-imidazol-2-yl)-4-methylbenzoate",
+        "BEE251846T",
+        "Methyl 2-(4-isopropyl-4-methyl-5-oxo-2-imidazolin-2-yl)-p- toluate",
+        "Methyl 2-(4-isopropyl-4-methyl-5-oxo-2-imidazolin-2-yl)-p-toluate",
+        "methyl 4-methyl-2-[4-methyl-5-oxo-4-(propan-2-yl)-4,5-dihydro-1H-imidazol-2-yl]benzoate",
+        "Antibiotic AM 630B",
+        "Imazmethabenz"
+    ],
+    "IsomericSMILES": "CC1=CC(=C(C=C1)C(=O)OC)C2=NC(C(=O)N2)(C)C(C)C",
+    "INCHI": "InChI=1S/C16H20N2O3/c1-9(2)16(4)15(20)17-13(18-16)12-8-10(3)6-7-11(12)14(19)21-5/h6-9H,1-5H3,(H,17,18,20)",
+    "INCHIKEY": "FFCCBBNQPIMUJI-UHFFFAOYSA-N",
+    "Formula": "C16H20N2O3",
+    "MolecularWeight": {
+        "$numberDouble": "288.34"
+    },
+    "Description": "Methyl 2-(4-isopropyl-4-methyl-5-oxo-4,5-dihydro-1H-imidazol-2-yl)-4-methylbenzoate is a methyl ester resulting from the formal condensation of the carboxy group of 2-(4-isopropyl-4-methyl-5-oxo-4,5-dihydro-1H-imidazol-2-yl)-4-methylbenzoic acid with methanol. It is a methyl ester and an imidazolone. It is functionally related to a 2-(4-isopropyl-4-methyl-5-oxo-4,5-dihydro-1H-imidazol-2-yl)-4-methylbenzoic acid.",
+    "XlogP": {
+        "$numberDouble": "2.6"
+    },
+    "Complexity": {
+        "$numberInt": "472"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The study investigated the effect of water stress on the absorption and translocation of 14C-labelled fenoxaprop-ethyl and imazamethabenz-methyl in Avena fatua L. (wild oat), as well as the herbicides' phytotoxicity under water stress conditions. The results showed that water stress reduced the absorption and translocation of both herbicides when plants were harvested within 24 hours after application. However, the effect diminished after 48 hours. Water stress also reduced the phytotoxicity of fenoxaprop-ethyl but not imazamethabenz-methyl when applied as individual droplets. These findings suggest that changes in herbicide absorption and translocation may not be the major physiological processes driving the differential response of Avena fatua to fenoxaprop-ethyl and imazamethabenz-methyl under water stress.",
+            "reference": "Xie, H. S., Hsiao, A. I., QulCk, W. A., & Hume, J. A. (1996). Influence of water stress on absorption, translocation and phytotoxicity of fenoxaprop\u2010ethyl and imazamethabenz\u2010methyl in Avena fatua. Weed Research, 36(1), 65-71.",
+            "method": {
+                "Test Plant": "Avena fatua (wild oat)",
+                "Apply Location": "Foliar application (droplets on adaxial midsection of second lamina)",
+                "Plant Growth Condition": "Seeds pre-germinated on moist filter paper for 5 days, then transplanted to 7.5 cm pots with loamy sand soil (pH 7.6, nutrients given). Grown in growth chamber at 21\u00b0C day/15\u00b0C night, 40-60% RH, 400 \u03bcmol/m2/s light for 16 h photoperiod. Non-stressed plants watered daily. Water-stressed plants water withheld for 7 days before herbicide application showing wilting, then maintained at ~25% field capacity for 10 more days.",
+                "Chemical Preparation": "[14C]fenoxaprop-ethyl - stock 7.24 \u03bcCi/mL in ethanol, working solution 11.25 \u03bcCi/mL with 1500 \u03bcg/mL in commercial EC formulation. [14C]imazamethabenz-methyl - stock 8.70 \u03bcCi/mL in methanol, working solution 11.25 \u03bcCi/mL with 3000 \u03bcg/mL in commercial SC formulation.",
+                "Pesticide Application Details for the Plant": "Two 2 \u03bcL droplets of working herbicide solutions applied to adaxial midsection of second leaf lamina.",
+                "Other Information": "Plants harvested at 24, 48, 96 h after treatment, divided into treated leaf, foliage, roots. Surface washed with 10% ethanol+0.5% Tween 20 (fenoxaprop) or 0.1% Tween 20 (imazamethabenz). Plant parts combusted and 14C quantified by liquid scintillation counting."
+            },
+            "result": "[{\"Treatment\": \"Non-stressed\", \"Hours after application\": 24, \"Treated area (% of applied)\": 98, \"Untreated area of foliage (%)\": 1, \"Roots (%)\": 1}, {\"Treatment\": \"Non-stressed\", \"Hours after application\": 48, \"Treated area (% of applied)\": 95, \"Untreated area of foliage (%)\": 4, \"Roots (%)\": 1}, {\"Treatment\": \"Non-stressed\", \"Hours after application\": 96, \"Treated area (% of applied)\": 96, \"Untreated area of foliage (%)\": 2, \"Roots (%)\": 1}, {\"Treatment\": \"Water-stressed\", \"Hours after application\": 24, \"Treated area (% of applied)\": 97, \"Untreated area of foliage (%)\": 1, \"Roots (%)\": 2}, {\"Treatment\": \"Water-stressed\", \"Hours after application\": 48, \"Treated area (% of applied)\": 95, \"Untreated area of foliage (%)\": 3, \"Roots (%)\": 2}, {\"Treatment\": \"Water-stressed\", \"Hours after application\": 96, \"Treated area (% of applied)\": 96, \"Untreated area of foliage (%)\": 2, \"Roots (%)\": 2}]"
+        }
+    ]
+}

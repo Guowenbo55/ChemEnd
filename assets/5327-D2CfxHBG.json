@@ -1,0 +1,71 @@
+{
+    "_id": {
+        "$oid": "6682e81fc4e5dba5ffba2405"
+    },
+    "CID": {
+        "$numberInt": "5327"
+    },
+    "Name": "SULFAMETHAZINE",
+    "IUPACName": "4-amino-N-(4,6-dimethylpyrimidin-2-yl)benzenesulfonamide",
+    "CanonicalSMILES": "CC1=CC(=NC(=N1)NS(=O)(=O)C2=CC=C(C=C2)N)C",
+    "Synonyms": [
+        "sulfamethazine",
+        "Sulfadimidine",
+        "57-68-1",
+        "Sulfamezathine",
+        "Sulfadimerazine",
+        "Sulphamethazine",
+        "Sulfadimethyldiazine",
+        "Sulfadimethylpyrimidine",
+        "4-amino-N-(4,6-dimethylpyrimidin-2-yl)benzenesulfonamide",
+        "Sulfadimezine",
+        "Sulphadimidine",
+        "Sulphamezathine",
+        "Sulfamethiazine",
+        "Sulphadimethylpyrimidine",
+        "Sulphamethasine"
+    ],
+    "IsomericSMILES": "CC1=CC(=NC(=N1)NS(=O)(=O)C2=CC=C(C=C2)N)C",
+    "INCHI": "InChI=1S/C12H14N4O2S/c1-8-7-9(2)15-12(14-8)16-19(17,18)11-5-3-10(13)4-6-11/h3-7H,13H2,1-2H3,(H,14,15,16)",
+    "INCHIKEY": "ASWVTGNCAZCNNR-UHFFFAOYSA-N",
+    "Formula": "C12H14N4O2S",
+    "MolecularWeight": {
+        "$numberDouble": "278.33"
+    },
+    "Description": "Sulfamethazine is a sulfonamide consisting of pyrimidine with methyl substituents at the 4- and 6-positions and a 4-aminobenzenesulfonamido group at the 2-position. It has a role as an antiinfective agent, a carcinogenic agent, a ligand, an antibacterial drug, an antimicrobial agent, an EC 2.5.1.15 (dihydropteroate synthase) inhibitor, an environmental contaminant, a xenobiotic and a drug allergen. It is a member of pyrimidines, a sulfonamide and a sulfonamide antibiotic. It is functionally related to a sulfanilamide.",
+    "XlogP": {
+        "$numberDouble": "0.3"
+    },
+    "Complexity": {
+        "$numberInt": "377"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "animal_concentrations": [
+        {
+            "References": "(1) Sinigoj-Gacnik K, Doganoc DZ; Bull Environ Contam Toxicol 61: 235-41 (2000) (2) Quon DJ; J Agric Food Chem 48: 6421-7 (2000)",
+            "Value": "Sulfamethazine was detected above 0.01 mg/kg in only 6 out of 2,363 samples from farm animals and fish from Slovenia between 1994 and 1998(1). During a study of drug residues in domestic and imported eggs in Canada, sulfamides (including sulfamethazine) were detected above 5 ng/g in less than 3% of 383 egg samples(2)."
+        },
+        {
+            "References": "(1) Quon DJ; J Agric Food Chem 48: 6421-7 (2000) (2) Schlatter C; pp. 65-72 in Euroresidue: Residues of Veterinary Drugs in Food, Proceedings of Euroresidue Conf, Noodwijkerhout, Netherlands, May 21-23, 1990, Haagsma N, Ruiter A eds. (1990)",
+            "Value": "Sulfamethazine residues in calves on the same day of administration of 99 mg/kg were 30.40 ppm in muscle, 54.90 ppm in the liver, and 43.20 ppm in the kidneys(1). Sulfamethazine residues in sheep 6 hours after administration of 107 mg/kg were 54 ppm in muscle, 69 ppm in the liver, and 124 ppm in the kidneys(1). Sulfamethazine residues in chicken on the same day of administration of 0.1% in water were 5.70 ppm in muscle, 18.70 ppm in the liver, and 10.70 ppm in the kidneys(2). Sulfamethazine residues in chicken on the same day of administration of 0.4% in feed were 74.50 ppm in muscle, 78.00 ppm in the liver, and 103.0 ppm in the kidneys(2). Sulfamethazine residues were dissipated by 99% after 4 days in sheep and calves and after 10 days in chicken(2). Sulfamethazine residues were 45 ppm in egg yolk and 56 ppm in eggwhite from eggs of chickens that were administered a dose of 0.1% in water(2)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Padula DJ et al; Chemosphere 86(7): 709-17 (2012) (2) Love DC et al; Environ Sci Technol 45(17): 7232-40 (2011)",
+            "Value": "Sulfamethazine was tested for but not detected at in Australian farmed Yellowtail Kingfish (Seriola lalandi) and Mulloway (Argyrosomus hololepidotus)(1). Sulfamethazine presence in seafood inspected by the European Union, United States, Canada, and Japan from 2000 to 2009 was reported. 1% of finfish samples from Japan were in violation of the presence of sulfamethazine(2)."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Long ER et al; Environ Toxicol Chem 32(8): 1701-1710 (2013)",
+            "Value": "SEDIMENT: Sulfamethazine was tested for, not detected in the marine sediments of Puget Sound, Washington, analyzed in April and June, 2010(1)."
+        },
+        {
+            "References": "(1) Watanabe N et al; Environ Sci Technol 44(17): 6591-600 (2010)",
+            "Value": "SOIL: Sulfamethazine concentration was below the detection limit in a manure lagoon-treated field surface sample from a California diary CAFO employing 10.8 g sulfamethazine/day(1)."
+        }
+    ]
+}

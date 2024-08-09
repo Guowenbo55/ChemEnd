@@ -1,0 +1,145 @@
+{
+    "_id": {
+        "$oid": "6682e80fc4e5dba5ffba23b5"
+    },
+    "CID": {
+        "$numberInt": "4510"
+    },
+    "Name": "NITROGLYCERIN",
+    "IUPACName": "1,3-dinitrooxypropan-2-yl nitrate",
+    "CanonicalSMILES": "C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]",
+    "Synonyms": [
+        "nitroglycerin",
+        "Glyceryl trinitrate",
+        "Trinitroglycerin",
+        "Nitrostat",
+        "55-63-0",
+        "Nitroglycerine",
+        "Nitroglycerol",
+        "Trinitroglycerol",
+        "Nitro-dur",
+        "Minitran",
+        "Transderm-nitro",
+        "Glycerol trinitrate",
+        "Nitrolingual",
+        "Trinitrin",
+        "Nitronet"
+    ],
+    "IsomericSMILES": "C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]",
+    "INCHI": "InChI=1S/C3H5N3O9/c7-4(8)13-1-3(15-6(11)12)2-14-5(9)10/h3H,1-2H2",
+    "INCHIKEY": "SNIOPGDIGTZGOP-UHFFFAOYSA-N",
+    "Formula": "C3H5N3O9",
+    "MolecularWeight": {
+        "$numberDouble": "227.09"
+    },
+    "Description": "Nitroglycerin is a nitroglycerol that is glycerol in which the hydrogen atoms of all three hydroxy groups are replaced by nitro groups. It acts as a prodrug, releasing nitric oxide to open blood vessels and so alleviate heart pain. It has a role as a vasodilator agent, a nitric oxide donor, an explosive, a prodrug, a tocolytic agent, a muscle relaxant and a xenobiotic.",
+    "XlogP": {
+        "$numberDouble": "1.6"
+    },
+    "Complexity": {
+        "$numberInt": "219"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 6 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 4 was calculated for nitroglycerin(SRC), using a log Kow of 1.62(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Rendic S et al; pp. 303-315 in Environ Toxicol Assess. Richardson M, ed. London, UK: Taylor and Francis (1995) (2) Wendt TM et al; Appl Environ Microbiol 36: 693-9 (1978)",
+            "Value": "Nitroglycerin and other aliphatic nitric acid esters undergo aerobic biodegradation readily via successive removal of nitrate groups to isomeric derivatives(1). Contrary to some earlier reports that it was recalcitrant to biodegradation, nitroglycerin proved to be readily biodegradable in batch and continuous tests(2). Results of the shake flask test that was run at 30 \u00b0C with an activated sludge inoculum showed a 53.6% loss of nitroglycerin in 5 days(2). In a continuous bench-scale activated sludge apparatus, a mean reduction of 92.2% was obtained(2). The apparatus was run at room temperature and the residence time was 84 hr. 1,3-Dinitroglycerol and 1,2-dinitroglycerol were identified at intermediate stages of the process, but they were also essentially absent from the effluent(2). The third experiment employing a chemostat, a continuous culture, aerobic system with no solids recycling, was designed to simulate a plant where propellant wastes would be treated. After a 8-15 hr detention period, no nitrate esters were detectable in the effluent(2). It was found that nitroglycerin is not suitable as a source of carbon and nitrogen so nutrients are essential(2). It was speculated that the earlier experiments which showed nitroglycerin to be recalcitrant were conducted using concns of nitroglycerin that were toxic to the microorganisms(2)."
+        },
+        {
+            "References": "(1) Christodoulatos C et al; Water Res 31: 1462-70 (1997) (2) Accashian JV et al; Water Environ Res 72: 499-506 (2000)",
+            "Value": "Complete mineralization of nitroglycerin (350 umol/l initial concn) was achieved within 4 days utilizing mixed cultures and an anaerobic digester, using digester sludge from a municipal wastewater treatment plant amended with 2,000 mg/l of glucose(1). Without glucose amendments, the complete mineralization of nitroglycerin took about 25 days in the digester(1). Nitroglycerin, present at 16 mg/l, was rapidly degraded in a sequencing batch reactor using mixed liquor from an industrial wastewater facility and a domestic wastewater treatment plant, with 1,2-dinitroglycerol and 1,3-dinitroglycerol as the initial products(2)."
+        },
+        {
+            "References": "(1) Spanggord RJ et al; Environmental Fate Studies on Certain Munition Wastewater Constituents. Final Report, Phase II - Laboratory Studies. NTIS A099256, US Army Med Res Devel, Fredrick, MD (1980)",
+            "Value": "Nitroglycerin (10 ppm initial concn) was completely biodegraded in 13 days using river water and river water/sediment microcosms obtained from a river near a munitions facility in Virginia(1). Pure cultures isolated from river water and sediment near a munitions factory in Virginia degraded nitroglycerin(1). The first-order rate constant was 0.60 hours-1, which corresponds to a half-life of about 1 hour(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 6",
+            "Value": "log Kow = 1.62"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "American Medical Association, Department of Drugs. Drug Evaluations. 6th ed. Chicago, Ill: American Medical Association, 1986., p. 463",
+            "Value": "The drugs used to treat angina alleviate symptoms by increasing blood flow to the ischemic myocardium and/or by reducing myocardial oxygen requirements. ... /Nitrates/ reduce myocardial oxygen requirements through their effects on the systemic circulation. Their major systemic action is a reduction in venous tone, which leads to pooling of blood in peripheral veins, decreased venous return, and reduced ventricular volume and myocardial tension (preload). /Org nitrates/"
+        },
+        {
+            "References": "Ellenhorn, M.J., S. Schonwald, G. Ordog, J. Wasserberger. Ellenhorn's Medical Toxicology: Diagnosis and Treatment of Human Poisoning. 2nd ed. Baltimore, MD: Williams and Wilkins, 1997., p. 1378",
+            "Value": "Although it predominately affects vascular smooth muscle /nitroglycerin/, the bronchioles, gastrointestinal tract (including biliary system), ureters, and uterus are affected. Free radicals of nitric oxide may activate guanylate cyclase, resulting in increased synthesis of cyclic GMP. Nitric oxide may combine with sulfhydryl groups in the endothelium and produce S-nitrosothiols, which stimulate guanylate cyclase production. N-acetyl-cycteine may enhance this process by providing a source of sulfhydryl groups. Cyclic GMP appears to reduce stored calcium and interfere with calcium-activated smooth muscle contractions."
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 848",
+            "Value": "Organic nitrates... lead to the formation of the reactive free radical nitric oxide, which can activate guanylyl cyclase and increase the synthesis of cyclic GMP in smooth muscle and other tissues... A cyclic GMP-dependent protein kinase catalyzes the phosphorylation of various proteins in smooth muscle. Eventually, the light chain of myosin is dephosphorylated. Phosphorylation of the myosin chain regulates the maintenance of the contractile state in smooth muscle."
+        },
+        {
+            "References": "Young, L.Y., M.A. Koda-Kimble (eds.). Applied Therapeutics. The Clinical Use of Drugs. 6th ed. Vancouver, WA., Applied Therapeutics, Inc. 1995., p. 13-7",
+            "Value": "Nitrates also may alter the prostaglandin system by inhibiting thromboxane synthetase and permitting preferential formation of prostacyclin over thromboxane A2. Both of these two short-acting vasoactive substances are formed from prostaglandin precursors. Prostacyclin is a potent vasodilator which causes smooth muscle relaxation through phosphorylation of the myosin light chain kinase. This reduces its ability to to be activated by calciun and calmodulin."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Patty, F. (ed.). Industrial Hygiene and Toxicology: Volume II: Toxicology. 2nd ed. New York: Interscience Publishers, 1963., p. 2087",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/... Nitroglycerin ... /induces/ heinz body formation in animals."
+        },
+        {
+            "References": "Patty, F. (ed.). Industrial Hygiene and Toxicology: Volume II: Toxicology. 2nd ed. New York: Interscience Publishers, 1963., p. 2108",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Single dose of nitroglycerin, 10 mg/kg iv, produced methemoglobin formation in dogs. /from table/"
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 605",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ A paste containing 7.29% nitroglycerin, peanut oil and lactose caused very mild skin irritation but no eye irritation in rabbits. Nitroglycerin caused dermal sensitization (40% response) in the guinea pig maximization test."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 605",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Ninety-day studies in rats showed only body weight effects up to 234 mg/kg/day but also anemia and testicular degeneration at doses up to 1416 mg/kg."
+        },
+        {
+            "References": "Medical Economics Co; Physicians Desk Reference 56th ed p.2659 (2002)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rats receiving up to 434 mg/kg/day of dietary nitroglycerin for 2 yr developed dose-related fibrotic and neoplastic changes in liver, including carcinomas, and interstitial cell tumors in testes. At high dose, the incidences of hepatocellular carcinomas in males was 48% and in females was 33% compared to 0% in untreated controls. Incidences of testicular tumors were 52% vs 8% in controls. Lifetime dietary admin of up to 1,058 mg/kg/day of nitroglycerin was not tumorigenic in mice."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 605",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ In dogs, no serious effects were produced other than methemoglobinemia which was mild in animals given 25 mg/kg/day for 12 months. Doses up to 100 mg/kg produces transient increases but 200 mg/kg caused life-threatening increases."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 605",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Mice were less sensitive to chronic nitroglycerin treatment. The high dose of approximately 1000 mg/kg/day produce only body weight changes and methemoglobinemia with its associated hematologic effects."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 606",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ A three-generation reproductive toxicity study in rats showed no effect on fertility or viability, growth, and development of offspring at doses up to 38 mg/kg/day. Adverse fertility effects were seen at doses above 363 mg/kg/day which were secondary to malnutrition and testicular tumors. Developmental toxicity studies have been conducted in rats and rabbits given intravenous injection doses of up to 20 and 4 mg/kg/day, respectively, during typical gestation administration periods. No teratogenic, embryo toxic or fetotoxic effects were observed."
+        },
+        {
+            "References": "Medical Economics Co; Physicians Desk Reference 56th ed p.2659 (2002)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ In a 3-generation reproduction study, rats received dietary nitroglycerin at doses up to about 434 mg/kg/day for 6 months prior to mating of the F0 generation with treatment continuing through successive F1 and F2 generations. The high dose was associated with decreased feed intake and body weight gain in both sexes at all matings. No specific effect on the fertility of the F0 generation was seen. Infertility noted in subsequent generations, however, was attributed to increased interstitial cell tissue and aspermatogenesis in the high-dose males. In this 3-generation study there was no clear evidence of teratogenicity."
+        },
+        {
+            "References": "Medical Economics Co; Physicians Desk Reference 56th ed p.2659 (2002)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Animal reproduction and teratogenicity studies have not been conducted with nitroglycerin sublingual tablets. Teratology studies in rats and rabbits, however, were conducted with topically applied nitroglycerin ointment at doses up to 80 mg/kg/day and 240 mg/kg/day, respectively. No toxic effects on dams or fetuses were seen at any dose tested."
+        },
+        {
+            "References": "Medical Economics Co; Physicians Desk Reference 56th ed p.2659 (2002)",
+            "Value": "/GENOTOXICITY/ Nitroglycerin was weakly mutagenic in Ames tests performed in 2 different laboratories. Nevertheless, there was no evidence of mutagenicity in an in vivo dominant lethal assay with male rats treated with doses up to about 363 mg/kg/day, PO, or in ex vivo cytogenetic tests in rat and dog tissues."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 606",
+            "Value": "/GENOTOXICITY/ Nitroglycerin has mixed results in the Ames test but was not mutagenic in a Chinese hamster ovary cell assay without metabolic activation. Chromosomal aberrations were not found in dogs given up to 5 mg/kg/day for 9 weeks or in rat given up to 234 mg/kg/day for 8 weeks. A dominant lethal test in rats given 0, 3, 32, or 363 mg/kg/day in the diet for 13 weeks also showed no effect on male fertility and no genotoxic activity."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 6 (1995)(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17- 28 (1983)",
+            "Value": "The Koc of nitroglycerin is estimated as 180(SRC), using a log Kow of 1.62(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that nitroglycerin is expected to have moderate mobility in soil(SRC)."
+        }
+    ]
+}

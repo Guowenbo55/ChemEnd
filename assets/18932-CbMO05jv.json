@@ -1,0 +1,91 @@
+{
+    "_id": {
+        "$oid": "6682e932c4e5dba5ffba2969"
+    },
+    "CID": {
+        "$numberInt": "18932"
+    },
+    "Name": "2-Methylpyrene",
+    "IUPACName": "2-methylpyrene",
+    "CanonicalSMILES": "CC1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2",
+    "Synonyms": [
+        "2-METHYLPYRENE",
+        "3442-78-2",
+        "Pyrene",
+        "2-methyl-",
+        "8X002JQ34N",
+        "HSDB 2161",
+        "UNII-8X002JQ34N",
+        "EINECS 222-352-6",
+        "2-METHYLPYRENE [HSDB]",
+        "DTXSID4063030",
+        "AKOS016010435",
+        "NS00029660",
+        "Q27271140"
+    ],
+    "IsomericSMILES": "CC1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2",
+    "INCHI": "InChI=1S/C17H12/c1-11-9-14-7-5-12-3-2-4-13-6-8-15(10-11)17(14)16(12)13/h2-10H,1H3",
+    "INCHIKEY": "VIRFPLJXRDHVEI-UHFFFAOYSA-N",
+    "Formula": "C17H12",
+    "MolecularWeight": {
+        "$numberDouble": "216.28"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "5.2"
+    },
+    "Complexity": {
+        "$numberInt": "268"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Hemminki K, Veidebaum T; Scandinavian Journal of Work Environment and Health. 25: 33-39 (1999)",
+            "Value": "Pine needles collected from 4 sites in Sweden and 2 sites in Estonia had 2-methylpyrene levels of 2.9 to 180 ng/L dry wt(1)."
+        }
+    ],
+    "animal_concentrations": [
+        {
+            "References": "(1) Broman D et al; Environ Toxicol Chem 9: 429-42 (1990)",
+            "Value": "The mean concentration of 2-methylpyrene in common eider duck (Somateria mollissima) gallbladders was determined to be 1.9 ng/g dry wt, collected from the open northern Baltic Sea in early summer to early autumn of 1985 and 1986(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Mar 21, 2017: https://www2.epa.gov/tsca-screening-tools (2) Franke C et al; Chemosphere 29: 1501-14 (1994) (3) Santodonato J et al; in Health and Ecological Assessment of Polynuclear Aromatic Hydrocarbons; Lee SD, Grant L eds., Park Forest South IL: Pathotox Publ (1981) (4) Arnot JA et el; Environ Toxicol Chem 27: 2263-2270 (2008)",
+            "Value": "An estimated BCF of 1920 was calculated in fish for 2-methylpyrene(SRC), using an estimated log Kow of 5.48(1) and a regression-derived equation(1). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is very high(SRC), provided the compound is not metabolized by the organism(SRC). However, 2-methylpyrene may not bioconcentrate in aquatic organisms which contain microsomal oxidase, such as fish, as this enzyme enables the rapid metabolism of certain polycyclic aromatic hydrocarbons(3). A measured fish biotransformation half-life of 2.08 days has been reported for the analogous compound pyrene(4)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Boethling RS et al; Environ Sci Technol 28: 459-65 (1994) (2) Cerniglia CE; Biodegradation 3: 351-68 (1992) (3) Wild SR et al; pp. 457-62 in Agricultural Soils Amended With Sewage Sludges. Arendt F et al, eds. Netherlands: Kluwer Academic Publ (1990) (4) Grosser RJ et al; Appl Environ Microbiol 57: 3462-3469 (1991) (5) Aichberger H et al; Soil & Sediment Contamination 15: 73-85 (2006)",
+            "Value": "AEROBIC: Polycyclic aromatic hydrocarbons (PAHs) with four or more rings, such as 2-methylpyrene, are generally expected to be resistant to biodegradation(1). Biodegradation of the analogous compound pyrene is expected to occur slowly in soils, with estimated half-lives ranging from several weeks to years(2,3). Faster biodegradation rates occur with exposure to acclimated microbes(4). Soil microcosm studies using three industrial soils from Austria found pronounced biodegradation of pyrene in one soil (about 65-75% over 65 days of incubation), but only slight biodegradation in the other two soils(5)."
+        },
+        {
+            "References": "(1) Bayona JM et al; Intern J Environ Anal Chem 23: 289-303 (1986)",
+            "Value": "PURE CULTURE: 2-Methylpyrene, present in Arabian light crude oil, was determined to be resistant to degradation by pure culture strains of Pseudomonas sp. isolated from tanker ballast waters(1)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Broman D et al; Environ Toxicol Chem 9: 429-42 (1990) (2) Kozin I et al; Chemosphere 33: 1435-47 (1996)",
+            "Value": "The mean concentration of 2-methylpyrene in seston (planktonic bacteria, phtyoplankton and zooplankton) and blue mussel (Mytilus edulis, L.) soft parts was determined to be 14 and 1.0 ng/g dry wt, respectively. Mussels were collected in the open northern Baltic Sea from the early summer to early autumn of 1985 and 1986(1). 2-Methylpyrene was identified in purified rainbow trout (Oncorhynchus mykiss) muscle at a concentration 0.058 ng/g following exposure of the fish in the laboratory for several months to lubricating oil and sewer sludge(2)."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Naef C et al; Environ Sci Technol 26: 1444-57 (1992) (2) West WR et al; Arch Environ Contam Toxicol 15: 241-49 (1986) (3) Kozin I et al; Chemosphere 33: 1435-47 (1996)",
+            "Value": "SEDIMENT: 2-Methylpyrene was identified in sediment collected near various industrial emission sources on the Swedish Baltic Coast, concentrations not reported(1). 2-Methylpyrene was potentially identified in sediment from the Black River, Ohio, concentration not reported(2). 2-Methylpyrene was identified in crude sediment (from St. John's Harbour, Canada), and purified sediment at concentrations of 1.2 ng/g, and 5.4 ng/g, respectively(3)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Mar 21, 2017: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 23 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of 2-methylpyrene can be estimated to be 87,000(SRC). According to a classification scheme(2), this estimated Koc value suggests that 2-methylpyrene is expected to be immobile in soil(SRC)."
+        }
+    ]
+}

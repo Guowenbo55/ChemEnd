@@ -1,0 +1,68 @@
+{
+    "_id": {
+        "$oid": "669270fc303528b49832d777"
+    },
+    "CID": {
+        "$numberInt": "23424322"
+    },
+    "Name": "Alloxydim-sodium",
+    "IUPACName": "sodium;4-methoxycarbonyl-5,5-dimethyl-3-oxo-2-[(E)-N-prop-2-enoxy-C-propylcarbonimidoyl]cyclohexen-1-olate",
+    "CanonicalSMILES": "CCCC(=NOCC=C)C1=C(CC(C(C1=O)C(=O)OC)(C)C)[O-].[Na+]",
+    "Synonyms": [
+        "Alloxydim-sodium",
+        "ALLOXYDIM SODIUM",
+        "sodium;4-methoxycarbonyl-5,5-dimethyl-3-oxo-2-[(E)-N-prop-2-enoxy-C-propylcarbonimidoyl]cyclohexen-1-olate",
+        "SCHEMBL117055",
+        "AKOS015903231",
+        "Alloxydim-sodium",
+        "PESTANAL(R)",
+        "analytical standard"
+    ],
+    "IsomericSMILES": "CCC/C(=N\\OCC=C)/C1=C(CC(C(C1=O)C(=O)OC)(C)C)[O-].[Na+]",
+    "INCHI": "InChI=1S/C17H25NO5.Na/c1-6-8-11(18-23-9-7-2)13-12(19)10-17(3,4)14(15(13)20)16(21)22-5;/h7,14,19H,2,6,8-10H2,1,3-5H3;/q;+1/p-1/b18-11+;",
+    "INCHIKEY": "SZXAJDQTPWYNBN-NWBUNABESA-M",
+    "Formula": "C17H24NNaO5",
+    "MolecularWeight": {
+        "$numberDouble": "345.4"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "NaN"
+    },
+    "Complexity": {
+        "$numberInt": "551"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "A new herbicide called alloxydim-sodium (ADS), which is the sodium salt of 2-(1-allyloxyamino) butylidene-5,5-dimethyl-4-methoxycarbonylcyclohexane-1,3-dione, was applied to the leaves of sugar beet plants (Beta vulgaris). The recovery of radioactivity from 14C-labeled ADS, specifically labeled at the C-1 position of the butylidene group, gradually decreased with a half-life of 11 days. The movement of radioactivity to other plant parts was limited, and the calculated residue levels of apparent ADS in the roots were 0.16, 0.0096, and 0.0020 ppm at 1.5, 4, and 6 months after treatment, respectively. The primary metabolite found in the treated leaves was a deallyloxylated compound (CM-I), while two minor metabolites were oxo-tetrahydrobenzoxazole derivatives (CM-II, CM-III). The levels of these metabolites peaked around 10 days after treatment, accounting for 18.0% (CM-I), 2.6% (CM-II), and 2.5% (CM-III) of the applied radioactivity. It was observed that the transformation of ADS also occurred under non-biological conditions, indicating a non-enzymatic mechanism of degradation.",
+            "reference": "\u6dfb\u7530\u5409\u5247, \u77f3\u539f\u839e\u723e, \u5ca9\u6edd\u529f, & \u4e0a\u6751\u82f1\u96c4. (1979). Fate of a herbicide 14 C-alloxydim-sodium in sugar beet. Journal of Pesticide Science, 4(2), 121-128.",
+            "method": {
+                "Test Plant": "Sugar beet plants (Beta vulgaris L., PoLYRAVE var.)",
+                "Apply Location": "Foliar application on the upper surface of the first and second true leaves",
+                "Plant Grown Condition": "Pot culture in a greenhouse (15-28\u00b0C)",
+                "Chemical Preparation": "14C-ADS (7.5 mg) and a succinate type surfactant (2.5 mg) dissolved in 10 ml of water",
+                "Pesticide Application Details for the Plant": "The solution (100 \u00b5l, 4.20 x 10^5 dpm) was dotted with a microsyringe as uniformly as possible on the upper surface of the first and second true leaves (ca. 10 cm^2) at the early third leaf stage of the plant.",
+                "Other Information": "The treated plants were cultured outdoors in the daytime (sunny and cloudy; 38 days) and indoors at nighttime and on 5 rainy days during the experiment from Jan. 26th to Mar. 8th, 1976. The plants were transplanted to a larger pot (18 cm) and kept in the greenhouse (22-33\u00b0C) for 6 months. The weight of the root was 0.18, 1.17, 6.5, 106, and 340 g at 7, 28, 42, 120, and 180 days, respectively."
+            },
+            "result": "[{\"Days after application\": 98.3, \"Treated leaf (W, % of recovery)\": 0.0, \"Treated leaf (E,%)\": 0.0, \"Treated leaf (R,%)\": \"-\", \"Untreated leaves (E,%)\": \"-\", \"Untreated leaves (R,%) Roots (E,%)\": \"-\", \"Roots (R,%)\": \"-\", \"Whole plant\": 98.2}, {\"Days after application\": 86.4, \"Treated leaf (W, % of recovery)\": 4.7, \"Treated leaf (E,%)\": 0.2, \"Treated leaf (R,%)\": \"0.3\", \"Untreated leaves (E,%)\": \"0\", \"Untreated leaves (R,%) Roots (E,%)\": \"0.3\", \"Roots (R,%)\": \"0\", \"Whole plant\": 91.9}, {\"Days after application\": 73.3, \"Treated leaf (W, % of recovery)\": 8.0, \"Treated leaf (E,%)\": 0.2, \"Treated leaf (R,%)\": \"0.8\", \"Untreated leaves (E,%)\": \"0.1\", \"Untreated leaves (R,%) Roots (E,%)\": \"1.0\", \"Roots (R,%)\": \"0\", \"Whole plant\": 83.4}, {\"Days after application\": 49.8, \"Treated leaf (W, % of recovery)\": 14.2, \"Treated leaf (E,%)\": 0.5, \"Treated leaf (R,%)\": \"1.5\", \"Untreated leaves (E,%)\": \"0\", \"Untreated leaves (R,%) Roots (E,%)\": \"1.7\", \"Roots (R,%)\": \"0.1\", \"Whole plant\": 67.7}, {\"Days after application\": 43.5, \"Treated leaf (W, % of recovery)\": 14.5, \"Treated leaf (E,%)\": 0.9, \"Treated leaf (R,%)\": \"1.3\", \"Untreated leaves (E,%)\": \"0.2\", \"Untreated leaves (R,%) Roots (E,%)\": \"1.2\", \"Roots (R,%)\": \"0.1\", \"Whole plant\": 61.7}, {\"Days after application\": 40.7, \"Treated leaf (W, % of recovery)\": 13.2, \"Treated leaf (E,%)\": 0.8, \"Treated leaf (R,%)\": \"1.9\", \"Untreated leaves (E,%)\": \"0.2\", \"Untreated leaves (R,%) Roots (E,%)\": \"2.4\", \"Roots (R,%)\": \"0.1\", \"Whole plant\": 59.3}, {\"Days after application\": 23.7, \"Treated leaf (W, % of recovery)\": 13.9, \"Treated leaf (E,%)\": 1.6, \"Treated leaf (R,%)\": \"1.4\", \"Untreated leaves (E,%)\": \"0.2\", \"Untreated leaves (R,%) Roots (E,%)\": \"2.6\", \"Roots (R,%)\": \"0.2\", \"Whole plant\": 43.6}, {\"Days after application\": 15.6, \"Treated leaf (W, % of recovery)\": 16.8, \"Treated leaf (E,%)\": 1.7, \"Treated leaf (R,%)\": \"1.1\", \"Untreated leaves (E,%)\": \"0.2\", \"Untreated leaves (R,%) Roots (E,%)\": \"2.2\", \"Roots (R,%)\": \"0.2\", \"Whole plant\": 37.8}, {\"Days after application\": 9.2, \"Treated leaf (W, % of recovery)\": 21.9, \"Treated leaf (E,%)\": 1.4, \"Treated leaf (R,%)\": \"1.3\", \"Untreated leaves (E,%)\": \"0.4\", \"Untreated leaves (R,%) Roots (E,%)\": \"3.6\", \"Roots (R,%)\": \"0.3\", \"Whole plant\": 38.1}, {\"Days after application\": 5.0, \"Treated leaf (W, % of recovery)\": 19.0, \"Treated leaf (E,%)\": 1.6, \"Treated leaf (R,%)\": \"0.8\", \"Untreated leaves (E,%)\": \"0.4\", \"Untreated leaves (R,%) Roots (E,%)\": \"3.9\", \"Roots (R,%)\": \"0.5\", \"Whole plant\": 31.2}]"
+        },
+        {
+            "content": "Alloxydim-sodium (ADS) is a selective post-emergence herbicide that specifically targets gramineous plants while having little or no efficacy against dicotyledonous or non-gramineous monocotyledonous plants. It is commonly used to control grassy weeds without causing harm to broadleaf crops such as soybean, cabbage, carrot, and sugar beet when applied post-emergence. In a study conducted in a greenhouse, a water solution of ADS with 500ppm of Tween-20 was sprayed on the foliage of ten corn and soybean plants per treatment at a water volume of 1000 L/ha. The fresh weights of the plants were measured three weeks after treatment, and the experiment was repeated twice. Another investigation aimed to assess the absorption, translocation, and metabolism of 14C-labeled ADS in corn (a sensitive plant) and soybean (a tolerant plant). The results of these experiments provide valuable insights into the herbicidal activity and effects of ADS on different plant species.",
+            "reference": "\u77f3\u5ddd\u5c1a\u96c4, & \u5c0f\u539f\u5065\u4e00. (1987). Absorption, translocation and metabolism of Alloxydim-sodium in corn and soybean. \u96d1\u8349\u7814\u7a76, 32(2), 91-96.",
+            "method": {
+                "Test Plants": "Corn (Zea mays L. cv. Golden crossbantam) and soybean (Glycine max cv. Kitamusume)",
+                "Apply Location": "Foliar application on corn plants at the 3 to 4 leaf stage and soybean plants at the primary leaf to first trifoliate stage",
+                "Plant Grown Condition": "Plants were separately planted in pots (100 cm^2) and grown in a greenhouse with temperatures ranging from 16 to 32\u00b0C",
+                "Chemical Preparation": "ADS labeled at the C-4, 6-positions (specific activity: 7.13 mCi/mmol, radiochemical purity: 98%) was used in the absorption and translocation studies. 14C-ADS labeled at the C-7 position (specific activity: 1.88 mCi/mmol, purity: 95%) was used in the metabolism study.",
+                "Pesticide Application Details for the Plant": "Ten droplets (2.5 \u00b5l/droplet) of a water solution containing 0.25 \u00b5g of 14C-ADS and 500 ppm equivalent of a surfactant, Tween-20, were applied to the leaf of corn and to the primary leaf of soybean.",
+                "Other Information": "In the experiment to evaluate the herbicidal activity of the metabolites, crabgrass (Digitaria adscendens) and barnyard grass (Echinocloa oryzicola) at the 2 to 3 leaf stage were used. The plants were harvested 1, 4, and 24 hours after treatment, and the treated leaves were washed with 10 ml of 50% methanol. The plants were immediately freeze-dried, and their radioactivity was assayed by a liquid scintillation spectrometer after conversion to 14CO2 by a sample oxidizer."
+            },
+            "result": "[{\"Plant\": \"Corn\", \"Hours after application\": 24, \"Absorption in whole plant (dpm/mg)\": 188.3, \"Absorption in parts other than treated leaf (dpm/mg)\": 40.6, \"First leaf (% of radioactivity)\": 0.1, \"Second leaf (%)\": \"-\", \"Treated leaf (%)\": 80.6, \"Third leaf (%)\": \"1.0\", \"Fouth leaf (%)\": \"1.0\", \"Primary leaf (%)\": \"-\", \"Stem (%)\": 11.8, \"Roots(%)\": 5.7}, {\"Plant\": \"Soybean\", \"Hours after application\": 24, \"Absorption in whole plant (dpm/mg)\": 193.0, \"Absorption in parts other than treated leaf (dpm/mg)\": 46.2, \"First leaf (% of radioactivity)\": 12.3, \"Second leaf (%)\": \"2.1\", \"Treated leaf (%)\": 81.0, \"Third leaf (%)\": \"-\", \"Fouth leaf (%)\": \"-\", \"Primary leaf (%)\": \"1.8\", \"Stem (%)\": 1.9, \"Roots(%)\": 1.5}]"
+        }
+    ]
+}

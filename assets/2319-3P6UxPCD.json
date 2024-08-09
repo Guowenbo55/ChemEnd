@@ -1,0 +1,172 @@
+{
+    "_id": {
+        "$oid": "6682e7ecc4e5dba5ffba2303"
+    },
+    "CID": {
+        "$numberInt": "2319"
+    },
+    "Name": "BENFLURALIN",
+    "IUPACName": "N-butyl-N-ethyl-2,6-dinitro-4-(trifluoromethyl)aniline",
+    "CanonicalSMILES": "CCCCN(CC)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]",
+    "Synonyms": [
+        "benfluralin",
+        "1861-40-1",
+        "Bethrodine",
+        "Balan",
+        "BENEFIN",
+        "Benfluraline",
+        "Balfin",
+        "Banafine",
+        "Benalan",
+        "Benefex",
+        "Benephin",
+        "Binnell",
+        "Bonalan",
+        "Carpidor",
+        "Flubalex"
+    ],
+    "IsomericSMILES": "CCCCN(CC)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]",
+    "INCHI": "InChI=1S/C13H16F3N3O4/c1-3-5-6-17(4-2)12-10(18(20)21)7-9(13(14,15)16)8-11(12)19(22)23/h7-8H,3-6H2,1-2H3",
+    "INCHIKEY": "SMDHCQAYESWHAE-UHFFFAOYSA-N",
+    "Formula": "C13H16F3N3O4",
+    "MolecularWeight": {
+        "$numberDouble": "335.28"
+    },
+    "Description": "Benfluralin is a tertiany amino compound that is 2,6-dinitro-4-(trifluoromethyl)aniline in which the hydrogens attached to the aniline nitrogen have been replaced by one ethyl and one butyl group. It is used as a pre-emergence herbicide used for the control of grass and other weeds in a range of food and non-food crops. It has a role as a herbicide and an agrochemical. It is a tertiary amino compound, a C-nitro compound, an organofluorine compound and a substituted aniline.",
+    "XlogP": {
+        "$numberDouble": "5.3"
+    },
+    "Complexity": {
+        "$numberInt": "398"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) USEPA; EPA Registration Eligibility Decision Document. Benfluralin. EPA 738-R-04-012, July 2004. Available at: https://www.epa.gov/pesticides/reregistration/status.htm as of July 23, 2007. (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "The whole body BCF value measured in fish was 1,580(1). According to a classification scheme(2), this BCF value suggests the potential for bioconcentration of benfluralin in aquatic organisms is very high(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Helling CS; J Environ Qual 5: 1-15 (1976) (2) Jacques GL, Harvey RG; Weed Sci 27: 660-5 (1979) (3) Zimdahl RL, Gwynn SM; Weed Sci 25: 247-51 (1977) (4) Probst GW et al; pp. 453-500 in Herbicides 2nd ed. Vol 1. Kearney PC, Kaufman DD, eds. Marcel Dekker, Inc., NY (1975) (5) USEPA; EPA Registration Eligibility Decision Document. Benfluralin. EPA 738-R-04-012, July 2004. Available at: https://www.epa.gov/pesticides/reregistration/status.htm as of July 23, 2007.",
+            "Value": "AEROBIC:  Benfluralin is metabolized with a half-life of 20 to 86 days under aerobic soil conditions(5). Biodegradation of benfluralin in soil occurs via oxidative and reductive pathways(1). Oxidation classically occurs in aerobic soils and reduction in anaerobic soils. However, in flooded field soils, both oxidation and reduction products have been observed(1). In field soil, oxidative biodegradation of benfluralin leads to dealkylation products followed by reduction of nitro group to amino products(1,4). Rates of biodegradation of benfluralin is dependent on soil temperature and moisture content and the rate is faster at 30 \u00b0C compared to 4 \u00b0C, and in dry soil compared to water-saturated field soils(2-3). The biodegradation is faster in soils containing higher organic carbon contents(3,5). The biodegradation half-lives of benfluralin in a loam and a sandy loam soil were 0.7 month and 1.5 months, respectively, at 30 \u00b0C(3)."
+        },
+        {
+            "References": "(1) USEPA; EPA Registration Eligibility Decision Document. Benfluralin. EPA 738-R-04-012, July 2004. Available at: https://www.epa.gov/pesticides/reregistration/status.htm as of July 23, 2007.",
+            "Value": "ANAEROBIC: In an anaerobic aquatic metabolism study benfluralin was determined to have a half-life of 38 hours(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Tomlin CDS, ed; Benfluralin (1861-40-1). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council.",
+            "Value": "log Kow = 5.29"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. 2nd ed. Lechworth, Herts, England: The Royal Society of Chemistry, 1987., p. A551/Aug 87",
+            "Value": "Affects seed germination and prevents weed growth by inhibition of root and shoot development."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "USEPA/Office of Pesticide Programs; Reregistration Eligibility Decision Document - Benfluralin. p.12. EPA 738-R-04-012 (July 2004) Available from, as of May 18th, 2007: https://www.epa.gov/pesticides/reregistration/status.htm",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Slightly irritating to rabbit eyes; reversible in 7 days; Toxicity Category 3. Rabbit dermal irritation test: Moderate erythema and edema at day 7, which cleared by day 11. Toxicity Category 3."
+        },
+        {
+            "References": "USEPA/Office of Pesticide Programs; Reregistration Eligibility Decision Document - Benfluralin. p.12-13. EPA 738-R-04-012 (July 2004) Available from, as of May 18th, 2007: https://www.epa.gov/pesticides/reregistration/status.htm",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ 7 out of 12 guinea pigs tested positive in the Beuhler test; Toxicity category Skin Sensitizer ... In a modified Beuhler topical patch test for skin sensitization (guinea pig), several test animals responded with a typical delayed hypersensitivity reaction to a challenge with technical benfluralin at 5% in 95% ethanol. Formulated products showed no evidence of sensitization in Beuhler's assays when tested concentrations ranged from 19% to 60% benfluralin."
+        },
+        {
+            "References": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 55",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Skin application of 200 mg/kg and eye application to rabbits produced no irritation."
+        },
+        {
+            "References": "Farm Chemicals Handbook 1993. Willoughby, OH: Meister Publishing Co., 1993., p. C-44",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Emulsifiable concentrate formulations containing benfin have caused severe eye irritation in laboratory animals. Benefin may cause skin sensitization reactions in certain individuals."
+        },
+        {
+            "References": "USEPA/Office of Pesticide Programs; Reregistration Eligibility Decision Document - Benfluralin. p.12-15. EPA 738-R-04-012 (July 2004) Available from, as of May 18th, 2007: https://www.epa.gov/pesticides/reregistration/status.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ /In an/ rabbit, oral developmental toxicity study, the dose /of benefin/ used in the risk assessment /for/ inhalation short term (1 - 30 days) /was/ NOAEL = 100 mg/kg/day. Margin of exposure = 100, absorption rate = 100%. Toxilogical effects: LOAEL = 225 mg/kg/day based on decreases in maternal body weight gain over a 13 day dosing period. /from table/"
+        },
+        {
+            "References": "California Environmental Protection Agency Department of Pesticide Regulation; Benefin Summary of Toxicological Data (2000). Available from, as of May 17, 2007: https://www.cdpr.ca.gov/docs/toxsums/pdfs/53.pdf",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Benefin, purity 95.8%, administered via capsule at concentrations of 0, 5, 25, 125 mg/kg/day to 4 Beagle dogs/sex/group for 13 weeks. Emesis (compound colored) was slightly increased at all dose levels for females and for mid and high dose males. Liver weights was increased for high dose males; and the incidence of hepatocellular hypertrophy was increased for high dose males and females. Increased incidence of hemosiderin pigment was observed in the liver at the high dose and the spleen at mid and high dose levels. NOAEL = 5 mg/kg/day."
+        },
+        {
+            "References": "National Research Council. Drinking Water & Health Volume 1. Washington, DC: National Academy Press, 1977., p. 549",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In 10 day study of cattle, sheep, & chickens orally treated ... /with/ benefin, poisoning & changes were observed at 25 mg/kg/day in cattle & 50 mg/kg/day in sheep & chickens."
+        },
+        {
+            "References": "USEPA/Office of Pesticide Programs; Reregistration Eligibility Decision Document - Benfluralin. p.12-15. EPA 738-R-04-012 (July 2004) Available from, as of May 18th, 2007: https://www.epa.gov/pesticides/reregistration/status.htm",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ /In a/ rat, chronic/carcinogenocity dietary study, the dose /of benefin/ used in the risk assessment /was/ NOAEL = 0.5 mg/kg/day, Special FQPA Safety Factor = 1 X uncertainty factor = 100, chronic reference dose = 0.005 mg/kg/day, chronic population adjusted dose = 0.005/1 = 0.005 mg/kg/day. Toxilogical effects:  LOAEL = 5.4 mg/kg/day based on increased histopathologic lesions of the kidneys seen in males (5.4 mg/kg/day for males and 6.8 mg/kg/day). /from table/"
+        },
+        {
+            "References": "California Environmental Protection Agency Department of Pesticide Regulation; Benefin Summary of Toxicological Data (2000). Available from, as of May 17, 2007: https://www.cdpr.ca.gov/docs/toxsums/pdfs/53.pdf",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Four beagle dogs per sex per group received benefin (95.8% purity) orally in gelatin capsules (neat) at 0, 5, 25, and 125 mg/kg/day for 52 weeks in a guideline chronic study. Chronic NOEL = 5 mg/kg/day [modest, but statistically significant increases in liver-to-body weight values, and decreases in alanine aminotransferase (ALT) levels at the mid and high dose]. These findings were somewhat more pronounced at 125 mg/kg/day. The high dose also elicited a general increase in liver sinusoidal cell pigments (possibly hemosiderin). There were no observable changes in hematology, clinical chemistry, urinalysis, nor ophthalmology."
+        },
+        {
+            "References": "California Environmental Protection Agency Department of Pesticide Regulation; Benefin Summary of Toxicological Data (2000). Available from, as of May 17, 2007: https://www.cdpr.ca.gov/docs/toxsums/pdfs/53.pdf",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Fifty CDF (F-344)CrlBR rats per sex per group received benefin in the diet at 0, 10, 100, 2500, and 5000 ppm for 2 yr. An additional 10 per sex per group at the same dose levels were designated for 1-yr interim sacrifice. Estimated achieved dosages were 0, 0.5, 5.4, 136, and 275 mg/kg/day in males, and 0, 0.7, 6.8, 168, and 331 mg/kg/day in females, respectively over weeks 1-104. Chronic NOEL = 10 ppm (0.5 and 0.7 mg/kg/day in M and F), based on increased hyaline droplets in kidneys of both sexes at 100 ppm and above, increased and tubular cell karyomegaly and transitional cell hyperplasia in kidneys of males, hepatocellular hypertrophy and increased hepatocellular pigmentation in females, and calculus of renal pelvis in females. ... Body weights were reduced over time (in males, primarily in last few weeks of the study), so that at termination the deficits of 2500 and 5000 ppm groups compared to controls were 8 and 17% in males, and 18 and 28% in females, respectively. In females only, this was accompanied by approximately 10% food consumption reductions at each of the higher dose levels. There were reductions in the main hematology parameters (RBC counts, HCT, and Hb levels). Incidence and/or degree of chronic progressive nephropathy was increased. The majority of these rats had \"slight\" to \"minimal\" degeneration of sciatic nerve and skeletal muscle (thigh). Males had elevated incidence of single cell necrosis in liver. Chronic inflammation of the lungs was seen in the majority of these rats, whereas low incidences of congestion of the abdominal cavity, and urinary bladder hyperplasia were limited to these dose levels. Numerous clinical chemistry changes mirrored the above pathology in kidneys, liver, and perhaps other tissues at the higher two dose levels. Tumor incidence: thyroid follicular tumors (adenomas and carcinomas) increased in males (incidences of 1, 1, 1, 7, and 8 in controls through high dose, respectively) and females (incidences of 0, 0, 1, 5, and 4). Hepatocellular tumors (primarily adenomas) were increased in males (incidences of 2, 2, 1, 5, and 11 in controls through high dose, respectively). There were no statistically significant increases in epithelial cell tumors in kidneys nor urinary bladder, however the low incidences of transitional cell papilloma and tubule cell adenoma or carcinoma were predominantly found in 2500 and 5000 ppm groups (compare to the congener, trifluralin)."
+        },
+        {
+            "References": "California Environmental Protection Agency Department of Pesticide Regulation; Benefin Summary of Toxicological Data (2000). Available from, as of May 17, 2007: https://www.cdpr.ca.gov/docs/toxsums/pdfs/53.pdf",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Twenty inseminated female New Zealand white rabbits per group received benefin (in 10% aqueous acacia) at concentrations of 0, 25, 50, 100, and 225 mg/kg/day on gestation days 6 through 18 in a guideline teratology study. Maternal NOEL = 50 mg/kg/day (increased incidence of does with few or no feces). Developmental NOEL = 225 mg/kg/day (highest dose tested). The highest dose was clearly maternally toxic, as indicated by significant (p < 0.01) reductions in food consumption and body weight gain, and by the presence of 3 aborted litters and one total litter resorption loss."
+        },
+        {
+            "References": "California Environmental Protection Agency Department of Pesticide Regulation; Benefin Summary of Toxicological Data (2000). Available from, as of May 17, 2007: https://www.cdpr.ca.gov/docs/toxsums/pdfs/53.pdf",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Benefin, purity 97.3%, administered by gavage at concentrations of 0 (10% acacia in deionized water), 50, 225, 475, and 1,000 mg/10 mL/kg to 25 mated female Sprague Dawley (Crl:CDBR) rats/group on days 6 through 15 of gestation. Body weight reduced slightly (4%-5%) but dose-related; corrected body weight and food consumption were also reduced for the 2 highest dose groups, Maternal NOEL = 225 mg/kg/day. Developmental NOEL = 475 mg/kg/day."
+        },
+        {
+            "References": "California Environmental Protection Agency Department of Pesticide Regulation; Benefin Summary of Toxicological Data (2000). Available from, as of May 17, 2007: https://www.cdpr.ca.gov/docs/toxsums/pdfs/53.pdf",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Thirty Sprague-Dawley Crl:CD7BR rats per sex per group received benefin (95.8% purity) in the diet at concentrations of 0, 100, 1000, and 5000 ppm through 2 generations with one litter per generation. Parental NOEL = 100 ppm (7.1 and 8.8 mg/kg/day for M and F, respectively, based on hepatocellular enlargement, enhanced extent of chronic progressive nephropathy in both sexes, and renal tubule hyaline droplets in males: also associated increased liver and kidney weights). Offspring NOEL = 100 ppm (reduced body weights of pups by day 7, continuing at least through weaning). The high dose caused pup weight reductions at weaning to about 60% of controls. Adult 5000 ppm F1 males (the more sensitive gender and generation of adults) weighed about 80% of controls after 10 to 19 weeks of treatment. Lesser but statistically significant decrements were seen in F0 males and in F0 and F1 females at 5000 ppm. Food consumption was correspondingly reduced in both sexes at this dose level. Offspring effects limited to 5000 ppm included significant reduction of mean live litter size at birth and a reduction of pup viability between day 4 cull and weaning (21% loss in 5000 ppm F2 pups)."
+        },
+        {
+            "References": "California Environmental Protection Agency Department of Pesticide Regulation; Benefin Summary of Toxicological Data (2000). Available from, as of May 17, 2007: https://www.cdpr.ca.gov/docs/toxsums/pdfs/53.pdf",
+            "Value": "/GENOTOXICITY/ Benefin, purity 97.3%, at concentrations of 0 (DMSO), 0.5, 1, 5, 10, 50, 100, 500, or 1,000 ug/mL were tested for mutagenicity potential on cultures of rat hepatocytes (Fischer 344 males). Exposure time was 20 hours. The test was repeated in a second assay. Benefin was cytotoxic at doses 50 ug/mL and higher and precipitated at the 2 highest levels in both tests. No induction of UDS was observed with benefin in either test (0.5, 1, 5, or 10 ug/mL)."
+        },
+        {
+            "References": "California Environmental Protection Agency Department of Pesticide Regulation; Benefin Summary of Toxicological Data (2000). Available from, as of May 17, 2007: https://www.cdpr.ca.gov/docs/toxsums/pdfs/53.pdf",
+            "Value": "/GENOTOXICITY/ Benefin, purity 96.63%, at concentrations of 0 (DMSO), 20, 30, or 40 ug/mL without metabolic activation and at 0 (DMSO), 75, 100, or 125 ug/mL with metabolic activation (S-9, Aroclor 1245 induced) were tested for mutagenicity potential to Chinese hamster ovary cells for 4 hours. No evidence of chromosomal aberrations."
+        },
+        {
+            "References": "U.S. Environmental Protection Agency's Integrated Risk Information System (IRIS) on Benefin (CAS No. 1861-40-1) Available from the Database Query page at: https://www.epa.gov/iris/subst/index.html on the Substance File List as of June 14, 2007",
+            "Value": "/OTHER TOXICITY INFORMATION/ The British Crop Protection Council /in/ 1977 reported NOELs for rats exposed orally to 1250 ppm/day (3 months) and greater than 500 ppm/day for dogs administered benefin in capsules. No experimental details were given."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Jacques GL, Harvey RG; Weed Sci 27: 450-5 (1979) (2) Kenaga EE; Ecotox Environ Safety 4: 26-38 (1980) (3) Wauchope RD et al; Rev Environ Contam Toxicol 123: 1-155 (1992) (4) Sabljic A; Environ Sci Technol 21: 358-66 (1987) (5) Helling CS; J Environ Qual 5: 1-15 (1976) (6) Helling CS, Dragun J; pp. 43-88 in Test Protocols for Environmental Fate and Movement of Toxicants. Proc Sym Assoc Off Anal Chem. 94th Ann Meet., Washington,DC (1981) (7) USEPA; EPA Registration Eligibility Decision Document. Benfluralin. EPA 738-R-04-012, July 2004. Available at: https://www.epa.gov/pesticides/reregistration/status.htm as of July 23, 2007. (8) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Soil adsorption (Kd) coefficients for benfluralin in 10 Wisconsin soils ranged from 4.2-30.3, with a mean value of 16.7 (1). Other investigators have reported Koc values of 10,700(2), 10,715(4), and 9,000(3). Benfluralin was much more highly adsorbed to soil than other dinitroaniline herbicides(5). In soil thin layer chromatography experiments, the Rf (retention factor) range was 0-0.03 for benfluralin(6). Therefore, it was concluded that benfluralin was immobile in soil(6). In the EPA Registration Eligibility Decision document for benfluralin, it was reported that the Koc ranged from 9,840-11,660(7). According to a classification scheme(8), this range of Koc values indicates that benfluralin is expected to have no mobility in soil(SRC)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "Benefin accumulated rapidly in the roots of tobacco (Nicotiana tabacum L. 'Kentucky 14') seedlings when incubated in a nutrient solution containing 14C-labeled benefin. The benefin remained unaltered in the roots, with very low levels of radioactivity detected in the shoots. In contrast, diphenamid accumulated in the shoots throughout the treatment period but remained at low levels in the roots. Diphenamid was extensively metabolized in the shoots but only to a slight extent in the roots. Pebulate accumulated in moderate amounts in both the roots and shoots of tobacco seedlings, but attempts to recover pebulate failed.",
+            "reference": "Long, J. W., Thompson, L., & Rieck, C. E. (1974). Absorption, accumulation, and metabolism of benefin, diphenamid, and pebulate by tobacco seedlings. Weed Science, 22(1), 42-47.",
+            "method": {
+                "Test Plant": "Tobacco (Nicotiana sp.)",
+                "Apply Location": "Root uptake from nutrient solution",
+                "Plant Growth Condition": "Seeds germinated on vermiculite at 27\u00b0C, 80% RH for 4-5 weeks. Seedlings with 5-7 leaves transferred to aerated distilled water in 470 mL jars. Grown in growth chamber at 24\u00b0C day/21\u00b0C night, 62-75% RH, 20 klux light intensity for 48 hrs.",
+                "Chemical Preparation": "Benefin ring-labeled, 5 \u03bcg/mL, 0.09 \u03bcCi/mg specific activity. Diphenamid carbonyl-labeled, 20 \u03bcg/mL, 0.023 \u03bcCi/mg specific activity. Pebulate propyl-labeled, 5 \u03bcg/mL, 0.09 \u03bcCi/mg specific activity.",
+                "Pesticide Application Details for the Plant": "After 48 hrs in nutrient solution, solutions replaced with 350 mL per plant containing respective 14C-labeled herbicides at concentrations given above.",
+                "Other Information": "6 individually treated plant replicates per herbicide treatment."
+            },
+            "result": "[{\"Days after application\": 0.461, \"Shoots (dpm/g)\": 8.968, \"Roots (dpm/g)\": NaN}, {\"Days after application\": 0.512, \"Shoots (dpm/g)\": 9.919, \"Roots (dpm/g)\": NaN}]"
+        },
+        {
+            "content": "Analytical methods were employed to determine residues of benfluralin in soil and carrots. Plots treated with 1.3 or 1.9 kg benfluralin/ha yielded significantly higher average carrot yields than untreated plots. Benfluralin degradation in soil was slow during winter but accelerated as temperatures rose; 324 days after incorporation, residues were reduced to about 11% and 14% of the applied dose. Total residues of benfluralin in whole carrots were 210 \u00b1 18 and 240 \u00b1 47 ng/g following doses of 1.3 and 1.9 kg a.i./ha, respectively. Carrot peel contained 92% of the total residue, indicating little translocation of the compound through plant tissues.",
+            "reference": "Businelli, M., Tafuri, F., Scarponi, L., & Marucchini, C. (1975). Persistence of benfluralin in soil and its uptake by carrots. Pesticide Science, 6(5), 475-480.",
+            "method": {
+                "Test Plant": "Carrot (cv. Touchon cilindrica)",
+                "Apply Location": "Soil application, herbicide incorporated into soil by rotovating",
+                "Plant Grown Condition": "Loam soil in the province of Perugia, Italy. 14 plots of 5 x 2 m size with 1 m spacing between plots",
+                "Chemical Preparation": "Benfluralin applied as 475 g/L emulsifiable concentrate formulation (Balan, 20% a.i.).  Pesticide Application Details for the Plant: Doses of 1.3 or 1.9 kg benfluralin/ha applied to 5 plots each.Herbicide incorporated to 5-8 cm depth by rotovating immediately after application",
+                "Other Information": "Control plots without herbicide included.Carrot and weed control visually assessed 2 months after treatment"
+            },
+            "result": "[{\"Concentration (kg a.i./ha)\": 1.3, \"Roots (kg/m)\": 2.0, \"Foliage (kg/m)\": 0.43}, {\"Concentration (kg a.i./ha)\": 1.9, \"Roots (kg/m)\": 2.32, \"Foliage (kg/m)\": 0.39}]"
+        }
+    ]
+}

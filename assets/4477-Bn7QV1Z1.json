@@ -1,0 +1,79 @@
+{
+    "_id": {
+        "$oid": "6682e80fc4e5dba5ffba23b3"
+    },
+    "CID": {
+        "$numberInt": "4477"
+    },
+    "Name": "NICLOSAMIDE",
+    "IUPACName": "5-chloro-N-(2-chloro-4-nitrophenyl)-2-hydroxybenzamide",
+    "CanonicalSMILES": "C1=CC(=C(C=C1[N+](=O)[O-])Cl)NC(=O)C2=C(C=CC(=C2)Cl)O",
+    "Synonyms": [
+        "niclosamide",
+        "50-65-7",
+        "5-Chloro-N-(2-chloro-4-nitrophenyl)-2-hydroxybenzamide",
+        "Niclocide",
+        "Bayluscid",
+        "Phenasal",
+        "Cestocid",
+        "Devermin",
+        "Devermine",
+        "Helmiantin",
+        "Mansonil",
+        "Radeverm",
+        "Tredemine",
+        "Vermitid",
+        "Atenase"
+    ],
+    "IsomericSMILES": "C1=CC(=C(C=C1[N+](=O)[O-])Cl)NC(=O)C2=C(C=CC(=C2)Cl)O",
+    "INCHI": "InChI=1S/C13H8Cl2N2O4/c14-7-1-4-12(18)9(5-7)13(19)16-11-3-2-8(17(20)21)6-10(11)15/h1-6,18H,(H,16,19)",
+    "INCHIKEY": "RJMUSRYZPJIFPJ-UHFFFAOYSA-N",
+    "Formula": "C13H8Cl2N2O4",
+    "MolecularWeight": {
+        "$numberDouble": "327.12"
+    },
+    "Description": "Niclosamide is a secondary carboxamide resulting from the formal condensation of the carboxy group of 5-chlorosalicylic acid with the amino group of 2-chloro-4-nitroaniline. It is an oral anthelmintic drug approved for use against tapeworm infections. It has a role as a piscicide, a molluscicide, an antiparasitic agent, an anticoronaviral agent, an anthelminthic drug, an apoptosis inducer and a STAT3 inhibitor. It is a member of monochlorobenzenes, a member of salicylanilides, a C-nitro compound, a secondary carboxamide and a member of benzamides. It is functionally related to a 5-chlorosalicylic acid.",
+    "XlogP": {
+        "$numberDouble": "4"
+    },
+    "Complexity": {
+        "$numberInt": "404"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Worthing CR, Walker SB; The Pesticide Manual-A World Compendium. 8th ed. The British Crop Protection Council, Thornton Heath, UK (1987) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994) (4) Statham CN et al; Science 193: 680-81 (1976) (5) Lech JJ, Bend JR; Environ Health Perspect 34: 115-31 (1980)",
+            "Value": "An estimated BCF value of 215 was calculated for niclosamide(SRC), using a water solubility of 6.5 mg/l(1) and a recommended regression-derived equation(2). According to a classification scheme(3), this BCF value suggests that bioconcentration in aquatic organisms may be low(SRC). Depuration occurred within 72 hours for rainbow trout exposed to 14C-labeled niclosamide. Biliary concentration was high, reaching a 10,000:1 bile to water ratio in 24 hours. The metabolite formed was the glucuronide(4,5)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Steen WC, Collette TW; Appl Environ Microbiol 55: 2545-49 (1989) (2) Numata H, Kajiwara N; Yamanashi-Kenritsu Eisei Kogai Kenkyusho Ninpo 28: 25-9 (1984) (3) Muir DCG, Yarechewski AL; J Agric Food Chem 30: 1028-32 (1982)",
+            "Value": "A second order microbial transformation rate constant of 2.0X10-14 L/organism-hr was determined for niclosamide in natural pond water; degradation was via microbially mediated hydrolysis of the amide(1). The biodegradability of niclosamide in soil was reported as extremely low(2). Niclosamide degraded rapidly in both pond and river sediments incubated under static conditions with half-lives of 1.1 and 3.9 days, respectively(3). Rapid disappearance of niclosamide from water above the sediment was also observed with half-lives of 3.1 and 0.83 days in water above pond and river sediment, respectively(3); degradation in autoclaved samples occurred at a very slow rate indicating a dependence on microbial activity. Aminoniclosamide is the major degradation product for this reaction, representing more than 50% of the extractable radioactivity(3). 11.3, 7.2, 3.5, and 6.2% of the added 14C-niclosamide was present as CO2 after 32 days for cultures incubated under river sediment/aerobic, river sediment/anaerobic, pond sediment/aerobic, and pond sediment/anaerobic conditions, respectively; by 93 days, 37.7, 9.0, 6.8, and 8.7% of the total radioactivity for the same cultures was present as CO2(3). Aminoniclosamide was again the major degradation product detected in water and sediment extracts from this experiment; more aminoniclosamide was formed under anaerobic than aerobic conditions, especially during the first 64 days of incubation(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 732",
+            "Value": "log Kow = 10 @ pH 9.6"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Gilman, A.G., T.W. Rall, A.S. Nies and P. Taylor (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 8th ed. New York, NY. Pergamon Press, 1990., p. 965",
+            "Value": "Niclosamide has prominent activity against most of the cestodes that infect man; Enterobius (Oxyuris) vermicularis is also susceptible. At low concn, niclosamide stimulates oxygen uptake by Hymenolepis diminuta, but at higher concn respiration is inhibited and glucose uptake is blocked. The principal action of the drug may be to inhibit anaerobic phosphorylation of adenosine diphosphate (ADP) by the mitochondria of the parasite, an energy producing process that is dependent on CO2 fixation ... ."
+        },
+        {
+            "References": "Booth, N.H., L.E. McDonald (eds.). Veterinary Pharmacology and Therapeutics. 5th ed. Ames, Iowa: Iowa State University Press, 1982., p. 857",
+            "Value": "Cestocidal activity is due to inhibition of absorption of glucose by the tapeworm and uncoupling of the oxidative phosphorylation process in the mitochondria of cestodes. Resultant blocking of the Krebs cycle leads to accumulation of lactic acid, which kills the tapeworm. ... overstimulation of adenosine triphosphatase (ATPase) activity of the mitochondria may be related to cestodal action of niclosamide."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Worthing CR, Walker SB; The Pesticide Manual-A World Compendium. 8th ed. The British Crop Protection Council, Thornton Heath, UK (1987) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 23 (1983) (4) Muir DCG, Yarechewski AL; J Agric Food Chem 30: 1028-32 (1982) (5) Dawson VK et al; Can J Fish Aquat Sci 43: 1515-20 (1986)",
+            "Value": "The Koc of niclosamide is estimated as approximately 1600(SRC), using a measured water solubility of 6.5 mg/L(1) and a regression-derived equation(2,SRC). According to a recommended classification scheme(3), this estimated Koc value suggests that niclosamide has low mobility in soil(SRC). Adsorption of niclosamide by sediment reached equilibrium after 4-7.5 hours of shaking; an average Koc value of 3111 +/- 1552 was measured using five different sediments (pH range = 6.8-7.8; organic carbon = 1.9-9.2%)(4). Bottom sediment samples from 3 rivers in the Upper Peninsula of Michigan gave Koc values at 20 \u00b0C of 3510, 946, 766, and 77.9 at pH 6.5, 7, 8, and 9 for the Cedar River, 1210, 1570, 828, and 234 at the same pH values for the Ford River, and 1920, 1580, 532, and 131 at the same pH values for the Tahquamenon River(5)."
+        }
+    ]
+}

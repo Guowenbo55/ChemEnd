@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "6692710d303528b49832d7b8"
+    },
+    "CID": {
+        "$numberInt": "11700495"
+    },
+    "Name": "Florasulam",
+    "IUPACName": "N-(2,6-difluorophenyl)-8-fluoro-5-methoxy-[1,2,4]triazolo[1,5-c]pyrimidine-2-sulfonamide",
+    "CanonicalSMILES": "COC1=NC=C(C2=NC(=NN21)S(=O)(=O)NC3=C(C=CC=C3F)F)F",
+    "Synonyms": [
+        "Florasulam",
+        "145701-23-1",
+        "N-(2,6-Difluorophenyl)-8-fluoro-5-methoxy-[1,2,4]triazolo[1,5-c]pyrimidine-2-sulfonamide",
+        "Primus",
+        "Kantor",
+        "Florasulam [ISO]",
+        "UNII-00A64ZX8NB",
+        "00A64ZX8NB",
+        "HSDB 7941",
+        "Kantor; Primus; Primus SC",
+        "DTXSID7044340",
+        "CHEBI:82009",
+        "[1,2,4]Triazolo[1,5-c]pyrimidine-2-sulfonamide",
+        "N-(2,6-difluorophenyl)-8-fluoro-5-methoxy-",
+        "Florasulam 10 microg/mL in Acetonitrile",
+        "N-(2,6-difluorophenyl)-5-methoxy-8-fluoro-(1,2,4)-triazolo-(1,5c)-pyrimidine-2-sulfonamide"
+    ],
+    "IsomericSMILES": "COC1=NC=C(C2=NC(=NN21)S(=O)(=O)NC3=C(C=CC=C3F)F)F",
+    "INCHI": "InChI=1S/C12H8F3N5O3S/c1-23-12-16-5-8(15)10-17-11(18-20(10)12)24(21,22)19-9-6(13)3-2-4-7(9)14/h2-5,19H,1H3",
+    "INCHIKEY": "QZXATCCPQKOEIH-UHFFFAOYSA-N",
+    "Formula": "C12H8F3N5O3S",
+    "MolecularWeight": {
+        "$numberDouble": "359.29"
+    },
+    "Description": "Florasulam is a sulfonamide.",
+    "XlogP": {
+        "$numberDouble": "1.6"
+    },
+    "Complexity": {
+        "$numberInt": "541"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Florasulam is a triazolopyrimidine sulfonanilide herbicide used post-emergence in wheat (Triticum aestivum L.). Its selectivity in wheat is primarily due to differences in metabolism rates, with wheat metabolizing it much faster (half-life of 2.4 hours) compared to broadleaf weeds (half-lives ranging from 19 to >48 hours). Additionally, selectivity, especially against broadleaf weed cleavers (Galium aparine L.), involves uptake differences. Metabolism data were generated using greenhouse-grown plants injected with radiolabelled florasulam, followed by extraction and processing using high-performance liquid chromatography (HPLC). Wheat plants metabolize florasulam by hydroxylation of the aniline ring para to the nitrogen, followed by conjugation to glucose. While the slow metabolism of broadleaf weeds prevented the isolation of metabolites, HPLC data suggest that hydroxylation is the major pathway for their metabolism.",
+            "reference": "deboer, G. J., Thornburgh, S., & Ehr, R. J. (2006). Uptake, translocation and metabolism of the herbicide florasulam in wheat and broadleaf weeds. Pest Management Science: formerly Pesticide Science, 62(4), 316-324.",
+            "method": {
+                "Test Plant": "Wheatand cleavers",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Glasshouse-grown plants were exposed to a 16h photoperiod at an average temperature of 18\u00b0C. Wheat plants were between the 2.5- and three-leaf stage and cleavers was at the five-whorl stage at the time of treatment.",
+                "Chemical Preparation": "An acetonitrile concentrate of radiolabelled florasulam was solubilised in a 1g/L aqueous solution of X-77 to form a final concentration of 100mg/L with an activity level of 5.55kBq/\u03bcL.",
+                "Pesticide Application Details for the Plant": "A total of 10\u03bcL of solution was applied in a linear 5\u20138cm band positioned in the middle of the second fully expanded leaf of wheat. A total of 10\u03bcL of solution was applied to the adaxial leaf surface of the fourth whorl of cleavers.",
+                "Other Information": "Each time point was replicated four times with three plants for surface wash and oxidising and one plant for phosphor imaging. Plants were harvested 0, 24, 48 or 72h after application. Uptake and translocation of florasulam were quantified by two methods, scintillation counting of plant parts and phosphor imaging of an entire plant."
+            },
+            "result": "[{\"Plant\": \"Wheat\", \"Hours after application\": 24, \"Treated leaf (% of applied)\": 65.0, \"Above treated leaf (%)\": 2.4, \"Below treated leaf (%)\": 2.6}, {\"Plant\": \"Wheat\", \"Hours after application\": 48, \"Treated leaf (% of applied)\": 87.8, \"Above treated leaf (%)\": 2.5, \"Below treated leaf (%)\": 3.0}, {\"Plant\": \"Wheat\", \"Hours after application\": 72, \"Treated leaf (% of applied)\": 87.1, \"Above treated leaf (%)\": 4.4, \"Below treated leaf (%)\": 2.5}, {\"Plant\": \"Cleavers\", \"Hours after application\": 24, \"Treated leaf (% of applied)\": 53.5, \"Above treated leaf (%)\": 9.9, \"Below treated leaf (%)\": 5.9}, {\"Plant\": \"Cleavers\", \"Hours after application\": 48, \"Treated leaf (% of applied)\": 53.3, \"Above treated leaf (%)\": 14.1, \"Below treated leaf (%)\": 9.7}, {\"Plant\": \"Cleavers\", \"Hours after application\": 72, \"Treated leaf (% of applied)\": 60.3, \"Above treated leaf (%)\": 170.0, \"Below treated leaf (%)\": 7.3}]"
+        }
+    ]
+}

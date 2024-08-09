@@ -1,0 +1,69 @@
+{
+    "_id": {
+        "$oid": "6682e8bbc4e5dba5ffba270e"
+    },
+    "CID": {
+        "$numberInt": "8411"
+    },
+    "Name": "3,3'-DIMETHOXYBENZIDINE",
+    "IUPACName": "4-(4-amino-3-methoxyphenyl)-2-methoxyaniline",
+    "CanonicalSMILES": "COC1=C(C=CC(=C1)C2=CC(=C(C=C2)N)OC)N",
+    "Synonyms": [
+        "\"3,3-DIMETHOXYBENZIDINE\"",
+        "o-Dianisidine",
+        "119-90-4",
+        "Dianisidine",
+        "Cellitazol B",
+        "ortho-Dianisidine",
+        "\"3,3-Dimethoxybiphenyl-4,4-diamine\"",
+        "Neutrosel navy bn",
+        "Diacel Navy DC",
+        "Disperse Black 6",
+        "Blue Base NB",
+        "Blue BN Base",
+        "Blue Base irga B",
+        "Fast Blue B Base",
+        "Fast Blue Base B"
+    ],
+    "IsomericSMILES": "COC1=C(C=CC(=C1)C2=CC(=C(C=C2)N)OC)N",
+    "INCHI": "InChI=1S/C14H16N2O2/c1-17-13-7-9(3-5-11(13)15)10-4-6-12(16)14(8-10)18-2/h3-8H,15-16H2,1-2H3",
+    "INCHIKEY": "JRBJSXQPQWSCCF-UHFFFAOYSA-N",
+    "Formula": "C14H16N2O2",
+    "MolecularWeight": {
+        "$numberDouble": "244.29"
+    },
+    "Description": "3,3'-Dimethoxybenzidine is a member of biphenyls.",
+    "XlogP": {
+        "$numberDouble": "2.2"
+    },
+    "Complexity": {
+        "$numberInt": "236"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Debnath AK et al; Environ Mol Mutagen 20: 140-44 (1992) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 5 was calculated for 3,3'-dimethoxybenzidine(SRC), using a log Kow of 1.81(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Kawasaki M; Ecotox Environ Safety 4: 444-54 (1980) (2) Brown D, Laboureur P; Chemosphere 12: 405-14 (1983) (3) Brown D, Hamburger B; Chemosphere 16: 1539-53 (1987)",
+            "Value": "3,3'-Dimethoxybenzidine was reported to be resistant to biodegradation in the Japanese MITI test(1). At low levels of yeast extract, 3,3'-dimethyoxybenzidine showed no consistent degradation in an OECD AFNOR sewage die-away test and it was not classified as readily biodegradable; only high levels of yeast extract (100-200 mg/l) enchanced the biodegradation of this compound(2). 3,3'-Dimethyoxybenzidine at 35 \u00b0C and an initial concn of 100 mg/l in the presence of an anaerobic sludge inoculum degraded 100% in 42 days(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "PMID:1505530",
+            "Value": "log Kow = 1.81"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Debnath AK et al; Environ Mol Mutagen 20: 140-44 (1992) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Hilal SH et al; pp. 291-353 in Quantitative Treatments of Solute/Solvent Interactions: Theoretical and Computational Chemistry Vol. 1 NY, NY: Elsevier (1994) (5) Parris GE; Environ Sci Technol 14: 1099-106 (1980)",
+            "Value": "The Koc of 3,3'-dimethoxybenzidine is estimated as 230(SRC), using a measured log Kow of 1.81(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that 3,3'-dimethoxybenzidine is expected to have moderate mobility in soil(SRC). The first pKa of 3,3'-dimethoxybenzidine is estimated as 4.2(SRC), using an estimation method based on perturbed molecular orbital theory and linear free energy (LFER) methods(4). This estimated pKa indicates that 3,3'-dimethoxybenzidine will partially exist in the protonated form under acidic conditions and cations have greater adsorption to soils than neutral molecules(SRC). Furthermore, 3,3'-dimethoxybenzidine is an aromatic amine which may form covalent bonds with humic materials resulting in relatively immobile quinone-like complexes(5)."
+        }
+    ]
+}

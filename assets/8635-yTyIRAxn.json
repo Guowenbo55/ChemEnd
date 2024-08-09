@@ -1,0 +1,129 @@
+{
+    "_id": {
+        "$oid": "6682e8c3c4e5dba5ffba2737"
+    },
+    "CID": {
+        "$numberInt": "8635"
+    },
+    "Name": "Methyl anthranilate",
+    "IUPACName": "methyl 2-aminobenzoate",
+    "CanonicalSMILES": "COC(=O)C1=CC=CC=C1N",
+    "Synonyms": [
+        "METHYL ANTHRANILATE",
+        "Methyl 2-aminobenzoate",
+        "134-20-3",
+        "2-Aminobenzoic acid methyl ester",
+        "Methyl o-aminobenzoate",
+        "o-Carbomethoxyaniline",
+        "Anthranilic acid methyl ester",
+        "2-Carbomethoxyaniline",
+        "2-(Methoxycarbonyl)aniline",
+        "Methylanthranilate",
+        "Benzoic acid",
+        "2-amino-",
+        "methyl ester",
+        "Anthranilic acid",
+        "methyl ester",
+        "O-methyl anthranilate",
+        "FEMA No. 2682",
+        "o-Aminobenzoic acid methyl ester"
+    ],
+    "IsomericSMILES": "COC(=O)C1=CC=CC=C1N",
+    "INCHI": "InChI=1S/C8H9NO2/c1-11-8(10)6-4-2-3-5-7(6)9/h2-5H,9H2,1H3",
+    "INCHIKEY": "VAMXMNNIEUEQDV-UHFFFAOYSA-N",
+    "Formula": "C8H9NO2",
+    "MolecularWeight": {
+        "$numberDouble": "151.16"
+    },
+    "Description": "Methyl anthranilate is a benzoate ester that is the methyl ester of anthranilic acid. It has a role as a metabolite and a flavouring agent. It is functionally related to an anthranilic acid.",
+    "XlogP": {
+        "$numberDouble": "1.9"
+    },
+    "Complexity": {
+        "$numberInt": "147"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) US Dept Agric; US Dept Agric, Agric Res Service. 1992-2016. Dr. Duke's Phytochemical and Ethnobotanical Databases. Methyl anthranilate. Available from, as of Oct 29, 2018: https://phytochem.nal.usda.gov/phytochem/search",
+            "Value": "Methyl anthranilate occurrence in plants(1).",
+            "Table": "[{'Genus species': 'Jasminum officinale', 'Family': 'Oleaceae', 'Common name(s)': \"Jasmine, Poet's Jasmine\", 'Part': 'Flower', 'Concn (ppm)': '19'}, {'Genus species': 'Citrus aurantium', 'Family': 'Rutaceae', 'Common name(s)': 'Bitter orange; Petitgrain', 'Part': 'Flower', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Gardenia jasminoides', 'Family': 'Rubiaceae', 'Common name(s)': 'Shan-Zhi-Zi; Jasmin; Shan-Chih-Tzu; Gardenia; Cape Jasmine; Zhi Zi', 'Part': 'Flower', 'Concn (ppm)': 'not reported'}, {'Genus species': 'Polianthes tuberosa', 'Family': 'Agavaceae', 'Common name(s)': 'Tuberose', 'Part': 'Flower', 'Concn (ppm)': 'not reported'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 42 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Oct 29, 2018: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 8 was calculated for methyl anthranilate(SRC), using a log Kow of 1.88(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low (SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Aronov EV, Clark L; Pestic Sci 47: 355-62 (1996) (2) Alexander M, Lustigman BK; J Agric Food Chem 14: 410-3 (1966)",
+            "Value": "AEROBIC: Methyl anthranilate, present at 50 mg/L, exhibited 100% biodegradation in 20 days when incubated in dechlorinated, charcoal-filtered water. Less than 10% biodegradation occurred when methyl anthranilate was incubated anaerobically(1). Based on screening tests of structurally related 2-aminobenzoic acid(2), methyl anthranilate is also expected to biodegrade in the environment(SRC). For example, using a 1% suspension of Niagara silt loam soil, 2-aminobenzoic acid completely degraded in 64 days(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 42",
+            "Value": "log Kow = 1.88"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Patty, F. (ed.). Industrial Hygiene and Toxicology: Volume II: Toxicology. 2nd ed. New York: Interscience Publishers, 1963., p. 1899",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Is only a slight skin irritant in rabbit and guinea pig, but may cause eye irritation in concentrated form."
+        },
+        {
+            "References": "67 FR 51083 (8/7/2002)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Whole body inhalation studies /with rats/... determined toxicity to be >2.24 mg/L. Methyl anthranilate was found to cause moderate irritation in a rabbit skin irritation assay and corneal effects that cleared in 8-21 days in a rabbit eye irritation assay."
+        },
+        {
+            "References": "Opdyke, D.L.J. (ed.). Monographs on Fragrance Raw Materials. New York: Pergamon Press, 1979., p. 535",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Methyl anthranilate applied full strength to intact or abraded rabbit skin for 24 hr under occlusion was moderately irritating."
+        },
+        {
+            "References": "Joint FAO/WHO Expert Committee on Food Additives; WHO Food Additive Series 14- Methyl Anthranilate (134-20-3). Available from, as of October 29, 2018: https://www.inchem.org/documents/jecfa/jecmono/v14je14.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Groups of 10 male and 10 female rats were maintained for 13 weeks on diets containing methyl anthranilate at levels of 0, 1,000 and 10,000 ppm (approximately equivalent to 50 and 500 mg/kg bw). No adverse effects were observed on body weights, appearance, food intake, hematology, organ weights, macroscopic or microscopic (at highest dietary level) examination of the major organs."
+        },
+        {
+            "References": "Joint FAO/WHO Expert Committee on Food Additives; WHO Food Additive Series 14- Methyl Anthranilate (134-20-3). Available from, as of October 29, 2018: https://www.inchem.org/documents/jecfa/jecmono/v14je14.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Groups of 10 male and 10 female weanling rats were maintained for a period of 115 days on diets containing methyl anthranilate at levels of 0, 3,000 and 10,000 ppm (approximately equivalent to 150-300 and 500-1,000 mg/kg bw). There was no evidence of adverse effects at the 3,000 ppm level as judged by appearance, behavior, growth, mortality, terminal hematological examination, final body weights, organ weights, and gross and microscopic examination. The only observable effects noted at the 10,000 ppm level were increases in the average weights of the liver and kidneys, and slight (minimal) histological changes in the kidneys."
+        },
+        {
+            "References": "Opdyke, D.L.J. (ed.). Monographs on Fragrance Raw Materials. New York: Pergamon Press, 1979., p. 535",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In feeding studies, 1000 and 10,000 ppm fed to rats in the diet for 13 wk produced no macroscopic effects."
+        },
+        {
+            "References": "Patty, F. (ed.). Industrial Hygiene and Toxicology: Volume II: Toxicology. 2nd ed. New York: Interscience Publishers, 1963., p. 1899",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Tolerated in diet of rats in chronic feeding...at 0.3% but not at 1.0%, at which level...slight histological changes in kidney and increased liver and kidney weight were seen."
+        },
+        {
+            "References": "Joint FAO/WHO Expert Committee on Food Additives; WHO Food Additive Series 14- Methyl Anthranilate (134-20-3). Available from, as of October 29, 2018: https://www.inchem.org/documents/jecfa/jecmono/v14je14.htm",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ There was no increase in the incidence of primary lung tumors in A/He mice (20 females per group), over a period of 24 weeks, that received a total dose of methyl anthranilate of 2.25 or 11.2 g/kg bw (repeated ip injections three times a week for a total of 24 injections). Methyl anthranilate was not considered to be a carcinogen under the conditions of this test."
+        },
+        {
+            "References": "PMID:11455654",
+            "Value": "/BEHAVIORAL STUDIES/ Two methyl anthranilate formulations, ReJex-iT TP-40 and AG-36, were tested as bird-repelling agents for animal feed and vegetable sprouts, respectively. Feral pigeons (Columbia livia) and house sparrows (Passer domesticus) are important pests of animal husbandry and field crops in Israel. In each 4-day experiment, four birds were held together in an aviary, and were offered four trays or dishes with animal feed or cauliflower sprouts in four corners of the cage. The trays and dishes were transposed daily in a Latin square sequence. Pigeons consumed significantly more untreated feed than treated feed. When no alternative untreated food was offered, there was no significant repellency. Treatment of animal feed with TP-40 to give 2.0 mL/kg  methyl anthranilate or less had no repellent effect on sparrows. Concentrations of 4.0 mL/kg or more repelled the sparrows significantly. When no untreated feed was presented, pigeons and sparrows preferred the lowest concentration of methyl anthranilate presented. When AG-36 was tested on vegetable sprouts, the sparrows tended significantly to avoid the highest concentration used 14.5 mL methyl anthranilate per 1 L /of/ spray. The inter-specific differences between the birds indicate that the efficacy of methyl anthranilate formulations as a repellent has to be specified for every species. This study did not determine (1) the possibility of developing habituation, (2) the behaviour of birds under natural conditions in the field, or (3) the influence of the feeding behaviour of a sympatric bird species on the repellency of methyl anthranilate to other species."
+        },
+        {
+            "References": "Mortelmans K et al; Environ Mutagen 8:1-119 (1986)",
+            "Value": "/GENOTOXICITY/ Methyl anthranilate was found to be negative when tested for mutagenicity using the Salmonella/ microsome preincubation assay, Methyl anthranilate was tested in as many as 5 Salmonella typhimurium strains (TA1535, TA1537, TA97, TA98, and TA100) in the presence and absence of rat and hamster liver S-9, at doses of 0.033, 0.100, 0.333, 1.000, and 1.800 mg/plate. The highest ineffective dose tested in any S. typhimurium strain was 1.800 mg/plate. At this dose, slight to total clearing of the background bacterial lawn occurred under all test conditions."
+        },
+        {
+            "References": "STEVENS GR CLARK L; INTERNATIONAL BIODETERIORATION & BIODEGRADATION 42 (2-3): 153-160 (1998)",
+            "Value": "/OTHER TOXICITY INFORMATION/ Methyl anthranilate (MA) is a potent avian chemosensory irritant..."
+        },
+        {
+            "References": "PMID:27122493",
+            "Value": "/OTHER TOXICITY INFORMATION/ Methyl anthranilate was identified as the active compound in extracts of maize (Zea mays L.) roots that were shown to be repellent to neonate western corn rootworm (Diabrotica virgifera virgifera LeConte) larvae. A bioassay-driven approach was used to isolate the active material from diethyl ether extracts of roots from germinating maize seeds. Separation of the extract on a Florisil column yielded an active fraction of 90:10 hexane:diethyl ether. Analysis with gas chromatography-mass spectrometry identified two compounds in the active fraction: indole (2,3-benzopyrrole) and methyl anthranilate (methyl 2-aminobenzoate). When tested in behavioral bioassays, methyl anthranilate elicited a significant (P<0.05) repellent response at doses of 1, 10, and 100 ug. In subsequent single-choice bioassays, 1, 10, and 100 ug of methyl anthranilate prevented larvae from approaching 10 mmol/mol concentrations of carbon dioxide, which is normally highly attractive to the larvae. Indole, the other compound identified from the active fraction, did not elicit a behavioral response by the larvae. Methyl anthranilate has potential for development as a management tool for western corn rootworm larvae and may be best suited for use in a push-pull control strategy."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 42 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Oct 29, 2018: https://www2.epa.gov/tsca-screening-tools (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Bollag JM et al; J Agric Food Chem 26: 1302-6 (1978) (5) Adrian P et al; Toxicol Environ Chem 20-21: 109-20 (1989)",
+            "Value": "The Koc of methyl anthranilate is estimated as 75(SRC), using a log Kow of 1.88(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that methyl anthranilate is expected to have high mobility in soil(SRC). However, aromatic amines are expected to bind strongly to humus or organic matter in soils due to the high reactivity of the aromatic amino group(4,5), suggesting that mobility may be much lower in some soils(SRC)."
+        }
+    ]
+}

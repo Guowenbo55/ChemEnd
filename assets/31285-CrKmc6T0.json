@@ -1,0 +1,80 @@
+{
+    "_id": {
+        "$oid": "6682e96dc4e5dba5ffba2a93"
+    },
+    "CID": {
+        "$numberInt": "31285"
+    },
+    "Name": "1-NONENE",
+    "IUPACName": "non-1-ene",
+    "CanonicalSMILES": "CCCCCCCC=C",
+    "Synonyms": [
+        "1-NONENE",
+        "124-11-8",
+        "non-1-ene",
+        "n-Non-1-ene",
+        "NONYLENE",
+        "alpha-Nonene",
+        "NONENE",
+        "Propylene trimer",
+        "Nonene",
+        "1-",
+        "Nonene-(1)",
+        "1-N-None",
+        "UNII-YPK83LUD6G",
+        "YPK83LUD6G",
+        "NSC 73961",
+        "HSDB 1081"
+    ],
+    "IsomericSMILES": "CCCCCCCC=C",
+    "INCHI": "InChI=1S/C9H18/c1-3-5-7-9-8-6-4-2/h3H,1,4-9H2,2H3",
+    "INCHIKEY": "JRZJOMJEPLMPRA-UHFFFAOYSA-N",
+    "Formula": "C9H18",
+    "MolecularWeight": {
+        "$numberDouble": "126.24"
+    },
+    "Description": "1-nonene is an alkene that is nonane containing one double bond located at position 1. It has a role as a plant metabolite and a mammalian metabolite.",
+    "XlogP": {
+        "$numberDouble": "5.2"
+    },
+    "Complexity": {
+        "$numberInt": "55"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 64 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 1843 was calculated for 1-nonene(SRC), using a log Kow of 5.15(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is very high."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "BUSWELL JA ET AL; ARCH MICROBIOL 64 (3): 215 (1969)",
+            "Value": "PENTANE THROUGH N-OCTANE WERE OXIDIZED WITH A PROGRESSIVE INCREASE IN SPECIFIC ACTIVITY, FOLLOWED BY A DECREASE AS THE HYDROCARBON CHAIN INCREASED UP TO HEPTADECANE."
+        },
+        {
+            "References": "(1) Abbot BJ et al; Appl Microbiol 26: 86-91 (1973) (2) Buswell JA et al; Arch Mikrobiol 64: 215-22 (1969) (3) Jones KC; Organic Contaminants in the Environment, Environmental Pathways & Effects. NY, NY: Elsevier Science pp. 329 (1991) (4) Boethling RS et al; Environ Sci Technol 28: 459-65 (1994)",
+            "Value": "Resting cells of Pseudomonas oleovorans PO-1R that had been grown on octane were able to oxidize 1-nonene to produce 1,2-epoxynonane(1). The appearance of the epoxide occurred after only a half hour exposure to 1-nonene(1). In a similar study, Corynebacterium sp (7E1C) bacteria was able to degrade 1-nonene at an optimal temperature of 30 \u00b0C and a pH range of 7.0-7.6(2). This study revealed that terminating alkenes were more recalcitrant compared to those alkenes with the double bond located elsewhere on the molecule. Researchers also noted that as the chain length of the alkene increased, so did the susceptibility to microbial attack(2). Alkenes can be utilized by a wide range of microorganisms and are catabolized via several routes(3). These include the oxidation of a terminal methyl group leaving the double bond intact and resulting in unsaturated alcohol, aldehyde and fatty acid or oxidation of the double bond resulting in the formation of epoxide, diol compounds and possibly hydroxyacids(3). 1-Nonene's linear hydrocarbon structure would suggest that biodegradation is an important process in soil and water(4)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 64",
+            "Value": "log Kow= 5.15"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "DENT JOHN ET AL; SPECTRAL INTERACTIONS OF 1-ALKENES WITH CYTOCHROME P450; CHEM INDUSTRY INSTITUTE OF TOXICOLOGY, RES TRI PK, NC 27709",
+            "Value": "BINDING WAS INVESTIGATED OF DIFFERENT 1-ALKENES TO CYTOCHROME P450 IN MICROSOMES FROM F344 RATS."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992) (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc for 1-nonene can be estimated to be 935(SRC). According to a classification scheme(2), this estimated Koc value suggests that 1-nonene is expected to have low mobility in soil."
+        }
+    ]
+}

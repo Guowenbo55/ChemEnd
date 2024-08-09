@@ -1,0 +1,66 @@
+{
+    "_id": {
+        "$oid": "6682e980c4e5dba5ffba2af0"
+    },
+    "CID": {
+        "$numberInt": "43234"
+    },
+    "Name": "PROPICONAZOLE",
+    "IUPACName": "1-[[2-(2,4-dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl]methyl]-1,2,4-triazole",
+    "CanonicalSMILES": "CCCC1COC(O1)(CN2C=NC=N2)C3=C(C=C(C=C3)Cl)Cl",
+    "Synonyms": [
+        "PROPICONAZOLE",
+        "60207-90-1",
+        "Tilt",
+        "Propiconazol",
+        "Banner",
+        "Desmel",
+        "Orbit",
+        "Proconazole",
+        "CGA-64250",
+        "1-{[2-(2,4-dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl]methyl}-1H-1,2,4-triazole",
+        "CGD 92710F",
+        "1-((2-(2,4-Dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl)methyl)-1H-1,2,4-triazole",
+        "1-[[2-(2,4-dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl]methyl]-1,2,4-triazole",
+        "142KW8TBSR",
+        "CHEBI:8489"
+    ],
+    "IsomericSMILES": "CCCC1COC(O1)(CN2C=NC=N2)C3=C(C=C(C=C3)Cl)Cl",
+    "INCHI": "InChI=1S/C15H17Cl2N3O2/c1-2-3-12-7-21-15(22-12,8-20-10-18-9-19-20)13-5-4-11(16)6-14(13)17/h4-6,9-10,12H,2-3,7-8H2,1H3",
+    "INCHIKEY": "STJLVHWMYQXCPB-UHFFFAOYSA-N",
+    "Formula": "C15H17Cl2N3O2",
+    "MolecularWeight": {
+        "$numberDouble": "342.2"
+    },
+    "Description": "Propiconazole is the cyclic ketal obtained by formal condensation of 1-(2,4-dichlorophenyl)-2-(1H-1,2,4-triazol-1-yl)ethanone with pentane-1,2-diol. A triazole fungicide, it is used commercially as a diastereoisomeric mixture on soft fruit (including apricots, peaches, nectarines, plums and prunes), nuts (including peanuts, pecans and almonds), mushrooms, and grasses grown for seeds. It has a role as a xenobiotic, an environmental contaminant, an EC 1.14.13.70 (sterol 14alpha-demethylase) inhibitor and an antifungal agrochemical. It is a member of triazoles, a cyclic ketal, a dichlorobenzene, a conazole fungicide and a triazole fungicide.",
+    "XlogP": {
+        "$numberDouble": "3.5"
+    },
+    "Complexity": {
+        "$numberInt": "377"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "sediment_soil_concentrations": [
+        {
+            "References": "PMID:9870990",
+            "Value": "SEDIMENT: Propiconazole was detected in 4 out 4 mobile sediment samples in concentrations ranging from 5-10 ug/kg dry weight(1). The same study showed propiconizole in 3 out of 4 bed sediment samples with concentrations ranging from 20-30 ug/kg dry weight(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "Intravascular trunk infusion of propiconazole has been associated with beneficial effects on Armillaria root rot control in Prunus sp. but its basipetal movement has not been verified. Propiconazole, a sterol demethylation inhibitor fungicide, was more effective in inhibiting mycelial growth of Armillaria tabescens isolates in vitro (average effective concentration to inhibit mycelial growth by 50% [EC50 value] of 0.6 \u00b5g/ml) compared with fungicides from five other chemical classes (EC50 values ranging from 4.6 to >1,000 \u00b5g/ml). The fungicide was infused into the vascular system of peach trees in the spring, summer, and fall of 2005 and 2006. Propiconazole concentration was determined using gas chromatography mass spectrometry in trunk sections above and below the infusion site and in primary roots. Over two experimental years, spring and fall infusions resulted in consistent propiconazole accumulations in primary peach roots. Spring infusions yielded propiconazole concentrations of 1.7 \u00b5g/g in 2005 and 5.6 \u00b5g/g in 2006, whereas the highest accumulations were detected following fall infusions with 9.2 \u00b5g/g in 2005 and 6.7 \u00b5g/g in 2006. Propiconazole was also consistently detected in trunk sections collected from above and below the infusion site. The basipetal movement of propiconazole in peach trees and its inhibitory activity against A. tabescens in vitro suggest that propiconazole infusion could be useful for targeted Armillaria root rot management.",
+            "reference": "Amiri, A., Bussey, K. E., Riley, M. B., & Schnabel, G. (2008). Propiconazole InhibitsArmillaria tabescensIn Vitro and Translocates into Peach Roots Following Trunk Infusion. Plant Disease, 92(9), 1293\u20131298. doi:10.1094/pdis-92-9-1293\u00a0",
+            "method": {
+                "Test Plant": "Two isolates of A. tabescens",
+                "Apply Location": "Foliar application.",
+                "Plant Grown Condition": "Two isolates of A. tabescens were used to determine the activity of propiconazole and other fungicides in vitro. Isolate SC.MF-101 was collected in 2001 from a dying peach tree at Clemson University\u2013Musser Fruit Research Farm, Seneca, SC and isolate GA.00i210 was collected from peach tree roots in Watkinsville, GA in 2000.",
+                "Chemical Preparation": "Nine formulated commercial products belonging to eight different chemical classes were tested in vitro.",
+                "Pesticide Application Details for the Plant": "Fungicides were tested on 3% MEA enriched with 3% glucose and 1% peptone. Propiconazole formulated as Orbit was infused in spring and summer 2005, propiconazole formulated as Alamo was infused on all other dates. Trunk below and Trunk above indicate that samples were taken 2 to 5 cm below and above the infusion site, respectively.",
+                "Other Information": "Five replicate plates were assessed for each isolate-fungicide concentration combination. The entire experiment was conducted twice."
+            },
+            "result": "[{\"Seasons After Application\": 0, \"Root (ug/g)\": 1.7, \"Below Trunk (ug/g)\": 83.1, \"Above Trunk (ug/g)\": 8.7}, {\"Seasons After Application\": 1, \"Root (ug/g)\": 1.5, \"Below Trunk (ug/g)\": 20.5, \"Above Trunk (ug/g)\": 29.5}, {\"Seasons After Application\": 2, \"Root (ug/g)\": 9.2, \"Below Trunk (ug/g)\": 27.2, \"Above Trunk (ug/g)\": 1.3}, {\"Seasons After Application\": 3, \"Root (ug/g)\": 5.6, \"Below Trunk (ug/g)\": 170.3, \"Above Trunk (ug/g)\": 13.6}, {\"Seasons After Application\": 4, \"Root (ug/g)\": 2.5, \"Below Trunk (ug/g)\": 7.4, \"Above Trunk (ug/g)\": 1.8}, {\"Seasons After Application\": 5, \"Root (ug/g)\": 6.7, \"Below Trunk (ug/g)\": 4.1, \"Above Trunk (ug/g)\": 20.7}]"
+        }
+    ]
+}

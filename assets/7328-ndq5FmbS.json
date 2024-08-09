@@ -1,0 +1,105 @@
+{
+    "_id": {
+        "$oid": "6682e877c4e5dba5ffba25ba"
+    },
+    "CID": {
+        "$numberInt": "7328"
+    },
+    "Name": "DICHLOFENTHION",
+    "IUPACName": "(2,4-dichlorophenoxy)-diethoxy-sulfanylidene-lambda5-phosphane",
+    "CanonicalSMILES": "CCOP(=S)(OCC)OC1=C(C=C(C=C1)Cl)Cl",
+    "Synonyms": [
+        "DICHLOFENTHION",
+        "97-17-6",
+        "Hexanema",
+        "Mobilawn",
+        "Nemacide",
+        "Tri-vc 13",
+        "ECP (pesticide)",
+        "Nemacide VC-13",
+        "v-C-13",
+        "V-C 13",
+        "VC 13",
+        "Dichlofention",
+        "Dichlorofenthion",
+        "Diethyl 2,4-dichlorophenyl phosphorothionate",
+        "ENT 17470"
+    ],
+    "IsomericSMILES": "CCOP(=S)(OCC)OC1=C(C=C(C=C1)Cl)Cl",
+    "INCHI": "InChI=1S/C10H13Cl2O3PS/c1-3-13-16(17,14-4-2)15-10-6-5-8(11)7-9(10)12/h5-7H,3-4H2,1-2H3",
+    "INCHIKEY": "WGOWCPGHOCIHBW-UHFFFAOYSA-N",
+    "Formula": "C10H13Cl2O3PS",
+    "MolecularWeight": {
+        "$numberDouble": "315.15"
+    },
+    "Description": "Dichlofenthion is an organic thiophosphate.",
+    "XlogP": {
+        "$numberDouble": "5.1"
+    },
+    "Complexity": {
+        "$numberInt": "270"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "animal_concentrations": [
+        {
+            "References": "(1) Cone MV et al; Chemicals Identified in Human Biological Media, A Data Base. USEPA-560/13-80-036A. Oak Ridge, TN: Oak Ridge Natl Lab (1981)",
+            "Value": "Dichlorfenthion is included in the EPA's database of compounds identified in human biological media (tissues and body fluids)(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch L et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Amer Chem Soc, Washington, DC. p. 10 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF value of 4700 was calculated for dichlofenthion(SRC), using a measured log Kow of 5.14(1) and a recommended regression-derived equation(2). According to a recommended classification scheme(3), this BCF value suggests that bioconcentration in aquatic organisms will be an important fate process(SRC)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 73",
+            "Value": "LogP= 5.14"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Gilman, A.G., T.W. Rall, A.S. Nies and P. Taylor (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 8th ed. New York, NY. Pergamon Press, 1990., p. 138",
+            "Value": "The cardiovascular actions of anticholinesterase agents are complex, since they reflect both ganglionic and postganglionic effects of accumulated ACh on the heart and blood vessels. The predominant effect on the heart from the peripheral action of accumulated ACh is bradycardia, resulting in a fall in cardiac output. Higher doses usually cause a fall in blood pressure, often as a consequence of effects of anticholinesterase agents on the medullary vasomotor centers of the CNS. /Anticholinesterase agents/"
+        },
+        {
+            "References": "Dreisbach, R.H. Handbook of Poisoning. 12th ed. Norwalk, CT: Appleton and Lange, 1987., p. 113",
+            "Value": "Organophosphorus derivatives act by combining with and inactivating the enzyme acetylcholinesterase. ... The inactivation of cholinesterase by cholinesterase inhibitor pesticides allows the accumulation of large amounts of acetylcholine, with resultant widespread effects that may be ... separated into 4 categories: (1) Potentiation of postganglionic parasympathetic activity. ... (2) Persistent depolarization of skeletal muscle ... (3) Initial stimulation following depression of cells of central nervous system ... (4) Variable ganglionic stimulation or blockade ... /Cholinesterase inhibitor pesticides/"
+        },
+        {
+            "References": "International Labour Office. Encyclopedia of Occupational Health and Safety. Vols. I&II. Geneva, Switzerland: International Labour Office, 1983., p. 1638",
+            "Value": "The main feature of the toxic mechanism of organophosphorus pesticides is inhibition of the esterase enzyme activity, in particular of cholinesterase, which plays an important physiological part. Organophosphorus pesticides can also indirectly interact with the biochemical receptors of acetylcholine. /Organophosphorus pesticides/"
+        },
+        {
+            "References": "Hayes, W.J., Jr., E.R. Laws, Jr., (eds.). Handbook of Pesticide Toxicology. Volume 2. Classes of Pesticides. New York, NY: Academic Press, Inc., 1991., p. 943",
+            "Value": "... The serum cholinesterase activity of 14 men and 16 women at seven approximately equal intervals throughout one 24 hr day was measured. The lowest average value, ... was 92% of the mean of all values at other sampling times. The next lowest value was 98.7% of the same mean. /It was/ concluded that the small variation observed did not take the form of a regular curve but was entirely individual without correspondence to hour. /Organic phosphorus pesticides/"
+        },
+        {
+            "References": "Hayes, W.J., Jr., E.R. Laws, Jr., (eds.). Handbook of Pesticide Toxicology. Volume 2. Classes of Pesticides. New York, NY: Academic Press, Inc., 1991., p. 943",
+            "Value": "... Differences /were not detected in cholinesterase/ enzyme activity related to age and sex, probably because their samples were too small to measure the minor differences that exist. There is no change in red blood cell cholinesterase activity in adults associated with age. ... Activity of this enzyme increases progressively during the first year of life, it is higher in children under 3 yr of age than in older children, and it is markedly higher in 5 yr old children than in 3 yr olds. /Organic phosphorus pesticides/"
+        },
+        {
+            "References": "Hayes, W.J., Jr., E.R. Laws, Jr., (eds.). Handbook of Pesticide Toxicology. Volume 2. Classes of Pesticides. New York, NY: Academic Press, Inc., 1991., p. 943",
+            "Value": "Cholinesterase activity of plasma is significantly higher in men than in women, and this is true no matter which of several choline esters are used as substrate in measuring the enzyme activity. According to some, the difference is confined to young people. There is no sex difference in the red cell enzyme activity. Serum cholinesterase activity of blacks tends to be lower than whites of the same sex. /Organic phosphorus pesticides/"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. Old Woking, Surrey, United Kingdom: Royal Society of Chemistry/Unwin Brothers Ltd., 1983., p. A135/Oct 83",
+            "Value": "Duration of nematicidal activity in soil 1-2 yr."
+        },
+        {
+            "References": "(1) Miles JRW, Harris CR; J Environ Sci Health B13: 199-209 (1978)",
+            "Value": "Soil was collected from 28 farms in southwestern Ontario during October 1976; 11 of the 28 samples contained dichlofenthion at concentrations ranging from a trace to 0.31 ppm(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch L et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Amer Chem Soc, Washington, DC. p. 73 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 23 (1983)",
+            "Value": "The Koc of dichlofenthion is estimated as approximately 15,000(SRC), using a measured log Kow of 5.14(1) and a regression-derived equation(2,SRC). According to a recommended classification scheme(3), this estimated Koc value suggests that dichlofenthion will be immobile in soil(SRC)."
+        }
+    ]
+}

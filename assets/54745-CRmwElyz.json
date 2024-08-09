@@ -1,0 +1,64 @@
+{
+    "_id": {
+        "$oid": "66927110303528b49832d7c5"
+    },
+    "CID": {
+        "$numberInt": "54745"
+    },
+    "Name": "Fluroxypyr-meptyl",
+    "IUPACName": "octan-2-yl 2-(4-amino-3,5-dichloro-6-fluoropyridin-2-yl)oxyacetate",
+    "CanonicalSMILES": "CCCCCCC(C)OC(=O)COC1=NC(=C(C(=C1Cl)N)Cl)F",
+    "Synonyms": [
+        "Fluroxypyr-meptyl",
+        "Starane",
+        "81406-37-3",
+        "Fluroxypyr-1-methylheptyl ester",
+        "Fluroxypyr 1-methylheptyl ester",
+        "Fluroxypyr meptyl",
+        "Starane 2",
+        "Starane 250",
+        "Dowco 433",
+        "Fluroxypyr-meptyl [ISO]",
+        "9W47M4YJ3Q",
+        "DTXSID5034303",
+        "octan-2-yl 2-(4-amino-3,5-dichloro-6-fluoropyridin-2-yl)oxyacetate",
+        "Acetic acid",
+        "((4-amino-3,5-dichloro-6-fluoro-2-pyridinyl)oxy)-",
+        "1-methylheptyl ester",
+        "1-Methylheptyl ((4-amino-3,5-dichloro-6-fluoropyridin-2-yl)oxy)acetate"
+    ],
+    "IsomericSMILES": "CCCCCCC(C)OC(=O)COC1=NC(=C(C(=C1Cl)N)Cl)F",
+    "INCHI": "InChI=1S/C15H21Cl2FN2O3/c1-3-4-5-6-7-9(2)23-10(21)8-22-15-12(17)13(19)11(16)14(18)20-15/h9H,3-8H2,1-2H3,(H2,19,20)",
+    "INCHIKEY": "OLZQTUCTGLHFTQ-UHFFFAOYSA-N",
+    "Formula": "C15H21Cl2FN2O3",
+    "MolecularWeight": {
+        "$numberDouble": "367.2"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "5.4"
+    },
+    "Complexity": {
+        "$numberInt": "366"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Fluroxypyr-meptyl (FLUME) is heterocyclic herbicide with internal absorption and transmission characteristics. Owing to its low cost and rapid efficacy, it has been widely used to control broad-leaved weeds in wheat, corn, and rice fields. How-ever, the uptake, translocation, accumulation, and metabolism of FLUME in rice seedlings and the extent of oxidative stress induced by it remain largely unknown, which consequently restricts the comprehensive risk assessment of FLUME residues in the environment during rice production. Hence, we systematically investigated the growth and physiological responses of rice to FLUME and analyzed its uptake, translocation, accumulation, and metabolism in rice seedlings. The results indicated that under 0\u20130.12 mg/L FLUME treatment, only a small proportion of FLUME was translocated upward and accumulated in rice shoots following absorption via roots, with all the translocation factor values being < 1. Moreover, the distribution and enrichment ability of FLUME in rice seedlings were greater in roots than in shoots. Furthermore, we revealed that FLUME accumulation in rice seedlings evidently inhibited their growth and activated the defense system against oxidative stress, with an increase in the activity of antioxidant and detoxifying enzymes. In addition, multiple metabolic reactions of FLUME were observed in rice seedlings, including dehalogenation, hydroxylation, glycosylation, acetylation, and malonylation. Our study provides systematic insights into the uptake, translocation, accumulation, and metabolism of FLUME in rice seedlings as well as the oxidative stress induced by FLUME accumulation, which can help improve FLUME applications and environmental risk assessments in crops.",
+            "reference": "Chen, Z. J., Wang, H. W., Li, S. Y., Zhang, Y. H., Qu, Y. N., He, Z. H., ... & Liu, X. L. (2024). Uptake, translocation, accumulation, and metabolism of fluroxypyr-meptyl and oxidative stress induction in rice seedling. Environmental Science and Pollution Research, 31(4), 6094-6105.",
+            "method": {
+                "Test Plant": "Rice (Oryza sativa) seedlings",
+                "Apply Location": "Hydroponic",
+                "Plant Grown Condition": "Germinated under sterile conditions and grown hydroponically in 50% Hoagland solution for 5 days, then transferred to new nutrient solutions containing FLUME at various concentrations for 2 days and 6 days",
+                "Chemical Preparation": "fluroxypyr-meptyl (FLUME, 98.0% purity; Guangxi Tianyuan Biochemical Co., Ltd.)",
+                "Pesticide Application Details for the Plant": "Concentrations tested: 0.04 mg/L, 0.06 mg/L, 0.08 mg/L, 0.1 mg/L, and 0.12 mg/L FLUME. Control group grown in a nutrient solution without FLUME. Nutrient solutions with or without FLUME replenished every 2 days",
+                "Other Information": "All treatments were performed in biological triplicates. RCF is calculated by concentrations in shoots over those in the growth medium, SCF is calculated by concentrations in roots over those in the growth medium, TF is the ratiof of FLUME concentrations in shoots to roots."
+            },
+            "result": "[{\"Concentration (mg/L)\": 0.04, \"Root Concentration Factor (RCF)\": 6.39, \"Shoot Concentration Factor (SCF)\": 4.48, \"Translocation Factor (TF)\": 0.7}, {\"Concentration (mg/L)\": 0.06, \"Root Concentration Factor (RCF)\": 5.06, \"Shoot Concentration Factor (SCF)\": 3.56, \"Translocation Factor (TF)\": 0.7}, {\"Concentration (mg/L)\": 0.08, \"Root Concentration Factor (RCF)\": 4.69, \"Shoot Concentration Factor (SCF)\": 3.42, \"Translocation Factor (TF)\": 0.73}, {\"Concentration (mg/L)\": 0.1, \"Root Concentration Factor (RCF)\": 4.43, \"Shoot Concentration Factor (SCF)\": 3.07, \"Translocation Factor (TF)\": 0.69}, {\"Concentration (mg/L)\": 0.12, \"Root Concentration Factor (RCF)\": 4.05, \"Shoot Concentration Factor (SCF)\": 2.59, \"Translocation Factor (TF)\": 0.64}]"
+        }
+    ]
+}

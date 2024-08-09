@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "6692711e303528b49832d7fe"
+    },
+    "CID": {
+        "$numberInt": "91749"
+    },
+    "Name": "Quinmerac",
+    "IUPACName": "7-chloro-3-methylquinoline-8-carboxylic acid",
+    "CanonicalSMILES": "CC1=CC2=C(C(=C(C=C2)Cl)C(=O)O)N=C1",
+    "Synonyms": [
+        "Quinmerac",
+        "90717-03-6",
+        "7-Chloro-3-methylquinoline-8-carboxylic acid",
+        "7-Chloro-3-methyl-8-quinolinecarboxylic acid",
+        "Fiesta",
+        "BAS 518",
+        "8-Quinolinecarboxylic acid",
+        "7-chloro-3-methyl-",
+        "0OFY83UPMH",
+        "DTXSID1042364",
+        "CHEBI:84199",
+        "7-Chloro-3-methyl-quinoline-8-carboxylic acid",
+        "BAS 518H",
+        "Quinmerac [ISO:BSI]",
+        "BAS 51802H",
+        "Quinmerac [ISO]"
+    ],
+    "IsomericSMILES": "CC1=CC2=C(C(=C(C=C2)Cl)C(=O)O)N=C1",
+    "INCHI": "InChI=1S/C11H8ClNO2/c1-6-4-7-2-3-8(12)9(11(14)15)10(7)13-5-6/h2-5H,1H3,(H,14,15)",
+    "INCHIKEY": "ALZOLUNSQWINIR-UHFFFAOYSA-N",
+    "Formula": "C11H8ClNO2",
+    "MolecularWeight": {
+        "$numberDouble": "221.64"
+    },
+    "Description": "Quinmerac is a quinolinemonocarboxylic acid that is quinoline-8-carboxylic acid carrying additional methyl and chloro substituents at positions 3 and 7 respectively. A residual herbicide used to control broad-leaved weeds on a range of crops including cereals, rape and beet. It has a role as a herbicide, an environmental contaminant and a synthetic auxin. It is a quinolinemonocarboxylic acid and an organochlorine compound.",
+    "XlogP": {
+        "$numberDouble": "2.7"
+    },
+    "Complexity": {
+        "$numberInt": "259"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Investigations were conducted to elucidate the mechanism of selectivityof the auxin herbicide, quinmerac, in cleavers (Galium aparine) and the tolerantcrops sugarbeet (Beta vulgaris), oilseed rape (Brassica napus) and wheat (T riticumaestivum). After root treatment with the herbicide, the selectivity has been quanti-\u00d0ed as approximately 400-fold between oilseed rape andGaliumand 1000-foldbetween  sugarbeet  or  wheat  and  the  weed  species.  When  1  and  10kM[14C]quinmerac  were  applied  for  4 h,  no  signi\u00d0cant  di\u2020erences  between  rootabsorption and translocation of14CbyGaliumand the crop species were found.After 16 h, metabolism of [14C]quinmerac to the biologically inactive hydroxy-methyl and dicarboxylic acid derivatives was more rapid in wheat and sugarbeetthan  inGalium.  In  oilseed  rape,  a  lower  rate  of  herbicide  metabolism  wasobserved.  InGalium,  accumulations  of  abscisic  acid  (ABA),  triggered  byquinmerac-stimulated ethylene biosynthesis, were found to cause the herbicidalgrowth inhibition which develops during 24 h of application. Within 1 h of treat-ment, quinmerac stimulated 1-aminocyclopropane-1-carboxylic acid (ACC) syn-thase activity and ACC concentration speci\u00d0cally inGaliumshoot tissue. Duringthe next 4 h, ACC synthase activity was increased up to 50-fold, relative to thecontrol. Within 3 h of exposure to quinmerac, increased ethylene formation fol-lowed by higher ABA levels was detected. In sugarbeet, oilseed rape and wheat,quinmerac did not stimulate ACC synthase activity and ACC and ABA levels. Itis suggested that (i) the selectivity of quinmerac is primarily based upon the lowersensitivity to the herbicide of the tissue/target in the crop species, (ii) the induc-tion process of the ACC synthase activity in the shoot tissue is the primary targetof  herbicidal  interference.  In  wheat  and  sugarbeet,  tolerance  to  quinmerac  isadditionally increased by a more rapid metabolism",
+            "reference": "Grossmann, K., & Scheltrup, F. (1998). Studies on the mechanism of selectivity of the auxin herbicide quinmerac. Pesticide Science, 52(2), 111-118.",
+            "method": {
+                "Test Plant": "Galium aparine L., Brassica napus L. cv. Petranova, Beta vulgaris L. cv. Viktoria, and Triticum aestivum L. cv. Kanzler",
+                "Apply Location": "Root application (hydroponic culture)",
+                "Plant Grown Condition": "Young plants were raised to the second-leaf stage in vermiculite substrate moistened with 1/2 strength Linsmaier-Skoog nutrient solution (light/dark: 16/8 h at 24/19\u00b0C, 250\u03bcmol/m2/s, 400-700 nm fluorescent lamps). Uniformly developed plants were then transferred into 320-ml glass vessels with 1/2 strength Linsmaier-Skoog medium and cultivated in growth chambers with 16/8 h light/dark cycles at 25/20\u00b0C and 75% relative humidity (3-12 plants per vessel, five replications;",
+                "Chemical Preparation": "Quinmerac (7-chloro-3-methylquinoline-8-carboxylic acid; BAS 518H; 99.4% pure), [14C]quinmerac (99% radiochemical purity, sp. act. 438 MBq/mmol, 1.98 MBq/mg, labeled at C-2 atom in the heterocycle) and plant metabolites BAS 518-2 and BAS 518-4 were synthesized. The compounds were added to the hydroponic medium in acetone solution (1 ml/liter, final concentration) one day after plant adaptation.",
+                "Pesticide Application Details for the Plant": "-",
+                "Other Information": "After treatment, growth parameters were measured and shoots/roots were harvested at various times, frozen, and stored at -80\u00b0C. Experiments were repeated at least twice."
+            },
+            "result": "[{\"Plant\": \"G.aparine\", \"Concentration (um)\": 1, \"Minutes after application\": 40, \"Shoot (ug/g)\": 0.007, \"Root (ug/g)\": 0.272}, {\"Plant\": \"G.aparine\", \"Concentration (um)\": 1, \"Minutes after application\": 120, \"Shoot (ug/g)\": 0.012, \"Root (ug/g)\": 0.278}, {\"Plant\": \"G.aparine\", \"Concentration (um)\": 1, \"Minutes after application\": 240, \"Shoot (ug/g)\": 0.022, \"Root (ug/g)\": 0.437}, {\"Plant\": \"G.aparine\", \"Concentration (um)\": 10, \"Minutes after application\": 40, \"Shoot (ug/g)\": 0.006, \"Root (ug/g)\": 1.999}, {\"Plant\": \"G.aparine\", \"Concentration (um)\": 10, \"Minutes after application\": 120, \"Shoot (ug/g)\": 0.11, \"Root (ug/g)\": 3.183}, {\"Plant\": \"G.aparine\", \"Concentration (um)\": 10, \"Minutes after application\": 240, \"Shoot (ug/g)\": 0.179, \"Root (ug/g)\": 5.061}, {\"Plant\": \"T.aestivum\", \"Concentration (um)\": 1, \"Minutes after application\": 40, \"Shoot (ug/g)\": 0.007, \"Root (ug/g)\": 0.123}, {\"Plant\": \"T.aestivum\", \"Concentration (um)\": 1, \"Minutes after application\": 120, \"Shoot (ug/g)\": 0.018, \"Root (ug/g)\": 0.2}, {\"Plant\": \"T.aestivum\", \"Concentration (um)\": 1, \"Minutes after application\": 240, \"Shoot (ug/g)\": 0.047, \"Root (ug/g)\": 0.319}, {\"Plant\": \"T.aestivum\", \"Concentration (um)\": 10, \"Minutes after application\": 40, \"Shoot (ug/g)\": 0.041, \"Root (ug/g)\": 1.224}, {\"Plant\": \"T.aestivum\", \"Concentration (um)\": 10, \"Minutes after application\": 120, \"Shoot (ug/g)\": 0.103, \"Root (ug/g)\": 1.959}, {\"Plant\": \"T.aestivum\", \"Concentration (um)\": 10, \"Minutes after application\": 240, \"Shoot (ug/g)\": 0.351, \"Root (ug/g)\": 2.816}, {\"Plant\": \"B.vulgaris\", \"Concentration (um)\": 1, \"Minutes after application\": 40, \"Shoot (ug/g)\": 0.004, \"Root (ug/g)\": 0.334}, {\"Plant\": \"B.vulgaris\", \"Concentration (um)\": 1, \"Minutes after application\": 120, \"Shoot (ug/g)\": 0.014, \"Root (ug/g)\": 1.009}, {\"Plant\": \"B.vulgaris\", \"Concentration (um)\": 1, \"Minutes after application\": 240, \"Shoot (ug/g)\": 0.029, \"Root (ug/g)\": 1.122}, {\"Plant\": \"B.vulgaris\", \"Concentration (um)\": 10, \"Minutes after application\": 40, \"Shoot (ug/g)\": 0.0, \"Root (ug/g)\": 3.959}, {\"Plant\": \"B.vulgaris\", \"Concentration (um)\": 10, \"Minutes after application\": 120, \"Shoot (ug/g)\": 0.068, \"Root (ug/g)\": 6.081}, {\"Plant\": \"B.vulgaris\", \"Concentration (um)\": 10, \"Minutes after application\": 240, \"Shoot (ug/g)\": 0.296, \"Root (ug/g)\": 9.142}, {\"Plant\": \"B.napus\", \"Concentration (um)\": 1, \"Minutes after application\": 40, \"Shoot (ug/g)\": 0.012, \"Root (ug/g)\": 0.133}, {\"Plant\": \"B.napus\", \"Concentration (um)\": 1, \"Minutes after application\": 120, \"Shoot (ug/g)\": 0.026, \"Root (ug/g)\": 0.216}, {\"Plant\": \"B.napus\", \"Concentration (um)\": 1, \"Minutes after application\": 240, \"Shoot (ug/g)\": 0.075, \"Root (ug/g)\": 0.334}, {\"Plant\": \"B.napus\", \"Concentration (um)\": 10, \"Minutes after application\": 40, \"Shoot (ug/g)\": 0.131, \"Root (ug/g)\": 3.673}, {\"Plant\": \"B.napus\", \"Concentration (um)\": 10, \"Minutes after application\": 120, \"Shoot (ug/g)\": 0.282, \"Root (ug/g)\": 3.836}, {\"Plant\": \"B.napus\", \"Concentration (um)\": 10, \"Minutes after application\": 240, \"Shoot (ug/g)\": 1.248, \"Root (ug/g)\": 4.448}]"
+        }
+    ]
+}

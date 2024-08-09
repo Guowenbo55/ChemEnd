@@ -1,0 +1,171 @@
+{
+    "_id": {
+        "$oid": "6682e7d3c4e5dba5ffba2285"
+    },
+    "CID": {
+        "$numberInt": "311"
+    },
+    "Name": "CITRIC ACID",
+    "IUPACName": "2-hydroxypropane-1,2,3-tricarboxylic acid",
+    "CanonicalSMILES": "C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+    "Synonyms": [
+        "citric acid",
+        "77-92-9",
+        "Citric acid",
+        "anhydrous",
+        "2-hydroxypropane-1,2,3-tricarboxylic acid",
+        "Anhydrous citric acid",
+        "Aciletten",
+        "Citro",
+        "Citretten",
+        "Chemfill",
+        "Citric acid anhydrous",
+        "Hydrocerol A",
+        "1,2,3-Propanetricarboxylic acid",
+        "2-hydroxy-",
+        "Kyselina citronova",
+        "2-hydroxy-1,2,3-propanetricarboxylic acid",
+        "2-Hydroxytricarballylic acid"
+    ],
+    "IsomericSMILES": "C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+    "INCHI": "InChI=1S/C6H8O7/c7-3(8)1-6(13,5(11)12)2-4(9)10/h13H,1-2H2,(H,7,8)(H,9,10)(H,11,12)",
+    "INCHIKEY": "KRKNYBCHXYNGOX-UHFFFAOYSA-N",
+    "Formula": "C6H8O7",
+    "MolecularWeight": {
+        "$numberDouble": "192.12"
+    },
+    "Description": "Citric acid is a tricarboxylic acid that is propane-1,2,3-tricarboxylic acid bearing a hydroxy substituent at position 2. It is an important metabolite in the pathway of all aerobic organisms. It has a role as a food acidity regulator, a chelator, an antimicrobial agent and a fundamental metabolite. It is a conjugate acid of a citrate(1-) and a citrate anion.",
+    "XlogP": {
+        "$numberDouble": "-1.7"
+    },
+    "Complexity": {
+        "$numberInt": "227"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Avdeef A; Seminar on Ionization and Lipophilicity. Log P values measured by pION Inc., Brookline, MA (A. Avdeef and C. Berger) (1997) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Sept 6, 2013: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm/ (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated for citric acid(SRC), using a log Kow of -1.64(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Gerike P, Fischer WK; Ecotox Environ Safety 3: 159-73 (1979) (2) Heukelekian H, Rand MC; J Water Pollut Contr Assoc 27: 1040-53 (1955) (3) McKinney RE et al; Sew Indust Wastes 28: 547-57 (1956) (4) Placak OR, Ruchhoft CC; Sewage Works J 19: 423-40 (1947) (5) Sharma A et al; Bull Environ Contam Toxicol 57: 34-40 (1996) (6) Takemoto S et al; Suishitsu Odaku Kenkyu 4: 80-90 (1981)",
+            "Value": "AEROBIC: The biodegradability of citric acid was determined in six different tests and results found it to be well degraded in all tests(1). Citric acid achieved 93% DOC removal in a coupled units test (sludge inoculum), 85% DOC removal after 1 day in a Zahn-Wellens test (sludge inoculum), 100% DOC removal in an AFNOR test (42 days, germs inoculum simulating polluted river water), 100% DOC removal in a Sturm test (42 days, sewage treatment plant effluent), 100% DOC removal in an OECD screening test (19 days, effluent simulating surface water), and 90% BODT in a closed bottle test (30 days, effluent simulating surface water)(1). Citric acid reached 53% of its theoretical BOD in 5 days using a sludge inoculum(2). Citric acid, present at 500 mg/L, reached 46% of its theoretical oxygen demand in 12 hours using a phenol acclimated activated sludge inoculum(3).Citric acid, present at 500 mg/L, reached 98.4% of its theoretical BOD in 22 to 24 hours using an activated sludge inoculum at 2,228 mg/L(4). Citric acid (1% w/v) displayed BOD values of 6,410 and 6,040 mg/L using a defined microbial mixture and sewage inoculums, respectively(5). Citric acid, present at 10 mg/L, reached 66.4% and 67.3% of its theoretical BOD after 5 days using freshwater and seawater inoculums, respectively(6)."
+        },
+        {
+            "References": "(1) Hollingsworth J et al; Chemosphere 59: 1219-1228 (2005)]",
+            "Value": "ANAEROBIC: Citric acid, present at 800 mg/L, exhibited a degradation rate of 77.2 (12.7 mg/g-VSS/day with a lag phase of 3 days in 39 days under sulfate reducing conditions, indicating that the compound is biodegradable under anaerobic conditions (1)."
+        },
+        {
+            "References": "(1) Nwankwoala AU et al; Biodegradation 10: 105-12 (1999)",
+            "Value": "PURE CULTURE:  In NASA wastewater inoculated with batch microbial cultures, citric acid (5 mg/mL) was degraded more than 50% after 15 days by Achromobacter sp.(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Avdeef A; Seminar on Ionization and Lipophilicity. Log P values measured by pION Inc., Brookline, MA (A. Avdeef and C. Berger) (1997)",
+            "Value": "log Kow = -1.64"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:11749919",
+            "Value": "... The NK(2), and to a lesser extent the NK(1), receptors have been shown to be involved with citric acid-induced bronchoconstriction in the guinea pig, which is in part mediated by endogenously released bradykinin. Tachykinins and bradykinin could also modulate citric acid-induced bronchoconstriction. ... Bronchoconstriction induced by citric acid inhalation in the guinea pig, mainly caused by the tachykinin NK(2) receptor, is counteracted by bronchoprotective NO after activation of bradykinin B(2) and tachykinin NK(1) receptors in airway epithelium."
+        },
+        {
+            "References": "PMID:10452169",
+            "Value": "... A concentration of 47.6 mmol/L of citric acid (pH 2.3) in water led to total cell death within three minutes of incubation /with gingival fibroblasts (GF)/. Media containing 23.8 mmol/L and 47.6 mmol/L of citric acid exerted strong cytotoxicity (47 to 90 per cent of cell death) and inhibited protein synthesis (IC50 = 0.28 per cent) of GF within three hours of incubation. Incubation of cells in a medium containing 11.9 mmol/L of citric acid also suppressed the attachment and spreading of fibroblasts on culture plates and Type I collagen, with 58 per cent and 22 per cent of inhibition, respectively. Culture medium supplemented with 11.9, 23.8 and 47.6 mmol/L of citric acid also led to extracellular acidosis by decreasing the pH value from 7.5 to 6.3, 5.2 and 3.8, respectively."
+        },
+        {
+            "References": "PMID:20359123",
+            "Value": "Inhalation of citric acid (CA) causes airway constriction and coughing. To investigate the role of mast cells in CA-induced airway constriction and cough, three experiments using guinea pigs were carried out. In the first experiment, /the authors/ used compound 48/80 to deplete mast cells, cromolyn sodium to stabilize mast cells, MK-886 to inhibit synthesis of leukotrienes, pyrilamine to antagonize histamine H1 receptor, methysergide to antagonize serotonin receptor, and indomethacin to inhibit cyclooxygenase. In the second experiment, compound 48/80-pretreated animals were divided into 2 parts; the first one was used to test the role of exogenous leukotriene (LT) C4, while the second one to test the role of exogenous histamine. Decreases in respiratory compliance (Crs) and forced expiratory volume in 0.1 sec (FEV0.1) were used as indicators for airway constriction in anesthetized guinea pigs. CA-induced cough was recorded for 12 min using a barometric body plethysmograph in conscious animals. In the third experiment, the activation of mast cells upon CA inhalation was investigated by determining lung tissue or arterial plasma histamine concentration in animals. Exposure to CA induced marked airway constriction and increase in cough number. Compound 48/80, cromolyn sodium, MK-886 and pyrilamine, but not indomethacin or methysergide, significantly attenuated CA-induced airway constriction and cough. Injection of LTC4 or histamine caused a significant increase in CA-induced airway constriction and cough in compound 48/80-pretreated animals. In addition, CA inhalation caused significant increase in lung tissue and plasma histamine concentrations, which were blocked by compound 48/80 pretreatment. These results suggest that mast cells play an important role in CA aerosol inhalation-induced airway constriction and cough via perhaps mediators including LTs and histamine."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "United Nations Environment Programme: OECD; Screening Information Data Sheets on Citric Acid (77-92-9) (January 2001). Available from, as of May 9, 2006: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Coughing is reported for guinea pigs exposed for 30 minutes to atmospheric citric acid concentrations of 81 mg/cu m (aerosolised 6% solution). Coughing was also produced in guinea pigs exposed to 75 mg citric acid/mL as an aerosol for 3 minutes. ...Coughing was also caused by instillation of 1 mL of an approx. 5.2% solution to the lower trachea in lambs, but not by instillation to the mid-trachea or laryngeal area."
+        },
+        {
+            "References": "United Nations Environment Programme: OECD; Screening Information Data Sheets on Citric Acid (77-92-9) (January 2001). Available from, as of May 9, 2006: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The application of a 50% citric acid solution to the tongue of dogs for 5 minutes resulted in severe ulceration and tissue damage."
+        },
+        {
+            "References": "Yokotani H et al; J Takeda Res Laboratories 30 (1): 25-31 (1971)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  ... Acute administration of citric-acid /to mice and rats by oral, subcutaneous, and intraperitoneal administration/ resulted in ataxia, other motor changes, and death caused by respiratory or cardiac failure. Median lethal dose values for citric-acid were similar to those for commercial citric-acid. ... Subacute administration resulted in normal behavior and no significant hematological changes. Increased protein was seen in the urine and a decrease was seen in plasma protein, albumin, and cholesterol. Histopathology revealed no specific deleterious effects of citric-acid on the organs and tissues studied."
+        },
+        {
+            "References": "PMID:15554261",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  ... Citric acid and malic acid caused 71% and 43% fall in Mean Arterial Blood Pressure (MABP) of rats at the doses of 15 mg/kg and 30 mg/kg respectively while pyridine hydrochloride produced 34% rise in the MABP of rats at the dose of 30 mg/kg. LD50 and LD100 of citric acid in mice have been determined as 545 mg/kg and 1000 mg/kg, respectively."
+        },
+        {
+            "References": "United Nations Environment Programme: OECD; Screening Information Data Sheets on Citric Acid (77-92-9) (January 2001). Available from, as of May 9, 2006: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Citric acid has a low acute toxicity by oral application in both rat and mouse. General effects comprised physiological disturbances (acidosis and calcium deficiency), while \"high\" doses caused nervous system effects as well as severe damage to the stomach mucosa."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 242",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Citric acid tested on rabbit eyes as single drop of 2% to 5% solution in water caused little or no injury ... Irrigation for 30 min with 0.5% to 2% solution causes severe injury; the 0.5% solution causes permanent cloudiness of cornea, and the 2% solution causes severe dense opacification."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 5:767",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Application of 500 mg citric acid to rabbit skin produced moderate irritation in 24 hr, whereas 750 mg caused severe irritation in the rabbit eye."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 5:767",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Citric acid (sodium salt) at 7.7% (equivalent to 5% free acid) in the diet of rabbits for 150 days produced no gross or histopathological changes or differences in growth or survival. /Citric acid, sodium salt/"
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 5:767",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In dogs, a daily oral dose of 1380 mg/kg for 112 to 120 days produced no evidence of renal damage."
+        },
+        {
+            "References": "United Nations Environment Programme: OECD; Screening Information Data Sheets on Citric Acid (77-92-9) (January 2001). Available from, as of May 9, 2006: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Groups of 10 male rats being fed up to 4.8% citric acid in feed (corresponding to approximately 4.67 g/kg/d) for 6 weeks showed slight growth reduction and, in the highest-dose group, mild blood and urine parameter changes and slight degeneration of the thymus gland and spleen."
+        },
+        {
+            "References": "United Nations Environment Programme: OECD; Screening Information Data Sheets on Citric Acid (77-92-9) (January 2001). Available from, as of May 9, 2006: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In guinea pigs fed 1-5% citric acid (approx. 0.4- 2 g/kg/d) for 60 days, a reduced packed cell volume in the blood was the only effect noted."
+        },
+        {
+            "References": "United Nations Environment Programme: OECD; Screening Information Data Sheets on Citric Acid (77-92-9) (January 2001). Available from, as of May 9, 2006: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ A 2-year chronic oral study in rats being given 5% or 3% citric acid in feed (approx. 2 resp. 1.2 g/kg/d) found slightly decreased growth in the higher dosage group but no tissue abnormalities in the major organs. From the lower dosage a NOAEL of 1200 mg/kg/d results. Similarly, NOAELs of 1500 mg/kg/d (rabbit) and of 1400 mg/kg/d (dog) have been determined."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 5:768",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ... The effect of citric acid on the survival time of immature and sexually mature male mice and on the survival time and reproductive capacity of rats and mice /was studied/. Citric acid (5% in the diet) did not depress food intake but caused a loss in body weight gain and reduced survival time in mice and a slightly greater influence on mature animals. No effect was detected on the litter size or survival up to weaning of young mice or rats. The effects on body weight gain and survival time may have resulted from the chelating ability of citric acid, which could impair absorption of calcium and iron."
+        },
+        {
+            "References": "United Nations Environment Programme: OECD; Screening Information Data Sheets on Citric Acid (77-92-9) (January 2001). Available from, as of May 9, 2006: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ In a two-generation 90 days study with male and female rats fed 1.2 % citric acid no adverse effect on reproductive parameters nor any teratogenicity of dietary citric acid was seen. There were no indications of teratogenic or other adverse effects in three shorterterm reproductive studies in rats with dietary dosage of either 5% citric acid (approx. 2.5 g/kg/d) previous, during and after mating (NOEL = 2500 mg/kg/d), or 295 mg/kg/d (route unspecified) during days 6-15 of pregnancy."
+        },
+        {
+            "References": "United Nations Environment Programme: OECD; Screening Information Data Sheets on Citric Acid (77-92-9) (January 2001). Available from, as of May 9, 2006: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ... Findings of no effects were reported for two reproductive and teratogenicity studies in mice receiving either 5 % citric acid (approx. 7.5 g/kg/d; in the range of acute LD50) previous, during and after mating (NOEL = 7500 mg/kg/d) or 241 mg/kg/d during days 6-15 of pregnancy."
+        },
+        {
+            "References": "United Nations Environment Programme: OECD; Screening Information Data Sheets on Citric Acid (77-92-9) (January 2001). Available from, as of May 9, 2006: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ...There were no indications of teratogenicity or other adverse effects in female hamsters receiving 272 mg citric acid/kg during days 6-10 of pregnancy nor in female rabbits receiving up to 425 mg/kg/d during days 6-18 (NOEL = 425 mg/kg/d)."
+        },
+        {
+            "References": "United Nations Environment Programme: OECD; Screening Information Data Sheets on Citric Acid (77-92-9) (January 2001). Available from, as of May 9, 2006: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "/GENOTOXICITY/ A dominant lethal assay with male rats being treated with up to 3 g/kg/d for 5 days was negative; no chromosomal damage occurred in the bone marrow cell of these male rats."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 5:768",
+            "Value": "/GENOTOXICITY/ ... Citric acid did not induce mutations at concentrations up to 5 mg/plate in Salmonella typhimurium strains TA 92, TA 94, TA 98, TA 100, or TA 1535, and TA 1537 with or without a liver homogenate from rats pretreated with the polychlorinated biphenyl KC-400, and no clastogenic effects were seen in Chinese hamster fibroblast cells at concentrations up to 1 mg/mL."
+        },
+        {
+            "References": "PMID:17403041",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ To assess the ex vivo cytotoxicity of EDTA and citric acid solutions on macrophages. The cytotoxicity of 17% EDTA and 15% citric acid was evaluated on murine macrophage cultures using MTT-Tetrazolium method [3-(4,5-dimethylthiazol-2-yl)-2,5 diphenyl tetrazolium bromide]. A total of 5 x 10(5) cells were plated in medium culture with 17% EDTA or 15% citric acid. Fresh medium was used as a control. Toxicity values were analysed statistically by anova and Tukey's test (P<0.05) at short (0, 6, 12, 24 hr) and medium periods (1, 3, 5, 7 days), using ELISA absorbance. On the short term, both EDTA (0.253 nm) and citric acid (0.260 nm) exhibited cytotoxic effects on macrophage cultures (P<0.05). On the medium term, statistical differences were observed (P<0.05) between the groups. EDTA (0.158 nm) and citric acid (0.219 nm) were cytotoxic when compared with the control group; EDTA-reduced macrophage viability significantly more than citric acid (P<0.05). Both EDTA and citric acid had effects on macrophages cells ex vivo, but citric acid was less toxic in periods from 1 to 7 days of use."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Sept 6, 2013: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Serjeant EP, Dempsey B; Ionisation constants of organic acids in aqueous solution. IUPAC Chem Data Ser No.23. New York, NY: Pergamon pp. 989 (1979) (4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000) (5) Gordon AS, Millero FJ; Microb Ecol 11: 289-98 (1985)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of citric acid can be estimated to be 10(SRC). According to a classification scheme(2), this estimated Koc value suggests that citric acid is expected to have very high mobility in soil. The pKa of citric acid is 2.79(3), indicating that this compound will exist almost entirely  in the anion form in the environment and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(4). A 2 uM solution of citric acid in Gulfstream seawater showed equilibrium absorption values of 79% and 94% onto 0.01 and 0.25 g of hydroxyapatite, respectively(5)."
+        }
+    ]
+}

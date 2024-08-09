@@ -1,0 +1,75 @@
+{
+    "_id": {
+        "$oid": "6682e8bcc4e5dba5ffba2715"
+    },
+    "CID": {
+        "$numberInt": "8441"
+    },
+    "Name": "DIMETHYL TEREPHTHALATE",
+    "IUPACName": "dimethyl benzene-1,4-dicarboxylate",
+    "CanonicalSMILES": "COC(=O)C1=CC=C(C=C1)C(=O)OC",
+    "Synonyms": [
+        "DIMETHYL TEREPHTHALATE",
+        "120-61-6",
+        "Dimethyl p-phthalate",
+        "1,4-Benzenedicarboxylic acid",
+        "dimethyl ester",
+        "Dimethyl 4-phthalate",
+        "Di-Me terephthalate",
+        "Dimethyl 1,4-benzenedicarboxylate",
+        "Dimethyl p-benzenedicarboxylate",
+        "Terephthalic Acid Dimethyl Ester",
+        "Terephthalic acid",
+        "dimethyl ester",
+        "dimethyl benzene-1,4-dicarboxylate",
+        "Methyl p-(methoxycarbonyl)benzoate",
+        "Methyl 4-carbomethoxybenzoate",
+        "NCI-C50055",
+        "NSC 3503"
+    ],
+    "IsomericSMILES": "COC(=O)C1=CC=C(C=C1)C(=O)OC",
+    "INCHI": "InChI=1S/C10H10O4/c1-13-9(11)7-3-5-8(6-4-7)10(12)14-2/h3-6H,1-2H3",
+    "INCHIKEY": "WOZVHXUHUFLZGK-UHFFFAOYSA-N",
+    "Formula": "C10H10O4",
+    "MolecularWeight": {
+        "$numberDouble": "194.18"
+    },
+    "Description": "Dimethyl terephthalate is a diester resulting from the formal condensation of the carboxy groups of terephthalic acid with methanol. It is a primary ingredient widely used in the manufacture of polyesters and industrial plastics. It is a methyl ester, a diester and a phthalate ester. It is functionally related to a terephthalic acid.",
+    "XlogP": {
+        "$numberDouble": "2.2"
+    },
+    "Complexity": {
+        "$numberInt": "192"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Biodegradation and Bioaccumulation Data of Existing Chemicals Based on the CSCL Japan. Japan Chemical Industry Ecology - Toxicology and Information Center. ISBN 4-89074-101-1 (1992) (2) Kondo M et al; Eisei Kagaku 34: 188-95 (1988) (3) Aleshchenkova ZM et al; Eurasian Soil Sci 30:1350-4 (1997)",
+            "Value": "AEROBIC: Dimethyl terephthalate, present at 100 mg/L, reached 84% of its theoretical BOD in two weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1). A 3 day river die-away test using 50, 40, and 5 ppm dimethyl terephthalate resulted in 100% biodegradation in all three tests of river water, and 27, 38, and 49% biodegradation, respectively, in the three tests of sea water(2). Dimethyl terephthalate, at a concentration of 0.5%, degraded completely in 15 days at 30 \u00b0C in soil with a pH of 8.2 and 60% moisture content(3). The microbe Rhodococcus ruber 2B, isolated from sewage treatment facilities, was shown to accelerate the rate of degradation; terephthalate monoesters and terephthalic acid were identified as metabolites(3)."
+        },
+        {
+            "References": "PMID:10423842",
+            "Value": "ANAEROBIC: Dimethyl terephthalate, at a concentration of 1.5 mM, had anaerobic half-lives of 39, 48 and 58 days in starch processing, paper mill and sewage sludge, respectively(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 69",
+            "Value": "log Kow = 2.25"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Organization for Economic Cooperation and Development; Screening Information Data Set for Dimethyl terephthalate CASN 120-61-6 p.49 (January 2001). Available from, as of May 22, 2008: https://www.chem.unep.ch/irptc/sids/OECDSIDS/sidspub.html",
+            "Value": "... The composition of the bladder calculi from the DMT treated /rats/ ... was primarily calcium and terephthalic acid (TPA) with 5-7% protein. Phosphate levels were low, in contrast to bladder calculi from animals treated directly with terephthalic acid. ... An acidic urinary pH was believed to have induced the hypercalciuria, a characteristic of urolithiasis in man. The higher urinary concentrations of TPA from DMT in the diet (when compared to similar dietary concentrations of TPA) explained the higher incidence of urinary calculi from the DMT diets than from comparable levels of TPA in the diet. Urinary phosphate levels were decreased in the animals consuming the DMT diet and explained why phosphate was present only at very low levels in the bladder calculi in those animals. ... Weanling rats are probably more sensitive to the induction of bladder calculi than adults due to their very high feed consumption rates relative to body weight."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Schwarzbauer J et al; Org Geochem 31: 1713-31 (2000)",
+            "Value": "SEDIMENT: Dimethyl terephthalate was detected in sediment in 7 of 7 sites in the German Bight area from Elbe River from samples taken in 1998(1)."
+        }
+    ]
+}

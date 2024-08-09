@@ -1,0 +1,63 @@
+{
+    "_id": {
+        "$oid": "66927114303528b49832d7d7"
+    },
+    "CID": {
+        "$numberInt": "10958189"
+    },
+    "Name": "Iprovalicarb",
+    "IUPACName": "propan-2-yl N-[(2S)-3-methyl-1-[1-(4-methylphenyl)ethylamino]-1-oxobutan-2-yl]carbamate",
+    "CanonicalSMILES": "CC1=CC=C(C=C1)C(C)NC(=O)C(C(C)C)NC(=O)OC(C)C",
+    "Synonyms": [
+        "Iprovalicarb",
+        "140923-17-7",
+        "Fencaramid",
+        "Melody",
+        "DTXSID0047662",
+        "CHEBI:82023",
+        "94Q9V45M9B",
+        "Carbamic acid",
+        "N-[(1S)-2-methyl-1-[[[1-(4-methylphenyl)ethyl]amino]carbonyl]propyl]-",
+        "1-methylethyl ester",
+        "propan-2-yl N-[(2S)-3-methyl-1-[1-(4-methylphenyl)ethylamino]-1-oxobutan-2-yl]carbamate",
+        "propan-2-yl N-[3-methyl-1-[[(1S)-1-(4-methylphenyl)ethyl]amino]-1-oxobutan-2-yl]carbamate",
+        "SZX 0722",
+        "Iprovalicarb [ISO:BSI]",
+        "Nanogen code IPV",
+        "NIUS",
+        "UNII-94Q9V45M9B",
+        "(RS)-iprovalicarb"
+    ],
+    "IsomericSMILES": "CC1=CC=C(C=C1)C(C)NC(=O)[C@H](C(C)C)NC(=O)OC(C)C",
+    "INCHI": "InChI=1S/C18H28N2O3/c1-11(2)16(20-18(22)23-12(3)4)17(21)19-14(6)15-9-7-13(5)8-10-15/h7-12,14,16H,1-6H3,(H,19,21)(H,20,22)/t14?,16-/m0/s1",
+    "INCHIKEY": "NWUWYYSKZYIQAE-WMCAAGNKSA-N",
+    "Formula": "C18H28N2O3",
+    "MolecularWeight": {
+        "$numberDouble": "320.4"
+    },
+    "Description": "Iprovalicarb is a diastereoisomeric mixture comprising equimolar amounts of L-(R)- and L-(S)-iprovalicarb. It is a systemic fungicide, specific to oomycetes, used on potatoes and grape vines. It has a role as an environmental contaminant, a xenobiotic and an antifungal agrochemical. It is a diastereoisomeric mixture, a valinamide fungicide and a carbamate fungicide. It contains a L-(R)-iprovalicarb and a L-(S)-iprovalicarb.",
+    "XlogP": {
+        "$numberDouble": "3.7"
+    },
+    "Complexity": {
+        "$numberInt": "388"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The study evaluated the efficacy of Melody Duo 66.75 wp, a fungicide containing iprovalicarb and propineb, against pearl millet downy mildew (PMDM) caused by Sclerospora graminicola. The fungicide controlled all developmental stages of the pathogen, with iprovalicarb providing the protective effect. Melody Duo showed similar efficacy to metalaxyl-containing Apron 35 sd and Ridomil 72 MZ wp for protective activity and exceeded them for eradicant activity at comparable doses. Iprovalicarb exhibited excellent curative activity and was translocated acropetally, leading to the recovery of downy mildewed pearl millet plants after foliar treatments. The study recommends the use of Melody Duo 66.75 wp against pearl millet downy mildew disease.",
+            "reference": "Deepak, S. A., Oros, G., Niranjan Raj, S., Shetty, N. P., & Shetty, H. S. (2004). Iprovalicarb has potential for the control of downy mildew of pearl millet. Acta Phytopathologica et Entomologica Hungarica, 39(1-3), 55-69.",
+            "method": {
+                "Test Plant": "downy mildew",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Plants were 20-day-old and downy mildew infected for translocation studies.",
+                "Chemical Preparation": "Melody Duo 66.75 WP (iprovalicarb 3.5% + propineb 63.25%). Apron 35 SD (metalaxyl 35%)",
+                "Pesticide Application Details for the Plant": "Iprovalicarb dilutions of 10, 1, 0.1, 0.01 and 0.001% applied with brush. To leaf below node - for acropetal translocation. To leaf above node - for basipetal translocation",
+                "Other Information": "Intensity of downy mildew sporulation evaluated 1 and 2 days after application on a scale"
+            },
+            "result": "[{\"Days after application\": 1, \"Acropetal translocation intensity\": 1.116, \"Basipetal translocation intensity\": 354.3}, {\"Days after application\": 2, \"Acropetal translocation intensity\": 0.479, \"Basipetal translocation intensity\": 113.8}]"
+        }
+    ]
+}

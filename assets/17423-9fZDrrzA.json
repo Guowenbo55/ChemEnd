@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "66927105303528b49832d79c"
+    },
+    "CID": {
+        "$numberInt": "17423"
+    },
+    "Name": "Demephion-S",
+    "IUPACName": "1-dimethoxyphosphorylsulfanyl-2-methylsulfanylethane",
+    "CanonicalSMILES": "COP(=O)(OC)SCCSC",
+    "Synonyms": [
+        "Demephion-S",
+        "Isotinox",
+        "2587-90-8",
+        "1-dimethoxyphosphorylsulfanyl-2-methylsulfanylethane",
+        "Cebetox",
+        "Phosphorothioic acid",
+        "O,O-dimethyl S-(2-(methylthio)ethyl) ester",
+        "2678KW974N",
+        "Cymetox",
+        "Methyl demeton methyl",
+        "Caswell No. 369A",
+        "Demephion-S [ISO:BSI]",
+        "EINECS 219-971-9",
+        "EPA Pesticide Chemical Code 369200",
+        "BRN 1707090",
+        "O,O-Dimethyl S-(2-(methylthio)ethyl) phosphorothioate"
+    ],
+    "IsomericSMILES": "COP(=O)(OC)SCCSC",
+    "INCHI": "InChI=1S/C5H13O3PS2/c1-7-9(6,8-2)11-5-4-10-3/h4-5H2,1-3H3",
+    "INCHIKEY": "PSTWJANBJOHFQJ-UHFFFAOYSA-N",
+    "Formula": "C5H13O3PS2",
+    "MolecularWeight": {
+        "$numberDouble": "216.3"
+    },
+    "Description": "Demephion-S is an organothiophosphorus compound.",
+    "XlogP": {
+        "$numberDouble": "0.7"
+    },
+    "Complexity": {
+        "$numberInt": "134"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The insecticide mixture \"Systox,\" containing the isomers demeton-O and demeton-S along with an emulsifier, was first introduced by Farbenfabriken Bayer Company. Analysis showed it consisted of 18% demeton-O and 30% demeton-S, with the remainder being emulsifier. The emulsifier is crucial due to the low solubility of the isomers in water. Within plants, both isomers are transformed into other compounds, primarily metabolites that are effective against insects. The text also mentions comparative tests on the insecticidal effect of these compounds on aphids and the use of demeton-S containing 32P to study its uptake and distribution in plants. The emulsifier used in all solutions is described as Bayer 8139, a polyoxyethylene alkyl aryl phenol.",
+            "reference": "David, W. A. L. (1957). Insecticidal Action Studies with Demeton-O and Demeton-S. Bulletin of Entomological Research, 48(1), 91-107.",
+            "method": {
+                "Test Plant": "Broad beans (Vicia faba) infested with Aphis fabae Scop.",
+                "Apply Location": "root application",
+                "Plant Grown Condition": "Broad bean plants were grown in John Innes pasteurized potting compost or sand, and kept in a greenhouse where temperature fluctuated between 17-23\u00b0C during experiments. Plants were initially raised in another greenhouse which was open in hot weather and heated to prevent frost in cold weather.",
+                "Chemical Preparation": "Demeton-S radiolabeled solutions were used. The radioactivities were assayed using a Geiger-Muller liquid-type counter.",
+                "Pesticide Application Details for the Plant": "The insecticidal solution of demeton-S was applied to the plants, but the application method and rates are not explicitly mentioned.",
+                "Other Information": "After treatment, watering was controlled to prevent drainage from pots. Aphid populations were assessed as normal, declining, isolated or nil. Persistence was tested by attempting to reinfest treated plants on 5th or 10th day. Control untreated plants were maintained."
+            },
+            "result": "[{\"Concentration\": 0.001, \"Root (mg/kg)\": 15.0, \"Bean (mg/kg)\": 2.0, \"Stem (mg/kg)\": \"-\", \"Leaves (mg/kg)\": \"-\", \"Stem + Leaves (mg/kg)\": \"29.0\"}, {\"Concentration\": 0.0005, \"Root (mg/kg)\": 5.0, \"Bean (mg/kg)\": 0.4, \"Stem (mg/kg)\": \"2.8\", \"Leaves (mg/kg)\": \"10.7\", \"Stem + Leaves (mg/kg)\": \"-\"}, {\"Concentration\": 0.005, \"Root (mg/kg)\": 58.0, \"Bean (mg/kg)\": 38.0, \"Stem (mg/kg)\": \"-\", \"Leaves (mg/kg)\": \"-\", \"Stem + Leaves (mg/kg)\": \"121.0\"}, {\"Concentration\": 5e-05, \"Root (mg/kg)\": 0.6, \"Bean (mg/kg)\": 0.1, \"Stem (mg/kg)\": \"0.3\", \"Leaves (mg/kg)\": \"1.2\", \"Stem + Leaves (mg/kg)\": \"-\"}]"
+        }
+    ]
+}

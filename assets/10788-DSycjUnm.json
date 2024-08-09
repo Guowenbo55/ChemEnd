@@ -1,0 +1,69 @@
+{
+    "_id": {
+        "$oid": "6682e8e8c4e5dba5ffba27f0"
+    },
+    "CID": {
+        "$numberInt": "10788"
+    },
+    "Name": "DAZOMET",
+    "IUPACName": "3,5-dimethyl-1,3,5-thiadiazinane-2-thione",
+    "CanonicalSMILES": "CN1CN(C(=S)SC1)C",
+    "Synonyms": [
+        "DAZOMET",
+        "533-74-4",
+        "Basamid",
+        "3,5-Dimethyl-1,3,5-thiadiazinane-2-thione",
+        "Tiazon",
+        "DMTT",
+        "Thiazone",
+        "Mylone",
+        "Dimethylformocarbothialdine",
+        "Carbothialdin",
+        "Nefusan",
+        "Prezervit",
+        "Thiazon",
+        "Crag nemacide",
+        "Basamid-Puder"
+    ],
+    "IsomericSMILES": "CN1CN(C(=S)SC1)C",
+    "INCHI": "InChI=1S/C5H10N2S2/c1-6-3-7(2)5(8)9-4-6/h3-4H2,1-2H3",
+    "INCHIKEY": "QAYICIQNSGETAS-UHFFFAOYSA-N",
+    "Formula": "C5H10N2S2",
+    "MolecularWeight": {
+        "$numberDouble": "162.3"
+    },
+    "Description": "Dazomet is a dithiocarbamic ester that is 1,3,5-thiadiazinane with a thione moiety at position 2 and in which the hydrogens attached to the nitrogens are replaced by methyl groups. A fungicide, herbicide and nematicide, it is used prior to sowing or planting for the control of soil fungi, nematodes, bacteria and germinating weeds, and as fumigant for poultry litter and eggs to control Salmonella. It is a non-ozone-depleting alternative to methyl bromide. It has a role as a herbicide, a nematicide, an antibacterial agent and an antifungal agrochemical. It is a dithiocarbamic ester and a thiadiazinane.",
+    "XlogP": {
+        "$numberDouble": "1.3"
+    },
+    "Complexity": {
+        "$numberInt": "126"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Dazomet. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994) (4) Subramanian P et al; Environ Toxicol Chem 15: 503-13 (1996)",
+            "Value": "An estimated BCF of 2.4 was calculated for dazomet(SRC), using a log Kow of 0.63(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC). In addition, dazomet is rapidly hydrolyzed in both fresh and salt water(4) and is not expected to be present for sufficient periods of time for bioconcentration(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available at https://www.safe.nite.go.jp/englich/db.html as of Oct 29, 2008. (2) Tate RL, Alexander M; Soil Sci 118: 317-21 (1974) (3) Munnecke DE, Martin JP; Phytopathology 54: 941-5 (1964)",
+            "Value": "AEROBIC: Dazomet, present at 100 mg/L, reached 4% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1). The rate of disappearance of dazomet from both an unamended and sterilized Williamson silt loam was identical, indicating that the initial phase of degradation in soil occurred predominantly from nonenzymatic mechanisms(2). The rate of degradation of dazomet in soil, as measured by the release of methyl isothiocyanate, was found to be independent of the soil microorganisms present(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Dazomet. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)",
+            "Value": "log Kow = 0.63 at pH 7"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Dazomet. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of dazomet is estimated as 52(SRC), using a log Kow of 0.63(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that dazomet is expected to have high mobility in soil; however it is expected to hydrolyze(1) before extensive leaching occurs(SRC)."
+        }
+    ]
+}

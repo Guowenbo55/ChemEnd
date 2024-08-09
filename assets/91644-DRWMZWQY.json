@@ -1,0 +1,74 @@
+{
+    "_id": {
+        "$oid": "6692711b303528b49832d7f2"
+    },
+    "CID": {
+        "$numberInt": "91644"
+    },
+    "Name": "Pretilachlor",
+    "IUPACName": "2-chloro-N-(2,6-diethylphenyl)-N-(2-propoxyethyl)acetamide",
+    "CanonicalSMILES": "CCCOCCN(C1=C(C=CC=C1CC)CC)C(=O)CCl",
+    "Synonyms": [
+        "Pretilachlor",
+        "51218-49-6",
+        "2-Chloro-N-(2,6-diethylphenyl)-N-(2-propoxyethyl)acetamide",
+        "Solnet",
+        "Rifit",
+        "Acetamide",
+        "2-chloro-N-(2,6-diethylphenyl)-N-(2-propoxyethyl)-",
+        "\"2-Chloro-2,6-diethyl-N-(2-propoxyethyl)acetanilide\"",
+        "CHEBI:34931",
+        "Pretilachlore",
+        "617K7LM10D",
+        "Pretilachlor 10 microg/mL in Cyclohexane",
+        "Pretilachlor [BSI:ISO]",
+        "Pretilachlore [ISO-French]",
+        "CG 113",
+        "Pretilachlor [ISO]"
+    ],
+    "IsomericSMILES": "CCCOCCN(C1=C(C=CC=C1CC)CC)C(=O)CCl",
+    "INCHI": "InChI=1S/C17H26ClNO2/c1-4-11-21-12-10-19(16(20)13-18)17-14(5-2)8-7-9-15(17)6-3/h7-9H,4-6,10-13H2,1-3H3",
+    "INCHIKEY": "YLPGTOIOYRQOHV-UHFFFAOYSA-N",
+    "Formula": "C17H26ClNO2",
+    "MolecularWeight": {
+        "$numberDouble": "311.8"
+    },
+    "Description": "Pretilachlor is an anilide.",
+    "XlogP": {
+        "$numberDouble": "4.1"
+    },
+    "Complexity": {
+        "$numberInt": "287"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Pretilachlor is a selective herbicide used to control annual weeds in rice paddy fields. While effective against many weeds, some perennial weeds have shown tolerance to this herbicide. Research indicates that selectivity is not solely based on differential absorption but may also involve metabolism into water-soluble compounds, such as glutathione conjugates. Glutathione S-transferase, an enzyme catalyzing this conjugation, appears to play a role in pretilachlor selectivity. The study aimed to investigate absorption, metabolism, and translocation of pretilachlor in various plant species, including susceptible and tolerant weeds, to elucidate its selective mechanism.",
+            "reference": "\u6c88\u5229\u661f, \u677e\u672c\u5b8f, & \u77f3\u585a\u7693\u9020. (1990). Studies on the selective mechanism of pretilachlor. II. Absorption, translocation, and metabolism of pretilachlor. \u96d1\u8349\u7814\u7a76, 35(3), 245-252.",
+            "method": {
+                "Test Plant": "Four gramineous plant species (corn, rice, barnyardgrass, finger millet) and two perennial weeds of paddy fields (Sagittaria pygmaea, Cyperus serotinus)",
+                "Apply Location": "applied to roots in nutrient solution.",
+                "Plant Grown Condition": "Plants were grown in a growth chamber with day/night temperatures of 30\u00b0C (12 hr, 100 \u03bcE/m2/sec) and 22\u00b0C (12 hr), respectively.",
+                "Chemical Preparation": "Pretilachlor was used at concentrations ranging from 10-3 to 10-7 M in 0.5% acetone solution for treatment. For absorption and translocation studies, 14C-ring-labelled pretilachlor (specific activity 443 KBq/\u03bcmole) was used at 5 \u03bcM concentration containing radioactivity of 1350 KBq/L for seedling soaking and 3850 KBq/L for root soaking treatments.",
+                "Pesticide Application Details for the Plant": "For seed/tuber treatment, seeds/tubers were treated with pretilachlor solutions for 1 week.",
+                "Other Information": "For absorption/translocation, plant parts were sampled at time intervals, washed, extracted with methanol/ethanol, combusted, and radioactivity measured"
+            },
+            "result": "[{\"Plant\": \"Barnyard grass\", \"Hours after application\": 3, \"Absorption (x 10**5 dpm)\": 0.437}, {\"Plant\": \"Barnyard grass\", \"Hours after application\": 6, \"Absorption (x 10**5 dpm)\": 0.845}, {\"Plant\": \"Barnyard grass\", \"Hours after application\": 9, \"Absorption (x 10**5 dpm)\": 1.037}, {\"Plant\": \"Barnyard grass\", \"Hours after application\": 24, \"Absorption (x 10**5 dpm)\": 1.708}, {\"Plant\": \"Rice\", \"Hours after application\": 3, \"Absorption (x 10**5 dpm)\": 0.683}, {\"Plant\": \"Rice\", \"Hours after application\": 6, \"Absorption (x 10**5 dpm)\": 0.924}, {\"Plant\": \"Rice\", \"Hours after application\": 9, \"Absorption (x 10**5 dpm)\": 1.141}, {\"Plant\": \"Rice\", \"Hours after application\": 24, \"Absorption (x 10**5 dpm)\": 1.525}, {\"Plant\": \"Corn\", \"Hours after application\": 3, \"Absorption (x 10**5 dpm)\": 0.308}, {\"Plant\": \"Corn\", \"Hours after application\": 6, \"Absorption (x 10**5 dpm)\": 0.795}, {\"Plant\": \"Corn\", \"Hours after application\": 9, \"Absorption (x 10**5 dpm)\": 0.941}, {\"Plant\": \"Corn\", \"Hours after application\": 24, \"Absorption (x 10**5 dpm)\": 1.183}, {\"Plant\": \"Finger millet\", \"Hours after application\": 3, \"Absorption (x 10**5 dpm)\": 0.366}, {\"Plant\": \"Finger millet\", \"Hours after application\": 6, \"Absorption (x 10**5 dpm)\": 0.683}, {\"Plant\": \"Finger millet\", \"Hours after application\": 9, \"Absorption (x 10**5 dpm)\": 0.82}, {\"Plant\": \"Finger millet\", \"Hours after application\": 24, \"Absorption (x 10**5 dpm)\": 1.112}, {\"Plant\": \"S.pygamea\", \"Hours after application\": 3, \"Absorption (x 10**5 dpm)\": 0.395}, {\"Plant\": \"S.pygamea\", \"Hours after application\": 6, \"Absorption (x 10**5 dpm)\": 0.595}, {\"Plant\": \"S.pygamea\", \"Hours after application\": 9, \"Absorption (x 10**5 dpm)\": 0.72}, {\"Plant\": \"S.pygamea\", \"Hours after application\": 24, \"Absorption (x 10**5 dpm)\": 0.745}, {\"Plant\": \"C.serotinus\", \"Hours after application\": 3, \"Absorption (x 10**5 dpm)\": 0.304}, {\"Plant\": \"C.serotinus\", \"Hours after application\": 6, \"Absorption (x 10**5 dpm)\": 0.47}, {\"Plant\": \"C.serotinus\", \"Hours after application\": 9, \"Absorption (x 10**5 dpm)\": 0.679}, {\"Plant\": \"C.serotinus\", \"Hours after application\": 24, \"Absorption (x 10**5 dpm)\": 0.683}]"
+        },
+        {
+            "content": "This study was conducted to investigate the absorption and translocation of pretilachlor (2-chloro-2,6-diethyl-N-(x-propoxyethyl)-acetanilide) in plants and to evaluate its mobility in soil using labeled or non-labeled compound in the laboratory. Rice plants (Oryza sativa L.) were very tolerant to pretilachlor, while Echinochloa crus-galli (P. Beauv.) was completely controlled by pretilachlor at 60 g a.i./10a. At 120 g a.i./10a, the growth of Cyperus serotinus Rottb. and Sagittaria pygmaea Mig. was inhibited by 75% and 25%, respectively. The growth inhibition depended on the absorbed amount of C-pretilachlor. The greatest concentration of 14C was found in E. crus-galli, whereas the lowest was determined in rice plants. The rate of absorption and translocation in E. crus-galli was faster than in rice plants. Pretilachlor moved to 6 cm deep in sandy clay loam, clay loam, and loam soils, but to 10 cm in sandy loam soil. In the soils, the herbicide-treated layer was found in the 0 to 2 cm profile.",
+            "reference": "Ma, S. Y., Moon, Y. H., & Ryang, H. S. (1987). Movement of Herbicide Pretilachlor in Plants and Soils. Applied Biological Chemistry, 30(4), 351-356.",
+            "method": {
+                "Test Plant": "Rice (Korean japonica type - 'Gami' and Korean indica type - 'Tong-il'), barnyardgrass (Echinochloa crus-galli)",
+                "Apply Location": "14C-pretilachlor was applied to soil surface or nutrient solution.",
+                "Plant Grown Condition": "plants were grown in larger pots (1200 cm2) with 2.5 cm flooded soil depth. For hydroponic study, plants were grown in 25 mL nutrient solution in beakers.",
+                "Chemical Preparation": "Pretilachlor (99% purity) and 14C-ring labeled pretilachlor (specific activity 38.4 \u03bcCi/mg) were used. For bioassay, a 2% granular formulation was applied. For absorption studies, soil was treated with 14C-pretilachlor solution or nutrient solution had 14C-pretilachlor added directly.",
+                "Pesticide Application Details for the Plant": "For bioassay, granular pretilachlor at 30, 60, 120 g ai/10a was applied. For soil absorption study, 14C-pretilachlor solution was applied to soil surface. For hydroponic study, 14C-pretilachlor was added to nutrient solution.",
+                "Other Information": "plant parts were harvested at different times, combusted and radioactivity measured to quantify 14C-pretilachlor uptake and translocation."
+            },
+            "result": "[{\"Plant\": \"Rice\", \"Hours after application\": 12, \"Root (dpmg/mg)\": 435, \"Shoot (dpm/mg)\": 122}, {\"Plant\": \"Rice\", \"Hours after application\": 24, \"Root (dpmg/mg)\": 968, \"Shoot (dpm/mg)\": 271}, {\"Plant\": \"Rice\", \"Hours after application\": 48, \"Root (dpmg/mg)\": 1205, \"Shoot (dpm/mg)\": 340}, {\"Plant\": \"E.crus-galli\", \"Hours after application\": 12, \"Root (dpmg/mg)\": 884, \"Shoot (dpm/mg)\": 241}, {\"Plant\": \"E.crus-galli\", \"Hours after application\": 24, \"Root (dpmg/mg)\": 1956, \"Shoot (dpm/mg)\": 550}, {\"Plant\": \"E.crus-galli\", \"Hours after application\": 48, \"Root (dpmg/mg)\": 3047, \"Shoot (dpm/mg)\": 832}]"
+        }
+    ]
+}

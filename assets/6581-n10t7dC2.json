@@ -1,0 +1,86 @@
+{
+    "_id": {
+        "$oid": "6682e854c4e5dba5ffba250f"
+    },
+    "CID": {
+        "$numberInt": "6581"
+    },
+    "Name": "Acrylic acid",
+    "IUPACName": "prop-2-enoic acid",
+    "CanonicalSMILES": "C=CC(=O)O",
+    "Synonyms": [
+        "ACRYLIC ACID",
+        "2-Propenoic acid",
+        "79-10-7",
+        "prop-2-enoic acid",
+        "Propenoic acid",
+        "Vinylformic acid",
+        "Acroleic acid",
+        "Ethylenecarboxylic acid",
+        "Propene acid",
+        "ACRYLATE",
+        "Propenoate",
+        "Glacial acrylic acid",
+        "9003-01-4",
+        "Kyselina akrylova",
+        "Acrylic acid",
+        "glacial"
+    ],
+    "IsomericSMILES": "C=CC(=O)O",
+    "INCHI": "InChI=1S/C3H4O2/c1-2-3(4)5/h2H,1H2,(H,4,5)",
+    "INCHIKEY": "NIXOWILDQLNWCW-UHFFFAOYSA-N",
+    "Formula": "C3H4O2",
+    "MolecularWeight": {
+        "$numberDouble": "72.06"
+    },
+    "Description": "Acrylic acid is a alpha,beta-unsaturated monocarboxylic acid that is ethene substituted by a carboxy group. It has a role as a metabolite. It is a conjugate acid of an acrylate.",
+    "XlogP": {
+        "$numberDouble": "0.3"
+    },
+    "Complexity": {
+        "$numberInt": "55"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Dr. Duke's Phytochemical and Ethnobotanical Databases. Theobromine. Available from, as of Jun 30, 2017: https://phytochem.nal.usda.gov/phytochem/search",
+            "Value": "Acrylic acid was reported to occur in the pineapple plant (Ananas comosus; Bromeliaceae)(1)."
+        }
+    ],
+    "animal_concentrations": [
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V19 50 (1979)",
+            "Value": "Acrylic acid has been reported to occur naturally in following species of marine algae: 9 species of Chlorophyceae, 10 of Rhodophyceae and 11 of Phaeophyceae ... it has been found in rumen fluid of sheep .."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 5 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Jun 30, 2017: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for acrylic acid(SRC), using a log Kow of 0.35(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Jun 30, 2017: https://www.safe.nite.go.jp/english/db.html (2) Hamilton JD et al; Environ Technol 16: 715-27 (1995) (3) Nishikawa H et al; Kenkyu Hokoku-Gifu-Ken Kogyo Gijutsu Senta 11: 31-4 (1979)",
+            "Value": "AEROBIC: Acrylic acid, present at 100 mg/L, reached 67.8% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1). The BOD5/COD ratio for acrylic acid was determined to be 0.22, which is indicative of significant potential for biodegradability(2). A microbial degradation study of acrylic acid in soil indicated that acrylic acid, formed from hydrolysis of acrylamide added to soil, was totally degraded within 15 days of its formation(3)."
+        },
+        {
+            "References": "(1) Chou WL et al; Biotech Bioeng Symp 8: 391-414 (1978) (2) Speece RE; Environ Sci Technol 17: 416A-27A (1983) (3) Shelton DR, Tiedje JM; Appl Environ Microbiol 47: 850-7 (1984) (4) Qu M et al; J Environ Engineer 122: 749-57 (1996)",
+            "Value": "ANAEROBIC: In a 42 day anaerobic screening study using a sewage seed inoculum, 71% of acrylic acid was mineralized; after acclimation, 81% was degraded to carbon dioxide in 22 days(1). In another study, acrylic acid was toxic to unacclimated anaerobic acetate-enriched cultures; it was poorly utilized (21%) in a completely mixed anaerobic reactor with a 20 day hydraulic retention time and a 90 day acclimation period(1). A possible resolution between the conflicting results for anaerobic degradation is the observation that acetate cultures have to exhaust the acetic acid as a carbon and energy source before utilizing a cross-fed compound(1). Acrylic acid is amenable to anaerobic treatment(2) and in an anaerobic screening study utilizing 10% sludge from a secondary digester as an inoculum, acrylic acid was judged to be degradable with >75% of theoretical methane being produced in 8 weeks of incubation(3). Acrylic acid was degraded in acidogenic systems leading to formation of both acetate and propionate; it was observed that although acrylic acid can be efficiently removed anaerobically, accumulation of volatile acids, particularly propionate, can lead to process failures(4)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 5",
+            "Value": "log Kow = 0.35"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Staples CA et al; Chemosphere 40: 29-38 (2000) (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Riddick JA et al; Organic Solvents: Physical Properties and Methods of Purification. Techniques of Chemistry. 4th ed. New York, NY: Wiley-Interscience (1986) (4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "Koc values for acrylic acid have been reported as 6 in Washington clay/loam (29% sand, 42% silt, 29% clay, 3.39% organic carbon, pH 6.0), 9 in Canfield loam (45% sand, 42% silt, 13% clay, 4.58% organic carbon, pH 6.1), 29 in Ellsworth loam (35% sand, 40% silt, 25% clay, 1.42% organic carbon, pH 7.2), 137 in Tyner loamy sand (79% sand, 14% silt, 7% clay, 0.46% organic carbon, pH 5.2), and 33 in sandy loam sediment (53% sand, 28% silt, 19% clay, 1.23% organic carbon, pH 7.5)(1) According to a classification scheme(2), these Koc values suggest that acrylic acid is expected to have very high to high mobility in soil. The pKa of acrylic acid is 4.25(3), indicating that this compound will exist almost entirely in anion form in the environment and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(4)."
+        }
+    ]
+}

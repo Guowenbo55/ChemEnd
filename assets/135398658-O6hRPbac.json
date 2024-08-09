@@ -1,0 +1,91 @@
+{
+    "_id": {
+        "$oid": "6682e9dbc4e5dba5ffba2cbb"
+    },
+    "CID": {
+        "$numberInt": "135398658"
+    },
+    "Name": "FOLIC ACID",
+    "IUPACName": "(2S)-2-[[4-[(2-amino-4-oxo-3H-pteridin-6-yl)methylamino]benzoyl]amino]pentanedioic acid",
+    "CanonicalSMILES": "C1=CC(=CC=C1C(=O)NC(CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N",
+    "Synonyms": [
+        "folic acid",
+        "59-30-3",
+        "Pteroylglutamic acid",
+        "Folate",
+        "Vitamin M",
+        "Folacin",
+        "PteGlu",
+        "Folacid",
+        "Vitamin B9",
+        "Vitamin Bc",
+        "Folicet",
+        "Folvite",
+        "Incafolic",
+        "Folettes",
+        "Foliamin"
+    ],
+    "IsomericSMILES": "C1=CC(=CC=C1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N",
+    "INCHI": "InChI=1S/C19H19N7O6/c20-19-25-15-14(17(30)26-19)23-11(8-22-15)7-21-10-3-1-9(2-4-10)16(29)24-12(18(31)32)5-6-13(27)28/h1-4,8,12,21H,5-7H2,(H,24,29)(H,27,28)(H,31,32)(H3,20,22,25,26,30)/t12-/m0/s1",
+    "INCHIKEY": "OVBPIULPVIDEAO-LBPRGKRZSA-N",
+    "Formula": "C19H19N7O6",
+    "MolecularWeight": {
+        "$numberDouble": "441.4"
+    },
+    "Description": "Folic acid is an N-acyl-amino acid that is a form of the water-soluble vitamin B9. Its biologically active forms (tetrahydrofolate and others) are essential for nucleotide biosynthesis and homocysteine remethylation. It has a role as a human metabolite, a nutrient and a mouse metabolite. It is a member of folic acids and a N-acyl-amino acid. It is functionally related to a pteroic acid. It is a conjugate acid of a folate(2-).",
+    "XlogP": {
+        "$numberDouble": "-1.1"
+    },
+    "Complexity": {
+        "$numberInt": "767"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) O'Neil MJ, ed; The Merck Index. 13th ed Whitehouse Station, NJ: Merck and Co., Inc., p. 748 (2001)",
+            "Value": "Folic acid is considered a member of the vitamin B complex and it is a natural component of mushrooms, spinach, fresh fruit, and yeast(1)."
+        }
+    ],
+    "animal_concentrations": [
+        {
+            "References": "(1) O'Neil MJ, ed; The Merck Index. 13th ed Whitehouse Station, NJ: Merck and Co., Inc., p. 748 (2001)",
+            "Value": "Folic acid is considered a member of the vitamin B complex and it is a natural constituent of liver and kidney(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) O'Neil MJ, ed; The Merck Index. 13th ed Whitehouse Station, NJ: Merck and Co., Inc., p. 748 (2001) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 5-5 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3.2 was calculated for folic acid(SRC), using a water solubility of 1.6 mg/L(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "PMID:8661457",
+            "Value": "AEROBIC: Using a defined microbial mixture containing Enterobacter, Citrobacter, Pseudomonas, Klebsiella, Yersinia, and Serratia isolated from unsettled sewage from a primary treatment plant and a separate sewage inoculum, folic acid exhibited low biodegradation rates. BOD rates expressed in terms of O2 mg/L were 11.5X10+2 mg/L and 12.2X10+2 mg/L in the microbial mixture and sewage inoculum, respectively(1). This is 20% of the theoretical degradation products that were obtained using a COD of 6.3X10+3 mg/L(1). These studies indicate that folic acid is slow to biodegrade."
+        }
+    ],
+    "logP": [
+        {
+            "References": "US EPA; Estimation Programs Interface (EPI). ver. 3.11. U.S. EPA version for Windows. Washington, DC: U.S. EPA (2003). Available from, as of Dec 15, 2004: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm",
+            "Value": "log Kow = -2.81 /Estimated/"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Thomson.Micromedex. Drug Information for the  Health Care Professional. 24th ed. Volume 1.  Plus Updates. Content Reviewed by the United States Pharmacopeial Convention, Inc. Greenwood Village, CO. 2004., p. 1422",
+            "Value": "Folic acid, after conversion to tetrahydrofolic acid, is necessary for normal erythropoiesis, synthesis of purine and thymidylates, metabolism of amino acids such as glycine and methionine, and the metabolism of histidine."
+        },
+        {
+            "References": "Medical Economics Co; Physicians Desk Reference for Nutritional Supplements 1st ed. p.159 (2001)",
+            "Value": "The principal biochemical function of folates is the mediation of one-carbon transfer reactions. 5-Methyltetrahydrofolate donates a methyl group to homocystine, in the conversion of homocystine to L-methionine. ... 5,10-Methyltetrahydrofolate is regenerated from tetrahydrofolate via the enzyme serine hydroxymethyltransferase, a reaction, which in addition to producing 5,10-methyltetrahydrofolate, yields glycine. ... 5,10-methyltetrahydrofolate, supplies the one carbon group for the methylation of deoxyuridylic acid to form the DNA precursor thymidylic acid. This reaction is catalyzed by thymidylate synthase and the folate product of the reaction is dihydrofolate. Dihydrofolate is converted to tetrahydrofolate via the enzyme dihydrofolate reductase ..."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) O'Neil MJ, ed; The Merck Index. 13th ed Whitehouse Station, NJ: Merck and Co., Inc., p. 748 (2001) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-5 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Hilal SH et al; pp. 291-353 in Quantitative Treatments of Solute/Solvent Interactions: Theoretical and Computational Chemistry Vol. 1 NY, NY: Elsevier (1994). SPARC pKa/property server available at https://ibmlc2.chem.uga.edu/sparc/ as of Jan 25, 2005. (5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000) (6) Bollag JM et al; J Agric Food Chem 26: 1302-6 (1978) (7) Adrian P et al; Toxicol Environ Chem 20-21: 109-20 (1989)",
+            "Value": "The Koc of folic acid is estimated as 3,400(SRC), using a water solubility of 1.6 mg/L(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that folic acid is expected to have slight mobility in soil. The estimated pKas of the carboxylic acid moieties of folic acid are 3.5 and 4.5(4), indicating that this compound will primarily exist as an anion and generally do not absorb more strongly to organic carbon and clay than their neutral species(5). However, aromatic amines are expected to bind strongly to humus or organic matter in soils due to the high reactivity of the aromatic amino group(6,7), suggesting that mobility may be much lower in some soils(SRC)."
+        }
+    ]
+}

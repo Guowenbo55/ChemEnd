@@ -1,0 +1,72 @@
+{
+    "_id": {
+        "$oid": "6682e7ddc4e5dba5ffba22b9"
+    },
+    "CID": {
+        "$numberInt": "938"
+    },
+    "Name": "Nicotinic acid",
+    "IUPACName": "pyridine-3-carboxylic acid",
+    "CanonicalSMILES": "C1=CC(=CN=C1)C(=O)O",
+    "Synonyms": [
+        "nicotinic acid",
+        "niacin",
+        "59-67-6",
+        "Pyridine-3-carboxylic acid",
+        "3-pyridinecarboxylic acid",
+        "3-Carboxypyridine",
+        "wampocap",
+        "Niaspan",
+        "Acidum nicotinicum",
+        "nicolar",
+        "Apelagrin",
+        "Pellagrin",
+        "Akotin",
+        "Daskil",
+        "Efacin"
+    ],
+    "IsomericSMILES": "C1=CC(=CN=C1)C(=O)O",
+    "INCHI": "InChI=1S/C6H5NO2/c8-6(9)5-2-1-3-7-4-5/h1-4H,(H,8,9)",
+    "INCHIKEY": "PVNIIMVLHYAWGP-UHFFFAOYSA-N",
+    "Formula": "C6H5NO2",
+    "MolecularWeight": {
+        "$numberDouble": "123.11"
+    },
+    "Description": "Nicotinic acid is a pyridinemonocarboxylic acid that is pyridine in which the hydrogen at position 3 is replaced by a carboxy group. It has a role as an antidote, an antilipemic drug, a vasodilator agent, a metabolite, an EC 3.5.1.19 (nicotinamidase) inhibitor, an Escherichia coli metabolite, a mouse metabolite, a human urinary metabolite and a plant metabolite. It is a vitamin B3, a pyridinemonocarboxylic acid and a pyridine alkaloid. It is a conjugate acid of a nicotinate.",
+    "XlogP": {
+        "$numberDouble": "0.4"
+    },
+    "Complexity": {
+        "$numberInt": "114"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Dr. Duke's Phytochemical and Ethnobotanical Databases. Nicotinic Acid. Available from, as of June 18, 2018: https://phytochem.nal.usda.gov/phytochem/search",
+            "Value": "Nicotinic acid occurrence in plants(1).",
+            "Table": "[{'Genus species': 'Hypericum perforatum', 'Family': 'Clusiaceae', 'Common name(s)': \"Klamath Weed; Common St. Johnswort; Goatweed; Hypericum; St. John's-wort\", 'Part': 'Leaf', 'Concn (ppm)': '0.007-1200'}, {'Genus species': 'Glycyrrhiza glabra', 'Family': 'Fabaceae', 'Common name(s)': 'Licorice-Root; Licorice; Smooth Licorice; Commom Licorice', 'Part': 'Leaf', 'Concn (ppm)': '100-1000'}, {'Genus species': 'Papaver somniferum', 'Family': 'Papaveraceae', 'Common name(s)': 'Opium Poppy; Poppyseed Poppy', 'Part': 'Leaf', 'Concn (ppm)': '1000'}, {'Genus species': 'Chelidonium majus', 'Family': 'Papveraceae', 'Common name(s)': 'Celandine', 'Part': 'Plant', 'Concn (ppm)': '340'}, {'Genus species': 'Trigonella foenumgraecum', 'Family': 'Fabaceae', 'Common name(s)': 'Fenugreek; Alholva (Sp.); Greek Hay; Bockshornklee (Ger.); Greek Clover', 'Part': 'Seed', 'Concn (ppm)': '0.007-35'}, {'Genus species': 'Trachyspermum ammi', 'Family': 'Apiaceae', 'Common name(s)': 'Ajwan', 'Part': 'Fruit', 'Concn (ppm)': '21-23'}, {'Genus species': 'Amaranthus spinosus', 'Family': 'Amaranthaceae', 'Common name(s)': 'Spiny pigweed', 'Part': 'Leaf', 'Concn (ppm)': '3-19'}, {'Genus species': 'Pisum sativum', 'Family': 'Fabaceae', 'Common name(s)': 'Pea', 'Part': 'Seed; Sprout seedling', 'Concn (ppm)': '18; 18'}, {'Genus species': 'Panax quinquefolius', 'Family': 'Araliaceae', 'Common name(s)': 'American ginseng; Ginseng', 'Part': 'Plant', 'Concn (ppm)': '14-16'}, {'Genus species': 'Allium sativum var sativum', 'Family': 'Liliaceae', 'Common name(s)': 'Garlic', 'Part': 'Bulb', 'Concn (ppm)': '4.8'}, {'Genus species': 'Bacopa monnieri', 'Family': 'Scrophylariaceae', 'Common name(s)': 'Brahmi; Water hyssop', 'Part': 'Shoot', 'Concn (ppm)': '3'}, {'Genus species': 'Annona reticulata', 'Family': 'Anonaceae', 'Common name(s)': 'Custard apple', 'Part': 'Fruit', 'Concn (ppm)': '0.5-2.5'}, {'Genus species': 'Fragaria spp', 'Family': 'Rosaceae', 'Common name(s)': 'Strawberry', 'Part': 'Plant', 'Concn (ppm)': '2'}]"
+        }
+    ],
+    "logP": [
+        {
+            "References": "Sangster J; LOGKOW Databank. Sangster Research Lab., Montreal, Quebec, Canada (1993)",
+            "Value": "log Kow = 0.36"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:25320342",
+            "Value": "Prolonged niacin treatment elicits beneficial effects on the plasma lipid and lipoprotein profile that is associated with a protective CVD risk profile. Acute niacin treatment inhibits nonesterified fatty acid release from adipocytes and stimulates prostaglandin release from skin Langerhans cells, but the acute effects diminish upon prolonged treatment, while the beneficial effects remain. To gain insight in the prolonged effects of niacin on lipid metabolism in adipocytes, we used a mouse model with a human-like lipoprotein metabolism and drug response [female APOE*3-Leiden.CETP (apoE3 Leiden cholesteryl ester transfer protein) mice] treated with and without niacin for 15 weeks. The gene expression profile of gonadal white adipose tissue (gWAT) from niacin-treated mice showed an upregulation of the \"biosynthesis of unsaturated fatty acids\" pathway, which was corroborated by quantitative PCR and analysis of the FA ratios in gWAT. Also, adipocytes from niacin-treated mice secreted more of the PUFA DHA ex vivo. This resulted in an increased DHA/arachidonic acid (AA) ratio in the adipocyte FA secretion profile and in plasma of niacin-treated mice. Interestingly, the DHA metabolite 19,20-dihydroxy docosapentaenoic acid (19,20-diHDPA) was increased in plasma of niacin-treated mice. Both an increased DHA/AA ratio and increased 19,20-diHDPA are indicative for an anti-inflammatory profile and may indirectly contribute to the atheroprotective lipid and lipoprotein profile associated with prolonged niacin treatment."
+        },
+        {
+            "References": "PMID:23967184",
+            "Value": "/The study objective was/ to determine the effects of niacin on adiponectin and markers of adipose tissue inflammation in a mouse model of obesity. Male C57BL/6 mice were placed on a control or high-fat diet (HFD) and were maintained on such diets for the duration of the study. After 6 weeks on the control or high fat diets, vehicle or niacin treatments were initiated and maintained for 5 weeks. Identical studies were conducted concurrently in HCA2 (-/-) (niacin receptor(-/-)) mice. Niacin increased serum concentrations of the anti-inflammatory adipokine, adiponectin by 21% in HFD-fed wild-type mice, but had no effect on lean wild-type or lean or HFD-fed HCA2 (-/-) mice. Niacin increased adiponectin gene and protein expression in the HFD-fed wild-type mice only. The increases in adiponectin serum concentrations, gene and protein expression occurred independently of changes in expression of PPARgamma C/EBPalpha or SREBP-1c (key transcription factors known to positively regulate adiponectin gene transcription) in the adipose tissue. Further, niacin had no effect on adipose tissue expression of ERp44, Ero1-Lalpha, or DsbA-L (key ER chaperones involved in adiponectin production and secretion). However, niacin treatment attenuated HFD-induced increases in adipose tissue gene expression of MCP-1 and IL-1beta in the wild-type HFD-fed mice. Niacin also reduced the expression of the pro-inflammatory M1 macrophage marker CD11c in HFD-fed wild-type mice. Niacin treatment attenuates obesity-induced adipose tissue inflammation through increased adiponectin and anti-inflammatory cytokine expression and reduced pro-inflammatory cytokine expression in a niacin receptor-dependent manner."
+        },
+        {
+            "References": "PMID:12563315",
+            "Value": "Nicotinic acid (niacin), a vitamin of the B complex, has been used for almost 50 years as a lipid-lowering drug. The pharmacological effect of nicotinic acid requires doses that are much higher than those provided by a normal diet. Its primary action is to decrease lipolysis in adipose tissue by inhibiting hormone-sensitive triglyceride lipase. This anti-lipolytic effect of nicotinic acid involves the inhibition of cyclic adenosine monophosphate (cAMP) accumulation in adipose tissue through a G(i)-protein-mediated inhibition of adenylyl cyclase. A G-protein-coupled receptor for nicotinic acid has been proposed in adipocytes. Here, we show that the orphan G-protein-coupled receptor, \"protein upregulated in macrophages by interferon-gamma\" (mouse PUMA-G, human HM74), is highly expressed in adipose tissue and is a nicotinic acid receptor. Binding of nicotinic acid to PUMA-G or HM74 results in a G(i)-mediated decrease in cAMP levels. In mice lacking PUMA-G, the nicotinic acid-induced decrease in free fatty acid (FFA) and triglyceride plasma levels was abrogated, indicating that PUMA-G mediates the anti-lipolytic and lipid-lowering effects of nicotinic acid in vivo. The identification of the nicotinic acid receptor may be useful in the development of new drugs to treat dyslipidemia."
+        }
+    ]
+}

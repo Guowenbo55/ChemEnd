@@ -1,0 +1,89 @@
+{
+    "_id": {
+        "$oid": "6682e7d8c4e5dba5ffba229e"
+    },
+    "CID": {
+        "$numberInt": "681"
+    },
+    "Name": "DOPAMINE",
+    "IUPACName": "4-(2-aminoethyl)benzene-1,2-diol",
+    "CanonicalSMILES": "C1=CC(=C(C=C1CCN)O)O",
+    "Synonyms": [
+        "dopamine",
+        "4-(2-Aminoethyl)benzene-1,2-diol",
+        "51-61-6",
+        "3-Hydroxytyramine",
+        "Oxytyramine",
+        "Hydroxytyramin",
+        "Dopamin",
+        "3,4-dihydroxyphenethylamine",
+        "hydroxytyramine",
+        "intropin",
+        "4-(2-Aminoethyl)catechol",
+        "2-(3,4-dihydroxyphenyl)ethylamine",
+        "Dopaminum",
+        "Dophamine",
+        "4-(2-Aminoethyl)pyrocatechol"
+    ],
+    "IsomericSMILES": "C1=CC(=C(C=C1CCN)O)O",
+    "INCHI": "InChI=1S/C8H11NO2/c9-4-3-6-1-2-7(10)8(11)5-6/h1-2,5,10-11H,3-4,9H2",
+    "INCHIKEY": "VYFYYTLLBUKUHU-UHFFFAOYSA-N",
+    "Formula": "C8H11NO2",
+    "MolecularWeight": {
+        "$numberDouble": "153.18"
+    },
+    "Description": "Dopamine is catechol in which the hydrogen at position 4 is substituted by a 2-aminoethyl group. It has a role as a cardiotonic drug, a beta-adrenergic agonist, a dopaminergic agent, a sympathomimetic agent, a human metabolite, an Escherichia coli metabolite and a mouse metabolite. It is a conjugate base of a dopaminium(1+).",
+    "XlogP": {
+        "$numberDouble": "-1"
+    },
+    "Complexity": {
+        "$numberInt": "119"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 46",
+            "Value": "log Kow = -0.98"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Giridhar J et al. NY, NY: John Wiley &  Sons; Pharmaceuticals. Online  Posting Date: March 15, 2004.",
+            "Value": "Dopamine acts on cardiac beta-1-adrenergic receptors and has dosage-dependent effects on peripheral receptors. Dopamine receptors are activated at a low infusion rate (0.5-2 ug/kg/min). At a rate > 4-6 ug/kg/min, peripheral alpha-adrenergic receptors are activated, and vasoconstriction and increased afterload may occur."
+        },
+        {
+            "References": "Dart, R.C. (ed). Medical Toxicology. Third Edition, Lippincott Williams & Wilkins. Philadelphia, PA. 2004., p. 546",
+            "Value": "The effects that dopamine produces in the body are directly related to its actions on alpha, beta, and dopaminergic receptor sites. When these receptors are stimulated cyclic adenosine monophosphate levels increase, increasing calcium transport into the cell. The amount of dopamine determines which receptors are predominantly stimulated. At infusion rates more than 5 to 10 ug/kg/minute, alpha-receptor stimulation predominates, resulting in peripheral vasoconstriction, with a rise in blood pressure. At infusion rates greater than 20 ug/kg/minute, the vasoconstrictive effect can be greater than the beta1 effect."
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and   Gilman's The Pharmacological Basis of Therapeutics. 11th  ed.  New York, NY: McGraw-Hill, 2006., p. 249",
+            "Value": "The cardiovascular effects of dopamine are mediated by several distinct types of receptors that vary in their affinity for dopamine. At low concentrations, the primary interaction of dopamine is with vascular D1 receptors, especially in the renal, mesenteric, and coronary beds. By activating adenylyl cyclase and raising intracellular concentrations of cyclic AMP, D1 receptor stimulation leads to vasodilation. Infusion of low doses of dopamine causes an increase in glomerular filtration rate, renal blood flow, and Na+ excretion. Activation of D1 receptors on renal tubular cells decreases sodium transport by cAMP-dependent and cAMP-independent mechanisms. Increasing cAMP production in the proximal tubular cells and the medullary part of the thick ascending limb of the loop of Henle inhibits the Na+-H+ exchanger and the Na+,K+-ATPase pump. The renal tubular actions of dopamine that cause natriuresis may be augmented by the increase in renal blood flow and the small increase in the glomerular filtration rate that follow its administration. The resulting increase in hydrostatic pressure in the peritubular capillaries and reduction in oncotic pressure may contribute to diminished reabsorption of sodium by the proximal tubular cells."
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and   Gilman's The Pharmacological Basis of Therapeutics. 11th  ed.  New York, NY: McGraw-Hill, 2006., p. 249",
+            "Value": "At somewhat higher concentrations, dopamine exerts a positive inotropic effect on the myocardium, acting on beta1 adrenergic receptors. Dopamine also causes the release of norepinephrine from nerve terminals, which contributes to its effects on the heart. Tachycardia is less prominent during infusion of dopamine than of isoproterenol. Dopamine usually increases systolic blood pressure and pulse pressure and either has no effect on diastolic blood pressure or increases it slightly. Total peripheral resistance usually is unchanged when low or intermediate doses of dopamine are given, probably because of the ability of dopamine to reduce regional arterial resistance in some vascular beds, such as mesenteric and renal, while causing only minor increases in others. At high concentrations, dopamine activates vascular alpha1 receptors, leading to more general vasoconstriction."
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and   Gilman's The Pharmacological Basis of Therapeutics. 11th  ed.  New York, NY: McGraw-Hill, 2006., p. 530",
+            "Value": "The actions of dopamine in the brain are mediated by a family of dopamine receptor proteins. Two types of dopamine receptors were identified in the mammalian brain using pharmacological techniques: D1 receptors, which stimulate the synthesis of the intracellular second messenger cyclic AMP, and D2 receptors, which inhibit cyclic AMP synthesis as well as suppress Ca2+ currents and activate receptor-operated K+ currents. Application of molecular genetics to the study of dopamine receptors has revealed a more complex receptor situation than envisioned originally. At present, five distinct dopamine receptors are known. All the dopamine receptors are heptahelical G protein-coupled receptors (GPCRs)"
+        },
+        {
+            "References": "Osol, A. (ed.). Remington's Pharmaceutical Sciences. 16th ed. Easton, Pennsylvania: Mack Publishing Co., 1980., p. 816",
+            "Value": "Dopamine excites a receptor that is blocked by haloperidol; this receptor does not appear to be activated by other adrenergic stimulants."
+        },
+        {
+            "References": "Gilman, A. G., L. S. Goodman, and A. Gilman. (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 6th ed. New York: Macmillan Publishing Co., Inc. 1980., p. 1382",
+            "Value": "... Dopamine is a highly effective inhibitor /of prolactin secretion/ when instilled into the third ventricle or when applied to the isolated pituitary in vitro."
+        },
+        {
+            "References": "Mahar H; Patty's Toxicology CD-ROM (2005). NY, NY: John Wiley &  Sons; Cold Stress and Strain. Online  Posting Date: April 16, 2001.",
+            "Value": "During cold exposures there is an immediate release of catecholamines (e.g., norepinephrine, dopamine), which activate the sympathetic nervous system to reduce heat loss via peripheral vasoconstriction and shift substrate utilization toward fatty acid metabolism for heat production."
+        },
+        {
+            "References": "American Society of Health System Pharmacists; AHFS Drug Information 2009. Bethesda, MD. (2009), p. 1347",
+            "Value": "Dopamine stimulates adrenergic receptors of the sympathetic nervous system. The drug principally has a direct stimulatory effect on beta1-adrenergic receptors, but also appears to have an indirect effect by releasing norepinephrine from its storage sites. Dopamine also appears to act on specific dopaminergic receptors in the renal, mesenteric, coronary, and intracerebral vascular beds to cause vasodilation. The drug has little or no effect on beta2-adrenergic receptors. In IV doses of 0.5-2 ug/kg per minute, the drug acts predominantly on dopaminergic receptors; in IV doses of 2-10 ug/kg per minute, the drug also stimulates beta1-adrenergic receptors. In higher therapeutic doses, a-adrenergic receptors are stimulated and the net effect of the drug is the result of a-adrenergic, beta1-adrenergic, and dopaminergic stimulation. The main effects of dopamine depend on the dose administered. In low doses, cardiac stimulation and renal vascular dilation occur and in larger doses vasoconstriction occurs. It is believed that a-adrenergic effects result from inhibition of the production of cyclic adenosine-3',5'-monophosphate (cAMP) by inhibition of the enzyme adenyl cyclase, whereas beta-adrenergic effects result from stimulation of adenyl cyclase activity."
+        }
+    ]
+}

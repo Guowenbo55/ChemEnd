@@ -1,0 +1,189 @@
+{
+    "_id": {
+        "$oid": "6682e83fc4e5dba5ffba24a5"
+    },
+    "CID": {
+        "$numberInt": "6329"
+    },
+    "Name": "Methylamine",
+    "IUPACName": "methanamine",
+    "CanonicalSMILES": "CN",
+    "Synonyms": [
+        "METHYLAMINE",
+        "Methanamine",
+        "Aminomethane",
+        "Monomethylamine",
+        "74-89-5",
+        "Carbinamine",
+        "Mercurialin",
+        "N-Methylamine",
+        "Methylaminen",
+        "Metilamine",
+        "Metyloamina",
+        "Anhydrous Methylamine",
+        "Methylamine aq",
+        "monomethyl amine",
+        "MeNH2"
+    ],
+    "IsomericSMILES": "CN",
+    "INCHI": "InChI=1S/CH5N/c1-2/h2H2,1H3",
+    "INCHIKEY": "BAVYZALUXZFZLV-UHFFFAOYSA-N",
+    "Formula": "CH5N",
+    "MolecularWeight": {
+        "$numberDouble": "31.057"
+    },
+    "Description": "Methylamine is the simplest of the methylamines, consisting of ammonia bearing a single methyl substituent. It has a role as a mouse metabolite. It is a primary aliphatic amine, a one-carbon compound and a member of methylamines. It is a conjugate base of a methylammonium.",
+    "XlogP": {
+        "$numberDouble": "-0.7"
+    },
+    "Complexity": {
+        "$numberInt": "2"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) O'Neil MJ, ed; The Merck Index. 15th ed., Cambridge, UK: Royal Society of Chemistry, p. 1116 (2013)",
+            "Value": "Methylamine occurs in certain plants such as Mentha aquatica(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 3 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of October 3, 2018: https://www2.epa.gov/tsca-screening-tools/ (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for methylamine(SRC), using a log Kow of -0.57(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of October 2, 2018: https://www.safe.nite.go.jp/english/db.html (2) Schmidt-Bleek F et al; Chemosphere 11: 383-415 (1982)",
+            "Value": "AEROBIC: Methylamine, present at 100 mg/L, reached 84% of its Theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1). Methylamine biodegradation was 96% in the OECD screening test and 107% in the Closed Bottle test(2)."
+        },
+        {
+            "References": "(1) U.S. Coast Guard, Department of Transportation. CHRIS - Hazardous Chemical Data. Volume II. Washington, D.C.: U.S. Government Printing Office, 1984-5.NOAA; CAMEO Chemicals. Database of Hazardous Materials. Methylamine (74-89-5). Natl Ocean Atmos Admin, Off Resp Rest; NOAA Ocean Serv. Available from, as of Oct 2, 2018: https://cameochemicals.noaa.gov/",
+            "Value": "Biological oxygen demand (BOD) reported for methylamine: 67.8% of theoretical in 13 days(1)."
+        },
+        {
+            "References": "(1) King GM et al; Appl Environ Microbiol 45: 1848-53 (1983) (2) Hippe H et al; Proc Natl Acad Sci USA 76: 494-8 (1979)",
+            "Value": "ANAEROBIC: Mixed cultures from anaerobic marine sediments(1) and pure cultures of Methanosarcina barkeri(2) degraded methylamine under anaerobic conditions."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "PMID:590888",
+            "Value": "Methylamine concentrations in Bismarck herring were 2 mg/kg. Methylamine concentration in cod roe (egg-laden ovary) was 10.3 mg/kg(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 3",
+            "Value": "log Kow = -0.57"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 1",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Application of 0.1 mL of a 40% aqueous solution of methylamine to the skin of a guinea pig caused necrosis."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 697",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Eye effect: rabbit 40% solution, corneal damage after 50 mg 5 min. /From table/"
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 697",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Skin irritation: rabbit: 40% soln, 0.1 mL, necrosis /From table/"
+        },
+        {
+            "References": "PMID:7717853",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The present study describes the acute histopathological changes induced by methyl isocyanate (MIC) in the lungs of rats at 24 hr after a single exposure to varied concentrations/doses of MIC by inhalation and subcutaneous (sc) routes and also delineates the effects due to the hydrolytic derivatives of MIC, viz., methylamine (MA) and N,N'-dimethyl urea (DMU). MIC, either inhaled or administered sc, resulted in a wide range and extent of histopathological changes in the lungs, proportional to the exposure concentration/dose. The salient, effects of inhaled MIC are acute necrotizing bronchitis of the entire respiratory tract accompanied by varying degrees of confluent congestion, hyperemia and interstitial and intra-alveolar edema, while MIC administered sc led to prominent vascular endothelial damage, congestion and severe interstitial pneumonitis with apparently normal bronchial epithelium; and intra-alveolar edema only with the high dose. The only noteworthy lesion produced by MA and DMU (to some extent) was interstitial pneumonitis, suggesting their possible involvement in the subsequent inflammatory response of MIC."
+        },
+        {
+            "References": "PMID:7398269",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Liquified methylamine caused change in guinea pig skin color with swelling and purple hue within a few minutes, gray and necrotic in 48 hr. At 12 days fresh granulation tissue had appeared covered by flat epidermis with no hair follicles."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 606",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ A drop of 5% solution in water applied to animal eyes caused hemorrhages in the conjunctiva, superficial corneal opacities, and edema."
+        },
+        {
+            "References": "PMID:17339841",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ BACKGROUND AND PURPOSE: Methylamine is an endogenous aliphatic amine exhibiting anorexigenic properties in mice. The aim of this work was to show whether methylamine also modifies feeding behavior in rats and, if so, to identify the mediator(s) responsible for such effects. EXPERIMENTAL APPROACH: Microdialysis experiments with the probe inserted in the periventricular hypothalamic nucleus were carried out in 12 hr starved, freely moving rats. Collected perfusate samples following methylamine injection (i.c.v.) were analyzed for nitric oxide by chemiluminescence and for dopamine and 5-hydroxytryptamine content by HPLC. Kv1.6 potassium channel expression was reduced by antisense strategy and this decrease quantified by semi-quantitative RT-PCR analysis. KEY RESULTS: Methylamine showed biphasic dose-related effects on rat feeding. At doses of 15-30 ug per rat, it was hyperphagic whereas higher doses (60-80 ug) were hypophagic. Methylamine stimulated central nitric oxide (+115% vs. basal) following hyperphagic and dopamine release (60% over basal values) at hypophagic doses, respectively. Treatment with L-N(G)-nitro-L-arginine-methyl ester (i.c.v. 2 ug/10 uL) or with alpha-methyl-p-tyrosine (i.p. 100 mg/kg) before methylamine injection, reduced nitric oxide output and hyperphagia, or dopamine release and hypophagia respectively. Moreover, hypophagia and hyperphagia, as well as nitric oxide and dopamine release were significantly reduced by down-regulating brain Kv1.6 potassium channel expression. CONCLUSIONS AND IMPLICATIONS: The effects of methylamine on feeding depend on the hypothalamic release of nitric oxide and dopamine as a result of interaction at the Kv1.6 channels. The study of methylamine levels in the CNS may provide new perspectives on the physiopathology of alimentary behavior."
+        },
+        {
+            "References": "PMID:15100162",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Ammonia and methylamine (MET) are endogenous compounds increased during liver and renal failure, Alzheimer's disease, vascular dementia and diabetes, where they alter some neurobehavioral functions probably acting as potassium channel blockers. We have already described that potassium channel blockers including tetraethylammonium (TEA), ammonia and MET are hypophagic in mice. Antisense oligonucleotides (aODNs) against Shaker-like Kv1.1 gene abolished the effect of TEA but not of ammonia and MET. The central effects elicited in fasted mice by ammonia and MET were further studied. For MET, an ED(50) value 71.4 +/- 1.8 nmol mouse(-1) was calculated. The slope of the dose-response curves for these two compounds and the partial hypophagic effect elicited by ammonia indicated a different action mechanism for these amines. The aODNs pretreatments capable of temporarily reducing the expression of all seven known subtypes of Shaker-like gene or to inactivate specifically the Kv1.6 subtype abolished the hypophagic effect of MET but not that of ammonia. Reverse transcription-polymerase chain reaction, Western blot and immunohistochemical results indicate that a full expression in the brain of Kv1.6 is required only for the activity of MET, and confirms the different action mechanism of ammonia and MET."
+        },
+        {
+            "References": "PMID:11606329",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In starved mice, the anorectic activity of methylamine (MET) and benzylamine (BZ), both substrates of semicarbazide-sensitive benzylamine oxidases (Bz-SSAO), was compared with that of the potassium channel blocking agents charybdotoxin (ChTX), tetraethylammonium (TEA), gliquidone (GLI), ammonium chloride (NH4+) and of the anoressants amphetamine (AMPH) and nicotine (NIC). After i.c.v. administration, an approximate ranking order of potency was: ChTX >/= AMPH > NIC = TEA >/= GLI >/= MET > BZ > NH4+. Clorgyline (2.5 mg/kg ip) or deprenyl (10 mg/kg ip) potentiated the anorectic effect of i.c.v.-administered BZ, NIC and AMPH. The effect of TEA was increased only by deprenyl, while MET, NH4+, ChTX and GLI were not affected by either of the inhibitors. The Bz-SSAO inhibitors alpha-aminoguanidine (50 mg/kg ip), B24 (100 mg/kg ip) and MDL 72274 (2.5 mg/kg ip) potentiated the effect of ip, but not of i.c.v.-administered MET. Antisense oligodeoxyribonucleotides (aODN) to Kv1.1 potassium channels abolished the effect of BZ and TEA, but was ineffective in reducing the activity of MET and other compounds. These results suggest that MET is endowed with peculiar hypophagic effects at dosage levels that are not able to affect gross behavior in mice. The effect of MET, differently from BZ, seems unrelated to an increase in the central release of monoaminergic mediators, as well as to a Kv1.1 blocking activity. Through a reduction of the endogenous breakdown of MET, Bz-SSAO inhibitors enhance the central pharmacological activity of this amine."
+        },
+        {
+            "References": "PMID:7717854",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ This paper describes the long-term (subacute and chronic) histopathological effects in the lungs of rats subjected to a single exposure to methyl isocyanate (MIC) by both the inhalation and subcutaneous (sc) routes as well as the role of methylamine (MA) and N,N'-dimethyl-urea (DMU), the hydrolytic derivatives of MIC in eliciting the observed changes. At the subacute phase, the intraalveolar and interstitial edema were prominent only in the inhalation group as against the more pronounced inflammatory response in the sc route. With the progress of time the evolution of lesions appeared to be similar, culminating in the development of significant interstitial pneumonitis and fibrosis. MA, one of the hydrolytic derivatives of MIC, also caused interstitial pneumonitis progressing to fibrosis, albeit to a lesser extent than MIC, indicating its contribution to the long-term pulmonary damage. The diffuse interstitial pulmonary fibrosis observed at 10 weeks after a single exposure to MIC by either route is of greater significance in the context of the occurrence of pulmonary fibrosis in the late autopsies of Bhopal gas victims and also clinical sequelae in some of the survivors."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Four groups of male rats were exposed by nose-only inhalation 6 hours/day, 5 days/wk for 2 weeks at 0, 75, 250, or 750 ppm of methylamine vapor ... Rats were sacrificed either immediately following the 10th exposure or following a 14-day recovery period. Repeated exposure at 750 ppm was not well tolerated. Death occurred during both the exposure and recovery periods. Toxic effects at this concentration were severe body weight loss and clinical pathological changes that included increased serum cholesterol, increased alanine and aspartate aminotransferases activity, decreased serum protein (suggestive of liver damage), and hematopoietic abnormalities, e.g., increased red cell count, hematocrit, and hemoglobin in surviving animals during the recovery period. Histopathological effects at 250 and 750 ppm methylamine included necrosis and ulceration of the respiratory mucosa of the nasal turbinates and atrophy with regeneration of the olfactory mucosa. Exposure at 75 ppm produced only a marginal increase in the incidence of atrophy with regeneration of the olfactory mucosa that could have been a spurious increase in the background incidence of this lesion. There was incomplete reversal of the nasal lesions at all exposure levels following a 2-week recovery period. A no-observable-effect level (NOEL) for methylamine vapor was not determined under these study conditions."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ No data on the carcinogenicity of methylamine have been identified. The in vivo conversion of amines to nitrosamines were reported in the literature. Nitrosamines are known animal carcinogens, and there is evidence to suggest that nitrosamines have carcinogenic potential for humans. However, the extent of this conversion and relevance to human cancer have not yet been determined."
+        },
+        {
+            "References": "PMID:2002514",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ... the possible developmental toxicity of /monomethyl, dimethyl, and trimethylamine was studied/ using pregnant CD-1 mice and mouse embryo culture as experimental models. Intraperitoneal injections (daily from d 1 to 17 of gestation) of trimethylamine at 2.5 and 5 mmol/kg/d significantly (p < 0.001) decreased fetal body weight but not the placental weight or maternal body weight gain; however, 5 of 11 mice treated with 5 mmol/kg trimethylamine died. Similar treatment with dimethylamine and monomethylamine did not exert any obvious maternal or fetal effects. All three methylamines, when added to embryos in culture, caused dose-dependent decreases in size, DNA, RNA, and protein content as well as embryo survival; the order to toxicity was trimethylamine greater than dimethylamine greater than monomethylamine."
+        },
+        {
+            "References": "Kronauer K et al; Naunyn Schmiedebergs Arch Pharmacol 341 (Suppl): R21 (1990)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Isolated individual fertilized eggs from zebrafish (Brachydanio rerio) developed in vitro can be used to elucidate possible actions of hazardous agents on embryogenesis. This non-mammalian test system is easy to handle and allows one to obtain reproducible results within 4-6 days. In the present study, the following were the most important indicators of development at different stages during hatching that were checked: epiboly, yolk clot on primitive mouth (stage (st): 16), irregular muscle movement (st: 20), tail bud separation from the yolk (st: 20), heart beats: 200/min (st: 24), hatching of the embryo (st: 25), 34 somites (st: 25), delay of development. Normal development of each parameter (as %) was plotted against the concentrations of each agent applied in the incubation media (0.2 - 15 mg/mL), and the areas under the curves (AUC, 10(-2) x mg/mL) were calculated. The AUCs of dimethylformamide (DMF) were compared to those of N-methylformamide (NMF) and formamide (FA). Epiboly, muscle movement, and hatching of the embryo were more disturbed by DMF than by NMF or FA. Changes of the other parameters (yolk clot on primitive mouth, tail bud separation from the yolk, heart beats: 200/min, 34 somites, delay of development) were more pronounced after application of NMF than of DMF or FA. In total, the order of activity was: NMF greater than DMF greater than FA. Methylamine (MA), dimethylamine (DMA), and diethylamine (DEA), 0.1 - 5 mg/mL incubation media (neutralized by HCl to pH 7.5), caused mortality of most of eggs by cytotoxic effects essentially at stage 24. Malformations were not observed. The order of activity was: DEA greater than MA greater than DMA: this has been shown by the rates of embryonic mortality: DEA - 60% at 0.5 mg/mL, MA - 60% at 2 mg/mL, DMA - 40% at 2 mg/mL incubation media. The results show that the fish egg model allows the researcher to easily differentiate types of embryogenesis lesions caused by chemicals."
+        },
+        {
+            "References": "PMID:17339841",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ ... Methylamine is an endogenous aliphatic amine exhibiting anorexigenic properties in mice. The aim of this work was to show whether methylamine also modifies feeding behavior in rats and, if so, to identify the mediator(s) responsible for such effects. ... Methylamine showed biphasic dose-related effects on rat feeding. At doses of 15-30 ug/rat, it was hyperphagic whereas higher doses (60-80 ug) were hypophagic. Methylamine stimulated central nitric oxide (+115% vs. basal) following hyperphagic and dopamine release (60% over basal values) at hypophagic doses, respectively. Treatment with L-N(G)-nitro-L-arginine-methyl ester ...  or  ... alpha-methyl-p-tyrosine ...  before methylamine injection, reduced nitric oxide output and hyperphagia, or dopamine release and hypophagia respectively. Moreover, hypophagia and hyperphagia, as well as nitric oxide and dopamine release were significantly reduced by down-regulating brain Kv1.6 potassium channel expression. /The authors concluded that/ the effects of methylamine on feeding depend on the hypothalamic release of nitric oxide and dopamine as a result of interaction at the Kv1.6 channels..."
+        },
+        {
+            "References": "PMID:16049393",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Increasing evidence suggests that not only ammonia, but also its alkyl-derivatives, including methylamine, may modulate neuron firing. Methylamine occurs endogenously from amine catabolism and its tissue levels increase in some pathological conditions, including diabetes. Interestingly, methylamine and ammonia levels are reciprocally controlled by a semicarbazide-sensitive amine oxidase activity that deaminates methylamine to formaldehyde with the production of ammonia and hydrogen peroxide. ...  Methylamine also targets the voltage-operated neuronal potassium channels, probably inducing release of neurotransmitter(s). From this interaction it has been observed that methylamine is 1) hypophagic in mice without producing amphetamine-like effects and 2) a stimulator of nitric oxide release from rat hypothalamus. Methylamine hypophagia is also maintained in genetically obese and diabetic mice ..."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/GENOTOXICITY/ Methylamine ... was  positive in a mouse lymphoma cell assay."
+        },
+        {
+            "References": "Mortelmans K et al; Environ Mutagen 8:1-119 (1986)",
+            "Value": "/GENOTOXICITY/ Monomethylamine was tested for mutagenicity in the Salmonella/microsome preincubation assay using the standard protocol approved by the National Toxicology Program. Monomethylamine was tested at doses of 0.033, 0.10, 0.33, 1.0, 3.3, and 10 mg/plate in as many as 5 Salmonella typhimurium strains (TA1535, TA1537, TA97, TA98, and TA100) in the presence and absence of rat or hamster liver S-9. Monomethylamine was negative in these tests and the highest ineffective dose tested without toxicity in any S typhimurium strain was 3.3 mg/plate. All cultures at the 10 mg/plate dose exhibited total clearing of the background lawn."
+        },
+        {
+            "References": "PMID:1377783",
+            "Value": "/GENOTOXICITY/ Methyl isocyanate (MIC) in aqueous solution forms methylamine (MA) and N,N'-dimethylurea (DMU). MA in buffered system further converts into its salt form, methylamine hydrochloride (MAH). Therefore, MAH and DMU were evaluated for their mutagenic activity in the in vitro Ames Salmonella/microsome mutagenicity test. The liquid preincubation protocol was followed, using tester strains TA98, TA100 and TA104 of Salmonella typhimurium, in the presence of 0, 5, 15 and 30% Aroclor 1254-induced rat liver S9 mixture. DMU and MAH did not induce a mutagenic response in any of the tester strains, both in the presence and in the absence of S9 mixture. ... /Methylamine hydrochloride/"
+        },
+        {
+            "References": "PMID:12213997",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ ... Cultured rat vascular smooth muscle cells (VSMC) were treated with methylamine (MA (10-5 to 1 M). In some cultures, semicarbazide-sensitive amine oxidase (SSAO) was selectively inhibited with semicarbazide or MDL-72145 [(E)-2-(3,4-dimethoxyphenyl)-3-fluoroallylamine]. Cytotoxicity was measured via MTT, vital dye exclusion, and clonogenic assays. MA proved to be toxic to VSMC only at relatively high concentrations (LC(50) of 0.1 M). The inhibition of SSAO with semicarbazide or MDL-72145 did not increase MA toxicity, suggesting that the production of formaldehyde via tissue-bound, SSAO-mediated MA metabolism does not play a role in the minimal toxicity observed in isolated rat VSMC. The omission of fetal calf serum (FCS), which contains high SSAO activity, from media similarly showed little effect on cytotoxicity."
+        },
+        {
+            "References": "PMID:8761482",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Lung lamellar bodies, the storage organelles for lung surfactant phosphatidylcholine (PC), maintain an acidic pH that can be increased with weak bases. This study investigates the effect of a weak base, methylamine, on the pH in lamellar bodies and on the trafficking and packaging of newly synthesized PC in lamellar bodies. Methylamine increased the pH of isolated lung lamellar bodies and of lamellar bodies in intact cells. Metabolic labelling of isolated type II cells with [methyl-3H]choline showed that although methylamine (2.5-10 mM) did not alter the labelling of cellular or microsomal PC and disaturated PC, it decreased the labelling of the PC and disaturated PC in lamellar bodies. The packaging of PC in lamellar bodies (the specific activities ratio between the PC in lamellar bodies and the microsomal PC) also decreased in a time- and concentration-dependent manner. The cellular synthesis of PC or its packaging into lamellar bodies was unaltered by brefeldin A, suggesting that the Golgi was not involved in PC packaging."
+        },
+        {
+            "References": "PMID:7225374",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Incubation of rabbit reticulocytes with methylamine was used in attempt to incr intracellular pH. Transferrin-bound iron uptake by reticulocytes was inhibited in a concn-dependent manner, but a small incr in cellular uptake of transferrin was produced. Iron release from transferrin apparently occurs as result of protonation of the transferrin within intracellular vesicles. Thus, in rabbit reticulocytes incubated with methylamine, the methylamine would inhibit iron release by neutralizing H+ within the vesicles."
+        },
+        {
+            "References": "Patty, F. (ed.). Industrial Hygiene and Toxicology: Volume II: Toxicology. 2nd ed. New York: Interscience Publishers, 1963., p. 2052",
+            "Value": "/OTHER TOXICITY INFORMATION/ A dose of 0.3-0.4 g administered iv to rabbits was not fatal. A dose of 2 g administered sc was also not fatal. /From table/"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Golovnya RV et al; USSR Acad Med Sci 1982 pp. 327-35 (1982)",
+            "Value": "SOIL: Methylamine was found in the soil (loam) of the Moscow (USSR) region at an unspecified concentration(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) von Oepen B et al; Chemosphere 22: 285-304 (1991) (2) Swann RL et al; Res Rev 85: 23 (1983) (3) Wang XC, Lee C; Mar Chem 1-23 (1993)",
+            "Value": "No detectable sorption of methylamine was observed on a Podzol soil (4.85% organic C)(1). A Koc value of 389 was observed on Alfisol agricultural soil (1.25% organic C)(1). A Koc value of 449 was observed on a subliminic soil, a sediment of Lake Constance (1.58% organic C)(1). According to a classification scheme(2), these Koc values suggest that methylamine is expected to have moderate mobility in soil. Adsorption (desorption) partition coefficients for methylamine on montmorillonite and sediment were 7.0 (9.3) mL/g and 3.5 (5.4) mL/g, respectively; at high concentrations, approximately 20% of the methylamine absorbed onto montmorillonite was not desorbed(3). An adsorption partition coefficient of <1 was observed on kaolinite(3)."
+        }
+    ]
+}

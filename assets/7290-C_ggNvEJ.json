@@ -1,0 +1,78 @@
+{
+    "_id": {
+        "$oid": "6682e875c4e5dba5ffba25b2"
+    },
+    "CID": {
+        "$numberInt": "7290"
+    },
+    "Name": "3-CHLORO-1,2-DIHYDROXYPROPANE",
+    "IUPACName": "3-chloropropane-1,2-diol",
+    "CanonicalSMILES": "C(C(CCl)O)O",
+    "Synonyms": [
+        "3-Chloro-1,2-propanediol",
+        "96-24-2",
+        "3-Chloropropane-1,2-diol",
+        "alpha-Chlorohydrin",
+        "Chlorodeoxyglycerol",
+        "Epibloc",
+        "Glycerol alpha-monochlorohydrin",
+        "1,2-Propanediol",
+        "3-chloro-",
+        "Chloropropanediol",
+        "a-chlorohydrin",
+        "3-Chloropropanediol",
+        "3-Chloropropylene glycol",
+        "Glycerol chlorohydrin",
+        "Glyceryl chloride",
+        "1-Chloro-2,3-dihydroxypropane"
+    ],
+    "IsomericSMILES": "C(C(CCl)O)O",
+    "INCHI": "InChI=1S/C3H7ClO2/c4-1-3(6)2-5/h3,5-6H,1-2H2",
+    "INCHIKEY": "SSZWWUDQMAHNAQ-UHFFFAOYSA-N",
+    "Formula": "C3H7ClO2",
+    "MolecularWeight": {
+        "$numberDouble": "110.54"
+    },
+    "Description": "3-chloropropane-1,2-diol is a chloropropane-1,2-diol that is propane-1,2-diol substituted by a chloro group at position 3.",
+    "XlogP": {
+        "$numberDouble": "-0.5"
+    },
+    "Complexity": {
+        "$numberInt": "32"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Meylan WM, Howard PH; J Pharm Sci 84: 83-92 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF value of 0.2 was calculated for 3-chloro-1,2-dihydroxypropane(SRC), using an estimated log Kow of -0.53(1,SRC) and a recommended regression-derived equation(2). According to a classification scheme(3), this BCF value suggests that bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Biodegradation and Bioaccumulation Data of Existing Chemicals Based on the CSCL Japan. Japan Chemical Industry Ecology-Toxicology and Information Center. ISBN #4-89074-101-1 (1992) (2) Bridie AL et al; Water Res 13: 627-30 (1979) (3) Niemi GJ et al; Environ Toxicol Chem 6: 515-27 (1987) (4) Chou WL et al; Biotechnol Bioengineer Symp 8: 391-414 (1978)",
+            "Value": "In an aerobic aqueous screening test, 3-chloro-1,2-dihydroxypropane, incubated for 2 weeks with a sludge inoculum, reached 68% of the theoretical BOD(1). 3-Chloro-1,2-dihydroxypropane, seeded with a wastewater effluent, reached 1% of the theoretical BOD in 5 days(2); when retested using an acclimated culture, 0% of the theoretical BOD was reached in 5 days(3). 3-Chloro-1,2-dihydroxypropane showed poor acclimation, with only 26% utilization, following a 90 day acclimation period in an anaerobic mixed reactor(4)."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Nomeir AA et al; J Toxicol Environ Hlth 44 (2): 203-17 (1995)",
+            "Value": "Glycidol ... an industrial chemical, has been showed to be a reproductive toxicant in short term studies and a carcinogen in rats and mice in /carcinogenicity/ studies. The reproductive toxicity of glycidol was believed to result from its conversion to alpha-chlorohydrin by the action of hydrochloric acid in the stomach. The comparative disposition of glycidol was investigated in rats following oral or iv admin at doses of 37.5 and 75 mg/kg. ... Approx 87-92% of the dose was absorbed from the gastrointestinal tract of the rat. (14)C-Glycidol equivalents were eliminated in urine (40-48% of the dose in 72 hr), feces (5-12%), and exhaled as CO2 (26-32%). At both doses, 9-12% and 7-8% (estimated) of the dose remained in tissues at 24 or 72 hr following dosing, respectively. In general, the concn of glycidol equivalents in tissues were proportional to the dose. The highest concn of radioactivity were /noted/ in the blood cells, thyroid, liver, kidney, spleen, and the lowest in adipose tissue, skeletal muscle, and plasma. The pattern of distribution of radioactivity in tissues was similar for both the iv and oral routes. The total recovery of radioactivity ranged from 87 to 91% of the dose. Urinary radioactivity was resolved by HPLC analysis into 15 metabolites. There were one major (14-21% of the dose) and four lesser metabolites (each representing 2-8%); the others were minor, each representing 1% or less of the dose. In general, the urinary metabolic profile was similar to iv or oral admin of the two doses studied. ..."
+        },
+        {
+            "References": "Luo S et al; Acta Acad Med Hubei 12 (2): 120-5 (1991)",
+            "Value": "The ultrastructural changes of each epididymal segment of the rat were brought about by alpha-chlorohydrin (20 mg/kg/day, for successive five times). The alteration appeared in proper order from initial segment to caudal segment, and the digression in profundity and range got less serious as the distance to the testis increased. This alteration disappeared gradually as the time went by. The recovery process also began at initial segment but its cycle was shortened gradually from initial segment to caudal segment. These results showed the factor that caused the above mentioned processes stemmed from the testis chiefly and was in epididymal plasma. It affected each epididymal segment along the epididymal lumen and to the injury of the epididymal epithelium; at the same time, the concentration of the factor became more decreased. The relationship between the antifertility effect of alpha-chlorohydrin and the ... ultrastructural changes of the epididymis and the mechanism of the double effects depending on dose of alpha-chlorohydrin were discussed."
+        },
+        {
+            "References": "PMID:8196516",
+            "Value": "An acute phase of severe hepatic necrosis induced by dichloropropanol was examined immunohistochemically and ultrastructurally, in order to study chronological changes of sinusoidal morphology during acute hepatic injury. Male wistar rats were injected with 1,3-dichloro-2-propanol (DC2P) and sacrificed at various intervals after the injections. DC2P injected rats showed zonal necrosis of the centrilobular space with a peak from 24 to 48 hr after the injection. Destruction of sinusoidal linings appeared at 4 hr, and was gradually aggravated along the advancing hepatocytic necrosis. Monocytic influx into the necrotic areas was initiated at 6 hr. At 48 hr, collapsed centrilobular spaces showed a loss of most sinusoidal structures with active phagocytosis of macrophages, proliferation of perisinusoidal cells and accumulation of collagen fibrils. At 72 hr, there were many regenerating sinusoidal structures, which were composed of rather thick and less fenestrated endothelium and underlying multilayered processes of mesenchymal cells, along the regenerating hepatocytes. In these areas, occasional junctions between regenerating hepatocytes and mesenchymal cells were /observed/. Reconstruction of sinusoidal linings was closely related to the hepatocytic regeneration, and a hepatocytic mesenchymal interaction might participate in this morphodynamic course of the sinusoidal reconstruction."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 28: 459-65 (1992) (2) Swann RL et al; Res Rev 85: 23 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc for 3-chloro-1,2-dihydroxypropane can be estimated to be about 1(SRC). According to a recommended classification scheme(3), this estimated Koc value suggests that 3-chloro-1,2-dihydroxypropane has very high mobility in soil(SRC)."
+        }
+    ]
+}

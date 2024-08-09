@@ -1,0 +1,109 @@
+{
+    "_id": {
+        "$oid": "6682e910c4e5dba5ffba28bc"
+    },
+    "CID": {
+        "$numberInt": "13904"
+    },
+    "Name": "DESMETRYNE",
+    "IUPACName": "4-N-methyl-6-methylsulfanyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",
+    "CanonicalSMILES": "CC(C)NC1=NC(=NC(=N1)NC)SC",
+    "Synonyms": [
+        "Desmetryn",
+        "1014-69-3",
+        "Norametryne",
+        "Semeron",
+        "Samuron",
+        "Topusyn",
+        "DESMETRYNE",
+        "Semeron 250",
+        "GS 34360",
+        "36FZV8OVJS",
+        "G 34360",
+        "s-Triazine",
+        "2-(isopropylamino)-4-(methylamino)-6-(methylthio)-",
+        "\"1,3,5-Triazine-2,4-diamine",
+        "N-methyl-N-(1-methylethyl)-6-(methylthio)-\"",
+        "2-Methylthio-4-isopropylamino-6-methylamino-s-triazine",
+        "Methylmercapto-4-isopropylamino-6-methylamino-s-triazine"
+    ],
+    "IsomericSMILES": "CC(C)NC1=NC(=NC(=N1)NC)SC",
+    "INCHI": "InChI=1S/C8H15N5S/c1-5(2)10-7-11-6(9-3)12-8(13-7)14-4/h5H,1-4H3,(H2,9,10,11,12,13)",
+    "INCHIKEY": "HCRWJJJUKUVORR-UHFFFAOYSA-N",
+    "Formula": "C8H15N5S",
+    "MolecularWeight": {
+        "$numberDouble": "213.31"
+    },
+    "Description": "Desmetryn is a member of 1,3,5-triazines.",
+    "XlogP": {
+        "$numberDouble": "2.7"
+    },
+    "Complexity": {
+        "$numberInt": "166"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Tomlin CDS, ed. Desmetryne (1014-69-3). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council. (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 6.5 was calculated in fish for desmetryne(SRC), using a log Kow of 2.38(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "White-Stevens, R. (ed.). Pesticides in the Environment: Volume 3. New York: Marcel Dekker, Inc., 1977., p. 90",
+            "Value": "MOST OF THE TRIAZINES ARE VERY STABLE IN SOIL & DISSIPATE SLOWLY THROUGH ... DEGRADATION OF MOLECULAR SIDE CHAINS BY SOIL MICROORGANISMS. /TRIAZINES/"
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Hendriks AJ et al; Environ Toxicol Chem 17: 1885-98 (1998)",
+            "Value": "Desmetryne was reported at <5.0 ug/kg wet weight in zebra mussels (Dreissena polymorpha) and eels (Anguilla anguilla) from the Rhine-Meuse river delta in The Netherlands(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Tomlin CDS, ed. Desmetryne (1014-69-3). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council.",
+            "Value": "log Kow = 2.38"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-334",
+            "Value": "Herbicidal action is due to inhibition of Hill reaction necessary for plant respiration. The resistance of a plant to a particular triazine depends on its ability to detoxify the cmpd under field conditions. /Prometon/"
+        },
+        {
+            "References": "Menzie, C.M. Metabolism of Pesticides. U.S. Department of the Interior, Bureau of Sport Fisheries and Wildlife, Publication 127. Washington, DC: U.S. Government Printing Office, 1969., p. 312",
+            "Value": "Since chlorosis is the first sign of the effect of triazines on plants, interference with carbon dioxide assimilation & sugar formation can be expected. Studies showing that Hill reaction is inhibited confirmed this. /Triazines/"
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the Threshold Limit Values and Biological Exposure Indices. 5th ed. Cincinnati, OH: American Conference of Governmental Industrial Hygienists, 1986., p. 44",
+            "Value": "... Their chief mode of action appears to involve carbohydrate metabolism. The chlorinated s-triazines inhibit starch accumulation by blocking the prodn of sugars. Similar behavior has been shown for the methoxy & methylthio-s-triazines. It has been reported that the s-triazines affect the tricarboxylic acid cycle with activation of phospho-phenyl pyruvate-carboxylase causing the disappearance of sucrose & glyceric acid with the formation of aspartic & malic acids. /s-Triazines/"
+        },
+        {
+            "References": "Klaassen, C.D. (ed). Casarett and Doull's Toxicology. The  Basic Science of Poisons. 6th ed. New York, NY:  McGraw-Hill, 2001., p. 791",
+            "Value": "Inhibition of photosynthesis by disruption of light reactions and blockade of electron transport is the mechanism of action of the 1,3,5-triazine herbicides. /1,3,5-Triazines, from table/"
+        },
+        {
+            "References": "Scarponi L; Weed Sci 34 (6): 807-10 (1986)",
+            "Value": "The influence of some s-triazine herbicides on acid phosphatase and phosphodiesterase from corn (Zea mays) roots were investigated. Terbutryn stimulated both phosphatases, whereas prometryn stimulated only the phosphodiesterase. Atrazine, desmetryn, prometon, and simazine inhibited acid phosphatase. No effect was exerted by ametryn. The enzyme assays and the kinetic parameters demonstrated that the interferences observed were due to an action on the synthesis of one or both enzymes rather than on the enzyme reaction. The types of the N-alkyl and the chlorine-substituent groups in the structures of the s-triazines tested appear important in determining the degree if the interference."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Tomlin CDS, ed. Desmetryne (1014-69-3). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council. (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Senesi N, Testini C; Geoderma 28: 129-46 (1982) (5) Senesi N, Testini C; Chemosphere 13: 461-8 (1984)",
+            "Value": "The Koc of desmetryne is estimated as 470(SRC), using a log Kow of 2.38(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that desmetryne is expected to have moderate mobility in soil. Evidence has been reported that indicates that the basicity of s-triazine herbicides, such as desmetryne, is not the main factor governing adsorption to soil humic acids(4). It has been shown that the ability of s-triazine herbicides to act as electron donors to electron acceptor quinone-like units of humic acids plays an important role in the adsorption(5)."
+        },
+        {
+            "References": "Doull, J., C.D.Klassen, and M.D. Amdur (eds.). Casarett and Doull's Toxicology. 3rd ed., New York: Macmillan Co., Inc., 1986., p. 833",
+            "Value": "Adsorption of triazines through an exchange process to organic matter & clay minerals is dependent on the pH of the soln & the acidity of the adsorbent surface. Hydrogen bonding & hydrophobic bonding are other mechanisms by which soil organic matter adsorbs triazine herbicides, especially at higher pH levels. ... Transfer from soil to water occurs in soln & in sediments. /Triazine herbicides/"
+        }
+    ],
+    "plant_translocation": [
+        {
+            "References": "Yanase, D., & Andoh, A. (1992). Translocation of photosynthesis-inhibiting herbicides in wheat leaves measured by phytofluorography, the chlorophyll fluorescence imaging. Pesticide Biochemistry and Physiology, 44(1), 60\u201367. doi:10.1016/0048-3575(92)90009-o",
+            "Value": "In the study examining factors affecting the systemic behavior of foliar-applied herbicides, including desmetryn, various operations were compared to enhance penetration and translocation. When plants were treated with desmetryn and exposed to light, fluorescent zones appeared irregular, with increased translocation observed, though photoinhibition-related effects might have influenced measurements. Abrading the epidermis improved translocation, and the addition of a surfactant (Tween 80) enhanced systemicity. These results highlighted the significance of cuticular penetration and external factors in determining desmetryn's systemic movement, while also noting the unique behavior of other herbicides like atrazine, where translocation appeared light-independent and linked to cuticular penetration."
+        }
+    ]
+}

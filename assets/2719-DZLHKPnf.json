@@ -1,0 +1,69 @@
+{
+    "_id": {
+        "$oid": "6682e7f1c4e5dba5ffba231c"
+    },
+    "CID": {
+        "$numberInt": "2719"
+    },
+    "Name": "CHLOROQUINE",
+    "IUPACName": "4-N-(7-chloroquinolin-4-yl)-1-N,1-N-diethylpentane-1,4-diamine",
+    "CanonicalSMILES": "CCN(CC)CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl",
+    "Synonyms": [
+        "chloroquine",
+        "54-05-7",
+        "Aralen",
+        "Chlorochin",
+        "Chloraquine",
+        "Artrichin",
+        "Chloroquina",
+        "Chloroquinium",
+        "Capquin",
+        "Reumachlor",
+        "Chemochin",
+        "Chlorquin",
+        "Clorochina",
+        "Malaquin",
+        "Bemaco"
+    ],
+    "IsomericSMILES": "CCN(CC)CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl",
+    "INCHI": "InChI=1S/C18H26ClN3/c1-4-22(5-2)12-6-7-14(3)21-17-10-11-20-18-13-15(19)8-9-16(17)18/h8-11,13-14H,4-7,12H2,1-3H3,(H,20,21)",
+    "INCHIKEY": "WHTVZRBIWZFKQO-UHFFFAOYSA-N",
+    "Formula": "C18H26ClN3",
+    "MolecularWeight": {
+        "$numberDouble": "319.9"
+    },
+    "Description": "Chloroquine is an aminoquinoline that is quinoline which is substituted at position 4 by a [5-(diethylamino)pentan-2-yl]amino group at at position 7 by chlorine. It is used for the treatment of malaria, hepatic amoebiasis, lupus erythematosus, light-sensitive skin eruptions, and rheumatoid arthritis. It has a role as an antimalarial, an antirheumatic drug, a dermatologic drug, an autophagy inhibitor and an anticoronaviral agent. It is an aminoquinoline, a secondary amino compound, a tertiary amino compound and an organochlorine compound. It is a conjugate base of a chloroquine(2+).",
+    "XlogP": {
+        "$numberDouble": "4.6"
+    },
+    "Complexity": {
+        "$numberInt": "309"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 159",
+            "Value": "log Kow = 4.63"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "McEvoy, G.K. (ed.). American Hospital Formulary Service.   AHFS Drug Information. American Society of Health-System   Pharmacists, Bethesda, MD. 2006., p. 859",
+            "Value": "The exact mechanism of antimalarial activity of chloroquine has not been determined. The 4-aminoquinoline derivatives appear to bind to nucleoproteins and interfere with protein synthesis in susceptible organisms; the drugs intercalate readily into double-stranded DNA and inhibit both DNA and RNA polymerase. In addition, studies using chloroquine indicate that the drug apparently concentrates in parasite digestive vacuoles, increases the pH of the vacuoles, and interferes with the parasite's ability to metabolize and utilize erythrocyte hemoglobin. Plasmodial forms that do not have digestive vacuoles and do not utilize hemoglobin, such as exoerythrocytic forms, are not affected by chloroquine."
+        },
+        {
+            "References": "McEvoy, G.K. (ed.). American Hospital Formulary Service.   AHFS Drug Information. American Society of Health-System   Pharmacists, Bethesda, MD. 2006., p. 859",
+            "Value": "The 4-aminoquinoline derivatives, including chloroquine, also have anti-inflammatory activity; however, the mechanism(s) of action of the drugs in the treatment of rheumatoid arthritis and lupus erythematosus has not been determined. Chloroquine reportedly antagonizes histamine in vitro, has antiserotonin effects, and inhibits prostaglandin effects in mammalian cells presumably by inhibiting conversion of arachidonic acid to prostaglandin F2. In vitro studies indicate that chloroquine also inhibits chemotaxis of polymorphonuclear leukocytes, macrophages, and eosinophils."
+        },
+        {
+            "References": "Thomson.Micromedex. Drug Information for the  Health Care  Professional. 25th ed. Volume 1.  Plus Updates. Content  Reviewed by the United States Pharmacopeial Convention, Inc.  Greenwood Village, CO. 2005., p. 837",
+            "Value": "Antiprotozoal-Malaria: /Mechanism of action/ may be based on ability of chloroquine to bind and alter the properties of DNA. Chloroquine also is taken up into the acidic food vacuoles of the parasite in the erythrocyte. It increases the pH of the acid vesicles, interfering with vesicle functions and possibly inhibiting phospholipid metabolism. In suppressive treatment, chloroquine inhibits the erythrocytic stage of development of plasmodia. In acute attacks of malaria, chloroquine interrupts erythrocytic schizogony of the parasite. its ability to concentrate in parasitized erythrocytes may account for its selective toxicity against the erythrocytic stages of plasmodial infection."
+        },
+        {
+            "References": "Thomson.Micromedex. Drug Information for the  Health Care  Professional. 25th ed. Volume 1.  Plus Updates. Content  Reviewed by the United States Pharmacopeial Convention, Inc.  Greenwood Village, CO. 2005., p. 837",
+            "Value": "Antirheumatic-Chloroquine is though to act as a mild immunosuppressant, inhibiting the production of rheumatoid factor and acute phase reactants. It also accumulates in white blood cells, stabilizing lysosomal membranes and inhibiting the activity of many enzymes, including collagenase and the proteases that cause cartilage breakdown."
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "_id": {
+        "$oid": "6682e8bcc4e5dba5ffba2714"
+    },
+    "CID": {
+        "$numberInt": "8438"
+    },
+    "Name": "Piperonal",
+    "IUPACName": "1,3-benzodioxole-5-carbaldehyde",
+    "CanonicalSMILES": "C1OC2=C(O1)C=C(C=C2)C=O",
+    "Synonyms": [
+        "PIPERONAL",
+        "120-57-0",
+        "Heliotropine",
+        "Piperonyl aldehyde",
+        "Heliotropin",
+        "1,3-Benzodioxole-5-carbaldehyde",
+        "Piperonaldehyde",
+        "Piperonylaldehyde",
+        "3,4-Methylenedioxybenzaldehyde",
+        "Geliotropin",
+        "1,3-Benzodioxole-5-carboxaldehyde",
+        "3,4-(Methylenedioxy)benzaldehyde",
+        "5-Formyl-1,3-benzodioxole",
+        "Protocatechuic aldehyde methylene ether",
+        "3,4-Bis(methylenedioxy)benzaldehyde"
+    ],
+    "IsomericSMILES": "C1OC2=C(O1)C=C(C=C2)C=O",
+    "INCHI": "InChI=1S/C8H6O3/c9-4-6-1-2-7-8(3-6)11-5-10-7/h1-4H,5H2",
+    "INCHIKEY": "SATCULPHIDQDRE-UHFFFAOYSA-N",
+    "Formula": "C8H6O3",
+    "MolecularWeight": {
+        "$numberDouble": "150.13"
+    },
+    "Description": "Piperonal is an arenecarbaldehyde that is 1,3-benzodioxole substituted by a formyl substituent at position 5. It has been isolated from Piper nigrum. It has a role as a plant metabolite, a fragrance and an insect repellent. It is a member of benzodioxoles and an arenecarbaldehyde.",
+    "XlogP": {
+        "$numberDouble": "1.1"
+    },
+    "Complexity": {
+        "$numberInt": "157"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) US Dept Agric; US Dept Agric, Agric Res Service. 1992-2016. Dr. Duke's Phytochemical and Ethnobotanical Databases. Piperonal Available from, as of Oct 22, 2018: https://phytochem.nal.usda.gov/phytochem/search",
+            "Value": "Piperonal occurrence in plants(1).",
+            "Table": "[{'Genus species': 'Cinnamomum camphora', 'Family': 'Lauraceae', 'Common name(s)': 'Camphor, Ho Leaf', 'Part': 'Essential oil'}, {'Genus species': 'Piper nigrum', 'Family': 'Piperaceae', 'Common name(s)': 'Pepper; White Pepper; Black Pepper', 'Part': 'Fruit; Essential oil'}, {'Genus species': 'Polianthes tuberosa', 'Family': 'Agavaceae', 'Common name(s)': 'Tuberose', 'Part': 'Flower'}, {'Genus species': 'Vaccinium corymbosum', 'Family': 'Ericaceae', 'Common name(s)': 'Blueberry', 'Part': 'Plant'}, {'Genus species': 'Vanilla planifolia', 'Family': 'Orchidaceae', 'Common name(s)': 'Vanilla; Bourbon Vanilla', 'Part': 'Fruit; Plant'}, {'Genus species': 'Viola odorata', 'Family': 'Violaceae', 'Common name(s)': 'Common Violet; Sweet Violet', 'Part': 'Flower'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 38 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Oct 22, 2108: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 2.3 was calculated in fish for piperonal(SRC), using a log Kow of 1.05(1) and a regression-derived equation(1). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Oct 22, 2018: https://www.safe.nite.go.jp/english/db.html",
+            "Value": "AEROBIC: Piperonal, present at 100 mg/L, reached 88% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 38",
+            "Value": "log Kow = 1.05"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "WHO/FAO; TOXICOLOGICAL EVALUATION OF SOME FLAVOURING SUBSTANCES AND NON-NUTRITIVE SWEETENING AGENTS (1967); Available from, as of October 19, 2018: https://www.inchem.org/documents/jecfa/jecmono/v44aje01.htm",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Intragastric administration of 900 mg/kg body-weight per day to 3 male and 3 female rats for 4 days produced slight ... liver damage in some animals."
+        },
+        {
+            "References": "WHO/FAO; TOXICOLOGICAL EVALUATION OF SOME FLAVOURING SUBSTANCES AND NON-NUTRITIVE SWEETENING AGENTS (1967); Available from, as of October 19, 2018: https://www.inchem.org/documents/jecfa/jecmono/v44aje01.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ When rats were given 13-115 mg Piperonal perorally for 5-9 days, fatty infiltration of the liver parenchymal cells was noted."
+        },
+        {
+            "References": "WHO/FAO; TOXICOLOGICAL EVALUATION OF SOME FLAVOURING SUBSTANCES AND NON-NUTRITIVE SWEETENING AGENTS (1967); Available from, as of October 19, 2018: https://www.inchem.org/documents/jecfa/jecmono/v44aje01.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ A 12-week feeding study on 15 males and 15-females, using mixed aldehydes, produced no adverse effect at 14.2 mg/kg body-weight/day."
+        },
+        {
+            "References": "WHO/FAO; TOXICOLOGICAL EVALUATION OF SOME FLAVOURING SUBSTANCES AND NON-NUTRITIVE SWEETENING AGENTS (1967); Available from, as of October 19, 2018: https://www.inchem.org/documents/jecfa/jecmono/v44aje01.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... Groups of 5 male and 5 female rats were fed diets containing 0 and 1.0 per cent piperonal for 15 weeks, and 0.1 per cent for 28 weeks. No adverse effects were noted on body-weight gain, hematology, organ weights of major organs and histology of major tissues."
+        },
+        {
+            "References": "Adams TB et al; Food Chem toxicol 43: 1241-1271 (2005)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Groups of 5 male and 5 female weanling Osborne-Mendel rats were given 50 mg/kg bw of p-methoxybenzaldehyde or piperonal in the diet for a period of 27-28 weeks or 500 mg/kg bw per day for a period of 15 weeks. Ten male and ten female rats were fed the same diet without the test substance as a control. Body weight, food intake, and general condition were noted weekly. Hematological examinations were performed at the end of the study. No effects were seen in the animals at either dose level. Based on these results 500 mg/kg bw per day was determined to be NOAEL for each substance ..."
+        },
+        {
+            "References": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-258",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ At 1000 and 10,000 ppm in the diet for 28 and 16 weeks, respectively, no adverse effects were seen in rats"
+        },
+        {
+            "References": "WHO/FAO; TOXICOLOGICAL EVALUATION OF SOME FLAVOURING SUBSTANCES AND NON-NUTRITIVE SWEETENING AGENTS (1967); Available from, as of October 19, 2018: https://www.inchem.org/documents/jecfa/jecmono/v44aje01.htm",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 20 male and 20 female rats were fed on diets containing 0, 0.1 and 0.5 % piperonal for 2 years without any specific adverse effect."
+        },
+        {
+            "References": "PMID:6808388",
+            "Value": "/GENOTOXICITY/ The genotoxicity of safrole, 9 compounds that are structurally similar to safrole (anethole, cinnamaldehyde, cinnamyl alcohol, estragole, methyl eugenol, eugenol, isoeugenol, isosafrole, piperonal), 5 essential oils, cassia oil, cinnamon bark oil, clove oil, fennel oil) which contain the chemicals tested, and 1 oleoresin was studies in 3 microbial test systems. Only anethole showed mutagenicity in the Ames Salmonella reversion assay. All chemicals except anethole, estragole and isosafrole were positive in the Bacillus subtilis DNA-repair test (Rec assay) without S9. All samples tested were negative in the Escherichia coli WP2 uvrA reversion test. The essential oils and pimenta oleoresin were positive in the DNA-repair test. The results obtained are discussed in relation to the nature of the problems encountered with each test method."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 38 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Oct 22, 2018: https://www2.epa.gov/tsca-screening-tools (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of piperonal is estimated as 24(SRC), using a log Kow of 1.05(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that piperonal is expected to have very high mobility in soil(SRC)."
+        }
+    ]
+}

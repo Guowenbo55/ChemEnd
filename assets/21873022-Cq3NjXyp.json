@@ -1,0 +1,58 @@
+{
+    "_id": {
+        "$oid": "66927112303528b49832d7cd"
+    },
+    "CID": {
+        "$numberInt": "21873022"
+    },
+    "Name": "Imazamethabenz",
+    "IUPACName": "methyl 4-methyl-2-(4-methyl-5-oxo-4-propan-2-yl-1H-imidazol-2-yl)benzoate;methyl 5-methyl-2-(4-methyl-5-oxo-4-propan-2-yl-1H-imidazol-2-yl)benzoate",
+    "CanonicalSMILES": "CC1=CC(=C(C=C1)C(=O)OC)C2=NC(C(=O)N2)(C)C(C)C.CC1=CC(=C(C=C1)C2=NC(C(=O)N2)(C)C(C)C)C(=O)OC",
+    "Synonyms": [
+        "Imazamethabenz",
+        "methyl 2-(4-isopropyl-4-methyl-5-oxo-4,5-dihydro-1H-imidazol-2-yl)-4-methylbenzoate compound with methyl 2-(4-isopropyl-4-methyl-5-oxo-4,5-dihydro-1H-imidazol-2-yl)-5-methylbenzoate (1:1)",
+        "methyl 4-methyl-2-(4-methyl-5-oxo-4-propan-2-yl-1H-imidazol-2-yl)benzoate;methyl 5-methyl-2-(4-methyl-5-oxo-4-propan-2-yl-1H-imidazol-2-yl)benzoate",
+        "UNII-F1JSL7022N",
+        "SCHEMBL19285",
+        "Imazamethabenz-methyl 100 microg/mL in Acetonitrile",
+        "F1JSL7022N",
+        "HSDB 6675",
+        "AC 293",
+        "EPA Pesticide Chemical Code 128842",
+        "AC 222,293"
+    ],
+    "IsomericSMILES": "CC1=CC(=C(C=C1)C(=O)OC)C2=NC(C(=O)N2)(C)C(C)C.CC1=CC(=C(C=C1)C2=NC(C(=O)N2)(C)C(C)C)C(=O)OC",
+    "INCHI": "InChI=1S/2C16H20N2O3/c1-9(2)16(4)15(20)17-13(18-16)12-8-10(3)6-7-11(12)14(19)21-5;1-9(2)16(4)15(20)17-13(18-16)11-7-6-10(3)8-12(11)14(19)21-5/h2*6-9H,1-5H3,(H,17,18,20)",
+    "INCHIKEY": "WXUNXXKSYBUHMK-UHFFFAOYSA-N",
+    "Formula": "C32H40N4O6",
+    "MolecularWeight": {
+        "$numberDouble": "576.7"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "NaN"
+    },
+    "Complexity": {
+        "$numberInt": "944"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The release of apical dominance by the physical destruction in situ of the apical meristem and associated leaf primordia (decapitation) promoted the growth of tillers in non-herbicide-treated wild oat plants, as indicated by increased tiller lengths and fresh weights. At 96 h after [14C] herbicide treatment following decapitation, the absorption of [14C]imazamethabenz and total translocation of radioactivity were respectively increased by 28% and 49%. By 96 h after [14C]imazamethabenz application, the radioactivity detected in the roots of decapitated plants was 45% higher than that in the roots of nondecapitated plants while the radioactivity in tillers of decapitated plants was 2.6-fold that in tillers of intact plants. Decapitation together with foliar spraying of imazamethabenz at 200 g ha\u22121 further reduced tiller fresh weight, greatly decreased the total tiller number, and thereafter significantly increased overall phytotoxicity by 32% as measured by total shoot fresh weight. The results of this study support the hypothesis that main shoot apical dominance limits translocation of applied imazamethabenz to lateral shoots, rendering tillers less susceptible to growth inhibition by the herbicide.",
+            "reference": "Chao, J. F., Hsiao, A. I., Quick, W. A., & Hume, J. A. (1994). Effect of decapitation on absorption, translocation, and phytotoxicity of imazamethabenz in wild oat (Avena fatua L.). Journal of Plant Growth Regulation, 13, 153-158.",
+            "method": {
+                "Test Plant": "Avena fatua L. (wild oat)",
+                "Apply Location": "Foliar application on the adaxial midsection of the first leaf lamina",
+                "Plant Grown Condition": "Seeds planted in silica sand-filled cups, moistened with 1/4 strength Hoagland's solution. Grown in a growth chamber at 20\u00b0C day/15\u00b0C night, 50% relative humidity, 16-h photoperiod at ~425 \u03bcmol/m2/s PPFD.",
+                "Chemical Preparation": "Radiolabeled [14C]imazamethabenz (labeled on 4th carbon of imidazoline ring, 39.55 \u03bcCi/mg specific activity, >98% radiochemical purity) was dissolved in methanol to make a stock solution of 8.7 \u03bcCi/ml and 220 \u03bcg/ml. An aliquot providing 5.625 \u03bcCi was dried and reconstituted in 0.5 ml of 3000 ppm commercial imazamethabenz suspension concentrate (300 g ai/L or 10 mM) diluted with water.",
+                "Pesticide Application Details for the Plant": "Two 2-\u03bcl droplets containing 0.01125 \u03bcCi and 3.284 \u03bcg imazamethabenz each were applied on the adaxial midsection of the first leaf lamina of the main shoot.",
+                "Other Information": "Plants were harvested at 24, 48, and 96 hours after treatment (HAT) and sectioned into treated leaf, rest of main shoot, tillers, and roots. Surface residues were washed off and quantified. Plant sections were combusted and trapped 14CO2 was measured by liquid scintillation counting. A completely randomized design with 5 replicates per time point was used and the experiment was repeated once."
+            },
+            "result": "[{\"Treatment\": \"With decapitated\", \"Hours after application\": 24, \"Treated leaf (% of applied)\": 9.4, \"Main shoot (%)\": 0.22, \"Roots (%)\": 0.25, \"Total tillers (%)\": 0.14}, {\"Treatment\": \"With decapitated\", \"Hours after application\": 48, \"Treated leaf (% of applied)\": 16.16, \"Main shoot (%)\": 0.34, \"Roots (%)\": 0.44, \"Total tillers (%)\": 0.32}, {\"Treatment\": \"With decapitated\", \"Hours after application\": 96, \"Treated leaf (% of applied)\": 28.78, \"Main shoot (%)\": 0.69, \"Roots (%)\": 0.83, \"Total tillers (%)\": 0.79}, {\"Treatment\": \"Without decapitated\", \"Hours after application\": 24, \"Treated leaf (% of applied)\": 9.51, \"Main shoot (%)\": 0.26, \"Roots (%)\": 0.26, \"Total tillers (%)\": 0.09}, {\"Treatment\": \"Without decapitated\", \"Hours after application\": 48, \"Treated leaf (% of applied)\": 16.39, \"Main shoot (%)\": 0.49, \"Roots (%)\": 0.52, \"Total tillers (%)\": 0.14}, {\"Treatment\": \"Without decapitated\", \"Hours after application\": 96, \"Treated leaf (% of applied)\": 22.93, \"Main shoot (%)\": 0.67, \"Roots (%)\": 0.57, \"Total tillers (%)\": 0.3}]"
+        }
+    ]
+}

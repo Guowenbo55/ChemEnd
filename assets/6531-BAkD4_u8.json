@@ -1,0 +1,75 @@
+{
+    "_id": {
+        "$oid": "6682e84fc4e5dba5ffba24f6"
+    },
+    "CID": {
+        "$numberInt": "6531"
+    },
+    "Name": "DIOXATHION",
+    "IUPACName": "(3-diethoxyphosphinothioylsulfanyl-1,4-dioxan-2-yl)sulfanyl-diethoxy-sulfanylidene-lambda5-phosphane",
+    "CanonicalSMILES": "CCOP(=S)(OCC)SC1C(OCCO1)SP(=S)(OCC)OCC",
+    "Synonyms": [
+        "DIOXATHION",
+        "Dioxation",
+        "78-34-2",
+        "Delnatex",
+        "Navadel",
+        "Deltic",
+        "Dioxane phosphate",
+        "Delnav",
+        "Kavadel",
+        "Hercules ac528",
+        "Hercules 528",
+        "NCI-C00395",
+        "AC 528",
+        "ENT 22,897",
+        "p-Dioxane-2,3-diyl ethyl phosphorodithioate"
+    ],
+    "IsomericSMILES": "CCOP(=S)(OCC)SC1C(OCCO1)SP(=S)(OCC)OCC",
+    "INCHI": "InChI=1S/C12H26O6P2S4/c1-5-15-19(21,16-6-2)23-11-12(14-10-9-13-11)24-20(22,17-7-3)18-8-4/h11-12H,5-10H2,1-4H3",
+    "INCHIKEY": "VBKKVDGJXVOLNE-UHFFFAOYSA-N",
+    "Formula": "C12H26O6P2S4",
+    "MolecularWeight": {
+        "$numberDouble": "456.5"
+    },
+    "Description": "Dioxation is a member of dioxanes.",
+    "XlogP": {
+        "$numberDouble": "4.3"
+    },
+    "Complexity": {
+        "$numberInt": "395"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Gunther FA et al. J Agric Food Chem 6: 210-1 (1958)",
+            "Value": "After application with a emulsifiable concentrate of dioxathion (12 oz/100 gal), the concentration of residue on and in peel of naval oranges was 4.75 ppm which declined to 2.55 ppm in 86 days, while after application as a 25% wettable powder, the concentration declined from 3.55 ppm to 0.9 ppm in the same time period(1). The decline in these residues in lemons when treated with the respective products was 8.2 ppm to 3.6 ppm and 8.5 ppm to 1.5 ppm in 98 days(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) USEPA; GEMS data base CLOGP3 (1988) (2) Lyman WJ et al; pp.5-1 to 5-34 Handbook of Chemical Property Estimation Methods New York: McGraw-Hill (1982)",
+            "Value": "The log octanol/water partition coefficient for dioxathion is estimated to be 2.99(1) from which one estimates a BCF of 110 using a recommended regression equation(2). Therefore dioxathion might be expected to bioconcentrate moderately in fish and aquatic organisms."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Cook JW; J Agric Food Chem 5: 859-63 (1957)",
+            "Value": "No biodegradation was observed when dioxathion was anaerobically incubated for 25 hr with a bovine rumen inoculum(1). No aerobic biodegradability studies were located."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) USEPA; GEMS data base CLOGP3 (1988) (2) Lyman WJ et al; pp.4-1 to 4-33 Handbook of Chemical Property Estimation Methods New York: McGraw-Hill (1982)",
+            "Value": "The log octanol/water partition coefficient for dioxathion is estimated to be 2.99(1) from which one estimates a Koc of 1000 using a recommended regression equation(2), indicating moderately strong adsorptivity to soil."
+        }
+    ],
+    "plant_translocation": [
+        {
+            "References": "Keating, M. I. (1987). Dioxathion (DelnavR) residues in milk in kenya. Tropical Animal Health and Production, 19(3), 147\u2013152. doi:10.1007/bf02239709\u00a0",
+            "Value": "Dioxathion, which was marketed as Delnav R, was first used in combination with other acaricides to combat ticks, which transmit diseases and cause economic losses in tropical and sub-tropical regions. Dioxathion was widely applied by dipping or spraying cattle once or twice weekly at a 0.05% concentration to manage tick burdens. However, residue studies showed dioxathion could be detected in milk up to maximum levels of 2.25 ppm in the milk fat just 3 hours after treatment. Residues declined gradually but were still present at 1.27 ppm in milk fat at 45 hours post-application. As dioxathion is non-systemic, it acts where applied but does not translocate systemically through the animal. Further research into the nature and tolerance of dioxathion residues in milk is still needed to fully understand dietary risks. "
+        }
+    ]
+}

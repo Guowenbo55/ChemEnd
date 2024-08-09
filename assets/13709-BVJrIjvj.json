@@ -1,0 +1,91 @@
+{
+    "_id": {
+        "$oid": "6682e90ec4e5dba5ffba28b3"
+    },
+    "CID": {
+        "$numberInt": "13709"
+    },
+    "Name": "METHIDATHION",
+    "IUPACName": "3-(dimethoxyphosphinothioylsulfanylmethyl)-5-methoxy-1,3,4-thiadiazol-2-one",
+    "CanonicalSMILES": "COC1=NN(C(=O)S1)CSP(=S)(OC)OC",
+    "Synonyms": [
+        "Methidathion",
+        "950-37-8",
+        "SUPRACIDE",
+        "Ultracide",
+        "Suprathion",
+        "Supracid",
+        "Ultracid",
+        "Somonil",
+        "Methidathion 50S",
+        "Ultracid 40",
+        "Ultracid EC 40",
+        "DMTP (insecticide)",
+        "Fisons NC 2964",
+        "Geigy 13005",
+        "Ciba-Geigy GS 13005"
+    ],
+    "IsomericSMILES": "COC1=NN(C(=O)S1)CSP(=S)(OC)OC",
+    "INCHI": "InChI=1S/C6H11N2O4PS3/c1-10-5-7-8(6(9)16-5)4-15-13(14,11-2)12-3/h4H2,1-3H3",
+    "INCHIKEY": "MEBQXILRKZHVCX-UHFFFAOYSA-N",
+    "Formula": "C6H11N2O4PS3",
+    "MolecularWeight": {
+        "$numberDouble": "302.3"
+    },
+    "Description": "Methidathion is an organic thiophosphate and an organothiophosphate insecticide. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, an acaricide and an agrochemical. It is functionally related to a 5-methoxy-1,3,4-thiadiazol-2(3H)-one.",
+    "XlogP": {
+        "$numberDouble": "2.4"
+    },
+    "Complexity": {
+        "$numberInt": "343"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "animal_concentrations": [
+        {
+            "References": "(1) Ghini S et al; Arch Environ Contam Toxicol 47: 479-88 (2004)",
+            "Value": "Methidathion was detected in 4% of honeybee samples at concentrations of 0.001 to 0.018 mg/kg, dead bee samples were collected in bags suspended under beehives (only worker bees were analyzed) in the district of Bologna, Italy(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Abd-Allah AMA; Alex Sci Exch 16: 61-9 (1995) (2) Tsuda T et al; Comp Biochem Physiol 116C: 213-8 (1997) (3) Franke C et al; Chemosphere 29: 1501-14 (1994) (4) Serrano R et al; Bull Environ Contam Toxicol 59: 968-75 (1997)",
+            "Value": "Whole-body BCFs of 3.0, 2.2, 1.5, and 2.6 were measured using carp (Cyprino carpio L.) after 24, 72, 120, and 196 hr exposure to 2.6 ug/L methidathion, respectively(1). Average BCFs after 168 hr exposures were 6.4, 5.6, 4.6, 3.6, and 5.5 for guppy (female) (Lebistes reticulatus), guppy (male), killifish (Oryzias latipes), goldfish (Carassius aurapus), and cloud mountain fish (Tanichthys albonubes), respectively(2). According to a classification scheme(3), these BCF values suggest bioconcentration in aquatic organisms is low(SRC). Tests using the Mediterranean mussel, Mytillus galloprovincialis, resulted in a BCF value of 193(4)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) USEPA; Pesticide Registration Status. Interim Reregistration Eligibility Decision for Methidathion. List A Case 0034. Available from, as of April 17, 2012: https://www.epa.gov/pesticides/reregistration/status.htm (2) Getzin LW; Bull Environ Contam Toxicol 5: 104-10 (1970) (3) Medina D et al; Bull Environ Contam Toxicol 63: 39-44 (1999)",
+            "Value": "AEROBIC: A half-life in aerobic soil of 11 days has been reported(1). Methidathion, at a concentration of 4 mg, containing chain labeled C14 was added to 400 cu cm of 4 different soils and incubated at 25 \u00b0C(2). After 16 weeks, 7% C14, 8% C14, 1% C14, and 2% C14 remained in Puyallop sandy loam, Sultan silt loam, Chehalis clay loam, and organic soil, respectively(2). After 16 weeks, 49-60% methidathion remained in fumigated controls with <3% of the radioactivity was expired as CO2(2). An avg half-life of 12.42 days was measured for 1-50 ug/L methidathion added to filtered water collected during May-April, 1997 from the Limon River, between Mara and Paez, State of Zula, Argentina(3)."
+        },
+        {
+            "References": "(1) USEPA; Pesticide Registration Status. Interim Reregistration Eligibility Decision for Methidathion. List A Case 0034. Available from, as of April 17, 2012: https://www.epa.gov/pesticides/reregistration/status.htm (2) Vorkamp K et al; Chemosphere 48: 287-97 (2002)",
+            "Value": "ANAEROBIC: A half-life in anaerobic soil of 10 days has been reported(1). In an anaerobic reactor at 25 and 35 \u00b0C, methidathion declined about 10% of the maximum concentration within 30 to 80 days(2). At 55 \u00b0C, methidathion disappeared within 20 days(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Methidathion (950-37-8) (2008-2010)",
+            "Value": "log Kow = 2.20"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 34",
+            "Value": "Organophosphates poison insects and mammals primarily by phosphorylation of the acetylcholinesterase enzyme at nerve endings. ... At sufficient dosage, loss of enzyme  function allows accumulation of acetylcholine (the impulse- transmitter substance) at  cholinergic neuroeffector junctions (muscarinic effects, and at skeletal myoneural junctions and in autonomic ganglia (nicotinic effects). Organophosphates also impair nerve impulse  transmission in the brain ... . /Organophosphate pesticides/"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Kawata K et al; J AOAC Int 88: 1440-51 (2005) (2) Gamon M et al; Arch Environ Contam Toxicol 44: 141-51 (2003)",
+            "Value": "SEDIMENT: Methidathion was not detected (detection limit 3 ug/kg) in sediment samples taken from Shin river, Niigata, Japan(1). SOIL: Methidathion was detected in <6% of samples from rice-farming soils adjacent to fruit crops treated with malathion in Albufera National Park, Valencia, Spain for the period of April 1996 to Nov 1997(2)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Gramatica P et al; Chemosphere 41: 763-77 (2000) (2) Pehkonen SO, Zhang Q; Crit Rev Environ Sci 32: 17-72 (2002) (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Froebe Z et a; Toxicol Environ Chem 19: 69-82 (1989) (5) Diaz-Diaz R et al; J Contam Hydrol 36: 1-30 (1999)",
+            "Value": "Experimental Koc values of 34(1) and 761(2) in soil have been reported. According to a classification scheme(3), these Koc values suggest that methidathion is expected to have very high to low mobility in soil(SRC). Experimental Koc values of 7 and 56 were determined in 2 different pond sediments at pH 5.9 and 6.5, respectively(4). Methidathion was shown to have no to moderate leaching potential using agricultural soils characterized by high organic content from the Canary Island of Tenerife(5)."
+        }
+    ]
+}

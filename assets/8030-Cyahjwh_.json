@@ -1,0 +1,96 @@
+{
+    "_id": {
+        "$oid": "6682e8a4c4e5dba5ffba269a"
+    },
+    "CID": {
+        "$numberInt": "8030"
+    },
+    "Name": "THIOPHENE",
+    "IUPACName": "thiophene",
+    "CanonicalSMILES": "C1=CSC=C1",
+    "Synonyms": [
+        "THIOPHENE",
+        "110-02-1",
+        "Thiofuran",
+        "Thiole",
+        "Thiophen",
+        "Thiacyclopentadiene",
+        "Thiotetrole",
+        "Thiofurfuran",
+        "Divinylene sulfide",
+        "Thiaphene",
+        "Thiofuram",
+        "Furan",
+        "thio-",
+        "Huile HSO",
+        "Thiofen",
+        "Huile H50"
+    ],
+    "IsomericSMILES": "C1=CSC=C1",
+    "INCHI": "InChI=1S/C4H4S/c1-2-4-5-3-1/h1-4H",
+    "INCHIKEY": "YTPLMLYBLZKORZ-UHFFFAOYSA-N",
+    "Formula": "C4H4S",
+    "MolecularWeight": {
+        "$numberDouble": "84.14"
+    },
+    "Description": "Thiophene is a monocyclic heteroarene that is furan in which the oxygen atom is replaced by a sulfur. It has a role as a non-polar solvent. It is a mancude organic heteromonocyclic parent, a member of thiophenes, a monocyclic heteroarene and a volatile organic compound.",
+    "XlogP": {
+        "$numberDouble": "1.8"
+    },
+    "Complexity": {
+        "$numberInt": "22"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute. Japan Chemical Industry Ecology - Toxicology and Information Center. ISBN 4-89074-101-1 (1992) (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "Experimental BCF values in the range of 2-7 were measured for carp(1). According to a classification scheme(2), these BCF values suggest that bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Kuhn EP, Suflita JM; Environ Toxicol Chem 8: 1149-58 (1989) (2) Chemicals Inspection and Testing Institute. Japan Chemical Industry Ecology - Toxicology and Information Center. ISBN 4-89074-101-1 (1992) (3) Adrian NR, Suflita JM; Environ Toxicol Chem 13: 1551-1557 (1994)",
+            "Value": "Biodegradation is not expected to be an important environmental fate process for thiophene(SRC). No biodegradation was observed when thiophene was incubated in an anoxic aquifer slurry for a period of 3 months(1). Using a standard BOD dilution technique and an activated sludge inoculum, a theoretical BOD of 0% was observed during a 2 week incubation period(2). No biodegradation was observed when thiophene was incubated in an aquifer slurry for a period of 1 year(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 8",
+            "Value": "log Kow = 1.81"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "PUSHKINA NN ET AL; GIG SANIT 32 (10): 103 (1967)",
+            "Value": "INHALATION OF 3 OR 20 MG/CU M OF THIOPHENE BY RATS OVER 80 DAY PERIOD DECR ADRENAL, KIDNEY, LIVER, & BRAIN ASCORBIC ACID (VITAMIN C) LEVELS. ACCOMPANIED BY DEHYDROASCORBIC ACID & DIKETOGULONIC ACID ACCUMULATION IN LIVER & INCR URINARY EXCRETION OF 17-KETO STEROIDS."
+        },
+        {
+            "References": "ALBRECHTSEN R, JENSEN H; ACTA NEUROPATHOL 26(3) 217 (1973)",
+            "Value": "SELECTIVE NECROSIS OF GRANULAR LAYER OF CEREBELLUM WAS INDUCED IN 14 OR 25 RATS BY SC INJECTION OF THIOPHEN. PYKNOSIS OF GRANULAR CELL NUCLEI WAS SEEN BEFORE ANY ALTERATION IN ENZYMES IN CYTOPLASM."
+        },
+        {
+            "References": "ALBRECHTSEN R, JENSEN H; IRCS LIBR COMPEND 1(1) (1974)",
+            "Value": "FOLLOWING ADMIN OF THIOPHENE (0.4 ML/DAY FOR 5 & 9 DAYS) TO RATS, NADH-TETRAZOLIUM REDUCTASE ACTIVITY IN PURKINJE CELLS WAS DECR BY 70% BUT THAT IN GLOMERULI REMAINED UNCHANGED."
+        },
+        {
+            "References": "ALBRECHTSEN R ET AL; ACT PATHOL MICROBIOL SCAND SECT A PATHOL 82(6) 791 (1974)",
+            "Value": "ALBINO RATS GIVEN DAILY SC INJECTION OF 0.4 ML HAD LONGER MITOCHONDRIA AND DENSITY OF MITOCHONDRIA WAS REDUCED FROM NORMAL VALUE OF 140.4 TO 105.8 IN PURKINJE CELLS."
+        },
+        {
+            "References": "BRADLEY P, BERRY M; NEUROPATHOL APPL NEUROBIOL 5(1) 9 (1979)",
+            "Value": "ALTERATIONS WERE OBSERVED IN DENDRITIC ORGANIZATION OF PURKINJE CELLS IN CEREBELLUM OF ADULT RAT FOLLOWING ADMIN OF DEGRANULATING AGENT. PURKINJE CELL DENDRITIC TREES WERE REDUCED IN SIZE WHEN COMPARED WITH CONTROL CELLS."
+        },
+        {
+            "References": "VALIAKHMETOV AF; KHIM SERAORG SOEDIN, SODERZH NEFTYAKH NEFTEPROD 9 566 (1972)",
+            "Value": "EXPOSURE OF RATS TO THIOPHENE @ 0.1 L FOR 4 HR DAILY FOR 1-9 MO CAUSED INFLAMMATION IN LUNGS & BRONCHI, WEAK /NECROTIC/ CHANGES IN MYOCARDIUM & LIVER, & INCR IN LEVELS OF LIPIDS IN ADRENAL GLANDS."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR Hydrophobic, Electronic and Stearic Constants Washington DC: Amer Chem Soc (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 23 (1983)",
+            "Value": "The Koc of thiophene is estimated as approximately 230(SRC), using a measured log Kow of 1.81(1) and a regression-derived equation(2,SRC). According to a recommended classification scheme(3), this estimated Koc value suggests that thiophene is expected to have moderate mobility in soil(SRC)."
+        }
+    ]
+}

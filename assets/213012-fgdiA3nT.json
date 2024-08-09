@@ -1,0 +1,74 @@
+{
+    "_id": {
+        "$oid": "669270fd303528b49832d77a"
+    },
+    "CID": {
+        "$numberInt": "213012"
+    },
+    "Name": "Aminopyralid",
+    "IUPACName": "4-amino-3,6-dichloropyridine-2-carboxylic acid",
+    "CanonicalSMILES": "C1=C(C(=C(N=C1Cl)C(=O)O)Cl)N",
+    "Synonyms": [
+        "Aminopyralid",
+        "150114-71-9",
+        "4-amino-3,6-dichloropicolinic acid",
+        "4-amino-3,6-dichloropyridine-2-carboxylic acid",
+        "2-Pyridinecarboxylic acid",
+        "4-amino-3,6-dichloro-",
+        "4-amino-3,6-dichloro-2-pyridinecarboxylic acid",
+        "Aminopyralid [ISO]",
+        "9S4EMJ60LF",
+        "CHEBI:62962",
+        "MFCD08273857",
+        "UNII-9S4EMJ60LF",
+        "CCRIS 9240",
+        "HSDB 7939",
+        "AMINOPYRALID [MI]",
+        "SCHEMBL116082"
+    ],
+    "IsomericSMILES": "C1=C(C(=C(N=C1Cl)C(=O)O)Cl)N",
+    "INCHI": "InChI=1S/C6H4Cl2N2O2/c7-3-1-2(9)4(8)5(10-3)6(11)12/h1H,(H2,9,10)(H,11,12)",
+    "INCHIKEY": "NIXXQNOQHKNPEJ-UHFFFAOYSA-N",
+    "Formula": "C6H4Cl2N2O2",
+    "MolecularWeight": {
+        "$numberDouble": "207.01"
+    },
+    "Description": "Aminopyralid is an organochlorine pesticide having a 3,6-dichlorinated 4-aminopicolinic acid structure. It has a role as a herbicide. It is an organochlorine pesticide, a member of pyridines and an aromatic amine. It is functionally related to a picolinic acid.",
+    "XlogP": {
+        "$numberDouble": "1.6"
+    },
+    "Complexity": {
+        "$numberInt": "190"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Aminopyralid is a new auxinic herbicide that provides Canada thistle control at lower use rates than clopyralid. Studies were conducted to determine if differences in absorption, translocation, or metabolism account for aminopyralid\u2019s greater biological activity. Radiolabeled aminopyralid and clopyralid were applied to individual leaves of rosette-stage Canada thistle plants. Nonionic surfactant was used for the absorption studies because it provided higher aminopyralid absorption than methylated seed oil or crop oil concentrate. Clopyralid was absorbed very rapidly, reaching 72% 24 h after treatment (HAT) and remaining near or above 80% during a 192-h time course. During the same time period, aminopyralid absorption increased from 34 to 60%. Clopyralid translocation out of the treated leaf was significantly higher than aminopyralid, 39% compared with 17%, respectively, 192 HAT. More of applied clopyralid translocated to aboveground tissue 192 HAT (27%) than to roots (12%), whereas aminopyralid translocation was similar in aboveground tissue (10%) and roots (7%) 192 HAT. Neither aminopyralid nor clopyralid was metabolized 192 HAT. Although aminopyralid is effective at lower use rates than clopyralid, clopyralid absorption and translocation were higher in Canada thistle. These results suggest that aminopyralid\u2019s chemical structure may provide for greater biological activity at the target site than clopyralid.",
+            "reference": "Bukun, Bekir; Gaines, Todd A.; Nissen, Scott J.; Westra, Philip; Brunk, Galen; Shaner, Dale L.; Sleugh, Byron B.; Peterson, Vanelle F.  (2009). Aminopyralid and Clopyralid Absorption and Translocation in Canada Thistle (Cirsium arvense). Weed Science, 57(1), 10\u201315.doi:10.1614/ws-08-071.1  \u00a0    ",
+            "method": {
+                "Test Plant": "Canada thistle (Cirsium arvense)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Root segments were acclimated in a growth chamber for 10 days at 24\u00b0C/15\u00b0C day/night temperature and 12-h photoperiod. Plants were then transferred to 656-ml pots filled with sand and slow-release fertilizer (14-14-14) was added. Pots were placed outside and exposed to ambient weather conditions during September, and then transferred to a greenhouse.",
+                "Chemical Preparation": "Aminopyralid: Commercial formulation at 0.12 kg/ha with 0.25% v/v NIS (non-ionic surfactant). Clopyralid: Commercial formulation at 0.42 kg/ha with 0.25% v/v NIS",
+                "Pesticide Application Details for the Plant": "Aminopyralid: 4,170 Bq per 10-ml treatment. Clopyralid: [2,6-14C]clopyralid at specific activity 1.103 x 10^6 kBq mmol^-1",
+                "Other Information": "Randomized complete block with three replications, and the experiment was repeated"
+            },
+            "result": "[{\"Time after application\": \"24 hours\", \"Absorption Rate (%)\": 30, \"Translocation Rate (%)\": 3, \"Applied Above Ground (%)\": 3, \"Applied Below Ground (%)\": 3}, {\"Time after application\": \"48 hours\", \"Absorption Rate (%)\": 42, \"Translocation Rate (%)\": 8, \"Applied Above Ground (%)\": 4, \"Applied Below Ground (%)\": 5}, {\"Time after application\": \"96 hours\", \"Absorption Rate (%)\": 47, \"Translocation Rate (%)\": 10, \"Applied Above Ground (%)\": 6, \"Applied Below Ground (%)\": 3}, {\"Time after application\": \"192 hours\", \"Absorption Rate (%)\": 50, \"Translocation Rate (%)\": 17, \"Applied Above Ground (%)\": 10, \"Applied Below Ground (%)\": 7}]"
+        },
+        {
+            "content": "The developmental status of perennial weeds such as rush skeletonweed (Chondrilla juncea L.) can influence herbicide absorption and translocation. Differential efficacy between fall and spring applications suggests vernalization impacts herbicide absorption and translocation in other perennial asters. Clopyralid and aminopyralid absorption and translocation were quantified in non-vernalized and vernalized plants following application of 14C labeled herbicides 2, 4, 8, 24, and 72 h after treatment. Less 14C clopyralid was absorbed, and at a slower rate, in vernalized plants. Movement out of the treated leaf was slower, with 14C clopyralid translocating more rapidly than 14C aminopyralid. More 14C moved to the roots in non-vernalized plants compared to vernalized plants, regardless of herbicide. Increased translocation to belowground survival structures is needed for effective control of C. juncea.",
+            "reference": "Burke, T. L., & Burke, I. C. (2020). Vernalization affects absorption and translocation of clopyralid and aminopyralid in rush skeletonweed (Chondrilla juncea). Weed science, 68(5), 445-450.",
+            "method": {
+                "Test Plant": "Chondrilla juncea",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Plants were grown for three weeks in a growth chamber at 9 hours day length and 27\u00b0C.",
+                "Chemical Preparation": "Herbicide treatments of clopyralid (Stinger\u00ae, Dow Chemical Company) or aminopyralid (Milestone\u00ae, Dow Chemical Company) were applied.",
+                "Pesticide Application Details for the Plant": "The 210 g ai ha-1 overspray application was applied to 25 plants, randomized from each group, using a syringe sprayer system delivering 168 L ha-1 by manual actuation of the syringe handle over 1s. The point treatment consisted of 5 evenly spaced 0.5\u03bcl droplets of either 14C aminopyralid or 14C clopyralid dissolved in methanol, and diluted to 0.2% in a 0.25% solution of non-ionic surfactant in water. The 14C herbicide spot treatment was localized to the adaxial surface of the leaf, midway between the leaf tip and the leaf base.",
+                "Other Information": "Two groups of 50 plants each, with each group receiving either a vernalization treatment or no vernalization treatment, and 10 plants from both vernalization treatments were harvested at 2, 4, 8, 24, and 72 hours after treatment (HAT)."
+            },
+            "result": "[{\"Time after application\": \"2 hours\", \"Absorption (%)\": 10, \"Translocated Belowground (%)\": 0.5, \"Translocated Aboveground (%)\": 2}, {\"Time after application\": \"4 hours\", \"Absorption (%)\": 13, \"Translocated Belowground (%)\": 0.7, \"Translocated Aboveground (%)\": 3}, {\"Time after application\": \"8 hours\", \"Absorption (%)\": 40, \"Translocated Belowground (%)\": 1.0, \"Translocated Aboveground (%)\": 4}, {\"Time after application\": \"24 hours\", \"Absorption (%)\": 80, \"Translocated Belowground (%)\": 1.0, \"Translocated Aboveground (%)\": 4}, {\"Time after application\": \"72 hours\", \"Absorption (%)\": 86, \"Translocated Belowground (%)\": 1.0, \"Translocated Aboveground (%)\": 4}]"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "_id": {
+        "$oid": "6682e8abc4e5dba5ffba26c0"
+    },
+    "CID": {
+        "$numberInt": "8121"
+    },
+    "Name": "ETHYLENE GLYCOL DIACETATE",
+    "IUPACName": "2-acetyloxyethyl acetate",
+    "CanonicalSMILES": "CC(=O)OCCOC(=O)C",
+    "Synonyms": [
+        "ETHYLENE GLYCOL DIACETATE",
+        "111-55-7",
+        "1,2-Diacetoxyethane",
+        "Glycol diacetate",
+        "Ethylene diacetate",
+        "2-acetyloxyethyl acetate",
+        "1,2-Ethanediol diacetate",
+        "Ethanediol diacetate",
+        "1,2-Ethanediol",
+        "diacetate",
+        "Ethylene glycol",
+        "diacetate",
+        "Ethylene diethanoate",
+        "Aptex Donor H-plus",
+        "Ethylene acetate",
+        "ethane-1,2-diyl diacetate",
+        "NSC 8853"
+    ],
+    "IsomericSMILES": "CC(=O)OCCOC(=O)C",
+    "INCHI": "InChI=1S/C6H10O4/c1-5(7)9-3-4-10-6(2)8/h3-4H2,1-2H3",
+    "INCHIKEY": "JTXMVXSTHSMVQF-UHFFFAOYSA-N",
+    "Formula": "C6H10O4",
+    "MolecularWeight": {
+        "$numberDouble": "146.14"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "0"
+    },
+    "Complexity": {
+        "$numberInt": "114"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Meylan WM, Howard PH; J Pharm Sci 84: 83-92 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF value of 1.2 was calculated for ethylene glycol diacetate(SRC), using an estimated log Kow of 0.4(1,SRC) and a recommended regression-derived equation(2). According to a recommended classification scheme(3), this BCF value suggests that bioconcentration in aquatic organisms will not be an important fate process(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Cain RB; Microbial Degradation of Surfactants and \"Builder\" Components. FEMS Symp 12 (Microb Degr Xenobiotics Recalcitrant Compds) pg 325-70 (1981)",
+            "Value": "Ethylene glycol diacetate is regarded as biodegradable as measured in the Hach respirometric and OECD Screening (die-away) tests using sewage inocula(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Verschueren, K. Handbook of Environmental Data of Organic Chemicals. 2nd ed. New York, NY: Van Nostrand Reinhold Co., 1983., p. 696",
+            "Value": "Log Kow= 0.10/0.38 (calc)"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Browning, E. Toxicity and Metabolism of Industrial Solvents. New York: American Elsevier, 1965., p. 618",
+            "Value": "ACUTE ORAL TOXICITY TO ANIMALS IS LOW AND EVEN WHEN GIVEN INTRAVENOUSLY IT DOES NOT CAUSE HYDROPIC DEGENERATION OF KIDNEYS."
+        },
+        {
+            "References": "Browning, E. Toxicity and Metabolism of Industrial Solvents. New York: American Elsevier, 1965., p. 618",
+            "Value": "BY ORAL ADMINISTRATION, FOR RATS, THE MINIMAL REPEATED DOSE TO PRODUCE KIDNEY DAMAGE WAS 6 G/KG DAILY, IN 5% CONCENTRATION IN DRINKING WATER FOR 7 DAYS. SOME ANIMALS DIED IN 7-114 DAYS."
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 4012",
+            "Value": "... The material /was fed/ in water over a prolonged period to rats and rabbits and /it was/ observed that 1 to 3 percent solutions caused occasional calcium oxalate crystals in the kidneys, and that 5 percent solutions caused large crystalline deposits and death. /No/ hydropic changes in the kidneys of either rats or rabbits /were observed/."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 1035",
+            "Value": "The compound was tested externally on the eyes of rabbits, and, according to the degree of injury observed after 24 hours, rated on a scale of 1 to 10. The most severely injurious substances have been rated 10. Ethylene rated 1 on rabbit eyes."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 28: 459-65 (1992) (2) Swann RL et al; Res Rev 85: 23 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc for ethylene glycol diacetate can be estimated to be about 10(SRC). According to a recommended classification scheme(2), this estimated Koc value suggests that ethylene glycol diacetate should have very high mobility in soil(SRC)."
+        }
+    ]
+}

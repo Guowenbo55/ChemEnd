@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "6682e827c4e5dba5ffba2429"
+    },
+    "CID": {
+        "$numberInt": "5754"
+    },
+    "Name": "HYDROCORTISONE",
+    "IUPACName": "(8S,9S,10R,11S,13S,14S,17R)-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-3-one",
+    "CanonicalSMILES": "CC12CCC(=O)C=C1CCC3C2C(CC4(C3CCC4(C(=O)CO)O)C)O",
+    "Synonyms": [
+        "hydrocortisone",
+        "Cortisol",
+        "50-23-7",
+        "Acticort",
+        "Cetacort",
+        "Cortef",
+        "Hydrasson",
+        "Hydrocortisyl",
+        "Hydrocortone",
+        "Cobadex",
+        "Hytone",
+        "Cortenema",
+        "Cortril",
+        "Dermacort",
+        "Proctocort"
+    ],
+    "IsomericSMILES": "C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)CO)O)C)O",
+    "INCHI": "InChI=1S/C21H30O5/c1-19-7-5-13(23)9-12(19)3-4-14-15-6-8-21(26,17(25)11-22)20(15,2)10-16(24)18(14)19/h9,14-16,18,22,24,26H,3-8,10-11H2,1-2H3/t14-,15-,16-,18+,19-,20-,21-/m0/s1",
+    "INCHIKEY": "JYGXADMDTFJGBT-VWUMJDOOSA-N",
+    "Formula": "C21H30O5",
+    "MolecularWeight": {
+        "$numberDouble": "362.5"
+    },
+    "Description": "Cortisol is a 17alpha-hydroxy-C21-steroid that is pregn-4-ene substituted by oxo groups at positions 3 and 20 and hydroxy groups at positions 11, 17 and 21. Cortisol is a corticosteroid hormone or glucocorticoid produced by zona fasciculata of the adrenal cortex, which is a part of the adrenal gland. It is usually referred to as the \"stress hormone\" as it is involved in response to stress and anxiety, controlled by corticotropin-releasing hormone (CRH). It increases blood pressure and blood sugar, and reduces immune responses. It has a role as an anti-inflammatory drug, an anti-allergic agent, an anti-asthmatic drug, a human metabolite, a mouse metabolite and a drug allergen. It is a 21-hydroxy steroid, an 11beta-hydroxy steroid, a 20-oxo steroid, a 3-oxo-Delta(4) steroid, a primary alpha-hydroxy ketone, a tertiary alpha-hydroxy ketone, a 17alpha-hydroxy-C21-steroid and a glucocorticoid. It derives from a hydride of a pregnane.",
+    "XlogP": {
+        "$numberDouble": "1.6"
+    },
+    "Complexity": {
+        "$numberInt": "684"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 174",
+            "Value": "log Kow = 1.61"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "McEvoy, G.K. (ed.). American Hospital Formulary Service.     AHFS Drug Information. American Society of Health-System     Pharmacists, Bethesda, MD. 2007., p. 3525",
+            "Value": "Following topical application, corticosteroids produce anti-inflammatory, antipruritic, and vasoconstrictor actions. The activity of the drugs is thought to result at least in part from binding with a steroid receptor. Corticosteroids decrease inflammation by stabilizing leukocyte lysosomal membranes, preventing release of destructive acid hydrolases from leukocytes; inhibiting macrophage accumulation in inflamed areas; reducing leukocyte adhesion to capillary endothelium; reducing capillary wall permeability and edema formation; decreasing complement components; antagonizing histamine activity and release of kinin from substrates; reducing fibroblast proliferation, collagen deposition, and subsequent scar tissue formation; and possibly by other mechanisms as yet unknown. Corticosteroids, especially the fluorinated corticosteroids, have antimitotic activity on cutaneous fibroblasts and the epidermis. /Corticosteroids/"
+        },
+        {
+            "References": "PMID:11319715",
+            "Value": "Reactive oxygen species (ROS) generation by polymorphonuclear leukocytes (PMNL) and mononuclear cells (MNC) is inhibited following the intravenous administration of hydrocortisone. This is associated with a parallel decrease in intranuclear NFkappaB, known to modulate inflammatory responses including ROS generation. Plasma levels of interleukin-10 (IL-10), an anti-inflammatory and immunosuppressive cytokine produced by TH2 cells, are also increased after hydrocortisone administration. In this study, we have investigated the effect of hydrocortisone on p47(phox) subunit, a key component of nicotinamide adenine dinucleotide phosphate (NADPH) oxidase, in MNC and the pharmacodynamics of this effect with ROS generation and plasma IL-10 levels /were investigated/. p47(phox) subunit protein levels in MNC showed a progressive decrease after hydrocortisone administration. It reached a nadir at 4 hours and increased thereafter to a baseline level at 24 hours. ROS generation also decreased, reached a nadir between 2 and 4 hours, and returned to a baseline level at 24 hours. IL-10 concentrations increased, peaked at 4 hours, and reverted to the baseline levels at 24 hours. In conclusion, p47(phox) subunit suppression may contribute to the inhibition of ROS generation in MNC after hydrocortisone administration. This suppression occurs in parallel with the suppression of NFkappaB and an increase in IL-10 plasma levels. Therefore, it would appear that the decrease in intranuclear NFkappaB and an increase in IL-10 may cause the inhibitory modulation on p47(phox) subunit and ROS generation by MNC following hydrocortisone and other glucocorticoids."
+        }
+    ]
+}

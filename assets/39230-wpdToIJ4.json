@@ -1,0 +1,68 @@
+{
+    "_id": {
+        "$oid": "6682e97cc4e5dba5ffba2ada"
+    },
+    "CID": {
+        "$numberInt": "39230"
+    },
+    "Name": "BIFENOX",
+    "IUPACName": "methyl 5-(2,4-dichlorophenoxy)-2-nitrobenzoate",
+    "CanonicalSMILES": "COC(=O)C1=C(C=CC(=C1)OC2=C(C=C(C=C2)Cl)Cl)[N+](=O)[O-]",
+    "Synonyms": [
+        "BIFENOX",
+        "42576-02-3",
+        "Methyl 5-(2,4-dichlorophenoxy)-2-nitrobenzoate",
+        "Modown",
+        "5-(2,4-Dichlorophenoxy)-2-nitrobenzoic acid methyl ester",
+        "MC-4379",
+        "Caswell No. 561AA",
+        "Benzoic acid",
+        "5-(2,4-dichlorophenoxy)-2-nitro-",
+        "methyl ester",
+        "KSB85XT26Y",
+        "CHEBI:6613",
+        "CHEMBL449928",
+        "DTXSID1040320",
+        "Bifenox 10 microg/mL in Cyclohexane",
+        "Bifenox 10 microg/mL in Acetonitrile",
+        "Bifenox [ANSI:BSI:ISO]"
+    ],
+    "IsomericSMILES": "COC(=O)C1=C(C=CC(=C1)OC2=C(C=C(C=C2)Cl)Cl)[N+](=O)[O-]",
+    "INCHI": "InChI=1S/C14H9Cl2NO5/c1-21-14(18)10-7-9(3-4-12(10)17(19)20)22-13-5-2-8(15)6-11(13)16/h2-7H,1H3",
+    "INCHIKEY": "SUSRORUBZHMPCO-UHFFFAOYSA-N",
+    "Formula": "C14H9Cl2NO5",
+    "MolecularWeight": {
+        "$numberDouble": "342.1"
+    },
+    "Description": "MC-4379 is a nitrobenzoic acid.",
+    "XlogP": {
+        "$numberDouble": "4.5"
+    },
+    "Complexity": {
+        "$numberInt": "417"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Gao JP et al; Water Res 31: 2811-19 (1997)",
+            "Value": "SEDIMENT: Bifenox was detected in the Teufelsweiher pond sediments (pH, 7.8 to 8.1; DOC 41.5 to 50.2) in Scheyern, Upper Bavaria, Germany from 1992-1994 at concns ranging from 4.1 to 18.3 ug/kg in sediment(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "Uptake and distribution in seedlings. The results, as tabulated from combustion data of seedlings, are shown by species in Tables II-1 to II-3. In general, the crop plants showed a substantial accumulation of 14c-residue in the roots over a 28-day period. These results are in agreement with uptake studies of other diphenylether herbicides as previously reported (1, 2, 3, 4, 5, 7, 8). This accumulation in the roots appeared to be a result of rapid conjugation of the bifenox and/or its metabolites which prevented their translocation to the shoots. The residue in the above-ground portion of the crop plants declined from day 7 to day 28. This decline indicated an initial rapid absorption (or adsorption) of chemical during emergence and little translocation to the shoots after day 7. The results are best explained as a dilution effect due to an increase in dry matter over the growing period. Velvetleaf, as a weed species susceptible to the herbicide, showed an accumulation of 14c in the roots and a constant ratio in the shoots. In contrast to the crop plants, velvetleaf appeared to absorb and translocate 14c-compound(s) to a greater extent over the growing period, a possible basis for the selectivity of bifenox. Although the rate utilized in this experiment was sublethal to velvetleaf, the plants were stunted but flowered by day 60. The differential in residue accumulation of the phenoxy-ring-labeled compound over that of the benzene-ring-labeled compound in all plants, may have been a result of cleavage between the rings which allowed a more easily translocated metabolite to accumulate. This point is discussed further in sections III and IV of this dissertation. Autoradiography. A comparison of the autoradiographs in Figure II-1, showed the 14c-label to be associated with the coleoptile of corn and the cotyledons of soybean which were the parts of the plants in contact with the treated soil during emergence. Velvetleaf, in contrast, showed some accumulation in the primary as well as the cotyledonary leaves. There was no difference in the patterns of absorption between the benzene and phenoxy-ring-labeled bifenox treatments. It could not be determined from this study, whether the site of absorption was at the root or cotyledonary tissue.",
+            "reference": "Leather, G. R. (1975). Absorption, distribution and metabolism of bifenox (Doctoral dissertation, Virginia Polytechnic Institute and State University).",
+            "method": {
+                "Test Plant": "Corn (Dekalb XL66), soybean (York), velvetleaf,",
+                "Apply Location": "Soil surface (preemergence application)",
+                "Plant Grown Condition": "Greenhouse conditions with subirrigation, maintained under a 16-hour light/8-hour dark photoperiod, and a temperature of approximately 60\u00b0C",
+                "Chemical Preparation": "14C-bifenox was used, with specific activity of 9.4 \u00b5Ci/mg for benzene ring labeling and 2.42 \u00b5Ci/mg for phenoxy ring labeling",
+                "Pesticide Application Details for the Plant": "Soil surface was sprayed with 14C-bifenox at a rate of 1.7 kg/ha for seedlings and 2.2 and 4.5 kg/ha for mature plants",
+                "Other Information": "Triplicate experiments were performed, and duplicate samples were taken for autoradiography"
+            },
+            "result": "[{\"Plant\": \"Corn\", \"Time after application\": \"7 days\", \"Type\": \"Benzene-ring\", \"Root (ppmw)\": 1.02, \"Shoot (ppmw)\": 2.79}, {\"Plant\": \"Corn\", \"Time after application\": \"14 days\", \"Type\": \"Benzene-ring\", \"Root (ppmw)\": 13.06, \"Shoot (ppmw)\": 3.83}, {\"Plant\": \"Corn\", \"Time after application\": \"28 days\", \"Type\": \"Benzene-ring\", \"Root (ppmw)\": 10.94, \"Shoot (ppmw)\": 3.11}, {\"Plant\": \"Corn\", \"Time after application\": \"7 days\", \"Type\": \"Phenoxy-ring\", \"Root (ppmw)\": 1.64, \"Shoot (ppmw)\": 10.35}, {\"Plant\": \"Corn\", \"Time after application\": \"14 days\", \"Type\": \"Phenoxy-ring\", \"Root (ppmw)\": 12.72, \"Shoot (ppmw)\": 3.86}, {\"Plant\": \"Corn\", \"Time after application\": \"28 days\", \"Type\": \"Phenoxy-ring\", \"Root (ppmw)\": 36.79, \"Shoot (ppmw)\": 2.18}, {\"Plant\": \"Soybean\", \"Time after application\": \"7 days\", \"Type\": \"Benzene-ring\", \"Root (ppmw)\": 1.27, \"Shoot (ppmw)\": 2.39}, {\"Plant\": \"Soybean\", \"Time after application\": \"14 days\", \"Type\": \"Benzene-ring\", \"Root (ppmw)\": 3.59, \"Shoot (ppmw)\": 1.68}, {\"Plant\": \"Soybean\", \"Time after application\": \"28 days\", \"Type\": \"Benzene-ring\", \"Root (ppmw)\": 26.98, \"Shoot (ppmw)\": 2.09}, {\"Plant\": \"Soybean\", \"Time after application\": \"7 days\", \"Type\": \"Phenoxy-ring\", \"Root (ppmw)\": 1.97, \"Shoot (ppmw)\": 4.57}, {\"Plant\": \"Soybean\", \"Time after application\": \"14 days\", \"Type\": \"Phenoxy-ring\", \"Root (ppmw)\": 3.56, \"Shoot (ppmw)\": 6.12}, {\"Plant\": \"Soybean\", \"Time after application\": \"28 days\", \"Type\": \"Phenoxy-ring\", \"Root (ppmw)\": 21.21, \"Shoot (ppmw)\": 4.72}, {\"Plant\": \"Velvetleaf\", \"Time after application\": \"7 days\", \"Type\": \"Benzene-ring\", \"Root (ppmw)\": 0.49, \"Shoot (ppmw)\": 7.08}, {\"Plant\": \"Velvetleaf\", \"Time after application\": \"14 days\", \"Type\": \"Benzene-ring\", \"Root (ppmw)\": 3.49, \"Shoot (ppmw)\": 5.89}, {\"Plant\": \"Velvetleaf\", \"Time after application\": \"28 days\", \"Type\": \"Benzene-ring\", \"Root (ppmw)\": 9.29, \"Shoot (ppmw)\": 5.96}, {\"Plant\": \"Velvetleaf\", \"Time after application\": \"7 days\", \"Type\": \"Phenoxy-ring\", \"Root (ppmw)\": 1.03, \"Shoot (ppmw)\": 12.3}, {\"Plant\": \"Velvetleaf\", \"Time after application\": \"14 days\", \"Type\": \"Phenoxy-ring\", \"Root (ppmw)\": 9.47, \"Shoot (ppmw)\": 15.95}, {\"Plant\": \"Velvetleaf\", \"Time after application\": \"28 days\", \"Type\": \"Phenoxy-ring\", \"Root (ppmw)\": 27.89, \"Shoot (ppmw)\": 13.47}]"
+        }
+    ]
+}

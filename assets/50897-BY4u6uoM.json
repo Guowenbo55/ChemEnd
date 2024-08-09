@@ -1,0 +1,92 @@
+{
+    "_id": {
+        "$oid": "6682e982c4e5dba5ffba2afb"
+    },
+    "CID": {
+        "$numberInt": "50897"
+    },
+    "Name": "FLUAZIFOP-BUTYL",
+    "IUPACName": "butyl 2-[4-[5-(trifluoromethyl)pyridin-2-yl]oxyphenoxy]propanoate",
+    "CanonicalSMILES": "CCCCOC(=O)C(C)OC1=CC=C(C=C1)OC2=NC=C(C=C2)C(F)(F)F",
+    "Synonyms": [
+        "FLUAZIFOP-BUTYL",
+        "69806-50-4",
+        "Fusilade",
+        "Fluazifop butyl",
+        "Halokon",
+        "Onecide",
+        "Hache uno super",
+        "Fluazifop-butyl [ISO]",
+        "IH 773B",
+        "butyl 2-[4-[[5-(trifluoromethyl)-2-pyridyl]oxy]phenoxy]propionate",
+        "PP 009",
+        "TF 1169",
+        "(+)-Fluazifop-butyl",
+        "Butyl 2-(4-(5-trifluoromethyl-2-pyridinyloxy)phenoxy)propanoate",
+        "12O1Z35LQA"
+    ],
+    "IsomericSMILES": "CCCCOC(=O)C(C)OC1=CC=C(C=C1)OC2=NC=C(C=C2)C(F)(F)F",
+    "INCHI": "InChI=1S/C19H20F3NO4/c1-3-4-11-25-18(24)13(2)26-15-6-8-16(9-7-15)27-17-10-5-14(12-23-17)19(20,21)22/h5-10,12-13H,3-4,11H2,1-2H3",
+    "INCHIKEY": "VAIZTNZGPYBOGF-UHFFFAOYSA-N",
+    "Formula": "C19H20F3NO4",
+    "MolecularWeight": {
+        "$numberDouble": "383.4"
+    },
+    "Description": "Butyl 2-(4-{[5-(trifluoromethyl)pyridin-2-yl]oxy}phenoxy)propanoate is a carboxylic ester resulting from the formal condensation of the carboxy group 2-(4-{[5-(trifluoromethyl)pyridin-2-yl]oxy}phenoxy)propanoic acid with the hydroxy group of butan-1-ol. It is a carboxylic ester, an organofluorine compound, a member of pyridines and an aromatic ether. It is functionally related to a 2-(4-{[5-(trifluoromethyl)pyridin-2-yl]oxy}phenoxy)propanoic acid and a butan-1-ol.",
+    "XlogP": {
+        "$numberDouble": "4.5"
+    },
+    "Complexity": {
+        "$numberInt": "453"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Clegg BS; J Agric Food Chem 35: 269-73 (1987)",
+            "Value": "Residues in potatoes and soybeans treated with fluazifop-butyl (Fusilade) were below 0.05 ug/g when harvested 90 days after herbicide application(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "Absorption and translocation of 14C-fluazifop-butyl {butyl ester of (\u00b1)-2-[4-[[5-(trifluoromethyl)-2-pyridinyl] oxy] phenoxy] propanoate} was compared in susceptible quackgrass [Agropyron repens (L.) Beauv. \u266f3 AGRRE] and tolerant soybean [Glycine max (L.) Merr.]. Foliar absorption was more rapid in soybeans with 75% of the recovered 14C absorbed 6 h after treatment compared to 36% in quackgrass. Translocation of the radiolabel occurred in both soybean and quackgrass with no significant difference between the species. Differential absorption and translocation did not contribute to the selectivity of fluazifop-butyl. Herbicidal activity was lower on quackgrass plants at the five- to six-leaf stage when compared to the two- to three-leaf stage. Greater quackgrass control was observed at 30 than at 20 C. Foliar absorption of 14C-fluazifop-butyl was significantly greater at 30 than at 20 C. Translocation of the radiolabel was greater in plants exposed to full light as compared to shade. Moisture stress significantly reduced quackgrass control with fluazifop-butyl.",
+            "reference": "Kells, J. J., Meggitt, W. F., & Penner, D. (1984). Absorption, translocation, and activity of fluazifop-butyl as influenced by plant growth stage and environment. Weed Science, 32(2), 143-149.",
+            "method": {
+                "Test Plant": "Quackgrass",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Quackgrass rhizomes were planted in 10-cm diameter plastic pots filled with either vermiculite, greenhouse potting soil (1:1:1, soil, sand, peat), or a sandy loam soil.",
+                "Chemical Preparation": "A stock treatment solution was prepared by adding 1.2 \u03bcl of technical grade fluazifop-butyl and 4.8 \u03bcl of blank formulation to 50 \u03bcCi of 14C-fluazifop-butyl (specific activity 61.2 mCi/mM) and 1.25 ml of 0.5% (v/v) surfactant. The treatment solution was stored frozen between treatment times.",
+                "Pesticide Application Details for the Plant": "Uniform quackgrass plants with two connected shoots and soybeans were treated with 0.4 \u03bcl of 14C-fluazifop-butyl. Formulated fluazifop-butyl was applied at 0.56 kg ai/ha with 0.5% (v/v) surfactant using a moving belt sprayer delivering 355 L/ha at 206 kPa.",
+                "Other Information": "Herbicidal activity experiments were replicated four times."
+            },
+            "result": "[{\"Variable\": \"5 to 6 leaf\", \"Recovered (%)\": 68.8, \"Leaf wash (%)\": 9.3, \"Absorbed (%)\": 59.5, \"Translocated (%)\": 10.0}, {\"Variable\": \"2 to 3 leaf\", \"Recovered (%)\": 71.8, \"Leaf wash (%)\": 4.4, \"Absorbed (%)\": 67.4, \"Translocated (%)\": 12.4}, {\"Variable\": \"20 degree temperature\", \"Recovered (%)\": 74.8, \"Leaf wash (%)\": 29.5, \"Absorbed (%)\": 45.3, \"Translocated (%)\": 8.8}, {\"Variable\": \"30 degree temperature\", \"Recovered (%)\": 75.7, \"Leaf wash (%)\": 4.3, \"Absorbed (%)\": 71.4, \"Translocated (%)\": 8.4}, {\"Variable\": \"Light\", \"Recovered (%)\": 73.4, \"Leaf wash (%)\": 6.1, \"Absorbed (%)\": 67.3, \"Translocated (%)\": 17.9}, {\"Variable\": \"Shade\", \"Recovered (%)\": 67.9, \"Leaf wash (%)\": 6.0, \"Absorbed (%)\": 61.9, \"Translocated (%)\": 14.1}, {\"Variable\": \"Moist soil\", \"Recovered (%)\": 73.7, \"Leaf wash (%)\": 3.0, \"Absorbed (%)\": 70.7, \"Translocated (%)\": 18.4}, {\"Variable\": \"Dry soil\", \"Recovered (%)\": 68.1, \"Leaf wash (%)\": 4.9, \"Absorbed (%)\": 63.2, \"Translocated (%)\": 14.3}]"
+        },
+        {
+            "content": "The uptake and translocation of fluazifop-butyl were studied in Setaria viridis. Young plants (three to four leaves) with a portion of the second, third, or fourth leaf covered were sprayed with a dose equivalent to 0.25 kg a.i. ha-1. Subsequent application of 14C-fluazifop-butyl to the unsprayed area resulted in plant death within 2 weeks. Uptake by leaf 3 was rapid, with less than 5% of the applied dose remaining on the leaf surface after 24 hours. The highest proportion of 14C-activity was retained in the treated portion of the leaf, and only 2% of the applied dose was translocated from leaf 3, with 0.76% accumulating in the apical meristem. Uptake by the younger leaf 4 was more rapid, and the pattern of translocation differed, with more 14C-activity accumulating in apical meristematic tissue. Between 6-30% of the applied dose was undetected, particularly when foliar uptake was slow. Artificial leaf surface experiments suggested that this undetected activity may have been due to the volatility of fluazifop-butyl or degradation to volatile products. 14C-activity extracted from treated leaves was identified as fluazifop-butyl, fluazifop acid, and polar conjugates. The major 14C-activity extracted from the apical meristem was fluazifop acid, with no fluazifop-butyl detected in this extract.",
+            "reference": "CARR, J. E., Davies, L. G., Cobb, A. H., & Pallett, K. E. (1986). Uptake, translocation and metabolism of fluazifop\u2010butyl in Setaria viridis. Annals of applied biology, 108(1), 115-123.",
+            "method": {
+                "Test Plant": "Setaria viridis (green foxtail)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Seeds of S. viridis were planted in J. Arthur Bower's potting compost in 76 mm diameter pots and propagated in a glasshouse at 26\u00b0C day and 15\u00b0C night, with 14 hour photoperiod. After 2 weeks, plants were transferred to a growth cabinet maintained at 26\u00b0C day and 21\u00b0C night temperatures with 14 hour daylength provided by fluorescent and tungsten lights at 80 \u03bcmol/m2/s PAR. Plants were treated when three leaves were unfolded on the main shoot.",
+                "Chemical Preparation": "14C-fluazifop-butyl (specific activity 795 GBq/mol) was dissolved in methanol and taken up in 0.1% (v/v) Agral 90 giving a final concentration of 5% methanol. The solution was diluted to desired activity of 11,000 dpm/\u03bcl (186 Bq) for Experiment 1 and 30,000 dpm/\u03bcl (500 Bq) for Experiment 2 using unlabelled fluazifop-butyl.",
+                "Pesticide Application Details for the Plant": "Plants were sprayed with unlabelled fluazifop-butyl in 0.1% (v/v) aq. Agral 90 at 0.25 kg ai/ha using a pot sprayer at 200 L/ha. After spray, 1 \u03bcl of 14C-fluazifop-butyl was applied as five 0.2 \u03bcl droplets to the unsprayed mid-portion of the second, third or fourth leaf using a microdrop applicator.",
+                "Other Information": "Plants were assessed at 0, 8, 24, 72, 120 and 240 hours after treatment using six replicates per assessment time."
+            },
+            "result": "[{\"Hours after application\": 24, \"Leaf 1 (%)\": 6.36, \"Leaves 3 and 4 (%)\": 61.85, \"Apical meristem (%)\": 19.65, \"Roots (%)\": 12.14}, {\"Hours after application\": 72, \"Leaf 1 (%)\": 11.05, \"Leaves 3 and 4 (%)\": 56.91, \"Apical meristem (%)\": 19.89, \"Roots (%)\": 12.15}]"
+        },
+        {
+            "content": "Translocation of fluazifop-butyl in soybean plants and the hydrolysis of the ester to fluazifop acid were investigated in a field experiment. The herbicide was rapidly translocated from the leaves to the roots, with the concentration in the leaves remaining approximately 10-fold higher than that in the roots. Rapid hydrolysis of fluazifop-butyl to fluazifop acid was observed, and residues of the metabolite persisted much longer in the plant than the active compound. Increased temperatures led to more rapid hydrolysis. No traces of the active compound or its main metabolite were found in the seeds after harvest. A reversed-phase HPLC method for the simultaneous determination of fluazifop-butyl and fluazifop-acid residues in soybean plants was developed.",
+            "reference": "Balinova, A. M., & Lalova, M. P. (1992). Translocation, metabolism and residues of fluazifop\u2010butyl in soybean plants. Weed research, 32(2), 143-147.",
+            "method": {
+                "Test Plant": "Soybean cv. S-1346",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Field experiments were conducted during 1987 and 1988 growing seasons on a chernozem smolnitsa soil type at the Experimental Field of the Institute for Plant Protection, Kostinbrod. Plot size was 15 m2 with four replicates.",
+                "Chemical Preparation": "Fusilade EC (250 g ai/l) formulation of fluazifop-butyl was used.",
+                "Pesticide Application Details for the Plant": "Soybeans were sprayed at the second-leaf stage with rates of 0.375 and 0.750 kg/ha of Fusilade EC. In 1988, the experiment was repeated with applications about 1 month apart - first at second-leaf stage and second at fourth-leaf stage when mean daily temperatures were ~5\u00b0C higher.",
+                "Other Information": "Translocation studies determined concentrations of unchanged fluazifop-butyl and the fluazifop-acid metabolite in leaves, roots and seeds."
+            },
+            "result": "[{\"Days after application\": 5, \"Leaves (mg/kg)\": 1.15, \"Roots (mg/kg)\": 0.29}, {\"Days after application\": 10, \"Leaves (mg/kg)\": 0.71, \"Roots (mg/kg)\": 0.14}, {\"Days after application\": 15, \"Leaves (mg/kg)\": 0.56, \"Roots (mg/kg)\": 0.0}, {\"Days after application\": 25, \"Leaves (mg/kg)\": 0.13, \"Roots (mg/kg)\": 0.0}]"
+        }
+    ]
+}

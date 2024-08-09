@@ -1,0 +1,95 @@
+{
+    "_id": {
+        "$oid": "6682e7d4c4e5dba5ffba228a"
+    },
+    "CID": {
+        "$numberInt": "342"
+    },
+    "Name": "m-CRESOL",
+    "IUPACName": "3-methylphenol",
+    "CanonicalSMILES": "CC1=CC(=CC=C1)O",
+    "Synonyms": [
+        "m-cresol",
+        "3-methylphenol",
+        "108-39-4",
+        "Metacresol",
+        "Phenol",
+        "3-methyl-",
+        "meta-cresol",
+        "3-cresol",
+        "3-hydroxytoluene",
+        "m-methylphenol",
+        "m-kresol",
+        "m-cresylic acid",
+        "1-hydroxy-3-methylbenzene",
+        "m-oxytoluene",
+        "m-toluol",
+        "m-Hydroxytoluene"
+    ],
+    "IsomericSMILES": "CC1=CC(=CC=C1)O",
+    "INCHI": "InChI=1S/C7H8O/c1-6-3-2-4-7(8)5-6/h2-5,8H,1H3",
+    "INCHIKEY": "RLSSMJSEOOYNOY-UHFFFAOYSA-N",
+    "Formula": "C7H8O",
+    "MolecularWeight": {
+        "$numberDouble": "108.14"
+    },
+    "Description": "M-cresol is a cresol with the methyl substituent at position 3. It is a minor urinary metabolite of toluene. It has a role as a human xenobiotic metabolite.",
+    "XlogP": {
+        "$numberDouble": "2"
+    },
+    "Complexity": {
+        "$numberInt": "70"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. p-Cresol. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Jan 5, 2015: https://www.ars-grin.gov/duke/",
+            "Value": "m-Cresol occurrence in plants(1).",
+            "Table": "[{'Genus species': 'Artemisia capillaris THUNB.', 'Family': 'Asteraceae', 'Common name': 'Capillary Wormwood', 'Part': 'Essential Oil'}, {'Genus species': 'Asparagus officinalis L.', 'Family': 'Liliaceae', 'Common name': 'Asparagus', 'Part': 'Shoot'}, {'Genus species': 'Camellia sinensis (L.) KUNTZE', 'Family': 'Theaceae', 'Common name': 'Tea', 'Part': 'Leaf'}, {'Genus species': 'Coffea arabica L.', 'Family': 'Rubiaceae', 'Common name': 'Coffee', 'Part': 'Seed'}, {'Genus species': 'Commiphora myrrha (NNES) ENGL.', 'Family': 'Butseraceae', 'Common name': 'Myrrh', 'Part': 'Resin'}, {'Genus species': 'Ligustrum japonicum THUNB.', 'Family': 'Oleaceae', 'Common name': 'Japanese Privet, Fructus', 'Part': 'Flower'}, {'Genus species': 'Morus alba L.', 'Family': 'Moraceae', 'Common name': 'White Mulberry', 'Part': 'Plant'}, {'Genus species': 'Nicotiana tabacum L.', 'Family': 'Solanaceae', 'Common name': 'Tobacco', 'Part': 'Leaf'}]"
+        },
+        {
+            "References": "(1) Fiege H; Cresols and Xylenols. Ullmann's Encyclopedia of Industrial Chemistry. 7th ed. (1999-2014). New York, NY: John Wiley & Sons. Online Posting Date: Jun 15, 2000.",
+            "Value": "Cresols, including m-cresol, are widespread in nature occurring in many plants and trees(1). Cresols occur in various plant lipid constituents, including oils from jasmine, cassia and Easter lily, ylang ylang, and Yucca gloriosa flowers, peppermint, eucalyptus, and camphor. Oils from conifers, oaks, and sandalwood trees also contain cresols(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) OECD; SIDS Initial Assessment Report For SIAM 16, m-Cresol (CAS No. 108-39-4) and p-Cresol (CAS No. 106-44-5), May 30, 2003. Available from, as of Jan 5, 2015: https://www.chem.unep.ch/irptc/sids/OECDSIDS/m-p-cresols.pdf (2) Shiu WY et al; Chemosphere 29: 1155-1244 (1994) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "Based on a 3-day exposure period of golden ide fish (Leuciscus idus melanotus) to 0.05 mg/L m-cresol, m-cresol had a BCF value of 20(1). A BCF of 10.7 has also been reported for zebrafish (Danio rerio)(2). According to a classification scheme(3), these BCF values suggest bioconcentration in aquatic organisms is low."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Ludzack FJ, Ettinger MB; J Water Pollut Control Fed 32: 1173-1200 (1960) (2) Pfaender FK, Bartholomew GW; Appl Environ Microbiol 44: 159-64 (1982) (3) Huddleston RL et al; pp. 41-61 in Water Resources Symposium 13 (1986) (4) Aelion CM et al; Appl Environ Microbial 53: 2212-7 (1987) (5) Goerlitz DF et al; Environ Sci Tech 19: 955-61 (1985) (6) Howard PH et al; Handbook of Environmental Degradation Rates. Printup HT ed. Lewis Publishers Chelsea, MI pp 402 (1991) (7) Dawson TD, Chang FH; Bull Environ Contam Toxicol 49: 10-17 (1992) (8) Desai S et al; in ACS Symp Ser 422(Emerging Technol Hazard Waste Manage): 142-156 (1989) (9) Loehr RC; Treatability Potential For EPA Listed Hazardous Wastes In Soil. USEPA Robert S Kerr Environ Res Lab, ADA, OK, USEPA/600/2-89/011 (1989) (10) OECD; SIDS Initial Assessment Report For SIAM 16, m-Cresol (CAS No. 108-39-4) and p-Cresol (CAS No. 106-44-5), May 30, 2003. Available from, as of Jan 5, 2015: https://www.chem.unep.ch/irptc/sids/OECDSIDS/m-p-cresols.pdf",
+            "Value": "AEROBIC: m-Cresol was degraded 99-100% in 7 and 2 days at 4 and 20 \u00b0C, respectively in river die-away tests(1). Die-away studies were performed in freshwater, estuarine water, and marine water from sites near Newport, NC throughout the year(2). In estuarine water the half-life ranged from 1-6 days(2). Rates were faster in freshwater and slower in marine water(2). While rates were highest during the summer in fresh and estuarine waters, the rate of degradation in marine water was almost independent of the season(2). m-Cresol was completely degraded in soil in 11 days at an application rate of 500 ppm(3). Low concentrations (39 ppb) of m-cresol degraded in subsurface materials taken from an uncontaminated aquifer(4). There was a linear increase in biodegradation with time over the 160 day experiment with a 0.07% per day average mineralization rate(4). When the concentration of m-cresol was increased to 788 ppb, no mineralization was observed(4). The disproportionate decrease in concentration of m-cresol in groundwater down-gradient from a wood-preserving facility has been ascribed to biodegradation(5). The biodegradation half-life of m-cresol in aerobic natural waters was reported to range from 2-29 days(6). Pure cultures isolated from reed-sedge peat bogs resulted in 99.3 % degradation of m-cresol during a 48 hour incubation period(7). The first-order aerobic biodegradation rate constant of m-cresol was reported as 0.0031/day(8), corresponding to a half-life of about 222 days(SRC). Biodegradation half-lives of 0.6 and 11.3 days were reported for m-cresol in 2 agricultural soils(9). Based upon available test results, including OECD screening methods, m-cresol can be considered as being readily biodegradable under aerobic conditions(10); in surface waters and sediments, half-lives in the range of hours to a few days are expected(10). Using OECD Guideline 301D (Closed-Bottle Test), m-cresol had 65-90% degradation over a 28-day incubation period(10). Using OECD Guideline 301C (Electrolytic Respirometry Test), m-cresol had 80-95% degradation over a 40-day incubation period(10). Using OECD Guideline 302B (Zahn-Wellens Test), m-cresol had 95.5-96% degradation over 5 and 10-day incubation periods(10)."
+        },
+        {
+            "References": "(1) Horowitz A et al; Dev Ind Microbial 23: 435-44 (1982) (2) Battersby NS, Wilson V; Appl Environ Microbial 55: 433-39 (1989) (3) Flyvbjerg J et al; pp. 471-9 in In Situ Bioreclamation. Hinchee RE, Olfenbuttel RF, eds., Stoneham, MA: Butterworth-Heinemann (1991) (4) Fedorak PM, Hrudey SE; Water Res 18: 361-7 (1984) (5) Howard PH et al; Handbook of Environmental Degradation Rates. Printup HT ed. Lewis Publishers Chelsea, MI pp 402 (1991) (6) ECHA; Search for Chemicals. m-Cresol (CAS No. 108-39-4) Registered Substances Dossier. European Chemical Agency. Available from, as of Jan 6, 2015: https://echa.europa.eu/",
+            "Value": "ANAEROBIC: When m-cresol was incubated with two digester sludges under anaerobic conditions, 92 and 90% mineralization was reported in 4 and 5 weeks, respectively(1). No mineralization occurred in 29 weeks, however, when it was incubated with anaerobic freshwater sediment(1). m-Cresol was degraded 75% in an anaerobic digester sludge over a 10 week incubation period(2). m-Cresol was completely degraded in creosote contaminated groundwater in 37 days (lag time, 25 days) at 10 \u00b0C and 12 days (lag time, 8 days) at 20 \u00b0C under nitrate reducing conditions(3). No mineralization occurred when m-cresol was incubated anaerobically for 40 days at 37 \u00b0C with a sludge inoculum(4). The biodegradation half-life of m-cresol in anaerobic natural waters was reported to range from 15 to 49 days(5). Using adapted anaerobic sludge inoculum, m-cresol (300 mg/L concentration) degraded about 100% after 9 days with most of the m-cresol (87%) converted to methane(6). A 92% evolution of methane was observed in an anaerobic test using municipal sludge and m-cresol at 50 mg/L(6). Using a phenol-enriched methanogenic culture, m-cresol (100 mg/L) had an 85% theoretical CH4 production after 58 days of incubation(6)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 32",
+            "Value": "log Kow = 1.96"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) McCreary JJ et al; Chemosphere 12: 1619-32 (1983)",
+            "Value": "SOIL: m-Cresol was identified, not quantified, in the soil of an abandoned pine tar manufacturing plant in Gainesville, FL(1)."
+        },
+        {
+            "References": "(1) Schwarzbauer J et al; Org Geochem 31: 1713-1731 (2000)",
+            "Value": "SEDIMENT: m-Cresol was identified, not quantified, in sediment samples obtained from the Elbe River, Germany(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) OECD; SIDS Initial Assessment Report For SIAM 16, m-Cresol (CAS No. 108-39-4) and p-Cresol (CAS No. 106-44-5), May 30, 2003. Available from, as of Jan 5, 2015: https://www.chem.unep.ch/irptc/sids/OECDSIDS/m-p-cresols.pdf (2) Artiola-Fortuny J, Fuller WH; Soil Sci 133: 18-26 (1982) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a clay loam soil in batch adsorption experiments similar to OECD Guideline 106, m-cresol had a Koc value of 34.58(1). p-Cresol had a similar Koc value in this experiment (48.66)(1), but based on measured Freundlich isotherms in five different horizon soils(2), p-cresol had a Koc range of 27 to 251 with an average of 173(SRC). A similar Koc range is expected for m-cresol(SRC). According to a classification scheme(2), this Koc value indicates that m-cresol is expected to have very high to moderate mobility in soil."
+        }
+    ]
+}

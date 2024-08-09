@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "66927122303528b49832d80b"
+    },
+    "CID": {
+        "$numberInt": "135585373"
+    },
+    "Name": "Tepraloxydim",
+    "IUPACName": "2-[(E)-N-[(E)-3-chloroprop-2-enoxy]-C-ethylcarbonimidoyl]-3-hydroxy-5-(oxan-4-yl)cyclohex-2-en-1-one",
+    "CanonicalSMILES": "CCC(=NOCC=CCl)C1=C(CC(CC1=O)C2CCOCC2)O",
+    "Synonyms": [
+        "Tepraloxydim",
+        "149979-41-9",
+        "CHEBI:81816",
+        "trans-2-[1-(3-Chloroallyloxyimino)propyl]-3-hydroxy-5-(tetrahydro-2H-pyran-4-yl)-2-cyclohexen-1-one",
+        "2-[(E)-N-[(E)-3-chloroprop-2-enoxy]-C-ethylcarbonimidoyl]-3-hydroxy-5-(oxan-4-yl)cyclohex-2-en-1-one",
+        "DTXSID7034252",
+        "Tepraloxydim 10 microg/mL in Cyclohexane",
+        "ARAMO",
+        "CALOXYDIM",
+        "EQUINOX",
+        "TEPRALOXYDIM [MI]",
+        "2-[1-[[(E)-3-chloroprop-2-enoxy]amino]propylidene]-5-(oxan-4-yl)cyclohexane-1,3-dione",
+        "SCHEMBL54537",
+        "SCHEMBL336828",
+        "DTXCID50196609"
+    ],
+    "IsomericSMILES": "CC/C(=N\\OC/C=C/Cl)/C1=C(CC(CC1=O)C2CCOCC2)O",
+    "INCHI": "InChI=1S/C17H24ClNO4/c1-2-14(19-23-7-3-6-18)17-15(20)10-13(11-16(17)21)12-4-8-22-9-5-12/h3,6,12-13,20H,2,4-5,7-11H2,1H3/b6-3+,19-14+",
+    "INCHIKEY": "IOYNQIMAUDJVEI-BMVIKAAMSA-N",
+    "Formula": "C17H24ClNO4",
+    "MolecularWeight": {
+        "$numberDouble": "341.8"
+    },
+    "Description": "Tepraloxydim is a member of oxanes.",
+    "XlogP": {
+        "$numberDouble": "2.6"
+    },
+    "Complexity": {
+        "$numberInt": "507"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Tepraloxydim, a herbicide, was found to be highly effective against annual bluegrass (Poa annua), a weed species that is relatively tolerant to sethoxydim, another herbicide. The absorption and translocation rates of tepraloxydim and sethoxydim were higher in P. annua compared to Setaria faberi, but the absorption and translocation patterns of tepraloxydim in both plants were similar to those of sethoxydim. The metabolic rates of tepraloxydim and sethoxydim in P. annua and S. faberi were also similar. Tepraloxydim showed a strong inhibition of acetyl-coenzyme A carboxylase (ACCase), a key enzyme in plant lipid synthesis, with an I50 concentration of approximately 3 x 10-6 mol L-1 for P. annua and 7 x 10-7 mol L-1 for S. faberi. In contrast, sethoxydim had an I50 of 2 x 10-6 mol L-1 for ACCase from S. faberi but showed only slight effects on ACCase activity from P. annua even at 10-4 mol L-1. The difference in ACCase inhibition is believed to be the major factor contributing to the high herbicidal activity of tepraloxydim against P. annua. The herbicidal activity against P. annua was significantly influenced by the length of the alkyl chain at position R2 in the tepraloxydim molecule, with a P/S ratio (ratio of the I50 dose of P. annua to that of S. faberi) of 2.4 for tepraloxydim, 56.3 for sethoxydim, and 73.3 for a tepraloxydim analog with a propyl chain at R2. These findings suggest that the binding site structure of cyclohexane-1,3-diones in ACCase differs between P. annua and S. faberi.",
+            "reference": "Takahashi, A., Yamada, S., & Tanaka, K. (2002). Mechanism of herbicidal activity of a new cyclohexane\u20101, 3\u2010dione, tepraloxydim to Poa annua L. Weed biology and management, 2(2), 84-91.",
+            "method": {
+                "Test Plant": "Poa annua (annual bluegrass) and Setaria faberi (giant foxtail)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Seeds were germinated and grown hydroponically in 0.1% Hyponex nutrient solution until the 4-5 leaf stage in a growth room at 25\u00b0C, 14 h daylength, 90 \u03bcmol/m2/s light intensity.",
+                "Chemical Preparation": "14C-tepraloxydim (specific activity 1.03 x 1012 Bq/mol) and 14C-sethoxydim (specific activity 4.33 x 1011 Bq/mol) were dissolved in acetone and diluted with water containing 0.1% Tween 20 (10% acetone final concentration).",
+                "Pesticide Application Details for the Plant": "3 \u03bcL droplets of 14C-tepraloxydim (6.29 x 102 Bq) or 14C-sethoxydim (2.63 x 102 Bq) applied to the 4th leaf of P. annua or 3rd leaf of S. faberi.",
+                "Other Information": "Absorption studies had 4 replicates of 1 plant each. Translocation studies had 4 replicates of 1 plant each."
+            },
+            "result": "[{\"Plant\": \"S.faberi\", \"Hours after application\": 6, \"Treated leaf (% of absorbed)\": 99.7, \"Shoot (%)\": 0.2, \"Root (%)\": 0.1}, {\"Plant\": \"S.faberi\", \"Hours after application\": 24, \"Treated leaf (% of absorbed)\": 98.4, \"Shoot (%)\": 1.4, \"Root (%)\": 0.2}, {\"Plant\": \"S.faberi\", \"Hours after application\": 72, \"Treated leaf (% of absorbed)\": 91.0, \"Shoot (%)\": 7.2, \"Root (%)\": 1.8}, {\"Plant\": \"P.annua\", \"Hours after application\": 6, \"Treated leaf (% of absorbed)\": 94.1, \"Shoot (%)\": 5.2, \"Root (%)\": 0.7}, {\"Plant\": \"P.annua\", \"Hours after application\": 24, \"Treated leaf (% of absorbed)\": 83.0, \"Shoot (%)\": 15.0, \"Root (%)\": 2.0}, {\"Plant\": \"P.annua\", \"Hours after application\": 72, \"Treated leaf (% of absorbed)\": 73.1, \"Shoot (%)\": 22.6, \"Root (%)\": 4.3}]"
+        }
+    ]
+}

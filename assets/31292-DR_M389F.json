@@ -1,0 +1,89 @@
+{
+    "_id": {
+        "$oid": "6682e96ec4e5dba5ffba2a96"
+    },
+    "CID": {
+        "$numberInt": "31292"
+    },
+    "Name": "Stearic acid amide",
+    "IUPACName": "octadecanamide",
+    "CanonicalSMILES": "CCCCCCCCCCCCCCCCCC(=O)N",
+    "Synonyms": [
+        "Octadecanamide",
+        "Stearamide",
+        "124-26-5",
+        "STEARIC ACID AMIDE",
+        "Octadecamide",
+        "Octadecylamide",
+        "Stearoylamide",
+        "Stearoylamine",
+        "Stearylamide",
+        "Stearic amide",
+        "Kemamide S",
+        "Adogen 42",
+        "Crodamide S",
+        "Petrac vyn-eze",
+        "Amide T"
+    ],
+    "IsomericSMILES": "CCCCCCCCCCCCCCCCCC(=O)N",
+    "INCHI": "InChI=1S/C18H37NO/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18(19)20/h2-17H2,1H3,(H2,19,20)",
+    "INCHIKEY": "LYRFLYHAGKPMFH-UHFFFAOYSA-N",
+    "Formula": "C18H37NO",
+    "MolecularWeight": {
+        "$numberDouble": "283.5"
+    },
+    "Description": "Octadecanamide is a fatty amide of stearic acid. It has a role as a metabolite. It is functionally related to an octadecanoic acid.",
+    "XlogP": {
+        "$numberDouble": "6.8"
+    },
+    "Complexity": {
+        "$numberInt": "204"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of October 18, 2017: https://www2.epa.gov/tsca-screening-tools (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 510 was calculated in fish for stearic acid amide(SRC), using an estimated log Kow of 6.70(1) and a regression-derived equation(1). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is high(SRC), provided the compound is not metabolized by the organism(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) ECHA; Search for Chemicals. Stearamide (124-26-5) Registered Substances Dossier. European Chemical Agency. Available from, as of October 16, 2017: https://echa.europa.eu/ (2) Melaney GW, Gerhold RM; Ext Ser 112: 249-57 (1962) (3) US EPA; High Production Volume Information System (HPVIS). HPV Chemical Hazard Characterizations. Fatty Nitrogen Derived (FND) Amides Category. Available from, as of October 17, 2017: https://iaspub.epa.gov/oppthpv/hpv_hc_characterization.get_report?doctype=2",
+            "Value": "AEROBIC: Stearic acid amide reached 62% degradation based on CO2 evolution in 28 days using an activated sludge inoculum in the OECD Guideline 301 B(1). Using the Warburg respirometer screening test and activated sludge from 3 sewage treatment plants stearic acid amide reached approximately 3% of theoretical BOD after 24 hours(2). Additional biodegradation studies with analogous substances indicate that stearic acid amide is likely to be biodegradable under certain environmental conditions and have low environmental persistence(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of October 18, 2017: https://www2.epa.gov/tsca-screening-tools",
+            "Value": "log Kow = 6.70"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "USEPA; Screening-level Hazard Characterization: Fatty Nitrogen Derived (FND) Amides Category. p.27 (September 2010)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Sprague-Dawley rats (5/sex/dose) were administered /stearamide/ in corn oil via gavage at a dose of 10,000 mg/kg and then observed for 14 days. No mortality was observed."
+        },
+        {
+            "References": "USEPA; Screening-level Hazard Characterization: Fatty Nitrogen Derived (FND) Amides Category. p.36 (September 2010)",
+            "Value": "/GENOTOXICITY/ Salmonella typhimurium strains TA98, TA100, TA1535, TA1537 and TA1538 were exposed to /stearamide/ at concentrations of 50, 150, 500, 1500 or 5000 ug/plate in the presence and absence of metabolic activation. Positive and negative controls were tested concurrently and responded appropriately. A precipitate was observed at concentrations >/= 500 ug/plate, but no indications of toxicity were observed. Stearamide was not mutagenic in this assay."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Schwarzbauer J et al; Organic Geochem 31: 1713-31 (2000)",
+            "Value": "SEDIMENT: In 1998, stearic acid amide was detected, but not quantified, in sediment samples collected from several locations near the German Bight, the south eastern bay of the North Sea(1)."
+        },
+        {
+            "References": "(1) Rushdi AT et al; Arch Environ Contam Tox 49: 457-470 (2005)",
+            "Value": "SOIL: In 2002, stearic acid amide was detected, but not quantified, in sand samples collected from a sand dune 50 miles north of Saudi Arabia(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of October 18, 2017: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of stearic acid amide can be estimated to be 4.6X10+4(SRC). According to a classification scheme(2), this estimated Koc value suggests that stearic acid amide is expected to be immobile in soil."
+        }
+    ]
+}

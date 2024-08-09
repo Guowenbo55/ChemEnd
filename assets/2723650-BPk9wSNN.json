@@ -1,0 +1,93 @@
+{
+    "_id": {
+        "$oid": "6682e9a9c4e5dba5ffba2bc0"
+    },
+    "CID": {
+        "$numberInt": "2723650"
+    },
+    "Name": "Ethylene thiourea",
+    "IUPACName": "imidazolidine-2-thione",
+    "CanonicalSMILES": "C1CNC(=S)N1",
+    "Synonyms": [
+        "imidazolidine-2-thione",
+        "2-Imidazolidinethione",
+        "96-45-7",
+        "Ethylenethiourea",
+        "ETHYLENE THIOUREA",
+        "2-Mercaptoimidazoline",
+        "Ethlenethiourea",
+        "Imidazolidinethione",
+        "\"N,N-Ethylenethiourea\"",
+        "Sanceller 22",
+        "Soxinol 22",
+        "Robac 22",
+        "Mercazin I",
+        "Warecure C",
+        "Rhenogran ETU"
+    ],
+    "IsomericSMILES": "C1CNC(=S)N1",
+    "INCHI": "InChI=1S/C3H6N2S/c6-3-4-1-2-5-3/h1-2H2,(H2,4,5,6)",
+    "INCHIKEY": "PDQAZBWRQCGBEV-UHFFFAOYSA-N",
+    "Formula": "C3H6N2S",
+    "MolecularWeight": {
+        "$numberDouble": "102.16"
+    },
+    "Description": "Ethylenethiourea is a member of imidazolidines.",
+    "XlogP": {
+        "$numberDouble": "-0.7"
+    },
+    "Complexity": {
+        "$numberInt": "63"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V7: 47 (1974)",
+            "Value": "...Treatment of kale and lettuce with maneb (which contained some ethylenethiourea) at a rate of 1.09 kg active ingredient per acre resulted in initial residues of 0.6 mg/kg ethylenethiourea, which decreased to undetectable levels within seven days after application."
+        },
+        {
+            "References": "PMID:701629",
+            "Value": "residues of ETU monitored in tomatoes after application of several ebdc formulations from 1973-1977. After spraying with EBDC at recommended rates, ETU was detected at levels less than 0.05 ppm on tomatoes. Boiling of some products demonstrated additional ETU formation. Residues in tomato juice and whole pack products, prepared from treated tomatoes in 1st 3 days after application, ranged from less than 0.01-0.17 ppm."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from https://www.safe.nite.go.jp/english/db.html as of Feb 15, 2010. (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "BCFs of <0.2 to 0.3 and <1.8 were determined in carp (Cyprinus carpio) for ethylene thiourea at concentrations of 1.0 and 0.1 ppm exposed for 6 weeks(1). According to a classification scheme(2), these BCFs suggest bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Lyman WR, Lacoste RJ; Environ Qual Saf Suppl p. 67 (1975) (2) Kaufman DD, Fletcher DL; Abstr Am Chem Soc 165th Natl Meeting Dallas TX (1973) (3) Johannesen H et al; Sci Total Environ 191: 271-6 (1996) (4) Jacobsen OS, Bossi, R; FEMS Microbiol Rev 20: 539-44 (1997) (5) Freitag D et al; Chemosphere 14: 1589-1616 (1985) (6) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from https://www.safe.nite.go.jp/english/db.html as of Feb 15, 2010",
+            "Value": "AEROBIC: Ethylene thiourea was found to be readily degraded by soil microorganisms(1). Ethylene thiourea degraded rapidly in soil to ethyleneurea and then CO2; however, studies with autoclaved soil indicated that initial conversion was accomplished chemically(2) while further degradation to CO2 was accomplished microbially(3). Ethylene thiourea was shown to be biodegradable in aerobic soil samples from a sandy locality in western Jylland, Denmark at a concentration 125 ug/L incubated in the dark at 23 \u00b0C for 120 days(4). Aerobic decay rates were 11.4 to 13.3 ug/kg soil-day(4). Degradation of 0.07 mg/kg 14C-labeled ethylene thiourea was determined in surface (19% in 24 hrs) coarse sandy field soil from Denmark(5). Subsurface rates were affected by soil depth; 16% and 23% at 100 and 60 cm depth, respectively, after 109 days. Following a 5 day incubation of 0.05 mg/L ethylene thiourea in activated sludge, 2.9% of applied amount was degraded(5). Ethylene thiourea, present at 100 mg/L, reached 0% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L and the Japanese MITI test(6)."
+        },
+        {
+            "References": "PMID:9340001",
+            "Value": "ANAEROBIC: Ethylene thiourea was shown to be biodegradable in anaerobic soil samples from a sandy locality in western Jylland, Denmark at a concentration 125 ug/L, incubated in the dark at 23 \u00b0C for 120 days(1). Anaerobic decay rates were 2.41 to 3.80 ug/kg soil-day(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Govers H et al; Chemosphere 15: 383-93 (1986)",
+            "Value": "log Kow = -0.66"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:3938269",
+            "Value": "Ethylenebisdithiocarbamates (EBDCs) maneb and zineb are widely used fungicides the final metabolite of which is ethylenethiourea (ETU). EBDCs distort the humoral activity of the thyroid gland, and ETU is especially active in this respect. Male Wistar rats were exposed either to exogenous (100 ng ip) or endogenous (+4 degrees C) TRH stimulation. ETU (100-500 mg/kg i.p.) caused no changes in serum TSH levels whereas zineb (70-500 mg/kg ip) significantly decreased the bursts induced by cold or exogenous TRH. Maneb (20-200 mg/kg ip) significantly decreased the cold-induced TSH response while it had no effect on the TRH-stimulated TSH secretion. None of the agents caused significant changes in serum T3 or T4 levels. It seems that maneb, and zineb, but not ETU, inhibit rat TSH secretion through an action on the endogenous TRH at the hypothalamic or pituitary level. The mechanism behind this action may be the inhibition of dopamine-beta-hydroxylase."
+        },
+        {
+            "References": "WHO; Environ Health Criteria 78: Dithiocarbamate Pesticides, Ethylenethiourea And Propylenethiourea: A General Introduction (1988). Available from, as of February 17, 2010: https://www.inchem.org/pages/ehc.html",
+            "Value": "The biochemical changes induced by antithyroid drugs include reduced production of thyroid hormones (T3  and T4), followed by increased production of TSH in response to low thyroid hormone levels in the blood. Pathological changes in the thyroid gland begin with diffuse microfollicular hyperplasia and are followed by diffuse and nodular hyperplasia and later by nodular hyperplasia with papillary and cystic changes induced by the TSH. If hyperstimulation of the thyroid by TSH is severe and prolonged, it provides conditions conducive to the formation of tumors. Antithyroid drugs can inhibit T4 production in various ways. The chemical similarity of ETU to thiourea and thiouracil suggests that ETU acts by blocking the iodination of thyroxine precursors, thus reducing the synthesis of the thyroid hormones. Iodide peroxidase catalyses the iodination of tyrosine and the coupling of the resultant iodotyrosyl residues to produce the active hormones T3 and T4 ... ETU /was found to/ inhibit iodide peroxidase in vitro. The resulting decreased level of thyroid hormones causes stimulatory feedback of the pituitary gland and consequently an increased release of TSH ... The influence of ETU in pregnant hypothyroid and euthyroid rats /was studied/ to determine whether ETU teratogenicity occurs as a result of altered maternal thyroid function. Doses of 40 mg ETU/kg bw, administered on days 7 - 15 of gestation, resulted in 84 - 100% of the fetuses in all treated groups being malformed, regardless of the thyroid status of the dams ... /It was/ concluded that the thyroid status of the mother is not of importance in causing teratogenic effects ... The effects of feeding rats 125 - 625 mg ETU/kg diet for 2 - 12 weeks, which included thyroid hyperplasia and dose related suppression of serum T3 and T4 (with corresponding TSH elevation), were reversible within 22 weeks of placing on control diets. Long-term studies using ETU showed significantly increased thyroid/bw ratios in rats fed 125, 250, or 500 mg/kg diet for periods of up to 2 years ... This effect was not reversed in rats placed on a control diet after 66 weeks of continuous exposure to 5 - 500 mg ETU/kg  diet. It is likely that by that time the thyroid was severely damaged ... Decreased levels of  serum thyroid hormones and increased thyroid weights were reversed in Sprague Dawley rats fed diets containing 0, 75, 100, or 150  mg  ETU/kg diet for 7 weeks. The  reversibility of microscopic changes in the thyroids of male rats exposed to ETU was /also/ studied. The rats were fed diets containing 75 or 150 mg ETU/kg diet for 7 - 82 weeks and then returned to a control diet for periods ranging from 2 to 42 weeks. The severity and extent of reversibility of thyroid hyperplasia were found to depend on the duration of exposure to ETU.  Above a certain  threshold, hyperplasia did not regress significantly. Numerous studies with ETU suggest that the rat is more sensitive than other species to the effects of the  thyroid. A recent study with propylthiouracil, a thyroid inhibitor with a mode of action similar to that of ETU, has confirmed that monkeys are much less sensitive than rats. The sensitivity difference was not quantified in vivo, but in an in vitro study, the concentration of inhibitor required to produce the same level of thyroid peroxidase inhibition was approximately 100 times greater for monkey enzyme than it was for rat enzyme ..."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.0. Jan, 2009. Available from https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm as of Feb 15, 2010. (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Helling CS, Thompson SM; Soil Sci Soc Am Proc 38:80-5 (1974) (4) Fomsgaard IS, Ecol Modell 102: 175-208 (1997)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of ethylene thiourea can be estimated to be 13(SRC). According to a classification scheme(2), this estimated Koc value suggests that ethylene thiourea is expected to have very high mobility in soil. Average Rf values of 0.96 (Norfolk sandy loam), 1.00 (Lakeland sandy loam), 0.96 (Hagerstown silty clay loam), 0.83 (Barnes clay loam) and 0.61 (Celeryville muck) were measured using soil TLC plates which is indicative of high mobility in all the soils except the muck which has intermediate mobility(3). Ethylene thiourea Kd values were measured in Dutch soils from Fladerne Baek, March 1994; 0.06 (2.1% clay, 1.4% silt, 96.3% sand, 0.1% humus, pH 6.4), 0.13 (2.5% clay, 1.4% silt, 95.7% sand, 0.3% humus, pH 6.3), 0.17 (3.6% clay, 2.8% silt, 90.8% sand, 2.8% humus, pH 6.9)(4)."
+        }
+    ]
+}

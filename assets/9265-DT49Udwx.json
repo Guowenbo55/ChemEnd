@@ -1,0 +1,86 @@
+{
+    "_id": {
+        "$oid": "6682e8d4c4e5dba5ffba278f"
+    },
+    "CID": {
+        "$numberInt": "9265"
+    },
+    "Name": "CYCLOHEPTANE",
+    "IUPACName": "cycloheptane",
+    "CanonicalSMILES": "C1CCCCCC1",
+    "Synonyms": [
+        "CYCLOHEPTANE",
+        "291-64-5",
+        "Heptamethylene",
+        "Suberane",
+        "UNII-VTZ53P34JA",
+        "VTZ53P34JA",
+        "HSDB 59",
+        "NSC 5164",
+        "NSC-5164",
+        "EINECS 206-030-2",
+        "DTXSID0074269",
+        "cycloheptan",
+        "UN2241",
+        "Cycloheptane",
+        "98%",
+        "HEPTAMETHYLENE [HSDB]"
+    ],
+    "IsomericSMILES": "C1CCCCCC1",
+    "INCHI": "InChI=1S/C7H14/c1-2-4-6-7-5-3-1/h1-7H2",
+    "INCHIKEY": "DMEGYFMYUHOHGS-UHFFFAOYSA-N",
+    "Formula": "C7H14",
+    "MolecularWeight": {
+        "$numberDouble": "98.19"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "4"
+    },
+    "Complexity": {
+        "$numberInt": "19"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 35 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Sept 24, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm/ (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 200 was calculated in fish for cycloheptane(SRC), using a log Kow of 4.00(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is high(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Wotzka J et al; Acta Hydrochim Hydrobiol 13: 58390 (1985)",
+            "Value": "AEROBIC: Cycloheptane, present at 100 mg/L, reached <25% of its theoretical BOD in 24 hours using an activated sludge inoculum in the Warburg respirometry test(1)."
+        },
+        {
+            "References": "(1) Beam HW, Perry JJ; J Gen Microb 82: 1639 (1974)",
+            "Value": "PURE CULTURE: Pure culture studies showed various species of bacteria isolated from soil were unable to utilize cycloheptane as a single carbon source(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 35",
+            "Value": "log Kow = 4.0"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Brown VKH Box VL; British Journal of Dermatology, 85 (5): 432-436 (1971)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The effects of saturated and unsaturated alicyclic hydrocarbons on guinea-pig skin arginase activity were investigated. The flank skin of each animal was treated with cyclopentane, cyclohexane , cycloheptane, cyclooctane , cyclododecane , cycloocta-1,5-diene , cyclohepta-1,3,5-triene, or cyclododeca-1,5,9-triene. Methods of arginase activity determination were not specified. Arginase activity in untreated skin was 15.91 micromoles of urea per 100 milligrams. Arginase activity after exposure to cyclopentane, cyclohexane, cycloheptane, cyclooctane, cyclododecane, cycloocta-1,5-diene, cyclohepta-1,3,5-triene, and cyclododeca-1,5,9-triene was 15.2, 7.9, 41.3, 97.0, 23.9, 70.8, 32.1, and 33.8 micromoles of urea per 100 milligrams, respectively. Epidermal thickening caused by C5 to C8 cycloalkanes was related to the number of carbon atoms in the molecule. Increases in arginase activity were also related to molecular weight. Changes in epidermal morphology were more pronounced than changes in arginase activity. The /report notes/ that these results are the reverse of those previously reported for linear hydrocarbons, which cause greater changes in arginase activity than in epidermal morphology."
+        },
+        {
+            "References": "Brown VK H, Box VL; Brit J Dermatol 85 (5): 432-6 (1971)",
+            "Value": "/OTHER TOXICITY INFORMATION/ When applied to guinea pig skin, undiluted alicyclic hydrocarbons cause morphological changes (epidermal thickening) and alter epidermal soluble arginase activity. For both changes, the changes were in the sequence: cyclooctane > cycloheptane > cyclohexane and cyclopentane. For the three undiluted alicyclic alkanes after 3 applications on alternate days, skin irritancy assessed by gross observation of the skin of guinea pigs was slight, with erythema and dry appearance."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Sept 20, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of cycloheptane can be estimated to be 270(SRC). According to a classification scheme(2), this estimated Koc value suggests that cycloheptane is expected to have moderate mobility in soil."
+        }
+    ]
+}

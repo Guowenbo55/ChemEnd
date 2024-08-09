@@ -1,0 +1,77 @@
+{
+    "_id": {
+        "$oid": "6682e8a6c4e5dba5ffba26a8"
+    },
+    "CID": {
+        "$numberInt": "8067"
+    },
+    "Name": "n-Amyl mercaptan",
+    "IUPACName": "pentane-1-thiol",
+    "CanonicalSMILES": "CCCCCS",
+    "Synonyms": [
+        "1-Pentanethiol",
+        "110-66-7",
+        "Pentane-1-thiol",
+        "n-Amyl mercaptan",
+        "Pentyl mercaptan",
+        "AMYL MERCAPTAN",
+        "Pentanethiol",
+        "Amyl thioalcohol",
+        "Pentalarm",
+        "Amyl sulfhydrate",
+        "Amyl hydrosulfide",
+        "Pentylmercaptan",
+        "Thioamyl alcohol",
+        "n-Pentylmercaptan",
+        "1-Mercaptopentane"
+    ],
+    "IsomericSMILES": "CCCCCS",
+    "INCHI": "InChI=1S/C5H12S/c1-2-3-4-5-6/h6H,2-5H2,1H3",
+    "INCHIKEY": "ZRKMQKLGEQPLNS-UHFFFAOYSA-N",
+    "Formula": "C5H12S",
+    "MolecularWeight": {
+        "$numberDouble": "104.22"
+    },
+    "Description": "1-Pentanethiol is an alkanethiol.",
+    "XlogP": {
+        "$numberDouble": "2.3"
+    },
+    "Complexity": {
+        "$numberInt": "19"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Nov 19, 2019: https://www2.epa.gov/tsca-screening-tools (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 30 was calculated in fish for n-amyl mercaptan(SRC), using an estimated log Kow of 2.74(1) and a regression-derived equation(1). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is low to moderate(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Marion CV, Malaney GW; J Water Pollut Control Fed 35: 1269-84 (1963) (2) Howard P; p 281 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackayd, eds. Boca Raton, FL: Lewis (2000)",
+            "Value": "PURE CULTURE: n-Amyl mercaptan, present at 500 mg/L, exhibited 375 mg/L O2 uptake in 168 hours using an activated sludge microbe (Alcaligenes faecalis) inoculum at 2,500 bacterial cells/L and the Warburg respirometer test at 20 \u00b0C(1). In general, thiol chemicals, such as n-amyl mercapatan, were not as readily oxidized as were the corresponding alcohols(1). However, pure culture studies such as this are not appropriate for evaluating environmental biodegradation(2)."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7: 703",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ A range-finding study found inhalation of 2000 ppm for 4 hr killed two to four rats out of six exposed."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7: 703",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ /A study in rats/ produced stomach ulcers and adrenal gland damage with n-pentyl mercaptan at dosages that cause 70-100% mortality in 5 days."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7: 703",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ No skin irritation was reported in rabbits after a 24 hr exposure, but marked eye irritation in rabbits lasted for 3 days."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Nov 19, 2018: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of n-amyl mercaptan can be estimated to be 130(SRC). According to a classification scheme(2), this estimated Koc value suggests that n-amyl mercaptan is expected to have high mobility in soil(SRC)."
+        }
+    ]
+}

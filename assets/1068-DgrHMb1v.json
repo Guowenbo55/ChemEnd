@@ -1,0 +1,168 @@
+{
+    "_id": {
+        "$oid": "6682e7e2c4e5dba5ffba22d1"
+    },
+    "CID": {
+        "$numberInt": "1068"
+    },
+    "Name": "Dimethyl sulfide",
+    "IUPACName": "methylsulfanylmethane",
+    "CanonicalSMILES": "CSC",
+    "Synonyms": [
+        "dimethyl sulfide",
+        "Methyl sulfide",
+        "75-18-3",
+        "Methane",
+        "thiobis-",
+        "dimethyl sulphide",
+        "dimethylsulfide",
+        "Methyl thioether",
+        "Dimethylsulphide",
+        "2-Thiapropane",
+        "Dimethyl thioether",
+        "Methyl sulphide",
+        "METHYLSULFANYLMETHANE",
+        "Methylthiomethane",
+        "Dimethylsulfid",
+        "(Methylsulfanyl)methane"
+    ],
+    "IsomericSMILES": "CSC",
+    "INCHI": "InChI=1S/C2H6S/c1-3-2/h1-2H3",
+    "INCHIKEY": "QMMFVYPAHWMCMS-UHFFFAOYSA-N",
+    "Formula": "C2H6S",
+    "MolecularWeight": {
+        "$numberDouble": "62.14"
+    },
+    "Description": "Dimethyl sulfide is a methyl sulfide in which the sulfur atom is substituted by two methyl groups. It is produced naturally by some marine algae. It has a role as a bacterial xenobiotic metabolite, a marine metabolite, an EC 3.5.1.4 (amidase) inhibitor, an algal metabolite and an Escherichia coli metabolite.",
+    "XlogP": {
+        "$numberDouble": "0.9"
+    },
+    "Complexity": {
+        "$numberInt": "2"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Aneja VP; Air Waste Manag Assoc 40: 469-76 (1990) (2) Isidorov VA et al; Atmos Env 19: 1-8 (1985)",
+            "Value": "Dimethyl sulfide was the primary sulfur species determined in emissions from oat, corn, soybean, orchard grass, purple clover, and alfalfa fields, with the total sulfur emission rate ranging from 0.007 to 0.273 g sulfur/sq m/yr(1). Dimethyl sulfide has been identified in volatile emissions from evergreen cypress trees(2)."
+        },
+        {
+            "References": "Duke J; Phytochemical and Ethnobotanical Database at the US Dept. of Agriculture. Available from, as of Apr 8, 2010: www.ars-grin.gov/duke",
+            "Value": "There are a number of plants containing dimethyl sulfide as a natural ingredient: Brassica Oleracea; Allium Cepa; Allium Sativum; Allium Schoenoprasum; Camellia Sinensis; Mentha Spicata; Pelargonium Graveolens; Solanum Tuberosum."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Suzuki T; J Comp-Aided Molec Des 5: 149-66 (1991) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3.2 was calculated in fish for dimethyl sulfide(SRC), using a water solubility of 22,000 mg/L(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Green D, Eklund B; in Land Disposal, Remedial Action, Incineration and Treatment of Hazardous Waste. USEPA 600/9/87-015. pp. 478-86 (1987) (2) Zinder SH Brock TD; Nature 273: 226-8 (1978) (3) Kiene RP et al; Appl Environ Microbiol 52: 1037-45 (1986) (4) Kiene RP, Capone DG; Microb Ecol 15: 275-91 (1988) (5) Kiene RP, Bates TS; Nature 345: 702-705 (1990) (6) King GM; Appl Environ Microbiol 54: 130-36 (1988)",
+            "Value": "AEROBIC: Dimethyl sulfide was initially present in a wastewater/recycled sludge mixture at 150 (ug/kg)/(ug/L); following activated sludge treatment, effluent concns were below the detection limit(7). Radiolabeled-dimethyl sulfide added to the head space over 1 ml of freshwater lake sediment was metabolized to methane and carbon dioxide; 33 and 5% radiolabeled carbon was converted to methane and carbon dioxide, respectively, in 8 hours(2). No degradation of dimethyl sulfide occurred in sterilized (heat killed - 70 \u00b0C, 1 hr) samples of sediment(2). Addition of dimethyl sulfide to various anoxic aquatic sediments (e.g. fresh water, estuarine, alkaline/hypersaline) stimulated methane production(3). The yield of methane from dimethyl sulfide typically ranged between 52-63%, although high concns of dimethyl sulfide inhibited methanogenesis in sediment from alkaline lakes(3). Metabolism resulted in appearance of methanethiol as a transient intermediate(3). Dimethyl sulfide was completely biodegraded in anoxic salt marsh sediments within 11 days with the production of methanethiol and methane(4). Biological consumption rates of dimethyl sulfide, in seawater samples collected in the eastern Pacific Ocean, ranged from 1.1 nM/day to 18.0 nM/day, giving turnover times of 0.6 to 4.6 days(5). The conversion efficiency from added dimethyl sulfide to methane of an algal mat and sediments obtained from a hypersaline pond was 11.2%(6)."
+        },
+        {
+            "References": "(1) Lomans BP et al; Appl Env Microbiol 65: 438-43 (1999) (2) Kanagawa T, Kelly DP; FEMS Microbiol Letters 34: 13-9 (1986)",
+            "Value": "AEROBIC: Dimethyl sulfide, present at 2.5 mg/L, showed 100% degradation in 2 days using a freshwater sediment inoculum(1). Dimethyl sulfide, present at 0.43 g/L, showed 100% degradation in 4 days using an acclimated, activated sewage sludge inoculum(2); dimethyl sulfide was found to be oxidized to sulfate. Therefore, dimethyl sulfide is expected to biodegrade repidly under aerobic conditions(SRC)."
+        },
+        {
+            "References": "(1) Lomans BP et al; Appl Env Microbiol 65: 438-43 (1999) (2) Kiene RP; FEMS Microbiol Ecol 53: 7178 (1988)",
+            "Value": "ANAEROBIC: Dimethyl sulfide, present at 3.4 mg/L, showed 100% degradation in 8 days using a freshwater sediment inoculum under anoxic conditions(1). Dimethylsulfide, present at 0.3 mg/L, showed 100% degradation in 2 days using an anoxic salt marsh sediment as inoculum(2). Therefore, dimethyl sulfide is expected to biodegrade rapidly under anaerobic conditions(SRC)."
+        },
+        {
+            "References": "(1) Kanagawa T, Kelly DP; FEMS Microbiol Letters 34: 13-9 (1986)",
+            "Value": "PURE CULTURE: Dimethyl sulfide was degraded under aerobic conditions by acclimatized activated sludge and by a mixed culture of Thiobacillus thioparus TK-1 and Pseudomonas sp. AK-2. During growth, all dimethyl sulfide-sulfur was oxidized stochiometrically to sulfate, but no methanol was detected in pure cultures of TK-1(1). It was speculated that dimethyl sulfide was oxidized to carbon dioxide via formaldehyde(1)."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:6838520",
+            "Value": "A single ip injection of 275 mg of dimethyl sulfoxide (DMSO) to rats effectively uncouples oxidative phosphorylation in liver mitochondria during the period from 2 hr to 5 days postinjection. Higher doses of DMSO are inhibitory to mitochondrial respiration. DMSO has, however, no uncoupling action on oxidative phosphorylation in vitro. Dimethyl sulfide, a known metabolite of DMSO, brings about the uncoupling effect in vitro. The uncoupling of oxidative phosphorylation by normal mitochondria could also be achieved if these are preincubated with postmitochondrial liver supernatant derived from rat injected with DMSO, 2-24 hr prior to sacrifice. These results provide an explanation for the observed uncoupling effect exerted by DMSO in vivo."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Kraus RJ, Ganther HE; Biol Trace Element Res 20 (1-2): 105-113 (1989)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Adult male rats were injected with sodium arsenite (4 mg/kg, sc) 10 min prior to injection of dimethyl sulfide. Neither compound caused mortality when given alone (n = 4). Dimethyl sulfide (320 mg S/kg, sc) resulted in no toxic signs or mortality with or without arsenite (n = 4)."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-1634  2007.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Oral doses of 500 mg/kg dimethyl sulfide reduced motor activity in the mouse to 1/20th of the spontaneous rate; intraperitoneal injection of 500 mg/kg reduced spontaneous motor activity by 10 times."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-1634  2007.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Dimethyl sulfide produces little irritation when placed on rabbit skin; a primary irritation score of 0.4 (scale 0 to 8) was obtained. Similarly, minimal to moderate irritation was seen in rabbits following instillation of dimethyl sulfide into the eyes with all signs of response cleared up by 4 days post application."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Dimethyl sulphide (75-18-3) p.22 (2000 CD-ROM edition). Available from the Database Query page, as of August 24, 2009. https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Slightly irritating to rabbit when applied full strength to intact or abraded skin for 24 hr under occlusion."
+        },
+        {
+            "References": "Ljunggren G Norberg B; Acta Physiologica Scandinavica 5:248-255 (1943). Available from, as of November 18, 2009: https://toxnet.nlm.nih.gov/cgi-bin/sis/search/f?./temp/~t8zvpx:11",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Female white-rats underwent gas chamber exposures to dimethyl-sulfide, dimethyl-disulfide, and methyl-mercaptan at concentrations of 3 to 140, 7.1 to 26, and 1 to 20 milligrams per liter, respectively, for periods of 30 to 35 minutes. Dimethyl-sulfide irritated the mucous membranes, as well as paralyzing the voluntary and respiratory muscles, with a 15 minute exposure at 5 percent by volume causing death. Dimethyl-disulfide produced a higher degree of local irritation than dimethyl-sulfide, resulting in convulsions and macroscopically visible ecchymoses in the lungs. Paralysis of locomotion and external respiration occurred, with a 15 minute exposure at 0.5 percent by volume causing death. Methyl-mercaptan resulted in the more or less pronounced paralysis of locomotion of respiration, with signs of local irritation being found in the lungs at autopsy. Exposure to methyl-mercaptan for a period of 15 minutes at a concentration of 0.5 percent by volume caused death. The authors conclude that the toxic effects of the sulfides tested are primarily the same as those of hydrogen-sulfide, with dimethyl-disulfide being the most toxic, followed by methyl-mercaptan, and dimethyl-sulfide."
+        },
+        {
+            "References": "Siess MH et al; Cancer Lett 120 (2): 195-201 (1997). Available from, as of November 18, 2009: https://toxnet.nlm.nih.gov/cgi-bin/sis/search/f?./temp/~GfOijI:2",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In this work, /investigators/ studied the modulation of hepatic drug-metabolizing enzymes in rats treated with dimethyl sulfide (DMS), dimethyl disulfide (DMDS), methylpropyl disulfide (MPDS), dipropyl sulfide (DPS), dipropyl disulfide (DPDS) and diallyl disulfide (DADS) issued from Allium species. Compounds containing methyl groups had little or no effect. Compounds with two propyl groups or two allyl groups provoked a pleiotropic response on drug-metabolizing enzymes. DPS, DPDS and DADS induced ethoxyresorufin O-deethylase, methoxyresorufin O-demethylase and mostly pentoxyresorufin O-depentylase and decreased nitrosodimethylamine N-demethylase and erythromycin N-demethylase. These modifications of enzyme activities were accompanied by an increase of CYP 2B1,2 and a decrease of CYP 2E1, evidenced by immunoblotting. The same treatments stimulated some phase II enzyme activities such as glutathione transferase and UDP-glucuronyl transferases. This pattern of induction and/or inhibition of drug metabolizing enzymes was qualitatively similar to that elicited by the enzyme inducer, phenobarbital."
+        },
+        {
+            "References": "Shertzer HG; Patty's Toxicology CD-ROM (2005). NY, NY: John Wiley &  Sons; Organic Sulfur Compounds. Online  Posting Date: April 16, 2001.",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Repeated daily oral administration to rats for 14 weeks at dosages of 2.5, 25, and 250 mg/kg/day did not cause any adverse effects on behavior, body weight gain, hematology, blood chemistry, or microscopic pathology."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Dimethyl sulphide (75-18-3) p.23 (2000 CD-ROM edition). Available from the Database Query page, as of August 24, 2009. https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rats exposed by inhalation to 25 mg/cu m dimethyl sulphide 6 hr/day for 6 months showed a decrease of the body weight gain; an increase in heart weight; disorders of corticosteroid distribution in the adrenal tissue; a decrease in oxygen consumption and carbon dioxide elimination; decreases in catalase activity and the methemoglobin and phospholipid levels in the blood; and increases in pyruvic acid, lactic acid, and thiol groups in whole blood and in tissue homogenates; increased cholesterol levels in the blood serum. At 5 mg/cu m temporary changes were seen (no detail available)."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Dimethyl sulphide (75-18-3) p.24 (2000 CD-ROM edition). Available from the Database Query page, as of August 24, 2009. https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rabbits were given 2% solution in the drinking water 7 days/wk for 13 weeks (dose: 2 g/kg/day). Some hemorrhagic spots- lungs: increase organ weight and congestion; kidneys: gross evidence of pyelonephritis."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-1634  2007.",
+            "Value": "/GENOTOXICITY/ No genetic activity was seen with a solution of up to 0.6% dimethyl sulfide looking at induction of umu gene expression in Salmonella typhimurium TA1535/PSK1002."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-1634  2007.",
+            "Value": "/GENOTOXICITY/ Dimethyl sulfide was negative when tested in Salmonella typhimurium strains TA97, TA98, TA100, TA102, TA104, TA1535, TA1537, TA1538, and TA2637, with and without metabolic activation, up to concentrations of 100 um. ... Dimethyl sulfide was also inactive in a mouse lymphoma screening test."
+        },
+        {
+            "References": "Kocsis JJ; Biological Effects Of The Metabolites Of Dimethyl Sulfoxide; Ann Ny Acad Sci 243: 104-9 (1975)",
+            "Value": "/OTHER TOXICITY INFORMATION/ Dimethyl sulfide lowered body temp and reduced motor activity in lab animals."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Whelan JK et al; Geochim Cosmo Acta 44: 1767-85 (1980) (2) Roberts NJ, Burton HR; Chemosphere 29: 1627-1637 (1994)",
+            "Value": "SEDIMENT: Dimethyl sulfide was detected in 1 of 10 sediment samples collected from Walvis Bay, Namibia, southwest Africa in Dec. 1975-Jan 1976 at a concentration of 5 ng/g dry sediment; the substance was only found at a depth of 32-36 cm below the bay bottom(1). Dimethyl sulfide was detected in 9 of 13 sediment samples collected in Antarctica lakes and basins on unknown dates at concentrations ranging from 2 to 124 ug/L, with an average concentration of 61 ug/L(2)."
+        },
+        {
+            "References": "Sorensen J; Biogeochemistry 6 (3): 201-10 (1988)",
+            "Value": "SEDIMENT: Seasonal variation of dimethyl sulfide was determined in sediment porewater from the freshwater section of a Danish estuary. Porewater was removed from the sediment core samples by pressure filtration and analyzed for dimethyl sulfide by gas chromatography. Detectable dimethyl sulfide levels of up to 0.1 uM were found only in the summer and only within the upper 5 cm of the sediment. The highest concentration of about 0.1 uM dimethyl sulfide was observed in late summer when a distinct subsurface max was formed. The dimethyl sulfide accumulation was probably associated with decomposing fragments of macro-algae in the surface layer."
+        },
+        {
+            "References": "(1) Farwell SO et al; Soil Biol Biochem 11: 411-5 (1979) (2) Aneja VP; Air Waste Manag Assoc 40: 469-76 (1990) (3) Cooper WJ et al; Atmos Environ 21: 1491-5 (1987) (4) Kelly DP, Smith NA; Adv Microb Ecol 11: 345-85 (1990)",
+            "Value": "SOIL: Dimethyl sulfide was detected in emissions from tidal marsh soil, an agricultural soil, and a forest soil(1). Maximum rate of dimethyl sulfide emissions from tidal marsh soil at field capacity, 0.2 ng S/min(1). Emission rates of dimethyl sulfide from coastal ecosystems ranged from 0.02 to 1.87 g sulfur/sq m-yr(2). Inland soils emitted dimethyl sulfide at rates from 0.0003 to 92.8 g sulfur/sq m-yr(2). Emissions of methyl disulfide from 5 wetland soils in Florida ranged from <0.02 to 10 ug sulfur/sq m-hr(3). Values for biogenic emissions of dimethyl sulfide from open oceans and marine environments range from 0.02 to 0.106 g sulfur/sq m-yr(2). Emission of dimethyl sulfide from oceanic sources, salt marshes, inland swamps, and soil and plants was measured as 38-40, 0.58, 0.84, and 0.2-0.4 Tg sulfur/yr(4)."
+        },
+        {
+            "References": "(1) Adams DF et al; J Air Pol Cont Assoc 29: 380-83 (1979) (2) Aneja V; J Air Waste Manag Assoc 40: 469-79 (1990)",
+            "Value": "SOIL: Dimethyl sulfide was detected in 5 of 6 soil samples collected in Indiana, Ohio, North Carolina and Arkansas in September to November 1977 at annual flux concentrations ranging from 0.002 to 0.013 g/sq m/yr, with an average flux concentration of 0.0034 g/sq m/yr(1). Dimethyl sulfide was detected in 8 of 9 soil samples collected in North Carolina, Iowa, Ohio, Indiana and the eastern US on unknown dates at an annual flux concentrations of 0.0006 to 180 g/sq m/yr(2)."
+        },
+        {
+            "References": "Staubes R, et al; Tellus 41B (3): 305-13 (1989)",
+            "Value": "SOIL: Emission rates of the reduced sulfur gases, carbonyl sulfide, dimethyl sulfide and carbon disulfide, from 12 representative soils in Germany have been examined by means of a dynamic gas emission chamber. The compounds were sampled by cryogenic technique and measured by subsequent gas chromatography/flame photometric detector analysis. Besides soil type, soil temperature and moisture are the major factors controlling source strength. Dimethyl sulfide and carbonyl sulfide were the predominant gases emitted from organic soils. Dimethyl sulfide maximum emission rates reached 100 ng S/sq m/min. Measurements of the diurnal variations of emission rates show daily patterns of DMS and carbonyl sulfide emission rates which coincide with the soil temperature curve. The fraction of dimethyl sulfide emission from moist, low humus containing soils only amounts to 10 to 20% compared to 40 to 45% from dry soils. Sulfur fluxes of dimethyl sulfide from soil treated with liquid manure were enhanced by a factor of 5 to 6 compared to unfertilized soil of the same type."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Suzuki T; J Comp-Aided Molec Des 5: 149-66 (1991) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.0. Jan, 2009. Available from https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm as of Oct 1, 2009. (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of dimethyl sulfide is estimated as 6.3(SRC), using a water solubility of 22,000 mg/L(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that dimethyl sulfide is expected to have very high mobility in soil."
+        },
+        {
+            "References": "(1) Bremner JM, Banwart WL; Soil Biol Biochem 8: 79-83 (1976) (2) Williams RP; Oper Sect Proc - Am Gas Assoc pp. T29-T37 (1976)",
+            "Value": "Air-dried, unsterilized moist, and sterilized moist soils exposed to air initially containing 500 ppm dimethyl sulfide adsorbed an avg of 32, 308, and 10 ug dimethyl sulfide/g soil, respectively, in 15 days(1). Time required for complete sorption of dimethyl sulfide by moist soil from air initially containing 100 ppm dimethyl sulfide: soil 1 (Weller) - 1st exposure 150 min, 2nd exposure 100 min, 3rd exposure 95 min; soil 2 (Harps) - 1st exposure 45 min, 2nd exposure 24 min, 3rd exposure 19 min(1). These data suggest that moist soils have a greater tendency to adsorb dimethyl sulfide than dry soils, and that microbial activity in moist soils may be responsible for greater adsorption(1). When natural gas containing 0.5 pounds of dimethyl sulfide per million cubic feet of gas was passed through a bed of pulverized, dry, montmorillonite clay, dimethyl sulfide exhibited a fast breakthrough (2 hours) and a fast build-up rate in effluent gas (85% of influent concn 4 hours after breakthrough), suggesting that dimethyl sulfide does not adsorb to dry soils(2)."
+        }
+    ]
+}

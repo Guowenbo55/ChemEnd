@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "669270fd303528b49832d77c"
+    },
+    "CID": {
+        "$numberInt": "86355"
+    },
+    "Name": "Azimsulfuron",
+    "IUPACName": "1-(4,6-dimethoxypyrimidin-2-yl)-3-[2-methyl-4-(2-methyltetrazol-5-yl)pyrazol-3-yl]sulfonylurea",
+    "CanonicalSMILES": "CN1C(=C(C=N1)C2=NN(N=N2)C)S(=O)(=O)NC(=O)NC3=NC(=CC(=N3)OC)OC",
+    "Synonyms": [
+        "Azimsulfuron",
+        "120162-55-2",
+        "Azimsulfuron [ISO]",
+        "DPX 47",
+        "DPX-A 8947",
+        "IN-A 894",
+        "1H-Pyrazole-5-sulfonamide",
+        "N-[[(4,6-dimethoxy-2-pyrimidinyl)amino]carbonyl]-1-methyl-4-(2-methyl-2H-tetrazol-5-yl)-",
+        "A8947",
+        "A 8947",
+        "A-8947",
+        "N-(((4,6-Dimethoxy-2-pyrimidinyl)amino)carbonyl)-1-methyl-4-(2-methyl-2H-tetrazol-5-yl)-1H-pyrazole-5-sulfonamide",
+        "1-(4,6-dimethoxypyrimidin-2-yl)-3-[2-methyl-4-(2-methyltetrazol-5-yl)pyrazol-3-yl]sulfonylurea",
+        "IN-A8947",
+        "R959I3139C",
+        "Azimsulfuron 100 microg/mL in Acetonitrile"
+    ],
+    "IsomericSMILES": "CN1C(=C(C=N1)C2=NN(N=N2)C)S(=O)(=O)NC(=O)NC3=NC(=CC(=N3)OC)OC",
+    "INCHI": "InChI=1S/C13H16N10O5S/c1-22-11(7(6-14-22)10-18-21-23(2)19-10)29(25,26)20-13(24)17-12-15-8(27-3)5-9(16-12)28-4/h5-6H,1-4H3,(H2,15,16,17,20,24)",
+    "INCHIKEY": "MAHPNPYYQAIOJN-UHFFFAOYSA-N",
+    "Formula": "C13H16N10O5S",
+    "MolecularWeight": {
+        "$numberDouble": "424.4"
+    },
+    "Description": "Azimsulfuron is an N-sulfonylurea that is urea in which a nitrogen attached to one of the nitrogens has been replaced by a 4,6-dipyrimidin-2-yl group while a hydrogen attached to the other urea nitrogen has been replaced by a [1-methyl-4-(2-methyl-2H-tetrazol-5-yl)-1H-pyrazol-5-yl]sulfonyl group. An acetolactate synthase inhibitor, it is used as a herbicide for the control of a variety of broad-leaved and sedge weeds in paddy fields and other aquatic situations. It has a role as a herbicide and an EC 2.2.1.6 (acetolactate synthase) inhibitor. It is an aromatic ether, a biaryl, a N-sulfonylurea, a member of tetrazoles and a pyrazole pesticide.",
+    "XlogP": {
+        "$numberDouble": "0.3"
+    },
+    "Complexity": {
+        "$numberInt": "665"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Azimsulfuron (DPX-A8947) is a new selective sulf onylurea herbicide used in rice for control of annual and perennial broadleaf weeds and sedges. We investigated the mechanism of selectivity by comparing the behavior of this herbicide in rice with that of the sensitive weed, flat sedge (Cyperus serotinus) using 14C-azimsulfuron. Azimsulfuron afforded high selectivity between rice and C. serotinus in the growth response studies by a hydroponic solution method. Studies of absorption and translocation indicated that the differential sensitivities of rice and C. serotinus to azimsulfuron are not due to its differential absorption and translocation from their subterranean parts. In metabolism studies, rice metabolized azimsulfuron very rapidly in its shoots and roots, while C. serotinus metabolized it very slowly in its shoots, roots and tubers. The metabolism of azimsulfuron in rice within 24 hours involved mostly O-demethylation of the pyrimidine ring. The metabolite formed by 0-demethylation, metabolite 1, was herbicidally much less active on rice and weeds tested. The results obtained suggest that the selectivity of azimsulfuron between rice and C. serotinus mainly results from the rapid 0-demethylation in rice.",
+            "reference": "Shirakura, S., Ito, K., Barefoot, A. C., Aizawa, H., & Ishizuka, K. (1995). Differences in adsorption, translocation and metabolism of azimsulfuron between rice (Oryza sativa) and flat sedge (Cyperus serotinus). Weed Res. Japan, 40, 299-307.",
+            "method": {
+                "Test Plant": "Japonica rice (Oryza sativa L. cv. Nipponbare) and Cyperus serotinus Rottb.",
+                "Apply Location": "Root application",
+                "Plant Grown Condition": "Greenhouse conditions (25\u00b0C day, 15\u00b0C night) for rice and growth room conditions (25\u00b0C day, 20\u00b0C night) for Cyperus serotinus Rottb.",
+                "Chemical Preparation": "Two radiolabeled compounds, [Pyrazole-4-14C] azimsulfuron ([PZ-14C] azimsulfuron) and [pyrimidine-2-14C] azimsulfuron ([PM-14C] azimsulforn), synthesized by New England Nuclear, with specific activities of 869 kBq/mol and 829 kBq/pmol, respectively. Non-labeled azimsulfuron and chromatographic standards of azimsulfuron and related compounds synthesized by El. DuPont de Nemours and Company Inc., Agricultural Products Department.",
+                "Pesticide Application Details for the Plant": "Roots of rice and roots plus tubers of C. serotinus seedlings (5 plants per sample, with seedlings at the 3 leaf stage) were exposed to a 200 ml nutrient solution containing [PZ-14C]azimsulfuron with 1% acetone for 6 and 24 hours. The concentration of the solution of 14C-azimsulfuron was 1 x 10-6 M (869 kBq/1).",
+                "Other Information": "Two replications"
+            },
+            "result": "[{\"Plant\": \"Rice\", \"Time after application\": \"6 hours\", \"Shoot (kbq/g)\": 2.0, \"Root (kbq/g)\": 11.0, \"Tuber (kbq/g)\": \"-\"}, {\"Plant\": \"Rice\", \"Time after application\": \"24 hours\", \"Shoot (kbq/g)\": 2.5, \"Root (kbq/g)\": 13.5, \"Tuber (kbq/g)\": \"-\"}, {\"Plant\": \"Cyperus serotinus\", \"Time after application\": \"6 hours\", \"Shoot (kbq/g)\": 0.5, \"Root (kbq/g)\": 6.3, \"Tuber (kbq/g)\": \"1\"}, {\"Plant\": \"Cyperus serotinus\", \"Time after application\": \"24 hours\", \"Shoot (kbq/g)\": 0.5, \"Root (kbq/g)\": 6.0, \"Tuber (kbq/g)\": \"2\"}]"
+        }
+    ]
+}

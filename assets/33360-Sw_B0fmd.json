@@ -1,0 +1,75 @@
+{
+    "_id": {
+        "$oid": "6692710a303528b49832d7ae"
+    },
+    "CID": {
+        "$numberInt": "33360"
+    },
+    "Name": "Ethofumesate",
+    "IUPACName": "(2-ethoxy-3,3-dimethyl-2H-1-benzofuran-5-yl) methanesulfonate",
+    "CanonicalSMILES": "CCOC1C(C2=C(O1)C=CC(=C2)OS(=O)(=O)C)(C)C",
+    "Synonyms": [
+        "ETHOFUMESATE",
+        "26225-79-6",
+        "Tramat",
+        "Nortron (new)",
+        "(2-ethoxy-3,3-dimethyl-2H-1-benzofuran-5-yl) methanesulfonate",
+        "Nortran",
+        "2-Ethoxy-3,3-dimethyl-2,3-dihydro-1-benzofuran-5-yl methanesulfonate",
+        "NC 8438",
+        "CR 14658",
+        "5-Benzofuranol",
+        "2-Ethoxy-2,3-dihydro-3,3-dimethyl-",
+        "methanesulfonate",
+        "DTXSID8034580",
+        "Progress",
+        "CHEBI:83768",
+        "3051U1Z8KV",
+        "2-Ethoxy-2,3-dihydro-3,3-dimethyl-5-benzofuranyl methanesulfonate"
+    ],
+    "IsomericSMILES": "CCOC1C(C2=C(O1)C=CC(=C2)OS(=O)(=O)C)(C)C",
+    "INCHI": "InChI=1S/C13H18O5S/c1-5-16-12-13(2,3)10-8-9(18-19(4,14)15)6-7-11(10)17-12/h6-8,12H,5H2,1-4H3",
+    "INCHIKEY": "IRCMYGHHKLLGHV-UHFFFAOYSA-N",
+    "Formula": "C13H18O5S",
+    "MolecularWeight": {
+        "$numberDouble": "286.35"
+    },
+    "Description": "2-ethoxy-3,3-dimethyl-2,3-dihydro-1-benzofuran-5-yl methanesulfonate is a methanesulfonate ester that is methanesulfonic acid in which the hydrogen of the hydroxy group has been replaced by a 2-ethoxy-3,3-dimethyl-2,3-dihydro-1-benzofuran-5-yl group. It is an ether, a methanesulfonate ester and a member of 1-benzofurans.",
+    "XlogP": {
+        "$numberDouble": "2.7"
+    },
+    "Complexity": {
+        "$numberInt": "411"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The uptake and translocation of 14C-labelled ethofumesate [(\u00b1)-2-ethoxy-2,3-dihydro-3,3-dimethylbenzofuran-5-yl methanesulphonate] was studied in sugar-beet seedlings following soil and foliar applications. After soil applications, the roots absorbed and translocated to the foliage more ethofumesate or its metabolites than did the emerging hypocotyls. Ethofumesate or its metabolites did not accumulate in either roots or hypocotyls after exposure to treated soil. When sugar-beet leaves were treated with the herbicide at the two-leaf stage, acropetal translocation was rapid but there was no translocation out of the treated leaves. Furthermore, ethofumesate or its metabolites were not translocated basipetally after either soil or foliar application.",
+            "reference": "Eshel, J., Zimdahl, R. L., & Schweizer, E. E. (1978). Uptake and translocation of ethofumesate in sugar\u2010beet plants. Pesticide science, 9(4), 301-304.",
+            "method": {
+                "Test Plant": "Monogerm hybrid sugar-beets, 'Mono-Hy A1'",
+                "Apply Location": "Soil application - roots or hypocotyl zone",
+                "Plant Growth Condition": "Grown in glasshouse with 16h day at 27\u00b0C and 16\u00b0C night. Mixed fluorescent and incandescent lighting.",
+                "Chemical Preparation": "14C-Ethofumesate (benzene ring uniformly labeled, 4.21 \u03bcCi/mg specific activity) diluted in acetone to 50 mg/L, then mixed with air-dried clay loam soil to 1 mg/kg final concentration.",
+                "Pesticide Application Details for the Plant": "Plastic pots filled with 14C-treated soil in either root or hypocotyl zone, covered with charcoal barrier, then seeds sown and soil added on top. Unlabeled ethofumesate in complementary zone.",
+                "Other Information": "Randomized complete block design with 4 replications. Plants harvested at intervals, separated into roots, hypocotyls, cotyledons, true leaves. Plant parts combusted and 14CO2 trapped and radioassayed by LSC."
+            },
+            "result": "[{\"Apply site\": \"Hypocotyl zone\", \"Days after application\": 3, \"Roots (% of recovered)\": 0.0, \"Hypocotyls (%)\": 43.8, \"Cotyledons (%)\": 56.2, \"True leaves (%)\": 0.0}, {\"Apply site\": \"Hypocotyl zone\", \"Days after application\": 5, \"Roots (% of recovered)\": 0.0, \"Hypocotyls (%)\": 26.7, \"Cotyledons (%)\": 73.3, \"True leaves (%)\": 0.0}, {\"Apply site\": \"Hypocotyl zone\", \"Days after application\": 10, \"Roots (% of recovered)\": 0.0, \"Hypocotyls (%)\": 17.1, \"Cotyledons (%)\": 62.0, \"True leaves (%)\": 20.9}, {\"Apply site\": \"Hypocotyl zone\", \"Days after application\": 15, \"Roots (% of recovered)\": 0.0, \"Hypocotyls (%)\": 14.3, \"Cotyledons (%)\": 40.6, \"True leaves (%)\": 45.1}, {\"Apply site\": \"Hypocotyl zone\", \"Days after application\": 20, \"Roots (% of recovered)\": 0.0, \"Hypocotyls (%)\": 13.8, \"Cotyledons (%)\": 22.5, \"True leaves (%)\": 63.7}, {\"Apply site\": \"Root zone\", \"Days after application\": 3, \"Roots (% of recovered)\": 7.0, \"Hypocotyls (%)\": 12.4, \"Cotyledons (%)\": 80.6, \"True leaves (%)\": 0.0}, {\"Apply site\": \"Root zone\", \"Days after application\": 5, \"Roots (% of recovered)\": 12.3, \"Hypocotyls (%)\": 15.1, \"Cotyledons (%)\": 72.6, \"True leaves (%)\": 0.0}, {\"Apply site\": \"Root zone\", \"Days after application\": 10, \"Roots (% of recovered)\": 8.4, \"Hypocotyls (%)\": 2.3, \"Cotyledons (%)\": 59.0, \"True leaves (%)\": 30.3}, {\"Apply site\": \"Root zone\", \"Days after application\": 15, \"Roots (% of recovered)\": 5.1, \"Hypocotyls (%)\": 1.9, \"Cotyledons (%)\": 50.8, \"True leaves (%)\": 42.2}, {\"Apply site\": \"Root zone\", \"Days after application\": 20, \"Roots (% of recovered)\": 10.2, \"Hypocotyls (%)\": 3.8, \"Cotyledons (%)\": 34.1, \"True leaves (%)\": 51.9}]"
+        },
+        {
+            "content": "The study investigated the site of uptake, absorption, translocation, and metabolism of ethofumesate in annual bluegrass, creeping bentgrass, and perennial ryegrass. The primary site of ethofumesate absorption was found to be the foliage. Symptoms in annual bluegrass included stunted growth, epinasty, crown swelling, darker green color, and fusing of leaf blades. The grasses absorbed 33%, 11%, and 13% of ethofumesate applied, respectively. Translocation of 14C 14 days after treatment was 2.2%, 5.8%, and 2.2% of the absorbed 14C for annual bluegrass, creeping bentgrass, and perennial ryegrass, respectively. Ethofumesate was rapidly metabolized in each species with half-lives ranging from 4.5 to 7 days. On average, the grasses had metabolized 67% of the absorbed ethofumesate 14 days after treatment.",
+            "reference": "Kohler, E. A., & Branham, B. E. (2002). Site of uptake, absorption, translocation, and metabolism of ethofumesate in three turfgrass species. Weed science, 50(5), 576-580.",
+            "method": {
+                "Test Plant": "Annual bluegrass (Poa annua), creeping bentgrass (Agrostis palustris), and perennial ryegrass (Lolium perenne)",
+                "Apply Location": "Foliar application on the first fully expanded leaf",
+                "Plant Growth Condition": "Transplanted into containers with Profile porous ceramic clay soil amendment. Grown in growth chamber at 25\u00b0C day (16h)/20\u00b0C night (8h). Watered to keep soil moist.",
+                "Chemical Preparation": "Ethofumesate (benzofuranyl ring-U-14C labeled, 7.1 MBq/mg specific activity) dissolved in formulated product and applied at 0.8 kg ai/ha in 411 L/ha spray volume.",
+                "Pesticide Application Details for the Plant": "3,900 Bq (5 \u03bcL volume) applied to first fully expanded leaf at 1-2 tiller stage using a microsyringe.",
+                "Other Information": "Absorption measured by leaf wash with 50% methanol:water at 1, 3, 7, 14 days after treatment (DAT)."
+            },
+            "result": "[{\"Plant\": \"Annual blue grass\", \"Days after application\": 1, \"Absorption (% of applied)\": 21.5}, {\"Plant\": \"Annual blue grass\", \"Days after application\": 3, \"Absorption (% of applied)\": 31.3}, {\"Plant\": \"Annual blue grass\", \"Days after application\": 7, \"Absorption (% of applied)\": 35.3}, {\"Plant\": \"Annual blue grass\", \"Days after application\": 14, \"Absorption (% of applied)\": 41.8}, {\"Plant\": \"Perennial ryegrass\", \"Days after application\": 1, \"Absorption (% of applied)\": 7.6}, {\"Plant\": \"Perennial ryegrass\", \"Days after application\": 3, \"Absorption (% of applied)\": 11.4}, {\"Plant\": \"Perennial ryegrass\", \"Days after application\": 7, \"Absorption (% of applied)\": 11.7}, {\"Plant\": \"Perennial ryegrass\", \"Days after application\": 14, \"Absorption (% of applied)\": 13.2}, {\"Plant\": \"Creeping bentgrass\", \"Days after application\": 1, \"Absorption (% of applied)\": 5.8}, {\"Plant\": \"Creeping bentgrass\", \"Days after application\": 3, \"Absorption (% of applied)\": 13.3}, {\"Plant\": \"Creeping bentgrass\", \"Days after application\": 7, \"Absorption (% of applied)\": 13.1}, {\"Plant\": \"Creeping bentgrass\", \"Days after application\": 14, \"Absorption (% of applied)\": 18.7}]"
+        }
+    ]
+}

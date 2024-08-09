@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "66927126303528b49832d81a"
+    },
+    "CID": {
+        "$numberInt": "6537961"
+    },
+    "Name": "Triticonazole",
+    "IUPACName": "(5E)-5-[(4-chlorophenyl)methylidene]-2,2-dimethyl-1-(1,2,4-triazol-1-ylmethyl)cyclopentan-1-ol",
+    "CanonicalSMILES": "CC1(CCC(=CC2=CC=C(C=C2)Cl)C1(CN3C=NC=N3)O)C",
+    "Synonyms": [
+        "Triticonazole",
+        "Alios",
+        "131983-72-7",
+        "Charter",
+        "Premise",
+        "Premis",
+        "Triticonazole [ISO]",
+        "CHEBI:84005",
+        "C2O101E6G4",
+        "Cyclopentanol",
+        "5-[(4-chlorophenyl)methylene]-2,2-dimethyl-1-(1H-1,2,4-triazol-1-ylmethyl)-",
+        "Triticonazole 10 microg/mL in Isooctane",
+        "(5E)-5-[(4-chlorophenyl)methylidene]-2,2-dimethyl-1-(1,2,4-triazol-1-ylmethyl)cyclopentan-1-ol",
+        "138182-18-0",
+        "Premis T",
+        "(5E)-5-(4-chlorobenzylidene)-2,2-dimethyl-1-(1H-1,2,4-triazol-1-ylmethyl)cyclopentanol"
+    ],
+    "IsomericSMILES": "CC1(CC/C(=C\\C2=CC=C(C=C2)Cl)/C1(CN3C=NC=N3)O)C",
+    "INCHI": "InChI=1S/C17H20ClN3O/c1-16(2)8-7-14(9-13-3-5-15(18)6-4-13)17(16,22)10-21-12-19-11-20-21/h3-6,9,11-12,22H,7-8,10H2,1-2H3/b14-9+",
+    "INCHIKEY": "PPDBOQMNKNNODG-NTEUORMPSA-N",
+    "Formula": "C17H20ClN3O",
+    "MolecularWeight": {
+        "$numberDouble": "317.8"
+    },
+    "Description": "(5E)-5-(4-chlorobenzylidene)-2,2-dimethyl-1-(1,2,4-triazol-1-ylmethyl)cyclopentanol is a member of the class of cyclopentanols carrying 1,2,4-triazol-1-ylmethyl and 4-chlorobenzylidene and geminal dimethyl substituents at positions 1, 2 and 5 respectively. It is a member of triazoles, a member of monochlorobenzenes, a member of cyclopentanols, a tertiary alcohol and an olefinic compound.",
+    "XlogP": {
+        "$numberDouble": "3.1"
+    },
+    "Complexity": {
+        "$numberInt": "432"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Following seed treatment of wheat (Triticum aestivum L.) with 14C-labelled triticonazole at a dose of 1 \u00b5g/kg seed, the uptake of radioactivity by shoots and roots was investigated from the two- to three-leaf stage up to the beginning of the booting phase, 80 days after sowing. Triticonazole equivalents taken up by wheat plants reached 5.7% and 14.6% of the applied dose in the shoots and the roots, respectively. Between the two- to three-leaf stage and the beginning of the booting phase, the concentration of triticonazole equivalents in the shoots decreased from 2.5 to 0.15 \u00b5g/g fresh weight. This decrease was attributed to the uptake of triticonazole by roots not keeping pace with shoot growth and increased retention in the roots of triticonazole taken up. The main factor limiting the uptake of triticonazole by the roots may be the rapid growth of the uptake-active apical root parts out of the dressing zone which had formed in the soil. Distribution of triticonazole equivalents taken up by the main shoot showed a decreasing concentration gradient from the oldest to the youngest leaf. An increase in the seed treatment dose was investigated as a way to increase the concentration of triticonazole in the shoots, but its influence remained limited.",
+            "reference": "Qu\u00e9rou, R., Euvrard, M., & Gauvrit, C. (1998). Uptake and fate of triticonazole applied as seed treatment to spring wheat (Triticum aestivum L.). Pesticide science, 53(4), 324-332.",
+            "method": {
+                "Test Plant": "Spring wheat (Triticumaestivuml., cv. Rex)",
+                "Apply Location": "Seed treatment (root application)",
+                "Plant Grown Condition": "Growth chamber with 70/80% RH, 18\u00b0C/10\u00b0C (light/dark), 16-h photoperiod (320 \u03bcEm-2s-1 P.A.R.)",
+                "Chemical Preparation": "Liquid seed-dressing formulation (\u201cReal\u00cf 200 g litre-1 suspension concentrate with copolymers, Rho\u00fc ne-Poulenc Agro) of [phenyl-U-14C]triticonazole (specific activity 3.71 kBq/g)",
+                "Pesticide Application Details for the Plant": "81.2 (\u00b1 4.6) \u03bcg triticonazole per caryopsis, equivalent to 1.8 (\u00b1 0.1) g triticonazole kg-1 seed",
+                "Other Information": "Four replicates were recovered at each sampling time."
+            },
+            "result": "[{\"Days after application\": 20, \"Caryopsis (% of applied)\": 74.6, \"Soil (%)\": 23.0, \"Roots (%)\": 0.8, \"Shoots (%)\": 1.0, \"Recovery (%)\": 99.5}, {\"Days after application\": 43, \"Caryopsis (% of applied)\": 56.6, \"Soil (%)\": 24.6, \"Roots (%)\": 4.0, \"Shoots (%)\": 2.9, \"Recovery (%)\": 88.1}, {\"Days after application\": 60, \"Caryopsis (% of applied)\": 50.9, \"Soil (%)\": 26.8, \"Roots (%)\": 11.5, \"Shoots (%)\": 4.6, \"Recovery (%)\": 95.2}, {\"Days after application\": 80, \"Caryopsis (% of applied)\": 43.9, \"Soil (%)\": 27.3, \"Roots (%)\": 14.6, \"Shoots (%)\": 5.7, \"Recovery (%)\": 89.4}]"
+        }
+    ]
+}

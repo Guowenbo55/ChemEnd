@@ -1,0 +1,82 @@
+{
+    "_id": {
+        "$oid": "6682e952c4e5dba5ffba2a09"
+    },
+    "CID": {
+        "$numberInt": "24811"
+    },
+    "Name": "TRICHLOROSILANE",
+    "IUPACName": "trichlorosilane",
+    "CanonicalSMILES": "[SiH](Cl)(Cl)Cl",
+    "Synonyms": [
+        "10025-78-2",
+        "233-042-5",
+        "EC 233-042-5",
+        "EINECS 233-042-5",
+        "QZY2645L6V",
+        "Silane",
+        "trichloro-",
+        "TRICHLOROMONOSILANE",
+        "Trichlorosilane",
+        "UNII-QZY2645L6V",
+        "DTXSID4029301",
+        "Cl3SiH",
+        "HSiCl3",
+        "DTXCID909301",
+        "TRICHLOROSILANE (HSICL3)",
+        "TRICHLOROSILANE (SIHCL3)"
+    ],
+    "IsomericSMILES": "[SiH](Cl)(Cl)Cl",
+    "INCHI": "InChI=1S/Cl3HSi/c1-4(2)3/h4H",
+    "INCHIKEY": "ZDHXKXAHOVTTAH-UHFFFAOYSA-N",
+    "Formula": "Cl3HSi",
+    "MolecularWeight": {
+        "$numberDouble": "135.45"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "NaN"
+    },
+    "Complexity": {
+        "$numberInt": "8"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) O'Neil MJ, ed; The Merck Index. 13th ed. Whitehouse Station, NJ: Merck and Co., Inc. p. 1719 (2001)",
+            "Value": "Trichlorosilane has been reported to hydrolyze immediately upon contact with water(1) and therefore bioconcentration of trichlorosilane is not expected(SRC)."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ All these cmpd, even in very low doses ... caused severe burns of cornea and eyelids. ... /After/ application to the skin of the rabbit the region attacked by chlorosilanes blanches and then blisters appear ... /Chlorosilanes/[Lefaux, R. Practical Toxicology of Plastics. Cleveland: CRC Press Inc., 1968., p. 109]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Tests by application of a drop to rabbit eyes have been made on tetrachlorosilane, dichloridimethyl silane, dichlorodiethylsilane, methyltrichlorosilane, & ethyl trichlorosilane. All the chlorosilanes were found to cause severe damage of the cornea & lids. More severe damage was caused by the alkylchlorosilanes than by tetrachlorosilane (silicone tetrachloride). The principal danger is from splash contamination. /Chlorosilanes/[Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 224]"
+        },
+        {
+            "References": "PMID:16717023",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The acute inhalation toxicity of 10 chlorosilanes was investigated in Fischer 344 rats using a 1-hr whole-body vapor inhalation exposure and a 14-day recovery period. The median lethal concentration (LC50(1)) for each material was calculated from the nominal exposure concentrations and mortality. Experimentally derived LC50(1) values for monochlorosilanes (4257-4478 ppm) were greater than those for dichlorosilanes (1785-2092 ppm), which were greater than those for trichlorosilanes (1257-1611 ppm). Apparent was a strong structure-activity relationship (r2 = .97) between chlorine content and LC50(1) value. Estimated LC50(1) values for mono-, di-, and trichlorosilanes were determined to be 3262, 1639, and 1066 ppm, respectively, utilizing this relationship and the lower limit of the 95% prediction interval. The LC50(1) values determined in this series of studies were greater than that reported for hydrogen chloride (3124 ppm), when expressed on a chlorine equivalence basis (3570-5248 ppm), demonstrating that the acute toxicity of these chlorosilanes is similar to or less than that for hydrogen chloride.[Jean PA et al; Inhal Toxicol 18 (8): 515-22 (2006)]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... Groups of male and female Sprague-Dawley rats were exposed 6 hours/day, 5 days/week for a total of 9 exposures to concentrations of ...  0, 25, 50, or 100 ppm trichlorosilane (TCS). ... Exposure to TCS led to pneumonitis and alveolar histiocytosis in the 50 ppm and higher groups, and in the 100 ppm animals, 75% mortality. All treatment groups showed respiratory irritation, body weight reduction and increased lung weights.[EPA/OTS; Doc #89-900000005]"
+        },
+        {
+            "References": "",
+            "Value": "/GENOTOXICITY/ Ames test /in/ Salmonella typhimurium, /using trichlorosilane at/ 0.5, 5, 100, 500 uL/plate, with and without metabolic activation, /showed/ negative results.[European Chemicals Bureau; IUCLID Dataset, Trichlorosilane (10025-78-2) (2000 CD-ROM  edition). Available from, as of October 16, 2006: http://esis.jrc.ec.europa.eu/]"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Cotton FA, Wilkinson G; Advanced Inorganic Chemistry 4th ed. New York, NY: John Wiley and Sons p. 385 (1980) (2) O'Neil MJ, ed; The Merck Index. 13th ed. Whitehouse Station, NJ: Merck and Co., Inc. p. 1719 (2001)",
+            "Value": "All silicon chlorides are immediately and completely hydrolyzed by water(1). Trichlorosilane has been reported to hydrolyze in water releasing HCl(2); therefore, adsorption to soil is not expected to be an important fate process(SRC)."
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "_id": {
+        "$oid": "6682e90bc4e5dba5ffba28a2"
+    },
+    "CID": {
+        "$numberInt": "13342"
+    },
+    "Name": "VINBLASTINE",
+    "IUPACName": "methyl (1R,9R,10S,11R,12R,19R)-11-acetyloxy-12-ethyl-4-[(13S,15R,17S)-17-ethyl-17-hydroxy-13-methoxycarbonyl-1,11-diazatetracyclo[13.3.1.04,12.05,10]nonadeca-4(12),5,7,9-tetraen-13-yl]-10-hydroxy-5-methoxy-8-methyl-8,16-diazapentacyclo[10.6.1.01,9.02,7.016,19]nonadeca-2,4,6,13-tetraene-10-carboxylate",
+    "CanonicalSMILES": "CCC1(CC2CC(C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7C(C=CC9)(C(C(C8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O",
+    "Synonyms": [
+        "vinblastine",
+        "Vinblastin",
+        "865-21-4",
+        "Vincaleucoblastin",
+        "Vincaleukoblastine",
+        "Vinblastina",
+        "Vincoblastine",
+        "Rozevin",
+        "Nincaluicolflastine",
+        "Vinblastinum",
+        "VR-8",
+        "Vinblastinum [INN-Latin]",
+        "Velban",
+        "CCRIS 9002",
+        "HSDB 3263"
+    ],
+    "IsomericSMILES": "CC[C@@]1(C[C@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O",
+    "INCHI": "InChI=1S/C46H58N4O9/c1-8-42(54)23-28-24-45(40(52)57-6,36-30(15-19-49(25-28)26-42)29-13-10-11-14-33(29)47-36)32-21-31-34(22-35(32)56-5)48(4)38-44(31)17-20-50-18-12-16-43(9-2,37(44)50)39(59-27(3)51)46(38,55)41(53)58-7/h10-14,16,21-22,28,37-39,47,54-55H,8-9,15,17-20,23-26H2,1-7H3/t28-,37-,38+,39+,42-,43+,44+,45-,46-/m0/s1",
+    "INCHIKEY": "JXLYSJRDGCGARV-CFWMRBGOSA-N",
+    "Formula": "C46H58N4O9",
+    "MolecularWeight": {
+        "$numberDouble": "811"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "3.7"
+    },
+    "Complexity": {
+        "$numberInt": "1700"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Sangster J; LOGKOW Databank. Sangster Res. Lab., Montreal Quebec, Canada (1994)",
+            "Value": "log Kow = 3.70"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "American Society of Health System Pharmacists. AHFS Drug   Information 2008. Bethesda, Maryland 2008, p. 1228",
+            "Value": "Although the mechanism of action has not been definitely established, vinblastine appears to bind to or crystallize critical microtubular proteins of the mitotic spindle, thus preventing their proper polymerization and causing metaphase arrest. In high concentrations, vinblastine also exerts complex effects on nucleic acid and protein synthesis. Vinblastine reportedly also interferes with amino acid metabolism by blocking cellular utilization of glutamic acid and thus inhibits purine synthesis, the citric acid cycle, and the formation of urea. Vinblastine exerts some immunosuppressive activity."
+        },
+        {
+            "References": "US Natl Inst Health; DailyMed. Current Medication Information for Vinblastine sulfate (Vinblastine sulfate) (November 2007). Available from, as of November 17, 2008: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=5843",
+            "Value": "Experimental data indicate that the action of vinblastine sulfate is different from that of other recognized antineoplastic agents. Tissue-culture studies suggest an interference with metabolic pathways of amino acids leading from glutamic acid to the citric acid cycle and to urea. In vivo experiments tend to confirm the in vitro results. A number of in vitro and in vivo studies have demonstrated that vinblastine sulfate produces a stathmokinetic effect and various atypical mitotic figures."
+        },
+        {
+            "References": "US Natl Inst Health; DailyMed. Current Medication Information for Vinblastine sulfate (Vinblastine sulfate) (November 2007). Available from, as of November 17, 2008: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=5843",
+            "Value": "... Studies indicate that vinblastine sulfate has an effect on cell-energy production required for mitosis and interferes with nucleic acid synthesis. The mechanism of action of vinblastine sulfate has been related to the inhibition of microtubule formation in the mitotic spindle, resulting in an arrest of dividing cells at the metaphase stage."
+        },
+        {
+            "References": "US Natl Inst Health; DailyMed. Current Medication Information for Vinblastine sulfate (Vinblastine sulfate) (November 2007). Available from, as of November 17, 2008: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=5843",
+            "Value": "Reversal of the antitumor effect of vinblastine sulfate by glutamic acid or tryptophan has been observed. In addition, glutamic acid and aspartic acid have protected mice from lethal doses of vinblastine sulfate. Aspartic acid was relatively ineffective in reversing the antitumor effect."
+        }
+    ]
+}

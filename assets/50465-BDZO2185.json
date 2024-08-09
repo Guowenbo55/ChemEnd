@@ -1,0 +1,81 @@
+{
+    "_id": {
+        "$oid": "6682e982c4e5dba5ffba2afa"
+    },
+    "CID": {
+        "$numberInt": "50465"
+    },
+    "Name": "Fluroxypyr",
+    "IUPACName": "2-(4-amino-3,5-dichloro-6-fluoropyridin-2-yl)oxyacetic acid",
+    "CanonicalSMILES": "C(C(=O)O)OC1=NC(=C(C(=C1Cl)N)Cl)F",
+    "Synonyms": [
+        "Fluroxypyr",
+        "69377-81-7",
+        "4-Amino-3,5-dichloro-6-fluoro-2-pyridyloxyacetic acid",
+        "2-((4-Amino-3,5-dichloro-6-fluoropyridin-2-yl)oxy)acetic acid",
+        "ACETIC ACID",
+        "((4-AMINO-3,5-DICHLORO-6-FLUORO-2-PYRIDINYL)OXY)-",
+        "((4-Amino-3,5-dichloro-6-fluoro-2-pyridinyl)oxy)acetic acid",
+        "[(4-amino-3,5-dichloro-6-fluoropyridin-2-yl)oxy]acetic acid",
+        "DTXSID2034627",
+        "CHEBI:82017",
+        "8O40SHO197",
+        "Shuangzhiling; Starane Advanced;EF 689",
+        "Advance",
+        "2-(4-amino-3,5-dichloro-6-fluoropyridin-2-yl)oxyacetic acid",
+        "2-[(4-Amino-3,5-dichloro-6-fluoro-2-pyridinyl)oxy]acetic Acid",
+        "Acetic acid",
+        "[(4-amino-3,5-dichloro-6-fluoro-2-pyridinyl)oxy]-"
+    ],
+    "IsomericSMILES": "C(C(=O)O)OC1=NC(=C(C(=C1Cl)N)Cl)F",
+    "INCHI": "InChI=1S/C7H5Cl2FN2O3/c8-3-5(11)4(9)7(12-6(3)10)15-1-2(13)14/h1H2,(H2,11,12)(H,13,14)",
+    "INCHIKEY": "MEFQWPUMEMWTJP-UHFFFAOYSA-N",
+    "Formula": "C7H5Cl2FN2O3",
+    "MolecularWeight": {
+        "$numberDouble": "255.03"
+    },
+    "Description": "Fluroxypyr is an aminopyridine that is pyridin-4-amine substituted by chloro groups at positions 3 and 5, a fluoro group at position 6 and a carboxymethoxy group at position 2. It has a role as a xenobiotic, an environmental contaminant and a herbicide. It is an aminopyridine, an organochlorine compound, an aromatic ether, a monocarboxylic acid and an organofluorine compound.",
+    "XlogP": {
+        "$numberDouble": "1.8"
+    },
+    "Complexity": {
+        "$numberInt": "246"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Lehmann RG et al; Weed Res 31: 347-55 (1991)",
+            "Value": "In a study to determine C-14 uptake in rotational crops 1, 4 and 12 months after application of the formulation, fluroxypyr dissipated too rapidly to be taken up by most of the rotational crops. Wheat plants absorbed only small quantities through the roots, and these residues were not deposited in the grain, but in the straw/chaff fraction, which is recycled back to the field(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "Absorption and translocation of 14C-furoxypyrwere determined for leafy spurge at various growthstages, under differing relative humidity and temperatureconditions, and when applied withpicloramor2,4-D. Absorption of 14C-nuroxypyr was greater invegetative plants (39%)than in flowering or postflower.ing plants(25%),while total translocated to rootsaveraged 2% of applied herbicide regardless of growthstage.Greater 14C-furoxypyr absorption and transloca-tion occurred in plants exposed to high relative humidity(>90%)compared to low humidity(<30%)for 6 h orlonger following treatment, Absorption and translocationto roots was independent of temperature(18 or 24 C).Absorption and translocation declined by 50% whenapplied with picloram or 2,4-D. However, absorption andtranslocation of 14C-picloram or 14C-2,4-D were notaffected by fluroxypyr, Fluroxypyr would likely be usedin a leafy spurge control program only during environ-mental conditions adverse to control with picloram suchas unseasonably warm or cold temperatures or in areaswith a high water table.",
+            "reference": "Lym, R. G. (1992). Fluroxypyr absorption and translocation in leafy spurge (Euphorbia esula). Weed Science, 40(1), 101-105.",
+            "method": {
+                "Test Plant": "Leafy spurge (accession 1984 ND 001)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Plants were grown in a greenhouse at 24 to 27\u00b0C with supplemental light (400 \u03bcE m\u207b\u00b2 s\u207b\u00b9 photosynthetic photon flux density) to obtain a 16-h light and 8-h dark photoperiod.",
+                "Chemical Preparation": "Plants were treated with fluroxypyr 1-methylheptyl ester at 0.56 kg ha\u207b\u00b9 applied with a moving nozzle pot sprayer delivering 47 L ha\u207b\u00b9 at 240 kPa. The treated leaf was enclosed with a paper envelope, and then the leaf was treated with 1700 Bq of uniformly pyridyl-ring-labeled 14C-fluroxypyr (specific activity 969.4 MBq mmol\u207b\u00b9) plus enough commercially formulated fluroxypyr to obtain a final concentration of 0.56 kg ha\u207b\u00b9. The herbicide solution with 0.125% by vol nonionic surfactant was applied in one 10 \u03bcl droplet over the leaf.",
+                "Pesticide Application Details for the Plant": "Each plant received one 10 \u03bcl droplet of treatment solution.",
+                "Other Information": "-"
+            },
+            "result": "[{\"Stage\": \"Vegetative\", \"Treated Leaf (kbq/g)\": 204000, \"Above Treated Leaf (kbq/g)\": 650, \"Below Treated Leaf (kbq/g)\": 420, \"Root (kbq/g)\": 490, \"Absorbed (% of applied)\": 39}, {\"Stage\": \"Flowering\", \"Treated Leaf (kbq/g)\": 108000, \"Above Treated Leaf (kbq/g)\": 260, \"Below Treated Leaf (kbq/g)\": 250, \"Root (kbq/g)\": 150, \"Absorbed (% of applied)\": 25}, {\"Stage\": \"Postflowering\", \"Treated Leaf (kbq/g)\": 60000, \"Above Treated Leaf (kbq/g)\": 170, \"Below Treated Leaf (kbq/g)\": 90, \"Root (kbq/g)\": 110, \"Absorbed (% of applied)\": 25}]"
+        },
+        {
+            "content": "Absorption and translocation of 14C-furoxypyrwere determined for leafy spurge at various growthstages, under differing relative humidity and temperatureconditions, and when applied withpicloramor2,4-D. Absorption of 14C-nuroxypyr was greater invegetative plants (39%)than in flowering or postflower.ing plants(25%),while total translocated to rootsaveraged 2% of applied herbicide regardless of growthstage.Greater 14C-furoxypyr absorption and transloca-tion occurred in plants exposed to high relative humidity(>90%)compared to low humidity(<30%)for 6 h orlonger following treatment, Absorption and translocationto roots was independent of temperature(18 or 24 C).Absorption and translocation declined by 50% whenapplied with picloram or 2,4-D. However, absorption andtranslocation of 14C-picloram or 14C-2,4-D were notaffected by fluroxypyr, Fluroxypyr would likely be usedin a leafy spurge control program only during environ-mental conditions adverse to control with picloram suchas unseasonably warm or cold temperatures or in areaswith a high water table.",
+            "reference": "Lym, R. G. (1992). Fluroxypyr absorption and translocation in leafy spurge (Euphorbia esula). Weed Science, 40(1), 101-105.",
+            "method": {
+                "Test Plant": "Leafy spurge (accession 1984 ND 001)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Plants were grown in a greenhouse at 24 to 27\u00b0C with supplemental light (400 \u03bcE m\u207b\u00b2 s\u207b\u00b9 photosynthetic photon flux density) to obtain a 16-h light and 8-h dark photoperiod.",
+                "Chemical Preparation": "Plants were treated with fluroxypyr 1-methylheptyl ester at 0.56 kg ha\u207b\u00b9 applied with a moving nozzle pot sprayer delivering 47 L ha\u207b\u00b9 at 240 kPa. The treated leaf was enclosed with a paper envelope, and then the leaf was treated with 1700 Bq of uniformly pyridyl-ring-labeled 14C-fluroxypyr (specific activity 969.4 MBq mmol\u207b\u00b9) plus enough commercially formulated fluroxypyr to obtain a final concentration of 0.56 kg ha\u207b\u00b9. The herbicide solution with 0.125% by vol nonionic surfactant was applied in one 10 \u03bcl droplet over the leaf.",
+                "Pesticide Application Details for the Plant": "Each plant received one 10 \u03bcl droplet of treatment solution.",
+                "Other Information": "-"
+            },
+            "result": "[{\"Low Humidity (hours)\": 72, \"High Humidity (hours)\": 0, \"Treated Leaf (% of applied)\": 30, \"Above Treated Leaf (% of applied)\": 5.3, \"Below Treated Leaf (% of applied)\": 2.2, \"Root (% of applied)\": 1.8, \"Absorbed (% of applied)\": 39}, {\"Low Humidity (hours)\": 71, \"High Humidity (hours)\": 0, \"Treated Leaf (% of applied)\": 24, \"Above Treated Leaf (% of applied)\": 8.3, \"Below Treated Leaf (% of applied)\": 2.1, \"Root (% of applied)\": 2.2, \"Absorbed (% of applied)\": 36}, {\"Low Humidity (hours)\": 66, \"High Humidity (hours)\": 0, \"Treated Leaf (% of applied)\": 36, \"Above Treated Leaf (% of applied)\": 7.6, \"Below Treated Leaf (% of applied)\": 2.9, \"Root (% of applied)\": 2.0, \"Absorbed (% of applied)\": 49}, {\"Low Humidity (hours)\": 48, \"High Humidity (hours)\": 0, \"Treated Leaf (% of applied)\": 32, \"Above Treated Leaf (% of applied)\": 7.9, \"Below Treated Leaf (% of applied)\": 3.8, \"Root (% of applied)\": 2.2, \"Absorbed (% of applied)\": 50}, {\"Low Humidity (hours)\": 24, \"High Humidity (hours)\": 0, \"Treated Leaf (% of applied)\": 34, \"Above Treated Leaf (% of applied)\": 9.3, \"Below Treated Leaf (% of applied)\": 7.1, \"Root (% of applied)\": 5.2, \"Absorbed (% of applied)\": 56}, {\"Low Humidity (hours)\": 24, \"High Humidity (hours)\": 48, \"Treated Leaf (% of applied)\": 50, \"Above Treated Leaf (% of applied)\": 5.8, \"Below Treated Leaf (% of applied)\": 3.8, \"Root (% of applied)\": 3.3, \"Absorbed (% of applied)\": 63}, {\"Low Humidity (hours)\": 6, \"High Humidity (hours)\": 66, \"Treated Leaf (% of applied)\": 41, \"Above Treated Leaf (% of applied)\": 6.3, \"Below Treated Leaf (% of applied)\": 2.8, \"Root (% of applied)\": 2.3, \"Absorbed (% of applied)\": 52}, {\"Low Humidity (hours)\": 0, \"High Humidity (hours)\": 72, \"Treated Leaf (% of applied)\": 36, \"Above Treated Leaf (% of applied)\": 5.2, \"Below Treated Leaf (% of applied)\": 3.1, \"Root (% of applied)\": 2.8, \"Absorbed (% of applied)\": 47}]"
+        }
+    ]
+}

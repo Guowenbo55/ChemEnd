@@ -1,0 +1,80 @@
+{
+    "_id": {
+        "$oid": "6682e7e7c4e5dba5ffba22ed"
+    },
+    "CID": {
+        "$numberInt": "1988"
+    },
+    "Name": "ACETOCHLOR",
+    "IUPACName": "2-chloro-N-(ethoxymethyl)-N-(2-ethyl-6-methylphenyl)acetamide",
+    "CanonicalSMILES": "CCC1=CC=CC(=C1N(COCC)C(=O)CCl)C",
+    "Synonyms": [
+        "acetochlor",
+        "34256-82-1",
+        "2-Chloro-N-(ethoxymethyl)-N-(2-ethyl-6-methylphenyl)acetamide",
+        "Azetochlor",
+        "Acetochlore",
+        "Acetamide",
+        "2-chloro-N-(ethoxymethyl)-N-(2-ethyl-6-methylphenyl)-",
+        "\"2-Chloro-2-methyl-6-ethyl-N-ethoxymethylacetanilide\"",
+        "\"2-Chloro-N-(ethoxymethyl)-6-ethyl-o-acetotoluidide\"",
+        "\"2-Chloro-N-(ethoxymethyl)-6-ethylacet-o-toluidide\"",
+        "8L08WMO94K",
+        "CHEBI:2394",
+        "DTXSID8023848",
+        "Harness",
+        "Nevirex",
+        "Acenit"
+    ],
+    "IsomericSMILES": "CCC1=CC=CC(=C1N(COCC)C(=O)CCl)C",
+    "INCHI": "InChI=1S/C14H20ClNO2/c1-4-12-8-6-7-11(3)14(12)16(10-18-5-2)13(17)9-15/h6-8H,4-5,9-10H2,1-3H3",
+    "INCHIKEY": "VTNQPKFIQCLBDU-UHFFFAOYSA-N",
+    "Formula": "C14H20ClNO2",
+    "MolecularWeight": {
+        "$numberDouble": "269.77"
+    },
+    "Description": "Acetochlor is a monocarboxylic acid amide that is N-phenylacetamide carrying an ethyl and a methyl group at positions 2 and 6 respectively on the benzene ring while one of the methyl hydrogens as well as the hydrogen attached to the nitrogen atom have been replaced by a chloro and an ethoxymethyl group respectively. It has a role as a herbicide, a xenobiotic and an environmental contaminant. It is a monocarboxylic acid amide, an organochlorine compound and an aromatic amide. It is functionally related to a N-phenylacetamide.",
+    "XlogP": {
+        "$numberDouble": "3.2"
+    },
+    "Complexity": {
+        "$numberInt": "260"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Xue N et al; Chemosphere 61: 1594-1606 (2005)",
+            "Value": "SEDIMENT: A mean acetochlor concentration of 16.3 pg/g (range of 7.20 to 101 pg/g) was reported in sediment samples from Beijing Guanting Reservoir, China, sampled in September, November 2003 and June, August 2004(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "A hydroponic experiment studied the uptake, translocation, and subcellular distribution of residual acetochlor and atrazine in soil at a concentration of 10 mg/L that may affect subsequent wheat crops from their application to maize. Results showed acetochlor was taken up via the apoplastic pathway in wheat roots but exhibited little translocation to the stems and leaves, while atrazine entered roots symplastically and transported upwards, distributing less in root organelles which allowed easier movement. Uptake of both herbicides by wheat roots as well as atrazine distribution correlated well with predictions from the partition-limited model, indicating residual atrazine poses a safety threat by uptake and acropetal translocation in wheat.",
+            "reference": "Ju, C., Zhang, H., Wu, R., Dong, S., Yao, S., Wang, F., \u2026 Yu, Y. (2020). Upward translocation of acetochlor and atrazine in wheat plants depends on their distribution in roots. Science of The Total Environment, 703, 135636. doi:10.1016/j.scitotenv.2019.135636\u00a0",
+            "method": {
+                "Test Plant": "Wheat seedlings (Triticum aestivum)",
+                "Apply Location": "Hydroponic exposure experiment",
+                "Plant Grown Condition": "Wheat seeds were germinated in seedling trays with sterile moist filter paper for 5 days, then transferred to sterile glass containers with sterile nutrient solution for 1 week in a growth chamber under controlled conditions (light intensity of 250 \u03bcmol m-2 s-1, 25/20 \u00b0C light/darkness temperature, 70% relative humidity).",
+                "Chemical Preparation": "Acetochlor (99.4%) and atrazine (98.5%) were purchased and used in the experiments. Acetochlor and atrazine were prepared in exposure solutions at a nominal concentration of 10 mg L-1.",
+                "Pesticide Application Details for the Plant": "Twenty-five wheat seedlings were transplanted into separate sterile glass containers with 1.5 L exposure solution containing acetochlor or atrazine at a concentration of 10 mg L-1.",
+                "Other Information": "All treatments consisted of three replicates."
+            },
+            "result": "[{\"Plant\": \"A632 x A635 corn\", \"Type\": \"6 hours\", \"Time after application\": 99.1, \"Roots (%)\": 0.6, \"Stem (%)\": 0.3, \"Leaves (%)\": NaN}, {\"Plant\": \"A632 x A635 corn\", \"Type\": \"24 hours\", \"Time after application\": 94.5, \"Roots (%)\": 3.2, \"Stem (%)\": 2.3, \"Leaves (%)\": NaN}, {\"Plant\": \"A632 x A635 corn\", \"Type\": \"72 hours\", \"Time after application\": 81.4, \"Roots (%)\": 13.0, \"Stem (%)\": 5.6, \"Leaves (%)\": NaN}, {\"Plant\": \"A632 x A635 corn\", \"Type\": \"144 hours\", \"Time after application\": 69.6, \"Roots (%)\": 6.3, \"Stem (%)\": 24.1, \"Leaves (%)\": NaN}, {\"Plant\": \"Anjou SC 256 corn\", \"Type\": \"6 hours\", \"Time after application\": 98.4, \"Roots (%)\": 1.2, \"Stem (%)\": 0.4, \"Leaves (%)\": NaN}, {\"Plant\": \"Anjou SC 256 corn\", \"Type\": \"24 hours\", \"Time after application\": 93.5, \"Roots (%)\": 3.5, \"Stem (%)\": 3.0, \"Leaves (%)\": NaN}, {\"Plant\": \"Anjou SC 256 corn\", \"Type\": \"72 hours\", \"Time after application\": 76.2, \"Roots (%)\": 9.2, \"Stem (%)\": 14.6, \"Leaves (%)\": NaN}, {\"Plant\": \"Anjou SC 256 corn\", \"Type\": \"144 hours\", \"Time after application\": 62.5, \"Roots (%)\": 7.5, \"Stem (%)\": 30.0, \"Leaves (%)\": NaN}, {\"Plant\": \"Jubilejnaja 50 wheat\", \"Type\": \"6 hours\", \"Time after application\": 95.5, \"Roots (%)\": 3.0, \"Stem (%)\": 1.5, \"Leaves (%)\": NaN}, {\"Plant\": \"Jubilejnaja 50 wheat\", \"Type\": \"24 hours\", \"Time after application\": 76.1, \"Roots (%)\": 16.0, \"Stem (%)\": 7.9, \"Leaves (%)\": NaN}, {\"Plant\": \"Jubilejnaja 50 wheat\", \"Type\": \"72 hours\", \"Time after application\": 67.2, \"Roots (%)\": 13.5, \"Stem (%)\": 19.3, \"Leaves (%)\": NaN}]"
+        },
+        {
+            "content": "Ju, C., Zhang, H., Wu, R., Dong, S., Yao, S., Wang, F., ... & Yu, Y. (2020). Upward translocation of acetochlor and atrazine in wheat plants depends on their distribution in roots. Science of the total environment, 703, 135636.",
+            "reference": "The study investigates the potential uptake and accumulation of acetochlor and atrazine in wheat plants, as well as their mechanisms of uptake, translocation, and subcellular distribution. Hydroponic experiments were conducted using a concentration of 10 mg L\u22121 for both herbicides. The findings indicate that acetochlor is taken up by wheat roots through the apoplastic pathway and primarily accumulates in the roots with limited upward translocation. In contrast, atrazine is taken up by roots through the symplastic pathway and subsequently transported to the stems and leaves. The preferential distribution of acetochlor in root organelles with higher lipid contents restricts its upward translocation, while atrazine exhibits easier upward translocation due to its low bioconcentration in root organelles and cell walls. The partition-limited model effectively predicts the uptake of acetochlor and atrazine by wheat roots and the distribution of atrazine to the stems and leaves. The results highlight the potential risk to the safety of wheat crops posed by residual atrazine in soil, as it can be taken up by wheat roots and acropetally translocated.",
+            "method": {
+                "Test Plant": "Wheat (Triticum aestivum)",
+                "Apply Location": "Roots of wheat seedlings immersed just below the surface of the solution",
+                "Plant Grown Condition": "Seeds were disinfected with a 5% sodium hypochlorite solution for 15 min, washed three times with sterile water, soaked in sterile water for 16 h, and germinated for 5 days in seedling trays with sterile moist filter paper. Seedlings were then transferred to sterile glass containers with sterile nutrient solution for continued growth for 1 week in a growth chamber with a light intensity of 250 \u00b5mol m-2s-1, light from 05:00 to 21:00, and a temperature of 25/20\u00b0C light/darkness with a relative humidity of 70%.",
+                "Chemical Preparation": "atrazine (98.5%) were used. The nominal concentration of both in the exposure solution was 10 mg/L, lower than their solubility in water but high enough to ensure approximate saturated uptake by wheat roots.",
+                "Pesticide Application Details for the Plant": "Twenty-five seedlings were transplanted into separate sterile glass containers with 1.5 L exposure solution containing acetochlor or atrazine at a concentration of 10 mg/L. Containers without herbicides were used as controls to monitor the possibility of cross-contamination, whereas containers without a seedling were used as unplanted controls to monitor herbicide loss in the absence of seedlings.",
+                "Other Information": "All treatments consisted of three replicates."
+            },
+            "result": "[{\"Hours after application\": 6, \"Roots (mg/kg)\": 0.12, \"RCF\": 0.01}, {\"Hours after application\": 12, \"Roots (mg/kg)\": 0.94, \"RCF\": 0.21}, {\"Hours after application\": 24, \"Roots (mg/kg)\": 2.52, \"RCF\": 0.56}, {\"Hours after application\": 48, \"Roots (mg/kg)\": 1.87, \"RCF\": 0.67}, {\"Hours after application\": 72, \"Roots (mg/kg)\": 1.21, \"RCF\": 0.71}, {\"Hours after application\": 96, \"Roots (mg/kg)\": 1.15, \"RCF\": 0.69}, {\"Hours after application\": 120, \"Roots (mg/kg)\": 1.13, \"RCF\": 0.73}]"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "_id": {
+        "$oid": "6682e97ec4e5dba5ffba2ae4"
+    },
+    "CID": {
+        "$numberInt": "40326"
+    },
+    "Name": "PERMETHRIN",
+    "IUPACName": "(3-phenoxyphenyl)methyl 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate",
+    "CanonicalSMILES": "CC1(C(C1C(=O)OCC2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C",
+    "Synonyms": [
+        "Permethrin",
+        "52645-53-1",
+        "Ambush",
+        "Pounce",
+        "Transpermethrin",
+        "Permethrine",
+        "Permethrinum",
+        "Acticin",
+        "Corsair",
+        "Dragnet",
+        "Ectiban",
+        "Imperator",
+        "Kestrel",
+        "Lyclear",
+        "Outflank"
+    ],
+    "IsomericSMILES": "CC1(C(C1C(=O)OCC2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C",
+    "INCHI": "InChI=1S/C21H20Cl2O3/c1-21(2)17(12-18(22)23)19(21)20(24)25-13-14-7-6-10-16(11-14)26-15-8-4-3-5-9-15/h3-12,17,19H,13H2,1-2H3",
+    "INCHIKEY": "RLLPVAHGXHCWKJ-UHFFFAOYSA-N",
+    "Formula": "C21H20Cl2O3",
+    "MolecularWeight": {
+        "$numberDouble": "391.3"
+    },
+    "Description": "Permethrin is a cyclopropanecarboxylate ester in which the esterifying alcohol is 3-phenoxybenzyl alcohol and the cyclopropane ring is substituted with a 2,2-dichlorovinyl group and with gem-dimethyl groups. It has a role as a pyrethroid ester insecticide, a pyrethroid ester acaricide, an agrochemical, an ectoparasiticide and a scabicide. It is a member of cyclopropanes and a cyclopropanecarboxylate ester. It is functionally related to a 3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylic acid.",
+    "XlogP": {
+        "$numberDouble": "6.5"
+    },
+    "Complexity": {
+        "$numberInt": "521"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "PMID:2273203",
+            "Value": "In a 1986 field study, the average permethrin concentrations found on strawberry flowers or young fruit were 0.637, 0.463, 0.0142, 0.071, 0.039, and 0.015 ppm at 0, 2, 4, 7, 11, and 18 days after treatment, respectively(1); the average concentrations in 1987 were 2.180, 0.090, 0.143, 0.083, 0.089, and 0.027 ppm at 0, 2, 4, 7, 11, and  18 days after treatment, respectively(1). Imported wheat was found to contain permethrin concentrations of 0.014-0.048 ug/g(2)."
+        },
+        {
+            "References": "(1) Frank R et al; Environ Monit Assess 16: 137-50 (1991)",
+            "Value": "Permethrin was not detected at concentrations greater than 10 ug/kg in 182 fish taken from 2 creeks approximately 60-100 m from potato fields where permethrin was applied via aerial spraying(1)."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Hladik ML, Kuivila KM; J Agric Food Chem 57: 9079-9085 (2009)",
+            "Value": "SEDIMENT: Suspended sediment samples collected from five locations in California in the fall of 2009 contained permethrin concentrations of 1.8-9.6 ng/L(1); permethrin was not detected in the water-phase (detection limit of 0.6 ng/l)(1)."
+        },
+        {
+            "References": "(1) Rawn GP et al; J Environ Sci Health B17: 463-86 (1982) (2) Frank R et al; Environ Monit Assess 16: 137-50 (1991) (3) Thapinta A, Hudak PF; Environ Monit Assess 60: 103-114 (2000) (4) Krapac IG et al; J Soil Contam 43: 209-226 (1995) (5) Riederer AM et al; Arch Environ Contam Toxicol 58: 908-917 (2010)",
+            "Value": "SOIL: Permethrin was detected in the hydrosoil of a model outdoor pond at a concentration of 1 ug/kg one year after treatment with 15 ug/L permethrin(1). Permethrin was detected 30 days post-application at a concentration of 10 ug/kg in 1 of 3 sediment samples from a creek approximately 60-100 m from a potato field where permethrin was applied via aerial spraying(2). Between 1996-1997, the concentration of permethrin in soil samples from cultivated areas in Thailand ranged from 62.41 to 1,178.40 ug/kg (24 samples)(3). The average concentration of permethrin in the soil collected from 49 agrichemical facilities located throughout Illinois was 190 ug/kg (range, 11 to 4.22X10+5 ug/kg)(4). Yard soil samples collected from 11 homes in Atlanta GA during Jan-April 2006 contained positive cis- and trans-permethrin concentrations of 2.42-7.78 ng/g dry wt(5)."
+        }
+    ]
+}

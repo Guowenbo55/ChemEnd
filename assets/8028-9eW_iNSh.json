@@ -1,0 +1,298 @@
+{
+    "_id": {
+        "$oid": "6682e8a3c4e5dba5ffba2698"
+    },
+    "CID": {
+        "$numberInt": "8028"
+    },
+    "Name": "Tetrahydrofuran",
+    "IUPACName": "oxolane",
+    "CanonicalSMILES": "C1CCOC1",
+    "Synonyms": [
+        "TETRAHYDROFURAN",
+        "Oxolane",
+        "109-99-9",
+        "Furan",
+        "tetrahydro-",
+        "Furanidine",
+        "Butylene oxide",
+        "Hydrofuran",
+        "Tetramethylene oxide",
+        "Oxacyclopentane",
+        "1,4-Epoxybutane",
+        "Tetrahydrofuranne",
+        "Tetraidrofurano",
+        "Tetrahydrofuraan",
+        "Tetrahydrofurane",
+        "Cyclotetramethylene oxide"
+    ],
+    "IsomericSMILES": "C1CCOC1",
+    "INCHI": "InChI=1S/C4H8O/c1-2-4-5-3-1/h1-4H2",
+    "INCHIKEY": "WYURNTSHIVDZCO-UHFFFAOYSA-N",
+    "Formula": "C4H8O",
+    "MolecularWeight": {
+        "$numberDouble": "72.11"
+    },
+    "Description": "Oxolane is a cyclic ether that is butane in which one hydrogen from each methyl group is substituted by an oxygen. It has a role as a polar aprotic solvent. It is a member of oxolanes, a saturated organic heteromonocyclic parent, a cyclic ether and a volatile organic compound.",
+    "XlogP": {
+        "$numberDouble": "0.5"
+    },
+    "Complexity": {
+        "$numberInt": "22"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 9 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for tetrahydrofuran(SRC), using a log Kow of 0.46(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "Pozdnyakova AG; Gig Sanit 34 (9): 114 (1969) as cited in USEPA; Chem Hazard Info Profile: THF p. 258 (1979)",
+            "Value": "AEROBIC: At concentrations of 0.5, 5 and 10 mg/L, tetrahydrofuran was detected in distilled water for 1-2, 6-8 and 10 days, respectively. In presence of microbial contamination degradation took 2-3 days less. The chemical and biochemical oxidation of tetrahydrofuran is accompanied by considerable consumption of dissolved O2."
+        },
+        {
+            "References": "(1) Van Ginkel CG, Stroo CA; Ecotoxicol Environ Safety 24: 319-27 (1992) (2) Painter HA, King EF; Ring Test Program 1983-84. Assessment of Biodegradability of Chemicals in Water by Manometric Respirometry. Comm Eur Communities, Eur 9962 (1985) (3) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Sept 1, 2010:  https://www.safe.nite.go.jp/english/db.html",
+            "Value": "AEROBIC: In the prolonged Closed Bottle Test, using an activated sludge inoculum, tetrahydrofuran reached 39, 57 and 61% of the theoretical BOD in 28, 42, and 56 days, respectively(1). Using the EEC (European Economic Community) manometric respirometric method in 22 different laboratories, tetrahydrofuran reached a mean of 34% of the theoretical BOD within 28 days(2). Tetrahydrofuran, present at 100 mg/L, reached 100% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(3)."
+        },
+        {
+            "References": "(1) Clapp LW et al; Water Environ Res 66: 153-60 (1994) (2) Dobbs RA, Bhattacharya SK; pp 68-81 in USEPA 600/9-90-037. Proc 16th Ann Haz Waste Res Symp. Cincinnati, OH (1990) (3) Safferman SI, Bhattacharya SK; Treatability of RCRA Compounds in a BOD/Nitrification Wastewater Treatment System with Dual Media Filtration. Risk Reduction Engineering Laboratory Cincinnati, OH. USEPA/600/S2-90/013 (1990)",
+            "Value": "AEROBIC: Tetrahydrofuran, present at 1.082 mg/L, reached >90% removal using an activated sludge treatment; using a biological aerated filter reactor, tetrahydrofuran, at 496 ug/L, had a removal of 54%(1). A pilot-scale activated sludge system, operated at a hydraulic retention time of 7.5 hours and a flow rate of 35 gpm gave an average removal of 76.4% for tetrahydrofuran; an average of 10.2% of this was due to stripping, 1.2% was due to sludge adsorption(2). Biodegradation increased during this test(2) indicating some acclimation of the microbial population(SRC). Pilot-scale extended aeration wastewater treatment plants with dual media secondary effluent filters were able to completely remove tetrahydrofuran (initial concentrations between 50-100 ug/L) under both acclimated and non-acclimated conditions(3)."
+        },
+        {
+            "References": "(1) Battersby NS, Wilson V; Appl Environ Microbiol 55: 433-39 (1989)",
+            "Value": "ANAEROBIC: Tetrahydrofuran at 50 mg C/L was resistant to anaerobic biodegradation with a lag period of >60 days (the incubation period) using a primary digesting sludge as an inoculum; no gas production was seen during this time(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 9",
+            "Value": "log Kow = 0.46"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.75 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ A dog was anesthetized and exposed via tracheal catheter for 1.5 hr to 150-180 mg/L THF (originally stated as a 5% to 6% THF/oxygen mixture). After 2 hr, the dog was asleep but rigid; 6-8 hr later the dog was awake and normal. At the end of 48 hr the dog was killed; no gross abnormalities were observed upon autopsy. Another dog was treated similarly for 1.5 hr. The THF concentration was then increased to an unstated level, and the dog died 30 min later. During this time, there was a gradual blood pressure decrease to 20 mm after which the heart rate and respiration stopped. Revival was not possible."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.76 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ THF penetrates quickly through the shaved skin of rats or rabbits. Rats that are exposed over 10% of their skin surface area quickly absorb lethal amounts. Regardless of the route of administration, blood concentrations of 3000 to 4000 mg/L (300 to 400 mg%) were lethal; general anesthesia at about 1600 mg/L (160 mg%), first signs of /CNS depression/ above 600 mg/L (60 mg%); no symptoms below 500 mg/L (50 mg%)."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.86 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ THF (100%) produced mild to moderate irritation when tested on the intact skin of 10 /guinea pigs/. When tested on scratched skin, it produced mild irritation. At 50% strength, THF produced strong irritation on both intact and scratched skin."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-4148 2010.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ A single 4 hr inhalation of THF in rabbits in the range of 100 to 12,000 ppm resulted in a transient dose related decrease of tracheal ciliary activity. Single or repeated exposures have been associated with cytolytic hepatitis and fatty degeneration of the liver."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-4148 2010.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The anesthetic properties of THF found concentrations of 11,000 ppm produced anesthesia in mice. ... The anesthetic properties were rather poor in that onset was delayed & recovery poor; this was accompanied by pronounced hypotension & marked respiratory hyperpnea. There was a narrow margin of safety between anesthesia & death in dogs & mice."
+        },
+        {
+            "References": "Browning, E. Toxicity and Metabolism of Industrial Solvents. New York: American Elsevier, 1965., p. 701",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Acute oral administration /of tetrahydrofuran to cats/ was found ... to cause inflammation, necrosis and hemorrhage of gastrointestinal tract. Kidneys showed injury to tubules. ... Inflammation /of liver as well as/ congestion and edema /of lungs, were observed/."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-4148 2010.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ A single 0.5-mL application of THF to abraded and non-abraded skin of rabbits was found to result in a primary irritation index of 1.93 (mild irritation)."
+        },
+        {
+            "References": "Browning, E. Toxicity and Metabolism of Industrial Solvents. New York: American Elsevier, 1965., p. 701",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ /CNS depressant/ ... dose /of tetrahydrofuran/ by inhalation, for mice, 6.7 vol % in 5 min; 1.1 vol %  in 43 min; for dogs, 5.6 vol % (oxygen mixt) for 2 hr."
+        },
+        {
+            "References": "OHashi Y et al; Sumitomo Sangyo Eisei 18: 89-93 (1982)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Rabbits exposed to tetrahydrofuran (THF) at 12,000 ppm for 4 hr had paralysis of the nasal ciliary function due to the absence of ciliary beating, while morphological damage of ciliated cells was not so severe. Moderate destructive cases, partial destruction of the outer cellular membrane was recognized. The falling off or absence of ciliated cells was never observed."
+        },
+        {
+            "References": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-408",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Oral lethal dose of a 20% solution in rabbits 2.5 g/kg. ... A vapor concn of 2.2 vol % killed 50% of exposed mice in less than 2 hr."
+        },
+        {
+            "References": "PMID:12802580",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Groups of female B6C3F(1) mice were exposed to dynamic atmospheres containing tetrahydrofuran (THF) concentrations of 0, 5,400 or 15,000 mg/cu m for 6 hr per day, for 5 consecutive days. One-half of the animals in each THF exposure group were pretreated with the cytochrome P450 inhibitor 1-aminobenzotriazole (ABT) at 100 mg/kg (ip) 1 hr before the start of each THF exposure period. Treatment with THF at 15,000 mg/cu m caused marked microsomal enzyme induction in the liver. The cytochrome P450 content was nearly doubled (+98%), pentoxyresorufin-O-depentylase (PROD) and ethoxyresorufin-O-deethylase (EROD) activities were increased by 600% and 160%, respectively. ABT pretreatment effectively blocked microsomal enzyme induction at 15,000 mg/cu m. THF exposure had no effect on the subcellular morphology of hepatocytes, whereas ABT-pretreatment caused centrilobular fatty change. THF at 15,000 mg/cu m caused increased cell proliferation in zone 3 (central vein region) of the liver (according to Rappaport), as indicated by a significantly higher PCNA (Proliferating Cell Nuclear Antigen) labelling index, but there were no effects at 5,400 ppm. ABT pretreatment prior to THF exposure at 15,000 mg/cu m caused an exacerbated proliferative response of mouse liver, significantly higher PCNA labelling indices being observed in zones 2 (midzonal region) and 3. The exacerbated proliferative response of mouse liver under conditions of inhibited THF metabolism suggests that the mitogenic effects are related to prevailing THF tissue concentrations and not to the generation of THF oxidative metabolite(s)."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-4148 2010.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... A 3 hr LC50 was estimated to be 21,000 ppm in rats.  Exposures at 5000 ppm resulted in edema or opacity of the cornea, salivation, bleeding of the nasal mucus, and muscle spasms, indicating effects on the central nervous system. At 100 to 200 ppm, slight local irritant symptoms, such as redness of the nose and eyelids ..."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.97 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rats (strain and sex not given) were exposed to tetrahydrofuran for 4 hr/day for 6 months, dosage 1-2 mg/L. Results: leucocytosis, reduced blood pressure, proliferative changes in lungs. /Translated from German/"
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.99 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Male Wistar rats were exposed to tetrahydrofuran daily for 30 min for 7 days, dosage 45 mg/L (15,000 ppm). 29 animals/group (control 5 animals). Results: symptoms of irritation of the skin and mucous membranes (tearing, mucous and bloody nasal discharge); histopathological (brain, thymus, lungs, heart, liver, kidneys, spleen). In particular the dopamine content of the cerebrum was reduced 48 hr after the last inhalation. /Translated from German/"
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.100 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Male Wistar rats were exposed to tetrahydrofuran by inhalation 1hr/day, 5 days/week for 12 weeks, dosage 9 mg/L (3000 ppm). 29 animals/group (control 5 animals). Results: symptoms of irritation of the skin and mucous membranes. Significant bodyweight decline after 4 weeks. Histopathology: papillary hyperplasia and some catarrhal changes in lung and bronchial epithelia; kidney changes (urinary casts in kidney tubules, degeneration of hyaline droplets); changes in noradrenalin and dopamine levels in the cerebrum. /Translated from German/"
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.102 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Male Wistar rats were exposed to tetrahydrofuran by inhalation 6 hr/day, 5 days/week for 2-18 weeks, dosage: 0.6, 3.0, 6.0 mg/L (200, 1000, 2000 ppm). Dissection after 2, 5, 13, and 18 weeks. Results: an increase of various oxydative enzyme systems in the liver and kidneys without induction of cytochrome P-450; no effect on the brain. /Translated from German/"
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.102 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Male and female Fischer-344/N rats were exposed to tetrahydrofuran by inhalation 6 hr/day, 5 days/week for 13 weeks, dosage 0.2, 0.6, 1.8, 5.4, and 15 mg/L (66, 200, 600, 1800, 5000 ppm), purity 99%, 0.06% water content, 0.03% butyl hydroxytoluol, peroxide content <1.5 ppm. Results: </= 5.4 mg/L: some animals with nasal or eye discharge, otherwise no remarkable findings; 15 mg/L: symptoms of toxicological effects on the Central Nervous System: ataxia (males and females),  decreasing with the duration of the time of exposure (habituation effect); significant reduction of thymus and spleen weights (males and females); significant increase of liver weight (females); increased erythrocyte count and other hematologicial changes. Histopathology: 5/10 males and 8/10 females experienced very slight grade acanthosis characterized by multifocal thickening of  the nonkeratinized layer of the squamous epithelium; in 2/10 males and 4/10 females purulent inflammation of the forestomach. /Translated from German/"
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.109 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Male Sprague-Dawley rats were exposed to tetrahydrofuran by inhalation 4 hr/day, 5 days/week for 1 day, 1 week, or 3 weeks, dosage: 0.3 or 15 mg/L (100 and 500 ppm). Twelve rats were used in this experiment and divided among control (6), low dose (3), and high dose (3) groups. Optical microscopic pictures of the tracheal mucous membrane did not show differences between control and experimental groups after 1 day and 1 week of exposure. However, 3 weeks of exposure to 15 mg/L produced ciliary changes, disorder in epithelial architecture, and darkening of cell bodies. A similar change was oberved in the nasal mucous membrane after 3 weeks of exposure to 0.3 mg/L. The ciliary structure of the nasal mucosa was retained in the group exposed to 15 mg/L for 1 and 3 weeks, but the epithelial structure was disordered with small, somewhat darkened vacuoles in cell bodies. The subepithelium contained minute vessels which appeared dilated and congested.  In addition, another part of the mucous membrane in the 15 mg/L group showed highly degenerated ciliary and goblet cells with exposed basal cells."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.129 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Cats were exposed to tetrahydrofuran 8 hr/day for 30 days via inhalation, dosage: 36.9 mg/L (12,500 ppm). All 10 exposed cats died within 10 days. Five animals from each group were autopsied. The most notable deviation from normal in practically all tissues was marked to extreme congestion."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-4148 2010.",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... When dogs inhaled 200 ppm THF 6 hr/day for 3 to 4 weeks, an observable effect on pulse pressure was recorded; however, no demonstrable histopathologic changes were found despite extended exposure of 9 weeks, followed by an additional 3 week exposure at up at 366 ppm."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists, Inc. Documentation of the Threshold Limit Values and Biological Exposure Indices. 6th ed. Volumes I, II, III. Cincinnati, OH: ACGIH, 1991., p. 1517",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Male rats that inhaled more than 5000 ppm THF for 12 weeks at 4 hr/day showed signs of systemic intoxication, skin and respiratory tract irritation, liver function disturbance, and abnormalities in glucose metabolism. Although systemic effects were not observed after similar exposures at lower concentrations, slight respiratory tract irritation occurred in some rats that inhaled concentrations less than 200 ppm."
+        },
+        {
+            "References": "PMID:12388842",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ To elucidate possible mechanism(s) of carcinogenic action of tetrahydrofuran (THF) that had been demonstrated in previous inhalation studies, groups of male F344 rats and female B6C3F(1) mice were exposed to dynamic atmospheric concentrations of 0, 600, 1800, or 5400 mg/cu m for 6 hr/day, either for 5 consecutive days or for a period of 4 weeks (5 days per week). The reversibility of treatment-related changes was investigated in rats and mice exposed for 5 days and sacrificed 21 days after the last exposure. Female B6C3F(1) mice exposed to 5400 mg/cu m showed significantly increased cytochrome P450 content, increased ethoxyresorufin-O-deethylase and pentoxyresorufin-O-depentylase activities, increased cell proliferation (5-bromo-2'-deoxyuridine-method) and an increased mitotic index in liver zones 2 (midzonal region) and 3 (central vein region). The changes were found to be reversible after a 3-week treatment-free period (cell proliferation examined, only). Male F344 rats showed dose-related alpha2u-globulin (alpha2u) accumulation in the renal cortex after 5 or 20 exposures, and there were no signs of reversal after a 3-week treatment-free period. After 20 exposures at 5400 mg/cu m, the alpha2u accumulation was found to be associated with increased cell proliferation in \"hot spots\" of the renal cortex and increased apoptosis. Increased cell proliferation was also detected after 20 exposures at 1800 mg/cu m. There were no effects at 600 mg/cu m..."
+        },
+        {
+            "References": "Horiguchi S et al; Seikatsu Eisei 25 (4): 176-7 (1981)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rats were exposed to tetrahydrofuran at 200 or 1000 ppm, 4 hr/week from 12 to 24 weeks of age. The lower concentration caused slight damage whereas the higher concentration caused severe damage to the nasal and tracheal epithelium ... including decreased number of cilia, vacuolization and increased dense granules of the cytoplasm."
+        },
+        {
+            "References": "PMID:7143809",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rats were exposed to 100, 200, 1000 or 5000 ppm tetrahydrofuran for 4 hr/day for 12 weeks. 100 and 200 ppm had no significant effects except for slight mucosal irritation. 1000 ppm affected liver function as indicated by serum chemistry tests. 5000 ppm caused marked local irritant symptoms and morphological damage of the respiratory mucosa, and affected white blood cell counts, blood sugar levels and liver functions."
+        },
+        {
+            "References": "PMID:2318358",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... Groups of 10 rats and mice of each sex were administered tetrahydrofuran (THF), vapor by whole body inhalation for 13 weeks at exposure concentrations of 0, 66, 200, 600, 1800, and 5000 ppm. The body weights and survival were not affected by THF exposure, except in male mice at 5000 ppm concentration which had reduced weight and three deaths. Clinical signs of central nervous system (CNS) toxicity were observed in both rats and mice at high dose levels. Rats of both sexes exposed to 5000 ppm were ataxic and mice exposed to 1800 or 5000 ppm appeared to be in a state of narcosis. There were no exposure-related gross necropsy findings in rats or mice. At 5000 ppm, decreases in thymic and spleen weights in rats and mice of both sexes and increases in liver weights in both sexes of mice and in female rats were observed. A minimal to mild centrilobular hepatocytomegaly occurred in male and female mice exposed to 5000 ppm THF. Atrophy of the uterus and degeneration of the X zone in the adrenal cortex occurred in female mice exposed to 5000 ppm THF. THF exposure of rats was associated with minimal to mild acanthosis and inflammation in the forestomach. In conclusion, these studies suggest that THF, like other commonly used organic solvents, causes narcosis in rats and mice. Although minimal exposure-related effects were seen in the liver of both species, morphologic changes were present only in mice."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists, Inc. Documentation of the Threshold Limit Values and Biological Exposure Indices. 6th ed. Volumes I, II, III. Cincinnati, OH: ACGIH, 1991., p. 1517",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Muscle acetylcholinesterase activity increased in a concentration dependent manner in male rats that inhaled 200, 1000, or 2000 ppm for 18 weeks at 6 hr/day. THF concentrations in brain and peripheral fat appeared to decrease after 2 weeks. At 200 ppm, hepatic protein and mixed function oxidase activity were increased. At 2000 ppm, liver function was inhibited. Increased skeletal muscle succinate dehydrogenase activity was noted."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists, Inc. Documentation of the Threshold Limit Values and Biological Exposure Indices. 6th ed. Volumes I, II, III. Cincinnati, OH: ACGIH, 1991., p. 1517",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In a 13 week study inhalation study, ataxia was reported in rats at 5000 ppm and ... /CNS depression/ was reported in mice at 1800 ppm. Hepatocytomegaly developed in mice of both sexes at 5000 ppm; uterine atrophy and degeneration of the adrenal cortex occurred in the female mice."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.98 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Rats (strain and sex not given) were exposed to tetrahydrofuran by inhalation for 6 hr/ day, 5 days/week for one year, dosage 3 mg/L (1000 ppm). Results: no toxicity symptoms, in particular no macroscopic or histopathological changes in the liver and kidneys. /Translated from German/"
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.98 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Rats (strain not given) were exposed to tetrahydrofuran by inhalation 8 hr/day, 5 days/week for 20 months, dosage: 9 mg/L (3000 ppm). 50 animals/sex/group. Female animals showed a significant increase in liver weight over controls. No toxicity symptoms, particularly no significant macroscopic or histopathological changes in the liver and kidneys compared to controls. /Translated from German/"
+        },
+        {
+            "References": "PMID:9520354",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ ... Groups of 50 male and 50 female F344/N rats and B6C3F1 mice were exposed to 0, 200, 600, or 1800 ppm tetrahydrofuran (THF) by inhalation, 6 hr per day, 5 days per week, for 105 weeks. Survival and mean body weights of male and female rats exposed to THF were comparable to that of the controls. No clinical findings or nonneoplastic lesions related to THF exposure were observed in male or female rats. The incidences of renal tubule epithelial adenoma or carcinoma (combined) in exposed male rats occurred with a positive trend, and in males exposed to 600 and 1800 ppm exceeded the historical range for controls in 2-year NTP inhalation studies. There were no other neoplastic lesions related to THF exposure observed in male or female rats. After week 36, the survival of male mice exposed to 1800 ppm was significantly lower than that of the controls. Mean body weights of male and female mice exposed to THF were similar to those of the controls throughout the study. Male mice exposed to 1800 ppm were observed in a state of narcosis during and up to 1 h after the exposure periods. Nonneoplastic lesions related to THF exposure were not observed in male or female mice. The neoplastic lesions related to THF exposure were seen in female mice only. In female mice exposed to 1800 ppm, the incidences of hepatocellular neoplasms were significantly greater than those in the controls. In conclusion, there was some evidence of carcinogenic activity of THF in male F344/N rats due to increased incidences of adenoma or carcinoma (combined) of the kidney at the 600 and 1800 ppm exposure levels. There was clear evidence of carcinogenic activity in female B6C3F1 mice based on increased incidences of hepatocellular neoplasms at the 1800 ppm exposure level. THF was not carcinogenic in female rats or male mice exposed at 200, 600, or 1800 ppm."
+        },
+        {
+            "References": "Toxicology & Carcinogenesis Studies of Tetrahydrofuran in F344/N Rats and B6C3F1 Mice p.6 Technical Report Series No. 475 (1998) NIH Publication No. 98-3965 U.S. Department of Health and Human Services, National Toxicology Program, National Institute of Environmental Health Sciences, Research Triangle Park, NC 27709",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ ... Under the conditions of these 2 yr inhalation studies, there was some evidence of carcinogenic activity of tetrahydrofuran in male F344/N rats based on incr incidences of renal tubule adenoma or carcinoma (combined). There was no evidence of carcinogenic activity of tetrahydrofuran in female F344/N rats exposed to 200, 600 or 1,800 ppm or male B6C3F1 mice exposed to 200, 600 or 1,800 ppm. There was clear evidence of carcinogenic activity of tetrahydrofuran in female B6C3F1 mice based on incr incidences of hepatocellular neoplasms."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.151 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Two generation study, Wistar rats, dosage: 1000, 3000, 9000 ppm. Aqueous solutions of THF administered /in the drinking water/ over two generations had no adverse effects on reproductive parameters of the F0 and F1 parental animals of all test groups: 1000 ppm (104 mg/kg), 3000 ppm (305 mg/kg), 9000 ppm (782) mg/kg). Clear signs of general toxicity occurred in both parental generations at 9000 ppm as evidenced by adverse effects on food and water consumption as well as body weights/body weight gains. Significant increases in absolute and/or relative kidney weights occurred in the F0 parental animals of the highest dose group. Equivocal decrements in water consumption only in both parental generations at 3000 ppm (due to impaired palatibility) were judged to be biologically insignificant and not adverse. No treatment related effects were observed in F0 and F1 parental animals at 1000 ppm. Developmental toxicity in the form of reduced pup growth (F1 and F2 pups) and delayed eye opening (F2 pups only) were noted at 9000 ppm. No substance induced effects were observed in F1 and F2 pups at 1000 ppm and 3000 ppm."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) pp.155-6 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Female CD rats were exposed to THF by inhalation on days 6-15 of gestation, 6 hr/day, 7 days/week, dosage: 0.6, 1.5, 3, 7.4, 15 mg/L. Whole body exposure to the highest THF level (15 mg/L) was toxic to dams as evidenced by a significant decrease in food consumption and body weight gain during the exposure period, lethargy, and incoordination lasting for about 1 hr after the cessation of exposure each day, and absence of a response to a noise stimulus during the exposure period each day. Levels of 3 mg/L and 7.4 mg/L caused only a reduced response to noise stimulus during exposure. No toxic responses were observed among dams at 0.6 mg/L and 1.5 mg/L. The incidences of malformed fetuses did not increase with increased exposure level. However, fetuses from the 15 mg/L group weighed less and their sterna were less ossified than those of the control groups."
+        },
+        {
+            "References": "PMID:1601226",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Sprague-Dawley rats and Swiss CD-1 mice were exposed to 0, 600, 1,800 or 5,000 ppm tetrahydrofuran ... vapors 6 hr/day, 7 days/wk (6-19 days of gestation) for rats; 6-17 days of gestation for mice). Body weights of pregnant rats in the 5,000 ppm group were reduced at /sacrifice/. There were no effects on the percentage of live rat fetuses/litter or on the fetal sex ratio. Fetal body weight was significantly reduced in the 5,000 ppm group, but the incidence of abnormalities was not incr. Mice in the 1,800 ppm and 5,000 ppm group were sedated during exposure; approx 27% of the mice in the 5,000 ppm group died. Mean body and uterine weights of mice were reduced for the 1,800 and 5,000 ppm groups at /sacrifice/ (18 days of gestation), but adjusted maternal weight gain was not affected at 1,800 ppm. There was a reduction in the percentage of live fetuses/litter for the mice in the 1,800 and 5,000 ppm groups (95% resorptions in the 5,000 ppm group). Fetal weight and sex ratio in mice were not affected. An incr in the incidence of reduced sternebral ossifications was correlated to tetrahydrofuran concn, although differences between groups were not statistically significant. There were no incr in the incidences of any other malformations or variations. These results suggest that tetrahydrofuran may be embryotoxic in mice, but if the conceptus survives, development as assessed by this experimental design continues in a normal fashion. The no observable adverse effect level (NOAEL) for maternal toxicity was 1,800 ppm in both rats and mice. The NOAEL for developmental toxicity was 1,800 ppm in rats and 600 ppm in mice."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.66 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Rats (strain and sex not identified) received tetrahydrofuran by inhalation. Inhibition of propagation and maintenance of the electrically evoked seizure discharge was used as criterion of acute neurotropic effect in male rats. The isoeffective concentrations in air were estimated by interpolation on the level of one-third of the maximum effect concentration (EEC). The EEC for THF was 1220 ppm."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.170 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Intravenous and intraperitoneal administration of THF to rats (strain and sex not given) resulted in desynchronization of the electroencephalogram (1.082 mg/kg) and in high amplitude slow waves (1.514 mg/kg)."
+        },
+        {
+            "References": "PMID:17331547",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ ...Various doses of tetrahydrofuran (THF) and gamma-butyrolactone (GBL) were studied in neurobehavioral tests to better characterize the pharmacology of THF. The TD(50)'s (with 95% confidence intervals) of THF for loss of the righting reflex and failure of performance on the rotarod test were 15.18 (11.88-19.39) and 7.00 (5.22-9.40) mmol/kg, respectively. These values were significantly greater (p<0.05) than those determined for GBL: 4.60 (3.25-6.51), and 0.85 (0.52-1.38) mmol/kg, respectively. The effects of THF on the impairment of motor function in the rotarod test were antagonized by pretreatment with the GABA(B) receptor antagonist CGP-35348 (200 mg/kg, ip). While both THF and GBL had depressant effects on open-field locomotor activity, the pattern of activity at the lower doses of THF and GBL were dissimilar. Chronic treatment with low dose THF (5 or 10 mmol/kg, ip) followed by acute challenge with THF (15 mmol/kg, i.p.) demonstrated tolerance to the observed sedative effects. While some of the mechanisms of the THF actions on the central nervous system appear likely to involve direct or indirect interactions with the GABA(B) receptor, some differences in its qualitative and quantitative pharmacology suggests other mechanisms are also likely involved in the observed neurobehavioral effects of these selected doses of THF in mice."
+        },
+        {
+            "References": "PMID:11452395",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Groups of adult male and female rats received exposure to tetrahydrofuran (THF) vapor by inhalation in acute or subchronic exposure scenarios. Acute exposure concentrations were 0, 500, 2500, or 5000 ppm for 6 hr. Evaluations conducted immediately after exposure included clinical observations, motor activity assessments (MA), and a battery of functional tests (FOB) designed to reveal nervous system dysfunction. During exposure to 2500 and 5000 ppm, rats had a diminished or absent startle response to a punctate auditory alerting stimulus. Following exposure to 5000 ppm, male and female rats were lethargic, exhibited abnormal gait or mobility, and splayed rear feet. Lethargy and splayed rear feet were also observed in females exposed to 2500 ppm. During the subsequent FOB, males exposed to 5000 ppm had a lower incidence of palpebral closure, higher incidences of slow or absent righting reflex, and a biphasic pattern of reduced motor activity followed by increased motor activity. Females exposed to 5000 ppm had increased incidences of palpebral closure in the open field, increased incidences of slow or absent righting reflex, and decreased motor activity. During the 14-week subchronic exposure series, daily THF exposure concentrations were 0, 500, 1500, or 3000 ppm, and neurobehavioral evaluations occurred on non-exposure days at approximately monthly intervals. Diminished startle responses to an auditory alerting stimulus were observed during exposure to 1500 or 3000 ppm; however, repeated exposures did not cause additional neurobehavioral or pathological effects. This pattern of effects is suggestive of transient sedation. Despite daily reinstatement of acute sedative effects during repeated exposure with up to 3000 ppm, THF did not produce any persistent or cumulative effects on nervous system structure or function. The demonstrated no-observed-effect level of THF for both acute and subchronic exposure was 500 ppm."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.67 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/BEHAVIORAL STUDIES/ Twelve male and twelve female rats /strain not given/ received six-hour whole body exposures to THF at concentrations of 500 ppm (1.5 mg/L, 2500 ppm (7.4 mg/L), and 5000 ppm (15 mg/L). All rats survived to scheduled euthanasia. Signs of sedation (diminished or absent response to an alerting stimulus) were noted in the 2500 ppm and 5000 ppm groups during exposure in a time- and concentration-dependent manner. Control and low-dose animals were judged to respond normally throughout the exposure period. Additional signs of sedation (lethargy, splayed rear legs, abnormal gait, or mobility) were present in the 2500 ppm and 5000 ppm groups immediately upon removal from the exposure chambers. Minor motor activity effects (decrements in the number and duration of movements) occurred in the 5000 ppm group when testing began within 40 min of exposure. The lack of such an effect in males at 5000 ppm and in either sex at 2500 ppm suggest that recovery from sedation occurred rapidly upon cessation of exposure. Complete recovery from sedation for rats in the 2500 ppm group was confirmed by the absence of compound-related effects in the functional observed battery (FOB) conducted after the motor activity test on day 1. Only three of the 36 FOB parameters were adversely affected in the 5000 ppm rats, and the minor motor activity effects noted immediately following termination were absent several hours later during the FOB. Except for possible rebound hyperactivity in the 5000 ppm group on day 2, no toxicologically important neurobehavioral effects were detected after day 1."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.160 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/BEHAVIORAL STUDIES/ Rats (strain and sex not given) were given THF ip, 223-2230 mg/kg (250-2500 uL/kg). Results: 223 mg/kg: 10 min after the first injection slight confusion and slowness to react that lasted about 10 min, defensive reflex may be triggered, repetition of the same treatment on the following days showed no further /CNS depression/; 1110 mg/kg: 3 min after the first injection there was moderate /CNS depression/, corneal and defensive reactions were weakly triggered, /CNS depression/ lasted about 4 hr, with repeated /injections/ the /CNS depression/ became weaker; 2230 mg/kg: 3 min after the first injection, profound /CNS depression/, corneal and defensive reactions were missing, respiration was weak, /CNS depression/ lifted after 6 hr, with repeated injections the same /CNS depression/ was observed, the overall condition deteriorated, and death occurred after the third injection in one animal during the /CNS depression/. /Translated from German/"
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.141 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ THF was negative in the Eschericia coli reverse mutation assay with Eschericia coli WP 2, WP 2 uvrA-, concentrations of 2.5, 5, 10, and 20 uL/plate, with and without metabolic activation."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.142 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ Negative in sister chromatid exchange assay with CHO-W-B1-Cell, 500-5000 ug/mL, with and without metabolic activation."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.142 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ Unscheduled DNA synthesis: THF did not induce DNA damage as evaluated in this assay in rat hepatocytes."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.144 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ Cytogenetic assay:  male B6C3F1 mice, dosage 500, 1000, and 2000 mg/kg. THF was administered ip at 1/4, 1/2, and 1/1 the maximum tolerated dose 2000 mg/kg - the highest dose consistent with animal survival and minimal interference with marrow cell proliferation. Animals were killed at 17 and 36 hr post-exposure and subjected to chromosome aberration analysis (50 cells/animal, 8 animals). Results: negative."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.146 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ Micronucleus assay, male and female B6C3F1 mice, exposed to tetrahydrofuran by inhalation 6 hr/day, 5 days/week for 13 weeks, doses: 0.2, 0.6, 1.8, 5.4, or 15 mg/L. Females were negative. Although males demonstrated a marginal response in a trend test, the highest effect observed was within historical control levels. The male response was concluded to be equivocal. Ten females and males were sampled per treatment level; 10,000 normochromatic erythrocytes were evaluated per animal."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-4148 2010.",
+            "Value": "/GENOTOXICITY/ THF failed to induce sex-linked recessive lethal induction in Drosophila melanogaster by ingestion or injection."
+        },
+        {
+            "References": "Mortelmans K et al; Environ Mutagen 8: 1-119 (1986)",
+            "Value": "/GENOTOXICITY/ Tetrahydrofuran (THF) was tested for mutagenicity in the Salmonella/microsome preincubation assay using the standard protocol approved by the National Toxicology Program. THF was tested at doses of 0.1, 0.33, 1.0, 3.3, and 10 mg/plate in as many as 5 Salmonella typhimurium strains (TA1535, TA1537, TA97, TA98, and TA100) in the presence and absence of rat or hamster liver S-9. Tetrahydrofuran was negative in these tests and the highest ineffective dose tested in any Salmonella typhimurium strain was 10 mg/plate."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-4148 2010.",
+            "Value": "/GENOTOXICITY/ THF failed to induce either sister-chromatid exchange or chromosomal aberrations in cultured Chinese hamster ovary cells with or without rat liver metabolic activation system ..."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.162 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Intercellular communication was disrupted in the test for inhibition of gap-junctional intercellular communication between 6-thioguanine-sensitive and resistant cells from Chinese hamster, Wildtype V79-cells.  /Translated from German/"
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.162 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Cytotoxicity of THF was tested in vitro in the following test systems: 1) Growth inhibition of Ascites sarcoma BP8 cells; incubation for 48 hr, then determination of cell density. The inhibitory effect is defined as the ratio between the growth rate of the treated cells and that of the control cells; test concentration: 1mM = 72.11 mg/L. Effect: negative. 2) Inhibition of oxidative metabolism in cells isolated from the brown fat of adult hamsters, determined by oxygen usage; test concentration: 1mM = 72.11 mg/L. Effect: negative. 3) Damage to the plasma membranes of diploid human embryo lung fibroblasts, determined by extravasation of cytoplasmic nucleotide markers from labeled cells; test concentration: 25 mM = 1803 mg/L. Effect: negative. 4) Ciliary toxicity: Determination of the time of ciliostasis in the trachea of unborn chickens (organ culture of 16-17 day old chick embryos); test concentration: 5 mM = 361 mg/L. Effect: negative. /Translated from German/"
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Tetrahydrofuran (109-99-9) p.164 (2000 CD-ROM edition). Available from, as of September 13, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ The influence of the test substance on the enzyme activity of 7-ethoxycoumarin o-deethylase was studied in vitro using rat liver microsomes from animals pretreated with phenobarbital, benzo(a)pyrene, and ethanol. In liver microsomes from non-pretreated animals, an dose-dependent inhibition of 4-15% was seen in males and 14-48% in females. In animals pretreated with phenobarbital or benzo(a)pyrene, there was nearly no inhibition (0-4%), while in those pretreated with ethanol there was dose-dependent inhibition of 8-32% in males and 27-79% in females. /Translated from German/"
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists, Inc. Documentation of the Threshold Limit Values and Biological Exposure Indices. 6th ed. Volumes I, II, III. Cincinnati, OH: ACGIH, 1991., p. 1518",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ High concn (1x10-2 M) of THF inhibited the in vitro activity of rat hepatic cytochrome P450 by 80%."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Riley RG, Zachara JM; Chemical Contaminants of DOE Lands and Selection of Contaminant Mixtures for Subsurface Science Research. DOE/ER-05471 (NTIS DE92014826). Richland WA: Pac Northwest Lab (1993)",
+            "Value": "SOIL: Tetrahydrofuran was detected at unreported concentrations in soil on one Department of Energy research and defense production facility(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Walton BT et al; J Environ Qual 21: 552-58 (1992) (2) Swann RL et al; Res Rev 85: 23 (1983) (3) Nyer EK et al; Ground Water Monitoring Rev 11: 80-82 (1991) (4) Patterson RJ et al; Wat Sci Tech 17: 57-69 (1985) (5) Priddle MW, Jackson RE; Ground Water 29: 260-66 (1991)",
+            "Value": "Koc values of 23 and 18 were determined for tetrahydrofuran using a zero headspace extractor vessel in Captina silt loam (pH = 4.97, organic carbon = 1.49%) and McLaurin sandy loam (pH = 4.43, organic carbon = 0.66%), respectively(1). According to a classification scheme(2), these measured Koc values suggest that tetrahydrofuran is expected to have very high mobility in soil(SRC). A retardation factor of 1.0 was measured for tetrahydrofuran in a ground water system in Indiana(3). A retardation factor of 2.2, based on plume length, was measured for tetrahydrofuran in an aquifer beneath a landfill in Ottawa, Ontario, Canada(4). A column packed with aquifer material was used to measure a retardation factor of 1.2 for tetrahydrofuran(5)."
+        }
+    ]
+}

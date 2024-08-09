@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "6692710b303528b49832d7b1"
+    },
+    "CID": {
+        "$numberInt": "86138"
+    },
+    "Name": "Fenbuconazole",
+    "IUPACName": "4-(4-chlorophenyl)-2-phenyl-2-(1,2,4-triazol-1-ylmethyl)butanenitrile",
+    "CanonicalSMILES": "C1=CC=C(C=C1)C(CCC2=CC=C(C=C2)Cl)(CN3C=NC=N3)C#N",
+    "Synonyms": [
+        "Fenbuconazole",
+        "114369-43-6",
+        "Fenbuconazol",
+        "Fenethanil",
+        "119611-00-6",
+        "Fenbuconazole [ISO]",
+        "4-(4-chlorophenyl)-2-phenyl-2-(1,2,4-triazol-1-ylmethyl)butanenitrile",
+        "P9P3C2AL0Z",
+        "4-(4-Chlorophenyl)-2-phenyl-2-(1H-1,2,4-triazol-1-ylmethyl)butyronitrile",
+        "1H-1,2,4-Triazole-1-propanenitrile",
+        "alpha-[2-(4-chlorophenyl)ethyl]-alpha-phenyl-",
+        "DTXSID8032548",
+        "CHEBI:83920",
+        "alpha-(2-(4-Chlorophenyl)ethyl)-alpha-phenyl-1H-1,2,4-triazole-1-propanenitrile",
+        "Fenbuconazole 10 microg/mL in Cyclohexane",
+        "2-((1H-1,2,4-Triazol-1-yl)methyl)-4-(4-chlorophenyl)-2-phenylbutanenitrile"
+    ],
+    "IsomericSMILES": "C1=CC=C(C=C1)C(CCC2=CC=C(C=C2)Cl)(CN3C=NC=N3)C#N",
+    "INCHI": "InChI=1S/C19H17ClN4/c20-18-8-6-16(7-9-18)10-11-19(12-21,13-24-15-22-14-23-24)17-4-2-1-3-5-17/h1-9,14-15H,10-11,13H2",
+    "INCHIKEY": "RQDJADAKIFFEKQ-UHFFFAOYSA-N",
+    "Formula": "C19H17ClN4",
+    "MolecularWeight": {
+        "$numberDouble": "336.8"
+    },
+    "Description": "4-(4-chlorophenyl)-2-phenyl-2-(1,2,4-triazol-1-ylmethyl)butanenitrile is a member of the class of triazoles that is 1-chloro-4-(3-phenylpropyl)benzene substituted at position 3 of the propyl moiety by cyano and 1,2,4-triazol-1-ylmethyl groups. It is a member of triazoles, a nitrile and a member of monochlorobenzenes.",
+    "XlogP": {
+        "$numberDouble": "3.2"
+    },
+    "Complexity": {
+        "$numberInt": "434"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The extensive application of pesticides in agricultural activities has raised increasing concerns about crop contamination by pesticide residues, especially in vegetables. However, information about the transfer and cell diffusion characteristics of pesticides in vegetables is insufficient. In this study, we investigated the uptake, translocation, and subcellular distribution behaviors of four commonly used pesticides in Chinese cabbage (Brassica rapa var. chinensis) under laboratory hydroponic conditions. Root uptake of pesticides followed the order of fenbuconazole > avermectin > thiamethoxam > spirotetramat. Thiamethoxam was more readily translocated from the root to the shoot, while spirotetramat, fenbuconazole, and avermectin preferentially accumulated in the root. Cell soluble components were the dominant storage compartment for thiamethoxam, while the majority of spirotetramat, fenbuconazole, and avermectin were partitioned into the cell walls. These findings contribute to our understanding of pesticide bioconcentration behavior in food crops and help in evaluating the threats of pesticide residues to human health via the food chain.",
+            "reference": "Wang, Wenfeng; Wan, Qun; Li, Yixin; Xu, Wenjun; Yu, Xiangyang  (2019). Uptake, translocation and subcellular distribution of pesticides in Chinese cabbage (Brassica rapa var. chinensis). Ecotoxicology and Environmental Safety, 183(), 109488-doi:10.1016/j.ecoenv.2019.109488\u00a0    ",
+            "method": {
+                "Test Plant": "Chinese cabbage (Brassica rapa var. chinensis)",
+                "Apply Location": "Hydroponic exposure in nutrient solution",
+                "Plant Growth Condition": "Seeds surface sterilized, germinated 3d, then transplanted to pots with full-strength Hoagland's nutrient solution (pH 6.0) in plant incubator at 130\u00b15 \u03bcmol/m2s light, 16h photoperiod, 60% RH, 25/20\u00b0C day/night temp. Solution renewed every 5d.",
+                "Chemical Preparation": "Thiamethoxam, spirotetramat, fenbuconazole, avermectin standards (>99% purity). 1000 mg/L stock solutions in acetonitrile. Exposure at 10 mg/L in nutrient solution.",
+                "Pesticide Application Details for the Plant": "20d old uniform seedlings exposed by transferring to 100 mL beakers with 65 mL nutrient solution spiked at 10 mg/L for each pesticide.",
+                "Other Information": "Triplicate beakers per pesticide sampled at 0.5, 6, 12, 24h. Sampled solution and rinsed seedlings separated into roots/shoots, weighed, extracted. HPLC-MS/MS analysis. Extraction efficiencies checked by spiking at 2, 5, 10 mg/L with 81.9-103.7% recoveries."
+            },
+            "result": "[{\"Hours after application\": 0.5, \"Root concentration (mg/kg)\": 49.26, \"Root concentration factor\": 4.93, \"Shoot concentration (mg/kg)\": 0.4, \"Translocation factor\": 0.0}, {\"Hours after application\": 6.0, \"Root concentration (mg/kg)\": 65.36, \"Root concentration factor\": 6.6, \"Shoot concentration (mg/kg)\": 3.48, \"Translocation factor\": 0.04}, {\"Hours after application\": 12.0, \"Root concentration (mg/kg)\": 106.34, \"Root concentration factor\": 10.56, \"Shoot concentration (mg/kg)\": 8.88, \"Translocation factor\": 0.09}, {\"Hours after application\": 24.0, \"Root concentration (mg/kg)\": 113.65, \"Root concentration factor\": 11.3, \"Shoot concentration (mg/kg)\": 11.46, \"Translocation factor\": 0.09}]"
+        }
+    ]
+}

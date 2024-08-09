@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "6692710c303528b49832d7b6"
+    },
+    "CID": {
+        "$numberInt": "93539"
+    },
+    "Name": "Flazasulfuron",
+    "IUPACName": "1-(4,6-dimethoxypyrimidin-2-yl)-3-[3-(trifluoromethyl)pyridin-2-yl]sulfonylurea",
+    "CanonicalSMILES": "COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(C=CC=N2)C(F)(F)F)OC",
+    "Synonyms": [
+        "Flazasulfuron",
+        "104040-78-0",
+        "Shibagen",
+        "Flazasulfuron [ISO]",
+        "SL-160",
+        "OK-1166",
+        "1-(4,6-Dimethoxypyrimidin-2-yl)-3-(3-trifluoromethyl-2-pyridylsulfonyl)urea",
+        "N-(((4,6-Dimethoxy-2-pyrimidinyl)amino)carbonyl)-3-(trifluoromethyl)-2-pyridinesulfonamide",
+        "3SB13WWV30",
+        "CHEBI:81749",
+        "1-(4,6-dimethoxypyrimidin-2-yl)-3-[3-(trifluoromethyl)pyridin-2-yl]sulfonylurea",
+        "2-Pyridinesulfonamide",
+        "N-(((4,6-dimethoxy-2-pyrimidinyl)amino)carbonyl)-3-(trifluoromethyl)-",
+        "Flazasulfuron 100 microg/mL in Acetonitrile",
+        "1-(4,6-dimethoxy-2-pyrimidinyl)-3-[[3-(trifluoromethyl)-2-pyridinyl]sulfonyl]urea",
+        "Shibagen [Japanese]"
+    ],
+    "IsomericSMILES": "COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(C=CC=N2)C(F)(F)F)OC",
+    "INCHI": "InChI=1S/C13H12F3N5O5S/c1-25-8-6-9(26-2)19-11(18-8)20-12(22)21-27(23,24)10-7(13(14,15)16)4-3-5-17-10/h3-6H,1-2H3,(H2,18,19,20,21,22)",
+    "INCHIKEY": "HWATZEJQIXKWQS-UHFFFAOYSA-N",
+    "Formula": "C13H12F3N5O5S",
+    "MolecularWeight": {
+        "$numberDouble": "407.33"
+    },
+    "Description": "Flazasulfuron is a sulfonamide and a member of pyridines.",
+    "XlogP": {
+        "$numberDouble": "2"
+    },
+    "Complexity": {
+        "$numberInt": "602"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Certain sulfonylurea (SU) herbicides are effective in removing overseeded cool-season species from bermudagrass. However, the impact of nitrogen (N) on the efficacy of the new SU herbicide, flazasulfuron, remains unknown. Field and laboratory studies conducted in 2008 and 2009 evaluated flazasulfuron's efficacy for controlling overseeded perennial ryegrass contaminated with annual bluegrass. Flazasulfuron was applied alone or in between sequential applications of N fertilizer at 73 kg N ha-1, with N applied granularly immediately before and 4 weeks after herbicide treatment. Results showed that combining flazasulfuron with two applications of N at 73 kg N ha-1 significantly improved annual bluegrass control compared to flazasulfuron alone, across all application rates and rating dates. Notably, the lowest flazasulfuron rate (4.4 g ha-1) with two N applications provided better control than the highest flazasulfuron rate (17.5 g ha-1) alone. Perennial ryegrass control was not significantly affected by N fertility. Laboratory studies on annual bluegrass revealed that N fertilizer at 73 kg N ha-1 increased 14C flazasulfuron translocation from treated leaves to other shoot tissues, potentially explaining the observed field results.",
+            "reference": "Brosnan, J. T., Thoms, A. W., McCullough, P. E., Armel, G. R., Breeden, G. K., Sorochan, J. C., & Mueller, T. C. (2010). Efficacy of flazasulfuron for control of annual bluegrass (Poa annua) and perennial ryegrass (Lolium perenne) as influenced by nitrogen. Weed science, 58(4), 449-456.",
+            "method": {
+                "Test Plant": "Annual blue grass",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Plant on Hamblen silt loam soil, pH 6.4, 2.8% organic matter. Overseeded with perennial ryegrass blend on Oct 6, 2007 and Sep 7, 2008 at 224 kg/ha. Mowed at 1.3 cm, irrigated to prevent moisture stress.",
+                "Chemical Preparation": "Flazasulfuron used at 4.4, 8.8 and 17.5 g ai/ha, with 0.25% v/v nonionic surfactant.",
+                "Pesticide Application Details for the Plant": "Foliar spray of flazasulfuron alone or with fertilizer (73 kg N/ha initially and 4 weeks later). Natural annual bluegrass infestation present, averaging >3 tillers per plant, covering ~25% of plots.",
+                "Other Information": "Randomized field experiments with 7 treatments and unspecified replicates."
+            },
+            "result": "[{\"Treatment\": 1, \"hours after application Treated leaf (% of recovered)\": \"85\", \"Other shoot tissues (%)\": \"-\", \"Root tissues (%)\": \"-\"}, {\"Treatment\": 4, \"hours after application Treated leaf (% of recovered)\": \"84\", \"Other shoot tissues (%)\": \"-\", \"Root tissues (%)\": \"-\"}, {\"Treatment\": 8, \"hours after application Treated leaf (% of recovered)\": \"67\", \"Other shoot tissues (%)\": \"-\", \"Root tissues (%)\": \"-\"}, {\"Treatment\": 24, \"hours after application Treated leaf (% of recovered)\": \"92\", \"Other shoot tissues (%)\": \"-\", \"Root tissues (%)\": \"-\"}, {\"Treatment\": 48, \"hours after application Treated leaf (% of recovered)\": \"77\", \"Other shoot tissues (%)\": \"-\", \"Root tissues (%)\": \"-\"}, {\"Treatment\": 72, \"hours after application Treated leaf (% of recovered)\": \"77\", \"Other shoot tissues (%)\": \"-\", \"Root tissues (%)\": \"-\"}, {\"Treatment\": 1, \"hours after application Treated leaf (% of recovered)\": \"62\", \"Other shoot tissues (%)\": \"-\", \"Root tissues (%)\": \"-\"}, {\"Treatment\": 4, \"hours after application Treated leaf (% of recovered)\": \"46\", \"Other shoot tissues (%)\": \"-\", \"Root tissues (%)\": \"-\"}, {\"Treatment\": 8, \"hours after application Treated leaf (% of recovered)\": \"80\", \"Other shoot tissues (%)\": \"-\", \"Root tissues (%)\": \"-\"}, {\"Treatment\": 24, \"hours after application Treated leaf (% of recovered)\": \"89\", \"Other shoot tissues (%)\": \"-\", \"Root tissues (%)\": \"-\"}, {\"Treatment\": 48, \"hours after application Treated leaf (% of recovered)\": \"91\", \"Other shoot tissues (%)\": \"-\", \"Root tissues (%)\": \"-\"}, {\"Treatment\": 72, \"hours after application Treated leaf (% of recovered)\": \"90\", \"Other shoot tissues (%)\": \"-\", \"Root tissues (%)\": \"-\"}, {\"Treatment\": 1, \"hours after application Treated leaf (% of recovered)\": \"-\", \"Other shoot tissues (%)\": \"5\", \"Root tissues (%)\": \"-\"}, {\"Treatment\": 4, \"hours after application Treated leaf (% of recovered)\": \"-\", \"Other shoot tissues (%)\": \"5\", \"Root tissues (%)\": \"-\"}, {\"Treatment\": 8, \"hours after application Treated leaf (% of recovered)\": \"-\", \"Other shoot tissues (%)\": \"26\", \"Root tissues (%)\": \"-\"}, {\"Treatment\": 24, \"hours after application Treated leaf (% of recovered)\": \"-\", \"Other shoot tissues (%)\": \"4\", \"Root tissues (%)\": \"-\"}, {\"Treatment\": 48, \"hours after application Treated leaf (% of recovered)\": \"-\", \"Other shoot tissues (%)\": \"20\", \"Root tissues (%)\": \"-\"}, {\"Treatment\": 72, \"hours after application Treated leaf (% of recovered)\": \"-\", \"Other shoot tissues (%)\": \"19\", \"Root tissues (%)\": \"-\"}, {\"Treatment\": 1, \"hours after application Treated leaf (% of recovered)\": \"-\", \"Other shoot tissues (%)\": \"23\", \"Root tissues (%)\": \"-\"}, {\"Treatment\": 4, \"hours after application Treated leaf (% of recovered)\": \"-\", \"Other shoot tissues (%)\": \"37\", \"Root tissues (%)\": \"-\"}, {\"Treatment\": 8, \"hours after application Treated leaf (% of recovered)\": \"-\", \"Other shoot tissues (%)\": \"15\", \"Root tissues (%)\": \"-\"}, {\"Treatment\": 24, \"hours after application Treated leaf (% of recovered)\": \"-\", \"Other shoot tissues (%)\": \"8\", \"Root tissues (%)\": \"-\"}, {\"Treatment\": 48, \"hours after application Treated leaf (% of recovered)\": \"-\", \"Other shoot tissues (%)\": \"5\", \"Root tissues (%)\": \"-\"}, {\"Treatment\": 72, \"hours after application Treated leaf (% of recovered)\": \"-\", \"Other shoot tissues (%)\": \"6\", \"Root tissues (%)\": \"-\"}, {\"Treatment\": 1, \"hours after application Treated leaf (% of recovered)\": \"-\", \"Other shoot tissues (%)\": \"-\", \"Root tissues (%)\": \"10\"}, {\"Treatment\": 4, \"hours after application Treated leaf (% of recovered)\": \"-\", \"Other shoot tissues (%)\": \"-\", \"Root tissues (%)\": \"11\"}, {\"Treatment\": 8, \"hours after application Treated leaf (% of recovered)\": \"-\", \"Other shoot tissues (%)\": \"-\", \"Root tissues (%)\": \"7\"}, {\"Treatment\": 24, \"hours after application Treated leaf (% of recovered)\": \"-\", \"Other shoot tissues (%)\": \"-\", \"Root tissues (%)\": \"4\"}, {\"Treatment\": 48, \"hours after application Treated leaf (% of recovered)\": \"-\", \"Other shoot tissues (%)\": \"-\", \"Root tissues (%)\": \"2\"}, {\"Treatment\": 72, \"hours after application Treated leaf (% of recovered)\": \"-\", \"Other shoot tissues (%)\": \"-\", \"Root tissues (%)\": \"3\"}, {\"Treatment\": 1, \"hours after application Treated leaf (% of recovered)\": \"-\", \"Other shoot tissues (%)\": \"-\", \"Root tissues (%)\": \"16\"}, {\"Treatment\": 4, \"hours after application Treated leaf (% of recovered)\": \"-\", \"Other shoot tissues (%)\": \"-\", \"Root tissues (%)\": \"16\"}, {\"Treatment\": 8, \"hours after application Treated leaf (% of recovered)\": \"-\", \"Other shoot tissues (%)\": \"-\", \"Root tissues (%)\": \"5\"}, {\"Treatment\": 24, \"hours after application Treated leaf (% of recovered)\": \"-\", \"Other shoot tissues (%)\": \"-\", \"Root tissues (%)\": \"3\"}, {\"Treatment\": 48, \"hours after application Treated leaf (% of recovered)\": \"-\", \"Other shoot tissues (%)\": \"-\", \"Root tissues (%)\": \"4\"}, {\"Treatment\": 72, \"hours after application Treated leaf (% of recovered)\": \"-\", \"Other shoot tissues (%)\": \"-\", \"Root tissues (%)\": \"4\"}]"
+        }
+    ]
+}

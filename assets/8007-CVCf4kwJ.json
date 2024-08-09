@@ -1,0 +1,151 @@
+{
+    "_id": {
+        "$oid": "6682e8a1c4e5dba5ffba268d"
+    },
+    "CID": {
+        "$numberInt": "8007"
+    },
+    "Name": "N-BUTYLAMINE",
+    "IUPACName": "butan-1-amine",
+    "CanonicalSMILES": "CCCCN",
+    "Synonyms": [
+        "Butylamine",
+        "butan-1-amine",
+        "N-BUTYLAMINE",
+        "109-73-9",
+        "1-Butanamine",
+        "1-Aminobutane",
+        "1-Butylamine",
+        "Monobutylamine",
+        "N-Butylamin",
+        "Norvalamine",
+        "Mono-n-butylamine",
+        "1-Aminobutan",
+        "1-Amino-butaan",
+        "Monobutilamina",
+        "Butanamine"
+    ],
+    "IsomericSMILES": "CCCCN",
+    "INCHI": "InChI=1S/C4H11N/c1-2-3-4-5/h2-5H2,1H3",
+    "INCHIKEY": "HQABUPZFAYXKJW-UHFFFAOYSA-N",
+    "Formula": "C4H11N",
+    "MolecularWeight": {
+        "$numberDouble": "73.14"
+    },
+    "Description": "Butan-1-amine is a primary aliphatic amine that is butane substituted by an amino group at position 1.",
+    "XlogP": {
+        "$numberDouble": "1"
+    },
+    "Complexity": {
+        "$numberInt": "13"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "Fenaroli's Handbook of Flavor Ingredients. Volume 2. Edited, translated, and revised by T.E. Furia and N. Bellanca. 2nd ed. Cleveland: The Chemical Rubber Co., 1975., p. 63",
+            "Value": "OCCURS NATURALLY IN MULBERRY LEAVES."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., p. 10 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington,DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for n-butylamine(SRC), using a log Kow of 0.97(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "ZAHN R, WELLENS H; Z WASSER ABWASSER FORSCH 13 (1): 1-7 (1980)",
+            "Value": "THE HOECHST BATCH METHOD OF DETERMINING BIODEGRADABILITY OF SUBSTANCES WAS STUDIED USING DIETHYLENE GLYCOL AS REFERENCE MATERIAL. ... /DEGRADATION OF/ N-BUTYLAMINE ... WAS GREATER THAN 90% COD ... /AFTER/ TWO DAYS."
+        },
+        {
+            "References": "(1) Chem Inspect Test Inst; Biodegradation and Bioaccumulation Data of Existing Chemicals Based on the CSCL Japan; Published by Japan Chemical Industry Ecology-Toxicology & Information Center. ISBN 4-89074-101-1 (1992) (2) Yoshimura K et al; J Amer Oil Chem Soc 57: 238-41 (1980) (3) Malaney GW; J Water Pollut Control Fed 32: 1300 (1960) (4) Ettinger MB; Ind Eng Chem 48: 256-9 (1956)",
+            "Value": "AEROBIC: n-Butylamine, present at 100 mg/L, reached 85% of its theoretical BOD (assuming an endpoint of NH3) and 66% of its theoretical BOD (assuming an endpoint of NO2) in 2 weeks using an activated sludge inoculum(1). n-Butylamine reached 67% of its theoretical BOD in 12 days using an activated sludge inoculum(2), 50% in approximately 6 days using an aniline-acclimated activated sludge(3), and 26.5%, 48.8%, 50%, and 52.3% in 5, 10, 15, and 50 days using a settled sewage seed(4)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "PMID:590888",
+            "Value": "n-Butylamine was not detected in herring or cod roe (detection limit not given)(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 10",
+            "Value": "log Kow = 0.97"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 4:728",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ N-butylamine ... at measured concn of 3000 to 5000 ppm produces an immediate irritant response, labored breathing, and pulmonary edema with death of all rats in minutes to hours. 10 and 50 percent vol/vol aq solutions and the undiluted base produce severe skin and eye burns in animals."
+        },
+        {
+            "References": "PMID:7071869",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The acute oral LD50 values of n-butylamine were determined in male & female rats. Signs of toxicity after single oral dose were sedation, ataxia, nasal discharge, gasping, & salivation followed by convulsions & death at the higher dose levels. Post-mortem exam revealed pulmonary edema."
+        },
+        {
+            "References": "PMID:3194350",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Sensory irritation due to inhalation of a series of alkylamines was estimated from the decrease in respiratory rate in normal (non-cannulated) mice (American standard method E 981-84, 1984). The irritation effects rapidly reached stable levels. The concentration-response relationships followed Michaelis-Menten equations. The maximum response decreased with increasing chain length. The concentrations depressing the respiratory rate by 50% (RD-50) were 184, 121, 97, 51, and 27 ppm. for n-propylamine, n-butylamine, n-pentylamine, n-hexylamine, and n-heptylamine, respectively. ... Pulmonary irritation was estimated from the decrease in respiratory rate in tracheally cannulated mice. The plateau-level of the response was reached slowly. The respective concentrations depressing the respiratory rate by 50% (tRD-50) were 416, 300, 128, 66, and 36 ppm. for the C3-C7 n-amines."
+        },
+        {
+            "References": "PMID:2724908",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Sensory and pulmonary irritation of n-butylamine was investigated in CF-1 and NMRI mice according to the American standard test method (ASTM E981-84). The method is based on the reflexively induced reduction of the respiratory rate of mice, when exposed to chemical irritants. Sensory irritation was investigated in normal mice, yielding RD50 values (concentration which reduces the respiratory rate by 50%) of 121 and 246 ppm for CF-1 and NMRI mice, respectively. The concentration-effect curves were parallel, but had significantly different elevations, indicating a lower sensitivity of NMRI mice. Pulmonary irritation was investigated in mice, inhaling through a tracheal cannula, yielding RD50 values of 300 and 362 ppm for CF-1 and NMRI mice, respectively. No statistically significant difference between either the slopes or the elevations of the concentration-effect curves was found, indicating the same level of sensitivity of CF-1 and NMRI mice regarding pulmonary irritation."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-1634 2006.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Increased reflex excitability, increased pulse rate and respiration, dyspnea, convulsions, cyanosis & coma at lethal & near lethal concentrations by either gastric or hypodermic administration in both rats & rabbits."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 4:697",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ N-butylamine causes skin necrosis in guinea pigs when applied at 0.5 mL/kg. /From table/"
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-1634 2006.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Signs of toxicity /in rats/ include sedation, ataxia, nasal discharge, gasping, and salivation, followed by convulsions and death at high doses."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Butylamine (CAS # 109-73-9) p.51(2000) Available from, as of June 26, 2007: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Not sensitizing /to/ guinea pig in the guinea pig maximization test."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Butylamine (CAS # 109-73-9) p.49 (2000) Available from, as of June 26, 2007: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Irritating /to eyes of/ rabbit. Risk of serious injury to the eyes. 10 and 50% v/v aqueous solutions and undiluted base produce severe eye burns in animals."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Butylamine (CAS # 109-73-9) p.46 (2000) Available from, as of June 26, 2007: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Irritating /to skin of/ rabbit. Severe skin burns with 50% solution."
+        },
+        {
+            "References": "PMID:12419698",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Pregnant Wistar rats were administered 0, 100, 400 or 1000 mg mono-n-butylamine hydrochloride/kg body weight/day by gavage on days 6 through 15 post coitum (sperm-positive=day 0), or inhaled mono-n-butylamine 0, 17, 50 or 152 ppm (whole-body exposure), 6 hr/day on days 6 through 19 post coitum. Oral n-butylamine HCl 1000 mg/kg reduced maternal feed consumption, increased early post-implantation losses (embryonic resorptions), reduced fetal and placental weight, and retarded skeletal development (incomplete skull and sternebral ossification), and produced malformations (filiform/kinked tail, enlarged cardiac ventricular chamber(s), malpositioned heart, aortic arch atresia, diaphragmatic hernia); 100 mg/kg was the no-observed-adverse effect level (NOAEL) for prenatal developmental toxicity; 400 mg/kg, the maternal no-effect level, produced only malformations (aortic arch atresia, malpositioned heart, diaphragmatic hernia). Inhaled n-butylamine produced concentration-dependent nasal epithelial hyperplasia and squamous metaplasia, inflammation and necrosis; the maternal NOAEL was less than 17 ppm. There were no treatment-related signs of embryo/fetotoxicity, particularly, no effects on fetal morphology. The developmental NOAEL was 152 ppm. The neutralization of n-butylamine by hydrochloride converts it from a strong alkali causing tissue burns into a weak acid/base which is fetotoxic. /N-Butylamine hydrochloride/"
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Butylamine (CAS # 109-73-9) p.53 (2000) Available from, as of June 26, 2007: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ /In a/ micronucleus assay with male and female NMRI Mice, mono-n-butylamin-hydrochlorid (63%) /did/ not have any clastogenic effect, and there were no indications of any impairment of chromosome distribution in the course mitosis. Doses: 200, 400, 800 mg/kg bw in a vol of 10 mL/kg bw. /N-butylamine hydrochloride/"
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Butylamine (CAS # 109-73-9) p.51 (2000) Available from, as of June 26, 2007: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ Tested negative in the Ames test with Salmonella typhimurium TA98, TA100, TA1535, and TA1537 with and without metabolic activation."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 164",
+            "Value": "/OTHER TOXICITY INFORMATION/ Vapor is only mildly irritating to eyes, but liq tested on exptl animal eyes is as severely injurious as ammonium hydroxide. Injurious effect seems to be attributable to alkalinity of butylamine ..."
+        },
+        {
+            "References": "Dierickx PJ; Res Commun Chem Pathol Pharmacol, 45(3): 471-74 (1984)",
+            "Value": "/OTHER TOXICITY INFORMATION/ The in vitro interaction of butyric acid, crotonic acid, and N-butylamine with rat liver glutathione S-transferase (GST) was studied, using GSH and 1-chloro-2,4-dinitrobenzene (CDNB) as substrates. Both acids inhibited the GST activity in crude extracts in a dose dependent manner; the amine did not."
+        },
+        {
+            "References": "PMID:3013846",
+            "Value": "/OTHER TOXICITY INFORMATION/ The effect of the known inhibitors of iron uptake, n-butylamine and NH4Cl, was examined at the molecular level to more precisely define the mechanisms by which these lysosomotropic agents block iron uptake by rabbit reticulocytes. Utilizing a rapid pulse-chase technique to follow the handling of a cohort of 59Fe, 125I-transferrin bound to rabbit reticulocytes, both amines were observed to have no effect on the cell-mediated release of 59Fe from internalized transferrin. The results indicated, however, that both agents acted to  retard the internalization of transferrin bound to transferrin receptors on the plasma membrane of reticulocytes; retard the externalization of internalized transferrin, and; block the transport into the cytosol of iron released from transferrin."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Von Oepen B et al; Chemosphere 22: 285-304 (1991) (2) Swann RL et al; Res Rev 85: 23 (1983) (3) Perrin DD; Dissociation constants of organic bases in aqueous solution. IUPAC Chem Data Ser, Buttersworth, London (1965) (4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "The Koc of n-butylamine has been determined to be 15, 105 and 107 in Podzol soil, Alfisol soil and sediment, respectively(1). According to a classification scheme(2), these Koc values suggest that n-butylamine is expected to have high mobility in soil(SRC). The pKa of n-butylamine is 10.78(3) indicating that this compound will exist almost entirely in the cation form in the environment and cations generally adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(4)."
+        }
+    ]
+}

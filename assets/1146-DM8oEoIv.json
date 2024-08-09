@@ -1,0 +1,175 @@
+{
+    "_id": {
+        "$oid": "6682e7e3c4e5dba5ffba22da"
+    },
+    "CID": {
+        "$numberInt": "1146"
+    },
+    "Name": "Trimethylamine",
+    "IUPACName": "N,N-dimethylmethanamine",
+    "CanonicalSMILES": "CN(C)C",
+    "Synonyms": [
+        "trimethylamine",
+        "N,N-dimethylmethanamine",
+        "75-50-3",
+        "Methanamine",
+        "N,N-dimethyl-",
+        "N-Trimethylamine",
+        "Dimethylmethaneamine",
+        "Trimethylamin",
+        "(CH3)3N",
+        "FEMA No. 3241",
+        "FEMA Number 3241",
+        "N,N,N-trimethylamine",
+        "NMe3",
+        "Trimethylamine anhydrous",
+        "CCRIS 6283",
+        "HSDB 808"
+    ],
+    "IsomericSMILES": "CN(C)C",
+    "INCHI": "InChI=1S/C3H9N/c1-4(2)3/h1-3H3",
+    "INCHIKEY": "GETQZCLCWQTVFV-UHFFFAOYSA-N",
+    "Formula": "C3H9N",
+    "MolecularWeight": {
+        "$numberDouble": "59.11"
+    },
+    "Description": "Trimethylamine is a tertiary amine that is ammonia in which each hydrogen atom is substituted by an methyl group. It has a role as a human xenobiotic metabolite and an Escherichia coli metabolite. It is a tertiary amine and a member of methylamines. It is a conjugate base of a trimethylammonium.",
+    "XlogP": {
+        "$numberDouble": "0.3"
+    },
+    "Complexity": {
+        "$numberInt": "8"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Steiner M, Hartman T; Planta 79: 113-21 (1968)",
+            "Value": "Trimethylamine has been found to be a volatile constituent of marine algae(1)."
+        },
+        {
+            "References": "(1) US Dept Agric; US Dept Agric, Agric Res Service. 1992-2016. Dr. Duke's Phytochemical and Ethnobotanical Databases. Trimethylamine. Available from, as of March 6, 2018: https://phytochem.nal.usda.gov/phytochem/search",
+            "Value": "Trimethylamine has been reported, not quantified in plants(1).",
+            "Table": "[{'Genus species': 'Acorus calamus', 'Family': 'Acoraceae', 'Common name(s)': 'Sweet Calamus', 'Part': 'plant'}, {'Genus species': 'Bryonia alba', 'Family': 'Cucurbitaceae', 'Common name(s)': 'White Bryony', 'Part': 'root'}, {'Genus species': 'Clematis vitalba', 'Family': 'Ranunculaceae', 'Common name(s)': \"Traveler's Joy\", 'Part': 'plant'}, {'Genus species': 'Gymnema sylvestre', 'Family': 'Asclepiadaceae', 'Common name(s)': 'Miracle Fruit', 'Part': 'leaf'}, {'Genus species': 'Humulus lupulus', 'Family': 'Cannabaceae', 'Common name(s)': 'Hops', 'Part': 'fruit'}, {'Genus species': 'Medicago sativa', 'Family': 'Fabaceae', 'Common name(s)': 'Alfalfa', 'Part': 'plant'}, {'Genus species': 'Nicotiana tabacum', 'Family': 'Solanaceae', 'Common name(s)': 'Tobacco', 'Part': 'leaf'}, {'Genus species': 'Oryza sativa', 'Family': 'Poaceae', 'Common name(s)': 'Rice', 'Part': 'seed'}, {'Genus species': 'Sorbus aucubaria', 'Family': 'Rosaceae', 'Common name(s)': 'Rowan Berry', 'Part': 'flower'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 9 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of March 6, 2018: https://www2.epa.gov/tsca-screening-tools/ (3) Franke C et al; Chemosphere 29: 1501-14 (1994",
+            "Value": "An estimated BCF of 3 was calculated in fish for trimethylamine(SRC), using a log Kow of 0.16(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Troyan OS et al; Samooch Bioindik Zagraz Vod Moscow, USSR pp. 196-99 (1977) (2) Kimura T et al; Bull Fac Fish 4: 1-9 (1977) (3) Ayanabe A, Alexander M; Appl Microbiol 25: 862-69 (1973) (4) Colby J, Zatman LJ; Biochem J 132: 101-12 (1973) (5) Chudoba J et al; Chem Prum 20: 2079-100 (1969) (6) Tate RL, Alexander M; Appl Environ Microbiol 31: 399-403 (1976) (7) Meiberg JBM, Harber W; J Gen Microbiol 106: 265-76 (1978) (8) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of March 1, 2018: https://www.safe.nite.go.jp/english/db.html",
+            "Value": "AEROBIC: Numerous strains of bacteria isolated from seawater, lake water, mud, garden soil, and activated sludge have been found capable of growth on trimethylamine(1-4). A mixed culture of microorganisms in a mineral salt medium degraded 24% of the initial trimethylamine added to dimethylamine after 36 hours of incubation(3). Trimethylamine reached 77.2% of its Theoretical BOD incubated with activated sludge for 13 days(5). Microbial production of dimethylamine from trimethylamine in soil was found to be greater under acidic conditions than at near neutral pH and greater under aerobic conditions than anaerobic conditions(6). Degradation products formed under aerobic conditions include dimethylamine, formaldehyde, formate and carbon dioxide(7). Trimethylamine, present at 100 mg/L, reached 92% of its Theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(8)."
+        },
+        {
+            "References": "(1) King GM; Appl Environ Microbiol 54: 130-6 (1988) (2) King GM et al; Appl Environ Microbiol 45: 1848-53 (1983) (3) Oremland RS et al; Nature 296: 143-5 (1982) (4) Tate RL, Alexander M; Appl Environ Microbiol 31: 399-403 (1976) (5) Hippe H et al; Proc Natl Acad Sci USA 76: 494-98 (1977) (6) Hongwei Y et al; Ecotox Environ Saf 63: 299-305 (2006)",
+            "Value": "ANAEROBIC: In hypersaline Algal mat (St. Croix, US Virgin Islands) sediment, patterns of substrate metabolism suggest that trimethylamine was degraded by methanogenic bacterial populations to produce methane gas(1). Trimethylamine incubated in a marine sediment (Lowes Cove, ME) slurry underwent about 35% removal, as measured by production of carbon dioxide and methane, in 12 hours(2). Biodegradation of trimethylamine accounted for 35.1 to 61.1% of total methane produced in these marine sediments(2). Biodegradation of trimethylamine accounted for 90% of total methane produced in anoxic salt marsh sediment amended with Spartina foliosa(3). Microbial production of dimethylamine from trimethylamine in soil was found to be greater under acidic conditions than at near neutral pH and greater under aerobic conditions than anaerobic conditions(4). Products formed under anaerobic conditions include dimethylamine, ammonium and methane(5). Trimethylamine was readily biodegraded when incubated at 35 \u00b0C for 50 days using sludge under anaerobic conditions(6)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Baixas-Nogueras S et al; J Agric Food Chem 49: 1681-6 (2001) (2) Pons-Sanchez-Cascado S et al; J Agric Food Chem 53: 8586-92 (2005) (3) Romero-Gonzalez R et al; J Agric Food Chem 60: 5324-9 (2012) (4) Chung HY; J Agric Food Chem. 47: 2280-7 (1999) (5) Chung HY et al; J Agric Food Chem 49: 192-202 (2001) (6) Fukami K et al; J Agric Food Chem 50: 5412-5416 (2002) (7) Pons-Sanchez-Cascado S et al; J Agric Food Chem 53: 8586-92 (2005) (8) Mall V, Schieberle P; J Agric Food Chem 65: 2776-83 (2017)",
+            "Value": "Trimethylamine was detected in fresh hake (Merluccius merluccius) caught off the Mediterranean coast near Barcelona at 0.17 mg/100 g, the concentration increased steadily to 21.57 mg/100 g after 16 days of storage on ice(1). Trimethylamine was detected at 0.33 mg/100 g in anchovy (Engraulis encrasicholus) caught off the Mediterranean coast near Barcelona(2). In anchovy (Engraulis encrasicholus) stored at 4 \u00b0C, trimethylamine concentrations rose from 3.68 to 287.66 mg/kg over 168 days(3). The concentration of trimethylamine in crab (Charybdis feriatus) meats was 869, 966 and 457 ug/kg in the leg, body and carapace, respectively(4). Trimethylamine was detected at average concentrations of 7430 and 3230 ng/g in boiled and steamed scallops (Chlamys farreri), respectively, respective concentrations in scallops (Patinopecten yessoensis) were 3190 and 2440 ng/g(5). Trimethylamine was identified, not quantified, in the volatile components of fish sauce(6). Trimethylamine was detected at 0.29 and 0.41 mg/100 g in anchovy (Engraluis encrasicholus) freshly packed and then marinated for 3 months, respectively(7). In blanched and fried prawn meat, average trimethylamine concentrations were reported as 580 and 450 ug/kg, respectively(8)."
+        },
+        {
+            "References": "Park YH et al; Bull Korean Fish Soc 14 (1): 7-14 (1981)",
+            "Value": "Trimethylamine and dimethylamine contents of salted, hot-air dried and sun-dried samples of 2 commercial fishes, mackerel pike and seerfish, were analyzed and quantitatively compared at 3 different temperatures. The formation of both amines was more rapid at 10 and 15 \u00b0C than at 2 \u00b0C. Trimethylamine contents of hot-air dried mackerel pike and sun-dried seerfish were relatively higher than those in other samples, while those of salted samples were comparatively lower than those of others."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 9",
+            "Value": "log Kow = 0.16"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Pearson AW et al; Comp Biochem Physiol 69C (2): 307-12 (1981)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Trimethylamine oxidation in chickens in vivo was rapidly and severely depressed by feeding goitrogenic thionamides (oxazolidine-2-thionine, 5-vinyl derivative of oxazolidine-2-thionine, 1-methyl-2-mercaptoimidazole, and thiourea). The effect of the 5-vinyl derivative of oxazolidine-2-thionine was not diminished by injecting large doses of triiodothyronine, thyroxine, or TSH simultaneously, and recovery was complete within 48 hr. These compounds strongly inhibited trimethylamine oxidase in hepatic microsomes. Hence, their short-term effect on trimethylamine oxidation is probably due to inhibition of the oxidase rather than being related to their antithyroid activity."
+        },
+        {
+            "References": "National Advisory Committee for Acute Exposure Guideline Levels for Hazardous Substances (NAC/AEGL Committee); Acute Exposure Guideline Levels (AEGLs) for Trimethylamine (Interim) (CAS 75-50-3) p.11 (2008). Available from, as of February 5, 2018: https://www.epa.gov/aegl/trimethyl-amine-results-aegl-program",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Female Wistar rats (8 weeks old) /were exposed/ to 3040-7455 ppm TMA for 4 hours at 21.8-29.4 \u00b0C in a series of five experiments using 44 groups of 10 rats. The test concentrations were not stated, but were a geometric progression series using a factor of 1.05-1.15. A control group was included. The chamber humidity, temperature, and CO2 content (<0.2 vol %) were controlled and TMA concentration was monitored by gas chromatography. Animals were observed during exposure and for 14 days post-exposure. During exposure, the rats were initially restless but within a half hour appeared apathetic, had splayed hind- or forelimbs, inspirational dyspnea, and occasional uncoordinated movements and convulsions. During the second half-hour of exposure, the rats had marked hyperhidrosis (excessive sweating) and increased apathy and intensity of central nervous system effects, which consisted of sudden convulsions or muscle tremors that interrupted the somnolent state of the animals. The rats also had prolific nasal secretions, lacrimation, hemorrhage from the corners of the eyes and nasal orifices, and cyanosis of the ears. The first deaths occurred after 2 hours of exposure, and most animals died during the 4th exposure hour, typically following convulsions; the last animal died on day 4. Post-exposure signs included severe apathy, swelling of nasal orifices, dried bloody excretions, anorexia, and general ill health. These signs disappeared rapidly in the surviving animals. The calculated LC50 values (method of Spearman and Karber and probit analysis) decreased as temperature increased, and were approximately 4350 ppm at 21.8 \u00b0C, 3910 ppm at 25.7 \u00b0C, 3840 ppm at 27.0 \u00b0C, and 3380 ppm at 29 \u00b0C. ... 82 of the rats /were histologicall examined/. The 82 rats consisted of 63 rats that died during or after exposure (mean survival time of 3.3 hours), and 19 rats that survived 28 days (until sacrifice). ... The animals were examined macroscopically and the lungs, liver, kidneys, heart, skeletal muscle, and brain were examined microscopically. In the premature decedents, macroscopic abnormalities included marked blood profusion of the liver, spleen, and kidneys, and lung lobular hyperemia. Microscopic lung changes consisted of lobular red areas, bronchial inflammation with desquamation of the bronchial epithelium, bronchopneumonia in a few cases, and perivascular and peribronchial edema. Liver lesions included perilobular fatty liver, liver cell degeneration, and hyperemia. Most animals had lower nephron necrosis and vascular hyperemia of the kidneys, heart muscle, and many had brain edema and hyperemia. The surviving rats had few pathological changes, including one case of bronchopneumonia and three of lower nephron necrosis."
+        },
+        {
+            "References": "National Advisory Committee for Acute Exposure Guideline Levels for Hazardous Substances (NAC/AEGL Committee); Acute Exposure Guideline Levels (AEGLs) for Trimethylamine (Interim) (CAS 75-50-3) p.11-2 (2008). Available from, as of February 5, 2018: https://www.epa.gov/aegl/trimethyl-amine-results-aegl-program",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In an inhalation LC50 study, CD Sprague-Dawley rats (5/sex/dose; 49-82 days old) were exposed whole-body to anhydrous TMA for 6 minutes (18,600 ppm), 10 minutes (18,100 ppm), 20 minutes (11,200-18,200 ppm), or 60 minutes (6150-8170 ppm). ... Exposure concentrations were generated by diluting TMA gas with air, and were quantitated by IR spectroscopy. Animals were observed daily for 14 days, weighed on days 0, 7, and 14, and survivors sacrificed on day 14. All animals were necropsied. The rats had decreased body weight gain primarily during the 1st week, and all groups exhibited gasping, labored breathing, rales, increased salivation, and corneal opacity immediately after exposure. The respiratory changes persisted throughout the study in only the 20 and 60 minute exposure groups, whereas corneal opacity persisted in all groups. Necropsy revealed eye lesions (cloudy cornea) in a few animals with no dose-response, and dose-related increases in the incidence of lung congestion (red, discolored lungs), which generally correlated with lethality. Lethality occurred in all groups treated for >/= 10 minutes, was generally dose-related, and primarily occurred immediately after exposure. The LC50 values [and 95% confidence limits] were 12,000 ppm [10,800-13,100 ppm] for 20 minutes and 7910 ppm [7300-8560 ppm] for 60 minutes, as calculated by the method of C.I. Bliss (1938). Subsequent analysis of the mortality data using EPA BenchMark dose software (Version 1.3.2.) yielded 20-minute values of LC50= 11,870 ppm, BMC01= 7420 ppm, and BMCL05= 5720 ppm; and 60-minute values of LC50= 8010 ppm, BMC01= 6330 ppm, and BMCL05= 4100 ppm. The statistical confidence was greater for the 60-minute values (p = 0.50) than for the 20-minute values (p = 0.069)."
+        },
+        {
+            "References": "National Advisory Committee for Acute Exposure Guideline Levels for Hazardous Substances (NAC/AEGL Committee); Acute Exposure Guideline Levels (AEGLs) for Trimethylamine (Interim) (CAS 75-50-3) p.12 (2008). Available from, as of February 5, 2018: https://www.epa.gov/aegl/trimethyl-amine-results-aegl-program",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... TMA acute toxicity /was studied/ in 7-8 week old male CD (SD)BR rats. The TMA atmosphere was generated by dilution of TMA gas with 15 L/min air, and TMA air concentration was measured every 30 minutes with a Miran 1A infrared spectrometer. Rats (6/group) were exposed to 2000 or 3500 ppm TMA for 4 hrs, observed and weighed daily for two weeks, and the survivors sacrificed. Neither gross nor microscopic pathology were evaluated. No animals died in the 2000 ppm group, whereas at 3500 ppm TMA 3/6 animals died during exposure. During the exposure, all rats were immobile and did not react to sound, and exhibited difficulty breathing, and nasal and oral discharge. After exposure, survivors had moderate to severe (unspecified) weight loss for days 1-2, and lung noise for days 1-9. At 3500 ppm, rats also had dry red nasal and ocular discharge at the beginning of the post-exposure period."
+        },
+        {
+            "References": "National Advisory Committee for Acute Exposure Guideline Levels for Hazardous Substances (NAC/AEGL Committee); Acute Exposure Guideline Levels (AEGLs) for Trimethylamine (Interim) (CAS 75-50-3) p.13 (2008). Available from, as of February 5, 2018: https://www.epa.gov/aegl/trimethyl-amine-results-aegl-program",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Male white mice /were exposed/ to TMA for 2 hours. A total of 114 animals were used, but the number of animals/concentration and the concentrations tested were not provided. A colorimetric assay using ortho-nitrophenol was used for chemical and analytical measurements of TMA. The lethality values obtained were LC16 = 5910 ppm, LC50 = 7850 ppm, and LC84 = 10,250 ppm. During exposure, the animals were initially agitated but this symptom gradually progressed to decreased movement. The animals did not respond to external stimuli. By the beginning of the 2nd hour of exposure, animals experienced loss of motor coordination and exhibited clonic spasms lasting for 2-3 minutes before death. It was not stated whether the animals were necropsied."
+        },
+        {
+            "References": "National Advisory Committee for Acute Exposure Guideline Levels for Hazardous Substances (NAC/AEGL Committee); Acute Exposure Guideline Levels (AEGLs) for Trimethylamine (Interim) (CAS 75-50-3) p.13 (2008). Available from, as of February 5, 2018: https://www.epa.gov/aegl/trimethyl-amine-results-aegl-program",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Groups of Sprague-Dawley rats (10/sex) exposed whole-body for 4 hours to 2440 ppm TMA (2570 ppm nominal) had irregular respiration and nasal discharge during and one day after treatment. None died during the 14-day study. No effects were seen on animal body weight, taken on study days 0, 7, and 14, and necropsy of all animals revealed no toxic effects. Further study details were not available. These study results were inconsistent with the body of the TMA data, i.e., much lower toxicity was seen at the given test concentration than in other studies."
+        },
+        {
+            "References": "National Advisory Committee for Acute Exposure Guideline Levels for Hazardous Substances (NAC/AEGL Committee); Acute Exposure Guideline Levels (AEGLs) for Trimethylamine (Interim) (CAS 75-50-3) p.15 (2008). Available from, as of February 5, 2018: https://www.epa.gov/aegl/trimethyl-amine-results-aegl-program",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Male Swiss-OF1 mice /were exposed/ oronasally to 17-70 ppm TMA for 15 minutes while measuring their respiratory rate by a plethysmographic technique. The mice were exposed in 200-liter steel inhalation chambers, the vapor was generated by running air through the liquid amine, and the ethylamine concentration was determined by HPLC. Decreased respiratory rate was considered to be an indicator of upper airway irritation, and occurred within 30-60 seconds of exposure. The respiratory rate returned to normal within one minute after cessation of exposure. The concentration that reduced the respiratory rate by 50% (RD50) was calculated to be 61 ppm."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ /Trimethylamine/ is an emetic in dogs at an oral dose of 1000 mg/kg. At the same oral dose, TMA induced emesis and produced anorexia, paralysis, and death in pigs within 48 hours. Lethal doses in the rabbit were 1.6 mg/kg, 8.0 mg/kg, and 800 to 1300 mg/kg, by the IV, subcutaneous, and intrarectal routes, respectively."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 952",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Tests of single drops of aqueous solution applied to animal eyes have shown that 1% solution causes severe irritation, 5% causes hemorrhagic conjunctivitis, and 16.5% causes a severe reaction with conjunctival hemorrhages, corneal edema, and opacities, followed by some clearing but much vascularization."
+        },
+        {
+            "References": "National Advisory Committee for Acute Exposure Guideline Levels for Hazardous Substances (NAC/AEGL Committee); Acute Exposure Guideline Levels (AEGLs) for Trimethylamine (Interim) (CAS 75-50-3) p.13-4 (2008). Available from, as of February 5, 2018: https://www.epa.gov/aegl/trimethyl-amine-results-aegl-program",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ 8-week old male CD rats (10/group) /were exposed/ by nose-only inhalation to either 0 (air-only control), 74, 240, or 760 ppm TMA for 6 hours/day, 5 days/week for 2 weeks (10 exposures). The chamber atmosphere was analyzed with a Miran 1A infrared spectrometer every 30 minutes during exposure. Animals were observed and weighed daily. Rats were sacrificed either immediately following exposure (5/group) or after a 14-day recovery period (5/group); organs and tissues were examined macroscopically and microscopically. The heart, lungs, liver, spleen, kidneys, testes, and thymus were weighed. Urinalysis, hematology of whole blood, and serum chemistry were evaluated prior to sacrifice after the 10-day exposure (10 rats/group), and after the 2-week recovery period (5 rats/group). Only the 760 ppm group had clinical signs, consisting of decreased response to auditory stimuli during exposure, and decreased mean body weight from the second exposure day through the seventh day of recovery. Small increases were seen in the erythrocyte count at 250 and 760 ppm, and in hemoglobin concentration, hematocrit, platelet count, the absolute number of neutrophils, and serum concentrations of urea nitrogen, protein and creatinine at 760 ppm. These changes were not present following the 14-day recovery period, and may have been due to dehydration at 760 ppm. All groups had histopathological alterations in the nose, trachea and lungs, which were the most severe in the nose, although only the 760 ppm rats had an increased incidence of tracheal and lung lesions relative to the control group. The nasal lesions consisted of hyperemia and congestion with edema of the nasal mucosa, epithelial degeneration and necrosis of the nasal mucosa, focal regeneration or squamous metaplasia of the nasal mucosa, as well as bloody clots or inflammatory secretion in the nasal lumen. The irritation severity was dose-related, being minimal at 75 ppm and moderate or severe at 760 ppm, and was still evident at the end of the 14-day recovery period. The 760 ppm rats had increased lung weights and mildly distended alveoli and inflamed or necrotic tracheas after the tenth exposure only."
+        },
+        {
+            "References": "National Advisory Committee for Acute Exposure Guideline Levels for Hazardous Substances (NAC/AEGL Committee); Acute Exposure Guideline Levels (AEGLs) for Trimethylamine (Interim) (CAS 75-50-3) p.14-5 (2008). Available from, as of February 5, 2018: https://www.epa.gov/aegl/trimethyl-amine-results-aegl-program",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ ... TMA inhalation exposure /was studied/ in a 7-month chronic experiment. Two groups of animals (12 male white rats/group) were exposed 5 hours/day to TMA at 10.4 ppm (25.0 mg/cu m) or 31.0 ppm (75.0 mg/cu m). Male rats from the third group were used as control. During exposure, air samples were taken 3-4 times a day and TMA levels determined ... . Excitation and aggressiveness were manifested for 3-4 weeks after the beginning of the experiment. For the first exposure month, diarrhea was observed during the first 2-3 hours of each exposure. Lymphocytes count decreased and the number of neutrophils increased in rats from the 31.0 ppm group beginning from the 4th exposure month onward. No statistically significant deviations between experimental and control groups were revealed when the following data were analyzed: body weight, oxygen consumption, emission of carbon dioxide, protein fractions in the blood, antitoxic function of the liver (Quick's - Pytel's Test), and the threshold for nervous and muscular excitability. Pathomorphological studies showed animals from the 10.4 ppm group exhibited bronchopneumonia and hemorrhage in the pulmonary tissue with destruction of interalveolar layers, and isolated hemorrhage in the liver, kidneys and spleen. Rats from the 10 ppm group had similar changes but they were less pronounced. The only statistically significant change in relative organ weight was an increase of the adrenal gland weight of rats exposed to 31 ppm."
+        },
+        {
+            "References": "National Advisory Committee for Acute Exposure Guideline Levels for Hazardous Substances (NAC/AEGL Committee); Acute Exposure Guideline Levels (AEGLs) for Trimethylamine (Interim) (CAS 75-50-3) p.15 (2008). Available from, as of February 5, 2018: https://www.epa.gov/aegl/trimethyl-amine-results-aegl-program",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Pregnant Swiss mice given 18, 60, or 180 mg/kg TMA /intraperitoneally/ on gestation day (GD) 8 and sacrificed on GD 18 showed no maternal or fetal toxicity."
+        },
+        {
+            "References": "National Advisory Committee for Acute Exposure Guideline Levels for Hazardous Substances (NAC/AEGL Committee); Acute Exposure Guideline Levels (AEGLs) for Trimethylamine (Interim) (CAS 75-50-3) p.16 (2008). Available from, as of February 5, 2018: https://www.epa.gov/aegl/trimethyl-amine-results-aegl-program",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Pregnant Swiss CD-1 mice given /oral doses of/ 60, 150, 300, or 450 mg/kg/day TMA on GD 6-15 had decreased maternal weight and litter size at 450 mg/kg/day, and fetal weight was decreased at 300 and 450 mg/kg/day, more so for males than females. Postnatal growth was inhibited at 450 mg/kg/day, and 8 weeks after birth, females had decreased kidney weight and males had decreased weight of the brain, kidneys, seminal vesicles, decreased brain protein and DNA content, and lower serum testosterone levels than age-matched controls."
+        },
+        {
+            "References": "National Advisory Committee for Acute Exposure Guideline Levels for Hazardous Substances (NAC/AEGL Committee); Acute Exposure Guideline Levels (AEGLs) for Trimethylamine (Interim) (CAS 75-50-3) p.16 (2008). Available from, as of February 5, 2018: https://www.epa.gov/aegl/trimethyl-amine-results-aegl-program",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Gavage administration of TMA (8, 40, or 200 mg/kg/day) to Sprague-Dawley rats from 2 weeks prior to breeding through day 4 of lactation caused no developmental or reproductive toxicity in a combined repeat dose and reproductive/developmental toxicity screening test. Maternal toxicity was seen at only 200 mg/kg/day, consisting of excessive salivation, abnormal breathing noise, and one death on day 38 (pregnancy day 22)."
+        },
+        {
+            "References": "PMID:2002514",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Monomethylamine (MMA), dimethylamine (DMA), and trimethylamine (TMA) are endogenous substances as well as metabolites of methyl isocyanate, the chemical involved in the 1984 accident at Bhopal, India. Although methylamines exert several toxic effects including inhibition of protein turnover and oocyte RNA synthesis, their reproductive toxicity has not been investigated. ... /Investigators/ studied the possible developmental toxicity of these amines using pregnant CD-1 mice and mouse embryo culture as experimental models. Intraperitoneal injections (daily from day 1 to 17 of gestation) of TMA at 2.5 and 5 mmol/kg/day significantly (p<0.001) decreased fetal body weight but not the placental weight or maternal body weight gain; however, 5 of 11 mice treated with 5 mmol/kg TMA died. Similar treatment with DMA and MMA did not exert any obvious maternal or fetal effects. All three methylamines, when added to embryos in culture, caused dose-dependent decreases in size, DNA, RNA, and protein content as well as embryo survival; the order of toxicity was TMA >DMA >MMA. The ability of methylamines to adversely affect fetal development suggests that these amines, especially trimethylamine, may act as endogenous teratogens under certain conditions."
+        },
+        {
+            "References": "National Advisory Committee for Acute Exposure Guideline Levels for Hazardous Substances (NAC/AEGL Committee); Acute Exposure Guideline Levels (AEGLs) for Trimethylamine (Interim) (CAS 75-50-3) p.16 (2008). Available from, as of February 5, 2018: https://www.epa.gov/aegl/trimethyl-amine-results-aegl-program",
+            "Value": "/GENOTOXICITY/ ... No mutagenic activity /was observed/ in an Ames plate incorporation test using S. typhimurium strains TA1535, TA1537, TA98 and TA100, with or without liver metabolic activation. TMA was tested at 0.010, 0.050, 0.10, 0.50, 1.0, and 5.0 mg/plate, but due to cytotoxicity, in most cases results were only obtained for up to 1.0 mg/plate."
+        },
+        {
+            "References": "PMID:7045640",
+            "Value": "/GENOTOXICITY/ Nitrogenous cmpd such as guanidines, ureides, secondary amines and polyamines were pyrolyzed at 300, 400, 500, and 600 \u00b0For 3 min, and the mutagenic activities of the pyrolyzates were assayed on Salmonella typhimurium TA 98 and TA 100 with and without metabolic activation. Trimethylamine showed mutagenic activity, which was more pronounced on TA 98 than in TA 100. /Trimethylamine pyrolyzates/"
+        },
+        {
+            "References": "Mortelmans K et al; Environ Mutagen 8:1-119 (1986)",
+            "Value": "/GENOTOXICITY/ Trimethylamine was tested for mutagenicity in the Salmonella/microsome preincubation assay using the standard protocol approved by the National Toxicology Program. Trimethylamine was tested in as many as 5 Salmonella typhimurium strains (TA 1535, TA 1537, TA 97, TA 98, and TA 100) in the presence and absence of rat or hamster liver S-9. Trimethylamine was negative in these tests at doses of 0.010, 0.033, 0.10, 0.33 and 1.0 mg/plate. The highest ineffective dose tested in any S. typhimurium strain was 1.000 mg/plate."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Golovnya RV et al; USSR Acad Med Sci pp.327-35 (1982)",
+            "Value": "SOIL: Trimethylamine has been identified in uncultivated soil(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of March 6, 2018: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Perrin DD; Dissociation Constants of Organic Bases in Aqueous Solution. IUPAC Chem Data Ser: Suppl 1972. Buttersworth, London (1972) (4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000) (5) Wang XC, Lee C; Mar Chem 44: 1-23 (1993)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of trimethylamine can be estimated to be 7(SRC). According to a classification scheme(2), this estimated Koc value suggests that trimethylamine is expected to have very high mobility in soil. The pKa of trimethylamine is 9.8(3), indicating that this compound will exist almost entirely in the cation form in the environment and cations generally adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(4). Sorption coefficients for trimethylamine adsorption on montmorillonite, kaolinite and Flax Pond sediment (7% clay, 2.8% organic matter; Long Island, NY) were 15, 2 and 7 mL/g, respectively(5). The trimethylamine cation adsorbed strongest to the negatively-charged montmorillonite via electrostatic interactions(5)."
+        }
+    ]
+}

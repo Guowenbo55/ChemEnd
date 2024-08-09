@@ -1,0 +1,66 @@
+{
+    "_id": {
+        "$oid": "6692711f303528b49832d801"
+    },
+    "CID": {
+        "$numberInt": "1617113"
+    },
+    "Name": "Quizalofop-p-ethyl",
+    "IUPACName": "ethyl (2R)-2-[4-(6-chloroquinoxalin-2-yl)oxyphenoxy]propanoate",
+    "CanonicalSMILES": "CCOC(=O)C(C)OC1=CC=C(C=C1)OC2=CN=C3C=C(C=CC3=N2)Cl",
+    "Synonyms": [
+        "Quizalofop-p-ethyl",
+        "100646-51-3",
+        "Assure II",
+        "Targa Super",
+        "(R)-Quizalofop Ethyl",
+        "Targa D",
+        "Quizalofop-P-ethyl [ISO]",
+        "DPX-Y6202-31",
+        "NCI-861094",
+        "Propanoic acid",
+        "2-[4-[(6-chloro-2-quinoxalinyl)oxy]phenoxy]-",
+        "ethyl ester",
+        "(2R)-",
+        "ethyl (2R)-2-[4-(6-chloroquinoxalin-2-yl)oxyphenoxy]propanoate",
+        "1U4923B12R",
+        "Quizalofop-P-ethyl 100 microg/mL in Acetone",
+        "Quizalofop-P-ethyl 100 microg/mL in Acetonitrile",
+        "Propanoic acid",
+        "2-(4-((6-chloro-2-quinoxalinyl)oxy)phenoxy)-",
+        "ethyl ester",
+        "(2R)-"
+    ],
+    "IsomericSMILES": "CCOC(=O)[C@@H](C)OC1=CC=C(C=C1)OC2=CN=C3C=C(C=CC3=N2)Cl",
+    "INCHI": "InChI=1S/C19H17ClN2O4/c1-3-24-19(23)12(2)25-14-5-7-15(8-6-14)26-18-11-21-17-10-13(20)4-9-16(17)22-18/h4-12H,3H2,1-2H3/t12-/m1/s1",
+    "INCHIKEY": "OSUHJPCHFDQAIT-GFCCVEGCSA-N",
+    "Formula": "C19H17ClN2O4",
+    "MolecularWeight": {
+        "$numberDouble": "372.8"
+    },
+    "Description": "Quizalofop-P-ethyl is an ethyl 2-{4-[(6-chloroquinoxalin-2-yl)oxy]phenoxy}propanoate that has R configuration. A proherbicide for quizalofop-P, it is used to control annual and perennial grass weeds in a variety of crops, including potatoes, sugar beet, peanuts, cotton and flax. It has a role as a proherbicide and an agrochemical. It is an ethyl 2-{4-[(6-chloroquinoxalin-2-yl)oxy]phenoxy}propanoate and a quinoxaline herbicide. It is functionally related to a quizalofop-P. It is an enantiomer of a (S)-quizalofop-ethyl.",
+    "XlogP": {
+        "$numberDouble": "4.3"
+    },
+    "Complexity": {
+        "$numberInt": "459"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The study investigated the transgenerational effects of environmental stresses, specifically drought stress and herbicide treatment, on the response of Eragrostis plana Ness, an invasive perennial grass in South America, to the herbicide quizalofop-p-ethyl (QPE). The hypothesis was that priming by environmental stresses could lead to decreased sensitivity to herbicides in the progeny. The results showed that the population of E. plana exposed to drought stress (DRY) became less sensitive to quizalofop-p-ethyl treatment in the subsequent generation (G2). This reduced sensitivity was associated with changes in physiological and molecular mechanisms, including reduced stomatal conductance, increased hydrogen peroxide and lipid peroxidation, and upregulated expression of certain genes involved in herbicide metabolism. These findings suggest a transgenerational adaptation of E. plana to abiotic stresses, with potential implications for weed management strategies.",
+            "reference": "Fipke, M. V., da Rosa Feij\u00f3, A., Garcia, N. S., Heck, T., Viana, V. E., Dayan, F. E., ... & de Avila, L. A. (2022). Transgenerational effect of drought stress and sub-lethal doses of quizalofop-p-ethyl: decreasing sensitivity to herbicide and biochemical adjustment in Eragrostis plana. Agriculture, 12(3), 396.",
+            "method": {
+                "Test Plant": "Eragrostis plana",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Seeds were collected from an experimental field and named G0 population. G1 and G2 populations were generated under different stress conditions in a greenhouse facility in 2018 and 2019. Plants were grown in 1 L soil pots (Haplosol) in a growth chamber with 32/28\u00b0C temperature and 12 h photoperiod.",
+                "Chemical Preparation": "The herbicide quizalofop (quizalofop-p-ethyl, IHARA, Targa 50 EC\u2122) was used.",
+                "Pesticide Application Details for the Plant": "When the plants reached an average of eight tillers, quizalofop was applied with a CO2 sprayer calibrated to deliver 150 L ha-1 of spray solution.",
+                "Other Information": "The experiment had a completely randomized design in a factorial arrangement with six replications."
+            },
+            "result": "[{\"Biotype\": \"CHK-no stress\", \"Hours after application\": 48, \"Absorbed (ug/g)\": 1.094, \"Unabsorbed (ug/g)\": 0.639}, {\"Biotype\": \"CHK-no stress\", \"Hours after application\": 96, \"Absorbed (ug/g)\": 0.668, \"Unabsorbed (ug/g)\": 0.687}, {\"Biotype\": \"DRY-dought\", \"Hours after application\": 48, \"Absorbed (ug/g)\": 0.62, \"Unabsorbed (ug/g)\": 0.426}, {\"Biotype\": \"DRY-dought\", \"Hours after application\": 96, \"Absorbed (ug/g)\": 0.465, \"Unabsorbed (ug/g)\": 0.213}]"
+        }
+    ]
+}

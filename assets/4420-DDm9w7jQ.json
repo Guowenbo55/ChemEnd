@@ -1,0 +1,223 @@
+{
+    "_id": {
+        "$oid": "6682e80ec4e5dba5ffba23b1"
+    },
+    "CID": {
+        "$numberInt": "4420"
+    },
+    "Name": "NALED",
+    "IUPACName": "(1,2-dibromo-2,2-dichloroethyl) dimethyl phosphate",
+    "CanonicalSMILES": "COP(=O)(OC)OC(C(Cl)(Cl)Br)Br",
+    "Synonyms": [
+        "naled",
+        "Dibrom",
+        "300-76-5",
+        "Bromchlophos",
+        "Bromex",
+        "Ortho-Dibrom",
+        "Dibromfos",
+        "Alvora",
+        "Fosbrom",
+        "Flibol Ex",
+        "(1,2-Dibromo-2,2-dichloroethyl) dimethyl phosphate",
+        "1,2-Dibromo-2,2-dichloroethyl dimethyl phosphate",
+        "Bromex 50",
+        "Bromex (insecticide)",
+        "ENT 24988"
+    ],
+    "IsomericSMILES": "COP(=O)(OC)OC(C(Cl)(Cl)Br)Br",
+    "INCHI": "InChI=1S/C4H7Br2Cl2O4P/c1-10-13(9,11-2)12-3(5)4(6,7)8/h3H,1-2H3",
+    "INCHIKEY": "BUYMVQAILCEWRR-UHFFFAOYSA-N",
+    "Formula": "C4H7Br2Cl2O4P",
+    "MolecularWeight": {
+        "$numberDouble": "380.78"
+    },
+    "Description": "Naled is an dialkyl phosphate resulting from the formal condensation of the acidic hydroxy group of dimethyl hydrogen phosphate with the alcoholic hydroxy group of 1,2-dibromo-2,2-dichloroethanol. An organophosphate insecticide, it is no longer approved for use within the European Union. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, an EC 3.1.1.8 (cholinesterase) inhibitor, an acaricide, an agrochemical, an antibacterial agent and an antifungal agent. It is a dialkyl phosphate, an organophosphate insecticide, an organochlorine compound and an organobromine compound.",
+    "XlogP": {
+        "$numberDouble": "2.5"
+    },
+    "Complexity": {
+        "$numberInt": "206"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) California Department of Pesticide Regulation Human Pesticide Exposure Assessment for Naled (2000).  Available from, as of May 31, 2016: https://www.cdpr.ca.gov/docs/whs/pdf/hs1739.pdf",
+            "Value": "Naled residues were detected on grape foliage 7 days post application at levels ranging from below the detection limit (2.5 ng sq cm) to 0.285 ug/sq cm (1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 9 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of May 31, 2016: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 0.4 was calculated for naled(SRC), using a log Kow of 1.38(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        },
+        {
+            "References": "Purdue University; National Pesticide Information Retrieval System (1987)",
+            "Value": "Naled did not accumulate in whole body tissue of killifish exposed to naled in static bioassay tests. Naled was not detected ( < 0.02 ppm) in any fish tissue samples taken over the 7-day test period."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Yu SJ; The Toxicology and Biochemistry of Insecticides. 2nd ed. Boca Raton, FL: CRC Press, Taylor & Francis Group, p. 44 (2015) (2) CA DPR; Naled Risk Characterization Document, RCD 99-03 (November 1999). California EPA, Dept of Pesticide Regulation. Available from, as of Sept 28, 2016: https://www.cdpr.ca.gov/docs/risk/rcd.htm",
+            "Value": "AEROBIC: As a chemical class, the organophosphorus insecticides, such as naled, are generally considered to be biodegradable(1). The metabolism of naled in unsterile sandy loam was 3 times faster than in sterile sandy loam, and was 2-3 times faster than in sand, loam, and silt soils(2). The half-lives were 1.4 and 4 hours, respectively, for unsterile and sterile sandy loams. The half-lives for naled ranged from 2.6 to 4.0 hours for other soil types; DDVP was detected in all soil samples(2). The metabolism of 14C-labelled naled in Oakly sandy loam soil under aerobic conditions showed that degradation of naled to 14C-carbon dioxide was rapid with a half-life of 3 days(2). In a cranberry bog, the half-life for the aerobic metabolism of 14C-labelled naled was about 6 hours with most of the naled metabolized to carbon dioxide (71% in 30 days)(2)."
+        },
+        {
+            "References": "(1) Yu SJ; The Toxicology and Biochemistry of Insecticides. 2nd ed. Boca Raton, FL: CRC Press, Taylor & Francis Group, p. 44 (2015) (2) CA DPR; Naled Risk Characterization Document, RCD 99-03 (November 1999). California EPA, Dept of Pesticide Regulation. Available from, as of Sept 28, 2016: https://www.cdpr.ca.gov/docs/risk/rcd.htm",
+            "Value": "ANAEROBIC: As a chemical class, the organophosphorus insecticides, such as naled, are generally considered to be biodegradable(1). The metabolism of 14C-labelled naled in Oakly sandy loam soil under anaerobic conditions showed that degradation of naled to 14C-carbon dioxide was rapid with a half-life of 6 days(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 9",
+            "Value": "log Kow = 1.38"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... 5 mg/kg naled was administered to rats via intramuscular injection. Within 15 minutes, cholinergic signs appeared, and plasma and brain cholinesterases were inhibited by 79% and 80%, respectively."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 890",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Naled caused severe eye and dermal irritation in rabbits and was weakly positive in a skin sensitization test in guinea pigs"
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 890",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ When rats were given a single oral dose of 25, 100, or 400 mg/kg naled, the 400-mg/kg dose produced mortality and transient decreases in body weight gain. Rats of both sexes given 100 or 400 mg/kg and females given 25 mg/kg showed marked cholinergic effects. No treatment-related neurological effects were observed 7 or 14 days after treatment at any dose level."
+        },
+        {
+            "References": "Brzezicka-Bak M, Bojanowska A; Roczniki Panstwowego Zakladu Hig 20 (4): 463-9 (1969)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... The acute per os toxicity in female Wistar rats of naled was LD50=280.9 ... mg/kg of body weight ... Blood cholinesterase activity was found to be reduced from 24.1% by naled to 35.5% by Supracide to 74.4% by naled."
+        },
+        {
+            "References": "Pupysheva GI; Tr Volgogr aMed aINst 24: 208-12 (1971)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ After a single cutaneous application of Dibrom (I) in a median lethal dose (1234 mg/kg) changes in the intramural nerve apparatus of the esophagus, stomach and small and large intestine occurred in the same manner, but were least pronounced in the nerve plexuses of the rat stomach. All components of the autonomic ganglia were affected: ganglion cells, satellite cells, blood vessels, synaptic endings and connective tissue stroma."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 890",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ When rats were exposed to 3.4, 7.2, or 12.1 mg/cu m naled for 6 hours/day, 5 days/week for 3 weeks, a dose-dependent inhibition of brain, RBC, and plasma cholinesterase occurred at all concentrations"
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In a 13-week inhalation study ... , male and female Fisher 344 rats rats were whole-body exposed 6 hours/day, 5 days/week to filtered air (control group) or aerosols containing  0.2, 1, or 6 mg/cu m naled. Exposures at the highest concentration (6 mg/cu m) resulted in cholinergic signs of toxicity (tremors, salivation, nasal discharge, abnormal respiration, anogenital staining). Brain cholinesterase was inhibited at 6 mg/cu m; plasma and red blood cell (RBC) cholinesterase were inhibited at 1 and 6 mg/cu m."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 890",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ When rats were fed diets delivering 0, 0.25, 1, 10, 100 mg/kg/day naled for 28 days, cholinergic effects occurred at 10 mg/kg/day, but not at lower doses. When rats were exposed to naled by dermal application of 1, 20, or 80 mg/kg/day naled for 6 hours/day, 5 days/week for 28 days, the two highest doses were irritating to the skin. Exposure to 20 and 80 mg/kg/day also produced systemic toxicity. Body weight gain by males was depressed, RBC and brain acetylcholinesterases were inhibited at 20 and 80 mg/kg/day, liver and adrenal weights of 80-mg/kg treated females increased, and mild renal effects were observed."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data for Naled, Chemical Code No.418 p.16-17 (August 3, 1987, Revised June 4, 2004). Available from, as of June 13, 2016: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Naled technical (95.84% pure) was dermally applied (occluded) to Crl:CD (SD) BR rats (10/sex/dose, main group; 5/sex/dose, satellite group) at 0 (dried corn oil), 5, 10 and 40 mg/kg/day (6 hours/day) during days 1-5, 8-12, 15-19, 22-24 and 26-28 of the study (21 days total). The satellite group was used to assess brain, erythrocyte and plasma cholinesterase activity. Systemic NOEL = 10 mg/kg (There was a statistically significant decrease in hindlimb grip strength in males at 40 mg/kg. There was a statistically significant decrease in platelet counts for both sexes at 40 mg/kg. Females showed statistically significant increases in white blood cell, lymphocyte, monocyte and large unstained cell counts at 40 mg/kg. Females, at 40 mg/kg, showed statistically significantly increased plasma calcium, plasma chloride, potassium and APT activity. In males at 40 mg/kg, absolute epididymal weights were significantly decreased. Male relative kidney weights at 40 mg/kg were significantly increased.) Dermal NOEL = 5 mg/kg (Acanthosis and hyperkeratosis were observed in both sexes at > 10 mg/kg by the end of the study. Macroscopically, discoloration and erythema were observed in the area of treated skin at > 10 mg/kg, respectively.) ChE NOEL = 10 mg/kg (There were significant decreases in RBC, plasma and brain ChE in both sexes at 40 mg/kg.)"
+        },
+        {
+            "References": "Worthing, C.R., S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 7th ed. Lavenham, Suffolk, Great Britain: The Lavenham Press Limited, 1983., p. 371",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In feeding trials no toxic effect was observed in rats receiving 100 mg technical (99% pure)/kg diet for 84 days."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Guinea pigs and rats exposed 6 hours/day, 5 days/weesk for 5 weeks to an aerosol of 65% naled, 25% xylene, and 10% emulsifier-surfactant containing 1.7, 8.4, 17, 42, 84, or 170 mg/cu m naled, showed signs of intoxication at 42 mg/cu m or greater. Decreased red blood cell (RBC) and plasma cholinesterase activity also occurred at 42 mg/cu m and above."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ When male and female rats were whole-body exposed 6 hours/day, 5 days/week for 3 weeks to an aerosol of technical grade naled at concentrations of 3.4, 7.2, or 12.1 mg/cu m, a dose-dependent inhibition of brain, red blood cell (RBC), and plasma cholinesterase was observed at all concentrations in both sexes."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 891",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ When 0.4, 2.0, or 10.0 mg/kg/day naled was given to rats by gavage for 90 days, cholinergic effects occurred in three of ten high-dose females. No other clinical effects occurred in either sex at any other dose level."
+        },
+        {
+            "References": "PMID:7178068",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... Separate bromex treatment of the animals or their putting on a 6-week deficiency diet led to moderate changes in hepatocyte organelles. The combined effect of both factors--bromex and deficiency diet--sums the effect leading to the reduction of chromatin inclusions of the nuclei, reduces the amount of GER, Ser and mitochondria, dystrophic changes in mitochondria, increase of secondary lysozyomes and build up of fatty acids in hepatocytes."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 3",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ In a lifetime study, male and female rats were administered doses of 0, 0.2, 2, or 10 mg/kg/day naled via gavage for 2 years. There was a dose-related reduction in plasma, brain, and to a lesser degree, red blood cell (RBC) cholinesterase activity among rats treated with 2 or 10 mg/kg/day. Cholinesterase activity of rats treated at 0.2 mg/kg/day was unaffected. Slight tremors were noted on isolated occasions after dosing four females given 10 mg/kg/day; no other adverse effects were observed at any of the dose levels. The incidence of neoplastic lesions in the treated animals was similar to that of controls."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 3",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ In an 89-week study, naled was administered to mice at doses of 0, 3, 15, or 75 mg/kg/day via gavage. The high dose of 75 mg/kg/day was reduced to 50 mg/kg/day after 26 weeks due to high mortality in test animals. Mortality was 10% and 13% for high-dose males and females, respectively, compared to 2% mortality in controls after 26 weeks. Tremors were observed in 3 of 8 high-dose females that died during the first 26 weeks. The only other treatment-related finding was a slight reduction (3%-5%) in weight gain by males showing a dose-related trend at the mid- and high-dose levels. Cholinesterase activity was not determined. No neoplastic findings were related to treatment"
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 891",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ When dogs were given 0.2, 2.0, or 20 mg/kg/day naled by gavage for one year, cholinergic signs, increases in mineralization of spinal cord, and mild testicular degeneration in males occurred at 2 and 20 mg/kg/day. RBC and brain cholinesterase activities were depressed at these same dose levels. Anemia also occurred at 2 and 20 mg/kg/day, and RBC count, hemoglobin, and hematocrit were reduced. At 20 mg/kg/day, liver and kidney weights increased but were unaccompanied by histopathological changes."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 3",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ... Pregnant New Zealand rabbits were given doses of 0, 0.2, 2, or 8 mg/kg/day naled by ... gavage on gestational days 7 through 19. Does were sacrificed on day 29 of gestation. No maternal or developmental toxicity was related to treatment. The 2-mg/kg/day dose was associated with mild cholinergic toxicity."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 891",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ When naled was given to pregnant rats at doses of 2, 10, or 40 mg/kg/day by gavage on gestation days 6 through 19, 40 mg/kg/day was maternally toxic produced cholinergic signs, and reduced weight gain. No developmental toxicity occurred at any dose. There was a marginal effect on resorptions at 40 mg/kg/day, but, because this dose was also maternally toxic it was not considered significant. When pregnant rats were treated orally with 25 to 100 mg/kg naled on gestation days 6 through 15, no adverse teratogenic effect was evident. No maternal or developmental toxicity occurred in rabbits given 0.2, 2, or 8 mg/kg/day naled by gavage on gestation days 7 through 19, although / SRP: it is reported that/ mild cholinergic signs occurred in adults at 2 mg/kg/day."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 891",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ When rats were given 2, 6, or 18 mg/kg/day naled by gavage for two generations, body weight gain was depressed at 18 mg/kg/day for F0 males and at all dose levels for F1 males. Reproductive indexes were unaffected in both generations. Survival of pups was reduced at 18 mg/kg/day in the F1 and F2b generations, and a consistent pup weight consistently decreased during lactation in both generations."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 3",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ ... Naled was given to Sprague-Dawley Crl:CDr Br rats by gavage ... at dose levels of 0, 0.4, 2.0, or 10.0 mg/kg/day for 90 days. Neurological parameters were measures by both the FOB and locomotor activity. Neurological (sporadic occurrences of forelimb, hindlimb, or whole-body tremors) effects were observed in 3 of 10 high-dose females; no other clinical effects were observed in either sex at any other dose level."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data for Naled, Chemical Code No.418 p.9 (August 3, 1987, Revised June 4, 2004). Available from, as of June 13, 2016: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Naled technical (91.7% pure) was administered by gavage to White Leghorn Hens (Gallus gallus domesticus--4/dose for neurotoxic esterase (NTE) and AChE determinations; 10/dose for behavior/pathology) at 0 (vehicle = 0.25% carboxymethyl cellulose (CMC)), 0.5, 2.0 & 4.0 mg/kg and positive control hens received tri-o-cresyl phosphate (TOCP) at 0 (vehicle = corn oil), 35 or 45 mg/kg for 28 days. Treatment was followed by a 21 day observation period. The NOEL for brain ChE was re-evaluated and decreased, based upon biological relevance of inhibition values. NOEL = 0.5 mg/kg There was a significant decrease in brain AChE levels at > 2.0 mg/kg. No adverse effect."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data for Naled, Chemical Code No.418 p.16-17 (August 3, 1987, Revised June 4, 2004). Available from, as of June 13, 2016: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Naled technical (98% pure) was used on hybrid brown laying hens at 0 (0.5% sodium carboxymethylcellulose) or 42 mg/kg (40 hens) in a single dose (by gavage), followed by a repeat dose after 21 days in birds showing a negative neurotoxic response. Naled treated birds were protected with atropine sulphate (10 mg/kg) and 2-PAM (50 mg/kg) immediately prior to dosing. A satellite group was maintained for assessing brain ChE and NTE, treated at 0, 8 (5 hens/group) and 42 mg/kg (10 hens) with a single dose and a 24-hour observation period (then sacrifice). TOCP (corn oil) was used as a positive control (500 mg/kg--10 hens in the main group and 5 hens in the satellite). No adverse effect. The positive control was functional."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data for Naled, Chemical Code No.418 p.16-17 (August 3, 1987, Revised June 4, 2004). Available from, as of June 13, 2016: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Naled technical (purity = 92.7%) was administered by gavage to Sprague-Dawley Crl:CD BR rats at 0 (vehicle = 0.5% carboxymethylcellulose), 25, 100 and 400 mg/kg (12/sex/dose at 0, 25 & 100 mg/kg; 16/sex at 400 mg/kg). Animals were observed for 14 days post-treatment. NOAEL = 25 mg/kg. At 400 mg/kg, both sexes showed increased mortality, and males showed a transient decrease in body weight gain. Clinical signs were observed in both sexes at 400 mg/kg: orange and/or yellow material on various surfaces and red material around the mouth, nose and/or eyes, gait alterations, tremors and hypoactivity (> 100 mg/kg, rales & retching). No adverse effects: Effects were observed in the FOB at > 25 mg/kg: Tremors in limbs, reduced hindlimb resistance (> 25 mg/kg) and at > 100 mg/kg: sensorimotor activity, neuromuscular, physiological, autonomic, excitability domains in both sexes. These effects were reversed by day 14 to control values."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data for Naled, Chemical Code No.418 p.16-17 (August 3, 1987, Revised June 4, 2004). Available from, as of June 13, 2016: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Thirty Alpk:APfSD timed-pregnant dams/group were dosed daily by gavage (10 mg/kg corn oil vehicle) with 0, 0.4, 2, or 10 mg/kg/day Naled (95.4% purity) from gestation day 7 through lactation day 7 ... F1 pups designated for developmental neurotoxicity studies were dosed from PND 8-22. One pup/sex/litter was allocated for one of these in-life assessments: (1) functional observational battery and motor activity, (2) Learning and memory assessment (days 24 and 27), (3) Auditory startle, or (4) Learning and memory (days 59 and 62) ... Microscopy was performed on PND 12 controls and high dose groups, in which only brains were examined. Brain sections, spinal cord sections, eyes, an acceptable set of spinal roots and ganglia, and peripheral nerves were collected from all perfused rats at PND 63 ... An analysis of the dimensions of the Purkinje cell layer in cerebellar lobe 8 (adjacent to the prepyramidal fissure) /was performed and/ ... Purkinje cell density in that region /was estimated/. Dams tolerated the selected dose range, which also did not cause any definitive effects in offspring. Apparent NOEL for dams and for pups (for all parameters which can now be assessed) = 10 mg/kg/day (highest dose tested)."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data for Naled, Chemical Code No.418 p.16-17 (August 3, 1987, Revised June 4, 2004). Available from, as of June 13, 2016: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Naled technical (92.7% pure) was administered by gavage to Sprague-Dawley Crl:CD BR rats (1-4/sex/dose) at: Part A: 0.5, 1, 5, 35, 75, 100, 125 & 150 mg/kg. Part B: 300 mg/kg. Part C: 600 mg/kg. Part D: 50, 450, 500 & 550. Part E: 25 & 450 mg/kg (vehicle = 0.5% carboxymethylcellulose). In Part A, post-dosing observation times were 1, 1.5, 2, 3, 4, 5, 6, 7 & 8 hours and Parts B-E observation times were 0.25, 0.5, 0.75, 1, 2 & 3 hours. All animals were observed for a total of 7 days. At 450 mg/kg 1/4 females died on the day of dosing. All animals at > 500 mg/kg died or were killed moribund within 24 hours post-dosing (most within 45 minutes). Animals treated at 0.5-300 mg/kg survived to termination (day 8). Clinical signs showed gait alterations (rocking, lurching, swaying, prostration), whole body tremors, constricted pupils, reduced forelimb/hindlimb grasp, exophthalmos and splayed hindlimbs at > 75 mg/kg, salivation at > 300 mg/kg and hypoactivity at > 450 mg/kg (peak effects at 0.5 hr post-dosing). At < 50 mg/kg, clinical signs were few (gait alterations: rocking, lurching & swaying) were observed at 50 mg/kg (1 male) at 0.5 & 0.75 hr only. Constricted pupils were observed at 0.5, 1, 5 & 35 mg/kg (no dose relationship). Some body weight loss was observed at 450 mg/kg (1 surviving male) & 300 mg/kg (2/2 females). NOEL = 35 mg/kg."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 892",
+            "Value": "/GENOTOXICITY/ Naled exhibited no potential to induce mutations in an in vivo gene mutation study (mouse spot test) that used mice given 3, 20, or 150 mg/kg/day naled by gavage on gestation days 8 to 12."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 892",
+            "Value": "/GENOTOXICITY/ Naled was positive for gene mutation in the S. typhimurium reverse mutation assay but did not induce DNA damage in a rec-type repair test with Proteus mirabilis strains PG713 (rec-, hcr-) and PG273 (wild-type). ... Glutathione-dependent enzymes in the S9 mix eliminate the mutagenic activity of naled completely."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data for Naled, Chemical Code No.418 p.16-17 (August 3, 1987, Revised June 4, 2004). Available from, as of June 13, 2016: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/GENOTOXICITY/ Naled, 93.3%; tested with Salmonella typhimurium strains TA1535, TA1537, TA98 and TA100 with and without rat liver activation (Aroclor induced); First trial: 0 (DMSO), 0.003, 0.1, 0.33, 0.1 or 0.33 mg/plate, second trial at 0, 0.01, 0.33, 0.1, 0.33 or 1.0 mg/plate; also used E. coli strain WP2 uvrA; triplicate plates each trial; plate incorporation assay; although some colony counts were statistically significant, there were no reproducible results and none were twice the spontaneous rate; no evidence of an adverse effect."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Summary of Toxicology Data for Naled, Chemical Code No.418 p.16-17 (August 3, 1987, Revised June 4, 2004). Available from, as of June 13, 2016: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/GENOTOXICITY/ Naled technical, purity 93.3%, tested with rat hepatocytes at concentrations of 0 (DMSO), 1.0, 2.5, 5.0, 7.5, 10, or 50 ug/mL for 18 hours. Under study conditions, Naled did not induce unscheduled DNA synthesis in rat hepatocytes."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 4",
+            "Value": "/GENOTOXICITY/ Naled had no cytotoxic effect in a mouse bone marrow micronucleus assay, where naled was given to male and female Swiss mice (Crl:CD-1, 1 CR, BR), and produced no nuclear anomalies. Naled had no clastogenic effect in an in vivo cytogenetic study, where male and female Sprague-Dawley rats were given naled as a single oral dose by gavage. Cytotoxicity in bone marrow was not evident at any dose level. The highest dose was considered to be near a maximum-tolerated dose, based on cholinergic signs observed in females, and the results of preliminary studies indicating the high dose for males was approximately one-half the oral LD50."
+        },
+        {
+            "References": "PMID:6337735",
+            "Value": "/GENOTOXICITY/ The following organophosphates were tested for their ability to induce DNA damage in a rec-type repair test with Proteus mirabilis strains PG713 (rec- hcr-) and PG273 (wild-type) and point mutations in the his- strain TA100 of Salmonella typhimurium: O,O-dimethyl-O-(1,2-dibromo-2,2-dichloroethyl)-phosphate (NALED); trichlorfon-O-methyl ether (TCP-O-ME), O,O-dimethyl-(1-methoxy-2,2,2-trichlorethyl)-phosphonate; trichlorfon-O-methyl ether vinyl derivative (TCP-O-MEVD), O,O-dimethyl-(1-methoxy-2,2-dichlorovinyl)-phosphonate. All compounds were negative in the repair test but induced base pair substitutions in S. typhimurium. The mutagenicity of NALED is due to the direct alkylating ability of the parental molecule and to mutagenic metabolites generated by enzymatic splitting of the side chain. Glutathion-dependent enzymes in the S9-mix eliminate the mutagenic activity of NALED completely. ..."
+        },
+        {
+            "References": "Crop Protection Handbook Volume 100, Meister Media Worldwide, Willoughby, OH 2014, p. 431",
+            "Value": "/OTHER TERRESTRIAL SPECIES/ Bee: Highly toxic."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "PMID:15092831",
+            "Value": "SEDIMENT: Naled was not detected in 50 300-g sediment samples collected from 32 sites during two sampling times of July-August 1993, dry season, and November-December 1993, end of rainy season, in the Atoya River basin, Chinandega, Nicaragua, a main cotton producing region(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Wauchope RD et al; Rev Environ Contam Toxicol 123: 1-36 (1991) (2) Gufstafson DI; Environ Toxicol Chem 8: 339-57 (1989) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Koc values of 180(1) and 344(2) have been reported for naled. According to a classification scheme(3), these Koc values suggest that naled is expected to have moderate mobility in soil."
+        }
+    ]
+}

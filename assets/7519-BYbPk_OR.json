@@ -1,0 +1,86 @@
+{
+    "_id": {
+        "$oid": "6682e882c4e5dba5ffba25f0"
+    },
+    "CID": {
+        "$numberInt": "7519"
+    },
+    "Name": "ANISOLE",
+    "IUPACName": "anisole",
+    "CanonicalSMILES": "COC1=CC=CC=C1",
+    "Synonyms": [
+        "ANISOLE",
+        "Methoxybenzene",
+        "100-66-3",
+        "Benzene",
+        "methoxy-",
+        "Methyl phenyl ether",
+        "Anisol",
+        "Phenyl methyl ether",
+        "Phenoxymethane",
+        "Anizol",
+        "Phenol methyl ether",
+        "Ether",
+        "methyl phenyl",
+        "Benzene",
+        "methoxy",
+        "Methoxy-Benzene",
+        "HSDB 44",
+        "4-methoxybenzene"
+    ],
+    "IsomericSMILES": "COC1=CC=CC=C1",
+    "INCHI": "InChI=1S/C7H8O/c1-8-7-5-3-2-4-6-7/h2-6H,1H3",
+    "INCHIKEY": "RDOXTESZEPMUJZ-UHFFFAOYSA-N",
+    "Formula": "C7H8O",
+    "MolecularWeight": {
+        "$numberDouble": "108.14"
+    },
+    "Description": "Anisole is a monomethoxybenzene that is benzene substituted by a methoxy group. It has a role as a plant metabolite.",
+    "XlogP": {
+        "$numberDouble": "2.1"
+    },
+    "Complexity": {
+        "$numberInt": "55"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Lu PY, Metcalf; Environ Health Perspective 10: 269-84 (1975) (2) Hansch C, Leo AJ; Medchem Project Issue No 26 Claremont, CA: Pomona College (1985) (3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods, NY: McGraw-Hill Chapt 5, Eqn 5-2 (1982) (4) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "Using its log Kow, 2.11(2), one estimates a BCF of 24 for anisole using a recommended regression equation(3). The bioconcentration of anisole in aquatic organisms was determined in a model aquatic ecosystem maintained at 26.7 \u00b0C with 12 hr of simulated daylight exposure(1). After 24 hr exposure, the ecological magnification for anisole was (organism, bioaccumulation factor): fish, 22; mosquito larva, 27; algae, 563; daphnia, 771; snails, 899(1). There were signs of considerable metabolism in all species. O-dealkylate occurred in fish and snail, hydroxylation to o- and p-methoxyphenols occurred in all species except daphnia, and conjugation occurred in alga and snails(1). According to a recommended classification scheme(4), this BCF value and its metabolism in aquatic organisms would indicate that anisole has a low potential for bioconcentration in fish and aquatic organisms(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Biodegradation and bioaccumulation data of existing chemicals based on the CSCL Japan. Japan Chemical Industry Ecology-Toxicology and Information Center. p. 5-21, ISBN 4-89074-101-1 (1992) (2) Alexander M, Lustigman BK; J Agric Food Chem 14: 410-3 (1960) (3) Pagga U; Z Wasser-Abwasser Forsch 20: 101-7 (1987)",
+            "Value": "In a 2-week biodegradation screening test (MITI test) using anisole (100 ppm) and an activated sludge inoculum, 56% of BOD was removed and at the end of the 2-week period there was an upward trend in BOD consumption(1). Anisole was readily biodegradable in another screening test; >70% DOC and >60% BOD were removed in this test(3). Anisole completely degraded in a biodegradation test that utilized a soil inoculum(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C. and A. Leo. The Log P Database. Claremont, CA: Pomona College, 1987.",
+            "Value": "Log Kow = 2.11"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "FRITSCH P ET AL; EUR J TOXICOL ENVIRON HYG 8 (3): 169 (1975)",
+            "Value": "EFFECTS OF 4 FOOD ADDITIVES BELONGING TO METHOXYBENZENE FAMILY INCL ANISOLE ON METAB OF ISOLATED CECAL FLORA IN RATS WERE STUDIED. ANISOLE WAS PRACTICALLY WITHOUT EFFECT."
+        },
+        {
+            "References": "PMID:2847368",
+            "Value": "Microsomal membranes isolated from male Sprague-Dawley rat liver homogenates were used to define the role of hydrophobic interactions in maintaining the ability to store calcium in the presence of various concn of lipophilic substances. Two series of substances were used. The first were the n-aliphatic alcohols, ethanol, butanol, hexanol and octanol, and the other were flavoring /cmpd/including anisole, eugenol, estragole, and safrole derived from methoxybenzene. Low concn of each cmpd stimulated liver microsomal calcium (2+)-ATPase where as higher concn inhibited this activity. Enzyme activity was modulated by perturbation of membrane hydrophobic interactions as demonstrated by the linear relationship between equiactive concn of the cmpd and their partition coefficients. A decr in membrane order was induced by these cmpd as evidenced by measurements of electron spin resonance. ... The modification in ATPase activity was not directly related to the decr in membrane order."
+        },
+        {
+            "References": "Uzdavini ER et al; Gig Truda I Prof Zabol 6: 43-4 (1984)",
+            "Value": "Anisole ... had an LC50 of 3021 mg/cu m /exposure time not specified/ in experiments with mice; no lethal concn could be established in rats. The cmpd was primarily an irritant and /CNS depressant/, although dystrophic changes were found in the livers of experimental animals. ..."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Bahnick DA, Doucette WJ; Chemosphere 17: 1703-15 (1988) (2) Meylan WM et al; Environ Sci Technol 26: 1560-7 (1992) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "An experimental Koc of 35 has been reported for anisole(1). Using an estimation method based on molecular connectivity indices(2), the Koc for anisole is estimated to be 118(SRC). According to a suggested classification scheme(3), these Koc values respectively suggest that anisole would be very highly mobile and highly mobile in soil and would readily leach(SRC)."
+        }
+    ]
+}

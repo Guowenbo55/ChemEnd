@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "6682e834c4e5dba5ffba246d"
+    },
+    "CID": {
+        "$numberInt": "6098"
+    },
+    "Name": "CLOXACILLIN",
+    "IUPACName": "(2S,5R,6R)-6-[[3-(2-chlorophenyl)-5-methyl-1,2-oxazole-4-carbonyl]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid",
+    "CanonicalSMILES": "CC1=C(C(=NO1)C2=CC=CC=C2Cl)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)O",
+    "Synonyms": [
+        "cloxacillin",
+        "61-72-3",
+        "Cloxacillinum",
+        "Cloxacilline",
+        "Cloxacilina",
+        "Methocillin S",
+        "Syntarpen",
+        "Chloroxacillin",
+        "Clossacillina",
+        "Cloxacillin sodium",
+        "Tegopen",
+        "BRL 1621",
+        "Methylchlorphenylisoxazoryl-penicillin",
+        "Cloxacilina [INN-Spanish]",
+        "Cloxacilline [INN-French]"
+    ],
+    "IsomericSMILES": "CC1=C(C(=NO1)C2=CC=CC=C2Cl)C(=O)N[C@H]3[C@@H]4N(C3=O)[C@H](C(S4)(C)C)C(=O)O",
+    "INCHI": "InChI=1S/C19H18ClN3O5S/c1-8-11(12(22-28-8)9-6-4-5-7-10(9)20)15(24)21-13-16(25)23-14(18(26)27)19(2,3)29-17(13)23/h4-7,13-14,17H,1-3H3,(H,21,24)(H,26,27)/t13-,14+,17-/m1/s1",
+    "INCHIKEY": "LQOLIRLGBULYKD-JKIFEVAISA-N",
+    "Formula": "C19H18ClN3O5S",
+    "MolecularWeight": {
+        "$numberDouble": "435.9"
+    },
+    "Description": "Cloxacillin is a semisynthetic penicillin antibiotic carrying a 3-(2-chlorophenyl)-5-methylisoxazole-4-carboxamido group at position 6. It has a role as an antibacterial agent and an antibacterial drug. It is a semisynthetic derivative, a penicillin allergen and a penicillin. It is functionally related to an oxacillin. It is a conjugate acid of a cloxacillin(1-).",
+    "XlogP": {
+        "$numberDouble": "2.4"
+    },
+    "Complexity": {
+        "$numberInt": "722"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C. and A. Leo. The Log P Database. Claremont, CA: Pomona College, 1987.",
+            "Value": "LogP = 2.44"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Osol, A. and J.E. Hoover, et al. (eds.). Remington's Pharmaceutical Sciences. 15th ed. Easton, Pennsylvania: Mack Publishing Co., 1975., p. 1129",
+            "Value": "...ITS ANTIBACTERIAL SPECTRUM AGAINST GRAM-POSITIVE BACTERIA IS LIKE THAT OF PENICILLIN EXCEPT IT IS BROADER BY MARGIN OF THOSE STRAINS OR SPECIES THAT PRODUCE PENICILLINASE. ...IT IS LESS ACTIVE THAN PENICILLIN G AGAINST NON-PENICILLINASE-PRODUCING BACTERIA, ESPECIALLY STREPTOCOCCI. /CLOXACILLIN MONOHYDRATE/"
+        },
+        {
+            "References": "Goodman, L.S., and A. Gilman. (eds.) The Pharmacological Basis of Therapeutics. 5th ed. New York: Macmillan Publishing Co., Inc., 1975., p. 1135",
+            "Value": "SINCE PENICILLIN HAS NO EFFECT ON EXISTING CELL WALLS, BACTERIA MUST BE MULTIPLYING FOR BACTERIAL ACTION OF PENICILLIN TO BE MANIFEST. /PENICILLINS/"
+        },
+        {
+            "References": "Haddad, L.M., Clinical Management of Poisoning and Drug Overdose. 2nd ed. Philadelphia, PA: W.B. Saunders Co., 1990., p. 953",
+            "Value": "The penicillins and their metabolites are potent immunogens because of their ability to combine with proteins and act as haptens for acute antibody-mediated reactions. The most frequent (about 95 percent) or \"major\" determinant of penicillin allergy is the penicilloyl determinant produced by opening the beta-lactam ring of the penicillin. This allows linkage of the penicillin to protein at the amide group. \"Minor\" determinants (less frequent) are the other metabolites formed, including native penicillin and penicilloic acids. /Penicillins/"
+        },
+        {
+            "References": "USP Convention. USPDI - Drug Information for the Health Care Professional. 15 th ed. Volume 1. Rockville, MD: United States Pharmacopeial Convention, Inc., 1995. (Plus updates.), p. 2150",
+            "Value": "Bactericidal; inhibit bacterial cell wall synthesis. Action is dependent on the ability of penicillins to reach and bind penicillin-binding proteins (PBPs) located on the inner membrane of the bacterial cell wall. Penicillin-binding proteins (which include transpeptidases, carboxypeptidases, and endopeptidases) are enzymes that are involved in the terminal stages of assembling the bacterial cell wall and in reshaping the cell wall during growth and division. Penicillins bind to, and inactivate, penicillin-binding proteins, resulting in the weakening of the bacterial cell wall and lysis. /Penicillins/"
+        },
+        {
+            "References": "Gosselin, R.E., H.C. Hodge, R.P. Smith, and M.N. Gleason. Clinical Toxicology of Commercial Products. 4th ed. Baltimore: Williams and Wilkins, 1976., p. II-171",
+            "Value": "TOLERANCE DEVELOPED TO MULTIPLE DOSING. /PENICILLINS/"
+        }
+    ]
+}

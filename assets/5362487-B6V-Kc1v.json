@@ -1,0 +1,72 @@
+{
+    "_id": {
+        "$oid": "6682e9bcc4e5dba5ffba2c1f"
+    },
+    "CID": {
+        "$numberInt": "5362487"
+    },
+    "Name": "Sulfur, Elemental",
+    "IUPACName": "sulfur",
+    "CanonicalSMILES": "[S]",
+    "Synonyms": [
+        "231-722-6",
+        "7704-34-9",
+        "9035-99-8",
+        "Agri-Sul",
+        "AN-Sulfur Colloid Kit",
+        "Aquilite",
+        "Asulfa-Supra",
+        "Atomic sulfur",
+        "Bensulfoid",
+        "Brimstone",
+        "Colloidal sulfur",
+        "Colloidal-S",
+        "Devisulphur",
+        "elemental sulfur",
+        "Flour sulfur"
+    ],
+    "IsomericSMILES": "[S]",
+    "INCHI": "InChI=1S/S",
+    "INCHIKEY": "NINIDFKCEFEMDL-UHFFFAOYSA-N",
+    "Formula": "S",
+    "MolecularWeight": {
+        "$numberDouble": "32.07"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "0.5"
+    },
+    "Complexity": {
+        "$numberInt": "0"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "sediment_soil_concentrations": [
+        {
+            "References": "Environment Canada; Tech Info for Problem Spills: Sulfur (Draft) p.37 (1977)",
+            "Value": "When spilled onto soil, molten sulfur will solidify prior to any significant movement into the soil. In solid form, sulfur is insoluble and thus cannot be transported downward to the ground water table. Traces of hydrogen sulfide represent the only aqueous phase contaminant likely to be detected."
+        },
+        {
+            "References": "(1) Mattigold SV et al; J Environ Qual 19: 188-201 (1990) (2) Shacklette HT, Boerngen JG;   Element concentrations in soils and other surficial materials of the conterminous United States.  U.S. Geol. Surv., Professional Paper 1270, pp. 1-106. (1984)",
+            "Value": "SOIL: The weight percent of elemental sulfur in soil has been reported to range from 0.003 to 1%(1). The average amount of sulfur in soils of the conterminous US has been reported as 1600 ppm, ranging from <800 to 48,000 ppm(2)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "\"N-Nitrate and S sulphate labelling experiments were conducted with spring wheat (Triticum aestivum L. cv. Timmo) at various growth stages, denoted I to V, which corresponded to 44, 64, 79, 95, and 115 days after sowing. Label was administered to the plants through a fraction of the root system called the \"donor root,\" while the remaining root (\"receiver root\") received a non-labelled nutrient solution. Net uptake rates for both nitrate and sulphate per unit root weight remained relatively stable from growth stage I to IV but decreased notably at stage V. On a whole-plant weight basis, uptake declined from stage I to IV due to a decrease in root contribution to total plant weight. Between 80 and 95% of the absorbed label was translocated to the shoot at all growth stages, with up to 30% of absorbed label recovered in the ears at stage V. Labelling of the receiver root indicated that 10 to 17% of N and 12 to 32% of S translocated to the shoot was retranslocated to the root at all growth stages, corresponding to 35 to 85% of the label recovered in the roots. Analysis of N-labelling of xylem sap collected from receiver roots at stages I to IV indicated that about half of the reduced N in the sap is derived from cycling through roots of recently assimilated N, with evidence of cycling also observed at stage V. Labelled sulphate was the only form of S cycled in the plant, accounting for only 1 to 7% of the sulphate in the xylem sap.\"\n",
+            "reference": "Larsson, C. M., Larsson, M., Purves, J. V., & Clarkson, D. T. (1991). Translocation and cycling through roots of recently absorbed nitrogen and sulphur in wheat (Triticum aestivum) during vegetative and generative growth. Physiologia Plantarum, 82(3), 345-352.",
+            "method": {
+                "Test Plant": "Spring wheat (Triticum aestivum L., cv. Timmo)",
+                "Apply Location": "Root application - The nutrient solution containing labeled 15N (3-6% enrichment) and 35S (3.7 GBq/mol activity) was applied to the smaller fraction of roots called 'donor roots'.",
+                "Plant Grown Condition": "Wheat was grown in 4L pots filled with lava aggregate (Perlap) in the greenhouse. Daily watering with nutrient solution containing 1.5 mM Ca(NO3)2, 5 mM KNO3, 1 mM KH2PO4, 1.5 mM MgSO4, 2 mM NaNO3. Plants of 41, 61, 76, 92 and 112 days old (growth stages I to V) were used. After removing from pots, roots were divided unequally into two fractions (donor:receiver = 1:10 weight ratio) having roots from central and peripheral regions. 2-10 plants were placed in containers with two 1L compartments (for donor & receiver roots).",
+                "Chemical Preparation": "Nutrient solution containing 15N (3-6% enrichment) and 35S (3.7 GBq/mol activity) was used to label the donor root fraction.",
+                "Pesticide Application Details for the Plant": "The nutrient solution containing the 15N and 35S labels was applied to the smaller 'donor root' fraction 3 days after transplanting plants to containers.",
+                "Other Information": "Plants were harvested 24h and 72h after labeling start. Xylem exudates from receiver roots were collected for 1-1.5h."
+            },
+            "result": "[{\"Growth stage\": \"I\", \"Root (g)\": 0.15, \"Vegetative shoot (g)\": 0.6, \"Ears (g)\": 0.0}, {\"Growth stage\": \"II\", \"Root (g)\": 0.77, \"Vegetative shoot (g)\": 5.32, \"Ears (g)\": 0.0}, {\"Growth stage\": \"IV\", \"Root (g)\": 1.42, \"Vegetative shoot (g)\": 14.3, \"Ears (g)\": 2.8}, {\"Growth stage\": \"V\", \"Root (g)\": 0.7, \"Vegetative shoot (g)\": 9.33, \"Ears (g)\": 6.67}]"
+        }
+    ]
+}

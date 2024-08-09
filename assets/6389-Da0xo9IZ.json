@@ -1,0 +1,214 @@
+{
+    "_id": {
+        "$oid": "6682e847c4e5dba5ffba24ca"
+    },
+    "CID": {
+        "$numberInt": "6389"
+    },
+    "Name": "TRICHLOROFLUOROMETHANE",
+    "IUPACName": "trichloro(fluoro)methane",
+    "CanonicalSMILES": "C(F)(Cl)(Cl)Cl",
+    "Synonyms": [
+        "Trichlorofluoromethane",
+        "Fluorotrichloromethane",
+        "75-69-4",
+        "trichloro(fluoro)methane",
+        "Trichloromonofluoromethane",
+        "Fluorochloroform",
+        "CFC-11",
+        "Eskimon 11",
+        "Trichlorofluorocarbon",
+        "Refrigerant 11",
+        "Algofrene type 1",
+        "Freon MF",
+        "FREON 11",
+        "Arcton 9",
+        "Monofluorotrichloromethane"
+    ],
+    "IsomericSMILES": "C(F)(Cl)(Cl)Cl",
+    "INCHI": "InChI=1S/CCl3F/c2-1(3,4)5",
+    "INCHIKEY": "CYRMSUTZVYGINF-UHFFFAOYSA-N",
+    "Formula": "CCl3F",
+    "MolecularWeight": {
+        "$numberDouble": "137.36"
+    },
+    "Description": "Trichlorofluoromethane is a one-carbon compound that is methane in which the hydrogens have been replaced by three chlorine and one fluorine atom. It has a role as a refrigerant, an environmental contaminant, a NMR solvent and a NMR chemical shift reference compound. It is a halomethane and a chlorofluorocarbon.",
+    "XlogP": {
+        "$numberDouble": "2.5"
+    },
+    "Complexity": {
+        "$numberInt": "28"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 3 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2010. Available from, as of December 26, 2012: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Franke C et al; Chemosphere 29: 1501-14 (1994) (4) Dickson AG, Riley JP; Mar Pollut Bull 7: 167-9 (1976)",
+            "Value": "An estimated BCF of 22 was calculated in fish for trichlorofluoromethane(SRC), using a log Kow of 2.53(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC). The levels of trichlorofluoromethane in three species of mollusks and five species of fish are only slightly enriched (usually 2-25 times on a dry weight basis) over the seawater levels(4). The usual order of enrichment was found to be brain > liver > gill > muscle(4)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Scheutz C et al; J Environ Qual 33: 61-71 (2004) (2) Tabak HH et al; J Water Pollut Control Fed 53: 1503-18 (1981) (3) Patterson JW, Kodukala PS; Chem Eng Prog 77: 48-55 (1981)",
+            "Value": "AEROBIC: No degradation was measured for trichlorofluoromethane in aerobic soil microcosms incubated with methane and air to simulate the gas composition in landfill soil covers(1). Virtually no biodegradation was observed when incubated with a sewage seed for 7 days followed by three weekly subcultures(2). Losses reported during biological treatment are probably the result of evaporative losses or adsorption to charcoal(3)."
+        },
+        {
+            "References": "(1) Baliger C et al; Chemosphere 61: 361-73 (2005) (2) Scheutz C et al; Environ Sci Technol 41: 7714-22 (2007) (3) Deipser A, Stegmann R; Waste Manag Res 12: 129-39 (1994) (4) Bauer MR, Yavitt JB; Chemosphere 32: 759-68 (1996) (5) Bullister JL, Lee BS; Geophys Res Lewtt 22: 1893-96 (1995)",
+            "Value": "ANAEROBIC: Under anaerobic conditions, trichlorofluoromethane was transformed by reductive dechlorination to dichlorofluoromethane and chlorofluoromethane with measured half-lives of 1.3 days in sewage sludge microcosms and 8.4 to 13.3 days in aquifier sediment slurries(1). In anaerobic microcosms using different types of organic waste and anaerobic digested sludge as inoculum, 590 ug/L of trichlorofluoromethane was degraded to less than 5 ug/L within 15 to 20 days(2). Trichlorofluoromethane, present at 8 mg/cu m, degraded to approximately 0.7 mg/cu m in 100 days using a lab-scale anaerobic digester and municipal solid waste inoculum from Hamburg, Germany(3). Trace amounts were still detected at 340 days(3). Samples of anaerobic peat soil from a conifer swamp and a temperate bog in New York were shown to have the capacity to serve as a sink for atmospheric trichlorfluoromethane(4). Headspace concentrations decreased by 34% in 7 days, and by 70% in 10 days in swamp peat and bog peat, respectively(4). Samples from the subsurface anoxic zones of the Black Sea and from Saanich Inlet, British Columbia, Canada showed a depletion of dissolved trichlorofluoromethane, with the removal rate ranging from 0.26-0.48/yr(5)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Dickson AG, Riley JP; Mar Pollut Bull 7: 167-9 (1976)",
+            "Value": "Trichlorofluoromethane concentrations in marine samples from the Isle of Man, Irish Sea(1).",
+            "Table": "[{'Species': 'Conger conger', 'Common name': 'eel', 'Concentration (ng/g dw)': '0.5-5.0'}, {'Species': 'Gadus morhua', 'Common name': 'cod', 'Concentration (ng/g dw)': '0.5-3.3'}, {'Species': 'Pollachius birens', 'Common name': 'coalfish', 'Concentration (ng/g dw)': 'not detected to 3.5'}, {'Species': 'Scylliorhinus canicula', 'Common name': 'dogfish', 'Concentration (ng/g dw)': 'not detected to 4.5'}, {'Species': 'Trisopterus luscus', 'Common name': 'bib', 'Concentration (ng/g dw)': 'not detected to 3.2'}, {'Species': 'Baccinum undatum', 'Common name': 'mollusc', 'Concentration (ng/g dw)': 'not detected to 0.3'}, {'Species': 'Mofiolus modiolus', 'Common name': 'mollusc', 'Concentration (ng/g dw)': 'not detected to 4.4'}, {'Species': 'Pecten maximus', 'Common name': 'mollusc', 'Concentration (ng/g dw)': '0.4-1.4'}]"
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 3",
+            "Value": "log Kow = 2.53"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Clayton, G.D., F.E. Clayton (eds.) Patty's Industrial Hygiene and Toxicology. Volumes 2A, 2B, 2C, 2D, 2E, 2F: Toxicology. 4th ed. New York, NY: John Wiley & Sons Inc., 1993-1994., p. 1183",
+            "Value": "... The mechanism of FC-11 cardiotoxicity ... /originates/ from irritation of the respiratory tract which in turn reflexly influences the heart rate even prior to absorption of the fluorocarbon, followed by direct depression of the heart after absorption. FC-11 causes only depression of respiratory minute volume that is not preceded by stimulation of breathing. There is ultimate cessation of respiration, which is a manifestation of generalized depression of the CNS by FC-11."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's 7th Edition. Trichlorofluoromethane p. 1 CD-ROM Cincinnati, OH 45240-4148 2012.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ An acute oral dose of 2.5 mL/kg CFC-11 in paraffin produced neither fatalities nor hepatic necrosis in rats. The approximate oral lethal dose was 3725 mg/kg."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's 7th Edition. Trichlorofluoromethane p. 1 CD-ROM Cincinnati, OH 45240-4148 2012.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Application of liquid CFC-11 to the skin and eyes of rabbits and rats caused minor reversible irritation but no serious injury."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's 7th Edition. Trichlorofluoromethane p. 1 CD-ROM Cincinnati, OH 45240-4148 2012.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Sublethal CFC-11 inhalation produced tachypnea with some mild hyperactivity, while exposures to lethal concentrations produced hyperactivity, followed by tremors, inactivity, irregular respiration, and death within 4 hours. At 100,000 ppm, rats died within 20 to 120 minutes, while guinea pigs appeared unconscious but survived a similar 2-hour exposure."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's 7th Edition. Trichlorofluoromethane p. 1 CD-ROM Cincinnati, OH 45240-4148 2012.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ When dogs and rabbits inhaled CFC-11 for 20 minutes at 50,000 ppm, the only metabolic modifications were slight increases in blood glucose and lactic acid."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's 7th Edition. Trichlorofluoromethane p. 1 CD-ROM Cincinnati, OH 45240-4148 2012.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Cardiac sensitization studies with conscious dogs that inhaled 5,000 ppm CFC-11 following intravenous epinephrine yielded 1 of 12 dogs with evidence of serious arrhythmia, indicating that CFC-11 is one of the more potent cardiac sensitizers among homologous compounds. The duration of cardiac sensitization was very brief, as demonstrated in an similar experiment where two of four dogs were sensitized at 12,500 ppm, but subsequent injections of epinephrine 10 minutes after termination of CFC exposure yielded no arrhythmia. Dogs that had recovered from experimentally induced myocardial infarction and challenged with CFC-11 following intravenous epinephrine showed no change in the threshold for cardiac sensitization; both these and normal dogs showed no evidence for arrhythmia at 1,000 ppm."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's 7th Edition. Trichlorofluoromethane p. 2 CD-ROM Cincinnati, OH 45240-4148 2012.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Anesthetized dogs, rats, mice, monkey's, hamsters, and rabbits exposed at concentrations ranging from 5,000 to 150,000 ppm have shown reduced respiratory rates and minute volumes that were accompanied by various cardiovascular and circulatory abnormalities. When 18 dogs inhaled 15% to 17.8% CFC-11 for 10 minutes , reversible sinus bradycardia, escape beating, and asystoles developed; complete atrioventricular block developed when dogs inhaled 21.5% CFC-11."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's 7th Edition. Trichlorofluoromethane p. 2 CD-ROM Cincinnati, OH 45240-4148 2012.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ With rats and mice, concentration-dependent abnormalities in the electrocardiogram including second- to third-degree atrioventricular block, widening of the T-wave and elevations of the S-T segment developed during inhalation of 25,000 /to/ 100,000 ppm."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 941",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... No harmful effects on rabbit eyes when 9 applications of 0.1 mL were made during 11-day period. Also, exposing eyes of rabbits to 5-second bursts of propellant from distance of 20 cm from cornea 5 days/wk for a month is said to have produced nothing more than hyperemia of eye lasting several hr ... mild inflammation of eyelids."
+        },
+        {
+            "References": "National Research Council. Drinking Water & Health Volume 1. Washington, DC: National Academy Press, 1977., p. 782",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Mice that inhaled 10% developed cardiac arrhythmia... Dogs that inhaled 2.5% had decr myocardial function, incl cardiac output ... and monkeys that inhaled 5% developed tachycardia & hypotension ..."
+        },
+        {
+            "References": "Clayton, G.D., F.E. Clayton (eds.) Patty's Industrial Hygiene and Toxicology. Volumes 2A, 2B, 2C, 2D, 2E, 2F: Toxicology. 4th ed. New York, NY: John Wiley & Sons Inc., 1993-1994., p. 1180",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Twelve guinea pigs divided into 4 groups of 3 each were exposed for 5 min, 30 min, 1 hr, & 2 hr, respectively. Exposure of 2.5% for 30 min caused occasional tremors & the rate of respiration became irregular. Exposure to 10% for 1 hr resulted in coma. The guinea pigs exposed to this concn for 2 hr were sacrificed 8 days later. Whereas their lungs were found to contain mottled areas of congestion, other organs showed no pathological changes. ... Exposure to a concn of 20% for 1 hr was lethal."
+        },
+        {
+            "References": "Clayton, G.D., F.E. Clayton (eds.) Patty's Industrial Hygiene and Toxicology. Volumes 2A, 2B, 2C, 2D, 2E, 2F: Toxicology. 4th ed. New York, NY: John Wiley & Sons Inc., 1993-1994., p. 1180",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ /Rats exposed/ ... to CFC 11 in concentrations ranging from 5 to 50% for 30 min. Whereas a concentration of 5% produced no symptoms of intoxication, concentrations of 6 and 7% caused a loss of postural reflex, 8% a loss of righting reflex, and 9% complete unconsciousness. The following concentrations and times were lethal: 10% inhaled for 20 to 30 min: 15% for 8 min; 20 to 30% for 4 min; and 50%, for 1 min."
+        },
+        {
+            "References": "Clayton, G.D., F.E. Clayton (eds.) Patty's Industrial Hygiene and Toxicology. Volumes 2A, 2B, 2C, 2D, 2E, 2F: Toxicology. 4th ed. New York, NY: John Wiley & Sons Inc., 1993-1994., p. 1180",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Inhalation of 10 percent CFC 11 for 1 hr was lethal to the /cats/. In an atmosphere containing 15 percent CFC 11, mice succumbed in a few minutes."
+        },
+        {
+            "References": "Clayton, G.D., F.E. Clayton (eds.) Patty's Industrial Hygiene and Toxicology. Volumes 2A, 2B, 2C, 2D, 2E, 2F: Toxicology. 4th ed. New York, NY: John Wiley & Sons Inc., 1993-1994., p. 1181",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The dose that causes a significant reduction in resp minute volume /in monkeys/ is 5% ... resp effect is brought about by a combination of reduced resp rate & tidal volume. The resp threshold doses for dogs are lower than those for the monkey. The minimal dose that depresses resp minute volume is 2.5% ... with admin of increasing concn of FC 11, a 40% depression of resp minute volume occurred /in rats/ at 10% concentration ... /in mice/ ... 2.5% concentration caused a 65% depression of resp minute volume, which was supported by a reduction in rate & tidal volume."
+        },
+        {
+            "References": "Haddad, L.M., Clinical Management of Poisoning and Drug Overdose. 2nd ed. Philadelphia, PA: W.B. Saunders Co., 1990., p. 1281",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Fluorocarbon inhalation in dogs resulted in dysrhythmias that were enhanced by anoxia, injected epinephrine, & noise stress. Fatal responses resulted from inhaled concns of 0.35-0.61% of Freon 11 & of 5% of Freon 12 & 114."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's 7th Edition. Trichlorofluoromethane p. 2 CD-ROM Cincinnati, OH 45240-4148 2012.",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/  Rats & rabbits exposed to 50,000 ppm for one hr twice daily for 15 days showed increased blood glucose & lactic acid, decreased oxygen uptake, & other biochemical changes consistent with slowing of cellular oxidation. Comparable exposure at 25,000 ppm did not cause these changes."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's 7th Edition. Trichlorofluoromethane p. 2 CD-ROM Cincinnati, OH 45240-4148 2012.",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ A 4-week series of 3.5 hr exposures at 12,500 or 25,000 ppm, a 6-week study with 7 hr exposures at 4000 ppm & another 6-week study with 8 hr exposures at 10,250 ppm showed no adverse effects attributable to inhaled CFC-11 in various species. Monkeys, dogs, rats, & guinea pigs exposed continuously at 1000 ppm for 90 days showed no specific abnormalities that the investigators attributed to CFC-11."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's 7th Edition. Trichlorofluoromethane p. 2 CD-ROM Cincinnati, OH 45240-4148 2012.",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Repeated 5-second instillation of CFC-11, 5 days/week for 4 weeks induced mild inflammation of the rabbit eyelid."
+        },
+        {
+            "References": "WHO; Environmental Health Criteria 113: Fully Halogenated Chlorofluorocarbons p.74 (1990)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ CFC-11, CFC-12, CFC-114, and mixtures of CFC-11 and CFC-12 and of CFC-11 and CFC-22 /were applied/ to the skin, tongue, soft palate and auditory canal of rats, 1-2 times/day, 5 days/week, for 5-6 weeks. The same compounds were applied once a day, 5 days/week for 1 month to the eye of rabbits. Slight irritation was noted only in the skin of the rats and in the eye of the rabbits. The healing rate of experimental burns on the skin of rabbits, however, was noticeably retarded by all of the compounds."
+        },
+        {
+            "References": "WHO; Environmental Health Criteria 113: Fully Halogenated Chlorofluorocarbons p.18 (1990)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Short-term inhalation studies have been reported for CFC-11, CFC-12, CFC-112, CFC-113, CFC-114, and CFC-115. The results showed low toxicity, and the effects observed were related mainly to the CNS, respiratory tract, and the liver. Oral toxicity studies have confirmed the low toxicity."
+        },
+        {
+            "References": "WHO; Environmental Health Criteria 113: Fully Halogenated Chlorofluorocarbons p.73 (1990)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ CFC-11, CFC-12, CFC-113, and CFC-114 at 40% in sesame oil were sprayed onto shaved rabbit skin for 12 exposures with no effect."
+        },
+        {
+            "References": "National Research Council. Drinking Water & Health Volume 1. Washington, DC: National Academy Press, 1977., p. 782",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ ... Mice given 0.1 mL of 10% soln /by gavage/ at 1 & 7 days of age & 0.2 mL at 14 & 21 days of age were observed for 1 yr. No evidence of carcinogenic effect of freon 11 was found."
+        },
+        {
+            "References": "CARCINOG TEST PROGRAM, BETHESDA, MD; REPORT; ISS DHEW/PUB/NIH/78-1356, NCI-CG-TR-106; ORDER NUMBER PB-286187, 93 PAGES (1978)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Freon 11 in corn oil was administered by gavage for 78 wk to 50 male & 50 female Osborne-Mendel rats & B6C3F1 mice, 5 days/wk. The time weighted average high & low dosages were, respectively, 977 & 488 mg/kg/day for male rats, 1077 & 538 mg/kg/day for female rats, and 3925 & 1962 mg/kg/day for mice of both sexes. A high rate of early death occurred among male & female rats. No groups of male or female mice dosed with freon 11 had significantly increased tumor incidences relative to their respective control groups."
+        },
+        {
+            "References": "WHO; Environmental Health Criteria 113: Fully Halogenated Chlorofluorocarbons p.82 (1990)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ When administered to groups of 90 male & 90 female /Sprague-Dawley/ rats & 60 male & 60 female /Swiss/ mice at concns of 1000 or 5000 ppm (57 or 285 g CFC-11/cu m; 49 or 247 g CFC-12/cu m), 4 hr/day, 5 days weekly /for 104 and 78 weeks, to rats and mice, respectively/, neither cmpd was found to have induced statistically significant differences in the incidence of total benign or malignant tumors when compared with groups of unexposed rats or mice. The incidence of all tumors & of some particularly frequently occurring spontaneous tumors in mice showed a tendency to incr in animals exposed to CFC-11 & CFC-12 & that the increased incidence was usually observed in one sex & was not always dose related, possibly due to a longer survival of the treated mice compared with controls."
+        },
+        {
+            "References": "Rom, W.N. (ed.). Environmental and Occupational Medicine. 2nd ed. Boston, MA: Little, Brown and Company, 1992., p. 1300",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Three propellant chlorofluorocarbons (FC-11, FC-12 /dichlorodifluoromethane/, FC-22) administered by inhalation at concentrations of 5000 and 1000 ppm for 4 hours daily, 5 days weekly for 78 to 104 weeks to rats and mice had no carcinogenic effects."
+        },
+        {
+            "References": "PMID:3389660",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Trichlorofluoromethane ... /was/ tested by inhalation on Sprague-Dawley rats and Swiss mice. The animals were exposed for 4 hr a day, 5 days a week /at concentrations of 1000 or 5000 ppm/; rats were exposed for 104 weeks, and mice were exposed for 78 weeks. Animals were observed until spontaneous death. Trichlorofluoromethane exposure to rats caused no carcinogenic effects. Trichlorofluoromethane exposure to mice caused increased numbers of total tumors in females which was dose related, mammary tumors in females at 5000 ppm, lung adenomas and leukemias in females, both dose related."
+        },
+        {
+            "References": "National Research Council. Drinking Water and Health. Volume 3. Washington, DC: National Academy Press, 1980., p. 103",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ... Inseminated wistar albino rats & albino rabbits ... /were/ administered a mixture of 90% freon 12 ... & 10% freon 11 by inhalation for 2 hr/day. Rats were exposed on days 4 to 16 of gestation & rabbits on days 5 to 20. Mixture was administered in 20% concentration (200,000 ppm). No indications of any embryotoxic, fetotoxic or teratogenic changes were found when dams were sacrificed & fetuses removed on day 20 of gestation (rats) or day 30 of gestation (rabbits)."
+        },
+        {
+            "References": "National Research Council. Drinking Water & Health Volume 1. Washington, DC: National Academy Press, 1977., p. 782",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ... Inhalation at 20,000 ppm of 9:1 mixture of Freon 12 & Freon 11 by rats on days 4-16 of gestation & rabbits on days 5-20 of gestation did not induce any embryotoxic or teratogenic effects."
+        },
+        {
+            "References": "Zeiger E et al; Environ Mutagen 9: 1-110 (1987)",
+            "Value": "/GENOTOXICITY/ Trichlorofluoromethane was tested for mutagenicity in the Salmonella microsome preincubation assay using a protocol approved by the National Toxicology Program. Trichlorofluoromethane was tested at doses of 0, 100, 333, 1000, 3333, and 10,000 ug/plate in four Salmonella typhimurium strains (TA98, TA100, TA1535, and TA1537) in the presence and absence of Aroclor-induced rat and/or hamster liver S9. Trichlorofluoromethane was negative in these tests and the highest ineffective dose level tested in any Salmonella tester strain was 10,000 ug/plate."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's 7th Edition. Trichlorofluoromethane p. 2 CD-ROM Cincinnati, OH 45240-4148 2012.",
+            "Value": "/GENOTOXICITY/ The mutagenic potential CFC-11 has been evaluated with negative results in the presents or absence of a rat or hamster hepatic activation (S9) system in ... the Chinese hamster ovary (CHO/HGPRT) cell mutagenicity  test."
+        },
+        {
+            "References": "Ellenhorn, M.J. and D.G. Barceloux. Medical Toxicology - Diagnosis and Treatment of Human Poisoning. New York, NY: Elsevier Science Publishing Co., Inc. 1988., p. 884",
+            "Value": "/OTHER TOXICITY INFORMATION/ In dogs, trichloromonofluoromethane (Freon 11, F11, Fluorocarbon 11) at concns between 15% & 21% causes sinus bradycardia terminating in asystole. These concns are exceeded (ie, 35% to 40%) when plastic bags are filled with Freon propellants, similar to the manner in which other inhalation products are abused."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Young DR et al; pp. 87-84 in Water Chlorination: Environ Impact Health Effects Book 2 Vol 4 (1983)",
+            "Value": "SEDIMENT: Bottom sediment from the submarine outfall of Los Angeles sewage treatment plant contained <0.5 ppb trichlorofluoromethane(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 3 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2010. Available from, as of December 26, 2012: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Kloepffer W et al; Ecotox Environ Safety 6: 294-301 (1982) (5) Neeley WB; Environ Toxicol Contam 1: 259-66 (1982)",
+            "Value": "The Koc of trichlorofluoromethane is estimated as 160(SRC), using a log Kow of 2.53(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that trichlorofluoromethane is expected to have moderate mobility in soil. Trichlorofluoromethane has negligible adsorption to soil; modeling studies which predict distributions between environmental compartments indicate that none of the chemical will reside in the soil or sediment(4,5)."
+        }
+    ]
+}

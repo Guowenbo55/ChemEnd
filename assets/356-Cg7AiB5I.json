@@ -1,0 +1,153 @@
+{
+    "_id": {
+        "$oid": "6682e7d4c4e5dba5ffba228b"
+    },
+    "CID": {
+        "$numberInt": "356"
+    },
+    "Name": "N-OCTANE",
+    "IUPACName": "octane",
+    "CanonicalSMILES": "CCCCCCCC",
+    "Synonyms": [
+        "octane",
+        "n-octane",
+        "111-65-9",
+        "Oktan",
+        "Oktanen",
+        "Ottani",
+        "n-Oktan",
+        "Oktanen [Dutch]",
+        "Oktan [Polish]",
+        "Ottani [Italian]",
+        "HSDB 108",
+        "UNII-X1RV0B2FJV",
+        "X1RV0B2FJV",
+        "NSC 9822",
+        "EINECS 203-892-1"
+    ],
+    "IsomericSMILES": "CCCCCCCC",
+    "INCHI": "InChI=1S/C8H18/c1-3-5-7-8-6-4-2/h3-8H2,1-2H3",
+    "INCHIKEY": "TVMXDCGIABBOFY-UHFFFAOYSA-N",
+    "Formula": "C8H18",
+    "MolecularWeight": {
+        "$numberDouble": "114.23"
+    },
+    "Description": "Octane is a straight chain alkane composed of 8 carbon atoms. It has a role as a xenobiotic.",
+    "XlogP": {
+        "$numberDouble": "3.9"
+    },
+    "Complexity": {
+        "$numberInt": "25"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Tatsuka K et al; J Agric Food Chem 38: 2176-80 (1990) (2) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. n-Octane. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Oct 30, 2013: https://www.ars-grin.gov/duke/",
+            "Value": "n-Octane was identified as a component of kiwi fruit (Actinidia deliciosa) flowers(1). n-Octane was detected not quantified in the essential oil of ginger (Zingiber officinale)(2)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Miller MM et al; Environ Sci Technol 19:522-9 (1985) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Oct 30, 2013: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 1200 was calculated in fish for n-octane(SRC), using a log Kow of 5.18(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is very high(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "Parr, J.F., P.B. Marsh, and J.M. Kla (eds.). Land Treatment of Hazardous Wastes. Park Ridge, New Jersey: Noyes Data Corporation, 1983., p. 327",
+            "Value": "The degradation of n-alkanes by microorganisms is similar to the degradation of fatty acids. The terminal methyl group is enzymatically oxidized by incorporation of molecular oxygen by a monooxygenase producing a primary alcohol with further oxidation to an acid group, although involvement of a dioxygenase is also postulated. Once the fatty acid is produced, it is degraded into 2-carbon units via the beta oxidation pathway. ... Another pathway for n-alkane degradation that is encountered less often is the oxidation of both terminal carbons to form a dioic acid with subsequent beta oxidation. Subterminal oxidation of the 2-carbon atom is seen mainly in C3-C6 alkanes, although it does occur in longer chain alkanes also. ... A dehydrogenation of the n-alkane may also occur yielding an alkene which is then converted to an alcohol, although there is little evidence for this theory. Some microorganisms have been shown to have both terminal and subterminal oxidation, each having very different rates of activity. The different chain lengths of n-alkanes are degraded to different extents ... At chain lengths greater than C6 the degradability generally increases until about C11-C12. /In a study comparing/ ... growth on long and short chain alkanes by some bacteria ... the initial oxygenase had a broad specificity and would oxidize C1-C8 alkanes ... /but/ cells grown on C4-C8 alkanes did not oxidize the shorter chain alkanes to a significant extent. ... /n-Alkanes/"
+        },
+        {
+            "References": "(1) Nagata S, Kondo G; pp. 617-20 in Proc 1977 Oil Spill Conf, Am Petrol Inst (1977) (2) Spain JC et al; Degrad of Jet Fuel Hydrocarbons by Aquatic Microbial Communities. Tyndall AFB,FL: Air Force Eng Serv Ctr. AFESC/ESL-TR-83-26 (NTIS AD-A139791/8) p 226 (1983)",
+            "Value": "AEROBIC: A 49% loss of n-octane occurred within 5 days and completely disappeared within 15 days from 1 mL of crude oil incubated in 100 mL marine sediment samples from Fukae of Kobe Harbor, Japan, and incubated at 20 \u00b0C(1). Loss of 19 and 67% of n-octane was observed within 5 and 15 days, respectively, from 1 mL of crude oil added to a 100 mL seawater solution collected at Fukae of Kobe Harbor, Japan and incubated at 20 \u00b0C(1). Although complete recovery was reported for the control samples, no account was made of volatilization losses(SRC). In a similar study using a jet fuel mixture and freshwater from the Escambia River FL at 25 \u00b0C, a 99% loss of n-octane in the controls was attributed to evaporation(2)."
+        },
+        {
+            "References": "(1) Malaney GW, McKinney RE; Water Sewage Works 113: 302-9 (1966) (2) Haines JR, Alexander M; Appl Microbiol 28: 1084-5 (1974) (3) Gerhold RM, Malaney GW; J Water Pollut Contr Fed 38: 562-79 (1966) (4) Solano-Serena F et al; J Appl Microbiology 86: 1008-1016 (1999)",
+            "Value": "AEROBIC: Using 2,500 mg/l of activated sludge acclimated to benzene and the Warburg screening test (at 20 \u00b0C), the theoretical oxygen demand (ThOD) for n-octane (initial concn of 500 ppm) was 1.0, 4.6 and 28.4% after 6, 24, and 72 hrs, respectively(1). One mg of n-octane and 1 mL of a 1:10 suspension of Hudson-Collamer silt loam soil in mineral salts media was incubated in the dark at 25 \u00b0C(2). Controls without n-octane were used to determine the net oxygen consumed(2). The average ThOD of 2 trials for n-octane was 13, 58, 70 and 69% after 2, 5, 10 and 20 days, respectively(2). At intervals of 6, 12 and 24 hr endogenous respiration was greater than that of 3 preparations of n-octane and activated sludge from differing aeration units of sewage treatment facilities(3). Using activated sludge from a wastewater treatment plant, 100% of n-octane (as a component of gasoline) was removed from a nutrient solution in 33 minutes compared to control with 1.59 mg/L of n-octane(4)."
+        },
+        {
+            "References": "(1) Miles RA, Doucette WJ; Chemosphere 45: 1085-1090 (2001) (2) Prince R et al; Chemosphere 71: 1446-1451 (2008) (5) Prince RC et al; Environ Sci Technol 41: 3316-3321 (2007)",
+            "Value": "AEROBIC: n-Octane, present at 525 umoles of carbon per microcosm, exhibited 34.2 and 41.4% of Theoretical Oxygen Demand in 100 hours, respectively, using two soil microcosms in a respirometric method based on oxygen consumption. The two soils used were a silt loam from northern Utah rangeland (pH 7.2; organic carbon 1.78%; cation exchange capacity 20.8 meq/100g; field capacity 20.16%) and a forest silt loam from an upland forested area of Logan Canyon, Utah (pH 6.6; organic carbon 2.88%; cation exchange capacity 20.9 meq/100g; field capacity 29.0%)(1). Biodiesel B20 (20% soybean fatty acid methyl esters and 80% petroleum diesel) exhibited a half-life of <30 days using an acclimated aquatic inocula from a rainwater detention pond; a half-life of 2.1 days was calculated for n-octane, a component of this fuel(2). n-Octane, present at 3.4 ug as a component in gasoline, was incubated in a New Jersey rainwater retention pond. The median half-life of total detectable gasoline hydrocarbons was 5.0 days(5)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Ferrario JB et al; Bull Environ Contam Toxicol 34: 246-55 (1985) (2) Cha YJ, Cadwallader KR; J Food Sci 60: 19-24 (1995)",
+            "Value": "The average n-octane concentration for the oyster population of Lake Pontchartrain, a shallow oligohaline estuary located in the deltaic plain of the Mississippi River near New Orleans, was 22 ng/g of wet weight(1). The concentration of n-octane in anchovy, big eyed herring, hair tail viscera, and shrimp taken from a fish market in Korea were 531; 1,740; 1,640; and 1,230 ng/g, respectively(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Miller MM et al; Environ Sci Technol 19: 522-9 (1985)",
+            "Value": "log Kow = 5.18"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Khan S, Pandya KP; J Appl Toxicol 5(2): p 64-68 (1985)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Effects of n-octane ... (1 mL per kg body weight daily) on hepatic and serum enzymes, which reflect abnormal liver function and concentration of lipid and nucleic acid (serum and liver), were studied after 2 and 7 days intraperitoneal administration to albino rats. Decreased activities of serum acetylcholine esterase and carboxyl esterase were observed, together with an increase in /fructose 1,6-diphosphate/ (FDP) aldolase activity. Significant decrease in the concentration of albumin, total protein, and total and esterified cholesterol in serum have been noted after n-octane ... administration for 7 days. Also, free cholesterol content of liver was elevated significantly after solvents exposure."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2012. Cincinnati, OH. 2012.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ /CNS depression/ was produced in mice in 30-90 min when exposed at 6,600 to 13,700 ppm octane in air. Respiratory arrest occurred in 1 of 4 mice within 5 min at 16,000 ppm and in 4 of 4 mice within 3 min when exposed at 32,000 ppm."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 50",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ If /octane/ ... is aspirated into the lungs, it may cause rapid death due to cardiac arrest, respiratory paralysis, or asphyxiation. ... Orally, octane may be more toxic than its lower homologs."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 51",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The CNS depressant potential of octane is approx that of heptane, but does not appear to exhibit other CNS effects seen in lower homologs. Octane does not cause axonopathy. A concn of 35 mg/l resulted in the loss of righting reflexes in mice and 50 mg/l caused a total loss of reflexes. A concn of 9.5% causes loss of reflexes in mice in 125 min; however, < or =1.9% is easily tolerated for 143 min, and the effects are reversible."
+        },
+        {
+            "References": "PMID:22953180",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ /Researchers/ have investigated the toxic effects of the inhalation of ... acute levels of n-octane.  The rats were exposed to n-octane of 0, 2.34, 11.68 and 23.36 mg/L /once for 4 hr/ (n = 5 rats/group/gender) in an acute inhalation test ... Acutely-exposed rats became lethargic but recovered following discontinuation of inhalation.  Other clinical symptoms such as change of body weight and autopsy finds were absent.  The LC50 for the acute inhalation toxicity of n-octane was determined to exceed 23.36 mg/L ... should be controlled to be below the American Conference of Industrial Hygienists recommendation (300 ppm) to prevent inhalation-related adverse health effects of workers."
+        },
+        {
+            "References": "Glowa JR, Natale ME; Toxicol Pet Hydrocarbons, Proc Symp, 1st: 354-8 (1983)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Some effects of acute exposure to octane vapors on schedule controlled responding in the mouse are described. Cumulative concn effect curves were determined by comparing responding before and during exposure; concn were incrementally increased at 40 min intervals until responding completely ceased. Octane did not generally decrease responding until concn of approx 1000 ppm was obtained; responding progressively decreased with increasing concn up to 7000 ppm. The EC50 for octane was 2844 ppm."
+        },
+        {
+            "References": "PMID:22953180",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ /Researchers/ have investigated the toxic effects of the inhalation of subchronic... levels of n-octane.  The rats were exposed... to 0, 0.93, 2.62 and 7.48 mg/L /6 hr each day, 5 days/week for 13 weeks./ (n = 10 rats/group/gender) for a subchronic inhalation test... to establish a national chemical management system consistent with the Globally Harmonized Classification System (GHS)... Subchronically-treated rats displayed no significant clinical and histopathological differences from untreated controls; also, target organs were affected hematologically, biochemically and pathologically. Therefore, the NOAEL was indicated as exceeding 7.48 mg/L and the GHS category was 'not grouping' for the specific target organ toxicity upon repeated exposure.  However, n-octane exposure should be controlled to be below the American Conference of Industrial Hygienists recommendation (300 ppm) to prevent inhalation-related adverse health effects of workers."
+        },
+        {
+            "References": "Snyder, R. (ed.) Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume 1: Hydrocarbons. Amsterdam - New York - Oxford: Elsevier, 1987., p. 310",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... Daily ip injections of n-octane (1.0 ml/kg) to rats for 7 days ... resulted in decr body wt. In addition, liver enlargement was seen; there was a loss in drug metabolizing capability; and phenobarbital sleep time was increased as a result of the diminished drug metabolizing activity of the liver."
+        },
+        {
+            "References": "PMID:7295730",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ The /tumor/ promoting activity of four alkanes /including n-octane/ ... was determined at various dilutions in cyclohexane. An initiating application of 60 ul of 0.3% 7,12-dimethylbenz[a]anthracene in benzene was given to male C3H mice... After a 2 wk interval, solutions of the alkanes in cyclohexane were applied (60 ul) twice each wk for 50 wk or until the appearance of a 1 mm cubed nonregressing papilloma. For n-octane (C8H18), concentration in cyclohexane 75% by volume; original number of mice 17; effective number of mice 11; number of nonregressing tumors in 52 wk = 2 benign & 4 malignant; probability vs cyclohexane control, by Fisher's exact probability test = 0.002. /from table/"
+        },
+        {
+            "References": "PMID:23270871",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ The mechanisms of action involved in the neurotoxicity of solvents are poorly understood. In vitro studies have suggested that the effects of some solvents might be due to the formation of reactive oxygen species (ROS).  This study assesses hydroxyl radical (OH) generation and measures malondialdehyde (MDA) levels in the cerebral tissue of rats exposed to six solvents (n-hexane, n-octane, toluene, n-butylbenzene, cyclohexane and 1,2,4-trimethylcyclohexane)...  /Investigators/ assessed OH production by quantifying the rate of formation of 3,4-dihydroxybenzoic acid using a trapping agent, 4-hydroxybenzoic acid, infused via the microdialysis probe, into the prefrontal cortex of rats exposed intraperitoneally to the solvents.  Extracellular MDA was quantified in microdialysates collected from the prefrontal cortex of rats exposed, 6hr/day for ten days, to 1000ppm of the solvents... in inhalation chambers.  Tissue levels of free and total MDA were measured in different brain structures for rats acutely (intraperitoneal route) and sub-acutely (inhalation) exposed to solvents.  None of the six solvents studied increased the production of hydroxyl radicals in the prefrontal cortex after acute administration. Nor did they increase extracellular or tissue levels of MDA after 10 days' inhalation exposure..."
+        },
+        {
+            "References": "PMID:20686342",
+            "Value": "/GENOTOXICITY/ /Researchers/ investigated the genotoxicities or mutagenicities of 2 chemicals (octane and tetrasodium pyrophosphate)... based on Ames reverse mutation test.  In this test, treatment of 2 chemicals... each /tested at/ five dose/s/ did not induce mutagenicity in Salmonella typhimurium TA98, TA100, TA1535, TA1537, and in Escherichia coli WP2uvrA with and without metabolic activation. These results indicate that 2 chemicals do not have mutagenic potentials under the conditions examined in each study..."
+        },
+        {
+            "References": "Baxter et al; Teratog Carcinog, Mutagen 1 (4): 345-51 (1981)",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Linear alkanes of specific chain length enhanced differentially the mitogenic response of murine spleen lymphocytes to the lectin phytohemagglutinin. Within the homologous series of cmpd having 6 to 18 carbons, a biphasic structure function relationship was found, with little or no comitogenic activity occurring for octane. The existence of a cellular receptor with specificity for hydrophobic functions with chain lengths lying within a restricted range was suggested. Binding to this receptor also appears to a be a common early event in tumor promotion, comitogenicity, and comutagenicity by agents of several chemical types."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Ferrario JB et al; Bull Environ Contam Toxicol 34: 246-55 (1985)",
+            "Value": "SEDIMENT: The average n-octane concentration of 5 sediment samples from Lake Pontchartrain (a shallow oligohaline estuary located in the deltaic plain of the Mississippi River near New Orleans) was 0.07 ppb(1)."
+        },
+        {
+            "References": "(1) Eiceman GA et al: Intern J Environ Anal Chem 24: 143-62 (1986)",
+            "Value": "SOIL: n-Octane was detected in the soil surrounding an earthen disposal pit for produced water at the Duncan Oil Field, New Mexico(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Miller MM et al; Environ Sci Technol 19:522-9 (1985) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Oct 30, 2013: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Endo S et al; Environ Sci Technol 42): 5897-5903 (2008) (5) Kim H et al; Environ Sci Technol 35: 4457-62 (2001) (6) Roth CM et al; Environ Sci Technol 38: 4078-84 (2004)",
+            "Value": "The Koc of n-octane is estimated as 3.1X10+4(SRC), using a log Kow of 5.18(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that n-octane is expected to be immobile in soil. Freundlich absorption coefficients of log 4.04 and log 3.49 were measured in Oberlausitz lignite (11.1% moisture content; 53.5 wt% carbon content; 0.6 wt % nitrogen content) and Pahokee peat soil (10.2% moisture content; 46.1 wt% carbon content; 3.3 wt % nitrogen content), respectively(4). Gaseous transport of volatile n-octane in unsaturated porous media was shown to be influenced by air-water interfacial adsorption and water-partitioning(5). Sorption of n-octane from air to snow was measured, resulting in a sorption coefficient of log -4.41 cu m/sq m at -6.8 \u00b0C(6)."
+        }
+    ]
+}

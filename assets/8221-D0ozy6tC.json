@@ -1,0 +1,119 @@
+{
+    "_id": {
+        "$oid": "6682e8b2c4e5dba5ffba26e4"
+    },
+    "CID": {
+        "$numberInt": "8221"
+    },
+    "Name": "1-OCTADECANOL",
+    "IUPACName": "octadecan-1-ol",
+    "CanonicalSMILES": "CCCCCCCCCCCCCCCCCCO",
+    "Synonyms": [
+        "Stearyl alcohol",
+        "Octadecan-1-ol",
+        "1-OCTADECANOL",
+        "112-92-5",
+        "Octadecanol",
+        "1-Hydroxyoctadecane",
+        "Octadecyl alcohol",
+        "n-Octadecanol",
+        "n-1-Octadecanol",
+        "Stearol",
+        "n-Octadecyl alcohol",
+        "Stearic alcohol",
+        "Atalco S",
+        "Alfol 18",
+        "Steraffine"
+    ],
+    "IsomericSMILES": "CCCCCCCCCCCCCCCCCCO",
+    "INCHI": "InChI=1S/C18H38O/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19/h19H,2-18H2,1H3",
+    "INCHIKEY": "GLDOVTGHNKAZLK-UHFFFAOYSA-N",
+    "Formula": "C18H38O",
+    "MolecularWeight": {
+        "$numberDouble": "270.5"
+    },
+    "Description": "Octadecan-1-ol is a long-chain primary fatty alcohol consisting of a hydroxy function at C-1 of an unbranched saturated chain of 18 carbon atoms. It has a role as a plant metabolite, a human metabolite and an algal metabolite. It is a long-chain primary fatty alcohol and an octadecanol.",
+    "XlogP": {
+        "$numberDouble": "8.4"
+    },
+    "Complexity": {
+        "$numberInt": "145"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "PMID:12387398",
+            "Value": "1-Octadecanol emission rates from green leaf composite samples and dead leaves were 28 ug/g and 30 ug/g, respectively(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Yalkowsky SH, Valvani SC; J Pharm Sci 69: 912-22 (1980) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF value of 2.8X10+4 was calculated for 1-octadecanol(SRC), using an experimental water solubility of 1.1X10-3 mg/L at 25 \u00b0C(1) and a recommended regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is very high(SRC), provided the compound is not metabolized by the organism(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Gerhold RM, Malaney GW; J Water Poll Contr Fed 38: 562-79 (1966) (2) Langley WD; Intermediate Products in the Bacterial Decomposition of Hexadecanol and Octadecanol. TR-29 (NTIS PB194237) College Station, TX: Texas A&M Univ Water Resources Instit (1970)",
+            "Value": "AEROBIC: Using the Warburg test which employs activated sludge, 1-octadecanol gave a theoretical oxygen demand of 0.3, 0.5, and 0.3 percent in 6, 12, and 24 hours(1). However, using an acclimated mixed shake flask culture with incremental substrate addition of 1-octadecanol, biomass yield reached 54.5 percent after seven days(2). Given sufficient time in contact with adapted microbial species under conditions otherwise non-limiting, the complete disappearance of 1-octadecanol as identifiable molecular species will occur(2)."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Wakabayashi T et al; Acta Pathol Jpn 41(6): 405-13 (1991)",
+            "Value": "... Ethanol, 1-propanol, 1-butanol, 1-pentanol and 1-octanol had essentially the same effects on the mitochondrial ultrastructure: a mixed population of small and enlarged mitochondria with poorly developed cristae; 1-dodecanol induced ultrastructural changes of mitochondria of two distinct types: a mixed population of small and enlarged mitochondria with poorly developed cristae in some hepatocytes and remarkably enlarged mitochondria with well-developed cristate in others; and 1-octadecanol induced remarkably enlarged mitochondria in all hepatocytes."
+        },
+        {
+            "References": "Rowe RC; J Pharm Pharmacol 39 (1): 50-2 (1987)",
+            "Value": "... The reactivity of the fatty alcohols with cetrimide decreased with increasing chain length although branching on the tetradecanol and hexadecanol resulted in a higher reactivity. Adding 1-octadecanol to 1-hexadecanol resulted in an increased reactivity rising to a maximum for mixtures containing 20-40% w/w 1-octadecanol."
+        },
+        {
+            "References": "Fletcher RD et al; Antimicrob Agents Chemother 19 (5): 917-21 (1981)",
+            "Value": "... Peak inhibition was recorded with saturated primary alcohols (64 microM) varying in chain length from 16 to 19 carbon atoms. The unsaturated alcohols (oleyl, linoleyl, and linolenyl) and the secondary alcohol (pentadecan-2-ol)  were considerably less effective growth inhibitors. Stearic and palmitic acids were also ineffective."
+        },
+        {
+            "References": "Herrmann H, Gercken G; Lipids 15 (3): 179-85 (1980)",
+            "Value": "After incubation of stationary phase Leishmania donovani with [1-14C]octadecanol, about 70% of the precursor was taken up within 3 hr. Wax esters and acyl moieties of glycerolipids contained most of the 14C-activity from 3 to 6 hr, because octadecanol was partly oxidized to stearate. Ether moieties were only weakly labeled. After 40 hr, 1-0-alkyl and 1-0-alk-1'-enyl diacylglycerols as well as 1-0-alkyl and 1-0-alk-1'-enyl-2-acyl-sn-glycero-3-phosphoethanolamines contained nearly all of the radioactivity. Most of the label in the neutral ether lipids was located in the alkyl ether side chain, whereas, in the phosphatidylethanolamine fraction, most of the label was found in the alkenyl ether side chain."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 6:496",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Stearyl alcohol is slightly irritating to both the skin and eyes of rabbits. Stearyl alcohol is not sensitizing to the skin of guinea pigs."
+        },
+        {
+            "References": "OECD; Screening Information Data Set for 1-Octadecanol 112-92-5. Available from, as of April 21, 2006: https://www.inchem.org/documents/sids/sids/112925.pdf",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Two groups of 10 animals each received topical applications of the cream containing 8% 1-octadecanol 3 days/week for 3 months. One group received a dose of 8.8 mg/cu m on 8.4% of body surface, the other group received 13.2 mg/cu m on 11.2% of body surface. Ten animals served as untreated control. The product caused slight to well defined erythema and mild desquamation during the first month of treatment. At necropsy symptoms of mild inflammation at the application site were reported. Apart from local changes there was no evidence of systemic toxicity attributable to topical exposure of 1-octadecanol."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 6:496",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Stearyl alcohol was a weak tumor promoter when applied three times a week for 60 weeks to the skin of mice that had received an initiating dose of dimethylbenz[a]anthracene."
+        },
+        {
+            "References": "OECD; Screening Information Data Set for 1-Octadecanol 112-92-5. Available from, as of April 21, 2006: https://www.inchem.org/documents/sids/sids/112925.pdf",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ The test substance was pressed into spheroidal pellets 5/32 inch in diameter, weighting 24-27mg. Pellets were inserted into bladders of 56 mice. 330 days after surgery all surviving animals were sacrificed and examined for the evidence of carcinoma. Animals surviving more than 175 days but less than 330 days were also evaluated. In a total of 39 mice surviving more than 175 days, 7 benign tumors and 2 carcinomas of the bladder (5%) were observed (1 stage II and 1 stage III tumor). There were no tumors, benign or malignant among the 3 control groups of 42 animals each which had not received bladder implants."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, 1-Octadecanol (112-92-5) (2000 CD-ROM  edition). Available from, as of April 20, 2006: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ Mice were administered 1 to 4 doses of 1-octadecanol at concentrations of 360, 730, and 1450 mg/kg orally. Mouse bone marrow erythrocytes /were examined/ and failed to reveal any treatment related mutagenic (chromosomal aberration) potential."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 6:496",
+            "Value": "/GENOTOXICITY/ Stearyl alcohol was not mutagenic to Salmonella typhimurium strains TA 98, TA 100, TA 1535, and TA 1537 in an Ames test with or without metabolic activation."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Hites RA, Lopez-Avila V; Sedimentary Accumulation of Industrial Organic Compounds Discharged into a River System in: Contaminants and Sediments Vol 1 Fate and Transport Case Studies, Modeling, Toxicity. Baker RA ed Ann Arbor, MI: Ann Arbor Sci (1980) (2) Jeng WL et al; Chemosphere 35: 2512-23 (1997)",
+            "Value": "SEDIMENT: 1-Octadecanol was found in sediment from a small river and estuary system leading to the Providence River on which a specialty chemicals manufacturing plant was located at the following locations: near the plant (10 ppm), 1.5 km downstream (10 ppm), near a dam (5 ppm), and in a cove (1 ppm)(1). 1-Octadecanol was reported as extractable concentrations of 66-118 ng/g and bonded concentrations of 69-100 ng/g in anoxic continental slope sediment off southwestern Taiwan(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Yalkowsky SH, Valvani SC; J Pharm Sci 69: 912-22 (1980) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 4-5 (1990) (3) Swann RL et al; Res Rev 85: 23 (1983)",
+            "Value": "The Koc of 1-octadecanol is estimated as 1.8X10+5(SRC), using a water solubility of 1.1X10-3 mg/L at 25 \u00b0C(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that 1-octadecanol is immobile in soil(SRC)."
+        }
+    ]
+}

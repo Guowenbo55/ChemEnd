@@ -1,0 +1,98 @@
+{
+    "_id": {
+        "$oid": "6682e9b7c4e5dba5ffba2c07"
+    },
+    "CID": {
+        "$numberInt": "5287554"
+    },
+    "Name": "Vitamin K2",
+    "IUPACName": "2-[(2E,6E,10E,14E,18E,22E)-3,7,11,15,19,23,27-heptamethyloctacosa-2,6,10,14,18,22,26-heptaenyl]-3-methylnaphthalene-1,4-dione",
+    "CanonicalSMILES": "CC1=C(C(=O)C2=CC=CC=C2C1=O)CC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C",
+    "Synonyms": [
+        "Menaquinone-7",
+        "Menaquinone 7",
+        "2124-57-4",
+        "Vitamin K2(35)",
+        "Menaquinone K7",
+        "Vitamin MK 7",
+        "Menakinon 7",
+        "MK-7",
+        "8427BML8NY",
+        "(all-E)-2-(3,7,11,15,19,23,27-heptamethyl-2,6,10,14,18,22,26-octacosaheptaenyl)-3-methyl-1,4-naphthalenedione",
+        "1,4-Naphthalenedione",
+        "2-(3,7,11,15,19,23,27-heptamethyl-2,6,10,14,18,22,26-octacosaheptaenyl)-3-methyl-",
+        "(all-E)-",
+        "2-((2E,6E,10E,14E,18E,22E)-3,7,11,15,19,23,27-Heptamethyloctacosa-2,6,10,14,18,22,26-heptaen-1-yl)-3-methylnaphthalene-1,4-dione",
+        "CHEBI:44245",
+        "13425-62-2",
+        "2-[(2E,6E,10E,14E,18E,22E)-3,7,11,15,19,23,27-heptamethyloctacosa-2,6,10,14,18,22,26-heptaenyl]-3-methylnaphthalene-1,4-dione"
+    ],
+    "IsomericSMILES": "CC1=C(C(=O)C2=CC=CC=C2C1=O)C/C=C(\\C)/CC/C=C(\\C)/CC/C=C(\\C)/CC/C=C(\\C)/CC/C=C(\\C)/CC/C=C(\\C)/CCC=C(C)C",
+    "INCHI": "InChI=1S/C46H64O2/c1-34(2)18-12-19-35(3)20-13-21-36(4)22-14-23-37(5)24-15-25-38(6)26-16-27-39(7)28-17-29-40(8)32-33-42-41(9)45(47)43-30-10-11-31-44(43)46(42)48/h10-11,18,20,22,24,26,28,30-32H,12-17,19,21,23,25,27,29,33H2,1-9H3/b35-20+,36-22+,37-24+,38-26+,39-28+,40-32+",
+    "INCHIKEY": "RAKQPZMEYJZGPI-LJWNYQGCSA-N",
+    "Formula": "C46H64O2",
+    "MolecularWeight": {
+        "$numberDouble": "649"
+    },
+    "Description": "Menaquinone-7 is a menaquinone whose side-chain contains seven isoprene units in an all-trans-configutation. It has a role as a Mycoplasma genitalium metabolite, a bone density conservation agent, an Escherichia coli metabolite, a human blood serum metabolite and a cofactor.",
+    "XlogP": {
+        "$numberDouble": "14.5"
+    },
+    "Complexity": {
+        "$numberInt": "1310"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Phylloquinone. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Jan 11, 2011 https://www.ars-grin.gov/duke/",
+            "Value": "Plants with highest amount of phylloquinone(1), the plant form of Vitamin-K(SRC). ",
+            "Table": "[{'Genus species': 'Vaccinium corymbosum L', 'Common name': 'Blueberry', 'Concentration': '300 ppm', 'Plant part': 'Fruit'}, {'Genus species': 'Triticum aestivum L.', 'Common name': 'Wheat', 'Concentration': nan, 'Plant part': 'Leaf'}]"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PDR for Nutritional Supplements 2nd ed. Thomson Reuters, Montvale, NJ 2008, p. 709",
+            "Value": "In vivo and in vitro studies have shown that vitamin K may directly act on bone metabolism. In vitro studies have demonstrated that vitamin K2 inhibits bone resorption by, in part, inhibiting the production of bone resorbing substances such as prostaglandin E2 and interleukin-6. Vitamin K2 has been reported to enhance human osteoblast-induced mineralization in vitro and to inhibit bone loss in steroid-treated rats and ovariectomized rats."
+        },
+        {
+            "References": "PDR for Nutritional Supplements 2nd ed. Thomson Reuters, Montvale, NJ 2008, p. 709",
+            "Value": "Certain naphthoquinones, in particular the synthetic vitamin K menadione, have been found to have antitumor activity in vitro and in vivo. Vitamin K2 has been found to induce the in vitro differentiation of myeloid leukemic cell lines. The mechanism of the possible anticarcinogenic activity of vitamin K is not well understood. Menadione is an oxidative stress inducer and its possible anticarcinogenic activity may, in part, be explained by induction of apoptotic cell death. One study suggested that the induction of apoptosis by menadione is mediated by the Fas/Fas ligand system. Another study reported that menadione induces cell cycle arrest and cell death by inhibiting Cda 25 phosphatase."
+        },
+        {
+            "References": "PDR for Nutritional Supplements 2nd ed. Thomson Reuters, Montvale, NJ 2008, p. 708",
+            "Value": "Vitamin K is involved as a cofactor in the posttranslational gamma-carboxylation of glutamic acid residues of certain proteins in the body. These proteins include the vitamin K-dependent coagulation factors II (prothrombin), VII (proconvertin), IX (Christmas factor), X (Stuart factor), protein C, protein S, protein Zv and a growth-arrest-specific factor (Gas6). In contrast to the other vitamin K-dependent proteins in the blood coagulation cascade, protein C and protein X serve anticoagulant roles. The two vitamin K-dependent proteins found in bone are osteocalcin, also known as bone G1a (gamma-carboxyglutamate) protein or BGP, and the matrix G1a protein or MGP. Gamma-carboxylation is catalyzed by the vitamin K-dependent gamma-carboxylases. /Vitamin K/"
+        },
+        {
+            "References": "Suttie JW; Vitamin K. In: Encyclopedia of Dietary Supplements, ed. Coates PM et al; Marcel Dekker, New York, NY pp. 771-82 (2005)",
+            "Value": "The primary gene product of the vitamin K-dependent proteins contains a very homologous domain between the amino terminus of the mature protein and the signal sequence that targets the polypeptide for the secretory pathway. This \"propeptide\" region appears to be both a \"docking\" or \"recognition \" site for the enzyme and a modulator of the activity of the enzyme by decreasing the apparent Km of the Glu site substrate. ... A key finding essential to a complete understanding of the detailed mechanism of action of this enzyme has been the identification of an intermediate chemical form of vitamin K, which could be sufficiently basic to abstract the gamma-hydrogen of the glutamyl residue. It has been proposed that the initial attack of O(2) at the naphthoquinone carbonyl carbon adjacent to the methyl group results in the formation of a dioxetane ring, which generates an alkoxide intermediate. /Vitamin K/"
+        },
+        {
+            "References": "PMID:17203202",
+            "Value": "... Tthe vitamin K2 analog menaquinone-7 (MK-7) induces expression of the osteoblast-specific genes osteocalcin, osteoprotegerin, receptor activator of NFkappaB, and its ligand. Since MK-7 may also regulate osteoblast cell function, ... the expression of osteoblast genes regulated by MK-7 administration /was examined/. Differences between gene expression in control and MK-7-administered MC3T3E1 cells were analyzed using the suppression subtractive hybridization method. After 24 hr of MK-7 administration, genes upregulated by MK-7 included tenascin C and BMP2. Genes downregulated by MK-7 administration included biglycan and butyrophilin. Real-time PCR showed a marked increase in tenascin C. When the protein level was examined using Western blot analysis, tenascin C was higher in MK-7-administered cells than in control cells. These results indicated that MK-7 affected the cellular function of osteoblastic MC3T3E1 cells. Considering BMP2 mRNA expression was higher in MK-7-administered cells than in control cells, the effect of MK-7 administration on the signal transduction system was examined. Western blot analysis showed that cells administered MK-7 displayed a higher phosphorylated Smad1 level than control cells. Because MC3T3E1 cells have a nuclear binding receptor for MK-7, this result might indicate an indirect effect of MK-7 through BMP2 production."
+        },
+        {
+            "References": "PMID:15647836",
+            "Value": "... The direct effects of MK-7, a vitamin K(2) analogue, were assessed in osteoblasts. Osteoblastic MC3T3E1 cells were cultured with or without MK-7 for 10 days and the number of cells was calculated. The cell count was not different between MK-7 treated cells and control cells for 1, 2, and 4 days. However, it was significantly suppressed in MK-7 treated cells at 10 days, suggesting that MK-7 suppressed cell proliferation. Real-time PCR analysis showed that mRNAs of osteocalcin (OC), osteoprotegerin (OPG), and the receptor activator of the NFkappaB ligand (RANKL) were induced after MK-7 administration to the culture medium. RANK mRNA expression was also enhanced by MK-7 administration. Immunocytochemical analysis showed that MK-7 increased the protein levels of OC and RANKL. RANK protein was also enhanced, but this induction was suppressed by anti-RANK antibody administration. This suppression was recovered when anti-RANK antibody and MK-7 were administered. These observations suggest that MK-7 may directly affect MC3T3E1 cells and stimulate osteoblastic differentiation, not proliferation."
+        },
+        {
+            "References": "Suttie JW; Vitamin K. In: Encyclopedia of Dietary Supplements, ed. Coates PM et al; Marcel Dekker, New York, NY pp. 771-82 (2005)",
+            "Value": "The observations that warfarin increased tissue epoxide levels led to an understanding that its inhibition of vitamin K action was indirect through an inhibition of the 2.3-epoxide reductase. Blocking of this enzyme prevents the reduction of the epoxide to the quinone form of the vitamin and eventually to the carboxylase substrate, vitamin KH2. ... Three forms of vitamin K (the quinine, the hydronaphthoquinone, and the 2,3-epoxide) can feed into the liver vitamin K cycle. In normal liver, the ratio of vitamin K-2,3-epoxide to the less oxidized forms of the vitamin is about 1:10 but can increase to a majority of epoxide in an anticoagulated animal. In addition to the epoxide reductase, the quinone and hydronaphthoquinone forms of the vitamin can also be interconverted by a number of NAD(P)H-linked reductases, including one that appears to be a microsomal-bound form of ... liver DT-diaphorase activity. /Vitamin K/"
+        },
+        {
+            "References": "Gilman, A.G., T.W. Rall, A.S. Nies and P. Taylor (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 8th ed. New York, NY. Pergamon Press, 1990., p. 1563",
+            "Value": "In normal animals and /humans/, ... the menaquinones are virtually devoid of pharmacodynamic activity. In animals and /humans/ deficient in vitamin K, the pharmacological action of vitamin K is identical to its normal physiological function ... to promote the hepatic biosynthesis of prothrombin (factor II), proconvertin (factor VII), plasma thromboplastin component (PTC, Christmas factor, factor IX), and the Stuart factor (factor X). ... Vitamin K functions as an essential cofactor for a microsomal enzyme system that inactivates these precursors by the conversion of multiple residues of glutamic acid near the amino terminus of each precursor to gamma-carboxyglutamic acid residues in the completed protein. The formation of ... gamma-carboxyglutamic acid allows protein to bind to Ca(2+) and in turn to a phospholipid surface, both which are necessary in ... the events that lead to clot formation. /Menaquinones/"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Subcommittee on Poultry Nutrition, National Research Council; Nutrient Requirements of Poultry: Ninth Revised Edition, 1994. Available from, as of March 17, 2011: https://www.nap.edu/catalog.php?record_id=2114",
+            "Value": "/OTHER TOXICITY INFORMATION/ Although inadequate dietary vitamin K alters bone osteocalcin /in chickens/, symptoms associated with the skeletal system are not as apparent as blood clotting problems. Hemorrhaging may occur subcutaneously, intermuscularly, and internally and may lead to anemia and the appearance of hypoplastic bone marrow. A greatly extended blood clotting time may result in death from exsanguination. ... Inadequate vitamin K under practical circumstances is most likely to occur during the starting period, and supplementation of the feed at this time is advantageous. Starting feeds seldom contain forage meals, and a poorly developed intestinal microflora together with the use of antimicrobials further reduces access to the vitamin. ... Adults usually have a well-developed intestinal microflora, and vitamin K inadequacies are unusual. ... Use of vitamin K by embryos parallels that by adults. A deficiency with the embryo alters bone metabolism, but no physical deformities occur. Adverse effects on blood clotting are not apparent until after hatching, when hemorrhaging and mortality occur should trauma be encountered."
+        },
+        {
+            "References": "Gilman, A.G., T.W. Rall, A.S. Nies and P. Taylor (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 8th ed. New York, NY. Pergamon Press, 1990., p. 1564",
+            "Value": "/OTHER TOXICITY INFORMATION/ ...Menaquinones are nontoxic to animals, even when given in huge amounts. /Menaquinones/"
+        }
+    ]
+}

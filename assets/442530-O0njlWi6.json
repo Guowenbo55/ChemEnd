@@ -1,0 +1,71 @@
+{
+    "_id": {
+        "$oid": "6682e99ac4e5dba5ffba2b75"
+    },
+    "CID": {
+        "$numberInt": "442530"
+    },
+    "Name": "OCHRATOXIN A",
+    "IUPACName": "(2S)-2-[[(3R)-5-chloro-8-hydroxy-3-methyl-1-oxo-3,4-dihydroisochromene-7-carbonyl]amino]-3-phenylpropanoic acid",
+    "CanonicalSMILES": "CC1CC2=C(C=C(C(=C2C(=O)O1)O)C(=O)NC(CC3=CC=CC=C3)C(=O)O)Cl",
+    "Synonyms": [
+        "OCHRATOXIN A",
+        "303-47-9",
+        "Phenylalanine - ochratoxin A",
+        "Antibiotic 9663",
+        "3R14S-Ochratoxin A",
+        "Ochratoxin A(OTA)",
+        "CHEBI:7719",
+        "(-)-N-((5-Chloro-8-hydroxy-3-methyl-1-oxo-7-isochromanyl)carbonyl)-3-phenylalanine",
+        "OTA",
+        "MFCD00078079",
+        "Ochratoxin A-BSA conjugate from Aspergillus ochraceus",
+        "N-(((3R)-5-Chloro-8-hydroxy-3-methyl-1-oxo-7-isochromanyl)carbonyl)-3-phenyl-L-alanine",
+        "L-Phenylalanine",
+        "N-((5-chloro-3,4-dihydro-8-hydroxy-3-methyl-1-oxo-1H-2-benzopyran-7-yl)carbonyl)-",
+        "(R)-",
+        "NCI-C56586",
+        "NSC 201422"
+    ],
+    "IsomericSMILES": "C[C@@H]1CC2=C(C=C(C(=C2C(=O)O1)O)C(=O)N[C@@H](CC3=CC=CC=C3)C(=O)O)Cl",
+    "INCHI": "InChI=1S/C20H18ClNO6/c1-10-7-12-14(21)9-13(17(23)16(12)20(27)28-10)18(24)22-15(19(25)26)8-11-5-3-2-4-6-11/h2-6,9-10,15,23H,7-8H2,1H3,(H,22,24)(H,25,26)/t10-,15+/m1/s1",
+    "INCHIKEY": "RWQKHEORZBHNRI-BMIGLBTASA-N",
+    "Formula": "C20H18ClNO6",
+    "MolecularWeight": {
+        "$numberDouble": "403.8"
+    },
+    "Description": "Ochratoxin A is a phenylalanine derivative resulting from the formal condensation of the amino group of L-phenylalanine with the carboxy group of (3R)-5-chloro-8-hydroxy-3-methyl-1-oxo-3,4-dihydro-1H-2-benzopyran-7-carboxylic acid (ochratoxin alpha). It is among the most widely occurring food-contaminating mycotoxins, produced by Aspergillus ochraceus, Aspergillus carbonarius and Penicillium verrucosum. It has a role as a calcium channel blocker, a mycotoxin, a nephrotoxin, a carcinogenic agent, a teratogenic agent, an Aspergillus metabolite and a Penicillium metabolite. It is a phenylalanine derivative, an organochlorine compound, a member of isochromanes, a monocarboxylic acid amide and a N-acyl-L-phenylalanine. It is functionally related to an ochratoxin alpha. It is a conjugate acid of an ochratoxin A(1-).",
+    "XlogP": {
+        "$numberDouble": "4.7"
+    },
+    "Complexity": {
+        "$numberInt": "608"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) DHHS/NIEHS; Report on Carcinogens. Twelfth Edition p. 335 (2011). Washington, DC: US Dept Health Human Services., Public Health Service., Natl Toxicol Program. Available from, as of Aug 2, 2013: https://ntp.niehs.nih.gov/ntp/roc/twelfth/roc12.pdf",
+            "Value": "Ochratoxin A has been detected at contamination levels in cereals ranging from 0.03 ppm to 27.5 ppm(1)."
+        },
+        {
+            "References": "(1) DHHS/NIEHS; Report on Carcinogens. Twelfth Edition p. 335 (2011). Washington, DC: US Dept Health Human Services., Public Health Service., Natl Toxicol Program. Available from, as of Aug 2, 2013: https://ntp.niehs.nih.gov/ntp/roc/twelfth/roc12.pdf",
+            "Value": "Although the carryover from barley into beer is possible, one survey of all 130 US breweries did not detect ochratoxin A (up to 10 ug/kg) in beer or malted barley. In moderately contaminated barley, the malting process completely degrades ochratoxin A; however, 2-7% of the toxin remained in the final product from heavily contaminated barley(1)."
+        },
+        {
+            "References": "(1) IARC; Monographs on the Evaluation of the Carcinogenic Risk of Chemicals to Humans. Some Naturally Occurring Substances: Food Items and Constituents, Heterocyclic Aromatic Amines and Mycotoxins 56: 494 (1993)",
+            "Value": "Natural occurrence of ochratoxin A in plant products was reported as follows: maize, up to 2.6% of samples analyzed contaminated at concentration up to 200 ug/kg; wheat, up to 2.8% contaminated at up to 115 ug/kg; barley, up to 12.6% contaminated at up to 3800 ug/kg; coffee beans, up to 7.1% contaminated at up to 360 ug/kg; bread, up to 2% contaminated at up to 210 ug/kg; flour, up to 28.5% contaminated at up to 2900 ug/kg; rice, contaminated at up to 430 ug/kg; beans, up to 8.5% contaminated at up to 442 ug/kg; peas, up to 2.8% contaminated at up to 10 ug/kg. In commodities from Yugoslavia (an area of endemic human nephropathy), up to 8.3% of maize samples were contaminated at concentrations up to 140 ug/kg; 8.5% of wheat contaminated at up to >100 ug/kg; and 12.5% of barley contaminated at up to 26 ug/kg. In feed (including barley, wheat, oats, rye, maize, hay) from various countries, up to 57.6% of the samples were contaminated at concentrations up to 27,500 ug/kg(1)."
+        }
+    ],
+    "animal_concentrations": [
+        {
+            "References": "(1) DHHS/NIEHS; Report on Carcinogens. Twelfth Edition p. 335 (2011). Washington, DC: US Dept Health Human Services., Public Health Service., Natl Toxicol Program. Available from, as of Aug 2, 2013: https://ntp.niehs.nih.gov/ntp/roc/twelfth/roc12.pdf",
+            "Value": "Residues of ochratoxin A have been detected in samples of meat from pigs slaughtered immediately after consuming contaminated feed. It has been detected at levels of 10-920 ug/kg in sausage, ham, and bacon samples(1)."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V31: 195 (1983)",
+            "Value": "In an area of Balkan endemic nephropathy, ochratoxin A was found in 28.9% of ham samples at levels of 40-70 ug/kg, 18.9% of bacon samples at levels of 37-200 ug/kg, 13.3% of kulen (specially prepared sausage) samples at levels of 10-460 ug/kg and 12% of sausage samples at levels of 10-920 ug/kg ... ."
+        }
+    ]
+}

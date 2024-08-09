@@ -1,0 +1,82 @@
+{
+    "_id": {
+        "$oid": "6682e875c4e5dba5ffba25af"
+    },
+    "CID": {
+        "$numberInt": "7285"
+    },
+    "Name": "1,2,3-TRICHLOROPROPANE",
+    "IUPACName": "1,2,3-trichloropropane",
+    "CanonicalSMILES": "C(C(CCl)Cl)Cl",
+    "Synonyms": [
+        "1,2,3-TRICHLOROPROPANE",
+        "96-18-4",
+        "Trichlorohydrin",
+        "Allyl trichloride",
+        "Propane",
+        "1,2,3-trichloro-",
+        "Glycerol trichlorohydrin",
+        "Glyceryl trichlorohydrin",
+        "1,2,3-Trichloro-propane",
+        "NCI-C60220",
+        "NSC 35403",
+        "3MJ7QCK0Z0",
+        "DTXSID9021390",
+        "CHEBI:34036",
+        "NSC-35403",
+        "DTXCID401390"
+    ],
+    "IsomericSMILES": "C(C(CCl)Cl)Cl",
+    "INCHI": "InChI=1S/C3H5Cl3/c4-1-3(6)2-5/h3H,1-2H2",
+    "INCHIKEY": "CFXQEHVMCRXUSD-UHFFFAOYSA-N",
+    "Formula": "C3H5Cl3",
+    "MolecularWeight": {
+        "$numberDouble": "147.43"
+    },
+    "Description": "1,2,3-Trichloropropane is an organochlorine compound.",
+    "XlogP": {
+        "$numberDouble": "1.8"
+    },
+    "Complexity": {
+        "$numberInt": "25"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Dec 8, 2015: https://www.safe.nite.go.jp/english/db.html (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "BCF values of 5.4-12 and 5.3-13 were calculated in fish for 1,2,3-trichloropropane at concentrations of 0.2 and 0.02 mg/L, respectively, using carp (Cyprinus carpio) which were exposed over an 8-week period(1). According to a classification scheme(2), these BCF values suggest the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Dec 8, 2015: https://www.safe.nite.go.jp/english/db.html (2) Long JL et al; J Environ Eng 119: 300-20 (1993)",
+            "Value": "AEROBIC: 1,2,3-Trichloropropane, present at 100 ppm, reached 0% of its Theoretical BOD in 4 weeks using an activated sludge inoculum at 30 ppm in the Japanese MITI test(1). 1,2,3-Trichloropropane showed little degradation in an anaerobic serum bottle test over a 60 day period. It was one of 12 chlorinated aliphatic compounds (1-3 carbons) in the test mixture. Almost complete removal was obtained in a 7-day aerobic bottle test with methanogenic cultures, but not with phenol-adapted cultures(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Chemicals Inspection and Testing Institute; Biodegradation and bioaccumulation data of existing chemicals based on the CSCL Japan. Japan Chemical Industry Ecology - Toxicology and Information Center. (1992)",
+            "Value": "log Kow = 2.27"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "International Programme on Chemical Safety's Concise International Chemical Assessment Documents Number 56: 1,2,3-Trichloropropane. Available from, as of February 4, 2016: https://www.inchem.org/pages/cicads.html",
+            "Value": "A further publication, in abstract form only without detailed documentation of test conditions and results, presented a new hypothesis for the formation of forestomach tumors. According to these investigations, analysis of ras mutations in forestomach tumors of mice from the NTP (1993) study showed that the observed mutations are not consistent with the miscoding properties of the major DNA adduct S-[l-(hydroxymethyl)-2-(N(7)-guanyl)ethyl]glutathione that had formerly been identified in various tissues by the same working group. Preliminary studies suggested that 1,2,3-trichloropropane administration produced increases in the etheno DNA adducts 1,N(6)-ethenodeoxyadenosine and 3,N(4)-ethenodeoxycytidine, which are thought to arise endogenously from lipid oxidation. The resulting alternative hypothesis for the formation of forestomach tumors is an indirect mutagenic effect of 1,2,3-trichloropropane by GSH depletion as a consequence of the bolus application by gavage, which may induce lipid oxidation. Consequently, GSH plays a crucial role in adduct formation, being involved both in the formation of the major DNA adduct S-[l-(hydroxymethyl)-2-(N(7)-guanyl)ethyl]glutathione and in the initiation of lipid oxidation."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Cohen SZ et al; pp. 170-96 in ACS Symp Ser, 315. Garner WY et al, ed., Washington, DC (1986) (2) Cohen SZ et al; pp. 256-9 in Schriftenr Ver Wasser, Bodenlufthyg 68, Grundwasserbeeinflussung Plfanzenschutzm (1987)",
+            "Value": "SOIL: 1,2,3-Trichloropropane has been qualitatively identified in small-scale and large-scale retrospective studies in Californian and Hawaiian soil samples(1,2)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Walton DJ et al; J Environ Qual 21: 552-8 (1992) (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The partition coefficient of the compound to Captina silt loam (pH 4.97, 1.49% OC) and McLaurin sandy loam (pH 4.43, 0.66% OC) soils were 1.41 and 0.508, respectively(1), corresponding to calculated Koc values are 95 and 77(SRC). According to a classification scheme(2), these Koc values suggest that 1,2,3-trichloropropane is expected to have high mobility in soil."
+        }
+    ]
+}

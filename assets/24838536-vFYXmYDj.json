@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "6692712f303528b49832d83e"
+    },
+    "CID": {
+        "$numberInt": "24838536"
+    },
+    "Name": "Sulfosate",
+    "IUPACName": "(carboxymethylamino)methyl-hydroxyphosphinate;trimethylsulfanium",
+    "CanonicalSMILES": "C[S+](C)C.C(C(=O)O)NCP(=O)(O)[O-]",
+    "Synonyms": [
+        "Sulfosate",
+        "Medallon",
+        "Ouragan",
+        "Touchdown",
+        "Glyphosate-trimesium [ISO]",
+        "81591-81-3",
+        "Glyphosate trimethylsulfonium salt",
+        "Glyphosate mono(trimethylsulfonium) salt",
+        "Glyphosphate-trimesium",
+        "93B42P85LG",
+        "SULPHOSATE",
+        "Caswell No. 893C",
+        "Avans 330",
+        "Trimethylsulfonium glyphosate",
+        "UNII-93B42P85LG"
+    ],
+    "IsomericSMILES": "C[S+](C)C.C(C(=O)O)NCP(=O)(O)[O-]",
+    "INCHI": "InChI=1S/C3H8NO5P.C3H9S/c5-3(6)1-4-2-10(7,8)9;1-4(2)3/h4H,1-2H2,(H,5,6)(H2,7,8,9);1-3H3/q;+1/p-1",
+    "INCHIKEY": "RUCAXVJJQQJZGU-UHFFFAOYSA-M",
+    "Formula": "C6H16NO5PS",
+    "MolecularWeight": {
+        "$numberDouble": "245.24"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "NaN"
+    },
+    "Complexity": {
+        "$numberInt": "168"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Growth chamber and laboratory experiments were conducted to evaluate foliar absorption and translocation of the isopropylamine (Ipa) or trimethylsulfonium (Tms) salts of glyphosate in Abutilon theophrasti and Setaria faberi. Glyphosate was applied at 250 g ai ha\u22121. Absorption of 14C-glyphosate in both formulations increased similarly in both species over 72 h. Seventy-two hours after treatment (HAT), A. theophrasti absorbed 26% of applied 14C of both formulations, whereas S. faberi absorbed 43% of both formulations. The addition of 1% ammonium sulfate (AMS) to both formulations increased the amount of herbicide absorbed to 35% in A. theophrasti and 60% in S. faberi 72 HAT. Translocation of absorbed 14C-glyphosate in both formulations (with or without AMS) was greater for S. faberi than A. theophrasti 72 HAT. For A. theophrasti, 17% of 14C absorbed in Ipa and Tms formulations were translocated out of the treated leaf, whereas additions of AMS increased the amount translocated to 25 and 23% for Ipa and Tms, respectively. The largest portion of translocated 14C moved to tissues above the treated leaf. For S. faberi, 37% of absorbed 14C in both Ipa and Tms formulations were translocated out of the treated leaf 72 HAT, whereas 42% translocated when 1% AMS was added to both formulations. In S. faberi, the largest portion of 14C-glyphosate translocated to tissues below the treated leaf. In summary, no differences were found between Ipa and Tms formulations in both weed species.",
+            "reference": "Satchivi, N. M., Wax, L. M., Stoller, E. W., & Briskin, D. P. (2000). Absorption and translocation of glyphosate isopropylamine and trimethylsulfonium salts in Abutilon theophrasti and Setaria faberi. Weed Science, 48(6), 675-679.",
+            "method": {
+                "Test Plant": "Setaria faberi",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Seeds planted in 164 mL tubes with 1:1:1 sand:soil:peat mixture. Thinned to 1 plant per tube after emergence. Grown at 24\u00b11\u00b0C with 1000 \u03bcmol/m2/s midday PPF from sunlight + mercury halide lamps, 16 h photoperiod. Fertilized and watered as needed",
+                "Chemical Preparation": "14C-glyphosate (11,704 kBq/mg, 98.3% radiochemical purity) equilibrated 24 h in isopropylamine (IPA) or trimethylsulfonium (TMS) formulations.Spotting solutions simulated 237 L/ha spray volume with appropriate IPA/TMS, AMS, blank formulation. Pesticide Application Details for the Plant: At 4-5 leaf stage, broadcast spray of non-radiolabeled IPA or TMS formulations at 250 g ai/ha alone or with 1% AMS. Immediately after, 5 drops of 1 \u03bcL 14C-glyphosate spotting solution (0.93 kBq total) applied to adaxial 3rd leaf",
+                "Other Information": "Plants grown in 24/20\u00b0C day/night, 60-70% RH, 450 \u03bcmol/m2/s for 16 h after treatment. Harvests at 1, 3, 12, 24, 72 hours after treatment (HAT)"
+            },
+            "result": "[{\"Hours after application\": 1, \"Treated leaf (% of absorbed)\": 98.5, \"Above treated leaf (%)\": 0.5, \"Below treated leaf (%)\": 0.3, \"Root (%)\": 0.3}, {\"Hours after application\": 3, \"Treated leaf (% of absorbed)\": 96.9, \"Above treated leaf (%)\": 0.7, \"Below treated leaf (%)\": 0.4, \"Root (%)\": 0.4}, {\"Hours after application\": 12, \"Treated leaf (% of absorbed)\": 92.2, \"Above treated leaf (%)\": 1.5, \"Below treated leaf (%)\": 1.1, \"Root (%)\": 1.0}, {\"Hours after application\": 24, \"Treated leaf (% of absorbed)\": 89.2, \"Above treated leaf (%)\": 3.8, \"Below treated leaf (%)\": 2.9, \"Root (%)\": 2.2}, {\"Hours after application\": 72, \"Treated leaf (% of absorbed)\": 81.1, \"Above treated leaf (%)\": 7.4, \"Below treated leaf (%)\": 5.9, \"Root (%)\": 3.8}]"
+        }
+    ]
+}

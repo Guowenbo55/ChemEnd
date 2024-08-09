@@ -1,0 +1,98 @@
+{
+    "_id": {
+        "$oid": "6682e8bec4e5dba5ffba2721"
+    },
+    "CID": {
+        "$numberInt": "8472"
+    },
+    "Name": "TRIMETHYL PHOSPHITE",
+    "IUPACName": "trimethyl phosphite",
+    "CanonicalSMILES": "COP(OC)OC",
+    "Synonyms": [
+        "TRIMETHYL PHOSPHITE",
+        "121-45-9",
+        "Trimethylphosphite",
+        "Trimethoxyphosphine",
+        "Phosphorous acid",
+        "trimethyl ester",
+        "Methyl phosphite",
+        "Trimethylfosfit",
+        "Trimethoxyfosfin",
+        "PHOSPHOROUS ACID TRIMETHYL ESTER",
+        "NSC 6513",
+        "Trimethyl ester of phosphorous acid",
+        "P(OMe)3",
+        "Methyl phosphite ((MeO)3P)",
+        "P(OCH3)3",
+        "DTXSID4026979"
+    ],
+    "IsomericSMILES": "COP(OC)OC",
+    "INCHI": "InChI=1S/C3H9O3P/c1-4-7(5-2)6-3/h1-3H3",
+    "INCHIKEY": "CYTQBVOFDCPGCX-UHFFFAOYSA-N",
+    "Formula": "C3H9O3P",
+    "MolecularWeight": {
+        "$numberDouble": "124.08"
+    },
+    "Description": "Trimethyl phosphite is an organophosphorus compound that is phosphane in which the three hydrogens are replaced by methoxy groups. It is an alkylating agent used primarily in the synthesis of organophosphate compounds. It has a role as an alkylating agent.",
+    "XlogP": {
+        "$numberDouble": "0.1"
+    },
+    "Complexity": {
+        "$numberInt": "31"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) NIOSH. NIOSH Pocket Guide to Chemical Hazards. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2010-168 (2010). Available from, as of July 18, 2016: https://www.cdc.gov/niosh/npg/ (2) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of July 19, 2016: https://www.safe.nite.go.jp/english/db.html",
+            "Value": "Bioconcentration is not expected to be an important fate process(SRC) because trimethyl phosphite reacts (hydrolyzes) in water(1). Trimethyl phosphite hydrolyzes in water to form dimethyl phosphite (CAS 868-85-9) which has a reported low bioconcentration in fish(2)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of July 19, 2016: https://www.safe.nite.go.jp/english/db.html (2) OECD; SIDS Initial Assessment Report for SIAM 16 (2003), Triethyl Phosphite (CAS 122-52-1). Available from, as of July 13, 2016: https://www.inchem.org/documents/sids/sids/122521.pdf",
+            "Value": "AEROBIC: Biodegradation is not expected to be an important environmental fate process(SRC) because trimethyl phosphite hydrolyzes in water to form dimethyl phosphite and methanol(1). Dimethyl phosphite, present at 100 mg/L, reached 48% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1) which indicates the hydrolysis product of trimethyl phosphite is not readily biodegradable(SRC). Analogy to triethyl phosphite(SRC) suggests hydrolysis is a prerequisite for biodegradation(2) and that the hydrolysis product is inherently biodegradable(2)."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 1",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Topical application of trimethyl phosphite produced moderately severe but persistent irritation on rabbit skin. Instillation of undiluted trimethyl phosphite into the rabbit eye caused severe ocular irritation and swelling, which lasted for several days. No permanent damage to the eye could be detected."
+        },
+        {
+            "References": "PMID:745541",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The studies on toxic properties of trimethyl and triethyl phosphites involved: determination of acute general toxic effect on white rats following intragastric and intraperitoneal administration of these compounds, based on LD50 test, determination of damaging effect direction, by histopathological examination of animals' internal organs, determination of intensity of primarily irritating action on the skin, eye and conjunctiva, as well as sensitizing effect on guinea-pigs. LD50 value for trimethyl phosphite following intragastric administration was found to be 2.45 g/kg and following intraperitoneal administration--2.25 g/kg; for triethyl phosphite these values were: 4.00 g/kg after intragastric administration and 1.50 g/kg after intraperitoneal administration, respectively. In local action both phosphites mildly irritate the skin, eye and conjunctiva. A weak sensitizing effect of triethyl phosphite was found. Trimethyl and triethyl phosphites have general toxic effects. A particular direction of their action is demonstrated by acroparalysis. Apart from general action they were found to show systemic action and induce parenchymatous degeneration of the liver and kidneys, whatever route of administration. Administered intragastrically, they result in mucosa necrosis, ulceration and fibrino-purulent exudate, exfoliating the mucosa."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 1",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Five rats inhaled 500 +/- 75 ppm trimethyl phosphite 7.5 hours/day, 5 days/week for 8 weeks. The exposure concentration selected was sublethal but high enough to produce moderate to severe respiratory distress. Although no animals died, this exposure resulted in reduced body weight gain (in comparison to the concurrent control); necropsy revealed severe pulmonary and cutaneous pathology. Hematologic parameters and other vital organ systems were unaffected. ... /It was concluded that/ the pathologic findings ... /were/ due to the high degree of local irritation from the material rather than to inherent systemic toxicity."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 1",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... Marked mortality (> 70%) /was demonstrated/ among rats exposed at 600 ppm, 6 hours/day, 5 days/week for 4 weeks. Ten percent of the rats exposed at 300 ppm also died. Gross histological evidence of lung inflammation was observed in the animals exposed at 600 ppm, but no such changes occurred in those subjected to 300 or 100 ppm. Clinical signs of ocular irritation occurred in the animals exposed at 100 ppm or higher concentrations. Severe cataract developed in the 600 ppm exposure group, and mild cataracts from 300 ppm; 100 ppm exposures caused mild, reversible \"striate opacities\" of the lenses of a few animals."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Pregnant rats given trimethyl phosphite orally by gavage at 164 mg/kg/day during days 6 to 15 of gestation; an increased number of litters with gross abnormalities were produced. No such changes were observed in the offspring of animals given lower dosages (16 or 49 mg/kg/day). The US EPA considered that the teratogenic effect of trimethyl phosphite may be associated with inhibition of cholinesterase activity."
+        },
+        {
+            "References": "PMID:6710478",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Trimethyl phosphite (TMP) is an organophosphorus alkylating agent used primarily in the synthesis of organophosphate compounds. To evaluate teratogenic potential, TMP was administered by gavage to pregnant rats at rates of 16, 49, or 164 mg/kg/day, on gestation Days 6 through 15. Acetyl salicylic acid (250 mg/kg/day) was also administered to a group of rats as a positive control. Teratologic evaluation revealed gross fetal abnormalities, skeletal defects, and soft tissue defects at a dose rate of 164 mg/kg/day of trimethyl phosphite, but not at the two lesser rates. An increased frequency of fetal resorption was also observed at 164 mg/kg/day."
+        },
+        {
+            "References": "PMID:3824383",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Organophosphorus compounds which, after acute administration, inhibit neurotoxic esterase (NTE) by greater than or equal to 65% and undergo a subsequent \"aging\" reaction, produce a delayed neuropathy characterized by degeneration of large and long nerve fibers (OPIDN). The present studies examine in detail the NTE-inhibiting properties of triphenyl phosphite (TPP), a plasticizer which produces ataxia and degeneration of the spinal cord in animals. A neurotoxic dosing regimen (1184 mg/kg/week, sc, for 2 weeks) inhibited both brain and spinal cord NTE (less than or equal to 40%) only marginally 4 and 48 hr postdosing. By contrast, TPP was shown in vitro to be a potent (150 = 0.98 uM) inhibitor of rat brain NTE relative to Mipafox or diisopropyl phosphorofluoridate. Compounds structurally related to TPP (i.e., triphenyl phosphate, triphenyl phosphine, trimethyl phosphite, and phenol) failed to inhibit NTE in vitro at less than 10 uM concentrations. Close examination of the TPP inhibition of NTE showed a nonlinear relationship between the duration of incubation time and loss of log(NTE activity). Preincubation of 10 uM TPP in buffer (37 degrees C) resulted in a time-dependent loss of TPP's ability to inhibit NTE. In summary, TPP is a powerful NTE inhibitor in vitro, but only a marginal NTE inhibitor after in vivo administration. These results raise questions as to the causal events mediating TPP-induced neuropathy in the rat."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/GENOTOXICITY/ Trimethyl phosphite was genotoxic in three separate mouse lymphoma assays, either with or without microsomal activation. Trimethyl phosphite was also positive in a battery of Drosophila melanogaster mutagenicity assays and in a bacterial DNA damage/repair suspension assay using various strains of Escherichia coli and Salmonella typhimurium. Trimethyl phosphite failed to show evidence for genetic toxicity in Salmonella and Saccharomyces strains, in a cell transformation assay, in a bacterial DNA repair assay (Escherichia coli, Salmonella typhimurium) or in two Salmonella/mammalian-microsome preincubation assays."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) NIOSH. NIOSH Pocket Guide to Chemical Hazards. Department of Health & Human Services, Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health. DHHS (NIOSH) Publication No. 2010-168 (2010). Available from, as of July 18, 2016: https://www.cdc.gov/niosh/npg/",
+            "Value": "Adsorption to soils or suspended solids and sediment in water is not expected to be an important fate process(SRC) because trimethyl phosphite reacts (hydrolyzes) in water(1)."
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "_id": {
+        "$oid": "6682e8adc4e5dba5ffba26cb"
+    },
+    "CID": {
+        "$numberInt": "8148"
+    },
+    "Name": "DIBUTYLAMINE",
+    "IUPACName": "N-butylbutan-1-amine",
+    "CanonicalSMILES": "CCCCNCCCC",
+    "Synonyms": [
+        "DIBUTYLAMINE",
+        "111-92-2",
+        "Di-n-butylamine",
+        "1-Butanamine",
+        "N-butyl-",
+        "N-Butyl-1-butanamine",
+        "Dibutilamina",
+        "N-butylbutan-1-amine",
+        "n-Dibutylamine",
+        "Di-(n-butyl)amine",
+        "DIBUTYL-AMINE",
+        "di-Normal-butylamine",
+        "DTXSID7024952",
+        "2194M2LA21",
+        "UN2248",
+        "HSDB 310"
+    ],
+    "IsomericSMILES": "CCCCNCCCC",
+    "INCHI": "InChI=1S/C8H19N/c1-3-5-7-9-8-6-4-2/h9H,3-8H2,1-2H3",
+    "INCHIKEY": "JQVDAXLFBXTEQA-UHFFFAOYSA-N",
+    "Formula": "C8H19N",
+    "MolecularWeight": {
+        "$numberDouble": "129.24"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "2.8"
+    },
+    "Complexity": {
+        "$numberInt": "37"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR Fundamentals and Applications in Chemistry and Biology. Washington,DC: Amer Chem Soc (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-672 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 30 was calculated for dibutylamine(SRC), using a log Kow of 2.83(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is moderate(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Calamari D et al; Chemosphere 9: 753-62 (1980) (2) Yoshimura K et al; J Amer Oil Chem Soc 57: 238-41 (1980) (3) Zahn R, Wellens H; Wasser Abwasser Forsch 13: 1-7 (1980) (4) Kaplan DL et al; Gov Rep Announce Index 84: 67 (1984) (5) Wszolek PC, Alexander M; J Agric Food Chem 27: 410-4 (1979) (6) Chemicals Inspection and Testing Institute. Japan Chemical Industry Ecology - Toxicology and Information Center. ISBN 4-89074-101-1 (1992)",
+            "Value": "In a screening study, dibutylamine completely degraded within 14 days at 10 ppm with both an activated sludge and freshwater sediment inoculum(1). BOD values obtained during this time period indicated that mineralization was essentially complete(1). River mud bacteria and activated sludge were inhibited by 50 and 100 ppm dibutylamine, respectively(1). In another study that utilized 100 ppm of dibutylamine and an activated sludge inoculum, no oxygen consumption was observed until about three days when the BOD increased sharply to about 30% of theoretical biological oxygen demand(2). Another screening test resulted in >90% degradation in 9 days including a 4 day lag period(3). While low concns of the free diamine were degraded in 10 hours by acclimated mixed cultures, only 25% of the dibutylamine adsorbed on bentonite clay was degraded in this time(5). The sorbed diamine degraded in 2 days(5). The rate of degradation of the sorbed molecule does not depend on its desorption rate, but rather may be due to restricted access by microorganisms(5). Under anaerobic conditions with high nitrate loads (denitrification conditions), dibutylamine shows little tendency to form nitrosamines(4). 94-97% of the theoretical BOD was achieved for dibutylamine using an activated sludge during a 4 week incubation period(6)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 49",
+            "Value": "log Kow= 2.83"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 1029",
+            "Value": "RATED 9 ON RABBIT EYES. ... TESTED EXTERNALLY ON EYES OF RABBITS & ... RATED NUMERICALLY ON SCALE OF 1-10 ACCORDING TO DEGREE OF INJURY OBSERVED AFTER 24 HR, PAYING PARTICULAR ATTENTION TO CONDITION OF CORNEA. MOST SEVERE INJURIES ... RATED 10."
+        },
+        {
+            "References": "PMID:876270",
+            "Value": "DIBUTYL AMINE IN ETHANOL (1% IN FINAL) @ 4 MG/ML (1X10-4 MOLAR) SHOWED CHROMATID GAPS, CHROMATID OR CHROMOSOMAL BREAKS, TRANSLOCATION IN 6% OF /CHINESE HAMESTER/ CELLS."
+        },
+        {
+            "References": "PMID:191747",
+            "Value": "IN A GROWTH INHIBITION TEST WITH BACILLUS SUBTILIS STRAINS HLL3G & HJ-15, EVIDENCE WAS TAKEN AS A POSITIVE INDICATION OF EXCISION &/OR RECOMBINATION REPAIR-DEPENDENT DNA DAMAGE PRODUCED BY DI-N-BUTYLAMINE."
+        },
+        {
+            "References": "Mortelmans K et al; Environ Mutagen 8: 1-119 (1986)",
+            "Value": "Dibutylamine was tested for mutagenicity using the Salmonella/microsome preincubation assay using the standard protocol approved by the National Toxicology Program. Dibutylamine was tested at doses of 0.10, 0.33, 1.0, 3.3, and 10 mg/plate in as many as 5 Salmonella typhimurium strains (TA1535, TA1537, TA97, TA98, and TA100) in the presence and absence of rat or hamster liver S-9. Dibutylamine was negative in these tests and the highest ineffective dose tested in any Salmonella typhimurium strain was 10.000 mg/plate."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Golovnya RV et al; USSR Acad Med Sci pp.327-35 (1982)",
+            "Value": "Dibutylamine was identified, not quantified, in uncultivated loamy soil from the Moscow region(1). Since this soil is uncultivated, it is possible that the amines are formed naturally rather than resulting from contamination or as a metabolite of a fertilizer or a pesticide(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR Fundamentals and Applications in Chemistry and Biology. Washington,DC: Amer Chem Soc (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington,DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Perrin DD; Dissociation Constants of Organic Bases in Aqueous Solution. IUPAC chem Data Ser. Butterworth, London (1965)",
+            "Value": "The Koc of dibutylamine was estimated as 825(SRC), using a log Kow of 2.83(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that dibutylamine is expected to have low mobility in soil(SRC). The pKa of dibutylamine is 11.73(4), indicating that the protonated form will be the predominant species in moist soils and cations are expected to adsorb strongly to soil surfaces."
+        }
+    ]
+}

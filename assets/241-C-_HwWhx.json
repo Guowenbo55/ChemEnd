@@ -1,0 +1,336 @@
+{
+    "_id": {
+        "$oid": "6682e7cfc4e5dba5ffba2273"
+    },
+    "CID": {
+        "$numberInt": "241"
+    },
+    "Name": "BENZENE",
+    "IUPACName": "benzene",
+    "CanonicalSMILES": "C1=CC=CC=C1",
+    "Synonyms": [
+        "benzene",
+        "benzol",
+        "71-43-2",
+        "Cyclohexatriene",
+        "benzole",
+        "Pyrobenzole",
+        "Benzine",
+        "Benzen",
+        "Coal naphtha",
+        "Pyrobenzol",
+        "Mineral naphtha",
+        "Phene",
+        "Phenyl hydride",
+        "Benzolene",
+        "Bicarburet of hydrogen"
+    ],
+    "IsomericSMILES": "C1=CC=CC=C1",
+    "INCHI": "InChI=1S/C6H6/c1-2-4-6-5-3-1/h1-6H",
+    "INCHIKEY": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+    "Formula": "C6H6",
+    "MolecularWeight": {
+        "$numberDouble": "78.11"
+    },
+    "Description": "Benzene is a six-carbon aromatic annulene in which each carbon atom donates one of its two 2p electrons into a delocalised pi system. A toxic, flammable liquid byproduct of coal distillation, it is used as an industrial solvent. Benzene is a carcinogen that also damages bone marrow and the central nervous system. It has a role as a non-polar solvent, a carcinogenic agent and an environmental contaminant. It is an aromatic annulene, a volatile organic compound and a member of benzenes.",
+    "XlogP": {
+        "$numberDouble": "2.1"
+    },
+    "Complexity": {
+        "$numberInt": "15"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Graedel TC; Chemical Compounds in the Atmosphere. New York, NY: Academic Press (1978) (2) Whelan JK et al; Nature 299: 50-2 (1982)",
+            "Value": "Benzene has been detected as a plant volatile(1). Benzene has been detected from 2 species of macroalgae at 20 ppb(2)."
+        },
+        {
+            "References": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Benzene. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Feb 18, 2014: https://www.ars-grin.gov/duke/",
+            "Value": "Benzene occurrences in plants(1).",
+            "Table": "[{'Genus species': 'Carthamus tinctorius', 'Common name': 'Safflower', 'Plant': 'Flower'}, {'Genus species': 'Elsholtzia cristata', 'Common name': 'Vietnamese Balm', 'Plant': 'Shoot'}, {'Genus species': 'Levisticum officinale', 'Common name': 'Lovage', 'Plant': 'Root'}, {'Genus species': 'Psidium guajava', 'Common name': 'Guava', 'Plant': 'Fruit'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Neff JM, Sauer TC; Environ Sci Res 53: 163-75 (1996) (2) Franke C et al; Chemosphere 29: 1501-14 (1994) (3) De Wolf W et al; Chemosphere 36: 1713-1724 (1998) (4) Ogata M, Miyake Y; Water Res 12: 1041-4 (1978) (5) Korn S et al; Fish Bull Natl Marine Fish Ser 75: 633-6 (1977) (6) Ogata M et al; Bull Environ Contam Toxicol 33: 561-7 (1984)",
+            "Value": "Benzene has BCFs ranging from 1.1-20(1). According to a classification scheme(2), this BCF range suggests the potential for bioconcentration in aquatic organisms is low. The uptake and elimination rate constants for benzene in fathead minnows were studied(3). Fathead minnows were found to have an average uptake rate of 7 L/kg/hr with an average elimination rate of 0.384/hr which corresponds to a BCF of 19(3). In a study of BCF values for various aquatic species, benzene was found to have a BCF value of 3.5 in eels(4), 4.4 in pacific herring(5), and 4.3 in goldfish(6)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Feb 18, 2014: https://www.safe.nite.go.jp/english/db.html (2) Verschueren K; Handbook of Environmental Data on Organic Chemicals. 4th ed. New York, NY: Van Nostrand Reinhold pg. 255 (2001) (3) Zhang WX, Bouwer EJ; Biodegradation 8: 167-175 (1997)",
+            "Value": "AEROBIC: Benzene present at 100 mg/L, reached 40% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1). Benzene reached 24% of its theoretical oxygen demand in a non-acclimated microbial population after 15 days(2). Aerobic biodegradation of benzene was studied in pre-equilibrated soil-water slurry microcosms(3). Using an enriched aerobic bacterial culture, benzene began to degrade 12 hrs after incubation in an aqueous(soil-free) solution with 50% of benzene degrading after 60 hrs and almost complete degradation within 90 hrs. Using a pre-equilibrated soil-water slurry microcosm, benzene did not begin to degrade until 3 days after application and reached complete degradation after about 12 days(3)."
+        },
+        {
+            "References": "(1) Vaishnav DD, Babeu L; J Great Lakes Res 12: 184-91 (1986) (2) Vaishnav DD, Babeu L; Bull Environ Contam Toxicol 39: 237-44 (1987) (3) Lee RF, Ryan C; Microbial Degradation of Pollutants in Marine Environments. pp. 443-50 USEPA-600/9-72-012 (1979) (4) Wakeman SG et al; Bull Environ Contam Toxicol 31: 582-4 (1983)",
+            "Value": "AEROBIC: No degradation of benzene as measured by BOD was reported in coarse-filtered (through 1 cm cotton layer) Superior harbor water incubated at 21 \u00b0C for 12 days(1). Biodegradation half-lives of 28 and 16 days were reported in die-away tests using groundwater and water from Lester River, Minnesota, respectively; benzene concentration added ranged from 0-3.2 mg/L(2). The half-life in estuarine water was 6 days as measured by radio-labeled C02 produced(3). In a marine ecosystem biodegradation occurred in 2 days after an acclimation period of 2 days and 2 weeks in the summer and spring, respectively, whereas no degradation occurred in winter(4)."
+        },
+        {
+            "References": "(1) Barker JF et al; Ground Water Monit Rev 7: 64-72 (1987) (2) Delfino JJ, Miles CJ; Soil Crop Sci Soc FL Proc 44: 9-14 (1985) (3) Smith RV, Rosazza SP; Arch Biochem Biophys 161: 551-8 (1974) (4) Gibson DT et al; Biochem 7: 2653-62 (1968)",
+            "Value": "AEROBIC: Benzene, in a mixture with toluene and xylenes, was readily biodegraded (total degradation of 7.5 ppm total mixture) in shallow ground water in the presence of oxygen in the unconfined sand aquifer at Canada Forces' Base Borden, Ontario; laboratory batch experiments demonstrated that the degradation could be attributed to biodegradation(1). Complete biodegradation in 16 days was reported under simulated aerobic groundwater conditions at 20 \u00b0C(2). Reported metabolites of benzene using pure cultures of microorganisms include phenol and unidentified phenols(3), catechol and cis-1,2-dihydroxy-1,2-dihydrobenzene(4)."
+        },
+        {
+            "References": "(1) Davis EM et al; Water Res 15: 1125-7 (1981) (2) Stover EL, Kincannon DF; J Water Pollut Control Fed 55: 97-109 (1983) (3) Setzkorn EA, Huddleston RL; J Amer Oil Chem Soc 42: 1081-4 (1965) (4) Tabak HH et al; J Water Pollut Control Fed 53: 1503-18 (1981) (5) Feiler HD et al; Proc Natl Conf Munic Sludge Manag 8th, pp. 72-81 (1979) (6) Haider K et al; Arch Microbiol 96: 183-200 (1974)",
+            "Value": "AEROBIC: Benzene at 50 ppm was 90% degraded by industrial wastewater seed incubated at 23 \u00b0C for 6 hrs(1). Benzene inhibited industrial seed at concentration of 100 ppm and above and municipal seed at 50 ppm and above(1). In a bench scale activated-sludge reactor with an 8 hour retention time, complete degradation occurred with 0.5% of the benzene being lost by air stripping(2). In laboratory systems, low concentrations of benzene are degraded in 6-14 days(3,4). 44-100% removal occurred at a sewage treatment plant; percentage by evaporation and biodegradation were not determined(5). In a base-rich para-brownish soil, 20 ppm benzene was 24% degraded in 1 week, 44% in 5 weeks, and 47% in 10 weeks(6)."
+        },
+        {
+            "References": "(1) Johnston JJ et al; J Contam Hydrol 23: 263-283 (1996) (2) Reinhard M et al; Div Environ Chem Preprints Ext Abst 36: 210-212 (1996) (3) Hutchins SR, Wilson JT; pp. 157-72 in In Situ Bioreclamation. Hinchee RE, Olfenbuttel RF eds. Stoneham, MA: Butterworth-Heinmann (1991) (4) Grbic-Galic, D; Geomicrobiology J 8: 167-200 (1990)",
+            "Value": "ANAEROBIC: Benzene was degraded under methanogenic conditions in an enrichment culture fed ferulic acid for five years. It was also degraded under sulfate-reducing conditions in microcosms containing benzene-contaminated aquifer sediment(1). Benzene was not biodegraded in aquifer sediment down gradient of the Wilder's Grove sanitary landfill near Raleigh, NC(1). In a study of chemical biotransformation under nitrate- and sulfate-reducing conditions, benzene was found to be stable under these anaerobic conditions for 60 days(2). In a related study, benzene did not undergo biodegradation in situ nor in laboratory controlled soil samples under denitrifying conditions(3). Although benzene appears to be recalcitrant under anaerobic conditions, there was one experiment in which benzene underwent degradation under methanogenic conditions. The microbial inoculum employed in the study originally had been enriched from anaerobic municipal sludge. Benzene was transformed into phenol by the microbial inoculum by using water as a source of oxygen(4)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "PMID:3978262",
+            "Value": "Benzene was detected in 5 oyster samples from the Inner Harbor Navigational Canal in Lake Pontchartrain, LA at 220 ppb wet weight(1). Composite clam samples from Chef Menteur Pass in Lake Pontchartain, LA contained benzene at 260 ppb wet weight; however clam samples from The Rigolets did not contain benzene(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 18",
+            "Value": "log Kow = 2.13"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:890848",
+            "Value": "Covalent interaction of a benzene metabolite with dna was shown in vivo, but no information was given about the chem nature of this metabolite. A likely intermediate in benzene metabolism is benzene oxide. In neutral aq media it rearranges only slowly to the phenol so that its lifetime could be long enough for diffusion from the site of activation to the dna. Alternatively, the metabolic appearance of polyhydroxy derivatives suggests the formation of a phenol epoxide, so that the reactive molecule could be a secondary metabolite."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V29 113 (1982)",
+            "Value": "The available evidence supports the concept that benzene toxicity is caused by one or more metabolites of benzene. ... Benzene metabolites containing 2 or 3 hydroxyl groups inhibited mitosis. Toluene, which inhibits benzene metabolism, protected animals against benzene-induced myelotoxicity. Benzene toxicity could be correlated with the appearance of benzene metabolites in bone marrow. Although it is clear that benzene can be metabolized in bone marrow, the observation that partial hepatectomy protects against benzene toxicity suggests that a metabolite formed in liver is essential for benzene toxicity."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V29 113 (1982)",
+            "Value": "... Importance of polyhydroxylated derivatives of benzene & their semiquinones. ... /It has been/ shown that hydroquinone inhibits rat brain microtubule polymerization; that hydroquinone & para-benzoquinone are the most potent inhibitors of T- & B-lymphocyte function, as measured in mouse spleen cells in culture; that hydroquinone inhibits lectin-stimulated lymphocyte agglutination in rat spleen prepn in vitro; & that para-benzoquinone is the metabolite most likely to be responsible for suppression of lymphocyte transformation & microtubule assembly in rat spleen cells in culture. However, admin of these cmpd to animals does not produce the typical picture of benzene toxicity ... admin /of/ major metabolites of benzene to mice ... failed to ... decr ... red blood cell production, using the (59)Fe uptake technique ... /it's been/ suggested that ring-opening products may play a role in benzene toxicity. ... In mice benzene treatment suppressed subsequent colony forming unit-C formation from bone-marrow cells in vitro. Treating the animals with phenol, hydroquinone or benzene dihydrodiol failed to suppress colony forming unit-C. Thus, the toxic metabolites of benzene have yet to be identified."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V29 113 (1982)",
+            "Value": "... Radioactivity /has been demonstrated/ in a nucleic acid fraction from rat liver following admin of either (3)h- or (14)C-labelled benzene. It has been shown that benzene binds covalently to protein in liver, bone marrow, kidney, lung, spleen, blood, & muscle. Less covalent binding was observed to the protein of bone marrow, blood, & spleen of C57Bl/6 mice, which are more resistant to the benzene-induced effects on red cell production, than to that of sensitive DBA/2 mice. ... Covalent binding of benzene to protein in perfused bone-marrow prepn /has been demonstrated/. ... A metabolite of phenol binds to liver protein more efficiently than does benzene oxide, & they have electrophoretically separated hepatic proteins to which benzene preferentially binds. ... Covalent binding to mitochondria is a prominent feature of benzene metabolism. ... There is relatively more radioactivity in a nucleic acid-rich fraction of a benzene metabolite isolated from mouse bone-marrow cells than in a similar fraction from liver."
+        },
+        {
+            "References": "Snyder R et al; Biological Reactive Intermediates II, Part A, Plenum Publishing Corp 245 (1982)",
+            "Value": "Evidence indicates that benzene must be metabolically activated in order to exert its characteristic toxicity on bone marrow. Some of the hydroxylated benzene metabolites, phenol, catechol, hydroquinone, resorcinol & some trihydroxylated derivatives in urine of rabbits are suggested to be the toxic metabolites."
+        },
+        {
+            "References": "Johansson I, Ingelman-Sundberg M; J Bio Chem 258 (12): 7311-6 (1983)",
+            "Value": "The mechanism of benzene oxygenation in liver microsomes & in reconstituted enzyme systems from rabbit liver was investigated. The results indicate that the microsomal cytochrome P450 dependent oxidation of benzene is mediated by hydroxyl radicals formed in a modified Haber-Weiss reaction between hydrogen peroxide & superoxide anions & suggest that any cellular superoxide-generating system may be sufficient for the metabolic activation of benzene & structurally related compounds."
+        },
+        {
+            "References": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. III-398",
+            "Value": "Animal expt show that benzene sensitizes the myocardium to epinephrine, so that the endogenous hormone may precipitate sudden & fatal ventricular fibrillation."
+        },
+        {
+            "References": "PMID:3037363",
+            "Value": "The protective effects of pyridine and xylene against benzene, benzo(a)pyrene, or cyclophosphamide clastogenicity were studied in mice. Swiss-ICR mice were treated orally with 220 to 880 mg/kg benzene, 150 mg/kg benzo(a)pyrene, or intraperitoneally with 50 mg/kg cyclophosphamide with or without 0 to 500 mg/kg pyridine or xylene. The mice were killed 24 to 72 hours later and the femurs were removed. The bone marrow was isolated and assayed for micronuclei. Xylene inhibited the induction of micronuclei of benzene only when given at an equimolar dose or greater. No delay in the peak micronuclei response was seen. Pyridine at 60 mg/kg completely blocked the induction of micronuclei by 880 mg/kg benzene of 24 hours. Pyridine at 25 mg/kg completely blocked the clastogenic effect of 440 mg/kg benzene at 36 to 76 hours and partially blocked micronuclei induction at 24 hours. The clastogenicity of benzo(a)pyrene was inhibited by pyridine only at doses of 100 mg/kg or more. Pyridine showed no protective effect against micronuclei induction by cyclophosphamide at any concn; micronuclei formation was enhanced by 60 to 260 mg/kg pyridine. Since the results suggested that the biological activation of benzene was due to different cytochrome p450 isozymes than the ones activating benzo(a)pyrene or cyclophosphamide, DBA/2 mice (aryl hydrocarbon hydrolase noninducible) and C57B1/6 mice with or without pretreatment with methylcholanthrene were dosed once or three times with benzene and the effects on bone marrow micronuclei were examined as before. Micronuclei formation was greater in DBA/2 mice. The effect was potentiated by methylcholanthrene. The cytochrome p450 isozyme involved in activating benzene is one of the enzymes induced by methylcholanthrene, independent of the high affinity aryl hydrocarbon hydrolase receptor."
+        },
+        {
+            "References": "PMID:19449395",
+            "Value": "Benzene is a widespread volatile compound and an environmental contaminant. Since it causes important toxic effects in workers exposed to low levels, long-term exposure to this compound has been extensively studied. Leukemia, blood disorders, bone marrow depression, and some types of cancer are directly related to benzene-initiated toxicity. Bioactivation of benzene can lead to the formation of hazardous metabolites such as phenol, hydroquinone, and catechol. Catechol forms semiquinones and reactive quinones that are presumed to play an important role in the generation of reactive oxygen species (ROS). ROS formation can directly induce single and double strand breaks in the DNA, oxidized nucleotides, and hyper-recombination, and consequently produces deleterious genetic changes. In this review, we have addressed the cytotoxic effects of benzene and its main metabolite, catechol, focusing on the oxidative pathway and further DNA damage."
+        },
+        {
+            "References": "PMID:17161514",
+            "Value": "Chronic occupational exposure to benzene has been correlated with aplastic aneamia and acute myelogenous leukemia, however mechanisms behind benzene toxicity remain unknown. Interestingly, benzene-initiated hematotoxicity is absent in mice lacking the aryl hydrocarbon receptor (AhR) suggesting an imperative role for this receptor in benzene toxicities. This study investigated two potential roles for the AhR in benzene toxicity using hepa 1c1c7 wild type and AhR deficient cells. Considering that many toxic effects of AhR ligands are dependent on AhR activation, our first objective was to determine if benzene, hydroquinone (HQ) or benzoquinone (BQ) could activate the AhR. Secondly, because the AhR regulates a number of enzymes involved in oxidative stress pathways, we sought to determine if the AhR had a role in HQ and BQ induced production of reactive oxygen species (ROS). Dual luciferase assays measuring dioxin response element (DRE) activation showed no significant change in DRE activity after exposure to benzene, HQ or BQ for 24h. Immunofluorescence staining showed cytosolic localization of the AhR after 2h incubations with benzene, HQ or BQ. Western blot analysis of cells exposed to benzene, HQ or BQ for 1, 12 and 24h did not demonstrate induction of CYP1A1 protein expression. Dichlorodihydrofluorescein staining of cells exposed to benzene, HQ or BQ revealed that the presence of the AhR did not affect BQ and HQ induced ROS production. These results indicate that the involvement of the AhR in benzene toxicity does not seem to be through classical activation of this receptor or through interference of oxidative stress pathways."
+        },
+        {
+            "References": "PMID:15935810",
+            "Value": "NADPH:quinone oxidoreductase 1 (NQO1) may perform multiple functions within the cell. It is known to detoxify benzene-derived quinones and generate antioxidant forms of ubiquinone and Vitamin E. Recently suggested roles for NQO1 which may have relevance for mechanisms underlying benzene toxicity include modulation of cellular redox balance, direct scavenging of superoxide, stabilization of p53 and stabilization of microtubules. The NQO1*2 polymorphism is a single nucleotide polymorphism, a C to T change at position 609 of the NQO1 cDNA coding for a proline to serine change at position 187 of the amino acid structure of the protein. The mutant NQO1*2 protein is rapidly degraded by the ubiquitin proteasomal system resulting in a lack of NQO1 protein in individuals carrying the NQO1*2/*2 genotype. The NQO1*2 polymorphism predisposes to benzene toxicity and to various forms of leukemias. NQO1-knockout animals demonstrate myeloid hyperplasia and increased benzene-induced hematotoxicity. NQO1 is not present in freshly isolated human bone marrow hematopoietic cells but can be induced by benzene metabolites. Increases in NQO1 were not observed in NQO1*2/*2 hematopoietic cells, presumably because of the instability of the NQO1*2 protein, suggesting that cells with this genotype would not benefit from any protective effects of NQO1. NQO1 is present in human bone marrow stroma and particularly in endothelial cells. Studies of the functions and distribution of NQO1 in human bone marrow may provide clues to mechanisms underlying benzene toxicity."
+        },
+        {
+            "References": "PMID:19941840",
+            "Value": "Reactive metabolites formed from benzene include benzene oxide, trans,trans muconaldehyde, quinones, thiol adducts, phenolic metabolites and oxygen radicals. Susceptibility to the toxic effects of benzene has been suggested to occur partly because of polymorphisms in enzymes involved in benzene metabolism which include cytochrome P450 2E1, epoxide hydrolases, myeloperoxidase, glutathione-S-transferases and quinone reductases. However, susceptibility factors not directly linked to benzene metabolism have also been associated with its toxicity and include p53, proteins involved in DNA repair, genomic stability and expression of cytokines and/or cell adhesion molecules. In this work, /the authors/ examine potential relationships between metabolic and non-metabolic susceptibility factors using the enzyme NAD(P)H:quinone oxidoreductase (NQO1) as an example. NQO1 may also impact pathways in addition to metabolism of quinones due to protein-protein interactions or other mechanisms related to NQO1 activity. NQO1 has been implicated in stabilizing p53 and in maintaining microtubule integrity. Inhibition or knockdown of NQO1 in bone marrow endothelial cells has been found to lead to deficiencies of E-selectin, ICAM-1 and VCAM-1 adhesion molecule expression after TNFalpha stimulation. These examples illustrate how the metabolic susceptibility factor NQO1 may influence non-metabolic susceptibility pathways for benzene toxicity."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Siddiqui SM et al; Toxicol 48 (3): 245-51 (1988)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The effect of a single dose of benzene (0.5 mL/kg body wt ip) on the heme saturation of tryptophan pyrrolase activity in liver was examined /in female albino rats/. There was a significant decrease in the heme saturation of hepatic tryptophan pyrrolase, suggesting depletion of regulatory heme. After benzene administration there was significant increase in delta-aminolevulinate synthetase activity while delta-aminolevulinate dehydratase activity was significantly decreased, however, ferrochelatase and heme oxygenase activities were unaltered. Administration of tryptophan to benzene pretreated rats showed a reversal of benzene effects on heme synthesizing enzymes: there is an increase in the heme saturation of tryptophan pyrrolase and decrease in delta-aminolevulinate synthetase. However, there was no significant alteration in the activity of delta-aminolevulinate dehydratase."
+        },
+        {
+            "References": "Magos GA et al; Neurotoxicol Teratol 12 (2): 119-24 (1990)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Rats exposed to 3,526-8,224 ppm of benzene in a closed chamber for 15 min exhibited an increased number of ectopic ventricular beats."
+        },
+        {
+            "References": "Kanada M et al; Ind Health 32: 145-64 (1994)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Sprague-Dawley rats received a single dose of 950 mg/kg benzene by gavage and were sacrificed 2 hr after treatment. The control group received nothing. Brains were dissected ... Results showed that benzene decreased acetylcholine content of rat hippocampus. 3,4-Dihydroxyphenylalanine and norepinephrine content decreased in the rat midbrain. Dopamine, serotonin and 5-hydroxyindoleacetic acid content increased in the rat midbrain. Dopamine, 3,4-dihydroxyphenylacetic acid, norepinephrine, and 5-hydroxyindoleacetic acid content increased and serotonin content decreased in the rat hypothalamus after oral administration of benzene. Increased dopamine, homovanillic acid, 3-methoxy-4-hydroxyphenylglycol, and serotonin content of rat medulla oblongata was observed. Decreased norepinephrine and 5-hydroxyindoleacetic acid content of rat medulla oblongata by benzene treatment was observed."
+        },
+        {
+            "References": "National Research Council. Drinking Water & Health Volume 1. Washington, DC: National Academy Press, 1977., p. 689",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In series of chronic studies, bilateral cataracts were found in 50% of rats exposed /to/ ... 50 ppm for 600 hr ..."
+        },
+        {
+            "References": "PMID:3783773",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Female Wistar rats were exposed to various solvent vapors 8 hr/day for 7 days. The leukocyte suspension and serum were prepared from peripheral blood and utilized for the determination of alkaline phosphatase activity with disodium phenyl phosphate as a substrate (leukocyte alkaline phosphatase and serum assay). While the exposure to benzene at 20 or 50 ppm did not cause significant changes in leukocyte alkaline phosphatase assay activity, the exposure at 100 to 300 ppm resulted in a dose-dependent increase of leukocyte alkaline phosphatase assay activity up to more than 100% over the control. No further increase was observed at 1000 or 3000 ppm. Similar exposure at 300 ppm to either toluene, m-xylene, n-hexane, trichloroethylene, methyl ethyl ketone, ethyl acetate, or methyl alcohol did not induce any changes in leukocyte alkaline phosphatase assay activity. Thus, the increase in leukocyte alkaline phosphatase assay activity was considered to be specific to benzene exposure. When the animals were exposed to toluene (300 ppm) in combination with benzene (300 ppm), not only was the benzene induced leukopenia alleviated as previously reported, but the benzene induced increase in leukocyte alkaline phosphatase assay activity was no longer observed. The parallel inhibitory effects of toluene on benzene induced increase in leukocyte alkaline phosphatase assay and leukopenia suggest that a relation may exist between increase in leukocyte alkaline phosphatase assay activity and leukopenia. No changes in serum alkaline phosphatase assay activities were observed in the rats under the exposure conditions examined."
+        },
+        {
+            "References": "Farris GM et al; Fundam Appl Toxicol 20 (4): 503-7 (1993)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Granulocytic hyperplasia has been detected in the bone marrow of mice exposed to 300 ppm benzene in air for 6 hr/day, 5 days/wk for 16 wk, and held 18 mos after the last exposure."
+        },
+        {
+            "References": "Li L et al; Biomed Environ Sci 5 (4): 349-54 (1992)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ /Researchers/ observed a 26% decrease in spleen weight in male Kunming mice exposed to 12.52 ppm benzene 2 hr/day, 6 days/wk for 30 days. Examination of the bone marrow showed decreases in myelocytes, premyelocytes, myeloblasts, and metamyeloblasts at the same dose level."
+        },
+        {
+            "References": "Luke CA et al; Mutat Res 203: 251-71 (1988)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Experimental DBA/2 mice were exposed to 300 ppm benzene for 6 hr/day for 5 days/wk (Regimen 1) or 3 day/wk (Regimen 2) for a duration of 1-13 wk. Polychromatic erythrocytes were affected by benzene inhalation independent of exposure duration and regimen, while normochromatic erythrocytes were affected only following Regimen 1 exposure. Males were more sensitive to benzene inhalation than females."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V7 209 (1974)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ ... 30 Male AKR, DBA2, C3H or C57Bl6 mice were given weekly sc injections of 0.001 mL benzene in 0.1 mL olive oil for life. No tumors were found in mice of DBA2, C3H or C57Bl6 strains, the max lifespan being 730 days. Between 7th & 16th mo of treatment 16/30 treated AKR mice died with leukemia, in addition, 8 died before age of 9 mo without leukemia. However, leukemia was also observed in 30/35 AKR untreated mice which lived, on avg, longer than test animals."
+        },
+        {
+            "References": "PMID:725954",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Lifetime exposure of C57Bl/6J mice to 100 or 300 ppM (320 or 958 mg/cu m) benzene produces anemia, lymphocytopenia & neutrophilia assoc with a relative incr in the number of immature leucocytes & decr in mature leucocytes in circulation. Subcutaneously admin benzene led to a selective depression in B-lymphocytes in rabbits, whereas T- lymphocytes were more resistant."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V29 108 (1982)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Male Charles River CD-1 mice (number unspecified) were exposed for 6 hr/day, 5 days/wk, for life to atmospheres containing ... levels of 0 (control), 100 ppm (320 mg/cu m) or 300 ppm (958 mg/cu m). Two mice in high-exposure group develop myelogenous (myeloid) leukemia. ... There was no evidence of leukemic response in 45 male 6 wk old Sprague-Dawley rats exposed to ... 900 mg/cu m (300 ppm) ... for 6 hr/day, 5 days/wk, for life. Exposure was terminated at wk 99 when the last test animal died. Controls were 27 males of same strain & age. ... Sprague-Dawley rats & AKR mice exposed to benzene (300 ppm, 958 mg/cu m) for 6 hr/day, 5 days/wk for life had lymphocytopenia, with little evidence of anemia. AKR mice were more sensitive to benzene-induced leucopenia than ... rats. /Mice also displayed agranulocytosis & reticulocytosis. No evidence of leukemia was reported/."
+        },
+        {
+            "References": "USEPA; Ambient Water Quality Criteria: Benzene p.C-48 (1980) EPA 440/5-80-018",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Weanling male C57BL/6N mice were subcutaneously injected twice weekly for 44 weeks and once weekly for the last 10 weeks, gradually incr the dose from 450 mg/kg to 1.8 g/kg. The mice were killed 104 weeks after the first injection, and no evidence of carcinogenic activity was found in either the benzene-treated mice or the negative controls. Butylnitrosourea induced leukemia, lymphomas, and/or intestinal neoplasms/were observed/ in almost all the positive controls."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V29 108 (1982)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Two groups of 40 male C57Bl/6J mice, 6 wk old, were exposed to atmospheres containing 0 or 900 mg/cu m (300 ppm) benzene for 6 hr/day, 5 days/wk, for life. The exposure ended after 488 days with the death of the last test mouse. In addn to anemia, lymphocytopenia, neutrophilia & bone-marrow hyperplasia, 6 of 40 mice exposed ... developed lymphocytic lymphoma with thymic involvement (p< 0.01 for lymphomas, according to peto's log-rank method), 1 plasmacytoma & 1 hematocytoblastic leukemia. Avg survival time of the 8 tumor-bearing mice was 262 days. Two of the 40 control animals died from lymphocytic lymphoma with no thymic involvement after 282 & 608 days, respectively. Differences in incidence & induction time of tumors between the groups were statistically significant."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V29 106 (1982)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Three groups of 30 or 35 male & ... female Sprague-Dawley rats, 13 wk old, received 50 or 250 mg/kg body wt benzene (purity unspecified) dissolved in pure olive oil by stomach tube once daily on 4 or 5 days each wk during 52 weeks. Groups of 30 male & 30 female controls received olive oil only. The rats were allowed to live until spontaneous death or were killed at 144 weeks, the end of expt; avg survival times were unspecified. Of females of the control, low- & high-dose groups, 0/30, 2/30 & 8/32, respectively, developed zymbal gland carcinomas (Cochran-Armitage test for pos trend; p= 0.001; Fisher exact test for control versus high-dose group: p= 0.003); 3/30, 4/30 & 7/32 developed mammary gland carcinomas; & 1/30, 2/30 & 1/32 developed leukemias. No such tumors were found in males, except that leukemias occurred in 4/32 high-dose males (Cochran-Armitage test for pos trend; p= 0.008; Fisher exact test: p< 0.069). Background incidence of zymbal gland carcinomas in several thousand male & female rats of same strain ... /was/ about 0.7%. Avg latent period of mammary gland carcinomas was 88 wk in each test groups versus 110 wk in control ... ."
+        },
+        {
+            "References": "PMID:3790732",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Benzene hematotoxicity and leukemogenesis were investigated to verify epidemiological estimates to the effect that leukemia had developed in human beings exposed to benzene for about 15% of their lifetime, and that the levels of exposure reached at times as high as 250 to 300 ppm for at least a portion of working day. Based on a review of the literature and ongoing studies, mice were exposed to benzene vapor for 6 hr/day, 5 days/week for 16 weeks. Exposure of male CBA/Ca mice to 300 ppm benzene proved to be highly carcinogenic and leukemogenic compared to unexposed controls. Male and female CBA/Ca mice exposed to 100 ppm benzene, according to the same schedule, showed 30% mortality as compared to 12% in controls, while for neoplasms the respective figures were 10% and 1%. In this case, exposure to benzene reduced the cellularity of the bone marrow and the number of stem cells, while DNA synthesis increased. /Data indicates/ that benzene is carcinogenic in both animals and man and although it is unlikely that the slope for animals and man would be the same, the investigation of the linearity of the response would be helpful."
+        },
+        {
+            "References": "Toxicology & Carcinogenesis Studies of Benzene in F344/N Rats and B6C3F1 Mice (Gavage Studies). Technical Report Series No. 289 (1986) NIH Publication No. 86-2545 U.S. Department of Health and Human Services, National Toxicology Program, National Institute of Environmental Health Sciences, Research Triangle Park, NC 27709",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ ... Under the conditions of these 2 yr gavage studies, there was clear evidence of carcinogenicity of benzene for male F344/N rats, for female F344/N rats, for male B6C3F1 mice and for female B6C3F1 mice. For male rats, benzene caused increased incidences of Zymbal gland carcinomas, squamous cell papillomas and squamous cell carcinomas of the oral cavity, and squamous cell papillomas and squamous cell carcinomas of the skin. For female rats, benzene caused increased incidences of Zymbal gland carcinomas, squamous cell papillomas, and squamous cell carcinomas of the oral cavity. For male mice, benzene caused increased incidences of Zymbal gland squamous cell carcinomas, lymphomas, alveolar/bronchiolar carcinomas and alveolar/bronchiolar adenomas or carcinomas (combined), Harderian gland adenomas, and squamous cell carcinomas of the preputial gland. For female mice, benzene caused increased incidences of malignant lymphomas, ovarian granulosa cell tumors, ovarian benigh mixed tumors, carcinomas and carcinosarcomas of the mammary gland, alveolar/bronchiolar adenomas, alveolar/bronchiolar carcinomas, and Zymbal gland squamous cell carcinomas. ..."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V29 111 (1982)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Rats, guinea-pigs, & rabbits exposed to 80-88 ppm (256-281 mg/cu m) for 7 hr/day for 30-40 wk had incr testicular wt & degeneration of seminiferous tubules. ... Alteration of estrous cycles has been reported in rats exposed to 1.6 or 9.4 ppm (5 or 30 mg/cu m) for 4 mo ... but there was no effect on their subsequent fertility or litter size. ... In C3H(JAX) mice whose ovaries were painted directly ... & which were later mated, a high incidence of sc hemorrhages & tail defects was observed in offspring, which persisted through 4 generations."
+        },
+        {
+            "References": "PMID:725954",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Sprague-Dawley rats were exposed to 100, 300, & 2200 ppm of benzene vapor in air for 6 hr daily on days 6-15 of gestation. The mean body wt & crown-rump length were lower than control groups only at the highest exposure level. Skeletal exam showed an incr in the number of fetuses with delayed ossification of sternebrae in the 300- & 2200-ppm groups. The female offspring appeared to be affected to a greater extent than male fetuses with respect to the incidence of delayed ossification of sternebrae. Lifetime exposure of C57Bl/6J mice to 100 or 300 ppM (320 or 958 mg/cu m) benzene produces anemia, lymphocytopenia & neutrophilia assoc with a relative incr in the number of immature leucocytes & decr in mature leucocytes in circulation. Subcutaneously admin benzene led to a selective depression in B-lymphocytes in rabbits, whereas T- lymphocytes were more resistant."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V29 111 (1982)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Single sc injection of 3 ml/kg body wt ... on 1 of days 11-15 of gestation to CFI mice caused cleft palate, agnathia & micrognathia in offspring ... . (No controls were used, & it is very likely that these effects were produced by stress of the injection). Several other studies in pregnant mice exposed to benzene, (2 & 4 mL/kg body wt sc, 0.3 to 1.0 mL/kg body wt orally or 500 ppm (1597 mg/cu m) by inhalation for 7 hr/day all failed to show any teratogenic effect, although reduced fetal wt & occasional embryolethality were observed. Similarly, several inhalation studies in rats have shown embryolethality & reduced fetal wt but only occasional teratogenic effects: Sprague-Dawley rats exposed to 10, 50, or 500 ppm (32, 160 & 1600 mg/cu m) for 7 hr/day had low incidence of brain & skeletal defects but no embryolethality at 50 or 500 ppm, & no abnormality or embryolethality at lower levels ... . No teratogenic effect was seen in pregnant rats exposed to 10 or 40 ppm (32 or 128 mg/cu m) for 6 hr/day ..., to 313 ppm (1000 mg/cu m) for 24 hr/day or for 6 hr/day ... or to 400 mg/cu m (125 ppm) for 24 hr/day (Tatrai et al 1980). No teratogenic effect has been reported in rabbits injected sc with 0.25 ml/kg of a 40% benzene soln daily during pregnancy ... or in rabbits exposed by inhalation to 500 ppm (1600 mg/cu m) for 7 hr/day on days 6-18 of pregnancy."
+        },
+        {
+            "References": "Gofmekler VA; Hyg Sanit 33: 327 (1968)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Rats exposed continuously to 209.7 ppm for 10 days prior to breeding showed a complete absence of pregnancy. 1/10 rats exposed to 19.8 ppm had resorbed embryos. Females showed an inverse relationship between dose (0.3-209.7 ppm) and number of offspring."
+        },
+        {
+            "References": "PMID:3798466",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Groups of 5 to 10 pregnant Swiss-Webster mice were exposed to concentrations of 0, 5, 10, or 20 ppm benzene from days 6 through 15 of gestation and offspring of exposed dams were examined for untoward effects. Litter sizes, fetal weights, numbers of dead, resorbed, or malformed fetuses were within control limits. In the fetuses (day 16 of gestation), the number of mature erythroid precursor cells (CFU-E) was decreased at 20 ppm benzene. In the neonates, the number of CFU-E cells was increased at 20 ppm benzene. Granulocytic colony forming cells (GM-CFU-C) were affected by the 2 higher exposure concentrations. Adult mice treated in utero when re-exposed to benzene showed a more severe decrease in splenic GM-CFU-C than controls."
+        },
+        {
+            "References": "PMID:3665857",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ A review was presented of data for ... chemicals for which either ovarian toxicity or carcinogenicity, or both, have been documented in recent studies /conducted by/ the National Toxicology Program. In most cases, ovarian atrophy was commonly found after 90 days of exposure, and ovarian hyperplasia and neoplasia after longer periods. Benzene administered by gavage produced ovarian atrophy, cysts, hyperplasia and neoplasia in mice."
+        },
+        {
+            "References": "WHO; Environmental Health Criteria 150: Benzene p.16 (1993)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ /Benzene/ has been shown to be fetotoxic following inhalation exposure in mice (1600 ug/cu m, 7 hr/day, gestation days 6-15) and in rabbits."
+        },
+        {
+            "References": "Chapman DE et al; Toxicol Appl Pharmacol 128 (1): 129-37 (1994)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ In /a/ study of cultured rat embryos, /researchers/ evaluated the embryotoxic effects of benzene and several of its metabolites. Benzene at 1.6 mM produced little embryotoxicity, with or without hepatic activating enzymes, but phenol showed significant embryotoxicity in the presence of hepatic activation at concentrations as low as 0.01 mM. Trans,trans-muconaldehyde was embryotoxic at 0.01 mM and embryolethal at 0.05 mM; hydroquinone, catechol, and benzoquinone were all 100% embryolethal at 0.1 mM."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V29 115 (1982)",
+            "Value": "/GENOTOXICITY/ ... Studies have demonstrated the induction of chromosomal aberrations in bone-marrow cells from mice, rats, and rabbits treated with single or multiple daily doses of benzene ranging from about 0.2 to 2.0 mL/kg per day & given either sc or ip. Most of the induced aberrations were breaks or deletions; but chromosome-type aberrations also occurred, particularly after prolonged exposure, when toxicity, manifested by a drop in peripheral blood leucocyte count, appeared. ... A significant elevated level of aberrations are seen up to 8 days after a single ip injection of 0.5 mL/kg body wt in rats, whereas aberrations were significantly incr in mice 24 hr but not 7 days after receiving a similar dose, 0.5 mL/kg body wt."
+        },
+        {
+            "References": "PMID:7329437",
+            "Value": "/GENOTOXICITY/ Bone marrow cells from mice orally dosed with 56-2050 mg/kg on two successive days showed dose-related incr in incidences of chromosomal gaps and single breaks, multiple breaks at or above 139 mg/kg, pulverization at or above 348 mg/kg, and cytotoxicity at 2050 mg/kg."
+        },
+        {
+            "References": "PMID:48190",
+            "Value": "/GENOTOXICITY/ Mice orally dosed with 0.22-1.65 g/kg showed a positive dose-related increase in polychromatic erythrocytes in the micronucleus test."
+        },
+        {
+            "References": "USEPA; Ambient Water Quality Criteria: Benzene p.C-44 (1980) EPA 440/5-80-018",
+            "Value": "/GENOTOXICITY/ Chromosomal abnormalities in bone marrow cells have been reported as a consequence of experimental benzene exposure in a number of species including rats, rabbits, mice, and amphibians."
+        },
+        {
+            "References": "USEPA; Ambient Water Quality Criteria: Benzene p.C-44 (1980) EPA 440/5-80-018",
+            "Value": "/GENOTOXICITY/ Chromatid deletions in metaphase chromosomes of bone marrow cells have been found in rats given single doses of subcutaneous benzene at 2 ml/kg and in rats given 1 g/kg/day for 12 days."
+        },
+        {
+            "References": "USEPA; Ambient Water Quality Criteria: Benzene p.C-44 (1980) EPA 440/5-80-018",
+            "Value": "/GENOTOXICITY/ After rats were dosed with 0.5 mL/kg intraperitoneally, no dominant lethality was found; however, incr chromatid and chromosomal aberrations were reported."
+        },
+        {
+            "References": "PMID:12615705",
+            "Value": "/GENOTOXICITY/  Enzymes that activate and detoxify benzene are likely genetic determinants of benzene-induced toxicity.NAD(P)H: quinone oxidoreductase-1 (NQO1) detoxifies benzoquinones, proposed toxic metabolites of benzene. NQO1 deficiency in humans is associated with an increased risk of leukemia, specifically acute myelogenous leukemia, and benzene poisoning. /The authors/ examined the importance of NQO1 in benzene-induced toxicity by hypothesizing that NQO1-deficient (NQO1-/-) mice are more sensitive to benzene than mice with wild-type NQO1 (NQO1+/+; 129/Sv background strain). Male and female NQO1-/- and NQO1+/+ mice were exposed to inhaled benzene (0, 10, 50, or 100 ppm) for 2 weeks, 6 hr/day, 5 days/week. Micronucleated peripheral blood cells were counted to assess genotoxicity. Peripheral blood counts and bone marrow histology were used to assess hematotoxicity and myelotoxicity. p21 mRNA levels in bone marrow cells were used as determinants of DNA damage response. Female NQO1-/- mice were more sensitive (6-fold) to benzene-induced genotoxicity than the female NQO1+/+ mice. Female NQO1-/- mice had a 9-fold increase (100 versus 0 ppm) in micronucleated reticulocytes compared with a 3-fold increase in the female NQO1+/+ mice. However, the induced genotoxic response in male mice was similar between the two genotypes (> or = 10-fold increase at 100 ppm versus 0 ppm). Male and female NQO1-/- mice exhibited greater hematotoxicity than NQO1+/+ mice. p21 mRNA levels were induced significantly in male mice (>10-fold) from both strains and female NQO1-/- mice (> 8-fold), which indicates an activated DNA damage response. These results indicate that NQO1 deficiency results in substantially greater benzene-induced toxicity. However, the specific patterns of toxicity differed between the male and female mice."
+        },
+        {
+            "References": "PMID:12857942",
+            "Value": "/GENOTOXICITY/ Benzene, a carcinogen that induces chromosomal breaks, is strongly associated with leukemias in humans. Possible genetic determinants of benzene susceptibility include proteins involved in repair of benzene-induced DNA damage. The catalytic subunit of DNA-dependent protein kinase (DNA-PKcs), encoded by Prkdc, is one such protein. DNA-PKcs is involved in the nonhomologous end-joining (NHEJ) pathway of DNA double-strand break (DSB) repair. Here /the authors/ compared the toxic effects of benzene on mice (C57BL/6 and 129/Sv) homozygous for the wild-type Prkdc allele and mice (129/SvJ) homozygous for a Prkdc functional polymorphism that leads to diminished DNA-PK activity and enhanced apoptosis in response to radiation-induced damage. Male and female mice were exposed to 0, 10, 50, or 100 ppm benzene for 6 hr/d, 5 d/week for 2 weeks. Male mice were more susceptible to benzene toxicity compared with females. Hematotoxicity was evident in all male mice but was not seen in female mice. /The authors/ observed similar, large increases in both micronucleated erythrocyte populations in all male mice. Female mice had smaller but significant increases in micronucleated cells. The p53-dependent response was induced in all strains and genders of mice following benzene exposure, as indicated by an increase in p21 mRNA levels in bone marrow that frequently corresponded with cell cycle arrest in G2/M. Prkdc does not appear to be a significant genetic susceptibility factor for acute benzene toxicity. Moreover, the role of NHEJ, mediated by DNA-PK, in restoring genomic integrity following benzene-induced DSB remains equivocal."
+        },
+        {
+            "References": "PMID:3422522",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Benzene is a potent bone marrow toxin in animals and man. Animal studies have shown that exposure to benzene can alter lymphocyte functions and decrease the resistance of animals to Listeria monocytogenes and transplanted tumor cells. Mononuclear phagocytes participate in host resistance to Listeria and tumor cells. The purpose of the studies presented here was to determine the effects of benzene and benzene metabolites on macrophage functions and the ability of macrophages to be activated for functions which are important in host defense. Benzene had no effects on macrophage function or activation for any of the functions tested. Conversely, metabolites of benzene, catechol, hydroquinone, benzquinone, and 1,2,4-benzenetriol had potent and varied effects on macrophage function and activation. Benzoquinone inhibited the broadest range of functions including release of hydrogen peroxide, Fc receptor-mediated phagocytosis, interferon gamma priming for tumor cell cytolysis, and bacterial lipopolysaccharide triggering of cytolysis. Benzoquinone was also the most potent metabolite causing inhibition at lower concentrations than the other metabolites. Hydroquinone inhibited hydrogen peroxide release and priming for cytolysis and 1,2,4-benzenetriol inhibited phagocytosis and priming for cytolysis. Catechol only inhibited the release of hydrogen peroxide. None of the compounds tested inhibited the induction of class II histocompatibililty antigens on the cell surface. All of the effects measured occurred using concentrations of compounds which did not disrupt the cell integrity or inhibit general functions such as protein synthesis. Taken together these data suggest that benzene metabolites alter macrophage function through several mechanisms including inhibition of output enzymes and disruption of signal transduction systems."
+        },
+        {
+            "References": "PMID:3606384",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ The effects of five straight alkane petroleum hydrocarbons (nC6 to nC10), as well as benzene and toluene upon lysosomal enzymes of the lung were investigated. Pulmonary alveolar macrophages were obtained from adult male Sprague Dawley rats and from 3 month old New-Zealand white rabbits by bronchial lavage. These cells were cultured and subsequently exposed to hydrocarbons in Leighton tubes. All hydrocarbons examined were cytotoxic to cultured pulmonary alveolar macrophages in a dose dependent manner, with benzene and toluene being least toxic. The concentration of hydrocarbon producing death in 50% of treated rat cells was 1.0 millimolar (mM) for nC8, 2.0 mM for nC7, 5 mM for nC9, and about 10 mM for nC6, nC10, benzene and toluene. Concentrations of hydrocarbons that killed 50% of rabbit macrophages were about half those observed in the rat. Cathepsin-D and, to a lesser extent, cathepsin-B release were stimulated upon addition of hydrocarbons to the cell media. A similar but more pronounced release of cathepsins was observed in isolated lysosomes as well. A significant decrease in cell respiration rate and a time and dose dependent increase in lipid peroxidation were also observed following exposure of macrophages to the tested hydrocarbons, particularly nC7 and nC8 alkanes. These results support the concept of an association between chain length and cytotoxicity of hydrocarbons in pulmonary alveolar macrophages."
+        },
+        {
+            "References": "PMID:6185244",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ When mitochondria are incubated in vitro with 2200 mg/kg of benzene there is an inhibition of RNA synthesis. Benzene also caused a dose-dependent inhibition of RNA synthesis in vitro in mitoplasts derived from cat and rabbit bone marrow mitochondria. Exogenous NADPH is required for inhibition of mitochondrial RNA synthesis in all these systems which suggests that benzene must be bioactivated within the organelle. Toluene does not inhibit RNA synthesis and the simultaneous addition of equimolar toluene and benzene results in protection against benzene inhibition. Both liver and bone marrow mitochondria incubated (3H) with benzene appear to activate benzene to a metabolite which can covalently bind to guanine residues of DNA. Benzene also inhibits mitochondrial translation."
+        },
+        {
+            "References": "U.S. Dept Health & Human Services/Agency for Toxic Substances & Disease Registry; Toxicological Profile for Benzene p.73 PB2008-100004 (2007). Available from, as of August 12, 2014: https://www.atsdr.cdc.gov/toxprofiles/index.asp",
+            "Value": "/OTHER TOXICITY INFORMATION/ /An/ ... animal study ... investigated the effects of acute inhalation exposure to high concentrations of benzene vapor on the heart muscle of cats and monkeys. Information from the electrocardiograms indicated that exposure to benzene vapor caused extra systoles and ventricular tachycardia of the prefibrillation type. Animals that had their adrenals and stellate ganglias removed did not exhibit extra systoles or ventricular tachycardia. These findings suggest that the arrhythmias were caused by catecholamine release and sympathetic discharge."
+        },
+        {
+            "References": "Dobrokhotov VB; Gig Sanit 37: 36 (1972)",
+            "Value": "/OTHER TOXICITY INFORMATION/ Rabbits and rats injected subcutaneously with 0.2 mg/kg/day showed an incr frequency of bone marrow mitoses."
+        },
+        {
+            "References": "USEPA; Ambient Water Quality Criteria: Benzene p.C-45 (1980) EPA 440/5-80-018",
+            "Value": "/OTHER TOXICITY INFORMATION/ Benzene is a mitotic poison, producing a decr in DNA synthesis in animal bone marrow cells in vitro."
+        },
+        {
+            "References": "USEPA; ECAO Atlas Document: Benzene IV-11 (1980)",
+            "Value": "/OTHER TOXICITY INFORMATION/ The best evidence that benzene must be metabolized to produce bone marrow depression is based on: 1) the observation that benzene toxicity is prevented by coadministration of toluene, which inhibits benzene metabolism; and 2) that partial hepatectomy (which decreases benzene metabolism) also decreases benzene toxicity."
+        },
+        {
+            "References": "USEPA; ECAO Atlas Document: Benzene IV-11 (1980)",
+            "Value": "/OTHER TOXICITY INFORMATION/ Reports indicate that protection against benzene toxicity in phenobarbital treated animals reflects the fact that phenobarbital increased the detoxification rate of benzene in the liver. Inhibition of metabolism by toluene and by aminotriazole has been found to protect animals by decreasing the rate of formation of toxic metabolites."
+        },
+        {
+            "References": "PMID:20035730",
+            "Value": "/OTHER TOXICITY INFORMATION/ Benzene-induced hematopoietic toxicity is an aryl hydrocarbon receptor (AhR)-related adverse effect that is not exhibited in AhR-knockout (KO) mice. In the hematopoietic system, the steady-state expression of AhRs is limited in the hematopoietic progenitor cells; thus, a hierarchical hematopoietic impairment starts from hematopoietic progenitor cells after benzene exposure. When one looks at wild-type recipient mice that have been lethally irradiated and repopulated with AhR-KO bone marrow cells, owing to reconstruction by the marrow from AhR-KO mice, no impairment is observed in the assay of granulo-macrophage colony-forming units (CFU-GMs) in the bone marrow after benzene exposure of the reconstituted mice. In contrast, in mature white blood cells concern, benzene-induced hematopoietic cytotoxicity is observed in the same reconstituted mice; however, this benzene-induced hematopoietic cytotoxicity in mature white blood cells is not induced in the case of AhR-KO mice repopulated with wild-type bone marrow cells after a lethal dose of irradiation. The mechanism of benzene-induced hematopoietic toxicity in the mature blood cells in AhR-KO mice is assumed to be based on metabolites such as phenol and hydroquinone derived from hepatic AhR. Thus, the former toxicity in mature white blood cells is assumed to be based on the metabolites of the wild-type hepatic AhR, whereas the latter lack of toxicity in mature blood cells in AhR-KO mice is due to the lack of benzene-induced metabolism in the liver. Global gene expression analysis of bone marrow cells after benzene exposure reveals that MEF2c, the functions of which are known to maintain lymphocyte differentiation and promote proliferation of hematopoietic progenitor cells, is commonly downmodulated not only in C57BL/6 but also in C3H/He mice. In response to these impairments of the hematopoietic progenitor cells and the niches, stochastic and reciprocal upregulations of integrin beta 2 and the Runx family are observed, which are known to stabilize hematopoietic niches during the steady-state. Direct observation of the hematopoietic progenitor cells, particularly the Lin(-)c-kit(+)Sca-1(+) (LKS) fraction, after benzene exposure revealed an increased amount of intracytoplasmic reactive oxygen species (ROS) detected by ROS-reacting dye as compared with other blood cell fractions."
+        },
+        {
+            "References": "PMID:15935811",
+            "Value": "/OTHER TOXICITY INFORMATION/ Quinone oxidoreductases (NQO1 and NQO2) are cytosolic proteins that catalyze metabolic reduction of quinones and its derivatives to protect cells against redox cycling and oxidative stress. In humans, a high percentage of individuals with myeloid and other types of leukemia are homo- and heterozygous for a null mutant allele of NQO1. The NQO2 locus is also highly polymorphic in humans. Recently, /the authors/ generated NQO1-/- and NQO2-/- mice deficient in NQO1 and NQO2 protein and activity, respectively. These mice showed no detectable developmental abnormalities and were indistinguishable from wild type mice. Interestingly, all the mice lacking expression of NQO1 and NQO2 protein demonstrated myelogenous hyperplasia of the bone marrow and increased granulocytes in the peripheral blood. Decreased apoptosis contributed to myelogenous hyperplasia. The studies on short-term exposure of NQO1-/- mice to benzene demonstrated substantially greater benzene-induced toxicity, as compared to wild type mice."
+        },
+        {
+            "References": "PMID:17157166",
+            "Value": "/OTHER TOXICITY INFORMATION/ Reactive oxygen species (ROS), generated following benzene exposure, are considered to trigger the development of hematopoietic neoplasms, although little supporting evidence has been found. In this study, /the authors/ examined whether the experimental elimination of ROS generated following benzene exposure prevents the development of benzene-induced hematopoietic disorders to clarify the mechanism underlying the development of benzene-induced hematopoietic disorders. C57BL/6 mice, overexpressing human thioredoxin (h-Trx-Tg), were used to examine the possible nullification of ROS induction following benzene exposure. The experimental group was exposed to 300 ppm benzene 6 hours/day, 5 days/week, for 26 weeks, and lifetime observation followed by molecular and histopathological examinations were carried out.The present study using h-Trx-Tg mice showed a complete suppression of the development of thymic lymphoma induced by benzene inhalation (0% in h-Trx-Tg vs 30% in wild-type (Wt) mice). This was associated with a 48% decrease in the incidence of clastogenic micronucleated reticulocyte induction in the h-Trx-Tg mice compared with the Wt control after 2 weeks of inhalation. As underlying mechanisms, the attenuation of oxidative stress was accompanied by a complete abrogation of hemato-lymphoid toxicity, as shown by the upregulation of the activity of superoxide-dismutase, and a consequently stable ROS level, as determined by cell sorting using 2', 7'-dichlorodihydrofluorescein diacetate, along with a significant attenuation of the overexpression of a cell cycle-dependent kinase inhibitor, p21. The attenuation of benzene-induced oxidative stress and that of the consequent lymphomagenesis were observed for the first time, and these indicate a role of oxidative stress in benzene-induced clastogenesis and lymphomagenesis. (These attenuations were not seen in nonthymic lymphomas, and no leukemias developed in C57BL/6 used in this study.) During the constitutive overexpression of h-Trx, the expression of aryl-hydrocarbon receptor in h-Trx-Tg mice was downregulated, which may also contribute to the attenuation."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Whelan JK et al; Geochim Cosmochim Acta 44: 1767-85 (1980) (2) Staples CA et al; Environ Toxicol Chem 4: 131-42 (1985)",
+            "Value": "SEDIMENT: Surface sediments taken from Walvis Bay (off Capetown, South Africa) contained benzene ranging from 0-20 ppb(1). In the US EPA STORET database, out of 355 samples, 9% tested positive for benzene at a median concentration of <5.0 ppb(2)."
+        },
+        {
+            "References": "(1) IARC; Monograph. Some Industrial Chemicals and Dyestuffs 29: 99-106 (1982)",
+            "Value": "SOIL: Soil near factories where benzene was used or produced contained benzene ranging from 2-191 ug/kg(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hodson J, Williams, NA; Chemosphere 17: 67-77 (1988) (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Zhang WX, Bouwer EJ; Biodegradation 8: 167-175 (1997) (4) Johnston CD et al; J Cont Hydrol 33: 377-404 (1998)",
+            "Value": "An experimentally derived log Koc of 1.93 (Koc = 85) was obtained via reverse phase HPLC (high performance liquid chromatography) with a cyanopropyl column and a mobile phase of water(1). According to a classification scheme(2), this estimated Koc value suggests that benzene is expected to have high mobility in soil. The sorption equilibrium for benzene in a soil/water mixture (ratio soil/water 0.12 kg/l) took 72 hrs(3). The Koc for benzene has also been experimentally determined to be 79(4)."
+        }
+    ]
+}

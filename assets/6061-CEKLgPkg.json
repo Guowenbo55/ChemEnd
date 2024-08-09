@@ -1,0 +1,246 @@
+{
+    "_id": {
+        "$oid": "6682e834c4e5dba5ffba246a"
+    },
+    "CID": {
+        "$numberInt": "6061"
+    },
+    "Name": "METHYLHYDRAZINE",
+    "IUPACName": "methylhydrazine",
+    "CanonicalSMILES": "CNN",
+    "Synonyms": [
+        "METHYLHYDRAZINE",
+        "60-34-4",
+        "Hydrazine",
+        "methyl-",
+        "Methyl Hydrazine",
+        "Monomethylhydrazine",
+        "Methyl-hydrazine",
+        "1-Methylhydrazine",
+        "Metylohydrazyna",
+        "RCRA waste number P068",
+        "N-methylhydrazine",
+        "2-methylhydrazine",
+        "CH3NHNH2",
+        "MMH",
+        "UWA30B5Z1J",
+        "CHEMBL160520"
+    ],
+    "IsomericSMILES": "CNN",
+    "INCHI": "InChI=1S/CH6N2/c1-3-2/h3H,2H2,1H3",
+    "INCHIKEY": "HDZGCSFEDULWCS-UHFFFAOYSA-N",
+    "Formula": "CH6N2",
+    "MolecularWeight": {
+        "$numberDouble": "46.072"
+    },
+    "Description": "Methylhydrazine and its salts can cause cancer according to The National Institute for Occupational Safety and Health (NIOSH).",
+    "XlogP": {
+        "$numberDouble": "-0.9"
+    },
+    "Complexity": {
+        "$numberInt": "2"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Washington, DC: Amer Chem Soc, p. 3 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29:1501-14 (1994)",
+            "Value": "An estimated BCF value of 3 was calculated for methylhydrazine(SRC), using a measured log Kow of -1.05(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF value suggests that bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Kane DA, Williamson KJ; Arch Environ Contam Toxicol 12: 447-53 (1983) (2) Wachinski AM, Farmwald JA; The Toxicity and Biodegradability of Hydrazine Wastewaters Treated With UV-Chlorinolysis. Final Report December 1978-February 1979. Eng Serv Lab, Air Force Eng Serv Cent, Tyndall AFB, FL USA, AFESC/ESL/ESL-TR-80-31; AD-AO94 187 (1980) (3) Nwankwoala AU et al; Microbial Degradation of Methylhydrazine Contaminated NASA Wastewater. In: Amer. Chem. Soc. Div. Environ. Chem. Preprint Extend. Abstr., 217th ACS Nat. Meet., Vol. 39, PP. 43-44 (1999) (4) Nwankwoala AU et al; Biodegradation 10: 105-112 (1999) (5) ATSDR; Agency For Toxic Substances and Disease Registry Toxicological Profile For Hydrazines. U.S. Department of Health & Human Services, Atlanta, GA (1998)",
+            "Value": "The toxicity of methylhydrazine to microbial species was found to be sufficiently high to prevent its degradation by biological waste treatment(1). Large amounts of methylhydrazine, such as might be released from a spill, are not expected to biodegrade. However, biodegradation of lower methylhydrazine concn may occur(SRC). Methylhydrazine at 500 mg/l, present in a wastewater mixture of hydrazine compounds, was incubated with an inoculum prepared from a trickling filter plant; following a 24 hour lag period, this mixture of compounds was biodegraded as measured by oxygen uptake(2). Contaminated wastewater from the NASA Kennedy Space station was studied in batch cultures and trickle bed reactors to monitor the degradation rates of hydrazine containing rocket fuels(3,4). The half-life of methylhydrazine in batch cultures (Rhodococcus B30 or Achromobacter sp.) and trickle bed reactors was about 2.5 and 12 days, respectively(3). Biodegradation may be a significant removal process at low concentrations in soils or ambient waters, but at higher concentrations hydrazines are toxic to microorganisms(4). Concentrations of hydrazine and 1,1-dimethylhydrazine that reduced bacterial metabolism by 50% ranged from 14.6 to 145 mg/L and from 19.2 to 9,060 mg/L, respectively(5)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 3",
+            "Value": "log Kow= -1.05"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:3271870",
+            "Value": "The enzyme systems in rat liver and lung responsible for the oxidative metabolism of hydrazine derivatives were studied to determine whether these enzymes, cytochrome P450 and monoamine oxidase, were responsible for metabolically activating hydrazines to carcinogenic/toxic metabolites. Cytochrome P450 preferentially oxidized the nitrogen to nitrogen bond of 1,2-disubstituted hydrazines and hydrazides, while monoamine oxidase oxidized the nitrogen to nitrogen bond of all the classes of hydrazine derivatives that were tested. Oxidation of the nitrogen to nitrogen bond led to the formation of stable azo intermediates in the case of 1,2-disubstituted hydrazines and to unstable monoazo (diazene) metabolites in the case of monosubstituted hydrazines and hydrazides. /Substituted hydrazines/"
+        },
+        {
+            "References": "PMID:494274",
+            "Value": "Radio respirometric data from rats continuously infused with specifically 14C-labeled glucose and other substrates indicates that monomethyl hydrazine (MMH) inhibits glycolysis. The effect is evidently at the phosphofructokinase step. ..."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "National Academy Press; Spacecraft Maximum Allowable Concentrations for Selected Airborne Contaminants:  Methylhydrazine (60-34-4) Volume 4: 119-36 (2000). Available from, as of June 11,2004: https://www.nap.edu/books/0309067952/html/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  The main targets of methylhydrazine (MH) toxicity are the blood (hemolytic anemia with decreased hemoglobin, red cell count, and hematocrit; reticulocytosis; methemoglobinemia; and Heinz body formation) and central nervous system (hyperactivity, tremors, and severe clonic-tonic convulsions), with kidney toxicity possibly associated with hemolytic anemia."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 619",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ When /monomethylhydrazine/... applied to skin of dogs, it is absorbed and carried by bloodstream to eyes where it enters aqueous humor and injures endothelium of cornea, causing corneal edema in 5-6 hr. In excised corneas solution as dilute as 1x10-7 molar... /promoted/ swelling of cornea... ."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 1292",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Pathological changes in the lungs, liver, kidney, and brain were observed in animals that received acutely toxic doses. Methylhydrazine acutely damages red blood cells resulting in methemoglobin formation, Heinz body production, and decreased levels of reduced glutathione. Absorption of methylhydrazine through the skin can result in significant toxicity. ...Undiluted methylhydrazine applied to dog skin at doses of 14.7 to 264.5 mg/kg was detected in the blood within 30 sec following application. Treated skin sites exhibited erythema, edema, and a blanched appearance. ...The temporary irritation to both skin and eyes is enhanced to the point of blistering (skin) if small amounts of water are added. This is caused by the high heat of dilution."
+        },
+        {
+            "References": "PMID:488244",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  An important feature of the acute seizure model involving exposure to the convulsant, monomethylhydrazine (MMH), is the latency in minutes post-injection to the onset of generalized tonic clonic convulsions. Postoperative monomethylhydrazine latencies in 8 naive cats were compared with subsequent after discharge thresholds obtained from basolateral amygdala kindling electrodes. The correlation between those 2 indices was statistically significant. Cats divided on basis of median population value into high or low monomethylhydrazine seizure latencies differed significantly from one another on that index. Animals with prolonged seizure latencies showed significantly higher after discharge thresholds, whereas shorter latencies accompanied lower after discharge thresholds. The gender, weight, electrode impedance or electrode sites of individuals did not account for this relationship. Results suggest endogenous differences in seizure susceptibility that are definable regardless of procedure."
+        },
+        {
+            "References": "DARMER KI JR, MACEWEN JD; 4TH PROC ANNU CONF ENVIRON TOXICOL; 373-85 (1973)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Animals were ... exposed to durations up to 24 hr in confined working areas. Results indicate that atmospheric concentration of 0.04 ppm monomethylhydrazine is safe for continuous exposure in confined working areas. A level of 1 ppm monomethylhydrazine is safe concentration for 24 hr emergency exposure limit."
+        },
+        {
+            "References": "DOST FM; AEROSP MED RES LAB (TECH REP) AMRL-TR (US); (AMRL-TR-125): 257-73 (1975)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Sc infusion of 30 umol/kg/hr of methylhydrazine for 14 hr interfered with glycolysis in rats  by inhibiting phosphofructokinase. Chronic exposure to more than 0.6 umol/kg/hr obstructed methylamine oxidation. Putrescine oxidation was less sensitive."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 1",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Acute toxicity is characterized by convulsions, neurological hyperexcitability, hypoglycemia, vomiting, anemia, bilirubinemia, methemoglobinemia, and ocular and upper respiratory tract irritation. Pathological changes in the lungs, liver, kidneys, and brain were observed in animals receiving acutely toxic doses."
+        },
+        {
+            "References": "Pinkerton MK et al; Biomed Lab, Aerospace Med Res Lab Rpt No. AMRL-TR-67-175 (1967)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The toxic effects and metabolic fate of monomethylhydrazine (MMH) were studied in rats, mice, dogs, and monkeys. Experimental animals received ip injections of carbon-14 (C-14) labeled MMH at doses of 22 mg/kg for Swiss-mice, 10 mg/kg for mongrel-dogs and Macaca-mulatta-monkeys, and 15 mg/kg for Sprague-Dawley-rats. Clinical observations of toxic effects were made. Animals were sacrificed at intervals after injection. Blood samples were collected. Necropsies were performed... . ...Emesis occurred in 16 out of 17 dogs tested and in only 5 of 16 monkeys. In dogs, the time for first appearance of emesis usually was 30 min after injection. In monkeys, where emesis occurred, the earliest time was at 95 min after injection, with one monkey becoming ill only after 7 hr. Convulsive seizures were not observed in any monkeys, but they occurred in almost all the dogs, usually between 1 and 4 hr after injection. Seizures were usually multiple and successive, lasting about 3 min, and varying in severity from mild tremors to tonic/clonic convulsions. Emesis and seizures were not reported in rodents. Gross hematuria and damage to the kidney was observed in dogs. These effects became apparent at about 8 hr after injection. These effects were not observed in monkeys or rodents."
+        },
+        {
+            "References": "MacEwen JD, Haun CC; Proc 2nd Ann Conf Environ Toxicol: 255-70 (1971)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Beagle-dogs, Rhesus-monkeys, Wistar-rats, and ICR-mice were intermittently exposed /by inhalation/ to MMH 6 hr/day, 5 days/wk, up to 6 months. Continuous exposure studies were done at 0.2 ppm MMH concentration. Body weights, clinical chemistry, and hematology tests were carried out. Gross and histopathology were done on animals killed following the end of exposure. Bone marrow studies were done in dogs. In one experiment, half of the exposed and control dogs were held 30 days postexposure to determine the reversibility of the noted effects. Deaths occurred only in mice, 27% at 5 ppm MMH and 15% at 2 ppm MMH. Rat growth was depressed on a dose dependent quantity at 1 ppm intermittent and 0.2 ppm continuous exposure. MMH produced dose related increases in methemoglobin at 2 and 5 ppm in dogs and to a lesser extent in monkeys. Red cell count also decreased in a dose dependent manner in dogs and monkeys exposed to MMH intermittently or continuously. However, reduction in hematocrit and hemoglobin values were not as significant, although present in dogs exposed to MMH. Similar effects were found with tests on red cell fragility in dogs. Blood bilirubin, alkaline phosphatase and total inorganic phosphorus concentrations in exposed dogs were higher than in controls. Dose related decreases in myeloid to erythroid elements with increasing erythropoietic activity was observed in bone marrow cells of dogs exposed to MMH. Induction of hemolytic anemia with Heinz body formation was dose related."
+        },
+        {
+            "References": "Kroe DJ; Proceed 2nd Ann Conf Environ Toxicol: 271-276 (1971)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Inhalation toxicity of monomethylhydrazine (MMH) was studied in animals. Monkeys, dogs, rats, and mice were exposed to 5 or 2 ppm MMH 6 hr/day, 5 days/wk (intermittently) for 6 months. Another group of animals was exposed to 0.2 ppm MMH continuously for 6 months, 1.0 ppm MMH intermittently for 144 days, or 0.2 ppm MMH intermittently for 145 days. At the end of 6 months all animals were sacrificed and histopathological examinations were performed. Microscopic examination revealed no histopathological lesions in monkeys and rats exposed to 5 or 2 ppm MMH intermittently for 6 months. Dogs similarly exposed revealed periportal hepatic hemosiderosis and cholestasis, and proximal tabular hemosiderosis of kidneys. Mice exposed to 5 ppm MMH showed hepatic centrilobular cholestasis, bile duct proliferation, centrilobular hemosiderosis, and renal tubular and splenic hemosiderosis. Mice differed from dogs in that at both exposure concentrations mice showed bile duct proliferation while this was absent in dogs. Long term low concentration exposure produced no histopathological lesions in monkeys or rats. Hepatic and renal lesions consisted of periportal intracanalicular cholestasis but no hepatic and renal tubular hemosiderosis. Mice exposed to 0.2 ppm MMH continuously for 6 months had severe hepatic, splenic, and renal tubular hemosiderosis. A less severe hemosiderosis was seen in mice exposed to 1.0 ppm MMH intermittently over 144 days and a further reduction in severity was observed when mice were exposed at 0.2 ppm MMH for 145 days. ...There is a difference in species susceptibility to MMH toxicity."
+        },
+        {
+            "References": "George ME et al; Aerospace Med Res Lab Rpt No. AMRL-TR-68-110 (1968)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ The nephrotoxic effects of monomethylhydrazine (MMH) were studied in macaca-mulatta-monkeys. Tissue for electron microscopic examination was obtained by needle biopsy of the left kidney to evaluate morphological and functional changes. To facilitate the procedure, the left kidney of each monkey was transplanted to a subcutaneous pocket. Eight weeks after surgery, baseline renal function tests and a needle biopsy were performed. Six weeks later, monkeys were divided into 5 groups: Group 1 (controls) was injected ip with saline for 14 days; Group 2 was exposed to a single injection of 7.5 mg/kg MMH; Group 3 to 2.5 mg/kg daily for 14 days; Group 4 to 5.0 mg/kg every other day for 14 days; and Group 5 to 5.0 mg/kg daily for 5 to 10 days. Renal function tests were performed 24 hr after the final injection. All animals (except controls) lost their appetite and subsequently lost weight. All monkeys in Group 5 had emesis after the third injection, which continued intermittently, and all became weak and lethargic. There was no significant difference in renal function between controls and MMH exposed animals; values were not different from baseline values obtained 6 weeks before drug administration. There were changes in the morphology of both proximal and distal tubule cells after MMH exposure. These changes consisted primarily of cellular vacuolization, mitochondrial swelling with a loss of density in the mitochondrial matrix, and partial disappearance of cristae. Changes were most pronounced in Group 2. ...In spite of morphological changes after MMH poisoning, enough intact and unaffected nephrons remained to allow normal renal function."
+        },
+        {
+            "References": "Darmer KI JR, Macewen JD; 4th Proc Annu Conf Environ Toxicol 373-85 (1973)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Dogs were exposed /by inhalation/ at 1, 2, 5 and 10 ppm. A 2 ppm exposure for 6 months produced 5.7% erythrocyte hemolysis through methemoglobin Heinz body transformation mechanism. This effect was followed by reticulocytosis. Continuous 90-day exposure produced measurable effects in dogs and rats. Beagle dogs showed significant increase in serum phosphorus and alkaline phosphatase levels during the exposure period."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 2",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ A 6-month inhalation study was performed in which rats, mice, dogs, and monkeys were exposed at 0, 0.2, 1, 2, or 5 ppm methyl hydrazine for 6 hours/day, 5 days/wk. ...Body weight reductions occurred in rats exposed at 1 to 5 ppm; compound-related effects at 0.2 ppm were not observed. Hemolytic anemia and the presence of Heinz bodies were observed in dogs inhaling 0.2 ppm and higher. Dogs exposed at 2 ppm and 5 ppm had increased methemoglobin formation, but both the anemia and methemoglobin were reversible. Alkaline phosphatase and bilirubin were also elevated in dogs in a dose-related manner at all exposure concentrations and were considered indicative of liver damage. Suppression of the flow of bile (hepatic cholestasis) was observed in dogs exposed at 0.2 ppm and higher, and hepatic and renal tubular hemosiderosis were observed at 2 ppm and 5 ppm. increased mortality at 2 ppm and 5 ppm was noted in mice. Concentration-related increases in hepatic, splenic, and renal tubular hemosiderosis were observed in mice. At 2 ppm or 5 ppm, mice had periportal or centrilobular cholestasis and bile duct proliferation. Hemolysis and Heinz bodies formation in erythrocytes were observed in monkeys inhaling 5 ppm; however, compound-related effects at lower doses were not observed."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 2",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... When rats, dogs, and monkeys inhaled methyl hydrazine 24 hours/day, 7 days/wk for 90  days at vapor concentration of 0, 0.04, or 0.1 ppm methyl hydrazine, hematological effects in rats and dogs  were seen at 0.1 ppm, discoloration of the liver occurred at 0.1 ppm in dogs, and serum phosphorus  was elevated in rats at 0.04 and 0.1 ppm. No compound-related effects were reported in monkeys."
+        },
+        {
+            "References": "Back KC, Pinkerton MK; US Air Force Tech Doc Rpt No. AMRL-TR-66-199 (1967)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ The toxicological effects of monomethylhydrazine (MMH) were investigated in Macaca-mulatta-monkeys. Ip injections of 5 mg/kg MMH were given to 8 monkeys for 3 days. This was followed by administration of 2.5 mg/kg for 20 days, 2.5 mg/kg for 8 days followed by 5 mg/kg for 12 days. Injections were given 5 days/wk for 4 weeks. Blood samples were taken at 2 day intervals, 3 times per animal. Clinical signs were noted. Animals were killed and necropsied after wk 4; histopathological evaluations were made. On day 2, all animals vomited. On day 3, four animals vomited and two convulsed. No vomiting or convulsions occurred at the 2.5 mg/kg dose. When dose was again increased to 5 mg/kg, animals vomited but did not convulse. No significant differences were seen in serum glucose, serum glutamic-oxaloacetic-transaminase, or serum alkaline-phosphatase. No pathological alterations occurred in the organs of treated monkeys compared with untreated controls. In five monkeys given 7 to 10 mg/kg MMH until death, significant differences were found in the liver, with moderate fatty infiltration. ...MMH produces a relative lack of pathological alterations. There is an extremely narrow limit between a no effect and a lethal dose of MMH in monkeys."
+        },
+        {
+            "References": "PMID:4355982",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ A 0.01% solution of methylhydrazine was administered daily in drinking water to 6 wk old Syrian golden hamsters for life. Treatment gave rise to malignant histiocytomas of liver and tumors of cecum."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 2",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Exposures to methyl hydrazine at concentrations of 0 ppm and 0.02 ppm (rats and mice only) and 0.2, 2, or 5 ppm (rats and hamsters only) were conducted for 6 hours/day, 5 days/wk, over a period of 1 yr and were followed by observation for 1 yr. Rats that inhaled 0.02 ppm and above experienced decreased rates of growth which persisted through the post-exposure observation period. A compound-related increase in tumors was not detected in rats at any dose. Mice exposed at 0.02 ppm and above exhibited nasal irritation and plasmacytosis. Renal cysts and hydronephrosis were observed in mice that inhaled 0.2 ppm and 2 ppm, respectively, and mice exposed at 2 ppm had a significantly higher incidence of lung tumors, nasal adenomas, nasal polyps, nasal osteomas, hemangiomas, and liver adenomas and carcinomas compared with control mice."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 2",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Rhinitis and an increased number of biliary cysts were observed in hamsters exposed at 0.2 ppm or greater of methyl hydrazine /6 hours/day, 5 days a week over a period of 1 year/. The numbers of nasal polyps, interstitial fibrosis of the kidney, and benign adrenal adenoma were increased in hamsters that inhaled 2 ppm or 5 ppm. Hamsters exposed at 5 ppm exhibited reduced body weights and an increased incidence of nasal adenomas. Dogs exposed to methyl hydrazine failed to develop pathological changes; however, exposure at 0.2 ppm and above caused transient anemia, reduced hematocrit, and reduced hemoglobin. Exposure of dogs at 2 ppm also results in a reversible increase in methemoglobin, alkaline phosphatase, bilirubin, and serum glutamic-pyruvic transaminase (SGPT) ... ."
+        },
+        {
+            "References": "Wyrobek AJ, London SA; Proceed 4th Ann Conf Environ Toxicol Rpt No. AMRL-TR-73-125: 417-46 (1973)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Use of murine spermatogenesis as a test system for hydrazine, monomethylhydrazine (MMH), and unsymmetrical dimethylhydrazine (UDMH) toxicities was investigated. BC3F1-mice were injected ip with 10% of the median lethal dose (LD50) of hydrazine, MMH, or UDMH for 5 days in time dependent studies. In dose dependent studies, mice were given UDMH at doses of 10, 25, 40, 55, or 70% of the LD50. At 0.8 and 3 weeks postexposure animals were sacrificed. The effects of 25 and 40% LD50 of MMH and 25% LD50 of hydrazine were determined 3.5 weeks after the insult. Body weight, testis to body weight ratios, hematocrits, histopathology of organs, and abnormal sperms were recorded. In the time studies, the percent of abnormally shaped sperm increased to a maximum of twice the control value for hydrazine and MMH. There was a 5 fold increase in abnormally shaped sperm with UDMH, followed by a rapid decrease to <1.5 times control values after 6 wk. Sperm number, testicular histology, and testis to body weight ratio did not change over the test period. For 5 weeks immediately after the end of exposure, mean body weight of each test group was less than controls. There was a clear response to increasing doses of UDMH in the percent of abnormally shaped sperm 3 weeks after exposure. There was no increase over the control percentages at 0.8 weeks. The percent of abnormally shaped sperm increased with increasing doses of MMH. The number of sperm produced with UDMH was reduced at the higher doses."
+        },
+        {
+            "References": "Greenhouse G; Tetatology 13 (2): 167-77 (1976)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Teratogenic effects of methylhydrazine in concentrations in excess of 10 mg/L on embryos of the South african clawed toad were studied. Malformations of the head, trunk, and tail occurred. The most common abnormality observed was tail kinks. Other abnormalities observed were microcephaly, cyclopia, shortening of trunk, and edema."
+        },
+        {
+            "References": "WYROBEK AJ, LONDON SA; 4TH PROC ANNU CONF ENVIRON TOXICOL 417-32 (1973)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Monomethylhydrazine induced abnormalities in morphology of sperm in the cauda epididymides of mice which reached max levels 3 weeks after chemical treatment."
+        },
+        {
+            "References": "Shepard, T.H. Catalog of Teratogenic Agents. 5th ed. Baltimore, MD: The Johns Hopkins University Press, 1986., p. 381",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ With oral doses of 20 mg/kg when administered on days 8 through 12 of mouse pregnancy ... 36% of offspring /were/ malformed. A dose of 200 mg/kg in rabbit on 14th day produced an equal number of /abnormal/ offspring. The anomalies consisted of anencephaly, eye defects and complex facial bone deformities."
+        },
+        {
+            "References": "PMID:6716510",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ The embryotoxicity and teratogenicity of monomethylhydrazine... /was/ investigated in Fischer 344 rats. On days 6 to 15 of gestation, rats were given ip injections of 2.5, 5.0, or 20 mg/kg monomethylhydrazine... . Animals were sacrificed on day 20 of gestation, and uteri were opened. Numbers and positions of implants, dead and live fetuses, and resorptions were recorded. Live fetuses were examined for abnormalities. Visceral and skeletal examinations were performed. Maternal weight gain was significantly depressed in rats given monomethylhydrazine... . Treatment with monomethylhydrazine had an inconsistent effect on litter parameters. At doses of 5.0 or 10 mg/kg monomethylhydrazine there was an insignificant increase in litters exhibiting 33% or more resorptions and in incidence of abnormalities. ...No teratogenic effects were seen... ."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 2",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Methyl hydrazine was given to pregnant female rats by ip injection at doses of 2.5, 5.0, or  10 mg/kg on days 6 through 15 of gestation. Methyl hydrazine was assoc with a reduction in maternal  body weights and some evidence for embryotoxicity. There was an equivocal incr in ocular  abnormalities."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 2",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Mice receiving daily, repeated ip injections for 5 days of methyl hydrazine (at fractional doses of 0.25 or 0.4 mg/kg of the 3 mg/kg LD50) had a significantly greater percentage of mature sperm with abnormal head shapes observed 1 to 3 wk following treatment. Abnormalities were reversible within 7 wk following cessation of treatment."
+        },
+        {
+            "References": "PMID:8405578",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ The embryotoxic and teratogenic potential of monomethylhydrazine (MMH), a toxic component of the widely consumed false morel (Gyromitra esculenta), was studied in rat. Groups of pregnant Sprague-Dawley rats received MMH as a constant iv infusion via implanted osmotic minipumps (1.2, 3.0, 4.2, 6.0, 9.0 or 13.2 mg MMH/kg bw/day) on days 6-13 of pregnancy, or as a single intragastric bolus (1 mg MMH/kg/bw or 5 mg MMH/kg/bw) on day 6 of pregnancy. Controls received corresponding amounts of saline. The average maternal serum concentrations, measured during the infusion treatment with a sensitive HPLC method, ranged from 0.072 ug MMH/mL (lowest dose) to 0.60 ug MMH/mL (highest dose). The average serum levels measured 45 min after the intragastric application (peak levels) were 0.28 ug MMH/mL and 1.6 ug MMH/mL, respectively. Serum concentrations of MMH corresponding to those measured in the lower dose groups in this study were seen in pilot studies after a single mushroom meal in human volunteers. A dose-dependent, statistically significant increase in the number of resorptions was seen in all but the lowest dose group after the infusion of MMH. In addition, except for the two lowest doses, there was a dramatic, dose-dependent decrease in the pregnancy rate as compared to controls, with no pregnancies occurring at the two highest dose level groups."
+        },
+        {
+            "References": "PMID:4973013",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ The effects of monomethylhydrazine (MMH) with and without pyridoxine-hydrochloride (PH) on primate behavior were evaluated. Macaque-monkeys were trained on a complex behavioral program involving aversive, controlled tasks where the animal worked to avoid a shock, and positive, rewarded tasks where the animal worked for food. After training, animals were divided into 2 dose groups on the basis of 2 reinforcement schedules. The experiment consisted of 4 periods: baseline, phase 1, recovery, and phase 2. During the baseline period, animals were injected with distilled water and control values for the behavior measures were obtained over a 5 day period. In phase 1, animals received simultaneous injections of 50 mg/kg PH ip. Phase 1 lasted for 4 days with injections given on the first and third days. After an 11 day recovery period, phase 2 was begun and it lasted 5 days. On days 32 and 34, animals received the same dose of MMH as in phase 1, but without PH. Animals were observed throughout the experiment and gross clinical signs were noted. In the positively rewarded tasks, there were no significant differences between control and low dose sessions with either MMH plus PH or MMH alone. There were no differences between controls and high dose MMH plus PH, but MMH injected alone significantly reduced reinforcement per session. In the negatively rewarded tasks, the response rate was significantly higher than controls with the low dose of MMH plus PH. There were no other behavioral differences from control values based on group mean results. Clinical signs included emesis after the high dose injections of MMH. /It was concluded/ that low doses of MMH do impair operant behavior, and PH seems to function as a therapeutic agent in lessening MMH induced behavioral effects."
+        },
+        {
+            "References": "PMID:7680754",
+            "Value": "/GENOTOXICITY/ Alkylhydrazines are important carcinogens. However, they show generally only weak mutagenicity and the activities reported from different laboratories are contradictory. ...A sensitive method to detect the mutagenicity of alkylhydrazines /was developed,/ ...based on a modified preculturing procedure in the Ames test... . The optimal growth periods were found to be 11 hr in Salmonella typhimurium TA100 and 5 hr in Salmonella typhimurium TA102. ...The mutagenic activity of 12 alkylhydrazines /including/ ...methylhydrazine... /was tested/. All 12 alkylhydrazines were clearly mutagenic in Salmonella typhimurium TA102, and 10 hydrazines were mutagenic in Salmonella typhimurium TA100, both in the absence of S9 mix. The mutagenicity was inhibited by the addition of S9 mix or bovine serum albumin. This suggests deactivation of the mutagens by proteins."
+        },
+        {
+            "References": "Poso A et al; Mut Res 332 (1/2): 63-71 (1995)",
+            "Value": "/GENOTOXICITY/ The mutagenic activity of hydrazine compounds were studied in a mutagenicity assay with Salmonella-typhimurium (TA-102), bacterial repair assays in Escherichia-coli WP2 trpE56 and the repair deficient strain CM871, trp E65, uvrA155, recA56, lexA, and by development of a model using data from the mutagenicity studies and quantitative structure activity relationships. Hydrazine and methylhydrazine were mutagenic in TA-102... . In the bacterial assays hydrazine followed by methylhydrazine were the most toxic of the tested compounds towards the repair efficient WP2 strain. ...The sensitivity of the repair deficient strain to hydrazine and 1,2-dimethylhydrazine was similar to that of WP2; however, it was more sensitive to methylhydrazine and particularly to 1,1-dimethylhydrazine. The model demonstrated that the mutagenic activity of the compounds studied were almost completely explained by the energy of the lowest unoccupied molecular orbital along with the octanol/water partition coefficient."
+        },
+        {
+            "References": "PMID:3130355",
+            "Value": "/GENOTOXICITY/ The genotoxicity of a variety of hydrazine derivatives was examined in the DNA-repair test on rat or mouse hepatocytes. Out of 32 hydrazine derivatives, 6 chemicals /including/ ...methylhydrazine sulfate... elicited positive DNA repair responses in the test on rat hepatocytes. In the test on mouse hepatocytes, 4 more hydrazine derivatives... also generated positive responses, in addition to the 6 positive compounds in the rat assay. These results suggest that mouse hepatocytes are more susceptible to the genotoxicity of hydrazine derivatives, and that the species differences in genotoxicity appear to be in agreement with the in vivo carcinogenicity of these agents. /Methylhydrazine sulfate/"
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 3",
+            "Value": "/GENOTOXICITY/ Chromosome damage in vitro in humans and rats has been reported, and Ehrlich ascites liver cells show chromosome lesions after incubation with methyl hydrazine."
+        },
+        {
+            "References": "Brusick D, Matheson D; Aerosp Med Res Lab (Tech Rep) AMRL-TR (US); ISS AMRL-TR-76-125 (Proc Annu Conf Environ Toxicol) 7th; AD/A-041 973, 108-29 (1977)",
+            "Value": "/GENOTOXICITY/ Methylhydrazine was mutagenic after activation in microbial reversion tests, conducted as suspension tests with Salmonella typhimurium TA-1535."
+        },
+        {
+            "References": "PMID:6991926",
+            "Value": "/GENOTOXICITY/ Methylhydrazine gave negative results in Ames tests with Salmonella typhimurium TA 100 as indicator strain. In the host mediated assay, methylhydrazine showed marginal mutagenic activity. Salmonella typhimurium TA 1950 was the indicator strain."
+        },
+        {
+            "References": "PMID:6993935",
+            "Value": "/GENOTOXICITY/ Methylhydrazine induced mutations in several strains of Escherichia coli independently of the Rec A and Lex A loci, indicating that the mutagenic effect was not dependent on error prone repair activity."
+        },
+        {
+            "References": "PMID:6757742",
+            "Value": "/GENOTOXICITY/ Selected hydrazines were examined for their mutagenic activity in Salmonella typhimurium strains TA 1535 and TA 1537. These in vitro assays were conducted with and without metabolic activation by aroclor induced rat liver enzymes. High level of mutagenicity was observed with methylhydrazine and phenylhydrazine hydrochloride."
+        },
+        {
+            "References": "Mortelmans K et al; Environ Mutagen 8: 1-119 (1986)",
+            "Value": "/GENOTOXICITY/ Methylhydrazine was tested for mutagenicity in the Salmonella/microsome preincubation assay using the standard protocol approved by the National Toxicology Program. Methylhydrazine was tested at doses of 1.0, 3.3, 10, 33, and 100 ug/plate in as many as 5 Salmonella typhimurium strains (TA1535, TA1537, TA97, TA98, and TA100) in the presence and absence of rat or hamster liver S-9. Methylhydrazine was negative in these tests and the highest ineffective dose tested in any S typhimurium strain was 100 ug/plate."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 3",
+            "Value": "/GENOTOXICITY/ Methyl hydrazine is generally inactive in tests designed to measure mutagenic activity... however, a spot test in E. coli was weakly positive, and mutations have been described in that organism following methyl hydrazine treatment. ...Chromosome damage in vitro in humans and rats has been reported, and Ehrlich ascites liver cells show chromosome lesions after incubation with methyl hydrazine. Liver DNA damage in vivo using DNA alkaline elution techniques has been both positive and negative."
+        },
+        {
+            "References": "PMID:2840755",
+            "Value": "/ALTERNATIVE IN VITRO TESTS/ The ability of hydrazine, acetylphenylhydrazine, methylhydrazine, and phenylhydrazine to stimulate proteolysis in red cells has been characterized. All four hydrazines effectively stimulated proteolysis in red cells and in hemolysate as evidenced by a two to threefold increase in the rate of tyrosine release. The rate of tyrosine release varied linearly with time, increased with increasing concentration of hydrazine, and also increased as a function of hematocrit. The rank order for stimulation of proteolysis in red cells was phenylhydrazine greater than methylhydrazine greater than hydrazine approximately equal to acetylphenylhydrazine. Inhibitors of glycolysis in red cells only minimally (13-27%) decreased the rate of tyrosine release stimulated by the different hydrazines. Agents which diminished electron transport decreased the rate of tyrosine release."
+        },
+        {
+            "References": "Kane DA, Williamson KJ; Arch Environ Contam Toxicol 12 (4): 447-53 (1983)",
+            "Value": "/OTHER TOXICITY INFORMATION/ The toxicity of monomethylhydrazine, hydrazine and unsymmetrical dimethylhydrazine was determined for mixed and uniculture cultures of nitrifying, denitrifying, and anaerobic methanogenic bacteria. Monomethylhydrazine was more toxic than hydrazine, which was more toxic than dimethylhydrazine."
+        },
+        {
+            "References": "DECOS; Health Council of the Netherlands 07: 24 (2002)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Inhalation of N-methylhydrazine induced benign and malignant tumors in mice and hamsters and oral (drinking water) exposure caused benign tumors in mice and malignant tumors in hamsters in one experiment. No tumors were found in rats and dogs following inhalation, but the exposure time in rats may have been too short, that is 1 year instead of 2 years as recommended in OECD guideline 451. There is some evidence for mutagenic activity in in vitro bacterial systems. No mutations were induced in mammalian cell systems, but chromosome and DNA damage have been found. In vivo, N-methylhydrazine was negative in a dominant lethal assay in rats and mice and in a micronucleus test in dogs. Conflicting results were obtained with respect to DNA damage in liver in vivo assessed with the alkaline elution technique."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992) (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Perrin DD; Dissociation Constants of Organic Bases in Aqueous Solution. London: Butterworths (1965) (4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc for methylhydrazine can be estimated to be 18(SRC). According to a classification scheme(2), this estimated Koc value suggests that methylhydrazine is expected to have very high mobility in soil. The pKa of methylhydrazine is 7.87(3). This pKa value indicates that this compound will partially exist as a cation in moist soils and cations generally adsorb more strongly to organic carbon and clay than the corresponding free base(4)."
+        },
+        {
+            "References": "(1) Braun BA, Zirrolli JA; Environ Fate of Hydrazine Fuels in Aqueous and Soil Environments, Air Force Report No. ESL-TR-82-45 NTIS AD-A125813 (1983)",
+            "Value": "Of the initial amount of methylhydrazine in sand, Vandenburg Air Force Base (VAFB) soil (99.1% sand, 0.4% clay, pH 6.1), organic soil (96.1% sand, 1% clay, 1% carbon, pH 6.4) and clay (69.3% sand, 27.95% clay, pH 3.7), 3%, 46%, 26%, and 64% was adsorbed, respectively(1). Passage of 2 liters of distilled, deionized water through columns containing sand, VAFB soil, organic soil and clay (10% clay plus 90% pure sand) treated with 10 ml of a 0.1 v/v solution of methylhydrazine resulted in 86.9%, 5.5%, 6.5%, 6.3% recovery of methylhydrazine, respectively(1)."
+        }
+    ]
+}

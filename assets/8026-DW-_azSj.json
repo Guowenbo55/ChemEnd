@@ -1,0 +1,78 @@
+{
+    "_id": {
+        "$oid": "6682e8a3c4e5dba5ffba2696"
+    },
+    "CID": {
+        "$numberInt": "8026"
+    },
+    "Name": "ETHYL NITRITE",
+    "IUPACName": "ethyl nitrite",
+    "CanonicalSMILES": "CCON=O",
+    "Synonyms": [
+        "ETHYL NITRITE",
+        "109-95-5",
+        "Hyponitrous ether",
+        "Nitrosyl ethoxide",
+        "Nitrous ethyl ether",
+        "Nitrous ether",
+        "Nitrous acid",
+        "ethyl ester",
+        "Ethyl-nitrite-",
+        "FEMA No. 2446",
+        "Ethylester kyseliny dusite",
+        "HSDB 416",
+        "nitrous acid ethyl ester",
+        "EINECS 203-722-6",
+        "UNII-8C7CJ279RV",
+        "BRN 1699562"
+    ],
+    "IsomericSMILES": "CCON=O",
+    "INCHI": "InChI=1S/C2H5NO2/c1-2-5-3-4/h2H2,1H3",
+    "INCHIKEY": "QQZWEECEMNQSTG-UHFFFAOYSA-N",
+    "Formula": "C2H5NO2",
+    "MolecularWeight": {
+        "$numberDouble": "75.07"
+    },
+    "Description": "Ethyl nitrite is a nitroso compound.",
+    "XlogP": {
+        "$numberDouble": "0.4"
+    },
+    "Complexity": {
+        "$numberInt": "28"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Meylan WM, Howard PH; J Pharm Sci 84: 83-92 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 2 was calculated for ethyl nitrite(SRC), using an estimated log Kow of 1.4(1,SRC) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:7298665",
+            "Value": "THE REACTIONS OF HUMAN HEMOGLOBIN WITH SODIUM NITRITE AND ETHYL NITRITE IN DEOXYGENATED MEDIA HAVE BEEN EXAMINED IN KINETIC DETAIL. ETHYL NITRITE REACTS WITH HEMOGLOBIN AT RATES THAT ARE AT LEAST 10 TIMES SLOWER THAN THOSE EXTRAPOLATED FOR NITROUS ACID, & HYDROLYSIS OF ALKYL NITRITE IS NOT COMPETITIVE WITH OXIDATION OF HEMOGLOBIN. THE EXPERIMENTAL RESULTS ARE INTERPRETED TO DESCRIBE ALKYL NITRITE, AND PRESUMABLY, NITROUS ACID ASSOCIATION WITH HEMOGLOBIN FOLLOWED BY RATE-LIMITED ELECTRON TRANSFER RESULTING IN NITRIC OXIDE AND ALKOXIDE (OR HYDROXIDE) PRODN. PROTON TRANSFER RESULTING IN ALC (OR WATER) FORMATION OCCURS SUBSEQUENT TO THE RATE-LIMITING STEP AS DO REACTIONS OF HEMOGLOBIN WITH NITRIC OXIDE."
+        },
+        {
+            "References": "PMID:7298666",
+            "Value": "THE REACTION OF HUMAN HEMOGLOBIN AND SPERM WHALE MYOGLOBIN UNDER AEROBIC CONDITIONS WITH ETHYL NITRITE HAVE BEEN EXAMINED. ETHYL NITRITE CONVERTS TWO EQUIVALENTS OF OXYHEMOGLOBIN TO THEIR OXIDIZED COUNTERPARTS WITH CONCURRENT PRODN OF ONE EQUIVALENT OF MOLECULAR OXYGEN, NITRATE ION, & ETHYL ALCOHOL."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Clayton, G.D., F.E. Clayton (eds.) Patty's Industrial Hygiene and Toxicology. Volumes 2A, 2B, 2C, 2D, 2E, 2F: Toxicology. 4th ed. New York, NY: John Wiley & Sons Inc., 1993-1994., p. 655",
+            "Value": "Mice and cats exposed for 15 min to 15 ppm did not show recognizable effects."
+        },
+        {
+            "References": "Clayton, G.D., F.E. Clayton (eds.) Patty's Industrial Hygiene and Toxicology. Volumes 2A, 2B, 2C, 2D, 2E, 2F: Toxicology. 4th ed. New York, NY: John Wiley & Sons Inc., 1993-1994., p. 655",
+            "Value": "Inhalation of ethyl nitrite by dogs results in as much as 70 mm Hg depression in the blood pressure. This lasts approx 2 min after a single inhalation. Methemoglobin is formed but Heinz bodies have not been found."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992) (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc for ethyl nitrite can be estimated to be 81(SRC). According to a classification scheme(2), this estimated Koc value suggests that ethyl nitrite is expected to have high mobility in soil."
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "_id": {
+        "$oid": "6682e92bc4e5dba5ffba2942"
+    },
+    "CID": {
+        "$numberInt": "17110"
+    },
+    "Name": "CYPREX",
+    "IUPACName": "acetic acid;2-dodecylguanidine",
+    "CanonicalSMILES": "CCCCCCCCCCCCN=C(N)N.CC(=O)O",
+    "Synonyms": [
+        "Dodine",
+        "2439-10-3",
+        "Dodin",
+        "n-Dodecylguanidine acetate",
+        "1-Dodecylguanidine acetate",
+        "Dodecylguanidine acetate",
+        "Guanidine",
+        "dodecyl-",
+        "monoacetate",
+        "Carpene",
+        "Melprex",
+        "Laurylguanidine acetate",
+        "Dodecylguanidine monoacetate",
+        "1-Dodecylguanidinium acetate",
+        "DTXSID3020548",
+        "CHEBI:74889",
+        "259C423Y98"
+    ],
+    "IsomericSMILES": "CCCCCCCCCCCCN=C(N)N.CC(=O)O",
+    "INCHI": "InChI=1S/C13H29N3.C2H4O2/c1-2-3-4-5-6-7-8-9-10-11-12-16-13(14)15;1-2(3)4/h2-12H2,1H3,(H4,14,15,16);1H3,(H,3,4)",
+    "INCHIKEY": "YIKWKLYQRFRGPM-UHFFFAOYSA-N",
+    "Formula": "C15H33N3O2",
+    "MolecularWeight": {
+        "$numberDouble": "287.44"
+    },
+    "Description": "1-dodecylguanidine acetate is an acetate salt resulting from the reaction of equimolar amounts of 1-dodecylguanidine and acetic acid. It is used as a fungicide to control black spot and foliar diseases on apples, pears, peaches, nectarines and strawberries. It has a role as an antibacterial agent and an antifungal agrochemical. It is an acetate salt and an aliphatic nitrogen antifungal agent. It contains a 1-dodecylguanidine(1+).",
+    "XlogP": {
+        "$numberDouble": "NaN"
+    },
+    "Complexity": {
+        "$numberInt": "194"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Gunther FA, et al; Res Rev 20: 1-148 (1968) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 5-3 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "Cyprex, an acetate salt of dodecylguanidine, is expected to exist in the dissociated form in aquatic environments. An estimated BCF value of 16 was calculated for non-dissociated cyprex(SRC), using a water solubility of 630 mg/l(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Goldberg MC, Wershaw RL; Amer Chem Soc, Div Water, Air Waste Chem, Preprints 5: 53-56 (1965)",
+            "Value": "Achromobacter and Flavobacterium species, both common to soil, can grow with cyprex as the sole source of carbon(1). When river mud from the Denver area was treated with 14C-labeled cyprex, five percent of the fungicide was degraded in 68 days(1)."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Menzie, C.M. Metabolism of Pesticides. U.S. Department of the Interior, Bureau of Sport Fisheries and Wildlife, Publication 127. Washington, DC: U.S. Government Printing Office, 1969., p. 193",
+            "Value": "... DODECYLGUANIDINE INHIBITS OXIDATION OF GLUCOSE BY CELLS OF FUNGUS (SACCHAROMYCES PASTORIANUS). OTHER STUDIES ATTRIBUTE TOXICITY OF DODINE TO BLOCKING OF VITAL ANIONIC SITES @ CELL SURFACE & INACTIVATION OF ENZYMES."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Tomlin CDS, ed; The Pesticide Manual World Compendium. 11th ed., Surrey, England: British Crop Protection Council p. 451 (1997) (2) Weber JB; pp. 15-41 in Mechanisms of Pesticide Movement into Ground Water. Honeycutt RC, Schadebacker DJ, eds, Ann Arbor, MI: Lewis Publ, CRC Press, Inc (1994) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Cyprex is an organic base that has a pKa of 9(1), which indicates that cyprex will exist primarily as a cation in moist soils and cations adsorb strongly to soils(SRC). The Koc of cyprex measured in soil is 1X10+5(2). According to a classification scheme(3), this Koc value suggests that cyprex is expected to be immobile in soil(SRC)."
+        }
+    ]
+}

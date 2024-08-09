@@ -1,0 +1,106 @@
+{
+    "_id": {
+        "$oid": "6682e9dac4e5dba5ffba2cb6"
+    },
+    "CID": {
+        "$numberInt": "86287519"
+    },
+    "Name": "Clothianidin",
+    "IUPACName": "1-[(2-chloro-1,3-thiazol-5-yl)methyl]-3-methyl-2-nitroguanidine",
+    "CanonicalSMILES": "CNC(=N[N+](=O)[O-])NCC1=CN=C(S1)Cl",
+    "Synonyms": [
+        "Clothianidin",
+        "210880-92-5",
+        "(E)-clothianidin",
+        "Clothianidin [ISO]",
+        "CLOTHIANIDINE",
+        "CHEBI:39177",
+        "TI-435",
+        "205510-53-8",
+        "Celero",
+        "2V9906ABKQ",
+        "1-(2-chloro-5-thiazolylmethyl)-3-methyl-2-nitroguanidine",
+        "\"Guanidine",
+        "N-[(2-chloro-5-thiazolyl)methyl]-N-methyl-N-nitro-",
+        "[C(E)]-\"",
+        "Poncho",
+        "\"(E)-N-(2-chloro-5-thiazolyl)methyl-N-methyl-N-nitroguanidine\"",
+        "(E)-1-[(2-chloro-1,3-thiazol-5-yl)methyl]-3-methyl-2-nitroguanidine"
+    ],
+    "IsomericSMILES": "CN/C(=N\\[N+](=O)[O-])/NCC1=CN=C(S1)Cl",
+    "INCHI": "InChI=1S/C6H8ClN5O2S/c1-8-6(11-12(13)14)10-3-4-2-9-5(7)15-4/h2H,3H2,1H3,(H2,8,10,11)",
+    "INCHIKEY": "PGOOBECODWQEAB-UHFFFAOYSA-N",
+    "Formula": "C6H8ClN5O2S",
+    "MolecularWeight": {
+        "$numberDouble": "249.68"
+    },
+    "Description": "(E)-clothianidin is a clothiadin that has E configuration at the C=N bond of the nitroguanidine moiety. It has a role as a neonicotinoid insectide.",
+    "XlogP": {
+        "$numberDouble": "1.3"
+    },
+    "Complexity": {
+        "$numberInt": "258"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "PMID:27960287",
+            "Value": "The half-life of clothianidin in cotton leaves grown from treated seeds is about 4 days(1)."
+        }
+    ],
+    "animal_concentrations": [
+        {
+            "References": "PMID:28376431",
+            "Value": "Clothianidin was not detected (quantification limit 2-10 ng/mL) in blood samples from 30 nestlings of Eurasian eagle owl (Bubo Bubo) in Spain(1)."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Stewart SD et al; Environ Sci Technol 48: 9762-9769 (2014)",
+            "Value": "SOIL: In soil collected (prior to planting) from cotton, corn, soybean and wheat producing fields, clothianidin was detected at >1ng/g in 50 of 112 samples with a mean concentration of 3.4 ng/g(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "We conducted uptake experiments with 12 different organic chemicals using 16 plant species and observed variations in their ability to take up and translocate these chemicals. The shoot and root concentrations of each chemical varied among the plant species. Root concentration factor values increased with an increasing log of the n-octanol-water partition coefficient (log Kow) of the organic chemicals, suggesting that root concentrations may be predicted to some extent based on log Kow. Root-to-shoot translocation was also related to log Kow, as the shoot-to-root concentration ratio decreased with increasing log Kow. However, the relationship between shoot concentration factor value and log Kow was not clear and differed among plant species.",
+            "reference": "Namiki, S., Otani, T., Motoki, Y., Seike, N., & Iwafune, T. (2018). Differential uptake and translocation of organic chemicals by several plant species from soil. Journal of pesticide science, 43(2), 96-107.",
+            "method": {
+                "Test Plant": "Hordeum distichon, Zea mays L., Glycine max Merrill, Phaseolus vulgaris L., Brassica oleracea L. var. capitata, Brassica rapa L. war. peruviridis, Chrysanthemum coronarium L., Lactuca sativa L., Allissms wakegi Araki, Apium graveolens L. war. dulce, Solanum lycopersicum Mill., Capsicum grossism, Cucumtis sativis L., Cucurbita maxima Duch., Spinacia oleracea L., and Beta vulgaris L. var. cicla.",
+                "Apply Location": "Soil application",
+                "Plant Grown Condition": "Seeds germinated in nursery soil in growth chamber at 20\u00b0C, 14:10 hr light:dark cycle. Seedlings transplanted at 7-28 days into test soil pots and grown for 21 more days under same conditions. Soil moisture maintained at 50-70% water holding capacity (WHC).",
+                "Chemical Preparation": "12 organic chemicals (10 pesticides, \u03b2-HCH, dieldrin) with log Kow -0.6 to 5 dissolved in acetone at 50 mg/L. 1 L mixture added to 278g Celite powder, acetone evaporated leaving 92.6-133.6 \u03bcg/g of each chemical on Celite.",
+                "Pesticide Application Details for the Plant": "450g uncontaminated soil mixed with 5g chemical-loaded Celite in 600 mL pots. Fertilized with chemical fertilizer and dolomite. Final concentrations ranged 81.0-129.7 \u03bcg/pot.",
+                "Other Information": "Plants grown to obtain 1-2g root dry weight per species. At 21 days, shoots and roots harvested, fresh weights measured, divided into subsamples to determine moisture content and chemical concentrations."
+            },
+            "result": "[{\"Plant\": \"Hordeum distichon\", \"Shoot (mg/kg)\": 0.86, \"Root (mg/kg)\": 0.03, \"Uptake (mg/kg)\": 3.46}, {\"Plant\": \"Zea mays L.\", \"Shoot (mg/kg)\": 0.31, \"Root (mg/kg)\": 0.05, \"Uptake (mg/kg)\": 0.55}, {\"Plant\": \"Glycine max Merrill\", \"Shoot (mg/kg)\": 0.05, \"Root (mg/kg)\": 0.13, \"Uptake (mg/kg)\": 0.18}, {\"Plant\": \"Phaseolus vulgaris L.\", \"Shoot (mg/kg)\": 0.02, \"Root (mg/kg)\": 0.06, \"Uptake (mg/kg)\": 0.04}, {\"Plant\": \"Brassica oleracea L. var. capitata\", \"Shoot (mg/kg)\": 0.81, \"Root (mg/kg)\": 0.04, \"Uptake (mg/kg)\": 5.56}, {\"Plant\": \"Brassica rapa L. war. peruviridis\", \"Shoot (mg/kg)\": 0.88, \"Root (mg/kg)\": 0.04, \"Uptake (mg/kg)\": 4.31}, {\"Plant\": \"Chrysanthemum coronarium L.\", \"Shoot (mg/kg)\": 1.35, \"Root (mg/kg)\": 0.05, \"Uptake (mg/kg)\": 4.75}, {\"Plant\": \"Lactuca sativa L.\", \"Shoot (mg/kg)\": 0.07, \"Root (mg/kg)\": 0.03, \"Uptake (mg/kg)\": 0.46}, {\"Plant\": \"Allissms wakegi Araki\", \"Shoot (mg/kg)\": 0.52, \"Root (mg/kg)\": 0.15, \"Uptake (mg/kg)\": 2.23}, {\"Plant\": \"Apium graveolens L. war. dulce\", \"Shoot (mg/kg)\": 0.55, \"Root (mg/kg)\": 0.02, \"Uptake (mg/kg)\": 1.27}, {\"Plant\": \"Solanum lycopersicum Mill.\", \"Shoot (mg/kg)\": 0.57, \"Root (mg/kg)\": 0.06, \"Uptake (mg/kg)\": 2.4}, {\"Plant\": \"Capsicum grossism\", \"Shoot (mg/kg)\": 0.22, \"Root (mg/kg)\": 0.03, \"Uptake (mg/kg)\": 0.86}, {\"Plant\": \"Cucumtis sativis L.\", \"Shoot (mg/kg)\": 0.28, \"Root (mg/kg)\": 0.03, \"Uptake (mg/kg)\": 1.78}, {\"Plant\": \"Cucurbita maxima Duch.\", \"Shoot (mg/kg)\": 0.2, \"Root (mg/kg)\": 0.06, \"Uptake (mg/kg)\": 1.43}, {\"Plant\": \"Spinacia oleracea L.\", \"Shoot (mg/kg)\": 1.54, \"Root (mg/kg)\": 0.08, \"Uptake (mg/kg)\": 4.43}, {\"Plant\": \"Beta vulgaris L. var. cicla\", \"Shoot (mg/kg)\": 0.49, \"Root (mg/kg)\": 0.05, \"Uptake (mg/kg)\": 1.82}]"
+        },
+        {
+            "content": "Neonicotinoid seed treatments, like clothianidin or thiamethoxam, are widely used in North America for maize seed, marketed as a targeted pesticide delivery system. However, the actual amount of compound translocated into plant tissue from the initial seed treatment has not been well-documented. A two-year field study compared clothianidin concentrations in maize with and without neonicotinoid seed treatments, finding neonicotinoids present in root tissues up to 34 days post-planting. Clothianidin concentrations followed an exponential decay pattern, with a maximum of 1.34% of the initial seed treatment recovered from plant tissues, and 0.26% recovered from root tissue. These findings suggest that while neonicotinoid seed treatments may provide some protection from early-season secondary maize pests, the overall proportion of clothianidin translocated into plant tissues is low. This may explain reports of inconsistent efficacy and increasing detections of environmental neonicotinoids.",
+            "reference": "Alford, A., & Krupke, C. H. (2017). Translocation of the neonicotinoid seed treatment clothianidin in maize. PloS one, 12(3), e0173836.",
+            "method": {
+                "Test Plant": "Maize hybrids Dekalb 6179 (2014)",
+                "Apply Location": "Seed treatment",
+                "Plant Grown Condition": "Planted at Throckmorton Purdue Agricultural Center. Loam soil with 43.6/38.4/18 sand/silt/clay ratio. 5-year May precipitation average of 67.2 \u00b1 27.96 mm",
+                "Chemical Preparation": "Clothianidin (CLO) seed treatments at 0 (Naked), 0.25 mg/kernel (Low), 1.25 mg/kernel (High). All except Naked also treated with fungicides metalaxyl, trifloxystrobin, ipconazole",
+                "Pesticide Application Details for the Plant": "Four treatments: Naked (no CLO), Fungicide only, Low CLO, High CLO. Low = 0.25 mg CLO/kernel, High = 1.25 mg CLO/kernel",
+                "Other Information": "Randomized complete block design with 4 replications. Plot size:-3.05 x 36.58 m (2014), 3.05 x 33.53 m (2015)."
+            },
+            "result": "[{\"Concentration (mg)\": 5, \"Days after application\": 0.111, \"Shoot (% of applied)\": 0.776, \"Seed (%)\": 0.009, \"Root (%)\": NaN}, {\"Concentration (mg)\": 10, \"Days after application\": 0.108, \"Shoot (% of applied)\": 0.315, \"Seed (%)\": 0.005, \"Root (%)\": NaN}, {\"Concentration (mg)\": 15, \"Days after application\": 0.048, \"Shoot (% of applied)\": 0.182, \"Seed (%)\": 0.005, \"Root (%)\": NaN}, {\"Concentration (mg)\": 20, \"Days after application\": 0.011, \"Shoot (% of applied)\": 0.04, \"Seed (%)\": 0.004, \"Root (%)\": NaN}, {\"Concentration (mg)\": 5, \"Days after application\": 0.18, \"Shoot (% of applied)\": 1.507, \"Seed (%)\": 0.061, \"Root (%)\": NaN}, {\"Concentration (mg)\": 10, \"Days after application\": 0.18, \"Shoot (% of applied)\": 1.052, \"Seed (%)\": 0.024, \"Root (%)\": NaN}, {\"Concentration (mg)\": 15, \"Days after application\": 0.152, \"Shoot (% of applied)\": 0.461, \"Seed (%)\": 0.021, \"Root (%)\": NaN}, {\"Concentration (mg)\": 20, \"Days after application\": 0.055, \"Shoot (% of applied)\": 0.137, \"Seed (%)\": 0.016, \"Root (%)\": NaN}]"
+        },
+        {
+            "content": "Production of chrysanthemum (Dendranthema grandiflora) in greenhouses often requires intensive pesticide use, raising concerns about food safety and human health. This study investigated the uptake, translocation, and residue dissipation of typical fungicides (metalaxyl-M and fludioxonil) and insecticides (cyantraniliprole and thiamethoxam) in greenhouse chrysanthemum when applied to soils. Chrysanthemum plants absorbed these pesticides from soils to various degrees, with bioconcentration factors (BCF) positively correlated with the lipophilicity (log Kow) of pesticides. The highly lipophilic fludioxonil (log Kow = 4.12) had the greatest BCF (2.96 \u00b1 0.41 g/g), while the hydrophilic thiamethoxam (log Kow = 0.13) had the lowest (0.09 \u00b1 0.03 g/g). Translocation factors (TF) from roots to shoots followed the order of TF_leaf > TF_stem > TF_flower. Metalaxyl-M and cyantraniliprole, with medium lipophilicity (log Kow of 1.71 and 2.02, respectively), and hydrophilic thiamethoxam showed relatively strong translocation potentials with TF values in the range of 0.29\u20130.81, 0.36\u20132.74, and 0.30\u20131.03, respectively.",
+            "reference": "Gong, W., Jiang, M., Zhang, T., Zhang, W., Liang, G., Li, B., ... & Han, P. (2020). Uptake and dissipation of metalaxyl-M, fludioxonil, cyantraniliprole and thiamethoxam in greenhouse chrysanthemum. Environmental pollution, 257, 113499.",
+            "method": {
+                "Test Plant": "Chrysanthemun",
+                "Apply Location": "Root application (soil application)",
+                "Plant Grown Condition": "Plants were cultivated in plastic pots (500 \u00d7 340 \u00d7 263 mm) filled with dry soil mass of 6 \u00b1 0.5 kg, with a temperature of 21 \u00b1 2\u00b0C and relative humidity of 75 \u00b1 2% in a greenhouse.",
+                "Chemical Preparation": "A commercial formulation of 62.5 g/L metalaxyl-M fludioxonil SC (37.5 g/L for metalaxyl-M and 25 g/L for fludioxonil), and a commercial formulation of 40% cyantraniliprole thiamethoxam SC (20% for each) were used. A mixed pesticide solution (200 mL) was prepared at the manufacturer-recommended dose (3.2, 2.1, 4.3, and 4.3 kg/ha for metalaxyl-M, fludioxonil, cyantraniliprole, and thiamethoxam, respectively).",
+                "Pesticide Application Details for the Plant": "Chrysanthemun plants received a mixed pesticide solution (200 mL) once at the manufacturer-recommended dose (low dose) or at the high dose (doubling the recommended dose) two or three times with a 7-day interval.",
+                "Other Information": "The experiment was designed in a randomized block design with two adjacent blocks separated by a 0.5-m alley."
+            },
+            "result": "[{\"Days after application\": 1, \"Flower (mg/kg)\": 0.006, \"Leaf (mg/kg)\": 0.003, \"Stem (mg/kg)\": 0.018}, {\"Days after application\": 2, \"Flower (mg/kg)\": 0.007, \"Leaf (mg/kg)\": 0.003, \"Stem (mg/kg)\": 0.018}, {\"Days after application\": 3, \"Flower (mg/kg)\": 0.023, \"Leaf (mg/kg)\": 0.017, \"Stem (mg/kg)\": 0.019}, {\"Days after application\": 5, \"Flower (mg/kg)\": 0.06, \"Leaf (mg/kg)\": 0.06, \"Stem (mg/kg)\": 0.028}, {\"Days after application\": 7, \"Flower (mg/kg)\": 0.046, \"Leaf (mg/kg)\": 0.11, \"Stem (mg/kg)\": 0.038}, {\"Days after application\": 14, \"Flower (mg/kg)\": 0.028, \"Leaf (mg/kg)\": 0.107, \"Stem (mg/kg)\": 0.037}, {\"Days after application\": 21, \"Flower (mg/kg)\": 0.021, \"Leaf (mg/kg)\": 0.171, \"Stem (mg/kg)\": 0.028}]"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "_id": {
+        "$oid": "66927100303528b49832d787"
+    },
+    "CID": {
+        "$numberInt": "153847"
+    },
+    "Name": "Carpropamid",
+    "IUPACName": "2,2-dichloro-N-[1-(4-chlorophenyl)ethyl]-1-ethyl-3-methylcyclopropane-1-carboxamide",
+    "CanonicalSMILES": "CCC1(C(C1(Cl)Cl)C)C(=O)NC(C)C2=CC=C(C=C2)Cl",
+    "Synonyms": [
+        "Carpropamid",
+        "104030-54-8",
+        "2,2-dichloro-N-[1-(4-chlorophenyl)ethyl]-1-ethyl-3-methylcyclopropane-1-carboxamide",
+        "Carpropamid [ISO]",
+        "UNII-ZS46TAN742",
+        "2,2-Dichloro-N-[1-(4-chlorophenyl)ethyl]-1-ethyl-3-methylcyclopropanecarboxamide",
+        "SCHEMBL22262",
+        "CHEBI:3434",
+        "ZS46TAN742",
+        "DTXSID4057922",
+        "AKOS015888200",
+        "Cyclopropanecarboxamide",
+        "2,2-dichloro-N-(1-(4-chlorophenyl)ethyl)-1-ethyl-3-methyl-",
+        "NS00005071",
+        "Carpropamid",
+        "PESTANAL(R)",
+        "analytical standard",
+        "SR-01000883725"
+    ],
+    "IsomericSMILES": "CCC1(C(C1(Cl)Cl)C)C(=O)NC(C)C2=CC=C(C=C2)Cl",
+    "INCHI": "InChI=1S/C15H18Cl3NO/c1-4-14(10(3)15(14,17)18)13(20)19-9(2)11-5-7-12(16)8-6-11/h5-10H,4H2,1-3H3,(H,19,20)",
+    "INCHIKEY": "RXDMAYSSBPYBFW-UHFFFAOYSA-N",
+    "Formula": "C15H18Cl3NO",
+    "MolecularWeight": {
+        "$numberDouble": "334.7"
+    },
+    "Description": "Carpropamid is a cyclopropylcarboxamide obtained by formal condensation of the carboxy group of 2,2-dichloro-1-ethyl-3-methylcyclopropanecarboxylic acid with the amino group of 1-(4-chlorophenyl)ethylamine. A rice fungicide with specific action against Pyricularia oryzae. It is not highly toxic to mammals but shows a moderate level of toxicity to birds, fish and earthworms. It has a role as an EC 4.2.1.94 (scytalone dehydratase) inhibitor, a xenobiotic, a melanin synthesis inhibitor and an antifungal agrochemical. It is a cyclopropylcarboxamide, a member of monochlorobenzenes and an amide fungicide.",
+    "XlogP": {
+        "$numberDouble": "4.5"
+    },
+    "Complexity": {
+        "$numberInt": "379"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Translocation of the antiblast compound carpropamid was investigated in rice using [^14C]carpropamid. When applied to the seed, carpropamid was not only readily absorbed but also translocated to different parts of the seedlings emerging from treated seeds. A substantial portion of the fungicide appeared to be exuded onto the leaf surface. In 21-day-old plants grown from [^14C]carpropamid-treated seeds, 27.2% of the radioactivity isolated from leaves was present on the surface of the lamina. This exuded fraction is probably responsible for its action as a fungal anti-penetrant compound. Following a 30-minute root dipping of 14-day-old seedlings, carpropamid was rapidly absorbed and translocated throughout the seedling. Its intralamellar distribution was uniform as determined by autoradiography. Only a small fraction (<2%) of the fungicide applied to the foliage was translocated beyond the site of application within the treated leaf. Translocation was primarily apoplastic. Approximately 54% of the radioactivity recovered from leaves was in the form of carpropamid. At least seven radiolabeled metabolic products were observed by TLC. Only 8.3% of the radioactivity applied through the seeds could be recovered from 21-day-old seedlings.",
+            "reference": "Rohilla, R., Singh, U. S., & Singh, R. L. (2001). Uptake and translocation of carpropamid in rice (Oryza sativa L). Pest Management Science: formerly Pesticide Science, 57(3), 239-247.",
+            "method": {
+                "Test Plant": "Rice (Oryza sativa L. cv. Pusa Basmati-1)",
+                "Apply Location": "Foliar application on leaf lamina",
+                "Plant Grown Condition": "Grown from seeds in 15 cm plastic pots in soil amended with 30 mg N, 9.7 mg P, 18.5 mg K per kg soil. Raised in greenhouse at 25\u00b13\u00b0C. Thinned to 7 seedlings per pot",
+                "Chemical Preparation": "[Phenyl-14C]carpropamid (6.73 MBq/mg specific activity) dissolved in 0.2 mL acetone, diluted to 4 mL with water. Test solutions prepared by mixing radiolabeled and unlabeled carpropamid 300 g/kg SC formulation. Final application solution was 444 mg AI/L containing 0.093 MBq/mL [14C]carpropamid",
+                "Pesticide Application Details for the Plant": "100 \u03bcL of 444 mg AI/L carpropamid solution applied to 3rd leaf lamina of 30-day-old plants. Pre-treated with 50 \u03bcL 20 g/L gelatin to aid spreading .Applied in small droplets, spread evenly with micropipette tip 12.5:11.5 h day:night conditions",
+                "Other Information": "Samples harvested at 6, 18, 30, 54, 94 h after treatment. Treated leaves, roots washed and autoradiographed. Radioactivity extracted from plant parts with methanol. 3 replicates with 3 plants each per treatment"
+            },
+            "result": "[{\"Hours after application\": 84.5, \"Root (% of absorbed) Shoot (%)\": 13.0, \"Leaves I (%)\": 0.3, \"Leaves II (%)\": 1.2, \"Leaves scaly (%)\": 1.0, \"Recovery (% of applied)\": 100.0}, {\"Hours after application\": 53.7, \"Root (% of absorbed) Shoot (%)\": 31.3, \"Leaves I (%)\": 1.7, \"Leaves II (%)\": 11.4, \"Leaves scaly (%)\": 1.9, \"Recovery (% of applied)\": 42.5}, {\"Hours after application\": 39.3, \"Root (% of absorbed) Shoot (%)\": 33.6, \"Leaves I (%)\": 3.2, \"Leaves II (%)\": 18.8, \"Leaves scaly (%)\": 5.1, \"Recovery (% of applied)\": 9.4}, {\"Hours after application\": 46.6, \"Root (% of absorbed) Shoot (%)\": 21.3, \"Leaves I (%)\": 0.9, \"Leaves II (%)\": 24.8, \"Leaves scaly (%)\": 6.4, \"Recovery (% of applied)\": 45.4}, {\"Hours after application\": 34.6, \"Root (% of absorbed) Shoot (%)\": 37.7, \"Leaves I (%)\": 4.7, \"Leaves II (%)\": 17.6, \"Leaves scaly (%)\": 5.4, \"Recovery (% of applied)\": 30.2}, {\"Hours after application\": 42.7, \"Root (% of absorbed) Shoot (%)\": 19.1, \"Leaves I (%)\": 7.4, \"Leaves II (%)\": 24.1, \"Leaves scaly (%)\": 6.7, \"Recovery (% of applied)\": 47.1}]"
+        }
+    ]
+}

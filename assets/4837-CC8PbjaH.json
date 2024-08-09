@@ -1,0 +1,197 @@
+{
+    "_id": {
+        "$oid": "6682e816c4e5dba5ffba23d6"
+    },
+    "CID": {
+        "$numberInt": "4837"
+    },
+    "Name": "PIPERAZINE",
+    "IUPACName": "piperazine",
+    "CanonicalSMILES": "C1CNCCN1",
+    "Synonyms": [
+        "piperazine",
+        "110-85-0",
+        "Diethylenediamine",
+        "1,4-Diazacyclohexane",
+        "Piperazin",
+        "Hexahydropyrazine",
+        "Piperazidine",
+        "Antiren",
+        "1,4-Piperazine",
+        "Diethyleneimine",
+        "Pipersol",
+        "Eraverm",
+        "Dispermine",
+        "Lumbrical",
+        "Wurmirazin"
+    ],
+    "IsomericSMILES": "C1CNCCN1",
+    "INCHI": "InChI=1S/C4H10N2/c1-2-6-4-3-5-1/h5-6H,1-4H2",
+    "INCHIKEY": "GLUUGHFHXGJENI-UHFFFAOYSA-N",
+    "Formula": "C4H10N2",
+    "MolecularWeight": {
+        "$numberDouble": "86.14"
+    },
+    "Description": "Piperazine is an azacycloalkane that consists of a six-membered ring containing two nitrogen atoms at opposite positions. It has a role as an anthelminthic drug. It is a saturated organic heteromonocyclic parent, an azacycloalkane and a member of piperazines. It is a conjugate base of a piperazinium(2+).",
+    "XlogP": {
+        "$numberDouble": "-1.5"
+    },
+    "Complexity": {
+        "$numberInt": "26"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Ver 2006.01.30 Updated. National Institute of Technology and Evaluation. Tokyo, Japan. Piperazine (110-85-0). Available from the database query page at https://www.safe.nite.go.jp/english/kizon/KIZON_start_hazkizon.html as of Sept 25, 2006. (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "BCF values less than 0.3 to 0.9 and less than 3.9 were measured using orange-red killifish (Oryzias latipes) which were exposed to 1 and 0.1 ppm, respectively, over an 8-week period(1). According to a classification scheme(2), these BCF values suggest the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Ver 2006.01.30 Updated. National Institute of Technology and Evaluation. Tokyo, Japan. Piperazine (110-85-0). Available from the database query page at https://www.safe.nite.go.jp/english/kizon/KIZON_start_hazkizon.html as of Sept 25, 2006. (2) Okuda A et al; Eisei Kagaku 37: 363-9 (1991) (3) Kondo M et al; Eisei Kagaku 34: 188-95 (1988)",
+            "Value": "AEROBIC: Piperazine, present at 100 mg/L, reached 1.4% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L and the Japanese MITI test(1). In a total organic carbon (TOC) die-away test, piperazine, at an initial concentration of 36 ppm, was degraded by greater than 51% after 28 days in 3 out of 4 artificial river water inocula containing river water microorganisms collected in both spring and autumn(2). Only 0-15% biodegradation occured after 28 days in the fourth inoculum, which contained river water microorganisms collected during the spring(2). Piperazine, at 20 ppm, was degraded by 20% in river water and 77% in sea water after 3 days using the cultivation method(3)."
+        },
+        {
+            "References": "PMID:12146621",
+            "Value": "ANAEROBIC: Piperazine at a concentration of 1.0 mM and incubated in freshwater sediment, activated sludge, and estuarine sediment was not degraded after 6 months under denitrifying, sulfate reducing, or methanogenic conditions(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 10",
+            "Value": "log Kow = -1.50"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Thomson/Micromedex. Drug Information for the Health Care Professional. Volume 1,  Greenwood Village, CO. 2006.",
+            "Value": "Piperazine blocks the response of the /target species/ worm muscle (best studied in Ascaris), causing flaccid paralysis of the worm. While the worm is paralyzed, it is dislodged from the intestinal lumen and expelled live from the body by normal intestinal peristalsis."
+        },
+        {
+            "References": "Gilman, A.G., T.W. Rall, A.S. Nies and P. Taylor (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 8th ed. New York, NY. Pergamon Press, 1990., p. 967",
+            "Value": "The predominant effect of piperazine on /the target species/ Ascaris is to cause a flaccid paralysis that results in expulsion of the worm by peristalsis. ... Piperazine blocks the response of Ascaris muscle to acetylcholine, apparently by altering the permeability of the cell membrane to ions that are responsible for the maintenance of the resting potential. The drug causes hyperpolarization and suppression of spontaneous spike potentials with accompanying paralysis."
+        },
+        {
+            "References": "American Medical Association, Council on Drugs. AMA Drug Evaluations Annual 1994. Chicago, IL: American Medical Association, 1994., p. 1754",
+            "Value": "Piperazine citrate causes reversible muscle paralysis in intestinal nematodes, presumably by causing hyperpolarization of nerve endings /in this target species/. /Piperazine citrate/"
+        },
+        {
+            "References": "European Medicines Agency (EMEA), The European Agency for the Evaluation of Medicinal Products, Veterinary Medicines Evaluation Unit, Committee for Veterinary Medicinal Products; Piperazine, Summary Report (3). EMEA/MRL/807/01-Final (November 2001). Available from, as of November 15, 2006: https://www.ema.europa.eu/ema/index.jsp?curl=pages/document_library/landing/document_library_search.jsp&murl=menus/document_library/document_library.jsp&mid",
+            "Value": "Piperazine and its salts, as a gamma-aminobutyric acid (GABA)-like substance, induce a reversible flaccid paralysis in the /target/ nematode parasites. This is provoked by a hyperpolarization of the cell membrane followed by suppression of spontaneous spike potentials. THe paralyzed nematodes are expelled from the gut lumen by normal peristaltic actions."
+        },
+        {
+            "References": "European Commission; EUR 21642 EN European Union Risk Assessment Report Piperazine, Volume 56. Luxembourg: Office for Official Publications of the European Communities (2005). Available from, as of November 15, 2006: https://ecb.jrc.it/DOCUMENTS/Existing-Chemicals/RISK_ASSESSMENT/REPORT/piperazinereport324.pdf",
+            "Value": "In mammals, motorcortical GABAa inhibition is important for initiation of smooth flexion and/or extension movements of the extremities affecting motor and postural control. When injected into the hand motor cortical area of three infant macaque monkeys, the GABA agonist muscimol disrupted forelimb movement showing a posture of dropped wrist and fingers as if the radial nerve were paralysed. Interestingly, the three investigated animals exhibited large inter-individual differences in sensitivity to the action of the same dose of muscimol, being low in one, moderate in the second and substantial in the third. Injection into the medial segment of globus pallidus elicited choreiform movements and injections into substantia nigra pars reticulata provoked severe axial posture anomalies with rotational behaviour as well as contralateral hypotonia. Although the symptoms induced by piperazine in sensitive species exhibits some of these features, it is possible that its effects in mammals also involve other modes of action as well, in as much as a nicotinic action on rat sympathetic ganglia in vitro was reported in one series of experiments."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The administration of 110 mg piperazine (as the adipate) per kg body weight orally to rats for 8 weeks did not result in any significant pathological changes. /Piperazine adipate/[European Commission; EUR 21642 EN European Union Risk Assessment Report Piperazine, Volume 56. Luxembourg: Office for Official Publications of the European Communities (2005). Available from, as of November 15, 2006: http://ecb.jrc.it/DOCUMENTS/Existing-Chemicals/RISK_ASSESSMENT/REPORT/piperazinereport324.pdf]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Tested full strength by application of drop to rabbits eyes, it has caused severe injury, graded 9 on scale of 1 to 10 after 24 hr. ... No injury was caused by 0.2 molar aq soln at ph 7.5 dropped continuously on rabbit eyes for 10 min after mechanical removal of corneal epithelium to permit penetration.[Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 741]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Oral administration of half a 275 mg tablet of piperazine citrate on 2 successive days to an undersized 1 yr old domestic cat induced severe neurological symptoms, including epileptiform seizures. /Piperazine citrate/[Hartigan PJ et al; IR Vet J; 30 (12): 188 (1976)]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In a GLP study 4 pigs received a dose of 300 mg piperazine dihydrochloride/ kg bw by oral gavage for three consecutive days. Two male pigs received 1,500 mg/kg bw/day (5 times the recommended dosage) and two more male pigs received 3,000 mg/kg bw/day (10 times). All pigs were 11 to 13 weeks old. The pigs in the high and intermediate dosage group died. These animals showed adverse signs within 0.5 hr after the first administration predominantly related to the CNS as vomiting, inappetence, abnormal respiration, ataxia, prostration, muscle tremors, convulsions, bright yellow urine and death. All dead animals showed a vacuolar tubular nephropathy. In the 300 mg/kg dosage group animals showed transient discoloration of urine (bright yellow), one male was inappetent, shivering and subdued. The severe unexpected effects were attributed to the administration of a bolus instead of administration by drinking water. /Piperazine dihydrochloride/[European Medicines Agency (EMEA), The European Agency for the Evaluation of Medicinal Products, Veterinary Medicines Evaluation Unit, Committee for Veterinary Medicinal Products; Piperazine, Summary Report (3). EMEA/MRL/807/01-Final (November 2001). Available from, as of November 15, 2006: http://www.ema.europa.eu/ema/index.jsp?curl=pages/document_library/landing/document_library_search.jsp&murl=menus/document_library/document_library.jsp&mid]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Dow Chemical reports, that inhalation of 100 ppm /piperazine adipate/ by guinea pigs for 3 hours, with 7 exposures during a period of 11 days failed to elicit any toxicological reactions. /Piperazine adipate/[European Commission; EUR 21642 EN European Union Risk Assessment Report Piperazine, Volume 56. Luxembourg: Office for Official Publications of the European Communities (2005). Available from, as of November 15, 2006: http://ecb.jrc.it/DOCUMENTS/Existing-Chemicals/RISK_ASSESSMENT/REPORT/piperazinereport324.pdf]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ For the repeated dose toxicity it was shown that a 30-day study in the rat with doses of piperazine hexahydrate given by gavage up to 150 mg/kg bw/day (equivalent to 66 mg piperazine base/kg bw/day) did not provoke adverse effects. However, the average lipid content of liver, muscle, heart, kidney, lungs and serum in the treated group was significantly decreased compared to the control group, while the overall weight gain was not different in both groups.[European Medicines Agency (EMEA), The European Agency for the Evaluation of Medicinal Products, Veterinary Medicines Evaluation Unit, Committee for Veterinary Medicinal Products; Piperazine, Summary Report (3). EMEA/MRL/807/01-Final (November 2001). Available from, as of November 15, 2006: http://www.ema.europa.eu/ema/index.jsp?curl=pages/document_library/landing/document_library_search.jsp&murl=menus/document_library/document_library.jsp&mid]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Three groups of beagle dogs (4 male and 4 female in each group) were treated with piperazine dihydrochloride by the oral route during 13 weeks at dosage levels (dietary levels) of 92.3 mg/kg feed (equivalent to 3 mg piperazine dihydrochloride/kg bw/day) and 369.2 mg/kg feed (12.3 mg/kg bw/day) for the low and intermediate groups and at 1476.8 mg/g feed (49.7 mg/kg bw/day) from week 1 through 5 and 3,692 mg/kg feed (121.8 mg/kg bw/day) from week 6 through week 13 for the high level group. A fourth group served as control. No compound related signs of systemic toxicity were observed in any of the test animals with regard to appearance and behavior, body weight changes, ophthalmoscopic finding, organ weights, and gross and microscopic pathology. At 4 weeks and at 13 weeks serum glutamic-oxaloacetic transaminase values fell in the control group whereas they remained constant in treated groups. Since the high dose of 121.8 mg/kg bw/day of piperazine dihydrochloride was not maintained for the entire administration period, the dose of 49.7 mg/kg bw/day of piperazine dihydrochloride (equivalent to 25 mg/kg bw/day of piperazine base) was considered as the NOEL in dogs. /Piperazine dihydrochloride/[European Medicines Agency (EMEA), The European Agency for the Evaluation of Medicinal Products, Veterinary Medicines Evaluation Unit, Committee for Veterinary Medicinal Products; Piperazine, Summary Report (3). EMEA/MRL/807/01-Final (November 2001). Available from, as of November 15, 2006: http://www.ema.europa.eu/ema/index.jsp?curl=pages/document_library/landing/document_library_search.jsp&murl=menus/document_library/document_library.jsp&mid]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Piperazine (probably the hexahydrate at 0.1% (1000 ppm) in the diet has been administered to rats for 90 days with no effects on appearance, behavior, growth, mortality, food consumption, final body or organ weights, or gross and microscopic examination of the tissues. Doses of 1 and 3% caused moderate liver and kidney pathological effects.[Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 2692]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Two groups of 80 rats were subdivided into 4 subgroups each of 10 males and 10 females, receiving piperazine sultosylate by the oral route at dosages of 0, 40, 400 and 1,200 mg/kg bw/day. Group A received the treatment for 26 wks and group B for 52 wks. Enhanced salivation was observed during the first weeks in the rats receiving 1,200 mg/kg bw/day. One female died in the 1,200 mg/kg bw/day group of group B at 26 weeks. In group B there was a reduction in the relative weight of the spleen in females at 40 mg/kg bw/day (15.2%) and of the kidneys in females at 1,200 mg/kg bw.day (10.8%). In males there was a fall in the relative weight of the prostate at all 3 doses (27.6%, 33.3%, 38.1%) and of the brain at 40 mg/kg bw/day (17.7%) and 400 mg/kg bw.day (14%). HOwever, the effects were not dose related and no clear effect of piperazine sultosylate was established. /Piperazine sultosylate/[European Medicines Agency (EMEA), The European Agency for the Evaluation of Medicinal Products, Veterinary Medicines Evaluation Unit, Committee for Veterinary Medicinal Products; Piperazine, Summary Report (3). EMEA/MRL/807/01-Final (November 2001). Available from, as of November 15, 2006: http://www.ema.europa.eu/ema/index.jsp?curl=pages/document_library/landing/document_library_search.jsp&murl=menus/document_library/document_library.jsp&mid]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ When administered at 6.25 g/kg in the feed (about 938 mg/kg/day) for 28 weeks and sacrificed at 40 weeks, it failed to induce any significant increase in the incidence of lung adenomas in groups of 40 Swiss mice per sex in comparison with controls (80 animals per sex).[European Commission; EUR 21642 EN European Union Risk Assessment Report Piperazine, Volume 56. Luxembourg: Office for Official Publications of the European Communities (2005). Available from, as of November 15, 2006: http://ecb.jrc.it/DOCUMENTS/Existing-Chemicals/RISK_ASSESSMENT/REPORT/piperazinereport324.pdf]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ In a developmental toxicity study in rats, pregnant rats were gavaged 0,105, 420, or 2,100 mg/kg/day piperazine base during days 6-15. A NOAEL of 420 mg/kg/day was reported for the females based on excessive salivation, lethargy and a reduction in bodyweight gain, body weight, as well as food consumption in females of the top dose.[European Commission; EUR 21642 EN European Union Risk Assessment Report Piperazine, Volume 56. Luxembourg: Office for Official Publications of the European Communities (2005). Available from, as of November 15, 2006: http://ecb.jrc.it/DOCUMENTS/Existing-Chemicals/RISK_ASSESSMENT/REPORT/piperazinereport324.pdf]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Studies in animals (rats and pigs) have failed to demonstrate any teratogenic effects of piperazine on the fetus.[Thomson/Micromedex. Drug Information for the Health Care Professional. Volume 1,  Greenwood Village, CO. 2006.]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/  A two generation reproduction study in the rat (32 animals per sex and dose) with piperazine dihydrochloride in the diet at the following concentration: 5,000 mg/kg feed (278 to 780 mg/kg bw/day depending on sex and study week), 12,000 mg/kg feed (669 to 1,923 mg/kg bw) and 25,000 mg/kg feed (1,476 to 4,353 mg/kg bw/day), during 17 weeks showed a NOEL of 5,000 mg.kg feed equivalent to 278 to 780 mg/kg bw/day. /Piperazine dihydrochloride/[European Medicines Agency (EMEA), The European Agency for the Evaluation of Medicinal Products, Veterinary Medicines Evaluation Unit, Committee for Veterinary Medicinal Products; Piperazine, Summary Report (3). EMEA/MRL/807/01-Final (November 2001). Available from, as of November 15, 2006: http://www.ema.europa.eu/ema/index.jsp?curl=pages/document_library/landing/document_library_search.jsp&murl=menus/document_library/document_library.jsp&mid]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ In rats (n=5) in a first experiment the animals were dosed once daily by gavage from day 6 to 15 of gestation with doses between 250 and 5,000 mg/kg bw/day of piperazine phosphate. The number of implantation sites and live fetuses, pre- and post-implantation losses and sex ratios were similar for all groups. No evidence of teratogenicity at any dose was shown, although maternal toxicity and fetal weight retardation were observed at the highest dose. A NOEL of at least 1,000 mg/kg bw/day could be safely accepted. The same experiment was repeated in groups of 24 rats and there again a NOEL of 1,000 mg/kg bw/day was confirmed. /Piperazine phosphate/[European Medicines Agency (EMEA), The European Agency for the Evaluation of Medicinal Products, Veterinary Medicines Evaluation Unit, Committee for Veterinary Medicinal Products; Piperazine, Summary Report (3). EMEA/MRL/807/01-Final (November 2001). Available from, as of November 15, 2006: http://www.ema.europa.eu/ema/index.jsp?curl=pages/document_library/landing/document_library_search.jsp&murl=menus/document_library/document_library.jsp&mid]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ In the rabbit (n=5) a reproduction study using oral administration of doses of 100, 250 or 500 mg piperazine phosphate/kg bw per gavage showed dose dependent maternal toxicity culminating at the highest dose in death of does (2), abortion (1) and increases of major abnormalities in pups (23% vs 1.7% in controls). The main abnormalities observed were cleft palate and umbilical hernia, otherwise rarely seen in the strain of rabbits used. It seems thus that piperazine in doses higher than 100 mg/kg bw/day could provoke maternotoxicity, which can contribute to teratological effects as a consequence (at high dose levels). /Piperazine phosphate/[European Medicines Agency (EMEA), The European Agency for the Evaluation of Medicinal Products, Veterinary Medicines Evaluation Unit, Committee for Veterinary Medicinal Products; Piperazine, Summary Report (3). EMEA/MRL/807/01-Final (November 2001). Available from, as of November 15, 2006: http://www.ema.europa.eu/ema/index.jsp?curl=pages/document_library/landing/document_library_search.jsp&murl=menus/document_library/document_library.jsp&mid]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ In a developmental toxicity study in pregnant rabbits were gavaged at concentrations 0, 42, 94, or 210 mg/kg/day piperazine base during days 6-18. A NOAEL of 42 mg/kg/day was reported for the females based on decreased food consumption (-39%) and body weight gain during the 4 first days of dosing.[European Commission; EUR 21642 EN European Union Risk Assessment Report Piperazine, Volume 56. Luxembourg: Office for Official Publications of the European Communities (2005). Available from, as of November 15, 2006: http://ecb.jrc.it/DOCUMENTS/Existing-Chemicals/RISK_ASSESSMENT/REPORT/piperazinereport324.pdf]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ In a two generation reproduction study in Sprague-Dawley CD rats, groups of male and female animals were administered 0, 5,000, 12,000, or 25,000 ppm (250, 600, or 1,250 mg/kg/day) piperazine dihydrochloride in the diet throughout maturation, mating, gestation and lactation phases for two successive generations. Expressed as piperazine base, the doses represent 125, 300, and 625 mg/kg/day. The F0 males and females (32 per dose and sex) were dosed for 73 days for males and 17 days for females and paired within their respective dosage groups for up to 21 days. Subsequent exposure to diets continued throughout the breeding, gestation and lactation periods for both generations. At weaning of the offspring on day 21 post partum, 28 males and 28 females per dose group were selected at random to form the parental F1 generation. The remaining generation was sacrificed and examined macroscopically. F1 animals were given piperazine in the diet for 80 days, and all animals were observed for sexual development. ... At 125 mg/kg/day piperazine base, no effects that could be related to the administration of piperazine were noted. The only clinical signs observed in the study are bright yellow urine in the bedding of all exposed females (all groups), but not in control animals or exposed males. ... At 300 mg/kg/day piperazine base, the effects on body weight gain were /minimal/, although statistically significant in F0 males (9%), but not in F0 females. In the F1 parental generation, bodyweights were significantly reduced in both males and females from week 2, and there was also a slight reduction in food consumption (F1 females, 9%; F1 males 9%). There was no effect on the number of pregnancies, but a statistically significant reduced litter size at birth was noted in both generations (91% and 85% of control values in F0-offspring and F1-offspring, respectively). There was a reduction of implantation sites in F1 females (Group mean = 13.2 versus. 16.6 in controls). Further, there was a delay in sexual maturation (preputial separation) in F1 males (not investigated in F2), but no significant differences in offspring sex ratios. The group mean day of completion of offspring sexual development was also increased in females; although the increase was not statistically significant. ... At 625 mg/kg/day piperazine base there was clear evidence of toxicity to the adult animals as judged by a statistically significant reduced body weight increase in both sexes for the F0 as well as F1 animals, an effect that was more pronounced in the second generation (F0 females, 3%; F0 males 9%; F1 females 17%, F1 males 20%). Further, there was a reduction in number of pregnancies, reaching statistical significance only in F1 (81.5% vs 100% in controls), and a reduced litter size at birth for both generations (59% and 32% of control values in F1 and F2, respectively), but no effects on live birth index, viability during lactation, or offspring physical development were noted when subjected to a set of reflexological tests. However, there was a delay in sexual maturation (appearance of vaginal opening for females and preputial separation for males) in both F1 males and females (not investigated in F2), but no significant differences in offspring sex ratios were noted at any dose level. .... With respect to effects on reproduction, 5,000 ppm (125 mg/kg/day piperazine base) can be considered as a NOAEL, with 12,000 ppm (300 mg/kg/day) as a LOAEL for this study, with effects mainly on fertility (ie, reduced pregnancy index and decreased number of implantation sites, although litter losses in F2 may indicate post implantation losses as well).[European Commission; EUR 21642 EN European Union Risk Assessment Report Piperazine, Volume 56. Luxembourg: Office for Official Publications of the European Communities (2005). Available from, as of November 15, 2006: http://ecb.jrc.it/DOCUMENTS/Existing-Chemicals/RISK_ASSESSMENT/REPORT/piperazinereport324.pdf]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/  In mammalian species piperazine can produce electroencephalogram alterations. ... In rabbits, the most sensitive animal species, it can provoke dose-dependent electroencephalogram alterations at repeated daily oral doses of 50 mg/kg bw and above. Piperazine exerts effects on smooth, cardiac (decrease of muscle action) an skeletal muscle (potentiation) after iv administration of doses between 15 and 300 mg/kg bw. High iv doses (100 to 500 mg/kg bw) produce cholinergic effects, inhibition of muscle contractions and respiratory arrest in the cat, another sensitive animal species.[European Medicines Agency (EMEA), The European Agency for the Evaluation of Medicinal Products, Veterinary Medicines Evaluation Unit, Committee for Veterinary Medicinal Products; Piperazine, Summary Report (3). EMEA/MRL/807/01-Final (November 2001). Available from, as of November 15, 2006: http://www.ema.europa.eu/ema/index.jsp?curl=pages/document_library/landing/document_library_search.jsp&murl=menus/document_library/document_library.jsp&mid]"
+        },
+        {
+            "References": "",
+            "Value": "/GENOTOXICITY/ A series of GLP compliant mutagenicity studies in prokaryotic and eukaryotic cells, both in vitro and in vivo has been completed and showed no evidence of mutagenic effect: a bacterial mutation test with piperazine phosphate either in presence of absence of metabolic activation; similarly with mouse lymphoma cells with piperazine phosphate up to its limit of solubility (400 ug/mL), in vitro studies at concentrations up to 100 ug piperazine phosphate/mL (with or without metabolic activation) failed to increase the incidence of chromosomal aberrations, an in vivo micronucleus test in mouse with piperazine phosphate at 5,000 mg/kg bw did not show the induction of micronuclei. /Piperazine phosphate/[European Medicines Agency (EMEA), The European Agency for the Evaluation of Medicinal Products, Veterinary Medicines Evaluation Unit, Committee for Veterinary Medicinal Products; Piperazine, Summary Report (3). EMEA/MRL/807/01-Final (November 2001). Available from, as of November 15, 2006: http://www.ema.europa.eu/ema/index.jsp?curl=pages/document_library/landing/document_library_search.jsp&murl=menus/document_library/document_library.jsp&mid]"
+        },
+        {
+            "References": "",
+            "Value": "/GENOTOXICITY/ Using the strains TA 1535, TA 1537, TA 98, and TA 100, piperazine tested at the concentrations 33, 100, 333, 1,000, or 2,167 ug/plate was found to be negative in the Salmonella typhimurium reverse mutation test with and without metabolic activation.[European Commission; EUR 21642 EN European Union Risk Assessment Report Piperazine, Volume 56. Luxembourg: Office for Official Publications of the European Communities (2005). Available from, as of November 15, 2006: http://ecb.jrc.it/DOCUMENTS/Existing-Chemicals/RISK_ASSESSMENT/REPORT/piperazinereport324.pdf]"
+        },
+        {
+            "References": "",
+            "Value": "/GENOTOXICITY/ At concentrations ranging from 1.7 to 110 mg/mL, piperazine phosphate was also found to lack clastogenic properties in cultivated Chinese hamster ovary cells in presence and absence of metabolic activation in a GLP study.[European Commission; EUR 21642 EN European Union Risk Assessment Report Piperazine, Volume 56. Luxembourg: Office for Official Publications of the European Communities (2005). Available from, as of November 15, 2006: http://ecb.jrc.it/DOCUMENTS/Existing-Chemicals/RISK_ASSESSMENT/REPORT/piperazinereport324.pdf]"
+        },
+        {
+            "References": "",
+            "Value": "/GENOTOXICITY/ In a mouse lymphoma test using test solutions containing 200, 250, 300, 350, and 400 ug/L of piperazine phosphate, negative results were reported both with and without metabolic activation.[European Commission; EUR 21642 EN European Union Risk Assessment Report Piperazine, Volume 56. Luxembourg: Office for Official Publications of the European Communities (2005). Available from, as of November 15, 2006: http://ecb.jrc.it/DOCUMENTS/Existing-Chemicals/RISK_ASSESSMENT/REPORT/piperazinereport324.pdf]"
+        },
+        {
+            "References": "",
+            "Value": "/GENOTOXICITY/ Upon dosing groups of CD-1 mice orally with 5,000 mg piperazine phosphate per kg, no significant increase in the level of micronuclei of polychromatic or normochromatic erythrocytes of the bone marrow could be detected in an adequately performed GLP study.[European Commission; EUR 21642 EN European Union Risk Assessment Report Piperazine, Volume 56. Luxembourg: Office for Official Publications of the European Communities (2005). Available from, as of November 15, 2006: http://ecb.jrc.it/DOCUMENTS/Existing-Chemicals/RISK_ASSESSMENT/REPORT/piperazinereport324.pdf]"
+        },
+        {
+            "References": "",
+            "Value": "/GENOTOXICITY/ Wistar rats were partially hepatectomized and the liver labeled during regeneration using tritiated thymidine. After 2 weeks a single dose of 50 mg piperazine, 10-50 mg/kg N,N-dinitrosopiperazine were administered by ip injection. Liver DNA was isolated and single and double strand breaks determined by the alkaline elution technique. Whereas the dinitrosopiperazine gave positive results, there was no indication of any DNA damage induced by piperazine as such.[European Commission; EUR 21642 EN European Union Risk Assessment Report Piperazine, Volume 56. Luxembourg: Office for Official Publications of the European Communities (2005). Available from, as of November 15, 2006: http://ecb.jrc.it/DOCUMENTS/Existing-Chemicals/RISK_ASSESSMENT/REPORT/piperazinereport324.pdf]"
+        },
+        {
+            "References": "",
+            "Value": "/OTHER TOXICITY INFORMATION/ It is of very low toxicity, but occasionally produces transient neurotoxic symptoms in small animals. It has also been known to cause tympany, diarrhea & anorexia in calves dosed at rate of 0.88 g/kg.[Clarke, E.G., and M. L. Clarke. Veterinary Toxicology. Baltimore, Maryland: The Williams and Wilkins Company, 1975., p. 137]"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 10 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Perrin DD; Dissociation Constants of Organic Bases in Aqueous Solution. IUPAC Chemical Data Series: Supplement. Buttersworth, London (1972) (5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "The Koc of piperazine is estimated as 3.6(SRC), using a log Kow of -1.50(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that piperazine is expected to have very high mobility in soil. Measured pKa values of 9.73 (first nitrogen) and 5.33 (second nitrogen)(4), indicate that this compound will primarily exist in cation form in the environment and cations generally adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(5)."
+        }
+    ]
+}

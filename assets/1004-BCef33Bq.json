@@ -1,0 +1,75 @@
+{
+    "_id": {
+        "$oid": "6682e7e0c4e5dba5ffba22c9"
+    },
+    "CID": {
+        "$numberInt": "1004"
+    },
+    "Name": "PHOSPHORIC ACID",
+    "IUPACName": "phosphoric acid",
+    "CanonicalSMILES": "OP(=O)(O)O",
+    "Synonyms": [
+        "Phosphoric acid",
+        "7664-38-2",
+        "ORTHOPHOSPHORIC ACID",
+        "o-Phosphoric acid",
+        "Wc-reiniger",
+        "Acidum phosphoricum",
+        "Sonac",
+        "Phosphorsaeure",
+        "Evits",
+        "Acide phosphorique",
+        "Phosphoricum acidum",
+        "Acido fosforico",
+        "Phosphorsaeureloesungen",
+        "Fosforzuuroplossingen",
+        "Vococid"
+    ],
+    "IsomericSMILES": "OP(=O)(O)O",
+    "INCHI": "InChI=1S/H3O4P/c1-5(2,3)4/h(H3,1,2,3,4)",
+    "INCHIKEY": "NBIIXXVUZAFLBC-UHFFFAOYSA-N",
+    "Formula": "H3O4P",
+    "MolecularWeight": {
+        "$numberDouble": "97.995"
+    },
+    "Description": "Phosphoric acid is a phosphorus oxoacid that consists of one oxo and three hydroxy groups joined covalently to a central phosphorus atom. It has a role as a solvent, a human metabolite, an algal metabolite, a fertilizer and a NMR chemical shift reference compound. It is a conjugate acid of a dihydrogenphosphate and a phosphate ion.",
+    "XlogP": {
+        "$numberDouble": "-2.1"
+    },
+    "Complexity": {
+        "$numberInt": "49"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "mechanism_of_action": [
+        {
+            "References": "WHO/FAO; Joint Expert Committee on Food Additives (JECFA): Phosphoric acid and phosphate salts (WHO Food Additives Series 17). Available from, as of July 28, 2011: https://www.inchem.org/pages/jecfa.html",
+            "Value": "Phosphate supplementation of the diet of rodents has been shown to lead to reduction in the incidence of dental caries and different phosphates have different powers in reducing the cariogenic potential of the carbohydrates in a diet. Phosphate supplements seem to exert their cariostatic effect on the tooth surface either directly during eating or by excretion in the saliva."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Phosphoric Acid (7664-38-2) p.54(2000 CD-ROM edition). Available from as of August 1, 2011 https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Application of 0.5mL of commercial product to clipped skin of New Zealand albino rabbits under semi-occlusive dressings for ... 4 hr. /Solutions of/ 75 and 80% phosphoric acid was considered as non-corrosive while 85% acid was corrosive /to skin./ ... /After/ 24 hr, solutions from 75 - 85% phosphoric acid were corrosive to skin."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 733",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Irrigation of rabbit's eye for five min with orthophosphoric acid diluted to pH 3.8 caused slight transient epithelial edema and conjunctival hyperemia but eye was completely normal by next day."
+        },
+        {
+            "References": "WHO/FAO; Joint Expert Committee on Food Additives (JECFA): Phosphoric acid and phosphate salts (WHO Food Additives Series 17). Available from, as of July 28, 2011: https://www.inchem.org/pages/jecfa.html",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ...Over 700 rats were fed diets containing up to 0.75% phosphoric acid. Effects on reproduction were looked for through 3 generations; no adverse effects were observed. The study was reported to include examination of the blood, tissues, mineral balance, nitrogen retention, and the acidic conditions of the digestive tract. Three successive generations of rats were fed diets containing 0.4% and 0.75% of phosphoric acid for 90 weeks. No harmful effects on growth or reproduction could be observed. No significant differences were noted in the blood picture in comparison with control rats and there was no other pathological finding which could be attributed to the diets. There was no acidosis or any changes in the calcium metabolism. The dental attrition was somewhat more marked than that in the control rats."
+        },
+        {
+            "References": "National Poisons Information Service; United Kingdom Poison Information Documents (UKPID): Phosphoric Acid (7664-38-2) (January 28, 1998); Available from: as of August 2, 2011 https://www.inchem.org/pages/ukpids.html",
+            "Value": "/GENOTOXICITY/ Genotoxicity /of phosphoric acid was found to be negative in/ Salmonella typhimurium TA97, TA98, TA100, TA104 with and without metabolic activation ... /and/ Escherichia coli without metabolic activation. ..."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "Environment Canada; Tech Info for Problem Spills: Phosphoric Acid (Draft) p.51 (1981)",
+            "Value": "When spilled onto soil, phosphoric acid will infiltrate downward, the rate being greater with lower concentration because of reduced viscosity. ... During transport through the soil, phosphoric acid will dissolve some of the soil material, in particular, carbonate-based materials. The acid will be neutralized to some degree with adsorption of the proton and phosphate ions also possible. However, significant amounts of acid will remain for transport. ... /If/ reaching the groundwater table, the acid will continue to move in the direction of groundwater flow. A contaminated plume will be produced with dilution and dispersion serving to reduce the acid concentration."
+        }
+    ]
+}

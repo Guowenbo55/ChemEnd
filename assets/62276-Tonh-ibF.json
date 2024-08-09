@@ -1,0 +1,64 @@
+{
+    "_id": {
+        "$oid": "66927116303528b49832d7dd"
+    },
+    "CID": {
+        "$numberInt": "62276"
+    },
+    "Name": "Lactofen",
+    "IUPACName": "(1-ethoxy-1-oxopropan-2-yl) 5-[2-chloro-4-(trifluoromethyl)phenoxy]-2-nitrobenzoate",
+    "CanonicalSMILES": "CCOC(=O)C(C)OC(=O)C1=C(C=CC(=C1)OC2=C(C=C(C=C2)C(F)(F)F)Cl)[N+](=O)[O-]",
+    "Synonyms": [
+        "LACTOFEN",
+        "77501-63-4",
+        "83513-60-4",
+        "2-Ethoxy-1-methyl-2-oxoethyl 5-(2-chloro-4-trifluoromethylphenoxy)-2-nitrobenzoate",
+        "Lactofen (>85%)",
+        "Cobra",
+        "(1-ethoxy-1-oxopropan-2-yl) 5-[2-chloro-4-(trifluoromethyl)phenoxy]-2-nitrobenzoate",
+        "L44N8UV47O",
+        "DTXSID7024160",
+        "Benzoic acid",
+        "5-[2-chloro-4-(trifluoromethyl)phenoxy]-2-nitro-",
+        "2-ethoxy-1-methyl-2-oxoethyl ester",
+        "Cobra herbicide",
+        "5-(2-Chloro-4-(trifluoromethyl)phenoxy)-2-nitrobenzoic acid 2-ethoxy-1-methyl-2-oxoethyl ester",
+        "Benzoic acid",
+        "5-(2-chloro-4-(trifluoromethyl)phenoxy)-2-nitro-",
+        "2-ethoxy-1-methyl-2-oxoethyl ester",
+        "Lactofen [ANSI]",
+        "DTXCID404160"
+    ],
+    "IsomericSMILES": "CCOC(=O)C(C)OC(=O)C1=C(C=CC(=C1)OC2=C(C=C(C=C2)C(F)(F)F)Cl)[N+](=O)[O-]",
+    "INCHI": "InChI=1S/C19H15ClF3NO7/c1-3-29-17(25)10(2)30-18(26)13-9-12(5-6-15(13)24(27)28)31-16-7-4-11(8-14(16)20)19(21,22)23/h4-10H,3H2,1-2H3",
+    "INCHIKEY": "CONWAEURSVPLRM-UHFFFAOYSA-N",
+    "Formula": "C19H15ClF3NO7",
+    "MolecularWeight": {
+        "$numberDouble": "461.8"
+    },
+    "Description": "Lactofen can cause cancer according to an independent committee of scientific and health experts.",
+    "XlogP": {
+        "$numberDouble": "4.1"
+    },
+    "Complexity": {
+        "$numberInt": "657"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Experiments were conducted to determine 14C absorption, translocation, and metabolism by pitted morningglory (Ipomoea lacunosa L. # IPOLA) and ivyleaf morningglory [Ipomoea hederacea (L.) Jacq. # IPOHE] foliarly treated with 14C-acifluorfen [5-(2-chloro-4-(trifluoromethyl)phenoxy)-2-nitrobenzoic acid] or 14C-lactofen [(\u00b1)-2-ethoxy-1-methyl-2-oxoethyl-5-(2-chloro-4-(trifluoromethyl)phenoxy)-2-dinitrobenzoate]. Seventy-one to 84% of applied 14 C-acifluorfen was recovered in leaf water wash of ivyleaf morningglory compared to 32 to 46% from pitted morningglory. Sixty-four percent of applied 14C-lactofen was recovered in leaf water wash 96 h after treatment in both morningglory species. Thirty-five to 37% more 14C from applied 14C-acifluorfen was found in pitted morningglory treated leaves than ivyleaf morningglory treated leaves. Less than 28% of applied 14C-lactofen was extracted from treated leaves of either morningglory species. Translocation and metabolism of 14C-acifluorfen and 14C-lactofen were minimal in both morningglory species.",
+            "reference": "Higgins, J. M., Whitwell, T., Corbin, F. T., Carter, G. E., & Hill, H. S. (1988). Absorption, translocation, and metabolism of acifluorfen and lactofen in pitted morningglory (Ipomoea lacunosa) and ivyleaf morningglory (Ipomoea hederacea). Weed Science, 36(2), 141-145.",
+            "method": {
+                "Test Plant": "Pitted morningglory (Ipomoea lacunosa) and ivyleaf morningglory (Ipomoea hederacea)",
+                "Apply Location": "Foliar application to the midvein of the second true leaf.",
+                "Plant Grown Condition": "Plants were grown in 1-L styrofoam cups containing a 1:1 mixture of peat:perlite media (pH 6.5). Plants were maintained in growth chambers with 400 \u03bcmol/m2/s photosynthetic photon flux density, 30/24 C day/night temperatures, 16/8-h light/dark periods, and 60-75% relative humidity.",
+                "Chemical Preparation": "14C-acifluorfen (specific activity 10.05 \u03bcCi/mg) and 14C-lactofen (specific activity 20.70 \u03bcCi/mg) were uniformly radiolabeled in the nitrophenyl ring. Stock solutions of 5 \u03bcCi/ml were prepared with 0.1% v/v Oxysorbic surfactant. Diluents were distilled water for acifluorfen and methanol plus distilled water (1:5, v/v) for lactofen. Application volumes were 40 \u03bcl in the first experiment and 20 \u03bcl in the second experiment.",
+                "Pesticide Application Details for the Plant": "-",
+                "Other Information": "-"
+            },
+            "result": "[{\"Plant\": \"Pitted morningglory\", \"Hours after application\": 24, \"Leaf water wash of treated leaves (%)\": 10, \"Leaf chloroform was of treated leaves (%)\": 12}, {\"Plant\": \"Pitted morningglory\", \"Hours after application\": 48, \"Leaf water wash of treated leaves (%)\": 8, \"Leaf chloroform was of treated leaves (%)\": 14}, {\"Plant\": \"Pitted morningglory\", \"Hours after application\": 96, \"Leaf water wash of treated leaves (%)\": 9, \"Leaf chloroform was of treated leaves (%)\": 26}, {\"Plant\": \"Ivyleaf morningglory\", \"Hours after application\": 24, \"Leaf water wash of treated leaves (%)\": 8, \"Leaf chloroform was of treated leaves (%)\": 9}, {\"Plant\": \"Ivyleaf morningglory\", \"Hours after application\": 48, \"Leaf water wash of treated leaves (%)\": 7, \"Leaf chloroform was of treated leaves (%)\": 17}, {\"Plant\": \"Ivyleaf morningglory\", \"Hours after application\": 96, \"Leaf water wash of treated leaves (%)\": 8, \"Leaf chloroform was of treated leaves (%)\": 28}]"
+        }
+    ]
+}

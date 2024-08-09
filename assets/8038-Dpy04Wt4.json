@@ -1,0 +1,89 @@
+{
+    "_id": {
+        "$oid": "6682e8a4c4e5dba5ffba269d"
+    },
+    "CID": {
+        "$numberInt": "8038"
+    },
+    "Name": "ISOBUTYL ACETATE",
+    "IUPACName": "2-methylpropyl acetate",
+    "CanonicalSMILES": "CC(C)COC(=O)C",
+    "Synonyms": [
+        "ISOBUTYL ACETATE",
+        "110-19-0",
+        "2-Methylpropyl acetate",
+        "Isobutyl ethanoate",
+        "2-Methylpropyl ethanoate",
+        "Acetic acid",
+        "2-methylpropyl ester",
+        "2-Methyl-1-propyl acetate",
+        "Acetic acid",
+        "isobutyl ester",
+        "\"Acetate disobutyle\"",
+        "iso-butyl acetate",
+        "Isobutylacetat",
+        "i-butyl acetate",
+        "beta-Methylpropyl ethanoate",
+        "Acetic Acid Isobutyl Ester",
+        "Isobutylazetat"
+    ],
+    "IsomericSMILES": "CC(C)COC(=O)C",
+    "INCHI": "InChI=1S/C6H12O2/c1-5(2)4-8-6(3)7/h5H,4H2,1-3H3",
+    "INCHIKEY": "GJRQTCIYDGXPES-UHFFFAOYSA-N",
+    "Formula": "C6H12O2",
+    "MolecularWeight": {
+        "$numberDouble": "116.16"
+    },
+    "Description": "Isobutyl acetate is the acetate ester of isobutanol. It has a role as a Saccharomyces cerevisiae metabolite. It is functionally related to an isobutanol.",
+    "XlogP": {
+        "$numberDouble": "1.8"
+    },
+    "Complexity": {
+        "$numberInt": "76"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 26 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 7 was calculated in fish for isobutyl acetate(SRC), using a log Kow of 1.78(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Price KS et al; J Water Pollut Contr Fed 46: 63 (1974)",
+            "Value": "AEROBIC: Using a filtered sewage seed, isobutyl acetate 5- and 20-day theoretical BOD's of 60% and 81%, respectively, were measured in fresh water dilution tests(1); 5- and 20-day theoretical BOD's of 23% and 37%, respectively, were measured in salt water(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 24",
+            "Value": "log Kow = 1.78"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Clayton, G.D., F.E. Clayton (eds.) Patty's Industrial Hygiene and Toxicology. Volumes 2A, 2B, 2C, 2D, 2E, 2F: Toxicology. 4th ed. New York, NY: John Wiley & Sons Inc., 1993-1994., p. 2982",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ SIX OF SIX RATS DIED FROM EXPOSURE TO 21000 PPM (100 MG/L) FOR 150 MIN. PRIOR TO DEATH /CNS DEPRESSION/ WAS OBSERVED. EXPOSURE TO 3000 PPM (14 MG/L) FOR 6 HR PRODUCED NO OBSERVABLE SIGNS. /FROM TABLE/"
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists, Inc. Documentation of the Threshold Limit Values and Biological Exposure Indices. 6th ed. Volumes I, II, III. Cincinnati, OH: ACGIH, 1991., p. 814",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ EXPOSURE AT ... 8000 PPM FOR 4 HOURS WAS FATAL TO FOUR OF SIX RATS. THESE DATA INDICATE ISOBUTYL ACETATE TO BE SOMEWHAT MORE TOXIC THAN NORMAL ISOMER. ON OTHER HAND, COMPARATIVE STUDIES INDICATED ISOBUTYL ACETATE IN LOW CONCN TO BE ... LESS IRRITATING THAN N-BUTYL ACETATE."
+        },
+        {
+            "References": "International Labour Office. Encyclopedia of Occupational Health and Safety. Vols. I&II. Geneva, Switzerland: International Labour Office, 1983., p. 783",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Exposure to a concentration of 10000 ppm for 5 hr caused irritation and death in guinea-pigs."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset for Isobutyl acetate (110-19-0), p.30 (2000 CD-ROM edition). Available from, as of October 31, 2011: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ /In a standard Ames test isobutyl acetate was negative in Salmonella typhimurium TA98, TA100, TA1535, TA1537, TA1538 at concentrations up to 5000 ug/mL with and without metabolic activation./"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2011. Available from, as of Oct 20, 2011: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of isobutyl acetate can be estimated to be 16(SRC). According to a classification scheme(2), this estimated Koc value suggests that isobutyl acetate is expected to have very high mobility in soil."
+        }
+    ]
+}

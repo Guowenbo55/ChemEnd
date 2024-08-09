@@ -1,0 +1,107 @@
+{
+    "_id": {
+        "$oid": "6682e828c4e5dba5ffba2431"
+    },
+    "CID": {
+        "$numberInt": "5794"
+    },
+    "Name": "Piperonyl butoxide",
+    "IUPACName": "5-[2-(2-butoxyethoxy)ethoxymethyl]-6-propyl-1,3-benzodioxole",
+    "CanonicalSMILES": "CCCCOCCOCCOCC1=CC2=C(C=C1CCC)OCO2",
+    "Synonyms": [
+        "PIPERONYL BUTOXIDE",
+        "51-03-6",
+        "Piperonylbutoxide",
+        "Butacide",
+        "Butocide",
+        "5-((2-(2-Butoxyethoxy)ethoxy)methyl)-6-propylbenzo[d][1,3]dioxole",
+        "Ethanol butoxide",
+        "Pyrenone 606",
+        "Butyl carbitol 6-propylpiperonyl ether",
+        "6-Propylpiperonyl butyl diethylene glycol ether",
+        "Butoxide (synergist)",
+        "NCI-C02813",
+        "2-(2-Butoxyethoxy)ethyl 6-propylpiperonyl ether",
+        "FMC 5273",
+        "NIA 5273"
+    ],
+    "IsomericSMILES": "CCCCOCCOCCOCC1=CC2=C(C=C1CCC)OCO2",
+    "INCHI": "InChI=1S/C19H30O5/c1-3-5-7-20-8-9-21-10-11-22-14-17-13-19-18(23-15-24-19)12-16(17)6-4-2/h12-13H,3-11,14-15H2,1-2H3",
+    "INCHIKEY": "FIPWRIJSWJWJAI-UHFFFAOYSA-N",
+    "Formula": "C19H30O5",
+    "MolecularWeight": {
+        "$numberDouble": "338.4"
+    },
+    "Description": "Piperonyl butoxide is a member of benzodioxoles. It has a role as a pesticide synergist.",
+    "XlogP": {
+        "$numberDouble": "3.7"
+    },
+    "Complexity": {
+        "$numberInt": "312"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Tomlin CDS, ed. Chemical (51-03-6). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council. (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 27 was calculated in fish for piperonyl butoxide(SRC), using a log Kow of 4.75(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low, provided the compound is not metabolized by the organism(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Tomlin CDS, ed. Chemical (51-03-6). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council.",
+            "Value": "AEROBIC: The half-life of piperonyl butoxide in aerobic soils was reported as 14 days(1). Degradation in soil or water is mainly via oxidation of the butyl side chain to form methylenedioxypropyl benzyl alcohol followed by the corresponding aldehyde, ultimately with mineralization to carbon dioxide; there is no accumulation of the metabolites(1)."
+        },
+        {
+            "References": "(1) Giger W et al; Science 225: 623-5 (1984) (2) Kravetz L et al; Soap Cosmet Chem Spec 58: 34-8, 40-2, 102B (1982) (3) Brueschweiler H et al; Tenside Deterg 20: 317-24 (1983) (4) Dwyer DF, Tiedje JM; Appl Environ Microbiol 46: 185-90 (1983) (5) Babeu L, Vaishnav DD; J Ind Microbiol 2: 107-15 (1987) (6) Van Der Linden AC; Dev Biodegrad Hydrocarbons 1: 165-200 (1978) (7) Marion CV, Malaney GW; Proc Ind Waste Cong 18: 297-308 (1964) (8) Chemicals Inspection and Testing Institute; Biodegradation and bioaccumulation data of existing chemicals based on the CSCL Japan. Japan Chemical Industry Ecology-Toxicology and Information Center. ISBN 4-89074-101-1 (1992) (9) Vasavada PC; J Environ Sci Health A11: 213-23 (1976)",
+            "Value": "Data indicate that the side chains on the benzodioxole moiety, as well as the benzodioxole itself, biodegrade. It is known that ethoxylate chains degrade, undergoing rapid stepwise removal of the ethoxy groups, during wastewater treatment using activated sludge(1-3) and they also degrade under anaerobic conditions using enriched cultures from digester sludge(4). Linear side chains on benzene rings also biodegrade(5-7). Biodegradability has also been shown for two compounds, piperonal and piperonylic acid, that are related to piperonyl butoxide (without side chains). Piperonal readily biodegraded in a screening study using an activated sludge seed(8) and piperonylic acid is oxidized by soil bacteria(9). These data suggest that piperonyl butoxide may biodegrade in the environment(SRC)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Tomlin CDS, ed. Chemical (51-03-6). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council.",
+            "Value": "log Kow = 4.75"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Kawai M et al; Toxicol Pathol 37 (6): 761-9 (2009). Available from, as of October 16, 2009: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=19690152",
+            "Value": "To clarify the mechanism of piperonyl butoxide (PBO)-induced hepatocarcinogenesis in mice, male mice were subjected to a two-thirds partial hepatectomy, N-diethylnitrosamine (DEN) initiation, and a diet containing 0.6% PBO for eight weeks. The incidence of gamma-glutamyl transpeptidase (GGT)-positive foci and PCNA-positive cells was significantly increased in the DEN + PBO group compared with the DEN-alone group. Real-time reverse transcription-polymerase chain reaction (RT-PCR) analysis showed up-regulation of genes related to metabolism, such as cytochrome P450 1A1 and 2B10, and metabolic stress, such as Por, Nqo1, Nrf2, abcc3, and abcc4. Early responsive genes downstream of mitogen-activated protein kinase (MAPK), such as c-fos, c-jun, c-myc, and activating transcription factor 3 (ATF3), were also up-regulated in this group. Positive immunohistochemical staining for ATF3 was diffusely observed in nonproliferating hepatocytes of the DEN + PBO group, but altered foci were negative or weakly positive for ATF3. The nuclei of hepatocytes within ATF3-negative foci were positive for cyclin D. Thus PBO can induce oxidative stress, activate the MAPK pathway, and increase ATF3 transcript levels in hepatocytes outside the altered foci during the early stage of PBO-induced hepatocarcinogenesis in mice. ."
+        },
+        {
+            "References": "Okamiya H et al; Arch Toxicol 72 (11): 744-50 (1998). Available from, as of October 16, 2009: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=9879813",
+            "Value": "... Male F344 rats were administered piperonyl butoxide mixed in the diet at concentrations of 0 (negative control), 0.05, 0.2 or 2% for 2 days, 1, 2, and 4 weeks. As a positive control, phenobarbital was administered to rats for up to 4 weeks as a 0.1% solution in the drinking water. Increased liver weight, centrilobular hepatocellular hypertrophy due to increased smooth endoplasmic reticulum, decreased numbers and areas of connexin 32-positive spots per hepatocyte, and increased cell proliferation were observed in rats treated with 0.2 and 2% piperonyl butoxide. Similar results were obtained for 0.1% phenobarbital treated rats. Hepatocellular necrosis suggestive of hepatotoxicity was also observed in the 2% piperonyl butoxide group. These results indicate that the promoting mechanism of piperonyl butoxide in hepatocarcinogenesis is similar to that of phenobarbital, involving an ability to induce CYP isoenzymes and inhibit gap junctional intercellular communication. In addition, increased cell proliferation following hepatocellular necrosis may also play a role at high doses."
+        },
+        {
+            "References": "Willoughby L et al; Pest Management Sci 63 (8): 803-8 (2007). Available from, as of October 16, 2009: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17514638",
+            "Value": "Piperonyl butoxide (PBO) is an insecticide synergist known to inhibit the activity of cytochrome P450 enzymes. ... Little is known about how insects respond to PBO exposure at the gene transcription level. The authors have characterized the transcriptional response of the Drosophila melanogaster genome after PBO treatment, using both a custom-designed 'detox' microarray, containing cytochrome P450 (P450), glutathione S-transferase (GST) and esterase genes, and a full genome microarray. A subset of P450 and GST genes is identified, along with additional metabolic genes, that are induced by PBO. The gene set is an extremely similar gene set to that induced by phenobarbital, a compound for which pretreatment is known to confer tolerance to a range of insecticide compounds."
+        },
+        {
+            "References": "Muguruma M et al; Toxicology 228 (2-3): 178-87 (2006). Available from, as of October 16, 2009: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=17014948",
+            "Value": "Piperonyl butoxide (PBO), alpha-[2-(2-butoxyethoxy)ethoxy]-4,5-methylene-dioxy-2-propyltoluene, is widely used as a synergist for pyrethrins. In order to clarify the possible mechanism of non-genotoxic hepatocarcinogenesis induced by PBO, molecular pathological analyses consisting of low-density microarray analysis and real-time reverse transcriptase (RT)-PCR were performed in male ICR mice fed a basal powdered diet containing 6000 or 0 ppm PBO for 1, 4, or 8 weeks. The animals were sacrificed at weeks 1, 4, and 8, and the livers were histopathologically examined and analyzed for gene expression using the microarray at weeks 1 and 4 followed by real-time RT-PCR at each time point. Reactive oxygen species (ROS) products were also measured using liver microsomes. At each time point, the hepatocytes of PBO-treated mice showed centrilobular hypertrophy and increased lipofuscin deposition in Schmorl staining. The ROS products were significantly increased in the liver microsomes of PBO-treated mice. In the microarray analysis, the expression of oxidative and metabolic stress-related genes--cytochrome P450 (Cyp) 1A1, Cyp2A5 (week 1 only), Cyp2B9, Cyp2B10, and NADPH-cytochrome P450 oxidoreductase (Por) was over-expressed in mice given PBO at weeks 1 and 4. Fluctuations of these genes were confirmed by real-time RT-PCR in PBO-treated mice at each time point. In additional real-time RT-PCR, the expression of Cyclin D1 gene, key regulator of cell-cycle progression, and Xrcc5 gene, DNA damage repair-related gene, was significantly increased at each time point and at week 8, respectively. These results suggest the possibility that PBO has the potential to generate ROS via the metabolic pathway and to induce oxidative stress, including oxidative DNA damage, resulting in the induction of hepatocellular tumors in mice."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "PMID:9269080",
+            "Value": "SOIL: Piperonyl butoxide was detected at concns of 0.03-0.84 ug/g in soil following application of a multi-purpose insecticide containing this compound to farmland in KY(1)."
+        },
+        {
+            "References": "PMID:17007146",
+            "Value": "SEDIMENT: Piperonyl butoxide was detected in creek sediment samples from Arcade Creek, Strong Range Slough, Chicken Ranch Slough, Morrison Creek, Elder Creek, and Laguna Creek at site 1 and site 2 in CA after aerial insecticide application in August 2005, at concns of <1, 34.0, 61.4, 19.2, 15.9, and <1 ug/kg dry weight, respectively; samples taken from Morrison and Laguna Creek site one before insecticide application had concns of <1 ug/kg, no samples were available from the other creeks before application(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Tomlin CDS, ed. Chemical (51-03-6). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council. (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of piperonyl butoxide ranges from 399-830(1). According to a classification scheme(2), these Koc values suggest that piperonyl butoxide is expected to have moderate to low mobility in soil."
+        }
+    ],
+    "plant_translocation": [
+        {
+            "References": "Singh, R. P. (1977). Piperonyl butoxide as a protectant against Potato spindle tuber viroid infection. Phytopathology, 67, 933-935",
+            "Value": "A research conducted by R. P. Singh in 1977 investigated the potential of piperonyl butoxide (PB), an insecticide synergist containing the methylene dioxyphenyl group, as a protectant against potato spindle tuber viroid (PSTV) infection. The study aimed to determine whether PB could inhibit PSTV infection in Scopolia sinensis plants and various potato cultivars. The experiment involved spraying solutions of 1% PB or 4% sesame oil onto Netted Gem potato plants, followed by inoculation with PSTV. The results revealed that PB effectively prevented PSTV infection in sprayed leaves for up to 4 days, while sesame oil showed less inhibition. However, the protective effect of PB was limited to the sprayed leaves and was not systemic, as unsprayed leaves became infected upon inoculation. The study also examined the effect of PB on different potato cultivars and found varying degrees of inhibition against PSTV infection. This research highlights the potential of piperonyl butoxide as a localized protectant against viroid infections, but its lack of systemic action suggests a need for further investigation into its mode of action and broader application strategies in pest management."
+        }
+    ]
+}

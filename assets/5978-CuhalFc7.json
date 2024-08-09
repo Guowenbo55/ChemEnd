@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "6682e82ec4e5dba5ffba2450"
+    },
+    "CID": {
+        "$numberInt": "5978"
+    },
+    "Name": "VINCRISTINE",
+    "IUPACName": "methyl (1R,9R,10S,11R,12R,19R)-11-acetyloxy-12-ethyl-4-[(13S,15S,17S)-17-ethyl-17-hydroxy-13-methoxycarbonyl-1,11-diazatetracyclo[13.3.1.04,12.05,10]nonadeca-4(12),5,7,9-tetraen-13-yl]-8-formyl-10-hydroxy-5-methoxy-8,16-diazapentacyclo[10.6.1.01,9.02,7.016,19]nonadeca-2,4,6,13-tetraene-10-carboxylate",
+    "CanonicalSMILES": "CCC1(CC2CC(C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7C(C=CC9)(C(C(C8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O",
+    "Synonyms": [
+        "vincristine",
+        "22-Oxovincaleukoblastine",
+        "Vinkristin",
+        "Leurocristine",
+        "Vincrystine",
+        "57-22-7",
+        "leucristine",
+        "vincristin",
+        "Vincristinum [INN-Latin]",
+        "Tecnocris",
+        "Oncovine",
+        "Vincristina [DCIT]",
+        "Oncotcs",
+        "rel-Vincristine",
+        "Vincristina"
+    ],
+    "IsomericSMILES": "CC[C@@]1(C[C@@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O",
+    "INCHI": "InChI=1S/C46H56N4O10/c1-7-42(55)22-28-23-45(40(53)58-5,36-30(14-18-48(24-28)25-42)29-12-9-10-13-33(29)47-36)32-20-31-34(21-35(32)57-4)50(26-51)38-44(31)16-19-49-17-11-15-43(8-2,37(44)49)39(60-27(3)52)46(38,56)41(54)59-6/h9-13,15,20-21,26,28,37-39,47,55-56H,7-8,14,16-19,22-25H2,1-6H3/t28-,37+,38-,39-,42+,43-,44-,45+,46+/m1/s1",
+    "INCHIKEY": "OGWKCGZFUXNPDA-XQKSVPLYSA-N",
+    "Formula": "C46H56N4O10",
+    "MolecularWeight": {
+        "$numberDouble": "825"
+    },
+    "Description": "Vincristine is a vinca alkaloid with formula C46H56N4O10 found in the Madagascar periwinkle, Catharanthus roseus. It is used (commonly as the corresponding sulfate salt)as a chemotherapy drug for the treatment of leukaemia, lymphoma, myeloma, breast cancer and head and neck cancer. It has a role as a tubulin modulator, a microtubule-destabilising agent, a plant metabolite, an antineoplastic agent and a drug. It is a methyl ester, an acetate ester, a tertiary alcohol, a member of formamides, an organic heteropentacyclic compound, an organic heterotetracyclic compound, a tertiary amino compound and a vinca alkaloid. It is a conjugate base of a vincristine(2+). It derives from a hydride of a vincaleukoblastine.",
+    "XlogP": {
+        "$numberDouble": "2.8"
+    },
+    "Complexity": {
+        "$numberInt": "1750"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 192",
+            "Value": "log Kow = 2.82"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Gilman, A.G., T.W. Rall, A.S. Nies and P. Taylor (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 8th ed. New York, NY. Pergamon Press, 1990., p. 1237",
+            "Value": "Vinca alkaloids are cell cycle specific agents ... /which/ block mitosis and produce metaphase arrest. Biological activities of these drugs can be explained by their ability to bind specifically tubulin, and to block ability of the protein to polymerize into microtubules ... through disruption of microtubules of mitotic apparatus, cell division is arrested in metaphase. In absence of intact mitotic spindle, chromosomes may disperse throughout cytoplasm ... or may occur in unusual groupings ... inability to segregate chromosomes correctly during mitosis presumably leads to cellular death. /Vinca alkaloids/"
+        },
+        {
+            "References": "American Society of Health System Pharmacists. AHFS Drug   Information 2008. Bethesda, Maryland 2008, p. 1268",
+            "Value": "Although the mechanism of action has not been definitely established, vincristine appears to bind to or crystallize critical microtubular proteins of the mitotic spindle, thus preventing their proper polymerization and causing metaphase arrest. In high concentrations, the drug also exerts complex effects on nucleic acid and protein synthesis. Vincristine exerts some immunosuppressive activity."
+        }
+    ]
+}

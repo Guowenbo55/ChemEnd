@@ -1,0 +1,92 @@
+{
+    "_id": {
+        "$oid": "66927105303528b49832d799"
+    },
+    "CID": {
+        "$numberInt": "180089"
+    },
+    "Name": "Cyhalofop-butyl",
+    "IUPACName": "butyl (2R)-2-[4-(4-cyano-2-fluorophenoxy)phenoxy]propanoate",
+    "CanonicalSMILES": "CCCCOC(=O)C(C)OC1=CC=C(C=C1)OC2=C(C=C(C=C2)C#N)F",
+    "Synonyms": [
+        "Cyhalofop-butyl",
+        "122008-85-9",
+        "Clincher",
+        "Cyhalofop butyl ester",
+        "Cyhalofop Butyl",
+        "Cyhalofop-butyl [ISO]",
+        "18HGV9OC6G",
+        "DTXSID1034503",
+        "CHEBI:81863",
+        "Propanoic acid",
+        "2-(4-(4-cyano-2-fluorophenoxy)phenoxy)-",
+        "butyl ester",
+        "(2R)-",
+        "Cyhalofop-butyl 10 microg/mL in Cyclohexane",
+        "(R)-Butyl 2-(4-(4-cyano-2-fluorophenoxy)phenoxy)propanoate",
+        "(2R)-2-(4-(4-Cyano-2-fluorophenoxy)phenoxy)propanoic acid butyl ester",
+        "(2R)-2-[4-(4-cyano-2-fluorophenoxy)phenoxy]propanoic acid butyl ester",
+        "Propanoic acid",
+        "2-[4-(4-cyano-2-fluorophenoxy)phenoxy]-",
+        "butyl ester",
+        "(2R)-"
+    ],
+    "IsomericSMILES": "CCCCOC(=O)[C@@H](C)OC1=CC=C(C=C1)OC2=C(C=C(C=C2)C#N)F",
+    "INCHI": "InChI=1S/C20H20FNO4/c1-3-4-11-24-20(23)14(2)25-16-6-8-17(9-7-16)26-19-10-5-15(13-22)12-18(19)21/h5-10,12,14H,3-4,11H2,1-2H3/t14-/m1/s1",
+    "INCHIKEY": "TYIYMOAHACZAMQ-CQSZACIVSA-N",
+    "Formula": "C20H20FNO4",
+    "MolecularWeight": {
+        "$numberDouble": "357.4"
+    },
+    "Description": "Cyhalofop-butyl is an aromatic ether.",
+    "XlogP": {
+        "$numberDouble": "4.8"
+    },
+    "Complexity": {
+        "$numberInt": "483"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The efficacy of cyhalofop-butyl with tank-mixed adjuvants on barnyardgrass (Echinochloa crus-galli [L.] Beauv.), as well as the physico-chemical properties, absorption, and translocation, was evaluated and compared. The efficacy experiment showed that the treatments with tank-mixed adjuvants were approximately twofold more effective than with cyhalofop-butyl alone at 2% (v/v) (silwet 625 at 0.05%). The surface tension decreased, and the droplets could spread automatically on the leaves after adding the adjuvants. The spreading speed increased significantly with the adjuvants. The epidermal cells and wax layer were damaged by the adjuvants. The absorption of cyhalofop-butyl was increased significantly after adding the tank-mixed adjuvants. GY-T12 and silwet 625 were conducive to upward translocation, and all six tank-mixed adjuvants promoted the downward translocation of the herbicide. The results demonstrate that adjuvants can have a considerable influence on the efficiency of cyhalofop-butyl on barnyardgrass.",
+            "reference": "Li, J., Chen, W., Xu, Y., & Wu, X. (2016). Comparative effects of different types of tank-mixed adjuvants on the efficacy, absorption and translocation of cyhalofop-butyl in barnyardgrass (Echinochloa crus-galli[L.]Beauv.). Weed Biology and Management, 16(2), 80\u201389. doi:10.1111/wbm.12095  \u00a0",
+            "method": {
+                "Test Plant": "Barnyardgrass (Echinochloa crus-galli)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Greenhouse (25/20 \u00b1 1\u00b0C day/night, 55 \u00b1 10% relative humidity)",
+                "Chemical Preparation": "Cyhalofop-butyl at 30 mg/kg (13.5 g ai/ha) in 450 L/ha water",
+                "Pesticide Application Details for the Plant": "Applied with various oil adjuvants (GY-Tmax, GY-Hbas1#, GY-Hbas2#, GY-Spry, GY-T12) at 0, 0.05, 0.1, 0.3, 0.5, 1, and 2% v/v, and one surfactant (silwet 625) at 0, 0.005, 0.01, 0.02, 0.03, 0.04, and 0.05% v/v",
+                "Other Information": "Randomized complete block with three replications, repeated two times"
+            },
+            "result": "[{\"Time after application\": \"2 hours\", \"Treatment\": \"Cyhalofop-Butyl Alone\", \"Above Treated Leaf (%)\": 1.47, \"Below Treated Leaf (%)\": 2.87}, {\"Time after application\": \"6 hours\", \"Treatment\": \"Cyhalofop-Butyl Alone\", \"Above Treated Leaf (%)\": 3.75, \"Below Treated Leaf (%)\": 5.59}, {\"Time after application\": \"24 hours\", \"Treatment\": \"Cyhalofop-Butyl Alone\", \"Above Treated Leaf (%)\": 4.22, \"Below Treated Leaf (%)\": 9.24}, {\"Time after application\": \"48 hours\", \"Treatment\": \"Cyhalofop-Butyl Alone\", \"Above Treated Leaf (%)\": 6.65, \"Below Treated Leaf (%)\": 9.51}, {\"Time after application\": \"72 hours\", \"Treatment\": \"Cyhalofop-Butyl Alone\", \"Above Treated Leaf (%)\": 8.11, \"Below Treated Leaf (%)\": 9.53}, {\"Time after application\": \"2 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Tmax\", \"Above Treated Leaf (%)\": 1.25, \"Below Treated Leaf (%)\": 4.59}, {\"Time after application\": \"6 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Tmax\", \"Above Treated Leaf (%)\": 2.19, \"Below Treated Leaf (%)\": 6.96}, {\"Time after application\": \"24 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Tmax\", \"Above Treated Leaf (%)\": 2.67, \"Below Treated Leaf (%)\": 11.6}, {\"Time after application\": \"48 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Tmax\", \"Above Treated Leaf (%)\": 3.38, \"Below Treated Leaf (%)\": 12.18}, {\"Time after application\": \"72 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Tmax\", \"Above Treated Leaf (%)\": 4.34, \"Below Treated Leaf (%)\": 13.28}, {\"Time after application\": \"2 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Hbas1\", \"Above Treated Leaf (%)\": 1.28, \"Below Treated Leaf (%)\": 8.04}, {\"Time after application\": \"6 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Hbas1\", \"Above Treated Leaf (%)\": 1.36, \"Below Treated Leaf (%)\": 12.71}, {\"Time after application\": \"24 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Hbas1\", \"Above Treated Leaf (%)\": 2.88, \"Below Treated Leaf (%)\": 16.91}, {\"Time after application\": \"48 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Hbas1\", \"Above Treated Leaf (%)\": 4.63, \"Below Treated Leaf (%)\": 17.99}, {\"Time after application\": \"72 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Hbas1\", \"Above Treated Leaf (%)\": 8.27, \"Below Treated Leaf (%)\": 24.91}, {\"Time after application\": \"2 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Hbas2\", \"Above Treated Leaf (%)\": 1.86, \"Below Treated Leaf (%)\": 15.57}, {\"Time after application\": \"6 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Hbas2\", \"Above Treated Leaf (%)\": 3.08, \"Below Treated Leaf (%)\": 20.24}, {\"Time after application\": \"24 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Hbas2\", \"Above Treated Leaf (%)\": 4.07, \"Below Treated Leaf (%)\": 21.66}, {\"Time after application\": \"48 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Hbas2\", \"Above Treated Leaf (%)\": 6.4, \"Below Treated Leaf (%)\": 24.66}, {\"Time after application\": \"72 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Hbas2\", \"Above Treated Leaf (%)\": 7.98, \"Below Treated Leaf (%)\": 29.62}, {\"Time after application\": \"2 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Spry\", \"Above Treated Leaf (%)\": 1.71, \"Below Treated Leaf (%)\": 7.09}, {\"Time after application\": \"6 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Spry\", \"Above Treated Leaf (%)\": 1.91, \"Below Treated Leaf (%)\": 10.7}, {\"Time after application\": \"24 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Spry\", \"Above Treated Leaf (%)\": 6.08, \"Below Treated Leaf (%)\": 11.23}, {\"Time after application\": \"48 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Spry\", \"Above Treated Leaf (%)\": 6.68, \"Below Treated Leaf (%)\": 12.93}, {\"Time after application\": \"72 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Spry\", \"Above Treated Leaf (%)\": 9.62, \"Below Treated Leaf (%)\": 18.45}, {\"Time after application\": \"2 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-T12\", \"Above Treated Leaf (%)\": 1.41, \"Below Treated Leaf (%)\": 8.09}, {\"Time after application\": \"6 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-T12\", \"Above Treated Leaf (%)\": 4.34, \"Below Treated Leaf (%)\": 11.33}, {\"Time after application\": \"24 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-T12\", \"Above Treated Leaf (%)\": 6.06, \"Below Treated Leaf (%)\": 14.32}, {\"Time after application\": \"48 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-T12\", \"Above Treated Leaf (%)\": 9.57, \"Below Treated Leaf (%)\": 16.29}, {\"Time after application\": \"72 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-T12\", \"Above Treated Leaf (%)\": 12.36, \"Below Treated Leaf (%)\": 23.76}, {\"Time after application\": \"2 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Silwet 625\", \"Above Treated Leaf (%)\": 1.1, \"Below Treated Leaf (%)\": 4.92}, {\"Time after application\": \"6 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Silwet 625\", \"Above Treated Leaf (%)\": 2.47, \"Below Treated Leaf (%)\": 7.3}, {\"Time after application\": \"24 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Silwet 625\", \"Above Treated Leaf (%)\": 4.47, \"Below Treated Leaf (%)\": 10.93}, {\"Time after application\": \"48 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Silwet 625\", \"Above Treated Leaf (%)\": 5.93, \"Below Treated Leaf (%)\": 13.18}, {\"Time after application\": \"72 hours\", \"Treatment\": \"Cyhalofop-Butyl + GY-Silwet 625\", \"Above Treated Leaf (%)\": 9.85, \"Below Treated Leaf (%)\": 18.94}]"
+        },
+        {
+            "content": "Dose-response experiments were conducted to assess the sensitivity of one susceptible and three putative resistant (R1, R2, and R3) barnyardgrass [Echinochloa crus-galli (L.) P. Beauv.] biotypes to florpyrauxifen-benzyl and cyhalofop-butyl, both alone and as a formulated premix. Subsequently, potential resistance mechanisms of the barnyardgrass were evaluated. Based on biomass reduction results, resistant/susceptible ratios were calculated for R1 (7.0\u201350), R2 (7.0\u2013150), and R3 (18\u2013214) biotypes. Absorption and translocation of [14C]-florpyrauxifen-benzyl decreased in R1 and R3 biotypes, but not for [14C]-cyhalofop-butyl. The metabolism of [14C]-florpyrauxifen-benzyl to [14C]-florpyrauxifen-acid was >2-fold less in resistant biotypes (9\u201311%) than in the susceptible biotype (23%). bMoreover, the production of [14C]-florpyrauxifen-acid in susceptible barnyardgrass (but not in the R biotypes) increased 3-fold when florpyrauxifen-benzyl and cyhalofop-butyl were applied in mixture compared to florpyrauxifen-benzyl applied alone. The tested barnyardgrass biotypes had no mutation in the Transport Inhibitor Response1, auxin-signaling F-box, and acetyl coenzyme A carboxylase genes.",
+            "reference": "Hwang, J. I., Norsworthy, J. K., Gonz\u00e1lez-Torralva, F., Piveta, L. B., Priess, G. L., Barber, L. T., & Butts, T. R. (2022). Absorption, translocation, and metabolism of florpyrauxifen-benzyl and cyhalofop-butyl in cyhalofop-butyl-resistant barnyardgrass [Echinochloa crus-galli (L.) P. Beauv.]. Pesticide Biochemistry and Physiology, 180, 104999.",
+            "method": {
+                "Test Plant": "Three biotypes of barnyardgrass (Echinochloa crus-galli) - susceptible (S) and two resistant (R1, R2)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "3-4 leaf stage barnyardgrass seedlings prepared. After treatment, grown in growth chamber - 14/10 h day/night, 30/25\u00b0C, 650 \u03bcmol/m2/s light, watered carefully",
+                "Chemical Preparation": "Non-radioactive herbicide formulations: fenoxaprop-p-ethyl (FPB), cyhalofop-butyl (CHB), penoxsulam (PM). Radiolabeled: [14C]-FPB, [14C]-CHB from Corteva with adjuvants",
+                "Pesticide Application Details for the Plant": "Non-radiolabeled herbicides applied at 1x label rate first. Within 30 min, [14C]-FPB or [14C]-CHB applied as 2 x 1 \u03bcL droplets on midrib of 2nd leaf (2 kBq/plant).",
+                "Other Information": "12 replicates per biotype per treatment. 6 untreated controls per biotype. Initial [14C] quantified by rinsing 4 plants immediately after application"
+            },
+            "result": "[{\"Plant\": \"Susceptible\", \"Absorption (% of applied)\": 99.8, \"Treated leaf (%)\": 94.2, \"Untreated aboveground (%)\": 4.81, \"Belowground (%)\": 0.85}, {\"Plant\": \"R1 resistant\", \"Absorption (% of applied)\": 100.78, \"Treated leaf (%)\": 91.3, \"Untreated aboveground (%)\": 6.85, \"Belowground (%)\": 1.46}, {\"Plant\": \"R2 resistant\", \"Absorption (% of applied)\": 94.52, \"Treated leaf (%)\": 97.1, \"Untreated aboveground (%)\": 2.4, \"Belowground (%)\": 0.61}, {\"Plant\": \"R3 resistant\", \"Absorption (% of applied)\": 96.47, \"Treated leaf (%)\": 97.1, \"Untreated aboveground (%)\": 2.4, \"Belowground (%)\": 0.67}]"
+        },
+        {
+            "content": "Changes in the environment, specifically rising temperature and increasing atmospheric carbon dioxide concentration [CO2], can alter the growth and physiology of weedy plants. These changes could alter herbicide efficacy, crop-weed interaction, and weed management. The objectives of this research were to quantify the effects of increased atmospheric [CO2] and temperature on absorption, translocation, and efficacy of cyhalofop-butyl on multiple-resistant (MR) and susceptible (S) Echinochloa colona genotypes. E. colona, or junglerice, is a troublesome weed in rice and in agronomic and horticultural crops worldwide. Cyhalofop-butyl is a grass herbicide that selectively controls Echinochloa spp. in rice. Maximum 14C-cyhalofop-butyl absorption occurred at 120 h after herbicide treatment (HAT) with >97% of cyhalofop-butyl retained in the treated leaf regardless of [CO2], temperature, or genotype. Neither temperature nor [CO2] affected herbicide absorption into the leaf. The translocation of herbicide was slightly reduced in the MR plants vs. S plants either under elevated [CO2] or high temperature. Although plants grown under high [CO2] or high temperature were taller than those in ambient conditions, neither high [CO2] nor high temperature reduced the herbicide efficacy on susceptible plants. However, herbicide efficacy was reduced on MR plants grown under high [CO2] or high temperature about 50% compared to MR plants at ambient conditions. High [CO2] and high temperature increased the resistance level of MR E. colona to cyhalofop-butyl. To mitigate rapid resistance evolution under a changing climate, weed management practitioners must implement measures to reduce the herbicide selection pressure. These measures include reduction of weed population size through reduction of the soil seedbank, ensuring complete control of current infestations with multiple herbicide modes of action in mixture and in sequence, augmenting herbicides with mechanical control where possible, rotation with weed-competitive crops, use of weed-competitive cultivars, use of weed-suppressive cover crops, and other practices recommended for integrated weed management.",
+            "reference": "Refatti, J. P., De Avila, L. A., Camargo, E. R., Ziska, L. H., Oliveira, C., Salas-Perez, R., ... & Roma-Burgos, N. (2019). High [CO2] and temperature increase resistance to cyhalofop-butyl in multiple-resistant Echinochloa colona. Frontiers in plant science, 10, 529.",
+            "method": {
+                "Test Plant": "Echinochloa genotypes, including susceptible and resistant biotypes to cyhalofop-butyl",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Seeds planted and plants thinned to 1 plant per pot. Grown in growth chambers with controlled CO2 levels after treatment",
+                "Chemical Preparation": "Non-radiolabeled commercial cyhalofop-butyl (Clincher\u00ae). Radiolabeled [14C]-cyhalofop-butyl stock in acetonitrile:water (2:1). Spray solution spiked to 0.25 kBq/\u03bcL specific activity",
+                "Pesticide Application Details for the Plant": "Cold cyhalofop-butyl applied at 1.09 L/ha. Then 4 x 1 \u03bcL droplets of [14C]-cyhalofop solution applied to 2nd leaf (1 kBq/plant)",
+                "Other Information": "Harvest times: 6, 12, 24, 72, 120 h after treatment. Plant sections: treated leaf, above, below, roots. Treated leaf rinsed in methanol to remove unabsorbed [14C]"
+            },
+            "result": "[{\"Pretreatment\": \"aT\", \"Treated leaf (% of absorbed)\": 97.86, \"Above treated leaf (%)\": 0.99, \"Below treated leaf (%)\": 0.62, \"root (%)\": 0.53}, {\"Pretreatment\": \"eT\", \"Treated leaf (% of absorbed)\": 98.59, \"Above treated leaf (%)\": 0.72, \"Below treated leaf (%)\": 0.32, \"root (%)\": 0.36}, {\"Pretreatment\": \"MR\", \"Treated leaf (% of absorbed)\": 98.26, \"Above treated leaf (%)\": 0.77, \"Below treated leaf (%)\": 0.44, \"root (%)\": 0.53}, {\"Pretreatment\": \"S\", \"Treated leaf (% of absorbed)\": 98.19, \"Above treated leaf (%)\": 0.95, \"Below treated leaf (%)\": 0.5, \"root (%)\": 0.36}]"
+        }
+    ]
+}

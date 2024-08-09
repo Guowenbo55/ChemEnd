@@ -1,0 +1,66 @@
+{
+    "_id": {
+        "$oid": "6692712a303528b49832d82d"
+    },
+    "CID": {
+        "$numberInt": "74819"
+    },
+    "Name": "2-Aminoethanol hydrochloride",
+    "IUPACName": "2-aminoethanol;hydrochloride",
+    "CanonicalSMILES": "C(CO)N.Cl",
+    "Synonyms": [
+        "2-Aminoethanol hydrochloride",
+        "2002-24-6",
+        "Ethanolamine hydrochloride",
+        "Ethanolamine HCl",
+        "Monoethanolamine hydrochloride",
+        "Ethanol",
+        "2-amino-",
+        "hydrochloride",
+        "MEA hydrochloride",
+        "Colamine hydrochloride",
+        "ETHANOLAMINE-HCL",
+        "Ethanolamine chloride",
+        "2-Aminoethanol HCl",
+        "2-aminoethanol;hydrochloride",
+        "2-aminoethan-1-ol hydrochloride",
+        "2-Hydroxyethylammonium chloride",
+        "Ethanol",
+        "2-amino-",
+        "hydrochloride (1:1)"
+    ],
+    "IsomericSMILES": "C(CO)N.Cl",
+    "INCHI": "InChI=1S/C2H7NO.ClH/c3-1-2-4;/h4H,1-3H2;1H",
+    "INCHIKEY": "PMUNIMVZCACZBB-UHFFFAOYSA-N",
+    "Formula": "C2H8ClNO",
+    "MolecularWeight": {
+        "$numberDouble": "97.54"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "NaN"
+    },
+    "Complexity": {
+        "$numberInt": "10"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The investigation into the uptake and translocation of [14C]-monoethanolamine hydrochloride (EA-HCl) in intact spring barley plants revealed distinctive patterns compared to the free EA-base. Following application to the fifth leaf, the protonated form, EA-HCl, exhibited reduced uptake and restricted mobility, with the majority of radioactivity remaining in the main shoot. This contrasted with the free EA-base, which was rapidly absorbed and translocated to the tillers, resulting in a uniform distribution of radioactivity in aboveground plant parts. The distribution patterns were maintained during ontogenesis, with kernels acting as a considerable sink at maturity. Notably, the decline of radioactivity in the whole plant was smaller for EA-HCl compared to the free base, and the protonated form showed distinct translocation patterns. The results underscore the significance of chemical form in influencing the translocation and absorption dynamics of Monoethanolamine hydrochloride in spring barley plants.",
+            "reference": "Eckert, H., Bergmann, H., & Reissmann, P. (1988). Uptake and Translocation of [14C] -Monoethanolamine in Barley Plants. Biochemie Und Physiologie Der Pflanzen, 183(1), 27\u201336. doi:10.1016/s0015-3796(88)80065-9\u00a0",
+            "method": {
+                "Test Plant": "The spring barley (Hordeum vulgare L.) eultivars used were Lada (in the vegetation period 1983) and Salome (in 1984)",
+                "Apply Location": "Foliar Apply",
+                "Plant Grown Condition": "In the growth chamber, conditions were set for a 16-hour day.",
+                "Chemical Preparation": "[14C]-Monoethanolamine([14C]-EA) was obtained from Isocommerz Dresden (G.D.R.) and purified and converted into the free base. Specific radioadivities of the labeled componnds used in this work were in the range 5.23 to 23.67 MBq/mmol.",
+                "Pesticide Application Details for the Plant": "approximately 0.6 mg EA (as [14C]-EA and [14CJ-EAH+, respectively) in 50 ul water. 25.67 MBq/mmol (cv. Lada); 22.54 MBq/mmol (ev. Salome). Application on a blade section of the unwounded fifth leaf of the main shoot at shooting stage.",
+                "Other Information": "For each harvest time, an analytical sample comprised four plants with six replicates."
+            },
+            "result": "[{\"Plant Variety\": \"Lada\", \"Time (days)\": 3, \"Plant Total\": 4.3, \"Tillers\": 2.2, \"Main Shoot\": 12.1, \"Roots\": 2.8, \"Ear of Main Shoot\": 0.0, \"Ears of Tillers\": 0.0}, {\"Plant Variety\": \"Lada\", \"Time (days)\": 35, \"Plant Total\": 1.1, \"Tillers\": 0.9, \"Main Shoot\": 1.9, \"Roots\": 0.5, \"Ear of Main Shoot\": 0.8, \"Ears of Tillers\": 1.0}, {\"Plant Variety\": \"Lada\", \"Time (days)\": 70, \"Plant Total\": 0.9, \"Tillers\": 0.7, \"Main Shoot\": 1.5, \"Roots\": 0.4, \"Ear of Main Shoot\": 1.8, \"Ears of Tillers\": 0.6}, {\"Plant Variety\": \"Salome\", \"Time (days)\": 3, \"Plant Total\": 6.5, \"Tillers\": 7.0, \"Main Shoot\": 14.2, \"Roots\": 0.8, \"Ear of Main Shoot\": 0.0, \"Ears of Tillers\": 0.0}, {\"Plant Variety\": \"Salome\", \"Time (days)\": 35, \"Plant Total\": 2.8, \"Tillers\": 1.4, \"Main Shoot\": 5.0, \"Roots\": 0.5, \"Ear of Main Shoot\": 0.5, \"Ears of Tillers\": 0.2}, {\"Plant Variety\": \"Salome\", \"Time (days)\": 70, \"Plant Total\": 0.5, \"Tillers\": 0.4, \"Main Shoot\": 0.9, \"Roots\": 0.1, \"Ear of Main Shoot\": 0.5, \"Ears of Tillers\": 0.8}]"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "_id": {
+        "$oid": "6682e8a8c4e5dba5ffba26ae"
+    },
+    "CID": {
+        "$numberInt": "8079"
+    },
+    "Name": "CYCLOHEXENE",
+    "IUPACName": "cyclohexene",
+    "CanonicalSMILES": "C1CCC=CC1",
+    "Synonyms": [
+        "CYCLOHEXENE",
+        "110-83-8",
+        "Tetrahydrobenzene",
+        "Cyclohex-1-ene",
+        "Benzene tetrahydride",
+        "1,2,3,4-Tetrahydrobenzene",
+        "Benzenetetrahydride",
+        "Hexanaphthylene",
+        "Cykloheksen",
+        "Benzene",
+        "tetrahydro-",
+        "1-Cyclohexene",
+        "3,4,5,6-Tetrahydrobenzene",
+        "Zyklohexen",
+        "NSC 24835",
+        "12L0P8F7GN"
+    ],
+    "IsomericSMILES": "C1CCC=CC1",
+    "INCHI": "InChI=1S/C6H10/c1-2-4-6-5-3-1/h1-2H,3-6H2",
+    "INCHIKEY": "HGCIXCUEYOPUTN-UHFFFAOYSA-N",
+    "Formula": "C6H10",
+    "MolecularWeight": {
+        "$numberDouble": "82.14"
+    },
+    "Description": "Cyclohexene is a cycloalkene that is cylohexane with a single double bond.",
+    "XlogP": {
+        "$numberDouble": "2.9"
+    },
+    "Complexity": {
+        "$numberInt": "45"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute. Japan Chemical Industry Ecology - Toxicology and Information Center available at: https://www.safe.nite.go.jp/english/kizon/KIZON_start_hazkizon.html as of Oct 20, 2006. (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "BCF values ranging from 23-45 and 12-38 were measured for carp exposed to 10 and 100 ug/L, respectively of cyclohexene during a 28 day incubation period(1). According to a classification scheme(2), this BCF range suggests bioconcentration in aquatic organisms is low to moderate(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute. Japan Chemical Industry Ecology - Toxicology and Information Center available at: https://www.safe.nite.go.jp/english/kizon/KIZON_start_hazkizon.html as of Oct 20, 2006. (2) Malaney GW, McKinney RE; Water Sewage Works 113: 302-9 (1966) (3) Cofone, Let al; J Gen Microbiol 76: 243-6 (1973) (4) Walker JD et al; pp. 821-5 in Conf on Prevention and Control of Oil Spills API/EPA/USCG Washington, DC (1973) (5) May SW et al; Biochim Biophys Acta 403: 245-55 (1975)",
+            "Value": "AEROBIC: Cyclohexene, present at 100 mg/L, reached 0% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L and the Japanese MITI test(1). Approximately 20% of THOD was observed when cyclohexene was incubated with activated sewage sludge acclimated to benzene(2). Cyclohexene did not support growth of two strains of Cladosporium resinae isolated from aircraft jet fuels systems when used as the sole carbon source(3,4). 2- and 3-cyclohexene-1-ol were produced in the oxidation of cyclohexene by Pseudomonas oleovorans(5)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 23",
+            "Value": "log Kow = 2.86"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Whelan JK et al; Geochim Cosmochim Acta 44: 1767-85 (1980)",
+            "Value": "SEDIMENT: Cyclohexene was detected in sediment samples taken off the coast of South Africa, Dec to Jan 1975-76, at 10 ng/g dry weight at 8-12 cm depth and 0.1 ng/g at 36-40 cm depth; it was not detected at samples depths of 4-8 or 8-36 cm(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 23 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of cyclohexene is estimated as 850 (SRC), using a log Kow of 2.86(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that cyclohexene is expected to have low mobility in soil(SRC)."
+        }
+    ]
+}

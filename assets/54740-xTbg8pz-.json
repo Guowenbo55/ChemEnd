@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "66927113303528b49832d7d1"
+    },
+    "CID": {
+        "$numberInt": "54740"
+    },
+    "Name": "Imazethapyr",
+    "IUPACName": "5-ethyl-2-(4-methyl-5-oxo-4-propan-2-yl-1H-imidazol-2-yl)pyridine-3-carboxylic acid",
+    "CanonicalSMILES": "CCC1=CC(=C(N=C1)C2=NC(C(=O)N2)(C)C(C)C)C(=O)O",
+    "Synonyms": [
+        "IMAZETHAPYR",
+        "81335-77-5",
+        "Pursuit",
+        "Pivot",
+        "5-ethyl-2-(4-isopropyl-4-methyl-5-oxo-4,5-dihydro-1H-imidazol-2-yl)nicotinic acid",
+        "5-ethyl-2-(4-methyl-5-oxo-4-propan-2-yl-1H-imidazol-2-yl)pyridine-3-carboxylic acid",
+        "DTXSID3024287",
+        "CHEBI:82022",
+        "72T2IN94I4",
+        "Imazethapyr 10 microg/mL in Acetonitrile",
+        "DTXCID004287",
+        "3-Pyridinecarboxylic acid",
+        "2-[4,5-dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1H-imidazol-2-yl]-5-ethyl-",
+        "CAS-81335-77-5",
+        "Imazethapyr [ANSI:BSI:ISO]",
+        "HSDB 6678"
+    ],
+    "IsomericSMILES": "CCC1=CC(=C(N=C1)C2=NC(C(=O)N2)(C)C(C)C)C(=O)O",
+    "INCHI": "InChI=1S/C15H19N3O3/c1-5-9-6-10(13(19)20)11(16-7-9)12-17-14(21)15(4,18-12)8(2)3/h6-8H,5H2,1-4H3,(H,19,20)(H,17,18,21)",
+    "INCHIKEY": "XVOKUMIPKHGGTN-UHFFFAOYSA-N",
+    "Formula": "C15H19N3O3",
+    "MolecularWeight": {
+        "$numberDouble": "289.33"
+    },
+    "Description": "Imazethapyr is an aromatic carboxylic acid and a member of pyridines.",
+    "XlogP": {
+        "$numberDouble": "2"
+    },
+    "Complexity": {
+        "$numberInt": "475"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The study examined the effects of different factors on the absorption and translocation of the ammonium salt of 14C-imazethapyr, applied postemergence to pitted morningglory. The factors investigated were the addition of 1.24 kg/ha of ammonium sulfate, 5% of the isopropylamine salt of imazapyr, and air temperatures of 18\u00b0C, 27\u00b0C, or 35\u00b0C at either 40% or 100% relative humidity (RH). The results showed that the absorption of 14C-imazethapyr was higher at 100% RH compared to 40% RH (88% vs. 47%). However, at 40% RH, the addition of ammonium sulfate increased the absorption to 79%. At 100% RH, absorption was similar across all treatments. Regarding translocation, when 14C-imazethapyr was applied alone, translocation was greater at 100% RH compared to 40% RH (34% vs. 17%). The addition of ammonium sulfate increased translocation at 40% RH but did not have the same effect at 100% RH. The addition of imazapyr did not affect the translocation of 14C-imazethapyr. The distribution of 14C-imazethapyr throughout the plant showed a greater acropetal (from the base to the apex) movement rather than basipetal (from the apex to the base) movement. The highest distribution of 14C-imazethapyr was observed at an air temperature of 35\u00b0C.",
+            "reference": "Kent, L. M., Wills, G. D., & Shaw, D. R. (1991). Influence of ammonium sulfate, imazapyr, temperature, and relative humidity on the absorption and translocation of imazethapyr. Weed Science, 39(3), 412-416.",
+            "method": {
+                "Test Plant": "Pitted morningglory",
+                "Apply Location": "Adaxial surface at the apex of the third true leaf",
+                "Plant Grown Condition": "Greenhouse conditions with day temperature of 35 \u00b1 5\u00b0C, night temperature of 27 \u00b1 4\u00b0C, RH ranging from 40 to 75%, and day length of 13 to 14 hours",
+                "Chemical Preparation": "14C-imazethapyr initially suspended in distilled water and then converted to the water-soluble salt form with equimolar ammonium hydroxide. Diluted in water to a radioactivity of 3.7 kBq in 10 \u00b5l with four adjuvant combinations, all including 0.25% surfactant.",
+                "Pesticide Application Details for the Plant": "Ten \u00b5l of each herbicide solution applied in five 2-\u00b5l droplets with a microsyringe to a 2-cm2 area on the adaxial surface at the apex of the third true leaf.",
+                "Other Information": "The experiment was a split-split plot design with temperature as the main unit, humidity as the subunit, and herbicide treatments as the sub-subunits. Each herbicide treatment at each temperature-humidity combination was replicated six times for oxidation analyses and four times for autoradiographs, and the experiment was repeated. Data were subjected to analysis of variance, and means were separated at the 5% level according to Fisher's Protected LSD Test. Data were combined over runs with the error terms pooled when appropriate."
+            },
+            "result": "[{\"Condition\": \"40% relative humidity\", \"Treatment\": \"Imazethapyr alone\", \"Absorbed (%)\": 47, \"Treated Section (%)\": 30, \"Untreated Section (%)\": 17}, {\"Condition\": \"40% relative humidity\", \"Treatment\": \"Imazethapyr + Ammonium Sulfate\", \"Absorbed (%)\": 79, \"Treated Section (%)\": 56, \"Untreated Section (%)\": 23}, {\"Condition\": \"40% relative humidity\", \"Treatment\": \"Imazethapyr + Imazapyr\", \"Absorbed (%)\": 47, \"Treated Section (%)\": 30, \"Untreated Section (%)\": 15}, {\"Condition\": \"40% relative humidity\", \"Treatment\": \"Imazethapyr + Ammonium Sulfate + Imazapyr\", \"Absorbed (%)\": 79, \"Treated Section (%)\": 55, \"Untreated Section (%)\": 24}, {\"Condition\": \"100% relative humidity\", \"Treatment\": \"Imazethapyr alone\", \"Absorbed (%)\": 88, \"Treated Section (%)\": 54, \"Untreated Section (%)\": 34}, {\"Condition\": \"100% relative humidity\", \"Treatment\": \"Imazethapyr + Ammonium Sulfate\", \"Absorbed (%)\": 89, \"Treated Section (%)\": 61, \"Untreated Section (%)\": 28}, {\"Condition\": \"100% relative humidity\", \"Treatment\": \"Imazethapyr + Imazapyr\", \"Absorbed (%)\": 47, \"Treated Section (%)\": 52, \"Untreated Section (%)\": 36}, {\"Condition\": \"100% relative humidity\", \"Treatment\": \"Imazethapyr + Ammonium Sulfate + Imazapyr\", \"Absorbed (%)\": 87, \"Treated Section (%)\": 55, \"Untreated Section (%)\": 32}, {\"Condition\": \"18 C tempeture\", \"Treatment\": \"Imazethapyr alone\", \"Absorbed (%)\": 15, \"Treated Section (%)\": 19, \"Untreated Section (%)\": 9}, {\"Condition\": \"18 C tempeture\", \"Treatment\": \"Imazethapyr + Ammonium Sulfate\", \"Absorbed (%)\": 20, \"Treated Section (%)\": 21, \"Untreated Section (%)\": 10}, {\"Condition\": \"18 C tempeture\", \"Treatment\": \"Imazethapyr + Imazapyr\", \"Absorbed (%)\": 11, \"Treated Section (%)\": 14, \"Untreated Section (%)\": 6}, {\"Condition\": \"18 C tempeture\", \"Treatment\": \"Imazethapyr + Ammonium Sulfate\", \"Absorbed (%)\": 19, \"Treated Section (%)\": 24, \"Untreated Section (%)\": 12}, {\"Condition\": \"27 C tempeture\", \"Treatment\": \"Imazethapyr alone\", \"Absorbed (%)\": 14, \"Treated Section (%)\": 18, \"Untreated Section (%)\": 8}, {\"Condition\": \"27 C tempeture\", \"Treatment\": \"Imazethapyr + Ammonium Sulfate\", \"Absorbed (%)\": 22, \"Treated Section (%)\": 24, \"Untreated Section (%)\": 12}, {\"Condition\": \"27 C tempeture\", \"Treatment\": \"Imazethapyr + Imazapyr\", \"Absorbed (%)\": 14, \"Treated Section (%)\": 19, \"Untreated Section (%)\": 9}, {\"Condition\": \"27 C tempeture\", \"Treatment\": \"Imazethapyr + Ammonium Sulfate\", \"Absorbed (%)\": 19, \"Treated Section (%)\": 24, \"Untreated Section (%)\": 12}, {\"Condition\": \"35 C tempeture\", \"Treatment\": \"Imazethapyr alone\", \"Absorbed (%)\": 42, \"Treated Section (%)\": 58, \"Untreated Section (%)\": 19}, {\"Condition\": \"35 C tempeture\", \"Treatment\": \"Imazethapyr + Ammonium Sulfate\", \"Absorbed (%)\": 45, \"Treated Section (%)\": 64, \"Untreated Section (%)\": 23}, {\"Condition\": \"35 C tempeture\", \"Treatment\": \"Imazethapyr + Imazapyr\", \"Absorbed (%)\": 41, \"Treated Section (%)\": 59, \"Untreated Section (%)\": 23}, {\"Condition\": \"35 C tempeture\", \"Treatment\": \"Imazethapyr + Ammonium Sulfate\", \"Absorbed (%)\": 44, \"Treated Section (%)\": 61, \"Untreated Section (%)\": 25}]"
+        }
+    ]
+}

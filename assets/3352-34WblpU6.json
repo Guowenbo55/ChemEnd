@@ -1,0 +1,72 @@
+{
+    "_id": {
+        "$oid": "6682e801c4e5dba5ffba236e"
+    },
+    "CID": {
+        "$numberInt": "3352"
+    },
+    "Name": "Fipronil",
+    "IUPACName": "5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfinyl)pyrazole-3-carbonitrile",
+    "CanonicalSMILES": "C1=C(C=C(C(=C1Cl)N2C(=C(C(=N2)C#N)S(=O)C(F)(F)F)N)Cl)C(F)(F)F",
+    "Synonyms": [
+        "fipronil",
+        "120068-37-3",
+        "Termidor",
+        "Fipronil [ISO]",
+        "RM 1601",
+        "MB 46030",
+        "(+/-)-Fipronil",
+        "HSDB 7051",
+        "5-amino-1-(2,6-dichloro-4-(trifluoromethyl)phenyl)-4-((trifluoromethyl)sulfinyl)-1h-pyrazole-3-carbonitrile",
+        "NSC-758960",
+        "UNII-QGH063955F",
+        "FRONTLINE",
+        "DTXSID4034609",
+        "CHEBI:83394",
+        "Fipronil (ema epar: veterinary)"
+    ],
+    "IsomericSMILES": "C1=C(C=C(C(=C1Cl)N2C(=C(C(=N2)C#N)S(=O)C(F)(F)F)N)Cl)C(F)(F)F",
+    "INCHI": "InChI=1S/C12H4Cl2F6N4OS/c13-5-1-4(11(15,16)17)2-6(14)8(5)24-10(22)9(7(3-21)23-24)26(25)12(18,19)20/h1-2H,22H2",
+    "INCHIKEY": "ZOCSXAVNDGMNBV-UHFFFAOYSA-N",
+    "Formula": "C12H4Cl2F6N4OS",
+    "MolecularWeight": {
+        "$numberDouble": "437.1"
+    },
+    "Description": "5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)sulfinyl]-1H-pyrazole-3-carbonitrile is a member of the class of pyrazoles that is 1H-pyrazole that is substituted at positions 1, 3, 4, and 5 by 2,6-dichloro-4-(trifluoromethyl)phenyl, cyano, (trifluoromethyl)sulfinyl, and amino groups, respectively. It is a nitrile, a dichlorobenzene, a primary amino compound, a member of pyrazoles, a sulfoxide and a member of (trifluoromethyl)benzenes.",
+    "XlogP": {
+        "$numberDouble": "4.5"
+    },
+    "Complexity": {
+        "$numberInt": "599"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Michel N et al; Sci Total Environ 568: 171-9 (2016)",
+            "Value": "Concentrations of 4.05 and 19.19 ng/g wet weight in muscle and liver, respectively, were reported for the fipronil transformation product fipronil sulfone in European eel (Anguilla anguilla) from the river Elbe, Germany. Sampling was conducted in November 2013 and April 2014(1)."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Delgado-Moreno L et al; J Agric Food Chem 59: 9448-56 (2011)",
+            "Value": "SEDIMENT: Fipronil was detected in 7% of the sediment samples during the wet season and 14% of samples during the dry season of Santa Clara and Calleguas Creek watersheds located in Ventura County, CA; the highest detected concentration was 0.4 ng/g(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "The phenylpyrazole insecticide, fipronil, is used in seed coating against Agriotes larvae, which infest mainly corn and sunflower. Coating the seeds of the cultivated plants with fipronil has proven its effectiveness against Agriotes populations. In the case of sunflower or even corn, the possible root uptake of this insecticide may lead to a toxic effect against pollinators such as honeybees. In the present report, the uptake and transport of fipronil inside the sunflower seedling was studied in the laboratory. In a first study, sunflower was cultivated on an aqueous medium containing fipronil. An intense root uptake of fipronil occurred, leading to a transport into leaves depending upon transpiration. In a second study, plants were cultivated on a soil in which fipronil was uniformly distributed. Under our soil conditions (20% organic carbon), the partition coefficient between soil and water (Kd) was found to be equal to 386 \u00b1 30. The average rate of fipronil transfer from soil water to seedlings was from 2 to 2.6 times lower than water transfer. During the 3 week experiment, 55% of recovered labeled compounds was in the parent form and 35% had been converted to lipophilic metabolites, with either a 4-CF3-SO2 or 4-CF3-S substituant, which are also very potent lipophilic insecticides. This paper suggests that the possible uptake of fipronil by sunflower seedlings under agronomic conditions is mainly controlled by the physicochemical characteristics of the seed-coating mixture.",
+            "reference": "Aajoud, A., Raveton, M., Aouadi, H., Tissut, M., & Ravanel, P. (2006). Uptake and xylem transport of fipronil in sunflower. Journal of Agricultural and Food Chemistry, 54(14), 5055-5060.",
+            "method": {
+                "Test Plant": "Sunflower",
+                "Apply Location": "Soil application",
+                "Plant Grown Condition": "10 hydrated sunflower seeds placed on humidified filter paper at 25 \u00b0C in the dark, first roots and cotyledons began to develop after 4-5 days, seedlings transferred to either hydroponic culture or soil culture",
+                "Chemical Preparation": "The 14C molecule was uniformly labeled on the aromatic ring with a 741 Bq/nmol specific activity (Rhone-Poulenc, Ongar,U.K.). Sulfide-fipronil (98.8% purity), amide-fipronil (99.8% purity), and sulfone-fipronil (99.7% purity)",
+                "Pesticide Application Details for the Plant": "0.17 nmol of 14C-fipronil per g of soil",
+                "Other Information": "2 plants were picked up for biometric measurements at 0, 6, 13, and 18 days"
+            },
+            "result": "[{\"Days After Application\": \"18 days\", \"% Absorbed\": \"74%\", \"% in Root\": \"44%\", \"% in Stem and Leaves\": \"56%\"}]"
+        }
+    ]
+}

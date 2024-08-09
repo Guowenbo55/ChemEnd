@@ -1,0 +1,188 @@
+{
+    "_id": {
+        "$oid": "6682e845c4e5dba5ffba24c2"
+    },
+    "CID": {
+        "$numberInt": "6375"
+    },
+    "Name": "NITROMETHANE",
+    "IUPACName": "nitromethane",
+    "CanonicalSMILES": "C[N+](=O)[O-]",
+    "Synonyms": [
+        "NITROMETHANE",
+        "75-52-5",
+        "Methane",
+        "nitro-",
+        "Nitrocarbol",
+        "Nitrometan",
+        "CH3NO2",
+        "NSC 428",
+        "NITROMETHANE (15N)",
+        "MeNO2",
+        "CCRIS 1205",
+        "HSDB 106",
+        "nitro methane",
+        "nitro-methane",
+        "UNII-RU5WG8C3F4",
+        "EINECS 200-876-6"
+    ],
+    "IsomericSMILES": "C[N+](=O)[O-]",
+    "INCHI": "InChI=1S/CH3NO2/c1-2(3)4/h1H3",
+    "INCHIKEY": "LYGJENNIWJXYER-UHFFFAOYSA-N",
+    "Formula": "CH3NO2",
+    "MolecularWeight": {
+        "$numberDouble": "61.04"
+    },
+    "Description": "Nitromethane is a primary nitroalkane that is methane in which one of the hydrogens is replace by a nitro group. A polar solvent (b.p. 101 ??), it is an important starting material in organic synthesis. It is also used as a fuel for rockets and radio-controlled models. It has a role as an EC 4.3.1.3 (histidine ammonia-lyase) inhibitor, a polar aprotic solvent, an explosive and a NMR chemical shift reference compound. It is a primary nitroalkane and a volatile organic compound.",
+    "XlogP": {
+        "$numberDouble": "0.1"
+    },
+    "Complexity": {
+        "$numberInt": "27"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Freitag D et al; Ecotoxicological Profile Analysis of Nitroparaffins according to OECD Guidelines with C14-Labelled Compounds. In TSCA 8D Submissions to EPA for Nitromethane (Fiche No. OTS516767) (1988) (2) Freitag D et al; pp. 371-88 in Practical Applications of Quantitative Structure-Activity Relationships (QSAR) in Environmental Chemistry and Toxicology. Karcher W, Devillers J, eds., Brussels, Belgium: Kluwer AG (1990) (3) Franke C et al;  Chemosphere 29: 1501-14 (1994) (4) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Sept 27, 2014: https://www.safe.nite.go.jp/english/db.html",
+            "Value": "A BCF value of 1.4 was measured for fish (Golden ide (Leuciscus idus melanotus)) in a static 3-day test with nitromethane present at 50 ppb(1,2). According to a classification scheme(3), this BCF value suggests that bioconcentration in aquatic organisms is low(SRC). Low bioconcentration was reported for tests using carp (Cyprinus carpio)(4), however actual BCF values were not reported(SRC). The bioconcentration factor in algae (Chorella fusca), as determined in a 24-hr experiment, was 960(1)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Freitag D et al; Ecotoxicological Profile Analysis of Nitroparaffins according to OECD Guidelines with C14-Labelled Compounds. In TSCA 8D Submissions to EPA for Nitromethane (Fiche No. OTS516767) (1988) (2) Freitag D et al; pp. 371-88 in Practical Applications of Quantitative Structure-Activity Relationships (QSAR) in Environmental Chemistry and Toxicology. Karcher W, Devillers J, eds., Brussels, Belgium: Kluwer AG (1990) (3) Gerhold RM, Malaney GW; J Water Pollut Contr Fed 38: 562-79 (1966)",
+            "Value": "AEROBIC: When nitromethane was incubated with activated sludge, 36.2% mineralization occurred in 5 days(1,2). Degradation was low in a closed bottle biodegradability test, using a municipal sewage plant effluent innoculum, with 10% degradation occurring in 28 days(1,2). Aerobic C14 studies performed with soil microorganisms resulted in 5.1% conversion to CO2 in 35 days(1,2); during this time, 22.3% was lost as volatile products(1,2). Nitromethane present at 500 mg/L and inoculated with activated sludge from three municipal treatment plants was toxic to the microorganisms present over the 24 hour study period(3)."
+        },
+        {
+            "References": "(1) Freitag D et al; Ecotoxicological Profile Analysis of Nitroparaffins according to OECD Guidelines with C14-Labelled Compounds. In TSCA 8D Submissions to EPA for Nitromethane (Fiche No. OTS516767) (1988) (2) Freitag D et al; pp. 371-88 in Practical Applications of Quantitative Structure-Activity Relationships (QSAR) in Environmental Chemistry and Toxicology. Karcher W, Devillers J, eds., Brussels, Belgium: Kluwer AG (1990)",
+            "Value": "ANAEROBIC: Anaerobic C14 studies performed with soil microorganisms resulted in 2.3% conversion to CO2 in 35 days(1,2). During this time 31.8%, were lost as volatile product(1,2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 3",
+            "Value": "low Kow = -0.35"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 p.559",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  Animals exposed at levels greater than 10,000 ppm give evidence of restlessness, discomfort, and signs of respiratory tract irritation, followed by eye irritation, salivation, and later central nervous system symptoms consisting of abnormal movements with occasional convulsions. Anesthetic symptoms are generally mild, and appear late. Most animals that manifest anesthesia die eventually. /Nitroalkanes/"
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 2",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ BALB/c mice injected intraperitoneally with 4.5, 6.7, or 9.0 mmol/kg showed no evidence of  hepatotoxicity when the plasma was examined for elevated activities of sorbitol dehydrogenase,  alanine aminotransferase, or aspartate aminotransferase or when the liver was examined histopathologically."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 2",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  The most common signs of toxicity in acute animal studies were central nervous system (CNS) depression and slight irritation of the respiratory tract. Histopathologic changes were mainly in the liver and kidneys with the liver showing the most prominent injury, ie subcapsular damage, focal necrosis, fatty infiltration, congestion, and edema."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 p.559",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  Inhalation exposure of rabbits and guinea pigs to 30,000 ppm nitromethane longer than 1 hour led to pronounced nervous system symptoms. At 10,000 ppm nervous system symptoms did not appear until after 5 hr in these same species. During exposure at lower concentrations, there was no evidence of eye irritation, but slight respiratory tract irritation was manifest. Mild /CNS depression/, weakness, and salivation followed this."
+        },
+        {
+            "References": "DEQUIDT J ET AL; BULL SOC PHARM LILLE (1): 29 (1973)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  No methemoglobin was formed in rats given single or repeated ip injections at 0.11 to 1.5 g/kg, but trace amt was found in animals exposed to atmosphere containing 13,000 ppm. Nitromethane is approx as toxic as nitroethane."
+        },
+        {
+            "References": "PMID:1237450",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The sulfhemoglobinemia and methemoglobinemia formation activities of similar drugs were studied in mice after administration of one or three ip doses. After administration of a single dose, nitromethane did not produce methemoglobinemia. Nitromethane produced sulfhemoglobinemia only after administration of three consecutive doses."
+        },
+        {
+            "References": "PMID:6815833",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Male 3 mo old Wistar rats dosed ip with 200 mg/kg showed increased acid proteinase activity in brain 4 hr after injection. Change accompanied by marginal increase in cerebral glutathione concentration. Hepatic effects restricted to decreased cytochrome c reductase activity with proliferation of smooth endoplasmic reticulum."
+        },
+        {
+            "References": "PMID:2676674",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The hepatotoxic potentials of 2-nitropropane, nitromethane, and nitroethane were compared. Hepatotoxicity was assessed biochemically and histopathologically in BALB/c mice. In male mice, plasma activities of the hepatic enzymes sorbitol dehydrogenase, alanine aminotransferase, and aspartate aminotransferase were significantly elevated 48, 72, and 96 hr after ip administration of 9 mmol/kg 2-nitropropane, but not at 24 hr and not after administration of smaller doses of 2-nitropropane nor after nitromethane or nitroethane (9 mol/kg). In female mice a dose of 6.7 mmol/kg of 2-nitropropane was sufficient to cause hepatotoxicity. The histopathological evaluation supported the biochemical results, and livers of mice that had received 2-nitropropane (9 mmol/kg) showed damage, particularly in the periportal region."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 1",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Dogs were given oral doses of 20 % nitromethane emulsified in 0.3 % methyl cellulose in  water at five dose levels: 125, 250, 500, 1000, or 1500 mg/kg. With the exception of those receiving 125 mg/kg, all the dogs either died or were moribund and sacrificed within 30 hr. Pathologic lesions usually were confined to the liver and appeared to be dose-related. Kidney damage was seen  only at the highest dose. Similar histopathology was found in dogs receiving nitromethane intravenously."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V77 493 (2000)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/  Nitromethane has been shown to produce histidinemia in rats. Inbred weanling male Sprague-Dawley rats given subcutaneous injections of nitromethane (1.2 mol/L, 0.4 mL/100 g bw) every other day for one, three, six, 12 and 18 days. The histidine concentration in tissues increased gradually to reach a plateau after six days of treatment and after 18 days, levels were increased 4.7-fold in plasma, 2.7-fold in brain, 3.0-fold in liver and 1.7-fold in kidney. In the same strain of rats injected subcutaneously with nitromethane (1.8 mol/L, 0.8 mL/100 g bw) every day for six days, 61% of the rats had paralysis of the limbs and 15% had occasional seizures. Liver weights and liver total protein did not change with treatment with nitromethane. Hepatic histidase activity decreased significantly in the nitromethane treated rats compared with controls, with approximately a 3-3.5-fold corresponding increase in histidine concentration in plasma, liver and brain. No significant change in serotonin content of the various areas of the brain or in free amino acid concentration in plasma was detected. These results are consistent with nitromethane being a histidase inhibitor. In male Wistar rats (30 days of age), nitromethane (730 mg/kg bw) injected intraperitoneally three times over a 24-hr period caused a 90% inhibition of histidase activity and higher serum histidine levels compared with controls. A consistently lower locomotor activity was observed in these histidinemic rats compared with controls."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 p.561",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/  Three of 10 rats given 0.25% nitromethane in ... drinking water for 15 wk and 4 of 10 rats given 0.1% died during course of experiment. Surviving animals failed to gain wt normally. ... Exam showed ... liver abnormalities."
+        },
+        {
+            "References": "Wang ML, Lee SC; J Chin Biochem Soc 2 (1): 25 (1973)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Possibility of producing histidinemia by sc injections with 0.4 mL (per 100 g body wt) of 1.2 molar solution of nitromethane every other day was investigated /in rats/. Liver histidase activity decreased about 80% when injected sc for 18 days. Histidine concentration in liver and plasma were increased to plateau of 3-fold and 4-fold of controls after 6 days."
+        },
+        {
+            "References": "PMID:512557",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Fifty male rats and 15 male rabbits were exposed to 98 or 745 ppm, 5 days/wk for approx 24 wk. 50 rats and 15 rabbits exposed to filtered air for similar lengths of time served as controls. Rats were sacrificed at 2 and 10 days, 1, 3 and 6 mo following exposure; rabbits at 1, 3 and 6 mo. Effects observed were decreased body weight gain in rats following 8 wk of exposure to 745 ppm, and thyroid effect evidenced by increased thyroid weight and decreased serum thyroxine levels, most notable in rabbits."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Nitromethane (75-52-5) (2000 CD-ROM  edition). Available from, as of July 15,2005: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ B6C3F1 mice /exposed by/ inhalation /for/ 13 weeks /to/ doses /of/ 94, 188, 375, 750, and 1500 ppm. /Effects include/ olfactory epithelial degeneration at 375 ppm for male and at 188 ppm for female rats, splenic extramedullary hematopoiesis (EMH) at 375 and more."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Nitromethane (75-52-5) (2000 CD-ROM  edition). Available from, as of July 15,2005: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/  Fischer 344 rats /exposed by/ inhalation /for/ 13 weeks /to/ doses /of/ 94, 188, 375, 750, and 1500 ppm. /Effects include/ olfactory epithelial  degeneration (minimal at 375 ppm and more), degeneration of spinal and sciatic nerve (at 375 ppm and more), /and/ increased bone marrow cellularity (at 750 ppm in male and 375 in female rats)."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 p.561",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/  During 6 months of exposure at 98 or 745 ppm of nitromethane, only mild to moderate symptoms of toxicity were observed in rats and rabbits. A reduction in body weight gain was observed in rats exposed at 745 ppm of nitromethane. Hematocrit and hemoglobin levels in rats were slightly depressed from 10 days through 6 months of exposure to 745 ppm nitromethane. Rabbits also provided suggestion of depression in hemoglobin levels. ... Ornithine carbamyl transferase in rabbits was elevated after 1 and 3 months, but not 6 months of exposure at 745 ppm of nitromethane. No apparent effects on glutamic-pyruvic transaminase in both species or serum T4 activity in rats were observed. Serum T4, however, was statistically significantly depressed in rabbits exposed at either 98 or 745 ppm nitromethane at 6 month testing ... As well as at 1 month sacrifice for rabbits exposed at 745 ppm. Histopathologic evaluation indicated no exposure-related abnormalities in rats due to exposure to 98 or 745 ppm for up to 6 mo. Some evidence of pulmonary edema and other pulmonary abnormalities was observed in rabbits exposed to both levels of nitromethane for 1 mo. Most important observations are that inhalation of nitromethane produces mild irritation and toxicity before ... /CNS depression/ occurs and that liver damage can result from repeated admin at levels in excess of 1000 ppm."
+        },
+        {
+            "References": "PMID:6186363",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ The tumorigenicity of automobile exhaust condensate was investigated in Syrian golden hamsters. Hamsters were given intratracheal instillations of automobile exhaust condensate containing nitromethane. The test substances were instilled in the animals at 2 week intervals until natural death. Histological examinations were performed on lungs and tracheas of all hamsters. In general, the treatment had little or no effect on body weight or survival time of the hamsters. Hyperplasia and metaplasia were seen in tracheal, bronchial, and alveolar epithelium, along with deposits of instilled condensate. /Exhaust condensate/"
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Nitromethane (75-52-5) (2000 CD-ROM  edition). Available from, as of July 15,2005: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/  Sprague-Dawley rats /exposed by/ inhalation 7 hours per day, 5 days per week /for/ 6 months /to/ 745 ppm and 98 ppm /experienced/ mild to moderate symptoms of toxicity. A reduction in body weight gain was observed /in rats/ exposed to 745 ppm NM. Hematocrit and hemoglobin levels were slightly depressed from 10 days through 6 months of exposure to 745 ppm NM. Other hematological parameters such as prothrombin times and methemoglobin concentration were unaffected. Weights of all organs evaluated were comparable to controls. Histopathologic evaluation indicated no exposure related abnormalities in rats due exposure to nitromethane  at 745 or 98 ppm up to  6 months."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 3",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Male and female B6C3F1 mice were dosed 6 hours/day, 5days/week for 103 weeks at concentrations of 0, 188, 375, or 750 ppm. ... Clinical findings included swelling around the eyes and exophthalmos in exposed males and females. This is consistent with harderian gland adenoma or carcinoma in exposed mice with increased exposure; these were significantly greater in male mice with exposures of 375 and 750 ppm (19/50 and 32/50) than in the controls (9/50). Female mice in the 188 and 750 ppm groups (25/50 and 35/50) had significantly greater incidences of hepatocellular adenoma or carcinoma than the controls (14/50) and had a greater incidence of multiple hepatocellular adenomas. Alveolar/bronchiolar carcinoma in male and (20/50) and female (12/50) was significantly greater in the 750 ppm exposure group than in controls ( 13/50 and 3/50, respectively). Female rats in the 375 ppm exposure group (5/50) had significantly greater incidence of cellular infiltration of histocytes than controls (0/50). Male and female mice at all dose levels also displayed a higher incidence of nonneoplastic nose lesions... These lesions included degeneration and metaplasia of the olfactory epithelium and hyaline degeneration of the respiratory epithelium."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 2",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ 50 male Sprague-Dawley rats and 15 male New Zealand white rabbits were exposed 7 hours/day, 5 days/week for 6 months at 98 or 745 ppm nitromethane. Fifty male rats and 15 male rabbits were exposed in chambers to filtered, conditioned ambient air for the same period of time served as controls. Ten rats from each exposure group and the control group were sacrifice following 2 days, 10 day, or 1, 3, or 6 months of exposure. Five rabbits from each exposure or control group were killed at 1, 3, or six months of exposure. Effects related to exposure to nitromethane were: 1) statistically significant slight depressions of hematocrit and hemoglobin concentrations in rats exposed at 745 ppm at all measurement intervals with the exception of the 2 day interval; 2) statistically significant decreased weight gain in rats exposed at 745 ppm from week 8 through the end of the study; and 3) significantly increased absolute thyroid weights in rats exposed for 6 months at both 98 and 745 ppm and the thyroid weight as a percentage of body weight in rats exposed for six months to 745 ppm. A thyroid effect was also observed in rabbits exposed at 745 ppm of nitromethane as evidenced by an increased thyroid weight at six months exposure and by a significantly decreased serum thyroxine levels (T4) at six months at both 98 and 745 ppm of nitromethane. ... Lungs of rabbits exposed at both concentrations of nitromethane demonstrated focal areas of moderate and moderately severe hemorrhage, congestion of alveolar duct walls and interstitial edema at the 1-month kill but not thereafter. No other clinical or histopathological indices demonstrated significant changes in either species."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 3",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Nitromethane was administered 7 hours/day, 5 days /week for two years via inhalation to male and female Long-Evens rats at 100 and 200 ppm. The animals were observed daily for signs of pharmacological or toxicological effects. At the conclusion of the study, all the animals were sacrificed. There were no pharmacological effects for the exposure at either dose rate. The body weights for the female rats of both exposure groups were slightly less than the control. There was no effect on the hematology, no clinically significant effects on serum chemistry, no effects on organ weight, and no significant differences in the nonneoplastic or neoplastic pathology related to exposure."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 3",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Male and female F344/N rats were exposed /to nitromethane for/ 6 hours/day, 5 days/week for 103 weeks. The rats were dosed at 0, 94, 188, or 375 ppm. ... Clinical findings consistent with mammary gland neoplasms were noted in the 188 and 375 ppm female exposure groups. Mammary gland, fibroadenoma, or adenoma or cancer (combined) in female rats increased with increasing exposure; at 375 ppm (41/50) the incidences of carcinoma and adenoma or carcinoma (combined) were significantly greater than controls (21/50). Male rats had no mammary gland effects. Mononuclear cell leukemia rates in exposed female rats were lower than in controls. Male rats also experienced a decrease,  although not significant. ... Nervous system effects were evaluate histologically in 15 male and 15 female rats in the control and 375 ppm exposure group and showed no significant difference between the control group and 375 ppm exposure group."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 5",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Reproductive effects were investigated in female Charles River albino rats by intraperitoneal injection of 0.5 mL of a 1.5 molar nitromethane /solution/ in 0.9% sodium chloride every third day. The injections were initiated 1 week prior to breeding and continued through gestation. No differences were found between treated and control rats in percentages of successful matings, litter size, pup mortality, birth weight, or maternal behavior. Pups were tested at 2.5 months of age in a maze-learning apparatus; the offspring of treated rats showed impaired maze learning when compared to controls."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 5",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Rats and mice exposed at 0, 375, 750, or 1500 ppm of nitromethane were subjected to the sperm morphology and vaginal cytology evaluations (SMVCE) battery of analysis. Male rats in the 1500 ppm group had decreased caudal, epididymal, and testicular weights and decreased sperm counts. There was a dose-response decrease in epididymal sperm motility, statistically significant in the /750/ and 1500-ppm group. There was also a dose-related decrease in epididymal sperm motility in male mice, But other SMVCE indices in male mice were unaffected. Female mice showed a dose-related increase in the average estrous cycle length, and there was a difference in relative frequency of estrous stages in the /750/ and 1500 ppm group mice."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 5",
+            "Value": "/GENOTOXICITY/ Nitromethane administered by inhalation for 13 weeks at concentrations up to 1500 ppm did not induce increased frequencies of micronucleated erythrocytes in the peripheral blood of male or female mice."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 5",
+            "Value": "/GENOTOXICITY/ Nitromethane was not mutagenic in Salmonella typhimurium strains TA 98 and TA 100 with and without activation at test levels of 0.1, 1, and 10 umole/plate. Nitromethane was further tested for mutagenicity of using the Salmonella assay, Drosophila melanogaster (one dose, 125 mmol in 2% ethanol) and an in vivo micronucleus test (intraperitoneal doses of 0, 205, 915, or 1830 mg/kg in 5% cremophor in distilled water at 0 and 24 hours). Nitromethane was inactive in each of the three mutagenic test systems."
+        },
+        {
+            "References": "Mortelmans K et al; Environ Mutagen 8: 1-119 (1986)",
+            "Value": "/GENOTOXICITY/ Nitromethane was found to be negative when tested for mutagenicity using the Salmonella/microsome preincubation assay. This reference reports on the testing of 270 chemicals, including nitromethane, using the standard protocol approved by the National Toxicology Program (NTP). The tests were performed by one or more of 3 different laboratories under contract to NTP. This test procedure includes testing of the chemical using a wide range of doses in as many as 5 Salmonella typhimurium strains (TA1535, TA1537, TA97, TA98, and TA100) in the presence and absence of rat and hamster liver S-9. Nitromethane was tested at doses of 0.100, 0.333, 1.000, 3.333, and 10.000 mg/plate. The highest ineffective dose tested in any Salmonella typhimurium strain was 10.000 mg/plate."
+        },
+        {
+            "References": "PMID:2645131",
+            "Value": "/GENOTOXICITY/ Nineteen nitro compounds, including nitromethane, were evaluated for mutagenicity, using a modification of the standard Salmonella typhimurium mutagenicity assay. A preincubation protocol was used which incorporated flavin mononucleotide to facilitate nitro reduction. Nitromethane was negative in the modified preincubation assay with flavin mononucleotide despite extensive nitro reduction that occurred in the preincubation with flavin mononucleotide."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Sept 27, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of nitromethane can be estimated to be 10(SRC). According to a classification scheme(2), this estimated Koc value suggests that nitromethane is expected to have very high mobility in soil."
+        }
+    ]
+}

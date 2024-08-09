@@ -1,0 +1,128 @@
+{
+    "_id": {
+        "$oid": "6682e892c4e5dba5ffba2640"
+    },
+    "CID": {
+        "$numberInt": "7843"
+    },
+    "Name": "n-Butane",
+    "IUPACName": "butane",
+    "CanonicalSMILES": "CCCC",
+    "Synonyms": [
+        "BUTANE",
+        "n-Butane",
+        "106-97-8",
+        "Diethyl",
+        "Methylethylmethane",
+        "butan",
+        "Butanen",
+        "Butani",
+        "Butyl hydride",
+        "Butane",
+        "pure",
+        "HC 600",
+        "A 21 (lowing agent)",
+        "R 600",
+        "CCRIS 2279",
+        "HSDB 944"
+    ],
+    "IsomericSMILES": "CCCC",
+    "INCHI": "InChI=1S/C4H10/c1-3-4-2/h3-4H2,1-2H3",
+    "INCHIKEY": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+    "Formula": "C4H10",
+    "MolecularWeight": {
+        "$numberDouble": "58.12"
+    },
+    "Description": "Butane is a straight chain alkane composed of 4 carbon atoms. It has a role as a food propellant and a refrigerant. It is a gas molecular entity and an alkane.",
+    "XlogP": {
+        "$numberDouble": "2.9"
+    },
+    "Complexity": {
+        "$numberInt": "2"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 10 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Nov 20, 2013: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm/ (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 33 was calculated for n-butane(SRC), using a log Kow of 2.89(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is moderate(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Prince RC, et al. Environ Sci Technol. 41:3316-3321(2007) (2) Patel RN et al; Appl Environ Microbiol 39: 727-33 (1980) (3) Hou CT et al; Appl Environ Microbiol 46: 178-84 (1983) (4) Patel RN et al; Appl Environ Microbiol 39: 720-6 (1980) (5) Jamison VW et al; pp. 187-96 in Proc Int Biodeg Symp 3rd Sharpley JM, Kapalan AM, eds. Essex Eng (1976) (6) Toccalino PL et al; Appl Environ Microbiol 59: 2977-83 (1993) (7) Solano-Serena F et al; Appl Microbiol Biotechnol 54: 121-5 (2000)",
+            "Value": "AEROBIC: A mean half-life of 5.9 days was reported for all detectable hydrocarbons in an aerobic biodegradation study of gasoline in water from a domestic sewage treatment plant(1). Among the last compounds to be degraded was butane, for which a degradation half-life was calculated as 15 days(1). Within 24 hrs, n-butane was oxidized to its corresponding methyl ketone, 2-butanone(2,3), and the corresponding alcohol, 2-butanol(3,4), by cell suspensions of over 20 methyltrophic organisms isolated from lake water and soil samples(1-3). After 192 hrs, the concentration of n-butane contained in gasoline was reduced from 0.63 to 0.37 uL/L for both a sterile control and a mixed culture sample collected from ground water contaminated with gasoline; these data indicate that n-butane was not biodegraded over the study period(5). The biodegradation of n-butane in a Columbia River soil was measured over 50 days; a degradation rate of 1.8 mgC/day/kg dry soil was reported without the addition of nitrogen(6). When nitrogen at 0.15 mg per bottle was added, the degradation rate increased to 11.4 mg C/day/kg dry soil(6). 100% of the initially added n-butane (32.9 mg/L) was biodegraded over 34 days in a screening study using an activated sludge inoculum(7)."
+        },
+        {
+            "References": "Parr, J.F., P.B. Marsh, and J.M. Kla (eds.). Land Treatment of Hazardous Wastes. Park Ridge, New Jersey: Noyes Data Corporation, 1983., p. 327",
+            "Value": "AEROBIC: The degradation of n-alkanes by microorganisms is similar to the degradation of fatty acids. The terminal methyl group is enzymatically oxidized by incorporation of molecular oxygen by a monooxygenase producing a primary alcohol with further oxidation to an acid group, although involvement of a dioxygenase is also postulated. Once the fatty acid is produced, it is degraded into 2-carbon units via the beta-oxidation pathway. ... Another pathway for n-alkane degradation that is encountered less often is the oxidation of both terminal carbons to form a dioic acid with subsequent beta-oxidation. Subterminal oxidation of the 2-carbon atom is seen mainly in C3-C6 alkanes. ... A dehydrogenation of the n-alkane may also occur yielding an alkene which is then converted to an alcohol, although there is little evidence for this theory. Some microorganisms have been shown to have both terminal and subterminal oxidation, each having very different rates of activity. /In a study comparing/ ... growth on long and short chain alkanes by some bacteria ... the initial oxygenase had a broad specificity and would oxidize C1-C8 alkanes ... /but/ cells grown on C4-C8 alkanes did not oxidize the shorter chain alkanes to a significant extent. ... /n-Alkanes/"
+        },
+        {
+            "References": "Verschueren, K. Handbook of Environmental Data on Organic Chemicals. Volumes 1-2. 4th ed. John Wiley & Sons. New York, NY. 2001, p. V1: 356",
+            "Value": "AEROBIC: Incubation with natural flora in the groundwater in presence of the other components of high octane gasoline (100 uL/L): biodegradation: 0% after 192 hr at 13 \u00b0C (initial concentration 0.63 uL/L)."
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 3183",
+            "Value": "PURE CULTURE: ... Mycobacterium crassa & M phlei grow on butane. In combination with various concn of oxygen, butane supports the growth of Neurospora crassa, as well as the germination of N. ascrospores & growth of Escherichia coli strains B & Sd4, thus rendering butane potentially biodegradable."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 10",
+            "Value": "log Kow = 2.89"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:21420651",
+            "Value": "...Not infrequently intentional butane inhalation results in high morbidity and mortality. A fatal outcome of butane abuse can be caused by asphyxia, cardiac arrhythmia or trauma. The reported number of cases in which death was the consequence of pure butane inhalation is limited, and in most cases a mixture of propellants was involved. This report covers two cases of sudden death due to the sniffing of a cigarette lighter refill containing butane. Autopsy was followed by toxicological, pathohistological and immunohistochemical analysis. Butane gas was confirmed in samples of blood, urine, brain and lungs... Histology showed almost identical changes in the lungs and heart in both cases. The morphology of heart damage on standard H/E stains was of special interest because it displayed all the characteristics of chronic and acute myocardial hypoxia found in the absence of atherosclerotic heart disease. In order to confirm early cardiac death caused by asphyxia due to butane inhalation a panel of immunohistochemical agents was used..."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 161",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Butane is an essentially nontoxic petroleum gas that causes no disturbance of the eye, even when injected into the anterior chamber experimentally in rabbits, disappearing spontaneously from the eye in 2 to 4 days."
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 3182",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ...Concn of 2.1 to 5.6% cause sniffing & chewing movements with rapid rate of breathing /in guinea pigs/, but quick recovery after cessation of exposure."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 15",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Concns of 5,000 ppm in the anesthetized dog may cause hemodynamic changes, such as decreases in cardiac output, left ventricular pressure and stroke volume, myocardial contractility, and aortic pressure."
+        },
+        {
+            "References": "Snyder, R. (ed.) Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume 1: Hydrocarbons. Amsterdam - New York - Oxford: Elsevier, 1987., p. 270",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ...Respiratory exposure of mice to 27% (270,000 ppm) for 2 hr caused death in 40% of the animals and 310,000 ppm for 2 hr caused 60% mortality. In dogs, lethality was observed at concentrations of 200,000-250,000 ppm; anesthesia and relaxation preceded death. ...There was only a small margin of safety between anesthetic and lethal concn. ...n-Butane is somewhat more toxic than isobutane... ."
+        },
+        {
+            "References": "Snyder, R. (ed.) Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume 1: Hydrocarbons. Amsterdam - New York - Oxford: Elsevier, 1987., p. 271",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ n-Butane /did not/... cause respiratory... irritation in rabbits. ...Butane appears to be mildly to moderately irritating to the rabbit skin."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2012. Cincinnati, OH. 2012.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Near the LC50, mice exhibited central nervous system depression, rapid and shallow respiration, and apnea. /isobutane/"
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2012. Cincinnati, OH. 2012.",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ n-Butane is reported to be a weak cardiac sensitizer in the dog, and 5,000 ppm in the anesthetized dog may cause hemodynamic changes, such as decreased cardiac output, decreased left ventricular pressure and stroke volume, and decreased myocardial contractibility and aortic pressure."
+        },
+        {
+            "References": "Kirwin CJ et al; J Soc Cosmet Chem 31 (Dec 1980): 367-70 (1980)",
+            "Value": "/GENOTOXICITY/ The mutagenic potential of n-butane was evaluated in vitro at several concn using Ames Salmonella microsome assay. n-Butane was not mutagenic."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Whelan JK et al; Geochim Cosmochim Acta 44: 1767-85 (1980) (2) Kvenvolden KA, Redden GD; Geochimica et Cosmochimica Acta 44: 1145-50 (1980)",
+            "Value": "SEDIMENT: n-Butane was detected in 10 of 10 sediment samples from Walvis Bay of the Namibian shelf of SW Africa at concentrations of 2.2, 0.45, 2.2, 1.5, 0.31, 0.24, 0.01, 0.22, 0.52, and 0.27 ng/g(1). Sediments from the Bering Sea contained n-butane gas at concentrations ranging from 4 to 43 nL/L(2)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 10 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Nov 20, 2013: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of n-butane is estimated as 900(SRC), using a measured log Kow of 2.89(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that n-butane is expected to have low mobility in soil."
+        }
+    ]
+}

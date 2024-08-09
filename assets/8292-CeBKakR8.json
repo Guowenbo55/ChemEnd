@@ -1,0 +1,134 @@
+{
+    "_id": {
+        "$oid": "6682e8b6c4e5dba5ffba26f6"
+    },
+    "CID": {
+        "$numberInt": "8292"
+    },
+    "Name": "FENSULFOTHION",
+    "IUPACName": "diethoxy-(4-methylsulfinylphenoxy)-sulfanylidene-lambda5-phosphane",
+    "CanonicalSMILES": "CCOP(=S)(OCC)OC1=CC=C(C=C1)S(=O)C",
+    "Synonyms": [
+        "FENSULFOTHION",
+        "115-90-2",
+        "Dasanit",
+        "Daconit",
+        "Terracur P",
+        "Bayer 25141",
+        "Chemagro 25141",
+        "VUAgT 96",
+        "VUAgT 108",
+        "BAY 25141",
+        "OMS 37",
+        "O,O-Diethyl O-p-(methylsulfinyl)phenyl thiophosphate",
+        "S 767",
+        "Phosphorothioic acid",
+        "O,O-diethyl O-[4-(methylsulfinyl)phenyl] ester",
+        "ENT 24,945"
+    ],
+    "IsomericSMILES": "CCOP(=S)(OCC)OC1=CC=C(C=C1)S(=O)C",
+    "INCHI": "InChI=1S/C11H17O4PS2/c1-4-13-16(17,14-5-2)15-10-6-8-11(9-7-10)18(3)12/h6-9H,4-5H2,1-3H3",
+    "INCHIKEY": "XDNBJTQLKCIJBV-UHFFFAOYSA-N",
+    "Formula": "C11H17O4PS2",
+    "MolecularWeight": {
+        "$numberDouble": "308.4"
+    },
+    "Description": "Fensulfothion is an organic thiophosphate, a sulfoxide and an organothiophosphate insecticide. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, an agrochemical, an avicide and a nematicide. It is functionally related to a 4-(methylsulfinyl)phenol.",
+    "XlogP": {
+        "$numberDouble": "2.2"
+    },
+    "Complexity": {
+        "$numberInt": "306"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "Nat'l Research Council Canada; Fenitrothion p.31 (1975) NRCC No. 14104",
+            "Value": "Under operational spraying (275 g/ha) for control of budworm, fenitrothion deposits (2-4 mg/kg, wet wt) on the foliage of red and white spruce and balsam fir decreased about 50% within four days, and 70-85% within two weeks. However, about 10% of the initial deposit persisted for most of the year following spraying. /Fenitrothion/"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C, Leo AJ; Medchem Project Issue No. 26 Claremont CA Pomona College (1985) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Environmental Behavior of Organic Compounds. McGraw-Hill NY p 5-4; 5-10 (1982) (3) Worthing CR, Walker SB; The Pesticide Manual 7th ed Craydon England British Crop Protection Council p 267 (1983)",
+            "Value": "Based on a log Kow value of 2.23(1), the log BCF for fensulfothion can be estimated to be 1.46 from a recommended regression equation(2,SRC). Based on a water solubility of 1540 ppm at 25 \u00b0C (1), the log BCF can be estimated to be 0.99 from a recommended regression equation(2,SRC)."
+        },
+        {
+            "References": "NIH/EPA; OHM/TADS (1986)",
+            "Value": "Residues of fensulfothion may be concentrated by some species. Earthworms surviving an application of fensulfothion contained about 22 ppm of dasanit sulfone."
+        },
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR (consult ed) Washington,DC: Amer Chem Soc p 91 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington,DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 29 was calculated for fensulfothion(SRC), using a log Kow of 2.23(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "Menzie CM; Metab of Pesticides, Special Scientific Report, Wildlife No 232 (1980)",
+            "Value": "A number of soil bacteria, Nocardia spp and Arthrobacter ssp, degraded the products of fensulfothion hydrolysis and oxidation: 4-methylmercaptophenol (MMP); 4-methylsulfinylphenol (MSP); and 4-methylsulfonylphenol (MSO2P). Nocardia calcerea hydroxylated the ring to form a substituted catechol. Meta cleavage between carbons 2 and 3 ensued to give 2-hydroxy-5-methylmercaptomuconic semialdehyde from MMP and the corresponding sulfinyl analog from MSP. MSO2P was hydroxylated to form 4-methylsulfonylcatechol. In this case ortho cleavage occurred, splitting the ring between atoms 1 and 2 to form 3-methylsulfonylmuconic acid."
+        },
+        {
+            "References": "Menzie CM; Metab of Pesticides, Special Scientific Report, Wildlife No 232 (1980)",
+            "Value": "When cell suspension of Klebsiella pneumoniae were incubated with fensulfothion, a metabolite formed. Combined GC-MS and IR were used to identify this compound as fensulfothion sulfide."
+        },
+        {
+            "References": "(1) Miles JRW et al; Bull Environ Contam Toxicol 22: 312 (1979) (2) Read DC; Agriculture, Ecosystems and Environment 10: 37 (1983) (3) Miles JRW, Moy P; J Environ Sci Health B17: 675 (1982) (4) Chisholm D; Can J Plant Sci 54: 667 (1974) (5) Chapman RA et al; J Environ Sci Health B19: 259 (1984) (6) Ahmed N, Morrison FO; Phytoprotection 53: 71 (1972)",
+            "Value": "The half-life of fensulfothion in sterilized (via autoclaving) sandy loam soil (organic matter 2.9%) and organic soil (organic matter 48.7%) exceeded 24 weeks but the half-life in non-sterilized soil was 1 week or less, which is suggestive of significant microbial degradation(1). Field application of 50 ppm fensulfothion was reduced to 5 ppm after 120 days in the first year of application; however, in the second year of application, less than 0.2 ppm remained after 60 days, which was attributed to microbial adaptation; the microorganisms involved in the degradation were identified as a species of Pseudomonas(2). Incubation of a nutrient media with soil microorganisms resulted in a 60% fensulfothion degradation over a 20-week period as compared to a 45% degradation in sterile controls; a fensulfothion sulfone metabolite was found in inoculated samples but not sterile samples; fensulfothion sulfide, in small amounts, was found in both sterile and inoculated samples; addition of 1% ethanol to inoculated samples to induce anaerobic conditions resulted in a rapid disappearance of fensulfothion (half-life of 1.5 weeks) with a large conversion to fensulfothion sulfide(3). Fensulfothion degraded rapidly in a sandy loam soil to fensulfothion sulfone(4). In a greenhouse study using an organic soil containing 65% organic matter, the initial half-life of fensulfothion applied at normal insecticidal concn was about 3 to 5 weeks with a slightly faster disappearance exhibited in wetter soil(5). Persistence of fensulfothion (as measured by larvae mortality) varied from 3 to 10 weeks in greenhouse and field studies of a sandy loam soil(6)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 91",
+            "Value": "Log Kow = 2.23"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "American Conference of Governmental Industrial Hygienists, Inc. Documentation of the Threshold Limit Values and Biological Exposure Indices. 6th ed. Volumes I, II, III. Cincinnati, OH: ACGIH, 1991., p. 644",
+            "Value": "/FENSULFOTHION HAS/ ... CHOLINESTERASE INHIBITING PROPERTIES ..."
+        },
+        {
+            "References": "International Labour Office. Encyclopedia of Occupational Health and Safety. Vols. I&II. Geneva, Switzerland: International Labour Office, 1983., p. 1638",
+            "Value": "The main feature of the toxic mechanism of organophosphorus pesticides is inhibition of the esterase enzyme activity, in particular of cholinesterase, which plays an important physiological part. Organophosphorus pesticides can also indirectly interact with the biochemical receptors of acetylcholine. /Organophosphorus pesticides/"
+        },
+        {
+            "References": "Hayes, W.J., Jr., E.R. Laws, Jr., (eds.). Handbook of Pesticide Toxicology. Volume 2. Classes of Pesticides. New York, NY: Academic Press, Inc., 1991., p. 943",
+            "Value": "... There is no change in red blood cell cholinesterase activity in adults associated with age. ... Activity of this enzyme increases progressively during the first year of life, it is higher in children under 3 yr of age than in older children, and it is markedly higher in 5 yr old children than in 3 yr olds. /Organic phosphorus pesticides/"
+        },
+        {
+            "References": "Hayes, W.J., Jr., E.R. Laws, Jr., (eds.). Handbook of Pesticide Toxicology. Volume 2. Classes of Pesticides. New York, NY: Academic Press, Inc., 1991., p. 943",
+            "Value": "Cholinesterase activity of plasma is significantly higher in men than in women, and this is true no matter which of several choline esters are used as substrate in measuring the enzyme activity. According to some, the difference is confined to young people. There is no sex difference in the red cell enzyme activity. Serum cholinesterase activity of blacks tends to be lower than whites of the same sex. /Organic phosphorus pesticides/"
+        },
+        {
+            "References": "Hayes, W.J., Jr., E.R. Laws, Jr., (eds.). Handbook of Pesticide Toxicology. Volume 2. Classes of Pesticides. New York, NY: Academic Press, Inc., 1991., p. 932",
+            "Value": "Phosphorylated enzymes, like acetylated acetylcholinesterase, are esters and may be hydrolyzed by nucleophilic agents, including water. The rate at which phosphorylated enzymes are reactivated by water is extremely low, compared to the rate for acetylcholinesterase combined with acetate. When inhibition is by isopropyl phosphate, the rate is essentially zero. /Organic phosphorous pesticides/"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "Tashiro H, et al; Scarabaeid Grub Control with Fensulforthion and Degradation in Turf After Repeated Applications, J Econ Entomol 74(3): 255-8 (1981)",
+            "Value": "Fensulfothion (I) was applied to established fescue-Kentucky bluegrass turf at 1, 2, 4, and 8 times (1 times rate= 2.4 kg/ha) ... Turf residues decreased 2-6 fold during a 42-day posttreatment period whereas soil-root residues increased 2 fold. This probably indicates downward movement by the several natural forces."
+        },
+        {
+            "References": "Wan MT; J Environ Sci Health B24 (2): 183-203 (1989)",
+            "Value": "A monitoring survey was conducted from 1985 to 1987 to determine the levels of fensulfothion in selected farm ditches leading to the Lower Fraser, Nicomekl, and Sumas rivers in British Columbia, Canada. 7 sampling sites were chosen where fensulfothion was used on the farms in Jul/Aug. Water and ditch sediment samples were taken in early spring in the first wk of May each year starting in 1985, prior to any pesticide application. Subsequent samples were taken in July, shortly after treatment. Further samples were obtained during the rainy and wet season, ie, in Oct, Dec, and Feb of the following year. Fensulfothion was not detected in ditch water (detection limit = 1 ug/l), but low levels were found at 2 sites in the July 1985 samples of ditch sediments (10.3 ug/kg)."
+        },
+        {
+            "References": "(1) Szeto SY and Price PM; J Agric Food Chem 39: 1679-84 (1991)",
+            "Value": "SOIL: Fensulfothion was detected in silt loam soil collected from a vegetable farm in the Fraser Valley of British Columbia, Canada in 1989 at a concentration of 92 ppb dry weight(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Chapman RA et al; J Environ Sci Health B19: 259 (1984) (2) Agnihotri NP et al; Indian J Agric Chem 14: 27 (1981) (3) Augustijn-Beckers PWM et al; Rev Environ Contam Toxicol 137: 1-82 (1994) (4) Swann RL et al; Res Rev 85: 23 (1983)",
+            "Value": "After application at normal pesticide application rates to a greenhouse soil (65% organic matter, typical of soil used for onion production in Ontario, Canada), fensulfothion exhibited no significant vertical movement over a 10 week treatment period using a variety of watering schedules(1). Fensulfothion applied to soil did not leach beyond a 15 cm depth and remained in the initial zone of application over a period of 150 days(2). A Koc of 300 was reported for fensulfothion(3). According to a classification scheme(4), this Koc value suggests that fensulfothion is expected to have moderate mobility in soil(SRC)."
+        }
+    ],
+    "plant_translocation": [
+        {
+            "References": "Avrahami, M. (1973). Systemic transfer of32P-labelled fensulfothion from soil into pasture plants: A note. New Zealand Journal of Experimental Agriculture, 1(2), 203\u2013206. doi:10.1080/03015521.1973.10427643\u00a0",
+            "Value": "Specifically, 32P-labeled fensulfothion was incorporated into the soil at different rates and then grown with 'Grasslands Ruanui' perennial ryegrass and 'Grasslands Huia' white clover. The results indicated that fensulfothion was taken up systemically by the plants from the treated soils. The researchers conducted a pot trial where they mixed specific amounts of 32P-labeled fensulfothion with soil in pots and sowed the pasture seeds. The plants were harvested at different time points, and their tissues were analyzed to determine the presence of fensulfothion. The analysis involved extracting the plant tissues with water and chloroform, and the resulting extracts were assayed for 32P activity. Thin-layer chromatography was performed on the chloroform extracts to further analyze the chemical composition."
+        }
+    ]
+}

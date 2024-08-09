@@ -1,0 +1,129 @@
+{
+    "_id": {
+        "$oid": "6682e7e4c4e5dba5ffba22db"
+    },
+    "CID": {
+        "$numberInt": "1176"
+    },
+    "Name": "UREA",
+    "IUPACName": "urea",
+    "CanonicalSMILES": "C(=O)(N)N",
+    "Synonyms": [
+        "urea",
+        "57-13-6",
+        "carbamide",
+        "Isourea",
+        "Carbonyldiamide",
+        "Ureophil",
+        "Carbonyldiamine",
+        "Ureaphil",
+        "Carbamimidic acid",
+        "Urevert",
+        "Alphadrate",
+        "Aquadrate",
+        "Carbaderm",
+        "Keratinamin",
+        "Pseudourea"
+    ],
+    "IsomericSMILES": "C(=O)(N)N",
+    "INCHI": "InChI=1S/CH4N2O/c2-1(3)4/h(H4,2,3,4)",
+    "INCHIKEY": "XSQUKJJJFZCRTK-UHFFFAOYSA-N",
+    "Formula": "CH4N2O",
+    "MolecularWeight": {
+        "$numberDouble": "60.056"
+    },
+    "Description": "Urea is a carbonyl group with two C-bound amine groups. The commercially available fertilizer has an analysis of 46-0-0 (N-P2O5-K2O). It has a role as a flour treatment agent, a human metabolite, a Daphnia magna metabolite, a Saccharomyces cerevisiae metabolite, an Escherichia coli metabolite, a mouse metabolite and a fertilizer. It is a monocarboxylic acid amide and a one-carbon compound. It is functionally related to a carbonic acid. It is a tautomer of a carbamimidic acid.",
+    "XlogP": {
+        "$numberDouble": "-1.4"
+    },
+    "Complexity": {
+        "$numberInt": "29"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Gluth G et al; Comp Biochem Physiol 81C: 273-7 (1985) (2) Freitag D et al; Chemosphere 14: 1589-616 (1985) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "In a 6 to 72 hr bioaccumulation study using carp (Cyprinus carpio), the concn of urea was found to be equally distributed between tissue and water during all time periods(1); thus, the BCF would be 1 for this species(SRC). In 3-day static-system tests using golden ide fish (Leuciscus idus melanotus), the BCF of urea was <10(2). According to a classification scheme(3), these BCF values suggest the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Swensen B, Singh BR; J Environ Qual 26: 1516-23 (1997) (2) Evans WH et al; Water Res 7: 975-85 (1973) (3) Atkinson R; Water Treat Exam 20: 193-203 (1971) (4) Ebisuno T et al; Seitai Kagaku 7: 27-34 (1984) (5) Remsen CC; Ecology 53: 921-6 (1972) (6) Freitag D et al; Chemosphere 14: 1589-616 (1985) (7) Scheunert I et al; Chemosphere 16: 1031-41 (1987) (8) Mitamura O, Saijo Y; Marine Biology 58: 147-152 (1980)",
+            "Value": "AEROBIC: Urea is rapidly hydrolyzed to ammonia and carbon dioxide in environmental systems by the extracellular enzyme, urease, which originates from microorganisms and plant roots(1). The degradation of urea was examined in a river die-away study using various river waters and test conditions(2). At 20 \u00b0C, degradation was complete within 6-14 days of incubation while at lower temperatures (e.g., 4-12 \u00b0C), little or no degradation occurred in 10-14 days in some waters(2). Below 8 \u00b0C (simulating winter conditions), a maximum daily degradation of 3-6% was observed during the first 7 days of incubation(2). Depending upon the source of the water, degradation under aerobic conditions varied from slightly faster to more than twice as fast as compared to anaerobic conditions(2). In a river die-away, 1.05-2.20% of added urea hydrolyzed after 10-days while only 0.35% hydrolyzed in sterile controls(3). Urea was completely biodegraded in aerobic biodegradation studies using activated sludge inoculum and a 14-day incubation period(4). In degradation studies using estuary and coastal waters from Georgia, avg urea degradation rates of 6.2 to 19.6 nmoles/l hr were observed(5); phytoplankton was responsible for urea decomposition in these waters(5). Using an activated sludge seed, 85.9% of the theoretical carbon dioxide production was measured from urea biodegradation over a 5-day incubation period(6). In another study, 66% of urea at initial concn of approx 0.1 mg/l biodegraded in a soil-water suspension at 35 \u00b0C after 5 days(7). In 4-day carbon dioxide evolution tests using waters collected from three regions of the Pacific Ocean, gas evolution was observed to be much faster in sunlight than in dark controls (e.g., ratio of light to light+dark was 61.6-86.4%)(8); the reason for the accelerated rate in sunlight is that urea is actively decomposed by photosynthesis of phytoplankton that occurs in seawater(8)."
+        },
+        {
+            "References": "(1) Scheunert I et al; Chemosphere 16: 1031-41 (1987)",
+            "Value": "ANAEROBIC: Under anaerobic conditions, 70% of the initial concn (0.1 mg/l) of urea biodegraded in a soil-water suspension at 35 \u00b0C after 5 days; 18% of initial concn urea remained in water after this 5 days period(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 3",
+            "Value": "log Kow = -2.11"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Booth, N.H., L.E. McDonald (eds.). Veterinary Pharmacology and Therapeutics. 5th ed. Ames, Iowa: Iowa State University Press, 1982., p. 1031",
+            "Value": "... The primary mechanism of ammonia toxicosis appears to be inhibition of the citric acid cycle. There is an increase in anaerobic glycolysis, blood glucose, and blood lactate ... . Acidosis is manifested. The exact means by which ammonia blocks the citric acid cycle is not known. It is postulated that ammonia saturation of the glutamine-synthesizing system causes a backing-up in the citrate cycle, a decrease in its intermediates, and a decrease in energy production and cellular respiration, which leads to convulsions ... . The decrease of citrate cycle intermediates is postulated to result from reamination of pyruvic, ketoglutaric, and oxaloacetic acids."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 965",
+            "Value": "INTRAVITREAL INJECTION OF 0.2 ML OF 10 MOLAR /SOLN INTO VITREOUS HUMOR OF/ RABBITS HAS CAUSED INFLAMMATION, CHORIORETINITIS, & DEGENERATION OF RETINA."
+        },
+        {
+            "References": "Clarke, E.G., and M. L. Clarke. Veterinary Toxicology. Baltimore, Maryland: The Williams and Wilkins Company, 1975., p. 30",
+            "Value": "UREA MIXED WITH SOYA MEAL IS PARTICULARLY DANGEROUS, AS UREASE IN LATTER LEADS TO FORMATION OF AMMONIA ... POISONING OF CATTLE MAY ALSO BE CAUSED BY UREA AS FERTILIZER & SPREAD UNEVENLY ON PASTURE"
+        },
+        {
+            "References": "Clarke, E.G., and M. L. Clarke. Veterinary Toxicology. Baltimore, Maryland: The Williams and Wilkins Company, 1975., p. 30",
+            "Value": "LAMBS GIVEN 2 G/KG OF UREA DIED IN 90-200 MIN. ADULT SHEEP GIVEN SAME DOSE EXHIBITED ALMOST CONTINUOUS CONVULSIONS AFTER 165 MIN ... SHEEP CAN CONSUME UP TO 100 G OF UREA A DAY PROVIDED THAT CONCN OF UREA IN RATION DOES NOT EXCEED 6% ... LIVER DYSFUNCTION INCR SUSCEPTIBILITY TO POISONING."
+        },
+        {
+            "References": "Clarke, E.G., and M. L. Clarke. Veterinary Toxicology. Baltimore, Maryland: The Williams and Wilkins Company, 1975., p. 30",
+            "Value": "... ORAL ADMIN OF 50 G OF UREA KILLED 4 OUT OF 5 GOATS WITHIN 30 MIN, 450 G GIVEN BY MOUTH KILLED 7 PONIES OUT OF 8 ..."
+        },
+        {
+            "References": "Clarke, E.G., and M. L. Clarke. Veterinary Toxicology. Baltimore, Maryland: The Williams and Wilkins Company, 1975., p. 30",
+            "Value": "TOXIC DOSE IN CATTLE GIVEN UREA FOR FIRST TIME IS VARIOUSLY CONSIDERED TO BE 0.45 G/KG ... OR TOTAL OF 100-200 G ... SLOWLY INCR UREA CONTENT OF FEED, MATURE BULLOCKS CAN DIGEST AS MUCH AS 400 G A DAY WITHOUT ILL EFFECT. AS LITTLE AS 50 G MAY CAUSE POISONING IN CATTLE NOT ACCUSTOMED TO IT ... ."
+        },
+        {
+            "References": "Mortelmans K et al; Environ Mutagen 8:1-119 (1986)",
+            "Value": "Urea was tested for mutagenicity in the Salmonella/microsome preincubation assay using the standard protocol approved by the National Toxicology Program. Urea was tested at doses of 0.10, 0.33, 1.0, 3.3, and 10 mg/plate in as many as 5 Salmonella typhimurium strains (TA1535, TA1537, TA97, TA98, and TA100) in the presence and absence of rat or hamster liver S-9. Urea was negative in these tests and the highest ineffective dose tested in any Salmonella typhimurium strain was 10 mg/plate."
+        },
+        {
+            "References": "Humphreys, D.J. Veterinary Toxicology. 3rd ed. London, England: Bailliere Tindell, 1988., p. 17",
+            "Value": "Single doses of 16 g/kg body weight and 10% of urea in the feed has been reported to have no apparent effect on ten week old piglets ... . Although the highest level made the feed unpalatable, incorporation of 0.4, 0.6 or 1.0 g of urea per kg body weight into the ration of 18 month old pigs weighing 120-140 kg also failed to produce intoxication ... ."
+        },
+        {
+            "References": "Humphreys, D.J. Veterinary Toxicology. 3rd ed. London, England: Bailliere Tindell, 1988., p. 17",
+            "Value": "Administration of 450 g of urea, which caused the death of seven of eight ponies, resulted in an increase in blood urea, ammonia, alphaketoglutarate, glucose and pyruvate concentrations. The sequence and nature of the changes produced suggested that inhibition of alphaketoglutarate decarboxylation may be the primary site of ammonia intoxication."
+        },
+        {
+            "References": "Humphreys, D.J. Veterinary Toxicology. 3rd ed. London, England: Bailliere Tindell, 1988., p. 17",
+            "Value": "Urea poisoning has been reported in sheep which drank a 21% solution used as a fertilizer for cotton ... and in those consuming treated rations ... . Sheep grazing pastures low in protein are particularly susceptible to urea poisoning ... . The short term feeding of protein concentrates before giving urea supplements can increase sheep's tolerance to urea ... . Experimental administration of 0.5 g/kg of urea has been shown to cause intoxication in the heaviest, while 0.8 g/kg resulted in poisoning in all the treated sheep ... . Urea poisoning in sheep is associated with an elevated blood ammonia concentration, increased erythrocyte counts and packed cell volume values, and decreased leucocyte counts ... . Detailed clinical biochemical studies on experimental urea poisoned sheep have been reported ... . The blood ammonia concentration of the fetus in fatally poisoned sheep is lower than that of the dam at death, and the ammonia concentrations in their livers, kidneys, spleen and muscles are similarly different."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 965",
+            "Value": "On rabbit eyes saturated urea solution causes loss of epithelium from the cornea after five minutes contact, and produces moderate grayness of the stroma, with subsequent slow regeneration of the epithelium. A rabbit's cornea can return to normal in several weeks after exposure for an hour to 40% urea solution."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 965",
+            "Value": "Intravenous urea in monkeys has not damaged the ciliary epithelium, supporting a belief that reduction of intraocular pressure in glaucomatous patients is accomplished by an osmotic, rather than a toxic mechanism. However, intracarotid injection of concentrated urea in monkeys has done dramatic damage to the retina and the ciliary body. Retinal pigment epithelial cells are affected and blood-retina barrier broken down. The blood-aqueous barrier is broken down secondary to changes in the capillaries and selective damage to the ciliary body epithelium. Intraocular pressure is strikingly reduced and the aqueous outflow system rapidly shows swelling of the connective tissue of the inner wall of Schlemm's canal, and then edema of the trabecular meshwork. However, in several weeks there is general return to normal, except for failure of pigmented ciliary epithelium to regenerate."
+        },
+        {
+            "References": "PMID:1651027",
+            "Value": "Accidental urea intoxication resulted in the death of 17 of 29 suckler cows within six hours after the contamination of their drinking water with urea fertiliser. The other cows showed no lasting ill effects and neither their three-month-old calves nor the stock bull were affected. The urea concentration in the water was 86 mmol/litre, and the concentrations of ammonia nitrogen in the rumen fluid of two of the cows which were examined after death were 1825 and 957 mg/litre."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hance RJ; Weed Res 5: 98-107 (1965) (2) Swann RL et al; Res Rev 85: 23 (1983) (3) Choudhry GG; Toxicol Environ Chem 6: 127-71 (1983)",
+            "Value": "The adsorption of urea was measured in six different British soils with organic carbon contents ranging from 1.76 to 36.5%(1). No adsorption was measurable in five of the soils(1). In a sixth soil (36.5% organic carbon), a Koc of 8 can be determined from the Freundlich isotherm(SRC). According to a classification scheme(2), this Koc value suggests that urea is expected to have high mobility in soil. However, it has been reported that urea can adsorb to humic acids by free-radical complexation(3). Complexed urea may adsorb to soil more strongly than uncomplexed urea(SRC)."
+        }
+    ]
+}

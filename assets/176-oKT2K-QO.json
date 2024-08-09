@@ -1,0 +1,267 @@
+{
+    "_id": {
+        "$oid": "6682e7cdc4e5dba5ffba2268"
+    },
+    "CID": {
+        "$numberInt": "176"
+    },
+    "Name": "ACETIC ACID",
+    "IUPACName": "acetic acid",
+    "CanonicalSMILES": "CC(=O)O",
+    "Synonyms": [
+        "acetic acid",
+        "ethanoic acid",
+        "64-19-7",
+        "Acetic acid glacial",
+        "Ethylic acid",
+        "Vinegar acid",
+        "Glacial acetic acid",
+        "Acetic acid",
+        "glacial",
+        "Methanecarboxylic acid",
+        "Acetasol",
+        "Essigsaeure",
+        "Acide acetique",
+        "Pyroligneous acid",
+        "Vinegar",
+        "Azijnzuur"
+    ],
+    "IsomericSMILES": "CC(=O)O",
+    "INCHI": "InChI=1S/C2H4O2/c1-2(3)4/h1H3,(H,3,4)",
+    "INCHIKEY": "QTBSBXVTEAMEQO-UHFFFAOYSA-N",
+    "Formula": "C2H4O2",
+    "MolecularWeight": {
+        "$numberDouble": "60.05"
+    },
+    "Description": "Acetic acid is a simple monocarboxylic acid containing two carbons. It has a role as a protic solvent, a food acidity regulator, an antimicrobial food preservative and a Daphnia magna metabolite. It is a conjugate acid of an acetate.",
+    "XlogP": {
+        "$numberDouble": "-0.2"
+    },
+    "Complexity": {
+        "$numberInt": "31"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Nicholas HJ; p. 382-3 in Phytochemistry; Miller LP ed, New York, NY: Van Nostrand Reinhold (1973) (2) Johnston RAW, Plimmer JR; Chem Rev 59: 885-936 (1959)",
+            "Value": "Acetic acid occurs in various plants, such as in essential oil from juniper(1). Acetic acid occurs in tobacco(2)."
+        },
+        {
+            "References": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Acetic acid. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of May 27, 2014: https://www.ars-grin.gov/duke/",
+            "Value": "Acetic acid concentrations in plants(1).",
+            "Table": "[{'Genus species': 'Astragalus gummifer', 'Common name': 'Gum Tragacanth', 'Part': 'Gum', 'Concn (ppm)': '25,000'}, {'Genus species': 'Theobromoa cacao', 'Common name': 'Cacao', 'Part': 'Seed', 'Concn (ppm)': '7,100'}, {'Genus species': 'Linum usitatissimum', 'Common name': 'Flax', 'Part': 'Seed', 'Concn (ppm)': '3,853'}, {'Genus species': 'Croton tiglium', 'Common name': 'Purging Cotton', 'Part': 'Seed', 'Concn (ppm)': '3,000'}, {'Genus species': 'Vitis vinifera', 'Common name': 'European Grape', 'Part': 'Fruit', 'Concn (ppm)': '2,000'}, {'Genus species': 'Telosma cordata', 'Common name': 'Merrill flowers', 'Part': 'Flower', 'Concn (ppm)': '0-2,610'}, {'Genus species': 'Panax quinquefolius', 'Common name': 'American Ginseng', 'Part': 'Plant', 'Concn (ppm)': '126'}, {'Genus species': 'Glycyrrhiza glabra', 'Common name': 'Common Licorice', 'Part': 'Root', 'Concn (ppm)': '2'}, {'Genus species': 'Coriandrum sativum', 'Common name': 'Chinese Parsley', 'Part': 'Fruit', 'Concn (ppm)': '1'}, {'Genus species': 'Myrtus communis', 'Common name': 'Myrtle', 'Part': 'Plant', 'Concn (ppm)': '1'}]"
+        }
+    ],
+    "animal_concentrations": [
+        {
+            "References": "(1) Yasuhara A; J Chrom 387: 371-78 (1987) (2) Burnett WE; Environ Sci Technol 3: 744-9 (1969)",
+            "Value": "Acetic acid was identified as a component of poultry manure (at concentrations from 9.17 to 464 mg/kg)(1) and was responsible for a vinegar-like odor(2)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 4 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of May 27, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for acetic acid(SRC), using a log Kow of -0.17(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        },
+        {
+            "References": "Environment Canada; Tech Info for Problem Spills: Acetic Acid (Draft) p.1 (1981)",
+            "Value": "Acetic acid shows no potential for biological accumulation or food chain contamination."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "Verschueren, K. Handbook of Environmental Data of Organic Chemicals. 2nd ed. New York, NY: Van Nostrand Reinhold Co., 1983., p. 144",
+            "Value": "Biological oxygen demand after 10 days at 20 \u00b0C is: 82% biological oxidation in fresh water and 88% biological oxidation in sea water"
+        },
+        {
+            "References": "(1) Fischer WK et al; Wasser-Und Abwasser-Forschung 7: 99-118 (1974) (2) Helfgott TB et al; An Index of Refractory Organics. USEPA-600/2-77-174 (1977) (3) Zahn R, Wellens H; Z Wasser Abwasser Forsch 13: 1-7 (1980) (4) Dore M et al; Trib Cebedeau 28: 3-11 (1975) (5) Heukelekian H, Rand MC; J Water Pollut Control Assoc 29: 1040-53 (1955) (6) Billen G et al; Estuarine Coastal Marine Sci 11: 279-94 (1980) (7) Price KS et al; J Water Pollut Control Fed 46: 63-77 (1974) (8) Placak OR, Ruchhoft CC; Sewage Works J 19: 423-40 (1947) (9) Malaney GW, Gerhold RM; J Water Pollut Control Fed 41: R18-R33 (1963) (10) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of May 28, 2014: https://www.safe.nite.go.jp/english/db.html (11) Nowack G, Nowack J; Plant and Soil 122: 67-77 (1990)",
+            "Value": "AEROBIC: In a closed bottle test, acetic acid (2 ppm) achieved 51-99% of its theoretical Biochemical Oxygen Demand (BOD) after 5-30 days(1). In a 30-day Warburg respirometer test, acetic acid achieved 60% of its theoretical BOD using acclimated sewage seed(2). Acetic acid was found to degrade >90% after 3 days in a Zahn-Wellens test using an activated sludge inoculum(3). In a 5-day French Association for Standardization (AFNOR) T 90/103 test, acetic acid achieved 36% of its theoretical BOD using microbes from 3 polluted surface waters(4). Acetic acid reached an average 5-day theoretical BOD of 57.7% using standard dilution BOD water(5). In water-die away tests, acetic acid was found to degrade 12.3% per hr in estuarine water, 1.0% per hr in Belgian coastal water, and 0.06% per hr in open seawater(6). In five days, the BOD consumed was 76% and 66% of theoretical using a sewage inoculum and freshwater and synthetic seawater, respectively(7). Using batch aeration in sewage, acetic acid degraded 99.5% in 24 hr(8). In a Warburg respirometer test, 40% of its theoretical BOD was achieved for acetic acid after 24 hours using activated sludge inoculum(9). Acetic acid, present at 100 mg/L, reached 74% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(10). A laboratory soil degradation half-life of 2 days was measured in two soils collected from north-eastern Poland(11)."
+        },
+        {
+            "References": "(1) Dias FF, Alexander M; Appl Microbial 22: 1114-8 (1971) (2) Hatfield R; Ind Eng Chem 49: 192-6 (1957) (3) Takemoto S et al; Suishitsu Odaku Kenkyu 4: 80-90 (1981) (4) Urano K, Kato Z; J Hazardous Mater 13: 147-59 (1986) (5) Kool HJ; Chemosphere 13: 751-61 (1984)",
+            "Value": "AEROBIC: In a 5-day Warburg respirometer test using sewage inoculum, acetic acid lost 77% of its theoretical BOD(1). Nearly complete loss of BOD for acetic acid was observed after 6 hr aeration with settled, acclimated domestic sewage inocula(2). Acetic acid (4 ppm) reached 81.3 and 77.6% of its theoretical BOD after 5 days using a standard dilution method and a sea water dilution method, respectively(3). In a 10-day electrolytic respirometer test, acetic acid reached 87% of its theoretical BOD(4). Using a modified Organization of Economic Cooperation and Development (OECD) protocol, 75 and >90% degradation of acetic acid was observed after 14 days using garden soil and sediment from the Rhine River as inoculum, respectively(5)."
+        },
+        {
+            "References": "(1) Bouwer EJ, McCarty PL; Ground Water 22: 433-40 (1984)",
+            "Value": "ANAEROBIC: In a biofilm column study, 95% removal of acetic acid under aerobic conditions, and 99% removal under methanogenic conditions was observed(1)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Graedel TE et al; Atmospheric Chemical Compounds. Sources, Occurrence, and Bioassay. Orlando, FL: Academic Press p. 345 (1986) (2) Chung HY; J Agric Food Chem 47: 2280-87 (1999)",
+            "Value": "Acetic acid occurs as a volatile emission product during fish processing(1). The volatile components of different meats of a commonly consumed crab in Asia (Charybdis feriatus) were investigated. It was determined that acetic acid concentrations (ug/kg dry weight) in the following crab meats were 74.4 (legs and claws), 85.9 (body), and 50.1 (carapace)(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 4",
+            "Value": "log Kow = -0.17"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:19137548",
+            "Value": "Although acetic acid has been shown to induce apoptosis in yeast, the exact apoptotic mechanisms remain unknown. Here, /the study examined/  the effects of acetic acid treatment on yeast cells by 2-DE, revealing alterations in the levels of proteins directly or indirectly linked with the target of rapamycin (TOR) pathway: amino-acid biosynthesis, transcription/translation machinery, carbohydrate metabolism, nucleotide biosynthesis, stress response, protein turnover and cell cycle. The increased levels of proteins involved in amino-acid biosynthesis presented a counteracting response to a severe intracellular amino-acid starvation induced by acetic acid. Deletion of GCN4 and GCN2 encoding key players of general amino-acid control (GAAC) system caused a higher resistance to acetic acid indicating an involvement of Gcn4p/Gcn2p in the apoptotic signaling. Involvement of the TOR pathway in acetic acid-induced apoptosis was also reflected by the higher survival rates associated to a terminal deoxynucleotidyl transferase-mediated dUTP nick end labeling (TUNEL)-negative phenotype and lower reactive oxygen species levels of Deltator1 cells. In addition, deletion mutants for several downstream mediators of the TOR pathway revealed that apoptotic signaling involves the phosphatases Pph21p and Pph22p but not Sit4p. Altogether, /these/ results indicate that GAAC and TOR pathways (Tor1p) are involved in the signaling of acetic acid-induced apoptosis."
+        },
+        {
+            "References": "PMID:17382925",
+            "Value": "Acetic acid was found to have actions on urinary bladder smooth muscle in /the/ routine ion channel screening assays. Numerous studies have examined the mechanisms of bladder irritation by acetic acid; however, the direct effect of acetic acid on ion channels in detrusor smooth muscle cells has not been evaluated. /The study/ used whole-cell patch-clamp techniques to examine the effect of acetic acid on large-conductance Ca2+-activated K+ channels (BKCa) from guinea pig detrusor smooth muscle cells and CHO cells expressing recombinant human BKCaalphabeta1 (CHO BKCaalphabeta1) and human BKCaalpha (CHO BKCaalpha). Acetic acid activated BKCa currents in a concentration-dependent (0.01% to 0.05% v/v) manner in all the cell systems studied. Acetic acid (0.05%) increased BKCa current at +30 mV by 2764 +/- 918% (n=8) in guinea pig detrusor smooth muscle cells. Acetic acid (0.03%) shifted the V1/2 of conductance-voltage curve by 64 +/- 14 (n=5), 128 +/- 14 (n=5), and 126 +/- 12 mV (n=4) in CHO BKCaalpha, CHO BKCaalphabeta1 and detrusor smooth muscle cells, respectively. This effect of acetic acid was found to be independent of pH and was also not produced by its salt form, sodium acetate. Automated patch-clamp experiments also showed similar activation of CHO BKCaalphabeta1 by acetic acid. In conclusion, acetic acid directly activates BKCa channels in detrusor smooth muscle cells. This novel study necessitates caution while interpreting the results from acetic acid bladder irritation model."
+        },
+        {
+            "References": "PMID:20345665",
+            "Value": "/It was/ previously shown that acetic acid activates a mitochondria-dependent death process in Saccharomyces cerevisiae and that the ADP/ATP carrier (AAC) is required for mitochondrial outer membrane permeabilization and cytochrome c release. Mitochondrial fragmentation and degradation have also been shown in response to this death stimulus. Herein, /the study/ show that autophagy is not active in cells undergoing acetic acid-induced apoptosis and is therefore not responsible for mitochondrial degradation. Furthermore, /the study/ found that the vacuolar protease Pep4p and the AAC proteins have a role in mitochondrial degradation using yeast genetic approaches. Depletion and overexpression of Pep4p, an orthologue of human cathepsin D, delays and enhances mitochondrial degradation respectively. Moreover, Pep4p is released from the vacuole into the cytosol in response to acetic acid treatment. AAC-deleted cells also show a decrease in mitochondrial degradation in response to acetic acid and are not defective in Pep4p release. Therefore, AAC proteins seem to affect mitochondrial degradation at a step subsequent to Pep4p release, possibly triggering degradation through their involvement in mitochondrial permeabilization. The finding that both mitochondrial AAC proteins and the vacuolar Pep4p interfere with mitochondrial degradation suggests a complex regulation and interplay between mitochondria and the vacuole in yeast programmed cell death."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 701",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ...No effect /was found/ in guinea pigs or rabbits after /application/ of 10% acetic acid solution to intact or abraded skin patches. Concentrations from 80% to glacial produced severe burns to guinea pig skin, concentrations form 50-80% produced moderate to severe burns, and below 50% there was relatively mild injury."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 39",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Liquid glacial acetic acid causes devastating injury when applied to the eyes of rabbits."
+        },
+        {
+            "References": "PMID:9832602",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ...Acetic acid exposure resulted in a significant (P<0.02) increase in lung resistance (by 80%) and lung elastance (by 67%), lasting <10 minutes postexposure, but no significant change in methacholine responsiveness at one day and seven days postexposure."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Minor changes in respiration in guinea pigs inhaling 5 ppm acetic acid, with more pronounced effects at 100 ppm."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Inhalation of 16,000 ppm killed one of six exposed rats."
+        },
+        {
+            "References": "PMID:16580889",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ A classical feature of visceral pain is its referring to somatic locations. Gastric ulcer is a source of visceral pain. In the present study /researchers/ investigated whether gastric ulcers may trigger the changes in somatic nociception. For this aim somatic pain sensitivity was estimated under conditions of gastric ulcer development and healing. Gastric ulcers were induced by luminal application of 60% acetic acid under surgical conditions. Control rats were subjected to the same surgical procedure, but with the application of saline instead of the acid. Somatic pain sensitivity (tail flick latency), plasma corticosterone level, adrenal and thymus weight were investigated under conditions of the formation and the healing of gastric ulcers. The application of the acid resulted in the formation of kissing gastric ulcers, the increase of somatic pain sensitivity (the decrease of tail flick latency) as well as the appearance of typical signs of chronic stress: long-lasting increase of plasma corticosterone level, adrenal gland hypertrophy and thymus gland involution. Natural healing of gastric ulcers was accompanied by restoration of pain sensitivity as well as attenuation of the signs of chronic stress. Delay of ulcer healing by the daily indomethacin administration (2 mg/kg, s.c.) prevented the restoration of somatic pain sensitivity. The results suggest that chronic gastric ulcers may trigger somatic hypersensitivity."
+        },
+        {
+            "References": "PMID:2596625",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The ototoxicity of an otic drop preparation containing 2% acetic acid and 3% propylene glycol ... was investigated according to measurements of endocochlear potential and inner ear fluid pH. /Twenty healthy chinchillas weighing 450 to 550 g were anesthetized by an intramuscular injection of ketamine hydrochloride (40 mg/kg). Artificial ventilation was provided by a respirator through a tracheal cannula, and an intramuscular injection of gallamine triethiodine (6 mg/kg) was administered as a muscle relaxant. The tympanic bulla was then opened./ The application of this preparation to the round window membrane for 30 minutes caused a depression in endocochlear potential from 80.5 +/- 2.5 mV (mean +/- SD; n= 6) to 11.7 +/- 7.7 mV, and lowered inner ear fluid pH from 7.55 +/- 0.09 to 5.06 +/- 0.19 (n= 6) in perilymph and from 7.52 +/- 0.07 to 5.88 +/- 0.63 (n= 6) in endolymph. Two percent acetic acid produced similar changes after 30 minutes: endocochlear potential was reduced from 83.0 +/- 2.2 mV to 34.0 +/- 2.9 mV and endolymphatic pH from 7.49 +/- 0.04 to 6.83 +/- 0.21 (n= 4). However, the application of artificial perilymph of pH 4 titrated with hydrochloric acid induced no significant changes in either endocochlear potential or endolymphatic pH."
+        },
+        {
+            "References": "Mackison, F. W., R. S. Stricoff, and L. J. Partridge, Jr. (eds.). NIOSH/OSHA - Occupational Health Guidelines for Chemical Hazards. DHHS(NIOSH) Publication No. 81-123 (3 VOLS). Washington, DC: U.S. Government Printing Office, Jan. 1981., p. 2",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ...As little as 1.0 mL of glacial acetic acid has resulted in perforation of the esophagus."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 701",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Laboratory animals (unspecified species) that inhaled acetic acid vapors (27 to 86 mg/cu m) for 3 to 35 days showed changes in treadmill run duration, open field activity, and ethylene, acetaldehyde, and acetone concentrations in their exhaled air."
+        },
+        {
+            "References": "WHO Food Additive Series 64: Acetic acid (1967). Available from, as of February 9, 2004: https://www.inchem.org/documents/jecfa/jecmono/40abcj37.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Four groups of 2 young pigs were fed daily diets containing 0, 240, 720, 960 and 1200 mg/kg body-weight/day for successive 30-day periods to a total of 150 days. There were no significant differences in growth rate, weight gain, early morning urinary ammonia and terminal blood pH between controls and test groups."
+        },
+        {
+            "References": "PMID:19469536",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ /The study/ investigated the effect of acetic acid (AcOH) on the prevention of obesity in high-fat-fed mice. The mice were intragastrically administrated with water or 0.3 or 1.5% AcOH for 6 weeks. AcOH administration inhibited the accumulation of body fat and hepatic lipids without changing food consumption or skeletal muscle weight. Significant increases were observed in the expressions of genes for peroxisome-proliferator-activated receptor alpha (PPARalpha) and for fatty-acid-oxidation- and thermogenesis-related proteins: acetyl-CoA oxidase (ACO), carnitine palmitoyl transferase-1 (CPT-1), and uncoupling protein-2 (UCP-2), in the liver of the AcOH-treatment groups. PPARalpha, ACO, CPT-1, and UCP-2 gene expressions were increased in vitro by acetate addition to HepG2 cells. However, the effects were not observed in cells depleted of alpha2 5'-AMP-activated protein kinase (AMPK) by siRNA. In conclusion, AcOH suppresses accumulation of body fat and liver lipids by upregulation of genes for PPARalpha and fatty-acid-oxidation-related proteins by alpha2 AMPK mediation in the liver."
+        },
+        {
+            "References": "PMID:16611381",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ To investigate the efficacy of the intake of vinegar for prevention of hyperlipidemia, /the study/ examined the effect of dietary acetic acid, the main component of vinegar, on serum lipid values in rats fed a diet containing 1 % (w/w) cholesterol. Animals were allowed free access to a diet containing no cholesterol, a diet containing 1 % cholesterol without acetic acid, or a diet containing 1 % cholesterol with 0.3 % (w/w) acetic acid for 19 days. Then, they were killed after food deprivation for 7 hrs. Cholesterol feeding increased serum total cholesterol and triacylglycerol levels. Compared with the cholesterol-fed group, the cholesterol and acetic acid-fed group had significantly lower values for serum total cholesterol and triacylglycerols, liver ATP citrate lyase (ATP-CL) activity, and liver 3-hydroxy-3-methylglutaryl-CoA content as well as liver mRNA levels of sterol regulatory element binding protein-1, ATP-CL and fatty acid synthase (P<0.05). Further, the serum secretin level, liver acyl-CoA oxidase expression, and fecal bile acid content were significantly higher in the cholesterol and acetic acid-fed group than in the cholesterol-fed group (P<0.05). However, acetic acid feeding affected neither the mRNA level nor activity of cholesterol 7alpha-hydroxylase. In conclusion, dietary acetic acid reduced serum total cholesterol and triacylglycerol: first due to the inhibition of lipogenesis in liver; second due to the increment in fecal bile acid excretion in rats fed a diet containing cholesterol."
+        },
+        {
+            "References": "WHO Food Additive Series 64: Acetic acid (1967). Available from, as of February 9, 2004: https://www.inchem.org/documents/jecfa/jecmono/40abcj37.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Intragastric intubation of 3 mL of 10 percent solution acetic acid to rats for 90 days produced a drop in hemoglobin concentration and erythrocyte count."
+        },
+        {
+            "References": "SIDS. Screening Information Data Set for High Production Volume Chemicals. P140.  (2006)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... Methyltriacetoxysilane undergoes rapid hydrolysis in moist/aqueous environments (t1/2 is less than 12 seconds) to acetic acid and the corresponding trisilanols, thus observed toxicity is likely due primarily to acetic acid...   Methyltriacetoxysilane is severely irritating and corrosive to the skin, and corrosive to the eyes of animals and is likely to be a respiratory irritant based on production of acetic acid following hydrolysis. In a 7-day oral range-finding study (gavage) rats were treated with 0, 17 (males), 23 (females), 100, 500 and 1000 mg/kg/d). Ethyltriacetoxysilane rapidly hydrolyzes (in seconds) to acetic acid and a trisilanol (3:1). The silanol generated is insignificant in both quantity and toxicity relative to the production of acetic acid and its associated toxicity. Animals from the 17 (males), 23 (females) and 100 mg/kg/day dose groups survived to day 7. Animals from the 500 and 1000 mg/kg/day dose groups were sacrificed after the third dose as a consequence of two deaths (one from each group), marked body weight loss, and severity of lesions (ulceration and erosion of stomach and esophagus) observed in necropsied animals. The stomach lesions observed resembled irritation from acetic acid production. This 7-day range-finder study indicated that a maximum dose level of less than 17 (males) and 23 (females) mg/kg/day would be required for a longer duration repeated dose study in order to avoid death or obvious suffering due to the corrosivity of the hydrolysis product, acetic acid. NOAELs following repeated exposure to acetic acid and its salts range from 210 mg/kg bw/day (2-4 month acetic acid drinking water study; systemic toxicity) to 3600 mg/kg bw/day (acetic acid, sodium salt, 4 week dietary study; no effects reported). Signs of irritation/corrosion at the site of contact as well as systemic toxicity have been reported. Prolonged inhalation exposure to acetic acid results in muscle imbalance, increase in blood cholinesterase activity, decreases in albumins and decreased growth at concentrations greater than 0.01 mg/cu m/day..."
+        },
+        {
+            "References": "PMID:23141834",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Ethanol and acetic acid are common end products from silages. The main objective of this study was to determine whether high concentrations of ethanol or acetic acid in total mixed ration would affect performance in dairy cows. Thirty mid-lactation Holstein cows were grouped in 10 blocks and fed one of the following diets for 7 wk: (1) control (33% Bermuda hay + 67% concentrates), (2) ethanol [control diet + 5% ethanol, dry matter (DM) basis], or (3) acetic acid (control diet + 5% acetic acid, DM basis). Ethanol and acetic acid were diluted in water (1:2) and sprayed onto total mixed rations twice daily before feeding. An equal amount of water was mixed with the control ration. To adapt animals to these treatments, cows were fed only half of the treatment dose during the first week of study. Cows fed ethanol yielded more milk (37.9 kg/d) than those fed the control (35.8 kg/d) or acetic acid (35.3 kg/d) diets, mainly due to the higher DM intake (DMI; 23.7, 22.2, and 21.6 kg/d, respectively). The significant diet x week interaction for DMI, mainly during wk 2 and 3 (when acetic acid reached the full dose), was related to the decrease in DMI observed for the acetic acid treatment. There was a diet x week interaction in excretion of milk energy per DMI during wk 2 and 3, due to cows fed acetic acid sustained milk yield despite lower DMI. Energy efficiency was similar across diets. Blood metabolites (glucose, insulin, nonesterified fatty acids, ethanol, and gamma-glutamyl transferase activity) and sensory characteristics of milk were not affected by these treatments. Animal performance suggested similar energy value for the diet containing ethanol compared with other diets. Rumen conversion of ethanol to acetate and a concomitant increase in methane production might be a plausible explanation for the deviation of the predicted energy value based on the heat of combustion. Therefore, the loss of volatile compounds during the drying process in the laboratory should be considered when calculating energy content of fermented feedstuffs."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 701",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Long-term treatment /of unspecified animals/ with 3% acetic acid administered intragastrically for 6 months resulted in chronic inflammation of the esophageal mucosa."
+        },
+        {
+            "References": "PMID:3141042",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ The potency of acetic-acid in the tumor progression phase of the mouse skin model of chemical carcinogenesis and the role of cytotoxicity in carcinogenesis was discussed. ...Mice treated with acetic-acid had a greater carcinoma incidence than mice treated with acetone alone, 80 versus 47%, respectively. The total number of papillomas that progressed to carcinomas was 55% greater in the acetic-acid treatment group. Papilloma regression was not significantly altered in the acetic-acid group, compared to the acetone group. Histological examination revealed no significant differences in the cancers formed."
+        },
+        {
+            "References": "SIDS. Screening Information Data Set for High Production Volume Chemicals. P140.  (2006)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ...Acetic acid had no effects on implantation or on maternal or fetal survival in rats, mice or rabbits dosed via gavage during gestation days 6-19 at doses up to 1600 mg/kg/day. The number of abnormalities seen in either soft or skeletal tissues of the test groups did not differ from the number occurring in the controls..."
+        },
+        {
+            "References": "Rogers EH et al; Teratology 51 (3): 195 (1995)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ A major class of disinfection by-products found in drinking water are the haloacetic acids. Haloacetic acids can be formed by a variety of processes, e.g. chloroacetic acids can be formed during chlorination and bromoacetic acids can be by-products of ozonation. Both dichloro- and trichloroacetic acids have been reported to be teratogenic. There is little information regarding the developmental toxicity of bromoacetates and no structure-activity analysis of haloacetates. Therefore, 3-6 somite CD-1 mouse embryos were exposed to acetic acid (AA), or mono (M), di (D), and tri (T) substituted chloro (C) or bromo (B)-acetic acids (A) (e.g. DCA= dichloroacetic acid) in whole embryo culture and the morphological effects were evaluated. Conceptuses exposed to these agents for 24 hours exhibited malformations. Neural tube defects ranged from prosencephalic hypoplasia to non-closure throughout the cranial region. Other craniofacial defects included optic, otic and pharyngeal arch dysmorphogenesis. Benchmark concentrations (BC) for a 5% increase in NTDs for the studied chemicals in order of increasing potency are dichloroacetic acid (2452 uM) <acetic acid (1888 uM) <tribromoacetic acid (1403 uM) <trichloroacetic acid (1336 uM) <dibromoacetic acid (162 uM) <monochloroacetic acid (91.5 uM) <monobromoacetic acid (2.68 uM). Quantitative structure-activity relationships were derived from these data and other (iodo(I) and fluoro (F)) haloacetic acid data not presented (monoiodoacetic acid, monofluoroacetic acid, difluoroacetic acid, trifluoroacetic acid). The best regression was derived by excluding acetic acid (n=10) and relating log (1/BC) to Elumo and pKa with r=0.96, adj.r2 =0.90. These studies indicate that all of the haloacetates can directly alter development and there is a wide range of concentration that produce dysmorphogenesis."
+        },
+        {
+            "References": "EPA/Office of Pollution Prevention and Toxics; High production Volume (HPV) Challenge Program's Robust summaries and Test Plans. Acetic acid and Salts (April 2003). Available from, as of February 9, 2004: https://www.epa.gov/hpv/pubs/hpvrstp.htm",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Following mating, adult female albino CD-1 mice were dosed daily by oral intubation  beginning on day 6 of gestation at concentrations of 0 (control), 16, 74, 345, and 1600  mg/kg bw/day. Animals were observed daily and body weights recorded for 10 days. On day 17,  Caesarian sections were performed on all dams and the numbers of implantation sites, resorption  sites, and live and dead fetuses was recorded. General external and internal examinations were also  made of the dams. No effects on nidation or on maternal or fetal survival were observed at doses up  to 1600 mg/kg bw/day. The number of abnormalities seen in either soft or skeletal tissues of the  test groups did not differ from the number occurring in the controls."
+        },
+        {
+            "References": "PMID:7070562",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Suckling rats were exposed to one of three soln, 2.6X10-3 M lead acetate, 5X10-3 M acetic acid or water, from parturition until the pups were 18 days old. Male offspring from dams on acetic acid demonstrated above normal preweaning body weights and were significantly less active than normals in the open field by day 44."
+        },
+        {
+            "References": "Kawamoto K; Nichidai Igaku Zasshi 40 (3): 249-59 (1981)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Ethanol and its metabolites acetaldehyde and acetic acid were injected into the eggs during incubation, and the course of the egg development was observed during 21 days covering 3 stages (early, middle, and terminal). Lethal eggs occurred mainly in the early stage. The toxicity was the highest for acetaldehyde, followed by ethanol and acetic acid in decreasing order. Chickens with some deformities were hatched from treated eggs. A strong resemblance was shown between the deformities in the chickens during the early stage of development and the fetal alcohol syndrome in man at the 3rd month of gestation."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 702",
+            "Value": "/GENOTOXICITY/ Acetic acid (sodium salt) elicited no mutagenic response in the Ames Salmonella typhimurium assay or in Saccharomyces cerevisiae with or without liver preparations from mouse, rat, or monkey."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 702",
+            "Value": "/GENOTOXICITY/ ...The clastogenicity of acetic acid on cultured Chinese hamster ovary K1 cells /was studied. It was/... concluded that acetic acid was not clastogenic at concentrations close to those that showed cytotoxicity up to 16 mM). Although chromosomal aberrations could be induced at these high concentrations, they were shown to be artifacts due to acidification of the culture medium and could be eliminated by neutralizing the medium or enhancing its buffering ability."
+        },
+        {
+            "References": "EPA/Office of Pollution Prevention and Toxics; High production Volume (HPV) Challenge Program's Robust summaries and Test Plans. Acetic acid and Salts (April 2003). Available from, as of February 9, 2004: https://www.epa.gov/hpv/pubs/hpvrstp.htm",
+            "Value": "/GENOTOXICITY/ Acetic acid (64-19-7) has shown no evidence of mutagenic activity with or without metabolic activation using Ames Salmonella typhimurium strains TA 98, TA 100, TA 1535, TA 97 and TA 1537 at concentrations of 100, 333,0 1000, 3333, 6666, and 10000 microg/plate."
+        },
+        {
+            "References": "PMID:2314411",
+            "Value": "/GENOTOXICITY/ ...Concentrations of up to 16 millimolar (mM) formic-acid, acetic-acid, and lactic-acid were incubated with Chinese-hamster-ovary-K1 cells with or without metabolic activation from liver S9 mix from phenobarbital and 5,6-benzoflavone induced rats. ...All three acids induced chromosome aberrations at concentrations of 12 to 14mM and initial pHs of 5.2 to 6.1 in the presence or absence of S9 mix. ...The acids induced chromosome aberrations at pH 5.8 or 6.0, but their clastogenicity disappeared when the medium was neutralized."
+        },
+        {
+            "References": "PMID:10719792",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ The direct effects of ethanol and its metabolites on the guinea pig lung mast cell /were studied./ High concentrations of ethanol (100 mg/mL), acetaldehyde (0.3-3 mg/mL) and acetic acid (3 mg/mL) induced histamine release that was not inhibited by sodium cyanide (0.3 mM). Lower concentration of ethanol (10 mg/mL) and acetic acid (0.3 mg/mL), but not acetaldehyde, inhibited the histamine release induced by antigen and ionophore A23187. The histamine release induced by phorbol 12-miristate 13-acetate (1 microM) was also inhibited by ethanol (10 mg/mL). Changes in the levels of calcium, glucose and phosphatidic acid did not influence the effect of ethanol."
+        },
+        {
+            "References": "Humphreys, D.J. Veterinary Toxicology. 3rd ed. London, England: Bailliere Tindell, 1988., p. 183",
+            "Value": "/VETERINARY CASE REPORTS/  ...Death of 2 out of six horses dosed by their owner for the treatment of Oxyuris infection with 15 L of a 2.5% solution of acetic acid; two other horses were seriously affected and all showed symptoms of enteritis. ...Dullness, loss of appetite, red and jaundiced appearance of the visible mucous membranes and rapid pulse and respiration. Post mortem findings included hemorrhages in the small intestine and its mesentery, hyperemia of the mesenteric lymph nodes, diphtheritic inflammation of the small colon with subserous hemorrhages and edema of the rectum."
+        },
+        {
+            "References": "WHO Food Additive Series 64: Acetic acid (1967). Available from, as of February 9, 2004: https://www.inchem.org/documents/jecfa/jecmono/40abcj37.htm",
+            "Value": "/OTHER TOXICITY INFORMATION/ Toxic effects of acetic acid are due to its irritant properties as well as its effect on the central nervous system and kidneys. Large oral doses causes ... CNS depression and death in rats and mice."
+        },
+        {
+            "References": "Kondo S et al; Biosci Biotechnol Biochem 65 (12): 2690-94 (2001)",
+            "Value": "/OTHER TOXICITY INFORMATION/  ...Long-term administration of vinegar or the acetic acid to /spontaneously hypertensive rats/ was examined. As a result, it was observed that acetic acid itself ...significantly reduced both blood pressure (p<0.05) and renin activity (p<0.01) compared to controls... ."
+        },
+        {
+            "References": "PMID:19137548",
+            "Value": "/OTHER TOXICITY INFORMATION/ Although acetic acid has been shown to induce apoptosis in yeast, the exact apoptotic mechanisms remain unknown. Here, /the study examined/  the effects of acetic acid treatment on yeast cells by 2-DE, revealing alterations in the levels of proteins directly or indirectly linked with the target of rapamycin (TOR) pathway: amino-acid biosynthesis, transcription/translation machinery, carbohydrate metabolism, nucleotide biosynthesis, stress response, protein turnover and cell cycle. The increased levels of proteins involved in amino-acid biosynthesis presented a counteracting response to a severe intracellular amino-acid starvation induced by acetic acid. Deletion of GCN4 and GCN2 encoding key players of general amino-acid control (GAAC) system caused a higher resistance to acetic acid indicating an involvement of Gcn4p/Gcn2p in the apoptotic signaling. Involvement of the TOR pathway in acetic acid-induced apoptosis was also reflected by the higher survival rates associated to a terminal deoxynucleotidyl transferase-mediated dUTP nick end labeling (TUNEL)-negative phenotype and lower reactive oxygen species levels of Deltator1 cells. In addition, deletion mutants for several downstream mediators of the TOR pathway revealed that apoptotic signaling involves the phosphatases Pph21p and Pph22p but not Sit4p. Altogether, /these/ results indicate that GAAC and TOR pathways (Tor1p) are involved in the signaling of acetic acid-induced apoptosis."
+        },
+        {
+            "References": "PMID:22306747",
+            "Value": "/OTHER TOXICITY INFORMATION/ The acetic acid and phenyl-p-benzoquinone are easy and fast screening models to access the activity of novel candidates as analgesic drugs and their mechanisms. These models induce a characteristic and quantifiable overt pain-like behavior described as writhing response or abdominal contortions. The knowledge of the mechanisms involved in the chosen model is a crucial step forward demonstrating the mechanisms that the candidate drug would inhibit because the mechanisms triggered in that model will be addressed. Herein, it was investigated the role of spinal mitogen-activated protein (MAP) kinases ERK (extracellular signal-regulated kinase), JNK (Jun N-terminal Kinase) and p38, PI(3)K (phosphatidylinositol 3-kinase) and microglia in the writhing response induced by acetic acid and phenyl-p-benzoquinone, and flinch induced by formalin in mice. Acetic acid and phenyl-p-benzoquinone induced significant writhing response over 20 min. The nociceptive response in these models were significantly and in a dose-dependent manner reduced by intrathecal pre-treatment with ERK (PD98059), JNK (SB600125), p38 (SB202190) or PI(3)K (wortmannin) inhibitors. Furthermore, the co-treatment with MAP kinase and PI(3)K inhibitors, at doses that were ineffective as single treatment, significantly inhibited acetic acid- and phenyl-p-benzoquinone-induced nociception. The treatment with microglia inhibitors minocycline and fluorocitrate also diminished the nociceptive response. Similar results were obtained in the formalin test. Concluding, MAP kinases and PI(3)K are important spinal signaling kinases in acetic acid and phenyl-p-benzoquinone models of overt pain-like behavior and there is also activation of spinal microglia indicating that it is also important to determine whether drugs tested in these models also modulate such spinal mechanisms."
+        },
+        {
+            "References": "PMID:18367412",
+            "Value": "/OTHER TOXICITY INFORMATION/ Animal models that closely resemble the pathophysiology of human overactive bladder are important for evaluating novel therapeutics to treat the disorder. /The authors/ established a non-invasive hyperactive bladder model that is sensitive to anti-muscarinic drugs and without bladder inflammation. Acetic acid solution was infused into the bladder for 5 min via the urethral orifice without any surgical procedures under isoflurane anesthesia. After washing the bladder with saline, voiding frequency (VF) and total urine volume were determined for 9 hr under conscious conditions. Infusion of a 0.5% acetic acid solution caused a significant increase in VF, without influencing total urine volume or inducing significant histopathological inflammatory alterations in the bladder urothelium. Oral administration of oxybutynin (3 and 10 mg/kg) significantly ameliorated increases in VF induced by 0.5% acetic acid. Infusion of 0.75% acetic acid induced intensive urinary inflammation and a decrease in total urine volume as well as an increase in VF. Oral treatment with oxybutynin (10 mg/kg) did not significantly improve the increased VF due to 0.75% acetic acid. Acetic acid (0.5%) infusion evoked bladder hyper-responsiveness whether applied at night or during the day. However, VF was increased more by the nighttime application of acetic acid, while there were no significant differences in basal levels of VF between daytime and nighttime. In this study, the non-invasive rat urinary hyperactive bladder model indicated minimizes the secondary effects of experimental procedures such as surgical operations and anesthesia on bladder function and is sensitive to oxybutynin. Thus, the model may be useful for investigating novel therapeutics for OAB treatment."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Maeda H, Kawai A; Bull Japan Soc Sci Fisheries 52: 1205-8 (1986) (2) Miller D et al; Marine Biology 50: 375-83 (1979)",
+            "Value": "SEDIMENT: Acetic acid concentrations of 17.3-48.5 mmol/kg wet mud were detected in bottom sediments of Lake Biwa in Japan; however, no acetic acid was found in the interstitial water(1). Concentrations of 0.133-1.836 mg/g (dry wt) were detected in sediments from Loch Eil in Scotland. Water removed from sediments contained levels of 0.244-0.251 mg/mL(2)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Schuurmann G et al; Environ Sci Technol 40: 7005-7011 (Supplemental material) (2006) (2) Meylan WM et al; Environ Sci Technol 26: 1560-7 (1992) (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Von Oepen B et al; Chemosphere 22: 285-304 (1991) (5) Sansone JF et al; Geochimica et Cosmochimica Acta 51: 1889-1896 (1987) (6) Serjeant EP, Dempsey B; Ionisation Constants of Organic Acids in Aqueous Solution. IUPAC Chemical Data Series No. 23. New York, NY: Pergamon Press, p. 989 (1979) (7) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "A log Koc of 0.00 (Koc = 1), which was derived from experimental measurements, has been reported for acetic acid(1,2). According to a classification scheme(3), this Koc value suggests that acetic acid is expected to have very high mobility in soil. No detectable sorption was measured for acetic acid using the OECD Guideline 106 method employing an acidic forest soil, pH 2.8, an agricultural soil, pH 6.7, and a lake sediment, pH 7.1(4).  Adsorption of acetic acid to 3 nearshore marine sediments collected from three different locations resulted in Kd values of 0.65 (Koc = 228), 0.085 (Koc = 6.5) and 0.046 (Koc = 27) using clastic mud (3.5% organic carbon, pH 7.0), muddy sand (1.3% organic carbon, pH 7.7), and carbonate sand (0.17% organic carbon, pH 8.1), respectively(5). The pKa of acetic acid is 4.76(6), indicating that this compound will exist partially in anion form in the environment and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(7)."
+        },
+        {
+            "References": "(1) Hemphill L, Swanson WS; Proc of the 18th Industrial Waste Conf, Eng Bull Purdue Univ, Lafayette IN 18: 204-17 (1964) (2) Gordon AS, Millero FJ; Microb Ecol 11: 289-98 (1985) (3) Abrams EF et al; Identification of Organic Compounds in Effluents from Industrial Sources. USEPA-560/3-75-002 p. 3 (1975)",
+            "Value": "In 24 hr aqueous adsorption studies using montmorillonite and kaolinite clay adsorbents, 2.4-30.4% of added acetic acid was observed to be in the adsorbed phase(1). In adsorption studies using the adsorbent hydroxyapatite (a mineral which occurs in the environment as a result of the diagenesis of skeletal apatite), only 5% of added acetic acid (in aqueous solution, pH 8.0) became adsorbed to the hydroxyapatite(2). Acetic acid has been noted to leach from biological disposal areas(3)."
+        }
+    ]
+}

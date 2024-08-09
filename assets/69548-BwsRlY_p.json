@@ -1,0 +1,64 @@
+{
+    "_id": {
+        "$oid": "6692712c303528b49832d834"
+    },
+    "CID": {
+        "$numberInt": "69548"
+    },
+    "Name": "2,3,5,6-Tetrafluoro-4-methylbenzoic acid",
+    "IUPACName": "2,3,5,6-tetrafluoro-4-methylbenzoic acid",
+    "CanonicalSMILES": "CC1=C(C(=C(C(=C1F)F)C(=O)O)F)F",
+    "Synonyms": [
+        "2,3,5,6-Tetrafluoro-4-methylbenzoic acid",
+        "652-32-4",
+        "2,3,5,6-Tetrafluoro-p-toluic acid",
+        "4-methyl-2,3,5,6-tetrafluorobenzoic acid",
+        "4-Methyltetrafluorobenzoic acid",
+        "p-Toluic acid",
+        "2,3,5,6-tetrafluoro-",
+        "MFCD00012302",
+        "2,3,5,6-TETRAFLUORO-4-METHYLBENZOICACID",
+        "NSC168718",
+        "Benzoic acid",
+        "2,3,5,6-tetrafluoro-4-methyl-",
+        "CBDivE_016311",
+        "SCHEMBL503607",
+        "DTXSID70215508",
+        "Tefluthrin metabolite III (acid)",
+        "2,3,5,6-tetrafluoro-4-toluic acid"
+    ],
+    "IsomericSMILES": "CC1=C(C(=C(C(=C1F)F)C(=O)O)F)F",
+    "INCHI": "InChI=1S/C8H4F4O2/c1-2-4(9)6(11)3(8(13)14)7(12)5(2)10/h1H3,(H,13,14)",
+    "INCHIKEY": "COOULIOYEXBFDT-UHFFFAOYSA-N",
+    "Formula": "C8H4F4O2",
+    "MolecularWeight": {
+        "$numberDouble": "208.11"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "2.2"
+    },
+    "Complexity": {
+        "$numberInt": "219"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "A series of 14C-labelled benzoic acids was synthesized to investigate their phloem translocation in plants and assess the role of pKa and lipophilicity in determining their movement. When these substituted benzoic acids were applied to castor bean plants by injection into the petioles, the compounds with intermediate lipophilicity (2-fluoro-, 4-chloro-, and 3,4-dichlorobenzoic acids) exhibited the highest concentrations in phloem exudates. On the other hand, the more polar 4-methyl-2,3,5,6-tetrafluoro- and pentafluorobenzoic acids showed lower translocation, possibly due to their lower pKa values compared to the other benzoic acids tested. The polar 4-ureidobenzoic acid and the lipophilic 3-(4-methylphenoxy)benzoic acid were both translocated less efficiently in the phloem. These findings align with previous observations on phenoxyacetic acids and provide further evidence for the significance of ionization in the accumulation and retention of chemicals in phloem sieve tubes.",
+            "reference": "Chamberlain, K. Physico-chemical Factors Determining the Phloem Translocation of Benzoic Acids.\u00a0EPS,\u00a03, 9.",
+            "method": {
+                "Test Plant": "Ricinus communis L. var. Gibsonii (castor bean)",
+                "Apply Location": "Petiole injection for Ricinus communis.",
+                "Plant Grown Condition": "Ricinus communis seedlings were grown in nutrient solution for three to four weeks until they possessed four true leaves.",
+                "Chemical Preparation": "Various 14C-labeled substituted benzoic acids were synthesized, including [14C]4-ureidobenzoic acid and others purchased or received as gifts. All compounds were used at specific activities of 74 and 7.4 MBq mmol-1 in the castor bean and barley experiments respectively.",
+                "Pesticide Application Details for the Plant": "For Ricinus communis, a solution of chemical in distilled water (2 mM for the 14C-labelled benzoic acids) was injected into the hollow petioles (7 \u00b5l per petiole) of the two mature leaves. Phloem sap was collected from shallow incisions made with a razor blade at the top of the stem and at the base of the plant.",
+                "Other Information": "-"
+            },
+            "result": "[{\"Time after injection\": 0.27, \"Phloem mobility factor of lower stem Phloem mobility factor of upper stem\": 3.65}, {\"Time after injection\": 1.76, \"Phloem mobility factor of lower stem Phloem mobility factor of upper stem\": 7.31}, {\"Time after injection\": 2.57, \"Phloem mobility factor of lower stem Phloem mobility factor of upper stem\": 8.67}, {\"Time after injection\": 1.35, \"Phloem mobility factor of lower stem Phloem mobility factor of upper stem\": 6.23}, {\"Time after injection\": 0.67, \"Phloem mobility factor of lower stem Phloem mobility factor of upper stem\": 4.2}, {\"Time after injection\": 0.67, \"Phloem mobility factor of lower stem Phloem mobility factor of upper stem\": 3.25}]"
+        }
+    ]
+}

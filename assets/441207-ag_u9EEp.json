@@ -1,0 +1,118 @@
+{
+    "_id": {
+        "$oid": "6682e999c4e5dba5ffba2b6d"
+    },
+    "CID": {
+        "$numberInt": "441207"
+    },
+    "Name": "Digitoxin",
+    "IUPACName": "3-[(3S,5R,8R,9S,10S,13R,14S,17R)-3-[(2R,4S,5S,6R)-5-[(2S,4S,5S,6R)-5-[(2S,4S,5S,6R)-4,5-dihydroxy-6-methyloxan-2-yl]oxy-4-hydroxy-6-methyloxan-2-yl]oxy-4-hydroxy-6-methyloxan-2-yl]oxy-14-hydroxy-10,13-dimethyl-1,2,3,4,5,6,7,8,9,11,12,15,16,17-tetradecahydrocyclopenta[a]phenanthren-17-yl]-2H-furan-5-one",
+    "CanonicalSMILES": "CC1C(C(CC(O1)OC2C(OC(CC2O)OC3C(OC(CC3O)OC4CCC5(C(C4)CCC6C5CCC7(C6(CCC7C8=CC(=O)OC8)O)C)C)C)C)O)O",
+    "Synonyms": [
+        "digitoxin",
+        "71-63-6",
+        "Digitoxoside",
+        "Crystodigin",
+        "Digitoxinum",
+        "Unidigin",
+        "Digitophyllin",
+        "Carditoxin",
+        "Cristapurat",
+        "Digitoksin",
+        "Purpurid",
+        "Cardidigin",
+        "Cardigin",
+        "Glucodigin",
+        "Lanatoxin"
+    ],
+    "IsomericSMILES": "C[C@@H]1[C@H]([C@H](C[C@@H](O1)O[C@@H]2[C@H](O[C@H](C[C@@H]2O)O[C@@H]3[C@H](O[C@H](C[C@@H]3O)O[C@H]4CC[C@]5([C@@H](C4)CC[C@@H]6[C@@H]5CC[C@]7([C@@]6(CC[C@@H]7C8=CC(=O)OC8)O)C)C)C)C)O)O",
+    "INCHI": "InChI=1S/C41H64O13/c1-20-36(46)29(42)16-34(49-20)53-38-22(3)51-35(18-31(38)44)54-37-21(2)50-33(17-30(37)43)52-25-8-11-39(4)24(15-25)6-7-28-27(39)9-12-40(5)26(10-13-41(28,40)47)23-14-32(45)48-19-23/h14,20-22,24-31,33-38,42-44,46-47H,6-13,15-19H2,1-5H3/t20-,21-,22-,24-,25+,26-,27+,28-,29+,30+,31+,33+,34+,35+,36-,37-,38-,39+,40-,41+/m1/s1",
+    "INCHIKEY": "WDJUZGPOPHTGOT-XUDUSOBPSA-N",
+    "Formula": "C41H64O13",
+    "MolecularWeight": {
+        "$numberDouble": "764.9"
+    },
+    "Description": "Digitoxin is a cardenolide glycoside in which the 3beta-hydroxy group of digitoxigenin carries a 2,6-dideoxy-beta-D-ribo-hexopyranosyl-(1->4)-2,6-dideoxy-beta-D-ribo-hexopyranosyl-(1->4)-2,6-dideoxy-beta-D-ribo-hexopyranosyl trisaccharide chain. It has a role as an EC 3.6.3.9 (Na(+)/K(+)-transporting ATPase) inhibitor. It is functionally related to a digitoxigenin. It is a conjugate acid of a digitoxin(1-).",
+    "XlogP": {
+        "$numberDouble": "2.3"
+    },
+    "Complexity": {
+        "$numberInt": "1410"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Dr. Duke's Phytochemical and Ethnobotanical Databases. Digitoxin. Available from, as of Sept 20, 2018: https://phytochem.nal.usda.gov/phytochem/search",
+            "Value": "Digitoxin occurrence in plants(1).",
+            "Table": "[{'Genus species': 'Digitalis purpurea', 'Family': 'Scrophulariaceae', 'Common name(s)': 'Purple Foxglove', 'Part': 'Leaf', 'Concn (ppm)': 3000}, {'Genus species': 'Digitalis lanata', 'Family': 'Scrophulariaceae', 'Common name(s)': 'Grecian Foxglove', 'Part': 'Leaf', 'Concn (ppm)': 200}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Sangster J; LOGKOW Databank. Sangster Res Lab, Montreal Quebec, Canada (1994) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Sept 30, 2018: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 7 was calculated in fish for digitoxin(SRC), using a log Kow of 1.85(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Sangster J; LOGKOW Databank. Sangster Res Lab, Montreal Quebec, Canada (1994)",
+            "Value": "log Kow = 1.85"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:24104877",
+            "Value": "AIMS: Recent studies suggest that proarrhythmic effects of cardiac glycosides (CGs) on cardiomyocyte Ca(2+) handling involve generation of reactive oxygen species (ROS). However, the specific pathway(s) of ROS production and the subsequent downstream molecular events that mediate CG-dependent arrhythmogenesis remain to be defined.  METHODS AND RESULTS: We examined the effects of digitoxin (DGT) on Ca(2+) handling and ROS production in cardiomyocytes using a combination of pharmacological approaches and genetic mouse models. Myocytes isolated from mice deficient in NADPH oxidase type 2 (NOX2KO) and mice transgenically overexpressing mitochondrial superoxide dismutase displayed markedly increased tolerance to the proarrhythmic action of DGT as manifested by the inhibition of DGT-dependent ROS and spontaneous Ca(2+) waves (SCW). Additionally, DGT-induced mitochondrial membrane potential depolarization was abolished in NOX2KO cells. DGT-dependent ROS was suppressed by the inhibition of PI3K, PKC, and the mitochondrial KATP channel, suggesting roles for these proteins, respectively, in activation of NOX2 and in mitochondrial ROS generation. Western blot analysis revealed increased levels of oxidized CaMKII in WT but not in NOX2KO hearts treated with DGT. The DGT-induced increase in SCW frequency was abolished in myocytes isolated from mice in which the Ser 2814 CaMKII phosphorylation site on RyR2 is constitutively inactivated.  CONCLUSION: These results suggest that the arrhythmogenic adverse effects of CGs on Ca(2+) handling involve PI3K- and PKC-mediated stimulation of NOX2 and subsequent NOX2-dependent ROS release from the mitochondria; mitochondria-derived ROS then activate CaMKII with consequent phosphorylation of RyR2 at Ser 2814."
+        },
+        {
+            "References": "PMID:19446813",
+            "Value": "Pro-inflammatory processes initiated in the endothelium represent a crucial step in the pathogenesis of inflammatory cardiovascular disease, such as atherosclerosis. Recent observations pointed to potential anti-inflammatory properties of the cardiac glycoside digitoxin. Therefore, the present study investigated potential anti-inflammatory and vasoprotective properties of digitoxin as well as the underlying signaling pathways affected in endothelial cells (EC). Digitoxin, employing therapeutical concentrations used in patients (3-30 nM), potently inhibited the IL-1beta-induced expression of MCP-1 and VCAM-1 in EC and the capacity of corresponding cell culture supernatants on monocyte migration as well as monocyte adhesion to endothelial monolayers, respectively. Furthermore, digitoxin prevented the IL-1beta-induced activation of p44/42-MAPK and NF-kappaB without affecting activation of JNK and p38-MAPK. Inhibition of NF-kappaB signaling but not p44/42-MAPK mimicked the observed inhibitory effects of digitoxin on MCP-1 expression and monocyte migration. Moreover, digitoxin inhibited NF-kappaB signaling at the level of TAK-1/IKK. Additionally, digitoxin prevented TNF-alpha-induced apoptosis in EC accompanied by activation of Akt. Blockade of PI-3-kinase, activator of Akt, prevented the anti-apoptotic properties of digitoxin and impaired its inhibitory action on NF-kappaB signaling and MCP-1 expression. Finally, digitoxin activated endothelial NO-synthase, which was blocked by inhibition of PI-3-kinase, Ca(2+)/Calmodulin-dependent-proteinkinase-II and chelation of intracellular calcium. Digitoxin elicits anti-inflammatory and vasoprotective properties by blocking NF-kappaB and activating PI-3-kinase/Akt signaling as well as Ca(2+)/Calmodulin-dependent-proteinkinase-II in EC. These observations indicate a potential therapeutical application of digitoxin in the treatment of cardiovascular diseases, such as atherosclerosis."
+        },
+        {
+            "References": "PMID:29643254",
+            "Value": "Cardiac glycosides have been used in the treatment of arrhythmias for more than 200 years. Two-pore-domain (K2P) potassium channels regulate cardiac action potential repolarization. Recently, K2P3.1 [tandem of P domains in a weak inward rectifying K+ channel (TWIK)-related acid-sensitive K+ channel (TASK)-1] has been implicated in atrial fibrillation pathophysiology and was suggested as an atrial-selective antiarrhythmic drug target. We hypothesized that blockade of cardiac K2P channels contributes to the mechanism of action of digitoxin and digoxin. All functional human K2P channels were screened for interactions with cardiac glycosides. Human K2P channel subunits were expressed in Xenopus laevis oocytes, and voltage clamp electrophysiology was used to record K+ currents. Digitoxin significantly inhibited K2P3.1 and K2P16.1 channels. By contrast, digoxin displayed isolated inhibitory effects on K2P3.1. K2P3.1 outward currents were reduced by 80% (digitoxin, 1 Hz) and 78% (digoxin, 1 Hz). Digitoxin inhibited K2P3.1 currents with an IC50 value of 7.4 uM. Outward rectification properties of the channel were not affected. Mutagenesis studies revealed that amino acid residues located at the cytoplasmic site of the K2P3.1 channel pore form parts of a molecular binding site for cardiac glycosides. In conclusion, cardiac glycosides target human K2P channels. The antiarrhythmic significance of repolarizing atrial K2P3.1 current block by digoxin and digitoxin requires validation in translational and clinical studies."
+        },
+        {
+            "References": "American Society of Health-System Pharmacists; Drug Information 2018. Bethesda, MD. 2018, p. 1818",
+            "Value": "Cardiac glycosides inhibit the activity of sodium-potassium-activated adenosine triphosphatase (Na+-K+-ATPase), an enzyme required for active transport of sodium across myocardial cell membranes. Inhibition of this enzyme in cardiac cells results in an increase in the contractile state of the heart and it was believed that benefits of cardiac glycosides in heart failure were mainly associated with inotropic action. However, it has been suggested that benefits of cardiac glycosides may be in part related to enzyme inhibition in noncardiac tissues. Inhibition of Na+-K+-ATPase in vagal afferents acts to sensitize cardiac baroreceptors which may in turn decrease sympathetic outflow from the CNS. In addition, by inhibiting Na+-K+-ATPase in the kidney, cardiac glycosides decrease the renal tubular reabsorption of sodium; the resulting increase in the delivery of sodium to the distal tubules leads to the suppression of renin secretion from the kidneys.  These observations led to the hypothesis that cardiac glycosides act in heart failure principally by attenuating the activation of the neurohormonal system, rather than by a positive inotropic action. Toxic doses of cardiac glycosides cause efflux of potassium from the myocardium and concurrent influx of sodium. Toxicity results in part from loss of intracellular potassium associated with inhibition of Na+-K+-ATPase. With therapeutic doses, augmentation of calcium influx to the contractile proteins with resultant enhancement of excitation-contraction coupling is involved in the positive inotropic action of cardiac glycosides; the role of Na+-K+-ATPase in this effect is controversial. /Cardiac glycosides/"
+        },
+        {
+            "References": "PMID:30251696",
+            "Value": "Low concentrations of cardiac glycosides including ouabain, digoxin, and digitoxin block cancer cell growth without affecting Na+,K+-ATPase activity, but the mechanism underlying this anti-cancer effect is not fully understood. Volume-regulated anion channel (VRAC) plays an important role in cell death signaling pathway in addition to its fundamental role in the cell volume maintenance. Here, we report cardiac glycosides-induced signaling pathway mediated by the crosstalk between Na+,K+-ATPase and VRAC in human cancer cells. Submicromolar concentrations of ouabain enhanced VRAC currents concomitantly with a deceleration of cancer cell proliferation. The effects of ouabain were abrogated by a specific inhibitor of VRAC (DCPIB) and knockdown of an essential component of VRAC (LRRC8A), and they were also attenuated by the disruption of membrane microdomains or the inhibition of NADPH oxidase. Digoxin and digitoxin also showed anti-proliferative effects in cancer cells at their therapeutic concentration ranges, and these effects were blocked by DCPIB. In membrane microdomains of cancer cells, LRRC8A was found to be co-immunoprecipitated with Na+,K+-ATPase a1-isoform. These ouabain-induced effects were not observed in non-cancer cells. Therefore, cardiac glycosides were considered to interact with Na+,K+-ATPase to stimulate the production of reactive oxygen species, and they also apparently activated VRAC within membrane microdomains, thus producing anti-proliferative effects."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "PMID:1015912",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ECG monitoring of adult and 1 week old rats during severe acute digitoxin toxicity showed lack of cardiotoxicity despite marked neurotoxicity in both age groups. High adrenal concentration in all animals."
+        },
+        {
+            "References": "PMID:27082032",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ The effects of chronic treatment with digitoxin on arterial baroreceptor sensitivity for heart rate (HR) and renal sympathetic nerve activity (rSNA) control, cardiopulmonary reflex, and autonomic HR control in an animal model of heart failure (HF) were evaluated. Wistar rats were treated with digitoxin, which was administered in their daily feed (1 mg/kg per day) for 60 days. The following 3 experimental groups were evaluated: sham, HF, and HF treated with digitoxin (HF + DIG). We observed an increase in rSNA in the HF group (190 +/- 29 pps, n = 5) compared with the sham group (98 +/- 14 pps, n = 5). Digitoxin treatment prevented an increase in rSNA (98 +/- 14 pps, n = 7). Therefore, arterial baroreceptor sensitivity was decreased in the HF group (-1.24 +/- 0.07 bpm/mm Hg, n = 8) compared with the sham group (-2.27 +/- 0.23 bpm/mm Hg, n = 6). Digitoxin did not alter arterial baroreceptor sensitivity in the HF + DIG group. Finally, the HF group showed an increased low frequency band (LFb: 23 +/- 5 ms(2), n = 8) and a decreased high frequency band (HFb: 77 +/- 5 ms(2), n = 8) compared with the sham group (LFb: 14 +/- 3 ms(2); HFb: 86 +/- 3 ms(2), n = 9); the HF+DIG group exhibited normalized parameters (LFb: 15 +/- 3 ms(2); HFb: 85 +/- 3 ms(2), n = 9). In conclusion, the benefits of decreasing rSNA are not directly related to improvements in peripheral cardiovascular reflexes; such occurrences are due in part to"
+        },
+        {
+            "References": "PMID:10381263",
+            "Value": "/ENDOCRINE MODULATION/ Both in vivo and in vitro experiments were conducted to determined the effects of digitoxin on the secretion of testosterone, and its underlying mechanisms including testicular adenosine 3':5'-cyclic monophosphate (cAMP), and the activities of steroidogenic enzymes. Male rats were injected with digitoxin, human chorionic gonadotropin (hCG), or hCG plus digitoxin via a jugular catheter. Blood samples were collected immediately before and at 30 and 60 min after the challenge, and analyzed for testosterone by radioimmunoassay. In an in vitro study, rat testicular interstitial cells were isolated and incubated with digitoxin, hCG, 8-bromo-cAMP (8-Br-cAMP), digitoxin plus hCG, or digitoxin plus 8-Br-cAMP at 34 degrees C for 1 hr. The media were collected and analyzed for testosterone. For studying cAMP accumulation, testicular interstitial cells were incubated for 1 hr in the medium containing isobutyl-1-methylxanthine (IBMX) and different doses of digitoxin with the absence or presence of hCG. After incubation, cells were processed for determining cAMP content. Intravenous injection of digitoxin decreased hCG-stimulated, but not basal, plasma testosterone levels. Administration of digitoxin in vitro resulted in an inhibition of both basal and hCG- as well as 8-Br-cAMP-stimulated release of testosterone. In addition, digitoxin diminished hCG-stimulated cAMP accumulation in rat testicular interstitial cells. Furthermore, digitoxin inhibited the activity of cytochrome P450 side chain cleavage enzyme (P450scc) but failed to affect the activities of other steroidogenic enzymes. Taken together, these results suggest that the acute inhibitory effect of digitoxin on the testosterone production in testicular interstitial cells involves, at least partly, an inefficiency of post-cAMP events, and a decrease of P450scc activity."
+        },
+        {
+            "References": "PMID:12112021",
+            "Value": "/ENDOCRINE MODULATION// Previous studies have shown that digoxin decreases testosterone secretion in testicular interstitial cells. However, the effect of digoxin on progesterone secretion in luteal cells is unclear. Progesterone is known as an endogenous digoxin-like hormone (EDLH). This study investigates how digitalis affected progesterone production and whether progesterone antagonized the effects of digitalis. Digoxin or digitoxin, but not ouabain, decreased the basal and human chorionic gonadotropin (hCG)-stimulated progesterone secretion as well as the activity of cytochrome P450 side chain cleavage enzyme (P450scc) in luteal cells. 8-Br-cAMP and forskolin did not affect the reduction. Neither the amount of P450scc, the amount of steroidogenic acute regulatory (StAR) protein, nor the activity of 3beta-hydroxysteroid dehydrogenase (3beta-HSD) was affected by digoxin or digitoxin. Moreover, in testicular interstitial and luteal cells, progesterone partially attenuated the reduction of pregnenolone by digoxin or digitoxin and the progesterone antagonist, RU486, blocked this attenuation. These new findings indicated that (1) digoxin or digitoxin inhibited pregnenolone production by decreasing the activity of P450scc enzyme, but not Na(+)-K(+)-ATPase, resulting in a decrease on progesterone secretion in rat luteal cells, and (2) the inhibitory effect on pregnenolone production by digoxin or digitoxin was reversed partially by progesterone. In conclusion, digoxin or digitoxin decreased progesterone production via the inhibition of pregnenolone by decreasing P450scc activity. Progesterone, an EDLH, could antagonize the effects of digoxin or digitoxin in luteal cells."
+        },
+        {
+            "References": "PMID:18272488",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Digitoxin and other cardiac glycosides are important, centuries-old drugs for treating congestive heart failure. However, the mechanism of action of these compounds is still being elucidated. Calcium is known to potentiate the toxicity of these drugs, and we have hypothesized that digitoxin might mediate calcium entry into cells. We report here that digitoxin molecules mediate calcium entry into intact cells. Multimers of digitoxin molecules also are able to form calcium channels in pure planar phospholipid bilayers. These digitoxin channels are blocked by Al(3+) and La(3+) but not by Mg(2+) or the classical l-type calcium channel blocker, nitrendipine. In bilayers, we find that the chemistry of the lipid affects the kinetics of the digitoxin channel activity, but not the cation selectivity. Antibodies against digitoxin promptly neutralize digitoxin channels in both cells and bilayers. We propose that these digitoxin calcium channels may be part of the mechanism by which digitoxin and other active cardiac glycosides, such as digoxin, exert system-wide actions at and above the therapeutic concentration range."
+        },
+        {
+            "References": "PMID:24104877",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ AIMS: Recent studies suggest that proarrhythmic effects of cardiac glycosides (CGs) on cardiomyocyte Ca(2+) handling involve generation of reactive oxygen species (ROS). However, the specific pathway(s) of ROS production and the subsequent downstream molecular events that mediate CG-dependent arrhythmogenesis remain to be defined.  METHODS AND RESULTS: We examined the effects of digitoxin (DGT) on Ca(2+) handling and ROS production in cardiomyocytes using a combination of pharmacological approaches and genetic mouse models. Myocytes isolated from mice deficient in NADPH oxidase type 2 (NOX2KO) and mice transgenically overexpressing mitochondrial superoxide dismutase displayed markedly increased tolerance to the proarrhythmic action of DGT as manifested by the inhibition of DGT-dependent ROS and spontaneous Ca(2+) waves (SCW). Additionally, DGT-induced mitochondrial membrane potential depolarization was abolished in NOX2KO cells. DGT-dependent ROS was suppressed by the inhibition of PI3K, PKC, and the mitochondrial KATP channel, suggesting roles for these proteins, respectively, in activation of NOX2 and in mitochondrial ROS generation. Western blot analysis revealed increased levels of oxidized CaMKII in WT but not in NOX2KO hearts treated with DGT. The DGT-induced increase in SCW frequency was abolished in myocytes isolated from mice in which the Ser 2814 CaMKII phosphorylation site on RyR2 is constitutively inactivated.  CONCLUSION: These results suggest that the arrhythmogenic adverse effects of CGs on Ca(2+) handling involve PI3K- and PKC-mediated stimulation of NOX2 and subsequent NOX2-dependent ROS release from the mitochondria; mitochondria-derived ROS then activate CaMKII with consequent phosphorylation of RyR2 at Ser 2814."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Sept 20, 2018: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of digitoxin can be estimated to be 6.0X10+4(SRC). According to a classification scheme(2), this estimated Koc value suggests that digitoxin is expected to be immobile in soil(SRC)."
+        }
+    ]
+}

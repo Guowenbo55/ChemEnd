@@ -1,0 +1,90 @@
+{
+    "_id": {
+        "$oid": "6682e951c4e5dba5ffba2a02"
+    },
+    "CID": {
+        "$numberInt": "24726"
+    },
+    "Name": "TRANS-1,3-DICHLOROPROPENE",
+    "IUPACName": "(E)-1,3-dichloroprop-1-ene",
+    "CanonicalSMILES": "C(C=CCl)Cl",
+    "Synonyms": [
+        "(E)-1,3-Dichloro-1-propene",
+        "(E)-1,3-Dichloropropene",
+        "10061-02-6",
+        "trans-1,3-Dichloro-1-propene",
+        "trans-1,3-Dichloropropene",
+        "Telone II",
+        "1,3-Dichloropropylene",
+        "Telone",
+        "(E)-1,3-dichloroprop-1-ene",
+        "trans-1,3-Dichloropropylene",
+        "1-Propene",
+        "1,3-dichloro-",
+        "3-Chloroallyl chloride",
+        "1-Propene",
+        "1,3-dichloro-",
+        "(1E)-",
+        "Dorlone II",
+        "Telone C"
+    ],
+    "IsomericSMILES": "C(/C=C/Cl)Cl",
+    "INCHI": "InChI=1S/C3H4Cl2/c4-2-1-3-5/h1-2H,3H2/b2-1+",
+    "INCHIKEY": "UOORRWUZONOOLO-OWOJBTEDSA-N",
+    "Formula": "C3H4Cl2",
+    "MolecularWeight": {
+        "$numberDouble": "110.97"
+    },
+    "Description": "(E)-1,3-dichloropropene is a 1,3-dichloropropene with a (E)-configuration. It has a role as a fumigant. It is a 1,3-dichloropropene and a chloroalkene. It derives from a hydride of a propene.",
+    "XlogP": {
+        "$numberDouble": "1.7"
+    },
+    "Complexity": {
+        "$numberInt": "31"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Tomlin CDS; The Pesticide Manual, 11th ed. Farnham, UK: British Crop Protection Council p. 366 (1997) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 7 was calculated for trans-1,3-dichloropropene(SRC), using a log Kow of 2.03(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "USEPA; Ambient Water Quality Criteria Doc: Dichloropropanes/Dichloropropenes (Draft) p.A-3 (1980)",
+            "Value": "trans-1,3-Dichloropropene can be chemically hydrolyzed in moist soils to the corresponding 3-chloroalkyl alcohols, which is capable of ... /being biodegraded/ to carbon dioxide and water by a bacterium (Pseudomonas sp)."
+        },
+        {
+            "References": "USEPA; Ambient Water Quality Criteria Doc: Dichloropropanes/Dichloropropenes (Draft) p.A-1 (1980)",
+            "Value": "The cis and trans isomers of 1,3-dichloropropene have undergone biodehalogenation by a Pseudomonas species isolated from ... soil."
+        },
+        {
+            "References": "(1) Van Dijk H; Agro-Ecosystems 1: 193-204 (1974) (2) Roberts TR, Stoydin G; Pestic Sci 7: 325-35 (1976) (3) Tomlin CDS; The Pesticide Manual, 11th ed. Farnham, UK: British Crop Protection Council p. 366 (1997) (4) Chung KY et al; J Environ Sci Health B34: 749-68 (1999)",
+            "Value": "Cis- and trans-1,3-dichloropropene disappeared in sandy soils (15-20 \u00b0C, closed containers) at a rate of 2.5-3%/day (with an avg half-life of 24 days)(1). In clay containing soils, the disappearance rate was higher than or equal to 25% per day at 20 \u00b0C(1). Twelve weeks after radiolabeled trans-1,3-dichloropropene was added to soil and stored in sealed containers, 18% remained in sandy loam and 22% remained in medium loam (2). After 20 weeks, 4% remained in sandy loam and 14% remained in the medium loam. The primary degradation product was trans-3-chloroallyl alcohol. It was possible that some of the parent compound was lost by volatilization(2). The half-life of 1,3-dichloropropene (cis and trans isomers) in 13 aerobic soils at 20 \u00b0C ranged from 6-17 days(3). The average half-life in anaerobic soils was reported as 8.4 days at 15 \u00b0C and 2.4 days at 25 \u00b0C(3). trans-1,3-Dichloropropene was biodegraded in soil samples obtained from a farm in northern Florida(4). The half-lives ranged from about 4-14 days depending upon the depth of the soil and whether the soil had previously been treated with 1,3-dichloropropene(4). In general, it was determined that soils previously treated had enhanced degradation rates in comparison to soil that had never been treated with 1,3-dichloropropene."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium, 11 th ed., British Crop Protection Council, Surrey, England 1997, p. 366",
+            "Value": "log Kow= 2.03"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:1912322",
+            "Value": "Molecular orbital calculations were used to clarify the mechanism of mutagenic action of various substituted allyl chlorides. Computed molecular properties were compared with experimental mutagenic potentials of these allylic cmpd. In agreement with the experiment, the computational results suggest that the primary mechanism of action involves the SN1 formation of allylic cations whih then react with nucleophilic centers of nucleic acid bases. The usefulness of computed propertiee in estimating the degree of alkylating activity and mutagenicity was evaluated. In general, stability of the allylic carbocation intermediate and the degree of charge delocalization in the allyl system correlate well with observed mutagenic potentials."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "Leistra M; J Agri Food Chem 18 (6): 1124-26 (1970)",
+            "Value": "An investigation was carried out on the distribution of cis- and trans-1,3-dichloropropene over the phases in soil with the purpose of obtaining data for mathematical models describing the movement of these fumigants in soil. The measurements included three types and were taken at 2, 11, and 20 \u00b0C. Concn in the vapor and water phases were measured with a gas chromatograph and the amount adsorbed was calculated. The adsorption isotherms appeared to be linear in the important concn range, with the trans isomer being adsorbed considerably stronger than the cis isomer. The value of the adsorption coefficient was proportional to the organic matter content in the soils. The amount adsorbed at a certain concn in the vapor at 2 \u00b0C was approximately 3 times higher than the amount adsorbed at 20 \u00b0C."
+        },
+        {
+            "References": "(1) Kenaga EE; Ecotoxicol Environ Safety 4: 26-38 (1980) (2) Hamaker JW, Thompson JM; pp. 49-144 in Organic Chem in the Soil Environ, Goring CAI, Hamaker JN, eds., Vol.I (1972) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The measured Koc of trans-1,3-dichloropropene in soil was 26(1). The average Koc for 3 soils with % organic carbon of 3.19, 10.4, and 55.1% was 28 for trans-1,3-dichloropropene(2). According to a classification scheme(3), these data suggest that trans-1,3-dichloropropene is expected to have very high mobility in soil."
+        }
+    ]
+}

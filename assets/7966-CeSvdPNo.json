@@ -1,0 +1,266 @@
+{
+    "_id": {
+        "$oid": "6682e89fc4e5dba5ffba2681"
+    },
+    "CID": {
+        "$numberInt": "7966"
+    },
+    "Name": "Cyclohexanol",
+    "IUPACName": "cyclohexanol",
+    "CanonicalSMILES": "C1CCC(CC1)O",
+    "Synonyms": [
+        "CYCLOHEXANOL",
+        "108-93-0",
+        "Cyclohexyl alcohol",
+        "1-Cyclohexanol",
+        "Hexahydrophenol",
+        "Hydrophenol",
+        "Hydroxycyclohexane",
+        "Hexalin",
+        "Adronal",
+        "Hydralin",
+        "Naxol",
+        "Adronol",
+        "Anol",
+        "Cicloesanolo",
+        "Cykloheksanol"
+    ],
+    "IsomericSMILES": "C1CCC(CC1)O",
+    "INCHI": "InChI=1S/C6H12O/c7-6-4-2-1-3-5-6/h6-7H,1-5H2",
+    "INCHIKEY": "HPXRVTGHNJAIIH-UHFFFAOYSA-N",
+    "Formula": "C6H12O",
+    "MolecularWeight": {
+        "$numberDouble": "100.16"
+    },
+    "Description": "Cyclohexanol is an alcohol that consists of cyclohexane bearing a single hydroxy substituent. The parent of the class of cyclohexanols. It has a role as a solvent. It is a secondary alcohol and a member of cyclohexanols.",
+    "XlogP": {
+        "$numberDouble": "1.2"
+    },
+    "Complexity": {
+        "$numberInt": "46"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Cyclohexanol. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Dec 9, 2010: https://www.ars-grin.gov/duke/",
+            "Value": "Plants containing cyclohexanol(1). ",
+            "Table": "[{'Genus species': 'Lycopersicon esculentum Miller', 'Common Name': 'Tomato', 'Concentration (ppm)': 'Not Quantified', 'Plant part': 'Fruit'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 24 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.0. Jan, 2009. Available from, as of March 29, 2010: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3.0 was calculated for cyclohexanol(SRC), using a log Kow of 1.23(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of March 29, 2010: https://www.safe.nite.go.jp/english/db.html. (2) Niemi GJ et al; Environ Toxicol Chem 6: 515-27 (1987) (3) Pitter P; Water Res 10: 231-5 (1976) (4) Babeu L, Vaishnav DD; J Indust Microbiol 2: 107-15 (1987) (5) Wagner R; Vom Wasser 47: 241-65 (1976)",
+            "Value": "AEROBIC: Cyclohexanol, present at 100 mg/L, reached 96% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1). A 5-day theoretical BOD of 74% was observed for cyclohexanol using the standard dilution technique and an acclimated sewage inoculum(2). A 96% removal was observed in 5 days in a test using a vigorous acclimated, activated sludge system(3). Another test gave a 57% of theoretical BOD after 5 days using an acclimated mixed microbial culture inocula(4). In an aqueous aerobic sewage die-away screening test, a theoretical BOD of 78% was observed after 5 days(5). These data suggest biodegradation will be an important environmental fate process(SRC)."
+        },
+        {
+            "References": "(1) Francis AJ; Environmental migration of long-lived radionuclides. Internat Atomic Energy Agency. Vienna, Austria. IAEA-SM-257/72. pp. 415-29 (1982) (2) Patel MD, Patel DR; Indian J Environ Health 19: 310-8 (1977)",
+            "Value": "AEROBIC: Aqueous aerobic screening tests with an inoculum of trench leachate from a low-level radioactive waste disposal site added to a medium consisting of filtered, sterilized leachate gave 49% and 17% removal of cyclohexanol (initial concentration 1.2 ppm) after 21 days with and without supplemental addition of ammonium nitrate, respectively(1). Cyclohexanol appears to be removable by biological treatment based upon the 98-99% reduction in BOD observed in tests of an acclimated activated sludge biological simulator treating caprolactam production waste that contained cyclohexanol, cyclohexanone, cyclohexanone oxime, and caprolactam(2)."
+        },
+        {
+            "References": "(1) Blotevogel KH, Butte W; pp. 883-7 in DECHEMA Biotechnol Conf, 3(Pt. B, Biochem. Eng., Environ Biotechnol., Recovery Bio-prod., Saf. Biotechnol), (1989)",
+            "Value": "ANAEROBIC: Cyclohexanol was identified as an intermediate in the anaerobic degradation of 4-nitrophenol, which completely mineralized in bacteria from industrial wastewater treatment sludge under methanogenic conditions(1). Therefore, cyclohexanol may biodegrade under methanogenic conditions(SRC)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 24",
+            "Value": "log Kow = 1.23"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Snyder, R. (ed.). Ethel Browning's Toxicity and Metabolism of Industrial Solvents. Second Edition. Volume 3 Alcohols and Esters. New York, NY: Elsevier, 1992., p. 203",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Cyclohexanol produces central nervous system effects in rabbits, including tremors, convulsions, /SRP: CNS depression/, lethargy and hypothermia. ... Oral exposure to lethal concn ... greater than 2.6 g/kg produces /SRP: CNS depression/ and loss of reflexes."
+        },
+        {
+            "References": "Browning, E. Toxicity and Metabolism of Industrial Solvents. New York: American Elsevier, 1965., p. 387",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ With oral admin ... it can cause lacrimation, diarrhea & mild convulsions, but with inhalation only a few mild convulsions occur. /CNS depression results/ ... if dosage is less than lethal, ... is recovered from 5.5 to 16 hr."
+        },
+        {
+            "References": "Browning, E. Toxicity and Metabolism of Industrial Solvents. New York: American Elsevier, 1965., p. 388",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... /Following/ ip injection of cyclohexanol ... appearance of polymorphonuclear leukocytosis /was noted/ ..."
+        },
+        {
+            "References": "Browning, E. Toxicity and Metabolism of Industrial Solvents. New York: American Elsevier, 1965., p. 387",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Even without direct contact of the vapor with the eyes, it can cause lacrimation in animals when applied to the skin as a constituent of soaps."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the Threshold Limit Values and Biological Exposure Indices. 5th ed. Cincinnati, OH: American Conference of Governmental Industrial Hygienists, 1986., p. 157",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Exposure at  ... 272 ppm caused slight conjunctival irritation and slight ear-vein distention. /Rabbits, Inhalations/"
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 4648",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ A transient decr in blood pressure of rabbits was observed ... following iv injection ..."
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 4646",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Oral admin of lethal doses of cyclohexanol (2.6 g or more/kg body wt) to rabbits caused severe vascular damage & extreme toxic effects with massive coagulation necrosis of myocardium, lung, liver, kidney & brain. ... Changes ... following cutaneous application ... /were very/ similar ... ."
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 4646",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Application of 10 mL of cyclohexanol upon intact skin of a rabbit for 1 hr on each of 10 successive days induced /CNS depression/ ... tremors, athetoid movements & hypothermia, together with necrosis, exudative ulceration & thickening of ... skin in area of contact. A number ... were fatally poisoned."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Cyclohexanol (108-93-0) p.32 (2000 CD-ROM edition). Available from, as of May 5, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rats (strain not identified) were given cyclohexanol by inhalation for 87 days, 24 hr/day, at dosages of 0.00061 - 0.000059 mg/L (0.15 ppm - 0.014 ppm). NOAEL: 0.000059 mg/L. Results: changes in tissue excitation interval (chronaxy) of flexor and extensor muscles, decrease in cholinesterase activity, increase in ascorbic acid levels in liver. No clinical symptoms observed, no deviations from normal weight gain, sulfhydryl groups in serum proteins, or ascorbic acid levels in brain. /Translated from German/"
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Cyclohexanol (108-93-0) p.33 (2000 CD-ROM edition). Available from, as of May 5, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rats (strain not given) were administered cyclohexanol 0.043 mg/L (10 ppm) by inhalation 5-6 hr/day for 100 days. Results: hypoxia, decreased serum copper, increased iron and nickel levels in the lungs and blood serum. /Translated from German/"
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Cyclohexanol (108-93-0) p.34 (2000 CD-ROM edition). Available from, as of May 5, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Sprague-Dawley rats were given 10 mg/L continuously in drinking water (approx. 0.83 mg/kg/day) for 30 days. A control group was given no treatment. No clinical symptoms were observed. Alcohol dehydrogenase activity in liver showed no significant difference from control group."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Cyclohexanol (108-93-0) p.34 (2000 CD-ROM edition). Available from, as of May 5, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Sprague-Dawley rats (12 per group) were given 455 mg/kg cyclohexanol in corn oil by gavage daily for 7 days. Controls were given vehicle only. Results: statistically significant difference in liver weights, no effect on kidneys and testicles, enhanced activity of liver enzymes biphenyl-4-hydroxylase, 7-ethyoxycoumarin-o-deethylase, and aniline-4-hydroxylase, no effect on protein levels of microsomal and cytosol fractions of liver. /Translated from German/"
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Cyclohexanol (108-93-0) p.35 (2000 CD-ROM edition). Available from, as of May 5, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Sprague-Dawley rats (5 animals per group) were given 400 mg/kg bw cyclohexanol in vehicle (not identified) ip for 2 weeks, 5 applications/week. Controls received vehicle only. Animals were not fed following final application (drinking water ad libitum), and 24 hr urines were collected. Results: no change in relative kidney weights, glomerular filtration rate, and renal plasma flow. /Translated from German/"
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Cyclohexanol (108-93-0) p.36 (2000 CD-ROM edition). Available from, as of May 5, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rabbits (strain not given, 4 animals per group) were administered cyclohexanol via inhalation 6 hr/day, 5 days/week for 10 weeks at dosages of 0.58, 1.09, and 4.0 mg/L (145, 272, and 997 ppm resp). Controls received no treatment. Blood chemistry was done weekly. At the end of the study animals were killed and examined macro- and microscopically for changes. Results: at 0.58 mg/L there were no clinical symptoms, minimal but distinct microscopic changes in the liver and kidneys; at 1.09 mg/L slight conjuctive irritation of the eye, mild degenerative damage to liver, kidneys, and heart; at 4.0 mg/L, 2/4 animals died, CNS depression, lethargy, conjunctive irritation, lacrimation, salivation, convulsions, weight loss. /Translated from German/"
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Cyclohexanol (108-93-0) p.36 (2000 CD-ROM edition). Available from, as of May 5, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rabbits (strain not given, 4 animals per group) were given cyclohexanol via inhalation 6 hr/day, 5 days/week for 5 weeks at a dosage of 4.93 mg/mL (1229 ppm). Animals were then observed for approx. 2 months. A control group received no treatment. Results: lethargy, CNS depression, disruption of motor coordination, conjunctive irritation, increased salivation, weight loss. 2/4 animals died. /Translated from German/"
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Cyclohexanol (108-93-0) p.37 (2000 CD-ROM edition). Available from, as of May 5, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ A rabbit (strain not given) received 1770 mg/kg bw, 10 mL/animal, applied to the skin twice daily for 0.5 hr. Only one animal was studied. Results: after the first application a slight toxic reaction was seen, but after the following applications hypothermia and CNS depression with tremors and restless movements were observed to increase hourly.  At the site of application ulcers and skin thickening were noted. The animal died 24 hr after the last application. /Translated from German/"
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Cyclohexanol (108-93-0) p.38 (2000 CD-ROM edition). Available from, as of May 5, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rabbits (strain not specified) were given 470 and 941 mg/kg bw/day (500 and 1000 uL/kg/day) sc for 10 days. Results: no significant changes in hematopoesis, no macroscopic organ changes. Histopathology: increased erythrocyte and leukocyte concentrations in bone marrow, no significant changes in spleen, lymph nodes, appendix, and kidneys. Slight atrophy of liver cells. /Translated from German/"
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Cyclohexanol (108-93-0) p.38 (2000 CD-ROM edition). Available from, as of May 5, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rhesus monkeys were administered 2.78 mg/mL (693 ppm) cyclohexanol via inhalation for 10 weeks, 6 hr/day, 5 days/week. Results: lethargy, conjunctive irritation; microscopically, barely noticeable changes in heart muscle, lung, liver, and kidneys (changes not specified). /Translated from German/"
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the Threshold Limit Values and Biological Exposure Indices. 5th ed. Cincinnati, OH: American Conference of Governmental Industrial Hygienists, 1986., p. 157",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ A concn of 145 ppm was ... near the maximal safe level for rabbits. ... After fifty 6 hr exposures there was scanty but definite evidence of toxic effects in the form of microscopic changes in liver & kidneys of rabbits."
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 4647",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Four rabbits were exposed to 4.00 mg/L (997 ppm) for 330 hr (6 hr/day, 5 days/wk). Percentage mortality 50. Signs of intoxication were: CNS depression, lethargy, conjunctival congestion & irritation, lacrimation, salivation, few convulsive movements. /From table/"
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 4646",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Toxic degenerative changes were found in brain, heart, liver, & kidneys of rabbits exposed repeatedly to concn of cyclohexanol in air ranging from 997 to 1229 ppm ... Similar but less severe changes ... seen in myocardium, liver, & kidneys of rabbits exposed to ... concn of 272 ppm in air ... ."
+        },
+        {
+            "References": "PMID:6264277",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In rats treated with ip cyclohexanol 200 mg/kg for less than or equal to 13 wk, no motor impairment, uncoordination, or ataxia were observed. All electrophysiological parameters tested were comparable to the control rats."
+        },
+        {
+            "References": "VORONIN AP, VA USOLTSEVA; SOVREM PROBL BIOKHIM DYKHANIYA KLIN, MATER VSES KONF 2ND; VOL I: 356 (1972)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Exposure of rats to cyclohexanol 43 mg/cu m, 5-6 hr/day for 100 days caused hypoxia. Decr in level of copper & slight incr in those of iron and nickel were found in lung & blood serum."
+        },
+        {
+            "References": "GONDRY E; J EUR TOXICOL 5 (4): 227 (1972)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Cyclohexanol in concn of 1% in mouse food slightly inhibits the growth of males and considerably inhibits that of females."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-1634  2007.",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Inhalation of \"high concentrations\" of cyclohexanol for 6 hours/day, 5 days/week for 5 to 11 weeks resulted in intoxication manifested by conjunctival irritation, lacrimation, salivation, incoordination, ... /CNS depression/, mild convulsions, and death in 50% of rabbits exposed at concentrations of 1229 ppm and 997 ppm for 150 and 300 hours, respectively. ... Toxic degenerative changes were found in the brain, heart, liver, and kidneys of the rabbits exposed at the 997 ppm and 1229 ppm concentrations. Rabbits exposed at a concentration of 145 ppm suffered only slight degenerative changes in the liver and kidneys."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-1634  2007.",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Repeated or prolonged contact of cyclohexanol with the skin of rabbits elicited temporary erythema and superficial sloughing of the skin when cyclohexanol as a 15% ointment was applied for 1 hour/day over a period of 10 days. Death, preceded by tremors, /CNS depression/, and hypothermia, occurred on the 11th day following initial skin application."
+        },
+        {
+            "References": "PMID:17393424",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/  In male Fisher 344 rats liver preneoplastic lesions were induced by N-nitrosodiethylamine (150 mg/kg) i.p., followed by the tumor promoter 2-acetylaminofluorene (2-AAF: 20 mg/kg) orally administered on three consecutive days before partial hepatectomy. The cyclohexanol administration in this hepatocarcinogenesis assay revealed that it has a strong tumor co-promoter potential. There is clear evidence that oxidative stress and the CYP2E1 are components of carcinogenesis. Although no changes in the lipid peroxidation levels were observed between treated and untreated animals, a significant increase in CYP2E1 expression was observed when cyclohexanol was administered 24 hr after the last 2-AAF dose. On the other hand, levels of the proliferation markers PCNA and Ki-67 were not increased after treatment with cyclohexanol, but a marked downregulation of the Bax proapoptotic protein was found exclusively in mitochondrial extracts of animals treated with cyclohexanol..."
+        },
+        {
+            "References": "PMID:17393424",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/In male Fisher 344 rats liver preneoplastic lesions were induced by N-nitrosodiethylamine (150 mg/kg) i.p., followed by the tumor promoter 2-acetylaminofluorene (2-AAF: 20 mg/kg) orally administered on three consecutive days before partial hepatectomy. The cyclohexanol administration in this hepatocarcinogenesis assay revealed that it has a strong tumor co-promoter potential. There is clear evidence that oxidative stress and the CYP2E1 are components of carcinogenesis. Although no changes in the lipid peroxidation levels were observed between treated and untreated animals, a significant increase in CYP2E1 expression was observed when cyclohexanol was administered 24 hr after the last 2-AAF dose. On the other hand, levels of the proliferation markers PCNA and Ki-67 were not increased after treatment with cyclohexanol, but a marked downregulation of the Bax proapoptotic protein was found exclusively in mitochondrial extracts of animals treated with cyclohexanol..."
+        },
+        {
+            "References": "EPA/Office of Pollution Prevention and Toxics; High Production Volume Information System (HPVIS) on Cyclohexanol (108-93-0). Available from, as of May 6, 2010: https://www.epa.gov/hpvis/index.html",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ 20 adult male gerbils and 20 male rats (strains not specified) were subcutaneously injected with 15 mg cyclohexanol/kg/day for a period of 21 and 37 days, respectively. A significant reduction in the weights of the testes, epididymides, seminal vesicles, and ventral prostate was detected ... Based on ... histological evaluation, ... spermatogenesis in both species was arrested. Recovery was not investigated. In another study, groups of 15 male rabbits received 25 mg cyclohexanol/kg/day by gavage for a period of 40 days. One group was allowed a 70 day recovery period following cessation of cyclohexanol administration. Similar to the preceding gerbil and rat findings, a significant reduction in the weights of the testis and epididymides was observed. Additionally, marked degenerative changes were noted upon microscopic examination of the testes. The changes were consistent with those previously described for the gerbil and the rat. Normal spermatogenesis was seen after 70 days following cessation of cyclohexanol treatment. The organ weights were also comparable to the controls. In a third study, male rats were given 455 mg cyclohexanol/kg/day by gastric intubation for 7 days. Cyclohexanol increased liver size and stimulated certain parameters of hepatic xenobiotic metabolism in the rat but had no effect on testis weight."
+        },
+        {
+            "References": "EPA/Office of Pollution Prevention and Toxics; High Production Volume Information System (HPVIS) on Cyclohexanol (108-93-0). Available from, as of May 6, 2010: https://www.epa.gov/hpvis/index.html",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ An Inhalation Combined Repeat Dose Toxicity Study and Reproduction/Developmental Toxicity Screening Study (OECD 422) in Sprague-Dawley rats. Controls received air only. The only modifications to the original OECD 422 reproductive protocol were an extension of the exposure period, a 4 week recovery period for 5 males/group, and sperm motility and concentration measurements. Rats were exposed by whole-body inhalation to cyclohexanol vapor at design exposure levels of 0, 50, 150, and 450 ppm (v/v), respectively. Male rats (15/group) were exposed 6 hours/day, 5 days/week for 16 weeks after which five males were selected for a 4-week recovery period. Female rats (1/group) for the reproductive component were exposed for 6 hr/day, 5 days/week for the first 10 weeks, and then 6 hr/day, 7 days/week for the next 6 weeks (during mating, gestation, and postpartum). After both males and females had been exposed to cyclohexanol for 10 weeks, the animals were cohabited, one repeat-dose male to one reproductive component female within the same treatment group, for up to 14 days. Females were allowed to deliver litters and maintain pups until Day 4 of lactation. Pups were euthanized and externally examined on Day 4 of lactation and the carcasses were discarded without further examination. Because of slight mortality seen at 450 ppm and concern about the effect of the additional stress during mating, the 450 ppm exposure level was lowered to 400 ppm at the beginning of the mating period (after 10 weeks exposure). Measurements on the animals included clinical signs, neurobehavioral observations, body weights, and food consumption. Complete necropsies were performed on all adult animals and specific organs and tissues were weighted and microscopically examined. Sperm motility and caudal epididymal concentration counts were performed for all males. Additionally, testicular sperm counts on the fresh tissue collected at necropsy were performed for the control and high exposure groups along with sperm morphology. Toward the end of the gestation period, females were examined twice daily for signs of parturition. Females were allowed to give birth. The duration of gestation was calculated and any difficulties occurring at parturition were recorded. The day on which all pups were delivered was designated as Day 0 of lactation. The litters were examined as soon as possible after delivery and parameters including litter size, number of stillborn and liveborn pups, and gross abnormalities were recorded. Pups were weighed, sexed, and examined for abnormalities on Days 0 and 4 of lactation. Any abnormal behavior observed in the pups was recorded daily. On Day 4 of lactation, the pups were euthanized, externally examined and discarded without further evaluation. The only compound-related effects seen occurred at the 450/400 ppm level and included a slight increased incidence of pregnancies with no viable pups at birth and lower F1 pup weights. NOAEL (parents, F0) 150 ppm; NOAEL (pups, F1) 150 ppm."
+        },
+        {
+            "References": "EPA/Office of Pollution Prevention and Toxics; High Production Volume Information System (HPVIS) on Cyclohexanol (108-93-0). Available from, as of May 6, 2010: https://www.epa.gov/hpvis/index.html",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Teratogenicity study in Sprague-Dawley rats. As part of a modified OECD Guideline 422 Study, a developmental toxicity screening study was conducted. The only modification to the original OECD 422 protocol was an expansion of the exposure period to 10 weeks prior to mating. After both males (15/exposure level) (from the Repeat Dose Component of the OECD 422 Study) and females (15/exposure level; separate group from the females in the Repeat Dose Component of the OECD 422 Study) had been exposed to cyclohexanol (0, 50, 150, and 4,501,400 ppm) for 10 weeks, the animals were cohabited, one repeat-dose male to one reproductive component female within the same treatment group, for up to 14 days. Females were then allowed to deliver their litter naturally and maintain their pups until Day 4 of lactation. Pups were then euthanized and externally examined on Day 4 of lactation and the carcasses were discarded without further examination. Because of slight mortality seen at 450 ppm and concern about the effect of the additional stress of mating, the 450 ppm exposure level was lowered to 400 ppm at the beginning of the mating period (i.e., after 10 weeks exposure). Measurements on the female rats included clinical signs, neurobehavioral observations, body weights and food consumption. Microscopic examination of organs and tissues was conducted on reproductive females at the termination of the study. Toward the end of the gestation period, females were examined twice daily for signs of parturition. Females were allowed to give birth naturally. The duration of gestation was calculated and any difficulties occurring at parturition were recorded. The day on which all pups were delivered was designated as Day 0 of lactation. The litters were examined as soon as possible after delivery and parameters including litter size, number of stillborn and liveborn pups, and gross abnormalities of the pups were recorded. Pups were weighed, sexed, and examined for abnormalities on Days 0 and 4 of lactation. Any abnormal behavior observed in the pups was recorded daily. On Day 4 of lactation, the pups were euthanized, externally examined, and discarded without further evaluation. the overall mean exposure levels were 50+9, 151+25,449+82 (10 weeks prior to mating) and 4,501,400 pprn (last 6 weeks of the study). The number of females that delivered litters in the 0, 50, 150 and 450/400 ppm groups were 14, 15, 15, and 10, respectively; each exposure group started with 15 female rats each. No adverse dose-related effect was evident during the premating, gestation or lactation periods relative to clinical observations, body weight, body weight gain, food consumption, reproductive and fertility parameters, and litter size data. Pup sex ratio and pup survival to Lactation Day 4 were also unaffected by treatment. Two of the 11 pregnancies (18.2%) in the 450/400 pprn group resulted in no viable pups at parturition. Lower mean pup weights were also seen at birth and at Postnatal Day 4 in this high exposure group. No evidence of terata was evident from the clinical examination of the pups. Microscopic examination of female rat organs and tissues at study termination was also unremarkable. It is important to note that in the repeated dose portion of this OECD 422 study, a slight mortality increase and prostration immediately post-exposure also occurred at the high exposure level. The NOEL for developmental toxicity in this study was considered to be 150 ppm. Female rats showed no adverse clinical signs and the pups showed no evidence of terata at any exposure level. At the highest exposure level (4,501,400 ppm), the only treatment- related effects were a slight increased incidence of pregnancies with no viable fetuses and lower pup weights."
+        },
+        {
+            "References": "PMID:540979",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Cyclohexanol 15 mg/kg, 21-37 days caused testicular atrophy, loss of type A spermatogonia, spermatocytes & spermatozoa (gerbil, rat). Seminiferous tubule & Leydig cell shrinkage occurred. RNA, protein, sialic acid & glycogen of testes, epididymides, & seminal vesicles decr."
+        },
+        {
+            "References": "PMID:540979",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Cyclohexanol 15 mg/kg, 21-37 days caused incr testicular cholesterol & alkaline phosphatase in rats & gerbils. Normal functioning of liver & kidney & general metabolic activities were revealed. Cyclohexanol did not damage vital organs but did induce antifertility state."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and  BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-1634  2007.",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Pregnant and nonpregnant mice were given 0.1%, 0.5%, or 1.0% cyclohexanol in the diet through gestation, lactation, and weaning for several generations. Growth and mortality of the animals were monitored. The 1.0% concentration produced a significant increase in mortality and growth of the offspring during the 21 days after birth. In TB strain mice, the percentage of mortality in first- and second-generation cyclohexanol-treated offspring was 14.1% and 53.5%, respectively, as compared with 11.9% for first and second generation controls. In first generation offspring of MNRI mice, the mortality of treated mice was 43.1%, while the mortality for the controls was 12.2%."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Cyclohexanol (108-93-0) p.35 (2000  CD-ROM edition). Available from, as of May 5, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Sprague-Dawley rats were given 400 mg/kg bw cyclohexanol in arachis oil ip twice daily, 5 days/week for 6 weeks. Controls received vehicle only. Results: electrophysiological and neuropathological examination revealed no trace of damage to the peripheral nervous system. /Translated from German/"
+        },
+        {
+            "References": "PMID:18277465",
+            "Value": "/GENOTOXICITY/ The effects of low doses of cyclohexanol exposure were studied in mouse bone marrow cells including chromosome aberrations (CA), micronucleus (MN) and sister chromatid exchanges (SCE) as biomarkers. Capillaries with a tested agent that was evaporated continuously were placed in an experimental chamber for six weeks. No clastogenic and/or aneugenic effect of CA and MN induction was observed. A significant elevation of induced damage was achieved in the SCE study (p < 0.001) that has confirmed the early exposure of cyclohexanol to mice."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Cyclohexanol (108-93-0) p.39 (2000  CD-ROM edition). Available from, as of May 5, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ Ames test, Salmonella typhimurium TA1535, TA1537, TA1538, TA98, with and without metabolic activation. Results: negative."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Cyclohexanol (108-93-0) p.39 (2000  CD-ROM edition). Available from, as of May 5, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ Ames test, Salmonella typhimurium TA1535, TA1537, TA98, TA100, with and without metabolic activation. Results: ambiguous"
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Cyclohexanol (108-93-0) p.40 (2000  CD-ROM edition). Available from, as of May 5, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ Sex-linked lethal recessive test in Drosophila, dosage: 1 mL/L, 3 days. Results: no effect on frequency of lethal mutations."
+        },
+        {
+            "References": "EPA/Office of Pollution Prevention and Toxics; High Production Volume Information System (HPVIS) on Cyclohexanol (108-93-0). Available from, as of May 6, 2010: https://www.epa.gov/hpvis/index.html",
+            "Value": "/GENOTOXICITY/ Ames test, bacterial reverse mutation assay in Salmonella typhimurium strains TA1535, TA1537, TA1538, TA98 with and without metabolic activation. Cyclohexanol concentrations were 500 - 10,000 ug/plate (without metabolic activation) and 15,000 ug/plate (with metabolic activation). Tests were negative except for equivocal results in TA98 without metabolic activation."
+        },
+        {
+            "References": "EPA/Office of Pollution Prevention and Toxics; High Production Volume Information System (HPVIS) on Cyclohexanol (108-93-0). Available from, as of May 6, 2010: https://www.epa.gov/hpvis/index.html",
+            "Value": "/GENOTOXICITY/ Drosophila melanogaster sex-linked recessive lethal assay. Cyclohexanol 0.1 mL/100 mL given to fruit flies for 3 days. Results: negative, the frequency of recessive lethal mutations was not affected by treatment with cyclohexanol, even when followed by gamma and x-ray (1500 Roentgens) irradiation."
+        },
+        {
+            "References": "EPA/Office of Pollution Prevention and Toxics; High Production Volume Information System (HPVIS) on Cyclohexanol (108-93-0). Available from, as of May 6, 2010: https://www.epa.gov/hpvis/index.html",
+            "Value": "/GENOTOXICITY/ Micronucleus assay. NMRI mice, male and female, were given cyclohexanol via gavage at dosages of 500, 1000, and 1500 mg/kg bw for 24 hr (low dose) or 16, 24, and 48 hr (high dose). Test substance was suspended in an aqueous 0.5% carboxymethyl cellulose solution. Negative controls received vehicle only. Dose sizes were 10 mL. 1000 polychromatic erythrocytes were evaluated for micronuclei per animal. Results: negative."
+        },
+        {
+            "References": "PMID:19857567",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ The purpose of this study was to determine whether depth of injury (DOI) could be measured objectively by fluorescent staining for biomarkers of cell death and viability using an ex vivo isolated rabbit eye (IRE) test. A panel of nine materials characterized by in vivo DOI were selected that caused slight (3% acetic acid and 5% SDS), mild (acetone, sodium hypochlorite and 10% acetic acid), moderate (cyclohexanol and parafluoroanaline) and severe (8% sodium hydroxide and 10% benzalkonium chloride) irritation. Materials were then tested using a modified IRE test with 3h recovery and then processed for cyrosectioning and staining using a TUNEL assay to detect cell death, phalloidin to detect intracellular f-actin and DAPI staining to detect nuclei. Control eyes treated with water showed intense phalloidin staining of the corneal epithelium and stromal keratocytes but no TUNEL labeling. In general, eyes treated with mild, moderate and severe irritants showed regions of TUNEL labeled epithelial and keratocyte nuclei with no phalloidin stain overlying phalloidin stained, undamaged cells. DOI measurements showed that slight irritants damaged<40% of the epithelium, mild and moderate irritants damaged>50% of the epithelium, extending at times into the anterior stroma (<20%), and the severe irritant damaged>50% of the stroma. Regression analysis between ex vivo and in vivo DOI showed a significant (p<0.007) correlation (r=0.785). These data suggest that fluorescent staining of fixed and sectioned tissue using biomarkers can be used to objectively identify the depth of injury caused by ocular irritants."
+        },
+        {
+            "References": "PMID:8684399",
+            "Value": "/OTHER TOXICITY INFORMATION/ The S-9 fraction obtained from rats orally pretreated for 3 days with cyclohexanol was able to activate the pro-mutagen N-nitrosodimethylamine (NDMA) into highly mutagenic metabolite(s) detected in the TA100 strain of Salmonella typhimurium. NDMA was not mutagenic when uninduced S-9 was used as metabolic source but was approximately twice more mutagenic with cyclohexanol-induced S-9 compared to ethanol-induced S-9. Separation of microsomal proteins by sodium dodecylsulfate gel electrophoresis, displayed protein bands situated in the range of 50,000 to 52,000 molecular weight induced by both, ethanol and cyclohexanol. These results are evidence of the induction properties of cyclohexanol."
+        },
+        {
+            "References": "PMID:11682644",
+            "Value": "/OTHER TOXICITY INFORMATION/ Cyclohexanol (CH) is an industrial solvent capable of inducing cytochrome P450 (CYP) enzymes including the CYP2E and CYP2B subfamilies. S9 from CH treated rats is able to activate several N-nitrosamines that are poorly activated by Aroclor 1254, phenobarbital/beta-naphthoflavone (PB/NF) or 3-methylcholanthrene S9 fractions into mutagens detected by the Salmonella typhimurium Ames test. Additionally, albendazole (ABZ) is a widely used anthelmintic drug and a potent inducer of the CYP1A subfamily. Since CYP1A, -2B and -2E subfamilies are implicated in the activation of several environmental mutagens/carcinogens, ...  /CYP induced in rat liver by CH and ABZ was used/ in the Salmonella/microsome assay to compare with S9 obtained from Aroclor or PB/NF treated rats. ... Quantitative but not qualitative differences in the CYP subfamilies /were/ present in the different microsomal fractions; all of the chemicals used increased the levels of CYP1A1/2, CYP2B1/2 and CYP2E1 with respect to control microsomes. CYP3A was not modified by the different treatments. When tested in the Ames test, Aroclor S9 and PB/NF S9 were the most effective in the activation of benzo[a]pyrene and 3-methylcholanthrene which are metabolized mainly by CYP1A1; additionally, the highest mutagenic potency of 2-aminofluorene and N-nitrosodipropylamine, which are activated by CYP1A2 and CYP2B, respectively, were obtained with PB/NF S9. All these compounds were also activated when CH/ABZ S9 was used as the exogenous source of metabolism. Mutagens like N-nitrosopyrrolidine and N-nitrosodimethylamine, activated by CYP2E1, were detected only when CH/ABZ S9 was used, and the effectiveness of the different S9 fractions in activating cyclophosphamide decreased in the following order: Aroclor = PB/NF > CH/ABZ > control. From these experiments we can conclude that the individual CYP- inducing properties of ABZ and CH complement each other when the two compounds are administered in conjunction and that the resulting S9 fraction is able to activate several known mutagens in the Ames test."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 24 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.0. Jan, 2009. Available from, as of March 29, 2010: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm. (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of cyclohexanol is estimated as 11(SRC), using a log Kow of 1.23(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that cyclohexanol is expected to have very high mobility in soil."
+        }
+    ]
+}

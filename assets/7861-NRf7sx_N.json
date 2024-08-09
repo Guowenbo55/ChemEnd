@@ -1,0 +1,84 @@
+{
+    "_id": {
+        "$oid": "6682e894c4e5dba5ffba264e"
+    },
+    "CID": {
+        "$numberInt": "7861"
+    },
+    "Name": "Vinyl methyl ether",
+    "IUPACName": "methoxyethene",
+    "CanonicalSMILES": "COC=C",
+    "Synonyms": [
+        "Methyl vinyl ether",
+        "Methoxyethene",
+        "Ethene",
+        "methoxy-",
+        "107-25-5",
+        "VINYL METHYL ETHER",
+        "Methoxyethylene",
+        "Ether",
+        "methyl vinyl",
+        "9003-09-2",
+        "1-Methoxyethylene",
+        "Agrisynth MVE",
+        "Ether",
+        "ethenyl methyl",
+        "CCRIS 8972",
+        "HSDB 1033",
+        "EINECS 203-475-4",
+        "UNII-G2OHX46576"
+    ],
+    "IsomericSMILES": "COC=C",
+    "INCHI": "InChI=1S/C3H6O/c1-3-4-2/h3H,1H2,2H3",
+    "INCHIKEY": "XJRBAMWJDBPFIM-UHFFFAOYSA-N",
+    "Formula": "C3H6O",
+    "MolecularWeight": {
+        "$numberDouble": "58.08"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "0.8"
+    },
+    "Complexity": {
+        "$numberInt": "17"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of March 19, 2018: https://www2.epa.gov/tsca-screening-tools/ (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for vinyl methyl ether(SRC), using an estimated log Kow of 0.42(1) and a regression-derived equation(1). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is low."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Toxikologische Bewertung. Heidelberg, Berufsgenossenschaft der chemischen Industrie Vol: 63 (1992)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Rats tolerate repeated inhalation of 2000 ppm (4.7 mg/L, 15 times 6 hours) without any symptoms and findings."
+        },
+        {
+            "References": "Toxikologische Bewertung. Heidelberg, Berufsgenossenschaft der chemischen Industrie Vol: 63 (1992)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ According to earlier studies, vinyl methyl ether does not produce inflammatory changes in either the skin or eyes of rabbits."
+        },
+        {
+            "References": "Toxikologische Bewertung. Heidelberg, Berufsgenossenschaft der chemischen Industrie Vol: 63 (1992)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In two 28-day inhalation studies with concentrations of 0, 500, 3500 and 25,000 ppm and 0,150, 500 and 1500 ppm (0, 1.19, 8.3 and 59.3 mg/L and 0, 0.36, 1.2 and 3.6 mg/L), restlessness, reduction in body weight gain and an increase in relative weight of the liver are observed at 25,000 ppm (59.3 mg/L). In the male rats, an increase in prothrombin time and a reduction in total protein occurs at higher concentrations. ... Following inhalation of 25,000 ppm (59.3 mg/L), atrophy in the region of the olfactory epithelium is observed on histological examination of the nasal mucosae. No other histopathological changes are observed. In the 28-day inhalation study, 1500 ppm (3.6 mg/L) is given as the no effect level for male rats and 3500 ppm (8.3 mg/L) for female rats."
+        },
+        {
+            "References": "PMID:7513814",
+            "Value": "/GENOTOXICITY/ ... Mutagenicity tests of 14 compounds and 1,3-butadiene on S. typhimurium TA98, TA100, TA1535 and TA1537, and E. coli WP2 uvrA were also examined by the developed gas exposure method. 1,3-Butadiene, propyne (methyl acetylene), monochlorodifluoromethane, ethylchloride, diborane and silane were mutagenic. 1-Butene, 2-butene, 2-methylpropene, methyl vinyl ether, trichlorofluoromethane, dichlorodifluoromethane, 1,2-dichloro-1,1,2,2-tetrafluoroethane, 1,1-difluoroethane and phosphine were not mutagenic on S. typhimurium TA98, TA100, TA1535 and TA1537, and E. coli WP2 uvrA with or without metabolic activation. These results were compatible with a previous report, and this developed method has the advantage that it can be tested easily and safely for combustible and self-combustible substances such as 1,3-butadiene and silane."
+        },
+        {
+            "References": "Toxikologische Bewertung. Heidelberg, Berufsgenossenschaft der chemischen Industrie Vol: 63 (1992)",
+            "Value": "/GENOTOXICITY/ In the micronucleus test in mice, vinyl methyl ether did not produce a clastogenic effect following inhalation of 25,000 ppm (59.3 mg/L) 5 times."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of March 19, 2018: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of vinyl methyl ether can be estimated to be 5(SRC). According to a classification scheme(2), this estimated Koc value suggests that vinyl methyl ether is expected to have very high mobility in soil."
+        }
+    ]
+}

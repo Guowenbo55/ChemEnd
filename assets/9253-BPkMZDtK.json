@@ -1,0 +1,103 @@
+{
+    "_id": {
+        "$oid": "6682e8d4c4e5dba5ffba278e"
+    },
+    "CID": {
+        "$numberInt": "9253"
+    },
+    "Name": "CYCLOPENTANE",
+    "IUPACName": "cyclopentane",
+    "CanonicalSMILES": "C1CCCC1",
+    "Synonyms": [
+        "CYCLOPENTANE",
+        "287-92-3",
+        "Pentamethylene",
+        "ciclopentano",
+        "cyclopentan",
+        "Zyklopentan",
+        "T86PB90RNU",
+        "DTXSID6024886",
+        "CHEBI:23492",
+        "MFCD00001356",
+        "NSC-60213",
+        "68476-56-2",
+        "HSDB 62",
+        "EINECS 206-016-6",
+        "NSC 60213"
+    ],
+    "IsomericSMILES": "C1CCCC1",
+    "INCHI": "InChI=1S/C5H10/c1-2-4-5-3-1/h1-5H2",
+    "INCHIKEY": "RGSFGYAAUTVSQA-UHFFFAOYSA-N",
+    "Formula": "C5H10",
+    "MolecularWeight": {
+        "$numberDouble": "70.13"
+    },
+    "Description": "Cyclopentane is a cycloalkane that consists of five carbons each bonded with two hydrogens above and below the plane. The parent of the class of cyclopentanes. It has a role as a non-polar solvent. It is a member of cyclopentanes, a cycloalkane and a volatile organic compound.",
+    "XlogP": {
+        "$numberDouble": "3"
+    },
+    "Complexity": {
+        "$numberInt": "11"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 14 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Sept 29, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm/ (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 44 was calculated in fish for cyclopentane(SRC), using a log Kow of 3(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Jamison VW et al; pp. 187-96 in Proc Int Biodeg Symp 3rd Sharpley JM, Kapalan AM eds Essex Eng (1976) (2) Brakstad OG; Biodegradation of oil compounds in seawater and in subtidal seabed sediments. AMOS Report No. 2 (2000)",
+            "Value": "AEROBIC: Mixed populations of microorganisms from groundwater contaminated with gasoline did not biodegrade cyclopentane; cyclopentane had an initial concentration of 0.17 ppm in the gasoline mixture, and after 192 hours the concentration was 0.04 ppm. However, the concentration of the control was 0.05 ppm(1). A mixture of C5-saturates, including cyclopentane, had a half-life of 2.4 days in seawater and a water accommodated fraction (WAF)(2)."
+        },
+        {
+            "References": "(1) Beam, HW, Perry JJ; J Gen Microb 82: 163-9 (1974) (2) Perry, JJ; The Role of Co-oxidation and Commensalism in the Biodegradation of Recalcitrant Molecules. NTIS PB-80-28-034 US Army Res Off pp. 21 (1980)",
+            "Value": "PURE CULTURE: Pure culture studies utilizing soil bacteria Mycobacterium rhodocrous, M. vaccae, M. strain job305, M. convolutum and Nocardia asteroides(1) as well as Azobacter vinelandii and Pseudomonas putida(2) were unable to utilize 14C-labeled cyclopentane as a carbon source(1,2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 14",
+            "Value": "log Kow = 3.00"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:6875965",
+            "Value": "The effects of the n-alkanes propane to hexane, cyclopropane, cyclopentane and cyclohexane and carbon tetrachloride on the ionic currents and electrical capacity of the squid giant axon membrane have been examined. Both the peak inward and steady-state outward currents were reduced reversibly by each substance, though propane at 1 atm had very little effect. The membrane capacity at 100 kHz was reduced by all substances except propane at 1 atm. ..."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 157",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In the mice there is no safety margin between minimal CNS depressant concentration, loss of reflexes, and lethality, which all occurred at 110 mg/L. When ingested, there is a low to moderate aspiration hazard in mice. ..."
+        },
+        {
+            "References": "Brown VK, Box VL; Br J Dermatol 85 (5): 432-6 (1971)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ When applied to guinea pig skin, undiluted alicyclic hydrocarbons cause morphological changes (epidermal thickening) and alter epidermal soluble arginase activity. For both changes, the changes were in the sequence: cyclooctane > cycloheptane > cyclohexane and cyclopentane. For the three undiluted alicyclic alkanes after 3 applications on alternate days, skin irritancy assessed by gross observation of the skin of guinea pigs was slight, with erythema and dry appearance."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 157",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Inhalation of 8110 mg/L 6 hr per day for 12 weeks results in decreased body weight gains in female rats."
+        },
+        {
+            "References": "PMID:6875965",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ The effects of the n-alkanes propane to hexane, cyclopropane, cyclopentane and cyclohexane and carbon tetrachloride on the ionic currents and electrical capacity of the squid giant axon membrane have been examined. Both the peak inward and steady-state outward currents were reduced reversibly by each substance, though propane at 1 atm had very little effect. The membrane capacity at 100 kHz was reduced by all substances except propane at 1 atm. Na currents were recorded in intracellularly perfused axons before and during exposure to the hydrocarbons and the records were fitted with equations similar to those proposed by Hodgkin & Huxley (1952). Shifts in the curves of the steady-state activation and inactivation parameters (m infinity and h infinity) against membrane potential, changes in the peak heights of the activation and inactivation time constants (tau m and tau h) and reductions in the maximum Na conductance (gNa) have been tabulated. The effects of the various hydrocarbons and carbon tetrachloride on the parameters of the Hodgkin-Huxley equations suggest that the suppression of the Na current by these substances originates from several different phenomena. The underlying physico-chemical events are considered in the light of the observed capacity changes and of information on artificial pore-containing membranes."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Whelan JK et al; Geochim Cosmochim Acta 44: 1767-85 (1980)",
+            "Value": "SEDIMENT: Cyclopentane was detected in 4 of 4 sediment samples of 4-8, 28-32, 52-56, and 76-80 cm deep from Walvis Bay of the Namibian shelf of SW Africa at concentrations of 2.1, 1.8, 0.61 and 1.1 ng/g(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society p. 14 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Sept 29, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.ht (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of cyclopentane is estimated as 401(SRC), using a log Kow of 3(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that cyclopentane is expected to have moderate mobility in soil."
+        }
+    ]
+}

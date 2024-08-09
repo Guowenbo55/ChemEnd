@@ -1,0 +1,75 @@
+{
+    "_id": {
+        "$oid": "669270f6303528b49832d760"
+    },
+    "CID": {
+        "$numberInt": "56160"
+    },
+    "Name": "Chlorimuron-ethyl",
+    "IUPACName": "ethyl 2-[(4-chloro-6-methoxypyrimidin-2-yl)carbamoylsulfamoyl]benzoate",
+    "CanonicalSMILES": "CCOC(=O)C1=CC=CC=C1S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)Cl)OC",
+    "Synonyms": [
+        "CHLORIMURON-ETHYL",
+        "Chlorimuron ethyl",
+        "90982-32-4",
+        "Chlorimuron ethyl ester",
+        "Classic",
+        "Caswell No. 193B",
+        "Chlorimuron-ethyl [ISO]",
+        "Ethyl 2-(N-((4-chloro-6-methoxypyrimidin-2-yl)carbamoyl)sulfamoyl)benzoate",
+        "ethyl 2-[(4-chloro-6-methoxypyrimidin-2-yl)carbamoylsulfamoyl]benzoate",
+        "B00AW0IM5Q",
+        "2-[[[[(4-CHLORO-6-METHOXY-2-PYRIMIDINYL)AMINO]CARBONYL]AMINO]SULFONYL]BENZOIC ACID ETHYL ESTER",
+        "CHEMBL1231791",
+        "DTXSID0023955",
+        "Benzoic acid",
+        "2-(((((4-chloro-6-methoxy-2-pyrimidinyl)amino)carbonyl)amino)sulfonyl)-",
+        "ethyl ester",
+        "ethyl 2-[(4-chloro-6-methoxy-pyrimidin-2-yl)carbamoylsulfamoyl]benzoate"
+    ],
+    "IsomericSMILES": "CCOC(=O)C1=CC=CC=C1S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)Cl)OC",
+    "INCHI": "InChI=1S/C15H15ClN4O6S/c1-3-26-13(21)9-6-4-5-7-10(9)27(23,24)20-15(22)19-14-17-11(16)8-12(18-14)25-2/h4-8H,3H2,1-2H3,(H2,17,18,19,20,22)",
+    "INCHIKEY": "NSWAMPCUPHPTTC-UHFFFAOYSA-N",
+    "Formula": "C15H15ClN4O6S",
+    "MolecularWeight": {
+        "$numberDouble": "414.8"
+    },
+    "Description": "Chlorimuron-ethyl is an ethyl ester resulting from the formal condensation of the carboxy group of chlorimuron with ethanol. A proherbicide for chloimuron, it is used as herbicide for the control of broad-leaved weeds in peanuts, soya beans, and other crops. It has a role as a proherbicide, an EC 2.2.1.6 (acetolactate synthase) inhibitor and an agrochemical. It is a sulfamoylbenzoate, a N-sulfonylurea, an aromatic ether, an ethyl ester, an organochlorine pesticide and a member of pyrimidines. It is functionally related to a chlorimuron. It is a conjugate acid of a chlorimuron-ethyl(1-).",
+    "XlogP": {
+        "$numberDouble": "2.7"
+    },
+    "Complexity": {
+        "$numberInt": "628"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The uptake, translocation, and metabolism of the ethyl ester of chlorimuron in three soybean cultivars and two morningglory species was investigated. Soybean used included the normal cultivars \u2018Vance\u2019 and \u2018Essex,\u2019 and the sulfonylurea-resistant cultivar \u2018W-20.\u2019 Entireleaf morningglory and pitted morningglory, both moderately tolerant to chlorimuron, were used. Twenty-day-old seedlings of all plant species were exposed to root-applied 14C-labeled chlorimuron for 6, 24, and 72 h. After 24 and 72 h, chlorimuron uptake was lowest in W-20 soybean and the two morningglory species. Translocation of root-absorbed chlorimuron to shoots and leaves of all species was limited and it did not differ among species. The moderate tolerance of pitted and entireleaf morningglories to chlorimuron may be due to reduced herbicide uptake. The response of Essex and Vance soybean to chlorimuron was related to herbicide metabolism. At 6 h after treatment with radiolabeled chlorimuron, Essex soybean metabolized the herbicide more rapidly than either W-20 or Vance soybean. At 24 h and 72 h, Essex and Vance soybean metabolized chlorimuron to the same extent. W-20 was not very efficient in metabolizing chlorimuron at any time after treatment and its resistance to chlorimuron is due to an altered target site.",
+            "reference": "Moseley, C., Hatzios, K. K., & Hagood, E. S. (1993). Uptake, translocation, and metabolism of chlorimuron in soybean (Glycine max) and morningglory (Ipomoea spp.). Weed Technology, 7(2), 343-348.",
+            "method": {
+                "Test Plant": "Soybean cultivars (W-20, Essex, Vance) and morning glory species (entireleaf and pitted).",
+                "Apply Location": "Root application.",
+                "Plant Grown Condition": "Grown in 4-L styrofoam pots with Ross silt loam soil (pH 5.9, 2.0% organic matter) in a greenhouse at 25 \u00b1 5 \u00b0C, 16-h photoperiod, and 550 \u00b5mol/m\u00b2/s PPFD. Watered daily and fertilized weekly.",
+                "Chemical Preparation": "Chlorimuron ethyl ester used in various forms (formulated, analytical, radiolabeled) with 99% purity and 309 kBq/mg specific activity. Herbicide application rates were 52 g/ha PRE and 13 g/ha POST, with a CO2-pressurized sprayer delivering 210 L/ha at 220 kPa.",
+                "Pesticide Application Details for the Plant": "Nonionic surfactant added at 0.5% of spray volume in POST applications. Growth response treatments applied soil PRE at 52 g/ha and POST at 13 g/ha.",
+                "Other Information and Other Information": "Studies used a completely randomized design with four replications, repeated twice. Absorption and translocation studies used a hydroponic system with full-strength Hoagland's solution."
+            },
+            "result": "[{\"Plant\": \"W-20\", \"Hours after application\": 72, \"Roots (% of absorbed)\": 84.61, \"Shoots (% of absorbed)\": 15.95}, {\"Plant\": \"Essex\", \"Hours after application\": 72, \"Roots (% of absorbed)\": 85.74, \"Shoots (% of absorbed)\": 14.81}, {\"Plant\": \"Vance\", \"Hours after application\": 72, \"Roots (% of absorbed)\": 87.05, \"Shoots (% of absorbed)\": 13.14}, {\"Plant\": \"IPOHE\", \"Hours after application\": 72, \"Roots (% of absorbed)\": 82.73, \"Shoots (% of absorbed)\": 17.77}, {\"Plant\": \"IPOLA\", \"Hours after application\": 72, \"Roots (% of absorbed)\": 78.61, \"Shoots (% of absorbed)\": 21.85}]"
+        },
+        {
+            "content": "The uptake, translocation, and metabolism of the ethyl ester of chlorimuron in three soybean cultivars and two momingglory species was investigated. Soybean used included the normal cultivars 'Vance' and 'Essex,' and the sulfonylurea-resistant cultivar 'W-20.' Entireleaf momingglory and pitted momingglory, both moderately tolerant to chlorimuron, were used. Twenty-day-old seedlings of all plant species were exposed to root-applied 14C-labeled chlorimuron for 6, 24, and 72 h. After 24 and 72 h, chlorimuron uptake was lowest in W-20 soybean and the two momingglory species. Translocation of root-absorbed chlorimuron to shoots and leaves of all species was limited and it did not differ among species. The moderate tolerance of pitted and entireleaf momingglories to chlorimuron may be due to reduced herbicide uptake. The response of Essex and Vance soybean to chlorimuron was related to herbicide metabolism. At 6 h after treatment with radiolabeled chlorimuron, Essex soybean metabolized the herbicide more rapidly than either W-20 or Vance soybean. At 24 h and 72 h, Essex and Vance soybean metabolized chlorimuron to the same extent. W-20 was not very efficient in metabolizing chlorimuron at any time after treatment and its resistance to chlorimuron is due to an altered target site.",
+            "reference": "Moseley, Carroll; Hatzios, Kriton K.; Hagood, Edward S.(1993). Uptake, Translocation, and Metabolism of Chlorimuron in Soybean (Glycine max) and Morningglory (Ipomoea spp.). Weed Technology, 7(2), 343\u2013348.doi:10.1017/s0890037x00027706\u00a0    ",
+            "method": {
+                "Test Plant": "Soybean (Three cultivars: W-20, Essex, and Vance)",
+                "Apply Location": "Soil application (PRE and POST)",
+                "Plant Grown Condition": "Grown in 4-L styrofoam pots with steam-sterilized Ross silt loam soil, pH 5.9, 2.0% organic matter, greenhouse conditions (temperature 25 \u00b1 5\u00b0C, 16-h photoperiod, PPFD approximately 550 \u00b5mol m-2 s-1)",
+                "Chemical Preparation": "Formulated, analytical, and radiolabeled samples of the ethyl ester of chlorimuron; Radiochemical purity of uniformly phenyl-14C-labeled chlorimuron was 99%, specific activity 309 kBq mg-1",
+                "Pesticide Application Details for the Plant": "Chlorimuron applied to soil PRE at 52 g L-1 and then POST at 13 g ha-1 when soybean seedlings were at the two to three trifoliate leaf stage. Nonionic surfactant included at 0.5% of the spray volume in the POST application of chlorimuron",
+                "Other Information": "Treatments replicated four times, study repeated twice in time; Completely randomized design with two replications for absorption and translocation studies"
+            },
+            "result": "[{\"Exposure\": \"72 hours\", \"Treatment\": \"W-20\", \"Absorbed (dpm/mg)\": 6300, \"Shoots (%)\": 15, \"Roots (%)\": 82}, {\"Exposure\": \"72 hours\", \"Treatment\": \"Essex\", \"Absorbed (dpm/mg)\": 9100, \"Shoots (%)\": 15, \"Roots (%)\": 83}, {\"Exposure\": \"72 hours\", \"Treatment\": \"Vance\", \"Absorbed (dpm/mg)\": 9000, \"Shoots (%)\": 14, \"Roots (%)\": 84}, {\"Exposure\": \"72 hours\", \"Treatment\": \"IPOHE\", \"Absorbed (dpm/mg)\": 5800, \"Shoots (%)\": 18, \"Roots (%)\": 80}, {\"Exposure\": \"72 hours\", \"Treatment\": \"IPOLA\", \"Absorbed (dpm/mg)\": 5700, \"Shoots (%)\": 21, \"Roots (%)\": 78}]"
+        }
+    ]
+}

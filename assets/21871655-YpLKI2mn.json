@@ -1,0 +1,48 @@
+{
+    "_id": {
+        "$oid": "66927121303528b49832d807"
+    },
+    "CID": {
+        "$numberInt": "21871655"
+    },
+    "Name": "15-[5-(Dimethylamino)-6-methyloxan-2-yl]oxy-19-ethyl-4,14-dimethyl-7-(3,4,5-trimethoxy-6-methyloxan-2-yl)oxy-20-oxatetracyclo[10.10.0.02,10.05,9]docosa-3,11-diene-13,21-dione;15-[5-(dimethylamino)-6-methyloxan-2-yl]oxy-19-ethyl-14-methyl-7-(3,4,5-trimethoxy-6-methyloxan-2-yl)oxy-20-oxatetracyclo[10.10.0.02,10.05,9]docosa-3,11-diene-13,21-dione",
+    "IUPACName": "15-[5-(dimethylamino)-6-methyloxan-2-yl]oxy-19-ethyl-4,14-dimethyl-7-(3,4,5-trimethoxy-6-methyloxan-2-yl)oxy-20-oxatetracyclo[10.10.0.02,10.05,9]docosa-3,11-diene-13,21-dione;15-[5-(dimethylamino)-6-methyloxan-2-yl]oxy-19-ethyl-14-methyl-7-(3,4,5-trimethoxy-6-methyloxan-2-yl)oxy-20-oxatetracyclo[10.10.0.02,10.05,9]docosa-3,11-diene-13,21-dione",
+    "CanonicalSMILES": "CCC1CCCC(C(C(=O)C2=CC3C4CC(CC4C=CC3C2CC(=O)O1)OC5C(C(C(C(O5)C)OC)OC)OC)C)OC6CCC(C(O6)C)N(C)C.CCC1CCCC(C(C(=O)C2=CC3C4CC(CC4C(=CC3C2CC(=O)O1)C)OC5C(C(C(C(O5)C)OC)OC)OC)C)OC6CCC(C(O6)C)N(C)C",
+    "Synonyms": [
+        "CHEMBL4747161"
+    ],
+    "IsomericSMILES": "CCC1CCCC(C(C(=O)C2=CC3C4CC(CC4C=CC3C2CC(=O)O1)OC5C(C(C(C(O5)C)OC)OC)OC)C)OC6CCC(C(O6)C)N(C)C.CCC1CCCC(C(C(=O)C2=CC3C4CC(CC4C(=CC3C2CC(=O)O1)C)OC5C(C(C(C(O5)C)OC)OC)OC)C)OC6CCC(C(O6)C)N(C)C",
+    "INCHI": "InChI=1S/C42H67NO10.C41H65NO10/c1-11-26-13-12-14-35(53-37-16-15-34(43(6)7)24(4)49-37)23(3)38(45)33-20-31-29(32(33)21-36(44)51-26)17-22(2)28-18-27(19-30(28)31)52-42-41(48-10)40(47-9)39(46-8)25(5)50-42;1-10-26-12-11-13-34(52-36-17-16-33(42(5)6)23(3)48-36)22(2)37(44)32-20-30-28(31(32)21-35(43)50-26)15-14-25-18-27(19-29(25)30)51-41-40(47-9)39(46-8)38(45-7)24(4)49-41/h17,20,23-32,34-35,37,39-42H,11-16,18-19,21H2,1-10H3;14-15,20,22-31,33-34,36,38-41H,10-13,16-19,21H2,1-9H3",
+    "INCHIKEY": "JFLRKDZMHNBDQS-UHFFFAOYSA-N",
+    "Formula": "C83H132N2O20",
+    "MolecularWeight": {
+        "$numberDouble": "1477.9"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "NaN"
+    },
+    "Complexity": {
+        "$numberInt": "2620"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Field studies detected spinosad in both aboveground and belowground onion plant tissues after foliar application, though the insecticide has primarily translaminar activity with limited systemic movement expected based on its physical properties. While spinosad A has a logD of 2.0 at pH 4.9 suggesting some ability to move systemically, its large molecular weight of 732 g/mol for the spinosyn A component favors retention in plant tissues according to literature reviews. However, our research confirmed low levels of translocation to onion leaves, consistent with previous research documenting spinosad movement controlling foliar pests when applied to the base of tomato plants in a rockwool medium.",
+            "reference": "Moretti, E. A., Taylor, A. G., Wickings, K., & Nault, B. A. (2021). Insights into How Spinosad Seed Treatment Protects Onion From Onion Maggot (Diptera: Anthomyiidae). Journal of Economic Entomology, 114(2), 694\u2013701. doi:10.1093/jee/toaa332\u00a0",
+            "method": {
+                "Test Plant": "Onion",
+                "Apply Location": "Seed treatment",
+                "Plant Grown Condition": "Onion plants grown from untreated and spinosad-treated seeds in the greenhouse, with a photoperiod of 16:8 (L:D) h, temperature of 21\u00b0C, and relative humidity of 40%.",
+                "Chemical Preparation": "Spinosad (Regard SC, Syngenta) solution used for larval toxicity assays.",
+                "Pesticide Application Details for the Plant": "Spinosad-treated seeds were planted in a commercial onion field at a rate of 30 seeds/m in two 27-m rows spaced 25.4 cm apart. Seeds were sown into Freetown muck soil and commercially pelleted with 0.2 mg ai/seed of Regard SC.",
+                "Other Information": "Larval sensitivity assays conducted with groups of five individuals (1- or 2-week-old larvae) with a minimum of five replications for each concentration."
+            },
+            "result": "[{\"Time after application\": \"25 days\", \"Pesticide in Soil (ppm)\": \"around 0.2\", \"Pesticide Below Ground (ppm)\": \"around 1.8\", \"Pesticide Above Ground (ppm)\": \"around 5\"}, {\"Time after application\": \"40 days\", \"Pesticide in Soil (ppm)\": \"around 0.5\", \"Pesticide Below Ground (ppm)\": \"around 0.5\", \"Pesticide Above Ground (ppm)\": \"around 0.1\"}, {\"Time after application\": \"47 days\", \"Pesticide in Soil (ppm)\": \"around 0.2\", \"Pesticide Below Ground (ppm)\": \"around 0.5\", \"Pesticide Above Ground (ppm)\": \"around 0.2\"}, {\"Time after application\": \"54 days\", \"Pesticide in Soil (ppm)\": \"around 2.8\", \"Pesticide Below Ground (ppm)\": \"around 0.1\", \"Pesticide Above Ground (ppm)\": \"around 0.1\"}, {\"Time after application\": \"61 days\", \"Pesticide in Soil (ppm)\": \"around 1.6\", \"Pesticide Below Ground (ppm)\": \"around 0.1\", \"Pesticide Above Ground (ppm)\": \"around 0.1\"}]"
+        }
+    ]
+}

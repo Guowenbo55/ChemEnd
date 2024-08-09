@@ -1,0 +1,125 @@
+{
+    "_id": {
+        "$oid": "6682e90ac4e5dba5ffba289f"
+    },
+    "CID": {
+        "$numberInt": "13263"
+    },
+    "Name": "Ametryne",
+    "IUPACName": "4-N-ethyl-6-methylsulfanyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",
+    "CanonicalSMILES": "CCNC1=NC(=NC(=N1)SC)NC(C)C",
+    "Synonyms": [
+        "Ametryn",
+        "834-12-8",
+        "AMETRYNE",
+        "Gesapax",
+        "Ametrex",
+        "Evik",
+        "Cemerin",
+        "Ametrine",
+        "N2-Ethyl-N4-isopropyl-6-(methylthio)-1,3,5-triazine-2,4-diamine",
+        "Crisatrine",
+        "Doruplant",
+        "Amephyt",
+        "Trinatox D",
+        "Primatol Z 80",
+        "2-Ethylamino-4-isopropylamino-6-methylmercapto-s-triazine"
+    ],
+    "IsomericSMILES": "CCNC1=NC(=NC(=N1)SC)NC(C)C",
+    "INCHI": "InChI=1S/C9H17N5S/c1-5-10-7-12-8(11-6(2)3)14-9(13-7)15-4/h6H,5H2,1-4H3,(H2,10,11,12,13,14)",
+    "INCHIKEY": "RQVYBGPQFYCBGX-UHFFFAOYSA-N",
+    "Formula": "C9H17N5S",
+    "MolecularWeight": {
+        "$numberDouble": "227.33"
+    },
+    "Description": "Ametryn is a methylthio-1,3,5-triazine that is 2-(methylsulfanyl)-1,3,5-triazine substituted by an ethylamino and an isopropylamino group at positions 4 and 6 respectively. It has a role as a herbicide and an environmental contaminant. It is a diamino-1,3,5-triazine and a methylthio-1,3,5-triazine.",
+    "XlogP": {
+        "$numberDouble": "3"
+    },
+    "Complexity": {
+        "$numberInt": "178"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Feb 16, 2017: https://www.safe.nite.go.jp/english/db.html (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "A BCF of 8.3 was calculated in fish for ametryne(1) using carp (Cyprinus carpio) which were exposed over an 8-week period to a test concentration of 40 ug/L(1). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Feb 16, 2017: https://www.safe.nite.go.jp/english/db.html (2) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK: British Crop Protection Council. Ametryne (834-12-8) (2008-2010)",
+            "Value": "AEROBIC: Ametryne, present at 100 mg/L, reached 0% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1). Half-lives in soil have been reported from 11 to 280 days (median 62 days) with loss attributed to microbial degradation(2), indicating that biodegradation in soil, albeit slow, may be an important environmental fate process under certain conditions(SRC)."
+        },
+        {
+            "References": "(1) Kaufman DD, Kearney PC; Res Rev 32: 235-65 (1970) (2) Fournier JC et al; Laboratory Studies of the Biodegradability of Herbicides. Spec Pub - Agric Res Organ, Volcanic Center 82: 5-13 (1977) (3) Fournier JC, Catroux G; Chemosphere 9: 33-8 (1980) (4) Goswami KP, Green RE; Soil Sci Soc Amer Proc 39: 669-73 (1975)",
+            "Value": "AEROBIC: Methylthio-s-triazine herbicides are generally more resistant to biodegradation than the corresponding chloro-s-triazines(1). No biodegradation was observed when 200 ppm of ametryne was incubated for a month using a soil suspension inoculum at 30 \u00b0C(2). When the concn equivalent of 3 kg/ha of ametryne was incubated in a clay-lime soil, 2.8% and 8.6% of the herbicide degraded to CO2 in 51 and 110 days, respectively(2). In another experiment, 10-50% degradation in 10 days occurred in one of four soils, while degradation was either absent or uncertain in the other three soils(3). In a 25-day experiment, CO2 evolution occurred from ametryne-treated sterile soil that had been inoculated with an extract from ametryne enriched soil, but not from uninoculated controls(1). After 60 days incubation, 8.7% and 63.7% of the applied ametryne remained in inoculated Hilo silty clay loam and Molakai silty clay, two Hawaiian soils that are typically used in the cultivation of sugarcane(4). The inoculum was prepared by leaching Molakai soil with ametryne solutions(4). Biodegradation initially involved N-dealkylation. Less than 0.2% of the ametryne degraded to CO2 in this period(4). No significant degradation occurred in autoclaved controls(4)."
+        },
+        {
+            "References": "(1) Green RE et al; Soil Science Society of America. SSSA Spec Publ 32(Sorption and Degradation of Pesticides and Organic Chemicals in Soil): 209-25 (1994)",
+            "Value": "AEROBIC: Mean overall degradation half-lives of ametryne in four Hawaiian soils were 15 and 25 days in surface (0 to 20 cm) and subsurface (60 to 80 cm) soil, respectively(1). Individual degradation half-lives in Torrox, Eustrustox, Tropohumult, and Hydrandept Hawaiian surface (subsurface) soils were 12 (7), 29 (37), 12 (50), 6 (9) days, respectively(1)."
+        },
+        {
+            "References": "(1) Kaufman DD, Kearney PC; Res Rev 32: 235-65 (1970) (2) Topp E et al; Appl Environ Microbiol 66: 3134-44 (2000)",
+            "Value": "PURE CULTURE: Several soil bacteria and fungi are reported to attack ametryne. The methylthio group is known to undergo sulfoxidation by microsomal enzymes in plant and animal systems and the same reactions usually hold true for soil microorganisms(1). Ametryne has been shown to be susceptible to degradation by Nocardiodes sp.(2)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Hendriks AJ et al; Environ Toxicol Chem 17: 1885-98 (1998)",
+            "Value": "Ametryne was reported at <5.0 ug/kg wet weight in zebra mussels (Dreissena polymorpha) and eels (Anguilla anguilla) from the Rhine-Meuse river delta in The Netherlands(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 64",
+            "Value": "log Kow = 2.98"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "USEPA/Office of Pesticide Programs; Reregistration Eligibility Decision Document - Ametryn p.6. EPA 738-R-05-006 (September 2005) Available from, as of February 10, 2017: https://www.epa.gov/pesticides/reregistration/status.htm",
+            "Value": "Mode of Herbicidal Action: Like other triazines, ametryn inhibits photosynthesis and other enzymatic processes. It is a selective systemic herbicide, absorbed by the leaves and roots, with translocation acropetally in the xylem, and accumulation in the apical meristems."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the Threshold Limit Values and Biological Exposure Indices. 5th ed. Cincinnati, OH: American Conference of Governmental Industrial Hygienists, 1986., p. 44",
+            "Value": "... Their chief mode of action appears to involve carbohydrate metabolism. The chlorinated s-triazines inhibit starch accumulation by blocking the production of sugars. Similar behavior has been shown for the methoxy & methylthio-s-triazines. It has been reported that the s-triazines affect the tricarboxylic acid cycle with activation of phospho-phenyl pyruvate-carboxylase causing the disappearance of sucrose & glyceric acid with the formation of aspartic & malic acids. /s-Triazines/"
+        },
+        {
+            "References": "Menzie, C.M. Metabolism of Pesticides. U.S. Department of the Interior, Bureau of Sport Fisheries and Wildlife, Publication 127. Washington, DC: U.S. Government Printing Office, 1969., p. 312",
+            "Value": "Since chlorosis is the first sign of the effect of triazines on plants, interference with carbon dioxide assimilation and sugar formation can be expected. Studies showing that hill reaction is inhibited confirmed this. /Triazines/"
+        },
+        {
+            "References": "Klaassen, C.D. (ed). Casarett and Doull's Toxicology. The  Basic Science of Poisons. 6th ed. New York, NY:  McGraw-Hill, 2001., p. 791",
+            "Value": "Inhibition of photosynthesis by disruption of light reactions and blockade of electron transport is the mechanism of action of the 1,3,5-triazine herbicides. /1,3,5-Triazines, from table/"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Green RE et al; J Environ Qual 6: 145-54 (1977) (2) Miles CJ, Pfeuffer RJ; Arch Environ Contam Toxicol 32: 337-45 (1997)",
+            "Value": "SEDIMENT: The analysis of sediment samples of estuaries and influent stream for ametryne in Oahu, where the herbicide is used on sugar cane and pineapple fields, showed that ametryne was present in 6 of 8 of the estuary samples at 200 to 4000 ppb, but was absent from stream sediment(1). Ametryne was detected in 17 sediment samples collected from south Florida canals between Nov 1991 and June 1995 at a maximum concn of 100 ug/kg(2)."
+        },
+        {
+            "References": "PMID:2354274",
+            "Value": "SOIL: Ametryne was detected in soil cores from three pineapple and sugarcane pesticide mixing and loading sites in Oahu, HI at the following concentrations(1):",
+            "Table": "[{'Crop formulation site': 'pineapple, site 1', 'Depth (cm)': '0 to 8', 'Concn (ppm wt wt)': '0.12'}, {'Crop formulation site': nan, 'Depth (cm)': '8 to 20', 'Concn (ppm wt wt)': '0.12'}, {'Crop formulation site': nan, 'Depth (cm)': '61 to 91', 'Concn (ppm wt wt)': '0.06'}, {'Crop formulation site': 'pineapple, site 2', 'Depth (cm)': '0 to 8', 'Concn (ppm wt wt)': '0.17'}, {'Crop formulation site': nan, 'Depth (cm)': '8 to 20', 'Concn (ppm wt wt)': '0.15'}, {'Crop formulation site': nan, 'Depth (cm)': '0 to 10', 'Concn (ppm wt wt)': '0.11'}, {'Crop formulation site': 'pineapple, site 3', 'Depth (cm)': '10 to 20', 'Concn (ppm wt wt)': '0.09'}, {'Crop formulation site': 'sugarcane, site 1', 'Depth (cm)': '0 to 10', 'Concn (ppm wt wt)': '17,664'}, {'Crop formulation site': nan, 'Depth (cm)': '10 to 17', 'Concn (ppm wt wt)': '8,333'}, {'Crop formulation site': nan, 'Depth (cm)': '17 to 30', 'Concn (ppm wt wt)': '623.9'}, {'Crop formulation site': nan, 'Depth (cm)': '30 to 61', 'Concn (ppm wt wt)': '69.32'}, {'Crop formulation site': nan, 'Depth (cm)': '152 to 183', 'Concn (ppm wt wt)': '184.8'}, {'Crop formulation site': nan, 'Depth (cm)': '244 to 274', 'Concn (ppm wt wt)': '53.4'}, {'Crop formulation site': 'sugarcane, site 2', 'Depth (cm)': '0 to 15', 'Concn (ppm wt wt)': '19.71'}, {'Crop formulation site': nan, 'Depth (cm)': '61 to 91', 'Concn (ppm wt wt)': '1.59'}, {'Crop formulation site': nan, 'Depth (cm)': '152 to 183', 'Concn (ppm wt wt)': '2.06'}, {'Crop formulation site': nan, 'Depth (cm)': '244 to 274', 'Concn (ppm wt wt)': '3.03'}, {'Crop formulation site': 'sugarcane, site 3', 'Depth (cm)': '0 to 18', 'Concn (ppm wt wt)': '7.42'}, {'Crop formulation site': nan, 'Depth (cm)': '61 to 91', 'Concn (ppm wt wt)': '0.53'}, {'Crop formulation site': nan, 'Depth (cm)': '152 to 183', 'Concn (ppm wt wt)': '0.38'}, {'Crop formulation site': nan, 'Depth (cm)': '224 to 274', 'Concn (ppm wt wt)': '0.53'}]"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Rao PSC, Davidson JM; Retention and transformation of selected pesticides and phosphorus in soil-water systems. USEPA-600/S3-82-060 (1982) (2) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK: British Crop Protection Council. Ametryne (834-12-8) (2008-2010) (3) Green RE et al; Soil Science Society of America. SSSA Spec Publ 32(Sorption and Degradation of Pesticides and Organic Chemicals in Soil): 209-25 (1994) (4) Chefetz B et al; Wat Res 38: 4383-94 (2004) (5) Sluszny C et al; Water Air Soil Pollut 115: 395-410 (1999) (6) Swann RL et al; Res Rev 85: 23 (1983) (7) Weber JB et al; Chemosphere 55: 157-166 (2004)",
+            "Value": "The average Koc reported for ametryne in 32 soils was 388.4(1). Ametryne has Koc values ranging between 96 to 927(2). Mean overall Koc values measured in four Hawaiian soils were 257 for surface soil (0 to 20 cm) and 170 for subsoil (60 to 80 cm); Kocs of 530, 170, 156, and 171 were measured in the surface soil of Torrox (mean % OC 1.30, pH 6.7), Eustrustox (mean OC 1.63%, pH 6.4), Tropohumult (mean OC% 2.88, pH 5.3), and Hydrandept (mean OC% 6.22, pH 5.3); Kocs of 235, 254, 87, and 107 were measured in subsoil of Torrox (mean OC% 0.55, pH 6.8), Eustrustox (mean OC% 0.76, pH 5.7), Tropohumult (mean OC% 1.51, pH 5.3), and Hydrandept (mean OC% 3.19, pH 5.6)(3). Koc values were measured for two Kishon River sediments; Kfar Yehushua was 69.33 (7.1 pH, 30% sand, 30% silt 40% clay 1.63% TOC) and Haifa industrial area was 170.40 (6.8 pH, 30 % sand, 20% silt, 50% clay, 1.25% TOC)(4). Koc values ranged from 102-123 in fresh soils amended with activated sludge, anaerobic digested sludge and compost, and 69-129 in incubated soils with the same amendments(5). According to a classification scheme(6), these Koc values suggest that ametryne is expected to have low to high mobility in soil(SRC). Of 38 values cited in literature the mean Kd is 5.69(7)."
+        },
+        {
+            "References": "(1) Plimmer JR et al; Herbicides. Kirk-Othmer Encyclopedia of Chemical Technology. (1999-2017). New York, NY: John Wiley & Sons. Online Posting Date: 17 Sept 2004. (2) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK: British Crop Protection Council. Ametryne (834-12-8) (2008-2010) (3) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000) (4) Weber JB; Soil Sci Soc Amer Proc 34: 401-4 (1970) (5) Weber JB; North Carolina Cooperative Extension Service, North Carolina State University of Agriculture and Life Sciences (1994) (6) Rodgers EG; Weed Sci 16: 117-20 (1968) (7) Liu LC, Cibes-Viade HR; Agric Univ PR 54: 5-18 (1970) (8) Hance RJ; Can J Soil Sci 49: 357-64 (1969) (9) Hamaker JW, Thompson JM; pp. 49-144 in Organic chemicals in the soil environment Vol 1. Goring CAI, Hamaker JN eds (1972) (10) Helling CS et al; Adv Agric 23: 147-240 (1971) (11) Goswami KP, Green RE; Soil Sci Soc Amer Proc 39: 669-73 (1975)",
+            "Value": "Triazine herbicides, such as ametryne, are weak bases and can be protonated to form cationic species depending on the herbicide pKa and soil pH(1). The pKa of ametryne is 4.10(2), indicating that this compound will exist partially in the cation form in the environment and cations generally adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(3). Maximum adsorption of ametryne to Na-montmorillonite occurred at a pH level in the vicinity of this chemicals pKa(4). Ametryne has been assigned pesticide leaching potentials of 50 and 46 for soil and foliar application, respectively; a value of 0 indicates no leaching potential, while a value of 100 indicates maximum leaching potential(5). Seventy days posttreatment, ametryne applied at 2, 4, and 8 lb/acre leached to <1, 1-3, and 3-5 inches below the soil surface(6). In 4 Puerto Rican soils, ametryne applied at 4 lb/acre did not penetrate very deeply into the soil under the influence of 1-4 inches of simulated rainfall(7). In the lightest textured soil, it penetrated to between 1 and 2 inches, whereas in the other three soil it leached less than 1 inch below the soil surface(7). The partition coefficient of ametryne to Na-, Ca-, and Mg-montmorillonite was 22, 59, and 24 ug/g with the adsorption decreasing markedly as the pH was increased from 5 to 8(8). The absorption of ametryne to a clay loam decreases by approximately a factor of two when the pH was increased from 4 to 8(9). Ametryne has been included in class 3 on a soil mobility scale of 1 (immobile) to 5 (very mobile)(10). The Freundlich adsorption constants, K and 1/n, in Hilo silty clay loam and Molakai silty clay, two Hawaiian soils that are typically used in the cultivation of sugar cane, a crop for which ametryne is used, are 5.94 and 0.75 (Hilo) and 1.83 and 0.74 (Molakai), respectively(11)."
+        },
+        {
+            "References": "PMID:8791549",
+            "Value": "Residues in Taichung loam soil (pH 6.5, 21.8% clay, 46.2% silt, 32.0% sand, 0.94% OM) following an application rate of 1.25 kg ai/ha(1). ",
+            "Table": "[{'Day': 28.0, 'Depth (cm)': '0 to 0.5', 'Residue (%)': 2.31}, {'Day': nan, 'Depth (cm)': '0.5 to 1.0', 'Residue (%)': 1.28}, {'Day': nan, 'Depth (cm)': '1.0 to 1.5', 'Residue (%)': 0.9}, {'Day': nan, 'Depth (cm)': '1.5 to 2.0', 'Residue (%)': 0.01}, {'Day': nan, 'Depth (cm)': '2.0 to 3.0', 'Residue (%)': 0.03}, {'Day': nan, 'Depth (cm)': '3.0 to 4.0', 'Residue (%)': 0.01}, {'Day': 56.0, 'Depth (cm)': '0 to 0.5', 'Residue (%)': 0.83}, {'Day': nan, 'Depth (cm)': '0.5 to 1.0', 'Residue (%)': 0.26}, {'Day': nan, 'Depth (cm)': '1.0 to 1.5', 'Residue (%)': 0.01}, {'Day': nan, 'Depth (cm)': '1.5 to 2.0', 'Residue (%)': 0.01}, {'Day': 84.0, 'Depth (cm)': '0 to 0.5', 'Residue (%)': 0.83}, {'Day': nan, 'Depth (cm)': '0.5 to 1.0', 'Residue (%)': 0.31}, {'Day': nan, 'Depth (cm)': '1.0 to 1.5', 'Residue (%)': 0.14}, {'Day': nan, 'Depth (cm)': '1.5 to 2.0', 'Residue (%)': 0.01}, {'Day': nan, 'Depth (cm)': '2.0 to 3.0', 'Residue (%)': 0.01}, {'Day': nan, 'Depth (cm)': '3.0 to 4.0', 'Residue (%)': 0.01}]"
+        }
+    ]
+}

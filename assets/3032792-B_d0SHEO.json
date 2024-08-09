@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "6682e9aec4e5dba5ffba2bd6"
+    },
+    "CID": {
+        "$numberInt": "3032792"
+    },
+    "Name": "Thiophanate",
+    "IUPACName": "ethyl N-[[2-(ethoxycarbonylcarbamothioylamino)phenyl]carbamothioyl]carbamate",
+    "CanonicalSMILES": "CCOC(=O)NC(=S)NC1=CC=CC=C1NC(=S)NC(=O)OCC",
+    "Synonyms": [
+        "Thiophanate",
+        "23564-06-9",
+        "Thiophanate-Ethyl",
+        "Ethyl thiophanate",
+        "Thiophanat",
+        "Thiofanate",
+        "Cercobin",
+        "Enovit",
+        "Topsin",
+        "Nemafax",
+        "PELT",
+        "Topsin NF 35",
+        "THIOPHANAT-ETHYL",
+        "Topsin E",
+        "Pelt (pesticide)"
+    ],
+    "IsomericSMILES": "CCOC(=O)NC(=S)NC1=CC=CC=C1NC(=S)NC(=O)OCC",
+    "INCHI": "InChI=1S/C14H18N4O4S2/c1-3-21-13(19)17-11(23)15-9-7-5-6-8-10(9)16-12(24)18-14(20)22-4-2/h5-8H,3-4H2,1-2H3,(H2,15,17,19,23)(H2,16,18,20,24)",
+    "INCHIKEY": "YFNCATAIYKQPOO-UHFFFAOYSA-N",
+    "Formula": "C14H18N4O4S2",
+    "MolecularWeight": {
+        "$numberDouble": "370.5"
+    },
+    "Description": "Thiophanate is a member of the class of thioureas that is the diethyl ester of (1,2-phenylenedicarbamothioyl)biscarbamic acid. A fungicide effective against a broad spectrum of diseases in fruit, vegetables, turf and other crops including eyespot, scab, powdery mildew and grey mould. It has a role as an antifungal drug. It is a member of thioureas, a carbamate ester, a benzimidazole precursor fungicide and a carbamate fungicide. It is functionally related to a 1,2-phenylenediamine.",
+    "XlogP": {
+        "$numberDouble": "3.3"
+    },
+    "Complexity": {
+        "$numberInt": "434"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The nutritional effects upon absorption and translocation of two organophosphate insecticides and two systemic fungicides into hydroponically grown bean plants are described. The insecticides included Guthion (0,0-dimethyl S-[(4-oxo-1,2,3-benzotriazin-3(4H)-yl)methyl] phosphorodithioate) and parathion (, -diethyl O-p-nitrophenyl phosphorothioate). The fungicides included the major degradation product of benomyl (MBC) methyl 2-benzimidazole carbamate and thiophanate-methyl [dimethyl 4,4'-o-phenylene bis(3-thioalophanate)]. Translocation of the four compounds was related to the total root-absorbed activity in a complete nutrient solution.",
+            "reference": "LAKSHMI, B. S., Gupta, J. P., & PRASAD, M. S. (2000). Translocation of systemic fungicide thiophanate-methyl in soybean. Indian Phytopathology, 53(1), 87-91.",
+            "method": {
+                "Test Plant": "Common bean (Phaseolus vulgaris L. Tenderbest)",
+                "Apply Location": "Nutrient solution (root application)",
+                "Plant Grown Condition": "Bean seeds were grown as described previously. One-week-old bean plants were selected and transplanted into foil-wrapped 125-mL Erlenmeyer flasks containing 100 mL of freshly prepared complete (control) or deficient nutrient solution. The cotyledons were removed one day after exposure to nutrient solution.",
+                "Chemical Preparation": "thiophanate (ring-U-14C) with specific activity 2.9 \u03bcCi/mmol. Analytical reagent-grade chemicals and double-distilled solvents were used.",
+                "Pesticide Application Details for the Plant": "Appropriate amounts of radiolabeled pesticides (0.4 \u03bcCi) were added to the nutrient solutions after 15 days of plant growth. Plants were exposed to the pesticide-fortified nutrient solutions for an additional 48 hours.",
+                "Other Information": "seven replicates"
+            },
+            "result": "[{\"Treatment\": \"Complete Nutrient\", \"Translocation (% of absorbed)\": 78.693}, {\"Treatment\": \"Nitrogen deficient \", \"Translocation (% of absorbed)\": 55.183}, {\"Treatment\": \"Nitrogen-sulfur deficient\", \"Translocation (% of absorbed)\": 49.632}, {\"Treatment\": \"Notrogen-boron deficient\", \"Translocation (% of absorbed)\": 54.693}, {\"Treatment\": \"Magnesium deficient\", \"Translocation (% of absorbed)\": 65.795}, {\"Treatment\": \"Potassium deficient\", \"Translocation (% of absorbed)\": 73.795}, {\"Treatment\": \"Phosphorus deficient\", \"Translocation (% of absorbed)\": 61.877}, {\"Treatment\": \"Sulfur deficient\", \"Translocation (% of absorbed)\": 63.673}, {\"Treatment\": \"Iron deficient media\", \"Translocation (% of absorbed)\": 75.265}, {\"Treatment\": \"Boron deficient\", \"Translocation (% of absorbed)\": 76.734}]"
+        }
+    ]
+}

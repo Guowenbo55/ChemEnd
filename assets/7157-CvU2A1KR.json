@@ -1,0 +1,92 @@
+{
+    "_id": {
+        "$oid": "6682e86cc4e5dba5ffba2583"
+    },
+    "CID": {
+        "$numberInt": "7157"
+    },
+    "Name": "RANDOX",
+    "IUPACName": "2-chloro-N,N-bis(prop-2-enyl)acetamide",
+    "CanonicalSMILES": "C=CCN(CC=C)C(=O)CCl",
+    "Synonyms": [
+        "Allidochlor",
+        "93-71-0",
+        "N,N-Diallyl-2-chloroacetamide",
+        "Alidochlor",
+        "CDAA",
+        "Alidochlore",
+        "Cdaat",
+        "RANDOX",
+        "2-Chloro-N,N-diallylacetamide",
+        "Rantox T",
+        "Allidochlor [ISO]",
+        "N,N-Diallylchloroacetamide",
+        "Diallylchloroacetamide",
+        "Acetamide",
+        "2-chloro-N,N-di-2-propenyl-",
+        "2-Chloro-N,N-di-2-propenylacetamide"
+    ],
+    "IsomericSMILES": "C=CCN(CC=C)C(=O)CCl",
+    "INCHI": "InChI=1S/C8H12ClNO/c1-3-5-10(6-4-2)8(11)7-9/h3-4H,1-2,5-7H2",
+    "INCHIKEY": "MDBGGTQNNUOQRC-UHFFFAOYSA-N",
+    "Formula": "C8H12ClNO",
+    "MolecularWeight": {
+        "$numberDouble": "173.64"
+    },
+    "Description": "Allidochlor is a tertiary carboxamide.",
+    "XlogP": {
+        "$numberDouble": "1.6"
+    },
+    "Complexity": {
+        "$numberInt": "146"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Meylan WM, Howard PH; J Pharm Sci 84: 83-92 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 5 was calculated for Randox(SRC), using an estimated log Kow of 1.79(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 94",
+            "Value": "MICROBIAL BREAKDOWN /IS/ RESPONSIBLE FOR MAJOR DECOMP."
+        },
+        {
+            "References": "(1) Sheets TJ; Weeds 7: 442-8 (1959)",
+            "Value": "AEROBIC: Randox degraded to innocuous levels in soil in 3 months using 8 California soils treated with concentrations of Randox ranging from 2.5 to 160 ppm(1)."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. Old Woking, Surrey, United Kingdom: Royal Society of Chemistry/Unwin Brothers Ltd., 1983., p. A009/0ct 83",
+            "Value": "Inhibition of cell respiration"
+        },
+        {
+            "References": "White-Stevens, R. (ed.). Pesticides in the Environment: Volume 1, Part 1, Part 2. New York: Marcel Dekker, Inc., 1971., p. 48",
+            "Value": "...AMIDE HERBICIDES INHIBIT PHOTOLYSIS OF WATER (HILL REACTION). /AMIDE HERBICIDES/"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Szeto SY, Price PM; J Agric Food Chem 39: 1679-84 (1991)",
+            "Value": "SOIL: In 1989, Randox was not detected in soil on 12 farms in the Fraser Valley, British Columbia(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 94",
+            "Value": "ADSORPTION /IN BASIC SOIL IS/ DIRECTLY PROP TO COLLOID CONTENT OF SOIL."
+        },
+        {
+            "References": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. Old Woking, Surrey, United Kingdom: Royal Society of Chemistry/Unwin Brothers Ltd., 1983., p. A009/Oct 83",
+            "Value": "Duration of /chemical/ activity 3-6 weeks, depending on soil."
+        },
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992) (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc for Randox can be estimated to be 230(SRC). According to a classification scheme(2), this estimated Koc value suggests that Randox is expected to have moderate mobility in soil."
+        }
+    ]
+}

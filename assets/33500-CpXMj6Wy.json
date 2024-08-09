@@ -1,0 +1,67 @@
+{
+    "_id": {
+        "$oid": "6682e975c4e5dba5ffba2ab9"
+    },
+    "CID": {
+        "$numberInt": "33500"
+    },
+    "Name": "PROFLURALIN",
+    "IUPACName": "N-(cyclopropylmethyl)-2,6-dinitro-N-propyl-4-(trifluoromethyl)aniline",
+    "CanonicalSMILES": "CCCN(CC1CC1)C2=C(C=C(C=C2[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]",
+    "Synonyms": [
+        "PROFLURALIN",
+        "26399-36-0",
+        "Profluraline",
+        "Pregard",
+        "Tolban",
+        "Benzenamine",
+        "N-(cyclopropylmethyl)-2,6-dinitro-N-propyl-4-(trifluoromethyl)-",
+        "AI3-62694",
+        "CGA 10832",
+        "SGA 10832",
+        "B 4576",
+        "DTXSID2044559",
+        "CHEBI:82191",
+        "36W2L722UX",
+        "N-Cyclopropylmethyl-N-n-propyl-4-trifluoromethyl-2,6-dinitroaniline",
+        "N-(Cyclopropylmethyl)-2,6-dinitro-N-propyl-4-(trifluoromethyl)benzenamine"
+    ],
+    "IsomericSMILES": "CCCN(CC1CC1)C2=C(C=C(C=C2[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]",
+    "INCHI": "InChI=1S/C14H16F3N3O4/c1-2-5-18(8-9-3-4-9)13-11(19(21)22)6-10(14(15,16)17)7-12(13)20(23)24/h6-7,9H,2-5,8H2,1H3",
+    "INCHIKEY": "ITVQAKZNYJEWKS-UHFFFAOYSA-N",
+    "Formula": "C14H16F3N3O4",
+    "MolecularWeight": {
+        "$numberDouble": "347.29"
+    },
+    "Description": "Profluralin is a C-nitro compound.",
+    "XlogP": {
+        "$numberDouble": "5.2"
+    },
+    "Complexity": {
+        "$numberInt": "449"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "sediment_soil_concentrations": [
+        {
+            "References": "DAVIS GG, JEFFERY LS; BIOASSAY OF DINITROANILINES IN SEQUATCHIE LOAM; PROC, S WEED SCI SOC 26: 390-7 (1973)",
+            "Value": "RESIDUES RESULTING FROM 1.7 KG CGA10832/HA IN SEQUATCHIE LOAM SOIL 120 DAYS AFTER HERBICIDE APPLICATION WERE 0.54-0.86 PPM."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "The absorption, translocation, and metabolism of 14C-profluralin [N-(cyclopropylmethyl)-\u03b1,\u03b1,\u03b1-trifluoro-2,6-dinitro-N-propyl-p-toluidine] and 14C-dinitramine (N4,N4-diethyl-\u03b1,\u03b1,\u03b1-trifluoro-3,5-dinitrotoluene-2,4-diamine) in sorghum [Sorghum bicolor (L.) Moench \u2018RS6\u201312\u2032], barnyardgrass [Echinochloa crus-galli (L.) Beauv.], soybean [Glycine max (L.) Merr. \u2018Dare\u2019], and Palmer amaranth (Amaranthus palmeri S. Wats.) were determined after treatment with 14C-labeled herbicides in nutrient solution for 24 hr at 16 or 38 C. 14C-profluralin accumulated in roots to a greater extent at 16 C, while metabolism was greatest at 38 C. Very little 14C-profluralin was translocated to the tops of plants. Conversely, 14C-dinitramine accumulated in the tops of plants to a greater extent at 38 C. Metabolism was not greatly affected by temperature. These effects may relate to excess toxicity of profluralin at 16 C and dinitramine at 38 C in species which normally exhibit resistance to the herbicides.",
+            "reference": "Hawxby, K., & Basler, E. (1976). Effects of temperature on absorption and translocation of profluralin and dinitramine. Weed Science, 24(6), 545-548.",
+            "method": {
+                "Test Plant": "Sorghum, barnyardgrass, palmer amaranth, and soybean.",
+                "Apply Location": "foliar application.",
+                "Plant Grown Condition": "Seeds of sorghum, barnyardgrass, palmer amaranth, and soybean were planted in Teller fine sandy loam soil in 178 ml plastic cups for growth chamber studies. They were grown under controlled conditions with 14 hr, 15 klux, 32\u00b0C days and 10 hr, 27\u00b0C nights. For absorption and translocation studies, sorghum and soybean seeds were germinated in moist paper rolls, and palmer amaranth and barnyardgrass seeds were germinated in Perlite. Plants were then transplanted to aerated, half-strength Hoagland's solution in green glass jars under controlled growth chamber conditions with 14 hr, 19.4 klux, 32\u00b0C days and 10 hr, 27\u00b0C nights.",
+                "Chemical Preparation": "Profluralin and dinitramine were used at concentrations of 0, 0.5, 1, 2, and 4 ppmw in the growth chamber studies.",
+                "Pesticide Application Details for the Plant": "Seeds of each species were planted in 200 g of Teller fine sandy loam soil treated with various concentrations of profluralin or dinitramine in plastic cups. After planting, the cups were maintained with half-strength Hoagland's solution daily. Herbicidal response was measured by harvesting aerial parts of the plants and recording dry weight. 14C-radiolabeled profluralin (specific activity 34.3 \u00b5Ci/mg) was used for absorption and translocation studies.",
+                "Other Information": "Four replications of each dilution and species were arranged in a completely randomized design for growth chamber studies. Four replications of each species at each temperature were used in a randomized block design for absorption and translocation studies. The experiments were repeated twice."
+            },
+            "result": "[{\"Plant\": \"Barnyardgrass\", \"Temperature\": \"16\\u00b0C 12 hours\", \"Absorption (%)\": 12, \"Tops (g)\": 23.4, \"Roots (g)\": 258.0}, {\"Plant\": \"Barnyardgrass\", \"Temperature\": \"38\\u00b0C 12 hours\", \"Absorption (%)\": 7, \"Tops (g)\": 5.0, \"Roots (g)\": 32.7}, {\"Plant\": \"Sorghum\", \"Temperature\": \"16\\u00b0C 12 hours\", \"Absorption (%)\": 12, \"Tops (g)\": 23.4, \"Roots (g)\": 258.0}, {\"Plant\": \"Sorghum\", \"Temperature\": \"38\\u00b0C 12 hours\", \"Absorption (%)\": 7, \"Tops (g)\": 5.0, \"Roots (g)\": 32.7}, {\"Plant\": \"Palmer amaranth\", \"Temperature\": \"16\\u00b0C 12 hours\", \"Absorption (%)\": 12, \"Tops (g)\": 5.3, \"Roots (g)\": 51.5}, {\"Plant\": \"Palmer amaranth\", \"Temperature\": \"38\\u00b0C 12 hours\", \"Absorption (%)\": 7, \"Tops (g)\": 1.8, \"Roots (g)\": 9.8}, {\"Plant\": \"Soybean\", \"Temperature\": \"16\\u00b0C 12 hours\", \"Absorption (%)\": 12, \"Tops (g)\": 40.9, \"Roots (g)\": 6.3}, {\"Plant\": \"Soybean\", \"Temperature\": \"38\\u00b0C 12 hours\", \"Absorption (%)\": 7, \"Tops (g)\": 34.2, \"Roots (g)\": 5.0}]"
+        }
+    ]
+}

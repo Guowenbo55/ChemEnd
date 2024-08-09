@@ -1,0 +1,77 @@
+{
+    "_id": {
+        "$oid": "6682e8f9c4e5dba5ffba284a"
+    },
+    "CID": {
+        "$numberInt": "11831"
+    },
+    "Name": "2-NITRO-9H-FLUORENE",
+    "IUPACName": "2-nitro-9H-fluorene",
+    "CanonicalSMILES": "C1C2=CC=CC=C2C3=C1C=C(C=C3)[N+](=O)[O-]",
+    "Synonyms": [
+        "2-Nitrofluorene",
+        "2-NITRO-9H-FLUORENE",
+        "607-57-8",
+        "9H-Fluorene",
+        "2-nitro-",
+        "Fluorene",
+        "2-nitro-",
+        "191LL4U4GZ",
+        "CHEBI:1224",
+        "DTXSID2020971",
+        "NSC-5182",
+        "MFCD00001117",
+        "DTXCID60971",
+        "CAS-607-57-8",
+        "CCRIS 1189",
+        "HSDB 2111",
+        "NSC 5182"
+    ],
+    "IsomericSMILES": "C1C2=CC=CC=C2C3=C1C=C(C=C3)[N+](=O)[O-]",
+    "INCHI": "InChI=1S/C13H9NO2/c15-14(16)11-5-6-13-10(8-11)7-9-3-1-2-4-12(9)13/h1-6,8H,7H2",
+    "INCHIKEY": "XFOHWECQTFIEIX-UHFFFAOYSA-N",
+    "Formula": "C13H9NO2",
+    "MolecularWeight": {
+        "$numberDouble": "211.22"
+    },
+    "Description": "2-nitrofluorene is a nitroarene that is fluorene substituted by a nitro group at position 2. It has a role as a carcinogenic agent and a mutagen. It is functionally related to a fluorene.",
+    "XlogP": {
+        "$numberDouble": "3.7"
+    },
+    "Complexity": {
+        "$numberInt": "286"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) PCCHEM; PCGEMS Graphical Exposure Modeling System USEPA (1987) (2) CLOGP; PCGEMS Graphical Exposure Modeling System USEPA (1986) (3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods NY: McGraw-Hill p. 5-4, 5-10 (1982)",
+            "Value": "Based on an estimated water solubility of 1.73 mg/L at 25 \u00b0C(1) and an estimated log Kow of 3.97(2), the log BCF of 2-nitro-9H-fluorene has been calculated to range from 2.66 to 2.79 from various regression-derived equations(3,SRC). These log BCF values suggest 2-nitro-9H-fluorene has the potential to bioconcentrate in aquatic systems(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Lutin PA et al; Purdue Univ Eng Bull Ext Series 118: 131-45 (1965) (2) Malaney GW et al; J Water Pollut Control Fed 39: 2020-9 (1967)",
+            "Value": "Levels of oxygen uptake for 500 mg/l of 2-nitro-9H-fluorene oxidized in activated sewage sludge suspensions with suspended solid concn of 2,500 ng/l did not differ from the controls(1,2). After 144 hours, oxygen consumptions were about 1800, 1700 and 300 mg/L for Franklin, Nashville and Ashland sludge, respectively(1), whereas, corresponding controls accounted for losses of approximately 1650, 1500 and 450 mg of oxygen per liter(1)."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 2420",
+            "Value": "THE REDN OF AROMATIC NITRO CMPD TO THEIR CORRESPONDING HYDROXYLAMINO DERIVATIVES MAY ... EXPLAIN THE CARCINOGENIC ACTION OF SUCH AGENTS AS 2-NITROFLUORINE ..."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "PMID:3894958",
+            "Value": "Sediment from the Suimon River, Japan contained 2-nitro-9H-fluorene at an average concn of 1.5 ppb(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) PCCHEM; PCGEMS Graphical Exposure Modeling System USEPA (1987) (2) CLOGP; PCGEMS Graphical Exposure Modeling System USEPA (1986) (3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods NY: McGraw-Hill p. 4-9 (1982) (4) Swann RL et al; Res Rev 85: 16-28 (1983)",
+            "Value": "Based on an estimated water solubility of 1.73 mg/L at 25 \u00b0C(1) and an estimated log Kow of 3.97(2), the Koc of 2-nitro-9H-fluorene has been calculated to range from 3200 to 3450 from various regression-derived equations(4,SRC). These Koc values indicate 2-nitro-9H-fluorene will be slightly mobile in soil(4)."
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "66927111303528b49832d7ca"
+    },
+    "CID": {
+        "$numberInt": "53597"
+    },
+    "Name": "Glufosinate-Ammonium",
+    "IUPACName": "azanium;2-amino-4-[hydroxy(methyl)phosphoryl]butanoate",
+    "CanonicalSMILES": "CP(=O)(CCC(C(=O)[O-])N)O.[NH4+]",
+    "Synonyms": [
+        "Glufosinate-ammonium",
+        "Liberty",
+        "Finale",
+        "Ignite",
+        "Dash",
+        "Basta LS",
+        "77182-82-2",
+        "Gluphosinate ammonium",
+        "Buster",
+        "GLUFOSINATE AMMONIUM",
+        "Ignite ISC Herbicide",
+        "Ammonium glufusinate",
+        "Basta F1",
+        "Liberty (pesticide)",
+        "Finale 14SL"
+    ],
+    "IsomericSMILES": "CP(=O)(CCC(C(=O)[O-])N)O.[NH4+]",
+    "INCHI": "InChI=1S/C5H12NO4P.H3N/c1-11(9,10)3-2-4(6)5(7)8;/h4H,2-3,6H2,1H3,(H,7,8)(H,9,10);1H3",
+    "INCHIKEY": "ZBMRKNMTMPPMMK-UHFFFAOYSA-N",
+    "Formula": "C5H15N2O4P",
+    "MolecularWeight": {
+        "$numberDouble": "198.16"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "NaN"
+    },
+    "Complexity": {
+        "$numberInt": "187"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The absorption, translocation, and metabolism of glufosinate-ammonium were investigated as possible explanations for the difference in sensitivity between susceptible green foxtail (Setaria viridis (L.) Beauv.) and more tolerant barley (Hordeum vulgare L.). In a controlled environment growth room (450 \u03bcE m\u22122 sec\u22121 light, 16-hr photoperiod, 25\u00b0C day/16\u00b0C night, 65% RH), the effective dose for reduction of growth by 50% (ED50) was 65 g/ha for green foxtail and 500 g/ha for barley. Tolerance of barley increased with growth stage while green foxtail was equally sensitive at all growth stages tested. Accumulation of ammonia in green foxtail and barley treated with 100 g/ha of glufosinate-ammonium preceded the onset of visible injury symptoms by at least 24 hr, and the level of ammonia in the plants correlated with the sensitivity of the plants to glufosinate. Radiolabeled glufosinate-ammonium applied to a young expanded leaf was absorbed at a significantly higher rate by green foxtail than by barley. Translocation of radiolabel from the treated leaf into the shoot and roots was also significantly greater in green foxtail. Thin-layer chromatographic separation of radiolabeled shoot and root extracts indicated that metabolic degradation of the herbicide did not occur in either species. The difference in sensitivity between the two species was associated with differences in uptake and translocation, not with metabolic degradation.",
+            "reference": "Mersey, B. G., Hall, J. C., Anderson, D. M., & Swanton, C. J. (1990). Factors affecting the herbicidal activity of glufosinate-ammonium: absorption, translocation, and metabolism in barley and green foxtail. Pesticide Biochemistry and Physiology, 37(1), 90-98.",
+            "method": {
+                "Test Plant": "Barley (Hordeum vulgare) and green foxtail (Setaria viridis)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Barley and green foxtail grown from seeds in expanded clay (\"Turface\"). Watered every other day with water or half-strength Hoagland's solution. Grown at 25\u00b0C day/16\u00b0C night, 16h photoperiod, 65% relative humidity, 450 \u03bcmol/m2/s light intensity. Arranged in randomized complete blocks",
+                "Chemical Preparation": "Radiolabeled [14C]glufosinate-ammonium prepared by incubating commercial glufosinate-ammonium with 14% NH4OH. Final solution was 0.38 g/L [14C]glufosinate (504.5 Bq/\u03bcL) in blank formulation",
+                "Pesticide Application Details for the Plant": "Pre-treatments of 0 or 100 g/ha non-radiolabeled glufosinate applied. 10 \u03bcL drops (5045 Bq) of [14C]glufosinate solution applied to adaxial midsection of 3rd youngest leaf",
+                "Other Information": "Initial dose-response experiments done on 8 barley varieties and 4 weed species. Final experiments used barley (3-5 leaf) and green foxtail (4-7 leaf) at 4 growth stages. Plants harvested at 6, 12, 24, 48, 72, 96 hours after treatment (HAT)"
+            },
+            "result": "[{\"Plant\": 6, \"Hours after application Absorption (% of recovered)\": 14.77, \"Treated zone (%)\": 6.37, \"Above treated zone in the treated leaf (%)\": 5.54, \"Translocated out of the treated leaf (%)\": 2.3, \"Crow and root (%)\": 1.55}, {\"Plant\": 12, \"Hours after application Absorption (% of recovered)\": 22.88, \"Treated zone (%)\": 7.73, \"Above treated zone in the treated leaf (%)\": 9.89, \"Translocated out of the treated leaf (%)\": 4.56, \"Crow and root (%)\": 2.99}, {\"Plant\": 24, \"Hours after application Absorption (% of recovered)\": 53.2, \"Treated zone (%)\": 19.74, \"Above treated zone in the treated leaf (%)\": 25.31, \"Translocated out of the treated leaf (%)\": 6.55, \"Crow and root (%)\": 3.86}, {\"Plant\": 48, \"Hours after application Absorption (% of recovered)\": 71.45, \"Treated zone (%)\": 30.78, \"Above treated zone in the treated leaf (%)\": 30.53, \"Translocated out of the treated leaf (%)\": 8.05, \"Crow and root (%)\": 4.81}, {\"Plant\": 72, \"Hours after application Absorption (% of recovered)\": 87.72, \"Treated zone (%)\": 36.68, \"Above treated zone in the treated leaf (%)\": 40.68, \"Translocated out of the treated leaf (%)\": 7.45, \"Crow and root (%)\": 4.42}, {\"Plant\": 96, \"Hours after application Absorption (% of recovered)\": 91.49, \"Treated zone (%)\": 33.73, \"Above treated zone in the treated leaf (%)\": 46.42, \"Translocated out of the treated leaf (%)\": 8.07, \"Crow and root (%)\": 4.84}, {\"Plant\": 6, \"Hours after application Absorption (% of recovered)\": 30.31, \"Treated zone (%)\": 18.31, \"Above treated zone in the treated leaf (%)\": 3.84, \"Translocated out of the treated leaf (%)\": 7.35, \"Crow and root (%)\": 4.33}, {\"Plant\": 12, \"Hours after application Absorption (% of recovered)\": 39.94, \"Treated zone (%)\": 21.13, \"Above treated zone in the treated leaf (%)\": 5.8, \"Translocated out of the treated leaf (%)\": 11.7, \"Crow and root (%)\": 6.89}, {\"Plant\": 24, \"Hours after application Absorption (% of recovered)\": 74.2, \"Treated zone (%)\": 44.88, \"Above treated zone in the treated leaf (%)\": 11.15, \"Translocated out of the treated leaf (%)\": 15.01, \"Crow and root (%)\": 8.16}, {\"Plant\": 48, \"Hours after application Absorption (% of recovered)\": 89.94, \"Treated zone (%)\": 47.49, \"Above treated zone in the treated leaf (%)\": 19.12, \"Translocated out of the treated leaf (%)\": 18.84, \"Crow and root (%)\": 10.28}, {\"Plant\": 72, \"Hours after application Absorption (% of recovered)\": 94.57, \"Treated zone (%)\": 54.3, \"Above treated zone in the treated leaf (%)\": 19.08, \"Translocated out of the treated leaf (%)\": 15.06, \"Crow and root (%)\": 7.32}, {\"Plant\": 96, \"Hours after application Absorption (% of recovered)\": 97.01, \"Treated zone (%)\": 48.36, \"Above treated zone in the treated leaf (%)\": 27.44, \"Translocated out of the treated leaf (%)\": 17.4, \"Crow and root (%)\": 9.38}]"
+        }
+    ]
+}

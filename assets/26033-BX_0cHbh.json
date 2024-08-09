@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "6692711d303528b49832d7fa"
+    },
+    "CID": {
+        "$numberInt": "26033"
+    },
+    "Name": "Pyrazophos",
+    "IUPACName": "ethyl 2-diethoxyphosphinothioyloxy-5-methylpyrazolo[1,5-a]pyrimidine-6-carboxylate",
+    "CanonicalSMILES": "CCOC(=O)C1=CN2C(=CC(=N2)OP(=S)(OCC)OCC)N=C1C",
+    "Synonyms": [
+        "PYRAZOPHOS",
+        "13457-18-6",
+        "Curamil",
+        "Afugan",
+        "Missile",
+        "Hoechst 2873",
+        "HOE 2873",
+        "NSC 232671",
+        "Ethyl 2-((diethoxyphosphinothioyl)oxy)-5-methylpyrazolo(1,5-a)pyrimidine-6-carboxylate",
+        "BEG0A8I17D",
+        "DTXSID7042352",
+        "CHEBI:81942",
+        "ethyl 2-diethoxyphosphinothioyloxy-5-methylpyrazolo[1,5-a]pyrimidine-6-carboxylate",
+        "O,O-Diethyl-O-(5-methyl-6-ethoxy-carbonyl-pyrazolo(1.5-a)pyrimid-2-yl)-thionophosphate",
+        "Pyrazophos 10 microg/mL in Isooctane"
+    ],
+    "IsomericSMILES": "CCOC(=O)C1=CN2C(=CC(=N2)OP(=S)(OCC)OCC)N=C1C",
+    "INCHI": "InChI=1S/C14H20N3O5PS/c1-5-19-14(18)11-9-17-12(15-10(11)4)8-13(16-17)22-23(24,20-6-2)21-7-3/h8-9H,5-7H2,1-4H3",
+    "INCHIKEY": "JOOMJVFZQRQWKR-UHFFFAOYSA-N",
+    "Formula": "C14H20N3O5PS",
+    "MolecularWeight": {
+        "$numberDouble": "373.37"
+    },
+    "Description": "Pyrazophos is a member of the class of pyrazolopyrimidines that is the ethyl ester of 2-[(diethoxyphosphorothioyl)oxy]-5-methylpyrazolo[1,5-a]pyrimidine-6-carboxylic acid. A profungicide (by hydrolysis of the thionophosphate group to afford the corresponding 2-hydroxypyrazolopyrimidine fungicide), it is used to control Erysiphe, Helminthosporium and Rhynchospium in cereals. It has a role as a phospholipid biosynthesis inhibitor, an insecticide, an antifungal agrochemical and a profungicide. It is a pyrazolopyrimidine, an organic thiophosphate and an ethyl ester. It is functionally related to an ethyl 2-hydroxy-5-methylpyrazolo[1,5-a]pyrimidine-6-carboxylate.",
+    "XlogP": {
+        "$numberDouble": "3.1"
+    },
+    "Complexity": {
+        "$numberInt": "473"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "This study investigated the ability of common reed, Phragmites australis to take up organophosphate pesticides (OPPs). The study site was the agriculturally polluted Sundays Estuary in South Africa. Surface water, leaves, roots, and deep-rooted-sediments of P. australis were collected along the length of the estuary and analysed for 13 different OPPS. The extraction of OPPs in plant tissues was performed by QuEChERS method followed by GC-MS analysis. The highest concentration of OPPs was found in leaves (16.41\u201331.39 \u03bcg kg\u22121 dw), followed by roots (13.92\u201330.88 \u03bcg kg\u22121 dw), and sediments (3.30\u20138.07 \u03bcg kg\u22121 dw). Of the 13 targeted OPPs, only one compound was not detected across the four sample matrices, thus reflecting widespread contamination in the Sundays Estuary. The biota sediment accumulation factor (BSAF) values of pyraclofos, quinalphos, fenitrothion, phosalone, EPN, diazinon, chlorpyrifos, pyrazophos, and isazophos were higher than one implying that P. australis possesses the ability to bioaccumulate these compounds. The root-leaf translocation factors (TFr-l) of these pesticides were higher than 1, suggesting that P. australis possesses the capacity to move these pesticides from roots to leaves. The insignificant correlation observed between log BSAF and log Kow and log TFr-l and log Kow implies that OPPs uptake by P. australis tissues were not dependent on log Kow. Our study demonstrates that P. australis possesses the potential to effectively remove OPPs from contaminated water and sediment.",
+            "reference": "Olisah, C., Rubidge, G., Human, L. R., & Adams, J. B. (2021). A translocation analysis of organophosphate pesticides between surface water, sediments and tissues of common reed Phragmites australis. Chemosphere, 284, 131380.",
+            "method": {
+                "Test Plant": "Phragmites australis (P. australis)",
+                "Apply Location": "-",
+                "Plant Grown Condition": "Sundays Estuary, a 21 km long aquatic system, located between the temperate southern coastal and subtropical eastern belt in the Eastern Cape Province, South Africa. The estuary has a continuous freshwater inflow with an inter-basin water transfer scheme.",
+                "Chemical Preparation": "-",
+                "Pesticide Application Details for the Plant": "-",
+                "Other information and Other Information": "Six sites were chosen for sampling based on a literature survey and distribution of plant species.Three samples of surface water and P. australis plants were randomly collected from each site."
+            },
+            "result": "[{\"Leaves (ug/kg)\": 7.2, \"Roots (ug/kg)\": 6.3, \"Biota-sediment accumulation factors\": 13.5, \"Bioconcentration factor\": 97.4, \"Root-leaf translocation factor\": 1.6}]"
+        }
+    ]
+}

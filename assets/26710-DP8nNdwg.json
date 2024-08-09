@@ -1,0 +1,82 @@
+{
+    "_id": {
+        "$oid": "6682e961c4e5dba5ffba2a52"
+    },
+    "CID": {
+        "$numberInt": "26710"
+    },
+    "Name": "FERBAM",
+    "IUPACName": "N,N-dimethylcarbamodithioate;iron(3+)",
+    "CanonicalSMILES": "CN(C)C(=S)[S-].CN(C)C(=S)[S-].CN(C)C(=S)[S-].[Fe+3]",
+    "Synonyms": [
+        "Ferbam",
+        "14484-64-1",
+        "Ferric dimethyldithiocarbamate",
+        "Iron(III) dimethyldithiocarbamate",
+        "Trimanzone",
+        "DTXSID8020624",
+        "Ferbam [ISO]",
+        "Iron",
+        "tris(dimethyldithiocarbamato)-",
+        "iron(3+) tris(dimethyldithiocarbamate)",
+        "FERBAM [HSDB]",
+        "FERBAM [IARC]",
+        "FERBAM [MI]",
+        "DTXCID20624",
+        "SKM8W5154H",
+        "WHDGWKAJBYRJJL-UHFFFAOYSA-K"
+    ],
+    "IsomericSMILES": "CN(C)C(=S)[S-].CN(C)C(=S)[S-].CN(C)C(=S)[S-].[Fe+3]",
+    "INCHI": "InChI=1S/3C3H7NS2.Fe/c3*1-4(2)3(5)6;/h3*1-2H3,(H,5,6);/q;;;+3/p-3",
+    "INCHIKEY": "WHDGWKAJBYRJJL-UHFFFAOYSA-K",
+    "Formula": "C9H18FeN3S6",
+    "MolecularWeight": {
+        "$numberDouble": "416.5"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "NaN"
+    },
+    "Complexity": {
+        "$numberInt": "54"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Tomlin CDS, ed; The Pesticide Manual World Compendium. 11th ed., Surrey, England: British Crop Protection Council. P. 541 (1997) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated for ferbam(SRC), using a log Kow of -1.60(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC), provided the compound is not altered physically or chemically once released into the environment."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Kluge E; Arch Pflanzenschutz 5: 263-271 (1969) (2) Kluge E; Arch Pflanzenschutz 5: 39-53 (1969) (3) Goring CAI, Laskowski DA; Agronomy 22: 689-720 (1982)",
+            "Value": "AEROBIC: In pH 3.4 sandy soil, ferbam was largely decomposed after 4 to 5 weeks, while in pH 7.0 soil ferbam was decomposed after 14 to 15 weeks(1). Ferbam took longer than 8 weeks to reach the half-decay point in humus sandy soils as determined by activity to Rhizoctonia solani. If the humus content was 1.2% or below, an initial lag in the start of decomposition was observed(2). Ferbam releases carbon disulfide when it decomposes in soil(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium, 11 th ed., British Crop Protection Council, Surrey, England 1997, p. 541",
+            "Value": "log Kow = -1.60"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Tomlin CDS, ed; The Pesticide Manual World Compendium. 11th ed., Surrey, England: British Crop Protection Council. P. 541 (1997) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-5 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Helling CS et al; Phytopathology 64: 1091-1100 (1974)",
+            "Value": "The Koc of ferbam is estimated as 300(SRC), using a water solubility of 130 mg/L(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that ferbam is expected to have moderate mobility in soil. Using a soil TLC system (Hagerstown silty clay loam, 2.5% organic matter, 39.5% clay, pH 6.8) visualized by bioautography with 10 soil fungi and one alga, mean Rf values for analytical grade ferbam were 0.93, 0.64, 0.36, and 0.0(4)."
+        },
+        {
+            "References": "Hornsby AG et al; Pesticide Properties in the Environment. NY, NY: Springer p. 114 (1996)",
+            "Value": "Adsorption coefficient (Kd)  = 300 mg/g"
+        }
+    ],
+    "plant_translocation": [
+        {
+            "References": "Evaluation of Systemic Fungicides for Control of Cronartium quercuum",
+            "Value": "Ferbam is classified as a non-systemic protective fungicide. It works by inhibiting spore germination on plant surfaces, but is not absorbed or translocated within plant tissues. Ferbam forms a barrier film on exterior leaf and stem surfaces, but does not penetrate internally or have mobility in the xylem/phloem. It must be reapplied frequently as protective residues get washed off by rain and cannot redistribute inside the plant. In summary, ferbam lacks systemic activity and acts solely through localized surface contact on leaves and stems. It cannot be taken up or transported within the plant after application."
+        }
+    ]
+}

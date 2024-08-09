@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "66927129303528b49832d829"
+    },
+    "CID": {
+        "$numberInt": "38779"
+    },
+    "Name": "Profenofos",
+    "IUPACName": "4-bromo-2-chloro-1-[ethoxy(propylsulfanyl)phosphoryl]oxybenzene",
+    "CanonicalSMILES": "CCCSP(=O)(OCC)OC1=C(C=C(C=C1)Br)Cl",
+    "Synonyms": [
+        "PROFENOFOS",
+        "41198-08-7",
+        "Curacron",
+        "Selecron",
+        "Profenophos",
+        "O-(4-Bromo-2-chlorophenyl) O-ethyl S-propyl phosphorothioate",
+        "4-bromo-2-chloro-1-[ethoxy(propylsulfanyl)phosphoryl]oxybenzene",
+        "Phosphorothioic acid",
+        "O-(4-bromo-2-chlorophenyl) O-ethyl S-propyl ester",
+        "BRN 2150258",
+        "7J04O7BS4W",
+        "DTXSID3032464",
+        "CHEBI:38845",
+        "O-(4-Bromo-2-chlorophenyl)-O-ethyl-S-propyl phosphorothioate",
+        "o-(4-Bromo-2-chlorophenyl) o-ethyl S-propyl thiophosphate",
+        "(+)-Profenofos"
+    ],
+    "IsomericSMILES": "CCCSP(=O)(OCC)OC1=C(C=C(C=C1)Br)Cl",
+    "INCHI": "InChI=1S/C11H15BrClO3PS/c1-3-7-18-17(14,15-4-2)16-11-6-5-9(12)8-10(11)13/h5-6,8H,3-4,7H2,1-2H3",
+    "INCHIKEY": "QYMMJNLHFKGANY-UHFFFAOYSA-N",
+    "Formula": "C11H15BrClO3PS",
+    "MolecularWeight": {
+        "$numberDouble": "373.63"
+    },
+    "Description": "Profenofos is an organic thiophosphate, an organophosphate insecticide, an organochlorine insecticide and a member of monochlorobenzenes. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, an acaricide and an agrochemical. It is functionally related to a 4-bromo-2-chlorophenol.",
+    "XlogP": {
+        "$numberDouble": "4.7"
+    },
+    "Complexity": {
+        "$numberInt": "296"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "An in vivo uptake and elimination tracing study based on solid phase microextraction (SPME) was conducted to investigate the accumulation, persistence, and distribution of organochloride pesticides (OCPs) and organophosphorus pesticides (OPPs) in Malabar spinach (Basella alba L.) plants. Uptake and elimination of the pesticides were traced in leaves, stems, and roots of living Malabar spinach plants. Root concentration factor (RCF), distribution concentration factor (DCF), and transpiration stream concentration factor (TSCF) were calculated based on the in vivo tracing data. The tracing data showed that the OCPs were much more accumulative and persistent than the OPPs in roots, while they were similarly accumulative and persistent in leaves and stems. RCF values of the OPPs or OCPs were likely to increase with the increase in LogKow values except fenthion. Obtained DCF values indicated that OPPs and OCPs were more accumulative in the organs containing more lipids. TSCF values showed that the translocation of OPPs and OCPs from roots to foliage was firstly dependent on the hydrophobicity of the compounds, but also significantly affected by the water solubility. This is the first study of generating RCF, DCF, and TSCF data in living plants by in vivo sampling method, which provides a foundation to promote the application of in vivo SPME and improve understanding of contaminant behaviors in living plants.",
+            "reference": "Qiu, J., Chen, G., Xu, J., Luo, E., Liu, Y., Wang, F., ... & Ouyang, G. (2016). In vivo tracing of organochloride and organophosphorus pesticides in different organs of hydroponically grown malabar spinach (Basella alba L.). Journal of hazardous materials, 316, 52-59.",
+            "method": {
+                "Test Plant": "Malabar spinach plants",
+                "Apply Location": "Root/hydroponic exposure",
+                "Plant Grown Condition": "Plants were grown from seeds in a plant growth chamber with controlled conditions - temperature 28\u00b0C/18\u00b0C day/night, 10h light period from 8am-6pm, 70% humidity. Plants were about 3 months old at start with average weight 73.8\u00b18.6g (for OPPs exposure) and 94.6\u00b115.7g (for OCPs exposure). Transpiration rate was 18.5 g/m2/h daytime and 1.23 g/m2/h nighttime.",
+                "Chemical Preparation": "Stock solutions of 100 mg/mL in methanol were prepared for parathion-methyl, propetamphos, endosulfan, fenthion, quinalphos, profenofos, HCB, p'p-DDT, aldrin and mirex (\u226598% purity).",
+                "Pesticide Application Details for the Plant": "Two days before exposure, plants were transferred to hydroponic cultivation buckets with 300 mL nutrient solution spiked to 100 ng/mL concentration for each compound from the stock solutions. Spiked nutrient solutions were renewed daily at 12:00 am.",
+                "Other Information": "Experiments divided into OPPs exposed group and OCPs exposed group"
+            },
+            "result": "[{\"Days after application\": 2, \"Leaf (mg/g)\": 33.529, \"Stem (mg/g)\": 12.663, \"Root (mg/g)\": 1209.756}, {\"Days after application\": 4, \"Leaf (mg/g)\": 139.411, \"Stem (mg/g)\": 60.262, \"Root (mg/g)\": 1931.707}, {\"Days after application\": 6, \"Leaf (mg/g)\": 130.0, \"Stem (mg/g)\": 49.781, \"Root (mg/g)\": 2087.804}, {\"Days after application\": 8, \"Leaf (mg/g)\": 122.352, \"Stem (mg/g)\": 52.401, \"Root (mg/g)\": 1873.17}, {\"Days after application\": 10, \"Leaf (mg/g)\": 78.235, \"Stem (mg/g)\": 27.51, \"Root (mg/g)\": 1112.195}, {\"Days after application\": 12, \"Leaf (mg/g)\": 27.058, \"Stem (mg/g)\": 16.157, \"Root (mg/g)\": 614.634}, {\"Days after application\": 14, \"Leaf (mg/g)\": 7.058, \"Stem (mg/g)\": 6.986, \"Root (mg/g)\": 185.365}]"
+        }
+    ]
+}

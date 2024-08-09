@@ -1,0 +1,78 @@
+{
+    "_id": {
+        "$oid": "6682e9aec4e5dba5ffba2bd9"
+    },
+    "CID": {
+        "$numberInt": "3034287"
+    },
+    "Name": "Nitenpyram",
+    "IUPACName": "(E)-1-N'-[(6-chloropyridin-3-yl)methyl]-1-N'-ethyl-1-N-methyl-2-nitroethene-1,1-diamine",
+    "CanonicalSMILES": "CCN(CC1=CN=C(C=C1)Cl)C(=C[N+](=O)[O-])NC",
+    "Synonyms": [
+        "Nitenpyram",
+        "150824-47-8",
+        "(E)-Nitenpyram",
+        "120738-89-8",
+        "Niterndipoine",
+        "Bestguard",
+        "Capstar",
+        "\"(E)-N-((6-Chloropyridin-3-yl)methyl)-N-ethyl-N-methyl-2-nitroethene-1,1-diamine\"",
+        "Nitenpyram [ISO]",
+        "TI 304",
+        "CHEBI:39170",
+        "UNII-3A837VZ81Y",
+        "\"(1E)-N-((6-chloro-3-pyridinyl)methyl)-N-ethyl-N-methyl-2-nitro-1,1-ethenediamine\"",
+        "DTXSID8041080",
+        "3A837VZ81Y"
+    ],
+    "IsomericSMILES": "CCN(CC1=CN=C(C=C1)Cl)/C(=C/[N+](=O)[O-])/NC",
+    "INCHI": "InChI=1S/C11H15ClN4O2/c1-3-15(11(13-2)8-16(17)18)7-9-4-5-10(12)14-6-9/h4-6,8,13H,3,7H2,1-2H3/b11-8+",
+    "INCHIKEY": "CFRPSFYHXJZSBI-DHZHZOJOSA-N",
+    "Formula": "C11H15ClN4O2",
+    "MolecularWeight": {
+        "$numberDouble": "270.71"
+    },
+    "Description": "Nitenpyram is a C-nitro compound consisting of 2-nitroethene-1,1-diamine where one of the nitrogens bears ethyl and (6-chloro-3-pyridinyl)methyl while the other nitrogen carries a methyl group. It has a role as a neonicotinoid insectide. It is a C-nitro compound and a monochloropyridine. It is functionally related to a 2-chloropyridine.",
+    "XlogP": {
+        "$numberDouble": "2.4"
+    },
+    "Complexity": {
+        "$numberInt": "306"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "PMID:27960287",
+            "Value": "The half-life of nitenpyram in cotton leaves grown from treated seeds is about 3 days(1)."
+        }
+    ],
+    "animal_concentrations": [
+        {
+            "References": "PMID:28376431",
+            "Value": "Nitenpyram was not detected (quantification limit 2-10 ng/mL) in blood samples from 30 nestlings of Eurasian eagle owl (Bubo Bubo) in Spain(1)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "PMID:29364652",
+            "Value": "Nitenpyram was not detected (detection limit 3.8 ng/g) in 6 red swamp crayfish (Procambarus clarkii) and 5 mantis (Oratosquilla oratoria) shrimp samples collected from Chinese markets(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "The insecticidal activity of nitenpyram by translocation from the treated leaf to the untreated leaves was examined against the cotton aphid. The second leaf of the cucumber was sprayed with the chemical solution of the practical concentration, with the other parts of the plant covered with a polyethylene bag to keep them free from chemical deposits. The adult females of the apterous vivipara were placed onto the untreated first and third leaves on the day of treatment, and 1 weekafter and 2 weeks after treatment. The numbers of aphids were counted 5 days after the inoculation. Nitenpyram highly suppressedthe aphid densities, not only on the first leaf, but on the third leaf for 2 weeks after treatment (Table 13).  The excellent insecticidal activity by translaminar action and translocation was the outstanding characteristic of nitenpyram, and its good systemicity will minimize the adverse effect of biased deposit distribution of the sprayed chemical solution. ",
+            "reference": "Akayama, A., & Minamida, I. (1999). Discovery of a new systemic insecticide, nitenpyram and its insecticidal properties. In Nicotinoid insecticides and the nicotinic acetylcholine receptor (pp. 127-148). Tokyo: Springer Japan.",
+            "method": {
+                "Test Plant": "Rice (Oryza sativa)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Six rice seedlings of the two-leaf stage, cultivated in a paper pot (D: 1.5 cm, W: 1.5 cm, H: 2.0 cm)",
+                "Chemical Preparation": "Nitenpyram were dissolved in 5% sucrose solutions.The concentration of nitenpyram is 100 ppm.",
+                "Pesticide Application Details for the Plant": "Rice seedlings were treated by foliar spray with 10 mL of a test solution until runoff using a handheld airbrush sprayer.",
+                "Other Information": "-"
+            },
+            "result": "[{\"Days after application\": 14, \"First untreated leaf (ppm)\": 10, \"Second untreated leaf (ppm)\": 8}]"
+        }
+    ]
+}

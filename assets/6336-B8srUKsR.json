@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "6692711a303528b49832d7eb"
+    },
+    "CID": {
+        "$numberInt": "6336"
+    },
+    "Name": "Myclobutanil",
+    "IUPACName": "2-(4-chlorophenyl)-2-(1,2,4-triazol-1-ylmethyl)hexanenitrile",
+    "CanonicalSMILES": "CCCCC(CN1C=NC=N1)(C#N)C2=CC=C(C=C2)Cl",
+    "Synonyms": [
+        "MYCLOBUTANIL",
+        "88671-89-0",
+        "Systhane",
+        "2-((1H-1,2,4-Triazol-1-yl)methyl)-2-(4-chlorophenyl)hexanenitrile",
+        "Rally",
+        "Nova",
+        "Synthane 12E",
+        "HOE 39304F",
+        "2-(4-chlorophenyl)-2-(1,2,4-triazol-1-ylmethyl)hexanenitrile",
+        "B6T1JTM6KZ",
+        "2-(4-Chlorophenyl)-2-(1H-1,2,4-triazol-1-ylmethyl)hexanenitrile",
+        "DTXSID8024315",
+        "CHEBI:83729",
+        "(+)-myclobutanil",
+        "MFCD00144818"
+    ],
+    "IsomericSMILES": "CCCCC(CN1C=NC=N1)(C#N)C2=CC=C(C=C2)Cl",
+    "INCHI": "InChI=1S/C15H17ClN4/c1-2-3-8-15(9-17,10-20-12-18-11-19-20)13-4-6-14(16)7-5-13/h4-7,11-12H,2-3,8,10H2,1H3",
+    "INCHIKEY": "HZJKXKUJVSEEFU-UHFFFAOYSA-N",
+    "Formula": "C15H17ClN4",
+    "MolecularWeight": {
+        "$numberDouble": "288.77"
+    },
+    "Description": "2-(4-chlorophenyl)-2-(1H-1,2,4-triazol-1-ylmethyl)hexanenitrile is a nitrile that is hexanenitrile substituted at the 2-position by p-chlorophenyl and (1,2,4-triazol-1-yl)methyl groups. It is a nitrile, a member of triazoles and a member of monochlorobenzenes.",
+    "XlogP": {
+        "$numberDouble": "2.9"
+    },
+    "Complexity": {
+        "$numberInt": "345"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Based on the original material of 14C2-labeled Ba14CO3, 14C2-labeled 1,2,4-triazole was synthesized through a 4-step reaction process. The radioactive strength, specific activity, radiochemical purity, and radiochemical yield were 5.8131 mCi, 15.5347 \u03bcCi/mg, more than 99%, and 84.21%, respectively. Following methods reported for synthesizing myclobutanil, 14C2-labeled myclobutanil was produced from 4-chlorophenylacetonitrile through substitution and condensation. Its radioactive strength, specific activity, radiochemical purity, and radiochemical yield were 0.5566 mCi, 2.53 \u03bcCi/mg, more than 96%, and 85.4%, respectively. The uptake, translocation, and distribution of 14C2-myclobutanil in wheat seedlings at the 2-3 leaf stage were studied using radioactive tracing experiments. The results showed that radioactivity in the treated wheat roots decreased from 59.88% to 24.87%, while the accumulation of radioactivity in the stem base and leaves increased from 14.18% and 1.19% to 19.47% and 33.75%, respectively, after dipping the roots into 14C2-myclobutanil solution for 6-120 hours. 14C2-myclobutanil was readily absorbed and translocated upwards to the top of wheat seedlings. The distribution and accumulation of 14C2-myclobutanil in wheat leaves were positively correlated with the treatment time of root dipping, showing a steady increase in radioactivity from 2.94 \u00d7 10-6 \u03bcCi at 6 hours to 322.72 \u00d7 10-6 \u03bcCi at 120 hours. Autoradiograph experiments indicated that 14C2-myclobutanil could be absorbed and distributed throughout the whole seedling at 120 hours after treating the roots.",
+            "reference": "Xi-li, L. I. U., Shuang, L. U. O., Jun, Y. A. N. G., Can-xian, M. U., & Jian-qiang, L. I. (2008). Synthesis of 14C-Labelled Myclobutanil and the Corroboration of its Uptake and Translocation in Wheat Seedling. Chinese Journal of Pesticide Science, 10(1), 23-27.",
+            "method": {
+                "Test Plant": "Wheat seedlings",
+                "Application Location": "Root soaking (root application)",
+                "Plant Growth Condition": "The seedlings were cultured in test tubes, 10 seedlings per tube, with a total of 2 groups.",
+                "Chemical Preparation": "An aqueous solution of 14C-azoxystrobin was prepared with a specific activity of 1.5 \u03bcCi/mL.",
+                "Pesticide Application Details for the Plant": "The roots of wheat seedlings were soaked in 8 mL of the aqueous solution containing 1.5 \u03bcCi/mL of 14C-azoxystrobin and cultured at 20\u00b12\u00b0C for 6, 8, 12, 24, 48, 72, 96, and 120 hours, respectively.",
+                "Other Information": "There were 8 replicates for each treatment time, with a total of 2 groups of replicates. After treatment, the plants were washed with water, 75% ethanol, and distilled water, and then oven-dried at 50\u00b0C for 72 hours for further analysis. This experiment used wheat seedlings as the test material, with 14C-azoxystrobin applied via root soaking. Different treatment time points were set, with sufficient replicates at each time point, to study the absorption and translocation behavior of 14C-azoxystrobin in wheat seedlings."
+            },
+            "result": "[{\"Hours after application\": 6, \"Root (%)\": 59.88, \"Stem (%)\": 14.18, \"Leaf (%)\": 1.19, \"Remained seed (%)\": 24.74}, {\"Hours after application\": 8, \"Root (%)\": 49.03, \"Stem (%)\": 21.48, \"Leaf (%)\": 2.4, \"Remained seed (%)\": 27.09}, {\"Hours after application\": 12, \"Root (%)\": 27.53, \"Stem (%)\": 33.31, \"Leaf (%)\": 4.09, \"Remained seed (%)\": 36.21}, {\"Hours after application\": 24, \"Root (%)\": 16.37, \"Stem (%)\": 23.87, \"Leaf (%)\": 23.46, \"Remained seed (%)\": 36.26}, {\"Hours after application\": 48, \"Root (%)\": 11.79, \"Stem (%)\": 23.89, \"Leaf (%)\": 32.82, \"Remained seed (%)\": 31.5}, {\"Hours after application\": 72, \"Root (%)\": 15.2, \"Stem (%)\": 20.95, \"Leaf (%)\": 34.53, \"Remained seed (%)\": 29.32}, {\"Hours after application\": 96, \"Root (%)\": 13.89, \"Stem (%)\": 20.65, \"Leaf (%)\": 37.44, \"Remained seed (%)\": 28.02}, {\"Hours after application\": 120, \"Root (%)\": 24.87, \"Stem (%)\": 19.47, \"Leaf (%)\": 33.75, \"Remained seed (%)\": 21.91}]"
+        }
+    ]
+}

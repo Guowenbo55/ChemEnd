@@ -1,0 +1,69 @@
+{
+    "_id": {
+        "$oid": "6682e991c4e5dba5ffba2b47"
+    },
+    "CID": {
+        "$numberInt": "131204"
+    },
+    "Name": "Dexpanthenol",
+    "IUPACName": "(2R)-2,4-dihydroxy-N-(3-hydroxypropyl)-3,3-dimethylbutanamide",
+    "CanonicalSMILES": "CC(C)(CO)C(C(=O)NCCCO)O",
+    "Synonyms": [
+        "Dexpanthenol",
+        "D-Panthenol",
+        "81-13-0",
+        "Pantothenol",
+        "D-Pantothenyl alcohol",
+        "Bepanthen",
+        "Ilopan",
+        "Bepanthene",
+        "Bepantol",
+        "Pantol",
+        "(+)-Panthenol",
+        "Provitamin B",
+        "Panthoderm",
+        "Thenalton",
+        "Motilyn"
+    ],
+    "IsomericSMILES": "CC(C)(CO)[C@H](C(=O)NCCCO)O",
+    "INCHI": "InChI=1S/C9H19NO4/c1-9(2,6-12)7(13)8(14)10-4-3-5-11/h7,11-13H,3-6H2,1-2H3,(H,10,14)/t7-/m0/s1",
+    "INCHIKEY": "SNPLKNRPJHDVJA-ZETCQYMHSA-N",
+    "Formula": "C9H19NO4",
+    "MolecularWeight": {
+        "$numberDouble": "205.25"
+    },
+    "Description": "Pantothenol is a monocarboxylic acid amide that is 3,3-dimethylbutanamide substituted by hydroxy groups at positions 2 and 4 and a 3-hydroxypropyl group at the carbomyl nitrogen. It has a role as a cholinergic drug and a provitamin. It is an amino alcohol and a monocarboxylic acid amide.",
+    "XlogP": {
+        "$numberDouble": "-0.9"
+    },
+    "Complexity": {
+        "$numberInt": "182"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "mechanism_of_action": [
+        {
+            "References": "Osol, A. and J.E. Hoover, et al. (eds.). Remington's Pharmaceutical Sciences. 15th ed. Easton, Pennsylvania: Mack Publishing Co., 1975., p. 752",
+            "Value": "This alcohol ... is said to increase the amount of coenzyme A available for the synthesis of acetylcholine. Increased formation of acetylcholine is thought to increase peristalsis and intestinal tone."
+        },
+        {
+            "References": "Wiederholt T et al; Exper Dermatol 18 (11): 969-78 (2009). Available from, as of March 16, 2010: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=19397697",
+            "Value": "... To test the functional effect of pantothenate on dermal fibroblasts, cells were cultured and in vitro proliferation tests were performed using a standardized scratch test procedure. For all three donors analyzed, a strong stimulatory effect of pantothenate at a concentration of 20 ug/mL on the proliferation of cultivated dermal fibroblasts was observed. To study the molecular mechanisms resulting in the proliferative effect of pantothenate, gene expression was analyzed in dermal fibroblasts cultivated with 20 ug/mL of pantothenate compared with untreated cells using the GeneChip Human Exon 1.0 ST Array. A number of significantly regulated genes were identified including genes coding for interleukin (IL)-6, IL-8, Id1, HMOX-1, HspB7, CYP1B1 and MARCH-II. Regulation of these genes was subsequently verified by quantitative real-time polymerase chain reaction analysis. Induction of HMOX-1 expression by pantothenol and pantothenic acid in dermal cells was confirmed on the protein level using immunoblots. Functional studies revealed the enhanced suppression of free radical formation in skin fibroblasts cultured with panthenol. In conclusion, these studies provided new insight in the molecular mechanisms linked to the stimulatory effect of pantothenate and panthenol on the proliferation of dermal fibroblasts. /Calcium pantotenate/"
+        },
+        {
+            "References": "Slyshenkov V et al; FEBS Lett 569 (1-3): 169-72 (2004). Available from, as of March 16, 2010: https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15225628",
+            "Value": "... Pantothenic acid, pantothenol and other derivatives ...  are precursors of CoA /that/ protect cells and whole organs against peroxidative damage by increasing the content of cell glutathione..."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Samueli F; Rass Med Sper 12(1) 16 (1965)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ /With/ im injections in normal rats, pantothenol had no effect on intestinal peristalsis and had no choleretic activity."
+        },
+        {
+            "References": "PMID:8458222",
+            "Value": "/GENOTOXICITY/ ... A lymphocyte transformation test was performed. After preincubation with dexpanthenol-modified microsomes, ...  an increase in lymphocyte proliferation to dexpanthenol /was observed/, in comparison to dexpanthenol without microsomes, suggesting that microsomal metabolism plays a role in the pathogenesis of dexpanthenol sensitization, because microsomes are known to possess drug metabolizing enzymes such as cytochrome P450."
+        }
+    ]
+}

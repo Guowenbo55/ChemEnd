@@ -1,0 +1,87 @@
+{
+    "_id": {
+        "$oid": "6682e842c4e5dba5ffba24b2"
+    },
+    "CID": {
+        "$numberInt": "6351"
+    },
+    "Name": "CYCLOPROPANE",
+    "IUPACName": "cyclopropane",
+    "CanonicalSMILES": "C1CC1",
+    "Synonyms": [
+        "CYCLOPROPANE",
+        "Trimethylene",
+        "75-19-4",
+        "ciclopropano",
+        "cyclopropanum",
+        "Zyklopropan",
+        "Trimethylene (cyclic)",
+        "Cyclopropan",
+        "HSDB 812",
+        "EINECS 200-847-8",
+        "RC 270",
+        "CHEBI:30365",
+        "UNII-99TB643425",
+        "99TB643425",
+        "DTXSID4058786"
+    ],
+    "IsomericSMILES": "C1CC1",
+    "INCHI": "InChI=1S/C3H6/c1-2-3-1/h1-3H2",
+    "INCHIKEY": "LVZWSLJZHVFIQJ-UHFFFAOYSA-N",
+    "Formula": "C3H6",
+    "MolecularWeight": {
+        "$numberDouble": "42.08"
+    },
+    "Description": "Cyclopropane is a cycloalkane composed of three carbon atoms to form a ring. It has a role as an inhalation anaesthetic. It is a cycloalkane and a member of cyclopropanes.",
+    "XlogP": {
+        "$numberDouble": "1.6"
+    },
+    "Complexity": {
+        "$numberInt": "4"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR (consult ed) Washington, DC: Amer Chem Soc p 6 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF value of 12 was calculated for cyclopropane(SRC), using an experimental log Kow of 1.72(1) and a recommended regression-derived equation(2). According to a classification scheme(3), this BCF value suggests that bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 6",
+            "Value": "log Kow = 1.72"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Angel A, Gratton DA; Prog Anesthesiol 3 (Pharmacol Basis Anesthesiol): 1-12 (1983)",
+            "Value": "The effect of several inhalation and iv anesthetics, alone or in combination, on brain electric activity during evoked cortical response was studied in rats. All of the anesthetics affect the evoked sensory response in a manner which suggests a common site of anesthetic action, namely, the perturbation of normal modulation exerted upon the ventrobasal thalamus by the thalamic reticular nucleus which is remarkably susceptible to the action of these agents."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 90",
+            "Value": "POST-ANESTHETIC VOMITING OFTEN FOLLOWS THE USE OF CYCLOPROPANE IN SMALL ANIMALS."
+        },
+        {
+            "References": "PMID:375954",
+            "Value": "CYCLOPROPANE ASSESSED IN VITRO BY MICROBIAL ASSAY EMPLOYING 2 HISTIDINE-DEPENDENT STRAINS OF SALMONELLA TYPHIMURIUM, TA1535 & TA100. CYCLOPROPANE WAS NOT MUTAGENIC."
+        },
+        {
+            "References": "Clayton, G.D., F.E. Clayton (eds.) Patty's Industrial Hygiene and Toxicology. Volumes 2A, 2B, 2C, 2D, 2E, 2F: Toxicology. 4th ed. New York, NY: John Wiley & Sons Inc., 1993-1994., p. 1269",
+            "Value": "Cyclopropane acts rapidly in the dog and serves as a model for predicting anesthetic concentrations for human application. In chickens, exposure for 6 hr produced embryonic abnormalities at 10 to 20% and death at 20 to 30% in 12 hr exposures."
+        },
+        {
+            "References": "PMID:623938",
+            "Value": "CYCLOPROPANE LOWERED THE ARTERIAL PRESSURE OF THE PITHED RAT. HEART RATE WAS UNCHANGED. CYCLOPROPANE DECR THE PRESSOR RESPONSES TO SYMPATHETIC NERVE STIMULATION AND REDUCED MOTOR RESPONSES OF SMOOTH MUSCLE OF THE COLON TO PARASYMPATHETIC STIMULATION."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Professional Reference Book. Heller SR (consult ed) Washington, DC: Amer Chem Soc p 6 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 23 (1983)",
+            "Value": "The Koc of cyclopropane is estimated as approximately 210(SRC), using an experimental log Kow of 1.72(1) and a regression-derived equation(2,SRC). According to a recommended classification scheme(3), this estimated Koc value suggests that cyclopropane is expected to have moderate mobility in soil(SRC)."
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "_id": {
+        "$oid": "6682e83fc4e5dba5ffba24a2"
+    },
+    "CID": {
+        "$numberInt": "6326"
+    },
+    "Name": "ACETYLENE",
+    "IUPACName": "acetylene",
+    "CanonicalSMILES": "C#C",
+    "Synonyms": [
+        "ACETYLENE",
+        "Ethyne",
+        "Acetylen",
+        "Narcylen",
+        "Ethine",
+        "Vinylene",
+        "74-86-2",
+        "Azetylen",
+        "C2H2",
+        "Ethin",
+        "CH#CH",
+        "HC#CH",
+        "ACETYLENE (D1)",
+        "[CH(CH)]",
+        "OC7TV75O83"
+    ],
+    "IsomericSMILES": "C#C",
+    "INCHI": "InChI=1S/C2H2/c1-2/h1-2H",
+    "INCHIKEY": "HSFWRNGVRCDJHI-UHFFFAOYSA-N",
+    "Formula": "C2H2",
+    "MolecularWeight": {
+        "$numberDouble": "26.04"
+    },
+    "Description": "Acetylene is a terminal acetylenic compound, a gas molecular entity and an alkyne.",
+    "XlogP": {
+        "$numberDouble": "0.4"
+    },
+    "Complexity": {
+        "$numberInt": "8"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 20 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Jan 15, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm/ (3) Franke C et al; Chemosphere 29: 1501-14 (1994)]",
+            "Value": "An estimated BCF of 3 was calculated in fish for acetylene(SRC), using a log Kow of 0.37(1) and a regression-derived equation(2). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Jan 15, 2014: https://www.safe.nite.go.jp/english/db.html",
+            "Value": "AEROBIC: Acetylene, present at 1.6 mg/L, reached 0% of its theoretical BOD in 28 days using an activated sludge inoculum in the Japanese MITI test(1)."
+        },
+        {
+            "References": "(1) Dov K; Microbiology 41: 1247-8 (1980) (2) de Bont JAM, Peck MW; Arch Microbiol 127: 99-104 (1980)",
+            "Value": "PURE CULTURE: Pure cultures of Rhodococcus A1 have been show to metabolize acetylene; the major metabolite from this biodegradation is acetaldehyde(1,2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 4",
+            "Value": "log Kow = 0.37"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Acetylene (74-86-2) (2000 CD-ROM  edition). Available from, as of Sept 11, 2006: https://esis.jrc.ec.europa.eu/",
+            "Value": "Acetylene alkylates the cytochrome P450 prothestic heme. This alkylation is coupled with catalytic turnover by the target enzyme and results in suicide inactivation of the enzymes. The oxidation of acetylene appears to result in the highly instable epoxide that rearranges to the keten. The structure of the prosthetic heme adduct is -CH2CHO."
+        },
+        {
+            "References": "Lewis, R.J. Sr. (ed) Sax's Dangerous Properties of Industrial Materials. 11th Edition. Wiley-Interscience, Wiley & Sons, Inc. Hoboken, NJ. 2004., p. 44",
+            "Value": "Acetylene acts as a simple asphyxiant by diluting the oxygen in the air to a level which will not support life."
+        },
+        {
+            "References": "International Program on Chemical Safety/Commission of the European Union; International Chemical Safety Card on ACETYLENE (05.08.2003). Available from, as of 02.05.2014: https://www.inchem.org/pages/icsc.htm",
+            "Value": "On loss of containment this substance /(acetylene)/ can cause suffocation by lowering the oxygen content of the air in confined areas."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Acetylene (74-86-2) (2000 CD-ROM  edition). Available from, as of Sept 11, 2006: https://esis.jrc.ec.europa.eu/",
+            "Value": "... Acetylene-oxygen mixtures (750,000 to 800,000 ppm) produced an increase in blood pressure of patients during anesthesia ... attributable to stimulation of the vasomotor center."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "EPA/Office of Pollution Prevention and Toxics; High Production Volume (HPV) Challenge Program's Robust Summaries and Test Plans for Acetylene (December 2003). Available from, as of September 10, 2006: https://www.epa.gov/chemrtk/pubs/summaries/acetylen/c15005.pdf",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In rats, a concentration of 78% acetylene (780,000 ppm) produced anesthesia in 15 minutes, and inhalation of 90% for 2 hours caused respiratory failure ..."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Acetylene (74-86-2) (2000 CD-ROM  edition). Available from, as of Sept 11, 2006: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Rabbits were exposed to acetylene/oxygen mixtures containing up to 700,000 ppm acetylene. After 17 min saturation of the blood acetylene concn was reached. Acetylene did not impair the oxygen content in the arterial blood, but the carbon dioxide tension was decreased. Increased respiration was observed after anesthesia."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Acetylene (74-86-2) (2000 CD-ROM  edition). Available from, as of Sept 11, 2006: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... The effects of acetylene anesthesia on carbohydrate and acid-base regulation in the blood of dogs which had been admin acetylene at a concn of 800000 ppm in oxygen for 1 hr /were studied/. The following observations were made: a decrease in the alkali reserve and carbonic acid concn, an increase during and a fall after anesthesia in both the oxygen-binding capacity of the blood and the arterial-oxygen deficit. A slight decrease in blood sugar levels during anesthesia."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Acetylene (74-86-2) (2000 CD-ROM  edition). Available from, as of Sept 11, 2006: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Male Wistar rats were exposed to 5% acetylene for 18 hr. This treatment caused loss of heme and a marked accumulation of porphyrins in the liver. Metabolic activation of acetylene was necessary for the loss of microsomal cytochrome P450."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 118",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Mammals have shown tolerance to acetylene at 10%, intoxication at 25%, and death at 50% in 5-10 min."
+        },
+        {
+            "References": "DHHS/CDC/NIOSH; Current Intelligence Bulletin 65: Occupational Exposure to Acetyene (Publication No. 76-195) p.11 (July 1976). Available from, as of February 6, 2014: https://www.cdc.gov/niosh/pubs/cib_date_desc_nopubnumbers.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Both the volume and the frequency of respiration were increased in dogs during the administration of an anesthetic mixture of acetylene at a concentration of 850,000 ppm in oxygen. The authors concluded that acetylene caused an increase in respiratory frequency and volume even during deep anesthesia and it slightly stimulated the elimination of carbon dioxide."
+        },
+        {
+            "References": "EPA/Office of Pollution Prevention and Toxics; High Production Volume (HPV) Challenge Program's Robust Summaries and Test Plans for Acetylene (December 2003). Available from, as of September 10, 2006: https://www.epa.gov/chemrtk/pubs/summaries/acetylen/c15005.pdf",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... Possible organ damage from the administration of acetylene at anesthetic concentrations to rats, mice, guinea pigs, rabbits, and dogs /was investigated/. Animals were exposed to acetylene in oxygen /at 25 to 80%, 0.5 to 2 hr/day for 1 to 93 days/ ... At the lower concentrations (concentrations were not stated) the animals appeared only slightly sleepy. At higher concentrations the majority of animals fell asleep after 15 to 20 minutes. In general, these animals were not in deep /CNS depression/. The rats, rabbits, guinea pigs and dogs generally recovered from /CNS depression/ in a short time. However, the mice /at 50% 2 hr/day for 1 to 6 days/ did not survive treatment /(5/5 dead)/. Some of the animals died spontaneously ... In treated animals that survived to termination ... no evidence /was found/ of cellular injury to the parenchymatous cells of the heart, lungs, liver, kidneys, or spleen ..."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 4:118",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rodents exposed to 25, 50, or 80% acetylene in oxygen for 1 to 2 hr daily, up to 93 hr, showed no organ weight changes or cellular injuries."
+        },
+        {
+            "References": "EPA/Office of Pollution Prevention and Toxics; High Production Volume (HPV) Challenge Program's Robust Summaries and Test Plans for Acetylene (December 2003). Available from, as of September 10, 2006: https://www.epa.gov/chemrtk/pubs/summaries/acetylen/c15005.pdf",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ It has been well established that acetylene behaves in mammalian systems primarily as a central nervous depressant and asphyxiant at high dose levels (100,000 ppm in air or above). It produces varying degrees of temporary and reversible /CNS depression/ when administered with oxygen in concentrations of = or > 100,000 ppm (10% in air)."
+        },
+        {
+            "References": "EPA/Office of Pollution Prevention and Toxics; High Production Volume (HPV) Challenge Program's Robust Summaries and Test Plans for Acetylene (December 2003). Available from, as of September 10, 2006: https://www.epa.gov/chemrtk/pubs/summaries/acetylen/c15005.pdf",
+            "Value": "/GENOTOXICITY/ In an Ames test employing three strains of Salmonella typhimurium (TA97, TA98, TA100), acetylene did not induce mutations in both the absence and presence of metabolic activation."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Acetylene (74-86-2) (2000 CD-ROM  edition). Available from, as of Sept 11, 2006: https://esis.jrc.ec.europa.eu/",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ In vitro experiments with radiolabelled acetylene suggested that acetylene did not bind to proteins but possibly to the prosthetic heme group or the lipids close to the site of formation of reactive metabolites. /Male Wistar rats exposed to 5% acetylene/"
+        },
+        {
+            "References": "EPA/Office of Pollution Prevention and Toxics; High Production Volume (HPV) Challenge Program's Robust Summaries and Test Plans for Acetylene (December 2003). Available from, as of September 10, 2006: https://www.epa.gov/chemrtk/pubs/summaries/acetylen/c15005.pdf",
+            "Value": "/OTHER TOXICITY INFORMATION// Inhalation of 850,000 ppm caused increased respiratory volume and frequency and induced anesthesia in dogs, with rapid recovery ..."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Acetylene (74-86-2) (2000 CD-ROM  edition). Available from, as of Sept 11, 2006: https://esis.jrc.ec.europa.eu/",
+            "Value": "/OTHER TOXICITY INFORMATION/ ... The increased bleeding in peripheral tissues under acetylene anesthesia (800,000 ppm) /was investigated/. Cats were used as experimental animals. The results indicated that the intestinal blood vessels were constricted during acetylene anesthesia and the blood flow was forced to the peripheral blood vessels."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Acetylene (74-86-2) (2000 CD-ROM  edition). Available from, as of Sept 11, 2006: https://esis.jrc.ec.europa.eu/",
+            "Value": "/OTHER TOXICITY INFORMATION/ ... The effects of acetylene anesthesia (200,000 to 800,000 ppm) on the cardiovascular system in cats /were investigated/ ... An increase in blood pressure caused by excitation of the vasomotor center with concurrent displacement of blood from the abdominal cavity to peripheral blood vessels /was found/. A decrease in the pulse frequency was due to an excitation of the vagal center. The increase in the amplitude of the heart was caused by a direct effect on the heart."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Acetylene (74-86-2). Available from, as of February 19, 2000: https://esis.jrc.ec.europa.eu/",
+            "Value": "/OTHER TOXICITY INFORMATION/ The authors investigated the effect of acetylene narcosis (200000 - 600000 ppm) on the rabbit uterus during labor. They concluded that acetylene had a positive effect."
+        },
+        {
+            "References": "DHHS/CDC/NIOSH; Current Intelligence Bulletin 65: Occupational Exposure to Acetyene (Publication No. 76-195) p.11 (July 1976). Available from, as of February 6, 2014: https://www.cdc.gov/niosh/pubs/cib_date_desc_nopubnumbers.html",
+            "Value": "/OTHER TOXICITY INFORMATION// ... An increase in the respiration of rabbits after the termination of anesthetic procedures in which up to 600,00 ppm of acetylene in oxygen /was used/."
+        },
+        {
+            "References": "DHHS/CDC/NIOSH; Current Intelligence Bulletin 65: Occupational Exposure to Acetyene (Publication No. 76-195) p.11 (July 1976). Available from, as of February 6, 2014: https://www.cdc.gov/niosh/pubs/cib_date_desc_nopubnumbers.html",
+            "Value": "/OTHER TOXICITY INFORMATION/ ... 30 experiments /were conducted/ on cats to study the effects of acetylene on the circulation. Using acetylene concentrations of 20,000-800,000 ppm in oxygen, they found that systolic blood pressure climbed to a maximum and then slowly dropped to normal. During initial anesthetic administration, the blood pressure increase by 30-40 mmHg with some animals exhibiting an increase of 80-100 mmHg. The authors concluded that this increase was caused by a stimulation of the vasomotor center with a concurrent displacement of blood from the splanchnic to the peripheral vessels. An observed slowing of the pulse rate was judged not to be related to the blood pressure increase but to a stimulation of the vagal center by acetylene. An increase in the amplitude of the pulse was also noted to be a consequence of this direct action on the heart."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 4 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Jan 15, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Smith et al.; Soil Science 116: 313-319 (1973)",
+            "Value": "The Koc of acetylene is estimated as 2(SRC), using a log Kow of 0.37(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that acetylene is expected to have very high mobility in soil. Less than 1 ppm of gas acetylene was absorbed to dry soil and a maximum of 90 ppm of acetylene was absorbed to moist soil samples taken from 6 soil samples from Oregon, Iowa and Saskatchewan, Canada(4)."
+        }
+    ]
+}

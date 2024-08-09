@@ -1,0 +1,79 @@
+{
+    "_id": {
+        "$oid": "6682e8e6c4e5dba5ffba27ea"
+    },
+    "CID": {
+        "$numberInt": "10693"
+    },
+    "Name": "PENTACHLOROANILINE",
+    "IUPACName": "2,3,4,5,6-pentachloroaniline",
+    "CanonicalSMILES": "C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)N",
+    "Synonyms": [
+        "PENTACHLOROANILINE",
+        "2,3,4,5,6-Pentachloroaniline",
+        "527-20-8",
+        "Benzenamine",
+        "2,3,4,5,6-pentachloro-",
+        "Pentachloroaminobenzene",
+        "2,3,4,5,6-Pentachlorobenzenamine",
+        "Aniline",
+        "2,3,4,5,6-pentachloro-",
+        "UW5QVL647I",
+        "DTXSID4037584",
+        "Pentachloroaniline 100 microg/mL in Cyclohexane",
+        "2,3,4,5,6-Pentachlorobenzeneamine",
+        "MFCD00014769",
+        "NSC-49579",
+        "NCGC00163906-02",
+        "Pentachloroaniline 10 microg/mL in Cyclohexane"
+    ],
+    "IsomericSMILES": "C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)N",
+    "INCHI": "InChI=1S/C6H2Cl5N/c7-1-2(8)4(10)6(12)5(11)3(1)9/h12H2",
+    "INCHIKEY": "KHCZSJXTDDHLGJ-UHFFFAOYSA-N",
+    "Formula": "C6H2Cl5N",
+    "MolecularWeight": {
+        "$numberDouble": "265.3"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "5.1"
+    },
+    "Complexity": {
+        "$numberInt": "150"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Dejonckheere W et al; Meded Fac Landbouwwet, Rijksuniv Gent 40: 1187-97 (1981)",
+            "Value": "After treating lettuce with quintozene, pentachloroaniline was detected ranging from 0.14 to 1.52 ppm within lettuce samples. Pentachloroaniline is assumed to reside in lettuce through degradation of quintozene occurring within the plant itself or from degradation of quintozene in the soil and uptake of pentachloroaniline through the root system or a combination of the 2 processes(1)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Ko WH et al; Phytopathology 59: 64-7 (1969) (2) Susarla S et al; Water Sci Technol 34: 489-494 (1996)",
+            "Value": "AEROBIC: After 2 weeks of exposure to different bacterial cultures incubated at 25 \u00b0C in both moist and submerged soil, pentachloroaniline did not degrade(1). ANAEROBIC: Using a sulfate reducing sediment taken from the Tsurumi river Japan, pentachloroaniline degraded step wise from 2,3,4,5-tetrachloroaniline, 2,3,5-trichloroaniline, 3,5-dichloroaniline, 3-chloroaniline to aniline. Pentachloroaniline degrades through preferential ortho chlorine removal displaying a rate constant of 0.017 day-1 with a half-life of 40 days(2)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Kuehl DW et al; Environ Int 9: 293-9 (1983)",
+            "Value": "Qualitative analysis of 1979 watershed fish by gas chromatography-mass spectrometry identified pentachloroaniline in Mill Creek Cincinnati, OH and White River Petersborg, IN (units not specified)(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Sabljic A et al; Chemosphere 31: 4489-4514 (1995)",
+            "Value": "log Kow= 5.08"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Dejonckheere W et al; Meded Fac Landbouwwet, Rijksuniv Gent 40: 1187-97 (1981) (2) Ohsawa K et al; J Pestic Sci 9: 339-45 (1984) (3) Smelt JH; pp. 3-13 in Decomposition of Toxic and Nontoxic Organic Compounds in Soil, Overcash VR (ed), Ann Arbor,MI: Ann Arbor Sci Publ (1981)",
+            "Value": "SOIL: Pentachloroaniline was detected in soil samples from a field previously sprayed with quintozene ranging from 0.1 ppm to 3.75 ppm(1). From a soil in which quintozene had been extensively used, pentachloroaniline was detected at 10.1 ppm(2). In Belgium, soil from a lettuce field contained 0.85 ppm of pentachloroaniline while soil from a chicory field contained 2.5 ppm. In Denmark, a field soil sample contained 1.8 ppm while soil from a greenhouse field in the Netherlands contained trace amounts of pentachloroaniline(3)."
+        }
+    ]
+}

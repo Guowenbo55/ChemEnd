@@ -1,0 +1,209 @@
+{
+    "_id": {
+        "$oid": "6682e821c4e5dba5ffba240b"
+    },
+    "CID": {
+        "$numberInt": "5392"
+    },
+    "Name": "TEMEPHOS",
+    "IUPACName": "[4-(4-dimethoxyphosphinothioyloxyphenyl)sulfanylphenoxy]-dimethoxy-sulfanylidene-lambda5-phosphane",
+    "CanonicalSMILES": "COP(=S)(OC)OC1=CC=C(C=C1)SC2=CC=C(C=C2)OP(=S)(OC)OC",
+    "Synonyms": [
+        "temephos",
+        "Temefos",
+        "3383-96-8",
+        "ABATE",
+        "Difos",
+        "Abathion",
+        "Biothion",
+        "Difenphos",
+        "Nephis",
+        "Procida",
+        "Ecopro 1707",
+        "Bithion",
+        "Nimitex",
+        "Nimitox",
+        "Swebate"
+    ],
+    "IsomericSMILES": "COP(=S)(OC)OC1=CC=C(C=C1)SC2=CC=C(C=C2)OP(=S)(OC)OC",
+    "INCHI": "InChI=1S/C16H20O6P2S3/c1-17-23(25,18-2)21-13-5-9-15(10-6-13)27-16-11-7-14(8-12-16)22-24(26,19-3)20-4/h5-12H,1-4H3",
+    "INCHIKEY": "WWJZWCUNLNYYAU-UHFFFAOYSA-N",
+    "Formula": "C16H20O6P2S3",
+    "MolecularWeight": {
+        "$numberDouble": "466.5"
+    },
+    "Description": "Temephos is an organic sulfide that is diphenyl sulfide in which the hydrogen at the para position of each of the phenyl groups has been replaced by a (dimethoxyphosphorothioyl)oxy group. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, an acaricide, an agrochemical and an ectoparasiticide. It is an organic thiophosphate, an organothiophosphate insecticide and an organic sulfide. It is functionally related to a 4,4'-thiodiphenol.",
+    "XlogP": {
+        "$numberDouble": "6"
+    },
+    "Complexity": {
+        "$numberInt": "474"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) US EPA; Registration Eligibility Document for Temephos, Chemical No 059001, Docket ID: EPA-HQ-OPP-2009-0081, Document ID: EPA-HQ-OPP-2009-0081-0064, Posted April 7, 2009. Available online from https://www.regulations.gov/fdmspublic/ContentViewer?objectId=09000064809240b1&disposition=attachment&contentType=pdf as of June 10, 2009. (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "A BCF of 2,300 was reported in a 28-day dynamic study of 120 acclimated fish exposed to C-14 labeled temephos at a concentration of 0.65 ug/L. Rapid uptake of temephos was observed and primarily intact temephos was detected. However, metabolism of the parent compound to temephos sulfoxide, was the major degradate. Detection of additional metabolites such as 4,4'-thiodiphenol, phosphorthioic acid, O-p-(p-hydroxyohenylthio)phenyl, O,O'-dimethyl ester and phosphoric acid, O-p-(p-hydroxypheny1thio)phenyl dimethyl ester were found(1). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is very high(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Daorai A, Menzer RE; Arch Environ Contam 5: 229-40 (1977) (2) Blinn RC, Pasarela NR; J Agr Food Chem 14: 152-6 (1966) (3) US EPA; Registration Eligibility Document for Temephos, Chemical No 059001, Docket ID: EPA-HQ-OPP-2009-0081, Document ID: EPA-HQ-OPP-2009-0081-0064, Posted April 7, 2009. Available from https://www.regulations.gov/fdmspublic/ContentViewer?objectId=09000064809240b1&disposition=attachment&contentType=pdf as of June 10, 2009.",
+            "Value": "AEROBIC: When incubated in water with isolates from a sewage treatment lagoon or a farm pond, ring-3H-temephos was found to slowly degrade after a 7 day lag period, forming products arising from the oxidation of the sulfide group and hydrolysis of the phosphate group(1). As the number of days of incubation increased from 1 to 10, the amount of radioactivity associated with the water soluble, highly polar metabolites increased from 2l to 42% of the total recovered radioactivity. The majority of radioactivity in the organic extraction layer was unchanged temephos. Metabolites consisted of 2 unknowns along with those identified as the sulfoxide, the mono-oxon, the mono-oxon sulfone and the monophenol derivatives of temephos(1). Temephos did not biodegrade after incubation in a natural pond water/sediment system for 7 days(2). Aerobic degradation of a concentration of 31.7 ug/g of temephos was carried out in water/sediment samples at pH 8.0, collected from Lake Mendota, WI. A continuous flow of air and a temperature of 25 \u00b0C was maintained during the experiment. The degradation followed first-order kinetics resulting in a half-life of 17.2 days(3)."
+        },
+        {
+            "References": "(1) US EPA; Registration Eligibility Document for Temephos, Chemical No 059001, Docket ID: EPA-HQ-OPP-2009-0081, Document ID: EPA-HQ-OPP-2009-0081-0064, Posted April 7, 2009. Available from, as of June 10, 2009: https://www.regulations.gov/fdmspublic/ContentViewer?objectId=09000064809240b1&disposition=attachment&contentType=pdf",
+            "Value": "ANEROBIC: Temephos (29.4 ug/g) and water/sediment samples collected from Lake Mendota, WI were incubated under a nitrogen atmosphere at a ratio of 10-to-1 water/sediment, underwent anaerobic degradation. The calculated primary half-life of temephos was 12.2 days (0-29 day range) and secondary half-life 27.2 days (20-121 day range). The water had a pH of 8.0 and was composed of 96% sand, 2% silt, 2% clay and a dissolved oxygen content of 10 mg/L(1)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Blinn RC, Pasarela NR; J Agr Food Chem 14: 152-6 (1966)",
+            "Value": "The concentration of temephos in Florida oysters, date not provided, ranged from 0.05-0.14 ppm(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 142",
+            "Value": "log Kow = 5.96"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the Threshold Limit Values and Biological Exposure Indices. 5th ed. Cincinnati, OH: American Conference of Governmental Industrial Hygienists, 1986., p. 557",
+            "Value": "Abate is a cholinesterase inhibiting insecticide."
+        },
+        {
+            "References": "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 2",
+            "Value": "Organophosphates poison insects and humans primarily by phosphorylation of the acetylcholinesterase enzyme at nerve endings. /Organophosphate Cholinesterase-inhibiting pesticides/"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "PMID:1373663",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The effect of short term exposure to monocrotophos (20 mg/kg) and abate (8600 mg/kg) on brain acetylcholinesterase activity was examined using male Wistar rats. Rats were administered 20 mg/kg monocrotophos or 8600 mg/kg abate orally. Rats were killed at 1 to 7 days after dosing. An in vitro study was conducted on the inhibition of brain acetylcholinesterase by monocrotophos. A maximum inhibition in the enzyme activity in the monocrotophos treated animals occurred on day one with a significant recovery being attained by day three. A second inhibition was noted on day five with a second recovery by day seven. Monocrotophos had no significant effect on the enzyme constant values but the maximum velocity varied, demonstrating a noncompetitive nature. Abate caused changes in both the maximum velocity and the enzyme constant at different time intervals. The in vitro studies with monocrotophos demonstrated an increase in the the enzyme constant with no changes in the the maximum velocity. The in vivo studies showed the the enzyme constant decreased and the maximum velocity varied when compared to control. ..."
+        },
+        {
+            "References": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-293",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In mammalian species it produces typical signs and symptoms of cholinesterase inhibition together with depression of plasma and red cell cholinesterase activity. Also leg weakness in chickens. ... Focal or diffuse necrosis of the liver occurred in some rabbits given 100 mg/kg per day for 5 days."
+        },
+        {
+            "References": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. Old Woking, Surrey, United Kingdom: Royal Society of Chemistry/Unwin Brothers Ltd., 1983., p. A380/OCT 83",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Inhalation of air almost saturated with temephos for 1 hr causes no ill-effects. No eye or skin irritation."
+        },
+        {
+            "References": "PMID:92820",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Rats injected ip with 1000 mg/kg showed impaired performance of previously conditioned avoidance response 6 days after injection but not 2, 8, 10 or 16 days after injection. No behavioral changes were observed in animals given 316 or 562 mg/kg."
+        },
+        {
+            "References": "USEPA; Reregistration Eligibility Decision (RED) Database for Temephos (3383-96-8). (September 2000). Available from, as of May 1, 2009: https://www.epa.gov/oppsrrd1/REDs/temephos_red.htm",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Signs of toxicity observed in animals treated with high doses of temephos are typical of acute toxicity signs induced by cholinesterase (ChE) inhibition which include; hypoactivity, labored breathing, rough coat, chromodacryorrhea, salivation, muscle spasms and tremors."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7:917",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Rabbits given 100 mg/kg/day temephos for 5 days experienced organophosphate poisoning  as well as significant RBC acetylcholinesterase inhibition ..."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7: 919",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Although temephos clearly inhibits acetylcholinesterase, it is a much more effective inhibitor of liver carboxylesterases. When rats were given single oral doses of temephos, the dose giving 50% inhibition for three liver carboxylesterases was three to eighteen times smaller than that for RBC cholinesterase and eight to forty-five times smaller than that for brain cholinesterase. Carboxylesterase activity was still 30-80% of control by 10 days after dosing, suggesting its relatively slow recovery."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7: 919",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... When rats were given drinking water that contained 0, 1, 3, or 5 ppm temephos for 8 weeks, RBC, brain and tissue (submaxillary gland) cholinesterase activity were unaffected, whereas liver carboxylesterases were significantly inhibited by week 2, even among 1-ppm treated rats."
+        },
+        {
+            "References": "Hayes, Wayland J., Jr. Pesticides Studied in Man. Baltimore/London: Williams and Wilkins, 1982., p. 376",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Temephos in a dosage of 500 mg/kg produced a rapid onset of leg weakness in chickens from which survivors recovered within 36 days or less. An intake of 125 mg/kg produced very mild leg weakness, followed by prompt recovery. This sign was produced in 30 days at a dosage of 15.3 mg/kg/day but not in 108 days at a level of 7.4 mg/kg/day."
+        },
+        {
+            "References": "Hayes, Wayland J., Jr. Pesticides Studied in Man. Baltimore/London: Williams and Wilkins, 1982., p. 377",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Mild pathological changes occurred in the liver of some rabbits receiving 10 mg/kg/day for 30 days but not in those receiving 1 mg/kg/day for 35 days."
+        },
+        {
+            "References": "Hayes, Wayland J., Jr. Pesticides Studied in Man. Baltimore/London: Williams and Wilkins, 1982., p. 376",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... Rabbits, guinea pigs, & chickens tolerated 10 mg/kg/day for extended periods without clinical effects, & dogs tolerated 3 to 4 mg/kg/day, the highest levels fed. These dosages produced some inhibition of cholinesterase. However, rats & rabbits tolerated an oral dosage of 1 mg/kg/day for 35 or more days without cholinesterase inhibition."
+        },
+        {
+            "References": "Hayes, Wayland J., Jr. Pesticides Studied in Man. Baltimore/London: Williams and Wilkins, 1982., p. 376",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ All rats fed temephos at a dietary level of 2000 ppm (about 100 mg/kg/day) developed 100% inhibition of RBC cholinesterase and signs of poisoning. Eight of them died between the 5th, and 10th days, but two survived 99 days of dosing although RBC cholinesterase remained inhibited completely and the plasma enzyme was inhibited to a lesser degree."
+        },
+        {
+            "References": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. Old Woking, Surrey, United Kingdom: Royal Society of Chemistry/Unwin Brothers Ltd., 1983., p. A380/OCT 83",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rats survive 90 days of feeding 350 mg/kg without harm, except for cholinesterase inhibition."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology Data Review Summary for Temephos (3383-96-8). Available from, as of May 11, 2009: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Forty five rats/sex/group received 2, 6, or 18 ppm of CL 52,160 Technical (purity: 96.4%) in their diet for up to 13 weeks. Another group of 45 animals/sex were treated with 350 ppm of the test material for 12 weeks. Sixty five animals/sex were included as a control group. Seven control rats/sex and 4 animals/sex/treatment group (except for the 350 ppm group) were sacrificed at 1, 3, 5, 9 and 13 weeks of study and erythrocyte, plasma and brain cholinesterase activities were determined. For the 350 ppm group, 4 animals/sex were sacrificed after 12 weeks of treatment for cholinesterase activity determinations. At the conclusion of the treatment period, 15 control animals/sex and 10 animals/sex/treatment group were permitted to recover for up to 4 weeks. One control male, one 6 ppm female and one 18 ppm female died during the study. No treatment-related signs were noted. The mean weight gain for both the males and females in the 350 ppm group was less with the difference being significant for the females (p<0.05). Erythrocyte cholinesterase activity was most affected by the treatment with the mean activity less than 80% of the control values for the 18 ppm treatment group at various time points during the study (p<0.05). Only at one time point for the 6 ppm group (13 weeks) was the activity level less than 80% of the control group. The activity levels for the animals in the 18 ppm group had largely recovered by the end of the 4 week recovery period. The plasma cholinesterase activity level was significantly reduced only for the 350 ppm treatment group. Brain cholinesterase activity levels were significantly reduced for the 18 ppm group during the first five weeks of the study. However, the most reduction in the activity level was 81% of the control value. For the 350 ppm treatment group, mean brain cholinesterase activity levels were 23 and 22% of control values for males and females respectively. The mean relative liver weight was significantly reduced for the males in the 350 ppm group (p<0.05). Otherwise, no apparent treatment-related effects were noted in the necropsy and histopathological examinations. Adverse effect: brain cholinesterase inhibition. Reported NOEL (M/F): 6 ppm (based upon significant brain cholinesterase inhibition noted for the 18 ppm treatment group)"
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology Data Review Summary for Temephos (3383-96-8). Available from, as of May 11, 2009: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Two beagle dogs/sex/group (unless otherwise noted) received 0, 2, 6, or 18 ppm of CL 52,160 Technical (purity: 96.4%) in the diet for 13 weeks. One male and 3 females were included in the 18 ppm treatment group. The animals remained on study for an additional two weeks after the termination of the dosing. An additional group of two animals/sex were dosed for 15 days with 700 ppm of the test material, followed by an additional 10 weeks of treatment with 500 ppm in the diet. Erythrocyte and plasma cholinesterase activities were measured prior to study initiation and on weeks 1, 3, 5, 9, and 13 (week 12 for animals in the high dose group and 2 weeks after the animals returned to basal diet). Treatment with 700 ppm resulted in the appearance of cholinergic signs such that the treatment level was reduced to 500 ppm after two weeks. The cholinergic signs were still evident but less severe in presentation. Brain cholinesterase values were determined for the high dose group after 12 weeks of treatment. Although no control values for brain cholinesterase activity were determined, the brain cholinesterase activity in the treated animals was reported as markedly inhibited. No treatment related lesions were noted for the 700/500 ppm group. Adverse effect: significant brain cholinesterase inhibition; Reported NOEL (M/F): 18 ppm (based upon the treatment-related effects noted for the 700/500 group)."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology Data Review Summary for Temephos (3383-96-8). Available from, as of May 11, 2009: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ The skin of ten rats/sex/group was treated with 0, 12, or 60 mg/kg/day of CL 52,160 for 15 days over a 3 week period. The dosing material was prepared by diluting the CL 52,160 (a.i.: 43%) formulation with water to produce final concentrations of 1.2 and 6.0% of CL52,160. A dosing volume of 1.0 mL/kg was applied to the skin. The skin of 5 rats/sex/group was abraded prior to application. The skin of the remaining animals was intact. All of the animals survived the treatment. No treatment-related signs were noted. Mean body weight gain for the males in the 60 mg/kg/day group was significantly less than that of the controls (p<0.05) with food consumption significantly reduced for the males with intact skin in this group (p<0.05). The mean relative liver weights for the 12 mg/kg/day males and the 60 mg/kg/day females were significantly increased (p<0.05). Although the livers of the high dose females demonstrated a mild diffuse fatty change, examination of the control females revealed a similar condition. No other potential treatment-related lesions were noted. No adverse effect indicated."
+        },
+        {
+            "References": "USEPA; Reregistration Eligibility Decision (RED) Database for Temephos (3383-96-8). (September 2000). Available from, as of May 1, 2009: https://www.epa.gov/oppsrrd1/REDs/temephos_red.htm",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Temephos is not classified as a carcinogen. The only study available for this assessment was a 2-year chronic study in rats, in which the highest dose (15 mg/kg/day) did not induce tumor formation."
+        },
+        {
+            "References": "Hayes, Wayland J., Jr. Pesticides Studied in Man. Baltimore/London: Williams and Wilkins, 1982., p. 377",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Male & female rats maintained on dietary level of 500 ppm (about 25 mg/kg/day) ... reproduced normally with no decrease in number of litters, litter size, or viability of the young, & with no increase in congenital defects."
+        },
+        {
+            "References": "Hayes, Wayland J., Jr. Pesticides Studied in Man. Baltimore/London: Williams and Wilkins, 1982., p. 377",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Temephos at oral dosage levels as high as 2.5 mg/kg/day for 422 days or at 5 mg/kg/day for 186 days caused no ill effects in sheep or their lambs."
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 4808",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Three generation reproduction studies at 25 or 125 ppm in albino rats resulted in no effect on fertility, gestation, reproduction, or lactation. No terata associated with Abate were produced in either dosage group."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology Data Review Summary for Temephos (3383-96-8). Available from, as of May 11, 2009: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Six adult hens/group were orally dosed by gavage with 0, 227, 455, 823, 1137, 1422, and 1705 mg/kg of Temephos Technical (purity: 99.9%) in a determination of the LD50 value. Six hens were also dosed with 450 mg/kg of TOCP as a positive control. The following mortality resulted from the treatment: 0 (1/6), 227 (1/6), 455 (3/6), 823 (4/6), 1137 (5/6), 1422 (4/6), and 1705 (4/6). All of the TOCP treated hens survived the treatment, but five of the birds exhibited signs of ataxia by day 16. These observations were confirmed by histological examination of the brain, spinal cord, and sciatic nerve (chromatolysis of neurons, swollen and disrupted axons, and fiber degeneration in the peripheral nerves). After 21 days of observation, the 5 birds in the 227 mg/kg group and the 3 birds in the 455 mg/kg group received an additional dose of 227 and 455 mg/kg and observed for another 21 days. Another group of 6 hens were treated with 455 mg/kg. At the time of this second dosing, all of the birds were treated with atropine (6.5 mg/kg) and PAM (43 mg/kg). Among the birds being dosed for a second time, one bird each died in the 227 and 455 mg/kg groups. In the second 455 mg/kg treatment group, 3 hens died. After 21 days of observation, the brain, spinal cord and sciatic nerves of the 3 surviving birds were examined histologically. In the initial portion of the study, the LD50 (95% confidence limits) value was determined to be 579 (287 to 1137) mg/kg. None of the temephos treated animals displayed signs of ataxia. The histological examinations did not reveal any neuronal degeneration. No adverse effect indicated."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology Data Review Summary for Temephos (3383-96-8). Available from, as of May 11, 2009: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ ... Three hens/group were dosed orally with single doses of 41, 82, 163, or 326 mg/kg of Abate Mosquito Larvicide (technical) (purity: 87.1%). One hen died in the 82 mg/kg group and all 3 hens died in the 326 mg/kg group. An LD50 value of 183 mg/kg was calculated from these data. In the second study, 8 hens/group were fed diets containing 230, 460, or 920 ppm of the test material for 30 days. An additional 6 hens received 4000 ppm of TOCP in the diet for the same time period. After 30 days, 2 birds each from the control and TOCP group and 4 birds from the 920 ppm group were euthanized and the brain, spinal cord and sciatic nerves were examined histologically. The remaining birds in the 920 ppm group received the basal laboratory diet for another 4 weeks. The surviving hens in the 230 and 460 ppm groups were euthanized one week after receiving the control diet. One hen died in the 460 ppm group after 23 days of treatment. Four of the TOCP treated birds died, the first approximately 4 weeks after initiation of the study. Death was preceded by muscular weakness, paralysis and severe malnutrition. The histological examination of the TOCP treated hens revealed focal myelin loss in the medullary substance of the cerebellar hemispheres, in the fasciculus gracilis and the cuneatus of the spinal cord and in the peripheral nerve. All of the Abate treated hens lost weight during the treatment period, possibly due to the lack of palatability of the test material. Histological examination of the hens did not reveal any treatment-related lesions in the nervous system."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology Data Review Summary for Temephos (3383-96-8). Available from, as of May 11, 2009: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/GENOTOXICITY/ S. typhimurium strains TA98, TA100, TA1535 and TA1537 and E. coli WP-2 uvrA- were treated by the plate incorporation method for 48 hours at 37 \u00b0C with Abate Technical (purity: 90.4%, Batch #599) at concentrations ranging from 10 to 1000 ug/plate. In addition, the same strains were exposed to 1000 ug/plate of the test material by the disc method under the same conditions of incubation. One plate/treatment level for one trial was performed. Each treatment level was incubated under conditions of \"activation\" and \"non-activation\". An Aroclor 1254-induced rat liver S9 fraction was used to metabolize the test material. There was no treatment-related increase in the incidence of reverse mutation. No adverse effect indicated."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology Data Review Summary for Temephos (3383-96-8). Available from, as of May 11, 2009: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/GENOTOXICITY/ S. typhimurium strains TA98, TA100, TA1535, TA1537, and TA1538 were preincubated with concentrations of Abate (purity not identified) which ranged from that which resulted in 50% cell survival to 1/8 of that concentration for 1 hour at 37 \u00b0C under conditions of \"activation\" and \"non-activation\" by the method of plate incorporation. At the conclusion of the preincubation period, diluted cell suspensions and undiluted samples (5 plates/treatment level) were incubated for an additional 48 hours at 37 \u00b0C. The S9 fraction used for \"activation\" was derived from the liver homogenate of rats pretreated with Aroclor-1254. No treatment-related increase in the incidence of reverse mutation was noted. No adverse effect indicated."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology Data Review Summary for Temephos (3383-96-8). Available from, as of May 11, 2009: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/GENOTOXICITY/ Chinese hamster ovary cells (CHO, CCL 61) were treated with AC 52,160 (purity: 94.7%) at concentrations which ranged from 0.05 to 7.5 ug/mL under conditions of activation and non-activation at 37 \u00b0C. In the activated assay, the cells were treated for 2 hours with test material and then incubated further for 8 (1st harvest) or 18 hours (2nd  harvest). For the non-activated samples, the cells were exposed to the test material for 10 (1st harvest) or 20 hours (2nd harvest). All of the samples were incubated for an additional 2 hours with Colcemid and fixed and prepared for evaluation. An Aroclor 1254-induced rat liver S9 fraction was used to metabolize the test material. Two replications were performed for each treatment level. There was no apparent treatment-related increase in chromosomal aberrations. No adverse effect indicated."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology Data Review Summary for Temephos (3383-96-8). Available from, as of May 11, 2009: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/GENOTOXICITY/ Primary rat hepatocyte cultures were exposed to AC 52,160 (purity: 94.7%) at concentrations ranging from 166 to 5000 ug/mL for 18 to 20 hours at 37 \u00b0C. A single trial was performed with triplicate cultures/treatment level. There was no treatment-related increase in the incidence of unscheduled DNA synthesis. No adverse effect indicated."
+        },
+        {
+            "References": "PMID:14963843",
+            "Value": "/GENOTOXICITY/ ... Single cell gel electrophoresis (SCGE), SOS/umu and Ames/Salmonella assays /were used/ to test the toxicity and mutagenicity of temephos. Temephos was genotoxic in the SCGE assay, inducing severe DNA lesions (type IV lesions) at doses above 1.34 uM. It was mutagenic, but not toxic, in the SOS/umu assay to Escherichia coli strain PQ37, but not to PQ35, at concentrations above 1.33 uM, particularly when the S9 mixture was not used in the assay. Temephos was not mutagenic in the Ames assay with S. typhimurium strains TA97, TA98, TA100 and TA102, both with and without metabolic activation. However, temephos at concentrations above 3.33 micro M was mutagenic to TA98NR, YG7104 and YG7108, both with and without metabolic activation. In conclusion, temephos was genotoxic and mutagenic in all the three tests used, and in two of them at concentrations similar to those routinely used to combat Aedes aegypti."
+        },
+        {
+            "References": "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 152",
+            "Value": "/OTHER TOXICITY INFORMATION/ Cattle ... have shown signs of poisoning after being given 1 to 1.5 mg/kg daily for a yr, and there is evidence that it may affect fertility in heifers."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Blinn RC, Pasarela NR; J Agr Food Chem 14: 152-6 (1966)",
+            "Value": "SEDIMENT: The concentration of temephos in sediment samples taken from several locations in NJ and CA, date not provided, were less then 0.1 ppm(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Registration Eligibility Document for Temephos, Chemical No 059001, Docket ID: EPA-HQ-OPP-2009-0081, Document ID: EPA-HQ-OPP-2009-0081-0064, Posted April 7, 2009. Available from https://www.regulations.gov/fdmspublic/ContentViewer?objectId=09000064809240b1&disposition=attachment&contentType=pdf as of June 10, 2009. (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Freundlich adsorption coefficients calculated from adsorption/desorption studies ranged from 7.3-541 for temephos and was dependant upon organic carbon content of the soil. The Koc values for temephos were measured using 14-C labeled temephos at concentrations of 5, 8, 11, and 26 ppb. The results indicated Koc values in loamy sand (Delaware) 18,250, sandy loam (Princeton) 16,250, silt loam (Nebraska) 31,800, and loam (Ontario) 22,800. Temephos adsorption to sediment steadily increased to a maximum after two days of exposure, but temephos degradation products have shown to adsorb less strongly to soils(1). According to a classification scheme(2), these Koc values suggest that temephos is expected to be immobile in soil."
+        }
+    ]
+}

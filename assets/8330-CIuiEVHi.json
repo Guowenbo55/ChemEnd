@@ -1,0 +1,79 @@
+{
+    "_id": {
+        "$oid": "6682e8b8c4e5dba5ffba26fe"
+    },
+    "CID": {
+        "$numberInt": "8330"
+    },
+    "Name": "TECNAZENE",
+    "IUPACName": "1,2,4,5-tetrachloro-3-nitrobenzene",
+    "CanonicalSMILES": "C1=C(C(=C(C(=C1Cl)Cl)[N+](=O)[O-])Cl)Cl",
+    "Synonyms": [
+        "TECNAZENE",
+        "117-18-0",
+        "1,2,4,5-Tetrachloro-3-nitrobenzene",
+        "2,3,5,6-Tetrachloronitrobenzene",
+        "Tecnazen",
+        "Folosan",
+        "Fusarex",
+        "Myfusan",
+        "Arena",
+        "Nebulin",
+        "TCNB",
+        "Hickstor",
+        "Turbostore",
+        "Easytec",
+        "Hystore"
+    ],
+    "IsomericSMILES": "C1=C(C(=C(C(=C1Cl)Cl)[N+](=O)[O-])Cl)Cl",
+    "INCHI": "InChI=1S/C6HCl4NO2/c7-2-1-3(8)5(10)6(4(2)9)11(12)13/h1H",
+    "INCHIKEY": "XQTLDIFVVHJORV-UHFFFAOYSA-N",
+    "Formula": "C6HCl4NO2",
+    "MolecularWeight": {
+        "$numberDouble": "260.9"
+    },
+    "Description": "Tecnazene is a C-nitro compound that is nitrobenzene in which the four hydrogens located ortho- and para- to the nitro group have been replaced by chlorines. A fungicide used to control dry rot, it is no longer approved for use within the European Union. It has a role as an antifungal agrochemical. It is a C-nitro compound, a tetrachlorobenzene and an aromatic fungicide. It is functionally related to a 1,2,4,5-tetrachlorobenzene.",
+    "XlogP": {
+        "$numberDouble": "3.9"
+    },
+    "Complexity": {
+        "$numberInt": "195"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Niimi AJ et al; Environ Toxicol Chem 8: 817-23 (1989) (2) Oliver BG, Niimi AJ; Environ Sci Technol 19:842-9 (1985)",
+            "Value": "BCFs of 1362(1), 1600(2) and 2200(2) were measured in Lake Ontario rainbow trout. According to a classification scheme(3), these BCF values show bioconcentration in aquatic organisms is very high(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Caseley JC; Bull Environ Contam Toxicol 3: 180-91 (1968)",
+            "Value": "AEROBIC: Tecnazene biodegradation was observed in Yolo fine sandy loam soil(1). After 60, 120, 180, 240, and 300 days incubation at 25 \u00b0C, biodegradation values of 8%, 21%, 23%, 26%, and 24% were obtained, respectively, after correction for losses due to volatilization(1)."
+        },
+        {
+            "References": "(1) Geer RD; Predicting The Anaerobic Degradation of Organic Chemical Pollutants in Waste Water Treatment Plants From Their Electrochemical Reduction Behavior; Bozeman, MT: MT. Univ. Joint Water Resourc Res Center NTIS PB-289224 (1978)",
+            "Value": "ANAEROBIC: A first order rate constant of 7.2/day, which corresponds to a half-life of 0.1 day, was reported for a biodegradation screening study utilizing an anaerobic sewage sludge inoculum(1). The major product for anaerobic biodegradation of tecnazene is 2,3,5,6-tetrachloroaniline(1). The redox potential of the anaerobic system was important in determining how the degradation of tecnazene proceeds(1). It was reported that tecnazene biodegradation did not proceed if the redox potential decreased below -0.38 volts relative to an SCE electrode(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "BioByte; ClogP for Windows Program. BioByte Corp., Claremont, CA (1995)",
+            "Value": "log Kow = 4.38"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "Oshawa K et al; Nippon Noyaku Gakkaishi 9 (2): 339-44 (1984)",
+            "Value": "SOIL: Soil from a cabbage field which had been annually treated with pentachloronitrobenzene at 60 kg/ha for a few years was collected 3 months after the final application and analyzed for pentachloronitrobenzene and related compounds. Pentachloronitrobenzene, pentachloroaniline, 2,3,4,5-tetrachloroaniline, methyl pentachlorophenyl sulfide, sulfoxide, sulfone, 2,3,5,5-tetrachloronitrobenzene (tecnazene), pentachloroanisole, hexachlorobenzene, pentachlorobenzene, 1,2,3,4-tetrachlorobenzene, and 1,2,3,5-tetrachlorobenzene were detected at 10.1, 8.05, 0.7, 0.52, 9.35, 1.04, 0.67, 0.009, 1.55, 1.22, 0.009, and 0.011 ppm, respectively."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) BioByte; ClogP for Windows Program. BioByte Corp, Claremont, CA (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of tecnazene is estimated as 5750(SRC), using a log Kow of 4.38(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that tecnazene is expected to be immobile in soil."
+        }
+    ]
+}

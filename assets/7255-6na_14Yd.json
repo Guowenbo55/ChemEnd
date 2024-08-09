@@ -1,0 +1,81 @@
+{
+    "_id": {
+        "$oid": "6682e872c4e5dba5ffba25a1"
+    },
+    "CID": {
+        "$numberInt": "7255"
+    },
+    "Name": "3-Chloro-p-toluidine",
+    "IUPACName": "3-chloro-4-methylaniline",
+    "CanonicalSMILES": "CC1=C(C=C(C=C1)N)Cl",
+    "Synonyms": [
+        "3-Chloro-4-methylaniline",
+        "95-74-9",
+        "3-CHLORO-P-TOLUIDINE",
+        "2-Chloro-4-aminotoluene",
+        "4-Amino-2-chlorotoluene",
+        "Benzenamine",
+        "3-chloro-4-methyl-",
+        "3-Chloro-4-methylbenzenamine",
+        "3-Chloro-4-methylphenylamine",
+        "4-Methyl-3-chloroaniline",
+        "1-Amino-3-chloro-4-methylbenzene",
+        "p-Toluidine",
+        "3-chloro-",
+        "NCI-C02040",
+        "DRC 1339",
+        "3-chloro-4-methyl-phenylamine",
+        "DRC 1347"
+    ],
+    "IsomericSMILES": "CC1=C(C=C(C=C1)N)Cl",
+    "INCHI": "InChI=1S/C7H8ClN/c1-5-2-3-6(9)4-7(5)8/h2-4H,9H2,1H3",
+    "INCHIKEY": "RQKFYFNZSHWXAW-UHFFFAOYSA-N",
+    "Formula": "C7H8ClN",
+    "MolecularWeight": {
+        "$numberDouble": "141.6"
+    },
+    "Description": "3-chloro-p-toluidine is a monochloroaniline that is p-toluidine in which one of the hydrogens that is meta to the amino group is replaced by a chlorine. It has a role as an avicide. It is a chloroaniline and a member of monochlorobenzenes. It is functionally related to a p-toluidine.",
+    "XlogP": {
+        "$numberDouble": "2.9"
+    },
+    "Complexity": {
+        "$numberInt": "94"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Meylan WM, Howard PH; J Pharm Sci 84: 83-92 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 15 was calculated in fish for 3-chloro-p-toluidine(SRC), using an estimated log Kow of 2.27(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        },
+        {
+            "References": "(1) Spanggord RJ et al; Environ Toxicol Chem 15: 1655-1663 (1996) (2) Jackson SH, et al; J Agric Food Chem 57: 958-967 (2009) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "Bluegill sunfish (Lepomis macrochirus) were continuously exposed to 0.1 um/mL of uniformly -labled 3-chloro-p-toluidine hydrochloride for 28 days, followed by 28 days depuration. Concentrations in the edible, nonedible, and whole-body tissues were 2.9, 12.0, and 7.5 ug/g tissue, respectively. BCF values of 33, 150, and 88, respectively, were calculated. About 64% of the accumulated radiolabeled compound and metabolites were eliminated from the fish by day 28 of depuration. The authors conclude that bioconcentration will be low at sublethal concentrations(1). A log BCF of 1.9445 was reported, corresponding to a BCF of 88(SRC), in bluegill sunfish exposed to 3-chloro-p-toluidine hydrochloride for 28 days in accordance with EPA guideline 165.4 - Laboratory Studies of Pesticide Accumulation in Fish(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration of 3-chloro-p-toluidine hydrochloride in aquatic organisms is low to moderate(SRC). /3-Chloro-p-toluidine hydrochloride/"
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "PMID:11228957",
+            "Value": "AEROBIC: Using samples of River Elbe water taken at Dresden, 55 km downstream from the Czech border between March 1995 and December 1998, 3-chloro-p-toluidine exhibited a biodegradation rate of 0.47/hr, corresponding to a half-life of 1.5 hrs. Experiments were carried out in darkness at 20 \u00b0C and circulating raw river water through glass columns filled with pumice. 3-Chloro-4-methylaniline was added to the column at a concentration of 6 ug/L; detection limit was 0.44 ug/L(1)."
+        },
+        {
+            "References": "(1) Spanggord RJ et al; Environ Toxicol Chem 15: 1664-1670 (1996)",
+            "Value": "AEROBIC: 3-Chloro-p-toluidine hydrochloride applied to a sandy loam soil, maintained at 20 \u00b0C, at concentrations of 3.5 and 35 ug/g exhibited first order kinetics with a calculated rate constant of 2.74X10-2/hr, corresponding to a half-life of 25 hours. Approximately 13% of the radiolabeled compound applied at 3.5 ug/g was mineralized to carbon dioxide during 99 days of incubation. The primary metabolite was acetyl-3-chloro-p-toluidine, which itself had a half-life of 26 hours. 3-Chloro-p-toluidine hydrochloride applied at 35 ug/g was also mineralized, however at a much slower rate(1). /3-Chloro-p-toluidine hydrochloride/"
+        },
+        {
+            "References": "(1) Bartha R; Rocz Glebozn 26: 17-24 (1975) (2) Bordeleau LM, Bartha R; Can J Microbiol 18: 1873-82 (1972)",
+            "Value": "PURE CULTURE: A partially purified enzyme of the soil fungus Geotrichum candidum converted 3-chloro-p-toluidine to 3,3'-dichloro-4,4'' dimethylazobenzene(2). The same compound was isolated when 3-chloro-p-toluidine was incubated in soil(1). The rate of loss of the parent compound due to this reaction in soil was not given(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.0. Jan, 2009. Available at https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm as of Dec 2009. (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Parris GE; Environ Sci Technol 14: 1099-1106 (1980) (4) Hsu TS, Bartha R; Soil Sci 118: 213-20 (1974) (5) Piet GJ et al; pp. 69-80 in Hydrocarbon and Halogenated Hydrocarbon in Aquatic Environment, Afgan BK, MacKay D. eds., New York, NY: Plenum Press (1980)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of 3-chloro-p-toluidine can be estimated to be 180(SRC). According to a classification scheme(2), this estimated Koc value suggests that 3-chloro-p-toluidine is expected to have moderate mobility in soil. However, primary aromatic amines can react with humic matter in soil forming an irreversible complex and as a result may be immobilized in soil(3-4). With the increase of humic matter in soil, the tendency towards irreversible complex formation may increase and 3-chloro-p-toluidine may become increasingly immobilized(4). In sandy soil containing marginal amounts of humic matter, 3-chloro-p-toluidine may be mobile(5)."
+        },
+        {
+            "References": "(1) Irwin KC et al; Environ Toxicol Chem 15: 1671-1675 (1996)",
+            "Value": "Using 30 g/g uniformly-labeled 3-chloro-p-toulidine hydrochloride in California loam soil column studies and aged for 24 hrs, it was observed 2% of the initial compound leached through the soil profile. Approximately 90% was sorbed in the upper 6 cm of soil, 1% volatilized, and the major metabolite identified was N-acetyl-3-chloro-p-toluidine(1). /3-Chloro-p-toluidine hydrochloride/"
+        }
+    ]
+}

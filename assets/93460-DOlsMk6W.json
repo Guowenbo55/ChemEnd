@@ -1,0 +1,74 @@
+{
+    "_id": {
+        "$oid": "669270ec303528b49832d737"
+    },
+    "CID": {
+        "$numberInt": "93460"
+    },
+    "Name": "Pyraclofos",
+    "IUPACName": "1-(4-chlorophenyl)-4-[ethoxy(propylsulfanyl)phosphoryl]oxypyrazole",
+    "CanonicalSMILES": "CCCSP(=O)(OCC)OC1=CN(N=C1)C2=CC=C(C=C2)Cl",
+    "Synonyms": [
+        "Pyraclofos",
+        "Boltage",
+        "Voltage",
+        "77458-01-6",
+        "89784-60-1",
+        "Pyraclofos [ISO]",
+        "O-[1-(4-chlorophenyl)-1H-pyrazol-4-yl] O-ethyl S-propyl phosphorothioate",
+        "1-(4-chlorophenyl)-4-[ethoxy(propylsulfanyl)phosphoryl]oxypyrazole",
+        "Phosphorothioic acid",
+        "O-(1-(4-chlorophenyl)-1H-pyrazol-4-yl) O-ethyl S-propyl ester",
+        "M0W5LEC929",
+        "O-(1-(4-Chlorophenyl)-1H-pyrazol-4-yl) O-ethyl S-propyl phosphorothioate",
+        "Pyraclofos 10 microg/mL in Cyclohexane",
+        "starlet",
+        "O-[1-(4-chlorophenyl)-1H-pyrazol-4-yl] O-ethyl S-propyl thiophosphate",
+        "Phosphorothioic acid",
+        "O-[1-(4-chlorophenyl)-1H-pyrazol-4-yl] O-ethyl S-propyl ester"
+    ],
+    "IsomericSMILES": "CCCSP(=O)(OCC)OC1=CN(N=C1)C2=CC=C(C=C2)Cl",
+    "INCHI": "InChI=1S/C14H18ClN2O3PS/c1-3-9-22-21(18,19-4-2)20-14-10-16-17(11-14)13-7-5-12(15)6-8-13/h5-8,10-11H,3-4,9H2,1-2H3",
+    "INCHIKEY": "QHGVXILFMXYDRS-UHFFFAOYSA-N",
+    "Formula": "C14H18ClN2O3PS",
+    "MolecularWeight": {
+        "$numberDouble": "360.8"
+    },
+    "Description": "Pyraclofos is an organic thiophosphate, an organothiophosphate insecticide, an organochlorine insecticide, a member of pyrazoles, a member of monochlorobenzenes and an organosulfur compound. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor and an agrochemical.",
+    "XlogP": {
+        "$numberDouble": "3.8"
+    },
+    "Complexity": {
+        "$numberInt": "383"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The metabolic fate of the insecticide pyraclofos, which has the chemical name 1-(4-chlorophenyl)pyrazol-4-yl ethyl S-propyl phosphoro-thiolate and the brand name Voltage, was studied in cabbage plants under controlled laboratory conditions. Radiolabeled 14C-pyraclofos was used in the experiments, with the 14C label attached to the benzene ring of pyraclofos. In the first experiment, 14C-pyraclofos was applied to the leaf surfaces of cabbage plants at a rate of 2 \u03bcg per square centimeter. It was found that pyraclofos disappeared from the treated leaf with an estimated half-life of around one week. Thirty days after application, most of the 14C radioactivity was still present in the treated leaf areas, however only a small amount had translocated to the untreated portions of the leaves. Analysis showed that the major metabolic pathways in the cabbage leaves involved cleavage of the P-O-aryl bond in pyraclofos, producing the metabolite 1-(4-chlorophenyl)-4-hydroxypyrazole, followed by conjugation of this metabolite with sugars like glucopyranoside or malonylglucopyranoside. A small amount of unchanged parent pyraclofos compound was detected in the treated leaf areas but not in the untreated areas. In a second experiment, cabbage plants were cultivated for 30 days in soil treated with 14C-pyraclofos at 10 parts per million. Most of the 14C remained in the treated soil, while only small amounts translocated to the plants, primarily concentrating in the roots. The low levels of 14C detected in the edible portions of leaves and stems indicated very limited translocation to these tissues, and no parent pyraclofos compound was present.",
+            "reference": "\u7530\u4ee3\u8302\u559c, \u5c71\u5143\u7ae0\u88d5, \u6749\u7530\u7d00\u592b, & \u5ca1\u7530\u5609\u4e4b. (1995). Metabolic fate of insecticide pyraclofos in cabbage plants. Journal of Pesticide Science, 20(4), 463-470.",
+            "method": {
+                "Test Plant": "Two-month-old cabbage plants (Brassica oleracea, cv. Shoshu)",
+                "Apply Location": "Upper surface of four leaves",
+                "Plant Grown Condition": "Plant growth chamber (NS-280 FH, Takayama Co., Ltd.) with a photoperiod of 25,000 lux at 25\u00b0C for 12 hours followed by a dark period at 18\u00b0C for 12 hours per day",
+                "Chemical Preparation": "14C-pyraclofos dissolved in methanol at a rate of 2 \u03bcg/cm2 (521 \u03bcg/leaf)",
+                "Other Information": "Three treated plants held for 30 days, one leaf sampled from each plant on days 5, 10, 20, and 30"
+            },
+            "result": "[{\"Days after application\": 30, \"Treated leaf (% of applied)\": 97.2, \"Non-treated leaf (%)\": 0.7, \"Edible part (%)\": 0.1, \"Soil part (%)\": 0.3, \"Stem (%)\": 0.3, \"Root (%)\": 0.1}]"
+        },
+        {
+            "content": "This study investigated the ability of common reed, Phragmites australis to take up organophosphate pesticides (OPPs). The study site was the agriculturally polluted Sundays Estuary in South Africa. Surface water, leaves, roots, and deep-rooted-sediments of P. australis were collected along the length of the estuary and analysed for 13 different OPPS. The extraction of OPPs in plant tissues was performed by QuEChERS method followed by GC-MS analysis. The highest concentration of OPPs was found in leaves (16.41\u201331.39 \u03bcg kg\u22121 dw), followed by roots (13.92\u201330.88 \u03bcg kg\u22121 dw), and sediments (3.30\u20138.07 \u03bcg kg\u22121 dw). Of the 13 targeted OPPs, only one compound was not detected across the four sample matrices, thus reflecting widespread contamination in the Sundays Estuary. The biota sediment accumulation factor (BSAF) values of pyraclofos, quinalphos, fenitrothion, phosalone, EPN, diazinon, chlorpyrifos, pyrazophos, and isazophos were higher than one implying that P. australis possesses the ability to bioaccumulate these compounds. The root-leaf translocation factors (TFr-l) of these pesticides were higher than 1, suggesting that P. australis possesses the capacity to move these pesticides from roots to leaves. The insignificant correlation observed between log BSAF and log Kow and log TFr-l and log Kow implies that OPPs uptake by P. australis tissues were not dependent on log Kow. Our study demonstrates that P. australis possesses the potential to effectively remove OPPs from contaminated water and sediment.",
+            "reference": "Olisah, C., Rubidge, G., Human, L. R., & Adams, J. B. (2021). A translocation analysis of organophosphate pesticides between surface water, sediments and tissues of common reed Phragmites australis. Chemosphere, 284, 131380.",
+            "method": {
+                "Test Plant": "Phragmites australis (P. australis)",
+                "Apply Location": "-",
+                "Plant Grown Condition": "Sundays Estuary, a 21 km long aquatic system, located between the temperate southern coastal and subtropical eastern belt in the Eastern Cape Province, South Africa. The estuary has a continuous freshwater inflow with an inter-basin water transfer scheme.",
+                "Chemical Preparation": "-",
+                "Pesticide Application Details for the Plant": "-",
+                "Other information and Other Information": "Six sites were chosen for sampling based on a literature survey and distribution of plant species.Three samples of surface water and P. australis plants were randomly collected from each site."
+            },
+            "result": "[{\"Leaves (ug/kg)\": 23.8, \"Roots (ug/kg)\": 31.1, \"Biota-sediment accumulation factors\": 54.9, \"Bioconcentration factor\": 8.5, \"Root-leaf translocation factor\": 2.6}]"
+        }
+    ]
+}

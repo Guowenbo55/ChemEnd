@@ -1,0 +1,106 @@
+{
+    "_id": {
+        "$oid": "6682e80bc4e5dba5ffba23a1"
+    },
+    "CID": {
+        "$numberInt": "4109"
+    },
+    "Name": "METHOMYL",
+    "IUPACName": "methyl N-(methylcarbamoyloxy)ethanimidothioate",
+    "CanonicalSMILES": "CC(=NOC(=O)NC)SC",
+    "Synonyms": [
+        "16752-77-5",
+        "Lannate",
+        "Mesomile",
+        "Methomyl",
+        "Methyl N-[[(methylamino)carbonyl]oxy]ethanimidothioate",
+        "Nudrin",
+        "S-methyl N-[(methylcarbamoyl)oxy]thioacetimidate",
+        "Lan Bait",
+        "methyl N-(methylcarbamoyloxy)ethanimidothioate",
+        "CHEBI:6835",
+        "DTXSID1022267",
+        "Spectrum_001911",
+        "SpecPlus_000542",
+        "Spectrum2_001872",
+        "Spectrum3_000851"
+    ],
+    "IsomericSMILES": "CC(=NOC(=O)NC)SC",
+    "INCHI": "InChI=1S/C5H10N2O2S/c1-4(10-3)7-9-5(8)6-2/h1-3H3,(H,6,8)",
+    "INCHIKEY": "UHXUZOCRWCRNSJ-UHFFFAOYSA-N",
+    "Formula": "C5H10N2O2S",
+    "MolecularWeight": {
+        "$numberDouble": "162.21"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "0.6"
+    },
+    "Complexity": {
+        "$numberInt": "147"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "animal_concentrations": [
+        {
+            "References": "(1) Anderson JF, Wojtas, MA; J Econ Ent 79: 1200-5 (1986)",
+            "Value": "Residues of methomyl (0.04-3.4 ppm) were found in dead Honey Bees taken from poisoned apiaries in Connecticut, US, 1983-5(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 14 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated for methomyl(SRC), using a log Kow of 0.6(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Aly MI et al; Alexandria J Agric Res 27: 689 (1979) (2) Heywood DL; Environ Qual Saf 4: 128 (1975) (3) Harvey J Jr, Pease HL; J Agric Food Chem 21: 784 (1973) (4) Fung KKH, Uren NC; J Agric Food Chem 25: 966 (1977) (5) Leistra M et al; Water, Air Soil Pollut 23: 155 (1984) (6) Barcelo D et al; pp. 237-253 in ACS Symp. Ser., 630 (Herbicide Metabolites in Surface Water and Groundwater). Meyers MT. Thurman EM, eds. Washington, DC: ASC (1996)",
+            "Value": "Methomyl seemed to be stable for about 16 days after application to an alluvial soil, but then degraded faster in the non-autoclaved alluvial soil as compared to autoclaved soil suggesting the importance of microbial degradation(1). Soil microorganisms were found to be the primary factor responsible for methomyl conversion in various soil types(2). Laboratory studies indicated that methyl radiolabeled methomyl was rapidly degraded in soil via microbial action with carbon dioxide as the principal end product(3). Microbial transformation of methomyl in two tobacco-growing soils was found to occur after an initial lag phase of 7-14 days, but occurred with virtually no lag phase in soils previously treated with methomyl(4). After the initial lag phase, half-lives of about 5-6 weeks were determined for methomyl in these soils(4). Comparison with tests using soils sterilized with sodium azide suggested that microbial transformation is likely to be the major factor in methomyl degradation in soil(4). The half-life of methomyl in three greenhouse soils was about 3-14 days(5). The half-life of methomyl was reported as 30 days in soil(6)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 14",
+            "Value": "log Kow= 0.60"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "National Research Council. Drinking Water & Health Volume 1. Washington, DC: National Academy Press, 1977., p. 643",
+            "Value": "INHIBITION OF ACETYLCHOLINESTERASE."
+        },
+        {
+            "References": "PMID:11884232",
+            "Value": "Methomyl was among 24 pesticides tested for interactions with the  estrogen receptor (ER) and the androgen receptor (AR) in transactivation assays. Estrogen-like  effects on MCF-7 cell proliferation and effects on CYP19 aromatase activity in human placental  microsomes were also investigated. Methomyl weakly stimulated aromatase activity."
+        },
+        {
+            "References": "Abdel-Aziz AF, Othman AI; Qatar University Science Journal 16(1) : 51-54 (1996)",
+            "Value": "Lannate 1 -(methomyl) was incubated with erythrocytes of rats at different  concentrations. ... There was a decrease in the activities of superoxide  dismutase and   glutathione reductase after 1/2 and 16 hour of Lannate addition. There was also  a decrease in   the amount of glutathione. The inhibition of enzyme activities and the decrease  in   glutathione concentration were dose independent. The results suggest that Lannate toxicity    might lead to hemolysis, oxidation of hemoglobin and finally induced erythropenia. /Lannate/"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Kenaga EE; Ecotox Env Safety 4: 24-38 (1980) (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Harvey J Jr, Pease HL; J Agric Food Chem 21: 784 (1973) (4) Leistra M et al; Water, Air Soil Pollut 23: 155 (1984)",
+            "Value": "The measured Koc of methomyl was reported as 160(1). According to a classification scheme(2), this Koc value suggests that methomyl is expected to have moderate mobility in soil. Under field conditions and using laboratory studies, only slight movement of methomyl has been observed in soil(3,4)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "The concentrations of methomyl in tobacco plants were monitored during the period of transplantation and the time plants were expected to be susceptible to yellow dwarf disease. Two weeks after treating plants at transplantation, methomyl levels rapidly increased to about 15 ppm in the leaves and 2.5 ppm in growing tips, allowing examination of foliar uptake and subsequent translocation as well as indirect estimation of root uptake. Thereafter, methomyl levels decreased rapidly to about 0.3 ppm. Following two foliar applications after transplant-treatment, methomyl concentrations in the leaves were 18 ppm and 11 ppm immediately after application. The concentrations then substantially decreased over the next three weeks to about 0.5 ppm. Plants receiving both a foliar application and subsequent root application showed considerably higher methomyl concentrations than those receiving only a foliar application, indicating translocation both from soil and between different plant parts.",
+            "reference": "Fung, K. H., Luke, R. K. J., & Uren, N. C. (1978). Concentrations of methomyl in Australian tobacco plants following transplant, foliar, and soil treatments. International Tobacco, 180.",
+            "method": {
+                "Test Plant": "Tobacco seedlings (cv Sirogo)",
+                "Apply Location": "Foliar and root apply.",
+                "Plant Grown Condition": "The seedlings were arranged in a rectangular plot with 20 rows, with the rows 1.2 m apart and consisting of approximately 50 plants each placed at 0.5 m intervals. Four rows of untreated plants were planted as controls in a similar plot 10 m away from the first plot.",
+                "Chemical Preparation": "Methomyl (95% w/w powder supplied by Du Pont Aust. Ltd.)",
+                "Pesticide Application Details for the Plant": "Transplant water used for seedlings planted in plot ABCD contained 500 ppm methomyl, with 250 ml applied to each seedling. This treatment rate equated to approximately 0.5 kg of active methomyl ingredient per hectare for the plot area containing 17,000 plants. Control plants transplanted in a separate plot were treated with transplant water lacking methomyl.",
+                "Other Information": "Eight plants were sampled at weekly intervals for 8 weeks following the transplant treatment."
+            },
+            "result": "[{\"Weeks after application\": 9, \"Method\": \"Foliar apply\", \"Leaves (ppm)\": 9.5}, {\"Weeks after application\": 10, \"Method\": \"Foliar apply\", \"Leaves (ppm)\": 2.5}, {\"Weeks after application\": 11, \"Method\": \"Foliar apply\", \"Leaves (ppm)\": 1.0}, {\"Weeks after application\": 9, \"Method\": \"Foliar and root apply\", \"Leaves (ppm)\": 18.0}, {\"Weeks after application\": 10, \"Method\": \"Foliar and root apply\", \"Leaves (ppm)\": 4.0}, {\"Weeks after application\": 11, \"Method\": \"Foliar and root apply\", \"Leaves (ppm)\": 1.5}]"
+        }
+    ]
+}

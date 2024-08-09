@@ -1,0 +1,85 @@
+{
+    "_id": {
+        "$oid": "6682e829c4e5dba5ffba2437"
+    },
+    "CID": {
+        "$numberInt": "5862"
+    },
+    "Name": "CYSTEINE",
+    "IUPACName": "(2R)-2-amino-3-sulfanylpropanoic acid",
+    "CanonicalSMILES": "C(C(C(=O)O)N)S",
+    "Synonyms": [
+        "L-cysteine",
+        "52-90-4",
+        "cysteine",
+        "Cystein",
+        "(R)-2-Amino-3-mercaptopropanoic acid",
+        "(R)-Cysteine",
+        "Thioserine",
+        "Half-cystine",
+        "L-(+)-Cysteine",
+        "L-Cystein",
+        "Cysteinum",
+        "Cysteine",
+        "L-",
+        "(2R)-2-amino-3-sulfanylpropanoic acid",
+        "FREE CYSTEINE",
+        "beta-Mercaptoalanine"
+    ],
+    "IsomericSMILES": "C([C@@H](C(=O)O)N)S",
+    "INCHI": "InChI=1S/C3H7NO2S/c4-2(1-7)3(5)6/h2,7H,1,4H2,(H,5,6)/t2-/m0/s1",
+    "INCHIKEY": "XUJNEKJLAYXESH-REOHCLBHSA-N",
+    "Formula": "C3H7NO2S",
+    "MolecularWeight": {
+        "$numberDouble": "121.16"
+    },
+    "Description": "L-cysteine is an optically active form of cysteine having L-configuration. It has a role as a flour treatment agent, a human metabolite and an EC 4.3.1.3 (histidine ammonia-lyase) inhibitor. It is a serine family amino acid, a proteinogenic amino acid, a cysteine and a L-alpha-amino acid. It is a conjugate base of a L-cysteinium. It is a conjugate acid of a L-cysteinate(1-). It is an enantiomer of a D-cysteine. It is a tautomer of a L-cysteine zwitterion.",
+    "XlogP": {
+        "$numberDouble": "-2.5"
+    },
+    "Complexity": {
+        "$numberInt": "75"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) US Dept Agric; US Dept Agric, Agric Res Service. 1992-2016. Dr. Duke's Phytochemical and Ethnobotanical Databases. Cysteine. Available from, as of Sept 28, 2016: https://phytochem.nal.usda.gov/phytochem/search",
+            "Value": "Cysteine has been reported in 30 plants(1).",
+            "Table": "[{'Genus species': 'Helianthus annuus', 'Family': 'Asteraceae', 'Common name(s)': 'Girasol; Sunflower', 'Part': 'Seed', 'Concn (ppm)': 16000.0}, {'Genus species': 'Glycine max', 'Family': 'Fabacaea', 'Common name(s)': 'Soybean', 'Part': 'Seed', 'Concn (ppm)': 6430.0}, {'Genus species': 'Citrullus lanatus', 'Family': 'Cucurbitaceae', 'Common name(s)': 'Watermelon', 'Part': 'Seed', 'Concn (ppm)': 5742.0}, {'Genus species': 'Opuntia ficusindica', 'Family': 'Castaceae', 'Common name(s)': 'Nopal; Indian Fig; Prickly Pear; Nopalito', 'Part': 'Seed', 'Concn (ppm)': 5740.0}, {'Genus species': 'Cucurbita foetidissima', 'Family': 'Cucurbitaceae', 'Common name(s)': 'Buffalo Gourd', 'Part': 'Seed', 'Concn (ppm)': 3080.0}, {'Genus species': 'Phaseolus acutifolius', 'Family': 'Fabaceae', 'Common name(s)': 'Tepary Bean', 'Part': 'Seed', 'Concn (ppm)': 2920.0}, {'Genus species': 'Senna obtusifolia', 'Family': 'Fabaceae', 'Common name(s)': 'Sicklepod', 'Part': 'Seed', 'Concn (ppm)': 244.0}, {'Genus species': 'Triticum aestivum', 'Family': 'Poaceae', 'Common name(s)': 'Wheat', 'Part': 'Seed', 'Concn (ppm)': 1449.0}, {'Genus species': 'Phoenix dactylifera', 'Family': 'Arecaceae', 'Common name(s)': 'Date Palm', 'Part': 'Fruit', 'Concn (ppm)': 1140.0}, {'Genus species': 'Citrullus lanatus', 'Family': 'Cucurbitaceaea', 'Common name(s)': 'Watermelon', 'Part': 'Fruit', 'Concn (ppm)': 236.0}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 6 (1995) (2)US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Jul 13, 2016: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for cysteine(SRC), using a log Kow of -2.49(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Malaney GW, Gerhold RM; J Water Pollut Control Fed 41: R18-R33 (1969)",
+            "Value": "AEROBIC: Cysteine, present at 500 mg/L, reached 1.5, 2.4 and 4.7% of its theoretical BOD in 6, 12, and 24 hours, respectively, using an activated sludge inoculum at 2500 mg/L in the Warburg test. It is one of the more resistant of the amino acids(1)."
+        },
+        {
+            "References": "(1) Marion CV, Malaney GW; J Water Pollut Control Fed 35: 1269-84 (1963)",
+            "Value": "PURE CULTURE: Alcaligenes faecalis, isolated from activated sludge, was able to oxidize 500 mg/L cysteine, exhibiting an O2 uptake of 575 mg/L in 130 hours in the Warburg test at 20 \u00b0C(1)."
+        },
+        {
+            "References": "(1) Jessee JA et al; Appl Environ Microbiol 45: 97-102 (1983)",
+            "Value": "ANAEROBIC: An enrichment culture capable of degrading cysteine was isolated from sediment from a stream in Charleston, WV that received industrial wastewater effluent(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 6",
+            "Value": "log Kow = -2.49"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Jul 13, 2016: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) O'Neil MJ, ed; The Merck Index. 15th ed., Cambridge, UK: Royal Society of Chemistry p. 486 (2013) (4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of cysteine can be estimated to be 3(SRC). According to a classification scheme(2), this estimated Koc value suggests that cysteine is expected to have very high mobility in soil. The pKa values of cysteine are 1.71, 8.33 and 10.78(3) indicating that this compound will exist as a zwitterion in the environment and zwitterions generally adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(4)."
+        }
+    ]
+}

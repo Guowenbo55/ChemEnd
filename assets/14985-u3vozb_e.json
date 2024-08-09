@@ -1,0 +1,90 @@
+{
+    "_id": {
+        "$oid": "6682e91cc4e5dba5ffba28f8"
+    },
+    "CID": {
+        "$numberInt": "14985"
+    },
+    "Name": "VITAMIN E",
+    "IUPACName": "(2R)-2,5,7,8-tetramethyl-2-[(4R,8R)-4,8,12-trimethyltridecyl]-3,4-dihydrochromen-6-ol",
+    "CanonicalSMILES": "CC1=C(C2=C(CCC(O2)(C)CCCC(C)CCCC(C)CCCC(C)C)C(=C1O)C)C",
+    "Synonyms": [
+        "VITAMIN E",
+        "alpha-Tocopherol",
+        "59-02-9",
+        "D-alpha-Tocopherol",
+        "5,7,8-Trimethyltocol",
+        "(+)-alpha-Tocopherol",
+        "alpha Tocopherol",
+        "2074-53-5",
+        "Phytogermine",
+        "TOCOPHEROL",
+        "Aquasol E",
+        "(R,R,R)-alpha-Tocopherol",
+        "Syntopherol",
+        "Viteolin",
+        "Eprolin"
+    ],
+    "IsomericSMILES": "CC1=C(C2=C(CC[C@@](O2)(C)CCC[C@H](C)CCC[C@H](C)CCCC(C)C)C(=C1O)C)C",
+    "INCHI": "InChI=1S/C29H50O2/c1-20(2)12-9-13-21(3)14-10-15-22(4)16-11-18-29(8)19-17-26-25(7)27(30)23(5)24(6)28(26)31-29/h20-22,30H,9-19H2,1-8H3/t21-,22-,29-/m1/s1",
+    "INCHIKEY": "GVJHHUAWPYXKBD-IEOSBIPESA-N",
+    "Formula": "C29H50O2",
+    "MolecularWeight": {
+        "$numberDouble": "430.7"
+    },
+    "Description": "(R,R,R)-alpha-tocopherol is an alpha-tocopherol that has R,R,R configuration. The naturally occurring stereoisomer of alpha-tocopherol, it is found particularly in sunflower and olive oils. It has a role as an antioxidant, a nutraceutical, an antiatherogenic agent, an EC 2.7.11.13 (protein kinase C) inhibitor, an anticoagulant, an immunomodulator, an antiviral agent, a micronutrient, an algal metabolite and a plant metabolite. It is an enantiomer of a (S,S,S)-alpha-tocopherol.",
+    "XlogP": {
+        "$numberDouble": "10.7"
+    },
+    "Complexity": {
+        "$numberInt": "503"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) EFSA; Opinion on mixed tocopherols, tocotrienol tocopherol and tocotrienols as sources for vitamin E added as a nutritional substance in food supplements. The EFSA Journal 640: 1-34 (2008). Available from, as of July 28, 2015: https://www.efsa.europa.eu/de/scdocs/doc/640.pdf",
+            "Value": "Vitamin E (as alpha-tocopherol) concentrations in plant oils (mg/100 g product): Canola, 21.0; Castor, 2.8; Coconut, 0.5; Corn, 11.2; Cottonseed, 38.9; Olive, 11.9; Palm, 25.6; Palm kernel, 6.2; Peanut, 13.0; Rice bran, 32.4; Safflower, 34.2; Sesame, 13.6; Soybean, 7.5; Sunflower, 48.7; Walnut, 56.3(1)."
+        },
+        {
+            "References": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. alpha-Tocopherol. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of July 28, 2015: https://www.ars-grin.gov/duke/",
+            "Value": "Vitamin E detections in plants(1).",
+            "Table": "[{'Genus species': 'Triticum aestivum L.', 'Family': 'Poaceae', 'Common name': 'Wheat', 'Part': 'Oil', 'Concn (ppm)': '2,170'}, {'Genus species': 'Lepidium sativum L.', 'Family': 'Brassicaceae', 'Common name': 'Garden Cress', 'Part': 'Oil', 'Concn (ppm)': '1,830'}, {'Genus species': 'Triticum aestivum L.', 'Family': 'Poaceae', 'Common name': 'Wheat', 'Part': 'Seed', 'Concn (ppm)': '1,271'}, {'Genus species': 'Rheum rhabarbarum L.', 'Family': 'Polygonaceae', 'Common name': 'Rhubarb', 'Part': 'Leaf', 'Concn (ppm)': '1,238'}, {'Genus species': 'Daucus carota L.', 'Family': 'Apiaceae', 'Common name': 'Carrot', 'Part': 'Leaf', 'Concn (ppm)': '788'}, {'Genus species': 'Brassica oleracea var. sabellica l. var. acephala DC', 'Family': 'Brassicaceae', 'Common name': 'Curly Kale, Kale, Kitchen Kale, Scotch Kale', 'Part': 'Leaf', 'Concn (ppm)': '785'}, {'Genus species': 'Phaseolus vulgaris subsp. var. vulgaris', 'Family': 'Fabaceae', 'Common name': 'Black Bean, Field Bean, Green Bean, Kidney Bean', 'Part': 'Leaf', 'Concn (ppm)': '719'}, {'Genus species': 'Helianthus annuus L.', 'Family': 'Asteraceae', 'Common name': 'Girasol, Sunflower', 'Part': 'Oil', 'Concn (ppm)': '622'}, {'Genus species': 'Carthamus tinctorius L.', 'Family': 'Asteraceae', 'Common name': 'Safflower', 'Part': 'Oil', 'Concn (ppm)': '449'}, {'Genus species': 'Beta vulgaris subsp. subsp. vulgaris', 'Family': 'Chenopodiaceae', 'Common name': 'Beet, Beetroot, Garden Beet, Sugar Beet', 'Part': 'Leaf', 'Concn (ppm)': '439'}, {'Genus species': 'Brassica oleracea var. botrytis l. var. botrytis L.', 'Family': 'Brassicaceae', 'Common name': 'Cauliflower', 'Part': 'Leaf', 'Concn (ppm)': '439'}, {'Genus species': 'Spinacia oleracea L.', 'Family': 'Chenopodiaceae', 'Common name': 'Spinach', 'Part': 'Leaf', 'Concn (ppm)': '419'}, {'Genus species': 'Trifolium pratense L.', 'Family': 'Fabaceae', 'Common name': 'Cowgrass, Peavine Clover, Purple Clover, Red Clover', 'Part': 'Inflorescence', 'Concn (ppm)': '400'}, {'Genus species': 'Abelmoschus esculentus (L.) MOENCH', 'Family': 'Malvaceae', 'Common name': 'Okra', 'Part': 'Oil', 'Concn (ppm)': '310'}, {'Genus species': 'Capsicum annuum L.', 'Family': 'Solanaceae', 'Common name': 'Bell Pepper, Cherry Pepper, Cone Pepper, Green Pepper, Paprika, Sweet Pepper', 'Part': 'Fruit', 'Concn (ppm)': '284'}, {'Genus species': 'Glycine max (L.) MERR.', 'Family': 'Fabaceae', 'Common name': 'Soybean', 'Part': 'Leaf', 'Concn (ppm)': '280'}, {'Genus species': 'Prunus dulcis (MILLER) D. A. WEBB', 'Family': 'Rosaceae', 'Common name': 'Almond', 'Part': 'Seed', 'Concn (ppm)': '275'}, {'Genus species': 'Medicago sativa subsp. sativa', 'Family': 'Fabaceae', 'Common name': 'Alfalfa, Lucerne', 'Part': 'Plant', 'Concn (ppm)': '257'}, {'Genus species': 'Zea mays L.', 'Family': 'Poaceae', 'Common name': 'Corn', 'Part': 'Oil', 'Concn (ppm)': '257'}, {'Genus species': 'Petroselinum crispum (MILLER) NYMAN EX A. W. HILLL', 'Family': 'Apiaceae', 'Common name': 'Parsley', 'Part': 'Leaf', 'Concn (ppm)': '252'}, {'Genus species': 'Rosa canina L.', 'Family': 'Rosaceae', 'Common name': 'Dog Rose, Dogbrier, Rose', 'Part': 'Fruit', 'Concn (ppm)': '204'}, {'Genus species': 'Brassica rapa L.', 'Family': 'Brassicaceae', 'Common name': 'Sarson', 'Part': 'Oil', 'Concn (ppm)': '189'}, {'Genus species': 'Anethum graveolens L.', 'Family': 'Apiaceae', 'Common name': 'Dill, Garden Dill', 'Part': 'Leaf', 'Concn (ppm)': '147'}, {'Genus species': 'Lycopersicon esculentum MILLER', 'Family': 'Solanaceae', 'Common name': 'Tomato', 'Part': 'Fruit', 'Concn (ppm)': '143'}, {'Genus species': 'Lactuca sativa L.', 'Family': 'Asteraceae', 'Common name': 'Lettuce', 'Part': 'Fruit', 'Concn (ppm)': '139'}, {'Genus species': 'Ribes nigrum L.', 'Family': 'Grossulariaceae', 'Common name': 'Black Currant;', 'Part': 'Fruit', 'Concn (ppm)': '120'}, {'Genus species': 'Cucurbita pepo L.', 'Family': 'Cucurbitaceae', 'Common name': 'Pumpkin', 'Part': 'Fruit', 'Concn (ppm)': '119'}, {'Genus species': 'Olea europaea subsp. europaea', 'Family': 'Oleaceae', 'Common name': 'Olive', 'Part': 'Oil', 'Concn (ppm)': '119'}, {'Genus species': 'Arachis hypogaea L.', 'Family': 'Fabaceae', 'Common name': 'Groundnut, Peanut', 'Part': 'Seed', 'Concn (ppm)': '116'}, {'Genus species': 'Vaccinium corymbosum L.', 'Family': 'Ericaceae', 'Common name': 'Blueberry', 'Part': 'Fruit', 'Concn (ppm)': '116'}, {'Genus species': 'Glycine max (L.) MERR.', 'Family': 'Fabaceae', 'Common name': 'Soybean', 'Part': 'Oil', 'Concn (ppm)': '95'}, {'Genus species': 'Urtica dioica L.', 'Family': 'Urticaceae', 'Common name': 'European Nettle, Stinging Nettle', 'Part': 'Leaf', 'Concn (ppm)': '94'}, {'Genus species': 'Arachis hypogaea L.', 'Family': 'Fabaceae', 'Common name': 'Groundnut, Peanut', 'Part': 'Oil', 'Concn (ppm)': '89'}, {'Genus species': 'Prunus persica (L.) BATSCH', 'Family': 'Rosaceae', 'Common name': 'Peach', 'Part': 'Fruit', 'Concn (ppm)': '86'}, {'Genus species': 'Vaccinium macrocarpon AITON', 'Family': 'Ericaceae', 'Common name': 'American Cranberry, Cranberry, Large Cranberry', 'Part': 'Fruit', 'Concn (ppm)': '81'}, {'Genus species': 'Apium graveolens L.', 'Family': 'Apiaceae', 'Common name': 'Celery', 'Part': 'Pt', 'Concn (ppm)': '67'}, {'Genus species': 'Lepidium sativum L.', 'Family': 'Brassicaceae', 'Common name': 'Garden Cress', 'Part': 'Leaf', 'Concn (ppm)': '66'}, {'Genus species': 'Apium graveolens L.', 'Family': 'Apiaceae', 'Common name': 'Celery', 'Part': 'Plant', 'Concn (ppm)': '64'}, {'Genus species': 'Brassica oleracea var. gemmifera var. gemmifera DC', 'Family': 'Brassicaceae', 'Common name': 'Brussel-Sprout, Brussels-Sprouts', 'Part': 'Leaf', 'Concn (ppm)': '63'}, {'Genus species': 'Elaeis guineensis JACQ.', 'Family': 'Arecaceae', 'Common name': 'African Oil Palm', 'Part': 'Fruit', 'Concn (ppm)': '75-125'}, {'Genus species': 'Prunus domestica L.', 'Family': 'Rosaceae', 'Common name': 'Plum', 'Part': 'Fruit', 'Concn (ppm)': '62'}]"
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Rontani JF et al; Organic Geochem 39(6): 676-688 (2008)",
+            "Value": "PURE CULTURE: Vitamin E was biodegraded by aerobic bacterial communities (genera Idiomarina and Bacillus), isolated from marine sediment and microbial mat sample(1); biodegradation appeared to involve an initial omega-oxidation of the isoprenoid side chain and subsequent beta-oxidation, affording 2,5,7,8-tetramethyl-2(2'-carboxyethyl)-6-hydroxychroman(1)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Casani R; Vitamin E. Kirk-Othmer Encyclopedia of Chemical Technology. (1999-2015). New York, NY: John Wiley & Sons. Online Posting Date: Dec 4, 2000.",
+            "Value": "Vitamin E occurs in fish as part of the total tocopherol content(1)."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:21320073",
+            "Value": "Cancer development and progression are closely associated with inflammation. NF-kappaB (nuclear factor kappaB) provides a mechanistic link between inflammation and cancer, and is a major factor controlling the ability of malignant cells to resist tumor surveillance mechanisms. NF-kappaB might also regulate tumor angiogenesis and invasiveness and the signalling pathways that mediate its activation provide attractive targets for new chemopreventive and chemotherapeutic approaches. ROS (reactive oxygen species) initiate inflammation by up-regulation of pro-inflammatory cytokines and therefore antioxidants provide a major defence against inflammation. alpha-Tocopherol is a lipid-soluble antioxidant. In addition to decreasing lipid peroxidation, alpha-tocopherol may exert intracellular effects. Hence, the aim of this study was to test the effect of alpha-tocopherol supplementation in cancer prevention via suppression of NF-kappaB-mediated pro-inflammatory cytokines. alpha-Tocopherol treatment significantly down-regulates expression, synthesis as well as secretion of pro-inflammatory cytokine IL-6 (interleukin-6) in cancerous mice. It also suppresses NF-kappaB binding to IL-6 promoter in liver leading to decreased secretion of IL-6 in serum. The regulation of the signalling pathway by alpha-tocopherol is found apart from its antioxidant capacity to reduce lipid peroxidation. Thus, the present study provides evidence for the hypothesis that besides the powerful free radical scavenging effects, alpha-tocopherol has genomic effects in down-regulation of pro-inflammatory cytokine and cancer prevention via the NF-kappaB-dependent pathway."
+        },
+        {
+            "References": "PMID:20217235",
+            "Value": "Mitocans are drugs selectively killing cancer cells by destabilizing mitochondria and many induce apoptosis via generation of reactive oxygen species (ROS). However, the molecular events by which ROS production leads to apoptosis has not been clearly defined. In this study with the mitocan alpha-tocopheryl succinate (alpha-TOS) the role of the Bcl-2 family proteins in the mechanism of malignant cell apoptosis has been determined. Exposure of several different cancer cell lines to alpha-TOS increased expression of the Noxa protein, but none of the other proteins of the Bcl-2 family, an event that was independent of the cellular p53 status. alpha-TOS caused a profound conformational change in the pro-apoptotic protein, Bak, involving oligomerization in all cell types, and this also applied to the Bax protein, but only in non-small cell lung cancer cells. Immunoprecipitation studies indicated that alpha-TOS activates the two BH1-3 proteins, Bak or Bax, to form high molecular weight complexes in the mitochondria. RNAi knockdown revealed that Noxa and Bak are required for alpha-TOS-induced apoptosis, and the role of Bak was confirmed using Bak- and/or Bax-deficient cells. We conclude that the major events induced by alpha-TOS in cancer cells downstream of ROS production leading to mitochondrial apoptosis involve the Noxa-Bak axis. It is proposed that this represents a common mechanism for mitochondrial destabilization activated by a variety of mitocans that induce accumulation of ROS in the early phases of apoptosis. /alpha-Tocopheryl succinate/"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Schwarzbauer J et al; Org Geochem 31: 1713-1731 (2000)",
+            "Value": "SEDIMENT: Vitamin E was identified, not quantified, in sediment from 7 locations within the German Bight of the North Sea(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of July 28, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of vitamin E can be estimated to be 2.5X10+7(SRC). According to a classification scheme(2), this estimated Koc value suggests that vitamin E is expected to be immobile in soil."
+        }
+    ]
+}

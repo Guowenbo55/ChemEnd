@@ -1,0 +1,100 @@
+{
+    "_id": {
+        "$oid": "6682e9adc4e5dba5ffba2bd4"
+    },
+    "CID": {
+        "$numberInt": "3032604"
+    },
+    "Name": "PHOSPHAMIDON",
+    "IUPACName": "[(Z)-3-chloro-4-(diethylamino)-4-oxobut-2-en-2-yl] dimethyl phosphate",
+    "CanonicalSMILES": "CCN(CC)C(=O)C(=C(C)OP(=O)(OC)OC)Cl",
+    "Synonyms": [
+        "PHOSPHAMIDON",
+        "Dimecron",
+        "13171-21-6",
+        "(Z)-Phosphamidon",
+        "Fosfamidone",
+        "Phosphamidone",
+        "Apamidon",
+        "Fosfamidon",
+        "Famfos",
+        "Merkon",
+        "Dixon",
+        "Dimecron 100",
+        "23783-98-4",
+        "Sundaram 1975",
+        "Ciba 570"
+    ],
+    "IsomericSMILES": "CCN(CC)C(=O)/C(=C(\\C)/OP(=O)(OC)OC)/Cl",
+    "INCHI": "InChI=1S/C10H19ClNO5P/c1-6-12(7-2)10(13)9(11)8(3)17-18(14,15-4)16-5/h6-7H2,1-5H3/b9-8-",
+    "INCHIKEY": "RGCLLPNLLBQHPF-HJWRWDBZSA-N",
+    "Formula": "C10H19ClNO5P",
+    "MolecularWeight": {
+        "$numberDouble": "299.69"
+    },
+    "Description": "Phosphamidon is a trialkyl phosphate, an organophosphate insecticide, an organochlorine insecticide and an organophosphate nematicide. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, an EC 3.1.1.8 (cholinesterase) inhibitor, an acaricide and an agrochemical. It is functionally related to a N,N-diethyl-3-hydroxybut-2-enamide.",
+    "XlogP": {
+        "$numberDouble": "1.3"
+    },
+    "Complexity": {
+        "$numberInt": "359"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Voss G, Geissbuhler H; Res Rev 37: 133-52 (1971) (2) Geissbuhler H et al; Res Rev 37: 39-60 (1971) (3) Worthing CR, Walker SB, eds; The Pesticide Manual 8th ed Suffolk, England: Lavenham Press Ltd (1987)",
+            "Value": "The concn of phosphamidon on treated foliage 18-24 hr after spraying in an apple orchard was 20 ppm(1). Foliage in a grapefruit orchard contained 150 ppm phosphamidon 23 hours after spraying(1). Phosphamidon is rapidly absorbed and metabolized in plants(3). Reported initial half-lives are of the order of 1-2 days(1,2,3). Degradation then proceeds more slowly with residues decreasing to the 0.5 ppm level or less in about 1 week in leafy plants and 2-3 weeks in fruit after normal application(1,2,3)."
+        }
+    ],
+    "animal_concentrations": [
+        {
+            "References": "(1) Geissbuhler H et al; Res Rev 37: 39-60 (1971)",
+            "Value": "Phosphamidon is rapidly metabolized in animals(1) and therefore residues should not be present in animals unless recently exposed."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Min KJ, Cha CG; Bull Environ Contam Toxicol 65: 611-17 (2000) (2) Franke C et al; Chemosphere 29: 1501-14 (1994) (3) Geissbuhler H et al; Res Rev 37: 39-60 (1971)",
+            "Value": "BCFs of <1 were measured for phosphamidon in zebrafish (Brachydanio rerio) using OECD test guideline 305 in a continuous flow-through system operated for 168 hrs with test concns of 995.4 and 198.3 ug/l(1). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC). Bioconcentration of phosphamidon is unlikely due to its high water solubility(1), very low lipophilicity(1) and very rapid depuration(1,3)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Voss G, Geissbuhler H; Res Rev 37: 133-52 (1971) (2) Benyon KI et al; Res Rev 47: 55-142 (1973)",
+            "Value": "AEROBIC: When applied at 5 ppm, the half-lives of phosphamidon in loam, loamy sand, and sand was approximately 6, 3, and <3 days, respectively(1,2). At an application rate of 1 ppm, the half-life in loam and silt was three to four weeks(1,2). No data on sterile controls were presented, and the pH of the soils studied were not reported."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "IPCS; Poisons Information Monograph 454 on Phosphamidon (August 2001). Available from, as of June 26, 2003: https://www.inchem.org/documents/pims/chemical/pim454.htm#1.5%20Main%20brand%20names/%20main%20trade%2",
+            "Value": "Organophosphorus pesticides exert their acute effects by inhibiting acetylcholinesterase in the nervous system with subsequent accumulation of toxic levels of acetylcholine. They may also inhibit butylcholinesterases as well as other esterase. The function of butylcholinesterases is unknown, but its inhibition can provide an indication of exposure to an organophosphate. In many cases, the organophosphorylated enzyme is fairly stable, so that recovery from intoxication may be slow. Reactivation of inhibited enzyme may occur spontaneously, the rates of reactivation depending on the tissue as well as on the chemical group attached to the enzyme. Higher doses of oximes failed to alter the reactivation of in vitro human AchE inhibited by organophosphorus compunds."
+        },
+        {
+            "References": "Lewis, R.J., Sr (Ed.). Hawley's Condensed Chemical  Dictionary. 13th ed. New York, NY: John Wiley & Sons, Inc.  1997., p. 872",
+            "Value": "Cholinesterase inhibitor."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Khan S, Khan NN; Soil Sci 142: 214-22 (1986) (2) Voss G, Geissbuhler H; Res Rev 37: 133-52 (1971)",
+            "Value": "The leaching behavior of phosphamidon in sand, loamy sand, loam, and silt soil in a 15 cm column was studied after 150 cm of rain applied(2). All the added phosphamidon leached through the sand and sandy loam soil, while most of the residue was in the lower third of the column(2). With the silt soil, residues were rather evenly distributed throughout the column and in the leachate, although the greatest fraction of residue was in the upper third of the column. In contrast with the good total recoveries in the other cases, recovery with the silt column was only 39%(2). According to a soil thin layer chromatography study with four soils, phosphamidon was very mobile (retardation factor (Rf) 0.91-0.92) in a silt loam (0.83% organic matter, pH 7.9), silt loam (0.72% organic matter, pH 6.6), and a fine sandy loam (0.52% organic matter, pH 8.8)(1). It was less mobile (Rf = 0.66) in a sandy loam (0.69% organic matter, pH 10.5)(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "Phosphamidon, an insecticide applied to broccoli plants through the roots, exhibited slower absorption and metabolism compared to demeton, resulting in lower efficacy against aphids. While demeton and its metabolites were rapidly translocated within 24 hours of treatment, phosphamidon required a longer preliminary treatment period, possibly up to 24 hours, for comparable control of aphids. Additionally, phosphamidon showed lower overall activity and effectiveness compared to demeton, especially within the first 24 hours of treatment. The study suggests that factors such as absorption rate and translocation efficiency play crucial roles in determining the efficacy of systemic insecticides like phosphamidon against pests in agricultural crops.",
+            "reference": "Shirck, F. H., & Landis, B. J. (1970). Rates of Absorption and Translocation of Some Systemic Insecticides in Broccoli Determined by Mortality of Feeding Green Peach Aphid12. Journal of Economic Entomology, 63(3), 781\u2013782. doi:10.1093/jee/63.3.781\u00a0",
+            "method": {
+                "Test Plant": "Green peach aphids (Myzus persicae)",
+                "Apply Location": "Root application",
+                "Plant Grown Condition": "The stock of green peach aphids used was obtained from potato at Yakima and was held in cages of 'Green Sprouting' broccoli plants in a green house.",
+                "Chemical Preparation": "Pesticides was first prepared as a 1% emulsion in water and further diluted to a final concentration of 30 ppm of insecticide.",
+                "Pesticide Application Details for the Plant": "Each plant was treated with the insecticide emulsion of 30 ppm.",
+                "Other Information": "20 plants for each treatment"
+            },
+            "result": "[{\"Time After Application\": \"24 hours\", \"Mortality (%)\": 43}, {\"Time After Application\": \"48 hours\", \"Mortality (%)\": 82}, {\"Time After Application\": \"72 hours\", \"Mortality (%)\": 95}]"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "_id": {
+        "$oid": "6682e7ebc4e5dba5ffba22ff"
+    },
+    "CID": {
+        "$numberInt": "2272"
+    },
+    "Name": "AZOBENZENE",
+    "IUPACName": "diphenyldiazene",
+    "CanonicalSMILES": "C1=CC=C(C=C1)N=NC2=CC=CC=C2",
+    "Synonyms": [
+        "azobenzene",
+        "103-33-3",
+        "Diphenyldiazene",
+        "1,2-Diphenyldiazene",
+        "(E)-1,2-Diphenyldiazene",
+        "Diazene",
+        "diphenyl-",
+        "Azobenzol",
+        "Azobenzide",
+        "Azobisbenzene",
+        "Diazobenzene",
+        "Azofume",
+        "Benzeneazobenzene",
+        "Diphenyldiimide",
+        "Azobenzeen",
+        "Azodibenzeneazofume"
+    ],
+    "IsomericSMILES": "C1=CC=C(C=C1)N=NC2=CC=CC=C2",
+    "INCHI": "InChI=1S/C12H10N2/c1-3-7-11(8-4-1)13-14-12-9-5-2-6-10-12/h1-10H",
+    "INCHIKEY": "DMLAVOWQYNRWNQ-UHFFFAOYSA-N",
+    "Formula": "C12H10N2",
+    "MolecularWeight": {
+        "$numberDouble": "182.22"
+    },
+    "Description": "Azobenzene is a molecule whose structure comprises two phenyl rings linked by a N=N double bond; the parent compound of the azobenzene class of compounds.",
+    "XlogP": {
+        "$numberDouble": "3.8"
+    },
+    "Complexity": {
+        "$numberInt": "157"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 97 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 10 was calculated for azobenzene(SRC), using a log Kow of 3.82(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Malaney GW; J Water Pollut Control Fed 32: 1300-11 (1960)",
+            "Value": "AEROBIC: In a Warburg respirometer study using sludge acclimated to aniline, azobenzene was found to be resistant to degradation over a 190-hr incubation period(1)."
+        },
+        {
+            "References": "(1) Weber EJ, Wolfe NL; Environ Toxicol Chem 6: 911-9 (1987)",
+            "Value": "ANAEROBIC: Results of degradation studies in an anaerobic sediment/water system indicated that some biodegradation occurs, although abiotic degradation may be faster(1); in a non-sterilized system, a half-life of 13.8 hr was observed, while systems chemically sterilized (via formaldehyde, sodium azide or m-cresol), half-lives of 15.2 to 24.4 hr were observed(2); in an autoclaved system, the half-life jumped to 163 hr, but it was thought that the heating destroyed the chemical agent responsible for the abiotic reduction(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 97",
+            "Value": "log Kow = 3.82"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Huang, H et al; Bull Environ Contam Toxicol 73: 339-346 (2004) (2) Lopes, TJ et al; Environ Sci Tech 20: 727-737 (2001)",
+            "Value": "SEDIMENT: Azobenzene was detected in sediments of the Huaihe River, China at 6 different sampling sites with concns ranging from 0.13-0.29 mg/kg. Samples were taken from Xiao Zui, Huaihe Bridge, and Hongguang Chemical Plant during the summer of 2002. The samples were filtered on an SPE-filtration device and analyzed using gas chromatography and mass spectrometry(1). The U.S. Geological Survey's National Water-Quality Assessment (NAWQA) study detected azobenzene, along with other semi-volatile organic chemicals, at 0.4% of 492 sites and detected at a maximum concn of 130 ug/kg dry weight in streambed sediments. The survey conducted testing from across 536 streambed sites in 20 major river basin systems across the U.S. during 1992-1995(2)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Briggs GG; J Agric Food Chem 29: 1050-9 (1981) (2) Pillai P et al; Chemosphere 11: 299-317 (1982) (3) Swann RL et al; Res Rev 85: 23 (1983)",
+            "Value": "A Koc value of approximately 1,350 was experimentally derived for a silt loam soil(1). Respective Koc values of 2,410 and 4,510 were experimentally determined for a Hagerstown clay loam soil and a Palouse silt loam soil under non-sterile conditions(2); in sterilized soil, respective Koc values of 2,100 and 3,740 were determined(2). According to a suggested classification scheme(3), these Koc values suggest that azobenzene has low to slight mobility in soil(SRC)."
+        }
+    ]
+}

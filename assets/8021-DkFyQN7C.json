@@ -1,0 +1,124 @@
+{
+    "_id": {
+        "$oid": "6682e8a2c4e5dba5ffba2694"
+    },
+    "CID": {
+        "$numberInt": "8021"
+    },
+    "Name": "DIETHYLAMINE",
+    "IUPACName": "N-ethylethanamine",
+    "CanonicalSMILES": "CCNCC",
+    "Synonyms": [
+        "DIETHYLAMINE",
+        "N-Ethylethanamine",
+        "109-89-7",
+        "N,N-Diethylamine",
+        "Diethamine",
+        "Ethanamine",
+        "N-ethyl-",
+        "Diaethylamin",
+        "Dietilamina",
+        "Dwuetyloamina",
+        "diethyl amine",
+        "Diethyl-amine",
+        "Et2NH",
+        "CCRIS 4792",
+        "HSDB 524",
+        "(C2H5)2NH"
+    ],
+    "IsomericSMILES": "CCNCC",
+    "INCHI": "InChI=1S/C4H11N/c1-3-5-4-2/h5H,3-4H2,1-2H3",
+    "INCHIKEY": "HPNMFZURTQLUMO-UHFFFAOYSA-N",
+    "Formula": "C4H11N",
+    "MolecularWeight": {
+        "$numberDouble": "73.14"
+    },
+    "Description": "Diethylamine is a secondary aliphatic amine where both N-substituents are ethyl. It is a conjugate base of a diethylammonium.",
+    "XlogP": {
+        "$numberDouble": "0.6"
+    },
+    "Complexity": {
+        "$numberInt": "11"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Irvine WJ, Saxby MJ; Phytochemistry 8: 473-6 (1969) (2) Uhegbu FO, Maduagwu EN; Bull Environ Contam Toxicol 55: 643-49 (1995)",
+            "Value": "Diethylamine has been identified in tobacco leaf at 0.1-35 ppm(1). Diethylamine was identified, not quantified, in various plants and roots from Africa(2)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 10 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of June 28, 2016: https://www2.epa.gov/tsca-screening-tools/ (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for diethylamine(SRC), using a log Kow of 0.58(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of June 28, 2016: https://www.safe.nite.go.jp/english/db.html (2) Calamari D et al; Chemosphere 9: 753-62 (1980) (3) Chudoba J et al; Chem Prum 19: 76-80 (1969) (4) Boethling RS, Alexander M; Environ Sci Technol 13: 989-91 (1979)",
+            "Value": "AEROBIC: Diethylamine, present at 100 mg/L, reached 69-89% of its Theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1). In a screening study, diethylamine at 10 ppm degraded with both an activated sludge and freshwater/sediment inoculum, 59 and 38% of the Theoretical BOD was obtained after 12 days of incubation, respectively(2). Inhibition was noted at moderate concentrations and sizeable reductions in BOD were noted at 50 ppm(2). Diethylamine was degraded slowly by activated sludge even when acclimatized (53% of Theoretical BOD was achieved after 13 days)(3). However the concentration levels used in this study could not be ascertained. When added to stream water, the maximum rate of biodegradation of diethylamine was proportional to an initial amine concentration over a concentration range from several nanograms to several milligrams per liter(4). At the highest concentration studied, 10 mg/L, the half-life of diethylamine was 0.9 days(4)."
+        },
+        {
+            "References": "(1) Hongwei Y et al; Ecotoxicol Environ Saf 63: 299-305 (2006)",
+            "Value": "ANAEROBIC: Diethylamine, at an initial concentration of 100 mg/L, digested at 35 \u00b0C for 50 days was partially degraded anaerobically(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 10",
+            "Value": "log Kow = 0.58"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "PMID:2598299",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Sensory irritation due to inhalation of diethyl-, triethyl-, dibutyl-, tributyl- and cyclohexylamine was estimated from the decrease in respiratory rate in normal mice (American Standard Method E981-84). The concentration-effect relations followed Michaelis-Menten equations, except for diethylamine, for which a threshold was found. The concentrations depressing the respiratory rate by 50% (RD50) for diethyl-, triethyl-, dibutyl- and cyclohexylamine were 184, 186, 81 and 27 ppm, respectively. ... Pulmonary irritation was estimated from the decrease in respiratory rate in tracheal-cannulated mice. The respective concentrations depressing the respiratory rate by 50% (tRD50) were 549, 691, 101, 96 and 78 ppm for diethyl-, triethyl-, dibutyl-, tributyl- and cyclohexylamine."
+        },
+        {
+            "References": "Valiev AG; Vopr Biokhim Immunol Chel Zhivotn 33-7 (1974)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Diethylamine when administered ip to rats was moderate in its inhibitory activity with respect to liver/monoamine oxidase."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rabbits were exposed to diethylamine vapors at 50 and 100 ppm, 7 hours/day, 5 days/week for 6 weeks. All rabbits survived the exposures and had normal body weights without demonstrating any outward signs of response to the chemical. At 100 ppm, lungs contained cellular infiltration and bronchopneumonia; livers had parenchymatous degeneration with evidence of cell regeneration; and kidneys showed nephritis. The same changes, but to a lesser degree, were produced at 50 ppm. A suggestion of very slight cardiac muscle degeneration was seen in rabbits inhaling 50 ppm but was not evident at 100 ppm."
+        },
+        {
+            "References": "PMID:3699339",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Male and female Fischer 344 (F-344) rats were exposed at 0,25 or 250 ppm diethylamine (DEA) vapor, 6.5 hr per day, 5 days per week, for 24 weeks in order to assess cardiac and other organ system toxicity. Scheduled sacrifices were performed following 30, 60, and 120 days of exposure. During the first 2 weeks of exposure, the rats exposed at 250 ppm DEA did not gain weight. After 2 weeks, however, the rate of weight gain of these rats was greater than that of controls. Nevertheless, mean body weights for both sexes of rats exposed at 250 ppm DEA remained depressed compared to controls throughout the study. Sneezing, tearing, and reddened noses were seen in rats exposed at 250 ppm DEA. Histopathologic examinations revealed lesions of the nasal mucosa of rats exposed at 250 ppm DEA (rats exposed at 25 ppm were not evaluated). These lesions of the respiratory epithelium consisted of squamous metaplasia, suppurative rhinitis, and lymphoid hyperplasia. There were no pronounced treatment-related effects on organ weights, hematology, or clinical chemistry indices except for blood urea nitrogen which was evaluated in rats of both sexes exposed at 250 ppm DEA for 24 weeks. In contrast to the high-dose animals, no treatment-related effects were observed in rats intermittently exposed at 25 ppm DEA for up to 24 weeks. No evidence of cardiotoxicity was seen in rats exposed to either DEA concentration for up to 24 weeks."
+        },
+        {
+            "References": "Kronauer K et al; Naunyn Schmiedebergs Arch Pharmacol 341 (Suppl): R21 (1990)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Isolated individual fertilized eggs from zebrafish (Brachydanio rerio) developed in vitro can be used to elucidate possible actions of hazardous agents on embryogenesis. This non-mammalian test system is easy to handle and allows one to obtain reproducible results within 4-6 days. In the present study, the following were the most important indicators of development at different stages during hatching that were checked: epiboly, yolk clot on primitive mouth (stage (st): 16), irregular muscle movement (st: 20), tail bud separation from the yolk (st: 20), heart beats: 200/min (st: 24), hatching of the embryo (st: 25), 34 somites (st: 25), delay of development. Normal development of each parameter (as %) was plotted against the concentrations of each agent applied in the incubation media (0.2 - 15 mg/mL), and the areas under the curves (AUC, 10(-2) x mg/mL) were calculated. The AUCs of dimethylformamide (DMF) were compared to those of N-methylformamide (NMF) and formamide (FA). Epiboly, muscle movement, and hatching of the embryo were more disturbed by DMF than by NMF or FA. Changes of the other parameters (yolk clot on primitive mouth, tail bud separation from the yolk, heart beats: 200/min, 34 somites, delay of development) were more pronounced after application of NMF than of DMF or FA. In total, the order of activity was: NMF greater than DMF greater than FA. Methylamine (MA), dimethylamine (DMA), and diethylamine (DEA), 0.1 - 5 mg/mL incubation media (neutralized by HCl to pH 7.5), caused mortality of most of eggs by cytotoxic effects essentially at stage 24. Malformations were not observed. The order of activity was: DEA greater than MA greater than DMA: this has been shown by the rates of embryonic mortality: DEA - 60% at 0.5 mg/mL, MA - 60% at 2 mg/mL, DMA - 40% at 2 mg/mL incubation media. The results show that the fish egg model allows the researcher to easily differentiate types of embryogenesis lesions caused by chemicals."
+        },
+        {
+            "References": "Zeiger E et al; Environ Mutagen 9: 1-110 (1987)",
+            "Value": "/GENOTOXICITY/ Diethylamine was evaluated for mutagenicity in the Salmonella/microsome preincubation assay using a standard protocol approved by the National Toxicology Program. Diethylamine was tested at doses of 0, 10, 33, 100, 333, 1000, and 3333 ug/plate in four Salmonella typhimurium strains (TA98, TA100, TA1535, and TA1537) in the presence and absence of Aroclor-induced rat or hamster liver S9. Diethylamine was negative in these tests and the highest ineffective dose level tested in any Salmonella tester strain was 3333 ug/plate."
+        },
+        {
+            "References": "PMID:3798449",
+            "Value": "/GENOTOXICITY/ Male Fischer 344 rats exposed via gavage to 500 mg/kg (6.84 mmol/kg) diethylamine and sampled 12 hours later did not exhibit unscheduled DNA synthesis (UDS) in their kidney cells."
+        },
+        {
+            "References": "Ali AMM et al; Egypt J Microbiol 16 (1-2): 133-14 (1981)",
+            "Value": "/GENOTOXICITY/ A variety of biochemical mutants were induced by diethylamine in Streptomyces scabies. Bacteria were exposed to 0.05 and 0.1 mL diethylamine per 20 mL (34 and 68 umol/mL) complete media for 4 days at 28 \u00b0C in the absence of metabolic activation. Surviving colonies were isolated and retested for mutations on minimal media. Twenty amino acids requiring biochemical mutants were isolated at the low dose level. Biochemical mutants were not investigated for the high dose level."
+        },
+        {
+            "References": "PMID:755666",
+            "Value": "/OTHER TOXICITY INFORMATION/ Rats were dosed with CCl4 or diethylamine to induce liver injury. The time and magnitude of peak liver injury were assessed by histopathological examination of liver specimens taken at intervals after dosing. Serum enzymes were measured at the same intervals. Serum ornithine carbamyl transferase (SOCT) activity increased at least 6-fold in animals that showed liver damage by histopathology, and fell again as the injuries resolved. Measurements of other enzymes were less sensitive. SOCT measurements appear to be as sensitive a method as histopathology for detecting liver damage caused by administering xenobiotics. Since serum enzyme measurements do not require that the animals be sacrificed, they can be used for repeated examinations of the same animals, thus increasing the likelihood of detecting transient injury."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Golovnya RV et al; Amines in Soil as Possible Precursors of N-Nitroso Compounds. USSR Acad Med Sci pp. 327-35 (1982)",
+            "Value": "Diethylamine was qualitatively identified in soil samples taken from Moscow(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of June 28, 2016: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Perrin DD; Dissociation constants of organic bases in aqueous solution. IUPAC Chem Data Ser, Buttersworth, London (1965) (4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of diethylamine can be estimated to be 27(SRC). According to a classification scheme(2), this estimated Koc value suggests that diethylamine is expected to have very high mobility in soil. The pKa of diethylamine is 11.09(3), indicating that this compound will exist entirely in cation form in the environment and cations generally adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(4)."
+        }
+    ]
+}

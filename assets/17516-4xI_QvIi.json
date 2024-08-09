@@ -1,0 +1,79 @@
+{
+    "_id": {
+        "$oid": "6682e92dc4e5dba5ffba294d"
+    },
+    "CID": {
+        "$numberInt": "17516"
+    },
+    "Name": "PROMECARB",
+    "IUPACName": "(3-methyl-5-propan-2-ylphenyl) N-methylcarbamate",
+    "CanonicalSMILES": "CC1=CC(=CC(=C1)OC(=O)NC)C(C)C",
+    "Synonyms": [
+        "PROMECARB",
+        "2631-37-0",
+        "Carbamult",
+        "Minacide",
+        "Promecarbe",
+        "m-Cym-5-yl methylcarbamate",
+        "Schering 34615",
+        "Morton EP-316",
+        "3-Isopropyl-5-methylphenyl methylcarbamate",
+        "Sch 34615",
+        "Sn-316",
+        "OMS 716",
+        "5-Methyl-m-cumenyl methylcarbamate",
+        "ENT 27,300-a",
+        "3-Methyl-5-isopropylphenyl methylcarbamate"
+    ],
+    "IsomericSMILES": "CC1=CC(=CC(=C1)OC(=O)NC)C(C)C",
+    "INCHI": "InChI=1S/C12H17NO2/c1-8(2)10-5-9(3)6-11(7-10)15-12(14)13-4/h5-8H,1-4H3,(H,13,14)",
+    "INCHIKEY": "DTAPQAJKAFRNJB-UHFFFAOYSA-N",
+    "Formula": "C12H17NO2",
+    "MolecularWeight": {
+        "$numberDouble": "207.27"
+    },
+    "Description": "Promecarb is an alkylbenzene.",
+    "XlogP": {
+        "$numberDouble": "3.1"
+    },
+    "Complexity": {
+        "$numberInt": "216"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Worthing CR, Walker SB; The Pesticide Manual. Seventh Edition. Croydon, England: The British Crop Protection Council p. 457 (1983) (2) Hansch C, Leo AJ; Medchem Project Issue No 26. Clarmont CA: Pomona College (1985) (3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods NY: McGraw-Hill p. 5-4, 5-10 (1982)",
+            "Value": "Based upon a water solubility of 91 ppm at 25 \u00b0C(1) and a measured log Kow of 3.10(2), the bioconcentration factor (BCF) for promecarb can be estimated to be 49 and 134, respectively, from recommended regression- derived equations(3,SRC). These BCF estimates suggest a low potential for bioconcentration(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "PMID:7306718",
+            "Value": "In pure culture biodegradation studies using Pseudomonas putida, Flavobacter sp, and Aeromonas liquefaciens, only 1.7-16.8% of initial concn of promecarb remained after 28 days of incubation(1); 84.3% of initial promecarb remained after 28 in controls(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch C, Leo AJ; Medchem Project Issue No 26. Clarmont CA: Pomona College (1985)",
+            "Value": "log Kow= 3.10 (measured)"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Ellenhorn, M.J. and D.G. Barceloux. Medical Toxicology - Diagnosis and Treatment of Human Poisoning. New York, NY: Elsevier Science Publishing Co., Inc. 1988., p. 1077",
+            "Value": "Carbamylation of acetylcholinesterase produces accumulation of acetylcholine and the picture of muscarine and nicotinic poisoning. /Carbamate pesticides/"
+        },
+        {
+            "References": "Budavari, S. (ed.). The Merck Index - Encyclopedia of Chemicals, Drugs and Biologicals. Rahway, NJ: Merck and Co., Inc., 1989., p. 1236",
+            "Value": "Cholinesterase inhibitor."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Dragun J, Helling CS; Evaluation of Molecular Modelling Techniques to Estimate the Mobility of Organic Chemicals in Soils: II. Water Solubility and the Molecular Fragment Mobility Coefficient. EPA-600/9-81-026 p. 58-70 (1981) (2) Worthing CR, Walker SB; The Pesticide Manual. Seventh Edition. Croydon, England: The British Crop Protection Council p. 457 (1983) (3) Hansch C, Leo AJ; Medchem Project Issue No 26. Clarmont CA: Pomona College (1985) (4) Lyman WJ et al; Handbook of Chemical Property Estimation Methods NY: McGraw-Hill p. 4-9 (1982) (5) Swann RL et al; Res Rev 85: 16-28 (1983)",
+            "Value": "Utilizing soil thin-layer chromatography, the Rf value of promecarb in Hagerstown silty clay loam soil was measured to be 0.34 which is suggestive of low to moderate soil mobility(1). Based upon a water solubility of 91 ppm at 25 \u00b0C(2) and a measured log Kow of 3.10(3), the Koc value for promecarb can be estimated to range from 365 to 1240 from various regression-derived equations(4,SRC). These estimated Koc values also indicate low to medium soil mobility(5)."
+        }
+    ]
+}

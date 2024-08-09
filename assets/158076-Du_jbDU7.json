@@ -1,0 +1,86 @@
+{
+    "_id": {
+        "$oid": "6692711b303528b49832d7f0"
+    },
+    "CID": {
+        "$numberInt": "158076"
+    },
+    "Name": "(2R,3R)-1-(4-chlorophenyl)-4,4-dimethyl-2-(1,2,4-triazol-1-yl)pentan-3-ol",
+    "IUPACName": "(2R,3R)-1-(4-chlorophenyl)-4,4-dimethyl-2-(1,2,4-triazol-1-yl)pentan-3-ol",
+    "CanonicalSMILES": "CC(C)(C)C(C(CC1=CC=C(C=C1)Cl)N2C=NC=N2)O",
+    "Synonyms": [
+        "Paclobutrazol",
+        "76738-62-0",
+        "82336-55-8",
+        "(2R,3R)-1-(4-chlorophenyl)-4,4-dimethyl-2-(1,2,4-triazol-1-yl)pentan-3-ol",
+        "Paclobutrazol 10 microg/mL in Isooctane",
+        "Paclobutrazol 100 microg/mL in Acetonitrile",
+        "DTXCID50196503",
+        "alpha-tert-Butyl-beta-(4-chlorobenzyl)-1H-1,2,4-triazole-1-ethanol",
+        "CAS-76738-62-0",
+        "DTXSID2024242",
+        "(R,R)-paclobutrazol",
+        "2R,3R-Paclobutrazol",
+        "SCHEMBL3678556",
+        "DTXSID30231704",
+        "CHEBI:139345"
+    ],
+    "IsomericSMILES": "CC(C)(C)[C@H]([C@@H](CC1=CC=C(C=C1)Cl)N2C=NC=N2)O",
+    "INCHI": "InChI=1S/C15H20ClN3O/c1-15(2,3)14(20)13(19-10-17-9-18-19)8-11-4-6-12(16)7-5-11/h4-7,9-10,13-14,20H,8H2,1-3H3/t13-,14+/m1/s1",
+    "INCHIKEY": "RMOGWMIKYWRTKW-KGLIPLIRSA-N",
+    "Formula": "C15H20ClN3O",
+    "MolecularWeight": {
+        "$numberDouble": "293.79"
+    },
+    "Description": "(R,R)-paclobutrazol is a 1-(4-chlorophenyl)-4,4-dimethyl-2-(1H-1,2,4-triazol-1-yl)pentan-3-ol in which both stereocentres have R configuration. It is an enantiomer of a (S,S)-paclobutrazol.",
+    "XlogP": {
+        "$numberDouble": "3.2"
+    },
+    "Complexity": {
+        "$numberInt": "300"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "14c-paclobutrazol applied to different parts of M.26 apple shootswas translocated acropetally when applied to young stem internodesand, to a lesser extent, from the youngest unrolled leaf. There was noIAc pe nouaperlg. notelise aon feetfe er 2  00 atad actobutrazol todifferent regions of shoots showed that shoot extension growth andleaf production were reduced following treatment of the young stem orshoot tip, while treatment of leaf laminae had only a slight effect onextension growth, Application of multiple low-rate sprays was moreeffective in long-term control of shoot growth than application of thesawe fatea t qner as  hantake as a single atgo ror  qn av  oodttioo ofby young stem internodes. The resuits are discussed in relation to therequirements for efficient orchard application of foliar sprays ofpaclobutrazo1.",
+            "reference": "Quinlan, J. D., & Richardson, P. J. (1985, September). Uptake and translocation of paclobutrazol and implications for orchard use. In V International Symposium on Growth Regulators in Fruit Production 179 (pp. 443-452).",
+            "method": {
+                "Test Plant": "Apple rootstocks M.26",
+                "Apply Location": "foliar application",
+                "Plant Grown Condition": "M.26 rooted layers grown in 13 cm pots with compost in controlled environment cabinet (22\u00b0C day/17\u00b0C night, 65% RH) or heated greenhouse (20-25\u00b0C). Treated when new shoot ~20 cm long.",
+                "Chemical Preparation": "14C-paclobutrazol labeled in triazole ring used for localized applications. Unlabeled 2000 ppm paclobutrazol with 1000 ppm Tween 20 surfactant for some localized tests",
+                "Pesticide Application Details": "4-6 \u03bcL droplets of 14C-paclobutrazol (2-6 kBq per treatment) applied to different plant parts",
+                "Other Information": "Randomized block design with 8 single-tree replicates for orchard trials"
+            },
+            "result": "[{\"Treatment\": \"apply 1 leaf\", \"Surface of treated leaf (% of recoverd)\": 48.0, \"Leaf of treated leaf (%)\": 42.7, \"Translocated to upwards (%)\": 9.3, \"Translocated to downwards (%)\": 0.1}, {\"Treatment\": \"apply 4 leaf\", \"Surface of treated leaf (% of recoverd)\": 71.0, \"Leaf of treated leaf (%)\": 28.8, \"Translocated to upwards (%)\": 0.1, \"Translocated to downwards (%)\": 0.0}, {\"Treatment\": \"apply 6 leaf\", \"Surface of treated leaf (% of recoverd)\": 84.4, \"Leaf of treated leaf (%)\": 15.4, \"Translocated to upwards (%)\": 0.2, \"Translocated to downwards (%)\": 0.1}, {\"Treatment\": \"apply 10 leaf\", \"Surface of treated leaf (% of recoverd)\": 88.5, \"Leaf of treated leaf (%)\": 11.2, \"Translocated to upwards (%)\": 0.1, \"Translocated to downwards (%)\": 0.2}]"
+        },
+        {
+            "content": "Paclobutrazol (PP333) was measured in apple seedlings ('York Imperial' Malus domestica Borkh) using gas chromatography-mass spectrometry. The data confirmed that paclobutrazol was taken up through the roots, transported primarily in the xylem through the stems, and accumulated in the leaves. No detectable basipetal movement of paclobutrazol in apple seedlings was found.",
+            "reference": "Wang, S. Y., Sun, T., & Faust, M. (1986). Translocation of paclobutrazol, a gibberellin biosynthesis inhibitor, in apple seedlings. Plant physiology, 82(1), 11-14.",
+            "method": {
+                "Test Plant": "Apple seedlings (Malus domestica Borkh. cv. 'York Imperial')",
+                "Apply Location": "Seed application",
+                "Plant Growth Condition": "Seeds germinated and seedlings grown in sand until ~10 cm tall in greenhouse. Then transferred to aerated nutrient solution for 1 week before treatments. Greenhouse conditions - natural daylight + 400 W high pressure sodium lamps providing ~400-500 \u03bcmol/m2/s PAR for 12 h/day, day/night temperatures ~25\u00b0C/20\u00b0C.",
+                "Chemical Preparation": "34 \u03bcM paclobutrazol (95% active ingredient) in nutrient solution for root application. 340 \u03bcM paclobutrazol + 0.01% Regulaid surfactant for foliar dip",
+                "Pesticide Application Details for the Plant": "Root application by adding paclobutrazol to nutrient solution. Foliar application by dipping leaves in paclobutrazol + surfactant solution twice per week",
+                "Other Information": "Nutrient solutions changed weekly"
+            },
+            "result": "[{\"Days after application Upper of leaves (% of absorbed)\": 12.0, \"Lower of leaves (%)\": 14.4, \"Upper of stems (%)\": 20.0, \"Lower of stems (%)\": 43.0, \"Roots\": 10.6}, {\"Days after application Upper of leaves (% of absorbed)\": 12.1, \"Lower of leaves (%)\": 15.0, \"Upper of stems (%)\": 31.1, \"Lower of stems (%)\": 32.5, \"Roots\": 9.1}, {\"Days after application Upper of leaves (% of absorbed)\": 14.5, \"Lower of leaves (%)\": 22.1, \"Upper of stems (%)\": 24.3, \"Lower of stems (%)\": 26.4, \"Roots\": 12.7}, {\"Days after application Upper of leaves (% of absorbed)\": 14.9, \"Lower of leaves (%)\": 28.4, \"Upper of stems (%)\": 18.3, \"Lower of stems (%)\": 22.8, \"Roots\": 15.6}, {\"Days after application Upper of leaves (% of absorbed)\": 15.0, \"Lower of leaves (%)\": 30.0, \"Upper of stems (%)\": 13.6, \"Lower of stems (%)\": 20.0, \"Roots\": 21.4}, {\"Days after application Upper of leaves (% of absorbed)\": 15.5, \"Lower of leaves (%)\": 32.7, \"Upper of stems (%)\": 11.0, \"Lower of stems (%)\": 18.9, \"Roots\": 21.9}, {\"Days after application Upper of leaves (% of absorbed)\": 19.0, \"Lower of leaves (%)\": 32.1, \"Upper of stems (%)\": 9.7, \"Lower of stems (%)\": 17.1, \"Roots\": 22.1}, {\"Days after application Upper of leaves (% of absorbed)\": 22.6, \"Lower of leaves (%)\": 30.0, \"Upper of stems (%)\": 9.4, \"Lower of stems (%)\": 16.7, \"Roots\": 21.2}]"
+        },
+        {
+            "content": "When 14C-paclobutrazol, a gibberellin synthesis inhibitor, was applied to different parts of actively-growing M.26 apple rootstock shoots, it was translocated acropetally when applied to the young stem and, to a lesser extent, from the youngest unrolled leaf. Paclobutrazol was not translocated out of leaf laminae, shoot tips, or from one-year-old wood, but translocation occurred out of a treated petiole into the attached leaf. No basipetal translocation was detected, suggesting movement through the xylem. Localized application of paclobutrazol caused a reduction in shoot extension and leaf production when the young stem or shoot tip were treated, with decreasing effects as older parts of the stem were treated. Treatment of laminae or petioles had only a slight effect on shoot extension, while treatment of one-year-old wood was ineffective. Combined treatment of the shoot tip plus young stem had a similar effect to treatment of the complete shoot. These findings suggest that paclobutrazol exerts its effects on shoot growth by inhibiting gibberellin biosynthesis in the shoot tip and the expanding leaves, contributing to an understanding of the requirements for efficient orchard application of foliar sprays of paclobutrazol.",
+            "reference": "Richardson, P. J., & Quinlan, J. D. (1986). Uptake and translocation of paclobutrazol by shoots of M. 26 apple rootstock. Plant growth regulation, 4, 347-356.",
+            "method": {
+                "Test Plant": "Apple rootstock M.26",
+                "Apply Location": "Localized applications to different shoot positions (leaf, internode, stem) of potted plants",
+                "Plant Growth Condition": "Rooted layer shoots grown in 13 cm pots with peat-based compost. Dormant 1-year-old shoots pruned to 20 cm at potting, single new shoot allowed to develop. Treatments applied when new shoot was 20-25 cm long. Plants initially grown outdoors then transferred to growth cabinet (22\u00b0C day/17\u00b0C night, 65% RH) for 7 days before treatment.",
+                "Chemical Preparation": "14C-paclobutrazol labeled in triazole ring (specific activity 0.13 GBq/mmol) used for localized applications.applied in 25% aqueous ethanol with 0.1% Tween 20 surfactant",
+                "Pesticide Application Details for the Plant": "10-30 \u03bcL droplets containing 2-6 kBq 14C-paclobutrazol applied to various shoot positions (leaf, internode, stem) using a micrometer syringe. Treated regions enclosed in lanolin barriers.",
+                "Other Information": "4 replicates per treatment."
+            },
+            "result": "[{\"Site of Treatment\": \"Shoot tip\", \"Site of treatment after washing (%)\": 27.5, \"Washings (%)\": 72.0, \"Shoot tip (%)\": 0.0, \"Above treatment site (%)\": 0.0, \"Below treatment site (%)\": 0.4}, {\"Site of Treatment\": \"Young stem\", \"Site of treatment after washing (%)\": 31.3, \"Washings (%)\": 41.0, \"Shoot tip (%)\": 0.1, \"Above treatment site (%)\": 26.3, \"Below treatment site (%)\": 1.3}, {\"Site of Treatment\": \"One-year-old wood\", \"Site of treatment after washing (%)\": 64.1, \"Washings (%)\": 35.0, \"Shoot tip (%)\": 0.0, \"Above treatment site (%)\": 0.6, \"Below treatment site (%)\": 0.0}, {\"Site of Treatment\": \"Petiole\", \"Site of treatment after washing (%)\": 17.4, \"Washings (%)\": 52.0, \"Shoot tip (%)\": 0.0, \"Above treatment site (%)\": 2.8, \"Below treatment site (%)\": 0.2}, {\"Site of Treatment\": \"Lamina + 1\", \"Site of treatment after washing (%)\": 42.7, \"Washings (%)\": 48.0, \"Shoot tip (%)\": 0.1, \"Above treatment site (%)\": 9.2, \"Below treatment site (%)\": 0.1}, {\"Site of Treatment\": \"Lamina + 4\", \"Site of treatment after washing (%)\": 28.8, \"Washings (%)\": 71.0, \"Shoot tip (%)\": 0.0, \"Above treatment site (%)\": 0.1, \"Below treatment site (%)\": 0.0}, {\"Site of Treatment\": \"Lamina + 6\", \"Site of treatment after washing (%)\": 15.4, \"Washings (%)\": 84.4, \"Shoot tip (%)\": 0.0, \"Above treatment site (%)\": 0.1, \"Below treatment site (%)\": 0.0}, {\"Site of Treatment\": \"Lamina + 10\", \"Site of treatment after washing (%)\": 11.2, \"Washings (%)\": 88.5, \"Shoot tip (%)\": 0.0, \"Above treatment site (%)\": 0.1, \"Below treatment site (%)\": 0.2}]"
+        }
+    ]
+}

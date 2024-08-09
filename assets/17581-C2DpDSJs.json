@@ -1,0 +1,92 @@
+{
+    "_id": {
+        "$oid": "6682e92ec4e5dba5ffba2953"
+    },
+    "CID": {
+        "$numberInt": "17581"
+    },
+    "Name": "CHLORONEB",
+    "IUPACName": "1,4-dichloro-2,5-dimethoxybenzene",
+    "CanonicalSMILES": "COC1=CC(=C(C=C1Cl)OC)Cl",
+    "Synonyms": [
+        "CHLORONEB",
+        "1,4-Dichloro-2,5-dimethoxybenzene",
+        "2675-77-6",
+        "Demosan",
+        "Tersan SP",
+        "Benzene",
+        "1,4-dichloro-2,5-dimethoxy-",
+        "Demasan",
+        "Tersan-SP",
+        "Chloronebe",
+        "Demosan 65W",
+        "Terraneb",
+        "Terraneb SP",
+        "Soil fungicide 1823",
+        "NSC 151546",
+        "CHEBI:3628"
+    ],
+    "IsomericSMILES": "COC1=CC(=C(C=C1Cl)OC)Cl",
+    "INCHI": "InChI=1S/C8H8Cl2O2/c1-11-7-3-6(10)8(12-2)4-5(7)9/h3-4H,1-2H3",
+    "INCHIKEY": "PFIADAMVCJPXSF-UHFFFAOYSA-N",
+    "Formula": "C8H8Cl2O2",
+    "MolecularWeight": {
+        "$numberDouble": "207.05"
+    },
+    "Description": "Chloroneb is a dimethoxybenzene that is p-dimethoxybenzene which is substituted by chlorines at positions 2 and 5. A fungicide formerly used as a seed treatment, it is not approved for use in the European Union. It has a role as an antifungal agrochemical. It is a dimethoxybenzene, a dichlorobenzene and an aromatic fungicide.",
+    "XlogP": {
+        "$numberDouble": "3.1"
+    },
+    "Complexity": {
+        "$numberInt": "127"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Tomlin CDS; The e-Pesticide Manual: A World Compendium. 13th edition. 2003-2004. Version 3.0. British Crop Protection Council: Hampshire, UK (2003) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 5-3 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 190 was calculated for chloroneb(SRC), using a measured water solubility of 8 mg/L(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is high(SRC), provided the compound is not altered physically or chemically once released into the environment."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Rhodes RC et al; J Agric Food Chem 19: 745-9 (1971) (2) Sigler WV et al; pp. 127-149 in ACS Symp Series 743(Fate and Management of Turfgrass Chemicals). Clark JM, Kenna MP, eds. ACS: Washington, DC: Amer Chem Soc (2000) (3) Frederick EK et al; Bull Environ Contam Toxicol 53: 536-42 (1994)",
+            "Value": "AEROBIC: In a soil field study conducted in Deleware, US, chloroneb was reported to have a half-life of 3 to 6 months following its incorporation 2 to 3 inches from the surface of a Keyport silt loam at a concentration of 2 lb active ingredient per acre(1). About 90% of the residual activity recovered from the soil after this period was the parent chloroneb(1). Half-lives of 10 to 180 days have been reported in soil(2). Chloroneb was added to samples of Chalmers silty clay loam soil (at 5.7 ug/g), Kentucky blue grass thatch(at 8.0 ug/g), and Kentucky blue grass clippings(at 8.0 ug/g) and incubated at 25 \u00b0C at a constant moisture (26, 76, and 75%, respectively)(3). Half-lives of 2.7, 8.7, and 69.3 days were reported for the soil, thatch, and grass clipping samples, respectively, when chloroneb was added as a single compound(3). Half-lives of 4.3, 8.7, and 69.3 days were reported for the soil, thatch, and grass clipping samples, respectively, when chloroneb was added as a mixture with triadimefon and vinclozolin(3)."
+        },
+        {
+            "References": "Aizawa, H. Metabolic Maps of Pesticides. New York, NY: Academic Press, 1982., p. 207",
+            "Value": "Chloroneb ... is metabolized to its corresponding p-quinone in ... soil."
+        }
+    ],
+    "logP": [
+        {
+            "References": "US EPA; Estimation Program Interface (EPI) Suite. Ver.3.11. June 10, 2003. Available from, as of Jun 22, 2004: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm",
+            "Value": "log Kow = 3.44 /Estimated/"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-317",
+            "Value": "Fungitoxicity is due to specific inhibition of DNA polymerization."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Tate CM, Heiny JS; Arch Environ Contam Toxicol 30: 62-78 (1996) (2) Brown LR; Arch Environ Contam Toxicol 33: 357-68 (1997)",
+            "Value": "SEDIMENT: Bed sediment samples collected from 23 sites within the South Platte River basin during August-November 1992 and August 1993 did not contain concentrations of chloroneb above the detection limit(1). Bed sediment samples from 18 sites on or near the floor of the San Joaquin Valley, CA, collected in October 1992, did not contain detectable concentrations of chloroneb (minimum reporting limit=5 ug/kg dry weight)(2)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Rao PSC, Davidson JM; Retention and Transformation of Selected Pesticides and Phosphorus in Soil-Water Systems, Athens, GA: USEPA-600/S3-82-060 (1982) (2) Meylan WM et al; Environ Sci Technol 26: 1560-7 (1992) (3) Hassett JJ et al; pp. 161-78 in Environment and Solid Wastes. Francis CW, Auerbach SI, eds. Boston, MA: Buttersworth, Chpt 15 (1983) (4) Dell CJ et al; J Environ Qual 23: 92-6 (1994) (5) Swann RL et al; Res Rev 85: 17-28 (1983) (6) Helling CS et al; Phytopathology 64: 1091-1100 (1974)(7) Rhodes RC et al; J Agric Food Chem 19: 745-9 (1971)",
+            "Value": "Koc values of 1,653(1), 1,260(2), 1,200(3), and 714(4) were measured for chloroneb in soil(SRC). According to a classification scheme(5), these estimated Koc values suggest that chloroneb is expected to have low mobility in soil. In a soil TLC plate study using Hagerstown silty clay loam soil (pH 6.8, 2.5% organic matter, 39.5% clay), chloroneb was immobile(6). In a field study, chloroneb was incorporated into a Keystone silt loam to a depth of 2 to 3 inches. After 6 months, nearly all of the chloroneb remained in the treated layer of soil(7)."
+        }
+    ],
+    "plant_translocation": [
+        {
+            "References": "Mukhopadhyay, A. N., & Thakur, R. P. (1971). 630 Vol. 55, No. 7--PLANT DISEASE REPORTER--July 1971 CONTROL OF SCLEROTIUM ROOT ROT OF SUGARBEET WITH SYSTEMIC FUNGICIDES. The Plant Disease Reporter, 55, 630.",
+            "Value": "Two systemic fungicides, carboxin (5,6-dihydro-2-methyl-1,4-oxathiin-3-carboxanilide) and chloroneb (1,4-dichloro-2,5-dimethoxy-benzene), were assessed in vitro, in the glasshouse, and in the field for their efficacy against sugarbeet root rot caused by Sclerotium rolfsii. In vitro tests showed that carboxin and chloroneb significantly inhibited fungal growth at concentrations of 1 and 10 \u03bcg/g, respectively, and completely prevented sclerotia formation. Bioassays using extracts from sugarbeet seedlings treated with carboxin and chloroneb demonstrated the translocation of these compounds from the roots to the leaves. Greenhouse studies using soil treated with the fungicides exhibited systemic protection of seedlings against S. rolfsii infection for a minimum of 20 days, with increased protection observed at higher fungicide concentrations. Field studies further confirmed that ridge-soil drenching with carboxin and chloroneb, at rates of 2 and 15 kg/3000 liters of water/hectare, respectively, significantly reduced Sclerotium root rot and increased crop yields."
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "_id": {
+        "$oid": "6682e967c4e5dba5ffba2a73"
+    },
+    "CID": {
+        "$numberInt": "30773"
+    },
+    "Name": "CYANAZINE",
+    "IUPACName": "2-[[4-chloro-6-(ethylamino)-1,3,5-triazin-2-yl]amino]-2-methylpropanenitrile",
+    "CanonicalSMILES": "CCNC1=NC(=NC(=N1)Cl)NC(C)(C)C#N",
+    "Synonyms": [
+        "CYANAZINE",
+        "21725-46-2",
+        "Bladex",
+        "Fortrol",
+        "Cyanazin",
+        "Payze",
+        "Bladex 80WP",
+        "Fortol",
+        "SD 15418",
+        "WL 19805",
+        "2-[[4-chloro-6-(ethylamino)-1,3,5-triazin-2-yl]amino]-2-methylpropanenitrile",
+        "DW 3418",
+        "W34C4P18WD",
+        "DTXSID1023990",
+        "CHEBI:38069"
+    ],
+    "IsomericSMILES": "CCNC1=NC(=NC(=N1)Cl)NC(C)(C)C#N",
+    "INCHI": "InChI=1S/C9H13ClN6/c1-4-12-7-13-6(10)14-8(15-7)16-9(2,3)5-11/h4H2,1-3H3,(H2,12,13,14,15,16)",
+    "INCHIKEY": "MZZBPDKVEFVLFF-UHFFFAOYSA-N",
+    "Formula": "C9H13ClN6",
+    "MolecularWeight": {
+        "$numberDouble": "240.69"
+    },
+    "Description": "Cyanazine is a chloro-1,3,5-triazine that is 2-chloro-1,3,5-triazine substituted by an ethyl amino and a (2-cyanopropan-2-yl)amino group at positions 6 and 4 respectively. It has a role as a herbicide, an environmental contaminant and a xenobiotic. It is a 1,3,5-triazinylamino nitrile and a chloro-1,3,5-triazine.",
+    "XlogP": {
+        "$numberDouble": "2.2"
+    },
+    "Complexity": {
+        "$numberInt": "272"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Kreuger J et al; Bull Environ Contam Toxicol 62: 55-62 (1999) (2) Anderson TA et al; Air Waste Management Assoc. Paper 94-TP45B.08 in 87th Ann Mtg Exhib, Cincinnati, OH, June 19-24 1994 (1994)",
+            "Value": "SEDIMENT: Cyanazine was not detected in sediment samples collected from a small agricultural catchment in Sweden between 1990-1991 (detection limit 20-100 ug/kg, dry weight); the average concentration of cyanazine in surface water within the catchment was 0.09 to 0.03 ug/l for 1990 and 1991, respectively(1). Cyanazine was found at 90 percent of the sites examined in a survey of 28 agrochemical dealerships in Iowa; the maximum concentration was 4,600 ppb(2)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "In greenhouse studies root absorption after postemergence applications of cyanazine 2-[[4-chloro-6-(ethylamino)-s-triazine-2-yl] amino]-2-methylpropionitrile enhanced phytotoxicity to fall panicum (Panicum dichotomiflorum Michx.), green foxtail (Setaria viridis L.), and corn (Zea mays L.). Less 14C-cyanazine was taken up by the foliage of corn than by the weed species. A lower concentration of parent cyanazine in corn leaves was also evident. The addition of a phytobland oil to the treatment solution increased foliar cyanazine absorption 1 and 5 days following treatment. Although rapid metabolism occurred in corn roots, the large amount of cyanazine absorbed via the root system resulted in internal concentrations of parent cyanazine similar to that observed in the weed species. Cyanazine translocation was mainly acropetal from the point of application. The basis of selectivity is not solely based on the differential foliar uptake of cyanazine, but also on the proportion taken up by the foliage and roots. Under conditions favoring uptake by roots, the margin of selectivity may be reduced.",
+            "reference": "Kern, A. D., Meggitt, W. F., & Penner, D. (1975). Uptake, movement, and metabolism of cyanazine in fall panicum, green foxtail, and corn. Weed science, 23(4), 277-282.",
+            "method": {
+                "Test Plant": "Fall panicum, green foxtail, and corn ('Michigan 396')",
+                "Apply Location": "root application",
+                "Plant Grown Condition": "Grasses grown in 473 ml cups to 6-7 cm height (4-5 leaves).Corn grown in 946 ml cups to 4-leaf stage. Grown in sandy clay loam soil in greenhouse at 25\u00b12\u00b0C. Grasses thinned to 15 plants/cup, corn to 3 plants/cup",
+                "Chemical Preparation": "0.1 \u03bcCi of 14C-cyanazine (ring-labeled, 3.86 \u03bcCi/nmol, 97% pure) in 5 \u03bcl droplet",
+                "Pesticide Application Details for the Plant": "235 L/ha spray at 2.1 kg/cm2 with 4% phytobland oil.",
+                "Other information and Other Information": "Completely randomized design, 4 reps, harvested 9 days after treatment. Data are means of 2 experiments with 4 reps each (foliar/soil study)"
+            },
+            "result": "[{\"Plant\": \"Fall panicum\", \"Days after application\": 3, \"Root (dpm/mg)\": 387, \"Shoot (dpm/mg)\": 500.0}, {\"Plant\": \"Green foxtail\", \"Days after application\": 3, \"Root (dpm/mg)\": 500, \"Shoot (dpm/mg)\": 560.0}, {\"Plant\": \"Corn\", \"Days after application\": 2020, \"Root (dpm/mg)\": 900, \"Shoot (dpm/mg)\": NaN}]"
+        }
+    ]
+}

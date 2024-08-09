@@ -1,0 +1,70 @@
+{
+    "_id": {
+        "$oid": "6682e8dbc4e5dba5ffba27b3"
+    },
+    "CID": {
+        "$numberInt": "10005"
+    },
+    "Name": "CYANOGUANIDINE",
+    "IUPACName": "2-cyanoguanidine",
+    "CanonicalSMILES": "C(#N)N=C(N)N",
+    "Synonyms": [
+        "Dicyandiamide",
+        "CYANOGUANIDINE",
+        "461-58-5",
+        "Dicyanodiamide",
+        "2-Cyanoguanidine",
+        "N-Cyanoguanidine",
+        "1-Cyanoguanidine",
+        "Guanidine",
+        "cyano-",
+        "Pyroset DO",
+        "Dicyandiamido",
+        "Dicyandiamin",
+        "Epicure DICY 7",
+        "Epicure DICY 15",
+        "Araldite HT 986",
+        "Bakelite VE 2560"
+    ],
+    "IsomericSMILES": "C(#N)N=C(N)N",
+    "INCHI": "InChI=1S/C2H4N4/c3-1-6-2(4)5/h(H4,4,5,6)",
+    "INCHIKEY": "QGBSISYHAICWAH-UHFFFAOYSA-N",
+    "Formula": "C2H4N4",
+    "MolecularWeight": {
+        "$numberDouble": "84.08"
+    },
+    "Description": "Cyanoguanidine is a guanidine in which one of the amino hydrogens of guanidine itself is substituted by a cyano group. It is used in the manufacture of fertilizers, pharmaceuticals, explosives, oil well drilling muds, and dyestuffs. It has a role as a curing agent, a flame retardant, a fertilizer, an explosive and a nitrification inhibitor. It is a member of guanidines and a nitrile.",
+    "XlogP": {
+        "$numberDouble": "-1.2"
+    },
+    "Complexity": {
+        "$numberInt": "100"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Biodegradation and Bioaccumulation Data of Existing Chemicals Based on the CSCL Japan. Japan Chemical Industry Ecology - Toxicology and Information Center. ISBN 4-89074-101-1 (1992) (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "BCF values of <0.3 and <3.1 were measured for cyanoguanidine at 2 and 0.2 mg/l, respectively, in carp(1). According to a classification scheme(2), these BCF values suggest that bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Biodegradation and Bioaccumulation Data of Existing Chemicals Based on the CSCL Japan. Japan Chemical Industry Ecology - Toxicology and Information Center. ISBN 4-89074-101-1 (1992) (2) Rodgers GA et al; Soil Biol Biochem 17: 253-54 (1985) (3) Amberger A, Vilsmeier K; Z Wasser-Abwasser-Forsch 21: 140-44 (1988)",
+            "Value": "Cyanoguanidine, at 30 mg/l, reached only 2.2% of the theoretical BOD in two weeks using a sludge inoculum(1). Biodegradation of cyanoguanidine was measured in six soils, five collected from Sri Lankan tea plantations and one grassland soil from Highfield, UK; in the near-neutral Highfield soil (pH = 6.8), 10.2 and 41.6% of the cyanoguanidine-N was mineralized after 12 and 60 days, respectively(2). In the other, more acidic soils (pH = 4.0-4.3), only a small percentage of the added cyanoguanidine-N was mineralized to ammonia and nitrate nitrogen; mineralization after 60 days was only 10-25% that of the Highland soil(2). Mineralization was correlated with soil pH but not with organic matter content or total nitrogen(2). Cyanoguanidine, at 20 mg/l was added to flooded sediments; complete degradation was reported within 34-44 weeks for aerobic conditions, while under anaerobic conditions two-thirds of the initial concentration was degraded within 60 weeks(3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 4",
+            "Value": "Log P= -1.15"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Amer Chem Soc, Washington, DC. p. 4 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 23 (1983) (4) Amberger A, Vilsmeier K; Z Wasser-Abwasser-Forsch 21: 140-44 (1988)",
+            "Value": "The Koc of cyanoguanidine is estimated as approximately 6(SRC), using a measured log Kow of -1.15(1) and a regression-derived equation(2,SRC). According to a recommended classification scheme(3), this estimated Koc value suggests that cyanoguanidine has very high mobility in soil(SRC). However, when leaching of cyanoguanidine following mineral fertilization, slurry manuring and decomposition under simulated ground water conditions (silty loam, pH 6.5) was measured in lysimeters(4). After mineral feeding, only 0.6-0.9% of the cyanoguanidine applied in 5 years was leached with the highest leaching rate occurring in October (with 5.6% leached of the added amount)(4)."
+        }
+    ]
+}

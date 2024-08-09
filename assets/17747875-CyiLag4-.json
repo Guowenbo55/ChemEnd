@@ -1,0 +1,74 @@
+{
+    "_id": {
+        "$oid": "669270ef303528b49832d744"
+    },
+    "CID": {
+        "$numberInt": "17747875"
+    },
+    "Name": "Aminocyclopyrachlor",
+    "IUPACName": "6-amino-5-chloro-2-cyclopropylpyrimidine-4-carboxylic acid",
+    "CanonicalSMILES": "C1CC1C2=NC(=C(C(=N2)N)Cl)C(=O)O",
+    "Synonyms": [
+        "858956-08-8",
+        "Aminocyclopyrachlor",
+        "O19K7667GO",
+        "UNII-O19K7667GO",
+        "6-amino-5-chloro-2-cyclopropylpyrimidine-4-carboxylic acid",
+        "aminocyclopyrachlore",
+        "6-amino-5-chloro-2-cyclopropyl-4-pyrimidinecarboxylic acid",
+        "Aminocyclopyrachlor [ISO]",
+        "HSDB 7981",
+        "858955-50-7",
+        "DPX-MAT 28",
+        "6-amino-5-chloro-2-cyclopropyl-pyrimidine-4-carboxylic acid",
+        "DTXSID0074683",
+        "CHEBI:62952",
+        "4-Pyrimidinecarboxylic acid",
+        "6-amino-5-chloro-2-cyclopropyl-"
+    ],
+    "IsomericSMILES": "C1CC1C2=NC(=C(C(=N2)N)Cl)C(=O)O",
+    "INCHI": "InChI=1S/C8H8ClN3O2/c9-4-5(8(13)14)11-7(3-1-2-3)12-6(4)10/h3H,1-2H2,(H,13,14)(H2,10,11,12)",
+    "INCHIKEY": "KWAIHLIXESXTJL-UHFFFAOYSA-N",
+    "Formula": "C8H8ClN3O2",
+    "MolecularWeight": {
+        "$numberDouble": "213.62"
+    },
+    "Description": "Aminocyclopyrachlor is an organochlorine herbicide, the structure of which is that of pyrimidine-4-carboxylic acid substituted at positions 2, 5 and 6 by cyclopropyl, chloro and amino groups respectively. It has a role as a herbicide and a synthetic auxin. It is a member of pyrimidines, a member of cyclopropanes and an organochlorine pesticide. It contains a primary amino group. It is a conjugate acid of an aminocyclopyrachlor(1-).",
+    "XlogP": {
+        "$numberDouble": "0.9"
+    },
+    "Complexity": {
+        "$numberInt": "247"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The herbicide aminocyclopyrachlor demonstrates systemic properties, exhibiting varying degrees of absorption and translocation among different plant species. The study investigated its uptake and movement in prickly lettuce, yellow starthistle, and rush skeletonweed. The absorption varied across species and formulations (DPX-MAT28 and DPX-KJM44), with rush skeletonweed displaying the highest absorption rates for both forms. Yellow starthistle absorbed more DPX-KJM44 than DPX-MAT28, while prickly lettuce showed lower absorption overall. Translocation from treated leaves to the rest of the plant was notably higher in yellow starthistle compared to the other species, particularly for DPX-KJM44. Rush skeletonweed exhibited early translocation to root tissue and relatively slower de-esterification of DPX-KJM44 into DPX-MAT28. The differences in absorption and translocation patterns were influenced by the active ingredient's structure, species sensitivity, and the process of de-esterification. The study highlights that while DPX-KJM44 enhances absorption, its delayed de-esterification affects early translocation in certain species like rush skeletonweed, emphasizing the importance of understanding sensitivity and de-esterification rates for effective weed control strategies using aminocyclopyrachlor.",
+            "reference": "Bell, J. L., Burke, I. C., & Prather, T. S. (2011). Uptake, translocation and metabolism of aminocyclopyrachlor in prickly lettuce, rush skeletonweed and yellow starthistle. Pest Management Science, 67(10), 1338\u20131348. doi:10.1002/ps.2197\u00a0",
+            "method": {
+                "Test Plant": "Rush skeletonweed, prickly lettuce, yellow starthistle",
+                "Apply Location": "A 1 cm2 portion of the youngest fully expanded leaf of each plant.",
+                "Plant Grown Condition": "Rush skeletonweed plants were grown from 5 cm root fragments placed into 16 cm round plastic pots containing a 3:1 mixture of sand:potting media. Prickly lettuce and yellow starthistle seeds were planted into 10 cm square plastic pots containing potting media. Plants were grown in a greenhouse kept at 26 \u00b0C day and 22 \u00b0C night (\u00b13 \u00b0C) with natural light supplemented with sodium vapor lighting to give a 14 h photoperiod. Plants were subirrigated as needed and seeded plants were grown for 4 weeks to a 4\u20135-leaf rosette stage. Rush skeletonweed plants for the metabolism study were treated when the resulting rosette had 8\u201310 leaves, approximately 2 months.",
+                "Chemical preparation": "aminocyclopyrachlor (DPX-MAT28) and aminocyclopyrachlor methyl ester (DPX-KJM44) were obtained as technical-grade radiolabeled materials with specific activities of 350.3 kBq/\u03bcmol and 375.0 kBq/\u03bcmol, respectively. The materials were dissolved in 200 \u03bcL MeOH, diluted with deionized water and 0.2% NIS (v/v).",
+                "Received pesticide of plant": "Plants were treated with a non-radiolabeled mixture of herbicide containing 210 g AI ha^-1 of either DPX-MAT28 or DPX-KJM44 and a non-ionic surfactant (NIS) at 0.25% v/v using a carrier volume of 300 L ha^-1. Additionally, five 0.5 \u03bcL droplets of the technical-grade radiolabeled herbicide were applied to the marked leaf area, with approximately 3.33 kBq applied for absorption/translocation studies and 6.00 kBq applied for the metabolism study.",
+                "Other Information": "The absorption and translocation studies were organized as a split\u2013split plot with herbicide treatment as the main plot, time after treatment as the subplot and plant parts as the subsubplot. Treatments were replicated 4 times, and the experiments were conducted twice."
+            },
+            "result": "[{\"Plant Species\": \"Prickly Lettuce\", \"Time after Treatment\": \"8h\", \"Absorption\": \"4%\", \"Total Translocation\": \"<1%\", \"Translocation to Above-ground\": \"<1%\", \"Translocation to Below-ground\": \"<1%\"}, {\"Plant Species\": \"Prickly Lettuce\", \"Time after Treatment\": \"24h\", \"Absorption\": \"4%\", \"Total Translocation\": \"<1%\", \"Translocation to Above-ground\": \"<1%\", \"Translocation to Below-ground\": \"<1%\"}, {\"Plant Species\": \"Prickly Lettuce\", \"Time after Treatment\": \"72h\", \"Absorption\": \"4%\", \"Total Translocation\": \"<1%\", \"Translocation to Above-ground\": \"<1%\", \"Translocation to Below-ground\": \"2%\"}, {\"Plant Species\": \"Rush Skeletonweed\", \"Time after Treatment\": \"8h\", \"Absorption\": \"28%\", \"Total Translocation\": \"3%\", \"Translocation to Above-ground\": \"1%\", \"Translocation to Below-ground\": \"1%\"}, {\"Plant Species\": \"Rush Skeletonweed\", \"Time after Treatment\": \"24h\", \"Absorption\": \"65%\", \"Total Translocation\": \"9%\", \"Translocation to Above-ground\": \"2.8%\", \"Translocation to Below-ground\": \"3.5%\"}, {\"Plant Species\": \"Rush Skeletonweed\", \"Time after Treatment\": \"72h\", \"Absorption\": \"54%\", \"Total Translocation\": \"4%\", \"Translocation to Above-ground\": \"1.9%\", \"Translocation to Below-ground\": \"1.2%\"}, {\"Plant Species\": \"Yellow Starthistle\", \"Time after Treatment\": \"8h\", \"Absorption\": \"10%\", \"Total Translocation\": \"around 3%\", \"Translocation to Above-ground\": \"2.5%\", \"Translocation to Below-ground\": \"<1%\"}, {\"Plant Species\": \"Yellow Starthistle\", \"Time after Treatment\": \"24h\", \"Absorption\": \"9%\", \"Total Translocation\": \"around 6%\", \"Translocation to Above-ground\": \"6%\", \"Translocation to Below-ground\": \"<1%\"}, {\"Plant Species\": \"Yellow Starthistle\", \"Time after Treatment\": \"72h\", \"Absorption\": \"11%\", \"Total Translocation\": \"around 9%\", \"Translocation to Above-ground\": \"8.5%\", \"Translocation to Below-ground\": \"1%\"}]"
+        },
+        {
+            "content": "The study aimed to understand the uptake and translocation of the herbicide aminocyclopyrachlor in young trumpet flower plants. They applied formulated herbicides containing 14C-aminocyclopyrachlor to individual leaves and evaluated the uptake and translocation patterns. The experiment followed a randomized design with three replications. Results showed that the plant absorbed approximately 20% of the applied herbicide, and the translocation percentage to other parts of the plant did not exceed 5%. Only 1% of the herbicide applied was translocated to the roots. In field studies, foliar applications of aminocyclopyrachlor in association with metsulfuton-methyl at a rate of 40 g a.i. per 100 L of water were effective in controlling trumpet flower (T. stans).\n",
+            "reference": "Reis, F. C. D., Tornisielo, V. L., Cason, J. B., Dias, A. C. R., Freitas, M., Sotomayor, J. F., ... & Filho, R. V. (2015). Uptake, translocation, and control of trumpet flower (Tecoma stans) with aminocyclopyrachlor. Journal of Environmental Science and Health, Part B, 50(10), 727-733.",
+            "method": {
+                "Test Plant": "Tridax stans (Coat buttons)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Seeds were sown in pots (100 mm diameter x 70 mm height) containing sieved soil in a greenhouse. Eight-leaf stage plants were selected for treatment.",
+                "Chemical Preparation": "The herbicide DPX MAT28 240 SL formulation was used at 40.0 g a.i. ha-1. 14C-aminocyclopyrachlor with 42.42 MBq/mg specific activity, 102.23 mCi total activity, and 99.50% purity was added as a radiotracer.",
+                "Pesticide Application Details for the Plant": "A single-nozzle overhead track sprayer calibrated to deliver 200 L ha-1 was used for foliar application of the herbicide. After spraying, the third leaf was treated with 10 droplets of 1.0 \u03bcL each containing 14C-aminocyclopyrachlor (1.1 kBq per plant) using a microapplicator.",
+                "Other Information": "The experiment was conducted with 3 replications in a randomized design. Translocation was visualized by exposing plants to X-ray film after drying and pressing. Linear and non-linear regression models were fitted to describe absorption and translocation patterns over time."
+            },
+            "result": "[{\"Hours after application Absorption (%)\": 0.116, \"Translocation (%)\": 0.0, \"Leaves above treated leaf (%)\": 0.0, \"Leaves below treated leaf (%) Stem (%)\": 0.0}, {\"Hours after application Absorption (%)\": 0.349, \"Translocation (%)\": 0.0, \"Leaves above treated leaf (%)\": 0.133, \"Leaves below treated leaf (%) Stem (%)\": 0.0}, {\"Hours after application Absorption (%)\": 0.524, \"Translocation (%)\": 0.869, \"Leaves above treated leaf (%)\": 0.133, \"Leaves below treated leaf (%) Stem (%)\": 0.133}, {\"Hours after application Absorption (%)\": 1.516, \"Translocation (%)\": 1.605, \"Leaves above treated leaf (%)\": 0.401, \"Leaves below treated leaf (%) Stem (%)\": 0.334}, {\"Hours after application Absorption (%)\": 2.215, \"Translocation (%)\": 1.605, \"Leaves above treated leaf (%)\": 2.341, \"Leaves below treated leaf (%) Stem (%)\": 2.274}, {\"Hours after application Absorption (%)\": 4.373, \"Translocation (%)\": 10.367, \"Leaves above treated leaf (%)\": 7.424, \"Leaves below treated leaf (%) Stem (%)\": 7.625}]"
+        }
+    ]
+}

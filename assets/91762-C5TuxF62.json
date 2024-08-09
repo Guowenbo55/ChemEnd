@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "669270f6303528b49832d761"
+    },
+    "CID": {
+        "$numberInt": "91762"
+    },
+    "Name": "Chlorimuron",
+    "IUPACName": "2-[(4-chloro-6-methoxypyrimidin-2-yl)carbamoylsulfamoyl]benzoic acid",
+    "CanonicalSMILES": "COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)O)Cl",
+    "Synonyms": [
+        "Chlorimuron",
+        "99283-00-8",
+        "2-(N-((4-Chloro-6-methoxypyrimidin-2-yl)carbamoyl)sulfamoyl)benzoic acid",
+        "2-[(4-chloro-6-methoxypyrimidin-2-yl)carbamoylsulfamoyl]benzoic acid",
+        "9M5PMS64MZ",
+        "2-(((((4-Chloro-6-methoxy-2-pyrimidinyl)amino)carbonyl)amino)sulfonyl)benzoic acid",
+        "2-(4-chloro-6-methoxypyrimidin-2-ylcarbamoylsulfamoyl)benzoic acid",
+        "2-({[(4-chloro-6-methoxypyrimidin-2-yl)carbamoyl]amino}sulfonyl)benzoic acid",
+        "2-[(4-chloranyl-6-methoxy-pyrimidin-2-yl)carbamoylsulfamoyl]benzoic acid",
+        "Benzoic acid",
+        "2-(((((4-chloro-6-methoxy-2-pyrimidinyl)amino)carbonyl)amino)sulfonyl)-",
+        "Chlorimuron [ANSI]",
+        "Chlorimuron [ANSI:ISO]",
+        "UNII-9M5PMS64MZ",
+        "2-[[[[(4-CHLORO-6-METHOXY-2-PYRIMIDINYL)AMINO]CARBONYL]AMINO]SULFONYL]BENZOIC ACID",
+        "Benzoic acid",
+        "2-[[[[(4-chloro-6-methoxy-2-pyrimidinyl)amino]carbonyl]amino]sulfonyl]-"
+    ],
+    "IsomericSMILES": "COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)O)Cl",
+    "INCHI": "InChI=1S/C13H11ClN4O6S/c1-24-10-6-9(14)15-12(16-10)17-13(21)18-25(22,23)8-5-3-2-4-7(8)11(19)20/h2-6H,1H3,(H,19,20)(H2,15,16,17,18,21)",
+    "INCHIKEY": "RIUXZHMCCFLRBI-UHFFFAOYSA-N",
+    "Formula": "C13H11ClN4O6S",
+    "MolecularWeight": {
+        "$numberDouble": "386.77"
+    },
+    "Description": "Chlorimuron is an N-sulfonylurea that is urea in which one of the nitrogens has been substituted by a (2-carboxyphenyl)sulfonyl group, while the other has been substituted by a 4-chloro-6-methoxypyrimidin-2-yl group. An acetolactate synthase inhibitor, it is used (generally as the corresponding ethyl ester) as a herbicide. It has a role as a herbicide and an EC 2.2.1.6 (acetolactate synthase) inhibitor. It is a member of benzoic acids, a N-sulfonylurea, a member of pyrimidines, an organochlorine pesticide, an aromatic ether and a sulfamoylbenzoate.",
+    "XlogP": {
+        "$numberDouble": "2"
+    },
+    "Complexity": {
+        "$numberInt": "598"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Mixtures of chlorimuron and 2,4-DB were additive with respect to crop injury and were either additive or slightly antagonistic with respect to weed control in greenhouse experiments. Absorption and translocation of 14C following application of 14C-chlorimuron and 14C-2,4-DB were not affected by the presence of the other unlabeled herbicide, except in Florida beggarweed and peanut where 2,4-DB affected distribution of 14C-chlorimuron in the treated leaf. In field studies, maximum efficacy was obtained with mixtures of chlorimuron plus 2,4-DB applied 7 or 9 wk after planting. Florida beggarweed control was greatest with chlorimuron or chlorimuron mixtures while the addition of 2,4-DB to chlorimuron improved morningglory and sicklepod control. At 9 and 11 wk after planting, addition of 2,4-DB to chlorimuron controlled Florida beggarweed better than chlorimuron alone. Peanut yields were increased by the addition of 2,4-DB at later applications.",
+            "reference": "Wehtje, G. R., Wilcut, J. W., & Mcguire, J. A. (1993). Absorption, translocation, and phytotoxicity of chlorimuron and 2, 4-DB mixtures in peanut (Arachis hypogaea) and selected weed species. Weed Science, 41(3), 347-352.",
+            "method": {
+                "Test Plant": "Peanut, sicklepod, Florida beggarweed",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Greenhouse conditions with day/night temperatures of 32/24\u00b0C and a photoperiod of 16 hours of natural lighting",
+                "Chemical Preparation": "2,4-DB and chlorimuron applied separately and in combination, using commercially formulated and 14C-labeled herbicides",
+                "Pesticide Application Details for the Plant": "Herbicide treatments consisted of a factorial arrangement of chlorimuron at 0, 2.2, 4.4, and 8.8 g ae ha-1 and 2,4-DB at 0, 140, and 280 g ae ha-1. Treatments were applied to three pots of each species with a moving-belt sprayer delivering a spray volume of 168 L ha-1. A nonionic surfactant was added at 25% by volume to the spray solutions.",
+                "Other Information": "Experimental design was a randomized complete block with three replicates. Plants were in the 3- to 4-leaf growth stage at the time of application. Foliar fresh weights of the plants were determined 10 days after treatment and expressed as percent of the untreated control. Each herbicide solution was applied as a single 5-\u00b5l drop to the youngest fully expanded leaf of each plant. There were four single-plant replicates for each species."
+            },
+            "result": "[{\"Plant\": \"Penaut\", \"Treatment\": \"Chlorimuron alone\", \"Leaf wash (% of applied)\": 61, \"1-cm diameter around target(%)\": 28, \"Remainder of treated leaf (%)\": 8, \"Adjacent leaflet (%)\": \"3\"}, {\"Plant\": \"Penaut\", \"Treatment\": \"Chlorimuron + 2,4-DB\", \"Leaf wash (% of applied)\": 60, \"1-cm diameter around target(%)\": 35, \"Remainder of treated leaf (%)\": 4, \"Adjacent leaflet (%)\": \"2\"}, {\"Plant\": \"Sicklepod\", \"Treatment\": \"Chlorimuron alone\", \"Leaf wash (% of applied)\": 57, \"1-cm diameter around target(%)\": 24, \"Remainder of treated leaf (%)\": 15, \"Adjacent leaflet (%)\": \"2\"}, {\"Plant\": \"Sicklepod\", \"Treatment\": \"Chlorimuron + 2,4-DB\", \"Leaf wash (% of applied)\": 63, \"1-cm diameter around target(%)\": 25, \"Remainder of treated leaf (%)\": 8, \"Adjacent leaflet (%)\": \"2\"}, {\"Plant\": \"Florida beggarweed\", \"Treatment\": \"Chlorimuron alone\", \"Leaf wash (% of applied)\": 50, \"1-cm diameter around target(%)\": 32, \"Remainder of treated leaf (%)\": 18, \"Adjacent leaflet (%)\": \"-\"}, {\"Plant\": \"Florida beggarweed\", \"Treatment\": \"Chlorimuron + 2,4-DB\", \"Leaf wash (% of applied)\": 49, \"1-cm diameter around target(%)\": 17, \"Remainder of treated leaf (%)\": 32, \"Adjacent leaflet (%)\": \"-\"}]"
+        }
+    ]
+}

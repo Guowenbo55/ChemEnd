@@ -1,0 +1,78 @@
+{
+    "_id": {
+        "$oid": "6682e980c4e5dba5ffba2aee"
+    },
+    "CID": {
+        "$numberInt": "42948"
+    },
+    "Name": "2,4,5,2',4',5'-HEXABROMOBIPHENYL",
+    "IUPACName": "1,2,4-tribromo-5-(2,4,5-tribromophenyl)benzene",
+    "CanonicalSMILES": "C1=C(C(=CC(=C1Br)Br)Br)C2=CC(=C(C=C2Br)Br)Br",
+    "Synonyms": [
+        "\"2,2,4,4,5,5-Hexabromobiphenyl\"",
+        "59080-40-9",
+        "PBB 153",
+        "\"1,1-Biphenyl",
+        "2,2,4,4,5,5-hexabromo-\"",
+        "\"2,4,5,2,4,5-HEXABROMOBIPHENYL\"",
+        "67774-32-7",
+        "1,2,4-tribromo-5-(2,4,5-tribromophenyl)benzene",
+        "\"2,24,4,5,5-Hexabromo-1,1-biphenyl\"",
+        "9S2PWX7KBN",
+        "FIREMASTER FF 1.",
+        "\"2,2,4,4,5,5-Hexabromo-1,1-biphenyl\"",
+        "\"2,24,45,5-Hexabromo-1,1-biphenyl\"",
+        "Firemaster FF-1",
+        "PBB-No. 153 10 microg/mL in Cyclohexane",
+        "PBB-No. 153 100 microg/mL in Isooctane"
+    ],
+    "IsomericSMILES": "C1=C(C(=CC(=C1Br)Br)Br)C2=CC(=C(C=C2Br)Br)Br",
+    "INCHI": "InChI=1S/C12H4Br6/c13-7-3-11(17)9(15)1-5(7)6-2-10(16)12(18)4-8(6)14/h1-4H",
+    "INCHIKEY": "HMBBJSKXDBUNNT-UHFFFAOYSA-N",
+    "Formula": "C12H4Br6",
+    "MolecularWeight": {
+        "$numberDouble": "627.6"
+    },
+    "Description": "2,2',4,4',5,5'-hexabromobiphenyl is a polybromobiphenyl that is biphenyl in which the hydrogens at positions 2, 2', 4, 4', 5, and 5' have been replace by bromines. It is a polybromobiphenyl and a brominated flame retardant.",
+    "XlogP": {
+        "$numberDouble": "7.8"
+    },
+    "Complexity": {
+        "$numberInt": "258"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "animal_concentrations": [
+        {
+            "References": "(1) Jansson B et al; Environ Toxicol Chem 12: 1163-74 (1993)",
+            "Value": "The concn of 2,2',4,4',5,5'-hexabromobiphenyl in reindeer, ringed seal, grey seal, and osprey from Sweden (collected between 1982-1987) were 0.037, 0.42, 26, and 22 ng/g lipid, respectively(1)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Jansson B et al; Environ Toxicol Chem 12: 1163-74 (1993)",
+            "Value": "The concn of 2,2',4,4',5,5'-hexabromobiphenyl in whitefish, arctic char, herring (Bothnian Sea), herring (Baltic Proper), and herring (Skagerrak) from Sweden (collected between 1981-1987) were 0.29, 0.42, 0.092, 0.16, and 0.27 ng/g lipid, respectively(1)."
+        },
+        {
+            "References": "(1) de Boer J et al; Handbook of Environmental Chemistry 3(K): 61-95 (2000)",
+            "Value": "2,2',4,4',5,5'-Hexabrombiphenyl concns ranged from 0.2-4.2 mg/kg fat in samples from fish obtained from the Baltic Sea(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Veith GD et al; J Fish Res Board Can 36: 1040-1047 (1979)",
+            "Value": "log Kow = 6.39"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V18: 112 (1978)",
+            "Value": "SOIL: At farm with contaminated dairy herd (0.2-0.3 mg/L in milk), concentrations of PBBs was measured in manured soil samples taken at 3 different locations in field approximately 1 yr after contamination. Major PBB component isomer (2,2',4,4'5,5'-hexabromobiphenyl) were found in concentration of 4.1, 5.7 and 4.4 ug/kg."
+        },
+        {
+            "References": "(1) Jacobs LW et al; Environ Health Perspect 28: 1-8 (1978)",
+            "Value": "SOIL: Soil samples from 30 farms located in Michigan heavily contaminated with Firemaster BP-6 contained polybrominated biphenyl (PBBs) at levels of 0.1 to 224 ppb(1). Although levels of hexabromobiphenyl were not quantified in these samples, 2,2',4,4',5,5'-hexabromobiphenyl is the main constituent of Firemaster BP-6 and is likely to be the primary contaminant in the soils."
+        }
+    ]
+}

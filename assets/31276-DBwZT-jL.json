@@ -1,0 +1,79 @@
+{
+    "_id": {
+        "$oid": "6682e96dc4e5dba5ffba2a90"
+    },
+    "CID": {
+        "$numberInt": "31276"
+    },
+    "Name": "ISOAMYL ACETATE",
+    "IUPACName": "3-methylbutyl acetate",
+    "CanonicalSMILES": "CC(C)CCOC(=O)C",
+    "Synonyms": [
+        "ISOAMYL ACETATE",
+        "3-Methylbutyl acetate",
+        "Isopentyl acetate",
+        "123-92-2",
+        "Isopentyl ethanoate",
+        "Isoamyl ethanoate",
+        "3-Methylbutyl ethanoate",
+        "Iso-amyl acetate",
+        "3-Methyl-1-butyl acetate",
+        "Amylacetic ester",
+        "I-Amyl acetate",
+        "3-Methyl-1-butanol acetate",
+        "Isopentyl alcohol",
+        "acetate",
+        "2-Methylbutyl ethanoate",
+        "1-Butanol",
+        "3-methyl-",
+        "acetate"
+    ],
+    "IsomericSMILES": "CC(C)CCOC(=O)C",
+    "INCHI": "InChI=1S/C7H14O2/c1-6(2)4-5-9-7(3)8/h6H,4-5H2,1-3H3",
+    "INCHIKEY": "MLFHJEHSLIIPHL-UHFFFAOYSA-N",
+    "Formula": "C7H14O2",
+    "MolecularWeight": {
+        "$numberDouble": "130.18"
+    },
+    "Description": "Isoamyl acetate is the acetate ester of isoamylol. It has a role as a metabolite and a Saccharomyces cerevisiae metabolite. It is functionally related to an isoamylol.",
+    "XlogP": {
+        "$numberDouble": "2"
+    },
+    "Complexity": {
+        "$numberInt": "86"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Isoamyl aceate. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of June 12, 2015: https://www.ars-grin.gov/duke/",
+            "Value": "Isoamyl acetate detections in various plants(1).",
+            "Table": "[{'Genus species': 'Nepeta racemosa', 'Family': 'Lamiaceae', 'Common name': 'Catmint', 'Part': 'Shoot', 'Concn (ppm)': '0-19'}, {'Genus species': 'Salvia dorisiana', 'Family': 'Lamiaceae', 'Common name': \"'Honduran' Sage\", 'Part': 'Shoot', 'Concn (ppm)': '0-1.2'}, {'Genus species': 'Thymus longicaulis C.', 'Family': 'Lamiaceae', 'Common name': 'Kekik, Tas Kekik', 'Part': 'Shoot', 'Concn (ppm)': '0.1'}, {'Genus species': 'Micromeria myrtifolia', 'Family': 'Lamiaceae', 'Common name': 'Dagcayi, Haydarotu, Topukcayi', 'Part': 'Shoot', 'Concn (ppm)': 'not reported'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Daylight; Daylight Chemical Information Systems, ClogP on-line. Available from, as of Jun 24, 2015: https://www.daylight.com/ (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of June 23, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm/ (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 14 was calculated in fish for isoamyl acetate(SRC), using a  log Kow of 2.25(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Lamb CB, Jenkins GF; pp. 326-9 in Proc 8th Indus Waste Conf: Purdue Univ  (1952) (2) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of June 22, 2015: https://www.safe.nite.go.jp/english/db.html (3) Price KS et al; J Water Pollut Contr Fed 46: 63 (1974)",
+            "Value": "AEROBIC: Biodegradation studies with isoamyl acetate were not available(SRC, 2015). Structurally similar compounds such as butyl acetate and isopropyl acetate have achieved 50.7 and 40.0%, respectively, of their theoretical BODs after 10 days in mineralized water and settled sanitary sewage at 20 \u00b0C(1). Butyl acetate present at 100 mg/L, reached 86% of its theoretical BOD in 2 weeks using an activated sludge inoculum in the Japanese MITI test(2). Isobutyl acetate, methyl amyl acetate, and other alkyl acetates have achieved between 69-81% of their theoretical BODs after 20 days in fresh water tests with non-acclimated sludge(3). These data suggest that biodegradation of isoamyl acetate may be an important environmental fate process(SRC)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Daylight; Daylight Chemical Information Systems, ClogP on-line. (2003). Available from, as of Jun 24, 2015: https://www.daylight.com/",
+            "Value": "log Kow = 2.25"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Daylight; Daylight Chemical Information Systems, ClogP on-line. Available from, as of Jun 24, 2015: https://www.daylight.com/ (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of June 23, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of isoamyl acetate is estimated as 130(SRC), using a log Kow of 2.25(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that isoamyl is expected to have high mobility in soil."
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "_id": {
+        "$oid": "6682e84ac4e5dba5ffba24d9"
+    },
+    "CID": {
+        "$numberInt": "6418"
+    },
+    "Name": "DALAPON",
+    "IUPACName": "2,2-dichloropropanoic acid",
+    "CanonicalSMILES": "CC(C(=O)O)(Cl)Cl",
+    "Synonyms": [
+        "DALAPON",
+        "2,2-Dichloropropionic acid",
+        "75-99-0",
+        "2,2-Dichloropropanoic acid",
+        "Kenapon",
+        "Liropon",
+        "Proprop",
+        "Alatex",
+        "Unipon",
+        "Sys-Omnidel",
+        "D-Granulat",
+        "Dawpon-Rae",
+        "Basinex P",
+        "Dowpon M",
+        "Crisapon"
+    ],
+    "IsomericSMILES": "CC(C(=O)O)(Cl)Cl",
+    "INCHI": "InChI=1S/C3H4Cl2O2/c1-3(4,5)2(6)7/h1H3,(H,6,7)",
+    "INCHIKEY": "NDUPDOJHUQKPAG-UHFFFAOYSA-N",
+    "Formula": "C3H4Cl2O2",
+    "MolecularWeight": {
+        "$numberDouble": "142.97"
+    },
+    "Description": "Dalapon is a carboxylic acid and an organohalogen compound.",
+    "XlogP": {
+        "$numberDouble": "1.3"
+    },
+    "Complexity": {
+        "$numberInt": "88"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "sediment_soil_concentrations": [
+        {
+            "References": "Greaves MP et al; Arch Environ Contam Toxicol",
+            "Value": "... In one soil, 2,660 ppm dalapon significantly increased production of ammonium-nitrogen; nitrification was almost totally inhibited in this soil."
+        },
+        {
+            "References": "Kearney, P.C., and D. D. Kaufman (eds.) Herbicides: Chemistry, Degredation and Mode of Action. Volumes 1 and 2. 2nd ed. New York: Marcel Dekker, Inc., 1975., p. 423",
+            "Value": "... EXHIBITED HIGH DEGREE OF MOBILITY IN SEVERAL SOILS. ... PHYSICAL INTERACTIONS BETWEEN SOIL PARTICLES & DALAPON ARE RELATIVELY UNIMPORTANT. ... CONCLUDED THAT HIGH INITIAL CONCN OF DALAPON IN SOIL & SHORT PERIOD OF ACTION REDUCE SIGNIFICANCE OF LEACHABILITY AS IMPORTANT FACTOR THAT MIGHT PRODUCE INCONSISTENT PERFORMANCE AS A HERBICIDE."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "The study investigated the absorption and translocation of 14C-dalapon (2,2-dichloropropionic acid) in johnsongrass (Sorghum halepense (L.) Pers.). Johnsongrass plants were pot-grown in a greenhouse and then treated, followed by placement in controlled-environment chambers. It was found that absorption of 14C-dalapon into johnsongrass leaves and subsequent translocation occurred continuously within the plant over a 48-hour period after treatment. Gas chromatographic analysis revealed that the dalapon molecule was translocated intact. Additionally, absorption and translocation of 14C-dalapon increased with an increase in the droplet volume of the diluent. Translocation of 14C-dalapon from a 2-cm treated leaf section into the plant was influenced by temperature and humidity, with varying effects observed at different conditions. The addition of surfactant and potassium phosphate to the dalapon solution increased translocation, especially under high-temperature conditions. These findings provide valuable insights into the factors affecting the absorption and translocation of dalapon in johnsongrass, which can be useful for optimizing herbicide application practices.",
+            "reference": "McWhorter, C. G., & Jordan, T. N. (1976). Factors affecting dalapon absorption and translocation in johnsongrass. Physiologia Plantarum, 38(3), 166-170.",
+            "method": {
+                "Test Plant": "Johnsongrass plants",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Johnsongrass plants were grown from single 3-node (8 cm) rhizomes and were 3 to 4 weeks old and 30 to 40 cm tall when treated. Plants were cultured in the greenhouse in Sharkey clay soil in 0.8-liter pots and watered two to three times daily. Pots were perforated for drainage.",
+                "Chemical Preparation": "The stock 14C-dalapon (specific activity 1.06 mCi/mmol) was labeled on the second carbon atom and dissolved in water at 0.05 \u03bcCi/\u03bcl concentration.",
+                "Pesticide Application Details for the Plant": "The 14C-dalapon was applied with a micro syringe to a 20-mm2 area in the center of the fourth fully expanded johnsongrass leaf.",
+                "Other Information": "After dalapon treatment for 1 to 2 days, plants were harvested, rinsed, blotted, frozen with dry ice and freeze dried. Dried plants were exposed to x-ray film for 3 weeks for autoradiography. Plants were placed in growth chambers under different temperature (21, 32, or 38\u00b0C) and relative humidity (35 or 100% RH) conditions after treatment. In one experiment, alternate leaves were maintained at 35% and 100% RH by enveloping in plastic bags with wet/dry filter papers. The 14C remaining on leaf surfaces was determined by washing detached leaf sections and measuring radioactivity by liquid scintillation spectrometry."
+            },
+            "result": "[{\"Pretreatment\": \"Dalapon alone in 21 degree\", \"Relative humidity\": 35, \"Translocated out of treated leaf (% of applied)\": 29, \"Remain on leaf surface (% of applied)\": 25, \"2-cm section of treated leaf (%)\": 13, \"Proximal half of treated leaf (%)\": 19, \"Distal hal of treated leaf (%)\": 14}, {\"Pretreatment\": \"Dalapon alone in 21 degree\", \"Relative humidity\": 100, \"Translocated out of treated leaf (% of applied)\": 42, \"Remain on leaf surface (% of applied)\": 1, \"2-cm section of treated leaf (%)\": 15, \"Proximal half of treated leaf (%)\": 16, \"Distal hal of treated leaf (%)\": 27}, {\"Pretreatment\": \"Dalapon + surfactant in 21 degree\", \"Relative humidity\": 35, \"Translocated out of treated leaf (% of applied)\": 34, \"Remain on leaf surface (% of applied)\": 12, \"2-cm section of treated leaf (%)\": 10, \"Proximal half of treated leaf (%)\": 29, \"Distal hal of treated leaf (%)\": 15}, {\"Pretreatment\": \"Dalapon + surfactant in 21 degree\", \"Relative humidity\": 100, \"Translocated out of treated leaf (% of applied)\": 55, \"Remain on leaf surface (% of applied)\": 1, \"2-cm section of treated leaf (%)\": 17, \"Proximal half of treated leaf (%)\": 8, \"Distal hal of treated leaf (%)\": 20}, {\"Pretreatment\": \"Dalapon + 0.1 MKH2PO4 in 21 degree\", \"Relative humidity\": 35, \"Translocated out of treated leaf (% of applied)\": 27, \"Remain on leaf surface (% of applied)\": 28, \"2-cm section of treated leaf (%)\": 12, \"Proximal half of treated leaf (%)\": 18, \"Distal hal of treated leaf (%)\": 15}, {\"Pretreatment\": \"Dalapon + 0.1 MKH2PO4 in 21 degree\", \"Relative humidity\": 100, \"Translocated out of treated leaf (% of applied)\": 40, \"Remain on leaf surface (% of applied)\": 1, \"2-cm section of treated leaf (%)\": 15, \"Proximal half of treated leaf (%)\": 16, \"Distal hal of treated leaf (%)\": 29}, {\"Pretreatment\": \"Dalapon + surfactant + 0.1 MKH2PO4 in 21 degree\", \"Relative humidity\": 35, \"Translocated out of treated leaf (% of applied)\": 35, \"Remain on leaf surface (% of applied)\": 1, \"2-cm section of treated leaf (%)\": 13, \"Proximal half of treated leaf (%)\": 29, \"Distal hal of treated leaf (%)\": 23}, {\"Pretreatment\": \"Dalapon + surfactant + 0.1 MKH2PO4 in 21 degree\", \"Relative humidity\": 100, \"Translocated out of treated leaf (% of applied)\": 57, \"Remain on leaf surface (% of applied)\": 1, \"2-cm section of treated leaf (%)\": 18, \"Proximal half of treated leaf (%)\": 4, \"Distal hal of treated leaf (%)\": 21}, {\"Pretreatment\": \"Dalapon alone in 32 degree\", \"Relative humidity\": 35, \"Translocated out of treated leaf (% of applied)\": 35, \"Remain on leaf surface (% of applied)\": 21, \"2-cm section of treated leaf (%)\": 16, \"Proximal half of treated leaf (%)\": 15, \"Distal hal of treated leaf (%)\": 13}, {\"Pretreatment\": \"Dalapon alone in 32 degree\", \"Relative humidity\": 100, \"Translocated out of treated leaf (% of applied)\": 46, \"Remain on leaf surface (% of applied)\": 1, \"2-cm section of treated leaf (%)\": 24, \"Proximal half of treated leaf (%)\": 7, \"Distal hal of treated leaf (%)\": 12}, {\"Pretreatment\": \"Dalapon alone in 38 degree\", \"Relative humidity\": 35, \"Translocated out of treated leaf (% of applied)\": 23, \"Remain on leaf surface (% of applied)\": 37, \"2-cm section of treated leaf (%)\": 13, \"Proximal half of treated leaf (%)\": 15, \"Distal hal of treated leaf (%)\": 12}, {\"Pretreatment\": \"Dalapon alone in 38 degree\", \"Relative humidity\": 100, \"Translocated out of treated leaf (% of applied)\": 8, \"Remain on leaf surface (% of applied)\": 1, \"2-cm section of treated leaf (%)\": 57, \"Proximal half of treated leaf (%)\": 9, \"Distal hal of treated leaf (%)\": 25}, {\"Pretreatment\": \"Dalapon + surfactant in 38 degree\", \"Relative humidity\": 35, \"Translocated out of treated leaf (% of applied)\": 30, \"Remain on leaf surface (% of applied)\": 13, \"2-cm section of treated leaf (%)\": 15, \"Proximal half of treated leaf (%)\": 17, \"Distal hal of treated leaf (%)\": 25}, {\"Pretreatment\": \"Dalapon + surfactant in 38 degree\", \"Relative humidity\": 100, \"Translocated out of treated leaf (% of applied)\": 15, \"Remain on leaf surface (% of applied)\": 1, \"2-cm section of treated leaf (%)\": 45, \"Proximal half of treated leaf (%)\": 10, \"Distal hal of treated leaf (%)\": 25}, {\"Pretreatment\": \"Dalapon + 0.1 MKH2PO4 in 38 degree\", \"Relative humidity\": 35, \"Translocated out of treated leaf (% of applied)\": 28, \"Remain on leaf surface (% of applied)\": 26, \"2-cm section of treated leaf (%)\": 19, \"Proximal half of treated leaf (%)\": 12, \"Distal hal of treated leaf (%)\": 30}, {\"Pretreatment\": \"Dalapon + 0.1 MKH2PO4 in 38 degree\", \"Relative humidity\": 100, \"Translocated out of treated leaf (% of applied)\": 21, \"Remain on leaf surface (% of applied)\": 3, \"2-cm section of treated leaf (%)\": 54, \"Proximal half of treated leaf (%)\": 8, \"Distal hal of treated leaf (%)\": 16}, {\"Pretreatment\": \"Dalapon + surfactant + 0.1 MKH2PO4 in 38 degree\", \"Relative humidity\": 35, \"Translocated out of treated leaf (% of applied)\": 47, \"Remain on leaf surface (% of applied)\": 7, \"2-cm section of treated leaf (%)\": 12, \"Proximal half of treated leaf (%)\": 10, \"Distal hal of treated leaf (%)\": 27}, {\"Pretreatment\": \"Dalapon + surfactant + 0.1 MKH2PO4 in 38 degree\", \"Relative humidity\": 100, \"Translocated out of treated leaf (% of applied)\": 28, \"Remain on leaf surface (% of applied)\": 1, \"2-cm section of treated leaf (%)\": 42, \"Proximal half of treated leaf (%)\": 7, \"Distal hal of treated leaf (%)\": 22}]"
+        },
+        {
+            "content": "Racer studies using single drops of solutions containing 3-amino-1,2,4-triazole-5-14C (aminotriazole-14C) or 2,2-dichloropropionic acid-2-14C (dalapon-14C) showed that in couch plants (Agropyron repens (L.) Beauv.) growing under field conditions in the autumn with aerial shoots 40-50 cm long, both compounds moved in both symplast and apoplast. However, dalapon was less mobile in the symplast than aminotriazole, with negligible amounts of dalapon translocated to the rhizomes. Nodes of the treated shoots acted as barriers to translocation, more so for dalapon than aminotriazole. Application to a basal green leaf led to a more uniform distribution of the compounds within plants and rhizomes compared to application to the youngest fully-expanded leaf. In couch plants with aerial shoots 10-15 cm long treated in the stubble, both aminotriazole and dalapon were mainly restricted to the treated shoots, with trace amounts found in the rhizomes and untreated shoots even 15 days after application.",
+            "reference": "Lund\u2010H\u00f6ie, K., & Bylterud, A. (1969). Translocation of Aminotriazole and Dalapon in AG Ropy Ron Repens (L.) Beauv. Weed research, 9(3), 205-210.",
+            "method": {
+                "Test Plant": "Couch grass plants (Agropyron repens (L.) Beauv.)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Field experiments were performed in September in Akershus county, Norway. Couch plants with 40-50 cm long aerial shoots were selected in a yellow-ripe barley field. Another set of plants at similar growth stage were selected from the stubble 2 weeks after harvesting the cereal crop. Young couch plants with 10-15 cm aerial shoots were also used.",
+                "Chemical Preparation": "3-amino-1,2,4-triazole-5-14C (aminotriazole-14C) and 2,2-dichloropropionic acid-2-14C (dalapon-14C) were prepared in 20% ethyl alcohol and 80% distilled water solutions.",
+                "Pesticide Application Details for the Plant": "The herbicide solutions were micropipetted in 20 \u03bcl droplets onto the upper surface of the second oldest mature green leaf, youngest fully-expanded leaf or youngest mature leaf, confined within lanolin rings. The amounts applied were 18 \u03bcg aminotriazole (0.2 \u03bcCi) and 68 \u03bcg dalapon (0.2 \u03bcCi) per droplet.",
+                "Other Information": "The treated leaves were protected from rainfall. Plants were harvested 5, 10 and 15 days after treatment, quickly frozen with dry ice and freeze-dried."
+            },
+            "result": "[{\"Apply location\": \"Basal mature leaf in aerial shoots 40-50 cm long\", \"Days after application\": 5, \"Treated shoot (counts/min)\": 439, \"Rhizomes (counts/min)\": 3, \"Untreated shoots (count/min)\": \"5\"}, {\"Apply location\": \"Basal mature leaf in aerial shoots 40-50 cm long\", \"Days after application\": 10, \"Treated shoot (counts/min)\": 342, \"Rhizomes (counts/min)\": 2, \"Untreated shoots (count/min)\": \"-\"}, {\"Apply location\": \"Basal mature leaf in aerial shoots 40-50 cm long\", \"Days after application\": 15, \"Treated shoot (counts/min)\": 301, \"Rhizomes (counts/min)\": 11, \"Untreated shoots (count/min)\": \"-\"}, {\"Apply location\": \"Youngest mature leaf in aerial shoots 40-50 cm long\", \"Days after application\": 5, \"Treated shoot (counts/min)\": 266, \"Rhizomes (counts/min)\": 5, \"Untreated shoots (count/min)\": \"-\"}, {\"Apply location\": \"Youngest mature leaf in aerial shoots 40-50 cm long\", \"Days after application\": 10, \"Treated shoot (counts/min)\": 364, \"Rhizomes (counts/min)\": 5, \"Untreated shoots (count/min)\": \"-\"}, {\"Apply location\": \"Youngest mature leaf in aerial shoots 40-50 cm long\", \"Days after application\": 15, \"Treated shoot (counts/min)\": 323, \"Rhizomes (counts/min)\": 5, \"Untreated shoots (count/min)\": \"-\"}, {\"Apply location\": \"Youngest mature leaf in aerial shoots 10-15 cm long\", \"Days after application\": 5, \"Treated shoot (counts/min)\": 340, \"Rhizomes (counts/min)\": 8, \"Untreated shoots (count/min)\": \"3\"}, {\"Apply location\": \"Youngest mature leaf in aerial shoots 10-15 cm long\", \"Days after application\": 10, \"Treated shoot (counts/min)\": 385, \"Rhizomes (counts/min)\": 6, \"Untreated shoots (count/min)\": \"-\"}, {\"Apply location\": \"Youngest mature leaf in aerial shoots 10-15 cm long\", \"Days after application\": 15, \"Treated shoot (counts/min)\": 414, \"Rhizomes (counts/min)\": 8, \"Untreated shoots (count/min)\": \"-\"}]"
+        }
+    ]
+}

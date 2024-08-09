@@ -1,0 +1,79 @@
+{
+    "_id": {
+        "$oid": "6682e843c4e5dba5ffba24b9"
+    },
+    "CID": {
+        "$numberInt": "6364"
+    },
+    "Name": "ISOPROPYL MERCAPTAN",
+    "IUPACName": "propane-2-thiol",
+    "CanonicalSMILES": "CC(C)S",
+    "Synonyms": [
+        "2-Propanethiol",
+        "Propane-2-thiol",
+        "ISOPROPYL MERCAPTAN",
+        "75-33-2",
+        "Isopropanethiol",
+        "Isopropylthiol",
+        "2-Mercaptopropane",
+        "2-Propylmercaptan",
+        "1-Methylethanethiol",
+        "Isopropylmercaptan",
+        "2-Propylthiol",
+        "NSC 87537",
+        "Propanethiol-(2)",
+        "iso-C3H7SH",
+        "E52LR62ETC"
+    ],
+    "IsomericSMILES": "CC(C)S",
+    "INCHI": "InChI=1S/C3H8S/c1-3(2)4/h3-4H,1-2H3",
+    "INCHIKEY": "KJRCEJOSASVSRA-UHFFFAOYSA-N",
+    "Formula": "C3H8S",
+    "MolecularWeight": {
+        "$numberDouble": "76.16"
+    },
+    "Description": "Propane-2-thiol is an alkanethiol that is propane substituted by a sulfanyl group at position 2.",
+    "XlogP": {
+        "$numberDouble": "1.3"
+    },
+    "Complexity": {
+        "$numberInt": "10"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Meylan WM, Howard PH; J Pharm Sci 84: 83-92 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 4 was calculated for isopropyl mercaptan(SRC), using an estimated log Kow of 1.7(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 p.695",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  Clinical signs /in rats given oral doses of 2000-5000 mg/kg/ included hypotonia, ataxia, loss of righting reflex, and body weight loss."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 p.695",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  Liquid isopropyl mercaptan produced slight irritation of the skin and eyes of rabbits, which recovered within 48 hr. Head-only exposure of mice to a concentration of 4362 ppm for two 1-min periods did not produce upper airway irritation as measured by individual plethysmographs."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 p.695",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  A ... 4 hour inhalation study was conducted in the rat at a concentration of 3899 ppm. Clinical signs noted during exposure included hyperactivity and ataxia, labored respiration, prostration, and squinted eyes. Reduced body weights where noted for 4 to 7 days postexposure. No deaths occured and no gross pathological changes were noted at necropsy."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V7 p.695",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Four hour acute inhalation studies in the rat showed ... signs ... during exposure were typical of ocular, nasal, and pulmonary irritation. Weight gain in the exposed rats was slightly reduced 2 to 5 days."
+        },
+        {
+            "References": "PMID:699190",
+            "Value": "/ALTERNATIVE IN VITRO TESTS/ L-2-Oxo-3-(2-mercaptoethyl)-5-phenylimidazolidine (OMPI) a sulfhydryl metabolite of levamisole, unlike the parent compound, is shown to interfere with the morphological and functional integrity of microtubules in cultured cells at high concentrations (1.6-10(-4) M). Lower concentrations do not affect the cell morphology, viability or growth rate in any appreciable way. Both levamisole and OMPI, at low concentrations (10(-5)-10(-6) m), markedly enhance the antimicrotubular effect of mercaptoethanol. High concentrations of OMPI (+ or - 10(-4) M) inhibit the self-assembly of microtubules in a cell free system. Low concentrations (+ or - 10(-6) M) markedly enhance the polymerization rate of tubulin. Levamisole has no effect on tubulin polymerization. The effects of OMPI on microtubules in cells and in the polymerization system can be reversed by reduced glutathione, cysteine and dithiothreitol. The data indicate that OMPI interacts in a biphasic manner with microtubule formation probably through interaction with critical SH-groups on the tubulin molecule. It seems of interest to further investigate the hypothesis that the immunomodulating properties of levamisole are at least partially due to the formation of its metabolite (OMPI) which could enhance microtubule integrity and function in leukocytes."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992) (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of isopropyl mercaptan can be estimated to be 35(SRC). According to a classification scheme(2), this estimated Koc value suggests that isopropyl mercaptan is expected to have very high mobility in soil."
+        }
+    ]
+}

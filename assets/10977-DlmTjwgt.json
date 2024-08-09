@@ -1,0 +1,87 @@
+{
+    "_id": {
+        "$oid": "6682e8ecc4e5dba5ffba2806"
+    },
+    "CID": {
+        "$numberInt": "10977"
+    },
+    "Name": "n-Amyl chloride",
+    "IUPACName": "1-chloropentane",
+    "CanonicalSMILES": "CCCCCCl",
+    "Synonyms": [
+        "1-CHLOROPENTANE",
+        "543-59-9",
+        "Pentyl chloride",
+        "n-Amyl chloride",
+        "Pentane",
+        "1-chloro-",
+        "Amyl chloride",
+        "n-Pentyl chloride",
+        "Pentane",
+        "chloro-",
+        "n-Butylcarbonyl chloride",
+        "1-Chloro-pentane",
+        "29656-63-1",
+        "0EG9MSD3NK",
+        "NSC-7898",
+        "UNII-0EG9MSD3NK",
+        "HSDB 1071"
+    ],
+    "IsomericSMILES": "CCCCCCl",
+    "INCHI": "InChI=1S/C5H11Cl/c1-2-3-4-5-6/h2-5H2,1H3",
+    "INCHIKEY": "SQCZQTSHSZLZIQ-UHFFFAOYSA-N",
+    "Formula": "C5H11Cl",
+    "MolecularWeight": {
+        "$numberDouble": "106.59"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "2.6"
+    },
+    "Complexity": {
+        "$numberInt": "19"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Suzuki T; J Computer-Aided Molecular Design 5: 149-66 (1991) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Nov 19, 2018: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 30 was calculated in fish for n-amyl chloride(SRC), using a log Kow of 2.73(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low to moderate(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Gerhold RM, Malaney GW; J Water Pollut Contr Fed 38: 562-79 (1966)",
+            "Value": "AEROBIC: Aerobic cultures containing n-amyl chloride inoculated with sewage from three different treatment plants, reached 1.5, 1.8, and 2.8% of the theoretical oxygen demand in 6, 12, and 24 hours, respectively(1)."
+        },
+        {
+            "References": "(1) Belkin S; Biodegrad 3: 299-313 (1992) (2) Marion CV, Malaney GW; J Water Pollut Control Fed 35: 1269-84 (1963)",
+            "Value": "PURE CULTURE: Corynebacterium sp., Acinetobacter sp., Arthrobacter sp.(1), and Alcaligenes faecalis(2) have been shown to degrade n-amyl chloride."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Suzuki T; J Computer-Aided Molecular Design 5: 149-66 (1991)",
+            "Value": "log Kow = 2.73"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Chroust K et al; Chemosphere 67: 152-159 (2007)",
+            "Value": "/GENOTOXICITY/ Halogenated aliphatic compounds were evaluated for toxic and genotoxic effects in the somatic mutation and recombination test employing Drosophila melanogaster. ... Toxicity was evaluated as the number of hatched adulthood in the presence of tested chemicals and the lethal concentration of 50% (LC50) was then calculated. ... 1,2-dichloroethane, 1,2- dichloropropane, 1,2- dichlorobutane and 1-chloropentane induced positive effects in wing spot number frequency even though these chemicals showed only moderate toxicity in our test."
+        },
+        {
+            "References": "Selan FM, Evans MA; Research Communications in Chemical Pathology and Pharmacology 55 (2): 249-268 (1987)",
+            "Value": "/OTHER TOXICITY INFORMATION/ The role of the chlorinated alkane solvent effect on the inhibition of hepatic triglyceride secretion was investigated using male Swiss Webster mice and male Sprague Dawley rats. Triglycerides were measured in serum of treated animals or in supernatants of isolated hepatocytes exposed to solvents and tritiated glycerol. Two hours following carbon tetrachloride injection, triglyceride levels were reduced significantly to 42 percent of control values and to 15 percent by 8 hours. Methylene chloride caused a more rapid decline in serum triglyceride concentration. Significant dose related decreases in serum triglyceride levels at 2 hours followed the administration of 1-chloropropane, 1-chlorobutane, 1-chloropentane, 1-chlorohexane, 1,2-dichloroethane, 1,3-dichloropropane, 1,4-dichlorobutane, and 1,5-dichloropentane. The shorter chain, less lipid soluble solvents were the more potent at decreasing triglyceride secretion in vivo. In freshly prepared isolated hepatocyte systems, the relationship between 50 percent inhibitory concentration and lipid solubility was opposite to that observed in-vivo. The more lipid soluble solvents were the more potent at decreasing secretion in-vitro. The authors suggest from this finding that nonspecific solvent effects on membrane integrity may be important in the inhibition of triglyceride secretion. The chlorinated alkane induced development of fatty liver through inhibition of triglyceride secretion may be related to lipid solubility of the chemical rather than to its metabolism to free radicals."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Suzuki T; J Computer-Aided Molecular Design 5: 149-66 (1991) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Nov 19, 2018: https://www2.epa.gov/tsca-screening-tools (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of n-amyl chloride is estimated as 240(SRC), using a log Kow of 2.73(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that n-amyl chloride is expected to have moderate mobility in soil(SRC)."
+        }
+    ]
+}

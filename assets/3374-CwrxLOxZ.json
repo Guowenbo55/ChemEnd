@@ -1,0 +1,63 @@
+{
+    "_id": {
+        "$oid": "6682e802c4e5dba5ffba2371"
+    },
+    "CID": {
+        "$numberInt": "3374"
+    },
+    "Name": "FLUMEQUINE",
+    "IUPACName": "7-fluoro-12-methyl-4-oxo-1-azatricyclo[7.3.1.05,13]trideca-2,5,7,9(13)-tetraene-3-carboxylic acid",
+    "CanonicalSMILES": "CC1CCC2=C3N1C=C(C(=O)C3=CC(=C2)F)C(=O)O",
+    "Synonyms": [
+        "flumequine",
+        "42835-25-6",
+        "Apurone",
+        "9-Fluoro-5-methyl-1-oxo-1,5,6,7-tetrahydropyrido[3,2,1-ij]quinoline-2-carboxylic acid",
+        "R-802",
+        "UVG8VSP2SJ",
+        "MFCD00079298",
+        "NSC-757806",
+        "MLS000069546",
+        "DTXSID5045623",
+        "Flumigal",
+        "CHEBI:85269",
+        "1H,5H-Benzo(ij)quinolizine-2-carboxylic acid",
+        "9-fluoro-6,7-dihydro-5-methyl-1-oxo-",
+        "9-Fluoro-5-methyl-1-oxo-6,7-dihydro-1H,5H-pyrido[3,2,1-ij]quinoline-2-carboxylic acid",
+        "NCGC00018211-03"
+    ],
+    "IsomericSMILES": "CC1CCC2=C3N1C=C(C(=O)C3=CC(=C2)F)C(=O)O",
+    "INCHI": "InChI=1S/C14H12FNO3/c1-7-2-3-8-4-9(15)5-10-12(8)16(7)6-11(13(10)17)14(18)19/h4-7H,2-3H2,1H3,(H,18,19)",
+    "INCHIKEY": "DPSPPJIUMHPXMA-UHFFFAOYSA-N",
+    "Formula": "C14H12FNO3",
+    "MolecularWeight": {
+        "$numberDouble": "261.25"
+    },
+    "Description": "9-fluoro-5-methyl-1-oxo-6,7-dihydro-1H,5H-pyrido[3,2,1-ij]quinoline-2-carboxylic acid is a member of the class of pyridoquinolines that is 1-oxo-6,7-dihydro-1H,5H-pyrido[3,2,1-ij]quinoline carrying additional carboxy, methyl and fluoro substituents at positions 2, 5 and 9 respectively. It is a pyridoquinoline, a 3-oxo monocarboxylic acid, an organofluorine compound and a quinolone antibiotic.",
+    "XlogP": {
+        "$numberDouble": "2.9"
+    },
+    "Complexity": {
+        "$numberInt": "462"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Boxall ABA et al; Rev Environ Contam Toxicol 180: 1-91 (2004) (2) Yndestad M; pp 115-24 in Residues of Veterinary Drugs in Food. Proc Euroresidue II Conf, Veldhoven, Netherlands, May 3-5 1993., Haagsma N et al, eds  (1993)",
+            "Value": "Flumequine was detected at 0.06-1.12 mg/kg in muscle tissue of wild fish caught in the vicinity of a Norwegian farm one day after termination of flumequine treatment(1). Flumequine was detected in fish liver, back fat, skin and bone 48 days after the end of medication at 8, 8, 36 and 571 ng/g, respectively and 16, 27, 36 and 465 ng/g 70 days after treatment(2). Flumequine was not detected in muscle tissue at either the 48 or 70 day post treatment times(2)."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Blair BD et al; Chemosphere 93: 2116-23 (2013) (2) Long ER et al; Environ Toxicol Chem 32: 1701-10 (2013) (3) Lalumera GM et al; Chemosphere 54: 661-8 (2004)",
+            "Value": "SEDIMENT: Flumequine was detected in sediment samples at two of five locations in Lake Michigan collected on two dates May 15, 2009 and April 9, 2010 at concentrations of 6.0 and 6.9 ng/g(1). Flumequine was not detected in 40 sediment samples collected April to June 2010 from Puget Sound, Washington(2). Flumequine was detected in sediment of Italian aquiculture farms in the range of 0.1-2.3 ug/kg dry weight except at one sea-bass farm where concentrations were 0.4-578.8 ug/kg dry weight(3)."
+        },
+        {
+            "References": "(1) Maranho LA et al; Ecotoxicology 24: 368-80 (2015)",
+            "Value": "SEDIMENT: Flumequine was detected in sediment samples from the Bay of Cadiz, Spain in samples collected March and September of 2011(1):",
+            "Table": "[{'Location': 'Chiclana de la Frontera', 'March 2011 Concn (ng/g)': 0.8, 'Sept 2011 Concn (ng/g)': 0.3}, {'Location': 'Puerto Real', 'March 2011 Concn (ng/g)': 7.1, 'Sept 2011 Concn (ng/g)': 0.4}, {'Location': 'Cadiz', 'March 2011 Concn (ng/g)': 6.7, 'Sept 2011 Concn (ng/g)': 0.2}, {'Location': 'El Puerto di Santa Maria (a)', 'March 2011 Concn (ng/g)': 0.4, 'Sept 2011 Concn (ng/g)': 0.3}, {'Location': 'El Puerto di Santa Maria (b)', 'March 2011 Concn (ng/g)': 21.4, 'Sept 2011 Concn (ng/g)': 0.6}, {'Location': 'Rota', 'March 2011 Concn (ng/g)': 2.9, 'Sept 2011 Concn (ng/g)': 0.4}]"
+        }
+    ]
+}

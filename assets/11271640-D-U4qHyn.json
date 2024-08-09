@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "66927101303528b49832d78b"
+    },
+    "CID": {
+        "$numberInt": "11271640"
+    },
+    "Name": "Chlorantraniliprole",
+    "IUPACName": "5-bromo-N-[4-chloro-2-methyl-6-(methylcarbamoyl)phenyl]-2-(3-chloropyridin-2-yl)pyrazole-3-carboxamide",
+    "CanonicalSMILES": "CC1=CC(=CC(=C1NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br)C(=O)NC)Cl",
+    "Synonyms": [
+        "Chlorantraniliprole",
+        "500008-45-7",
+        "CHLOANTRANILIPROLE",
+        "DPX-E2Y45",
+        "chlorantranilipole",
+        "Rynaxpyr",
+        "Rynaxypyr",
+        "Chlorantraniliprole [ISO]",
+        "UNII-622AK9DH9G",
+        "622AK9DH9G",
+        "CHEBI:67113",
+        "HSDB 7877",
+        "CHEMBL399318",
+        "DTXSID2044345",
+        "3-bromo-N-(4-chloro-2-methyl-6-((methylamino)carbonyl)phenyl)-1-(3-chloro-2-pyridinyl)-1H-pyrazole-5-carboxamide"
+    ],
+    "IsomericSMILES": "CC1=CC(=CC(=C1NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br)C(=O)NC)Cl",
+    "INCHI": "InChI=1S/C18H14BrCl2N5O2/c1-9-6-10(20)7-11(17(27)22-2)15(9)24-18(28)13-8-14(19)25-26(13)16-12(21)4-3-5-23-16/h3-8H,1-2H3,(H,22,27)(H,24,28)",
+    "INCHIKEY": "PSOVNZZNOMJUBI-UHFFFAOYSA-N",
+    "Formula": "C18H14BrCl2N5O2",
+    "MolecularWeight": {
+        "$numberDouble": "483.1"
+    },
+    "Description": "Chlorantraniliprole is a carboxamide resulting from the formal condensation of the carboxylic acid group of 3-bromo-1-(3-chloropyridin-2-yl)-1H-pyrazole-5-carboxylic acid with the primary amino group of 2-amino-5-chloro-N,3-dimethylbenzamide. The first of the anthranilic diamide insecticides, it is a ryanodine receptor activator and is used to protect a wide variety of crops, including corn, cotton, grapes, rice and potatoes. It has a role as a ryanodine receptor agonist. It is an organobromine compound, a member of pyridines, a member of pyrazoles, a pyrazole insecticide, a member of monochlorobenzenes and a secondary carboxamide.",
+    "XlogP": {
+        "$numberDouble": "4.8"
+    },
+    "Complexity": {
+        "$numberInt": "586"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The translocation of chemical insecticides in corn plants could enhance the control of Spodoptera frugiperda, based on their application form. Chlorantraniliprole and cyantraniliprole were applied via seed treatment and foliar spray in corn (VE and V3) to characterize the systemic action of both molecules in leaves that appeared after application. Bioassays with S. frugiperda and chemical quantification in LC-MS/MS confirmed the absorption and upward translocation of chlorantraniliprole and cyantraniliprole by xylem to new leaves. Both insecticides caused the mortality of larvae up to stage V6 (57.5\u00b19.5% for chlorantraniliprole and 40\u00b18.1% for cyantraniliprole), indicating the translocation of insecticides into leaves of corn plants when applied via seed treatment. However, the translocation of chlorantraniliprole and cyantraniliprole from sprayed leaves to new leaves was not observed, regardless of the stage of application plus the next first, second, and third stages. An increased dosage of cyantraniliprole did not influence its translocation in plant tissues; however, it influenced the present amount of active ingredient. The application of chlorantraniliprole and cyantraniliprole in seed treatment is an important alternative for integrated pest management. The absorption and redistribution capacity of chlorantraniliprole and cyantraniliprole throughout the plant confer a prolonged residual action with satisfactory control of S. frugiperda.",
+            "reference": "Pes, M. P., Melo, A. A., Stacke, R. S., Zanella, R., Perini, C. R., Silva, F. M., & Car\u00fas Guedes, J. V. (2020). Translocation of chlorantraniliprole and cyantraniliprole applied to corn as seed treatment and foliar spraying to control Spodoptera frugiperda (Lepidoptera: Noctuidae). PLoS One, 15(4), e0229151.",
+            "method": {
+                "Test Plant": "Anon-Bt corn variety, P1921 (Pioneer, Brazil)",
+                "Apply Location": "Seed treatment (ST) and foliar spraying",
+                "Plant Grown Condition": "Plants were cultivated in 5L polyethylene containers filled with a mixture of 30% substrate (Mecplant) and 70% soil, kept in a greenhouse with a photoperiod of 14:8h, temperature of 25\u00b12\u02daC, and relative humidity of 75\u00b15%.",
+                "Chemical Preparation": "Chlorantraniliprole (Derma",
+                "Pesticide Application Details for the Plant": "For seed treatment, chlorantraniliprole (45g a.i. per 60,000 seeds) and cyantraniliprole (150g a.i. per 100 kg of seed) were dosed and applied to corn seeds in plastic bags containing 500 grams of seeds. For foliar spraying, chlorantraniliprole (25 g a.i. ha-1) and cyantraniliprole (50 g a.i. ha-1 and 150 g a.i. ha-1) were applied in stages VE and V3 using a spray chamber with specific settings.",
+                "Other Information": "Larvae of Spodoptera frugiperda used in the experiments were obtained from a rearing of the Laboratory of Integrated Pest Management (LabMIP-UFSM)."
+            },
+            "result": "[{\"treatment\": \"Foliar spray\", \"Leaf V1 (% of mortality)\": 82.0, \"Leaf V2 (%)\": 15.3, \"Leav V3 (%)\": 0.6, \"Leaf V4 (%)\": 100.0, \"Leaf V5 (%)\": 38.8, \"Leaf V6 (%)\": 9.2}, {\"treatment\": \"Seed treatment\", \"Leaf V1 (% of mortality)\": 95.3, \"Leaf V2 (%)\": 77.3, \"Leav V3 (%)\": 83.3, \"Leaf V4 (%)\": 76.9, \"Leaf V5 (%)\": 78.9, \"Leaf V6 (%)\": 59.8}]"
+        }
+    ]
+}

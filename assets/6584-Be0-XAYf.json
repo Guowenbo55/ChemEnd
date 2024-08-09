@@ -1,0 +1,123 @@
+{
+    "_id": {
+        "$oid": "6682e855c4e5dba5ffba2511"
+    },
+    "CID": {
+        "$numberInt": "6584"
+    },
+    "Name": "METHYL ACETATE",
+    "IUPACName": "methyl acetate",
+    "CanonicalSMILES": "CC(=O)OC",
+    "Synonyms": [
+        "METHYL ACETATE",
+        "79-20-9",
+        "Methyl ethanoate",
+        "Tereton",
+        "Acetic acid",
+        "methyl ester",
+        "Devoton",
+        "Acetic acid methyl ester",
+        "Methylacetat",
+        "Acetate de methyle",
+        "Methylacetaat",
+        "Methyl acetic ester",
+        "Octan metylu",
+        "Metile (acetato di)",
+        "Methyle (acetate de)",
+        "Methylester kiseliny octove"
+    ],
+    "IsomericSMILES": "CC(=O)OC",
+    "INCHI": "InChI=1S/C3H6O2/c1-3(4)5-2/h1-2H3",
+    "INCHIKEY": "KXKVLQRXCPHEJC-UHFFFAOYSA-N",
+    "Formula": "C3H6O2",
+    "MolecularWeight": {
+        "$numberDouble": "74.08"
+    },
+    "Description": "Methyl acetate is an acetate ester resulting from the formal condensation of acetic acid with methanol. A low-boiling (57 ??) colourless, flammable liquid, it is used as a solvent for many resins and oils. It has a role as a polar aprotic solvent, a fragrance and an EC 3.4.19.3 (pyroglutamyl-peptidase I) inhibitor. It is an acetate ester, a methyl ester and a volatile organic compound.",
+    "XlogP": {
+        "$numberDouble": "0.2"
+    },
+    "Complexity": {
+        "$numberInt": "40"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Tatsuka K et al; J Agric Food Chem 38: 2176-80 (1990)",
+            "Value": "Methyl acetate was reported in the volatile fraction from Kiwi Fruit flowers (Actinidia chinensis) at 0.57% of the total area(1)."
+        },
+        {
+            "References": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Methyl acetate. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Sept 29, 2014: https://www.ars-grin.gov/duke/",
+            "Value": "Plants with methyl acetate(1).",
+            "Table": "[{'Genus species': 'Mentha aquatica L', 'Family': 'Lamiaceae', 'Common name': 'Water Mint', 'Part': 'Shoot', 'Concn (ppm)': '0-16'}, {'Genus species': 'Ananas comosus', 'Family': 'Bromeliaceae', 'Common name': 'Pineapple', 'Part': 'Fruit', 'Concn (ppm)': nan}, {'Genus species': 'Artemisia annua', 'Family': 'Asteraceae', 'Common name': 'Annual Mugwort', 'Part': 'Plant', 'Concn (ppm)': nan}, {'Genus species': 'Carca papaya', 'Family': 'Caricaceae', 'Common name': 'Papaya', 'Part': 'Fruit', 'Concn (ppm)': nan}, {'Genus species': 'Elsholtzia cristata', 'Family': 'Lamiaceae', 'Common name': 'Crested Latesummer Mint', 'Part': 'Shoot', 'Concn (ppm)': nan}, {'Genus species': 'Helianthus annuus', 'Family': 'Asteraceae', 'Common name': 'Sunflower', 'Part': 'Flower', 'Concn (ppm)': nan}, {'Genus species': 'Malus domestica', 'Family': 'Rosaceae', 'Common name': 'Apple', 'Part': 'Plant', 'Concn (ppm)': nan}, {'Genus species': 'Prunus oersica', 'Family': 'Rosaceae', 'Common name': 'Peach', 'Part': 'Fruit', 'Concn (ppm)': nan}, {'Genus species': 'Zingiber officinale', 'Family': 'Zingiberaceae', 'Common name': 'Ginger', 'Part': 'Essential oil', 'Concn (ppm)': nan}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR, Hydrophobic, Electronic and Steric Constants. ACS Prof Ref Book. Washington,DC: Amer Chem Soc (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Sept 22, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3.2 was calculated in fish for methyl acetate(SRC), using a log Kow of 0.18(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) European commission; IUCLID Dataset 2000. Available from, as of Sept 22, 2014: https://esis.jrc.ec.europa.eu/doc/IUCLID/datasheet/79209.pdf (2) Riemenschneider W, Bolt, HW; Esters, Organic. Ullmann's Encyclopedia of Industrial Chemistry. 7th ed. (1999-2014). New York, NY: John Wiley & Sons. Online Posting Date: 30 Apr 2005",
+            "Value": "AEROBIC: Methyl acetate achieved >70% after 28 days in an OECD 301D Closed bottle test(1). Methyl acetate reached > 95% degradation in a 5 day BOD test(2)."
+        },
+        {
+            "References": "(1) Speece RE; Env Sci Tech 17: 416A-27A (1983) (2) Chou WL et al; Biotech Bioeng Symp 8: 391-414 (1979) (3) Suflita JM, Mormile MR; Environ Sci Technol 27: 976-78 (1993)",
+            "Value": "ANAEROBIC: Methyl acetate is listed as a compound that should undergo ultimate anaerobic biodegradation in industrial wastewater(1). Methyl acetate achieved 96% anaerobic utilization efficiency after a 90 day acclimation period in completely mixed reactors(2). Methyl acetate, present at 50 ppm C, was completely degraded in anaerobic aquifer slurries at a rate of 16.6 ppm C/day and an acclimation period of 0 to 15 days(3)."
+        },
+        {
+            "References": "(1) Marion CV, Malaney GW; J Water Pollut Control Fed 35: 1269-84 (1963)",
+            "Value": "PURE CULTURE: Alcaligenes faecalis, isolated from activated sludge, was found to oxidize methyl acetate after a short lag period(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 6",
+            "Value": "log Kow = 0.18"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "ECHA; European Commission - Joint Research Centre Institute for Health and Consumer Protection European Chemicals Bureau (ECB); European Union Risk Assessment Report on Methyl Acetate (CAS No: 79-20-9) (EINECS No: 201-185-2) Volume 34 p.55 (2003). Available from, as of November 21, 2014: https://echa.europa.eu/en/support/documents-library",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Inhalation exposure of 4 rats to a probably saturated atmosphere of methyl acetate (in 25 L bottles) induced /CNS depressant/ effects in the animals after 10 to 20 min. After decapitation at this time-point concentrations of 70-80 mg methyl acetate/100 mL were found in the blood. Similar experiments with inhalation exposure to methanol showed that the narcotic effects are mainly induced by methyl acetate."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V6 561",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Cats exposed to /inhalation of methyl acetate/ 53,790 ppm for 14-18 min /showed/ irritation, salivation, dyspnea, convulsions in 50%, /CNS depression/, lethal in 1-9 min, later with diffuse pulmonary edema. 34,980 ppm for 29-30 min /produced/ irritation, salivation, dyspnea, convulsions in 50%, narcosis, histology:  lateral emphysema or edema. /From table/"
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V6 561",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Cats exposed to /inhalation of methyl acetate/ 18480 ppm for 4 to 4.5 hr showed eye irritation, dyspnea, vomiting and convulsions in 50%, /CNS depression/, slow recovery; at 9900 ppm for 10 hr, eye irritation, salivation, somnolence, recovery;at 5000 ppm for 20 min, eye irritation and salivation. /From table/"
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In ... cats exposured to 10,560 ppm /methyl acetate/ vapor caused irritation of the eyes and salivation. ..."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In a 28 day nose only inhalation toxicity study, Sprague Dawley rats, 10 male and 10 female per exposure group, were exposed to 0, 75, 350, and 2000 ppm of methyl acetate for 6 hr/day, 5 days/week for 28 days. No clinical signs were observed; however, both males adn females in the highest exposed group showed reduced body weight, low food intake, statistically increased red blood cell counts, hemoglobin and hematocrits; and reduced leukocyte counts. ... The toxicological relevance of the hematological findings was unclear but could be hemoconcentration or oxygen deficit. Adrenal weights were increased in both sexes, which ... could reflect a stress reaction to exposure to an irritant compound. ... /There was also/ degeneration and necrosis of the olfactory epithelium."
+        },
+        {
+            "References": "Hashimoto S et al; Kankyo Kagaku Kenkyusho Kenkyu Hokoku (Kinki Daigaku) 11: 217-23 (1983)",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Rats were exposed (at 10,000 ppm in ambient air) to a thinner containing toluene (52.8%), isopropyl alcohol (21.7%), methyl acetate (12.6%), ethyl acetate (3.4%), butyl acetate (3.2%), methyl isobutyl ketone (3.4%), and methanol (2.9%) in a plastic container for 10 min at 10 min intervals (2 times/day, 6 days/wk, for 12-14 mo). Body weight gain was suppressed compared to controls. Electron microscopic exam of slices of the cerebral cortex showed increased abnormal cristae of mitochondria in the neuron and axon and increased number of endoplasmic reticula and ribosomes and dilated Golgi apparatus in the neuron. Increased lysosomes and lipid materials were observed in neuron, suggesting a degenerative process."
+        },
+        {
+            "References": "ECHA; European Commission - Joint Research Centre Institute for Health and Consumer Protection European Chemicals Bureau (ECB); European Union Risk Assessment Report on Methyl Acetate (CAS No: 79-20-9) (EINECS No: 201-185-2) Volume 34 p.61 (2003). Available from, as of November 21, 2014: https://echa.europa.eu/en/support/documents-library",
+            "Value": "/GENOTOXICITY/ In an ... unpublished bacterial mutagenicity study, methyl acetate did not produce an increase in revertants in Salmonella typhimurium strains TA 98, TA 100, TA 1535, TA 1537 and TA 1538, and Escherichia coli WP2uvrA, in the absence or presence of Aroclor-induced rat liver S-9 mix. Methyl acetate was tested up to 5,000 ug/plate."
+        },
+        {
+            "References": "ECHA; European Commission - Joint Research Centre Institute for Health and Consumer Protection European Chemicals Bureau (ECB); European Union Risk Assessment Report on Methyl Acetate (CAS No: 79-20-9) (EINECS No: 201-185-2) Volume 34 p.61 (2003). Available from, as of November 21, 2014: https://echa.europa.eu/en/support/documents-library",
+            "Value": "/GENOTOXICITY/ Negative results were ... obtained in a study using Salmonella typhimurium strains TA97, TA98, TA100, TA1535 and TA1538 in the absence of an metabolic activation system and in the presence of rat or hamster liver S-9 mix, when tested up to 10,000 ug/plate. This study employed a 20-minute preincubation period."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. nn (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Sept 22, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of methyl acetate is estimated as 9.1(SRC), using a log Kow of 0.18(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that methyl acetate is expected to have very high mobility in soil(SRC)."
+        }
+    ]
+}

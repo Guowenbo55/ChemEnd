@@ -1,0 +1,217 @@
+{
+    "_id": {
+        "$oid": "6682e9a3c4e5dba5ffba2ba0"
+    },
+    "CID": {
+        "$numberInt": "638011"
+    },
+    "Name": "CITRAL",
+    "IUPACName": "(2E)-3,7-dimethylocta-2,6-dienal",
+    "CanonicalSMILES": "CC(=CCCC(=CC=O)C)C",
+    "Synonyms": [
+        "Citral",
+        "5392-40-5",
+        "GERANIAL",
+        "trans-Citral",
+        "(2E)-3,7-dimethylocta-2,6-dienal",
+        "141-27-5",
+        "3,7-dimethylocta-2,6-dienal",
+        "Citral a",
+        "geranialdehyde",
+        "alpha-Citral",
+        "(E)-Citral",
+        "geranal",
+        "Geranaldehyde",
+        "Lemsyn GB",
+        "Genanial"
+    ],
+    "IsomericSMILES": "CC(=CCC/C(=C/C=O)/C)C",
+    "INCHI": "InChI=1S/C10H16O/c1-9(2)5-4-6-10(3)7-8-11/h5,7-8H,4,6H2,1-3H3/b10-7+",
+    "INCHIKEY": "WTEVQBCEXWBHNA-JXMROGBWSA-N",
+    "Formula": "C10H16O",
+    "MolecularWeight": {
+        "$numberDouble": "152.23"
+    },
+    "Description": "Geranial is a monoterpenoid that is (2E,6E)-octa-2,6-dienal substituted by methyl groups at positions 3 and 7. It has a role as a plant metabolite and a volatile oil component. It is an enal, a monoterpenoid and a polyprenal.",
+    "XlogP": {
+        "$numberDouble": "3"
+    },
+    "Complexity": {
+        "$numberInt": "171"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) RIFM; Monographs on Fragrance Raw Materials. Geraniol. Woodcliff Lake, NJ: Research Institute for Fragrance Materials, c2003. CD-ROM. (2) Zini CA et al; J Agric Food Chem 50: 7199-205 (2002)",
+            "Value": "Originally reported to be found in lemongrass oil (Cymbopogan flexuosus (Ness.) Stapf.) in amounts up to 75%, citral has also been identified in Litsea citrata (approx 90%), L. cubeba Blume. (approx 70%), Lindera citriodora (approx 65%), Backhousia citriodora (approx 85-97%), Calypranthes porricultata (approx 62%), Leptspermum liversidgei var. A. leaves (approx 70-80%), Ocimum gratissimum (approx 66.5%) and Citrus aurantifolia leaves (petitgrain, approx 36%)(1). Citral was detected (<1% of total area of identified peaks) in the leaves of Eucalyptus dunnii but not detected in E. saligna nor E. citriodora(2)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Yalkowsky SH, Yan H; Handbook of Aqueous Solubility Data. CRC Press LLC, Boca Raton, FL p. 698 (2003) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 5-5 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 10 was calculated in fish for citral(SRC), using a water solubility of 1,340 mg/L(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Ver 2006.01.30 Updated. National Institute of Technology and Evaluation. Tokyo, Japan. Citral. 5392-40-5. Available from the database query page at https://www.safe.nite.go.jp/english/kizon/KIZON_start_hazkizon.html as of Feb 13, 2007.",
+            "Value": "AEROBIC: Citral, present at 100 mg/L, reached 92% of its theoretical BOD in four weeks using an activated sludge inoculum at 30 mg/L and the Japanese MITI test(1); therefore, this compound is expected to biodegrade rapidly."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:10411631",
+            "Value": "Low concentrations of citral (3,7-dimethyl-2,6-octadienal), ... inhibited E1, E2 and E3 isozymes of human aldehyde dehydrogenase (EC1.2.1.3). The inhibition was reversible on dilution and upon long incubation in the presence of NAD+; it occurred with simultaneous formation of NADH and of geranic acid. Thus, citral is an inhibitor and also a substrate. Km values for citral were 4 microM for E1, 1 microM for E2 and 0.1 microM for E3; Vmax values were highest for E1 (73 nmol/min/mg), intermediate for E2 (17 nmol/min/mg) and lowest (0.07 nmol/min/mg) for the E3 isozyme. Citral is a 1 : 2 mixture of isomers: cis isomer neral and trans isomer, geranial; the latter structurally resembles physiologically important retinoids. Both were utilized by all three isozymes; a preference for the trans isomer, geranial, was observed by HPLC and by enzyme kinetics. With the E1 isozyme, both geranial and neral, and with the E2 isozyme, only neral obeyed Michaelis-Menten kinetics. With the E2 isozyme and geranial sigmoidal saturation curves were observed with S0.5 of approximately 50 nM; the n-values of 2-2.5 indicated positive cooperativity. Geranial was a better substrate and a better inhibitor than neral. The low Vmax, which appeared to be controlled by either the slow formation, or decomposition via the hydride transfer, of the thiohemiacetal reaction intermediate, makes citral an excellent inhibitor whose selectivity is enhanced by low Km values. The Vmax for citral with the E1 isozyme was higher than those of the E2 and E3 isozymes which explains its fast recovery following inhibition by citral and suggests that E1 may be the enzyme involved in vivo citral metabolism."
+        },
+        {
+            "References": "PMID:16406398",
+            "Value": "Essential oil constituents were tested for their neurophysiological effects in Periplaneta americana and Blaberus discoidalis /cockroaches/ ... Geraniol and citral had similar depressive effects but increased spontaneous firing at lower doses (threshold 2.5 x 10-4 M). Similar effects occurred in dorsal unpaired median (DUM) neurons, recorded intracellularly in the isolated terminal abdominal ganglion of P. Americana. ... citral produced biphasic effects (excitation at 10-4 M, depression at 2 x 10-3 M). All oils decreased excitability of silent DUM neurons that were depolarised by applied current... All oils reduced spike undershoot. Low doses of citral and geraniol (threshold ca. 10-4 M) reversibly increased the frequency of spontaneous foregut contractions and abolished them at 2 x 10-3 M (together with response to electrical stimulation)."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "OECD; Screening Information Data Set for Citral, CAS # 5392-40-5 (2004). Available from, as of January 22, 2007: https://www.inchem.org/pages/sids.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Skin irritation test in rabbits (protocol unknown) - irritating. Eye irritation test in rabbits (protocol unknown) - not irritating. Sensitization in Guinea pig maximization test - sensitizing."
+        },
+        {
+            "References": "PMID:8340024",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ A study of the potential effects of microencapsulation on the toxicity of citral was conducted in 14 day continuous feeding studies with both sexes of F344 rats and B6C3Fl mice. Toxicity by the feeding route was compared with that from bolus doses of the neat chemical in corn oil administered by gavage. Both sexes of rats and mice were given diet containing 0, 0.63, 1.25, 2.5, 5 and 10% citral microcapsules. These feed formulations were equivalent to daily doses of 0, 142, 285, 570, 1140 and 2280 mg citral/kg body weight for rats and 0, 534, 1068, 2137, 4275 and 8550 mg citral/kg body weight for mice. The daily gavage doses were 0, 570, 1140 and 2280 mg citral/kg body weight for both sexes of rats, and 0, 534, 1068 and 2137 mg citral/kg body weight for both sexes of mice. Citral microcapsules administered in the diet did not cause mortality in mice or rats. Toxicity was confined to decreases in body weight at the 10% concentration in mice, at the 5 and 10% concentrations in rats, and decreases in absolute weights of the liver, kidney and spleen at the 10% concentration in rats. The only histopathological change observed was minimal to mild hyperplasia and/or squamous metaplasia of the respiratory epithelium in the anterior portion of the nasal passages of rats fed 5 or 10% citral microcapsules. By contrast, citral gavage caused mortality in five out of five male and female mice at 2137 mg/kg body weight, and in two out of five male mice at 1068 mg/kg body weight. There were dose-related increases in absolute liver weights of male and female mice. Cytoplasmic vacuolization of hepatocytes occurred in all female mice gavaged with 1068 and 2137 mg citral/kg body weight, and in male mice from the 2137 mg/kg dose group. Necrosis, ulceration and/or acute inflammation of the forestomach occurred in the high-dose mice of both sexes. Inflammation and/or hyperplasia of the forestomach occurred in about half of the male and female mice dosed with 1068 mg citral/kg. Citral gavage at doses that were equivalent to up to 10% in the diet (2280 mg/kg body weight) did not cause toxicity in rats, except for minimal hyperplasia of the squamous epithelium of the forestomach in high-dose males."
+        },
+        {
+            "References": "FAO/WHO Joint Expert Committee on Food Additives; WHO Food Additives Series 44A: TOXICOLOGICAL EVALUATION OF SOME FLAVORING SUBSTANCES AND NON-NUTRITIVE SWEETENING AGENTS (1967). Available from Database Query page at: https://www.inchem.org/pages/jecfa.html as of February 21, 1967.",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Oral administration of 2.8 mg/kg body-weight daily for 3 months to rabbits reduced body-weight gain, raised fasting blood sugar level and prolonged the hyperglycemic period, produced urobilinuria, proteinuria and histological evidence of chronic nephritis."
+        },
+        {
+            "References": "FAO/WHO Joint Expert Committee on Food Additives; WHO Food Additives Series 44A: TOXICOLOGICAL EVALUATION OF SOME FLAVORING SUBSTANCES AND NON-NUTRITIVE SWEETENING AGENTS (1967). Available from Database Query page at: https://www.inchem.org/pages/jecfa.html as of February 21, 1967.",
+            "Value": "//LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In a 12-week feeding study in 15 males and 15 female rats, using mixed citral conpounds there was no adverse effect noticeable at 50 mg/kg body-weight/day ... . In another study lasting 13 weeks groups of 10 male and 10 female rats were fed diets containing 0, 0.1, 0.25 and 1.0 per cent. of citral without any adverse effects ... . On the other hand, young rats fed 0.15 mg citral daily for 26 days showed reduced body-weight gain in both sexes."
+        },
+        {
+            "References": "OECD; Screening Information Data Set for Citral, CAS # 5392-40-5 (2004). Available from, as of January 22, 2007: https://www.inchem.org/pages/sids.html",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In an OECD preliminary reproduction toxicity screening test, citral was administered to Crj:CD (SD) rats by gavage at doses of 0, 40, 200 and 1,000 mg/kg/day in males for 46 days and in females for 39-50 days including before and through mating and gestation periods and until day 3 of lactation. Hematology and serum biochemistry were not examined because of the test guideline and histopathology was conducted only in stomach and reproductive organs. Any toxic sign in general appearance was not observed. Necropsy revealed a partial thickening of mucosal layer in the stomach of females, and histopathological examination in the forestomach revealed squamous hyperplasia, ulcer and granulation in lamina propria at 1,000 mg/kg of both sexes. Any histological changes in reproductive organs of both sexes were not observed. The NOAEL for repeated dose toxicity was 200 mg/kg/day for both sexes."
+        },
+        {
+            "References": "OECD; Screening Information Data Set for Citral, CAS # 5392-40-5 (2004). Available from, as of January 22, 2007: https://www.inchem.org/pages/sids.html",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ As citral is quickly absorbed and metabolized, the toxicity profile depends on administration methods ... a high stomach concentration given by gavage induced forestomach hyperplasia probably due to irritating activity at the similar doses in rats and mice. However, a dietary administration in microcapsules might produce continuous but lower body burden including stomach during feeding. By this difference, no region in stomach was observed in rats and mice. Clear species differences were observed in dietary studies. Rats received microencapsulated citral in diet showed minimal to mild hyperplasia and/or metaplasia in respiratory epithelium of nasal cavity at two highest doses. However, mice did not show any regions in nasal cavity at the same levels. Because authors mentioned that the smell of citral at the high concentration might have induced to reject feeding at the beginning of study, the region on nasal cavity in rats could have been due to the direct effect of citral. The reason of no effects in mice is not clear sure but it seems likely that a nasal cavity of rats is generally more sensitive than that of mice. ... Several repeated dose oral studies show no adverse effect of citral at less than 1,000 mg/kg for 14 days to 13 weeks exposure and some histological changes in nasal cavity or forestomach at the first exposure sites, probably due to irritation, at more than 1,000 mg/kg. The NOAEL for repeat dose toxicity was considered to be the lowest NOAEL of 200 mg/kg/day."
+        },
+        {
+            "References": "Massas R et al; Histol Histopathol 6 (2) 183-9 (1991)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Immunocytochemical characterization of several epithelial markers using the PAP technique was analyzed during different stages of induced prostatic hyperplasia in rats. Intact adolescent rats 142 days old were treated with citral (3,7 dimethyl-2,6 octadienal) for l0, 30 and 100 days and their ventral prostate compared to untreated matched-age animals. Among the epithelial markers studied, the prostatic specific acid phosphatase was present in hyperplastic prostates of rats. The immunoreaction showed a fair correlation with the severity of lesion and duration of treatment. The prostatic specific antigen showed equally immunoreactive in both control and treated rats. The hyperplastic and normal rat prostates did not show immunoreactivity towards the other epithelial cell markers such as epithelial membrane antigen, carcinoembrionic antigen and alpha-fetoprotein antisera. Prostatic specific acid phosphatase and to a lesser extent prostatic specific antigen might represent valuable markers for comparative studies of prostatic hyperplasia in rodents."
+        },
+        {
+            "References": "PMID:2423338",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Typical lesions of benign prostatic hyperplasia (BPH) were induced experimentally in the ventral prostate of adolescent (6 week old) male rats by citral, a nonsteroidal compound. Incipient BPH changes were already observed in the acinar glands 10 days after citral administration. A longer period of treatment (1 month) significantly enhanced epithelial hyperplasia, whereas the stromal elements were less reactive. Characteristic BPH lesions involving both prostatic compartments were found after 3 months of treatment. Castration prior to citral administration prevented such BPH changes; however, citral did not prevent the involutive lesions of castration.  ..."
+        },
+        {
+            "References": "DHHS/NTP; Toxicology and Carcinogenesis Studies of Citral (Microencapsulated) (CAS No. 5392-40-5) in F344/N Rats and B6C3F1 Mice (Feed Studies) (January 2003) Technical Rpt Series No. 505 NIH Pub No. 03-4439. Available from, as of February 21, 2007: https://ntp-server.niehs.nih.gov/",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 50 male and 50 female F344/N rats were fed diets containing 1,000, 2,000, or 4,000 ppm microencapsulated citral for 2 years. ... Dietary concentrations of 1,000, 2,000, and 4,000 ppm delivered average daily doses of approximately 50, 100, and 210 mg/kg to males and females. Survival of all exposed groups of males was significantly greater than that of the vehicle control group. ... Groups of 50 male and 50 female B6C3F1 mice were fed diets containing 500, 1,000, or 2,000 ppm microencapsulated citral for 2 years. ... Dietary concentrations of 500, 1,000, and 2,000 ppm delivered average daily doses of approximately 60, 120, and 260 mg/kg to males and females. ... The incidences of malignant lymphoma occurred with a positive trend in female mice, and the incidence in 2,000 ppm females was significantly greater than that in the vehicle control group...  Under the conditions of these 2-year feed studies, there was no evidence of carcinogenic activity of citral in male or female F344/N rats exposed to 1,000, 2,000, or 4,000 ppm. There was no evidence of carcinogenic activity of citral in male B6C3F1 mice exposed to 500, 1,000, or 2,000 ppm. There was equivocal evidence of carcinogenic activity in female B6C3F1 mice based on increased incidences of malignant lymphoma."
+        },
+        {
+            "References": "PMID:756382",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ CITRAL INDUCED MICROPHTHALMOS IN 3-DAY-OLD CHICK EMBRYOS BY INTRAAMNIOTIC INJECTION. IN SEVERE CASES CHANGES WERE IN IPSILATERAL PART OF HEAD. CORNEAL EPITHELIUM LOST ITS CONTINUITY & LENS SHOWED DEGENERATIVE CHANGES WITH SPHEROPHAKIA. HYPERPLASIA OF CORNEA & RETINA."
+        },
+        {
+            "References": "Nogueira A C MA et al; Toxicol 96 (2): 105-13 (1995)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ A study was under taken to investigate the embryofeto-toxic potential of citral in the rat. Citral (60; 125; 250; 500 and 1000 mg/kg) in corn oil was given orally to Wistar rats from day 6 to 15 of pregnancy. On day 21 of pregnancy, the number of resorptions and implantation sites were recorded. A transient decrease in weight gain from days 6 to 11 of gestation at the lowest doses and a reduction in body weight minus uterine weight at term at the highest doses indicated that citral was maternally toxic over the dose range tested. A slight but statistically significant increase in the ratio of resorptions per implantations was observed with 60 and 125 mg/kg body weight. Doses higher than 125 mg/kg reduced dose-dependently the ratio of pregnant per mated female. Signs of fetal growth retardation and a higher incidence of minor skeletal abnormalities were found in doses higher than 60 mg/kg. No increase in the frequency of visceral anomalies was found at any dose level, but an increase in fetal spleen weight was observed in doses higher than 125 mg/kg. The no-observed adverse effect level for embryofeto-toxicity is lower than 60 mg citral/kg body weight p.o."
+        },
+        {
+            "References": "PMID:1628861",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ To investigate potential mammalian developmental toxicity, pregnant Sprague-Dawley rats were exposed to citral by inhalation for 6 hr/day on gestation days 6-15 at mean concentrations of 0, l0 or 34 ppm as vapor, or 68 ppm as an aerosol/vapor mixture. On gestation day 20, the fetuses were evaluated for gross, visceral and skeletal malformation. Exposure to 68 ppm was maternally toxic, with reduced body-weight gains, ocular opacity, breathing difficulty, nasal discharge and salivation noted in the dams. No maternal toxicity was seen at the lower vapor exposure levels. The number of corpora lutea, implantations, resorptions, fetal viability, litter size, and sex ratio were not adversely affected by citral at any exposure level tested, and no exposure-related malformations were observed. At a maternally toxic exposure level, a slight reduction in mean fetal body weight and a slight increase in the incidence of hypoplastic bones were noted. Citral does not produce developmental toxicity in the rat when administered by inhalation at concentrations up to a maternally toxic exposure level."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Citral (CAS No. 5392-40-5). Available from, as of January 22, 2007: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ In an OECD preliminary reproduction toxicity screening test, citral was administered to Crj:CD(SD) rats by gavage at doses of 0, 40, 200 and 1000 mg/kg/day in males for 46 days including before and during mating period, and in females for 39-50 days including before and through mating and gestation periods and until day 3 of lactation. Both sexes of the 1000 mg/kg group showed decrease in body weight and food consumption. Autopsy revealed partial thickening of mucosal layer in the stomach in females of the 1000 mg/kg group, and histological examination in the forestomach revealed squmous hyperplasia, ulcer and granulation in lamina propria in both sexes of the 1000 mg/kg group. The NOAEL for developmental toxicity was considered to be 200 mg/kg/day."
+        },
+        {
+            "References": "PMID:12587690",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Citral, myrcene and limonene (100 and 200 mg/kg bw, ip), constituents of essential oils from Lippia alba chemotypes, decreased not only the number of crossings but also numbers for rearing and grooming, as measured by the open-field test in mice. ... muscle relaxation detected by the rota rod test was seen only at the highest doses of citral (200 mg/kg bw) ... Also, citral ... (100 and 200 mg/kg bw) increased barbiturate sleeping time as compared to control. ... although citral did not increase the onset of sleep, it increased the duration of sleep, which is indicative of a potentiation of sleeping time. Citral (100 and 200 mg/kg bw) increased 2.3 and 3.5 times, respectively, the barbiturate sleeping time in mice. ... In the elevated-plus maze, no effect was detected with citral up to 25 mg/kg bw, while at a high dose it decreased by 46% the number of entries in the open arms."
+        },
+        {
+            "References": "PMID:11307853",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ ... the effect of topical administration of citral (30 days) on the morphology of pelvic ganglia (PG) in young adult and old Wistar rats /was assessed/. Neuronal vacuolar degeneration with preserved nuclei of PG neurons was observed in untreated senescent, but not young rats. Citral significantly increased the rate of vacuolated neurons in old rats (from 3 to 14%), but only slightly in young ones (from 0 to 0.5-0.3%). Similar lesions were not found in inferior cervical or celiac ganglia, in either group."
+        },
+        {
+            "References": "Zeiger E et al; Environ Mutagen 9:1-110 (1987)",
+            "Value": "/GENOTOXICITY/ Citral was evaluated for mutagenicity in the Salmonella/microsome preincubation assay using a standard protocol approved by the National Toxicology Program. Citral was tested at doses of 0, 1, 3, 10, 33, 50, 100, and 160 ug/plate in four Salmonella typhimurium strains (TA98, TA100, TA1535, and TA1537) in the presence and absence of Aroclor-induced rat or hamster liver S9. Citral was negative in these tests and the highest ineffective dose level tested without clearing of the background lawn in any Salmonella tester strain was 33 ug/plate."
+        },
+        {
+            "References": "FAO/WHO Joint Expert Committee on Food Additives; WHO Food Additives Series 52: Aliphatic branched-chain saturated and unsaturated  alcohols, aldehydes, acids, and related esters (2004). Available from, as of February 21, 2007: https://www.inchem.org/pages/jecfa.html",
+            "Value": "/GENOTOXICITY/ Citral tested negative in the Rec assay for DNA repair in Bacillus subtilis strains M45 and H17 at 0.16, 0.32 and 0.63 uL/disk (142, 284, 560 ug/disk), but was positive at 1.25 and 2.5 uL/ disk (1110 and 2220 ug/disk). In a separate report of the same assay, citral tested positive at  < 2.5 uL/disk. /From table/"
+        },
+        {
+            "References": "PMID:10504146",
+            "Value": "/GENOTOXICITY/ A mammalian in vitro assay for genotoxicity based on the ability of cells to increase their level of the tumor-suppressor protein p53 in response to DNA damage /was developed/. Cultured cells are treated with various amounts of the test substances, and at defined times following treatment, they are harvested and lysed. The lysates are analyzed for p53 by Western blot and/or enzyme-linked immunosorbent assay analysis. An increase in cellular p53 following treatment is interpreted as evidence for DNA damage. To determine the ability of this p53-induction assay to predict carcinogenicity in rodents and to compare such results with those obtained using alternate approaches, /the authors/ subjected 25 chemicals from the predictive toxicology evaluation 2 list to analysis with this method. Five substances (citral, cobalt sulfate heptahydrate, D&C Yellow No. 11, oxymetholone, and t-butylhydroquinone) tested positive in this assay ..."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Citral (CAS No. 5392-40-5). Available from, as of January 22, 2007: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ Citral was evaluated for mutagenicity in the Ames test with Salmonella typhimurium strains TA98, TA100, TA1535, TA1537 with and without metabolic activation (S9 from male Sprague-Dawley rat or Syrian hamster liver, induced with Aroclor 1254). Citral concentrations ranging between 1 and 220 ug/plate were negative in these tests."
+        },
+        {
+            "References": "European Chemicals Bureau; IUCLID Dataset, Citral (CAS No. 5392-40-5). Available from, as of January 22, 2007: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ In a cytogenetic assay Chinese hamster ovary  cells were treated with citral for about 10 or 20 hrs for continuous treatment with and without metabolic activation ( S9). Concentrations tested were 12.5, 20.2, 25.3, 40.3 ug/mL in the absence of S9 and  30.3, 40.3, 50.5, 60.6, 70.7 ug/mL in the presence of S9. Citral was negative in these tests."
+        },
+        {
+            "References": "PMID:9725999",
+            "Value": "/GENOTOXICITY/ Mutagenicity was evaluated by the Salmonella/microsome assay (TA97a, TA98, TA100 and TA102 tester strains), without and with addition of an extrinsic metabolic activation system (lyophilized rat liver S9 fraction induced by Aroclor 1254). In all cases, the upper limit of the dose interval tested was either the highest non-toxic dose or the lowest dose of the monoterpene toxic to TA100 strain in the preliminary toxicity test. No mutagenic effect was found with ... citral ..."
+        },
+        {
+            "References": "OECD; Screening Information Data Set for Citral, CAS # 5392-40-5 (2004). Available from, as of January 22, 2007: https://www.inchem.org/pages/sids.html",
+            "Value": "/GENOTOXICITY/ Non-bacterial in vitro test: Two chromosomal aberration results in Chinese hamster cells are negative...while one positive result in sister chromatid exchange is given in the same cells ... ."
+        },
+        {
+            "References": "OECD; Screening Information Data Set for Citral, CAS # 5392-40-5 (2004). Available from, as of January 22, 2007: https://www.inchem.org/pages/sids.html",
+            "Value": "/GENOTOXICITY/ Genetic in vivo test: Two micronucleus tests (bone marrow and erythrocyte) conducted by NTP... showed negative results. In the bone marrow micronucleus test, male mice received intraperitoneal injections at doses of 250 to 750 mg/kg/day daily for 3days. In another study, sampling was conducted from peripheral blood within 24 hours after 14-week feeding st udy, in which male and female B6C3F1 mice were given up to 31,300 ppm microencapsulated citral in food."
+        },
+        {
+            "References": "OECD; Screening Information Data Set for Citral, CAS # 5392-40-5 (2004). Available from, as of January 22, 2007: https://www.inchem.org/pages/sids.html",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ A uterotrophic test on citral was conducted using Wistar rats. Citral FCC was orally administered three times daily at 0, 500 and 1,000 mg/kg. On the basis of the uterus weights, citral did not show an estrogen-like potential."
+        },
+        {
+            "References": "PMID:15931590",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ This study investigated the anti-cancer potential of citral and its mode of action. Concentrations of 44.5 uM, comparable to the concentration of citral in a cup of tea prepared from 1 g of lemon grass, induced apoptosis in several hematopoietic cancer cell lines. Apoptosis was accompanied by DNA fragmentation and caspase-3 catalytic activity induction. Citral activity (22.25 uM) was compared to a reference compound like staurosporine (0.7 uM), in respect to DNA fragmentation and caspase-3 enzymatic activity. The apoptotic effect of citral depended on the alpha,beta-unsaturated aldehyde group."
+        },
+        {
+            "References": "PMID:12615076",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ ... A simple system for the sensitive detection and measurement of glutathione S-transferase (GST) activity that detoxifies polycyclic aromatic hydrocarbons using the cultured rat normal liver epithelial cell line, RL34 cells, /was developed/. Citral (3,7-dimethyl-2,6-octadienal) was isolated from the methanol extract of lemongrass (Cymbopogon citratus) and identified as a novel inducer of GST. Citral, a mixture of the two stereoisomers geranial and neral, dose- and time-dependently induced the total and pi-class-specific activities of GST..."
+        },
+        {
+            "References": "PMID:12495555",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ ... estrogenic activity was determined by a sensitive and specific bioassay using recombinant yeast cells expressing the human estrogen receptor. At high concentrations, estrogenic activity was detected for citral (geranial and neral)... . Citral ... was also able to displace (3-H)17beta-estradiol from isolated alpha- and beta-human estrogen receptors, but ... /did not show/ activity in a yeast screen for androgenic and anti-androgenic activity."
+        },
+        {
+            "References": "PARKE DV, RAHMAN H; BIOCHEM J 113 (2): 12 (1969)",
+            "Value": "/OTHER TOXICITY INFORMATION/ TREATMENT OF RATS FOR 3 DAYS WITH CITRAL INCR ENZYME & CYTOCHROME P-450 LEVELS."
+        },
+        {
+            "References": "PMID:16406398",
+            "Value": "/OTHER TOXICITY INFORMATION/ Essential oil constituents were tested for their neurophysiological effects in Periplaneta americana and Blaberus discoidalis /cockroaches/ ... Geraniol and citral had similar depressive effects but increased spontaneous firing at lower doses (threshold 2.5 x 10-4 M). Similar effects occurred in dorsal unpaired median (DUM) neurons, recorded intracellularly in the isolated terminal abdominal ganglion of P. Americana. ... citral produced biphasic effects (excitation at 10-4 M, depression at 2 x 10-3 M). All oils decreased excitability of silent DUM neurons that were depolarised by applied current... All oils reduced spike undershoot. Low doses of citral and geraniol (threshold ca. 10-4 M) reversibly increased the frequency of spontaneous foregut contractions and abolished them at 2 x 10-3 M (together with response to electrical stimulation)."
+        },
+        {
+            "References": "PMID:12495555",
+            "Value": "/OTHER TOXICITY INFORMATION/ The potential in-vivo estrogenic effects of citral and geraniol were examined in ovariectomized mice, but neither compound showed any ability to stimulate the characteristic estrogenic responses of uterine hypertrophy or acute increase in uterine vascular permeability."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 241",
+            "Value": "/OTHER TOXICITY INFORMATION/ Citral once was alleged to cause increase in intraocular pressure in monkeys, but this has not been confirmed, nor has an influence on intraocular pressure been found in rabbits."
+        },
+        {
+            "References": "PMID:3623339",
+            "Value": "/OTHER TOXICITY INFORMATION/ The short-term effects of citral on the liver have been studied in two strains of rat. Hepatomegaly was accompanied in citral-treated rats by an altered distribution of lipid and glycogen in the liver and peroxisome proliferation occurred in a manner of that associated with some hypolipidaemic compounds. Specific biochemical markers supported the morphological changes in the peroxisomes. Cyanide-insensitive palmitoyl CoA oxidation showed, at the maximum fourfold and threefold inductions in Wistar albino and Long Evans hooded rats, respectively. In addition, induction of cytochrome P450 levels was greater in the Long Evans than in the Wistar rats the maximal increases recorded being 81 and 27% respectively. No alterations in plasma triglycerides or total cholesterol were detected. The differential induction of the mixed-function oxides system and the differential proliferation of peroxisomes in these two strains of rat suggest that citral may be metabolized differently in the two strains. Peroxisomal and possibly also mitochondrial changes are involved in the action of citral on lipid metabolism."
+        },
+        {
+            "References": "OECD; Screening Information Data Set for Citral, CAS # 5392-40-5 (2004). Available from, as of January 22, 2007: https://www.inchem.org/pages/sids.html",
+            "Value": "/OTHER TOXICITY INFORMATION/ Citral induced histopathological changes in liver of rats and mice orally treated with citral only at extremely high doses. ...In /one/ rat study, specific biochemical marker supported the morphological changes in the peroxisomes and a peroxisome associated polypeptide of molecular weight 80,000 daltons (PPA-80) was induced. Therefore, peroxisome proliferation is involved in the action of citral on liver."
+        },
+        {
+            "References": "PMID:9568365",
+            "Value": "/OTHER TOXICITY INFORMATION/ ... the possible interactions between citral and serum testosterone levels on the induction of hyperplastic changes in the ventral prostate of adolescent rats /were examined/. ... The results demonstrate an induction of benign as well as atypical prostatic hyperplasia following citral application. The most severe atypical changes were noted in the citral-treated rats with high serum testosterone levels. Although the mechanism of action of citral is yet unknown, the present results suggest a synergism between citral and testosterone resulting in hyperplastic changes in the rat ventral prostate."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Yalkowsky SH, Yan H; Handbook of Aqueous Solubility Data. CRC Press LLC, Boca Raton, FL p. 698 (2003) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-5 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of citral is estimated as 83(SRC), using a water solubility of 1,340 mg/L(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that citral is expected to have high mobility in soil."
+        }
+    ]
+}

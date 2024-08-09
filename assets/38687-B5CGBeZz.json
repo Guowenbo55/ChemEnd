@@ -1,0 +1,74 @@
+{
+    "_id": {
+        "$oid": "66927129303528b49832d826"
+    },
+    "CID": {
+        "$numberInt": "38687"
+    },
+    "Name": "Diclofop",
+    "IUPACName": "2-[4-(2,4-dichlorophenoxy)phenoxy]propanoic acid",
+    "CanonicalSMILES": "CC(C(=O)O)OC1=CC=C(C=C1)OC2=C(C=C(C=C2)Cl)Cl",
+    "Synonyms": [
+        "Diclofop",
+        "40843-25-2",
+        "Diclofop acid",
+        "(+/-)-Diclofop",
+        "2-[4-(2,4-Dichlorophenoxy)phenoxy]propanoic acid",
+        "Diclofop (free acid)",
+        "2-(4-(2,4-Dichlorophenoxy)phenoxy)propanoic acid",
+        "3LN56779KT",
+        "Propanoic acid",
+        "2-(4-(2,4-dichlorophenoxy)phenoxy)-",
+        "DICHLORFOP ACID",
+        "Caswell No. 328B",
+        "Diclofop [ANSI:BSI:ISO]",
+        "HOE 21079",
+        "BRN 2338390",
+        "UNII-3LN56779KT"
+    ],
+    "IsomericSMILES": "CC(C(=O)O)OC1=CC=C(C=C1)OC2=C(C=C(C=C2)Cl)Cl",
+    "INCHI": "InChI=1S/C15H12Cl2O4/c1-9(15(18)19)20-11-3-5-12(6-4-11)21-14-7-2-10(16)8-13(14)17/h2-9H,1H3,(H,18,19)",
+    "INCHIKEY": "OOLBCHYXZDXLDS-UHFFFAOYSA-N",
+    "Formula": "C15H12Cl2O4",
+    "MolecularWeight": {
+        "$numberDouble": "327.2"
+    },
+    "Description": "2-[4-(2,4-dichlorophenoxy)phenoxy]propanoic acid is an aromatic ether that is 2-(4-hydroxyphenoxy)propanoic acid in which the hydrogen of the hydroxy group at position 4 has been substituted by a 2,4-dichlorophenyl group. It is an aromatic ether, a dichlorobenzene, a monocarboxylic acid and a diether.",
+    "XlogP": {
+        "$numberDouble": "5"
+    },
+    "Complexity": {
+        "$numberInt": "345"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Oat (Avena sativa L. \u2018Elgin\u2032) and soybean (Glycine max L. \u2018Evans\u2032) were treated with 14C-diclofop-methyl {methyl ester of 2-[4-(2,4-dichlorophenoxy)phenoxy] propionic acid]} or 14C-diclofop alone or in combination with 2,4-D [(2,4-dichlorophenoxy)acetic acid] or bentazon [3-isopropyl-1H-2,1,3-benzothiadiazin-4(3H)-one 2,2-dioxide] and 14C-2,4-D alone or in combination with diclofop-methyl or diclofop. More radioactivity was recovered in the treatment zone after 14C-diclofop-methyl applications, alone or in combination, than after similar 14C-diclofop treatments in oat and soybean. Basipetal movement of radioactivity was 4 and 1% and acropetal movement was 1 and 4% in oat and soybean, respectively, regardless of the diphenyl ether treatment or time. Addition of 2,4-D or bentazon did not reduce translocation of radioactivity from 14C-diclofop-methyl treatments in either plant species. Basipetal movement of radioactivity from 14C-diclofop-methyl was greater than from 14C-diclofop in both oat and soybean. The addition of diclofop-methyl or diclofop did not affect the pattern or amount of 14C-2,4-D radioactivity translocated. In oats, radioactivity appeared to accumulate within the intercalary meristematic region with 14C-2,4-D and 14C-diphenyl-ether applications. Diclofop-methyl at 1 kg/ha applied either to an entire oat plant at the three-leaf stage or the apical meristemic region resulted in plant mortality. The extent to which transport contributes to diclofop-methyl efficacy is questioned.",
+            "reference": "Hall, C., Edgington, L. V., & Switzer, C. M. (1982). Translocation of different 2, 4-D, bentazon, diclofop, or diclofop-methyl combinations in oat (Avena sativa) and soybean (Glycine max). Weed Science, 30(6), 676-682.",
+            "method": {
+                "Test Plant": "Soybean and oat plants",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Plants were grown in silica sand in 225 ml styrofoam cups and watered as required with half-strength Hoagland's solution. They were maintained in a growth room with 22.5\u00b11\u00b0C day temperature, 65\u00b12% relative humidity during day, and 19\u00b11\u00b0C, 58\u00b12% relative humidity at night with 16-hr photoperiod provided by cool-white fluorescent plus incandescent lights at 290 \u03bcE/m2/s intensity.",
+                "Chemical Preparation": "14C-diclofop-methyl (6.21 \u03bcCi/\u03bcmol, uniformly labeled in the dioxyphenyl ring, 99% pure), 14C-diclofop (6.17 \u03bcCi/\u03bcmol, uniformly labeled in the dioxyphenyl ring, 99% pure), Technical grade 2,4-D (99% pure), Bentazon (99% pure).Solutions were made in 50% aqueous ethanol.",
+                "Pesticide Application Details for the Plant": "On 15-day old plants, 10 \u03bcl droplets were applied to adaxial surface of lower portion of unifoliate soybean leaf or mid-portion of second oat leaf at following rates:3.7 x 10^-3 \u03bcmol 14C-diclofop or 14C-diclofop-methyl alone.",
+                "Other Information": "The study had a 3-factor analysis of covariance design with 3 time levels, 2 herbicidal formulation levels, 3 herbicide combination levels, and 5 replicates. Total recovered radioactivity was used as the covariate."
+            },
+            "result": "[{\"Plant\": \"Oat\", \"Treatment\": \"Diclofop alone\", \"Hours after application\": 24, \"Leaf wash (%)\": 9.5, \"Treatment zone (%)\": 87.2, \"Tip of treated leaf (%)\": 0.5, \"Young tissue (%)\": 0.1, \"Portion of leaf below tz (%)\": 2.3, \"Roots (%)\": 0.4}, {\"Plant\": \"Oat\", \"Treatment\": \"Diclofop alone\", \"Hours after application\": 48, \"Leaf wash (%)\": 6.8, \"Treatment zone (%)\": 87.9, \"Tip of treated leaf (%)\": 1.0, \"Young tissue (%)\": 0.4, \"Portion of leaf below tz (%)\": 3.3, \"Roots (%)\": 0.7}, {\"Plant\": \"Oat\", \"Treatment\": \"Diclofop alone\", \"Hours after application\": 72, \"Leaf wash (%)\": 7.0, \"Treatment zone (%)\": 85.5, \"Tip of treated leaf (%)\": 1.2, \"Young tissue (%)\": 0.8, \"Portion of leaf below tz (%)\": 4.5, \"Roots (%)\": 1.0}, {\"Plant\": \"Oat\", \"Treatment\": \"Diclofop + 2,4-D\", \"Hours after application\": 24, \"Leaf wash (%)\": 7.5, \"Treatment zone (%)\": 88.3, \"Tip of treated leaf (%)\": 0.8, \"Young tissue (%)\": 0.2, \"Portion of leaf below tz (%)\": 2.3, \"Roots (%)\": 0.5}, {\"Plant\": \"Oat\", \"Treatment\": \"Diclofop + 2,4-D\", \"Hours after application\": 48, \"Leaf wash (%)\": 10.2, \"Treatment zone (%)\": 84.0, \"Tip of treated leaf (%)\": 1.0, \"Young tissue (%)\": 0.4, \"Portion of leaf below tz (%)\": 3.6, \"Roots (%)\": 0.7}, {\"Plant\": \"Oat\", \"Treatment\": \"Diclofop + 2,4-D\", \"Hours after application\": 72, \"Leaf wash (%)\": 6.1, \"Treatment zone (%)\": 87.5, \"Tip of treated leaf (%)\": 1.5, \"Young tissue (%)\": 0.6, \"Portion of leaf below tz (%)\": 3.5, \"Roots (%)\": 0.8}, {\"Plant\": \"Oat\", \"Treatment\": \"Diclofop + bentazon\", \"Hours after application\": 24, \"Leaf wash (%)\": 10.7, \"Treatment zone (%)\": 85.7, \"Tip of treated leaf (%)\": 0.5, \"Young tissue (%)\": 0.2, \"Portion of leaf below tz (%)\": 2.9, \"Roots (%)\": 0.5}, {\"Plant\": \"Oat\", \"Treatment\": \"Diclofop + bentazon\", \"Hours after application\": 48, \"Leaf wash (%)\": 6.1, \"Treatment zone (%)\": 88.9, \"Tip of treated leaf (%)\": 1.1, \"Young tissue (%)\": 0.4, \"Portion of leaf below tz (%)\": 2.9, \"Roots (%)\": 0.6}, {\"Plant\": \"Oat\", \"Treatment\": \"Diclofop + bentazon\", \"Hours after application\": 72, \"Leaf wash (%)\": 6.7, \"Treatment zone (%)\": 86.6, \"Tip of treated leaf (%)\": 1.6, \"Young tissue (%)\": 0.4, \"Portion of leaf below tz (%)\": 3.6, \"Roots (%)\": 0.8}, {\"Plant\": \"Soybean\", \"Treatment\": \"Diclofop alone\", \"Hours after application\": 24, \"Leaf wash (%)\": 15.8, \"Treatment zone (%)\": 80.9, \"Tip of treated leaf (%)\": 4.0, \"Young tissue (%)\": 0.2, \"Portion of leaf below tz (%)\": 0.1, \"Roots (%)\": 0.1}, {\"Plant\": \"Soybean\", \"Treatment\": \"Diclofop alone\", \"Hours after application\": 48, \"Leaf wash (%)\": 14.0, \"Treatment zone (%)\": 80.8, \"Tip of treated leaf (%)\": 4.5, \"Young tissue (%)\": 0.2, \"Portion of leaf below tz (%)\": 0.2, \"Roots (%)\": 0.2}, {\"Plant\": \"Soybean\", \"Treatment\": \"Diclofop alone\", \"Hours after application\": 72, \"Leaf wash (%)\": 11.1, \"Treatment zone (%)\": 84.7, \"Tip of treated leaf (%)\": 3.3, \"Young tissue (%)\": 0.3, \"Portion of leaf below tz (%)\": 0.2, \"Roots (%)\": 0.2}, {\"Plant\": \"Soybean\", \"Treatment\": \"Diclofop + 2,4-D\", \"Hours after application\": 24, \"Leaf wash (%)\": 15.1, \"Treatment zone (%)\": 79.6, \"Tip of treated leaf (%)\": 4.5, \"Young tissue (%)\": 0.2, \"Portion of leaf below tz (%)\": 0.3, \"Roots (%)\": 0.2}, {\"Plant\": \"Soybean\", \"Treatment\": \"Diclofop + 2,4-D\", \"Hours after application\": 48, \"Leaf wash (%)\": 14.4, \"Treatment zone (%)\": 80.4, \"Tip of treated leaf (%)\": 4.4, \"Young tissue (%)\": 0.3, \"Portion of leaf below tz (%)\": 0.3, \"Roots (%)\": 0.2}, {\"Plant\": \"Soybean\", \"Treatment\": \"Diclofop + 2,4-D\", \"Hours after application\": 72, \"Leaf wash (%)\": 8.0, \"Treatment zone (%)\": 86.9, \"Tip of treated leaf (%)\": 4.1, \"Young tissue (%)\": 0.3, \"Portion of leaf below tz (%)\": 0.3, \"Roots (%)\": 0.3}, {\"Plant\": \"Soybean\", \"Treatment\": \"Diclofop + bentazon\", \"Hours after application\": 24, \"Leaf wash (%)\": 17.3, \"Treatment zone (%)\": 76.8, \"Tip of treated leaf (%)\": 5.0, \"Young tissue (%)\": 0.1, \"Portion of leaf below tz (%)\": 0.2, \"Roots (%)\": 0.2}, {\"Plant\": \"Soybean\", \"Treatment\": \"Diclofop + bentazon\", \"Hours after application\": 48, \"Leaf wash (%)\": 9.9, \"Treatment zone (%)\": 85.0, \"Tip of treated leaf (%)\": 4.3, \"Young tissue (%)\": 0.2, \"Portion of leaf below tz (%)\": 0.2, \"Roots (%)\": 0.2}, {\"Plant\": \"Soybean\", \"Treatment\": \"Diclofop + bentazon\", \"Hours after application\": 72, \"Leaf wash (%)\": 10.7, \"Treatment zone (%)\": 85.9, \"Tip of treated leaf (%)\": 2.9, \"Young tissue (%)\": 0.3, \"Portion of leaf below tz (%)\": 0.2, \"Roots (%)\": 0.2}]"
+        },
+        {
+            "content": "Experiments were conducted to determine the influence of the dimethylamine salt of MCPA {[(4-chloro-o-tolyl)oxy] acetic acid} pretreatment, darkness from 1 day prior to treatment until harvest, and exogenous sucrose on diclofop {2-[4-(2,4-dichlorophenoxy)phenoxyl] propanoic acid} glucose, and sucrose uptake and translocation by wild oat (Avena fatua L.). Uptake of 14C-diclofop label by wild oat foliage was not influenced by MCPA pretreatment, constant dark treatment, or the addition of exogenous sucrose. Total 14C-diclofop and 14C-glucose label uptake and translocation were similar whether 5 cm of the treated leaf tip were placed in distilled water or 1% (w/v) sucrose. Downward translocation of 14C-diclofop, 14C-sucrose, and 14C-glucose label in the phloem of wild oat was reduced similarly by MCPA, constant dark treatments, or a combination of the two. Upward translocation of 14C-diclofop label was greater and exudation of 14C-diclofop label into the \u2018tip\u2019 solution was less than that of 14C-sucrose or 14C-glucose label, regardless of MCPA or constant dark treatments. Downward translocation of 14C-diclofop label was reduced as much by MCPA topically applied to the wild oat leaf 1 cm above, 1 cm below, or with the diclofop as with the MCPA broadcast pretreatment.",
+            "reference": "Olson, W., & Nalewaja, J. D. (1982). Effect of MCPA on 14C-diclofop uptake and translocation. Weed Science, 30(1), 59-63.",
+            "method": {
+                "Test Plant": "Wild oat plants",
+                "Apply Location": "Foliar topical application",
+                "Plant Grown Condition": "Grown in greenhouse under natural light supplemented with fluorescent light at 20 klux for 16h photoperiod. Temperature was 18-22\u00b0C during day and 16\u00b0C at night. Grown in plastic pots with soil watered daily to field capacity. Before treatment, moved to controlled environment chambers at 18\u00b0C, 85-95% RH, 16h light period (29 klux).",
+                "Chemical Preparation": "14C-labelled diclofop (specific activity 0.867 \u03bcCi/\u03bcmole), sucrose (0.867 \u03bcCi/\u03bcmole), and glucose (2.748 \u03bcCi/\u03bcmole) applied in 10 \u03bcl methanol:water (60:40 v/v). MCPA acid as topical spot at 0.021 moles (0.56 kg/ha to treated area). MCPA dimethylamine applied as broadcast spray at 0.56 kg ae/ha in 190 L/ha water at 275 kPa.",
+                "Pesticide Application Details for the Plant": "Topical application within a lanolin barrier to 1 cm x leaf width area midway on the second leaf at 2.5 leaf stage of wild oat plants.",
+                "Other Information": "Randomized complete block design with 7 replications."
+            },
+            "result": "[{\"Treatment\": \"With MCPA\", \"Treated area (% of absorbed)\": 92.1, \"Leaf section above treated area (%)\": 5.68, \"Leaf section below treated area (%)\": 1.86, \"Rest of foliage (%)\": 0.25, \"Roots (%)\": 0.12}, {\"Treatment\": \"Without MCPA\", \"Treated area (% of absorbed)\": 90.2, \"Leaf section above treated area (%)\": 6.17, \"Leaf section below treated area (%)\": 2.98, \"Rest of foliage (%)\": 0.34, \"Roots (%)\": 0.28}]"
+        }
+    ]
+}

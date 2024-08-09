@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "66927119303528b49832d7ea"
+    },
+    "CID": {
+        "$numberInt": "52999"
+    },
+    "Name": "Metsulfuron-methyl",
+    "IUPACName": "methyl 2-[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)carbamoylsulfamoyl]benzoate",
+    "CanonicalSMILES": "CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC",
+    "Synonyms": [
+        "METSULFURON-METHYL",
+        "Metsulfuron methyl",
+        "74223-64-6",
+        "ALLY",
+        "Granstar",
+        "Escort",
+        "Gropper",
+        "Allie",
+        "MetsulfuronMethyl",
+        "Metsulfuron methyl ester",
+        "methyl 2-[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)carbamoylsulfamoyl]benzoate",
+        "METHYL 2-[({[(4-METHOXY-6-METHYL-1,3,5-TRIAZIN-2-YL)AMINO]CARBONYL}AMINO)SULFONYL]BENZOATE",
+        "DTXSID6023864",
+        "CHEBI:39678",
+        "methyl 2-{[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)carbamoyl]sulfamoyl}benzoate"
+    ],
+    "IsomericSMILES": "CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC",
+    "INCHI": "InChI=1S/C14H15N5O6S/c1-8-15-12(18-14(16-8)25-3)17-13(21)19-26(22,23)10-7-5-4-6-9(10)11(20)24-2/h4-7H,1-3H3,(H2,15,16,17,18,19,21)",
+    "INCHIKEY": "RSMUVYRMZCOLBH-UHFFFAOYSA-N",
+    "Formula": "C14H15N5O6S",
+    "MolecularWeight": {
+        "$numberDouble": "381.37"
+    },
+    "Description": "Metsulfuron methyl is a N-sulfonylurea in which the sulfonyl group is attached to a 2-(methoxycarbonyl)phenyl group while a (4-methoxy-6-methyl-1,3,5-triazin-2-yl group replaces one of the amino hydrogens of the remaining urea group. It has a role as a herbicide, an environmental contaminant and a xenobiotic. It is a benzoate ester, a N-sulfonylurea and a methoxy-1,3,5-triazine.",
+    "XlogP": {
+        "$numberDouble": "1.5"
+    },
+    "Complexity": {
+        "$numberInt": "609"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The locoweeds, woolly loco and silky crazyweed, contribute to livestock poisoning in the western United States. Differences in response of these two locoweeds to foliar-applied picloram and metsulfuron was investigated by evaluating differences in herbicide uptake, translocation, and metabolism. Silky crazyweed compared to woolly loco was more than 10 times as sensitive to increasing rates of either herbicide. The two species absorbed 8 to 15%, and 11 to 17% of applied picloram and metsulfuron, respectively. Translocation of picloram and metsulfuron out of treated leaflets of either species was less than 3% of that absorbed after 96 h. Approximately 70 and 100% of the absorbed herbicides remained as picloram and metsulfuron, respectively, in both species. Therefore, differences in picloram or metsulfuron uptake, translocation, and metabolism appear inadequate to account for the differential response to each herbicide by the two locoweed species. Selectivity differences between these locoweed genera to picloram and metsulfuron most likely are due to sensitivity differences at sites of action.",
+            "reference": "Sterling, T. M., & Jochem, H. S. (1995). Uptake, translocation, and metabolism of picloram and metsulfuron methyl by two locoweed species. Weed science, 43(1), 13-17.",
+            "method": {
+                "Test Plant": "Woolly loco var. mollisimus and silky crazyweed (two locoweed species)",
+                "Apply Location": "Foliar application (adaxial surface of the terminal leaflet of a leaf)",
+                "Plant Grown Condition": "Greenhouse under natural daylength with no supplemental lighting, fertilized with 20:10:20 (N,P,K) at 2.5 g L\u207b\u00b9 weekly",
+                "Chemical Preparation": "Formulated picloram at 0, 0.14, 0.28, 0.56, and 1.12 kg ae ha\u207b\u00b9 or metsulfuron at 0, 4.38, 8.75, 17.5, and 35 g ai ha\u207b\u00b9 plus 0.25% by vol surfactant, with radiolabeled picloram (133 MBq ml\u207b\u00b9) or metsulfuron (133 MBq ml\u207b\u00b9) for uptake and translocation studies",
+                "Pesticide Application Details for the Plant": "10 x 0.25-\u03bcl droplets of picloram or metsulfuron solution applied directly to the adaxial surface of each terminal leaflet of a leaf, with a final picloram concentration of 12.4 mM and metsulfuron concentration of 491 \u03bcM, equivalent to application of 0.56 kg ae ha\u207b\u00b9 and 17.5 g ai ha\u207b\u00b9, respectively, in a carrier volume of 187 L ha\u207b\u00b9",
+                "Other Information": "the experiment involved seven-month-old vegetative plants, with plants rated over 42 days for epinasty and chlorosis, and fresh and dry weights of above-ground tissue measured 42 days after treatment."
+            },
+            "result": "[{\"Plant\": \"Woolly loco\", \"Uptake (% of applied)\": 16.5, \"Treated leaflet (% of absorbed)\": 89.8, \"Treated leaflet (% of absorbed).1\": 8.6, \"Above treated leaf (%)\": 0.7, \"Below treated leaf (%)\": 0.9}, {\"Plant\": \"Silky crazyweed\", \"Uptake (% of applied)\": 11.0, \"Treated leaflet (% of absorbed)\": 94.2, \"Treated leaflet (% of absorbed).1\": 5.0, \"Above treated leaf (%)\": 0.5, \"Below treated leaf (%)\": 0.5}]"
+        },
+        {
+            "content": "Old World climbing fern is one of the most invasive plants in natural areas of central and southern Florida. The fern spreads across the landscape by wind-blown spores and invades isolated and undisturbed habitats such as interior portions of the Florida Everglades. Land managers in Florida have reported that multiple herbicide treatments are required to control the fern, which could indicate that herbicides do not translocate throughout the plant in long-established populations. We conducted a greenhouse study to determine the absorption and translocation patterns in Old World climbing fern using the three herbicides most commonly used for management of this plant by land managers in Florida. Using 14C-labeled herbicides, we evaluated absorption and translocation of glyphosate (2.25 kg ai ha\u22121), metsulfuron (0.10 kg ai ha\u22121), and triclopyr (1.68 kg ai ha\u22121) in Old World climbing fern using five different application scenarios (cut-and-spray, basal spray, 25% foliar spray, 50% foliar spray, and 100% foliar spray). Triclopyr was absorbed to the greatest extent (60.3%) of applied radioactive compounds compared to glyphosate (31.2%) and metsulfuron (19.8%). The majority of radioactivity remained in treated leaves for all herbicides with only small percentages of the absorbed radioactivity being detected in other plant parts. All three herbicides translocated acropetally and basipitally to some extent. Radioactivity, for the most part, translocated evenly throughout the plants but the greatest amount of radioactivity derived from triclopyr occurred in rhizomes when the cut-and-spray and basal applications were used. The radioactivity in rhizomes derived from glyphosate was greater in those treated using cut-and-spray. Based on autoradiographs, there was limited horizontal movement of any herbicide in the rhizomes of Old World climbing fern which could explain why resprouts are observed several weeks following treatment.",
+            "reference": "Hutchinson, J. T., Langeland, K. A., MacDonald, G. E., & Querns, R. (2010). Absorption and translocation of glyphosate, metsulfuron, and triclopyr in old world climbing fern (Lygodium microphyllum). Weed science, 58(2), 118-125.",
+            "method": {
+                "Test Plant": "Old World climbing fern (Lygodium microphyllum)",
+                "Apply Location": "Five different application scenarios were used - (1) cut-and-spray (plants cut 6 cm from base and remaining foliage sprayed), (2) basal spray (0-6 cm above base), (3) 25% foliar (0-25 cm above base), (4) 50% foliar (0-50 cm above base), and (5) 100% foliar spray.",
+                "Plant Grown Condition": "Old World climbing fern was grown from rhizomes or spores in Okeelanta muck soil in 0.5 L plastic pots in a greenhouse with 21-37\u00b0C temperature range and natural photoperiod under 50% shade cloth. Plants were grown to 1 m height prior to treatment.",
+                "Chemical Preparation": "Glyphosate at 1.67 kg ae/ha, metsulfuron at 0.10 kg ai/ha, and triclopyr at 1.20 kg ae/ha were used. Herbicides were applied with 0.5% v/v non-ionic surfactant. For absorption and translocation studies, 14C-labeled glyphosate (specific activity 1998.0 kBq/mg), metsulfuron (1845.2 kBq/mg), and triclopyr (895.4 kBq/mg) were used by applying 5 ml droplets on adaxial surface immediately after spraying.",
+                "Pesticide Application Details for the Plant": "Total of 12.12 kBq/mg 14C-glyphosate, 11.84 kBq/mg 14C-metsulfuron, and 12.95 kBq/mg 14C-triclopyr were applied per plant by spotting on pinnae or rachis at respective heights for each application scenario.",
+                "Other Information": "Plants were harvested at 9 days after treatment (DAT). Radiolabeled leaflets were excised and washed to determine % uptake from rinsate. Autoradiographs were obtained and plants sectioned into rhizomes/stolons, lower 50% rachis/leaves, and upper 50% rachis/leaves to quantify radioactivity and translocation by liquid scintillation spectrometry"
+            },
+            "result": "[{\"Treatment\": \"Cut and spray\", \"Leaf weash (% of applied)\": 32.2, \"Absorbed (%)\": 19.1, \"Treated leaves (%)\": 15.8, \"Translocated to Top 50% (%)\": \"-\", \"Translocated to Bottom 50% (%)\": 0.9, \"Translocated to Rhizomes(%)\": 2.4}, {\"Treatment\": \"Basal\", \"Leaf weash (% of applied)\": 41.4, \"Absorbed (%)\": 20.5, \"Treated leaves (%)\": 16.4, \"Translocated to Top 50% (%)\": \"0.6\", \"Translocated to Bottom 50% (%)\": 1.3, \"Translocated to Rhizomes(%)\": 2.2}, {\"Treatment\": \"25% foliar\", \"Leaf weash (% of applied)\": 49.4, \"Absorbed (%)\": 21.8, \"Treated leaves (%)\": 16.1, \"Translocated to Top 50% (%)\": \"0.7\", \"Translocated to Bottom 50% (%)\": 2.5, \"Translocated to Rhizomes(%)\": 1.5}, {\"Treatment\": \"50% foliar\", \"Leaf weash (% of applied)\": 51.6, \"Absorbed (%)\": 17.9, \"Treated leaves (%)\": 10.3, \"Translocated to Top 50% (%)\": \"3.2\", \"Translocated to Bottom 50% (%)\": 2.4, \"Translocated to Rhizomes(%)\": 2.0}, {\"Treatment\": \"100% foliar\", \"Leaf weash (% of applied)\": 60.1, \"Absorbed (%)\": 20.7, \"Treated leaves (%)\": 17.3, \"Translocated to Top 50% (%)\": \"0.6\", \"Translocated to Bottom 50% (%)\": 1.3, \"Translocated to Rhizomes(%)\": 1.5}]"
+        }
+    ]
+}

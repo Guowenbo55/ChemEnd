@@ -1,0 +1,193 @@
+{
+    "_id": {
+        "$oid": "6682e9a0c4e5dba5ffba2b90"
+    },
+    "CID": {
+        "$numberInt": "517055"
+    },
+    "Name": "SODIUM BENZOATE",
+    "IUPACName": "sodium;benzoate",
+    "CanonicalSMILES": "C1=CC=C(C=C1)C(=O)[O-].[Na+]",
+    "Synonyms": [
+        "sodium benzoate",
+        "532-32-1",
+        "Sobenate",
+        "Antimol",
+        "Benzoic acid",
+        "sodium salt",
+        "Benzoic acid sodium salt",
+        "Benzoate sodium",
+        "Benzoate of soda",
+        "Benzoate",
+        "sodium",
+        "sodium;benzoate",
+        "Natrium benzoicum",
+        "FEMA No. 3025",
+        "Fuminaru",
+        "Benzoan sodny",
+        "Caswell No. 746"
+    ],
+    "IsomericSMILES": "C1=CC=C(C=C1)C(=O)[O-].[Na+]",
+    "INCHI": "InChI=1S/C7H6O2.Na/c8-7(9)6-4-2-1-3-5-6;/h1-5H,(H,8,9);/q;+1/p-1",
+    "INCHIKEY": "WXMKPNITSTVMEF-UHFFFAOYSA-M",
+    "Formula": "C7H5NaO2",
+    "MolecularWeight": {
+        "$numberDouble": "144.1"
+    },
+    "Description": "Sodium benzoate is an organic sodium salt resulting from the replacement of the proton from the carboxy group of benzoic acid by a sodium ion. It has a role as an antimicrobial food preservative, a drug allergen, an EC 1.13.11.33 (arachidonate 15-lipoxygenase) inhibitor, an EC 3.1.1.3 (triacylglycerol lipase) inhibitor, an algal metabolite, a human xenobiotic metabolite and a plant metabolite. It contains a benzoate.",
+    "XlogP": {
+        "$numberDouble": "NaN"
+    },
+    "Complexity": {
+        "$numberInt": "108"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of June 6, 2016: https://www2.epa.gov/tsca-screening-tools (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for sodium benzoate(SRC), using an estimated log Kow of -2.27(1) and a regression-derived equation(1). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of June 6, 2016: https://www.safe.nite.go.jp/english/db.html (2) ECHA; Search for Chemicals. Sodium Benzoate (CAS 532-32-1) Registered Substances Dossier. European Chemical Agency. Available from, as of June 6, 2015: https://echa.europa.eu/ (3) International Programme on Chemical Safety's Concise International Chemical Assessment Documents. Number 26: Benzoic Acid and Sodium Benzoate (2000). Available from, as of June 6, 2016: https://www.inchem.org/pages/cicads.html (4) Courtes R et al; Ecotox Environ Safety 31: 142-148 (1995) (5) Wahaab RA; Bull Environ Contam Toxicol 64: 558-564 (2000) (6) Waggy GT et al; Environ Toxicol Chem 13: 1277-1280 (1994) (7) Perales JA et al; Biodegradation 18: 63-70 (2007)",
+            "Value": "AEROBIC: Sodium benzoate, present at 100 mg/L, reached >60% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test which classified the compound as readily biodegradable(1). Using adapted activated sludge and 10, 20, and 50 mg/L test compound, sodium benzoate had CO2 evolution rates of 85-94% after 28 days classifying the compound as readily biodegradable(2). Sodium benzoate was readily biodegradable under aerobic conditions in several standard test systems including a Modified MIT test (84% degradation, 100 mg/L, 10 days), Modified Sturm test (80-90% degrdation, 50 mg/L, 7 days) and a Closed Bottle test (75-111% degradation, 5 mg/L, 30 days)(3). Using OECD Guideline 301B and seawater as test medium or inoculum, sodium benzoate (at 10 mg/L) had degradation of 85-97% over 28 days based on CO2 measurement(4). Sodium benzoate at 3000 mg/L was readily biodegraded in a Zahn-Wellens test using activated sludge with degradation rates of 80-100% over 2-7 days(5). Results of a 20-day BOD study found sodium benzoate to have a biooxidation rate of 78-100% after 5-20 days(6); results of an OECD 301D test found biooxidation rates of 76-85% 5-28 days(6). Sodium benzoate, used as reference material in a die-away using seawater from the Bay of Cadiz (Iberian Peninsula), degraded from an initial 20 mg/L to <1 mg/L after 12 days(7)."
+        },
+        {
+            "References": "(1) Birch RR et al; Chemosphere 19: 1527-1550 (1989) (2) Battersby NS, Wilson V; Applied Environ Microbiol 55: 433-439 (1989)",
+            "Value": "ANAEROBIC: Anaerobic mineralization of sodium benzoate by domestic sewage sludge varied from 50% to 96.5% (measurement of carbon dioxide and methane over 28-61 days) at initial concentrations of 50-90 mg/L(1). In a study using anaerobic sludge from sewage works receiving a mixture of domestic and industrial wastewaters, 93% mineralization of sodium benzoate was observed after 1 week of incubation (measurement of carbon dioxide and methane; initial concentration 50 mg carbon/L)(2)."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:21701815",
+            "Value": "DJ-1 (PARK7) is a neuroprotective protein that protects cells from oxidative stress. Accordingly, loss-of-function DJ-1 mutations have been linked with a familial form of early onset Parkinson disease. Mechanisms by which DJ-1 level could be enriched in the CNS are poorly understood. Recently we have discovered anti-inflammatory activity of sodium benzoate (NaB), a metabolite of cinnamon and a widely-used food additive. Here we delineate that NaB is also capable of increasing the level of DJ-1 in primary mouse and human astrocytes and human neurons highlighting another novel neuroprotective effect of this compound. Reversal of DJ-1-inducing effect of NaB by mevalonate, farnesyl phosphate, but not cholesterol and ubiquinone, suggests that depletion of intermediates, but not end products, of the mevalonate pathway is involved in the induction of DJ-1 by NaB. Accordingly, either an inhibitor of p21(ras) farnesyl protein transferase (FPTI) or a dominant-negative mutant of p21(ras) alone was also able to increase the expression of DJ-1 in astrocytes suggesting an involvement of p21(ras) in DJ-1 expression. However, an inhibitor of geranyl geranyl transferase (GGTI) and a dominant-negative mutant of p21(rac) had no effect on the expression of DJ-1, indicating the specificity of the effect. Similarly lipopolysaccharide (LPS), an activator of small G proteins, also inhibited the expression of DJ-1, and NaB and FPTI, but not GGTI, abrogated LPS-mediated inhibition. Together, these results suggest that NaB upregulates DJ-1 via modulation of mevalonate metabolites and that p21(ras), but not p21(rac), is involved in the regulation of DJ-1."
+        },
+        {
+            "References": "PMID:23475543",
+            "Value": "This study underlines the importance of cinnamon, a widely-used food spice and flavoring material, and its metabolite sodium benzoate (NaB), a widely-used food preservative and a FDA-approved drug against urea cycle disorders in humans, in increasing the levels of neurotrophic factors [e.g., brain-derived neurotrophic factor (BDNF) and neurotrophin-3 (NT-3)] in the CNS. NaB, but not sodium formate (NaFO), dose-dependently induced the expression of BDNF and NT-3 in primary human neurons and astrocytes. Interestingly, oral administration of ground cinnamon increased the level of NaB in serum and brain and upregulated the levels of these neurotrophic factors in vivo in mouse CNS. Accordingly, oral feeding of NaB, but not NaFO, also increased the level of these neurotrophic factors in vivo in the CNS of mice. NaB induced the activation of protein kinase A (PKA), but not protein kinase C (PKC), and H-89, an inhibitor of PKA, abrogated NaB-induced increase in neurotrophic factors. Furthermore, activation of cAMP response element binding (CREB) protein, but not NF-kappaB, by NaB, abrogation of NaB-induced expression of neurotrophic factors by siRNA knockdown of CREB and the recruitment of CREB and CREB-binding protein to the BDNF promoter by NaB suggest that NaB exerts its neurotrophic effect through the activation of CREB. Accordingly, cinnamon feeding also increased the activity of PKA and the level of phospho-CREB in vivo in the CNS. These results highlight a novel neutrophic property of cinnamon and its metabolite NaB via PKA - CREB pathway, which may be of benefit for various neurodegenerative disorders."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "International Programme on Chemical Safety's Concise International Chemical Assessment Documents. Number 26: Benzoic Acid and Sodium Benzoate (2000). Available from, as of April 27, 2016: https://www.inchem.org/pages/cicads.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ An acute dermal irritation/corrosion study with rabbits conducted according to OECD Guideline 404 ... as well as a non-standardized experiment with the solid substance ... gave no indication for skin irritating effects. In a study performed according to OECD Guideline 405 ... , sodium benzoate was only slightly irritating to the eye ... . The application of the solid substance in a non-standardized experiment caused no irritation ... ."
+        },
+        {
+            "References": "Cosmetic Ingredient Review; International Journal of Toxicology 20 (Suppl. 3): 23-50 (2001). Available from, as of April 27, 2016: https://www.beauty-review.nl/wp-content/uploads/2014/06/Final-report-on-the-safety-assessment-of-Benzyl-Alcohol-Benzoic-Acid-and-Sodium-Benzoate.pdf",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... Groups of 10 F344/N rats and B6C3F1 mice (5 of each sex) /were fed/ 1.81%, 2.09%, or 2.40% (rats) or 2.08%, 2.50%, or 3.00% (mice) sodium benzoate for 10 days. ... One male rat of the high-dose group ... died on day 8. Rats of the mid- and high-dose groups had significantly reduced mean body weight as compared to nontreated controls. Relative liver and kidney weights, as well as serum concentrations of albumin and total protein, were significantly increased in male rats of the mid- and high-dose group and in female rats of the high-dose group. Serum gamma-glutamyltranspeptidase activity was significantly increased in males and significantly decreased in females of the high-dose group. Serum cholesterol was significantly decreased in males of the high-dose group and in all dosed females as compared to controls. Changes in other parameters such as serum phospholipid and uric acid concentrations were sometimes significant but were non-dose-dependent. Enlarged hepatocytes with glassy cytoplasm were noted at microscopic examination of tissues from males of the high-dose group. ... 3 of 10 had convulsions and 2 of the 3 (both females) died before the end of the study. Mean body weights of mice of the treated groups were not significantly different from untreated controls. A dose-dependent increase in absolute and relative liver weight was noted; the increase was significant in mice of the high-dose group. Female mice of the high-dose group also had greater relative kidney weights. Serum cholesterol and phospholipid concentrations in male mice of the high-dose group, serum cholinesterase activities in male mice of the mid- and high-dose groups, and serum gamma-glutamyltranspeptidase activities of female mice of the mid-dose group were significantly greater than those of the control group. No significant changes were noted in serum concentrations of triglyceride, uric acid, and urea nitrogen, and activities of aspartame aminotransferase (AST) and alanine aminotransferase (ALT) or in the AST/ALT ratio. Enlargement, vacuolation and necrosis of hepatocytes were noted in male mice of the 3.0% group."
+        },
+        {
+            "References": "European Commission/Scientific Committee on Consumer Products; Opinion on Benzoic Acid and Sodium Benzoate p. 15 (2005). Available from, as of April 27, 2016: https://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_015.pdf",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Dose levels from 16 to 1090 mg sodium benzoate/kg bw were given to groups of 10 rats (5 male and 5 female) for 30 days with the diet. No dose related adverse effects were observed."
+        },
+        {
+            "References": "European Commission/Scientific Committee on Consumer Products; Opinion on Benzoic Acid and Sodium Benzoate p. 15 (2005). Available from, as of April 27, 2016: https://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_015.pdf",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Groups of 6 male and 6 female Sherman rats were given 2% (approx. 2.0 to 2.4 g/kg bw) or 5% (5.7 g/kg bw for females and 7.8 g/kg bw for males) sodium benzoate in the diet for 28 days. In the 5% dose group, all female rats died by day 11 and males by day 13. In the 2% dose group a slight significant body weight depression was observed in male rats."
+        },
+        {
+            "References": "European Commission/Scientific Committee on Consumer Products; Opinion on Benzoic Acid and Sodium Benzoate p. 15 (2005). Available from, as of April 27, 2016: https://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_015.pdf",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ 0.5, 1, 2, 4, and 8% sodium benzoate in drinking water were administered for 35 days to groups of four female and four male Swiss albino mice. In the 8% dose level (approx. 24 g/kg bw/d) all mice died within 3 weeks. In the 4% dose level (approx. 12 g/kg bw/d) 3 male and 3 female mice died within the 35-day observation period. The bodyweight of the surviving mice was substantially reduced."
+        },
+        {
+            "References": "International Programme on Chemical Safety's Concise International Chemical Assessment Documents. Number 26: Benzoic Acid and Sodium Benzoate (2000). Available from, as of April 27, 2016: https://www.inchem.org/pages/cicads.html",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In a 90-day study with rats dosed with 0, 1, 2, 4, or 8% sodium benzoate via diet, the mortality in the highest dose group (approx. 6290 mg/kg body weight per day) was about 50%. Other effects in this group included a reduced weight gain, increased relative weights of liver and kidneys, and pathological changes (not further specified) in these organs."
+        },
+        {
+            "References": "European Commission/Scientific Committee on Consumer Products; Opinion on Benzoic Acid and Sodium Benzoate p. 20 (2005). Available from, as of April 27, 2016: https://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_015.pdf",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Sodium benzoate was given in 2% in drinking water to 50 female and 50 male Swiss albino mice from weeks 5 on for lifespan. The average daily intake of sodium benzoate was 119.2 mg for a female and 124.0 mg for a male (approx. 5.95 - 6.2 g/kg bw/d). There was no effect of the survival of the treated mice when compared with the untreated control. There were no significant differences between the tumor distribution in sodium benzoate-treated and untreated control mice."
+        },
+        {
+            "References": "European Commission/Scientific Committee on Consumer Products; Opinion on Benzoic Acid and Sodium Benzoate p. 20 (2005). Available from, as of April 27, 2016: https://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_015.pdf",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 50 males and 52 female Fischer 344 rats were fed sodium benzoate at 1 or 2% in the diet (approx. 0.5 or 1.0 g/kg bw/d) for 18 to 24 months. The control group consisted of 25 males and 43 females. No clinical signs directly attributed to sodium benzoate were observed in treated animals. Differences in the average body weight between the treated and control groups were negligible. 40 rats died during the first 16 months, except for myeloproliferative disorder developed in one female control rat, all other dead animals showed pneumonia with abscess. Around 100 rats including those of the control group died after 16 months of hemorrhagic pneumonia with edema. The poor survival in all groups does limit the value of this study, although the type of tumors was similar between test and control rats of each sex."
+        },
+        {
+            "References": "Cosmetic Ingredient Review; International Journal of Toxicology 20 (Suppl. 3): 23-50 (2001). Available from, as of April 27, 2016: https://www.beauty-review.nl/wp-content/uploads/2014/06/Final-report-on-the-safety-assessment-of-Benzyl-Alcohol-Benzoic-Acid-and-Sodium-Benzoate.pdf",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Sprague-Dawley rats were injected intraperitoneally with 100, 315, or 1000 mg/kg sodium benzoate on /gestation days/ 9 to 11 or 12 to 14. Reduced fetal body weight, increased in utero deaths (by 12%), and gross anomalies were noted at the highest dose."
+        },
+        {
+            "References": "Cosmetic Ingredient Review; International Journal of Toxicology 20 (Suppl. 3): 23-50 (2001). Available from, as of April 27, 2016: https://www.beauty-review.nl/wp-content/uploads/2014/06/Final-report-on-the-safety-assessment-of-Benzyl-Alcohol-Benzoic-Acid-and-Sodium-Benzoate.pdf",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ No evidence of teratogenicity was noted in rats administered 510 mg/kg of sodium benzoate by gavage on /gestation days/ 9 to 11."
+        },
+        {
+            "References": "International Programme on Chemical Safety's Concise International Chemical Assessment Documents. Number 26: Benzoic Acid and Sodium Benzoate (2000). Available from, as of April 27, 2016: https://www.inchem.org/pages/cicads.html",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ For sodium benzoate, several teratogenicity studies are available that have been performed with different species. ... No effects were seen in dams or offspring of rats, mice, rabbits, or hamsters given oral doses of up to 300 mg/kg body weight per day (highest dose tested) during gestation. In a study with rats ... , doses of 4% or 8% via diet (uptake of 1875 or 965 mg/kg body weight per day) induced severe maternal toxicity (no weight gain/loss in body weight, increased mortality) and were associated with embryotoxic and fetotoxic effects as well as malformations. However, the authors suggested that the effects on the dams and fetuses at >4% dietary levels were caused by reduced maternal feed intake, leading to malnutrition. The intake of sodium benzoate in the highest dose group (8%) was lower than that at 2%, where no adverse effects were seen. From this study, a NO(A)EL of about 1310 mg/kg body weight per day can be derived. In /another/ study with rats ... , however, fetotoxic and teratogenic effects occurred at 1000 mg/kg body weight per day. In this study, sodium benzoate was applied by intraperitoneal injection. Therefore, differences in pharmacokinetics between oral and intraperitoneal administration may be the reason for the higher sensitivity."
+        },
+        {
+            "References": "PMID:26014016",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Many more additives have been introduced with the development of processed foods. Neural tube defects are congenital malformations of the central nervous system. More than 300,000 children are born with neural tube defects every year and surviving children remain disabled for life. Sodium benzoate is used intensively in our daily lives. We therefore aimed to evaluate the effects of sodium benzoate on neural tube defects in chicken embryos. Fertile, specific pathogen-free eggs were used. The study was conducted on five groups. After 30 hours of incubation, the eggs were opened under 4x optical magnification. The embryonic disc was identified and sodium benzoate solution was injected. Eggs were closed with sterile adhesive strips and incubation was continued till the end of the 72nd hour. All eggs were then reopened and embryos were dissected from embryonic membranes and evaluated histopathologically. We found that the development of all embryos was consistent with the stage. We detected neural tube obstruction in one embryo. Neural tube defects were not detected in any embryos. This study showed that sodium benzoate as one of the widely used food preservatives has no effect to neural tube defect development in chicken embryos even at high doses."
+        },
+        {
+            "References": "PMID:23475543",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ This study underlines the importance of cinnamon, a widely-used food spice and flavoring material, and its metabolite sodium benzoate (NaB), a widely-used food preservative and a FDA-approved drug against urea cycle disorders in humans, in increasing the levels of neurotrophic factors [e.g., brain-derived neurotrophic factor (BDNF) and neurotrophin-3 (NT-3)] in the CNS. NaB, but not sodium formate (NaFO), dose-dependently induced the expression of BDNF and NT-3 in primary human neurons and astrocytes. Interestingly, oral administration of ground cinnamon increased the level of NaB in serum and brain and upregulated the levels of these neurotrophic factors in vivo in mouse CNS. Accordingly, oral feeding of NaB, but not NaFO, also increased the level of these neurotrophic factors in vivo in the CNS of mice. NaB induced the activation of protein kinase A (PKA), but not protein kinase C (PKC), and H-89, an inhibitor of PKA, abrogated NaB-induced increase in neurotrophic factors. Furthermore, activation of cAMP response element binding (CREB) protein, but not NF-kappaB, by NaB, abrogation of NaB-induced expression of neurotrophic factors by siRNA knockdown of CREB and the recruitment of CREB and CREB-binding protein to the BDNF promoter by NaB suggest that NaB exerts its neurotrophic effect through the activation of CREB. Accordingly, cinnamon feeding also increased the activity of PKA and the level of phospho-CREB in vivo in the CNS. These results highlight a novel neutrophic property of cinnamon and its metabolite NaB via PKA - CREB pathway, which may be of benefit for various neurodegenerative disorders."
+        },
+        {
+            "References": "Cosmetic Ingredient Review; International Journal of Toxicology 20 (Suppl. 3): 23-50 (2001). Available from, as of April 27, 2016: https://www.beauty-review.nl/wp-content/uploads/2014/06/Final-report-on-the-safety-assessment-of-Benzyl-Alcohol-Benzoic-Acid-and-Sodium-Benzoate.pdf",
+            "Value": "/DEVELOPMENTAL NEUROTOXICITY/ ... A neurobiological study of sodium benzoate /was performed/ using rats. Groups of eight Wistar dams received feed containing 0.1%, 0.5%, or 1.0% sodium benzoate beginning on gestations day (GD) 5 and continuing throughout pregnancy and lactation. The control group was untreated. At birth, the number of pups in each litter was equalized to eight. Locomotor activity of the pups was measured on various days. One pup from each litter was killed on days 9, 15, and 21 and the brain removed and examined. On day 22, pups were weaned onto the same diet as their respective dam. On day 24, one male pup from each litter was caged individually and monitored for spontaneous locomotor activity. Rats were killed on day 45 and brain concentrations of norepinephrine, dopamine, and serotonin were measured. No significant difference was noted in feed intake and body weight gain of dams and pups of the treated groups compared to controls. No consistent differences in motor activity and monoamine concentrations were noted."
+        },
+        {
+            "References": "PMID:24419445",
+            "Value": "/BEHAVIORAL STUDIES/ /The objective was/ to investigate the behavioral characteristics, including anxiety and motor impairment, in sodium benzoate (NaB) treated rats. The study was carried out between July and September 2012 in the Laboratory Animal Center of Shiraz University of Medical Sciences, Shiraz, Iran. The rats were divided into 2 groups receiving distilled water and NaB (200 mg/kg/day). All the animals received daily gavages for 4 weeks. At the end of the fourth week, anxiety, and motor function were assessed in elevated plus maze and rotarod test. According to the results, NaB-treated rats spent less time in the open arm and had fewer entrances to the open arms in comparison with the control group (p<0.04). Also, the performance of the NaB-treated rats in fixed and accelerating speed rotarods was impaired, and the riding time (endurance) was lower than the control group (p<0.01). The performance of the NaB-treated rats was impaired in the elevated plus maze, an indicator of anxiety. Their riding time in fixed and accelerating speed rotarods was decreased, indicating motor impairment."
+        },
+        {
+            "References": "European Commission/Scientific Committee on Consumer Products; Opinion on Benzoic Acid and Sodium Benzoate p. 18-19 (2005). Available from, as of April 27, 2016: https://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_015.pdf",
+            "Value": "/GENOTOXICITY/ A dominant lethal assay was conducted in rats. Following dosing with sodium benzoate by gavage (0, 50, 500, 5000 mg/kg bw, single dose or once a day for 5 days) treated male rats, 5 per group, were mated with two females per week for 8 weeks (acute study) or 7 weeks (subacute study). Fertility Index, number of implantations, corpora lutea, pre-implantation losses, resorptions/pregnant female and proportions of females with one or more dead, and two and more and overall dead implants were monitored. In the acute study all three doses showed at week 8 significant, dose-related decreases in corpora lutea, at week 7 significant dose-related increases of average pre-implantation losses. Average resorptions were significant, dose-related increased at the low and high doses of week 2 and the low and intermediate doses of week 7 were significantly increased over the control group. Overall dead implants were significant increased at week 7 for the low and intermediate doses and week 2 for the low dose. In the subacute study significant increases of average pre-implantation losses were observed at a number of weeks but no significant increases of average resorptions were observed. Overall dead implants were not increased. The authors considered sodium benzoate to be non-mutagenic in rats in this test system although positive results were obtained."
+        },
+        {
+            "References": "European Commission/Scientific Committee on Consumer Products; Opinion on Benzoic Acid and Sodium Benzoate p. 18 (2005). Available from, as of April 27, 2016: https://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_015.pdf",
+            "Value": "/GENOTOXICITY/ 0, 50, 500 and 5000 mg sodium benzoate/kg bw was given orally to mice (single dose or once a day for 5 days) in an Host-Mediated Assay. Elevated mutant frequencies were seen with Salmonella TA 1530 in the acute intermediate dose level. The subacute and the other acute dose levels showed no increase in mutant frequencies. Tests with Salmonella G 46 were negative while giving slightly elevated mutant frequencies. Tests with Saccharomyces D 3 produced no increases in recombinant frequencies."
+        },
+        {
+            "References": "European Commission/Scientific Committee on Consumer Products; Opinion on Benzoic Acid and Sodium Benzoate p. 18 (2005). Available from, as of April 27, 2016: https://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_015.pdf",
+            "Value": "/GENOTOXICITY/ Chromosome aberration test was carried out on sodium benzoate using a pseudodiploid Chinese hamster cell line (DON). No metabolic activation system was applied. Concentration above 0.002 mol/L showed twofold background effects of chromosome aberrations; but no increase in the frequency of sister chromatid exchange was observed."
+        },
+        {
+            "References": "European Commission/Scientific Committee on Consumer Products; Opinion on Benzoic Acid and Sodium Benzoate p. 17 (2005). Available from, as of April 27, 2016: https://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_015.pdf",
+            "Value": "/GENOTOXICITY/ Chromosome aberration test was carried out on sodium benzoate (up to 2.0 mg/mL) using a Chinese hamster fibroblast cell line. No metabolic activation system was applied. 38% of the cells treated with sodium benzoate showed chromosome aberrations at 48 hr."
+        },
+        {
+            "References": "European Commission/Scientific Committee on Consumer Products; Opinion on Benzoic Acid and Sodium Benzoate p. 17 (2005). Available from, as of April 27, 2016: https://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_015.pdf",
+            "Value": "/GENOTOXICITY/ Sodium benzoate was tested in the Salmonella typhimurium strains TA98, TA100, TA1535, TA1537 and TA1538 in the presence and absence of S9 mix. Sodium benzoate was non-mutagenic in this test."
+        },
+        {
+            "References": "European Commission/Scientific Committee on Consumer Products; Opinion on Benzoic Acid and Sodium Benzoate p. 17 (2005). Available from, as of April 27, 2016: https://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_015.pdf",
+            "Value": "/GENOTOXICITY/ Sodium benzoate (up to 3.0 mg/plate) was tested in the Salmonella/microsome test using S. typhimurium TA 92, TA 94, TA 98, TA 100, TA 1535 and TA 1537. No significant increases in the numbers of revertant colonies were detected in any S. typhimurium strains at the maximum dose."
+        },
+        {
+            "References": "International Programme on Chemical Safety's Concise International Chemical Assessment Documents. Number 26: Benzoic Acid and Sodium Benzoate (2000). Available from, as of April 27, 2016: https://www.inchem.org/pages/cicads.html",
+            "Value": "/GENOTOXICITY/ In a valid in vivo study performed by the US FDA, sodium benzoate tested negative in a cytogenetic assay (bone marrow) in rats after single or multiple oral application of doses up to 5000 mg/kg body weight. In a study with mice (comparable dosing scheme), there was also no indication of mutagenic activity in a host-mediated assay."
+        },
+        {
+            "References": "PMID:23134605",
+            "Value": "/GENOTOXICITY/ The toxicity, in terms of changes in the DNA content, of two food preservatives, sodium nitrate and sodium benzoate was studied on the protozoan Tetrahymena pyriformis using DNA image analysis technology. For this purpose, selected doses of both food additives were administered for 2 hr to protozoa cultures and DNA image analysis of T. pyriformis nuclei was performed. The analysis was based on the measurement of the Mean Optical Density (MOD) which represents the cellular DNA content. The results have shown that after exposure of the protozoan cultures to doses equivalent to acceptable daily intake, a statistically significant increase in the macronuclear DNA content compared to the unexposed control samples was observed. The observed increase in the macronuclear DNA content is indicative of the stimulation of the mitotic process and the observed increase in MOD, accompanied by a stimulation of the protozoan proliferation activity is in consistence with this assumption. Since alterations at the DNA level such as DNA content and uncontrolled mitogenic stimulation have been linked with chemical carcinogenesis, the results of the present study add information on the toxicogenomic profile of the selected chemicals and may potentially lead to reconsideration of the excessive use of nitrates aiming to protect public health."
+        },
+        {
+            "References": "PMID:23768324",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ The interaction between sodium benzoate (SB) and calf thymus DNA in simulated physiological buffer (pH 7.4) using acridine orange (AO) dye as a fluorescence probe, was investigated by UV-Vis absorption, fluorescence and circular dichroism (CD) spectroscopy along with DNA melting studies and viscosity measurements. An expanded UV-Vis spectral data matrix was resolved by multivariate curve resolution-alternating least squares (MCR-ALS) approach. The equilibrium concentration profiles and the pure spectra for SB, DNA and DNA-SB complex from the high overlapping composite response were simultaneously obtained. The results indicated that SB could bind to DNA, and hydrophobic interactions and hydrogen bonds played a vital role in the binding process. Moreover, SB was able to quench the fluorescence of DNA-AO complex through a static procedure. The quenching observed was indicative of an intercalative mode of interaction between SB and DNA, which was supported by melting studies, viscosity measurements and CD analysis."
+        },
+        {
+            "References": "PMID:21890401",
+            "Value": "/OTHER TOXICITY INFORMATION/ The toxicity of sodium benzoate to trypsin was investigated by fluorescence spectroscopy, synchronous fluorescence spectroscopy, UV-visible absorption spectroscopy and circular dichroism (CD) spectroscopy under mimic physiological conditions. Sodium benzoate could unfold trypsin by decreasing the beta-sheet structure, which leads to more exposure of internal amino acid groups and the obvious intrinsic fluorescence quenching with the rising concentration of sodium benzoate. The results of spectroscopic measurements indicated that sodium benzoate changed the internal microenvironment of trypsin and induced the alteration of the whole molecule, which were performed toxic effects on the organism. Trypsin and sodium benzoate interacted with each other to produce a substance by van der Waals forces and hydrogen bond, the model of which was shown by AutoDock software."
+        },
+        {
+            "References": "Cosmetic Ingredient Review; International Journal of Toxicology 20 (Suppl. 3): 23-50 (2001). Available from, as of April 27, 2016: https://www.beauty-review.nl/wp-content/uploads/2014/06/Final-report-on-the-safety-assessment-of-Benzyl-Alcohol-Benzoic-Acid-and-Sodium-Benzoate.pdf",
+            "Value": "/OTHER TOXICITY INFORMATION/ Benzoic acid and sodium benzoate are recognized as hydroxyl radical scavengers and researchers have reported that benzoates inhibited mechanisms that generated free radicals. In in vitro studies, benzoates reduced the cytotoxicity of drugs/chemicals such as hydroxyurea in L5178Y cells, 6-hydroxydopamine in mouse pancreatic islets, doxorubicin in a Dox-sensitive human ovarian cancer cell line, and inhibited argemone oil-induced enzymatic and nonenzymatic hepatic lipid peroxidation in rat cells. In other in vitro studies, benzoates inhibited some chemical-induced DNA lesions. In in vivo studies using rats, sodium benzoate had a protective effect against gentamicin-induced renal failure, and demonstrated a dose-dependent reduction in ethanol-induced gastric lesions. /One study/ reported that the scavenging activity of sodium benzoate did not significantly inhibit tumor progression when tested in a murine skin multistage carcinogenesis model."
+        },
+        {
+            "References": "Cosmetic Ingredient Review; International Journal of Toxicology 20 (Suppl. 3): 23-50 (2001). Available from, as of April 27, 2016: https://www.beauty-review.nl/wp-content/uploads/2014/06/Final-report-on-the-safety-assessment-of-Benzyl-Alcohol-Benzoic-Acid-and-Sodium-Benzoate.pdf",
+            "Value": "/OTHER TOXICITY INFORMATION/ Sodium benzoate inhibited activity of D-amino acid oxidase."
+        },
+        {
+            "References": "PMID:23958579",
+            "Value": "/OTHER TOXICITY INFORMATION/ We studied the hypothesis that spinal d-amino acid oxidase (DAAO) that is expressed in astrocytes and that has been reported to promote tonic pain in various pathophysiological conditions plays a role in 'physiological' pain hypersensitivity induced by rapid eye movement sleep deprivation (REMSD). The experiments were performed in healthy rats with a chronic intrathecal (i.t.) catheter. Pain behavior was assessed by determining limb withdrawal response to repetitive stimulation of the hind paw with a calibrated series of monofilaments. REMSD of 48 hr duration produced a significant mechanical hypersensitivity. At 48 hr of REMSD, the animals were treated i.t. with a DAAO inhibitor or vehicle. Three structurally different DAAO inhibitors were tested in this study: 6-chlorobenzo[d]isoxazol-3-ol (CBIO), sodium benzoate, and 5-methylpyrazole-3-carboxylic acid (AS-057278). CBIO (1-3 ug), sodium benzoate (30-100 ug) and AS-057278 (3-10 ug) produced dose-related antihypersensitivity effects in sleep-deprived animals. In control animals (with no sleep deprivation), the currently used doses of DAAO inhibitors failed to produce significant changes in mechanically evoked pain behavior. The results indicate that among spinal pain facilitatory mechanisms that contribute to the sleep deprivation-induced mechanical pain hypersensitivity is DAAO, presumably due to production of reactive oxygen species, such as hydrogen peroxide, an endogenous agonist of the pronociceptive TRPA1 ion channel."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of June 6, 2016: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of sodium benzoate can be estimated to be 17(SRC). According to a classification scheme(2), this estimated Koc value suggests that sodium benzoate is expected to have very high mobility in soil."
+        }
+    ]
+}

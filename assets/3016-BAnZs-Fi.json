@@ -1,0 +1,85 @@
+{
+    "_id": {
+        "$oid": "6682e7f7c4e5dba5ffba233d"
+    },
+    "CID": {
+        "$numberInt": "3016"
+    },
+    "Name": "DIAZEPAM",
+    "IUPACName": "7-chloro-1-methyl-5-phenyl-3H-1,4-benzodiazepin-2-one",
+    "CanonicalSMILES": "CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3",
+    "Synonyms": [
+        "diazepam",
+        "Valium",
+        "439-14-5",
+        "Ansiolisina",
+        "Diazemuls",
+        "Alboral",
+        "Apaurin",
+        "Faustan",
+        "Relanium",
+        "Seduxen",
+        "Sibazon",
+        "Stesolid",
+        "Methyldiazepinone",
+        "Ansiolin",
+        "Apozepam"
+    ],
+    "IsomericSMILES": "CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3",
+    "INCHI": "InChI=1S/C16H13ClN2O/c1-19-14-8-7-12(17)9-13(14)16(18-10-15(19)20)11-5-3-2-4-6-11/h2-9H,10H2,1H3",
+    "INCHIKEY": "AAOVKJBEBIDNHE-UHFFFAOYSA-N",
+    "Formula": "C16H13ClN2O",
+    "MolecularWeight": {
+        "$numberDouble": "284.74"
+    },
+    "Description": "Diazepam is a 1,4-benzodiazepinone that is 1,3-dihydro-2H-1,4-benzodiazepin-2-one substituted by a chloro group at position 7, a methyl group at position 1 and a phenyl group at position 5. It has a role as a xenobiotic, an environmental contaminant, an anxiolytic drug, an anticonvulsant and a sedative. It is a 1,4-benzodiazepinone and an organochlorine compound.",
+    "XlogP": {
+        "$numberDouble": "3"
+    },
+    "Complexity": {
+        "$numberInt": "403"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Sangster J; LOGKOW Database. A databank of evaluated octanol-water partition coefficients (Log P).",
+            "Value": "log Kow = 2.82"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "US Natl Inst Health; DailyMed. Current Medication Information for VALIUM (diazepam) tablet (January 2008). Available from, as of November 17, 2010: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=18533",
+            "Value": "Diazepam is a benzodiazepine that exerts anxiolytic, sedative, muscle-relaxant, anticonvulsant and amnestic effects. Most of these effects are thought to result from a facilitation of the action of gamma aminobutyric acid (GABA), an inhibitory neurotransmitter in the central nervous system."
+        },
+        {
+            "References": "PMID:20889946",
+            "Value": "Benzodiazepines are widely used in clinical anesthesia as premedication, but also to induce general anesthesia. Recent in vitro studies suggest that gamma-aminobutyric acid type A receptors, harboring a classical high-affinity benzodiazepine binding site, possess another \"nonclassical\" binding site for benzodiazepines. At present, it is unclear if, and to what extent, this novel nonclassical binding site is of relevance for the actions of benzodiazepines in the central nervous system. Because neocortex is involved in mediating the sedative and hypnotic properties of general anesthetics, ... the actions of diazepam /were quantified/ over a wide range of concentrations (from 10 nM up to 100 uM) in organotypic slice cultures using extracellular multiunit recordings of spontaneous action potential activity. Up to a concentration of 6.25 uM, diazepam reduced the activity of neocortical neurons, approaching a maximum of approximately 20%. This action was nullified by the benzodiazepine antagonist flumazenil. At concentrations >12.5 uM, diazepam evoked a second concentration-dependent dampening of network activity. Unlike the low concentration effect, this high concentration component was resistant to flumazenil. Diazepam induced a biphasic attenuation of spontaneous action potential firing of neocortical neurons. Low to moderate concentrations caused a monotonic, mild depression that is mediated via the classical binding site as it is antagonized by flumazenil. However, the effects of diazepam observed at high concentrations were not affected by flumazenil. Hence, these findings support the concept of at least 2 different binding sites for benzodiazepines on gamma-aminobutyric acid type A receptors. Furthermore, /these/ results are consistent with the hypothesis that the classical high-affinity binding site mediates low-dose diazepam actions, such as amnesia, anxiolysis, and sedation, while a second, nonclassical and independent site contributes to the anesthetic effects of diazepam, such as hypnosis and immobility."
+        },
+        {
+            "References": "PMID:20303942",
+            "Value": "Benzodiazepine site agonists or inverse agonists enhance or reduce gamma-aminobutyric acid(A) (GABA(A)) receptor-mediated inhibition of neurons, respectively. Recently, it was demonstrated that the point mutation gamma 2F77I causes a drastic change in the affinity of a variety of benzodiazepine agonists or inverse agonists in receptor binding studies. Here we investigated the potency and efficacy of 10 benzodiazepine site ligands from 6 structural classes in wild-type and gamma 2F77I point mutated recombinant GABA(A) receptors composed of alpha 1 beta 3 gamma 2, alpha 2 beta 3 gamma 2, alpha 3 beta 3 gamma 2, alpha 4 beta 3 gamma 2, alpha 5 beta 3 gamma 2, and alpha 6 beta 3 gamma 2 subunits. Results indicate that the effects of the benzodiazepine site ligands zolpidem, zopiclone, Cl218872, L-655,708 and DMCM were nearly completely eliminated in all mutated receptors up to a 1 microM concentration. The effects of bretazenil, Ro15-1788 or abecarnil were eliminated in some, but not all mutated receptors, suggesting that the gamma 2F77I mutation differentially influences the actions of these ligands in different receptor subtypes. In addition, this point mutation also influences the efficacy of diazepam for enhancing GABA-induced chloride flux, suggesting that the amino acid residue gamma 2F77 might also be involved in the transduction of the effect of benzodiazepines from binding to gating."
+        },
+        {
+            "References": "US Natl Inst Health; DailyMed. Current Medication Information for diastat (diazepam) gel (October 2007). Available from, as of November 17, 2010: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=5533",
+            "Value": "Although the precise mechanism by which diazepam exerts its antiseizure effects is unknown, animal and in vitro studies suggest that diazepam acts to suppress seizures through an interaction with gamma-aminobutyric acid (GABA) receptors of the A-type (GABAA). GABA, the major inhibitory neurotransmitter in the central nervous system, acts at this receptor to open the membrane channel allowing chloride ions to flow into neurons. Entry of chloride ions causes an inhibitory potential that reduces the ability of neurons to depolarize to the threshold potential necessary to produce action potentials. Excessive depolarization of neurons is implicated in the generation and spread of seizures. It is believed that diazepam enhances the actions of GABA by causing GABA to bind more tightly to the GABAA receptor"
+        },
+        {
+            "References": "PMID:6125244",
+            "Value": "The anticonflict action of benzodiazepines injected into the mammillary body (mb) was examined using the rat conflict-punishment procedure. Diazepam 20 ug/uL bilaterally injected into the mammillary body, increased the punished responses without changes in the unpunished responses. Thus, the mammillary body could be a potential site of antianxiety action of benzodiazepines."
+        },
+        {
+            "References": "PMID:20083184",
+            "Value": "/The purpose of this study was/ to determine the effect of jujuboside A (JuA) in modulating the gamma-aminobutyric acid (GABA(A)) receptor subunits gene expression of hippocampal neurons at different terms in vitro.  Hippocampal neurons of rat were cultured in vitro, treated with JuA or diazepam (DZP). Then GABA(A) receptor mRNAs were evaluated by semi-quantitative RT-PCR.  JuA at the low dose of 41 microM (about 0.05 g/L) induced significant increase of GABA(A) receptor alpha1, alpha5, beta2 subunit mRNAs in both 24 and 72hr treatments. JuA at the high dose of 82 microM (about 0.1g/L) significantly increased GABA(A) receptor alpha1, alpha5 subunit mRNA levels and decreased beta2 subunit mRNA level at 24hr treatment, and decreased GABA(A) receptor subunit alpha1, beta2 mRNAs expression at 72hr treatment. DZP of 10 uM significantly increased expression of GABA(A) receptor subunit alpha1, alpha5 and decreased expression of beta2 at 24hr treatment, and decreased alpha1, alpha5, beta2 subunits gene expression at 72hr treatment. Differences in alterations in GABA(A) receptor subunit mRNAs expression following JuA and DZP treatments could help to explain the differences in the pharmacological action of the two drugs."
+        },
+        {
+            "References": "Kirk-Othmer Encyclopedia of Chemical Technology. 3rd ed., Volumes 1-26. New York, NY: John Wiley and Sons, 1978-1984., p. 13(81) 128",
+            "Value": "In animals, diazepam appears to act on parts of the limbic system, the thalamus, and the hypothalamus."
+        },
+        {
+            "References": "PMID:19114084",
+            "Value": "Prenatal exposure to diazepam, a prototype sedative drug that belongs to Benzodiazepines, can lead to orofacial clefting in human newborns. By using real-time PCR, in the present study /the authors/ investigated whether diazepam elicits gene expression alterations in extracellular matrix (ECM) components, growth factors and gamma-aminobutyric acid receptor (GABRB3), implicated in the coordinate regulation of palate development. Palate fibroblasts were treated with diazepam (Dz-N fibroblasts) and compared to cleft lip-palate (CLP) fibroblasts obtained from patients with no known exposure to diazepam or other teratogens. Untreated fibroblasts from non-CLP patients were used as control. The results showed significant convergences in gene expression pattern of collagens, fibromodulin, vitronectin, tenascin C, integrins and metalloprotease MMP13 between Dz-N and CLP fibroblasts. Among the growth factors, constitutive Fibroblast Growth Factor 2 (FGF2) was greatly enhanced in Dz-N and CLP fibroblasts and associated with a higher reduction of FGF receptor. Transforming Growth Factor beta 3 (TGFbeta(3)) resulted up-regulated in CLP fibroblasts and decreased in Dz-N fibroblasts. We found phenotypic differences exhibited by Dz-N and CLP fibroblasts in GABRB3 gene regulation, so further studies are necessary to determine whether GABAergic system could be involved in the development of diazepam mediated CLP phenotype. Taken together the results elucidate the molecular mechanisms underlying possible toxicology effects induced by diazepam. ..."
+        }
+    ]
+}

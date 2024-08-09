@@ -1,0 +1,317 @@
+{
+    "_id": {
+        "$oid": "6682e8bec4e5dba5ffba271d"
+    },
+    "CID": {
+        "$numberInt": "8461"
+    },
+    "Name": "2,4-DINITROTOLUENE",
+    "IUPACName": "1-methyl-2,4-dinitrobenzene",
+    "CanonicalSMILES": "CC1=C(C=C(C=C1)[N+](=O)[O-])[N+](=O)[O-]",
+    "Synonyms": [
+        "2,4-DINITROTOLUENE",
+        "121-14-2",
+        "1-Methyl-2,4-dinitrobenzene",
+        "2,4-Dinitrotoluol",
+        "Benzene",
+        "1-methyl-2,4-dinitro-",
+        "2,4-DNT",
+        "2,4-Dinitromethylbenzene",
+        "Toluene",
+        "2,4-dinitro-",
+        "2,4-Dinitro-1-methylbenzene",
+        "RCRA waste number U105",
+        "4-Methyl-1,3-dinitrobenzene",
+        "NCI-C01865",
+        "NSC 7194",
+        "2,4-Dinitrotoluene",
+        "practical grade",
+        "Benzene",
+        "1-methyl-2,4-dinitro-",
+        "sulfurized"
+    ],
+    "IsomericSMILES": "CC1=C(C=C(C=C1)[N+](=O)[O-])[N+](=O)[O-]",
+    "INCHI": "InChI=1S/C7H6N2O4/c1-5-2-3-6(8(10)11)4-7(5)9(12)13/h2-4H,1H3",
+    "INCHIKEY": "RMBFBMJGBANMMK-UHFFFAOYSA-N",
+    "Formula": "C7H6N2O4",
+    "MolecularWeight": {
+        "$numberDouble": "182.13"
+    },
+    "Description": "2,4-dinitrotoluene is a dinitrotoluene in which the methyl group is ortho to one of the nitro groups and para to the other. It is the most common isomer of dinitrotoluene.",
+    "XlogP": {
+        "$numberDouble": "2"
+    },
+    "Complexity": {
+        "$numberInt": "220"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "animal_concentrations": [
+        {
+            "References": "(1) Lebedev AT et al; Sci Total Environ 212: 153-162 (1998)",
+            "Value": "2,4-Dinitrotoluene concentrations of <5 to 502.7 ug/kg dry wt were detected in the birds eggs collected from the Lake Baikal region (Selenga River estuary, Russia)(1).",
+            "Table": "[{'Genus species': 'Anas platyrhynchos', 'Common name': 'mallard', 'Unnamed: 2': '90.9'}, {'Genus species': 'Anas acuta', 'Common name': 'pintail', 'Unnamed: 2': '22.3'}, {'Genus species': 'Anas clypeata', 'Common name': 'shoveler', 'Unnamed: 2': '57.6'}, {'Genus species': 'Aythya fuligula', 'Common name': 'tufted duck', 'Unnamed: 2': '502.7'}, {'Genus species': 'Aythya ferina', 'Common name': 'pochard', 'Unnamed: 2': '69.3'}, {'Genus species': 'Anser anser', 'Common name': 'goose', 'Unnamed: 2': '277'}, {'Genus species': 'Gallus gallus (1)', 'Common name': 'domestic fowl', 'Unnamed: 2': '43.2'}, {'Genus species': 'Gallus gallus (2)', 'Common name': 'domestic fowl', 'Unnamed: 2': '40.5'}, {'Genus species': 'Ardea cinerea', 'Common name': 'heron', 'Unnamed: 2': '54.2'}, {'Genus species': 'Larus argentatus', 'Common name': 'herring gull', 'Unnamed: 2': '6.5'}, {'Genus species': 'Larus canus', 'Common name': 'common gull', 'Unnamed: 2': '<5'}, {'Genus species': 'Sterna hirundo', 'Common name': 'common tern', 'Unnamed: 2': '16.2'}, {'Genus species': 'Larus ridibundus', 'Common name': 'black-headed gull', 'Unnamed: 2': '33.7'}, {'Genus species': 'Vanellus vanellus', 'Common name': 'lapwing', 'Unnamed: 2': '65.0'}, {'Genus species': 'Podiceps auritus', 'Common name': 'Slavonian grebe', 'Unnamed: 2': '17.1'}, {'Genus species': 'Tringa stagnatilis', 'Common name': 'marsh sandpiper', 'Unnamed: 2': '68.2'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "USEPA; Ambient Water Quality Criteria Doc: Dinitrotoluene p.C-6 (1980) EPA 440/5-80-045",
+            "Value": "Bioconcentration factor (weighted average) = 3.8 (calculated) for aquatic organisms that contain about 7.6% lipids."
+        },
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 28 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2011. Available from, as of Feb 1, 2012: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Chemicals Inspection and Testing Institute; Biodegradation and bioaccumulation data of existing chemicals based on the CSCL Japan. Japan Chemical Industry Ecology - Toxicology and Information Center. Available from, as of Feb 1, 2012: https://www.safe.nite.go.jp/english/kizon/KIZON_start_hazkizon.html (4) Franke C et al; Chemosphere 29: 1501-14 (1994) (5) Deneer JW et al; Aquatic Tox 10: 115-29 (1987)",
+            "Value": "An estimated BCF of 9 was calculated for 2,4-dinitrotoluene(SRC), using a log Kow of 1.98(1) and a regression-derived equation(2). The BCF for dinitrotoluene (mixed isomers) has been measured to be low (BCF values of 0.6 to 21.2) in carp (Carprinus carpio)(3). According to a classification scheme(4), these BCF values suggest the potential for bioconcentration in aquatic organisms is low. An experimental BCF of 204 (fat basis) was determined for 2,4-dinitrotoluene in the guppy (Poecilia reticulata)(5)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Bradley PM et al; Ground Water 35: 12-17 (1997) (2) Christopher HJ et al; Water Res 34: 1595-1603 (2000) (3) Chemicals Inspection and Testing Institute; Biodegradation and bioaccumulation data of existing chemicals based on the CSCL Japan. Japan Chemical Industry Ecology - Toxicology and Information Center. Available from, as of Feb 1, 2012: https://www.safe.nite.go.jp/english/kizon/KIZON_start_hazkizon.html (4) Fortner JD et al; Environ Sci Technol 37: 3382-3391 (2003)",
+            "Value": "AEROBIC: 2,4-Dinitrotoluene was reduced by 80%, of which 22% was transformed to 4-amino-2-nitrotoluene and 6% to 2-amino-4-nitrotoluene, by a mixture of microorganisms indigenous to an aquifer which underlies an explosives contaminated site(1); in the same study, approximately 28% of the 2,4-dinitrotoluene was mineralized to carbon dioxide within 28 days, while approximately 20% was not degraded within 28 days(1). In a wastewater treatment plant handling munitions wastewater, aerobic biodegradation of 2,4-dinitrotoluene was accelerated by addition of ethanol and phosphate(2); 4-amino-2-nitrotoluene and 2-amino-4-nitrotoluene were consistently observed as the main biodegradation reduction products(2). 2,4-Dinitrotoluene, present at 100 mg/L, reached 0% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test that suggests the compound is not readily biodegradable(3). In soil column studies using a munitions plant soil previously exposed to 2,4-nitrotoluene, 2,4-nitrotoluene biodegradation of 2,4-dinitrotoluene was rapid in the presence of natural mineral water, but slower in the presence of deionized water(4)."
+        },
+        {
+            "References": "(1) Liu D et al; Appl Environ Microbiol 47: 1295-8 (1984) (2) Spanggord RJ et al; Environmental fate studies on certain munition wastewater constituents. Menlo Park, CA: SRI Int DAMD17-78-C-8081. NTIS AD-A133 987 (1981) (3) Davis EM et al; p 176-84 in 5th Meet Symp Pap Int Biodeterior (1983) (4) Tabak HH et al; J Water Pollut Cont Fed 53: 1503-18 (1981)",
+            "Value": "AEROBIC: 2,4-Dinitrotoluene, as the sole carbon and energy source, did not degrade in an aerobic batch culture after 14 days of incubation(1). 2,4-Dinitrotoluene concentration was from 5-25 mg/L and the inoculum was municipal activated sludge(1). On the other hand, natural surface water microorganisms could use 10 ppm 2,4-dinitrotoluene as a sole carbon source(2). After a 2-3 day lag period, > 90% of 10 ppm 2,4-dinitrotoluene was transformed in aerated water after 6 days of incubation. This same culture was acclimated to grow on 120 ppm 2,4-dinitrotoluene(2). 2,4-Dinitrotoluene degraded rapidly in 2 days in a batch culture containing glucose and inoculated with an industrial seed(3). The industrial seed contained four bacterial genera (Actinobacter, Alcaligenes, Flavobacterium and Pseudomonas) and one yeast (Rhodotorula). Municipal seed (conventional activated sludge organisms), however, were inhibited by 2,4-dinitrotoluene concentrations as low as 10 mg/L(3). 2,4-Dinitrotoluene biodegradability was studied in a static screening test in which each flask contained 2,4-dinitrotoluene at either 5 or 10 mg/L, 5 mg/L yeast extract and settled domestic sewage as the inoculum. Percent biodegradation after 7 days in the original culture and the first, second and third subculture were 77, 61, 50 and 27%, respectively, at 5 mg/L initial concentration; 50, 49, 44 and 23% biodegradation, respectively, was observed at 10 mg/L initial concentration(4). The percent of 2,4-dinitrotoluene biodegraded decreased with each subculture."
+        },
+        {
+            "References": "USEPA; Chemical Hazard Information Profile: 2,4-Dinitrotoluene p.120 (1978) EPA-560/11-80-011",
+            "Value": "... Soviet scientists estimated that 95 to 97% of 2,4-DNT was removed after the second stage of activated sludge digestion."
+        },
+        {
+            "References": "(1) Boopathy R; Arch Microbiol 162: 167-72 (1994) (2) Razo-Flores et al; FEMS Microbiol Rev 20:525-38 (1997) (3) Liu D et al; Environ Toxicol 15: 475-483 (2000) (4) Toze S, Zappia L; Water Res 33: 3040-3045 (1999)",
+            "Value": "ANAEROBIC: Three of six methanogenic bacteria studied were capable of degrading 50-98% of 2,4-dinitrotoluene in aqueous solution in 30 days; degradation was not observed for the other three organisms(1). Greater than 99.9% of 2,4-dinitrotoluene, present at 2.1 mmoles, was removed in 162-202 days in an upflow anaerobic sludge bed reactor, using granular sludge and glucose or a volatile fatty acid mixture as cosubstrate(2). In an anaerobic cyclone fermentor study, 2,4-dinitrotoluene (at 10 mg/L initial concentration) had half-lives of 78.3 and 1.7 days under metabolism and co-metabolism conditions respectively(3). In anaerobic tests using wastewater from a munitions production facility, initial 2,4-dinitrotoluene degraded by 40% in non-sterile conditions and by 28% in sterile conditions over a 36-day incubation period(4)."
+        },
+        {
+            "References": "PMID:566083",
+            "Value": "PURE CULTURE: Products of microbial transformation by Microsporium species were 2-amino-4-nitrotoluene; 4-amino-2-nitrotoluene; 2,2'-dinitro-4,4'-azoxytoluene; 4,4'-dinitro-2,2'-azoxytoluene AND 4-acetamido-2-nitrotoluene. Another 2,4'-azoxy or 4,2'-azoxy compound were not identified(1). Of 190 fungi representing 98 genera screened, only 5 organisms were able to transform 2,4-dinitrotoluene at an initial concentration of 100 mg/L(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 28",
+            "Value": "log Kow = 1.98"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "PMID:3945944",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ 2,6-Dinitrotoluene (2,6-DNT) is potent hepatocarcinogen in Fischer-344 rats, whereas 2,4-dinitrotoluene is believed to be noncarcinogenic. Neither 2,6-DNT nor 2,4-dinitrotoluene is carcinogenic in the strain A mouse lung bioassay. The ip administration of 2,6-DNT or 2,4-dinitrotoluene (150 mg/kg each) to Fischer-344 rats resulted, after 24 hr, in covalent binding to DNA of the liver (131.1 to 259.9 pmol 2,6-DNT/mg DNA; 215.4 to 226.8 pmol 2,4-dinitrotoluene/mg DNA), and lower binding to DNA of the lung and the intestine (14.9 to 22.7 pmol 2,6-DNT/mg DNA; 45.0 to 75.0 pmol 2,6-DNT/mg DNA). Similar treatment of A/J mice resulted in lower binding in the liver (25.9 to 31.9 pmol 2,6-DNT/mg DNA; 42.6 to 58.9 pmol 2,4-dinitrotoluene/mg DNA), no detectable binding of 2,6-DNT in extrahepatic tissues and low amounts of binding of 2,4-dinitrotoluene to lung and intestinal DNA (9.7 to 39.0 pmol/mg DNA). Covalent binding of the noncarcinogenic isomeric 2,4-dinitrotoluene to DNA of various tissues of both species suggests that factors other than binding to DNA determine the ultimate carcinogenic effect of these cmpd."
+        },
+        {
+            "References": "PMID:21346803",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Sprague-Dawley female rats were exposed via gavage to one of five concentrations of one of five nitrotoluenes (2,4,6-trinitrotoluene (TNT), 2-amino-4,6-dinitrotoluene (2ADNT) 4-amino-2,6-dinitrotoulene (4ADNT), 2,4-dinitrotoluene (2,4DNT) and 2,6-dinitrotoluene (2,6DNT)) with necropsy and tissue collection at 24 or 48 hr. Gene expression profile results correlated well with clinical data and liver histopathology that lead to the concept that hematotoxicity was followed by hepatotoxicity. Overall, 2,4DNT, 2,6DNT and TNT had stronger effects than 2ADNT and 4ADNT. Common functional terms, gene expression patterns, pathways and networks were regulated across all nitrotoluenes. These pathways included NRF2-mediated oxidative stress response, aryl hydrocarbon receptor signaling, LPS/IL-1 mediated inhibition of RXR function, xenobiotic metabolism signaling and metabolism of xenobiotics by cytochrome P450. One biological process common to all compounds, lipid metabolism, was found to be impacted both at the transcriptional and lipid production level."
+        },
+        {
+            "References": "ELLIS HV II ET AL; ISS ORDER NO AD-A077692, 281 PAGES (1978)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ IN DOGS, ORAL ADMIN OF 0.2 MG/KG/DAY BY CAPSULE HAD NO APPARENT EFFECTS, 1.5 MG/KG/DAY WAS TOXIC TO SOME, & 10 MG/KG/DAY WAS TOXIC TO ALL & LETHAL TO SOME."
+        },
+        {
+            "References": "Kuhls F; Inaug Dissert (1908) as cited in USEPA; Ambient Water Quality Criteria Doc: Dinitrotoluene p.C-19 (1980) EPA 440/5-80-045",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Sc injection in cats with 0.05 to 0.5 g of 2,4-DNT dissolved in mineral oil resulted in death within 2 to 23 days."
+        },
+        {
+            "References": "PMID:6135515",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ A single administration of either technical grade dinitrotoluene or 2,6-dinitrotoluene (75 mg/kg, orally), in combination with partial hepatectomy, initiated hepatocytes in rats when assayed using hepatic initiation-promotion protocols. Five other dinitrotoluene isomers (2,3-; 2,4-; 2,5-; 3,4-; and 3,5-DNT) evaluated similarly exhibited no such potential."
+        },
+        {
+            "References": "PMID:3945944",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ 2,6-DNT is a potenthepatocarcinogen in Fischer 344 rats, whereas 2,4-dinitrotoluene is believed to be noncarcinogenic. Neither 2,6-DNT nor 2,4-dinitrotoluene is carcinogenic in the strain A mouse lung bioassay. The ip administration of 2,6-DNT or 2,4-dinitrotoluene (150 mg/kg each) to Fischer 344 rats resulted, after 24 hr, in covalent binding to DNA of the liver (131.1 to 259.9 pmol 2,6-DNT/mg DNA; 215.4 to 226.8 pmol 2,4-dinitrotoluene/mg DNA), and lower binding to DNA of the lung and the intestine (14.9 to 22.7 pmol 2,6-DNT/mg DNA; 45.0 to 75.0 pmol 2,6-DNT/mg DNA). Similar treatment of A/J mice resulted in lower binding in the liver (25.9 to 31.9 pmol 2,6-DNT/mg DNA; 42.6 to 58.9 pmol 2,4-dinitrotoluene/mg DNA), no detectable binding of 2,6-DNT in extrahepatic tissues and low amounts of binding of 2,4-dinitrotoluene to lung and intestinal DNA (9.7 to 39.0 pmol/mg DNA). Covalent binding of the noncarcinogenic isomeric 2,4-dinitrotoluene to DNA of various tissues of both species suggests that factors other than binding to DNA determine the ultimate carcinogenic effect of these cmpd."
+        },
+        {
+            "References": "PMID:537127",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ 2,4-DNT AT 0.5% IN DIET FED AD LIBITUM TO MALE RATS FOR 6 MO CAUSED SIGNIFICANT CHANGES IN BODY WT, ORGAN WT, BEHAVIOR, MORTALITY & BIOCHEM ANAL OF BLOOD & SERUM. DIETARY ADMINISTRATION OF 2,4-DNT /DECREASED/ BODY WEIGHT. MORTALITY WAS ABOUT 71% FOR THE SIX MONTHS. AS THE CONSPICUOUS POISONING SYMPTOMS, HUMPBACK, JERKY INCOORDINATION, PILOERECTION AND WHITENED SKIN COLOR WERE OBSERVED. ON THE MACROSCOPICAL FINDINGS, FORMATION OF PURULOID MATTER WAS SEEN IN THE LIVER. HYPERTROPHY WAS SEEN IN LIVER AND ATROPHY WAS SEEN IN TESTIS. AMOUNT OF METHEMOGLOBIN WAS INCREASED AT SEVEN-FOLD OF CONTROL LEVEL. ACTIVITIES OF SERUM ENZYMES EXCEPT GLUTAMIC PYRUVATE TRANSAMINASE WERE INCREASED SIGNIFICANTLY AND CONTENT OF ALBUMIN AND RATIO OF A/G WERE DECREASED SIGNIFICANTLY."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V65 320 (1996)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In a screening assay based on increased multiplicity and incidence of lung tumors in a strain of mice highly susceptible to the development of this neoplasm, groups of 26 male and 26 female strain A mice, six to eight weeks old, were given 2,4-dinitrotoluene (at a purity of 92-95%, with the major impurity being 2,6-dinitrotoluene) in tricaprylin by gavage twice a week for 12 weeks (total doses, 0, 1200, 3000 and 6000 maximal) tolerated dose, MTD) mg/kg body weight). Surviving mice were killed 18 weeks after the last treatment and examined for the gross appearance of lung tumors. Survival was 45/50 in controls, 47/52 at the low dose, 48/52 at the mid dose and 44/52 at the high dose. There was no increase in lung tumor incidence or in the number of lung tumors per mouse when compared to controls. The incidence of lung tumors in survivors was 27% in controls, 28% at the low dose, 31% at the mid dose and 23% at the high dose."
+        },
+        {
+            "References": "ELLIS HV II ET AL; ISS ORDER NO AD-A077692, 281 PAGES (1978)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ IN MICE, 13.5 MG/KG/DAY IN FEED WAS TOXIC TO SOME, 95 MG/KG/DAY TOXIC TO ALL, AND 900 MG/KG/DAY HALVED LIFESPAN. TARGET ORGANS INCL BLOOD, CNS, LIVER, KIDNEY & GONADS. PIGMENT DEPOSITS WERE FOUND IN LIVERS, KIDNEYS, AND OTHER ORGANS, ESP IN MICE."
+        },
+        {
+            "References": "ELLIS HV II ET AL; ISS ORDER NO AD-A077692, 281 PAGES (1978)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ IN RATS, 0.57 OR 0.71 MG/KG/DAY 2,4-DINITROTOLUENE IN FEED HAD NO APPARENT EFFECT, 3.9 OR 5.1 MG/KG/DAY WAS TOXIC TO SOME, & 34 OR 45 MG/KG/DAY WAS TOXIC TO ALL & DECR LIFESPAN. TARGET ORGANS INCL BLOOD, CNS, LIVER, KIDNEY & GONADS. INCR INCIDENCE OF BACKGROUND SC & MAMMARY TUMORS WERE OBSERVED."
+        },
+        {
+            "References": "Hong CB et al; J Am Coll Toxicol 4 (4): 257-70 (1985)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Subchronic and chronic toxicities of 2,4-DNT were evaluated in CD-1 mice. 2,4-DNT was more toxic to males than to females. Male mice fed 47 mg/kg per day or 137 mg/kg per day for 13 weeks gained less weight. However, females fed 52 or 147 mg/kg per day had no adverse effects. Feeding of 413 mg/kg per day for males or 468 mg/kg per day forfemales lowered feed consumption, depressed body weight, and caused mild anemia and mild hepatocellular dysplasia in both sexes and mild testicular degeneration in males. ..."
+        },
+        {
+            "References": "Lee CC et al; J Am Coll Toxicol 4 (4): 243-56 (1985)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Subchronic and chronic toxicities of 2,4-dinitrotoluene were studied in CD-1 rats. Feeding of 2,4-dinitrotoluene for 13 weeks at a low dose of 34 mg/kg/day in males and 38 mg/kg/day in females caused depressed weight gain. The middle dose of 93 and 108 mg/kg/day, respectively, was toxic, caused reticulocytosis and splenic hemosiderosis, and decreased spermatogenesis. The high dose of 266 and 145 mg/kg/day, respectively, was more toxic and lethal. Some rats had widespread and stiff-legged gaits and demyelination in the cerebellum and brain stem. ..."
+        },
+        {
+            "References": "PMID:2876784",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ The hepatocyte foci promoting activity of 2,4-DNT and 2,6-DNT after initiation with diethylnitrosamine was studied in rats. Male Fisher 344 rats were initiated with a single ip 0 or 150 mg/kg dose of diethylnitrosamine. After a 2 week recovery period, they were fed diets containing 0 or 0.47% 2,4-DNT, 0.06, 0.12, or 0.24% 2,6-DNT, 0.2 or 0.55% technical grade dinitrotoluene, or 0.5% phenobarbital. Animals fed technical grade dinitrotoluene were killed after 3 or 6 weeks, and those given 2,4-DNT, 2,6-DNT, and phenobarbital after 6 or 12 weeks of feeding. Liver sections were stained for gamma glutamyl transferase. Number of positive gamma glutamyl transferase foci per cubic centimeter and mean volume of the foci were determined. Technical grade dinitrotoulene caused a dose dependent increase in gamma glutamyl transferase foci. 2,4-DNT and phenobarbital induced time dependent increases in positive gamma glutamyl transferase foci. 2,6-DNT induced both dose and time dependent increases in gamma glutamyl transferase foci. Feeding of 2,6-DNT alone for 12 weeks produced a large number of foci similar to that seen in animals given diethylnitrosamine plus the high dose high dose of 2,6-DNT. Mean foci volume was increased in animals fed 0.24% 2,6-DNT, relative to the other groups. It was concluded that technical grade dinitrotoluene, 2,4-DNT, and 2,6-DNT have hepatocyte foci promoting activity, and 2,6-DNT is approximately ten times more potent than 2,4-DNT. Combined with results of previous studies, data indicate that 2,6-DNT is a complete hepatocarcinogen, while 2,4-DNT is a pure promoter. Hepatic initiation promotion protocols are useful tools for investigating, initiating, and promoting properties of both complex mixtures and individual compounds."
+        },
+        {
+            "References": "PMID:1716176",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Sprague Dawley rats were injected ip 5 days/wk for 8 wk with either 2,4-DNT or 2,6-DNT at 0.5, 5, or 10 mg/kg or with medium chain triglyceride oil. Dysplasia and rearrangement of smooth muscle cells occurred at all doses tested as revealed through histopathologic evaluation of aortae. Primary cultures of aortic smooth muscle cells from dinitrotoluene exposed animals demonstrated reduced thymidine incorporation. No change was noted in the extent of thymidine incorporation in cycling or growth arrested cultures following exposure of smooth muscle cells from naive animals to dinitrotoluene in vitro in a range of concn from 1 to 100 micromolar. Replicative DNA synthesis was inhibited and unscheduled DNA synthesis stimulated in cyclic and growth arrested cultures of smooth muscle cells exposed to 2,4-diaminotoluene or 2,6-diaminotoluene, respectively. It was concluded that the development of vascular lesions is aided by the modulation of DNA synthesis in aortic smooth muscle cells by dinitrotoluene metabolites generated in vivo."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V65 323 (1996)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In a screening assay based on increased multiplicity and incidence of lung tumors in a strain of mice highly susceptible to the development of this neoplasm, groups of 52 or 53 male and female strain A mice, six to eight weeks old, were given thrice weekly intraperitoneal injections of 2,4-dinitrotoluene (at a purity of 92-95%, with the major impurity being 2,6-dinitrotoluene) in tricaprylin for eight weeks (total doses, 0, 600, 1500 and 3000 (MTD) mg/kg body weight). Surviving mice were killed 22 weeks after the last injection and lung tumors appearing grossly were counted. Survival was 52/52 in controls, 52/53 at the low dose, 52/52 at the mid dose and 50/52 at the high dose. There was no increase in lung tumor incidence or in the number of lung tumors per mouse when compared to controls. The incidence of lung tumors in surviving mice was 29% in controls, 44% at the low dose, 19% at the mid dose and 26% at the high dose."
+        },
+        {
+            "References": "Ellis HV et al; J Am Coll Toxicol 4 (4): 233-42 (1985)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Chronic toxicity of 2,4-dinitrotoluene was studied in beagle dogs. The major adverse effect of 2,4-DNT in dogs was a neuropathy, characterized by incoordination and paralysis, and gliosis of the cerebellum of some affected dogs. These effects were seen in dogs given 10 mg/kg/day for two years, and in all dogs given 25 mg/kg/day within two months. There was great variation between individuals in onset and severity of the adverse effects. Some dogs progressed to a complete paralysis, leading to death. Methemoglobin and its sequlae were common, but not life threatening. Heinz bodies were a useful indicator of this effect."
+        },
+        {
+            "References": "NIOSH; Current Intelligence Bulletin: Dinitrotoluenes p.26 (1985) DHHS(NIOSH) Pub No. 85-109",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Rats which over a 1 yr period ingested diets containing a technical grade mixture of dinitrotoluene, primarily composed of 2,4-DNT and 2,6-DNT, or which were fed only 2,6-DNT developed liver cancer. The liver cancers consisted of hepatocellular carcinomas and in some cases cholangiocarcinomas. Feeding or oral administration of dinitrotoluene or 2,6-DNT for less than or equal to 2 yr induced decreased spermatogenesis, aspermatogenesis, or testicular atrophy in dogs, rats, or mice. Nonfunctioning ovaries were found in mice fed dinitrotoluene for 2 yr."
+        },
+        {
+            "References": "Hong CB et al; J Am Coll Toxicol 4 (4): 257-70 (1985)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Subchronic and chronic toxicities of 2,4-DNT were evaluated in CD-1 mice. 2,4-DNT was more toxic to males than to females. ... Both males and females were fed an average of 14 (low dose), 95 (middle dose), or 898 mg/kg/day (high dose) for up to 24 months. In males, there was high incidence of epithelial renal tumor and hepatocellular dysplasia in all dose groups. Incidence of testicular atrophy was increased in the middle and high-dose males. In addition, the high dose caused toxic anemia and death. In females, the high dose was associated with toxic anemia, hepatocellular dysplasia, nonfunctional follicle with a lack of corpora lutea, an effect analogous to the testicular atrophy in males, and death."
+        },
+        {
+            "References": "Lee CC et al; J Am Coll Toxicol 4 (4): 243-56 (1985)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Subchronic and chronic toxicities of 2,4-dinitrotoluene were studied in CD-1 rats. ... After feeding up to 2 years, the low dose (0.57 and 0.71 mg/kg/day, respectively) caused no apparent toxic effects. The middle dose (3.9 and 5.1 mg/kg/day, respectively) was toxic; the high dose (34 and 45 mg/kg/day) was more toxic and shortened the life span. Target organs included the blood (toxic anemia), the liver (hepatocellular carcinoma), the testis (atrophy and depression of spermatogenesis), the connective tissue in males (fibromas), and the mammary tissue in females (fibroadenomas)."
+        },
+        {
+            "References": "Popp JA, Leonard TB; Toxicol Pathol 10 (2): 190-6 (1982)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ A 2 year bioassay demonstrated the potent hepatocarcinogenicity of technical grade dinitrotoluene which contains 76% 2,4-dinitrotoluene, 18% 2,6-dinitrotoluene and less than 3% of each 2,3; 2,5; 3,4 and 3,5-dinitrotoluene isomers. In contrast, a 2 year bioassay of 2,4-dinitrotoluene did not result in the appearance of hepatic neoplasms above the spontaneous incidence. Weak hepatocyte initiating activity was identified in technical grade dinitrotoluene and purified 2,6-dinitrotoluene. In contrast, 2,3; 2,4; 2,5; 3,4 and 3,5 isomers had no detectable initiating activity. When fed following a diethylnitrosamine initiating regimen, technical grade dinitrotoluene, purified 2,4 and 2,6-dinitrotoluene isomers had demonstrable promoting activity. The hepatic neoplasms resulting from technical grade dinitrotoluene feeding apparently resulted from the initiating activity of 2,6-dinitrotoluene followed by the promoting effect of both the 2,4 and 2,6-dinitrotoluene isomers. The lack of hepatic neoplasms following chronic feeding of 2,4-dinitrotoluene was apparently due to the lack of hepatic initiating activity."
+        },
+        {
+            "References": "PMID:6695378",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ The ability of a series of compounds from different chemical classes to induce lung tumors was compared in strain A/J mice after either ip or oral administration. 2,4-Dinitrotoluene, 2,6-dinitrotoluene, and a 2:1 mixture of 2,4-dinitrotoluene and 2,6-dinitrotoluene were inactive by both routes of administration and at all dose levels."
+        },
+        {
+            "References": "Goldsworthy TL, Popp JA; CIIT Activities 6 (12): 1-2/5-6 (1986)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Multistage hepatocarcinogenic models were used to evaluate the relative initating and promoting properties of dinitrotoluene isomers. Male Fischer 344 rats were administered 75 mg/kg technical grade dinitrotoluene mixture containing 76.5% 2,4-dinitrotoluene (2,4-dinitrotolune), 18.8% 3,4-dinitrotoluene (1.54% 2,3-dinitrotoluene, 0.69% 2,5-dinitrotoluene, and 0.04% 3,5-dinitrotoluene, or one of the six isomers, as initating agents 12 hours after partial hepatectomy. Only technical grade dinitrotoluene mixture and 2,6-dinitrotoluene had significant initiating ability. The promoting abilities of 2,6-dinitrotoluene and 2,4-dinitrotoluene were tested by administration in the diet to animals in which the carcinogenic process had been initiated with diethylnitrosamine. Both 2,4-dinitrotoluene and 2,6-dinitrotoluene had promoting ability, but 2,6-dinitrotoluene was a more potent promoter. Male Fischer 344 rats were fed daily diets containing 35 mg/kg technical grade dinitrotoluene mixture, 27 mg/kg 2,4-dinitrotoluene or 7 mg/kg 2,6-dinitrotoluene for a period of 1 year. The 2,6-dinitrotoluene isomer induced hepatocellular carcinoma in twice as many animals as did technical grade dinitrotoluene mixture, and 2,4-dinitrotoluene was not hepatocarcinogenic at all. /It was/ concluded that 2,6-dinitrotoluene is a complete carcinogen, capable of both initiation and promotion, while 2,4-dinitrotoluene acts as a promoter of the carcinogenic process, but is not capable of initiating it, and the hepatocarcinogenicity of technical grade dinitrotoluene mixture is mainly due to 2,6-dinitrotoluene."
+        },
+        {
+            "References": "PMID:4076000",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Adult Sprague Dawley rats were gavaged with 2,4-DNT dissolved in corn oil at 0, 60, 180, or 240 mg/kg/day for five days. A single oral dose (0.5 mg/kg) of triethylenemelamine was used as a positive control. Induction of dominant lethal events was scored on the basis of early fetal deaths. At the two lower doses, no consistent changes were observed in the numbers of pre-implantation losses, implantation sites, or living or non-living fetuses. The highest dose of 2,4-DNT tested resulted in a marked decrease in the numbers of sperm-positive females (determined by microscopic examination of vaginal smears for sperm) and pregnant females. These two effects diminished in the latter weeks of mating. The low number of pregnant females at the highest dose made meaningful statistical evaluations difficult. The results indicate that 2,4-DNT does adversely affect reproductive performance."
+        },
+        {
+            "References": "PMID:3135640",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ The toxic reproductive effects of the chemosterilant 2,4-dinitrotoluene were evaluated in the rat. Male Sprague Dawley rats were fed 0, 0.1, or 0.2% 2,4-DNT for a period of 3 weeks. Blood samples were collected for assessment of luteinizing hormone, follicle stimulating hormone, and testosterone levels prior to sacrifice. Testes and epididymides were then removed for ultrastructural evaluation and sperm reserve counts. 2,4-DNT exposure at a concentration of 0.2% was associated with a marked change in Sertoli cell morphology. No Leydig cell changes were detected. Alterations induced by 2,4-DNT included varying sized vesicles associated with swollen mitochondria and distended endoplasmic reticulum, increased levels of circulating luteinizing hormone and follicle stimulating hormone, reduced weights of epididymides, and decreased epididymal sperm reserves (63% reduction in animals treated with 0.2% 2,4-DNT). Testosterone levels were unaffected by 2,4-DNT. Sperm concentrations and serum hormone levels were not significantly affected by 0.1% 2,4-DNT. It was concluded that 2,4-DNT can induce testicular injury, directly or indirectly disturb pituitary function, and exert a toxic effect at late stages of spermatogenesis. The Sertoli cell may be a locus of 2,4-DNT induced inhibition of spermatogenesis and altered testicular/pituitary endocrine function."
+        },
+        {
+            "References": "PMID:553809",
+            "Value": "/GENOTOXICITY/ The ability of 2,4-diaminotoluene, technical grade 2,4-dinitrotoluene (2,4-DNT), and the purified isomers 2,3-DNT, 2,4-DNT, 2,5-DNT, 2,6-DNT, 3,4-DNT, and 3,5-DNT to damage the DNA of primary rat hepatocytes was examined. Male rats were perfused in situ, single cell suspensions were obtained after liver dissociation, and cultures of the cells were treated in the presence of (3)H thymidine. Autoradiography was employed to visualize label incorporation following repair of DNA. At the nontoxic doses of less than or equal to 1X10-4 M, only 2,4-diaminotoluene induced a response. The carcinogenic activity of the dinitrotoluenes was not reflected as DNA repair in the isolated hepatocyte."
+        },
+        {
+            "References": "PMID:14551991",
+            "Value": "/GENOTOXICITY/ The mutagenicity of 2,4-dinitrotoluene (24DNT), and 2,6-dinitrotoluene (26DNT), and their related transformation products such as hydroxylamine and amine derivatives, which are formed by Clostridium acetobutylicum, were tested in crude cell extracts using Salmonella typhimurium TA100. A previous publication already reported the mutagenic activities of 2,4,6-trinitrotoluene (TNT) and its related hydroxylamine derivatives in this test system. A time course of the mutagenicity during the anaerobic transformation of TNT, 24DNT, and 26DNT was also investigated under the same conditions to compare with the results from the pure compounds. The monohydroxylamino intermediates 2-hydroxylamino-4-nitrotoluene (2HA4NT), 4-hydroxylamino-2-nitrotoluene (4HA2NT) and 2-hydroxylamino-6-nitrotoluene (2HA6NT) formed during anaerobic transformation of dinitrotoluenes were proven to be mutagenic in the Ames test using Salmonella typhimurium TA100. This study reports that 4HA2NT is the most stable derivative, whereas 2HA4NT and 2HA6NT are less stable and these intermediates are mutagenic in the Ames test. Both 24DNT and 26DNT and their final metabolites 2,4-diaminotoluene (24DAT) and 2,6-aminotoluene (26DAT) appeared nonmutagenic. In a time-course study of TNT degradation, the temporal sample containing 85% of 2,4-dihydroxylamino-6-nitrotoluene (24HA6NT) is most mutagenic. These observations suggest that the bioremediation approach for treatment of 24DNT and 26DNT should be carried past the hydroxylamino intermediate."
+        },
+        {
+            "References": "PMID:6758203",
+            "Value": "/GENOTOXICITY/ 2,4-DINITROTOLUENE (2,4-DNT) AND ITS METABOLITES WERE TESTED FOR MUTAGENICITY IN SALMONELLA TYPHIMURIUM STRAINS TA98 AND TA100. 2,4-DNT ITSELF WAS ONLY A WEAK MUTAGEN. IN CONTRAST, 2,4-DINITROBENZALDEHYDE WAS MUTAGENIC EVEN AT MICROMOLAR CONCN IN BOTH STRAINS. THESE RESULTS SUGGEST THAT A HIGH MUTAGENICITY OF 2,4-DINITROBENZALDEHYDE MAY BE CORRELATED TO THE CARCINOGENICITY OF 2,4-DNT."
+        },
+        {
+            "References": "PMID:7057784",
+            "Value": "/GENOTOXICITY/ MUTAGENICITY OF 0-2.0 M TECHNICAL GRADE DINITROTOLUENE (COMPOSED PREDOMINANTLY OF 2,4- & 2,6-DNT WITH LESSER AMT OF 2,3-, 2,5-, 3,4- & 3,5-ISOMERS) AND PURIFIED ISOMERS OF DINITROTOLUENE WERE EVALUATED USING CHINESE HAMSTER OVARY/HYPOXANTHINE GUANINE PHOSPHORIBOSYLTRANSFERASE SYSTEM, A QUANTITATIVE MAMMALIAN SOMATIC CELL MUTATIONAL ASSAY. THEY WERE TESTED FOR THE ABILITY TO INDUCE MUTATION TO 6-THIOGUANINE RESISTANCE IN PRESENCE & ABSENCE OF MICROSOMAL PREPARATIONS FROM RATS PRETREATED WITH MIXED FUNCTION OXIDASE INDUCER AROCLOR 1254. NEITHER TECHNICAL GRADE DNT NOR ANY OF THE PURIFIED ISOMERS RESULTED IN SIGNIFICANT INCR IN 6-THIOGUANINE-RESISTANT FRACTION OF SURVIVING CELLS, WITH OR WITHOUT ADDED MICROSOMAL PREPARATIONS. /DINITROTOLUENE/"
+        },
+        {
+            "References": "PMID:4074126",
+            "Value": "/GENOTOXICITY/ 2,4-Dinitrotoluene (technical grade) is known to be mutagenic to bacteria in vitro. A positive response was observed for 2,4-dinitrotoluene in the liver assay for unscheduled DNA synthesis at a dose level of 200 mg/kg."
+        },
+        {
+            "References": "PMID:3911171",
+            "Value": "/GENOTOXICITY/ 1-Chloro-2,4-dinitrobenzene and m-dinitrobenzene were mutagenic in Salmonella typhimurium TA98 without S9 mix. But 1-substituted-2,4-dinitrobenzene derivatives which are substituted by electron-releasing groups such as hydroxyl amino or methyl (ie, 2,4-dinitrotoluene) did not show mutagenicity in Salmonella typhimurium TA98 without S9 mix."
+        },
+        {
+            "References": "PMID:3912071",
+            "Value": "/GENOTOXICITY/ 2,4-DNT and its urinary metabolites 2-amino-4-nitrotoluene, 4-amino-2-nitrotoluene, 2,4-diaminotoluene, 2,4-dinitrobenzyl alcohol, 2-amino-4-nitrobenzyl alcohol, 4-amino-2-nitrobenzyl alcohol, 2-nitro-4-acetylaminotoluene, 2-amino-4-acetylaminotoluene, 2-amino-4-acetylaminobenzoic acid, 2,4-dinitrobenzoic acid and 2,4-dinitrobenzaldehyde, an intermediate in the oxidation of 2,4-dinitrobenzyl alcohol to 2,4-dinitrobenzoic acid, were tested for mutagenicity in Salmonella typhimurium strains TA98 and TA100 in the absence or presence of S9 mixture. 2,4-DNT itself was only a weak mutagen."
+        },
+        {
+            "References": "PMID:7083467",
+            "Value": "/GENOTOXICITY/ The induction of unscheduled DNA synthesis by the potent hepatocarcinogen technical grade dinitrotoluene (76% 2,4-DNT, 19% 2,6-DNT) was examined by using the in vivo/in vitro hepatocyte DNA repair assay. Male Fischer-344 rats were treated by gavage and hepatocytes were isolated by liver perfusion and cultured with (3)H thymidine. Unscheduled DNA synthesis was measured by quantitative autoradiography as net grains per nucleus; 5 net grains per nucleus was considered positive. Controls consistently had -3 to -6 net grains per nucleus. A dose related increase in unscheduled DNA synthesis was observed 12 hr after treatment, with 200 mg/kg technical grade dinitrotoluene producing 26 net grains per nucleus. A 50 fold increase in the number of cells in S-phase was observed at 48 hr after treatment. This increase in S-phase cells could be suppressed in the presence of 10-20 mM hydroxyurea, while the same levels of hydroxyurea did not affect the level of unscheduled DNA synthesis at 12 hr after treatment. 2,4-DNT produced only a weak response, in contrast to 2,6-DNT which was a potent inducer of unscheduled DNA synthesis. Treatment of female rats with technical grade dinitrotoluene yielded only modest increases in unscheduled DNA synthesis and DNA replication relative to males. These results are consistent with the carcinogenicity studies and indicate that technical grade dinitrotoluene is a potent genotoxic agent, with 2,6-DNT contributing the major portion of the effect."
+        },
+        {
+            "References": "PMID:6661721",
+            "Value": "/GENOTOXICITY/ 2,4,6-Trinitrotoluene and pure 2,4-DNT gave positive responses in the P388 mouse lymphoma gene mutation assay in the absence of auxiliary metabolic activation. Both chemicals gave negative results when an activation system was included. Technical grade DNT (consisting of an 80:20 mixture of 2,4- and 2,6-DNT) and pure 2,6-DNT gave negative responses in the assay both in the presence and absence of auxiliary metabolism."
+        },
+        {
+            "References": "PMID:7038460",
+            "Value": "/GENOTOXICITY/ The mutagenicity of technical grade 2,4-DNT and the 6 isomers of DNT was determined in 3 assays with Salmonella typhimurium. The mixture and the individual isomers of DNT were found to be mutagenic in the Ames Salmonella microsome test, particularly in strains responding to frame-shift mutagens; 3,5-DNT was the most effective isomer in inducing reversion to histidine prototrophy in Salmonella typhimurium strain s TA98 and TA1538. Similar results were obtained with a quantitative reversion assay using strain TA98; 3,5-DNT was the most mutagenic of the compounds examined, particularly in the absence of post-mitochondrial supernants of rat-liver homogenates. While all isomers and the mixture of DNT increased the 8-azaguanine resistant fraction of Salmonella typhimurium TM677 to some degree, the greater mutagenicity of 3,5-DNT compared to other isomers was not evident in the forward mutation assay."
+        },
+        {
+            "References": "PMID:2645131",
+            "Value": "/GENOTOXICITY/ The mutagenicity of 19 nitro compounds was tested in a modified Ames/Salmonella assay with or without a preincubation step in which they were incubated for 30 minutes with an S9 mix containing flavin mononucleotide before testing. (TA-98) and (TA-100) were the tester strains. 2,4-Dinitrotoluene was mutagenic in the modified assay."
+        },
+        {
+            "References": "Holen I et al; J Toxicol Environ Health 29 (1): 89-98 (1990",
+            "Value": "/GENOTOXICITY/ The effects of four isomers of dinitrotoluene and technical dinitrotoluene (a mixture of dinitrotoluene isomers and other compounds, with 2,4-DNT as the major constituent) were studied in two short-term in vitro assays. None of the isomers or technical dinitrotoluene induced an increase in morphological transformation of Syrian hamster embryo cells. Four dinitrotoluene metabolites (2,4-diaminotoluene, 2-amino-4-nitrotoluene, 2-amino-6-nitrotoluene, and 2,4-dinitobenzoic acid), representing different stages in reduction or oxidation of dinitrotoluene isomers, were also negative for induction of morphological transformation. The dinitrotoluene isomers were tested in an intercellular communication assay based on dye transfer, 2,4-DNT, 2,6-dinitrotoluene, and technical dinitrotoluene inhibited intercellular communication in the Syrian hamster embryo cell line BPNi at toxic concentrations. This may be reminiscent of in vivo data showing promoting activity of these compounds. 2,3-Dinitrotoluene and 3,4-dinitrotoluene did not inhibit communication."
+        },
+        {
+            "References": "PMID:2642804",
+            "Value": "/GENOTOXICITY/ The mutagenicity and carcinogenicity of chemicals previously identified as false positives in the Salmonella typhimurium mutagenicity assay were reevaluated using more stringent criteria than had been used in prior studies. The purpose of testing was to determine if the specificity of the assay could be enhanced by altering the criteria for distinguishing positive from negative chemicals. While the use of more stringent criteria resulted in a substantial reduction in the frequency of false positives in the mutagenicity assay, it also substantially reduced the frequency of true positives. The carcinogenicity data created more difficulties and uncertainties than did the mutagenicity data; of 25 chemical compounds previously cited as false positives, two were reevaluated as noncarcinogenic, two were carcinogenic, and the remaining 21 could not be classified because of the results of the rodent carcinogenesis bioassays or flaws in their design. 2,4-DNT was reclassified as carcinogenic."
+        },
+        {
+            "References": "PMID:6377057",
+            "Value": "/GENOTOXICITY/ A number of nitroaromatic explosives and related compounds were examined for mutagenic activity with the Salmonella/mammalian microsome test. All the nitroaromatics, except 2,4,6-trinitrophenol and 2,4,6-trinitroresorcinol, were at least an order of magnitude more mutagenic than 2,3-, 2,4-, and 2,6-dinitrotoluene. The most active compd was 2,3,5-trinitronaphthalene, which was approximately 5000 times more mutagenic than the dinitrotoluene isomers."
+        },
+        {
+            "References": "PMID:12776928",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ In this study we test the hypothesis that immortalized adult rat Sertoli cells respond to known testicular toxins in a similar manner to Sertoli cells tested in vivo and in primary culture. This cell line was developed by immortalizing adult rat Sertoli cells with the temperature-sensitive mutant of SV40, ts255, such that the cells proliferate at the permissive temperature of 33 degrees C but express differentiated characteristics at the nonpermissive temperature of 40 degrees C. Confluent monolayers, grown at 33 degrees C or 40 degrees C, were exposed to a range of concentrations of dinitrobenzene (DNB) or dinitrotoluene (DNT) isomers or to cadmium chloride. Cellular response was assessed by neutral-red cell viability assay and ultrastructural changes. Cells grown at 40 degrees C were sensitive to lower concentrations of each toxicant than were cells grown at 33 degrees C. 1,2-DNB was more toxic than 1,3-DNB, and 3,4-DNT was more toxic than 2,4-DNT, as judged by the neutral-red cell viability assay. Ultrastructurally, cells treated with 1,2-DNB or 2,4-DNT showed increased numbers of autophagic vesicles compared to controls. Intercellular penetration of ruthenium red demonstrated breached tight junctions in 1,2-DNB and cadmium-treated cells. From these observations, we conclude that this cell line can serve as a model for studying toxic mechanisms in adult Sertoli cells."
+        },
+        {
+            "References": "PMID:21143786",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Microarray analyses were conducted using liver tissue of rats collected 24hr after exposure to a single oral gavage with one of five concentrations of 2,4DNT. ... /Researchers/ observed a strong dose response of differentially expressed genes after 2,4DNT treatment. The most affected pathways included: long term depression, breast cancer regulation by stathmin1, WNT Signaling; and PI3K signaling pathways."
+        },
+        {
+            "References": "PMID:2256117",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Rat Sertolior Sertoli germ cell cocultures were treated, after 3 days in culture, with dinitrotoluene isomers /2,3-, 2,4-, 2,6-, and 3,4-dinitrotoluene/ (0.01 to 100 uM) or 1,3-dinitrobenzene for 24 hr. Cellular morphology, germ cell detachment and lactate pyruvate production were used as sensitive effect markers of in vitro toxicity. Morphologically the Sertoli cell monolayer remained intact 24 hr after exposure to DMSO, 1,3-dinitrobenzene, or dinitrotoluene isomers. Some apparent cytotoxicity was observed at 100 uM 3,4-dinitrotoluene: the monolayer was disrupted with extensive vacuolation of the Sertoli cells. Cocultures treated with concn of 50 uM dinitrotoluene isomers closely resembled cells treated with 100 uM 1,3-dinitrobenzene. Germ cell detachment increased in a dose-dependent manner (0.01 and 10 uM dinitrotoluene isomers) increasing between 2- and 10-fold over control. Both lactate and pyruvate production increased with rising concn of dinitrotoluene isomers. The most sensitive effect was seen with 3,4-dinitrotoluene (10 to 25 uM). In the case of 2,6-dinitrotoluene, despite increases in germ cell detachment and lactate production, only a minimal increase in pyruvate was demonstrated. Overall, the ratio of lactate to pyruvate production declined with increase in doses of dinitrotoluene. These results indicate that the four isomers of dinitrotoluene directly affected Sertoli cells morphology and function, effects comparable to those seen with the Sertoli cell toxicant 1,3-dinitrobenzene. Further, the data support the hypothesis that dinitrotoluene may be a Sertoli cell toxicant."
+        },
+        {
+            "References": "VASILENKO NM; TR KHARK MED INST 124: 34 (1976)",
+            "Value": "/OTHER TOXICITY INFORMATION/ AT 50% LD50 2,4-DINITROTOLUENE INDUCED 15% METHEMOGLOBINEMIA IN RATS."
+        },
+        {
+            "References": "PMID:6895726",
+            "Value": "/OTHER TOXICITY INFORMATION/ THE MUTAGENIC EFFECTS OF 2,4-DINITROTOLUENE (2,4-DNT), PURIFIED AND TECH GRADES, WERE TESTED IN MICE USING ONE OR MORE OF THE FOLLOWING: THE DOMINANT LETHAL ASSAY, THE SPERM MORPHOLOGY TEST AND/OR THE RECESSIVE SPOT TEST. CMPD WERE ADMIN BY BOTH IP INJECTION AND GAVAGE, AND COMPARISONS WERE MADE BETWEEN CONTROLS AND TREATED GROUPS AS WELL AS BETWEEN ROUTES OF ADMIN. NONE OF THE 5 CMPD TESTED PRODUCED A SIGNIFICANT RESPONSE IN ANY OF THE SYSTEMS EMPLOYED."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the Threshold Limit Values and Biological Exposure Indices. 5th ed. Cincinnati, OH: American Conference of Governmental Industrial Hygienists, 1986., p. 216",
+            "Value": "/OTHER TOXICITY INFORMATION/ ... VARIOUS ISOMERS OF DINITROTOLUENE ARE CONSIDERABLY LESS TOXIC TO MOUSE, THAN TO RAT ... 2,4-, 2,6- & 3,4-ISOMERS ARE FAR MORE TOXIC TO RAT THAN ARE 2,3- & 2,5-ISOMERS ... INDICATING WIDELY DIFFERING CAPACITIES OF RAT TO METAB DNT ISOMERS DIFFERING ONLY IN POSITION ON AROMATIC RING."
+        },
+        {
+            "References": "Bredow Mv, Jung F, Arch Exp Pathol Pharmakol 200: 335 (1942) as cited in USEPA; Ambient Water Quality Criteria Doc: Dinitrotoluene p.C-18 (1980) EPA 440/5-80-045",
+            "Value": "/OTHER TOXICITY INFORMATION/ 2,4-DNT produces Heinz bodies (granules in red blood cells due to damage of the hemoglobin molecules) in the cat."
+        },
+        {
+            "References": "USEPA; Ambient Water Quality Criteria Doc: Dinitrotoluene p.C-26 (1980) EPA 440/5-80-045",
+            "Value": "/OTHER TOXICITY INFORMATION/ ... The primary subacute toxic effects of 2,4- and 2,6-DNT are seen in the red cells, nervous system, and testes."
+        },
+        {
+            "References": "Klaassen, C.D., M.O. Amdur, Doull J. (eds.). Casarett and Doull's Toxicology. The Basic Science of Poisons. 5th ed. New York, NY: McGraw-Hill, 1995., p. 517",
+            "Value": "/OTHER TOXICITY INFORMATION/ Repeated in vivo exposure of rats to 2,4- ... dinitrotoluene is associated with dysplasia and rearrangement of aortic smooth muscle cells."
+        },
+        {
+            "References": "Amdur, M.O., J. Doull, C.D. Klaasen (eds). Casarett and Doull's Toxicology. 4th ed. New York, NY: Pergamon Press, 1991., p. 177",
+            "Value": "/OTHER TOXICITY INFORMATION/ Technical dinitrotoluene fed to rats induced liver cancer, but pure 2,4-dinitrotoluene was much less active. Attention was drawn to the 2,4-isomer, because of the known liver carcinogenicity of 2,4-diaminotoluene. However, examination of the potential to initiate hepatocellular altered foci showed that 2,6-dinitrotoluene, present in the technical product to about 20 percent, was much more active than the 2,4-isomer."
+        },
+        {
+            "References": "International Labour Office. Encyclopedia of Occupational Health and Safety. Vols. I&II. Geneva, Switzerland: International Labour Office, 1983., p. 1452",
+            "Value": "/OTHER TOXICITY INFORMATION/ 2,4-Dinitrotoluene ... has been shown to be a hepatocarcinogen in the rat."
+        },
+        {
+            "References": "Klaassen, C.D., M.O. Amdur, Doull J. (eds.). Casarett and Doull's Toxicology. The Basic Science of Poisons. 5th ed. New York, NY: McGraw-Hill, 1995., p. 517",
+            "Value": "/OTHER TOXICITY INFORMATION/Several chronic toxicity studies in laboratory animals have shown that 2,4- ... dinitrotoluene can cause cancers of the liver, gallbladder, and kidney as well as benign tumors of the connective tissues."
+        },
+        {
+            "References": "Sullivan, J.B. Jr., G.R. Krieger (eds.). Hazardous Materials Toxicology-Clinical Principles of Environmental Health. Baltimore, MD: Williams and Wilkins, 1992., p. 536",
+            "Value": "/OTHER TOXICITY INFORMATION/In animals ... central nervous system, reproductive, and bone marrow abnormalies have been noted."
+        },
+        {
+            "References": "Sullivan, J.B. Jr., G.R. Krieger (eds.). Hazardous Materials Toxicology-Clinical Principles of Environmental Health. Baltimore, MD: Williams and Wilkins, 1992., p. 536",
+            "Value": "/OTHER TOXICITY INFORMATION/2,4-Dinitrotoluene is an animal carcinogen. Tests for mutagenic activity of this compound are ambiguous."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Ryon MG et al; Database Assessment of the Health & Environmental Effects of Munition Production Waste Products Oak Ridge, TN: Oak Ridge Natl Lab ORNL-60118, NTIS DE84-016512 (1984) (2) Bausinger T, Preub J; Bull Environ Contam Toxicol 74: 1045-1052 (2005) (3) Lopes TJ, Furlong ET; Environ Sci Technol 20: 727-737 (2001)",
+            "Value": "The concentration of 2,4-dinitrotoluene in the soil in a waste lagoon abandoned 20 years earlier on the Iowa Army ammunitions plant was 3.0 mg/kg(1). The concentration of 2,4-dinitrotoluene in soil samples collected (at a 0-20 cm depth) from an abandoned World War I munitions production facility in Belgium ranged from <0.10 to 1.71 mg/kg(2). 2,4-Dinitrotoluene was detected in 0.6% of 519 streambed sediment samples collected from 20 major river basins across the US between 1992-1995 at levels of <50 to 170 ug/kg dry wt(3)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Dontsova KM et al; Chemosphere 77: 597-603 (2009) (2) Zhang D et al; Environ Toxicol Chem 28: 1447-1454 (2009) (3) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2011. Available from, as of Feb 1, 2012: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (4) Swann RL et al; Res Rev 85: 17-28 (1983) (5) Fortner JD et al; Environ Sci Technol 37: 3382-3391 (2003)",
+            "Value": "In a loamy sand soil containing an organic matter content of 8.5 g/kg, 2,4-dinitrotoluene had measured Kd adsorption coefficients ranging from 0.28 to 1.11 cu cm/g(1) that correspond to a Koc range of 57 to 225(SRC). In three Chinese soils (organic carbon content of 0.47, 1.0 and 2.2%), measured Freundlich coefficients (Kf) for 2,4-dinitrotoluene ranged from 0.66 to 5.1 mmol-L/kg(2) that correspond to a Koc range of approximately 200 to 1000(SRC). Using a structure estimation method based on molecular connectivity indices(3), the Koc for 2,4-dinitrotoluene can be estimated to be 575(SRC). According to a classification scheme(4), a Koc range of 57-1000 suggests that 2,4-dinitrotoluene can have a high to low mobility range in soil. Leaching of 2,4-dinitrotoluene has been observed in soil column transport studies(5)."
+        }
+    ]
+}

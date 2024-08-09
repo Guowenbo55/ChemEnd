@@ -1,0 +1,87 @@
+{
+    "_id": {
+        "$oid": "66927111303528b49832d7c9"
+    },
+    "CID": {
+        "$numberInt": "4794"
+    },
+    "Name": "Glufosinate",
+    "IUPACName": "2-amino-4-[hydroxy(methyl)phosphoryl]butanoic acid",
+    "CanonicalSMILES": "CP(=O)(CCC(C(=O)O)N)O",
+    "Synonyms": [
+        "GLUFOSINATE",
+        "phosphinothricin",
+        "51276-47-2",
+        "2-amino-4-[hydroxy(methyl)phosphoryl]butanoic acid",
+        "DL-Phosphinothricin",
+        "Glufosinate [ISO]",
+        "Basta",
+        "ammonium glufosinate",
+        "3-Amino-3-carboxypropylmethylphosphinic acid",
+        "Ruthenium104",
+        "DL-2-Amino-4-(methylphosphino)butanoic acid",
+        "2-Amino-4-(hydroxymethylphosphinyl)butyric acid",
+        "Butanoic acid",
+        "2-amino-4-(hydroxymethylphosphinyl)-",
+        "GLUFOSINATE AMMONIUM",
+        "C8W4FP6BTY"
+    ],
+    "IsomericSMILES": "CP(=O)(CCC(C(=O)O)N)O",
+    "INCHI": "InChI=1S/C5H12NO4P/c1-11(9,10)3-2-4(6)5(7)8/h4H,2-3,6H2,1H3,(H,7,8)(H,9,10)",
+    "INCHIKEY": "IAJOBQBIJHVGMQ-UHFFFAOYSA-N",
+    "Formula": "C5H12NO4P",
+    "MolecularWeight": {
+        "$numberDouble": "181.13"
+    },
+    "Description": "2-amino-4-[hydroxy(methyl)phosphoryl]butanoic acid is a non-proteinogenic alpha-amino acid that is 2-aminobutanoic acid which is substituted at position 4 by a hydroxy(methyl)phosphoryl group. It is a member of phosphinic acids and a non-proteinogenic alpha-amino acid.",
+    "XlogP": {
+        "$numberDouble": "-5"
+    },
+    "Complexity": {
+        "$numberInt": "193"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Greenhouse and laboratory experiments were conducted to evaluate foliar absorption, translocation, and efficacy of glufosinate on four weed species. The rate of glufosinate required to reduce shoot dry weight by 50% (GR50) varied between weed species. GR50 values for giant foxtail, barnyardgrass, velvetleaf, and common lambsquarters were 69, 186, 199, and 235 g ai ha\u22121, respectively. Absorption of 14C-glufosinate increased with time and reached a plateau 24 hours after treatment (HAT). Absorption of 14C-glufosinate was 67, 53, 42, and 16% for giant foxtail, barnyardgrass, velvetleaf, and common lambsquarters, respectively. Translocation of absorbed 14C-glufosinate from the treated leaf was greatest for giant foxtail and barnyardgrass (15 and 14% 24 HAT of absorbed 14C-glufosinate, respectively). This compared to 5 and < 1% for translocation of absorbed 14C-glufosinate from the treated leaves of velvetleaf and common lambsquarters. The majority of 14C-glufosinate translocated by giant foxtail and barnyardgrass was found below the treated leaf and in the roots, indicating phloem mobility of the herbicide. Differential absorption and translocation of 14C-glufosinate may be contributing factors to the differential sensitivity observed between weed species.",
+            "reference": "Steckel, G. J., Hart, S. E., & Wax, L. M. (1997). Absorption and translocation of glufosinate on four weed species. Weed Science, 45(3), 378-381.",
+            "method": {
+                "Test Plant": "Giant foxtail, barnyardgrass, velvetleaf, and common lambsquarters",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Grown in plastic tubes with 1:1 soil:sand mix in growth chamber (20\u00b0C night/24\u00b0C day, 14h photoperiod, 650 \u03bcmol/m2/s irradiance from high-pressure sodium lamps)",
+                "Chemical Preparation": "14C-glufosinate ammonium (3,4-14C labeled), 1643 kBq/mg specific activity",
+                "Pesticide Application Details for the Plant": "Initially sprayed with 140 g/ha glufosinate. Then 10 drops of 0.5 \u03bcL each containing total 0.925 kBq 14C-glufosinate applied to adaxial surface of. 2nd true leaf of giant foxtail, barnyardgrass, velvetleaf. 4th true leaf of lambsquarters",
+                "Other information and Other Information": "Treated leaves washed with 0.05% surfactant at 6, 12, 24, 72 HAT to remove unabsorbed 14C. Foliar absorption calculated from 14C washed off vs applied. Roots washed, plants sectioned into above treated leaf, below, and roots. Plant parts oxidized and 14C quantified by liquid scintillation spectrometry"
+            },
+            "result": "[{\"Plant\": \"Giant foxtail\", \"Hours after application\": 6, \"Treated leaf (% of absorbed)\": 86, \"Above treated leaf (%)\": 1, \"Below treated leaf (%)\": 9, \"Roots (%)\": 4}, {\"Plant\": \"Giant foxtail\", \"Hours after application\": 12, \"Treated leaf (% of absorbed)\": 74, \"Above treated leaf (%)\": 1, \"Below treated leaf (%)\": 14, \"Roots (%)\": 11}, {\"Plant\": \"Giant foxtail\", \"Hours after application\": 24, \"Treated leaf (% of absorbed)\": 85, \"Above treated leaf (%)\": 1, \"Below treated leaf (%)\": 7, \"Roots (%)\": 7}, {\"Plant\": \"Giant foxtail\", \"Hours after application\": 72, \"Treated leaf (% of absorbed)\": 88, \"Above treated leaf (%)\": 2, \"Below treated leaf (%)\": 5, \"Roots (%)\": 5}, {\"Plant\": \"Barnyardgrass\", \"Hours after application\": 6, \"Treated leaf (% of absorbed)\": 92, \"Above treated leaf (%)\": 1, \"Below treated leaf (%)\": 4, \"Roots (%)\": 3}, {\"Plant\": \"Barnyardgrass\", \"Hours after application\": 12, \"Treated leaf (% of absorbed)\": 91, \"Above treated leaf (%)\": 1, \"Below treated leaf (%)\": 5, \"Roots (%)\": 3}, {\"Plant\": \"Barnyardgrass\", \"Hours after application\": 24, \"Treated leaf (% of absorbed)\": 86, \"Above treated leaf (%)\": 3, \"Below treated leaf (%)\": 6, \"Roots (%)\": 5}, {\"Plant\": \"Barnyardgrass\", \"Hours after application\": 72, \"Treated leaf (% of absorbed)\": 89, \"Above treated leaf (%)\": 4, \"Below treated leaf (%)\": 3, \"Roots (%)\": 4}, {\"Plant\": \"Velvetleaf\", \"Hours after application\": 6, \"Treated leaf (% of absorbed)\": 97, \"Above treated leaf (%)\": 1, \"Below treated leaf (%)\": 1, \"Roots (%)\": 1}, {\"Plant\": \"Velvetleaf\", \"Hours after application\": 12, \"Treated leaf (% of absorbed)\": 95, \"Above treated leaf (%)\": 1, \"Below treated leaf (%)\": 1, \"Roots (%)\": 2}, {\"Plant\": \"Velvetleaf\", \"Hours after application\": 24, \"Treated leaf (% of absorbed)\": 95, \"Above treated leaf (%)\": 2, \"Below treated leaf (%)\": 2, \"Roots (%)\": 1}, {\"Plant\": \"Velvetleaf\", \"Hours after application\": 72, \"Treated leaf (% of absorbed)\": 93, \"Above treated leaf (%)\": 3, \"Below treated leaf (%)\": 2, \"Roots (%)\": 2}, {\"Plant\": \"Common lambsquarters\", \"Hours after application\": 6, \"Treated leaf (% of absorbed)\": 99, \"Above treated leaf (%)\": 0, \"Below treated leaf (%)\": 0, \"Roots (%)\": 0}, {\"Plant\": \"Common lambsquarters\", \"Hours after application\": 12, \"Treated leaf (% of absorbed)\": 99, \"Above treated leaf (%)\": 0, \"Below treated leaf (%)\": 1, \"Roots (%)\": 0}, {\"Plant\": \"Common lambsquarters\", \"Hours after application\": 24, \"Treated leaf (% of absorbed)\": 98, \"Above treated leaf (%)\": 0, \"Below treated leaf (%)\": 1, \"Roots (%)\": 0}, {\"Plant\": \"Common lambsquarters\", \"Hours after application\": 72, \"Treated leaf (% of absorbed)\": 98, \"Above treated leaf (%)\": 0, \"Below treated leaf (%)\": 1, \"Roots (%)\": 1}]"
+        },
+        {
+            "content": "The study investigated herbicide absorption, translocation, and metabolism in Echinochloa crus-galli and Amaranthus palmeri using 14C-labeled herbicides glyphosate, glufosinate, and dicamba. Results showed reduced uptake of 14C-glyphosate in both weeds when mixed with glufosinate or dicamba, indicating potential herbicide antagonism. E. crus-galli metabolized dicamba faster than A. palmeri, and mixing glufosinate with dicamba limited dicamba's metabolic degradation in both species. These findings underscore the importance of carefully evaluating herbicide mixtures, as they can significantly impact herbicide performance and resistance management in the field.",
+            "reference": "Meyer, C. J., Peter, F., Norsworthy, J. K., & Beffa, R. (2020). Uptake, translocation, and metabolism of glyphosate, glufosinate, and dicamba mixtures in Echinochloa crus\u2010galli and Amaranthus palmeri. Pest Management Science, 76(9), 3078-3087.",
+            "method": {
+                "Test Plant": "Echinochloa crus-galli (barnyard grass) and Amaranthus palmeri (Palmer amaranth)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Greenhouse grown plants established at Bayer Weed Resistance Competence Center in Frankfurt, Germany. Two biotypes each of E. crus-galli and A. palmeri used.",
+                "Chemical Preparation": "14C-labeled herbicides used: [phosphonomethyl-14C]-glyphosate, 1-14C glufosinate hydrochloride, [ring-U-14C]-dicamba.Radiolabeled solutions prepared with commercial herbicide formulations at typical use rates, with/without ammonium sulfate, and water to give 1.333 kBq/\u03bcL of respective 14C-herbicide",
+                "Pesticide Application Details for the Plant": "1 mL radiolabeled solution containing respective 14C-herbicide applied to plants following procedure modified from Nandula and Vencill (2008). Solutions contained 14C-herbicide plus commercial formulations at typical use rates with/without ammonium sulfate",
+                "Other information and Other Information": "Three separate experiments conducted for 14C-glyphosate, 14C-glufosinate, 14C-dicamba.Treatments varied by including different combinations of herbicides (glyphosate, glufosinate, dicamba, metolachlor"
+            },
+            "result": "[{\"Plant\": \"A.palmeri\", \"Treatment\": \"Glufosinate\", \"Aboved treated leaf (% of applied)\": 2, \"Treated leaf (%)\": 53, \"Below treated leaf (%)\": 2, \"Roots (%)\": 1}, {\"Plant\": \"A.palmeri\", \"Treatment\": \"Glufosinate + glyphosate\", \"Aboved treated leaf (% of applied)\": 3, \"Treated leaf (%)\": 27, \"Below treated leaf (%)\": 1, \"Roots (%)\": 0}, {\"Plant\": \"A.palmeri\", \"Treatment\": \"Glufosinate + dicamba\", \"Aboved treated leaf (% of applied)\": 3, \"Treated leaf (%)\": 50, \"Below treated leaf (%)\": 2, \"Roots (%)\": 1}, {\"Plant\": \"A.palmeri\", \"Treatment\": \"Glufosinate + S-metolachlor\", \"Aboved treated leaf (% of applied)\": 1, \"Treated leaf (%)\": 54, \"Below treated leaf (%)\": 1, \"Roots (%)\": 1}, {\"Plant\": \"E.crus-galli\", \"Treatment\": \"Glufosinate\", \"Aboved treated leaf (% of applied)\": 3, \"Treated leaf (%)\": 30, \"Below treated leaf (%)\": 9, \"Roots (%)\": 8}, {\"Plant\": \"E.crus-galli\", \"Treatment\": \"Glufosinate + glyphosate\", \"Aboved treated leaf (% of applied)\": 1, \"Treated leaf (%)\": 23, \"Below treated leaf (%)\": 3, \"Roots (%)\": 3}, {\"Plant\": \"E.crus-galli\", \"Treatment\": \"Glufosinate + dicamba\", \"Aboved treated leaf (% of applied)\": 1, \"Treated leaf (%)\": 36, \"Below treated leaf (%)\": 5, \"Roots (%)\": 6}, {\"Plant\": \"E.crus-galli\", \"Treatment\": \"Glufosinate + S-metolachlor\", \"Aboved treated leaf (% of applied)\": 1, \"Treated leaf (%)\": 26, \"Below treated leaf (%)\": 2, \"Roots (%)\": 1}]"
+        },
+        {
+            "content": "Absorption, translocation, and metabolism of 14C-glufosinate were studied in three annual and two perennial weed species. Young seedlings of Setaria faberi, Chenopodium album, Cassia obtusifolia, Solanum carolinense, and Asclepias syriaca were treated with foliar-applied 14C-glufosinate, and plant tissues were harvested 12, 48, and 72 h after treatment (HAT). Absorption of 14C-glufosinate was initially rapid, but increased only slightly after 12 h in all species. Glufosinate absorption was highest in S. carolinense (73% of applied radioactivity), followed by S. faberi (54%), C. obtusifolia (44%), C. album (41%), and A. syriaca (37%) 72 HAT. Translocation of radioactivity out of the treated leaf was species dependent and did not increase much with time in all weed species. S. carolinense and S. faberi translocated the highest amounts of absorbed radioactivity out of the treated leaf with 49 to 59% moving to the upper foliage. S. faberi translocated the highest amount of absorbed radioactivity to the roots (12 to 14%), while C. album translocated the least (2 to 3%). TLC analysis of plant extracts showed that 14C-glufosinate was not metabolized in S. faberi, C. obtusifolia, S. carolinense, and A. syriaca. A glufosinate metabolite with an Rf value matching that of methyl-phosphinico propionate was detected in C. album. Treatment with ammonium sulfate (AMS) increased glufosinate absorption in S. faberi and C. obtusifolia 12 HAT, but decreased absorption in C. album. Treatment with pelargonic acid (PA) did not affect glufosinate absorption in any of the species tested. Treatment with AMS and PA did not affect glufosinate translocation in any of the five weed species. Treatment with AMS and PA did not influence the metabolism of glufosinate in any of the five weed species studied. These results show that differential absorption and translocation seem to explain the greater sensitivity of the annual and perennial weeds to glufosinate. Treatment with ammonium sulfate may increase the efficacy of glufosinate in perennial weeds.",
+            "reference": "Steckel, G. J., Hart, S. E., & Wax, L. M. (1997). Absorption and translocation of glufosinate on four weed species. Weed Science, 45(3), 378-381.",
+            "method": {
+                "Test Plant": "Chenopodium album, Ipomoea purpurea, Cassia obtusifolia (annual weeds), Asclepias syriaca, Sorghum halepense (perennial weeds)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Annual weeds grown from seeds in greenhouse at 25\u00b12\u00b0C, supplemented with 650 \u03bcmol/m2/s mercury halide lights, 16h daylength. A. syriaca grown from rootstocks or seeds (3-4 week old seedlings used). S. halepense grown from rootstocks and transplanted to cups",
+                "Chemical Preparation": "Radiolabeled spotting solution of 14C-glufosinate [(3,4-14C)-glufosinate, 1917 kBq/mg specific activity] containing 0.1% Silwet L-77 surfactant",
+                "Pesticide Application Details for the Plant": "Pre-treatments sprayed at 237 L/ha: 40 g ai/ha glufosinate alone, with 5% w/v ammonium sulfate, or with 1% v/v paraffin oil. 5 \u03bcL of 0.53 kBq 14C-glufosinate spotting solution applied to specific leaf of each species",
+                "Other Information": "Treated leaf tissues harvested at 12, 48, 72 hours after treatment (HAT). Treated leaf washed to determine unabsorbed 14C"
+            },
+            "result": "[{\"Plant\": \"Asclepias syriaca\", \"Hours after application\": 12, \"Treated leaf (% of absorbed)\": 53, \"Upper foliage (%)\": 15, \"Lower foliage (%)\": 26, \"Roots (%)\": 6}, {\"Plant\": \"Asclepias syriaca\", \"Hours after application\": 48, \"Treated leaf (% of absorbed)\": 49, \"Upper foliage (%)\": 16, \"Lower foliage (%)\": 30, \"Roots (%)\": 5}, {\"Plant\": \"Asclepias syriaca\", \"Hours after application\": 72, \"Treated leaf (% of absorbed)\": 53, \"Upper foliage (%)\": 16, \"Lower foliage (%)\": 24, \"Roots (%)\": 7}, {\"Plant\": \"Setaria faberi\", \"Hours after application\": 12, \"Treated leaf (% of absorbed)\": 20, \"Upper foliage (%)\": 43, \"Lower foliage (%)\": 25, \"Roots (%)\": 12}, {\"Plant\": \"Setaria faberi\", \"Hours after application\": 48, \"Treated leaf (% of absorbed)\": 19, \"Upper foliage (%)\": 49, \"Lower foliage (%)\": 18, \"Roots (%)\": 14}, {\"Plant\": \"Setaria faberi\", \"Hours after application\": 72, \"Treated leaf (% of absorbed)\": 28, \"Upper foliage (%)\": 45, \"Lower foliage (%)\": 14, \"Roots (%)\": 12}, {\"Plant\": \"Chenopodium album\", \"Hours after application\": 12, \"Treated leaf (% of absorbed)\": 56, \"Upper foliage (%)\": 30, \"Lower foliage (%)\": 13, \"Roots (%)\": 2}, {\"Plant\": \"Chenopodium album\", \"Hours after application\": 48, \"Treated leaf (% of absorbed)\": 63, \"Upper foliage (%)\": 26, \"Lower foliage (%)\": 8, \"Roots (%)\": 3}, {\"Plant\": \"Chenopodium album\", \"Hours after application\": 72, \"Treated leaf (% of absorbed)\": 58, \"Upper foliage (%)\": 28, \"Lower foliage (%)\": 11, \"Roots (%)\": 3}, {\"Plant\": \"Cassia obtusifolia\", \"Hours after application\": 12, \"Treated leaf (% of absorbed)\": 71, \"Upper foliage (%)\": 1, \"Lower foliage (%)\": 18, \"Roots (%)\": 10}, {\"Plant\": \"Cassia obtusifolia\", \"Hours after application\": 48, \"Treated leaf (% of absorbed)\": 80, \"Upper foliage (%)\": 2, \"Lower foliage (%)\": 11, \"Roots (%)\": 7}, {\"Plant\": \"Cassia obtusifolia\", \"Hours after application\": 72, \"Treated leaf (% of absorbed)\": 80, \"Upper foliage (%)\": 2, \"Lower foliage (%)\": 11, \"Roots (%)\": 7}, {\"Plant\": \"Solanum carolinense\", \"Hours after application\": 12, \"Treated leaf (% of absorbed)\": 22, \"Upper foliage (%)\": 56, \"Lower foliage (%)\": 17, \"Roots (%)\": 5}, {\"Plant\": \"Solanum carolinense\", \"Hours after application\": 48, \"Treated leaf (% of absorbed)\": 19, \"Upper foliage (%)\": 59, \"Lower foliage (%)\": 15, \"Roots (%)\": 6}, {\"Plant\": \"Solanum carolinense\", \"Hours after application\": 72, \"Treated leaf (% of absorbed)\": 19, \"Upper foliage (%)\": 59, \"Lower foliage (%)\": 15, \"Roots (%)\": 6}]"
+        }
+    ]
+}

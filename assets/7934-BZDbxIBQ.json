@@ -1,0 +1,77 @@
+{
+    "_id": {
+        "$oid": "6682e89bc4e5dba5ffba266f"
+    },
+    "CID": {
+        "$numberInt": "7934"
+    },
+    "Name": "3-Aminotoluene",
+    "IUPACName": "3-methylaniline",
+    "CanonicalSMILES": "CC1=CC(=CC=C1)N",
+    "Synonyms": [
+        "m-Toluidine",
+        "3-Methylaniline",
+        "108-44-1",
+        "3-Toluidine",
+        "3-AMINOTOLUENE",
+        "Benzenamine",
+        "3-methyl-",
+        "m-Methylaniline",
+        "m-Tolylamine",
+        "m-Toluidin",
+        "m-Aminotoluene",
+        "3-Methylbenzenamine",
+        "3-Aminophenylmethane",
+        "Aniline",
+        "3-methyl-",
+        "m-Methylbenzenamine",
+        "1-Amino-3-methylbenzene"
+    ],
+    "IsomericSMILES": "CC1=CC(=CC=C1)N",
+    "INCHI": "InChI=1S/C7H9N/c1-6-3-2-4-7(8)5-6/h2-5H,8H2,1H3",
+    "INCHIKEY": "JJYPMNFTHPTTDI-UHFFFAOYSA-N",
+    "Formula": "C7H9N",
+    "MolecularWeight": {
+        "$numberDouble": "107.15"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "1.4"
+    },
+    "Complexity": {
+        "$numberInt": "70"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 32 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver.4.0. Jan, 2009. Available from, as of April 1, 2010:  https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3.9 was calculated for 3-aminotoluene(SRC), using a log Kow of 1.40(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of April 1, 2010: https://www.safe.nite.go.jp/english/db.html. (2) Malaney GW; J Water Pollut Control Fed 32: 1300-11 (1960) (3) Pitter P; Water Res 10: 231-5 (1976) (4) Alexander M, Lustigman BK; J Agric Food Chem 14: 410-3 (1966) (5) Paris DF, Wolfe NL; Appl Environ Microbiol 53: 911-6 (1987) (6) Lu GH et al; Environ Contam Toxicol 69: 111-6 (2002)",
+            "Value": "AEROBIC: 3-Aminotoluene, present at 100 mg/L, reached 0% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1). In other screening tests, 3-aminotoluene was found to be readily biodegradable(2-4). In one test, 74% of theoretical BOD was achieved in 7.5 days with an activated sludge inoculum acclimated to aniline(2). In another, 97.7% degradation occurred in 5 days with an activated sludge inoculum(3). Complete degradation of 3-aminotoluene was obtained within 8 days with a soil inoculum(4). The half-life of 3-aminotoluene in natural water from ponds and rivers in which the microbial populations were increased 10- to 100-fold by filtration and nutrient addition was 4 hours(5). 3-Aminotoluene, present at 2 mg/L, reached 50% of its theoretical BOD in 5 days using water from the Songhua River in China as an inoculum(6)."
+        },
+        {
+            "References": "(1) Kuhn EP, Suflita JM; Haz Waste Haz Mat 6: 121-33 (1989)",
+            "Value": "ANAEROBIC: 3-Aminotoluene was not biodegraded in an anaerobic aquifer slurry over an 8 month incubation period(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 32",
+            "Value": "log Kow = 1.40"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Briggs GG; J Agric Food Chem 29: 1050-59 (1981) (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Perrin DD; Dissociation constants of organic bases in aqueous solution. IUPAC Chem Data Ser, Buttersworth, London (1965) (4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000) (5) Bollag JM et al; J Agric Food Chem 26: 1302-6 (1978) (6) Adrian P et al; Toxicol Environ Chem 20-21: 109-20 (1989)",
+            "Value": "The mean Koc of 3-aminotoluene in 4 silt loam soils was 44 over a pH range of 6.1 to 7.5(1). According to a classification scheme(2), this Koc value suggests that 3-aminotoluene is expected to have very high mobility in soil. The pKa of 3-aminotoluene is 4.69(3), indicating that this compound will partially exist in cation form in the environment and cations generally adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(4). Aromatic amines are expected to bind strongly to humus or organic matter in soils due to the high reactivity of the aromatic amino group(5,6), suggesting that mobility of the neutral species may be much lower in some soils(SRC)."
+        }
+    ]
+}

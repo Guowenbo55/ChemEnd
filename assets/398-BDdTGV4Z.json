@@ -1,0 +1,250 @@
+{
+    "_id": {
+        "$oid": "6682e7d4c4e5dba5ffba228e"
+    },
+    "CID": {
+        "$numberInt": "398"
+    },
+    "Name": "2-NITROPROPANE",
+    "IUPACName": "2-nitropropane",
+    "CanonicalSMILES": "CC(C)[N+](=O)[O-]",
+    "Synonyms": [
+        "2-nitropropane",
+        "79-46-9",
+        "Propane",
+        "2-nitro-",
+        "Isonitropropane",
+        "Dimethylnitromethane",
+        "Nitroisopropane",
+        "sec-Nitropropane",
+        "Nipar S-20",
+        "beta-Nitropropane",
+        "2-Nitro-propane",
+        "Nipar S-20 solvent",
+        "Nipar S-30 solvent",
+        "RCRA waste number U171",
+        "Isonitro propane",
+        "NSC 5369"
+    ],
+    "IsomericSMILES": "CC(C)[N+](=O)[O-]",
+    "INCHI": "InChI=1S/C3H7NO2/c1-3(2)4(5)6/h3H,1-2H3",
+    "INCHIKEY": "FGLBSLMDCBOPQK-UHFFFAOYSA-N",
+    "Formula": "C3H7NO2",
+    "MolecularWeight": {
+        "$numberDouble": "89.09"
+    },
+    "Description": "2-nitropropane is a secondary nitroalkane that is propane in which a hydrogen at position 2 has been replaced by a nitro group. Mainly used as a solvent (b.p. 120??). It has a role as a hepatotoxic agent, a carcinogenic agent, a polar aprotic solvent and a xenobiotic.",
+    "XlogP": {
+        "$numberDouble": "0.8"
+    },
+    "Complexity": {
+        "$numberInt": "54"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "A BCF value of 1 was measured for fish (Golden ide) in a static 3-day test with 2-nitropropane present at 50 ppb(1). BCF values of <0.9-1.1 and <8.4 were determined using orange-red killifish (Oryzias latipes) which were exposed over an 8-week period(2). According to a classification scheme(3), these BCF values suggest the potential for bioconcentration in aquatic organisms is low(SRC).",
+            "Value": "A BCF value of 1 was measured for fish (Golden ide) in a static 3-day test with 2-nitropropane present at 50 ppb(1). BCF values of <0.9-1.1 and <8.4 were determined using orange-red killifish (Oryzias latipes) which were exposed over an 8-week period(2). According to a classification scheme(3), these BCF values suggest the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute; Biodegradation and Bioaccumulation Data of Existing Chemicals Based on the CSCL Japan ISBN 4-89074-101-1 p.2-37 (1992) (2) Freitag D et al; pp 371-88 in Pract Applic of Quan Str-Act Rel (QSAR) Environ Chem Toxicol, Karcher W, Devillers J, eds. Brussels, Belgium: Kluwer Ac (1990) (3) Freitag D et al; Ecotoxicological Profile Analysis of Nitroparaffins according to OECD Guidelines with C14-labelled Compounds. In: TSCA Set 8D Submissions to EPA for Nitromethane (Fiche No. OTS516767) (1988) (4) Loehr RC and Matthews JE; J Soil Contam 1: 339-60 (1992) (5) Loehr RC; Treatability Potential for EPA listed Hazardous Wastes in Soil. USEPA. Robert S. Kerr Environ Res Lab Ada, OK: USEPA-600/2-89-011 (1989)",
+            "Value": "AEROBIC: 2-Nitropropane, present at 2.0 and 9.9 mg/L, reached 14 and 8% of its theoretical BOD, respectively in 4 weeks using an activated sludge inoculum at 2 mg/L and a closed bottle test(1). When 2-nitropropane was incubated with activated sludge, 0.8% mineralization occurred in 5 days(2,3). During a closed bottle biodegradability test, using a municipal sewage plant effluent innoculum, 0.1% degradation of 2-nitropropane occurred within 28 days(2,3). Aerobic C14 studies performed with soil microorganisms resulted in 3.0% conversion to CO2 in 35 days(2,3). During this time 28.8% was lost as volatile products during the aerobic studies(2,3). Half-lives of 2-nitropropane measured during aerobic batch laboratory microcosm experiments were 0.66 days in an acid clay soil (0.94% OC, pH 4.8) and 0.5 days in a basic sandy loam soil (3.25% OC, pH 7.8)(4,5). However, experiments were not corrected for potential loss due to volatilization(4,5)."
+        },
+        {
+            "References": "(1) Freitag D et al; pp 371-88 in Pract Applic of Quan Str-Act Rel (QSAR) Environ Chem Toxicol, Karcher W, Devillers J, eds. Brussels, Belgium: Kluwer Ac (1990) (2) Freitag D et al; Ecotoxicological Profile Analysis of Nitroparaffins according to OECD Guidelines with C14-labelled Compounds. In: TSCA Set 8D Submissions to EPA for Nitromethane (Fiche No. OTS516767) (1988)",
+            "Value": "ANAEROBIC: Anaerobic C14 studies performed with soil microorganisms resulted in 1.2% conversion to CO2 in 35 days(1,2). During this time, 42.8% was lost as volatile products during the anaerobic studies(1,2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Chemicals Inspection and Testing Institute; Biodegradation and Bioaccumulation Data of Existing Chemicals Based on the CSCL Japan ISBN 4-89074-101-1 p. (1992)",
+            "Value": "log Kow = 0.93"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:11470485",
+            "Value": "...To clarify the mechanism of carcinogenesis by 2-NP, we investigated DNA damage by 2-NP metabolites, N-isopropylhydroxylamine (IPHA) and hydroxylamine-O-sulfonic acid (HAS), using 32P-5'-end-labelled DNA fragments obtained from genes that are relevant to human cancer. In the presence of Fe(III) EDTA, both IPHA and HAS caused DNA damage at every nucleotide position without marked site preference. The damage was inhibited by free hydroxyl radical (-*OH) scavengers, catalase and deferoxamine mesilate, an iron chelating agent. These results suggest that the DNA damage was caused by -*OH generated via H(2)O(2) by both IPHA and HAS. In contrast, in the presence of Cu(II), IPHA frequently caused DNA damage at thymine. The Cu(II)-mediated DNA damage caused by IPHA was inhibited by catalase, methional and bathocuproine, a Cu(I)-specific chelator, suggesting the involvement of H(2)O(2) and Cu(I). These results suggest that the DNA damage induced by IPHA in the presence of Cu(II) was caused by a reactive oxygen species like the Cu(I)-hydroperoxo complex. On the other hand, HAS most frequently induced DNA damage at 5'-TG-3', 5'-GG-3' and 5'-GGG-3' sequences. Catalase and methional only partly inhibited the Cu(II)-mediated DNA damage caused by HAS, suggesting that the reactive oxygen species and another reactive species participate in this process. Formation of 8-oxodG by IPHA or HAS increased in the presence of metal ions. This study suggests that metal-mediated DNA damage caused by 2-NP metabolites plays an important role in the mutagenicity and the carcinogenicity of 2-NP."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 p.570",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Cats that died following several exposures at 328 ppm had microscopic evidence of focal necrosis and parenchymal degeneration in the liver and slight to moderate degeneration of the heart and kidneys. The lungs showed pulmonary edema, intraalveolar hemorrhage, and interstitial pneumonitis. Cats also developed 25 to 35% methemoglobin when exposed at 750 ppm for 4.5 hr and about 15 to 25% methemoglobin during repeated, daily, 7 hr exposures at 280 ppm."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 p.568",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  Acute exposures of rats, guinea pigs, rabbits, and cats to 2-NP via inhalation.../at/ high concentrations produced dyspnea, cyanosis, prostration, convulsions, lethargy, and weakness, proceeding to coma and death. Some animals that survived the acute exposure died in 1 to 4 days later. These high concentrations of 2-NP caused pulmonary edema and hemorrhage, selective disintegration of brain cells, hepatocellular damage, and general vascular endothelial injury in all tissues."
+        },
+        {
+            "References": "EPA/Office of Pollution Prevention and Toxics; High Production Volume (HPV) Challenge Program's Robust Summaries and Test Plans. 2-Nitropropane. Available from, as of July 11, 2005: https://www.epa.gov/hpv/pubs/hpvrstp.htm",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Dermal exposure to 2,000 mg/kg 2-nitropropane did not cause death, clinical signs of toxicity or skin irritation in rabbits."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V71 1081 (1999)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ BALB/c mice //were treated// intraperitoneally with a single dose of 9 mmol/kg bw 2-nitropropane. In male mice, plasma activities of the hepatic enzymes sorbitol dehydrogenase, alanine aminotransferase and aspartate aminotransferase were significantly elevated, while doses of 6.7 mmol/kg bw were ineffective. In female mice, a dose of 6.7 mmol/kg bw was sufficient to cause hepatotoxicity. Histopathological evaluation revealed hepatic damage, particularly in the periportal region."
+        },
+        {
+            "References": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-213",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Tested in rabbits ... slightly more toxic than nitromethane or nitroethane. Mildly irritating to mucous membranes but not skin."
+        },
+        {
+            "References": "Browning, E. Toxicity and Metabolism of Industrial Solvents. New York: American Elsevier, 1965., p. 287",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Severity and time of onset of symptoms varied ... In most ... animals lethargy and prostration appeared before dyspnea and occasional convulsions. ... Cats and rats /showed/ coma and death ... in a short time; rabbits and guinea pigs, after apparent partial recovery, died 1-4 days later."
+        },
+        {
+            "References": "Browning, E. Toxicity and Metabolism of Industrial Solvents. New York: American Elsevier, 1965., p. 287",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ With non-lethal but high concentrations, unsteady gait and partial loss of coordination in cats, but no signs of intoxication ... observed in any animals subjected to 83 ppm. Cats showed lacrimation, salivation and gastric regurgitation."
+        },
+        {
+            "References": "Browning, E. Toxicity and Metabolism of Industrial Solvents. New York: American Elsevier, 1965., p. 287",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Methemoglobin formation ... 60-80% was developed by cats with severe exposure, and 25-35% with exposure to 780 ppm for 4-5 hr. With latter ... 1/5 ... amount received by rabbits was necessary to produce same amount ... methemoglobin in cats. Heinz bodies ... more frequent and at lower concentrations in cats ..."
+        },
+        {
+            "References": "Browning, E. Toxicity and Metabolism of Industrial Solvents. New York: American Elsevier, 1965., p. 288",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In cats exposed to 328 ppm /heart and kidneys/ ... showed some toxic degeneration. In other species this concentration caused none of these lesions. In the brain all animals exposed to ... higher concentrations showed disintegration of cerebral neurons. Lungs ... showed pulmonary edema, intra-alveolar hemorrhage and interstitial pneumonitis."
+        },
+        {
+            "References": "Zitting A et al; Toxicol Lett (Amst) 9 (3): 237-46 (1981)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Ip injection (50 mg/kg) induced lipid accumulation, centrilobular necrosis, degranulation of rough and proliferation of smooth endoplasmic reticulum and mitochondrial abnormalities in rat liver 24 hr after exposure."
+        },
+        {
+            "References": "Zitting A et al; Toxicol Lett (Amst) 9 (3): 237-46 (1981)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Ip injection (50 mg/kg) in rat elevated serum alanine aminotransferase, depressed hepatic cytochrome P450 and microsomal monooxygenase while epoxide hydratase, UDP-glucuronosyltransferase and cytosolic glutathione peroxidase were enhanced, as was brain acetycholinesterase."
+        },
+        {
+            "References": "JECFA; WHO Food Additive Series 26: Toxicological Evaluation of Certain Food Additives and Contaminants- 2-Nitropropane (1990). Available from, as of July 11, 2005: https://www.inchem.org/documents/jecfa/jecmono/v26je09.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Wistar rats were divided into 4 groups (5 males and 5 females per group) and dosed by gavage with 2-nitropropane as an emulsion in 1% methyl cellulose at 0, 20, 200 or 400 mg/kg bw/day for 28 days. In the high dose group, all male rats died within 1 day and all female rats within 10 days. At 200 mg/kg bw/day, all male rats died within 7 days while all females survived. Effects in the surviving females of the high dose group included reduced body weight gain, higher alanine aminotransferase, aspartate aminotransferase and total bilirubin, and lower serum total protein and albumin levels. In addition, there was an increase in liver weights and multiple hepatic changes including multifocal single cell necrosis and Kupffer cell pigmentation. In the lowest dose group multifocal centrilobular hepatocellular hypertrophy was observed. There were no changes in blood biochemistry values. The authors concluded that the changes in the low dose group were metabolic adaptations."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 p.570",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/   Rats and rabbits exposed to 2-NP for 6 months via inhalation at 27 and 207 ppm showed very few classical signs of nitroparaffin toxicity. No effects on body weight gain or hematology were observed at either concentrations. Liver weights from rats exposed at 27 ppm were comparable to those of controls. However, severe neoplastic changes were observed in the livers of male rats exposed to 207 ppm 2-NP for 6 months. The only effect reported for rabbits exposed to 207 ppm 2-NP was elevation in ornithine carbamyl transferase after 1 and 3 months."
+        },
+        {
+            "References": "JECFA; WHO Food Additive Series 26: Toxicological Evaluation of Certain Food Additives and Contaminants- 2-Nitropropane (1990). Available from, as of July 11, 2005: https://www.inchem.org/documents/jecfa/jecmono/v26je09.htm",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In a drinking water study, Fischer 344 rats (10 males and 10 females per group) were dosed with 1000, 100, 10, 1.0 or 0.1 or 0 mg/L of 2-nitropropane for 4 weeks (equivalent to 128 and 99 mg/kg bw/day for female and male rats in the 1000 mg/L groups, respectively, and 17 and 14 mg/kg bw/day for male and female rats in the 100 mg/L groups, respectively, based on daily fluid consumption). Reduced food and fluid consumption and reduced body weight gain were observed in the highest dose group, as well as elevated organ weights. In the 100 mg/L group there was a slight elevation in liver weights in males. The authors concluded that there were no treatment-related effects at 10 mg/L (estimated to be 1 to 2 mg/kg bw/day)."
+        },
+        {
+            "References": "Browning, E. Toxicity and Metabolism of Industrial Solvents. New York: American Elsevier, 1965., p. 287",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Prothrombin content of blood showed some reduction in ... 2 cats only, time ... for clotting during repeated exposure to about 328 ppm increased from 24.0 and 23.5 to 40 and 50 sec respectively. No changes ... observed in ... peripheral blood picture."
+        },
+        {
+            "References": "Snyder, R. (ed.). Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume II: Nitrogen and Phosphorus Solvents. Amsterdam-New York-Oxford: Elsevier, 1990., p. 395",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rats, rabbits, and guinea pigs survived inhalation of 2-nitropropane at a concentration of 328 ppm for 7 hr/day for 130 days. Cats survived only a few days; methemoglobinemia and Heinz body formation were present along with early evidence of hepatic necrosis."
+        },
+        {
+            "References": "Lewis TR et al, J Environ Pathol Toxicol 2 (5): 233 (1979)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Liver weights were elevated in rats exposed to 207 ppm for 1, 3, and 6 months. Liver neoplasms were seen in rats killed following 6 months of exposure to 207 ppm."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 p.571",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/  Sprague-Dawley rats (125 of each sex per group) were exposed to 0 or 25 ppm 2-NP for 7 hr/day, 5 days/week, for 2 months. Interim sacrifices were conducted (10 of each sex) after 1, 3, 6, and 12 months, and recovery groups were initiated (10 of each sex) after 3 and 12 months of exposure. No effects on body weight, clinical signs, clinical chemistries, or hematology and no methemoglobinemia were observed. There were no tumors in any organ or tissue, including the liver. Relative liver weights were slightly elevated in males, and focal areas of hepatocellular nodules were seen with greater incidence in males (2/125 for controls, 10/125 for 2-NP at 25 ppm). No indication of hepatoxicity was observed."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V71 1081 (1999)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Male and female Sprague-Dawley rats, four to six days of age, were exposed by whole-body inhalation to concentrations of 0, 25, 40, 50, 80 and 125 ppm [0, 91, 146, 182, 292 and 456 mg/m3] 2-nitropropane (99% pure) for 6 h per day on five days per week for three weeks. One week later, a polychlorinated biphenyl (Clophen A50) was administered orally at a dose of 10 mg/kg bw twice per week for eight weeks. Thirteen weeks after the start of the experiment, the number of preneoplastic adenosine-5- triphosphatase-deficient foci in the liver was found to increase linearly with the exposure concentration, demonstrating the initiating activity of 2-nitropropane."
+        },
+        {
+            "References": "JECFA; WHO Food Additive Series 26: Toxicological Evaluation of Certain Food Additives and Contaminants- 2-Nitropropane (1990). Available from, as of July 11, 2005: https://www.inchem.org/documents/jecfa/jecmono/v26je09.htm",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ A group of male and female rats were exposed to 2-nitropropane at a concentration of 200 ppm, 7 hr/day 5 days/wk for up to 6 months. Groups were killed after 10 days, 1 month, 3 months and 6 months. One group was held for an additional 6-month postexposure period. Morphological changes occurred more extensively in males that included hepatocellular nodules, hyperplasia, necrosis and multivacuolated fatty metamorphosis. The livers of six of ten rats had pre-neoplastic foci and metastasizing tumors were apparent in nine out of ten rats that were held 6 months post-exposure. Similar findings were observed after exposing rats to 2-nitropropane at a concentration of 100 ppm for 18 months. Hepatocellular carcinoma occurred in males after 12 months of exposure and in females after 18 months."
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 4159",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Cats, rabbits, rats, guinea pigs and monkeys ... exposed ... to 328 and 83 ppm for 7 hr/day. Cats died following several days exposure to 328 ppm, but rabbits, rats, and guinea pigs survived 130 exposures and a monkey survived 100. No signs or symptoms ... observed in any animals during 130 exposures to 83 ppm."
+        },
+        {
+            "References": "Griffin TB et al, Ecotoxicol Environ Saf 4 (3): 267-81 (1980)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Rats exposed by inhalation at 25 ppm for 7 hr/day, 5 days/wk over a period of 22 months showed no methemoglobinemia, no malignancies or any significant pathologic changes in liver."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists.  Documentation of Threshold Limit Values for Chemical  Substances and Physical Agents and Biological Exposure  Indices for 2001. Cincinnati, OH. 2001., p. 2",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ In a NIOSH sponsored inhalation study, male Sprague-Dawley rats and New Zealand male rabbits were exposed to commercial grades of 2-nitropropane for 7 hours/day, 5 days/week for 6 months. One group of 50 rats and 15 rabbits was exposed to 207 ppm (750 mg/cu m), a second group of the same size was exposed at 27 ppm (98 mg/cu m), and a third group served as controls. Liver neoplasms, described as hepatocellular carcinoma or hepatic adenoma, were observed in all ten rats killed after six months of exposure at 207 (750 mg/cu m) of 2-NP. No tumors were observed in any other animals (rabbits or low-dose rats) in this study, including controls. Hepatocellular hypertrophy, hyperplasia, and necrosis were reported in rats exposed at 207 ppm for three months; elevated liver weights occurred in rats exposed at 207 ppm for one, three, and six months."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V71 1081 (1999)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Male Wistar rats, three to four weeks of age, received six intraperitoneal injections of 25, 50 or 100 mg/kg bw 2-nitropropane (95% pure) every two days. Between the 42nd and 56th day of the experiment, 2-acetylaminofluorene (2-AAF) dissolved in corn oil was added to the diet at a concentration of 50 mg/kg diet (ppm). In the middle of the 2-AAF treatment period (on day 49), rats were subjected to partial hepatectomy. From day 56, phenobarbital sodium was added to the diet at a concentration of 500 ppm for two weeks. After 70 days of the experiment, rats were killed and the livers examined for gamma-glutamyltranspeptidase (gamma-GT) and for glutathione S-transferase (GST) foci. The numbers of gamma-GT positive foci per cm2 were 0.6, 3.7, 5.5 and 22.2 in the control, low-dose, mid-dose and high-dose groups, respectively. The numbers of GST-positive foci were 1.4, 10.8, 10.7 and 29.9 in the four groups, respectively"
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 p. 570",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/  2-NP was a hepatic carcinogen for male, but not female rats of the Sprague-Dawley derived strain following a 6 month daily, 7 hr exposure at 207 ppm. Multiple hepatic carcinomas and numerous neoplastic nodules were present in the livers of all 10 rats exposed at 207 ppm 2-NP for 6 months but not at 27 ppm. Blood-filled cysts were occasionally seen in the neoplasm, and mitotic figures were frequently present. The hepatocellular carcinomas were rapidly growing and severely compressing the surrounding parenchyma. No metastatic hepatocellular carcinomas were seen in any of the other tissues examined. The difference between male and female rats in their response to 2-nitropropane is another important clue. The compound is more potent in males for liver toxicity, carcinogenicity, and induction of DNA repair synthesis. Differences in saturable metabolism between the two sexes point to a key role for metabolites produced by a first order pathway."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 p.571",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/  2-NP also causes hepatocarcinogenicity in rats given oral exposure. Sprague-Dawley rats (29 controls, 22 treated) were given gavage doses of vehicle or 2-NP (1 mmol/kg) three times per week for 16 weeks. Animals were sacrificed in the 77th week after treatment was initiated. 2-NP decreased body weight gain and caused massive hepatocellular carcinomas. Metastases were also seen in the lungs of four animals."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V71 1081 (1999)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/  2-Nitropropane (redistilled) was administered by gavage to weanling male Sprague-Dawley rats at a dose of 1 mmol/kg bw three times per week for 16 weeks. All surviving rats were killed at week 77. Benign liver tumours appeared in 4/22 treated animals versus 1/29 controls and malignant liver tumors occurred in 22/22 treated rats versus 0/29 controls (p < 0.001)."
+        },
+        {
+            "References": "JECFA; WHO Food Additive Series 26: Toxicological Evaluation of Certain Food Additives and Contaminants- 2-Nitropropane (1990). Available from, as of July 11, 2005: https://www.inchem.org/documents/jecfa/jecmono/v26je09.htm",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ This study was carried out on groups of 25 male Sprague-Dawley rats. An untreated group was administered 100 mg/day glutathione by gavage, another group was administered diethyl maleate (0.6 mL/kg) ip, and a third group served as a control. The test groups were exposed to 200 ppm 2-nitropropane by inhalation, 7 hr/day, 5 days/week. The glutathione-treated animals in the test group were treated 5 days/week prior to exposure to 2-nitropropane, and the diethyl maleate group were exposed 5 days/week and later 3 days/week to 2-nitropropane. Interim sacrifices (5 rats/group) were carried out at 3 months and 6 months, and the remaining animals were sacrificed at 7 months. Glutathione did not have any effect on the progressive development of nodular hyperplasia and hepatocellular carcinoma. Diethyl maleate, which causes a marked reduction in blood glutathione levels, delayed the appearance of hepatic cell injury and no hepatocellular carcinomas were observed at terminal sacrifice in this group."
+        },
+        {
+            "References": "Sheftel, V.O.; Indirect Food Additives and Polymers. Migration and Toxicology. Lewis Publishers, Boca Raton, FL. 2000., p. 773",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Rats were exposed to 170 mg 2-nitropropane/kg bw by ip injections on days 1-15 of gestation. The treatment caused developmental abnormalities in the cardiovascular system of pups from mothers treated with 2-nitropropane."
+        },
+        {
+            "References": "JECFA; WHO Food Additive Series 26: Toxicological Evaluation of Certain Food Additives and Contaminants- 2-Nitropropane (1990). Available from, as of July 11, 2005: https://www.inchem.org/documents/jecfa/jecmono/v26je09.htm",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ A dominant lethal test was carried out in male rats with exposure to atmospheres containing 25 ppm or 200 ppm 2-nitropropane for 7hr/day for 5 consecutive days. There were no effects attributable to 2-nitropropane on pregnancy frequency, numbers of corpora lutea or implantations, or the frequency of early deaths. Reductions to 75% were seen, however, in pregnancy frequencies in weeks 1 and 5 of the 200 ppm atmosphere group and in the frequencies of live implantations and late deaths in week 2 of the 200 ppm atmosphere group. A sperm abnormality test was carried out in male mice with exposure to atmospheres containing 25 ppm or 200 ppm 2-nitropropane for 7 hr/day for 5 consecutive days. Sperm abnormality frequency was not increased by 2-nitropropane treatment neither was the frequency increased by EMS treatment. These results were therefore consideredto be inconclusive."
+        },
+        {
+            "References": "WHO; Environ Health Criteria 138: 2-Nitropropane p.50 (1992). Available from, as of July 11, 2005: https://www.inchem.org/documents/ehc/ehc/ehc138.htm",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Observations ... indicated that a single intraperitoneal injection of 0.05 g 2-NP/kg to rats can produce significant changes in the fine structure of the liver and in the physiology of both liver and brain. ...The major observed neurochemical effect was a significant increase in acetylcholine esterase activity in the cerebrum and in isolated synaptosomes. There was little or no change in RNA, 2',3'-cyclic nucleotide 3'-phosphohydrolase, or acid proteinase in the brain."
+        },
+        {
+            "References": "WHO; Environ Health Criteria 138: 2-Nitropropane p.68 (1992). Available from, as of July 11, 2005: https://www.inchem.org/documents/ehc/ehc/ehc138.htm",
+            "Value": "/GENOTOXICITY/ One set of genotoxicity tests using rats... yielded strongly positive results. In both in vivo and in vitro tests, 2-NP induced DNA repair synthesis in rat liver cells. In the in vitro experiments, cultures of rat hepatocytes were incubated with 2-NP, while in the in vivo experiments rats were injected intraperitoneally with 2-NP, sacrificed 4 hr later, and cultures of their hepatocytes were examined for DNA repair synthesis. Exposure of hepatocyte cultures for 18 to 20 hr to concentrations of 2-NP as low as 2.7 mg/L (30 umol/L) induced a detectable (approximately 2-fold above the control level) increase in repair synthesis. The highest concentration tested, i.e. 89 mg/L (10 mmol/L), induced a 12- to 15-fold increase above control levels in hepatocytes from male rats and a 25- to 30-fold increase in hepatocytes from female rats. The in vivo experiments also demonstrated the existence of a sexual difference in susceptibility to 2-NP. In males, the lowest dose (20 mg/kg) induced a doubling in repair synthesis and the highest dose (80 mg/kg) a 3.6-fold increase, whereas in females these doses induced a very small increase and a doubling, respectively. In contrast to 2-NP, 1-NP given in vivo had no effect on DNA repair synthesis and did not increase in vitro repair synthesis above that expected from its contamination with 2-NP. .../The/ results from the in vivo experiments were in agreement with the observed greater hepatocarcinogenicity of 2-NP in male rats than in females. Their observation that 2-NP did not induce any increase in repair synthesis in any of nine non-hepatic cell lines derived from human, mouse, hamster, and rat tissues led the authors to suggest that 2-NP is not a direct-acting genotoxic agent but rather requires metabolic activation by liver-specific metabolism."
+        },
+        {
+            "References": "PMID:3821783",
+            "Value": "/GENOTOXICITY/ 2-Nitropropane (2-NP) was evaluated for cytogenetic effects in cultured human lymphocytes at concentrations of 0, 15, 30, 60 and 80 mM. Experiments were performed with and without metabolic activation. Without activation, the frequency of gaps was significantly increased at the 80 mM dose level. With activation, the frequency of gaps and chromatid-type aberrations (primarily breaks) were significantly increased at the 60 and 80 mM dose levels. Sister chromatid exchanges were evident in the presence of metabolic activation at or above the 30 mM dose level. Thus, 2-NP was positive in these tests and the lowest effective dose tested was 30 mM."
+        },
+        {
+            "References": "Snyder, R. (ed.). Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume II: Nitrogen and Phosphorus Solvents. Amsterdam-New York-Oxford: Elsevier, 1990., p. 396",
+            "Value": "/GENOTOXICITY/ A putative reduced metabolite, 2-aminopropane, showed no mutagenic activity, suggesting that its reduction in vivo is not necessary for 2-nitropropane to exert its mutagenic effect."
+        },
+        {
+            "References": "PMID:399919",
+            "Value": "/GENOTOXICITY/ In the Salmonella typhimurium/mammalian microsome (Ames) test increased revertants in the Salmonella tester strains. In an in vivo mutagenic (micronucleus) test, negative results were obtained."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V29 336 (1982)",
+            "Value": "/GENOTOXICITY/ Negative results in Drosophila sex-linked recessive lethal."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 p.572",
+            "Value": "/GENOTOXICITY/  2-Nitropropane is considered genotoxic. 2-NP modifies rat and rabbit liver DNA and RNA nucleosides in vitro. Base modifications include 8-aminodeoxyguanosine, 8-oxodeoxyguanosine in DNA, and 8-aminoguanosine and 8-oxoguanosine in RNA. 2-NP was active both with and without metabolic activations when tested for mutagenicity in the Ames assay. Generally metabolic activation had no effect or slightly reduced the number of revertants. One report the Ames strain TA 100 indicated that the mutagenicity of 2-NP was attributed to the formation of the metabolite 2-nitropropionate."
+        },
+        {
+            "References": "JECFA; WHO Food Additive Series 26: Toxicological Evaluation of Certain Food Additives and Contaminants- 2-Nitropropane (1990). Available from, as of July 11, 2005: https://www.inchem.org/documents/jecfa/jecmono/v26je09.htm",
+            "Value": "/GENOTOXICITY/ An unscheduled DNA synthesis (UDS) assay was carried out in human diploid fibroblasts with exposures of 3 hours duration and concentrations up to 5,000 ug/mL of culture medium. There was no increase in UDS in cells treated with 2-nitropropane."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V71 1084 (1999)",
+            "Value": "/GENOTOXICITY/  In vitro, in the absence of an exogenous metabolic system, 2-nitropropane induced unscheduled DNA synthesis in rat and mouse liver cells. It induced gene mutations in Chinese hamster cells and rat hepatoma cells in the absence of an exogenous metabolic system. In the absence of an exogenous metabolic system, 2-nitropropane induced micronuclei in three rat hepatoma cell lines but not in Chinese hamster cells."
+        },
+        {
+            "References": "WHO; Environ Health Criteria 138: 2-Nitropropane p.69 (1992). Available from, as of July 11, 2005: https://www.inchem.org/documents/ehc/ehc/ehc138.htm",
+            "Value": "/GENOTOXICITY/ Observations ...suggest that cytochrome P-450-dependent monooxygenases are important in the activation of 2-nitroprpane (2-NP) in liver. /One study/... found an increase in damage to liver DNA in rats pretreated with phenobarbital or beta-naphthoflavone, inducers of cytochrome P-450-dependent monooxygenases, and a reduction in liver DNA damage in rats pretreated with methoxsalen, an inhibitor of cytochrome P-450. /Another study/... examined the effect of 2-NP on rat hepatoma cell lines that express various forms of cytochrome P-450-dependent monooxygenases and V79 Chinese hamster cells that lack these enzyme activities. 2-NP increased DNA repair synthesis, micronuclei formation, and the frequency of mutants resistant to 6-thioguanine in hepatoma cells pretreated with dexamethasone, an inducer of various liver-specific cytochrome P-450 forms. Genotoxicity was reduced or absent in hepatoma cells not treated with the inducer. In the V79 cells, 2-NP produced only mutations to 6-thioguanine resistance."
+        },
+        {
+            "References": "WHO; Environ Health Criteria 138: 2-Nitropropane p.73 (1992). Available from, as of July 11, 2005: https://www.inchem.org/documents/ehc/ehc/ehc138.htm",
+            "Value": "/ALTERNATIVE IN VITRO TESTS/ ...In vitro studies with guinea-pig tissues suggest that 2-NP may have several pharmacological effects. A 0.1 uM (8.9 ug/L) solution inhibited oxygen consumption of polymorphonuclear leucocytes by 50%. These authors further reported that, with increasing concentrations of 2-NP, respiration of heart homogenate was initially depressed and subsequently stimulated. 2-NP also produces two opposite neural effects on smooth muscle preparations. Contraction is induced partly by ganglionic stimulation and partly by direct liberation of a transmitter from nerve endings, but at the same time 2-NP inhibits the response to acetylcholine and other smooth muscle stimulants. ...The action of nitroparaffins on smooth muscle was /found to be/ similar to that of nicotine in that their ability to induce contraction was inhibited by morphine and by high, but not low, concentrations of atropine."
+        },
+        {
+            "References": "Browning, E. Toxicity and Metabolism of Industrial Solvents. New York: American Elsevier, 1965., p. 287",
+            "Value": "/OTHER TOXICITY INFORMATION/ ... Lethal dose was found to be a product of concentration and length of exposure, death ... from shorter ... exposure to higher concentrations. Susceptibility of different species was also a factor, decreasing in the following order: cats, rats, rabbits, and guinea pigs."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Loehr RC; Treatablility Potential for EPA Listed Hazardous Wastes in Soil. USEPA. Robert Kerr. Environ Res Lab, Ada, OK: USEPA-600/2-89-011 (1989) (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Serjeant EP, Dempsey B; Ionisation Constants of Organic Acids in Aqueous Solution. International Union of Pure and Applied Chemistry (IUPAC). IUPAC Chemical Data Series No. 23 NY, NY: Pergamon Press, Inc. p.579 (1979) (4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "Based on Freundlich adsorption constants of 0.99354 for a Texas sandy silt loam soil (3.25% OC, pH 7.8) and 0.354 for a Mississippi sandy loam soil (0.94% OC, pH 4.8), Koc values determined for these two soils are 0.11 and 3.8, respectively(1).  According to a classification scheme(2), these Koc values suggest that 2-nitropropane is expected to have very high mobility in soil. The pKa of 2-nitropropane is 7.68(3), indicating that this compound will partially exist in anion form in the environment and anions generally do not adsorb more strongly to organic carbon and clay than their neutral counterparts(4)."
+        }
+    ]
+}

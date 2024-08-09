@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "6692711f303528b49832d802"
+    },
+    "CID": {
+        "$numberInt": "91779"
+    },
+    "Name": "Rimsulfuron",
+    "IUPACName": "1-(4,6-dimethoxypyrimidin-2-yl)-3-(3-ethylsulfonylpyridin-2-yl)sulfonylurea",
+    "CanonicalSMILES": "CCS(=O)(=O)C1=C(N=CC=C1)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC",
+    "Synonyms": [
+        "Rimsulfuron",
+        "122931-48-0",
+        "Tarot",
+        "DPX-E9636",
+        "2-Pyridinesulfonamide",
+        "N-[[(4,6-dimethoxy-2-pyrimidinyl)amino]carbonyl]-3-(ethylsulfonyl)-",
+        "1-(4,6-dimethoxypyrimidin-2-yl)-3-(3-ethylsulfonylpyridin-2-yl)sulfonylurea",
+        "N-(((4,6-Dimethoxy-2-pyrimidinyl)amino)carbonyl)-3-(ethylsulfonyl)-2-pyridinesulfonamide",
+        "CHEBI:8866",
+        "DTXSID1032642",
+        "1-(4,6-Dimethoxypyrimidin-2-yl)-3-(3-ethylsulfonyl-2-pyridylsulfonyl)urea",
+        "462J071RD7",
+        "Rimsulfuron [ANSI]",
+        "DPX-E 9636",
+        "2-Pyridinesulfonamide",
+        "N-(((4,6-dimethoxy-2-pyrimidinyl)amino)carbonyl)-3-(ethylsulfonyl)-",
+        "N-[(4,6-dimethoxypyrimidin-2-yl)carbamoyl]-3-(ethylsulfonyl)pyridine-2-sulfonamide"
+    ],
+    "IsomericSMILES": "CCS(=O)(=O)C1=C(N=CC=C1)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC",
+    "INCHI": "InChI=1S/C14H17N5O7S2/c1-4-27(21,22)9-6-5-7-15-12(9)28(23,24)19-14(20)18-13-16-10(25-2)8-11(17-13)26-3/h5-8H,4H2,1-3H3,(H2,16,17,18,19,20)",
+    "INCHIKEY": "MEFOUWRMVYJCQC-UHFFFAOYSA-N",
+    "Formula": "C14H17N5O7S2",
+    "MolecularWeight": {
+        "$numberDouble": "431.4"
+    },
+    "Description": "Rimsulfuron is a N-sulfonylurea that is N-carbamoyl-3-(ethylsulfonyl)pyridine-2-sulfonamide substituted by a 4,6-dimethoxypyrimidin-2-yl group at the amino nitrogen atom. It has a role as an environmental contaminant, a xenobiotic and a herbicide. It is a member of pyridines, a N-sulfonylurea, a member of pyrimidines, a sulfone and an aromatic ether.",
+    "XlogP": {
+        "$numberDouble": "0.7"
+    },
+    "Complexity": {
+        "$numberInt": "722"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Absorption, translocation, and metabolism of rimsulfuron were studied in three solanaceous weeds. Eastern black nightshade is sensitive (> 95% injury), hairy nightshade is moderately sensitive (50 to 99% injury), and black nightshade is tolerant to rimsulfuron postemergence (POST). Seedlings at the four- to six-leaf stage were treated with foliar-applied 14C-labeled rimsulfuron for 3, 6, 24, and 48 h after treatment. Absorption of rimsulfuron by all weeds increased with time. Black and eastern black nightshade absorbed comparable amounts of radioactivity at each exposure time. Hairy nightshade absorbed less radiolabeled herbicide than the other two nightshades at any treatment time. Hairy nightshade absorbed 54% of the applied radioactivity at 48 h, compared to 74% absorbed by the other weeds. Translocation of rimsulfuron out of the treated leaf was rapid in all species. Black and eastern black nightshade translocated 50 to 70% of the absorbed radioactivity out of the treated leaf with 40 to 50% moving to the upper foliage. In hairy nightshade, about 40% of the absorbed radioactivity translocated out of the treated leaf with equal amounts moving to the upper and lower foliage. Metabolism of 14C-rimsulfuron was rapid in the three nightshades with approximately 54% remaining as rimsulfuron at 3 h after treatment. The levels of the detected metabolites of rimsulfuron were similar in the three nightshade weeds. Differential early uptake and translocation may account for the differential sensitivity of these nightshade species to rimsulfuron.",
+            "reference": "Ackley, J. A., Hatzios, K. K., & Wilson, H. P. (1999). Absorption, translocation, and metabolism of rimsulfuron in black nightshade (Solanum nigrum), eastern black nightshade (Solanum ptycanthum), and hairy nightshade (Solanum sarrachoides). Weed technology, 13(1), 151-156.",
+            "method": {
+                "Test Plant": "Black nightshade (Solanum nigrum), eastern black nightshade (Solanum ptycanthum), and hairy nightshade (Solanum sarrachoides)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Seeds were grown in 0.5 L styrofoam cups with commercial potting medium under natural sunlight supplemented with metal halide lamps providing at least 14 h photoperiod. Plants were thinned to one per cup and fertilized weekly after emergence.",
+                "Chemical Preparation": "Formulated rimsulfuron and [pyrimidine-2-14C]-rimsulfuron (1302 kBq/mg, 98% radiochemical purity) were used. The radiolabeled solution contained 2.63 kBq in aqueous ethanol with 0.25% (v/v) non-ionic surfactant.",
+                "Pesticide Application Details for the Plant": "At 4-6 leaf stage, plants were treated with formulated rimsulfuron at 17 g ai/ha using a greenhouse sprayer delivering 234 L/ha at 221 kPa with 0.25% (v/v) non-ionic surfactant. After this, 10 \u03bcl of the radiolabeled solution was applied in 4 x 2.5 \u03bcl droplets on the adaxial surface of the third youngest leaf.",
+                "Other Information": "-"
+            },
+            "result": "[{\"Plant\": \"Hairy nightshade\", \"Hours after application\": 3, \"Absorption (% of applied)\": 40, \"Treated leaf (% of absorbed)\": 65, \"Upper foliage (%)\": 18, \"Lower foliage (%)\": 17}, {\"Plant\": \"Hairy nightshade\", \"Hours after application\": 6, \"Absorption (% of applied)\": 38, \"Treated leaf (% of absorbed)\": 60, \"Upper foliage (%)\": 20, \"Lower foliage (%)\": 20}, {\"Plant\": \"Hairy nightshade\", \"Hours after application\": 24, \"Absorption (% of applied)\": 56, \"Treated leaf (% of absorbed)\": 59, \"Upper foliage (%)\": 19, \"Lower foliage (%)\": 22}, {\"Plant\": \"Hairy nightshade\", \"Hours after application\": 48, \"Absorption (% of applied)\": 54, \"Treated leaf (% of absorbed)\": 55, \"Upper foliage (%)\": 21, \"Lower foliage (%)\": 24}, {\"Plant\": \"Estern black nightshade\", \"Hours after application\": 3, \"Absorption (% of applied)\": 58, \"Treated leaf (% of absorbed)\": 34, \"Upper foliage (%)\": 44, \"Lower foliage (%)\": 22}, {\"Plant\": \"Estern black nightshade\", \"Hours after application\": 6, \"Absorption (% of applied)\": 68, \"Treated leaf (% of absorbed)\": 25, \"Upper foliage (%)\": 51, \"Lower foliage (%)\": 24}, {\"Plant\": \"Estern black nightshade\", \"Hours after application\": 24, \"Absorption (% of applied)\": 72, \"Treated leaf (% of absorbed)\": 51, \"Upper foliage (%)\": 30, \"Lower foliage (%)\": 19}, {\"Plant\": \"Estern black nightshade\", \"Hours after application\": 48, \"Absorption (% of applied)\": 74, \"Treated leaf (% of absorbed)\": 41, \"Upper foliage (%)\": 45, \"Lower foliage (%)\": 14}, {\"Plant\": \"Black nightshade\", \"Hours after application\": 3, \"Absorption (% of applied)\": 52, \"Treated leaf (% of absorbed)\": 49, \"Upper foliage (%)\": 32, \"Lower foliage (%)\": 19}, {\"Plant\": \"Black nightshade\", \"Hours after application\": 6, \"Absorption (% of applied)\": 63, \"Treated leaf (% of absorbed)\": 42, \"Upper foliage (%)\": 42, \"Lower foliage (%)\": 16}, {\"Plant\": \"Black nightshade\", \"Hours after application\": 24, \"Absorption (% of applied)\": 73, \"Treated leaf (% of absorbed)\": 29, \"Upper foliage (%)\": 43, \"Lower foliage (%)\": 28}, {\"Plant\": \"Black nightshade\", \"Hours after application\": 48, \"Absorption (% of applied)\": 74, \"Treated leaf (% of absorbed)\": 37, \"Upper foliage (%)\": 40, \"Lower foliage (%)\": 23}]"
+        }
+    ]
+}

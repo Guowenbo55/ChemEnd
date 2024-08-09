@@ -1,0 +1,83 @@
+{
+    "_id": {
+        "$oid": "6682e847c4e5dba5ffba24cc"
+    },
+    "CID": {
+        "$numberInt": "6392"
+    },
+    "Name": "CHLOROTRIFLUOROMETHANE",
+    "IUPACName": "chloro(trifluoro)methane",
+    "CanonicalSMILES": "C(F)(F)(F)Cl",
+    "Synonyms": [
+        "CHLOROTRIFLUOROMETHANE",
+        "Trifluoromethyl chloride",
+        "75-72-9",
+        "Trifluorochloromethane",
+        "Monochlorotrifluoromethane",
+        "Methane",
+        "chlorotrifluoro-",
+        "chloro(trifluoro)methane",
+        "Genetron 13",
+        "Arcton 3",
+        "CFC-13",
+        "Frigen 13",
+        "Freon 13",
+        "Trifluoromonochlorocarbon",
+        "Halocarbon 13/ucon 13",
+        "Methane",
+        "monochlorotrifluoro-"
+    ],
+    "IsomericSMILES": "C(F)(F)(F)Cl",
+    "INCHI": "InChI=1S/CClF3/c2-1(3,4)5",
+    "INCHIKEY": "AFYPFACVUDMOHA-UHFFFAOYSA-N",
+    "Formula": "CClF3",
+    "MolecularWeight": {
+        "$numberDouble": "104.46"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "2"
+    },
+    "Complexity": {
+        "$numberInt": "28"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C, Leo A; Exploring QSAR Fundamentals and Applications in Chemistry and Biology. Washington,DC: Amer Chem Soc (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington,DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF value of 10 was calculated for chlorotrifluoromethane(SRC), using a measured log Kow of 1.65(1) and a recommended regression-derived equation(2). According to a classification scheme(3), this BCF value suggests that bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Boethling RS et al; Environ Sci Technol 28: 459-465 (1994)",
+            "Value": "Highly chlorinated/fluorinated compounds are not expected to biodegrade rapidly(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 3",
+            "Value": "log Kow = 1.65"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Gosselin, R.E., H.C. Hodge, R.P. Smith, and M.N. Gleason. Clinical Toxicology of Commercial Products. 4th ed. Baltimore: Williams and Wilkins, 1976., p. II-109",
+            "Value": "EARLY ANIMAL...EXPERIENCE INDICATED THAT HIGH VAPOR CONCN (EG, 20%) MAY CAUSE CONFUSION, PULMONARY IRRITATION, TREMORS & RARELY COMA, BUT THAT THESE EFFECTS WERE GENERALLY TRANSIENT & WITHOUT LATE SEQUELAE. /FLUOROCARBON REFRIGERANTS & PROPELLANTS/"
+        },
+        {
+            "References": "Clark DG, Tinston DJ; Acute inhalation toxicity of some halogenated and nonhalogenated hydrocarbons; Hum Toxicol 1 (3): 239-47 (1982)",
+            "Value": "The relative potency of effect of a wide range of halogenated and unsubstituted hydrocarbons on the central nervous system (CNS) and heart of experimental animals were determined. The chemicals used caused stimulation or depression of the rat CNS after 10 min inhalation at 0.24-80% (vol/vol), and cardiac sensitization in dogs after 5 min inhalation at 0.12-80% (vol/vol)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C, Leo A; Exploring QSAR Fundamentals and Applications in Chemistry and Biology. Washington,DC: Amer Chem Soc (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 23 (1983)",
+            "Value": "The Koc of chlorotrifluoromethane is estimated as approximately 188(SRC), using a measured log Kow of 1.65(1) and a regression-derived equation(2). According to a recommended classification scheme(3), this estimated Koc value suggests that chlorotrifluoromethane is expected to have moderate mobility in soil(SRC)."
+        }
+    ]
+}

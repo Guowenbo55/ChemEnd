@@ -1,0 +1,69 @@
+{
+    "_id": {
+        "$oid": "6682e80dc4e5dba5ffba23ac"
+    },
+    "CID": {
+        "$numberInt": "4173"
+    },
+    "Name": "METRONIDAZOLE",
+    "IUPACName": "2-(2-methyl-5-nitroimidazol-1-yl)ethanol",
+    "CanonicalSMILES": "CC1=NC=C(N1CCO)[N+](=O)[O-]",
+    "Synonyms": [
+        "metronidazole",
+        "443-48-1",
+        "Flagyl",
+        "2-Methyl-5-nitroimidazole-1-ethanol",
+        "Metronidazol",
+        "Anagiardil",
+        "Gineflavir",
+        "Deflamon",
+        "Orvagil",
+        "MetroGel",
+        "Novonidazol",
+        "Meronidal",
+        "Metronidaz",
+        "Mexibol",
+        "Trichazol"
+    ],
+    "IsomericSMILES": "CC1=NC=C(N1CCO)[N+](=O)[O-]",
+    "INCHI": "InChI=1S/C6H9N3O3/c1-5-7-4-6(9(11)12)8(5)2-3-10/h4,10H,2-3H2,1H3",
+    "INCHIKEY": "VAOCPAMSLUNLGC-UHFFFAOYSA-N",
+    "Formula": "C6H9N3O3",
+    "MolecularWeight": {
+        "$numberDouble": "171.15"
+    },
+    "Description": "Metronidazole is a member of the class of imidazoles substituted at C-1, -2 and -5 with 2-hydroxyethyl, nitro and methyl groups respectively. It has activity against anaerobic bacteria and protozoa, and has a radiosensitising effect on hypoxic tumour cells. It may be given by mouth in tablets, or as the benzoate in an oral suspension. The hydrochloride salt can be used in intravenous infusions. Metronidazole is a prodrug and is selective for anaerobic bacteria due to their ability to intracellularly reduce the nitro group of metronidazole to give nitroso-containing intermediates. These can covalently bind to DNA, disrupting its helical structure, inducing DNA strand breaks and inhibiting bacterial nucleic acid synthesis, ultimately resulting in bacterial cell death. It has a role as an antitrichomonal drug, a prodrug, an antibacterial drug, an antimicrobial agent, an antiparasitic agent, a xenobiotic, an environmental contaminant, a radiosensitizing agent and an antiamoebic agent. It is a member of imidazoles, a C-nitro compound and a primary alcohol. It is a conjugate base of a metronidazole(1+).",
+    "XlogP": {
+        "$numberDouble": "0"
+    },
+    "Complexity": {
+        "$numberInt": "170"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995.",
+            "Value": "log Kow = -0.02"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Thomson/Micromedex. Drug Information for the Health Care Professional. Volume 1,  Greenwood Village, CO. 2006., p. 2069",
+            "Value": "Microbicidal; active against most obligate anaerobic bacteria and protozoa by undergoing intracellular chemical reduction via mechanisms unique to anaerobic metabolism. Reduced metronidazole, which is cytotoxic but short-lived, interacts with DNA to cause loss of helical structure, strand breakage, and resultant inhibition of nucleic acid synthesis and cell death."
+        },
+        {
+            "References": "McEvoy, G.K. (ed.). American Hospital Formulary Service.   AHFS Drug Information. American Society of Health-System   Pharmacists, Bethesda, MD. 2006., p. 891",
+            "Value": "Metronidazole is bactericidal, amebicidal, and trichomonacidal in action. The exact mechanism of action of the drug has not been fully elucidated. Metronidazole is un-ionized at physiologic pH and is readily taken up by anaerobic organisms or cells. In susceptible organisms or cells, metronidazole is reduced by low-redox-potential electron transport proteins (e.g., nitroreductases such as ferredoxin) to unidentified polar product(s) which lack the nitro group. The reduction product(s) appears to be responsible for the cytotoxic and antimicrobial effects of the drug which include disruption of DNA and inhibition of nucleic acid synthesis. Metronidazole is equally effective against dividing and nondividing cells."
+        },
+        {
+            "References": "McEvoy, G.K. (ed.). American Hospital Formulary Service.   AHFS Drug Information. American Society of Health-System   Pharmacists, Bethesda, MD. 2006., p. 891",
+            "Value": "In in vivo studies in rats given metronidazole in dosages of 2-4 mg/100 g of body weight, the drug reportedly inhibited the development of formalin-induced edema in the rat paw. In vitro in neutrophils, metronidazole has a dose-dependent inhibitory effect on generation of hydrogen peroxide and hydroxyl radicals, oxidants that may cause tissue injury at the site of inflammation. This antioxidant effect appears to be caused by a direct effect on neutrophil function and may contribute to the drug's anti-inflammatory effect in vivo."
+        },
+        {
+            "References": "McEvoy, G.K. (ed.). American Hospital Formulary Service.   AHFS Drug Information. American Society of Health-System   Pharmacists, Bethesda, MD. 2006., p. 891",
+            "Value": "Results of in vitro studies using leukocytes obtained from patients with Crohn's disease indicate that exposing the cells to metronidazole concentrations of 10 or 50 mcg/mL improved both spontaneous and induced leukocyte migration in cells that previously exhibited reduced migration; the drug had no effect on leukocytes obtained from healthy adults or patients with Crohn's disease when the cells exhibited normal migration prior to exposure to the drug. This effect on leukocyte migration also was observed in vivo in adults with Crohn's disease who received a single 400-mg dose of metronidazole. It has been suggested that metronidazole may increase leukocyte migration by a direct effect on the leukocytes, possibly by causing the release of surface-bound immune complexes from the cell surface."
+        }
+    ]
+}

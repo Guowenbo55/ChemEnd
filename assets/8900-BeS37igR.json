@@ -1,0 +1,167 @@
+{
+    "_id": {
+        "$oid": "6682e8cbc4e5dba5ffba275f"
+    },
+    "CID": {
+        "$numberInt": "8900"
+    },
+    "Name": "n-Heptane",
+    "IUPACName": "heptane",
+    "CanonicalSMILES": "CCCCCCC",
+    "Synonyms": [
+        "HEPTANE",
+        "n-Heptane",
+        "142-82-5",
+        "Heptan",
+        "Heptyl hydride",
+        "Dipropyl methane",
+        "Dipropylmethane",
+        "Gettysolve-C",
+        "Skellysolve C",
+        "Heptanen",
+        "Eptani",
+        "HSDB 90",
+        "NSC 62784",
+        "Heptanes",
+        "EINECS 205-563-8"
+    ],
+    "IsomericSMILES": "CCCCCCC",
+    "INCHI": "InChI=1S/C7H16/c1-3-5-7-6-4-2/h3-7H2,1-2H3",
+    "INCHIKEY": "IMNFDUFMRHMDMM-UHFFFAOYSA-N",
+    "Formula": "C7H16",
+    "MolecularWeight": {
+        "$numberDouble": "100.2"
+    },
+    "Description": "Heptane is a straight-chain alkane with seven carbon atoms. It has been found in Jeffrey pine (Pinus jeffreyi). It has a role as a non-polar solvent and a plant metabolite. It is a volatile organic compound and an alkane.",
+    "XlogP": {
+        "$numberDouble": "4.4"
+    },
+    "Complexity": {
+        "$numberInt": "19"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Tatsuka K et al; J Agric Food Chem 38: 2176-80 (1990)",
+            "Value": "n-Heptane was identified as a volatile constituent in kiwi fruit flowers collected in Kawanishishi, Hyogo, Japan(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Miller MM et al; Environ Sci Technol 19: 522-9 (1985) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Oct 1, 2013: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 550 was calculated in fish for n-heptane(SRC), using a log Kow of 4.66(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is high(SRC), provided the compound is not metabolized by the organism(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Oct 1, 2013: https://www.safe.nite.go.jp/english/db.html (2) Prince RC et al; Chemosphere 71: 1446-51 (2008) (3) Malaney GW, McKinney RE; Water Sewage Works 113: 302-9 (1966) (4) Haines JR, Alexander M; Appl Microbiol 28: 1084-5 (1974) (5) Garnier P et al; J Gen Appl Microbiol 46: 79-84 (2000) (6) Gerhold RM, Malaney GW; J Water Pollut Contr Fed 38: 562-79 (1966) (7) Solano-Serena F et al; J Appl Microbiol 86: 1008-16 (1999)",
+            "Value": "AEROBIC: n-Heptane, present at 100 mg/L, reached 101% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1). In a study determining the primary aerobic biodegradation of biodiesel B20 fuel, the calculated half-life of n-heptane contained in the mixture was 2.3 days using unacclimated inocula from a rainwater detention pond(2). The theoretical oxygen demand of benzene acclimated activated sludge for n-heptane was 0.7, 4.3 and 23.4% after 6, 24, and 72 hr, respectively(3). One mg of n-heptane and 1 ml of a 1:10 suspension of Hudson-Collamer silt loam soil in mineral salts media were incubated in the dark at 25 \u00b0C(4). Controls without n-heptane were used to determine the net oxygen consumed(4). The average theoretical biological oxygen demand of trials for n-heptane was 28, 63, 70 and 70% after 2, 5, 10 and 20 days, respectively(4). n-Heptane (5 ml) was completely degraded 4 days after it was added to a microcosm inoculated with soil from a gasoline contaminated site(5). At intervals of 6, 12 and 24 hr, endogenous respiration was greater than that of 3 preparations of n-heptane and activated sludge from differing aeration units of sewage treatment facilities(6). n-Heptane was degraded to approximately 17% of its initial concentration (unspecified) after 2 days and 100% after 25 days, respectively, in gasoline (400 mg/L) inoculated with activated aerobic sewage sludge (100 mg dry wt/L)(7)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Misharina TA, Golovnya RV; J High Resol Chromat 15: 332-4 (1992) (2) Cha YJ, Cadwallader KR; J Food Sci 60: 19-24 (1995)",
+            "Value": "n-Heptane has been found among the volatile components of crab and shrimp meat(1). The mean concentrations of n-heptane in anchovy, big-eyed herring, shrimp, and hair tail vicera salt-fermented fish pastes obtained from a fish market in Masan Korea(2)."
+        },
+        {
+            "References": "Hesselberg RJ, Seelye JG; ADMEN Rep 82-1 US Fish Wildlife Soc Great L Fishery Lab p. 49 (1982)",
+            "Value": "n-Heptane was detected in Walleye fish tissues from Lake St Clair, MI."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Miller MM et al; Environ Sci Technol 19: 522-9 (1985)",
+            "Value": "log Kow = 4.66"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:19345012",
+            "Value": "In the present molecular dynamics simulations /investigators/ study the chemical warfare agent sulfur mustard (bis(2-chloroethyl) sulfide) and the alkane heptane inserted into a dipalmitoylphosphatidylcholine (DPPC) bilayer, a generic model for a biological membrane. /They/ investigate the diffusion, the orientation, the preferred positioning, and the end-to-end distance of the solutes within the membrane as well as the corresponding coupling times. /Investigators/ compare results of equilibrium simulations and simulation at different external forces, which drag the solutes through the membrane. These properties lead to a general comparison of the rotational and translational behaviors of the two solutes during the penetration of the membrane... For heptane the hindrance to penetrate into the membrane is significantly higher than for sulfur mustard. In contrast to heptane molecules, which spend the most of the time penetrating the tail groups, sulfur mustard needs more time to escape the tail group-head group interface of the membrane."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 p.46",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  Inhalation exposures of mice to 10,000-15,000 ppm heptane produced CNS depression in mice within 30-60 min. At higher concentrations (<20,000 ppm), 30-60 min exposures caused convulsions and death in mice; 48,000 ppm caused respiratory arrest in 3 of 4 exposed mice in 3 min. A concentration of 40 mg/L affected righting reflexes of mice, and 70 mg/L was lethal."
+        },
+        {
+            "References": "Snyder, R. (ed.) Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume 1: Hydrocarbons. Amsterdam - New York - Oxford: Elsevier, 1987., p. 301",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Inhalation exposure of mice to heptane concentrations of 13000-19000 ppm caused convulsions and deaths within 15-40 min. Prostration and loss of reflexes were typically observed in mice prior to death. ... The lethal dose by oral administration has been reported to be greater than 15 g/kg."
+        },
+        {
+            "References": "Snyder, R. (ed.) Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume 1: Hydrocarbons. Amsterdam - New York - Oxford: Elsevier, 1987., p. 302",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ At 9800 ppm mice were observed to be prostrated after being exposed to heptane vapors for 2 hr. ... Death ... was observed to occur ... when exposure levels approached 18,000 ppm."
+        },
+        {
+            "References": "PMID:12816398",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ JP-8 jet fuel has been reported to cause systemic and dermal toxicities in animal models and humans. There is a great potential for human exposure to JP-8. In this study, /investigators/ determined percutaneous absorption and dermal toxicity of three components of JP-8 (i.e., xylene, heptane, and hexadecane) in vivo in weanling pigs.  In vivo percutaneous absorption results suggest a greater absorption of hexadecane (0.43%) than xylene (0.17%) or heptane (0.14%) of the applied dose after 30 min exposure.  Transepidermal water loss (TEWL) provides a robust method for assessing damage to the stratum corneum.  Heptane showed greater increase in TEWL than the other two chemicals.  No significant (p < 0.05) increase in temperature was observed at the chemically treated site than the control site.  Heptane showed greater TEWL values and erythema score than other two chemicals (xylene and hexadecane). /The researchers/ did not observe any skin reactions or edema from these chemicals..."
+        },
+        {
+            "References": "PMID:7426474",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ The neurotoxicity of n-pentane, n-hexane, and n-heptane have been studied in Wistar strain male rats after exposure to 3000 ppm of n-pentane, n-hexane, or n-heptane for 12 hours a day for 16 weeks. The nerve conduction velocity and the distal latency were measured before the beginning of the exposure and after exposure for four, eight, 12, and 16 weeks. The experiment showed that n-hexane disturbed the conduction velocity of the motor nerve and the mixed nerve and prolonged the distal latency in the rat's tail, but that n-pentane and n-heptane did not. The light and electron microscopic examination showed that the peripheral nerve, the neuromuscular junction, and the muscle fiber of the rats exposed to n-hexane were severely impaired, but those of the rats exposed to n-pentane or n-heptane showed no particular changes even after 16 weeks of exposure. /Petroleum distillate/"
+        },
+        {
+            "References": "PMID:2837504",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Hepatotoxic effects of n-hexane and n-heptane administered ip (1 mL/kg bw) were studied in albino rats after 1, 2, 7 and 45 days of treatment. Hepatic protein content decreased with n-heptane and total sulphydryl content showed a significant decrease in the rats exposed to either solvent. A significant increase in lipid peroxidation was observed after 24 hr and 48 hr exposure to n-hexane or n-heptane. A marked decrease in drug metabolizing activity and an increase in pentabarbitone sleeping time was also observed. Hepatic glucose-6-phosphatase, a microsomal marker enzyme, showed a significant decrease. /Petroleum distillate/"
+        },
+        {
+            "References": "Snyder, R. (ed.) Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume 1: Hydrocarbons. Amsterdam - New York - Oxford: Elsevier, 1987., p. 302",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ A study which exposed male and female rats to concentrations of 400-3000 ppm 6 hr/day, 5 days/wk for 26 wk found no evidence of neurological disturbances or organ toxicity. Except for increased serum alkaline phosphatase levels in female rats at 3000 ppm, blood chemistry showed no hematological, renal, or liver abnormalities. ... In rats exposed to 3000 ppm concentration 12 hr/day, 7 days/wk for 16 wk, no abnormal neurobehavioral changes were observed in treated rats when compared to controls. ... The body weight of animals exposed to heptane were not significantly different from those of control animals except at 8 wk ... There was no evidence that n-heptane can cause peripheral nerve damage ... ."
+        },
+        {
+            "References": "Snyder, R. (ed.) Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume 1: Hydrocarbons. Amsterdam - New York - Oxford: Elsevier, 1987., p. 303",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In rats exposed to heptane vapors (100, 500, and 1500 ppm) for 2 wk ... some minor biochemical changes (increased brain RNA concentration, acid proteinase activity, decreased glutathione levels, increased NADPH-diaphorase activity) /were observed/ at a few dose levels. These biochemical effects were reversible and returned to normal 2 wk after exposure was terminated."
+        },
+        {
+            "References": "Sheftel, V.O.; Indirect Food Additives and Polymers. Migration and Toxicology. Lewis Publishers, Boca Raton, FL. 2000., p. 738",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Rats were gavaged with daily doses of 4.0 g/kg bw for 13 weeks. The treatment caused changes in bladder weight, weight loss, or decreased weight gain. Hypoglycemia was also noted."
+        },
+        {
+            "References": "Snyder, R. (ed.) Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume 1: Hydrocarbons. Amsterdam - New York - Oxford: Elsevier, 1987., p. 302",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Rats exposed to n-heptane concentration of 1500 ppm 9 hr/day, 5 days/wk for 30 wk did not develop any signs of neurotoxicity. There was no significant difference in the body weight of rats exposed to n-heptane vapors for 30 wk when compared to unexposed control animals. Histopathological examination of nerve tissues obtained from n-heptane dosed rats showed no signs of morphological \"giant axonal degeneration\" in the peripheral and central nervous systems ... ."
+        },
+        {
+            "References": "Snyder, R. (ed.) Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume 1: Hydrocarbons. Amsterdam - New York - Oxford: Elsevier, 1987., p. 303",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ ... In decerebrated cats ... 6000-18000 ppm ... n-heptane caused an initial increase in respiratory rate and then a decrease to below baseline. During the exposure period, blood pressure was decreased but returned to normal during the recovery period."
+        },
+        {
+            "References": "PMID:7469483",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Inhalation exposure of male rats at three dose levels (4.2, 21, 62 mol/L) to n-heptane vapor caused a dose-dependent brain and body solvent burden, which increased during two weeks of exposure. Initial neurochemical effects included reduced RNA concentration and increased NADPH-diaphorase in brain at the lowest dose. Increased proteolysis was detected in the cerebral samples in the second week at all doses, and the NADPH-diaphorase returned to the control range. Brain RNA content tended to be larger than in the controls. All biochemical effects were abolished after two weeks of withdrawal from the two-week exposure, with the exception of reduced glutathione at the lowest dose. None of the rats presented clinical signs of neuropathy, which indicates that heptane and its metabolites do not share the specific neurotoxicity of hexane and its metabolites."
+        },
+        {
+            "References": "PMID:7753756",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ The effects of exposure to 800 or 4000 ppm of n-heptane, 6 hr/day during a period of 28 days, on the function of the auditory system were examined by measurements of auditory brain stem response (ABR) in Long Evans rats. The ABR was measured simultaneously with both needle electrodes and implanted electrodes. The wave forms recorded with the two types of electrodes were similar, but the amplitudes were largest on the recordings with implanted electrodes. The overall ratio between the amplitudes obtained with implanted electrodes and with needle electrodes was 1.4 for peak Ia and 2.5 for peak IV of the ABR. The exposure to n-heptane (4000 ppm) reduced the amplitudes of components Ia and IV of the ABR. The reduction was most consistent for component IV and most pronounced at higher frequencies and intensities. The reduction in ABR corresponds to an increase in the auditory threshold of approximately 10 dB at all frequencies. Neither the latencies nor the interpeak latencies of components Ia and IV were changed. No significant changes in ABR were observed in the group exposed to 800 ppm."
+        },
+        {
+            "References": "Sullivan, J.B., Krieger G.R. (eds). Clinical Environmental Health and Toxic Exposures. Second edition. Lippincott Williams and Wilkins, Philadelphia, Pennsylvania 1999., p. 739",
+            "Value": "/GENOTOXICITY/ Heptane was shown to be negative in the rat liver chromosome, in the bacterial mutation assay, and the yeast mitotic gene conversion assay."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 p.47",
+            "Value": "/GENOTOXICITY/  Heptane is not mutagenic in the Ames Salmonella typhimurium system."
+        },
+        {
+            "References": "PMID:17605667",
+            "Value": "/VETERINARY CASE REPORTS/ CASE DESCRIPTION: 2 dogs were evaluated because of vomiting and lethargy (a Toy Poodle; dog 1) and acute respiratory distress, vomiting, and anorexia (a Chihuahua; dog 2).  Dog 1 had been exposed to a commercial hydrocarbon waterproofing spray 24 hours before the development of clinical signs, and dog 2 was examined 18 hours after exposure to a waterproofing spray containing heptane, a highly flammable liquid hydrocarbon.  CLINICAL FINDINGS: In both dogs, major gastrointestinal tract abnormalities were ruled out but respiratory status worsened.  Thoracic radiography revealed a diffuse interstitial pulmonary pattern, and hypoxemia was detected.  TREATMENT AND OUTCOME: Hospitalization for monitoring and care was required for both dogs.  The dogs recovered with supportive care, which included administration of oxygen, fluids, and bronchodilators.  Additionally, dog 1 received glucocorticoids via inhalation and supplemental enteral nutrition, whereas dog 2 was treated with an antimicrobial.  CLINICAL RELEVANCE:  The dogs of this report developed hydrocarbon pneumonitis following exposure to waterproofing sprays.  Such sprays contain potentially toxic hydrocarbons.  The severity of the adverse effects associated with exposure may have been amplified because the dogs were physically small and were exposed to a relatively large amount of aerosolized spray within small areas.  Development of chemical pneumonitis in pet animals is best prevented by application of waterproofing sprays in well-ventilated or outdoor areas from which pets have been excluded.  With prolonged hospitalization and considerable monitoring and care, affected dogs can recover from these exposures."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Eiceman GA et al; Intern J Environ Anal Chem 24: 143-62 (1986)",
+            "Value": "SOIL: n-Heptane was detected in the soil surrounding an earthen disposal pit for produced water in the Duncan Oil Field, NM(1)."
+        },
+        {
+            "References": "(1) Whelan JK et al; Geochim Cosmochim Acta 44: 1767-85 (1984) (2) Durrani S and Siddiqui SA; Mar Pollut Bull 21: 397-99 (1990)",
+            "Value": "SEDIMENT: n-Heptane was detected in 3 of 4 sediment samples from Walvis Bay of the Namibian shelf of SW Africa at concentrations of 0.12, 0.13 and 0.15 ng/g(1). n-Heptane has been detected (unspecified concentrations) in sediment collected from the Manora Channel of Karachi, Pakistan(2)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of October 1, 2013: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of n-heptane can be estimated to be 240(SRC). According to a classification scheme(2), this estimated Koc value suggests that n-heptane is expected to have moderate mobility in soil."
+        }
+    ]
+}

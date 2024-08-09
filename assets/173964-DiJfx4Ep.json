@@ -1,0 +1,63 @@
+{
+    "_id": {
+        "$oid": "66927101303528b49832d789"
+    },
+    "CID": {
+        "$numberInt": "173964"
+    },
+    "Name": "Chlobenthiazone",
+    "IUPACName": "4-chloro-3-methyl-1,3-benzothiazol-2-one",
+    "CanonicalSMILES": "CN1C2=C(C=CC=C2Cl)SC1=O",
+    "Synonyms": [
+        "Chlobenthiazone",
+        "63755-05-5",
+        "4-Chloro-3-methylbenzo[d]thiazol-2(3H)-one",
+        "Chlobenthiazone [ISO]",
+        "4-Chloro-3-methyl-2(3H)-benzothiazolone",
+        "4-chloro-3-methyl-1,3-benzothiazol-2-one",
+        "2(3H)-Benzothiazolone",
+        "4-chloro-3-methyl-",
+        "CWS1R2VYG3",
+        "4-chloro-3-methyl-2,3-dihydro-1,3-benzothiazol-2-one",
+        "UNII-CWS1R2VYG3",
+        "S 1901",
+        "BRN 1212093",
+        "SCHEMBL158684",
+        "DTXSID60213194",
+        "AKOS006276785"
+    ],
+    "IsomericSMILES": "CN1C2=C(C=CC=C2Cl)SC1=O",
+    "INCHI": "InChI=1S/C8H6ClNOS/c1-10-7-5(9)3-2-4-6(7)12-8(10)11/h2-4H,1H3",
+    "INCHIKEY": "QCPASDYEQAVIJF-UHFFFAOYSA-N",
+    "Formula": "C8H6ClNOS",
+    "MolecularWeight": {
+        "$numberDouble": "199.66"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "2.5"
+    },
+    "Complexity": {
+        "$numberInt": "211"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Chlobenthiazone (S-1901), 4-chloro-3-methyl-2(3H)-benzothiazolone, is a new fungicide for the control of rice blast. Greenhouse studies indicated that the fungicide had high preventive and residual activities at low concentrations against the disease. On the contrary, curative activity was not obtained even at a concentration as high as 500 \u00b5g/ml. The fungicide was also effective in controlling the disease by submerged application, indicating systemic movements in plants. When ^14C-labeled chlobenthiazone was applied to the leaves or roots of rice seedlings, radioactivity was found to be rapidly translocated to the untreated parts of the plants, confirming the results in pot trials. Furthermore, the rice seedlings exposed to the fungitoxic vapor were protected from the disease. It is suggested that both the systemic and the vapor phase activities must contribute to the effective disease control in fields. Some of the field trials demonstrated foliar or submerged application.\n\n\n\n\n",
+            "reference": "\u4e95\u4e0a\u609f, & \u52a0\u85e4\u5bff\u90ce. (1983). Mode of rice blast control by chlobenthiazone. Journal of Pesticide Science, 8(3), 333-338.",
+            "method": {
+                "Test Plant": "Rice",
+                "Apply Location": "Soil apply",
+                "Plant Grown Condition": "Seeds sown at 200g per 30x60x3cm flat, grown to 2nd leaf stage in greenhouse, then transplanted to irrigated field",
+                "Chemical Preparation": "10% wettable powder or 10% emulsifiable concentrate formulations of chlobenthiazone diluted in water. Reference fungicides probenazole, isoprothiolane, IBP also used per manufacturer recommendations",
+                "Pesticide Application Details for the Plant": "Granules at 2.4 kg ai/ha (leaf blast, 2 appls) and 3.2 kg ai/ha (panicle blast), applied to submerged soil",
+                "Other information and Other Information": "Disease severity assessed by infected leaf area % (pots) and disease index formula (field). 3 replicates of 20 m2 plots in randomized block design"
+            },
+            "result": "[{\"Days after application\": 5, \"Concentration (ug/ml)\": 6.0, \"Disease control activity (%)\": 100}, {\"Days after application\": 5, \"Concentration (ug/ml)\": 3.0, \"Disease control activity (%)\": 100}, {\"Days after application\": 5, \"Concentration (ug/ml)\": 1.5, \"Disease control activity (%)\": 100}, {\"Days after application\": 5, \"Concentration (ug/ml)\": 0.8, \"Disease control activity (%)\": 100}, {\"Days after application\": 10, \"Concentration (ug/ml)\": 6.0, \"Disease control activity (%)\": 100}, {\"Days after application\": 10, \"Concentration (ug/ml)\": 3.0, \"Disease control activity (%)\": 100}, {\"Days after application\": 10, \"Concentration (ug/ml)\": 1.5, \"Disease control activity (%)\": 88}, {\"Days after application\": 10, \"Concentration (ug/ml)\": 0.8, \"Disease control activity (%)\": 85}, {\"Days after application\": 15, \"Concentration (ug/ml)\": 6.0, \"Disease control activity (%)\": 100}, {\"Days after application\": 15, \"Concentration (ug/ml)\": 3.0, \"Disease control activity (%)\": 100}, {\"Days after application\": 15, \"Concentration (ug/ml)\": 1.5, \"Disease control activity (%)\": 80}, {\"Days after application\": 15, \"Concentration (ug/ml)\": 0.8, \"Disease control activity (%)\": 67}]"
+        }
+    ]
+}

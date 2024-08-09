@@ -1,0 +1,126 @@
+{
+    "_id": {
+        "$oid": "6682e8b4c4e5dba5ffba26ec"
+    },
+    "CID": {
+        "$numberInt": "8264"
+    },
+    "Name": "DIMEFOX",
+    "IUPACName": "N-[dimethylamino(fluoro)phosphoryl]-N-methylmethanamine",
+    "CanonicalSMILES": "CN(C)P(=O)(N(C)C)F",
+    "Synonyms": [
+        "DIMEFOX",
+        "115-26-4",
+        "Tetramethylphosphorodiamidic fluoride",
+        "Terrasytum",
+        "Pestox XIV",
+        "Hanane",
+        "Terra-Systam",
+        "Terra-Sytam",
+        "Tetra Sytam",
+        "Pestox IV",
+        "Dimefox [ISO]",
+        "Pestox 14",
+        "BFPO",
+        "DIFO",
+        "Wacker S 14/10"
+    ],
+    "IsomericSMILES": "CN(C)P(=O)(N(C)C)F",
+    "INCHI": "InChI=1S/C4H12FN2OP/c1-6(2)9(5,8)7(3)4/h1-4H3",
+    "INCHIKEY": "PGJBQBDNXAZHBP-UHFFFAOYSA-N",
+    "Formula": "C4H12FN2OP",
+    "MolecularWeight": {
+        "$numberDouble": "154.12"
+    },
+    "Description": "Dimefox is a phosphoramide.",
+    "XlogP": {
+        "$numberDouble": "-0.1"
+    },
+    "Complexity": {
+        "$numberInt": "125"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Meylan WM, Howard PH; J Pharm Sci 84: 83-92 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3.2 was calculated for dimefox(SRC), using an estimated log Kow of -0.43(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Ware GW, Roan CC; Res Rev 33: 15-45 (1970)",
+            "Value": "Little oxidation of dimefox occurred when exposed to the green alga, Chlorella pyrenoidosa, at a concentration of 1000 ppm(1). After 8 days of incubation in Chlorella pyrenoidosa culture, dimefox was recovered 84%(2). Chlorella pyrenoidosa did not form any chloroform-soluble metabolites from dimefox(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "US EPA; Estimation Programs Interface (EPI). ver. 3.11. U.S. EPA version for Windows. Washington, DC: U.S. EPA (2003). Available from, as of Mar 3, 2005: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm",
+            "Value": "log Kow = -0.43 /Estimated/"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of  Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse  Station, NJ:  Merck and Co., Inc., 2001., p. 564",
+            "Value": "A highly toxic cholinesterase inhibitor."
+        },
+        {
+            "References": "Hayes, W.J., Jr., E.R. Laws, Jr., (eds.). Handbook of Pesticide Toxicology. Volume 2. Classes of Pesticides. New York, NY: Academic Press, Inc., 1991., p. 974",
+            "Value": "Unmetabolized dimefox is a moderately strong inhibitor of cholinesterase in vitro; the molar concentration required to cause 50% inhibition is 4x10-5. ... Its action is mainly peripheral, that on the brain being slower in onset."
+        },
+        {
+            "References": "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 153",
+            "Value": "The signs of poisoning due to organophosphorus cmpd are those due to accumulation of acetylcholine & hence overstimulation of parasympathetic nervous system. It is usual to divide them under 3 headings: muscarinic, nicotinic & central. Muscarinic signs ... consist of hypersalivation, lacrimation, sweating & nasal discharge. Miosis, dyspnea, vomiting, diarrhea & frequency of urination ... Nicotinic effects consist of fasciculation of muscles, weakness & paralysis. Central nervous system effects include nervousness, apprehension, ataxia, convulsions & coma. Death is due to resp failure, or sometimes cardiac arrest. There is little difference between signs produced by different organophosphorus compounds, but route of absorption may influence one system more than another. /Organophosphorus cmpd/"
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B. Molinoff, R.W. Ruddon, A.G. Goodman (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 9th ed. New York, NY: McGraw-Hill, 1996., p. 163",
+            "Value": "The characteristic pharmacological effects of the anti-ChE agents are due primarily to the prevention of hydrolysis of ACh by AChE at sites of cholinergic transmission. Transmitter thus accumulates, and the response to ACh that is liberated by cholinergic impulses or that is spontaneously released from the nerve ending is enhanced. With most of the organophosphorus agents ... virtually all the acute effects of moderate doses are attributable to this action. /Anticholinesterase agents/"
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B. Molinoff, R.W. Ruddon, A.G. Goodman (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 9th ed. New York, NY: McGraw-Hill, 1996., p. 168",
+            "Value": "The cardiovascular actions of anticholinesterase agents are complex, since they reflect both ganglionic and postganglionic effects of accumulated ACh on the heart and blood vessels. The predominant effect on the heart from the peripheral action of accumulated ACh is bradycardia, resulting in a fall in cardiac output. Higher doses usually cause a fall in blood pressure, often as a consequence of effects of anticholinesterase agents on the medullary vasomotor centers of the CNS. /Anticholinesterase agents/"
+        },
+        {
+            "References": "Dreisbach, R.H. Handbook of Poisoning. 12th ed. Norwalk, CT: Appleton and Lange, 1987., p. 113",
+            "Value": "Organophosphorus derivatives act by combining with and inactivating the enzyme acetylcholinesterase. ... The inactivation of cholinesterase by cholinesterase inhibitor pesticides allows the accumulation of large amounts of acetylcholine, with resultant widespread effects that may be ... separated into 4 categories: (1) Potentiation of postganglionic parasympathetic activity. ... (2) Persistent depolarization of skeletal muscle ... (3) Initial stimulation following depression of cells of central nervous system ... (4) Variable ganglionic stimulation or blockade ... /Cholinesterase inhibitor pesticides/"
+        },
+        {
+            "References": "International Labour Office. Encyclopedia of Occupational Health and Safety. Vols. I&II. Geneva, Switzerland: International Labour Office, 1983., p. 1638",
+            "Value": "The main feature of the toxic mechanism of organophosphorus pesticides is inhibition of the esterase enzyme activity, in particular of cholinesterase, which plays an important physiological part. Organophosphorus pesticides can also indirectly interact with the biochemical receptors of acetylcholine. /Organophosphorus pesticides/"
+        },
+        {
+            "References": "Hayes, W.J., Jr., E.R. Laws, Jr., (eds.). Handbook of Pesticide Toxicology. Volume 2. Classes of Pesticides. New York, NY: Academic Press, Inc., 1991., p. 932",
+            "Value": "Phosphorylated enzymes, like acetylated acetylcholinesterase, are esters and may be hydrolyzed by nucleophilic agents, including water. The rate at which phosphorylated enzymes are reactivated by water is extremely low, compared to the rate for acetylcholinesterase combined with acetate. When inhibition is by isopropyl phosphate, the rate is essentially zero. /Organic phosphorous pesticides/"
+        },
+        {
+            "References": "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 2",
+            "Value": "Organophosphates poison insects and humans primarily by phosphorylation of the acetylcholinesterase enzyme at nerve endings. /Organophosphate Cholinesterase-inhibiting pesticides/"
+        },
+        {
+            "References": "Amdur, M.O., J. Doull, C.D. Klaasen (eds). Casarett and Doull's Toxicology. 4th ed. New York, NY: Pergamon Press, 1991., p. 936",
+            "Value": "Organophosphate insecticides ... are potent cholinesterase enzyme inhibitors that act by interfering with the metabolism of acetylcholine, which results in accumulation of acetylcholine at neuroreceptor transmission sites. Exposure produces a broad spectrum of clinical effects indicative of massive overstimulation of the chlorinergic system, including muscarinic effects (parasympathetic), nicotinic effects (sympathetic and motor), and CNS effects. /Organophosphate insecticides/"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Gunther et al; Res Rev 20: 1-148 (1968) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of dimefox is estimated as 2.2(SRC), using a water solubility of 1X10+6 mg/L (miscible) (1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that dimefox is expected to have very high mobility in soil."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "During the 1971 growing season an experiment was carried out to study the uptake, translocation and residue levels of dimefox and schradan in hope after applying a soil drench of Terra-Sytarn (222 g/litre dimefox-20 g/litre schradan) at various times in varying concentrations. Residue analysis shows that the dimefox concentration in the hop plants reaches a peak about one week after application, which increases with the amount applied. Then a gradual breakdown sets in so that at the time of harvesting the differences between the dosages have virtually disappeared. Translocation of dimefox in the hop plant is very rapid, but the breakdown is faster at the top of the plant. Schradan concentrations were usually very low and residues at harvest time negligible.",
+            "reference": "Dejonckheere, W., Steurbaut, W., Dynoodt, R., & Kips, R. H. (1974). Uptake and translocation of dimefox and schradan in hops. Pesticide Science, 5(5), 549-554.",
+            "method": {
+                "Test Plant": "Hops",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Details on how the hop plants were grown were not provided in the given text.",
+                "Chemical Preparation": "Two organophosphorus insecticides were used - dimefox and schradan. Details on how the chemical solutions were prepared were not mentioned.",
+                "Pesticide Application Details for the Plant": "A drop of insecticide solution containing 0.2 \u03bcCi dimefox or 0.5 \u03bcCi schradan was applied to the upper side of the third leaf from the top of twining hop plants. For the root application study, around 2 ml of dimefox solution containing 0.25 \u03bcCi was added to the soil.",
+                "Other Information": "After foliar application, leaves were sampled at various time intervals (1-14 days) by removing successive leaf pairs from top to bottom. For root application, the aerial parts were divided into successive internodal segments. Radioactivity in the sampled plant parts was measured by combustion and liquid scintillation counting to study uptake and translocation. Number of replicates was not specified."
+            },
+            "result": "[{\"Date\": 3.7, \"Top (parts/million)\": 1.03, \"Middle (parts/million)\": 1.57, \"Base (parts/million)\": 1.74}, {\"Date\": 6.7, \"Top (parts/million)\": 1.42, \"Middle (parts/million)\": 1.94, \"Base (parts/million)\": 1.92}, {\"Date\": 8.7, \"Top (parts/million)\": 1.81, \"Middle (parts/million)\": 2.04, \"Base (parts/million)\": 2.16}, {\"Date\": 15.7, \"Top (parts/million)\": 1.2, \"Middle (parts/million)\": 1.97, \"Base (parts/million)\": 1.91}, {\"Date\": 22.7, \"Top (parts/million)\": 0.73, \"Middle (parts/million)\": 1.83, \"Base (parts/million)\": 1.4}, {\"Date\": 29.7, \"Top (parts/million)\": 0.64, \"Middle (parts/million)\": 1.12, \"Base (parts/million)\": 1.08}, {\"Date\": 5.8, \"Top (parts/million)\": 0.42, \"Middle (parts/million)\": 0.92, \"Base (parts/million)\": 0.81}, {\"Date\": 12.8, \"Top (parts/million)\": 0.37, \"Middle (parts/million)\": 0.53, \"Base (parts/million)\": 0.27}, {\"Date\": 19.8, \"Top (parts/million)\": 0.2, \"Middle (parts/million)\": 0.31, \"Base (parts/million)\": 0.23}, {\"Date\": 26.8, \"Top (parts/million)\": 0.1, \"Middle (parts/million)\": 0.21, \"Base (parts/million)\": 0.18}]"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "_id": {
+        "$oid": "6682e83fc4e5dba5ffba24a6"
+    },
+    "CID": {
+        "$numberInt": "6332"
+    },
+    "Name": "Ethyl bromide",
+    "IUPACName": "bromoethane",
+    "CanonicalSMILES": "CCBr",
+    "Synonyms": [
+        "Bromoethane",
+        "74-96-4",
+        "ETHYL BROMIDE",
+        "Ethane",
+        "bromo-",
+        "1-Bromoethane",
+        "Monobromoethane",
+        "Bromic ether",
+        "Hydrobromic ether",
+        "\"Bromure dethyle\"",
+        "Etylu bromek",
+        "ethylbromide",
+        "Halon 2001",
+        "Bromo-ethane",
+        "NCI-C55481",
+        "NSC 8824"
+    ],
+    "IsomericSMILES": "CCBr",
+    "INCHI": "InChI=1S/C2H5Br/c1-2-3/h2H2,1H3",
+    "INCHIKEY": "RDHPKYGYEGBMSE-UHFFFAOYSA-N",
+    "Formula": "C2H5Br",
+    "MolecularWeight": {
+        "$numberDouble": "108.97"
+    },
+    "Description": "Bromoethane is a bromoalkane that is ethane carrying a bromo substituent. It is an alkylating agent used as a chemical intermediate in various organic syntheses. It has a role as a carcinogenic agent, a solvent, a refrigerant, a local anaesthetic and an alkylating agent. It is a bromoalkane, a bromohydrocarbon and a volatile organic compound.",
+    "XlogP": {
+        "$numberDouble": "1.4"
+    },
+    "Complexity": {
+        "$numberInt": "2"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Laturnus F; Chemosphere 31: 3387-3395 (1995)",
+            "Value": "The release of ethyl bromide by polar macroalgae (Phaeophyta (brown), Rhodophyta (red) and Chlorophyta (green) species native to King George Island, Antarctic; green species native to Spitsbergen and Disko Island, Greenland) was investigated at 0 \u00b0C under a laboratory setting(1).",
+            "Table": "[{'Family': 'Phaheophyta', 'Genus speices': 'Himantothallus grandifolius', 'Origin': 'King George Island', 'Release rate (ng/g wet algae wt/day)': '400'}, {'Family': nan, 'Genus speices': 'Desmarestiia anceps', 'Origin': 'King George Island', 'Release rate (ng/g wet algae wt/day)': '20'}, {'Family': nan, 'Genus speices': 'Phaeurus antarcticus', 'Origin': 'King George Island', 'Release rate (ng/g wet algae wt/day)': '55'}, {'Family': nan, 'Genus speices': 'Ascoseira mirabilis', 'Origin': 'King George Island', 'Release rate (ng/g wet algae wt/day)': 'negligable'}, {'Family': 'Phodophyta', 'Genus speices': 'Pamaria decipiens', 'Origin': 'King George Island', 'Release rate (ng/g wet algae wt/day)': 'negligable'}, {'Family': nan, 'Genus speices': 'Iridaea cordata', 'Origin': 'King George Island', 'Release rate (ng/g wet algae wt/day)': 'negligable'}, {'Family': 'Chlorophyta', 'Genus speices': 'Urospora penicilliformis', 'Origin': 'King George Island', 'Release rate (ng/g wet algae wt/day)': 'negligable'}, {'Family': nan, 'Genus speices': 'Acrosiphonia arcta', 'Origin': 'King George Island', 'Release rate (ng/g wet algae wt/day)': 'negligable'}, {'Family': nan, 'Genus speices': 'Urospora penicilliformis', 'Origin': 'Spistbergen', 'Release rate (ng/g wet algae wt/day)': '0'}, {'Family': nan, 'Genus speices': 'Acrosiphonia arcta', 'Origin': 'Disko Island', 'Release rate (ng/g wet algae wt/day)': '8'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 4 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Nov 30, 2018: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 5 was calculated in fish for ethyl bromide(SRC), using a log Kow of 1.61(1) and a regression-derived equation(1). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Nov 30, 2018: https://www.safe.nite.go.jp/english/db.html",
+            "Value": "AEROBIC: Ethyl bromide, present at 100 mg/L, reached 33% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 4",
+            "Value": "log Kow = 1.61"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 1",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The LC50 values for ethyl bromide were reported as 4681 ppm in female rats and 2723 ppm in female mice. No pathologic examination was made in these short-term exposure studies. Immediate effects of ethyl bromide exposure included increased respiration, hyperactivity, incoordination, dyspnea, and coma."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5: 170",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The liquid is apparently irritating to skin and eyes of rabbits and is reported to be absorbed through the skin."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Guinea pigs were exposed to ethyl bromide vapor at concentrations of 100,000 to 180,000 ppm which caused fatalities in all cases within 90 minutes. A 10-minute exposure at 140,000 ppm ethyl bromide produced death within several days postexposure. Exposure for 10 minutes at 24,000 to 60,000 ppm concentrations caused no fatalities, but at exposure times of 30 to 98 minutes, some animals died within 18 hours postexposure. At concentrations between 7000 and 12,000 ppm with exposure times less than 90 minutes, all animals survived; at exposure times greater than or equal to 270 minutes, some delayed deaths occurred. ... /CNS depression/ was the common outward result of exposure at the higher exposure concentrations. Autopsy of the animals that died revealed damage to the vascular system; congestion and hemorrhage of the lungs; and congestion and/or degeneration of the liver, kidneys, spleen, pancreas, and intestines. Animals that survived exposure were examined later and showed similar pathology to that above, but to a lesser extent. Exposure at 1700 ppm for 540 minutes caused no anesthesia or apparent adverse effects. Ethyl bromide was found to be less acutely toxic than methyl bromide or methyl chloride, but it was more toxic than ethyl chloride."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The microscopic pathology induced in guinea pigs by exposure to ethyl bromide vapor /was investigated/. Ethyl bromide exposure concentrations of 60,000 to 180,000 ppm were used with 5- to 19-minute exposure times, and concentrations of 3200 to 24,000 ppm were used with exposure times of 90 to 810 minutes. The exposed animals that died and those which survived up to 8 days postexposure were autopsied to determine any resulting pathology. The high concentration exposures mainly produced pulmonary damage in the bronchioles and alveoli. Bronchiolar cells showed swelling, distention, and cytoplasmic vacuolation with an exudate containing erythrocytes, epithelial cells, and leukocytes. Swelling of the alveolar walls was noted. Alveolar spaces were found to contain a sero-fibrinous exudate, endothelial leukocytes, and fine granules. At the lower exposure cementations, the pulmonary reactions were similar to those at the higher concentrations, but to a lesser degree. In some cases, congestion of the kidneys and liver caused by large numbers of erythrocytes were also observed. At the lower concentration, kidney effects were the most prominent with apparent compression fo the capillary tufts and tubular damage. There was also central liver lobule necrosis in many cases."
+        },
+        {
+            "References": "International Programme on Chemical Safety; Concise International Chemical Assessment  Document Number 42: Bromoethane (1994). Available from, as of January 16, 2019: https://www.inchem.org/pages/cicads.html",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Fourteen-day inhalation range-finding studies have been carried out in F344/N rats and B6C3F1 mice. The studies used groups of five animals of each sex, which were exposed to 0, 1100, 2300, 4500, 9000, or 18,000 mg/cu m (0, 250, 500, 1000, 2000, or 4000 ppm) of the vapor for 6 hr/day, 5 days/week. All animals died after exposure to 9000 and 18,000 mg/cu m (2000 and 4000 ppm). Males of both species showed difficulty standing and dyspnea, with male rats only lachrymating prior to death. There were no adverse effects on body weight in survivors. Histopathological examination of the upper and lower respiratory tract only was performed on the 4500 and 9000 mg/cu m (1000 and 2000 ppm) groups and revealed largely dose-related signs of acute inflammation and minimal to mild pulmonary congestion."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Exposure of rats and rabbits by inhalation at 538 ppm ethyl bromide for 4 hr/day for 6 months resulted in disruption of hepatic function as shown by a decrease in hepatic glycogen and fat levels as well as prolonged hexobarbital sleep. Hepatic cell granular dystrophy and decreased cytoplasmic RNA levels were also reported. Another abstract reported that exposure of rats, also at 538 ppm of ethyl bromide by inhalation resulted in hyperplasia and hypertrophy of the pituitary gland, hypertrophy of the cortex, and increased lipid content of the adrenal gland."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In a 14-week study, concentrations up to 1600 ppm were used. At 1600 ppm, 30% of the rats and 20% of the mice died by the end of the study. One rat also died at the 800-ppm exposure level. At the 1600-ppm exposures, ataxia, dyspnea, paresis, tremors, excessive tearing, and weight loss were observed. At concentrations of 800 ppm or less, no chemically-induced pathologies were noted. Pathologies observed in some of the animals exposed at 1600 ppm were: mineralization of the granular cells of the cerebellum; degeneration of the lumbar spinal cord; hemosiderosis of the spleen; depletion of the hemopoietic cells; atrophy of the thigh muscle, testis, and uterus; involution of the ovaries; and squamous metaplasia of the salivary glands."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V52 305 (1999)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 20 female CB hooded rats, six weeks old, were given a single subcutaneous injection of bromoethane (purity unspecified) in trioctanoin at 1.25, 4.2 or 12.5 mmol/kg bw (136, 46 or 1362 mg/kg bw). Twenty female rats given trioctanoin alone were used as controls. Survival at 96 weeks after injection was: low-dose, 18/20; mid-dose, 17/20; high-dose, 17/20 (survival of controls not given). No sarcoma was seen at the injection sites in either treated or control rats."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 3",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Intraperitoneal doses of a number of alkyl bromides, including ethyl bromide /were administered/ to strain A mice in 3 groups of 20 animals each. Doses of ... 55, 27.5, and 11 mg/kg for ethyl bromide were administered once per week for 24 weeks. Ethyl bromide caused no increased incidence of pulmonary tumors over the background incidence of approximately 20%. Ethyl bromide /was expected/ to be carcinogenic because of its electrophilic nature and stated that the inactivity of ethyl bromide may be due to metabolic inactivation when administered intraperitoneally."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ In a 2 year inhalation study at 400 ppm of ethyl bromide, there was an increased incidence of conjunctivitis in exposed female rats and in mice, increased pulmonary inflammation in the females, and decreased body weight in males and females as compared to controls. Also, at 400 ppm, rats of both sexes had increased incidence of nasal and alveolar epithelial hyperplasia. At exposures of 100 ppm and 200 ppm, no significant incidence of adverse effects was noted."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 3",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Rats received a single subcutaneous injection of several brominated compounds and were observed over 90 weeks for development of sarcoma at the injection site. Doses of 1.36, 0.46, and 0.14 g/kg caused no sarcoma in groups of 20 rats for each dose. /It was/ suggested that the inactivity of ethyl bromide may be due to its slow reaction rate (as shown by reaction with the standard nucleophile 4-(p-nitrobenzyl)-pyridine) to cause sufficient alkylation of vital cellular components that would lead to tumor formation."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V52 309 (1999)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ In the 14-week inhalation studies B6C3F1 mice and Fischer 344 rats /were exposed to 100-160 ppm (0.45-7.14 g/cu m) bromoethane by inhalation for 6 hr per day on five days per week/. Severe testicular atrophy was observed in all rats, but not in mice, at 1600 ppm (7.14 g/cu m) bromoethane but not at lower concentrations. Four of ten male rats in the 1600-ppm group died. In female mice, but not in rats, the size and number of corpora lutea in the ovary were decreased at 1600 ppm (7/10 animals) and at 800 ppm (3.57 g/cu m, 3/9 animaIs)"
+        },
+        {
+            "References": "International Programme on Chemical Safety; Concise International Chemical Assessment  Document Number 42: Bromoethane (1994). Available from, as of January 16, 2019: https://www.inchem.org/pages/cicads.html",
+            "Value": "/GENOTOXICITY/ Sister chromatid exchange (SCE)-inducing potential was investigated by treating cells for 26 h in the absence of, or for 2 hr in the presence of, Aroclor 1254-induced rat liver S9. Cells treated with S9 were then incubated for a further 24 hr so that both sets of cells were sampled 26 hr after the experiment began. Dose-dependent increases were seen in both the number of SCEs per chromosome and the number of SCEs per cell in the absence or presence of S9. In the absence of metabolic activation, 1.75- to 3.7-fold increases in the number of SCEs per cell were seen when compared with solvent controls, whereas the increases seen with metabolic activation were not sufficiently large to be considered positive."
+        },
+        {
+            "References": "International Programme on Chemical Safety; Concise International Chemical Assessment  Document Number 42: Bromoethane (1994). Available from, as of January 16, 2019: https://www.inchem.org/pages/cicads.html",
+            "Value": "/GENOTOXICITY/ Chinese hamster ovary cells were used to study the clastogenicity and sister chromatid exchange (SCE)-inducing potential of bromoethane at concentrations of up to 1 mg/mL, the limit of solubility in dimethyl sulfoxide in this test system. No evidence of cell death was seen at this concentration."
+        },
+        {
+            "References": "International Programme on Chemical Safety; Concise International Chemical Assessment  Document Number 42: Bromoethane (1994). Available from, as of January 16, 2019: https://www.inchem.org/pages/cicads.html",
+            "Value": "/GENOTOXICITY/ Plate incorporation and preincubation studies produce results that are fairly consistent with those obtained from closed system assays. One plate incorporation study of bromoethane produced positive results with strains TA98, TA100, and TA104 in the presence of Aroclor 1254-induced rat liver S9 and with strain TA97 both with and without metabolic activation."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V71 1307 (1999)",
+            "Value": "/GENOTOXICITY/ Bromoethane was mutagenic to bacteria, but not to Drosophila melanogaster in a single study. In another single study, bromoethane increased the incidence of sister chromatid exchanges, but not of chromosomal aberrations in cultured mammalian cells."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 4",
+            "Value": "/GENOTOXICITY/ Ethyl bromide tested positive in 1535 and TA 100 and as tryptophan-dependent Escherichia coli strain WP2(hc-) mutants. Of the 12 compounds tested, ethyl bromide was 1 of the 3 most mutagenic."
+        },
+        {
+            "References": "PMID:15922381",
+            "Value": "/OTHER TOXICITY INFORMATION/ In a 2-year NTP bioassay, bromoethane (BE) was found to induce endometrial neoplasms in the uterus of B6C3F1 mice. In women, hormonal influences, such as \"unopposed\" estrogenic stimulus, have been implicated as important etiologic factors in uterine cancer. BE, however, does not affect the serum concentrations of sex hormones in female B6C3F1 mice and the mechanism of BE-induced uterine carcinogenesis still remains unclear. In the present study, we examined the estrogenic effects of BE on the uterus of ovariectomized B6C3F1 mice and on Ishikawa cells. Groups of 6 mice were given daily s.c. injections of 0, 100, 500 or 1000 mg BE/kg for 3 consecutive days. Mice treated with 17beta-estradiol served as positive controls. Mice were necropsied 24 hr after the final injection, and uteri were weighed and examined histologically and immunohistochemically along with the vagina. Changes observed in the estrogen-treated mice included increased uterine weights, edema and inflammation of the endometrium, increased epithelial layers of the uterine and vaginal lumens and keratinization of the vaginal epithelium. In the BE-treated mice, no such changes occurred; however, immunohistochemical staining of the uterus revealed a significant increase in immunoexpression of the estrogen receptor alpha (ERalpha) in the two higher dose groups. Analysis of mRNA also showed slightly increased uterine ERalpha expression in these groups. Upregulated expression of ERalpha was confirmed in BE-treated Ishikawa cells, in which Western blotting analyses identified an intense signal at approximately 66 kDa, which is consistent with ERalpha. These data suggest that upregulated expression of ERalpha may be important in the induction of endometrial neoplasms in BE-treated mice."
+        },
+        {
+            "References": "PMID:7839365",
+            "Value": "/OTHER TOXICITY INFORMATION/ Chloroethane and bromoethane have been shown to cause a marked uterine tumor response in B6C3F1 mice exposed for 2 years. These chemicals are nearly unique in this regard among the nearly 400 chemicals studied by the National Toxicology Program, and the reasons for this carcinogenic activity are unclear. The possible relationship of changes in blood concentrations of sex hormones to this response was evaluated by examining the estrous cycle of mice prior to and during a 21 day exposure to concentrations of the haloethanes which resulted in the tumorigenic response in the 2 year studies. Serum concentrations of estradiol and progesterone were determined at the termination of the exposures and compared to exposure group and stage of the estrous cycle. No consistent patterns of change were found in estrous cyclicity or in blood concentrations of sex hormones. Thus, the findings suggest that early changes in circulating sex hormones are not important contributing factors in the uterine neoplasia caused by these chemicals."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Nov 30, 2018: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of ethyl bromide can be estimated to be 22(SRC). According to a classification scheme(2), this estimated Koc value suggests that ethyl bromide is expected to have very high mobility in soil(SRC)."
+        }
+    ]
+}

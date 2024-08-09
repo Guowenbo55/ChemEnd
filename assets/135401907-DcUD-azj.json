@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "6682e9dcc4e5dba5ffba2cbe"
+    },
+    "CID": {
+        "$numberInt": "135401907"
+    },
+    "Name": "Allopurinol",
+    "IUPACName": "1,5-dihydropyrazolo[3,4-d]pyrimidin-4-one",
+    "CanonicalSMILES": "C1=NNC2=C1C(=O)NC=N2",
+    "Synonyms": [
+        "allopurinol",
+        "315-30-0",
+        "1H-Pyrazolo[3,4-d]pyrimidin-4-ol",
+        "Zyloprim",
+        "Lopurin",
+        "Zyloric",
+        "Suspendol",
+        "Atisuril",
+        "Bleminol",
+        "Caplenal",
+        "Takanarumin",
+        "Uripurinol",
+        "Embarin",
+        "Foligan",
+        "Milurit"
+    ],
+    "IsomericSMILES": "C1=NNC2=C1C(=O)NC=N2",
+    "INCHI": "InChI=1S/C5H4N4O/c10-5-3-1-8-9-4(3)6-2-7-5/h1-2H,(H2,6,7,8,9,10)",
+    "INCHIKEY": "OFCNXPDARWKPPY-UHFFFAOYSA-N",
+    "Formula": "C5H4N4O",
+    "MolecularWeight": {
+        "$numberDouble": "136.11"
+    },
+    "Description": "Allopurinol is a bicyclic structure comprising a pyrazole ring fused to a hydroxy-substituted pyrimidine ring. It has a role as a radical scavenger, a gout suppressant, an antimetabolite and an EC 1.17.3.2 (xanthine oxidase) inhibitor. It is an organic heterobicyclic compound and a nucleobase analogue. It derives from a hydride of a 1H-pyrazolo[4,3-d]pyrimidine.",
+    "XlogP": {
+        "$numberDouble": "-0.7"
+    },
+    "Complexity": {
+        "$numberInt": "190"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Bundgaard H, Falche E; Int J Pharm 23: 223-37 (1985)",
+            "Value": "log Kow = -0.55"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "American Society of Health System Pharmacists; AHFS Drug Information 2009. Bethesda, MD. (2009), p. 3690",
+            "Value": "Allopurinol inhibits xanthine oxidase, the enzyme that catalyzes the conversion of hypoxanthine to xanthine and of xanthine to uric acid. Oxypurinol, a metabolite of allopurinol, also inhibits xanthine oxidase. By inhibiting xanthine oxidase, allopurinol and its metabolite block conversion of the oxypurines (hypoxanthine and xanthine) to uric acid, thus decreasing serum and urine concentrations of uric acid. The drug differs, therefore, from uricosuric agents which lower serum urate concentrations by promoting urinary excretion of uric acid. Xanthine oxidase concentrations are not altered by long-term administration of the drug."
+        },
+        {
+            "References": "American Society of Health System Pharmacists; AHFS Drug Information 2009. Bethesda, MD. (2009), p. 3690",
+            "Value": "Allopurinol does not directly interfere with purine nucleotide or nucleic acid synthesis. The drug, however, indirectly increases oxypurine and allopurinol ribonucleotide concentrations and decreases phosphoribosylpyrophosphate concentrations, thus decreasing de novo purine biosynthesis by pseudofeedback inhibition. In addition, allopurinol increases the incorporation of hypoxanthine and xanthine into DNA and RNA, thereby further decreasing serum urate concentrations. Allopurinol may produce a deficit of total purines (uric acid and oxypurines) amounting to several hundred mg daily."
+        },
+        {
+            "References": "American Society of Health System Pharmacists; AHFS Drug Information 2009. Bethesda, MD. (2009), p. 3691",
+            "Value": "Accompanying the decrease in uric acid produced by allopurinol is an increase in serum and urine concentrations of hypoxanthine and xanthine. Plasma concentrations of these oxypurines do not, however, rise commensurately with the fall in serum urate concentrations and are often 20-30% less than would be expected in view of urate concentrations prior to allopurinol therapy. This discrepancy occurs because renal clearance of the oxypurines is at least 10 times greater than that of uric acid. In addition, normal urinary purine output is almost exclusively uric acid, but after treatment with allopurinol, it is composed of uric acid, xanthine, and hypoxanthine, each having independent solubility. Thus, the risk of crystalluria is reduced. Alkalinization of the urine increases the solubility of the purines, further minimizing the risk of crystalluria. Decreased tubular transport of uric acid also results in increased renal reabsorption of calcium and decreased calcium excretion."
+        },
+        {
+            "References": "American Society of Health System Pharmacists; AHFS Drug Information 2009. Bethesda, MD. (2009), p. 3691",
+            "Value": "Allopurinol also interferes with de novo pyrimidine nucleotide synthesis by inhibiting orotidine 5'-phosphate decarboxylase. Secondary orotic aciduria and orotidinuria result. Orotic acid is highly insoluble and could form a heavy sediment of urinary crystals; however, the increased excretion of orotic acid and orotidine rarely exceeds 10% of the total pyrimidines synthesized by the body. In addition, enhanced conversion of uridine to uridine 5'-monophosphate usually occurs and, therefore, this partial inhibition of pyrimidine synthesis is considered innocuous."
+        },
+        {
+            "References": "American Society of Health System Pharmacists; AHFS Drug Information 2009. Bethesda, MD. (2009), p. 3691",
+            "Value": "Allopurinol may also inhibit hepatic microsomal enzymes. Allopurinol is not cytotoxic and has no effect on transplantable tumors. The drug has no analgesic, anti-inflammatory, or uricosuric activity."
+        }
+    ]
+}

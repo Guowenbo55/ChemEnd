@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "6682e971c4e5dba5ffba2aa7"
+    },
+    "CID": {
+        "$numberInt": "31677"
+    },
+    "Name": "BUTACHLOR",
+    "IUPACName": "N-(butoxymethyl)-2-chloro-N-(2,6-diethylphenyl)acetamide",
+    "CanonicalSMILES": "CCCCOCN(C1=C(C=CC=C1CC)CC)C(=O)CCl",
+    "Synonyms": [
+        "BUTACHLOR",
+        "23184-66-9",
+        "Machette",
+        "Bilchlor",
+        "Machete",
+        "N-(Butoxymethyl)-2-chloro-N-(2,6-diethylphenyl)acetamide",
+        "Butaclor",
+        "Hiltachlor",
+        "Delchlor 5G",
+        "Rasayanchlor",
+        "Delchlor",
+        "Butanex",
+        "Machete (herbicide)",
+        "Acetamide",
+        "N-(butoxymethyl)-2-chloro-N-(2,6-diethylphenyl)-",
+        "\"2-Chloro-2,6-diethyl-N-(butoxymethyl)acetanilide\""
+    ],
+    "IsomericSMILES": "CCCCOCN(C1=C(C=CC=C1CC)CC)C(=O)CCl",
+    "INCHI": "InChI=1S/C17H26ClNO2/c1-4-7-11-21-13-19(16(20)12-18)17-14(5-2)9-8-10-15(17)6-3/h8-10H,4-7,11-13H2,1-3H3",
+    "INCHIKEY": "HKPHPIREJKHECO-UHFFFAOYSA-N",
+    "Formula": "C17H26ClNO2",
+    "MolecularWeight": {
+        "$numberDouble": "311.8"
+    },
+    "Description": "Butachlor is an aromatic amide that is 2-choro-N-(2,6-diethylphenyl)acetamide in which the amide nitrogen has been replaced by a butoxymethyl group. It has a role as a herbicide, an environmental contaminant and a xenobiotic. It is an aromatic amide, an organochlorine compound and a tertiary carboxamide. It is functionally related to a N-phenylacetamide.",
+    "XlogP": {
+        "$numberDouble": "4.5"
+    },
+    "Complexity": {
+        "$numberInt": "287"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Yu K et al; Huanjing Kexue Xuebao 13: 169-73 (1993) (2) Tejada AW et al; Trop Rest Manage 36: 237-43 (1990)",
+            "Value": "After the paddy cultivation period, the residue of butachlor in brown rice fell below the detection limit(1). Another investigaor similarly found no butachlor residues in rice grains, leaves and stalks at harvest(2)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "PMID:3689986",
+            "Value": "Butachlor was detectable in shellfish (Corbicula japonica) from the Ishikari River in Japan from early May to mid July and reached a maximum level of nearly 1 ppm in mid May, a little over a week after its application on paddy fields(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "Butachlor [2-chloro-N-(2,6-diethylphenyl)-N-(butoxymethyl) acetamide] is a crucial herbicide used for weed control in transplanted rice (Oryza sativa L.) in Taiwan. It is readily absorbed by the roots of rice plants, with 32% of the applied herbicide being absorbed within 24 hours. Pre-treatment of the herbicide for 2 days did not affect its absorption. Among the absorbed herbicide, 80% remained in the roots, while only 20% translocated to the shoots. Over 50% of the absorbed herbicide was metabolized into water-soluble substances. Thin layer chromatographic (TLC) analysis revealed that the most abundant metabolite shared the same Rf value as the butachlor-glutathione conjugate. Rice, barnyard-grass (Echinochloa crusgalli (L.) Beauv.), and monochoria (Monochoria vaginalis Presl) seedlings exhibited relatively high levels of non-protein thiols, and rice showed the highest glutathione S-transferase (GST) activity, followed by barnyard-grass, and then monochoria. The variation in GST activity among these species may be linked to their sensitivity to butachlor.",
+            "reference": "Wang, S. M., Tsai, W. F., & Chang, S. S. (1995). Absorption, Translocation and metabolism of butachlor by rice seedlings. Weed Sci Bull. ROC.",
+            "method": {
+                "Test Plant": "Rice (Oryza sativa), barnyardgrass (Echinochloa crus-galli), monochoria (species not specified)",
+                "Apply Location": "Root application (rice seedling roots immersed in nutrient solution containing butachlor)",
+                "Plant Grown Condition": "Rice and barnyardgrass seeds surface sterilized, germinated, grown in 1/10 strength Hoagland nutrient solution changed twice weekly. Monochoria planted in sterile sand, irrigated with 1/10 Hoagland solution every 2 days",
+                "Chemical Preparation": "5 x 10^-5 M butachlor solution. Ring-labeled 14C-butachlor (specific activity 26.85 mCi/mmol, 800 nCi used)",
+                "Pesticide Application Details for the Plant": "2-week old rice seedling roots immersed in 5 x 10^-5 M butachlor for 2 days. Then transferred to same nutrient solution with 800 nCi 14C-butachlor for 24 hours",
+                "Other Information": "After treatment, roots rinsed in 5 x 10^-5 M butachlor, seedlings separated into roots and shoots"
+            },
+            "result": "[{\"Hours after application\": 24, \"Aqueous in root\": 40.3, \"Petroleum ether in root\": 39.6, \"Aqueous in shoot\": 12.2, \"Petroleum ether in shoot\": 7.9}]"
+        }
+    ]
+}

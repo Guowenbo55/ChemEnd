@@ -1,0 +1,74 @@
+{
+    "_id": {
+        "$oid": "6682e94ac4e5dba5ffba29de"
+    },
+    "CID": {
+        "$numberInt": "24500"
+    },
+    "Name": "SODIUM ARSENATE",
+    "IUPACName": "disodium;hydrogen arsorate",
+    "CanonicalSMILES": "O[As](=O)([O-])[O-].[Na+].[Na+]",
+    "Synonyms": [
+        "Disodium arsenate",
+        "7778-43-0",
+        "Sodium arsenate",
+        "dibasic",
+        "Sodium biarsenate",
+        "Dibasic sodium arsenate",
+        "Disodium arsenic acid",
+        "Disodium hydrogenarsenate",
+        "Disodium hydrogen arsenate",
+        "Sodium arsenate",
+        "exsiccated",
+        "Arsenic acid",
+        "disodium salt",
+        "Disodium monohydrogen arsenate",
+        "Disodium hydrogen orthoarsenate",
+        "Arsenic acid (H3AsO4)",
+        "disodium salt",
+        "ANU034TUJ4",
+        "disodium hydrogen arsorate"
+    ],
+    "IsomericSMILES": "O[As](=O)([O-])[O-].[Na+].[Na+]",
+    "INCHI": "InChI=1S/AsH3O4.2Na/c2-1(3,4)5;;/h(H3,2,3,4,5);;/q;2*+1/p-2",
+    "INCHIKEY": "IHZDYHDJAVUIBH-UHFFFAOYSA-L",
+    "Formula": "AsHNa2O4",
+    "MolecularWeight": {
+        "$numberDouble": "185.907"
+    },
+    "Description": "Disodium hydrogenarsenate is an inorganic sodium salt composed from sodium cations and arsenate dianions in a 2:1 ratio. It has a role as a poison. It contains an arsenate(2-).",
+    "XlogP": {
+        "$numberDouble": "NaN"
+    },
+    "Complexity": {
+        "$numberInt": "46"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "mechanism_of_action": [
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V23 93 (1980)",
+            "Value": "Arsenic (as disodium arsenate) binds to thiol groups of the enzyme DNA polymerease, thus inhibiting DNA synthesis; the authors concluded that it interfered with DNA repair of damage induced by UV irradiation in human epidermal grafts ... ."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V23 93 (1980)",
+            "Value": "Disodium arsenate alters the metabolism of nucleosides and their derivatives in human lymphocytes cultered in vitro ... and reduced the incorporation of labelled nucleosides into both RNA and DNA in cultured human peripheral lymphocytes ... ."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "The presence of Na2HAsO4 significantly impacted arsenic translocation within ladder brake plants. Initial concentrations of Na2HAsO4 resulted in moderate initial water-soluble arsenic levels, with roots having an initial concentration of 211 \u00b1 3.3 mg As kg\u22121 and fronds with 6.0 mg As kg\u22121. However, over time, this form of arsenic demonstrated a substantial increase in both root and frond arsenic concentrations. The mature fronds particularly showed a significant concentration of 1653 \u00b1 4 mg As kg\u22121, resulting in a notable translocation factor (TF) of 7.9. Moreover, the bioconcentration factor (BF) for fronds was also high (BF = 32.8), indicating substantial arsenic accumulation in fronds relative to soil concentrations. This suggests an efficient uptake and accumulation of arsenic from Na2HAsO4-contaminated soil by ladder brake plants.",
+            "reference": "Tu, C., & Ma, L. Q. (2002). Effects of Arsenic Concentrations and Forms on Arsenic Uptake by the Hyperaccumulator Ladder Brake . Journal of Environment Quality, 31(2), 641. doi:10.2134/jeq2002.6410\u00a0",
+            "method": {
+                "Test Plant": "Ladder brake fern",
+                "Apply Location": "Soil",
+                "Plant Grown Condition": "Ferns were grown in a seed bed until they achieved two or three fronds and a height of 3 to 4 cm. Then, they were transferred into 4-inch (10.16-cm) plastic pots filled with potting mixture and allowed to grow until they had five or six fronds approximately 10 cm in height prior to experimental use.",
+                "Chemical Preparation": "Arsenic chemicals AlAsO4 (Aluminium arsenate), Ca3(AsO4)2\u00b714H2O, and FeAsO4\u00b72H2O were synthesized in the laboratory. The chemicals NaAsO2 (Disodium arsenate), Na2HAsO4, K2HAsO4 (hydrogen arsorate), sodium dimethylarsinic acid (NaDMA), sodium methylarsonic acid (NaMMA), and calcium acid methanearsenate (CaMMA) were purchased commercially.",
+                "Pesticide Application Details for the Plant": "The soil was amended with different arsenic compounds at the rate of 50 mg As kg^-1.",
+                "Other Information": "Each treatment was replicated four times."
+            },
+            "result": "[{\"Times After Application\": \"18 weeks\", \"Total Absorbed (g/plant)\": 16, \"Fronds (g)\": 13.1, \"Roots (g)\": 2.9, \"BCF Fronds\": 32.8, \"BCF Roots\": 4.15, \"TF\": 7.9}]"
+        }
+    ]
+}

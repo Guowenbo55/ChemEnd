@@ -1,0 +1,77 @@
+{
+    "_id": {
+        "$oid": "6682e993c4e5dba5ffba2b4e"
+    },
+    "CID": {
+        "$numberInt": "163659"
+    },
+    "Name": "MITHRAMYCIN",
+    "IUPACName": "(2S,3S)-2-[(2S,4R,5R,6R)-4-[(2S,4R,5S,6R)-4-[(2S,4S,5R,6R)-4,5-dihydroxy-4,6-dimethyloxan-2-yl]oxy-5-hydroxy-6-methyloxan-2-yl]oxy-5-hydroxy-6-methyloxan-2-yl]oxy-3-[(1S,3S,4R)-3,4-dihydroxy-1-methoxy-2-oxopentyl]-6-[(2S,4R,5R,6R)-4-[(2S,4R,5S,6R)-4,5-dihydroxy-6-methyloxan-2-yl]oxy-5-hydroxy-6-methyloxan-2-yl]oxy-8,9-dihydroxy-7-methyl-3,4-dihydro-2H-anthracen-1-one",
+    "CanonicalSMILES": "CC1C(C(CC(O1)OC2CC(OC(C2O)C)OC3=CC4=CC5=C(C(=O)C(C(C5)C(C(=O)C(C(C)O)O)OC)OC6CC(C(C(O6)C)O)OC7CC(C(C(O7)C)O)OC8CC(C(C(O8)C)O)(C)O)C(=C4C(=C3C)O)O)O)O",
+    "Synonyms": [
+        "plicamycin",
+        "MITHRAMYCIN",
+        "Mithracin",
+        "mithramycin a",
+        "Aureolic acid",
+        "18378-89-7",
+        "Mithramycinum",
+        "Mithramycine",
+        "Plicamycine",
+        "Plicamycinum",
+        "Mitramycin",
+        "Aurelic acid",
+        "CHEBI:31856",
+        "Antibiotic LA 7017",
+        "CHEMBL257619"
+    ],
+    "IsomericSMILES": "C[C@@H]1[C@H]([C@@H](C[C@@H](O1)O[C@@H]2C[C@@H](O[C@@H]([C@H]2O)C)OC3=CC4=CC5=C(C(=O)[C@H]([C@@H](C5)[C@@H](C(=O)[C@H]([C@@H](C)O)O)OC)O[C@H]6C[C@H]([C@@H]([C@H](O6)C)O)O[C@H]7C[C@H]([C@H]([C@H](O7)C)O)O[C@H]8C[C@]([C@@H]([C@H](O8)C)O)(C)O)C(=C4C(=C3C)O)O)O)O",
+    "INCHI": "InChI=1S/C52H76O24/c1-18-29(72-34-14-30(43(58)21(4)68-34)73-33-13-28(54)42(57)20(3)67-33)12-26-10-25-11-27(49(66-9)48(63)41(56)19(2)53)50(47(62)39(25)46(61)38(26)40(18)55)76-36-16-31(44(59)23(6)70-36)74-35-15-32(45(60)22(5)69-35)75-37-17-52(8,65)51(64)24(7)71-37/h10,12,19-24,27-28,30-37,41-45,49-51,53-61,64-65H,11,13-17H2,1-9H3/t19-,20-,21-,22-,23-,24-,27+,28-,30-,31-,32-,33+,34+,35+,36+,37+,41+,42-,43-,44-,45+,49+,50+,51-,52+/m1/s1",
+    "INCHIKEY": "CFCUWKMKBJTWLW-BKHRDMLASA-N",
+    "Formula": "C52H76O24",
+    "MolecularWeight": {
+        "$numberDouble": "1085.1"
+    },
+    "Description": "Mithramycin is a carbohydrate-containing antibiotic, an anthracycline antibiotic, an aureolic acid and a secondary alpha-hydroxy ketone. It has a role as an antineoplastic agent, an EC 2.7.7.6 (RNA polymerase) inhibitor and a metabolite.",
+    "XlogP": {
+        "$numberDouble": "0.6"
+    },
+    "Complexity": {
+        "$numberInt": "1940"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C. and A. Leo. The Log P Database. Claremont, CA: Pomona College, 1987.",
+            "Value": "Log Kow = -0.25 at pH 7.4"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Thomson/Micromedex. Drug Information for the Health Care Professional. Volume 1,  Greenwood Village, CO. 2006.",
+            "Value": "The exact mechanism of action is unknown. However, it has been shown that plicamycin forms a complex with DNA in the presence of magnesium or other divalent cations, thereby inhibiting DNA-dependent or DNA-directed RNA synthesis."
+        },
+        {
+            "References": "Thomson/Micromedex. Drug Information for the Health Care Professional. Volume 1,  Greenwood Village, CO. 2006.",
+            "Value": "Plicamycin is believed to lower serum calcium concentrations, but the exact mechanism is unknown. It may act by blocking hypercalcemic action of vitamin D or by inhibiting the effect of parathyroid hormone on osteoclasts. Plicamycin's inhibition of DNA-dependent RNA synthesis appears to render osteoclasts unable to fully respond to parathyroid hormone with the biosynthesis necessary for osteolysis."
+        },
+        {
+            "References": "PMID:12846580",
+            "Value": "The aureolic acid antitumor antibiotic mithramycin (MTM) inhibits both cancer growth and bone resorption by cross-linking GC-rich DNA, thus blocking binding of Sp-family transcription factors to gene regulatory elements. Transcription of c-src, a gene implicated in many human cancers and required for osteoclast-dependent bone resorption, is regulated by the binding of Sp factors to specific elements in its promoter. Therefore, this gene represents an important anticancer target and a potential lead target through which MTM displays its so far uncharacterized action against osteoclastic bone resorption. Here we demonstrate, using DNA binding studies, promoter reporter assays, and RT-PCR, that MTM inhibits Sp binding to the c-src promoter region, thereby decreasing its expression in human cancer cells. Furthermore, selected mithramycin analogues, namely, premithramycin B, mithramycin SK, 7-demethylmithramycin, 4E-ketomithramycin, and 4C-ketodemycarosylmithramycin, generated through combinatorial biosynthesis, were compared with MTM for their ability to block Sp binding to the c-src promoter. Although most of the tested compounds lost their ability to bind to the DNA, alteration of the MTM 3-pentyl side chain led to a compound (mithramycin SK) with the same DNA binding specificity but with lower binding affinity than MTM. While this compound was comparable to MTM in promoter reporter, gene expression, and anticancer assays, given its weaker interaction with the DNA, it may be much less toxic than MTM. The results presented here supplement recent findings and, moreover, allow new conclusions to be made regarding both the structure-activity relationships, particularly with respect to the alkyl side chains, and the mechanism of action of aureolic acid drugs."
+        },
+        {
+            "References": "Hall TJ et al; J Biochemical and Biophysical Research Communications 195 (3): 1245-53 (1993)",
+            "Value": "Mithramycin is an mRNA synthesis inhibitor that has been used to decrease bone resorption in patients with humoral hypercalcemia and Paget's disease. During studies on the mechanism of action of mithramycin it became clear that the compound has a direct inhibitory effect on osteoclastic bone resorption in the in vitro bone slice assay. At concentrations of 0.1 - 100 nM mithramycin directly inhibited osteoclastic bone resorption dose-dependently up to 66 + or - 5% at 100 nM (mean + or - SEM, 3 expts.). Another mRNA synthesis inhibitor, actinomycin D (0.1 - 100 nM) and the protein synthesis inhibitor, cycloheximide (0.1 - 10  M), also dose-dependently inhibited osteoclastic bone resorption by 78 + or - 7% at 100 nM and 76 + or - 7% at 10  M, respectively. Mithramycin and actinomycin D at 100 nM did not affect osteoclast survival on bone slices and were therefore not cytotoxic at the concentrations used. Mithramycin (100 nM) and cycloheximide (10  M) both slightly decreased osteoctast cytoplasmic spreading. Addition of 100 nM mithramycin 6 hr after osteoclast adhesion to bone slices still inhibited subsequent resorption by 50%, indicating a continued but lesser requirement for mRNA synthesis during bone resorption. These results show that 75% of osteoclasts obtained from neonatal rat long bones are activated by adhesion to mineralized bone surfaces and require mRNA and protein synthesis in order to resorb bone in vitro."
+        },
+        {
+            "References": "PMID:16374547",
+            "Value": "Mithramycin A (MMA) can facilitate TNFalpha- (Tumor Necrosis Factor) and Fas ligand-induced apoptosis. Besides, several drugs play their anticancer effect through Fas apoptotic pathway. So /the authors/ investigated the effect of MMA on Fas signaling. In this study we show that MMA induces apoptosis in Fas sensitive Jurkat cells and Fas resistant KG1a cells. This effect involves Fas apoptotic pathway: cell exposure to MMA leads to Fas clustering at the cell surface, DISC (Death Inducing Signaling Complex) formation and caspase cleavage. This phenomenon is independent of Fas ligand/Fas interaction and blockade of Fas death pathway partially inhibits MMA-induced apoptosis. Moreover the activation of Fas apoptotic pathway by MMA is correlated to the modulation of c-Flip(L) expression. Finally, pre-treatment with sub-lethal doses of MMA sensitizes KG1a cells to chemotherapeutic agents. Thus all these results may have important implications to improve clinical treatments."
+        },
+        {
+            "References": "PMID:15111313",
+            "Value": "Fractalkine is an unusual tumor necrosis factor (TNF)-alpha-induced chemokine. The molecule is tethered to cells that express it and produces strong and direct adhesion to leukocytes expressing fractalkine receptor. However, the potential mechanism and significance of TNF-alpha-induced fractalkine expression in vascular endothelial cells are poorly understood. Here /the authors/ show that in primary cultured endothelial cells TNF-alpha-induced fractalkine mRNA expression is mediated mainly through phosphatidylinositol 3'-kinase activation and nuclear factor (NF)-kappaB mediated transcriptional activation, along with GC-rich DNA-binding protein-mediated transcription. Interestingly, GC-rich DNA-binding protein inhibitors, mithramycin A and chromomycin A3, strongly suppressed TNF-alpha-induced fractalkine mRNA expression, possibly through inhibition of transcriptional activities by NF-kappaB and Sp1. In fact, direct inhibition of NF-kappaB and Sp1 bindings by decoy oligonucleotides suppressed TNF-alpha-induced fractalkine expression. Histologically, TNF-alpha-induced fractalkine expression was observed markedly in arterial and capillary endothelial cells, endocardium, and endothelium of intestinal villi, and slightly in venous endothelial cells, but not at all in lymphatic endothelial cells of intestine. Mithramycin A markedly suppressed TNF-alpha-induced fractalkine expression in vivo. These results indicate that TNF-alpha-stimulated fractalkine expression could act as part of arterial endothelial adhesion to leukocytes and monocytes during inflammation and atherosclerosis. NF-kappaB and Sp1 inhibitors such as mithramycin A may provide a pharmacological approach to suppressing these processes."
+        }
+    ]
+}

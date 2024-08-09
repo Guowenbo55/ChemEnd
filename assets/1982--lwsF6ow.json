@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "669270fa303528b49832d76f"
+    },
+    "CID": {
+        "$numberInt": "1982"
+    },
+    "Name": "Acephate",
+    "IUPACName": "N-[methoxy(methylsulfanyl)phosphoryl]acetamide",
+    "CanonicalSMILES": "CC(=O)NP(=O)(OC)SC",
+    "Synonyms": [
+        "acephate",
+        "30560-19-1",
+        "Orthene",
+        "Acetamidophos",
+        "Ortran",
+        "Ortril",
+        "O,S-Dimethyl N-acetylphosphoramidothioate",
+        "Acephat",
+        "Acetylphosphoramidothioic acid O,S-dimethyl ester",
+        "Orthene-755",
+        "O,S-Dimethyl acetylphosphoramidothioate",
+        "O,S-Dimethylacetylphosphoroamidothioate",
+        "N-[methoxy(methylsulfanyl)phosphoryl]acetamide",
+        "Chevron RE 12,420",
+        "Phosphoramidothioic acid",
+        "acetyl-",
+        "O,S-dimethyl ester"
+    ],
+    "IsomericSMILES": "CC(=O)NP(=O)(OC)SC",
+    "INCHI": "InChI=1S/C4H10NO3PS/c1-4(6)5-9(7,8-2)10-3/h1-3H3,(H,5,6,7)",
+    "INCHIKEY": "YASYVMFAVPKPKE-UHFFFAOYSA-N",
+    "Formula": "C4H10NO3PS",
+    "MolecularWeight": {
+        "$numberDouble": "183.17"
+    },
+    "Description": "Acephate is a phosphoramide that is methamidophos in which one of the hydrogens is replaced by an acetyl group. It has a role as an acaricide, an EC 3.1.1.7 (acetylcholinesterase) inhibitor and an agrochemical. It is a mixed diacylamine, a phosphoramide, an organic thiophosphate and an organothiophosphate insecticide. It is functionally related to a member of methamidophos.",
+    "XlogP": {
+        "$numberDouble": "-0.8"
+    },
+    "Complexity": {
+        "$numberInt": "172"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "This study focused on addressing the increasing damage caused by the fall armyworm moth (Spodoptera frugiperda) to maize crops in China since January 2019. The main approach for control has been chemical intervention, but the study aimed to explore effective pest control methods while considering the environmental impact of pesticide use. The research evaluated the efficacy of acephate, applied through foliar spraying and root irrigation, in controlling S. frugiperda infestation in maize plants. It also examined the absorption, distribution, and dissipation of acephate and methamidophos in maize. Field trials revealed that root irrigation with acephate at a dosage of 6000 g a.i. ha\u22121 was the most effective method for S. frugiperda control. The study found that acephate and methamidophos were absorbed by maize roots, transported upwards, and concentrated in the leaves, particularly the new leaves. However, the residues of acephate and methamidophos in maize grains were undetectable after 60 days of treatment. The results indicated that root irrigation with acephate offered superior control over foliar spraying, with more uniform translocation and distribution of the pesticides and an extended period of efficacy. This method provides a potential approach to reduce pesticide residues while effectively managing S. frugiperda infestation in maize crops.",
+            "reference": "Wu, J., Li, X., Hou, R., Zhao, K., Wang, Y., Huang, S., ... & Zhang, Z. (2021). Examination of acephate absorption, transport, and accumulation in maize after root irrigation for Spodoptera frugiperda control. Environmental Science and Pollution Research, 28(40), 57361-57371.",
+            "method": {
+                "Test Plant": "Maize (Zea mays)",
+                "Apply Location": "Root irrigation",
+                "Plant Grown Condition": "Field trials with planting density of approximately 120 maize plants per plot",
+                "Chemical Preparation": "Acephate (99.5%) and methamidophos standards (99.0%) were purchased; soluble acephate granules (90.0%) were obtained; individual stock standard solutions of acephate (100 mg/mL) and methamidophos (100 mg/mL) were prepared in methanol and stored at \u221218 \u00b1 1 \u00b0C; mixed standard solutions of acephate and methamidophos were prepared by diluting stock solutions with methanol to a concentration range of 0.01~20 mg/mL; matrix-matched standard calibration was achieved by applying appropriate volumes of standard solutions to untreated maize and soil",
+                "Pesticide Application Details for the Plant": "6000 g a.i. ha\u22121 acephate (90.0% soluble acephate granules) applied through root irrigation. 3 or 6 times the recommended foliar spray dosage was applied to account for soil adsorption.",
+                "Other Information": "Field trials were arranged as a randomized complete block design with three replications, involving three treatments and one control; experimental area measured 240 m2, with 12 treatment plots (20 m2 each) separated by buffers to avoid cross-contamination"
+            },
+            "result": "[{\"Location\": 1, \"Day after application\": 3.12, \"leaves (mg/kg) Stalk (mg/kg)\": 1.29, \"Root(mg/kg)\": 1.29, \"RCF\": 0.05, \"TFa\": 0.72, \"TFb\": 4.24}, {\"Location\": 3, \"Day after application\": 8.24, \"leaves (mg/kg) Stalk (mg/kg)\": 0.83, \"Root(mg/kg)\": 1.37, \"RCF\": 0.05, \"TFa\": 0.6, \"TFb\": 7.8}, {\"Location\": 5, \"Day after application\": 16.18, \"leaves (mg/kg) Stalk (mg/kg)\": 1.6, \"Root(mg/kg)\": 1.9, \"RCF\": 0.95, \"TFa\": 0.42, \"TFb\": 12.22}, {\"Location\": 7, \"Day after application\": 4.5, \"leaves (mg/kg) Stalk (mg/kg)\": 1.06, \"Root(mg/kg)\": 1.45, \"RCF\": 0.23, \"TFa\": 0.5, \"TFb\": 5.72}, {\"Location\": 15, \"Day after application\": 1.29, \"leaves (mg/kg) Stalk (mg/kg)\": 0.22, \"Root(mg/kg)\": 0.45, \"RCF\": 0.43, \"TFa\": 0.33, \"TFb\": 3.9}, {\"Location\": 20, \"Day after application\": 0.3, \"leaves (mg/kg) Stalk (mg/kg)\": 0.15, \"Root(mg/kg)\": 0.0, \"RCF\": 0.32, \"TFa\": 0.26, \"TFb\": 2.94}, {\"Location\": 30, \"Day after application\": 0.0, \"leaves (mg/kg) Stalk (mg/kg)\": 0.0, \"Root(mg/kg)\": 0.0, \"RCF\": 0.32, \"TFa\": 0.25, \"TFb\": 2.08}, {\"Location\": 1, \"Day after application\": 5.26, \"leaves (mg/kg) Stalk (mg/kg)\": 0.51, \"Root(mg/kg)\": 2.4, \"RCF\": 2.25, \"TFa\": 0.27, \"TFb\": 10.47}, {\"Location\": 3, \"Day after application\": 10.76, \"leaves (mg/kg) Stalk (mg/kg)\": 0.62, \"Root(mg/kg)\": 3.43, \"RCF\": 1.15, \"TFa\": 0.27, \"TFb\": 15.17}, {\"Location\": 5, \"Day after application\": 10.99, \"leaves (mg/kg) Stalk (mg/kg)\": 0.62, \"Root(mg/kg)\": 4.0, \"RCF\": 0.65, \"TFa\": 0.25, \"TFb\": 14.11}, {\"Location\": 7, \"Day after application\": 6.18, \"leaves (mg/kg) Stalk (mg/kg)\": 0.28, \"Root(mg/kg)\": 4.0, \"RCF\": 0.44, \"TFa\": 0.22, \"TFb\": 14.11}, {\"Location\": 15, \"Day after application\": 4.17, \"leaves (mg/kg) Stalk (mg/kg)\": 0.28, \"Root(mg/kg)\": 1.25, \"RCF\": 0.51, \"TFa\": 0.28, \"TFb\": 15.05}, {\"Location\": 20, \"Day after application\": 2.0, \"leaves (mg/kg) Stalk (mg/kg)\": 0.05, \"Root(mg/kg)\": 0.51, \"RCF\": 0.23, \"TFa\": 0.03, \"TFb\": 16.82}, {\"Location\": 30, \"Day after application\": 0.17, \"leaves (mg/kg) Stalk (mg/kg)\": 0.0, \"Root(mg/kg)\": 0.05, \"RCF\": 0.25, \"TFa\": 0.0, \"TFb\": 0.0}]"
+        }
+    ]
+}

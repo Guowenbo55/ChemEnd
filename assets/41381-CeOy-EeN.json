@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "66927109303528b49832d7ab"
+    },
+    "CID": {
+        "$numberInt": "41381"
+    },
+    "Name": "Ethalfluralin",
+    "IUPACName": "N-ethyl-N-(2-methylprop-2-enyl)-2,6-dinitro-4-(trifluoromethyl)aniline",
+    "CanonicalSMILES": "CCN(CC(=C)C)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]",
+    "Synonyms": [
+        "ETHALFLURALIN",
+        "55283-68-6",
+        "Sonalan",
+        "Buvilan",
+        "EL 161",
+        "EL-161",
+        "N-Ethyl-N-(2-methyl-2-propenyl)-2,6-dinitro-4-(trifluoromethyl)benzenamine",
+        "N-ethyl-N-(2-methylprop-2-enyl)-2,6-dinitro-4-(trifluoromethyl)aniline",
+        "51DKA727XQ",
+        "Ethafluralin",
+        "DTXSID8032386",
+        "CHEBI:81988",
+        "Benzenamine",
+        "N-ethyl-N-(2-methyl-2-propenyl)-2,6-dinitro-4-(trifluoromethyl)-",
+        "Ethalfluralin 10 microg/mL in Cyclohexane",
+        "N-ethyl-N-(2-methylallyl)-2,6-dinitro-4-(trifluoromethyl)aniline"
+    ],
+    "IsomericSMILES": "CCN(CC(=C)C)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]",
+    "INCHI": "InChI=1S/C13H14F3N3O4/c1-4-17(7-8(2)3)12-10(18(20)21)5-9(13(14,15)16)6-11(12)19(22)23/h5-6H,2,4,7H2,1,3H3",
+    "INCHIKEY": "PTFJIKYUEPWBMS-UHFFFAOYSA-N",
+    "Formula": "C13H14F3N3O4",
+    "MolecularWeight": {
+        "$numberDouble": "333.26"
+    },
+    "Description": "Ethalfluralin is a C-nitro compound.",
+    "XlogP": {
+        "$numberDouble": "5.1"
+    },
+    "Complexity": {
+        "$numberInt": "449"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Absorption and translocation of 14C-ethalfluralin (N-ethyl-N-(2-methyl-2-propenyl)-2,6-dinitro-4-(trifluoromethyl)benzenamine) were measured in cucumber plants in the field and greenhouse. In field enclosures, cucumbers treated with 1.68 or 3.36 kg ai/ha preemergence soil-surface applications of 14C-ethalfluralin accumulated significantly more 14C in leaves than in petioles, stems, or fruits. In greenhouse studies, 14C-ethalfluralin vapor was absorbed by both cucumber seedling stems and cotyledons. Seedlings absorbed 14C-ethalfluralin from a nutrient solution and translocated 14C into all plant parts. Cucumber absorbed 14C-ethalfluralin topically applied to the stem and translocated 14C acropetally, while only limited basipetal translocation occurred. Although cotyledons absorbed 14C-ethalfluralin, very little 14 C moved out of the treated tissue.",
+            "reference": "Willis, M. D., & Putnam, A. R. (1986). Absorption and translocation of 14C-ethalfluralin in cucumber (Cucumis sativus). Weed science, 34(1), 13-16.",
+            "method": {
+                "Test Plant": "Cucumber ('Green Star').",
+                "Apply Location": "Stem, root and cotyledon application",
+                "Plant Grown Condition": "Cucumber seeds were planted in galvanized metal culverts placed vertically into the soil. Seeds were planted at a depth of 2.5 cm on July 17, 1980.",
+                "Chemical Preparation": "Uniformly ring-labeled 14C-ethalfluralin was amended with technical grade ethalfluralin and dissolved in acetone to produce various 14C-ethalfluralin solutions for application.",
+                "Pesticide Application Details for the Plant": "The 14C-ethalfluralin solutions were distributed evenly over the soil surface within the individual culverts. Two treatments resulted in ethalfluralin being applied at rates of 1.68 and 3.36 kg/ha, respectively. The culverts were irrigated with approximately 1.0 cm of water after application.",
+                "Other Information": "Ten cucumber fruits from both the 1.68 and 3.36 kg/ha treatments were used for radioassay and statistical analysis, along with five subsamples from each of leaves, stems, and petioles from each of five plants for combustion. Four replications of one plant for each treatment were used for the vapor uptake study, and three replications of two plants for each treatment were used for the root uptake study."
+            },
+            "result": "[{\"Time after application\": \"2 hours\", \"Application site\": \"Root\", \"Root Absorbed (%)\": 90.6, \"Stem Absorbed (%)\": 6.2, \"Cotyledon Absorbed (%)\": \"3.2\", \"Total Absorbed (dpm/plant)\": 17921}, {\"Time after application\": \"6 hours\", \"Application site\": \"Root\", \"Root Absorbed (%)\": 82.9, \"Stem Absorbed (%)\": 10.9, \"Cotyledon Absorbed (%)\": \"6.2\", \"Total Absorbed (dpm/plant)\": 13362}, {\"Time after application\": \"24 hours\", \"Application site\": \"Root\", \"Root Absorbed (%)\": 76.4, \"Stem Absorbed (%)\": 10.1, \"Cotyledon Absorbed (%)\": \"13.5\", \"Total Absorbed (dpm/plant)\": 11585}, {\"Time after application\": \"48 hours\", \"Application site\": \"Root\", \"Root Absorbed (%)\": 67.5, \"Stem Absorbed (%)\": 11.6, \"Cotyledon Absorbed (%)\": \"20.9\", \"Total Absorbed (dpm/plant)\": 14413}, {\"Time after application\": \"6 hours\", \"Application site\": \"Stem\", \"Root Absorbed (%)\": 0.34, \"Stem Absorbed (%)\": 83.6, \"Cotyledon Absorbed (%)\": \"16.1\", \"Total Absorbed (dpm/plant)\": 27786}, {\"Time after application\": \"24 hours\", \"Application site\": \"Stem\", \"Root Absorbed (%)\": 0.85, \"Stem Absorbed (%)\": 63.7, \"Cotyledon Absorbed (%)\": \"35.5\", \"Total Absorbed (dpm/plant)\": 29280}, {\"Time after application\": \"48 hours\", \"Application site\": \"Stem\", \"Root Absorbed (%)\": 0.78, \"Stem Absorbed (%)\": 59.2, \"Cotyledon Absorbed (%)\": \"40.0\", \"Total Absorbed (dpm/plant)\": 30947}, {\"Time after application\": \"6 hours\", \"Application site\": \"Cotyledon\", \"Root Absorbed (%)\": 0.09, \"Stem Absorbed (%)\": 0.88, \"Cotyledon Absorbed (%)\": \"99.0 (96.2 treated + 2.8 untreated)\", \"Total Absorbed (dpm/plant)\": 19370}, {\"Time after application\": \"24 hours\", \"Application site\": \"Cotyledon\", \"Root Absorbed (%)\": 0.1, \"Stem Absorbed (%)\": 0.35, \"Cotyledon Absorbed (%)\": \"99.5 (97.3 treated + 2.2 untreated)\", \"Total Absorbed (dpm/plant)\": 29087}, {\"Time after application\": \"48 hours\", \"Application site\": \"Cotyledon\", \"Root Absorbed (%)\": 0.21, \"Stem Absorbed (%)\": 0.36, \"Cotyledon Absorbed (%)\": \"99.3 (97.5 treated + 1.8 untreated)\", \"Total Absorbed (dpm/plant)\": 44024}]"
+        }
+    ]
+}

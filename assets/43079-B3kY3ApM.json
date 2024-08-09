@@ -1,0 +1,93 @@
+{
+    "_id": {
+        "$oid": "6682e980c4e5dba5ffba2aef"
+    },
+    "CID": {
+        "$numberInt": "43079"
+    },
+    "Name": "FLURIDONE",
+    "IUPACName": "1-methyl-3-phenyl-5-[3-(trifluoromethyl)phenyl]pyridin-4-one",
+    "CanonicalSMILES": "CN1C=C(C(=O)C(=C1)C2=CC(=CC=C2)C(F)(F)F)C3=CC=CC=C3",
+    "Synonyms": [
+        "FLURIDONE",
+        "59756-60-4",
+        "Fluridon",
+        "Sonar",
+        "Pride",
+        "EL-171",
+        "1-methyl-3-phenyl-5-[3-(trifluoromethyl)phenyl]pyridin-4-one",
+        "1-Methyl-3-phenyl-5-(3-(trifluoromethyl)phenyl)-4(1H)-pyridinone",
+        "4(1H)-Pyridinone",
+        "1-methyl-3-phenyl-5-[3-(trifluoromethyl)phenyl]-",
+        "1-Methyl-3-phenyl-5-(3-(trifluoromethyl)phenyl)-4-pyridone",
+        "1-Methyl-3-phenyl-5-(3-(trifluoromethyl)phenyl)pyridin-4(1H)-one",
+        "3L0JQA61JX",
+        "DTXSID8024107",
+        "CHEBI:82016",
+        "Brake"
+    ],
+    "IsomericSMILES": "CN1C=C(C(=O)C(=C1)C2=CC(=CC=C2)C(F)(F)F)C3=CC=CC=C3",
+    "INCHI": "InChI=1S/C19H14F3NO/c1-23-11-16(13-6-3-2-4-7-13)18(24)17(12-23)14-8-5-9-15(10-14)19(20,21)22/h2-12H,1H3",
+    "INCHIKEY": "YWBVHLJPRPCRSD-UHFFFAOYSA-N",
+    "Formula": "C19H14F3NO",
+    "MolecularWeight": {
+        "$numberDouble": "329.3"
+    },
+    "Description": "Fluridone is a phenylpyridine. It has a role as a carotenoid biosynthesis inhibitor.",
+    "XlogP": {
+        "$numberDouble": "3.2"
+    },
+    "Complexity": {
+        "$numberInt": "543"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) West SD, Parka SJ; J Agric Food Chem 40: 160-4 (1992)",
+            "Value": "Fluridone was detected in orchardgrass and alfalfa at concentrations of 0.11 and 0.07 ppm, respectively, following irrigation of 26 associated crops with water containing fluridone(1). The detection limit for fluridone in this study was 0.05 ppm(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "Hydrilla and Eurasian watermilfoil (EWM) are invasive aquatic plants that aggressively compete with native plants, forming dense, monotypic stands. Previous studies have established the selectivity and concentration exposure time requirements for aquatic herbicides used to control hydrilla and EWM; therefore, the objective of this research was to conduct a comparative study evaluating fluridone, triclopyr, and penoxsulam absorption and translocation in these two aquatic plants. Using 14C-labeled herbicides, absorption and translocation were measured over a 192-h time course. On the basis of differences in lipophilicity among the three herbicides (fluridone, penoxsulam, triclopyr), it was expected that fluridone would have the highest accumulation, with significantly lower accumulation for penoxsulam and triclopyr. However, experimental results did not support this hypothesis. Triclopyr accumulation was highest in EWM and was equivalent to fluridone in hydrilla. Penoxsulam absorption and translocation were low in both species. Additionally, accumulation after shoot exposure was approximately three times greater for EWM compared with hydrilla. Shoot-to-root translocation was limited, with a maximum of 12.5% of absorbed triclopyr reaching hydrilla roots 192 h after treatment.",
+            "reference": "Vassios, J. D., Nissen, S. J., Koschnick, T. J., & Heilman, M. A. (2017). Fluridone, penoxsulam, and triclopyr absorption and translocation by Eurasian watermilfoil (Myriophyllum spicatum) and hydrilla (Hydrilla verticillata). J Aquat Plant Manage, 55, 58-64.",
+            "method": {
+                "Test Plant": "Eurasian watermilfoil (EWM) biotype from Colorado and a fluridone-susceptible dioecious hydrilla population from Florida",
+                "Apply Location": "Shoot application",
+                "Plant Grown Condition": "EWM maintained in 1000L tanks year-round. Hydrilla maintained from tubers in 1000L tank year-round. Grown in greenhouse under 400W sodium halide lamps providing ~200 \u03bcmol/m2/s supplemental light. Mid-Nov to late Jan - 10h day length. Late Jan to mid-Nov - 10-15h day length (normal seasonal variation). 24\u00b0C day/18\u00b0C night temperatures. For absorption/translocation study, 15cm apical shoots transferred to 5cm diam jars with topsoil/fertilizer, allowed to root for ~14 days in 30L tanks before treatment.",
+                "Chemical Preparation": "10 \u03bcg/L fluridone with 41.67 kBq 14C-fluridone (1357.9 kBq/mg), 10 \u03bcg/L penoxsulam with 66.67 kBq 14C-penoxsulam (2273.3 kBq/mg), 1 mg/L triclopyr with 66.67 kBq 14C-triclopyr (2689.5 kBq/mg) plus supplemental technical triclopyr.",
+                "Pesticide Application Details for the Plant": "Rooted shoot cuttings transferred to 5cm jars with silica sand/fertilizer, agarose gel layer on top. 3 plants per 4L tank with 3L water. Treated with herbicide solutions.",
+                "Other Information": "3 replicate tanks per species per herbicide treatment. Plants harvested at 6, 12, 24, 48, 96, 192 hours after treatment (HAT). Shoots and roots separated, rinsed. Root exudates collected from sand washings."
+            },
+            "result": "[{\"Plant\": \"Hydrilla\", \"Hours after application\": 6, \"Shoot (ug/g)\": 0.28, \"Root (ug/g)\": 0.02, \"Translocation to roots (% of absorbed)\": 5.0}, {\"Plant\": \"Hydrilla\", \"Hours after application\": 12, \"Shoot (ug/g)\": 0.33, \"Root (ug/g)\": 0.02, \"Translocation to roots (% of absorbed)\": 4.193}, {\"Plant\": \"Hydrilla\", \"Hours after application\": 24, \"Shoot (ug/g)\": 0.49, \"Root (ug/g)\": 0.01, \"Translocation to roots (% of absorbed)\": 2.137}, {\"Plant\": \"Hydrilla\", \"Hours after application\": 48, \"Shoot (ug/g)\": 0.63, \"Root (ug/g)\": 0.03, \"Translocation to roots (% of absorbed)\": 4.314}, {\"Plant\": \"Hydrilla\", \"Hours after application\": 96, \"Shoot (ug/g)\": 0.6, \"Root (ug/g)\": 0.06, \"Translocation to roots (% of absorbed)\": 6.491}, {\"Plant\": \"Hydrilla\", \"Hours after application\": 192, \"Shoot (ug/g)\": 0.82, \"Root (ug/g)\": 0.14, \"Translocation to roots (% of absorbed)\": 9.112}, {\"Plant\": \"Eurasian watermilfoil\", \"Hours after application\": 6, \"Shoot (ug/g)\": 1.12, \"Root (ug/g)\": 0.07, \"Translocation to roots (% of absorbed)\": 0.722}, {\"Plant\": \"Eurasian watermilfoil\", \"Hours after application\": 12, \"Shoot (ug/g)\": 1.7, \"Root (ug/g)\": 0.16, \"Translocation to roots (% of absorbed)\": 2.329}, {\"Plant\": \"Eurasian watermilfoil\", \"Hours after application\": 24, \"Shoot (ug/g)\": 1.52, \"Root (ug/g)\": 0.16, \"Translocation to roots (% of absorbed)\": 3.373}, {\"Plant\": \"Eurasian watermilfoil\", \"Hours after application\": 48, \"Shoot (ug/g)\": 1.55, \"Root (ug/g)\": 0.21, \"Translocation to roots (% of absorbed)\": 2.53}, {\"Plant\": \"Eurasian watermilfoil\", \"Hours after application\": 96, \"Shoot (ug/g)\": 2.02, \"Root (ug/g)\": 0.2, \"Translocation to roots (% of absorbed)\": 1.204}, {\"Plant\": \"Eurasian watermilfoil\", \"Hours after application\": 192, \"Shoot (ug/g)\": 2.0, \"Root (ug/g)\": 0.31, \"Translocation to roots (% of absorbed)\": 2.73}]"
+        },
+        {
+            "content": "The uptake, translocation, and metabolism of the herbicide fluridone 1-methyl-3-phenyl-5-[3-(trifluoromethyl)phenyl]-4(1H)-pyridinone was studied in cotton (Gossypium hirsutum L. \u2018Stoneville 213\u2019) (fluridone tolerant) and corn (Zea mays L. \u2018Migro 5040\u2019), soybean [Glycine max (L.) Merr. \u2018Calland\u2019], and rice (Oryza sativa L. \u2018Nato\u2019) (fluridone susceptible). Uptake studies with 14C fluridone demonstrated that all species absorbed radioactivity with rice having the highest concentration. Equivalent concentrations of radioactivity were observed in corn, cotton, and soybean. Absorbed fluridone was retained primarily in the roots and the basal region of the stem of cotton, while in the herbicide susceptible species fluridone was readily translocated into the shoots. No appreciable metabolism of fluridone was observed in the roots or shoots of cotton and soybean. Tolerance of cotton to fluridone was primarily attributed to the limited translocation of the compound.",
+            "reference": "Berard, D. F., Rainey, D. P., & Lin, C. C. (1978). Absorption, translocation, and metabolism of fluridone in selected crop species. Weed Science, 26(3), 252-254.",
+            "method": {
+                "Test Plant": "Cotton, corn, soybean, and rice",
+                "Apply Location": "Root application",
+                "Plant Grown Condition": "Seeds germinated in sand flats under greenhouse conditions. Cotton, corn, and soybean seedlings at 7 days old, and rice seedlings at 21 days old were used.",
+                "Chemical Preparation": "14C-Fluridone labeled at the 4-position of pyridinone ring (Figure 1), >99% purity, 9.66 \u03bcCi/mg specific activity. 6.07 x 10-7 M (4290 dpm/ml) solution prepared in Hoagland and Arnon's nutrient solution.",
+                "Pesticide Application Details for the Plant": "Individual seedlings were placed in brown bottles containing 40 ml of the 14C-fluridone nutrient solution for uptake studies.",
+                "Other Information": "During 7-day treatment, plants maintained at 25\u00b0C under 3.1 klux light intensity from Vita-Lite fluorescent lamps. 5 replicate plants per species were sampled at each timepoint by removing from treatment solution, rinsing roots, separating into root and shoot portions, freeze-drying, and holding for radiochemical analysis."
+            },
+            "result": "[{\"Plant Days after application Roots (% of absorbed)\": 84, \"Shoots (% of absorbed)\": 16}, {\"Plant Days after application Roots (% of absorbed)\": 68, \"Shoots (% of absorbed)\": 32}, {\"Plant Days after application Roots (% of absorbed)\": 70, \"Shoots (% of absorbed)\": 30}, {\"Plant Days after application Roots (% of absorbed)\": 82, \"Shoots (% of absorbed)\": 18}, {\"Plant Days after application Roots (% of absorbed)\": 86, \"Shoots (% of absorbed)\": 14}, {\"Plant Days after application Roots (% of absorbed)\": 82, \"Shoots (% of absorbed)\": 18}, {\"Plant Days after application Roots (% of absorbed)\": 73, \"Shoots (% of absorbed)\": 27}, {\"Plant Days after application Roots (% of absorbed)\": 73, \"Shoots (% of absorbed)\": 27}, {\"Plant Days after application Roots (% of absorbed)\": 64, \"Shoots (% of absorbed)\": 36}, {\"Plant Days after application Roots (% of absorbed)\": 67, \"Shoots (% of absorbed)\": 33}, {\"Plant Days after application Roots (% of absorbed)\": 92, \"Shoots (% of absorbed)\": 8}, {\"Plant Days after application Roots (% of absorbed)\": 84, \"Shoots (% of absorbed)\": 16}, {\"Plant Days after application Roots (% of absorbed)\": 77, \"Shoots (% of absorbed)\": 23}, {\"Plant Days after application Roots (% of absorbed)\": 70, \"Shoots (% of absorbed)\": 30}, {\"Plant Days after application Roots (% of absorbed)\": 65, \"Shoots (% of absorbed)\": 35}, {\"Plant Days after application Roots (% of absorbed)\": 70, \"Shoots (% of absorbed)\": 30}, {\"Plant Days after application Roots (% of absorbed)\": 52, \"Shoots (% of absorbed)\": 48}, {\"Plant Days after application Roots (% of absorbed)\": 43, \"Shoots (% of absorbed)\": 57}, {\"Plant Days after application Roots (% of absorbed)\": 37, \"Shoots (% of absorbed)\": 63}, {\"Plant Days after application Roots (% of absorbed)\": 19, \"Shoots (% of absorbed)\": 81}]"
+        },
+        {
+            "content": "The uptake and translocation of fluridone {1-methyl-3-phenyl-5-[3-(trifluoromethyl)phenyl]-4(1H)-pyridinone} were examined in sago pondweed (Potamogeton pectinatus L.) and Richardson pondweed [Potamogeton richardsonii (Ar. Benn.) Rydb.]. Root and shoot tissues of both species were isolated from each other with wax barriers and treated individually with 1.0 ppm 14C-fluridone. Both tissues bioconcentrated fluridone, but the amount absorbed represented 1% or less of the total herbicide available. Limited root-to-shoot translocation occurred, but shoot-to-root transport was negligible. In contrast to fluridone, highly mobile glyphosate [N-(phosphonomethyl) glycine] translocated from the shoots to the roots in sago pondweed. No metabolism of fluridone was detected in sago pondweed.",
+            "reference": "Marquis, L. Y., Comes, R. D., & Yang, C. P. (1981). Absorption and translocation of fluridone and glyphosate in submersed vascular plants. Weed science, 29(2), 229-236.",
+            "method": {
+                "Test Plant": "Sago pondweed (Potamogeton pectinatus) and Richardson's pondweed (Potamogeton richardsonii)",
+                "Apply Location": "Shoot exposure",
+                "Plant Grown Condition": "Plants grown from overwintering vegetative propagules (tubers for sago pondweed, winterbuds for Richardson's pondweed) excavated from local irrigation canals. Planted in sand in 7x7 cm cartons, submersed in recirculating aquaria at 20\u00b0C water temperature, 14h photoperiod, 240 lux light intensity. Uniform 30 cm long plants selected after 10-14 days.",
+                "Chemical Preparation": "14C-Fluridone (17.89 \u03bcCi/mg, labeled at 4-position of pyridinone ring) and unlabeled technical fluridone used. Two treatment solutions - 3.04 \u03bcM (1 ppm) fluridone in deionized water or 1/5 strength Hoagland's solution. 14C-Glyphosate (11.53 \u03bcCi/mg, labeled at methylene carbon) used at 5.92 \u03bcM (1 ppm) in deionized water for sago pondweed basipetal translocation.",
+                "Pesticide Application Details for the Plant": "Modified hydroponic system with shoots separated from roots by parting stem with eicosane wax seal. 750 ml treatment solution for shoots, 200 ml for roots. Shoot treatments - deionized water with 14C-fluridone or 14C-glyphosate. Root treatments - 1/5 Hoagland's with 14C-fluridone.",
+                "Other Information": "2, 7 and 14 day exposures, with sago pondweed tubers excised for some root treatments. Solutions from shoot and root chambers analyzed by liquid scintillation to quantify 14C."
+            },
+            "result": "[{\"Plant\": 2, \"Hours after application\": 76.3, \"Leaves (% of absorbed)\": 23.1, \"Stems (%)\": 0.4, \"Roots (%)\": 0.2, \"Total recovered (% of applied)\": 96.9}, {\"Plant\": 7, \"Hours after application\": 73.2, \"Leaves (% of absorbed)\": 25.1, \"Stems (%)\": 1.6, \"Roots (%)\": 0.1, \"Total recovered (% of applied)\": 95.5}, {\"Plant\": 4, \"Hours after application\": 72.5, \"Leaves (% of absorbed)\": 25.1, \"Stems (%)\": 2.0, \"Roots (%)\": 0.4, \"Total recovered (% of applied)\": 95.6}, {\"Plant\": 2, \"Hours after application\": 82.5, \"Leaves (% of absorbed)\": 15.9, \"Stems (%)\": 1.6, \"Roots (%)\": 0.0, \"Total recovered (% of applied)\": 94.8}, {\"Plant\": 7, \"Hours after application\": 79.2, \"Leaves (% of absorbed)\": 18.5, \"Stems (%)\": 2.0, \"Roots (%)\": 0.3, \"Total recovered (% of applied)\": 93.8}, {\"Plant\": 4, \"Hours after application\": 77.9, \"Leaves (% of absorbed)\": 19.3, \"Stems (%)\": 2.5, \"Roots (%)\": 0.3, \"Total recovered (% of applied)\": 96.6}]"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "_id": {
+        "$oid": "6682e8dac4e5dba5ffba27ab"
+    },
+    "CID": {
+        "$numberInt": "9740"
+    },
+    "Name": "CYANOACETIC ACID",
+    "IUPACName": "2-cyanoacetic acid",
+    "CanonicalSMILES": "C(C#N)C(=O)O",
+    "Synonyms": [
+        "CYANOACETIC ACID",
+        "372-09-8",
+        "2-Cyanoacetic acid",
+        "Acetic acid",
+        "cyano-",
+        "Malonic mononitrile",
+        "Acide cyanacetique",
+        "Cyanessigsaeure",
+        "Cyanoaceticacid",
+        "Monocyanoacetic acid",
+        "Malonic acid mononitrile",
+        "USAF KF-17",
+        "cyanoethanoic acid",
+        "Kyselina kyanoctova",
+        "Acetic acid",
+        "2-cyano-",
+        "NSC 5571"
+    ],
+    "IsomericSMILES": "C(C#N)C(=O)O",
+    "INCHI": "InChI=1S/C3H3NO2/c4-2-1-3(5)6/h1H2,(H,5,6)",
+    "INCHIKEY": "MLIREBYILWEBDM-UHFFFAOYSA-N",
+    "Formula": "C3H3NO2",
+    "MolecularWeight": {
+        "$numberDouble": "85.06"
+    },
+    "Description": "Cyanoacetic acid is a monocarboxylic acid that consists of acetic acid bearing a cyano substituent. It is functionally related to an acetic acid.",
+    "XlogP": {
+        "$numberDouble": "-0.8"
+    },
+    "Complexity": {
+        "$numberInt": "98"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 5 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated for cyanoacetic acid(SRC), using a log Kow of -0.76(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Chemicals Inspection and Testing Institute. Japan Chemical Industry Ecology - Toxicology and Information Center. ISBN 4-89074-101-1 (1992)",
+            "Value": "AEROBIC: Cyanoacetic acid, present at 100 mg/L, reached 90% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L and the Japanese MITI test(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 5",
+            "Value": "log Kow = -0.76"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Grant, W. M. Toxicology of the Eye. 2nd ed. Springfield, Illinois: Charles C. Thomas, 1974., p. 337",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... /Cyanoacetic acid/ was reported ... to have caused histologic demonstrable lesions in optic nerves and tracts of 2 out of 15 severely poisoned rats. ... In rabbits no effect on ERG /(Electroretinogram)/ ..."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 4:1431",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... Rats were given drinking water containing 2 mg cyanoacetic acid/mL daily for 7 wk. No toxic effects of any sort were noted ..."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992) (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Kortum G et al; Pure Appl Chem 1: 2-3 (1961) (4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc for cyanoacetic acid can be estimated to be 1(SRC). According to a classification scheme(2), this estimated Koc value suggests that cyanoacetic acid is expected to have very high mobility in soil(SRC). In addition, the pKa of cyanoacetic acid is 2.45(3), indicating that this compound will exist primarily as an anion in the environment, and anions generally possess higher mobility in soil than their neutral counterpart(4)."
+        }
+    ]
+}

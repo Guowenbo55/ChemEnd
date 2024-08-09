@@ -1,0 +1,145 @@
+{
+    "_id": {
+        "$oid": "6682e99bc4e5dba5ffba2b79"
+    },
+    "CID": {
+        "$numberInt": "444679"
+    },
+    "Name": "ERGOSTEROL",
+    "IUPACName": "(3S,9S,10R,13R,14R,17R)-17-[(E,2R,5R)-5,6-dimethylhept-3-en-2-yl]-10,13-dimethyl-2,3,4,9,11,12,14,15,16,17-decahydro-1H-cyclopenta[a]phenanthren-3-ol",
+    "CanonicalSMILES": "CC(C)C(C)C=CC(C)C1CCC2C1(CCC3C2=CC=C4C3(CCC(C4)O)C)C",
+    "Synonyms": [
+        "ERGOSTEROL",
+        "57-87-4",
+        "Provitamin D2",
+        "Ergosterin",
+        "Ergosta-5,7,22-trien-3-ol",
+        "(3b,22E)-",
+        "UNII-Z30RAY509F",
+        "CCRIS 7220",
+        "HSDB 395",
+        "Z30RAY509F",
+        "CHEBI:16933",
+        "24-Methylcholesta-5,7,22-trien-3beta-ol",
+        "Ergosta-5,7,22-trien-3beta-ol",
+        "Ergosta-5,7,22E-trien-3beta-ol",
+        "EINECS 200-352-7",
+        "Ergosta-5,7,22-trien-3-ol",
+        "(3beta,22E)-"
+    ],
+    "IsomericSMILES": "C[C@H](/C=C/[C@H](C)C(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3C2=CC=C4[C@@]3(CC[C@@H](C4)O)C)C",
+    "INCHI": "InChI=1S/C28H44O/c1-18(2)19(3)7-8-20(4)24-11-12-25-23-10-9-21-17-22(29)13-15-27(21,5)26(23)14-16-28(24,25)6/h7-10,18-20,22,24-26,29H,11-17H2,1-6H3/b8-7+/t19-,20+,22-,24+,25-,26-,27-,28+/m0/s1",
+    "INCHIKEY": "DNVPQKQSNYMLRS-APGDWVJJSA-N",
+    "Formula": "C28H44O",
+    "MolecularWeight": {
+        "$numberDouble": "396.6"
+    },
+    "Description": "Ergosterol is a phytosterol consisting of ergostane having double bonds at the 5,6-, 7,8- and 22,23-positions as well as a 3beta-hydroxy group. It has a role as a fungal metabolite and a Saccharomyces cerevisiae metabolite. It is a 3beta-sterol, an ergostanoid, a 3beta-hydroxy-Delta(5)-steroid and a member of phytosterols.",
+    "XlogP": {
+        "$numberDouble": "7.4"
+    },
+    "Complexity": {
+        "$numberInt": "712"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Cheng JYW et al; Atmos Environ 42(22): 5534-41 (2008) (2) Barajas-Aceves M et al; J Microbiol Methods 50(3): 227-236 (2002) (3) Marin S et al; Internat J Food Microbiol 99(3): 329-41 (2005)",
+            "Value": "The ergosterol weighted-average concentration in fungal spores commonly encountered in subtropical ambient air was 0.191 pg/spore(1). The ergosterol content in 20 white-rot fungi isolates ranged from 2,380 to 13,060 ug/g fungal biomass, with Bjerkandera adusta 4,312, Coriolopsis gallica 8,260, and Phanerochaete chyrosporium 3,642 ug/g fungal biomass reported as examples(2). Ergosterol content was shown to be affected negatively by the amount of pollutants present(2). Ergosterol has also been identified in a variety of fungi associated with food spoilage molds(3)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Meylan WM, Howard PH; J Pharm Sci 84: 83-92 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 1,600 was calculated in fish for ergosterol(SRC), using an estimated log Kow of 8.86(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is very high(SRC), provided the compound is not metabolized by the organism(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Schatz A et al; J Bact 58: 117-25 (1949)",
+            "Value": "AEROBIC: The soil microbe Nocardia erthopolis was able to grow on ergosterol(1)."
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:17016471",
+            "Value": "... A new member of the F-box family, Pof14, which forms a canonical, F-box dependent SCF (Skp1, Cullin, F-box protein) ubiquitin ligase complex /is described/. The Pof14 protein has intrinsic instability that is abolished by inactivation of its Skp1 interaction motif (the F-box), Skp1 or the proteasome, indicating that Pof14 stability is controlled by an autocatalytic mechanism. Pof14 interacts with the squalene synthase Erg9, a key enzyme in ergosterol metabolism, in a membrane-bound complex that does not contain the core SCF components. pof14 transcription is induced by hydrogen peroxide and requires the Pap1 transcription factor and the Sty1 MAP kinase. Pof14 binds to and decreases Erg9 activity in vitro and a pof14 deletion strain quickly loses viability in the presence of hydrogen peroxide due to its inability to repress ergosterol synthesis. A pof14 mutant lacking the F-box and an skp1-3 ts mutant behave as wild type in the presence of oxidant showing that Pof14 function is independent of SCF. This indicates that modulation of ergosterol level plays a key role in adaptation to oxidative stress."
+        },
+        {
+            "References": "PMID:16110826",
+            "Value": "The continuous use of triazoles can result in the development of drug resistance. Azole-resistant clinical isolates, spontaneous and induced mutants of Aspergillus fumigatus have been documented. The azoles block the ergosterol biosynthesis pathway by inhibiting the enzyme 14-alpha-demethylase, product of the CYP51. Fungal azole resistance involves both amino acid changes in the target site that alter drug-target interactions and those that decrease net azole accumulation. The reduced intracellular accumulation has also been correlated with overexpression of multidrug resistance (MDR) efflux transporter genes of the ATP-binding cassette (ABC) and the major facilitator superfamily (MFS) classes. About 20 genes are involved in the A. fumigatus ergosterol biosynthesis pathway. There are several duplicated genes in this pathway. Interestingly, erg3 and erg11 showed two copies in A. fumigatus. In general, Aspergillus spp. have proportionally more MFS transporter encoding genes than Saccharomyces cerevisiae, S. pombe, and Neurospora crassa. The drug H+ (12 and 14 spanners) sub-families are also proportionally greater than in the other species. Although the numbers of ABC transporter encoding genes are comparable, again the Aspergillus spp. have more ABC transporters related to multidrug permease than the other fungal species."
+        },
+        {
+            "References": "PMID:15855491",
+            "Value": "The human pathogen Candida albicans is responsible for a large proportion of infections in immunocompromised individuals, and the emergence of drug-resistant strains is of medical concern. Resistance to antifungal azole compounds is often due to an increase in drug efflux or an alteration of the pathway for synthesis of ergosterol, an important plasma membrane component in fungi. However, little is known about the transcription factors that mediate drug resistance. In Saccharomyces cerevisiae, two highly related transcriptional activators, Upc2p and Ecm22p, positively regulate the expression of genes involved in ergosterol synthesis (ERG genes). ... A homologue in C. albicans of the S. cerevisiae UPC2/ECM22 genes ... named ... UPC2 /has been identified/. Deletion of this gene impaired growth under anaerobic conditions and rendered cells highly susceptible to the antifungal drugs ketoconazole and fluconazole. Conversely, overexpression of Upc2p increased resistance to ketoconazole, fluconazole, and fluphenazine. Azole-induced expression of the ERG genes was abolished in a Delta upc2 strain, while basal levels of these mRNAs remained unchanged. Importantly, the purified DNA binding domain of Upc2p bound in vitro to putative sterol response elements in the ERG2 promoter, suggesting that Upc2p increases the expression of the ERG genes by directly binding to their promoters. These results provide an important link between changes in the ergosterol biosynthetic pathway and azole resistance in this opportunistic fungal species."
+        },
+        {
+            "References": "PMID:15191747",
+            "Value": "Ergosterol, a typical fungal sterol, induced in tobacco (Nicotiana tabacum L. cv. Xanthi) suspension cells the synthesis of reactive oxygen species and alkalization of the external medium that are dependent on the mobilization of calcium from internal stores. ... Specific inhibitors /were used/ to elucidate the signal pathway triggered by ergosterol compared with cryptogein, a proteinaceous elicitor of Phytophthora cryptogea. Herbimycin A and genistein, inhibitors of tyrosine protein kinases, had no effect on the oxidative burst and pH changes induced by both elicitors. Similarly, H-89, an inhibitor of protein kinase A, had no effect on the induction of these defense reactions. However, the response to both elicitors was completely blocked by NPC-15437, a specific inhibitor of animal protein kinase C (PKC). The responses induced by cryptogein but not those induced by ergosterol were inhibited by U73122 and neomycin, inhibitors of phospholipase C (PLC). On the other hand, the activity of phospholipase A2 (PLA2) measured using a fluorogenic substrate was stimulated by ergosterol and not by cholesterol and cryptogein. A specific inhibitor of PLA2, arachidonic acid trifluoromethyl ketone (AACOCF3), inhibited the pathway stimulated by ergosterol but not that induced by cryptogein. These results suggest that the cryptogein-induced signal pathway leading to the oxidative burst and DeltapH changes includes PLC and PKC, whereas this response induced by ergosterol includes PLA2 and PKC."
+        },
+        {
+            "References": "PMID:12145211",
+            "Value": "The Saccharomyces cerevisiae MOT3 gene encodes a nuclear protein implicated in both repression and activation of transcription. However, a mot3 Delta mutation causes only mild phenotypes under normal growth conditions. To learn more about Mot3 function, ... a synthetic lethal screen /was performed/. This screen identified PAN1, a gene required for normal endocytosis, and VPS41, a gene required for vacuolar fusion and protein targeting, suggesting a role for Mot3 in the regulation of membrane-related genes. Transcriptional analyses show that Mot3 represses transcription of ERG2, ERG6 and ERG9, genes required for ergosterol biosynthesis, during both aerobic and hypoxic growth. Chromatin immunoprecipitation experiments suggest that this repression is direct. Ergosterol has been shown to be required for endocytosis and homotypic vacuole fusion, providing a link between Mot3 and these processes. Consistent with these results, mot3 Delta mutants have a number of related defects, including impaired homotypic vacuole fusion and increased sterol levels. Taken together, /the/ data suggest that proper transcriptional regulation of ergosterol biosynthetic genes by Mot3 is important for normal vacuolar function and probably for the endocytic membrane transport system."
+        },
+        {
+            "References": "PMID:12488039",
+            "Value": "Amphotericin B (AmB) is a very effective anti-fungal polyene macrolide antibiotic whose usage is limited by its toxicity. Lack of a complete understanding of AmB's molecular mechanism has impeded attempts to design less toxic AmB derivatives. The antibiotic is known to interact with sterols present in the cell membrane to form ion channels that disrupt membrane function. The slightly higher affinity of AmB toward ergosterol (dominant sterol in fungal cells) than cholesterol (mammalian sterol) is regarded as the most essential factor on which antifungal chemotherapy is based. To study these differences at the molecular level, two realistic model membrane channels containing molecules of AmB, sterol (cholesterol or ergosterol), phospholipid, and water were studied by molecular dynamics (MD) simulations. Comparative analysis of the simulation data revealed that the sterol type has noticeable effect on the properties of AmB membrane channels. In addition to having a larger size, the AmB channel in the ergosterol-containing membrane has a more pronounced pattern of intermolecular hydrogen bonds. The interaction between the antibiotic and ergosterol is more specific than between the antibiotic and cholesterol. These observed differences suggest that the channel in the ergosterol-containing membrane is more stable and, due to its larger size, would have a higher ion conductance..."
+        },
+        {
+            "References": "PMID:7766188",
+            "Value": "Ergosterol is a major sterol component of fungal plasma membranes. The effects of disrupting the Saccharomyces cerevisiae SYR1/ERG3 gene, which encodes sterol C-5 desaturase, an enzyme of ergosterol biosynthesis pathway, were markedly different for different S. cerevisiae strains and growth temperatures. The null mutation of SYR1 (delta syr1) in strain RAY-3A had only a slight effect on the growth rate at 28 degrees C. However, at this temperature, the same mutation caused poor growth in strain KA-311A and no growth in strain W303-1A. The delta syr1 disruptant of these strains were able to grow at 37 degrees C, as well as their parental strains. Moreover, the growth of the delta syr1 disruptant of W303-1A and KA-311A strains were severely inhibited at 16 degrees C. These results indicated that ergosterol is essential for growth at low temperatures, and the effects of the gene disruption are variable by the genetic background. The growth defect at low temperatures appeared to be due to the defect of tryptophan uptake in the delta syr1 mutants. The delta syr1 mutants were sensitive to a wide variety of drugs, chemicals, and ions, suggesting that yeast ergosterol is important as permeability barrier against various chemical stresses."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "PMID:11085355",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/  The effect of fractions from a water extract of Polyporus on bladder tumor promotion was examined using 5% sodium saccharin (SS) in a short-term test with concanavalin A (Con A) in Wistar rats. Rats were given N-butyl-N-(4-hydroxybutyl) nitrosamine (BHBN) in drinking water for one week, and then promoter alone or test samples (given orally) plus promoter was administered for 3 weeks. Treatment with the BuOH fraction isolated from the water extract showed a strong inhibitory effect against the promoter. It was found that the inhibitory effect of the BuOH fraction is due to the effect of ergosterol contained in the fraction. Treatment with ergosterol showed a strong inhibitory effect against 5% SS, 0.01% BHBN, 3% DL-tryptophan (Trp) or 2% butylated hydroxyanisole (BHA); ID50 was 1.4 ug/kg/d, 2.9 ug/kg/d, 11.6 ug/kg/d, and 11.7 ug/kg/d against SS, BHBN, Trp and BHA, respectively..."
+        },
+        {
+            "References": "Gilman, A. G., L. S. Goodman, and A. Gilman. (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 6th ed. New York: Macmillan Publishing Co., Inc. 1980., p. 1542",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ /Lesions similar to those of supravalvular aortic stenosis/...have been produced experimentally in offspring of rabbits treated with large doses of vitamin D during pregnancy. /Vitamin D/"
+        },
+        {
+            "References": "PMID:71938",
+            "Value": "/ENDOCRINE MODULATION/ The chick-oviduct assay was used to investigate the effects of dietary ergosterol on the response to oral progestogens and estrogens. Progestogens alone had no effect on the oviduct but the hypertrophy due to estrogen was greatly enhanced by simultaneous treatment with progestogen at all dose levels tested.  Ergosterol had no effect on any of the responses of the oviduct studied."
+        },
+        {
+            "References": "PMID:14554200",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Genes of the post-squalene ergosterol biosynthetic pathway in Saccharomyces cerevisiae have been overexpressed in a systematic approach with the aim to construct yeast strains that produce high amounts of sterols from a squalene-accumulating strain. This strain had previously been deregulated by overexpressing a truncated HMG-CoA reductase (tHMG1) in the main bottleneck of the early ergosterol pathway. The overexpression of the gene ERG1 (squalene epoxidase) induced a significant decrease of the direct substrate squalene, a high increase of lanosterol, and a small increase of later sterols. The overexpression of the ERG11 gene encoding the sterol-14alpha-demethylase resulted in a decrease of lanosterol and an increase of downstream sterols. When these two genes were simultaneously overexpressed, later sterols from zymosterol to ergosterol accumulated and the content of squalene was decreased about three-fold, indicating that these steps had limited the transformation of squalene into sterols. The total sterol content in this strain was three-fold higher than in a wild-type strain."
+        },
+        {
+            "References": "PMID:3002372",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ The effect of ergosterol on cell division and phospholipid metabolism was investigated in Saccharomyces cerevisiae strain GL7, a sterol and unsaturated fatty acid auxotroph. Cells growing poorly on cholesterol were stimulated to grow more rapidly by supplementing the medium with 100 ng of ergosterol per mL. Within 10 min after ergosterol addition to cells prelabeled with 32Pi or [3H]inositol the isotope content of the polyphosphoinositides increases markedly followed by an equally striking and rapid decrease. Subsequently upon continuous labeling, 32P incorporation into phosphatidylinositol and, to a lesser degree, other phospholipids increased. Finally 3 hr after ergosterol addition the growth rate increased. Only stimulation of the first process, ie polyphosphoinositide metabolism, upon ergosterol addition is resistant to inhibition by cycloheximide."
+        },
+        {
+            "References": "Briggs, G.G, R.K. Freeman, S.J. Yaffe. A Reference Guide to Fetal and Neonatal Risk. Drugs in Pregnancy and Lactation. 4th ed. Baltimore, MD: Williams & Wilkins 1994., p. 899",
+            "Value": "/OTHER TOXICITY INFORMATION/ High doses of Vitamin D are known to be teratogenic in experimental animals. /Vitamin D/"
+        },
+        {
+            "References": "PMID:14653518",
+            "Value": "/OTHER TOXICITY INFORMATION/ The sterol pathway in Candida albicans is the target for several classes of antifungal drugs. Intermediates in the sterol pathway are involved in ergosterol synthesis, prenylation and dolichol synthesis. This study examines gene expression of the sterol pathway in response to lovastatin, an inhibitor of HMG-CoA reductase (Hmg1p), and fluconazole, an inhibitor of 14 alpha-lanosterol demethylase (Erg11p). Minimum inhibitory concentration (MIC) studies indicated that lovastatin acts synergistically with fluconazole in vitro. Semi-quantitative reverse transcriptase-polymerase chain reaction (RT-PCR) results indicated that genes in the early part of the sterol pathway, such as HMG1 and ERG20, did not alter expression in the presence of both lovastatin and fluconazole, whereas genes in the later part of the sterol pathway, such as ERG9 and ERG11, had increased expression in response to these drugs in mid-logarithmic growth. Genes involved in prenylation, such as RAM1 and RAM2, also respond to these drugs in mid-logarithmic growth, although another prenylation gene, CDC43, was not affected. After 24 hr of growth, the relative expression of ERG20, ERG9, and ERG11 remained unchanged or increased in the presence of both drugs, while all other genes decreased in expression under all drug treatments."
+        },
+        {
+            "References": "PMID:8852337",
+            "Value": "/OTHER TOXICITY INFORMATION/ The isoprenoid sterols play a crucial role in the viability of all fungi; those unable to synthesize ergosterol because of inhibition, growth conditions or mutation must take it up from the environment. A range of compound types have been discovered which interfere with the biosynthetic pathway from acetate to ergosterol and these compounds have antifungal actions. Inhibition of several of the steps has yielded agents which have been used with great success as medical and agrochemical agents. The most important biosynthetic steps that have been exploited are inhibition of squalene epoxidase, (the allylamines and tolnaftate) C14 demethylation (the azoles), delta 7,8 isomerase and delta 14 reductase which are inhibited by the morpholines. Recent research has shown that inhibition of C24 methyltransferase and C4 demethylation also yield antifungal agents. Combination studies demonstrate that synergy between agents of different types can be measured. Fungicidal effects were observed when a combination of two fungistatic agents was used."
+        },
+        {
+            "References": "PMID:11340091",
+            "Value": "/OTHER TOXICITY INFORMATION/ ... The oral administration of ergosterol to sarcoma 180-bearing mice significantly reduced tumor growth at doses of 400 and 800 mg/kg administered for 20 d without side effects, such as the decreases in body, epididymal adipose tissue, thymus, and spleen weights and leukocyte numbers induced by cancer chemotherapy drugs. Ergosterol had no cytotoxicity against tumor cells. To clarify the antitumor activity of ergosterol, ... the effects of ergosterol on tumor-induced angiogenesis /were examined/ using two in vivo models. Intraperitoneal administration of ergosterol at doses of 5, 10 and 20 mg/kg for 5 consecutive d inhibited the neovascularization induced by Lewis lung carcinoma cell-packed chambers, suggesting that either ergosterol or its metabolites may be involved in the inhibition of tumor-induced neovascularization. Therefore, ... the inhibitory effects of ergosterol on Matrigel-induced neovascularization /were examined/. Female C57BL/6 mice were subcutaneously inoculated with Matrigel containing acidic fibroblast growth factor and heparin with or without ergosterol. Ergosterol inhibited the Matrigel-induced neovascularization, suggesting that ergosterol directly inhibits Matrigel-induced neovascularization. From these results, it seems likely that the antitumor activity of ergosterol might be due to direct inhibition of angiogenesis induced by solid tumors..."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "PMID:12708669",
+            "Value": "SOIL: Ergosterol concentrations in Italian agricultural soils subjected to 3 different treatments (sewage sludge applications, irrigation by saline waters, and contamination by flood waters containing industrial and municipal sludge) were 2, 4.7, and 5 mg/kg in samples from Cremona, Bari, and Naples, respectively(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992) (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of ergosterol can be estimated to be 2.5X10+6(SRC). According to a classification scheme(2), this estimated Koc value suggests that ergosterol is expected to be immobile in soil."
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "_id": {
+        "$oid": "6682e97fc4e5dba5ffba2aea"
+    },
+    "CID": {
+        "$numberInt": "41368"
+    },
+    "Name": "Triadimenol",
+    "IUPACName": "1-(4-chlorophenoxy)-3,3-dimethyl-1-(1,2,4-triazol-1-yl)butan-2-ol",
+    "CanonicalSMILES": "CC(C)(C)C(C(N1C=NC=N1)OC2=CC=C(C=C2)Cl)O",
+    "Synonyms": [
+        "TRIADIMENOL",
+        "55219-65-3",
+        "Baytan",
+        "Bayfidan",
+        "Spinnaker",
+        "Summit",
+        "Triafol",
+        "1-(4-chlorophenoxy)-3,3-dimethyl-1-(1,2,4-triazol-1-yl)butan-2-ol",
+        "Baytan 15",
+        "UK 199",
+        "Baytan TF 3479B",
+        "1-(4-Chlorophenoxy)-3,3-dimethyl-1-(1H-1,2,4-triazol-1-yl)butan-2-ol",
+        "BAY KWG 0519",
+        "KWG 0519",
+        "CHEBI:9666"
+    ],
+    "IsomericSMILES": "CC(C)(C)C(C(N1C=NC=N1)OC2=CC=C(C=C2)Cl)O",
+    "INCHI": "InChI=1S/C14H18ClN3O2/c1-14(2,3)12(19)13(18-9-16-8-17-18)20-11-6-4-10(15)5-7-11/h4-9,12-13,19H,1-3H3",
+    "INCHIKEY": "BAZVSMNPJJMILC-UHFFFAOYSA-N",
+    "Formula": "C14H18ClN3O2",
+    "MolecularWeight": {
+        "$numberDouble": "295.76"
+    },
+    "Description": "Triadimenol is a member of the class of triazoles that is 3,3-dimethyl-1-(1,2,4-triazol-1-yl)butane-1,2-diol substituted at position O1 by a 4-chlorophenyl group. A fungicide for cereals, beet and brassicas used to control a range of diseases including powdery mildew, rusts, bunts and smuts. It has a role as an EC 1.14.13.70 (sterol 14alpha-demethylase) inhibitor, a xenobiotic metabolite and an antifungal agrochemical. It is an aromatic ether, a member of monochlorobenzenes, a conazole fungicide, a triazole fungicide, a secondary alcohol and a hemiaminal ether.",
+    "XlogP": {
+        "$numberDouble": "3.1"
+    },
+    "Complexity": {
+        "$numberInt": "303"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "PMID:2306525",
+            "Value": "At Kentville, Nova Scotia, Canada, seeds of Lennox winter wheat were treated with triadimenol at the rate of 0.3 g a.i./kg, and planted on September 18. Samples of green foliage were taken November 23 and analyzed for triadimenol on May 7 and June 14 of the following year. Residues of triadimenol at the first, second and third sampling dates averaged 0.05, 0.02 and 0.02 ppm, respectively. In another study, Lennox winter wheat treated with triadimenol at the rate of 0.3 g a.i./kg seed on August 26, was planted on September 4; samples of foliage taken November 16 found 0.03 ppm triadimenol in the foliage(1)."
+        },
+        {
+            "References": "(1) ICPS; The International Programme on Chemical Safety. Triadimefon. 1979. Available from,  as of June 18, 2009: https://www.inchem.org/documents/jmpr/jmpmono/v079pr43.htm",
+            "Value": "Residues of triadimefon, including triadimenol, have been determined in extensive trials on growing cereal plants, e.g. barley, oat and wheat. The majority of residue is in the converted triadimenol form at day 14(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "Triadimefon is an important pesticide for controlling powdery mildew of rubber tree. By clarifying the translocation and enrichment behaviors of triadimefon and its metabolite triadimenol on rubber trees, it is helpful to improve the target utilization rate of chemical control. In this study, the residue analytical method of triadimefon and triadimenol in the roots, stems and leaves of rubber tree was established for the first time based on the QuEChERS method and GC-MS/MS detection. The translocation and enrichment behaviors of triadimefon and its metabolite triadimenol in rubber plants were studied by means of root application under hydroponic culture conditions and foliar application under soil culture. The results showed that the plants of rubber tree could rapidly metabolize triadimefon to triadimenol, and both of the two chemicals could be translocated from the roots to the leaves through the stem, but their enrichment behaviors in each part of the plant were significantly different. The bioconcentration factors were in the order of root > stem > leaf, and the translocation factors of both stem and leaf were less than 1, indicating that triadimefon and its metabolite triadimenol were difficult to migrate upward in the plants of rubber tree and were easily enriched by roots. Triadimefon was also rapidly metabolized to triadimenol under foliar application conditions. However, the translocation ability between the leaves of different parts of the plant was poor for both of the two pesticides. This study provides important data for the optimization of the application scheme of triadimefon and other pesticides on rubber trees.",
+            "reference": "Hongwei, L. U., Yurong, Q. I. U., Shanying, Z. H. A. N. G., Saihao, R. E. N., Yu, Z. H. A. N. G., Meng, W. A. N. G., & Xiaoyu, L. I. A. N. G. (2023). Translocation and enrichment behavior of triadimefon and its metabolite triadimenol in rubber trees.\u00a0Chinese Journal of Pesticide Science,\u00a025(2), 444-452.",
+            "method": {
+                "Test Plant": "Hevea brasiliensis (rubber tree)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "-",
+                "Chemical Preparation": "Triadimefon and triadimenol standards were prepared by dissolving 0.05 g of each in acetonitrile to make 10 mL. A 5000 mg/L triadimefon standard solution was prepared in a volumetric flask and mixed with triazole alcohol, diluted as needed for use.",
+                "Pesticide Application Details for the Plant": "Roots, stems, and leaves of untreated rubber tree plants weighing approximately 1 g each were used. Triadimefon and triadimenol were applied at concentrations of 0.1, 1, and 500 mg/L to prepare fortified samples. Translocation factors stem/root(TF) = concentration stem / concentration root,  TF leaf/sem =  C leaf / C stem; root bioconcentration factors (RCF) = C root / C nutrient solution, stem bioconcentation factors (SCF) = C stem/ c nutrient solution, LCF( leaf bioconcentration factors) = C leaf / C nutrient solution.",
+                "Other Information": "-"
+            },
+            "result": "[{\"Time after application\": \"6 hours\", \"TF (stem/root)\": 0.04, \"RCF\": 4.05, \"SCF\": 0.15, \"LCF\": \"-\"}, {\"Time after application\": \"12 hours\", \"TF (stem/root)\": 0.04, \"RCF\": 4.3, \"SCF\": 0.16, \"LCF\": \"-\"}, {\"Time after application\": \"24 hours\", \"TF (stem/root)\": 0.05, \"RCF\": 5.57, \"SCF\": 0.26, \"LCF\": \"-\"}, {\"Time after application\": \"48 hours\", \"TF (stem/root)\": 0.05, \"RCF\": 6.27, \"SCF\": 0.34, \"LCF\": \"-\"}, {\"Time after application\": \"72 hours\", \"TF (stem/root)\": 0.08, \"RCF\": 7.19, \"SCF\": 0.61, \"LCF\": \"0.03\"}, {\"Time after application\": \"96 hours\", \"TF (stem/root)\": 0.11, \"RCF\": 7.2, \"SCF\": 0.8, \"LCF\": \"0.04\"}, {\"Time after application\": \"120 hours\", \"TF (stem/root)\": 0.13, \"RCF\": 7.85, \"SCF\": 1.17, \"LCF\": \"0.10\"}, {\"Time after application\": \"144 hours\", \"TF (stem/root)\": 0.2, \"RCF\": 7.69, \"SCF\": 1.49, \"LCF\": \"0.19\"}, {\"Time after application\": \"168 hours\", \"TF (stem/root)\": 0.17, \"RCF\": 8.26, \"SCF\": 1.45, \"LCF\": \"0.21\"}, {\"Time after application\": \"240 hours\", \"TF (stem/root)\": 0.27, \"RCF\": 8.85, \"SCF\": 2.26, \"LCF\": \"1.07\"}, {\"Time after application\": \"360 hours\", \"TF (stem/root)\": 0.48, \"RCF\": 11.81, \"SCF\": 2.71, \"LCF\": \"1.35\"}]"
+        }
+    ]
+}

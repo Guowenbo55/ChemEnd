@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "6682e97cc4e5dba5ffba2adc"
+    },
+    "CID": {
+        "$numberInt": "39385"
+    },
+    "Name": "TRIADIMEFON",
+    "IUPACName": "1-(4-chlorophenoxy)-3,3-dimethyl-1-(1,2,4-triazol-1-yl)butan-2-one",
+    "CanonicalSMILES": "CC(C)(C)C(=O)C(N1C=NC=N1)OC2=CC=C(C=C2)Cl",
+    "Synonyms": [
+        "TRIADIMEFON",
+        "43121-43-3",
+        "Bayleton",
+        "Azocene",
+        "Triadimefone",
+        "Fenxiunin",
+        "Amiral",
+        "Typhon",
+        "2-Butanone",
+        "1-(4-chlorophenoxy)-3,3-dimethyl-1-(1H-1,2,4-triazol-1-yl)-",
+        "Reach",
+        "BAY 6681 F",
+        "MEB 6447",
+        "NSC 303303",
+        "1-(4-Chlorophenoxy)-3,3-dimethyl-1-(1H-1,2,4-triazol-1-yl)-2-butanone",
+        "1-(4-chlorophenoxy)-3,3-dimethyl-1-(1H-1,2,4-triazol-1-yl)butan-2-one"
+    ],
+    "IsomericSMILES": "CC(C)(C)C(=O)C(N1C=NC=N1)OC2=CC=C(C=C2)Cl",
+    "INCHI": "InChI=1S/C14H16ClN3O2/c1-14(2,3)12(19)13(18-9-16-8-17-18)20-11-6-4-10(15)5-7-11/h4-9,13H,1-3H3",
+    "INCHIKEY": "WURBVZBTWMNKQT-UHFFFAOYSA-N",
+    "Formula": "C14H16ClN3O2",
+    "MolecularWeight": {
+        "$numberDouble": "293.75"
+    },
+    "Description": "1-(4-chlorophenoxy)-3,3-dimethyl-1-(1,2,4-triazol-1-yl)butan-2-one is a member of the class of triazoles that is 1-hydroxy-3,3-dimethyl-1-(1,2,4-triazol-1-yl)butan-2-one in which the hydroxyl hydrogen is replaced by a 4-chlorophenyl group. It is a member of triazoles, a member of monochlorobenzenes, an aromatic ether, a ketone and a hemiaminal ether.",
+    "XlogP": {
+        "$numberDouble": "2.8"
+    },
+    "Complexity": {
+        "$numberInt": "338"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Nilsson U et al; J Agric Food Chem 44: 2878-2884 (1996)",
+            "Value": "The rate of decay of triadimefon and its concentration after application was measured during cucumber cultivation in greenhouses under normal growing conditions(1). One day after high-volume spraying, the residue concentration on leaves was on average 0.009 ug/sq cm. One week after spraying, no changes in concentration on the surfaces were observed(1)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Hendricks AJ et al; Environ Tox Chem 17: 1885-1898 (1998)",
+            "Value": "Concentrations of various organic micro contaminants were measured in zebra mussels and eel from the Rhine-Meuse Basin from 1993 to 1994. Triadimefon was not detected in either zebra mussels or eel at a detection limit of 5.0 ug/kg wet weight(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "The study focused on the uptake, translocation, and subcellular distribution of three triazole pesticides (triadimefon, tebuconazole, and epoxiconazole) in rice plants, which are commonly used to control pathogenic fungi in crops but have raised concerns about food safety due to their residues in edible crops. The results showed that all three pesticides could be taken up by rice roots, with varying distribution patterns in plant tissues. Epoxiconazole exhibited the highest accumulation in rice roots, followed by tebuconazole and then triadimefon, while the reverse order was observed in rice shoots. The movement of these pesticides within rice tissues involved both symplast and apoplast pathways, with different preferences for each pesticide. Subcellular distribution analysis revealed that all three pesticides had a higher proportion in cell walls compared to cell organelles and soluble components. Epoxiconazole had the highest accumulation in cell walls, while triadimefon was more concentrated in soluble components. The study concluded that the uptake, movement, and subcellular distribution of these pesticides are influenced by their hydrophobicity, highlighting the complex interactions between pesticides and plant tissues.",
+            "reference": "Li, H., Li, Y., Wang, W., Wan, Q., Yu, X., & Sun, W. (2022). Uptake, translocation, and subcellular distribution of three triazole pesticides in rice. Environmental Science and Pollution Research, 1-10.",
+            "method": {
+                "Test Plant": "Rice (Oryza sativa L. japonica cv. Nipponbare)",
+                "Apply Location": "hydroponic exposure",
+                "Plant Grown Condition": "Rice seeds were surface-disinfected, germinated on wet filter paper at 30\u00b0C, then transplanted to black plastic hydroponic containers (9x13x12 cm) and grown under controlled conditions (130\u00b15 \u03bcmol/m2s light, 16h light/8h dark, 60% RH, 32/25\u00b0C day/night temp). Healthy 3-leaf stage seedlings were selected for exposure tests.",
+                "Chemical Preparation": "Pesticide standards of triadimefon, tebuconazole and epoxiconazole (>99% purity) were used. Nutrient solution was spiked with 1 mg/L of each pesticide separately for exposure.",
+                "Pesticide Application Details for the Plant": "Rice seedlings were exposed to 1 mg/L of triadimefon, tebuconazole or epoxiconazole by spiking the pesticide into the hydroponic nutrient solution.",
+                "Other Information": "Experiments were conducted in triplicate. At 0, 3, 6, 12, 24 and 48 h, 9 rice plants and nutrient solution samples were collected from each replicate for residue analysis."
+            },
+            "result": "[{\"Hours after application\": 3, \"Root concentration factor\": 0.89, \"Translocation factor\": 0.36}, {\"Hours after application\": 6, \"Root concentration factor\": 1.63, \"Translocation factor\": 0.35}, {\"Hours after application\": 12, \"Root concentration factor\": 1.64, \"Translocation factor\": 0.35}, {\"Hours after application\": 24, \"Root concentration factor\": 1.41, \"Translocation factor\": 0.35}, {\"Hours after application\": 48, \"Root concentration factor\": 0.77, \"Translocation factor\": 0.49}]"
+        }
+    ]
+}

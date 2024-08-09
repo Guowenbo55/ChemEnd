@@ -1,0 +1,75 @@
+{
+    "_id": {
+        "$oid": "6682e897c4e5dba5ffba265d"
+    },
+    "CID": {
+        "$numberInt": "7902"
+    },
+    "Name": "2-DIMETHYLAMINOETHANOL",
+    "IUPACName": "2-(dimethylamino)ethanol",
+    "CanonicalSMILES": "CN(C)CCO",
+    "Synonyms": [
+        "2-(Dimethylamino)ethanol",
+        "Deanol",
+        "N,N-Dimethylethanolamine",
+        "108-01-0",
+        "Dimethylethanolamine",
+        "Dimethylaminoethanol",
+        "2-DIMETHYLAMINOETHANOL",
+        "Norcholine",
+        "DMAE",
+        "Bimanol",
+        "Liparon",
+        "Varesal",
+        "N,N-Dimethylaminoethanol",
+        "Propamine A",
+        "DMEA"
+    ],
+    "IsomericSMILES": "CN(C)CCO",
+    "INCHI": "InChI=1S/C4H11NO/c1-5(2)3-4-6/h6H,3-4H2,1-2H3",
+    "INCHIKEY": "UEEJHVSXFDXPFK-UHFFFAOYSA-N",
+    "Formula": "C4H11NO",
+    "MolecularWeight": {
+        "$numberDouble": "89.14"
+    },
+    "Description": "N,N-dimethylethanolamine is a tertiary amine that is ethanolamine having two N-methyl substituents. It has a role as a curing agent and a radical scavenger. It is a tertiary amine and a member of ethanolamines.",
+    "XlogP": {
+        "$numberDouble": "-0.4"
+    },
+    "Complexity": {
+        "$numberInt": "28"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) ECHA; Search for Chemicals. 2-Dimethylaminoethanol (CAS 108-01-0) Registered Substances Dossier. European Chemical Agency. Available from, as of Mar 18, 2015: https://echa.europa.eu/ (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Mar 18, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for 2-dimethylaminoethanol(SRC), using a log Kow of -0.55(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Mar 18, 2015: https://www.safe.nite.go.jp/english/db.html (2) Zahn R, Wellens H; Zeitschrift fur Wasser und Abwasser Forschung 13: 1-7 (1980)",
+            "Value": "AEROBIC: 2-Dimethylaminoethanol, present at 100 mg/L, reached 60.5% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test which classified the compound as readily biodegradable(1). A static test using a non adapted activated sludge inoculum measured a 2-dimethylaminoethanol degradation of >90% in 13 days(2)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) O'Neil MJ, ed; The Merck Index. 15th ed., Cambridge, UK: Royal Society of Chemistry, p. 512 (2013) (2) Nat Institute Environ Health Sci; Dimethylethanolamine (DMAE) (108-01-0) and Selected Salts and Esters, Review of Toxicological Literature (Update) November 2002. Available from, as of Mar 18, 2015: https://ntp.niehs.nih.gov/ntp/htdocs/chem_background/exsumpdf/dmae_update_110002_508.pdf",
+            "Value": "2-Dimethylaminoethanol is a naturally occurring precursor of choline; it is found in high concentrations in salmon, sardines, and anchovies(1). Individuals may ingest small quantities of 2-dimethylaminoethanol through the consumption of salmon roe, mollusks (squid), and fish(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "ECHA; Search for Chemicals. 2-Dimethylaminoethanol (CAS 108-01-0) Registered Substances Dossier. European Chemical Agency. Available from, as of Mar 18, 2015: https://echa.europa.eu/",
+            "Value": "log Kow = -0.55 at 23 \u00b0C"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Mar 18, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) ECHA; Search for Chemicals. 2-Dimethylaminoethanol (CAS 108-01-0) Registered Substances Dossier. European Chemical Agency. Available from, as of Mar 18, 2015: https://echa.europa.eu/ (4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of 2-dimethylaminoethanol can be estimated to be 1(SRC). According to a classification scheme(2), this estimated Koc value suggests that 2-dimethylaminoethanol is expected to have very high mobility in soil. The pKa of 2-dimethylaminoethanol is 9.3(3). At pH 8.2, 20% will be the free amine. Thus, this compound will exist almost entirely in the cation form in the environment and cations generally adsorb to organic carbon and clay more strongly than their neutral counterparts(4). As a result, 2-dimethylaminoethanol may have greater adsorption and less mobility than its estimated Koc value indicates."
+        }
+    ]
+}

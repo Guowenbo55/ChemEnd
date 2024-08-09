@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "66927124303528b49832d813"
+    },
+    "CID": {
+        "$numberInt": "73282"
+    },
+    "Name": "Triasulfuron",
+    "IUPACName": "1-[2-(2-chloroethoxy)phenyl]sulfonyl-3-(4-methoxy-6-methyl-1,3,5-triazin-2-yl)urea",
+    "CanonicalSMILES": "CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2OCCCl",
+    "Synonyms": [
+        "Triasulfuron",
+        "82097-50-5",
+        "Logran",
+        "Triasulfuron [ISO]",
+        "CGA 131036",
+        "EPA Pesticide Chemical Code 128969",
+        "1-[2-(2-chloroethoxy)phenyl]sulfonyl-3-(4-methoxy-6-methyl-1,3,5-triazin-2-yl)urea",
+        "2-(2-Chloroethoxy)-N-(((4-methoxy-6-methyl-1,3,5-triazin-2-yl)amino)carbonyl)benzenesulfonamide",
+        "CHEBI:9673",
+        "DTXSID0024345",
+        "299LHF498M",
+        "1-{[2-(2-chloroethoxy)benzene]sulfonyl}-3-(4-methoxy-6-methyl-1,3,5-triazin-2-yl)urea",
+        "1-[2-(2-chloroethoxy)phenylsulfonyl]-3-(4-methoxy-6-methyl-1,3,5-triazin-2-yl)urea",
+        "2-(2-chloroethoxy)-N-[[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)amino]carbonyl]benzenesulfonamide",
+        "Triasulphuron"
+    ],
+    "IsomericSMILES": "CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2OCCCl",
+    "INCHI": "InChI=1S/C14H16ClN5O5S/c1-9-16-12(19-14(17-9)24-2)18-13(21)20-26(22,23)11-6-4-3-5-10(11)25-8-7-15/h3-6H,7-8H2,1-2H3,(H2,16,17,18,19,20,21)",
+    "INCHIKEY": "XOPFESVZMSQIKC-UHFFFAOYSA-N",
+    "Formula": "C14H16ClN5O5S",
+    "MolecularWeight": {
+        "$numberDouble": "401.8"
+    },
+    "Description": "Triasulfuron is an N-sulfonylurea that is N-[o-(2-chloroethoxy)phenyl]sulfonylurea in which one of the hydrogens attached to the non-sulfonylated nitrogen has been replaced by a 4-methoxy-6-methyl-1,3,5-triazin-2-yl group. A herbicide used to control broad-leaved weeds in cereals, its use within the EU has been banned after September 2017 on the grounds of potential groundwater contamination and risks to aquatic life. It has a role as a herbicide and an agrochemical. It is a N-sulfonylurea, an organochlorine compound and a methoxy-1,3,5-triazine.",
+    "XlogP": {
+        "$numberDouble": "2.3"
+    },
+    "Complexity": {
+        "$numberInt": "560"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "In this study, we examined the release of diclofop-methyl and triasulfuron from the roots of foliar-treated ryegrass and wheat. Using 14C-labeled herbicides, we observed basipetal translocation of foliar-applied herbicides in both wheat and ryegrass. For 14C-diclofop-methyl, we found no root exudation from treated wheat plants, while 0.2\u20130.9% of the absorbed radioactivity was exuded into the growing medium by ryegrass 20 days after treatment (DAT). Root exudation was increased three to six times by the presence of untreated wheat or ryegrass sharing the growing medium with diclofop-methyl-treated ryegrass. However, no subsequent uptake of the exuded radiolabel by untreated plants was observed. For 14C-triasulfuron, we observed basipetal translocation of foliar-applied herbicide in wheat and ryegrass, with 0.5\u20134.2% of the absorbed radioactivity being exuded into the growing medium by 20 DAT. The presence of untreated plants in the same pot as triasulfuron-treated plants induced seven to 32 times more exudation. Subsequent uptake of the exuded compounds by untreated wheat or ryegrass sharing the medium was also observed. This study highlights the relationship between plant arrangement in pots and the root exudation of exogenous compounds, suggesting that herbicide root exudation and transfer, a form of allelopathy, could be significant in the field. Accurate estimation of environmental fate, unexpected ecological side effects, and residual activity of herbicides may require quantification of such exudation.",
+            "reference": "Dinelli, G., Bonetti, A., Marotti, I., Minelli, M., Busi, S., & Catizone, P. (2007). Root exudation of diclofop\u2010methyl and triasulfuron from foliar\u2010treated durum wheat and ryegrass. Weed research, 47(1), 25-33.",
+            "method": {
+                "Test Plant": "Durum wheat (Triticum durum cv. Cirillo) and Italian ryegrass (Lolium multiflorum cv. Asso)",
+                "Apply Location": "Foliar application as 5 \u00b5l droplet in leaf axil of first two emerged leaves",
+                "Plant Grown Condition": "Seeds germinated on sand for 1 week then transplanted to 4 cm radius pots with sterilized sand. Grown in growth chamber at 23/18\u00b0C day/night, 16 h photoperiod with 220 \u00b5mol/m2/s PAR. Watered 2-3 times per week with 25 mL 1/2 strength Hoagland's solution.",
+                "Chemical Preparation": "14C-triasulfuron (26480 MBq/g) in methanol stock, diluted to 2.4 ng/\u00b5L (0.063 kBq/\u00b5L) in water with 1% Triton X-100, 0.5% Igepal CA-630",
+                "Pesticide Application Details for the Plant": "Single plants at 2-4 leaf stage treated with 1 \u00b5g diclofop-methyl or 12 ng triasulfuron (approx 1/4 field rate) applied in 5 \u00b5L droplet",
+                "Other Information": "Factorial experiment with 5 reps, factors were herbicide, harvest timing (5, 10, 20 DAT), and plant arrangement (single plant, treated + untreated same species, treated wheat + untreated ryegrass)."
+            },
+            "result": "[{\"Plant\": \"Wheat\", \"Days after application\": 5, \"Absorption (%)\": 94.75, \"Translocation to roots (% of absorbed)\": 8.98}, {\"Plant\": \"Wheat\", \"Days after application\": 10, \"Absorption (%)\": 98.96, \"Translocation to roots (% of absorbed)\": 9.85}, {\"Plant\": \"Wheat\", \"Days after application\": 20, \"Absorption (%)\": 98.62, \"Translocation to roots (% of absorbed)\": 9.56}, {\"Plant\": \"Ryegrass\", \"Days after application\": 5, \"Absorption (%)\": 89.0, \"Translocation to roots (% of absorbed)\": 4.22}, {\"Plant\": \"Ryegrass\", \"Days after application\": 10, \"Absorption (%)\": 94.15, \"Translocation to roots (% of absorbed)\": 7.47}, {\"Plant\": \"Ryegrass\", \"Days after application\": 20, \"Absorption (%)\": 94.84, \"Translocation to roots (% of absorbed)\": 8.08}]"
+        }
+    ]
+}

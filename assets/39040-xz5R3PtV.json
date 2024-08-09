@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "66927124303528b49832d815"
+    },
+    "CID": {
+        "$numberInt": "39040"
+    },
+    "Name": "Tricyclazole",
+    "IUPACName": "8-methyl-[1,2,4]triazolo[3,4-b][1,3]benzothiazole",
+    "CanonicalSMILES": "CC1=C2C(=CC=C1)SC3=NN=CN23",
+    "Synonyms": [
+        "TRICYCLAZOLE",
+        "41814-78-2",
+        "Tricyclazone",
+        "Beam",
+        "Blascide",
+        "Sivic",
+        "Pilarblas",
+        "Tizole",
+        "Trizole",
+        "Elanco 291",
+        "Blas-T",
+        "8-methyl-[1,2,4]triazolo[3,4-b][1,3]benzothiazole",
+        "2,7,8,9-Tricyclazole",
+        "5-Methyl[1,2,4]triazolo[3,4-b][1,3]benzothiazole",
+        "EL-291"
+    ],
+    "IsomericSMILES": "CC1=C2C(=CC=C1)SC3=NN=CN23",
+    "INCHI": "InChI=1S/C9H7N3S/c1-6-3-2-4-7-8(6)12-5-10-11-9(12)13-7/h2-5H,1H3",
+    "INCHIKEY": "DQJCHOQLCLEDLL-UHFFFAOYSA-N",
+    "Formula": "C9H7N3S",
+    "MolecularWeight": {
+        "$numberDouble": "189.24"
+    },
+    "Description": "Tricyclazole is a triazolobenzothiazole that is [1,2,4]triazolo[3,4-b][1,3]benzothiazole which is substituted at position 5 by a methyl group. A fungicide used for the control of rice blast, it is not approved for use within the European Union. It has a role as a melanin synthesis inhibitor and an antifungal agrochemical. It is a conjugate base of a 5-methyl[1,2,4]triazolo[3,4-b][1,3]benzothiazol-1-ium.",
+    "XlogP": {
+        "$numberDouble": "1.7"
+    },
+    "Complexity": {
+        "$numberInt": "211"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The dissipation of ethoprophos and tricyclazole in soil and their translocation tendency to spinach were investigated. Prior to field trials, the analytical method for the determination of these pesticide residues was optimized and validated on soil and spinach. The field trial was conducted under greenhouse conditions for two different pretreatment periods with the pesticides. After treating with pesticides 30 (PBI-30) and 60 days (PBI-60) before seeding, soil samples were collected on different days for the dissipation study of soil. Spinach samples were harvested from the soil, and 50% and 100% mature spinach samples were collected. The initial amounts of ethoprophos residue in the PBI-60 and PBI-30 soils were 0.21 and 2.74 mg/kg, respectively, and these both decreased to less than 0.01 mg/kg on the day of spinach harvest. Similar initial residues of tricyclazole were observed in the PBI-60 (0.87 mg/kg) and PBI-30 soils (0.84 mg/kg), and these decreased to 0.44 and 0.34 mg/kg, respectively. The half-lives of ethoprophos in the soils were calculated as 7.6 and 4.8 days, respectively, while relatively long half-lives of 36.5 and 77.0 days were calculated for tricyclazole. According to the pesticide residue amounts in the spinach, the translocation rate from the soil to the spinach was determined. In the case of ethoprophos, the residual amount was already rapidly degraded in the soil, and the translocation rate could not be confirmed. On the other hand, for tricyclazole, it was confirmed that 1.19 to 1.61% of the residual amount in soil was transferred to spinach. According to these results, safe management guidelines for tricyclazole in soil were suggested considering the maximum residue limit on spinach.",
+            "reference": "Hwang, E. J., Hwang, K. W., Kim, M. G., Jeon, C. H., & Moon, J. K. (2017). Translocation of residual tricyclazole from soil to Korean cabbage. Journal of Applied Biological Chemistry, 60(4), 301-306.",
+            "method": {
+                "Test Plant": "Spinach",
+                "Apply Location": "Roots partially immersed into Hoagland & Arnon solution",
+                "Plant Grown Condition": "Germinated in trays containing vermiculite, grown in a laboratory under incandescent and fluorescent light supplying 250 \u00b5mol s^-1 m^-2 at 28/18\u00b0C day/night.",
+                "Chemical Preparation": "Analytical standards of tricyclazole (99.8%) and ethoprophos (97.6%), pesticide formulations of 75% tricyclazole WP (wettable powder) and ethoprophos 5% GR (granule).",
+                "Pesticide Application Details for the Plant": "Applied in the same amount to two plots: the PBI-60 plot and PBI-30 plot. A total of 360 g of the granule formulation of ethoprophos was applied to the soil and mixed uniformly with the soil by hand. Three grams of wettable powder formulation of tricyclazole was uniformly applied to the soil using a pressurized handgun sprayer (6 L). Then, water (4 L) was added uniformly to force the compound to soak into the soil. Soil samples were collected at various time points for analysis. BCF = Concentration in the fresh crop (mg/kg) / Initial concentration in the soil (mg/kg)",
+                "Other Information": "-"
+            },
+            "result": "[{\"Days After Application\": \"30 days\", \"Initial Soil (mg/kg)\": 0.87, \"50% Mature Spinach (mg/kg)\": 0.044, \"50% Mature Spinach BCF\": 0.051, \"100% Mature Spinach (mg/kg)\": 0.014, \"100% Mature Spinach BCF\": 0.016}, {\"Days After Application\": \"60 days\", \"Initial Soil (mg/kg)\": 0.84, \"50% Mature Spinach (mg/kg)\": 0.02, \"50% Mature Spinach BCF\": 0.024, \"100% Mature Spinach (mg/kg)\": 0.01, \"100% Mature Spinach BCF\": 0.012}]"
+        },
+        {
+            "content": "The study investigates the absorption and transmission behaviors of five fungicides (tricyclazole, thifluzamide, hexaconazole, epoxiconazole, azoxystrobin) in rice seedlings to improve pesticide utilization. Foliage spray, the most common method, has drawbacks such as evaporation and drift. By studying pesticide absorption and conductivity and selecting suitable pesticides for root application, the adverse effects of environmental factors on pesticide ingredients can be reduced. The results suggest that tricyclazole is best suited for root application, showing superior upward transmission in rice seedlings compared to the other fungicides. This research provides guidance for pesticide selection for root application and contributes to the scientific use of pesticides.",
+            "reference": "Shuojia, Z. H. A. N. G., Chaojie, W. A. N. G., Bo, X. U., Gangchao, R. A. N., Lidong, C. A. O., Chong, C. A. O., ... & Pengyue, Z. H. A. O. (2022). Study on uptake and translocation of five fungicides in rice. Chinese Journal of Pesticide Science, 24(4), 752-761.",
+            "method": {
+                "Test Plant": "Rice seedlings (variety M163)",
+                "Apply Location": "Root application (both hydroponic and soil-grown conditions)",
+                "Plant Grown Condition": "Rice seeds were germinated, and seedlings were transplanted into either hydroponic nutrient solution or soil-based growth medium. Treatments were applied when seedlings reached the three-leaf one-heart stage.",
+                "Chemical Preparation": "96% tricyclazole, 96% thifluzamide, 96% hexaconazole, 95% epoxiconazole, and 98% azoxystrobin technical grade compounds were used to prepare suspensions. Various adjuvants like dispersants, emulsifiers, thickeners, defoamers, and preservatives were also used in formulation development.",
+                "Pesticide Application Details for the Plant": "Fungicide suspension concentrations of 100 mg/kg tricyclazole, 30 mg/kg thifluzamide, 30 mg/kg epoxiconazole, 20 mg/kg hexaconazole, and 60 mg/kg azoxystrobin were used.",
+                "Other Information": "Rice samples were collected at 4 hours, and 1, 2, 3, 5, 7, 10, and 14 days after treatment."
+            },
+            "result": "[{\"Treatment\": \"Nutrient soil\", \"Days after application\": 0.16, \"Translocation Factors\": 0.31}, {\"Treatment\": \"Nutrient soil\", \"Days after application\": 1.0, \"Translocation Factors\": 0.4}, {\"Treatment\": \"Nutrient soil\", \"Days after application\": 2.0, \"Translocation Factors\": 0.44}, {\"Treatment\": \"Nutrient soil\", \"Days after application\": 3.0, \"Translocation Factors\": 0.95}, {\"Treatment\": \"Nutrient soil\", \"Days after application\": 5.0, \"Translocation Factors\": 1.3}, {\"Treatment\": \"Nutrient soil\", \"Days after application\": 7.0, \"Translocation Factors\": 1.61}, {\"Treatment\": \"Nutrient soil\", \"Days after application\": 10.0, \"Translocation Factors\": 1.93}, {\"Treatment\": \"Nutrient solution\", \"Days after application\": 0.16, \"Translocation Factors\": 0.25}, {\"Treatment\": \"Nutrient solution\", \"Days after application\": 1.0, \"Translocation Factors\": 0.6}, {\"Treatment\": \"Nutrient solution\", \"Days after application\": 2.0, \"Translocation Factors\": 0.89}, {\"Treatment\": \"Nutrient solution\", \"Days after application\": 3.0, \"Translocation Factors\": 0.98}, {\"Treatment\": \"Nutrient solution\", \"Days after application\": 5.0, \"Translocation Factors\": 2.09}, {\"Treatment\": \"Nutrient solution\", \"Days after application\": 7.0, \"Translocation Factors\": 1.99}, {\"Treatment\": \"Nutrient solution\", \"Days after application\": 10.0, \"Translocation Factors\": 1.8}]"
+        }
+    ]
+}

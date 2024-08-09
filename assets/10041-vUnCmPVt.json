@@ -1,0 +1,76 @@
+{
+    "_id": {
+        "$oid": "6682e8dcc4e5dba5ffba27b8"
+    },
+    "CID": {
+        "$numberInt": "10041"
+    },
+    "Name": "2,2-DIMETHYLPROPANE",
+    "IUPACName": "2,2-dimethylpropane",
+    "CanonicalSMILES": "CC(C)(C)C",
+    "Synonyms": [
+        "NEOPENTANE",
+        "2,2-Dimethylpropane",
+        "463-82-1",
+        "Tetramethylmethane",
+        "Propane",
+        "2,2-dimethyl-",
+        "tert-Pentane",
+        "1,1,1-Trimethylethane",
+        "dimethylpropane",
+        "HSDB 110",
+        "EINECS 207-343-7",
+        "UNII-M863R1J0BP",
+        "BRN 1730722",
+        "M863R1J0BP",
+        "2,2-dimethyl-propane",
+        "(CH3)4C"
+    ],
+    "IsomericSMILES": "CC(C)(C)C",
+    "INCHI": "InChI=1S/C5H12/c1-5(2,3)4/h1-4H3",
+    "INCHIKEY": "CRSOQBOWXPBRES-UHFFFAOYSA-N",
+    "Formula": "C5H12",
+    "MolecularWeight": {
+        "$numberDouble": "72.15"
+    },
+    "Description": "Neopentane is an alkane.",
+    "XlogP": {
+        "$numberDouble": "2.5"
+    },
+    "Complexity": {
+        "$numberInt": "15"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 15 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of May 20, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm/ (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 52 was calculated in fish for 2,2-dimethylpropane(SRC), using a log Kow of 3.11(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is moderate(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Boethling R et al; Environ Sci Technol 28: 459-65 (1994)",
+            "Value": "AEROBIC: The highly branched structure of 2,2-dimethylpropane suggests that biodegradation in soil and water will be slow(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 15",
+            "Value": "log Kow = 3.11"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Galvin JB, Panson R; J Toxicol Environ Health, Part A 58: 75-80 (1999)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... The anesthetic effects of neopentane and other saturated hydrocarbons ... /were examined/ in mice. Neopentane caused light anesthesia in mice exposed to 200,000 ppm for 30 min and anesthesia (loss of posture) at 270,000 ppm for 3 min exposure. Neopentane was lethal to 40% of the mice exposed for 2 hr at a concentration of 340,000 ppm. After 2 hr of anesthesia, the surviving mice recovered quickly on average in 4 min. All mice that did not die during the period of anesthesia remained normal for the 24 to 48 hr observed after anesthesia. Neopentane was less anesthetic and less lethal than isopentane, which was less anesthetic and less lethal than n-pentane. ... This indicates that increased branching in the carbon backbone of a chemical reduces its toxicity. ... All of the substances /evaluated/ produced considerable excitement in mice during anesthesia. ... Neopentane differed from the others in causing still more excitement and a general cramp-like effect just before anesthesia was induced. During recovery from anesthesia, those recovering form neopentane showed marked hyperexcitability when stimulated by noise or touch."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of May 20, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of 2,2-dimethylpropane can be estimated to be 500(SRC). According to a classification scheme(2), this estimated Koc value suggests that 2,2-dimethylpropane is expected to have moderate mobility in soil."
+        }
+    ]
+}

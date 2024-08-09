@@ -1,0 +1,127 @@
+{
+    "_id": {
+        "$oid": "6682e7f4c4e5dba5ffba232e"
+    },
+    "CID": {
+        "$numberInt": "2871"
+    },
+    "Name": "COUMAPHOS",
+    "IUPACName": "3-chloro-7-diethoxyphosphinothioyloxy-4-methylchromen-2-one",
+    "CanonicalSMILES": "CCOP(=S)(OCC)OC1=CC2=C(C=C1)C(=C(C(=O)O2)Cl)C",
+    "Synonyms": [
+        "COUMAPHOS",
+        "56-72-4",
+        "Coumafos",
+        "Asuntol",
+        "Asunthol",
+        "Meldane",
+        "Azunthol",
+        "Muscatox",
+        "Agridip",
+        "Baymix",
+        "Meldone",
+        "Resitox",
+        "Suntol",
+        "CO-Ral",
+        "Baymix 50"
+    ],
+    "IsomericSMILES": "CCOP(=S)(OCC)OC1=CC2=C(C=C1)C(=C(C(=O)O2)Cl)C",
+    "INCHI": "InChI=1S/C14H16ClO5PS/c1-4-17-21(22,18-5-2)20-10-6-7-11-9(3)13(15)14(16)19-12(11)8-10/h6-8H,4-5H2,1-3H3",
+    "INCHIKEY": "BXNANOICGRISHX-UHFFFAOYSA-N",
+    "Formula": "C14H16ClO5PS",
+    "MolecularWeight": {
+        "$numberDouble": "362.8"
+    },
+    "Description": "Coumaphos is an organothiophosphate insecticide, an organic thiophosphate and an organochlorine compound. It has a role as an agrochemical, an acaricide, an antinematodal drug, an avicide and an EC 3.1.1.8 (cholinesterase) inhibitor. It is functionally related to a chlorferron.",
+    "XlogP": {
+        "$numberDouble": "4.5"
+    },
+    "Complexity": {
+        "$numberInt": "500"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "animal_concentrations": [
+        {
+            "References": "(1) Ghini S et al; Arch Environ Contam Toxicol 47:479-88 (2004)",
+            "Value": "Coumaphos was detected in 22 of 92 honeybee (Apis mellifera) samples from the district of Bologna, Italy at concentrations of 0.002 to 2.777 mg/kg; dead bee samples were collected in bags suspended under beehives (only worker bees were analyzed)(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Freitag D et al; Chemosphere 14: 1589-616 (1985) (2) Jackson SH et al; J Agric Food Chem 57: 958-67 (2009) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "A BCF of 110 was determined in Golden ide (Leuciscus idus melanotus) in a 3-day test(1). A BCF of 540 was determined in bluegill (Lepomis macrochirus) exposed for 28 days(2). According to a classification scheme(3), these BCFs suggest bioconcentration in aquatic organisms is high. The 24 hr bioaccumulation factor in algae (Chlorella fusca) is 470(1)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Freitag D et al; Chemosphere 14: 1589-616 (1985) (2) Kearney PC et al; J Agric Food Chem 34: 702-6 (1986) (3) Mulbry WW et al; Pestic Sci 48: 149-55 (1996)",
+            "Value": "AEROBIC: In a biodegradability screening test using an activated sludge inoculum and 50 ug/L of radio-labeled test compound, only 0.9% of coumaphos was mineralized in 5 days(1). Coumaphos in dipping solutions can be effectively biodegraded by specially grown pure cultures(2). Degradation was slow in a sandy loam soil, half-life approximately 300 days(2). The half-life in a field test in which 300 ppm of coumaphos was incorporated into the upper 15 cm of silty loam soil was about 200 days(2). The major degradation products were chlorferon (3-chloro-4-methyl-7-hydroxycoumarin) and the oxygen analog(2). No degradation was noted in a microbially-active Drummer silty clay loam soil in 22 days(2). Coumaphos was degraded in 7 days in soil slurries using soil from six vat waste disposal pits in Texas(4). In similar experiments using (14)C ring-labeled coumaphos, 61% of the (14)C was recovered as (14)CO2 when radiolabeled coumaphos was added to soil slurries containing 1200 mg/L coumaphos; no loss of coumaphos nor production of (14)CO2 was observed when sodium azide was added to the soil slurries(3)."
+        },
+        {
+            "References": "(1) Williams PP; Res Rev 26: 17-36 (1969)",
+            "Value": "ANAEROBIC: Incubation of coumaphos with inocula of ruminal bacteria and ciliated protozoa under anaerobic conditions suggested that the chemical is not used for growth nor does it stimulate endogenous gas production(1)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Porte C et al; Chemosphere 24: 735-43 (1992)",
+            "Value": "Coumaphos was detected in mosquitofish, Gambusia affinis, from a rice crop field in the Ebro Delta, Spain in September and February at concentrations of approximately 125 and 150 ng/g wet weight, respectively(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Garten CT Jr, Trabalka Jr; Environ Sci Technol 17: 590-5 (1983)",
+            "Value": "log Kow = 4.13"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Lewis, R.J. Sr.; Hawley's Condensed Chemical Dictionary 15th  Edition. John Wiley & Sons, Inc. New York, NY 2007., p. 341",
+            "Value": "Cholinesterase inhibitor"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "PMID:7212416",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Determination of the acute oral medial lethal dose (LD50) of haloxon for lambs classified as to the presence or absence of plasma esterases (A esterase; EsA) rapidly hydrolyzing haloxon revealed markedly different values for the 2 phenotypes of sheep. The LD50 for EsA- lambs was 763 mg/kg of body weight with 95% confidence limits of 543 to 1,072 mg/kg. The acute oral LD50 for EsA+ lambs remains undetermined but was demonstrated to be in excess of 11,392 mg/kg. The acute oral LD50 for a closely related organophosphate (coumaphos) was not different in the 2 phenotypes of sheep."
+        },
+        {
+            "References": "PMID:7187141",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Dermal sensitization in guinea pigs or eye irritation in rabbits were not observed /with a flowable formulation containing coumaphous/. The formulation was a mild dermal irritant on rabbits, but the erythema reversed itself within 7 days."
+        },
+        {
+            "References": "PMID:7131591",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Dermal administration of single (50-500 mg/kg) or daily (100 mg/kg) doses of coumaphos resulted in delayed neurotoxicity in hens. Coumaphos caused loss of weight and produced ataxia, which progressed to paralysis and death. Degeneration of axons and myelin in the spinal cord was also noted. Oral administration of a single 100 mg/kg dose or daily doses of 10 mg/kg coumaphos caused severe acute toxicity and killed all treated hens after 1 to 8 days. Some hens given a single oral 50 mg/kg dose or daily 5 mg/kg doses of coumaphos recovered from the initial cholinergic effect and developed clinical signs of delayed neurotoxicity."
+        },
+        {
+            "References": "PMID:7187141",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/  A new flowable formulation containing coumaphous, an organophosphate compound, will be used as an insecticide on cattle. It was evaluated for human and cattle safety. ...Spray safety evaluations in cattle included a single application, 2 treatments at 14 day interval, and 2 treatments at 28-day intervals with both 0.5 (highest label rate) and 2.5% (5X) concentrations. Dip vat treatments of cattle included 2 applications at a 7-day interval in 0.3% (highest label rate) and single applications with 0.6% (2X) and 1.2% (4X) concentrations. The cattle did not show significant clinical signs of toxicity nor did trends develop in clinical pathology. The lowest whole blood cholinesterase mean value for cattle sprayed once with a 0.5% concentration was 80% of the pretreatment value at 14 days post-treatment. The cattle receiving 2 dip vat treatments of a 0.3% concentration at a 7 day interval had their lowest cholinesterase reading (53% of pretreatment value) 10 days after the second treatment. Cholinesterase depression in cattle receiving higher than use rate treatment was related to the concentration applied."
+        },
+        {
+            "References": "NCI; Toxicology and Carcinogenesis Studies of Coumaphos p.vii Report No. 96 (1979) NIH Pub No. 79-1346",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ A bioassay of coumaphos for possible carcinogenicity was conducted by administering the test chemical in feed to F344 rats and B6C3F1 mice. Groups of 50 rats of each sex and 50 mice of each sex were administered coumaphos in the diet at either 10 or 20 ppm, for 103 weeks and then observed for 0-1 additional weeks. Matched controls consisted of groups of 25 untreated animals of each species and sex. All surviving animals were killed at 103-105 weeks. Mean body weights of the dosed female rats and of dosed male and female mice were essentially unaffected. No clinical signs typical of organophosphorus poisoning were reported in either rats or mice. Survival of the rats and mice was not affected by administration of the test chemical. The test animals may have been able to tolerate higher doses. Sufficient numbers of animals in all groups of the rats and mice were at risk for the development of late-appearing tumors. In both rats and mice, no tumors occurred in the dosed groups of either sex at incidences that were significantly higher than those in corresponding control groups. It is concluded that under the conditions of this bioassay, coumaphos was not carcinogenic for either F344 rats or B6C3F1 mice."
+        },
+        {
+            "References": "California Environmental Protection Agency/Department Of Pesticide Regulation Medical Toxicology Branch; Toxicology Data Review Summary for Coumaphos (56-72-4) p.3 (June 5, 1992). Available from, as of June 16, 2014: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Coumaphos technical (batch100585-001-V, 99.2% pure) was used on SPF Wistar rats (Bor: WISW (SPF Cpb)) at 0 (vehicle = 1% peanut oil), 1, 5 and 25 ppm (50/sex/group for 24 months and 20/sex/group for 12 months). /At 1 ppm, no signs of toxicity were detected. At 25 ppm, plasma and/or erythrocyte cholinesterase activity was depressed in both sexes. Depression of body-weight and food/water consumption was seen in females at 5 or 25 ppm. In males at 25 ppm, the incidence of small follicles and follicular-cell hyperplasia in thyroids was increased./ ... No oncogenic effects were observed with coumaphos."
+        },
+        {
+            "References": "BELLOWS RA ET AL; AM J VET RES 36 (8): 1133-40 (1975)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ The effects of 2 organic phosphate systemic insecticides on embryonic survival and possible teratogenesis in cattle were studied. Crufomate or coumaphos were applied to a total of 726 heifers. Crufomate compound solutions were applied at the rate of 28.5 g/45.4 kg with the maximal dosage not to exceed 228 g. The coumaphos compound was appled to heifers at the rate of 14.2 g or 28.5 g/45.4 kg. The compounds were administered in various stages of gestation by pouring along the dorsal midline. Treatments were given at the recommended one-time doses, one-time doses at double or triple the recommended dose levels, or doses at recommended one-time dose levels repeated each day for 10 days. None of these treatments gave evidence of increasing embryonic death rates or of teratogenic effects. ..."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Shi R et al; Bull Environ Contam Toxicol 87: 567-73 (2011)",
+            "Value": "SOIL: Coumaphos was not reported in soil samples from 35 sites in South Shenyang, China; samples were collected Jun 2010(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Coumaphos (56-72-4) (2008-2010) (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Koc values of 5778 to 21,120 were reported in 4 soil types(1). According to a classification scheme(2), this Koc value range suggests that coumaphos is expected to be immobile in soil."
+        }
+    ]
+}

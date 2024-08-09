@@ -1,0 +1,279 @@
+{
+    "_id": {
+        "$oid": "6682e7d0c4e5dba5ffba227a"
+    },
+    "CID": {
+        "$numberInt": "264"
+    },
+    "Name": "n-BUTYRIC ACID",
+    "IUPACName": "butanoic acid",
+    "CanonicalSMILES": "CCCC(=O)O",
+    "Synonyms": [
+        "butyric acid",
+        "butanoic acid",
+        "107-92-6",
+        "n-Butyric acid",
+        "n-Butanoic acid",
+        "propylformic acid",
+        "ethylacetic acid",
+        "1-propanecarboxylic acid",
+        "butyrate",
+        "Butanic acid",
+        "1-Butyric acid",
+        "Buttersaeure",
+        "butanoate",
+        "Butyric acid (natural)",
+        "Kyselina maselna"
+    ],
+    "IsomericSMILES": "CCCC(=O)O",
+    "INCHI": "InChI=1S/C4H8O2/c1-2-3-4(5)6/h2-3H2,1H3,(H,5,6)",
+    "INCHIKEY": "FERIUCNNQQJTOY-UHFFFAOYSA-N",
+    "Formula": "C4H8O2",
+    "MolecularWeight": {
+        "$numberDouble": "88.11"
+    },
+    "Description": "Butyric acid is a straight-chain saturated fatty acid that is butane in which one of the terminal methyl groups has been oxidised to a carboxy group. It has a role as a Mycoplasma genitalium metabolite and a human urinary metabolite. It is a straight-chain saturated fatty acid and a fatty acid 4:0. It is a conjugate acid of a butyrate.",
+    "XlogP": {
+        "$numberDouble": "0.8"
+    },
+    "Complexity": {
+        "$numberInt": "49"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p.9 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3.2 was calculated for n-butanoic acid(SRC), using a log Kow of 0.79(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Urano K, Katz Z; J Haz Mat 13: 147-59 (1986) (2) Urano K, Katz Z; J Haz Mat 13: 135-45 (1986) (3) Takemoto S et al; Suishitsu Odaku Kenkyu 4: 80-90 (1981) (4) Malaney GW, Gerhold RM; J Wat Pollut Control Fed 41: R18-33 (1969) (5) Dias FF, Alexander M; App Microbiol 22: 1114-8 (1971) (6) Gaffney PE, Heukelekian H; Sewage and Indust Waste 30: 673-9 (1958) (7) Gaffney PE, Heukelekian H; J Wat Pollut Contr Fed 33: 1169-83 (1961) (8) Dawson PSS, Jenkins SH; Sewage and Indust Waste 22: 490-507 (1950) (9) Ishikawa T et al; Wat Res 13: 681-5 (1979) (10) McKinney RE et al; Sewage and Ind Waste 28: 547-57 (1956)",
+            "Value": "AEROBIC: At an initial concentration of 100 mg/L, n-butanoic acid displayed a 72% theoretical biological oxygen demand (BODT) after 5 hours when incubated with activated sludge(1,2). n-Butanoic acid at an initial concentration of 5 ppm displayed a BODT of 76.6% in fresh water and 72.4% in sea water after 5 days(3). n-Butanoic acid had a BODT of 17.4%, 23.8%, 26.2%, and 27.7% after 6, 12, 18, and 24 hours, respectively, when incubated with an activated sludge seed at an initial concentration of 500 ppm(4). In a screening study, n-butanoic acid displayed a 46%, 48%, and 58% BODT after 2, 10, and 30 days, respectively, using a sewage seed(5). In a screening study using a sewage seed, n-butanoic acid had a 5 day BODT of 72-78% and a 20 day BODT of 92-99%(6,7). Several other screening studies with activated sludge inoculum have shown that n-butanoic acid is amenable to biodegradation under aerobic conditions(8-10)."
+        },
+        {
+            "References": "(1) Aguilar A et al; Wat Res 29: 505-9 (1995) (2) Kameya T et al; Sci Total Environ 170: 43-51 (1995) (3) Chou WL et al; Biotechnol Bioeng Symp 8: 391-414 (1979) (4) Lin C et al; Water Res 20: 385-94 (1986)",
+            "Value": "ANAEROBIC: In two enriched methanogenic anaerobic microflora populations of two continuous laboratory digesters feed with acetate (6 g/L) or glucose (10 g/L) as the main carbon sources, the maximum degradation rate constant for n-butanoic acid (concentration range 0.4-2.5 g/L) was calculated to be 5.10 and 23.76 mg/L/hr, respectively(1). In the acetate inoculum, complete depletion of n-butanoic acid took about 8 days(1). n-Butanoic acid, present at 30 mg-C/L, reached 100% biodegradation in 7 days using a seeding bacteria at 100 mg-C/L under anaerobic conditions(2). In a screening study, methanogenic microbes raised on acetate were found to completely remove n-butanoic acid after a 3 day lag period at a rate of 284 mg/L/day, initial concentration not provided(3). In a laboratory experiment using a flow-through methanogenic digester with a sewage sludge seed, n-butanoic acid was found to be amenable to biodegradation under anaerobic conditions(4)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 9",
+            "Value": "log Kow= 0.79"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:2838168",
+            "Value": "Diet, especially the amount of starch and dietary fiber which escape digestion in the small intestine are major determinants of colon function in man. These carbohydrates are the principal substrates for fermentation by the large bowel flora. Carbohydrate fermentation results in lowered caecal pH and the production of short chain fatty acids of which butyric acid may protect the colon epithelium from dysplastic change. Protein digestion and amino acid fermentation also occur in the large bowel but the nature of its endproducts varies in relation to the amount of carbohydrate available. During active carbohydrate breakdown amino acid fermentation endproducts such as ammonia are used by the bacteria for protein synthesis during microbial growth, but in carbon limited fermentation amines, ammonia, phenols and indoles, etc, accumulate. Fermentation also results in changes in colon pH which alters the metabolism of bile acids, nitrate, sulfate and other substances. Fermentation is thus controlled to a great extent by substrate availability, especially of carbohydrates which are derived from the diet. The potential to induce mutagenic change in colon epithelial cells and promote tumor growth may readily be influenced by diet."
+        },
+        {
+            "References": "PMID:3916695",
+            "Value": "Butyric acid has two contrasting functional roles. As a product of fermentation within the human colon, it serves as the most important energy source for normal colorectal epithelium. It also promotes the differentiation of cultured malignant cells. A switch from aerobic to anaerobic metabolism accompanies neoplastic transformation in the colorectum. The separate functional roles for n-butyrate may reflect the different metabolic activities of normal and neoplastic tissues. Deficiency of n-butyrate, coupled to the increased energy requirements of neoplastic tissue, may promote the switch to anaerobic metabolism."
+        },
+        {
+            "References": "Kelly RE; In Vitro 21 (7): 373-81 (1985)",
+            "Value": "Treatment of cultured HeLa cells with 5 mM butyrate caused an inhibition of growth as well as extensive chemical and morphological differentiation. Lysosomal enzyme activity changes are associated with both normal and neoplastic growth as well as many aspects of the neoplastic process. The comparative ultrastructural results showed that the butyrate treated cells had a more extensive internal membranous system than the untreated cells, whereas other organelles seemed unaffected. The histochemical localization of lysosomal acid phosphatase showed a 2-fold increase in particulate reaction product in the butyrate-treated HeLa cells. Butyrate treatment may prevent sublethal autolysis by arresting the leakage of the lysosomal enzymes from the lysosome into the cytosol and thus allowing the cell to differentiate chemically and morphologically."
+        },
+        {
+            "References": "PMID:3771518",
+            "Value": "Exposure of the rat glioma C6 cell line to butyric acid increased levels of L-triiodothyronine in the nuclear and extranuclear compartments. The increase in nuclear binding was not merely a reflection of the higher cellular hormone content, and Scatchard analysis of L-triiodothyronine binding to isolated nuclei revealed that butyric acid increased receptor number without changing affinity. The effect on the receptor was quantitatively important: a 48 hr incubation with 2 mM butyric acid increased nuclear binding by 2-3 fold, and 5 mM butyrate by 35 fold. Butyric acid increased receptor levels by decreasing receptor degradation, since the apparent half-life of receptor disappearance increased by approximately 3 fold in cells incubated with 2 mM butyric acid for 48 hr. Butyric acid had little effect in increasing the level of multiacetylated forms of H3 and H4 histone when studied in acid-urea gels, but it markedly inhibited the turnover of (3)H-acetate from the histone fraction. There was a striking similarity in the dose-response of butyric acid for increasing receptor levels and inhibiting histone deacetylation. Furthermore, a very close correlation between receptor levels and (3)H-acetate release was also found when different short-chain fatty acids were used."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ After a 90 min exposure to a butyric acid aerosol (40 mg/L), rabbits displayed increased lethargy and dyspnea. Signs of bronchial and capillary dilation and emphysema were evident upon necropsy.[Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 5:708]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... No lethalities /were reported/ when rats were exposed for 8 hr to air saturated with butyric acid vapor.[Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 5:708]"
+        },
+        {
+            "References": "PMID:3897518",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The role of the autonomic innervation in the control of pancreatic endocrine responses to iv infusions of butyrate was investigated in conscious 4-6 month old weaned lambs. IV butyrate produced a small rise in mean arterial plasma pancreatic glucagon concentration which was unlikely to have had any physiological effect and produced no consistent or statistically significant changes in mean plasma pancreatic polypeptide concentration in any of the groups studied. In contrast, butyrate produced an abrupt and substantial rise in mean plasma insulin concentration which rose to a peak incremental value of about 300 pico mol/L in normal control.[Bloom SR, Edwards AV; J Physiol 364: 281-8 (1985)]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  ... HbF induction in response to butyrate was dependent on the dose and duration of treatment. Doses of butyrate less than 4 g/kg/d were associated with minimal toxicity (hypokalemia) and significant HbF induction in these nonanemic animals, with 1 g/kg/d producing an increase in HbF-containing reticulocytes (F reticulocytes) from 0.9% to 8.7% and an increase in HbF from 0.8% to 1.4%. A dose of 2 g/kg/d resulted in an increase in F reticulocytes from 2.1% to 27.8% and an increase in HbF from 0.7% to 2.2%. Doses of 4 g/kg/d in another animal produced an increase in F reticulocytes from 1% to 21.6% and in HbF from 1.9% to 5.3%. ...  Prolonged infusions of high doses of butyrate (8 to 10 g/kg/d) were associated with peak F reticulocyte percentages reaching 38% to 64.5% and HbF reaching levels in excess of 20%.[Blau CA et al; Blood 81 (2): 529-37 (1993)]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... butyric acid inhibited the TPA-induced mouse skin ODC activity. The effect was dependent on the dose and duration of the butyric acid application.[Gupta KP, Mehrotra NK; Carcinogenesis 8 (11): 1667-70 (1987)]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Severe corneal burns were produced in rabbits by an excess of a 5% aqueous solution of butyric acid (unspecified volume).[Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 5:708]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Large intravenous doses of butyric acid (sodium salt) caused temporary CNS depression in rabbits (1.6 g/kg) and dogs (0.86 g/kg); similar effects were reported after subcutaneous administration of the acid to cats. /Butyric acid (sodium salt)/[Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 7:708]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Intravenous application of butyrate (continuous infusion 2.5 mL/min.0.02 mM/kg/min for 10 min) produced an abrupt and substantial rise in mean plasma insulin concentration in lambs. Simultaneous administration but not pretreatment with phentolamine (priming dose 0.2 mg/kg, 10 min later iv infusion of 0.04 mg/kg/min) and propanolol (single iv injection of 0.25 mg/kg) reduced this response as it was either pretreatment with atropine (single iv injection of 0.2 mg/kg 10 min prior to butyrate dosing) or section of the splanchnic nerves. It is concluded, that mediating the release of insulin from the pancreas in response to butyrate in lambs involves adrenoreceptors and muscarine receptors and the full response depends on both sympathetic and parasympathetic influences.[European Chemicals Bureau; IUCLID Dataset, Butyric acid (107-92-6) (2000 CD-ROM  edition). Available from, as of April 20, 2006: http://esis.jrc.ec.europa.eu/]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Butyric acid rated 9 on rabbit eyes./ ... Tested externally on eyes ... and have been rated numerically on a scale of 1-10 according to degree of injury observed after 24 hours, paying particular attention to condition of cornea. Most severe injuries have been rated 10./[Grant, W. M. Toxicology of the Eye. 2nd ed. Springfield, Illinois: Charles C. Thomas, 1974., p. 1139]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... It is a moderately strong skin and eye irritant in the guinea pig.[Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 5:708]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ In the closed, rabbit skin patch irritation test, 10 mg butyric acid produced a severe reaction in 24 hr, but in the open test, 500 mg elicited only a moderate response.[Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 5:708]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/  ... rats, mice and hamsters were fed diet containing 4% propionic or butyric acid for 7 days. Evidence of damage and cellular proliferation in the epithelium of the forestomach and limiting ridge was detected in all three species.[Harrison PT et al; Food Chem Toxicol 29 96): 367-71 (1991)]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/  Eleven cows in late lactation were exposed to butyric acid for three weeks. ... Decline in milk yield was clinically recorded in response to butyric acid, while muscle tremor and diarrhea resulted additionally from sodium butyrate.[Dabbagh MN et al; Arch Exp Veterinarmed 44 (6): 819-29 (1990)]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Male and female rats, mice, and hamsters fed a diet containing 4% butyric acid for 7 days showed evidence of damage and cellular proliferation in the epithelium of the forestomach. These effects were particularly marked in rats.[Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 5:709]"
+        },
+        {
+            "References": "",
+            "Value": "/OTHER TERRESTRIAL SPECIES/ ... Topical application of BA immediately after each treatment with 12-0-tetradecanoylphorbol-13-acetate (TPA) promoter-inhibited skin tumors. The effect was dependent on the dose of BA applied. BA showed no marked inhibitory effect on either skin tumor initiation or complete tumorigenesis induced by dimethylbenzanthracene (DMBA).[Gupta KP, Mehrotra NK; Biomed Environ Sci 10 94): 436-41 (1997)]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Rats (number not specified) fed diets containing butyric acid at concentrations of 25% for up to 35 weeks barely maintained their weights, and histology on 4 rats revealed papillomatosis and hyperkeratosis of gastric tissues.[Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 5:709]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Sprague-Dawley rats were administered butyric acid in corn oil by gavage on gestation days 6 to 15 at dose levels of 100 or 133 mg/kg/day. The dams were allowed to deliver, and their litters were examined through postnatal day 6. Maternal mortalities were high (20 and 47% for the 100- and 133-mg/kg/day groups, respectively), and maternal body weight gain was markedly depressed. Rales and dyspnea were reported for most treated animals. No evidence of effects on progeny were reported.[Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 5:709]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ In a frog embryo teratogenesis assay, /investigators/ found that butyric acid caused malformations in 50% of surviving offspring at a concentration of 400 mg/L. Malformations included microcephaly, eye defects, edema, and gut defects.[Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 5:710]"
+        },
+        {
+            "References": "",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ The effect of butyrate on cortical blood flow and EEG was studied in cats by iv injections of 1mM/kg. Butyric acid leads to an increased cortical blood flow (up to 100%) in spite of constant blood pressure (reduction of cortical vascular resistance). At the same time slow waves and spindles developed in the EEG. The /investigators concluded that butyric acid blocked the general activating influence of the reticular system upon the cortex.[European Chemicals Bureau; IUCLID Dataset, Butyric acid (107-92-6) (2000 CD-ROM  edition). Available from, as of April 20, 2006: http://esis.jrc.ec.europa.eu/]"
+        },
+        {
+            "References": "",
+            "Value": "/GENOTOXICITY/ Butyric acid did not induce mutations at concentrations up to 10 mg/plate in an Ames Salmonella typhimurium test with strains TA 92, TA 94, TA 98, TA 100, or TA 1535, and TA 1537 with or without a liver homogenate from rats pretreated with the polychlorinated biphenyl KC-400.[Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 5:710]"
+        },
+        {
+            "References": "",
+            "Value": "/GENOTOXICITY/ No clastogenic effects were seen in Chinese hamster fibroblast cells at concentrations up to 1 mg/mL.[Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 5:710]"
+        },
+        {
+            "References": "",
+            "Value": "/OTHER TOXICITY INFORMATION/ Prolonged exposure (of unspecified duration) of mice, rats, and rabbits to an atmospheric concentration of 0.1 to 0.2 mg/L butyric acid caused a massive increase in circulating lymphocytes and neutrophils, attributed to the irritant nature of the cmpd. /Chronic and subchronic toxicity/[Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 5:709]"
+        },
+        {
+            "References": "PMID:6883189",
+            "Value": "/OTHER TOXICITY INFORMATION/ In cattle following a single rapid iv injection of a sodium anion solution, butyrate was toxic at doses above 1 mmole/kg and progressively affected both the rate and progress of bromosulfophthalein clearance as the dose increased. The butyrate effects were accentuated when the anion soln was injected at low pH where a large portion of the /compound/ would be unionized. Levels of butyrate in the rumens of feedlot cattle were high enough to provide toxic doses of these anions.[Bide BW; Can J Comp Med 47 (2): 222-29 (1983)]"
+        },
+        {
+            "References": "",
+            "Value": "/OTHER TOXICITY INFORMATION/ In ewes, continuous infusion of butyrate decreased ruminal epithelial cell proliferation and caused a thickening of the stratum corneum. Daily short-term infusions produced stimulation of ruminal epithelial cell proliferation. Histological examination revealed parakeratotic changes in the stratum corneum.[Galfi P et al; Zentralbl Veterinaermed, Reihe A 33 (1): 47-52 (1986)]"
+        },
+        {
+            "References": "",
+            "Value": "/OTHER TOXICITY INFORMATION/ Butyric acid was added to the normal diet of 5 day old chickens at 15 mM/L; the stimulating effect on keratinization was not restricted to ruminal epithelium, but also occurred in the crop.[Galfi P et al; Zentralbl Veterinaermed, Reihe A 32 (2): 146-50 (1985)]"
+        },
+        {
+            "References": "PMID:2416432",
+            "Value": "/OTHER TOXICITY INFORMATION/  The effects of various concentrations of butyrate were examined on a normal embryonic lung fibroblast cell line and its 2 transformed counterparts, a simian virus 40-transformed line and a cell line transformed by gamma-irradiation. The rate of thymidine incorporation into DNA was inhibited by 60-80% in the WI-38 cells, even at butyrate concentrations as low as 5 mM. The two transformed cell lines showed no inhibition of DNA synthesis, even at 75 mM butyrate. Analysis of RNA and protein synthesis revealed that the former was inhibited by + or - 20% at 5-10 mM butyrate in the normal WI-38 cell line, while protein synthesis was not inhibited at these concentrations. The inhibition of RNA synthesis was not dose dependent up to butyrate concentrations of 20 mM, and protein synthesis was inhibited <15% at this concentration. None of these inhibitory effects was observed in the case of the SVWI-38 or CT-1 cell lines.[De Haan JB et al; Cancer Res 46 (2): 713-6 (1986)]"
+        },
+        {
+            "References": "PMID:4080986",
+            "Value": "/OTHER TOXICITY INFORMATION/  Values of the single-hit, multitarget survival curve parameters for non-sodium butyrate-treated clone A cells were n= 17.1, DO(Gy)= 0.81, and DQ(Gy)= 2.31; corresponding parameters for sodium butyrate-treated cells were 1.04, 1.16, and 0.05. For non-sodium butyrate-treated clone D cells, the survival parameters were n= 4.27, DO= 1.05, and DQ= 1.52; corresponding parameters for sodium butyrate-treated cells were 1.19, 1.15, and 0.20. The data indicates that sodium butyrate-induced cell maturation is accompanied by increase in radiation cell kill, particularly in the low-dose region of the survival curve.[Arundel CM; Radiat Res 104 (3): 443-48 (1985)]"
+        },
+        {
+            "References": "",
+            "Value": "/OTHER TOXICITY INFORMATION/ Small doses of butyric acid have no effect on the cardiovascular system, whereas large doses impair cardiac function and depress blood pressure.[Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 5:708]"
+        },
+        {
+            "References": "",
+            "Value": "/OTHER TOXICITY INFORMATION/ The similarity between the effects associated with butyric acid toxicity and the clinical symptoms of diabetic coma suggests that ketone bodies, beta-hydroxybutyrate and acetoacetate, may be responsible for these effects.[Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 5:708]"
+        },
+        {
+            "References": "",
+            "Value": "/OTHER TOXICITY INFORMATION/ Short-chain fatty acids, including butyric acid, are metabolic products produced by colonic bacteria and when instilled intrarectally in mice, induce a diffuse colitis.[Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 5:709]"
+        },
+        {
+            "References": "PMID:2578798",
+            "Value": "/ALTERNATIVE IN VITRO TESTS/ Butyrate induced a marked reduction in the growth rate, colony forming efficiency in soft agar and de novo synthesis of DNA as well as remarkable morphological changes including cell enlargement, flattening, and a decreased number of nucleoli. Secretion of alpha-fetoprotein was reduced during culture with butyrate, while that of albumin was increased.[Nakagawa T et al; Br J Cancer 51 (3): 357-63 (1985)]"
+        },
+        {
+            "References": "PMID:3862749",
+            "Value": "/ALTERNATIVE IN VITRO TESTS/ The effects of butyrate on cellular morphology features and polyamine levels were examined in vitro in glioma F-98 cells. Following exposure to butyrate, the glioma appeared more differentiated and had more characteristics of normal glial cells, such as processes extension, lower nucleocytoplasmic ratio, contact inhibition, and monolayer growth. Butyrate increased glioma intracellular putrescine and spermine levels and decreased spermidine level.[Lin LI, Lin JK; Taiwan I Hsueh Hui Tsa Chih 84 (5): 536-45 (1985)]"
+        },
+        {
+            "References": "PMID:3079593",
+            "Value": "/ALTERNATIVE IN VITRO TESTS/ Treatment of B16-F10 melanoma cells with butyric acid inhibited cell growth and delayed tumor appearance in syngeneic mice. Butyric acid, did not increase melanin content and decreased tyrosinase activity.[Nordenberg J et al; Exp Cell Res 162 (1): 77-85 (1986)]"
+        },
+        {
+            "References": "PMID:3986774",
+            "Value": "/ALTERNATIVE IN VITRO TESTS/ The most effective inducer was butyrate, which caused an essentially linear increase in alkaline phosphatase activity in the concentration range of 2 to 10 mM. Butyrate and related short-chain fatty acids also suppressed 9-1C cell growth. Butyrate appeared to be unique among the various fatty acids in causing an increase in cell protein. Butyrate caused 9-1C cells, which normally grow in a disorganized array with no apparent affinity for each other, to spread out and become organized into parallel tracts through the monolayer.[Reese DH et al; Cancer Res 45 (5): 2308-13 (1985)]"
+        },
+        {
+            "References": "PMID:3839761",
+            "Value": "/ALTERNATIVE IN VITRO TESTS/ Treated murine lymphosarcoma cells were incubated with different amounts of the polyanion heparin, which is known to interact predominantly with chromatin-associated histones. Unlike isolated histone H1, histone H1 in the nuclei of butyrate-treated cells displayed an enhanced affinity for the binding to heparin as compared to histone H1 from control cells.[Stros M, Siroky J; Gen Physiol Biophys 4 (4): 375-81 (1985)]"
+        },
+        {
+            "References": "PMID:3980586",
+            "Value": "/ALTERNATIVE IN VITRO TESTS/ To understand corneal wound healing, in which fibronectin plays an important role, the regulatory mechanism of fibronectin synthesis was studied in cultured rabbit corneal blocks in situ. The amount of fibronectin was detected by ELISA. Butyric acid stimulated fibronectin synthesis in a dose-response fashion, and had a greater stimulatory effect than did any of its derivitives examined. This suggests that butyrate stimulates fibronectin synthesis specifically. Additivity of stimulation by butyrate and by 8-bromo-cAMP was observed at the saturated concentration of each, indicating an independent mechanism of action for these two compounds.[Tanaka H, Nishida T; J Cell Physiol 123 (2): 191-6 (1985)]"
+        },
+        {
+            "References": "",
+            "Value": "/ALTERNATIVE IN VITRO TESTS/  ... BA-mediated DNA fragmentation and Bax induction were preceded by early stimulation of JNK, and the DNA-binding activities of AP1 and NF-kappaB. BA-induced enhancement of DNA fragmentation and stimulation of Bax promoter activity were blocked by the expression of dominant-negative mutants of JNK1 or AP1 but not NF-kappaB.[Mandal M et al; Gastroenterology 120 (1): 71-8 (2001)]"
+        },
+        {
+            "References": "PMID:3943096",
+            "Value": "/ALTERNATIVE IN VITRO TESTS/  ... Untreated P-29 cells formed few nodules while butyric-acid treated cells formed many, the number being duration and dose dependent. ... Treatment with butyric-acid caused them to become flattened but polygonal. Butyric-acid treatment also induced marked increases in plasminogen activator secretion and in total cellular cathepsin-B and cathepsin-L activity. Slight increases in heterotypic adhesion and resistance to trypsin mediated detachment were also observed after butyric-acid treatment. Butyric-acid was more effective than DMSO in enhancing the ability to aggregate homotypically. Treatment with butyric-acid increased markedly the amounts of histones in H4-2, H4-3, and H4-4 with concomitant decreases in H4-0 and H4-1. Alteration in the sub species of histones H3 and H2B was also observed.[Takenaga K; Cancer Res 46 (3): 1244-1249 (1986)]"
+        },
+        {
+            "References": "",
+            "Value": "/ALTERNATIVE IN VITRO TESTS/  Exposure of HeLa cells to sodium butyrate caused an increase in choleragen (cholera toxin) receptors as measured by increased binding of 125I-choleragen to the intact cells. Maximal increases (over 40-fold) were observed at 48 h and 5 mM sodium butyrate.[Fishman PH, Atikkan EE; J Biol Chem 254 (11): 4342-4 (1979)]"
+        },
+        {
+            "References": "",
+            "Value": "/ALTERNATIVE IN VITRO TESTS/ When tested on isolated cornea, butyric acid esterified with nontoxic salts (i.e., butyrate salts) at a pH between 2 and 6.5 caused slight to moderate loosening of the stratum corneum.[Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 5:708]"
+        },
+        {
+            "References": "",
+            "Value": "/ALTERNATIVE IN VITRO TESTS/ Two subpopulations of human colon tumor cells (clones A and D) which differ in their intrinsic sensitivity to X irradiation were grown for several passages in tissue culture medium containing the differentiation-inducing agent sodium butyrate (NaB, 2 mM). Values of the single-hit, multitarget survival curve parameters for non-NaB-treated clone A cells were n = 17.1, D0(Gy) = 0.81, and DQ(Gy) = 2.31; corresponding parameters for NaB-treated cells were 1.04, 1.16, and 0.05. For non-NaB-treated clone D cells, the survival parameters were n = 4.27, D0 = 1.05, and DQ = 1.52; corresponding parameters for NaB-treated cells were 1.19, 1.15, and 0.20. The large reduction in the DQ parameters of both clone A and D cells after NaB treatment indicates that sodium butyrate-induced cell maturation is accompanied by increase in radiation cell kill, particularly in the low-dose region of the survival curve.[Arundel CM; Radiat Res 104 (3): 443-48 (1985)]"
+        },
+        {
+            "References": "",
+            "Value": "/ALTERNATIVE IN VITRO TESTS/ Butyrate reduced by 60 to 80% the rate of thymidine incorporation into DNA by normal embryonic lung fibroblast cells at concentrations as low as 5 mM. /Butyrate/[Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 5:710]"
+        },
+        {
+            "References": "",
+            "Value": "/ALTERNATIVE IN VITRO TESTS/ Concentration of 0.1 to 0.5 mM sodium butyrate had a marked inhibitory effect on clonogenicity in soft agar of 1 mouse (B16F-10) and 2 human (SKMEL-28, 6/84) melanoma cell lines without effecting cell viability. The antiproliferative effect of sodium butyrate is accompanied by phenotypic alterations that include morphological and biochemical changes. Sodium butyrate treatment markedly enhanced the activity of the plasma membrane bound enzyme gamma-glutamyltranspeptidase, implicated to participate in amino acid transport, in all 3 cell lines. The treated cells acquired a well-developed rough endoplasmic reticulum and accumulated fat droplets. Also NADPH cytochrome c reductase, a marker enzyme of the endoplasmic reticulum was markedly enhanced. It is suggested that the phenotypic alterations induced by sodium butyrate may serve as markers for the action of this agent on melanoma cells and other tumors. /Sodium Butyrate/[European Chemicals Bureau; IUCLID Dataset, Butyric acid (107-92-6) (2000 CD-ROM  edition). Available from, as of April 20, 2006: http://esis.jrc.ec.europa.eu/]"
+        },
+        {
+            "References": "",
+            "Value": "/ALTERNATIVE IN VITRO TESTS/ Cultured HeLa cells were incubated with 5mM sodium butyrate. The treatment caused cessation of growth, morphological differentiation and concomitant increase in lysosomal enzyme activity. The ultrastructure of treated cells seemed more organized, with the occurrence of and extensive internal membranous system including the rough and smooth surface endoplasmic reticulum as well as the appearance of a distinct Gologi apparatus. These ultrastructural results indicate that the inhibition of growth by butyrate is not a toxic process that caused ultrastructral damage to the cell. The lysosomal enzyme increase and cessation of growth were revisable by treating the cells with a butyrate-free media. The histochemical studies showed that a number of lysosomal like structures increased with butyrate treatment and these structures were more randomly distributed throughout the cytoplasm in the treated cells as opposed to the peripheral arrangement in untreated HeLa cells. The results suggest that butyrate treatment may be preventing sublethal autolysis arresting the leakage of the lysosome into the cytosol and thus allowing the cells to chemically and morphologically differentiate. /Sodium Butyrate/[European Chemicals Bureau; IUCLID Dataset, Butyric acid (107-92-6) (2000 CD-ROM  edition). Available from, as of April 20, 2006: http://esis.jrc.ec.europa.eu/]"
+        },
+        {
+            "References": "",
+            "Value": "/ALTERNATIVE IN VITRO TESTS/  Exposure of Rat glioma C6 cell line to butyric acid increased levels of L-triiodothyronine (T3) in the nuclear and extranuclear compartment. The increase in nuclear binding was not merely a reflection of the higher cellular hormone content, and the analysis of the T3 binding to isolated nuclei revealed that butyric acid increased receptor number without changing affinity. The effect on the receptor was quantitatively important: a 48 hr incubation with 2 nM butyric acid increased nuclear binding by 2 to 3 fold, and 5 mM butyrate by 35-fold. Butyric acid increased receptor levels by decreasing receptor degradation, since the apparent half-life of receptor disappearance increased by 3-fold in cells incubated with 2 mM butyric acid for 48 hr. Butyric acid had little effect in increasing the level of multiacetylated forms of H3 and H4 histones when studied in acid-urea gels, but it markedly inhibited the turnover of (3H)-acetate from the histone fraction. There was striking similarity in the dose response of butyric acid for increasing receptor levels and inhibiting histone deacetylation.[European Chemicals Bureau; IUCLID Dataset, Butyric acid (107-92-6) (2000 CD-ROM  edition). Available from, as of April 20, 2006: http://esis.jrc.ec.europa.eu/]"
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Miller D et al; Marine Biol 50: 375-83 (1979) (2) Maeda H, Kawai A; Bull Jap Soc Sci Fish 52: 1205-8 (1986)",
+            "Value": "SEDIMENT: n-Butanoic acid was detected in the sediment of Loch Eil, Scotland, at a conc ranging from trace to 160 ug/g dry weight(1). Detected at a conc of 0.273 mg/g in the sediment of Lake Biwa, Japan, 1981(2)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Sansone FJ et al; Geochim Cosmochim Acta 51: 1889-96 (1987) (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Hemphill L et al; Proc 18th Indust Waste Conf 18: 204-17 (1964) (4) Sutton PA, Barker JF; Ground Water 23: 10-6 (1985) (5) Weber JB, Miller CT; Reactions and Movement of Organic Chemicals in Soils, SSSA Spec Publ No. 22: 305-33 (1989) (6) Ulrich H et al; Env Sci Tech 22: 37-41 (1988) (7) Riddick JA et al; Organic Solvents. Techniques of Chemistry 4th ed. New York, NY, Wiley-Interscience 2:pp. 1325 (1986) (8) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "The Koc of n-butanoic acid is estimated as 64(SRC), using a log Kow of 0.79(1) and a regression-derived equation(2). Experimental Koc values for n-butanoic acid on a clastic mud (3.5% organic carbon), a lateritic muddy sand (1.3% organic carbon), and a fine carbonate sand (0.17% organic carbon) were 19.1, 27.6, and 14.7, respectively(3). According to a classification scheme(4), these estimated and experimental Koc values suggest that n-butanoic acid is expected to have very high to high mobility in soil. The percent of n-butanoic acid sorbed to a kalonite or montmorillonite clay at 22 \u00b0C was 14.0% and 19.9% after 48 hours, respectively, which increased to 31.4% and 24.2%, respectively, after 144 hours(5). In a field study in which 100 ppm n-butanoic acid was injected underground, the retardation, relative to the linear ground-water velocity, was calculated to be 3%(6). N-butanoic acid is listed as a compound displaying an L-type adsorption isotherm, indicating that specific binding sites may be involved(7). Experimental studies in indicate that adsorption of n-butanoic acid to moist soil is dominated by attractive forces between the compound and soil and not by hydrophobic interactions(8). The pKa of n-butanoic acid is 4.82(9), indicating that this compound will primarily exist in the anion in the environment and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(10)."
+        }
+    ]
+}

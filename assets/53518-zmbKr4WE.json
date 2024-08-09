@@ -1,0 +1,64 @@
+{
+    "_id": {
+        "$oid": "6692711f303528b49832d800"
+    },
+    "CID": {
+        "$numberInt": "53518"
+    },
+    "Name": "Quizalofop-ethyl",
+    "IUPACName": "ethyl 2-[4-(6-chloroquinoxalin-2-yl)oxyphenoxy]propanoate",
+    "CanonicalSMILES": "CCOC(=O)C(C)OC1=CC=C(C=C1)OC2=CN=C3C=C(C=CC3=N2)Cl",
+    "Synonyms": [
+        "QUIZALOFOP-ETHYL",
+        "76578-14-8",
+        "Assure",
+        "Quizalofop ethyl",
+        "Targa",
+        "Quinofop-ethyl",
+        "Xylofop-ethyl",
+        "Quizalofop-ethyl [ISO]",
+        "Propanoic acid",
+        "2-[4-[(6-chloro-2-quinoxalinyl)oxy]phenoxy]-",
+        "ethyl ester",
+        "DPX-Y 6202",
+        "Propanoic acid",
+        "2-(4-((6-chloro-2-quinoxalinyl)oxy)phenoxy)-",
+        "ethyl ester",
+        "Ethyl 2-[4-(6-chloro-2-quinoxalinyloxy)phenoxy]propionate",
+        "QUIZALOFOP ETHYL ESTER",
+        "DTXSID9023889",
+        "ethyl 2-{4-[(6-chloroquinoxalin-2-yl)oxy]phenoxy}propanoate"
+    ],
+    "IsomericSMILES": "CCOC(=O)C(C)OC1=CC=C(C=C1)OC2=CN=C3C=C(C=CC3=N2)Cl",
+    "INCHI": "InChI=1S/C19H17ClN2O4/c1-3-24-19(23)12(2)25-14-5-7-15(8-6-14)26-18-11-21-17-10-13(20)4-9-16(17)22-18/h4-12H,3H2,1-2H3",
+    "INCHIKEY": "OSUHJPCHFDQAIT-UHFFFAOYSA-N",
+    "Formula": "C19H17ClN2O4",
+    "MolecularWeight": {
+        "$numberDouble": "372.8"
+    },
+    "Description": "Ethyl 2-{4-[(6-chloroquinoxalin-2-yl)oxy]phenoxy}propanoate is an ethyl ester resulting from the formal condensation of the carboxy group of 2-{4-[(6-chloroquinoxalin-2-yl)oxy]phenoxy}propanoic acid with ethanol. It is an ethyl ester, an organochlorine compound, a quinoxaline derivative and an aromatic ether. It is functionally related to a 2-{4-[(6-chloroquinoxalin-2-yl)oxy]phenoxy}propanoic acid.",
+    "XlogP": {
+        "$numberDouble": "4.3"
+    },
+    "Complexity": {
+        "$numberInt": "459"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Quizalofop-ethyl, ethyl 2-[4-(6-chloro-2-quinoxalinyloxy) phenoxy] propionate, is a selective grass herbicide developed by Nissan Chemical Industries, Ltd. It has a broad spectrum of action against grass weeds, acting quickly at low application rates through foliage applications, while also demonstrating good safety for non-gramineous crops. The development of quizalofop-ethyl as a grass killer herbicide focused on heterocyclicoxy phenoxy proionic acid derivatives, with the quinoxalinyloxy phenoxy propanoic acid derivatives showing high potential. Quizalofop-ethyl was selected as a candidate for development after optimization of derivatives. In field trials conducted in major producing areas of various crops, quizalofop-ethyl showed effective control of grass weeds at specific application rates. It is rapidly translocated from treated leaves to meristem tissues of grass weeds, leading to necrosis. Quizalofop, a metabolite of quizalofop-ethyl, acts as a potent inhibitor of fatty acid synthesis by inhibiting acetyl-CoA carboxylase. The main metabolic pathway of quizalofop-ethyl involves hydrolysis to quizalofop, followed by ester bond cleavages, hydroxylations, and conjugation of quizalofop. Toxicity to mammals, fish, and birds is very low, and its potential environmental hazard is minimal.",
+            "reference": "\u9234\u6728\u5b8f\u4e00, \u5e73\u7530\u535a\u660e, \u732a\u98fc\u9686, & \u5742\u7530\u4e94\u5e38. (1991). Development of a selective herbicide, quizalofop-ethyl. Journal of Pesticide Science, 16(2), 315-323.",
+            "method": {
+                "Test Plant": "Barnyardgrass",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "-",
+                "Chemical Preparation": "\u03b1-(p-Phenoxyphenoxy)propionic acid (HPE) and its derivatives, particularly quinoline and quinoxaline rings, with optimized substitution at the 6-position of the quinoxaline ring.",
+                "Pesticide Application Details for the Plant": "0.5-1.5 g a.i./a for annual weeds, 1.25-2.5 g a.i./a for perennial weeds.",
+                "Other Information": "-"
+            },
+            "result": "[{\"Days after application\": 1, \"Treated leaves (% of recoverey)\": 27.3, \"Washing (%)\": 59.6, \"Untreated part of leaves (%)\": 0.52, \"Stem base (%)\": 0.12, \"Root (%)\": 0.1}, {\"Days after application\": 2, \"Treated leaves (% of recoverey)\": 23.6, \"Washing (%)\": 66.6, \"Untreated part of leaves (%)\": 0.53, \"Stem base (%)\": 0.1, \"Root (%)\": 0.09}, {\"Days after application\": 4, \"Treated leaves (% of recoverey)\": 35.1, \"Washing (%)\": 52.6, \"Untreated part of leaves (%)\": 0.75, \"Stem base (%)\": 0.1, \"Root (%)\": 0.11}, {\"Days after application\": 6, \"Treated leaves (% of recoverey)\": 44.4, \"Washing (%)\": 42.6, \"Untreated part of leaves (%)\": 0.58, \"Stem base (%)\": 0.07, \"Root (%)\": 0.1}]"
+        }
+    ]
+}

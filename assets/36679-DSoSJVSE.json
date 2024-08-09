@@ -1,0 +1,73 @@
+{
+    "_id": {
+        "$oid": "66927115303528b49832d7d9"
+    },
+    "CID": {
+        "$numberInt": "36679"
+    },
+    "Name": "Isoproturon",
+    "IUPACName": "1,1-dimethyl-3-(4-propan-2-ylphenyl)urea",
+    "CanonicalSMILES": "CC(C)C1=CC=C(C=C1)NC(=O)N(C)C",
+    "Synonyms": [
+        "ISOPROTURON",
+        "34123-59-6",
+        "3-(4-Isopropylphenyl)-1,1-dimethylurea",
+        "Graminon",
+        "Tolkan",
+        "Arelon",
+        "Belgran",
+        "Arelon R",
+        "Nocilon",
+        "IPU Stefes",
+        "IP-Flo",
+        "Alon",
+        "Hytane 500L",
+        "DPX 6774",
+        "3-p-Cumenyl-1,1-dimethylurea"
+    ],
+    "IsomericSMILES": "CC(C)C1=CC=C(C=C1)NC(=O)N(C)C",
+    "INCHI": "InChI=1S/C12H18N2O/c1-9(2)10-5-7-11(8-6-10)13-12(15)14(3)4/h5-9H,1-4H3,(H,13,15)",
+    "INCHIKEY": "PUIYMUZLKQOUOZ-UHFFFAOYSA-N",
+    "Formula": "C12H18N2O",
+    "MolecularWeight": {
+        "$numberDouble": "206.28"
+    },
+    "Description": "Isoproturon is a member of the class of phenylureas that is 1,1-dimethylurea substituted by a p-cumenyl group at position 3. A selective, systemic herbicide used to control annual grasses and broadleaf weeds in cereals, its use within the EU has been banned after September 2017 on the grounds of potential groundwater contamination and risks to aquatic life; there have also been concerns about its endocrine-disrupting properties. It has a role as an environmental contaminant, a xenobiotic, a herbicide and an agrochemical.",
+    "XlogP": {
+        "$numberDouble": "2.9"
+    },
+    "Complexity": {
+        "$numberInt": "206"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Investigations were made under controlled environmental conditions of isoproturon [N-(4-isopropylphenyl)-N\u2019,N\u2032-dimethylurea] absorption and translocation in wheat (Triticum aestivum L.) (tolerant) and slender foxtail (Alopecurus myosuroides Huds. \u266f ALOMY) (sensitive). Effects of isoproturon on 14CO2 fixation and 14C-assimilate translocation were also examined in the test species. The amount of 14C-isoproturon translocated by slender foxtail was about four times greater than by wheat. Foliar application of isoproturon resulted in greater inhibition of photosynthetic 14CO2 fixation in slender foxtail than in wheat. The reduction in 14C-assimilate translocation was also significantly greater in slender foxtail than in wheat.",
+            "reference": "Achhireddy, N. R., Kirkwood, R. C., & Fletcher, W. W. (1985). Foliar absorption and translocation of isoproturon, and its action on photosynthesis in wheat (Triticum aestivum) and slender foxtail (Alopecurus myosuroides). Weed Science, 33(6), 762-765.",
+            "method": {
+                "Test Plant": "Wheat and slender foxtail (ALOAU)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Grown in 10-cm diameter polystyrene pots. Potting medium composed of loam, peat, sand (7:3:2 v/v/v) fortified with ground limestone, macronutrients, micronutrients. Grown in heated greenhouse at 22\u00b12\u00b0C under fluorescent lights with 14-h photoperiod. After herbicide treatment, transferred to growth chamber at 20\u00b10.5\u00b0C, 420 \u03bcE/m2/s light intensity for 14-h, 70\u00b15% relative humidity",
+                "Chemical Preparation": "Isoproturon 50% wettable powder formulation. 14C-isoproturon (isopropyl-labeled), purity >98%",
+                "Pesticide Application Details for the Plant": "Isoproturon sprayed just to runoff at four-leaf stage, with 0.1% oxysorbic POE 20 surfactant. Two 2-\u03bcL droplets (2.5 \u03bcg, 0.05 \u03bcCi) of 14C-isoproturon in 0.1% oxysorbic POE 20 applied to adaxial surface of second leaf at four-leaf stage",
+                "Other Information": "shoot dry weights taken after 2 weeks and expressed as % decrease relative to control."
+            },
+            "result": "[{\"Plant\": \"Wheat\", \"Recovery rate\": 82.1, \"Absorption rate\": 62.9, \"Translocation rate\": 1.9, \"Surface residue (% of applied)\": 19.2, \"Wax residue (%)\": 16.9, \"Treated leaf (%)\": 44.1, \"Shoot (%)\": 1.0, \"Root (%)\": 0.9}, {\"Plant\": \"Slender foxtail\", \"Recovery rate\": 90.1, \"Absorption rate\": 83.9, \"Translocation rate\": 6.8, \"Surface residue (% of applied)\": 6.2, \"Wax residue (%)\": 5.1, \"Treated leaf (%)\": 72.0, \"Shoot (%)\": 3.3, \"Root (%)\": 3.5}]"
+        },
+        {
+            "content": "The uptake and translocation of 14C-isoproturon in wheat (tolerant) and blackgrass (sensitive) following foliar treatment under controlled environmental conditions. It was found that the amount of 14C-isoproturon translocated through the xylem was about 10 times that translocated through the phloem in both wheat and blackgrass. However, 25.5% of the applied 14C-isoproturon was translocated in the xylem in blackgrass, compared with 8.9% in wheat. The study also found that 14C-isoproturon did not significantly respond to induced sink-demand in either species. Leaf-disc autoradiograms revealed the absorption of 14C-isoproturon by the minor veins and translocation into the cut vein endings, with no significant differences found between wheat and blackgrass in this respect.",
+            "reference": "Achhireddy, N. R., & Kirkwood, R. C. (1986). The foliar uptake of isoproturon by wheat and Alopecurus myosuroides huds. Pesticide science, 17(1), 53-57.",
+            "method": {
+                "Test Plant": "Wheat (Triticum aestivum L.) and blackgrass (Alopecurus myosuroides Huds.)",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Germinated and grown in 10 cm diameter polystyrene pots with John Innes No. 3 compost. Grown in heated greenhouse at 22\u00b12\u00b0C under fluorescent lights for 14 h/day. After emergence, thinned to 2 plants per pot",
+                "Chemical Preparation": "14C-isoproturon dissolved in 40% aqueous acetone, further diluted with water 1 g/L Tween 20 (polyoxyethylene sorbitan monolaurate) surfactant added",
+                "Pesticide Application Details for the Plant": "Two 2 \u03bcL droplets of 14C-isoproturon solution (2.5 \u03bcg, 0.05 \u03bcCi) applied to mid-laminar area on adaxial surface on either side of midrib. After treatment, plants transferred to growth chamber (20\u00b10.5\u00b0C, 150 \u03bcE/cm2/h for 14 h, 70\u00b15% RH). For excised leaf studies, leaves cut at base and placed in Nitsch's medium, lower half darkened",
+                "Other Information": "Excised leaf systems analyzed for 14C distribution after 7 days. Nutrient solution also tested for 14C activity"
+            },
+            "result": "[{\"Plant\": \"Wheat\", \"Surface residue (% of applied)\": 55.3, \"Treated portion of the leaf (%)\": 17.6, \"Xylem translocation (%)\": 8.9, \"Phloem translocation (%)\": 0.8}, {\"Plant\": \"Blackgrass\", \"Surface residue (% of applied)\": 32.0, \"Treated portion of the leaf (%)\": 21.4, \"Xylem translocation (%)\": 25.5, \"Phloem translocation (%)\": 2.6}]"
+        }
+    ]
+}

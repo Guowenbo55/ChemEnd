@@ -1,0 +1,157 @@
+{
+    "_id": {
+        "$oid": "6682e8d5c4e5dba5ffba2795"
+    },
+    "CID": {
+        "$numberInt": "9298"
+    },
+    "Name": "RONNEL",
+    "IUPACName": "dimethoxy-sulfanylidene-(2,4,5-trichlorophenoxy)-lambda5-phosphane",
+    "CanonicalSMILES": "COP(=S)(OC)OC1=CC(=C(C=C1Cl)Cl)Cl",
+    "Synonyms": [
+        "Fenchlorphos",
+        "RONNEL",
+        "299-84-3",
+        "Fenclofos",
+        "Fenchlorfos",
+        "Dermafos",
+        "Etrolene",
+        "Blitex",
+        "Ectoral",
+        "Korlan",
+        "Korlane",
+        "Nanchor",
+        "Nankor",
+        "Remelt",
+        "Trolene"
+    ],
+    "IsomericSMILES": "COP(=S)(OC)OC1=CC(=C(C=C1Cl)Cl)Cl",
+    "INCHI": "InChI=1S/C8H8Cl3O3PS/c1-12-15(16,13-2)14-8-4-6(10)5(9)3-7(8)11/h3-4H,1-2H3",
+    "INCHIKEY": "JHJOOSLFWRRSGU-UHFFFAOYSA-N",
+    "Formula": "C8H8Cl3O3PS",
+    "MolecularWeight": {
+        "$numberDouble": "321.5"
+    },
+    "Description": "Fenchlorphos is an organic thiophosphate.",
+    "XlogP": {
+        "$numberDouble": "5.1"
+    },
+    "Complexity": {
+        "$numberInt": "273"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington,DC: Amer Chem Soc p. 5-5 (1990) (2) De Bruijn J, Hermens J; Environ Toxicol Chem 10: 791-804 (1991) (3) Hansch C, Leo AJ; Medchem Project Issue No.26 Claremont, CA: Pomona College (1985) (4) Kenaga EE; Ecotox Environ Safety 26-38 (1980)",
+            "Value": "In a continuous flow-through system, the equilibrium bioconcentration factor (BCF) for ronnel in the guppy (Poecilia reticulata) was 43650 on the lipid weight basis(2). Based on a regression equation(1) and a log Kow value of 4.98(3), a whole-body BCF value of 3588 is estimated for ronnel(SRC). Therefore, bioconcentration of ronnel in aquatic organisms may be an important fate process(4,SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Yasuno N et al; Japan J Exp Med 35: 545-63 (1965) (2) Paris DF, Rogers JE; Appl Environ Microbiol 51: 221-5 (1986)",
+            "Value": "Strains of microorganisms, Bacillus subtilis isolated from polluted water samples, completely degraded 8 ppm ronnel solution in less than 6 days(1). The mean of second order rate constant for microbial transformation of ronnel in natural river and pond waters was estimated to be 1.9X10-11 l/organisms-hr(2). Assuming that the concentration of microorganisms to be constant at 1.8X10+8 organisms/l(2), the half-life for the pseudo first order biotransformation rate can be estimated as 8.4 days(SRC). In a natural water sample, the biodegradation of ronnel showed a lag period of greater than 3 days. When a natural water sample was amended with inorganic nutrients (nitrogen, phosphorus, and traces of iron and magnesium), the lag period decreased by about 45% and of biodegradation half-life decreased to about half the value of an unamended solution(2)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Porte C et al; Chemosphere 24: 735-43 (1992)",
+            "Value": "Ronnel was detected in the muscular tissue of the mosquito fish (Gambusia affinis) from a rice crop field at Erbo Delta, Spain(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 40",
+            "Value": "log Kow= 5.07"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Booth, N.H., L.E. McDonald (eds.). Veterinary Pharmacology and Therapeutics. 5th ed. Ames, Iowa: Iowa State University Press, 1982., p. 987",
+            "Value": "MOST ... /ORGANOPHOSPHATE PESTICIDES/ ARE NOT POTENT INHIBITORS OF ESTERASES UNTIL THEY ARE ACTIVATED IN LIVER ... BY MICROSOMAL OXIDATIVE ENZYMES. /ORGANOPHOSPHORUS PESTICIDES/"
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 4833",
+            "Value": "Ronnel is a weak inhibitor of cholinesterase. It affects the pseudoesterase of the plasma predominantly, rather than the true acetylcholinesterase of the red blood cells, upon both single and repeated oral doses."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the Threshold Limit Values and Biological Exposure Indices. 5th ed. Cincinnati, OH: American Conference of Governmental Industrial Hygienists, 1986., p. 513",
+            "Value": "RONNEL IS AN INDIRECT CHOLINESTERASE INHIBITOR WHOSE OXYGEN ANALOG IS RELATIVELY WEAK INHIBITOR WHICH SEEMS TO AFFECT PRIMARILY THE PSEUDOESTERASES OF BLOOD PLASMA RATHER THAN RED CELL ACETYLCHOLINESTERASE."
+        },
+        {
+            "References": "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 150",
+            "Value": "ORAL DOSAGE OF CHICKENS WITH 100O MG/KG CAUSED SOME FATALITIES."
+        },
+        {
+            "References": "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 150",
+            "Value": "CHRONIC ORAL TOXICITY OF FENCHLORPHOS IS LOW. WHEN FED CONTINUOUSLY TO CALVES AT 5 MG/KG MILD TRANSITORY RESP CLINICAL SIGNS HAVE BEEN OBSERVED IN SOME ANIMALS; 20 MG/KG DAILY TO ADULT CATTLE PRODUCED ... SLIGHT DEPRESSION IN GROWTH RATE. LEVELS OF 0.05% (ABOUT 30 MG/KG DAILY) IN THE DIET OF PIGS RETARDED GROWTH SLIGHTLY OVER A 16 DAY PERIOD. DOGS GIVEN ORAL DOSES OF UP TO 10 MG/KG/DAY SHOWED NO SIGNS OF POISONING ALTHOUGH THERE WAS A SIGNIFICANT DEPRESSION OF PLASMA CHOLINESTERASE."
+        },
+        {
+            "References": "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 150",
+            "Value": "CUTANEOUS TOXICITY IS ... LOW ... . PROLONGED CONTACT WITH SKIN MAY CAUSE IRRITATION."
+        },
+        {
+            "References": "Booth, N.H., L.E. McDonald (eds.). Veterinary Pharmacology and Therapeutics. 5th ed. Ames, Iowa: Iowa State University Press, 1982., p. 986",
+            "Value": "CATTLE ARE MORE SENSITIVE THAN SHEEP TO ... RONNEL."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the Threshold Limit Values and Biological Exposure Indices. 5th ed. Cincinnati, OH: American Conference of Governmental Industrial Hygienists, 1986., p. 513",
+            "Value": "Albino rats receiving 328 & 164 mg/kg developed clinical symptoms of poisoning including motor irritation, tremor, increased auditory & tactile sensitivity, lacrimation & hypersalivation within 2 wk, followed by some deaths in the later course of the study. No clinical symptoms were observed in rats receiving 16.4 & 8.2 mg/kg."
+        },
+        {
+            "References": "U.S. Department of the Interior, Fish and Wildlife Service. Handbook of Toxicity of Pesticides to Wildlife. Resource Publication 153. Washington, DC: U.S. Government Printing Office, 1984., p. 69",
+            "Value": "Signs of intoxication /in mallards & pheasants from acute oral admin/: ataxia, slowness, running & falling on side, tenseness, tremors, ptosis, & tetanic seizures. Signs appeared as soon as 1 day & mortalities usually occurred between 1 & 6 days after treatment."
+        },
+        {
+            "References": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. Old Woking, Surrey, United Kingdom: Royal Society of Chemistry/Unwin Brothers Ltd., 1983., p. A197/OCT 83",
+            "Value": "It is moderately toxic to bees with the exception of direct contact, /when it is very toxic/."
+        },
+        {
+            "References": "Booth, N.H., L.E. McDonald (eds.). Veterinary Pharmacology and Therapeutics. 5th ed. Ames, Iowa: Iowa State University Press, 1982., p. 988",
+            "Value": "LETHAL AMOUNTS OF ORGANOPHOSPHATES CAUSE DEATH BY A COMBINATION OF EFFECTS OF MUSCARINIC, NICOTINIC, & CENTRAL CHOLINERGIC OVERSTIMULATION &/OR RECEPTOR PARALYSIS. THUS HYPOTENSION, BRADYCARDIA, BRONCHOCONSTRICTION & BRONCHIAL FLUID ACCUM, INABILITY OF TONICALLY RIGID (OR FLACCID-PARALYTIC) RESP MUSCLES TO WORK PROPERLY, CYANOSIS & CENTRAL RESP DEPRESSION ARE MANIFESTED. ANIMAL DIES OF ASPHYXIA. FROM THIS IT WOULD SEEM THAT ORGANOPHOSPHATES SHOULD BE CLASSIFIED UNDER POISONS CAUSING ... SIGNS OF RESP INSUFFICIENCY. ... IN PRACTICE, HOWEVER,THE OUTSTANDING CLINICAL SIGNS SEEN IN HERD OUTBREAKS & IN AMBULATORY ANIMALS ARE GENERALLY THOSE OF BEHAVIORAL, MOTOR, & MUSCLE STIMULATION. /ORGANOPHOSPHATE PESTICIDES/"
+        },
+        {
+            "References": "Booth, N.H., L.E. McDonald (eds.). Veterinary Pharmacology and Therapeutics. 5th ed. Ames, Iowa: Iowa State University Press, 1982., p. 990",
+            "Value": "SIGNS OF MUSCARINIC CHOLINERGIC OVERSTIMULATION INCLUDE PROFUSE SALIVATION; LACRIMATION; SEROUS OR SEROMUCOUS NASAL DISCHARGE; INCREASED RESPIRATORY SOUNDS ... COLIC, & DIARRHEA ... PUPIL CONSTRICTION, SWEATING, COUGHING; VOMITING ... FREQUENT URINATION. ... CENTRAL NERVOUS SIGNS ATTRIBUTABLE TO ACETYLCHOLINE ACCUM INCLUDE APPARENT ANXIETY, RESTLESSNESS, & HYPERACTIVITY THAT MAY OR MAY NOT PROCEED TO ... CONVULSIVE ACTIVITY. /ORGANOPHOSPHATE PESTICIDES/"
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the Threshold Limit Values and Biological Exposure Indices. 5th ed. Cincinnati, OH: American Conference of Governmental Industrial Hygienists, 1986., p. 513",
+            "Value": "A two yr study in dogs at 10 mg/kg/day revealed no hematologic nor blood biochemical findings other than cholinesterase depletion. Organ weights and tissue examinations were normal."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the Threshold Limit Values and Biological Exposure Indices. 5th ed. Cincinnati, OH: American Conference of Governmental Industrial Hygienists, 1986., p. 513",
+            "Value": "Rats fed ronnel in their diets in concn of as much as 50 mg/kg/day for two years did not show any differences from controls in growth rate, food consumption, mortality rate or hematopoiesis."
+        },
+        {
+            "References": "Shepard, T.H. Catalog of Teratogenic Agents. 5th ed. Baltimore, MD: The Johns Hopkins University Press, 1986., p. 504",
+            "Value": "/Ronnel/ ... was administered by gavage in doses of 400, 600 and 800 mg/kg to /pregnant/ rats on days 6 through 15. Extra ribs were incr in 600 and 800 mg groups but fetal weight was not decr."
+        },
+        {
+            "References": "Shepard, T.H. Catalog of Teratogenic Agents. 5th ed. Baltimore, MD: The Johns Hopkins University Press, 1986., p. 504",
+            "Value": "/Investigators/ ... gave 100 mg/kg /ronnel/ to pregnant foxes and found fetuses with facial clefts, hydrocephalus and renal defects. Reduction of granular layer of the cerebellum was found."
+        },
+        {
+            "References": "Zenz, C. Occupational Medicine-Principles and Practical Applications. 2nd ed. St. Louis, MO: Mosby-Yearbook, Inc, 1988., p. 674",
+            "Value": "Application of small amounts of powder into the eyes of rabbits produced small discomfort and transient conjunctival irritation, subsiding in 48 hr."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "Martin, H. and C.R. Worthing (eds.). Pesticide Manual. 4th ed. Worcestershire, England: British Crop Protection Council, 1974., p. 268",
+            "Value": "IT IS NON-PERSISTENT IN SOILS."
+        },
+        {
+            "References": "(1) Glooschenko WA et al; Pestic Monit J 10: 61-7 (1976) (2) Carey AE et al; Pestic Monit J 12: 209-29 (1979)",
+            "Value": "At a detection limit of 0.001 ppm, ronnel was not detected in sediment samples collected from the upper Great Lakes in 1974(1). In 1972, ronnel was detected in 1 of 1,483 cropland soil samples collected from 37 states at a concn of 0.19 ppm(2)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C, Leo AJ; Medchem Project Issue No.26 Claremont, CA: Pomona College(1985) (2) Suntio LR et al; Rev Environ Contam Toxicol 103: 1-59 (1988) (3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington,DC: Amer Chem Soc p. 4-9 (1990) (4) Swann RL et al; Res Rev 85: 17-28 (1983) (5) Macalady DL, Wolfe NL; J Agric Food Chem 33: 167-73 (1985)",
+            "Value": "Based on regression equations(3), log Koc values of 3.64 and 4.09 are estimated assuming a water solubility of 1 mg/l at 20 \u00b0C(2) and a log Kow value of 4.98(1), respectively(SRC). These log Koc values indicate that ronnel would have a very low mobility in soil(4). Conversely, ronnel would remain strongly adsorbed to sediment and suspended solids in water(SRC). In sediment from Mississippi River that contained 1.4% organic carbon, 96% of ronnel was found in the sediment-sorbed phase(5)."
+        }
+    ]
+}

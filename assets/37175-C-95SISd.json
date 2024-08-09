@@ -1,0 +1,66 @@
+{
+    "_id": {
+        "$oid": "6682e97ac4e5dba5ffba2ad0"
+    },
+    "CID": {
+        "$numberInt": "37175"
+    },
+    "Name": "IMAZALIL",
+    "IUPACName": "1-[2-(2,4-dichlorophenyl)-2-prop-2-enoxyethyl]imidazole",
+    "CanonicalSMILES": "C=CCOC(CN1C=CN=C1)C2=C(C=C(C=C2)Cl)Cl",
+    "Synonyms": [
+        "IMAZALIL",
+        "Enilconazole",
+        "35554-44-0",
+        "Deccozil",
+        "Bromazil",
+        "Fungaflor",
+        "Imaverol",
+        "Clinafarm",
+        "Chloramizol",
+        "Florasan",
+        "Fungazil",
+        "Magnate",
+        "Eniloconazol (SP)",
+        "Deccozil S 75",
+        "NuZone"
+    ],
+    "IsomericSMILES": "C=CCOC(CN1C=CN=C1)C2=C(C=C(C=C2)Cl)Cl",
+    "INCHI": "InChI=1S/C14H14Cl2N2O/c1-2-7-19-14(9-18-6-5-17-10-18)12-4-3-11(15)8-13(12)16/h2-6,8,10,14H,1,7,9H2",
+    "INCHIKEY": "PZBPKYOVPCNPJY-UHFFFAOYSA-N",
+    "Formula": "C14H14Cl2N2O",
+    "MolecularWeight": {
+        "$numberDouble": "297.2"
+    },
+    "Description": "1-[2-(allyloxy)-2-(2,4-dichlorophenyl)ethyl]imidazole is a member of the class of imidazoles in which the hydrogen at position 1 is replaced by a 2-(allyloxy)-2-(2,4-dichlorophenyl)ethyl group. It is a member of imidazoles, an ether and a dichlorobenzene.",
+    "XlogP": {
+        "$numberDouble": "3.8"
+    },
+    "Complexity": {
+        "$numberInt": "291"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Castillo LE et al; Environ Toxicol Chem 19: 1942-1950 (2000)",
+            "Value": "SEDIMENT: Imazalil was detected in 13 out of 25 sediment samples of the Suerte River Basin, Costa Rica (1993-1997 sampling) at levels of 175-960 ug/kg (mean 446 ug/kg)(1)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "In this study, the research investigated the movement of imazalil, a chiral pesticide, within Phragmites australis, commonly known as common reed. It was found that imazalil displayed selective movement within the plant. The experiment revealed that R-imazalil, one of the enantiomers (mirror image molecules), was translocated faster than its counterpart, S-imazalil, indicating a difference in their movement rates from the roots to the aerial parts of the plant. However, after day 5, the enantioselectivity of imazalil's degradation within the plant became less conclusive, suggesting that the direction of this selectivity was uncertain. Additionally, the study detected transformation products of imazalil (imazalil-257 and imazalil-331) both in the solution and within the plant tissues. This research showcased the complex movement and transformation of imazalil within Phragmites australis, highlighting the importance of understanding the specific movement and transformation processes of pesticides within plant species for effective phytoremediation applications.",
+            "reference": "Lv, T., Carvalho, P. N., Casas, M. E., Bollmann, U. E., Arias, C. A., Brix, H., & Bester, K. (2017). Enantioselective uptake, translocation and degradation of the chiral pesticides tebuconazole and imazalil by  Phragmites australis. Environmental Pollution, 229, 362\u2013370. doi:10.1016/j.envpol.2017.06.017\u00a0",
+            "method": {
+                "Test Plant": "Phragmites australis (common reed)",
+                "Apply Location": "Hydroponic solution",
+                "Plant Grown Condition": "Similar size (6.0 \u00b1 0.2 g fresh biomass), The plants were placed in 700 mL glass vessels with their stems mounted in the lids of these glass vessels using soft polyethylene foam while ensuring that all roots were submerged in 500 mL of hydroponic solution.",
+                "Chemical Preparation": "Tebuconazole (10 mg/L), Imazalil (10 mg/L)",
+                "Pesticide Application Details for the Plant": "Tebuconazole (n = 27), Imazalil (n = 27), Solution control (spiked with 10 mg/L tebuconazole and 10 mg/L imazalil, n = 9), Plant control (plants in solution without pesticides, n = 6). Sampling of the solutions and plants were carried out on days 0, 0.5, 1, 2, 5, 10, 15, 20 and 24 after spiking the vessels with the respective pesticides.",
+                "Other Information": "-"
+            },
+            "result": "[{\"Days after application\": 0.5, \"Shoot (ug/L)\": 0.6, \"Root (ug/L)\": 0.7, \"Solution (ug/L)\": 6.8}, {\"Days after application\": 1.0, \"Shoot (ug/L)\": 0.7, \"Root (ug/L)\": 0.75, \"Solution (ug/L)\": 6.5}, {\"Days after application\": 2.0, \"Shoot (ug/L)\": 0.8, \"Root (ug/L)\": 2.0, \"Solution (ug/L)\": 5.3}, {\"Days after application\": 5.0, \"Shoot (ug/L)\": 1.2, \"Root (ug/L)\": 3.0, \"Solution (ug/L)\": 1.8}, {\"Days after application\": 10.0, \"Shoot (ug/L)\": 1.15, \"Root (ug/L)\": 1.2, \"Solution (ug/L)\": 2.0}, {\"Days after application\": 15.0, \"Shoot (ug/L)\": 1.0, \"Root (ug/L)\": 1.1, \"Solution (ug/L)\": 0.0}, {\"Days after application\": 20.0, \"Shoot (ug/L)\": 0.2, \"Root (ug/L)\": 0.22, \"Solution (ug/L)\": 0.1}]"
+        }
+    ]
+}

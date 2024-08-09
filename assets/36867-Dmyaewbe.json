@@ -1,0 +1,79 @@
+{
+    "_id": {
+        "$oid": "6692711a303528b49832d7ed"
+    },
+    "CID": {
+        "$numberInt": "36867"
+    },
+    "Name": "Orbencarb",
+    "IUPACName": "S-[(2-chlorophenyl)methyl] N,N-diethylcarbamothioate",
+    "CanonicalSMILES": "CCN(CC)C(=O)SCC1=CC=CC=C1Cl",
+    "Synonyms": [
+        "Orbencarb",
+        "34622-58-7",
+        "Lanray",
+        "ORTHOBENCARB",
+        "Orbencarb [ISO]",
+        "S-(2-Chlorobenzyl)-N,N-diethylthiolcarbamate",
+        "B 3356",
+        "BRN 1968914",
+        "Diethylthiocarbamic acid S-(o-chlorobenzyl) ester",
+        "S-[(2-chlorophenyl)methyl] N,N-diethylcarbamothioate",
+        "Carbamic acid",
+        "diethylthio-",
+        "S-(o-chlorobenzyl) ester",
+        "2AZ38X9JHS",
+        "Carbamothioic acid",
+        "diethyl-",
+        "S-((2-chlorophenyl)methyl) ester",
+        "UNII-2AZ38X9JHS",
+        "Carbamothioic acid",
+        "diethyl-",
+        "S-[(2-chlorophenyl)methyl] ester"
+    ],
+    "IsomericSMILES": "CCN(CC)C(=O)SCC1=CC=CC=C1Cl",
+    "INCHI": "InChI=1S/C12H16ClNOS/c1-3-14(4-2)12(15)16-9-10-7-5-6-8-11(10)13/h5-8H,3-4,9H2,1-2H3",
+    "INCHIKEY": "LLLFASISUZUJEQ-UHFFFAOYSA-N",
+    "Formula": "C12H16ClNOS",
+    "MolecularWeight": {
+        "$numberDouble": "257.78"
+    },
+    "Description": "Orbencarb is a monothiocarbamic ester that is carbamothioic S-acid substituted by two ethyl groups at the nitrogen atom and a 2-chlorobenzyl group at the the sulfur atom. It has a role as a xenobiotic, an environmental contaminant and a herbicide. It is a member of monochlorobenzenes and a monothiocarbamic ester.",
+    "XlogP": {
+        "$numberDouble": "3.4"
+    },
+    "Complexity": {
+        "$numberInt": "221"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The study on soybean plants revealed that the absorption and translocation of 14C-orbencarb increased with plant growth stages, with the highest absorption occurring in leaves and the lowest in seeds. At flowering, green seed, and mature stages, plants absorbed 0.8%, 9.3%, and 9.1% of the applied radioactivity, respectively. 14C-Orbencarb was rapidly converted into water-soluble metabolites, with major metabolites being 2-chlorobenzyl alcohol and 2-chlorobenzoic acid in free and conjugated forms, along with 2-chlorobenzylsulfonic acid and methyl 2-chlorobenzylsulfone. Minor metabolites included orbencarb sulfoxide, monodesethyl-orbencarb, didesethyl-orbencarb, orbencarb, 4-hydroxy-orbencarb, 5-hydroxy-orbencarb, N-ethyl-N-vinyl, and methyl 2-chlorobenzylsulfoxide.",
+            "reference": "\u6c60\u7530\u5149\u653f, \u53f3\u5185\u5fe0\u662d, & \u5bcc\u6fa4\u9577\u6b21\u90ce. (1986). Absorption, translocation and metabolism of orbencarb in soybean plants. Journal of Pesticide Science, 11(1), 97-110.",
+            "method": {
+                "Test Plant": "Soybean (Glycine max var. ENREY)",
+                "Apply Location": "Soil application",
+                "Plant Grown Condition": "Soybean seeds planted 3 cm deep in unglazed pots (27 cm diameter, 23 cm height) filled with 8.5 kg of volcanic ash soil from Nagano. Initially 6 seeds per pot, thinned to 3 healthy seedlings after emergence. Grown under greenhouse conditions, maintaining suitable soil moisture.",
+                "Chemical Preparation": "14C-orbencarb labeled uniformly at the benzene ring, with specific activity adjusted to 2.39 mCi/mmol and radiochemical purity 99.8%. A 2850 ppm water emulsion prepared by dissolving 344.9 mg (3.2 mCi) 14C-orbencarb and 345 mg emulsifier in 120 mL water.",
+                "Pesticide Application Details for the Plant": "For main experiment, 10 mL of the 2850 ppm 14C-orbencarb emulsion applied uniformly to soil surface immediately after seeding, followed by 20 mL water (5 kg ai/ha).",
+                "Other Information": "Main experiment plants harvested 1, 3, 7, 12, 15, 19, 30 (flowering), 62 (green seed), and 84 (mature stage) days after seeding."
+            },
+            "result": "[{\"Days after application\": 1, \"Root (ppm)\": \"-\", \"Stem and hypocotyl (ppm)\": \"-\", \"Cotyledom (ppm)\": \"0.01\", \"Primary leaf (ppm)\": \"-\", \"First true leaf (ppm)\": \"-\", \"Second true leaf (ppm)\": \"-\", \"Third true leaf (ppm)\": \"-\", \"Shoot apex (ppm)\": \"-\"}, {\"Days after application\": 3, \"Root (ppm)\": \"-\", \"Stem and hypocotyl (ppm)\": \"0.11\", \"Cotyledom (ppm)\": \"1.21\", \"Primary leaf (ppm)\": \"-\", \"First true leaf (ppm)\": \"-\", \"Second true leaf (ppm)\": \"-\", \"Third true leaf (ppm)\": \"-\", \"Shoot apex (ppm)\": \"-\"}, {\"Days after application\": 7, \"Root (ppm)\": \"4.45\", \"Stem and hypocotyl (ppm)\": \"7.99\", \"Cotyledom (ppm)\": \"1.08\", \"Primary leaf (ppm)\": \"2.40\", \"First true leaf (ppm)\": \"-\", \"Second true leaf (ppm)\": \"-\", \"Third true leaf (ppm)\": \"-\", \"Shoot apex (ppm)\": \"-\"}, {\"Days after application\": 12, \"Root (ppm)\": \"6.61\", \"Stem and hypocotyl (ppm)\": \"3.17\", \"Cotyledom (ppm)\": \"2.08\", \"Primary leaf (ppm)\": \"4.14\", \"First true leaf (ppm)\": \"1.24\", \"Second true leaf (ppm)\": \"-\", \"Third true leaf (ppm)\": \"-\", \"Shoot apex (ppm)\": \"1.33\"}, {\"Days after application\": 15, \"Root (ppm)\": \"14.18\", \"Stem and hypocotyl (ppm)\": \"7.14\", \"Cotyledom (ppm)\": \"1.78\", \"Primary leaf (ppm)\": \"5.95\", \"First true leaf (ppm)\": \"1.86\", \"Second true leaf (ppm)\": \"1.48\", \"Third true leaf (ppm)\": \"-\", \"Shoot apex (ppm)\": \"2.00\"}, {\"Days after application\": 19, \"Root (ppm)\": \"18.30\", \"Stem and hypocotyl (ppm)\": \"5.24\", \"Cotyledom (ppm)\": \"-\", \"Primary leaf (ppm)\": \"7.37\", \"First true leaf (ppm)\": \"2.51\", \"Second true leaf (ppm)\": \"1.98\", \"Third true leaf (ppm)\": \"0.99\", \"Shoot apex (ppm)\": \"1.07\"}]"
+        },
+        {
+            "content": "The study on cotton plants demonstrated that the absorption and translocation of 14C-orbencarb increased over time when applied to the soil surface. Topical application to a leaf or stem of cotton seedlings resulted in the translocation of radioactivity throughout the plant. At the mature stage, 3.4% of the applied radioactivity was absorbed by the plants, with 0.1% found in the seeds and 44.6% remaining in the soil. 14C-Orbencarb was rapidly metabolized in both the cotton plants and soil, gradually transforming into water-soluble metabolites. Major metabolites included methyl 2-chlorobenzyl sulfone, monodesethyl-orbencarb, 2-chlorobenzyl alcohol, and 2-chlorophenylmethanesulfonic acid, while minor metabolites were methyl 2-chlorobenzyl sulfoxide, didesethyl-orbencarb, and 2-chlorobenzoic acid, in free or conjugated forms.",
+            "reference": "\u6c60\u7530\u5149\u653f, \u53f3\u5185\u5fe0\u662d, & \u5bcc\u6fa4\u9577\u6b21\u90ce. (1986). Absorption, translocation and metabolism of the herbicide orbencarb in cotton plant. Journal of Pesticide Science, 11(3), 379-385.",
+            "method": {
+                "Test Plant": "Cotton (Gossypium spp.)",
+                "Apply Location": "stem application",
+                "Plant Grown Condition": "seedlings grown separately in 15 cm diameter pots until 3rd true leaf stage.",
+                "Chemical Preparation": "14C-orbencarb labeled uniformly on benzene ring, specific activity 2.39 mCi/mmol, 99.8% radiochemical purity. 2850 ppm water emulsion prepared by dissolving 344.9 mg (3.2 mCi) 14C-orbencarb and 345 mg non-ionic emulsifier in 120 mL water.",
+                "Pesticide Application Details for the Plant": "50 \u03bcL emulsion applied to entire upper surface of 1st or 3rd true leaf.",
+                "Other Information": "-"
+            },
+            "result": "[{\"Seed (% of applied)\": 0.1, \"Pod (%)\": 0.1, \"Cotton fiber (%)\": 0.1, \"Calyx (%)\": 0.1, \"Leaf (%)\": 0.8, \"Fallen leaf (%)\": 1.7, \"Petiole (%)\": 0.1, \"Stem (%)\": 0.3, \"Root (%)\": 0.3}]"
+        }
+    ]
+}

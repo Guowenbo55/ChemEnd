@@ -1,0 +1,97 @@
+{
+    "_id": {
+        "$oid": "6682e7d2c4e5dba5ffba2281"
+    },
+    "CID": {
+        "$numberInt": "297"
+    },
+    "Name": "METHANE",
+    "IUPACName": "methane",
+    "CanonicalSMILES": "C",
+    "Synonyms": [
+        "02329_FLUKA",
+        "0CB689EE-132E-4559-A597-C79A40192203",
+        "14493-06-2",
+        "150036-83-2",
+        "295477_ALDRICH",
+        "3B4-2254",
+        "463035_ALDRICH",
+        "490210_ALDRICH",
+        "74-82-8",
+        "8006-14-2",
+        "AC1L18XA",
+        "AC1Q2825",
+        "AG-E-08601",
+        "AKOS005166816",
+        "AR-1A0383"
+    ],
+    "IsomericSMILES": "C",
+    "INCHI": "InChI=1S/CH4/h1H4",
+    "INCHIKEY": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+    "Formula": "CH4",
+    "MolecularWeight": {
+        "$numberDouble": "16.043"
+    },
+    "Description": "Methane is a one-carbon compound in which the carbon is attached by single bonds to four hydrogen atoms. It is a colourless, odourless, non-toxic but flammable gas (b.p. -161??). It has a role as a fossil fuel, a member of greenhouse gas and a bacterial metabolite. It is a mononuclear parent hydride, a one-carbon compound, a gas molecular entity and an alkane. It is a conjugate acid of a methanide.",
+    "XlogP": {
+        "$numberDouble": "0.6"
+    },
+    "Complexity": {
+        "$numberInt": "0"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 3 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Nov 6, 2013: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm/ (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 2 was calculated in fish for methane(SRC), using a log Kow of 1.09(1) and a regression-derived equation(1). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Brisbane PG, Ladd JN; J Gen Appl Microbiol 14: 447-50 (1968) (2) Bopp RF et al; Org Geochem 3: 9-14 (1981)",
+            "Value": "ANAEROBIC: Utilization of methane by soil microorganisms has been detected using five enriched soil samples collected from sites near Adelaide, South Australia; an average methane utilization of 55% was observed over 69 days. Methane utilization, expressed as % of control were as follows (value (soil type): 10 (litchfield podzolic, pH 5.9, 14% clay, 2.3% organic carbon, 17% moisture); 73 (pond mud, pH 7.9, 49% clay, 2.5% organic carbon, 126% moisture3); 55 (red brown earth, pH 7.7, 16% clay, 2.4% organic carbon, 8% moisture); 61 (Grey clay, pH 8.0, 36% clay, 3.1% organic carbon, 41% moisture); 75 (siliceous sands, pH 5.1, 5% clay, 2.4% organic carbon, 19% moisture)(1). The half-life of methane was estimated to range from 70 days to infinity based on gas exchange biodegradation experiments conducted in model estuarine ecosystems; inoculum sediments were obtained from Narragansett Bay, RI(2)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 3",
+            "Value": "log Kow = 1.09"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Rom, W.N. (ed.). Environmental and Occupational Medicine. 2nd ed. Boston, MA: Little, Brown and Company, 1992., p. 536",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Because it is biologically inert, Toxicity occurs only when its presence reduces or eliminates the oxygen in the environment. Rabbits can inhale a mixture of one volume of oxygen and four volumes of methane for any length of time without showing any ill effects."
+        },
+        {
+            "References": "Shepard, T.H. Catalog of Teratogenic Agents. 5th ed. Baltimore, MD: The Johns Hopkins University Press, 1986., p. 371",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ...Pregnant mice /were exposed/ on the 8th day for 1 hr to 5-8% concentration of fuel gas. In addition to 85% methane most natural gases contain small amounts of ethane, propane and butane. Abnormalities of the fetal brains were found to result in brain hernia and hydrocephalus."
+        },
+        {
+            "References": "PMID:20944432",
+            "Value": "/OTHER TOXICITY INFORMATION/ The inhibitory action of compressed hydrocarbon gases on the growth of the yeast Saccharomyces cerevisiae was investigated quantitatively by microcalorimetry.  Both the 50% inhibitory pressure (IP(50)) and the minimum inhibitory pressure (MIP), which are regarded as indices of the toxicity of hydrocarbon gases, were determined from growth thermograms.  Based on these values, the inhibitory potency of the hydrocarbon gases increased in the order methane << ethane < propane < i-butane < n-butane. The toxicity of these hydrocarbon gases correlated to their hydrophobicity, suggesting that hydrocarbon gases interact with some hydrophobic regions of the cell membrane. In support of this, /the authors/ found that UV absorbing materials at 260 nm were released from yeast cells exposed to compressed hydrocarbon gases.  Additionally, scanning electron microscopy indicated that morphological changes occurred in these cells."
+        },
+        {
+            "References": "Lewis, R.J. Sr. (ed) Sax's Dangerous Properties of Industrial Materials. 11th Edition. Wiley-Interscience, Wiley & Sons, Inc. Hoboken, NJ. 2004., p. 2331",
+            "Value": "/OTHER TOXICITY INFORMATION/ A simple asphyxiant."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "Burke RA et al; Global Biogeochem Cycles 2 (4): 329-40 (1988)",
+            "Value": "SEDIMENT: Methane flux and the stable isotopic composition of sedimentary methane were measured at four locations in the Florida Everglades system. Individual estimates of methane flux ranged over more than 3 orders of magnitude, from about 0.001 to 2.6 mg/sq m/day. Significant interstation differences in total methane flux were observed and judged to be most likely due to differences in the size and spacing of emergent aquatic vegetation, and possibly differences in the type of organic matter incorporated into the sediments. The C(13) mean delta of sedimentary methane samples measured in the Everglades system (61.7 parts per trillion, standard deviation = 3.6 parts per trillion, n = 51) was not significantly different from the estimated C(13) average delta of all natural sources (-58.3 parts per trillion)."
+        },
+        {
+            "References": "Kvenvolden KA, Redden GD; Geochim Cosmochim ACTA 44: 1145-50 (1980)",
+            "Value": "SEDIMENT: Methane has been detected in sediment from the shelf, slope, and basin of the Bering Sea at concentrations ranging from 1300 to 13000 nL/L, 700 to 8400 nL/L, and 300 to 21000 nL/L, respectively."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 3 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Nov 6, 2013: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Daubert TE, Danner RP; Physical and Thermodynamic Properties of Pure Chemicals: Evaluated Process Design Data. Philadelphia, PA: Taylor and Francis (1999)",
+            "Value": "The Koc of methane is estimated as 9(SRC), using a log Kow of 1.09(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that methane is expected to have very high mobility in soil. Methane's vapor pressure of 4.7X10+5 mm Hg(4) suggests that this compound will permeate through soil(SRC)."
+        }
+    ]
+}

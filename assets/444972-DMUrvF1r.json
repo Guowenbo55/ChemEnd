@@ -1,0 +1,236 @@
+{
+    "_id": {
+        "$oid": "6682e99cc4e5dba5ffba2b7b"
+    },
+    "CID": {
+        "$numberInt": "444972"
+    },
+    "Name": "Fumaric acid",
+    "IUPACName": "(E)-but-2-enedioic acid",
+    "CanonicalSMILES": "C(=CC(=O)O)C(=O)O",
+    "Synonyms": [
+        "fumaric acid",
+        "110-17-8",
+        "trans-Butenedioic acid",
+        "Allomaleic acid",
+        "fumarate",
+        "Boletic acid",
+        "Lichenic acid",
+        "(2E)-but-2-enedioic acid",
+        "Tumaric acid",
+        "2-Butenedioic acid",
+        "trans-1,2-Ethylenedicarboxylic acid",
+        "(E)-2-Butenedioic acid",
+        "Allomalenic acid",
+        "But-2-enedioic acid",
+        "trans-2-Butenedioic acid"
+    ],
+    "IsomericSMILES": "C(=C/C(=O)O)\\C(=O)O",
+    "INCHI": "InChI=1S/C4H4O4/c5-3(6)1-2-4(7)8/h1-2H,(H,5,6)(H,7,8)/b2-1+",
+    "INCHIKEY": "VZCYOOQTPOCHFL-OWOJBTEDSA-N",
+    "Formula": "C4H4O4",
+    "MolecularWeight": {
+        "$numberDouble": "116.07"
+    },
+    "Description": "Fumaric acid is a butenedioic acid in which the C=C double bond has E geometry. It is an intermediate metabolite in the citric acid cycle. It has a role as a food acidity regulator, a fundamental metabolite and a geroprotector. It is a conjugate acid of a fumarate(1-).",
+    "XlogP": {
+        "$numberDouble": "-0.3"
+    },
+    "Complexity": {
+        "$numberInt": "119"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Valentao P et al; J Agric Food Chem 53: 3626-30 (2005)",
+            "Value": "Fumaric acid levels in six wild mushroom species, common to the Northeast and Beira Interior regions of Portugal, were as follows (mg/kg): Amanita caesarea and 43.19; Boletus edulis, 11.64-75.16; Gyroporus castaneus 74.65 ; Lactarius deliciosus, 13.18-237.56; Suillus collintus, 49.49-397.16; Xerocomus chrysenteron, 12.77. Samples were collected in 2003(1)."
+        },
+        {
+            "References": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Fumaric Acid. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of August 20, 2010: https://www.ars-grin.gov/duke/",
+            "Value": "Plants with the highest amount of Fumaric Acid(1). ",
+            "Table": "[{'Genus species': 'Averrhoa carambola L.', 'Common name(s)': 'Carambola, Star Fruit', 'Concentration': '0 - 3,100 ppm', 'Area of Plant': 'Fruit'}, {'Genus species': 'Capsella bursa-pastoris (L.) MEDICUS', 'Common name(s)': \"Shepard's Purse\", 'Concentration': '1,400 ppm', 'Area of Plant': 'Plant'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 8 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for fumaric acid(SRC), using a log Kow of 0.46(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Saito N, Nagao M; Okayama-Ken Kankyo Hoken Senta Nempo 2: 274-6 (1978) (2) Dore M et al; Trib Cebedeau 28: 3-11 (1975) (3) Heukelekian H, Rand MD; J Water Pollut Control Assoc 27: 1040-53 (1955) (4) Malaney GW, Gerhold RM; J Water Pollut Control Fed 41: R18-R33 (1969) (5) McKinney RE et al; Sewage Ind Wastes 28: 547-57 (1956)",
+            "Value": "AEROBIC: In river die-away studies using various natural waters, the degradation half-life of fumaric acid ranged from 1-15 days with faster degradation occurring in more polluted waters(1); degradation half-life in distilled water controls was 55 days(1). Using a microbe inoculum taken from three polluted surface waters, a 5 day Theoretical BOD of 34% was measured(2). Using a Warburg respirometer and a sewage inoculum, 5 day Theoretical BODs of 57-70% were measured at concentrations of 3.75-7.5 ppm(3). Fumaric acid, present at 500 ppm, had a Theoretical BOD of 1.7% after a 24-hr incubation period in a Warburg respirometer using an activated sludge inoculum(4). Using an activated sludge adapted to phenol, a theoretical BOD of 41% was measured after a 12 hr incubation period in a Warburg respirometer(5)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 8",
+            "Value": "log Kow = 0.46"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Fumaric acid (110-17-8) p.29 (2000  CD-ROM edition). Available from, as of February 25, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Guinea pig maximization test: not sensitizing"
+        },
+        {
+            "References": "Grant, W. M. Toxicology of the Eye. 2nd ed. Springfield, Illinois: Charles C. Thomas, 1974., p. 509",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Has been tested by application of a drop of 10% solution to the eyes of rabbits after mechanical removal of corneal epithelium to facilitate penetration, but it appeared to do no damage, and healing was similar to that in control eyes without fumaric acid."
+        },
+        {
+            "References": "PMID:2782199",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The nephrotoxic actions of high single oral doses of fumaric acid monoethylester have been investigated in the rat. 50 mg of this substance produced morphologic lesions of the glomeruli without reducing glomerular filtration rate. Following 100 mg, the lesions were more pronounced and glomerular filtration rate was diminished by about 40%. Despite hemorrhages in kidney cortex, the urines did not contain erythrocytes. Urinary protein was augmented in single cases only. 50 to 100 mg fumaric acid monoethylester induced a marked concentration defect after water deprivation. In parallel fumaric acid monoethylester reduced lactate production from glucose by kidney inner medulla in vitro. After in vivo applications, however, no morphologic lesions were found in this zone of the kidney. Fumaric acid monoethylester had no effect on oxygen consumption of kidney slices despite proximal tubular lesions observed histologically after 100 mg orally. Thus, 100 mg of fumaric acid monoethylester have distinct nephrotoxic effects in the rat."
+        },
+        {
+            "References": "EPA/Office of Pollution Prevention and Toxics; High Production Volume Information System (HPVIS) on Fumaric Acid (110-17-8). Available from, as of January 12, 2009: https://www.epa.gov/hpvis/index.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Range-finding toxicity tests were conducted in which five non-fasted /Sprague-Dawley/ male and female rats were given a single oral dose by gastric intubation of 100,000 mg/L (0.100 g/mL) of fumaric acid water. Rats were observed for 14 days and the number of mortalities counted. LD50 = 10,700 mg/kg bw (male rats), LD50 = 9,300 mg/kg bw (female rats). The 95% confidence limits were 7200-15800 mg/kg for males and 6300-13800 mg/kg for females."
+        },
+        {
+            "References": "EPA/Office of Pollution Prevention and Toxics; High Production Volume Information System (HPVIS) on Fumaric Acid (110-17-8). Available from, as of January 12, 2009: https://www.epa.gov/hpvis/index.html",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ A dose of 10 mg/kg injected intraperitoneally in /Wistar/ rats causes hepatotoxicity, tremors, and hypothermia. Larger doses produced extreme hypothermia, decrease in motor activity, diuresis, and gross evidence of severe hepatotoxicity."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Fumaric acid (110-17-8) p.31 (2000  CD-ROM edition). Available from, as of February 25, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Male New Zealand white rabbits, 15 animals/group, were fed fumaric acid (sodium salt) in the daily diet in a concentration of 6.9%, being equivalent to 5.0% of the organic acid, for 150 days. A control group was fed ground Rockland Rabbit Diet. Gross pathologic examinations were performed on 2 animals from each group after 30 days of feeding and on 1 animal from each group after 60 days. Organs were weighed, and the testes were subjected to histologic study. After 100 days, similar studies were performed on one half of the surviving rabbits, the liver and kidney being examined histologically in addition to the testes. After 150 days all surviving animals were sacrificed and gross and histologic studies were carried out. No effects on body weight, blood chemistry, and organ weights were observed. Gross and microscopic examination revealed no substance-related findings. No signs of testicular toxicity were observed. /Fumaric acid, sodium salt/"
+        },
+        {
+            "References": "FAO/WHO Joint Expert Committee on Food Additives; WHO Food Additives Series 9: Fumaric acid (1975). Available from, as of February 25, 2010: https://www.inchem.org/pages/jecfa.html",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Each of five rabbits received iv injections of 50-500 mg/kg sodium fumarate every second or third day for 10-32 days without any injurious effect on blood levels of non-protein nitrogen or creatinine, phensulfolphthalein excretion, or kidney and liver histology. /Sodium fumarate/"
+        },
+        {
+            "References": "FAO/WHO Joint Expert Committee on Food Additives; WHO Food Additives Series 9: Fumaric acid (1975). Available from, as of February 25, 2010: https://www.inchem.org/pages/jecfa.html",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Six rabbits received twice weekly ip injections of 60 mg/kg bw of sodium fumarate over 17-29 weeks. Swelling and congestion of the thyroids and atrophy of testes, with low hyaluronidase content, were found ... A further nine male rabbits received 60 mg/kg bw sodium fumarate every second day by ip injection for 150 days. By the end of the test period, gonadotropic activity of the serum, as well as estrogenic activity was detected. There was progressive testicular atrophy in all animals, resulting in disappearance of seminiferous epithelium and survival of Sertoli cells only. Chromophobe cells were increased in the pituitary. /Sodium fumarate/"
+        },
+        {
+            "References": "FAO/WHO Joint Expert Committee on Food Additives; WHO Food Additives Series 9: Fumaric acid (1975). Available from, as of February 25, 2010: https://www.inchem.org/pages/jecfa.html",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Fourteen rabbits were fed 320-2080 mg/kg bw of disodium fumarate daily for 28 days without any deaths. A further six rabbits received 2880-3680 mg/kg bw for 17 days with three deaths. Two rabbits were fed a daily diet containing 640 mg/kg bw for 36 days without consistent adverse effect on body weight, hematology, non-protein nitrogen or creatinine levels, or histopathological findings. /Disodium fumarate/"
+        },
+        {
+            "References": "FAO/WHO Joint Expert Committee on Food Additives; WHO Food Additives Series 9: Fumaric acid (1975). Available from, as of February 25, 2010: https://www.inchem.org/pages/jecfa.html",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... Four groups of 15 rabbits were fed diets containing 0 or 6.9% sodium fumarate (equivalent to 5% fumaric acid) for 150 days. There were no significant differences from controls in body weight gain, food consumption, mortality rate, blood counts, blood sugar, non-protein nitrogen level, and urine. Organ weights were not significantly different between the groups and histologic examination showed no adverse findings attributable to the diet. In particular, spermatogenesis and testicular structure were unaffected. /Sodium fumarate/"
+        },
+        {
+            "References": "EPA/Office of Pollution Prevention and Toxics; High Production Volume Information System (HPVIS) on Fumaric Acid (110-17-8). Available from, as of January 12, 2009: https://www.epa.gov/hpvis/index.html",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ In the first experiment 12 groups of 24 rats, equally divided between sexes, were fed /for 2 years/ on diets containing 0.1, 0.5, 0.8, and 1.2% fumaric acid. In the second experiment 6 groups of 12 male rats were fed /for 2 years/ on diets containing 0.5, 1.0, and 1.5% fumaric acid. Both experiments involved control groups. The animals weight and food consumption were measured at weekly intervals. Slightly increased mortality and increased incidence of testes degeneration were observed in rats fed 1.5% fumaric acid (approximately 750 mg/kg bw/day). Two rats receiving 1% or 0.5% had stomach inflammation. Microscopic pathological examination of the rats showed no major visceral damage at any level and only minor differences between control and treated animals."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Fumaric acid (110-17-8) p.30 (2000  CD-ROM edition). Available from, as of February 25, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 24 male and female Osborne-Mendel rats were fed 0.1, 0.5, 0.8, or 1.2% fumaric acid, and groups of 12 rats were fed 1.0 or 1.5% in the diet daily (free access to food) for 2 yr. A control group received commercial rat biscuits with 1% cod liver oil.  Increased mortality (10/12 animals died; control 6/12) and testes atrophy (details not reported) were seen at 1.5% fumaric acid in the diet (approx. 750 mg/kg bw/day). Two rats receiving diets with 1.0% or 0.5% fumaric acid showed phlegmonous gastritis, a condition not seen in any other group. Tumor incidence was not different among the various animal groups."
+        },
+        {
+            "References": "FAO/WHO Joint Expert Committee on Food Additives; WHO Food Additives Series 9: Fumaric acid (1975). Available from, as of February 25, 2010: https://www.inchem.org/pages/jecfa.html",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ 8 /guinea pigs/ were maintained on a diet containing 0%, 1% and 10% fumaric acid for one year without any adverse effect on growth."
+        },
+        {
+            "References": "FAO/WHO Joint Expert Committee on Food Additives; WHO Food Additives Series 9: Fumaric acid (1975). Available from, as of February 25, 2010: https://www.inchem.org/pages/jecfa.html",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Fumaric acid was fed to four groups of six young dogs at 0, 1, 3, and 5% of the diet for two years without adverse effect on body weight gain, development, hematology, blood sugar and urea levels, hemoglobin and urine. Organ weights and gross and histopathological examination of all principal organs and tissues revealed no effects attributable to the treatment."
+        },
+        {
+            "References": "FAO/WHO Joint Expert Committee on Food Additives; WHO Food Additives Series 9: Fumaric acid (1975). Available from, as of February 25, 2010: https://www.inchem.org/pages/jecfa.html",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Eight groups of 14 weanling rats were kept on diets containing 0, 0.1 and 1.0% fumaric acid and 1.38% sodium fumarate for one year (half the groups) or two years. No adverse effect was noted on rate of weight gain, hemoglobin, blood picture, calcium balance as shown by bone histology, or on the histology of liver, kidney, spleen, and stomach. /Sodium fumarate/"
+        },
+        {
+            "References": "PMID:6413745",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Fumaric acid (FA) was examined for its effect on hepatocarcinogenesis in rats fed 3-methyl-4'-(dimethylamino)azobenzene (3-Me-DAB). Male DONRYU rats were given approximately 0.5 g 3-Me-DAB by being fed a diet containing 0.06% 3-Me-DAB for 50 days; they were then given a diet containing 1% FA and drinking water containing 0.025% FA for 51 weeks. The administration of FA effectively suppressed the development of hepatocellular carcinoma, hyperplastic nodules, and hyperplastic areas in the livers of rats fed 3-Me-DAB."
+        },
+        {
+            "References": "PMID:3479633",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ An inhibitory effect of fumaric acid (FA) on hepatocarcinogenesis was examined in rats fed thioacetamide (TAA). A group of male DONRYU rats were fed TAA at a level of 0.035% in the diet for 40 weeks and then fed a basal diet for 40 weeks. Hepatic carcinomas developed in 9 of 41 animals of this group fed TAA alone. The effect of FA on the carcinogenesis was examined in 2 groups fed both TAA and FA; one group of rats were fed FA at 1% in a basal diet after ingestion of TAA, and another group of rats were fed TAA plus a supplement of 1% FA in the diet. The inhibitory effect of FA on TAA carcinogenesis was so marked that no hepatic carcinomas were found in both groups fed FA in combination with TAA."
+        },
+        {
+            "References": "PMID:6958908",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ The inhibitory effect of fumaric acid (FA) on carcinogenesis by potassium 1-methyl-7-[2-(5-nitro-2-furyl)vinyl]-4-oxo-1,4-dihydro-1,8-naphthyridine-3-carbo xylate (trans, NFN) was examined histologically with male ICR/JCL mice. NFN was fed to mice at a dose level of 0.012% in the diet for 14 weeks. These mice were then divided into 2 groups. One group was given a basal diet, and the other group was given a diet containing 1% FA in the subsequent 39 weeks. In the group of 30 mice fed NFN alone, squamous cell carcinomas were found in the stomachs of 7 mice, multiple papillomas in the stomachs of 13 mice, and multiple and large papillary adenocarcinomas in the lungs of 27 animals. The administration of FA suppressed the NFN-induced stomach and lung carcinogenesis. In the group of 32 mice fed NFN and FA, no stomach tumors developed except 1 early-stage of squamous cell carcinoma. In the lungs, only a small focus of mild atypical hyperplasia and a few early-stage adenocarcinomas were noted in 7 and 11 animals, respectively."
+        },
+        {
+            "References": "PMID:2268906",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ The inhibitory effect of fumaric acid (FA) on hepatocarcinogenesis was examined in mice fed thioacetamide (TAA). A group of male ICR mice was fed TAA at a level of 0.035% in the diet for 40 weeks and then fed a basal diet for 48 weeks. Hepatic tumors developed in 11 of the 24 animals of this group and they were diagnosed as hepatocellular carcinomas. However, cirrhotic lesions and the enlargement of hepatocyte nucleoli were not as marked in mice as in previous findings in rats fed TAA. The effect of FA on the carcinogenesis was examined in a group of mice fed this compound at a level of 1% in a basal diet after ingestion of TAA. The inhibitory effect of FA on TAA carcinogenesis was so marked that no hepatic carcinomas were found in any of the 15 animals fed FA in combination with TAA."
+        },
+        {
+            "References": "PMID:1300806",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Anticarcinogenic effects of the fumaric acid were studied in two rat models of carcinogenesis. Tumors of the esophagus, forestomach, tongue and throat were induced by peroral instillation of 35 mg/kg bw N-methyl-N-benzylnitrosamine, and neurogenic and renal ones by transplacental injection of 75 mg/kg bw N-ethyl-N-nitrosourea. The fumaric acid given in drinking water in the dose of 1 g/L at the postinitiation stage of the carcinogenesis was shown to inhibit the development of esophageal papilloma, brain glioma and mesenchymal tumors of the kidney."
+        },
+        {
+            "References": "PMID:8200067",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ The ability of a substance to reduce the yield of azoxymethane (AOM)-induced foci in the colon of male Fischer 344 rats, was evaluated as a screening assay for chemopreventive agents. Twenty-eight test agents were administered continuously in the diet from the start of the experiments until the animals were killed 35 days later. AOM was sc administered either as 15 mg/kg bw on days 7 and 14 or as 30 mg/kg bw on day 7 of the experiment. Foci of aberrant crypts were evaluated in whole mounts of methylene blue-stained colons. AOM induced twice as many foci when administered between 8.40 and 11.00 a.m. than between 2.45 and 5.55 p.m. Calcium salts of carbonate, chloride and glucarate decreased the yield of AOM-induced foci while the acidic salts of lactate and phosphate did not inhibit the formation of foci. Dimethyl-fumarate, fumaric acid, genistein, piroxicam, simethicone, sodium suramin and sulindac reduced the yield of AOM-induced foci of aberrant crypts, with genistein being the most potent ..."
+        },
+        {
+            "References": "PMID:9500196",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Four agents, fumaric acid (FA), N-acetylcysteine (NAC), N-(4-hydroxyphenyl) retinamide (4-HPR), and beta-carotene (beta-CT), were evaluated for potential chemopreventive activity using the tobacco-specific carcinogen 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone (NNK)-induced lung tumor model in female A/J mice. The agents were evaluated in both 16-week and 52-week bioassays at two dose levels corresponding to 0.8 maximum tolerated dose (MTD) and 0.4 MTD administered throughout the bioassay either in the diet (FA, 160 and 80 mmol/kg diet; NAC, 160 and 80 mmol/kg diet; 4-HPR, 4 and 2 mmol/kg diet) or by subcutaneous injection twice a week (beta-CT, 32 and 16 mg/kg b.w.). Mice were treated with a single ip dose of 10 umol NNK in saline 1 week after administration of test agent. Lung adenomas were evaluated in the 16-week bioassay, whereas both adenomas and adenocarcinomas of the lung were determined in the 52-week bioassay. Both bioassays showed that all four agents did not significantly inhibit the total tumor incidence and multiplicity of the lung. However, the incidence of adenocarcinomas was reduced (P < 0.01) at 52 weeks in NNK groups given either 0.8 MTD NAC or 0.8 MTD beta-CT compared with the NNK control group. The decreases in adenocarcinomas were accompanied by corresponding increases in adenomas in these treatment groups. Thus, this study showed that FA, NAC, 4-HPR and beta-CT did not inhibit the total tumor formation, however, at the higher doses both NAC and beta-CT significantly retarded the malignant progression in the lung of NNK-treated A/J mice."
+        },
+        {
+            "References": "EPA/Office of Pollution Prevention and Toxics; High Production Volume Information System (HPVIS) on Fumaric Acid (110-17-8). Available from, as of January 12, 2009: https://www.epa.gov/hpvis/index.html",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ One generation reproductive toxicity study. Two pregnant guinea pig females received fumaric acid in their diet. Combined, they produced 12 offspring. The males were also fed fumaric acid in the diet. Dose: 1% (about 400 mg/kg bw/day). NOEL Parental: 400 mg/kg bw/ day. NOEL F1 Offspring: 400 mg/kg bw/ day. There were no detectable toxic effects on growth, reproduction or lactation."
+        },
+        {
+            "References": "FAO/WHO Joint Expert Committee on Food Additives; WHO Food Additives Series 9: Fumaric acid (1975). Available from, as of February 25, 2010: https://www.inchem.org/pages/jecfa.html",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ 8 /guinea pigs/ were maintained on a diet containing 0%, 1% and 10% fumaric acid for one year without any adverse effect on growth. The second generation from four mated animals was treated similarly without any adverse effect noted regarding growth, fertility or lactation."
+        },
+        {
+            "References": "EPA/Office of Pollution Prevention and Toxics; High Production Volume Information System (HPVIS) on Fumaric Acid (110-17-8). Available from, as of January 12, 2009: https://www.epa.gov/hpvis/index.html",
+            "Value": "/GENOTOXICITY/ Bacterial reverse mutation assay (Ames). Strains: S. tymphimurium TA97, TA98, TA100, TA1535, TA1537, with and without metabolic activation. Genotoxic effect: negative."
+        },
+        {
+            "References": "EPA/Office of Pollution Prevention and Toxics; High Production Volume Information System (HPVIS) on Fumaric Acid (110-17-8). Available from, as of January 12, 2009: https://www.epa.gov/hpvis/index.html",
+            "Value": "/GENOTOXICITY/ Bacterial reverse mutation assay (Ames). Strain: S. typhimuium TA100 without metabolic activation. Genotoxic effect: negative. This study was part of a larger study in which compounds associated with pulp mill effluent were tested individually. A single replicate was tested with a single Salmonella strain."
+        },
+        {
+            "References": "EPA/Office of Pollution Prevention and Toxics; High Production Volume Information System (HPVIS) on Fumaric Acid (110-17-8). Available from, as of January 12, 2009: https://www.epa.gov/hpvis/index.html",
+            "Value": "/GENOTOXICITY/ In vitro mammalian chromosome aberration test. Chinese hamster fibroblast cell line without metabolic activation. Maximum dose of 0.5 mg/mL. Genotoxic effect: negative. Substance was tested in a physiological saline solvent. Three different concentrations (maximum 0.5 mg/mL) were tested and cells were exposed to each concentration for 48 hours."
+        },
+        {
+            "References": "European Commission, ESIS; IUCLID Dataset, Fumaric acid (110-17-8) p.33 (2000  CD-ROM edition). Available from, as of February 25, 2010: https://esis.jrc.ec.europa.eu/",
+            "Value": "/GENOTOXICITY/ Mouse lymphoma assay, L5178Y (TK+/-) with and without metabolic activation. Fumaric acid (purity 99.7%) was tested at concentrations of 2,856-8,000 ug/mL in the medium. It was mutagenic in the absence and presence of Aroclor 1254 induced rat liver S9 mix."
+        },
+        {
+            "References": "PMID:7017390",
+            "Value": "/GENOTOXICITY/ Fumaric acid when reacted with chlorine in an aqueous soln was not mutagenic when tested in the Ames test using Salmonella typhimurium TA 100. When a 50/50 by vol methanol/water mixture was used for chlorination, fumaric acid was mutagenic with a peak at 3 equivalents of chlorine per mole."
+        },
+        {
+            "References": "PMID:3093424",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ ... Male Donryu rats were injected with mitomycin C or aflatoxin B1, singly or in combination with fumaric acid. After a specified period, hepatocytes were isolated from the liver by the collagenase perfusion method and placed in culture, and their activities for DNA synthesis were measured. The iv injection of rats with mitomycin C (0.5 mg/kg) reduced the semiconservative DNA synthesis of the hepatocytes, but simultaneous dosing of fumaric acid (40 mg/kg) enhanced the recovery of the DNA synthesis. The DNA synthesis of hepatoma cells, a 3'-methyl-4-(dimethylamino)azobenzene-induced transplantable cell line growing in the abdominal ascites of rats, was also reduced by the iv injection of mitomycin C but, in contrast to that of the hepatocytes, was little influenced by the simultaneous dosing of fumaric acid. The ip injection of fumaric acid also reduced the toxicity of aflatoxin B1 (0.25 mg/kg, ip), preventing the reduction of DNA synthesis as well as the occurrence of nuclear degenerative changes in the aflatoxin B1-exposed hepatocytes."
+        },
+        {
+            "References": "PMID:2517046",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ ... Male Donryu strain rats were given 3'-methyl-4-(dimethylamino)azobenzene (3'-Me-DAB) by being fed a diet containing 0.06% 3'-Me-DAB for 50 days. They were then given a diet containing 1% fumaric acid (FA) and drinking water containing 0.025% FA for 53 to 69 weeks. Hepatocytes were isolated from the liver by the collagenase perfusion method and placed in culture, and their activity for DNA synthesis was measured in terms of the incorporation of [3H]dThd into DNA. An enhanced DNA synthesis of hepatocytes was noted in the rats given FA, indicating that FA enhanced the proliferation of hepatocytes to counteract the carcinogenic effect of 3'-Me-DAB. An electron microscopic examination indicated that the distribution of subcellular organella was almost normal in the FA-treated hepatocytes."
+        },
+        {
+            "References": "PMID:7327376",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Fumaric acid was found to reduce markedly the growth and viability of Ehrlich, MH134, and L1210 mouse tumor cells in culture at concentrations of 0.3-1.2 mg/mL. In contrast, fumaric acid at these concentrations in the culture medium had no deleterious effect on the monolayer development of mouse and chick embryo cells."
+        },
+        {
+            "References": "PMID:6635990",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Fumaric acid was tested in an in vitro assay for teratogenesis using Drosophila embryo cell cultures from strains Oregon R, Canton S, and Canton S 109. The number of ganglia and myotubes (serving as endpoint) indicated normal differentiation of neurons and muscle. Fumaric acid produced 88% of control ganglia and 95% of control myotubes at a concn of 10-3 M. This was judged as a negative result."
+        },
+        {
+            "References": "PMID:2517046",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Fumaric acid suppressed the carcinogenesis in the liver of rats fed 3'-methyl-4-(dimethylamino)azobenzene, and a study was performed to examine the effect of fumaric acid on deoxyribonucleic acid (DNA) synthesis and subcellular structures of hepatocytes under the anticarcinogenic regimens. Male Donryu strain rats were given 3'-methyl-4-(dimethylamino)azobenzene by being fed a diet containing 0.6% 3'-methyl-4-(dimethylamino)azobenzene for 50 days. They were then given a diet containing 1% fumaric acid and drinking water containing 0.025% fumaric acid for 53 to 69 weeks. Hepatocytes were isolated from the liver by the collagenase perfusion method and placed in culture, and their activity for DNA synthesis was measured in terms of the incorporation of (3)H-dThd into DNA. An enhanced DNA synthesis of hepatocytes was noted in the rats given fumaric acid, indicating that fumaric acid enhanced the proliferation of hepatocytes to counteract the carcinogenic effect of 3'-methyl-4-(dimethylamino)azobenzene. An electron microscopic examination indicated that the distribution of subcellular organella was almost normal in the fumaric acid-treated hepatocytes."
+        },
+        {
+            "References": "PMID:18343554",
+            "Value": "/IMMUNOTOXICITY/ The skin sensitization potential of eight unsaturated and one saturated lipid (bio)chemicals was tested in both the murine local lymph node assay (LLNA) and the guinea pig maximization test (GPMT)... Fumaric acid ... gave clearly negative results /in both assays/ ."
+        },
+        {
+            "References": "Patty, F. (ed.). Industrial Hygiene and Toxicology: Volume II: Toxicology. 2nd ed. New York: Interscience Publishers, 1963., p. 1816",
+            "Value": "/OTHER TOXICITY INFORMATION/ Studies ... show that rats tolerate about 3 times as much in the diet as in case of maleic acid. /Fumaric acid and fumaric sodium/ ... were found to be less toxic orally than tartaric acid."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Kawamura K, Kaplan IR; Environ Sci Technol 21: 105-10 (1987)",
+            "Value": "SEDIMENT: Bog sediments collected in the foothills of the Sierra Nevada Mountains contained fumaric acid levels of 4.76 mg/kg(1)."
+        },
+        {
+            "References": "(1) Kawamura K, Kaplan IR; Environ Sci Technol 21: 105-10 (1987)",
+            "Value": "SOIL: Soil samples collected on the campus of UCLA in Los Angeles, CA contained fumaric acid levels of 0.2-0.6 mg/kg(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.0. Jan, 2009. Available at https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm as of Feb 19, 2010. (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) O'Neil MJ; The Merck Index.14th ed., Whitehouse Station, NJ: Merck and  Co, Inc, pp 736 (2006) (4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of fumaric acid can be estimated to be 7(SRC). According to a classification scheme(2), this estimated Koc value suggests that fumaric acid is expected to have very high mobility in soil. The pKa values of fumaric acid are 3.03 and 4.54(3), indicating that this compound will exist almost entirely in anion form in the environment and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(4)."
+        }
+    ]
+}

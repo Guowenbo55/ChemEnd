@@ -1,0 +1,113 @@
+{
+    "_id": {
+        "$oid": "6682e820c4e5dba5ffba2407"
+    },
+    "CID": {
+        "$numberInt": "5333"
+    },
+    "Name": "SULFANILAMIDE",
+    "IUPACName": "4-aminobenzenesulfonamide",
+    "CanonicalSMILES": "C1=CC(=CC=C1N)S(=O)(=O)N",
+    "Synonyms": [
+        "sulfanilamide",
+        "4-Aminobenzenesulfonamide",
+        "63-74-1",
+        "Sulphanilamide",
+        "Sulfamine",
+        "p-Aminobenzenesulfonamide",
+        "Sulphonamide",
+        "Sulfonylamide",
+        "Prontylin",
+        "p-Aminobenzenesulfamide",
+        "Prontosil Album",
+        "4-Aminobenzene-1-Sulfonamide",
+        "Bacteramid",
+        "Streptasol",
+        "Streptocid"
+    ],
+    "IsomericSMILES": "C1=CC(=CC=C1N)S(=O)(=O)N",
+    "INCHI": "InChI=1S/C6H8N2O2S/c7-5-1-3-6(4-2-5)11(8,9)10/h1-4H,7H2,(H2,8,9,10)",
+    "INCHIKEY": "FDDDEECHVMSUSB-UHFFFAOYSA-N",
+    "Formula": "C6H8N2O2S",
+    "MolecularWeight": {
+        "$numberDouble": "172.21"
+    },
+    "Description": "Sulfanilamide is a sulfonamide in which the sulfamoyl functional group is attached to aniline at the 4-position. It has a role as an EC 4.2.1.1 (carbonic anhydrase) inhibitor, an antibacterial agent and a drug allergen. It is a substituted aniline, a sulfonamide antibiotic and a sulfonamide.",
+    "XlogP": {
+        "$numberDouble": "-0.6"
+    },
+    "Complexity": {
+        "$numberInt": "211"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Profess Ref Book. Heller SR (consult ed) Washington, DC: Amer Chem Soc pg 22 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF value of 0.2 was calculated for sulfanilamide(SRC), using an experimental log Kow of -0.62(1) and a recommended regression-derived equation(2). According to a recommended classification scheme(3), this BCF value suggests that bioconcentration in aquatic organisms will not be an important fate process(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Malaney GW; J Water Pollution Control Fed 32: 1300-11 (1960)",
+            "Value": "Although aniline was able to degrade quickly, sulfanilamide degraded very slowly by aniline-acclimated activated sludge in a 200 hour Warburg Run(1), suggesting that biodegradation in water will be slow(SRC)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 22",
+            "Value": "log Kow = -0.62"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Gilman, A.G., T.W. Rall, A.S. Nies and P. Taylor (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 8th ed. New York, NY. Pergamon Press, 1990., p. 1048",
+            "Value": "Sulfonamides are structural analogs and competitive antagonist of para-aminobenzoic acid ... and thus prevent normal bacterial utilization of para-aminobenzoic acid for the synthesis of folic acid (pteroylglutamic acid). ... More specifically, sulfonamides are competitive inhibitors of dihydropteroate synthase, the bacterial enzyme responsible for the incorporation of para-aminobenzoic acid into dihydropteroic acid, the immediate precursor of folic acid. /Sulfonamides/"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Gosselin, R.E., H.C. Hodge, R.P. Smith, and M.N. Gleason. Clinical Toxicology of Commercial Products. 4th ed. Baltimore: Williams and Wilkins, 1976., p. II-238",
+            "Value": "LETHAL DOSES IN ANIMALS PRODUCE ATAXIA, CLONIC CONVULSIONS, PARALYSIS AND DEATH FROM RESPIRATORY FAILURE."
+        },
+        {
+            "References": "Clarke, E.G., and M. L. Clarke. Veterinary Toxicology. Baltimore, Maryland: The Williams and Wilkins Company, 1975., p. 170",
+            "Value": "COWS SHOWED...VARIABLE SUSCEPTIBILITY...IN SOME ANIMALS SINGLE DOSES OF 220 MG/KG PRODUCED DIARRHEA. LARGER DOSES 440 MG/KG BROUGHT ABOUT DROP IN MILK YIELD, INAPPETENCE, SLEEPINESS & SOME INCOORDINATION OF MOVEMENT; DIARRHEA WAS ALSO SOMETIMES SEEN."
+        },
+        {
+            "References": "Garner's Veterinary Toxicology. 3rd ed., rev. by E.G.C. Clarke and M.L. Clarke. Baltimore: Williams and Wilkins, 1967., p. 199",
+            "Value": "DAILY DOSING...TO HORSES AT RATE OF 0.44 G/KG (0.2 G/LB) PRODUCED...ANOREXIA, WEAK PULSE & GENERAL DEBILITY... AT LOWER DOSE RATE OF 0.17 G/KG DAILY... GENERAL DEPRESSION, MUSCLE RIGIDITY & EDEMA /WERE OBSERVED/; IF ADMIN WAS CONTINUED ANIMALS DIED."
+        },
+        {
+            "References": "Clarke, E.G., and M. L. Clarke. Veterinary Toxicology. Baltimore, Maryland: The Williams and Wilkins Company, 1975., p. 169",
+            "Value": "IN HORSE A SINGLE DOSE /ORALLY ADMIN/ AT RATE OF 440 MG/KG CAUSED SOME LISTLESSNESS & DISINCLINATION TO FEED."
+        },
+        {
+            "References": "Clarke, E.G., and M. L. Clarke. Veterinary Toxicology. Baltimore, Maryland: The Williams and Wilkins Company, 1975., p. 170",
+            "Value": "IN DOGS, 880 MG/KG /ORALLY/ PRODUCED MILD...SYMPTOMS OF SLEEPINESS, INCOORDINATION & ANOREXIA, WHICH REACHED THEIR CLIMAX AT 5 HR AFTER DOSING, & THEN QUICKLY DISAPPEARED. AT DOSE...OF 2.2 G/KG, SYMPTOMS APPEARED IN 2 HR & WERE AT THEIR PEAK IN 4 HR, ANIMALS THEN BEING COMATOSE. RECOVERY WAS COMPLETE BY NEXT DAY."
+        },
+        {
+            "References": "Doull, J., C.D. Klaassen, and M. D. Amdur (eds.). Casarett and Doull's Toxicology. 2nd ed. New York: Macmillan Publishing Co., 1980., p. 168",
+            "Value": "SULFANILAMIDE IS A TERATOGEN IN ANIMAL MODELS. /FROM TABLE/"
+        },
+        {
+            "References": "PMID:76390",
+            "Value": "A SERIES OF AGENTS WITH ALLEGED PHOTOSENSITIZING PROPERTIES WAS STUDIED IN MICE BY QUANTITATIVE IN VIVO METHOD FOR ACUTE DRUG PHOTOTOXICITY. IN SULFA GROUP ONLY SULFANILAMIDE WAS ACTIVE, ALTHOUGH WEAKLY."
+        },
+        {
+            "References": "USP Convention. USPDI - Drug Information for the Health Care Professional. 15 th ed. Volume 1. Rockville, MD: United States Pharmacopeial Convention, Inc., 1995. (Plus updates.), p. 2547",
+            "Value": "Studies in rats have shown that long-term administration of sulfonamide may cause thyroid malignancy. However, rats appear to be especially susceptible to the goitrogenic effects of sulfonamides. /Sulfonamides (vaginal)/"
+        },
+        {
+            "References": "USP Convention. USPDI - Drug Information for the Health Care Professional. 15 th ed. Volume 1. Rockville, MD: United States Pharmacopeial Convention, Inc., 1995. (Plus updates.), p. 2547",
+            "Value": "Adequate and well-controlled studies of most sulfonamides have not been done in either animals or humans. However, studies in rats and mice given high oral doses (7 to 25 times the human therapeutic dose) have shown that certain short-, intermediate-, and long-acting sulfonamides cause a significant increase in the incidence of cleft palate and other bony abnormalities in the fetus. /Sulfonamides (vaginal)/"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Profess Ref Book. Heller SR (consult ed) Washington, DC: Amer Chem Soc pg 22 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 23 (1983) (4) Serjeant EP, Dempsey B; Ionisation Constants of Organic Acids in Aqueous Solution. IUPAC Chemical Data Series No 23. NY,NY: Pergamon Press pp. 989 (1979) (5) Parris GE; Environ Sci Technol 14: 1099-1106 (1980)",
+            "Value": "The Koc of sulfanilamide is estimated as approximately 11(SRC), using an experimental log Kow of -0.62(1,SRC) and a regression-derived equation(2,SRC). According to a recommended classification scheme(3), this estimated Koc value suggests that sulfanilamide should have high mobility in soil(SRC). The adsorptivity of sulfanilamide is expected to be sensitive to pH since sulfanilamide has a pKa of 10.58(4). Also, studies have shown that covalent binding of ring-substituted anilines, such as sulfanilamide(SRC), to humates involves a reversible equilibrium which is followed by a very slow and relatively irreversible reaction(5) which may reduce sulfanilamide's mobility in soil(5)."
+        }
+    ]
+}

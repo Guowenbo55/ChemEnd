@@ -1,0 +1,61 @@
+{
+    "_id": {
+        "$oid": "6692712f303528b49832d83d"
+    },
+    "CID": {
+        "$numberInt": "44146828"
+    },
+    "Name": "Glyphosate-diammonium",
+    "IUPACName": "diazanium;2-(phosphonatomethylamino)acetic acid",
+    "CanonicalSMILES": "C(C(=O)O)NCP(=O)([O-])[O-].[NH4+].[NH4+]",
+    "Synonyms": [
+        "Glyphosate-diammonium",
+        "69254-40-6",
+        "Glyphosate-diammonium [ISO]",
+        "UNII-227NDA706Y",
+        "diazanium;2-(phosphonatomethylamino)acetic acid",
+        "Diammonium N-(phosphonomethyl)glycine",
+        "Glycine",
+        "N-(phosphonomethyl)-",
+        "diammonium salt",
+        "227NDA706Y",
+        "N-(Phosphonomethyl)glycine diammonium salt",
+        "glyphosate diammonium",
+        "DTXSID10897100",
+        "Q27253628"
+    ],
+    "IsomericSMILES": "C(C(=O)O)NCP(=O)([O-])[O-].[NH4+].[NH4+]",
+    "INCHI": "InChI=1S/C3H8NO5P.2H3N/c5-3(6)1-4-2-10(7,8)9;;/h4H,1-2H2,(H,5,6)(H2,7,8,9);2*1H3",
+    "INCHIKEY": "CPHCYTUHSKEDOI-UHFFFAOYSA-N",
+    "Formula": "C3H14N3O5P",
+    "MolecularWeight": {
+        "$numberDouble": "203.13"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "NaN"
+    },
+    "Complexity": {
+        "$numberInt": "151"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Absorption and translocation of three commercial formulations of glyphosate, the isopropylamine salt formulated as Roundup Ultra\u2122 (IPA1) and Roundup UltraMax\u2122 (IPA2) and the diammonium salt formulated as Touchdown\u2122 IQ (DA), were compared in three- to five-leaf velvetleaf, common waterhemp, and pitted morningglory. Absorption of 14C-glyphosate in velvetleaf was not significantly different among the three formulations up to 50 h after treatment (HAT). More absorption of 14C-glyphosate occurred in the IPA1 (26.0%) vs. the IPA2 (17.7%) formulation over 74 h. Of the total 14C-glyphosate absorbed, 20 to 35% was translocated from the treated leaf to the rest of the plant. Initial absorption of 14C-glyphosate was rapid in common waterhemp with the IPA1 (42.7%) and IPA2 (30.7%) formulations; both were higher compared with absorption of the DA formulation (11.5%) by 2 HAT. These differences continued up to 26 HAT, but no differences were evident by 74 HAT. Up to 65% of the 14C-glyphosate absorbed was translocated out of the treated leaf by 74 HAT, with roots the primary sink. Initial absorption of 14C-glyphosate was slow in pitted morningglory compared with the other species. More foliar absorption occurred in plants treated with the DA (13.6%) vs. the IPA2 formulation (4.9%) by 6 HAT. Absorption beyond 26 HAT was not different among the three glyphosate formulations. Translocation of 14C-glyphosate to roots was 27% greater as the DA salt than IPA1 and IPA2 by 74 HAT. The distribution pattern of glyphosate was similar in all species; phosphorimages demonstrated movement both acropetal and basipetal, with accumulation in roots greater than in any other plant parts. An efficacy study parallel to the 14C study showed no difference among the three glyphosate formulations on the species investigated at both 74 HAT and 2 wk after treatment.",
+            "reference": "Li, J., Smeda, R. J., Sellers, B. A., & Johnson, W. G. (2005). Influence of formulation and glyphosate salt on absorption and translocation in three annual weeds. Weed Science, 53(2), 153-159.",
+            "method": {
+                "Test Plant": "Velvetleaf (Abutilon theophrasti), common waterhemp (Amaranthus rudis).",
+                "Apply Location": "Foliar application",
+                "Plant Grown Condition": "Seeds planted in 160 mL cone-tainers with 1:1 sand/potting mix. Thinned to 1 plant per pot after emergence. Grown in growth chamber at 25\u00b12\u00b0C, 75\u00b110% RH, 200 \u03bcmol/m2/s for 16 h photoperiod. Plants at 3-5 leaf stage used for treatment",
+                "Chemical Preparation": "Spotting solution of 14C-glyphosate (12,066 kBq/mg, 98.3% radiochemical purity) mixed with formulated herbicide to mimic 187 L/ha spray volume. Solution made 15-17 h before use",
+                "Pesticide Application Details for the Plant": "Youngest fully expanded leaf covered (foil for velvetleaf/pitted morningglory, polypropylene for waterhemp). Exposed tissue sprayed at 750 g ae/ha with Roundup Ultra, Roundup UltraMax, or Touchdown IQ at 187 L/ha. After broadcast spray, 20 droplets of 0.2 \u03bcL 14C-glyphosate spotting solution (2 kBq, 250 g ae/ha) applied to untreated leaf",
+                "Other Information": "Harvests at 2, 6, 26, 50, 74 h after 14C spotting. Unabsorbed 14C removed by rinsing treated leaf (details differ among species). Plants sectioned into treated leaf, above, below, roots"
+            },
+            "result": "[{\"Plant\": \"Velvetleaf\", \"Hours after application\": 2, \"Above treated leaf (% of absorbed)\": 1.1, \"Below treated leaf (%)\": 1.2, \"Roots (%)\": 1.7, \"Treated leaf (%)\": 96.0}, {\"Plant\": \"Velvetleaf\", \"Hours after application\": 6, \"Above treated leaf (% of absorbed)\": 2.5, \"Below treated leaf (%)\": 2.4, \"Roots (%)\": 6.5, \"Treated leaf (%)\": 88.6}, {\"Plant\": \"Velvetleaf\", \"Hours after application\": 26, \"Above treated leaf (% of absorbed)\": 2.3, \"Below treated leaf (%)\": 2.0, \"Roots (%)\": 5.4, \"Treated leaf (%)\": 90.4}, {\"Plant\": \"Velvetleaf\", \"Hours after application\": 50, \"Above treated leaf (% of absorbed)\": 3.1, \"Below treated leaf (%)\": 2.3, \"Roots (%)\": 6.0, \"Treated leaf (%)\": 88.7}, {\"Plant\": \"Velvetleaf\", \"Hours after application\": 74, \"Above treated leaf (% of absorbed)\": 9.0, \"Below treated leaf (%)\": 5.0, \"Roots (%)\": 17.4, \"Treated leaf (%)\": 68.6}, {\"Plant\": \"Waterhemp\", \"Hours after application\": 2, \"Above treated leaf (% of absorbed)\": 2.1, \"Below treated leaf (%)\": 3.6, \"Roots (%)\": 4.4, \"Treated leaf (%)\": 89.9}, {\"Plant\": \"Waterhemp\", \"Hours after application\": 6, \"Above treated leaf (% of absorbed)\": 6.9, \"Below treated leaf (%)\": 8.9, \"Roots (%)\": 10.6, \"Treated leaf (%)\": 73.7}, {\"Plant\": \"Waterhemp\", \"Hours after application\": 26, \"Above treated leaf (% of absorbed)\": 9.3, \"Below treated leaf (%)\": 17.2, \"Roots (%)\": 23.8, \"Treated leaf (%)\": 49.7}, {\"Plant\": \"Waterhemp\", \"Hours after application\": 50, \"Above treated leaf (% of absorbed)\": 11.5, \"Below treated leaf (%)\": 20.2, \"Roots (%)\": 22.4, \"Treated leaf (%)\": 45.9}, {\"Plant\": \"Waterhemp\", \"Hours after application\": 74, \"Above treated leaf (% of absorbed)\": 15.9, \"Below treated leaf (%)\": 21.0, \"Roots (%)\": 25.5, \"Treated leaf (%)\": 37.7}]"
+        }
+    ]
+}

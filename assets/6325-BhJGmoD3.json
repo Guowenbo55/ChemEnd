@@ -1,0 +1,166 @@
+{
+    "_id": {
+        "$oid": "6682e83ec4e5dba5ffba24a1"
+    },
+    "CID": {
+        "$numberInt": "6325"
+    },
+    "Name": "Ethylene",
+    "IUPACName": "ethene",
+    "CanonicalSMILES": "C=C",
+    "Synonyms": [
+        "ETHYLENE",
+        "Ethene",
+        "Acetene",
+        "Elayl",
+        "Olefiant gas",
+        "74-85-1",
+        "Athylen",
+        "Etileno",
+        "9002-88-4",
+        "Bicarburretted hydrogen",
+        "Liquid ethylene",
+        "Ethylene",
+        "pure",
+        "Caswell No. 436",
+        "Aethylen",
+        "Aethen"
+    ],
+    "IsomericSMILES": "C=C",
+    "INCHI": "InChI=1S/C2H4/c1-2/h1-2H2",
+    "INCHIKEY": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+    "Formula": "C2H4",
+    "MolecularWeight": {
+        "$numberDouble": "28.05"
+    },
+    "Description": "Ethene is an alkene and a gas molecular entity. It has a role as a refrigerant and a plant hormone.",
+    "XlogP": {
+        "$numberDouble": "1.2"
+    },
+    "Complexity": {
+        "$numberInt": "0"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "PMID:374227",
+            "Value": "Ethylene is produced by all plant tissues in high amounts and acts as an endogenous plant growth regulator(1)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 4 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Jul 13, 2017: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 2.6 was calculated in fish for ethylene(SRC), using a log Kow of 1.13(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Hou CT et al; Appl Environ Microb 46: 171-7 (1983) (2) Patel RN et al; Div Ind Microb 23: 187-205 (1982) (3) Hou CT et al; Appl Environ Microb 38: 127-34 (1979)",
+            "Value": "PURE CULTURE: Sixteen cell-free cultures of bacteria (Mycobacterium; Brevibacterium, Pseudomonas, Nocardia, Arthrobacter, Corynebacterium, Actinomyces and Acinetobacter spp) acclimated to propane isolated from lake water from Warinanaco Park, Linden NJ and from lake and soil samples from Bayway Refinery, Linden, NJ were isolated. The rate of epoxidation to  1,2-ethoxyethane ranged from 0.07 to 2.60 umol/hr per mg of protein. Using Brevibacterium, ethylene oxide was formed at a rate of 0.40 umol/10 min-mg protein(1). Cell-free cultures of Methylosinaus trichosporium and Methylococcus capsulatus, isolated from lake water from Warinanaco Park, Linden NJ and from lake and soil samples from Bayway Refinery, Linden, NJ and acclimated to methane, were found to convert ethylene to ethylene oxide at a rate ranging from 0.9 to 5.5 umol/hr per mg of protein(2,3)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 4",
+            "Value": "log Kow = 1.13"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Waldbott GL; Health Eff Environ Pollut p.47 (1973)",
+            "Value": "Ethylene interferes with the activities of plant hormones causing growth retardation."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 78",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ ... Ethene may alter carbohydrate metabolism and has caused temporary hypoglycemia. Additionally, a reduction of inorganic phosphates has been noted."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Exposure of rats at up to 500,000 ppm ethylene for 4 hours produced no liver damage (other tissues were not examined).In Holtzman rats pretreated with Arochlor 1254, increasing levels of liver damage were seen in those animals exposed at 10,000 to 50,000 ppm ethylene for 4 hours. For fasted, Aroclor-pretreated rats exposed at 6000 ppm ethylene, a marginal increase in serum sorbitol dehydrogenase (SDH) activity was found in animals additionally treated with trichloropropene oxide (TCPO). Similarly, Fisher rats exposed at 10,000 ppm for 5 hours with no pretreatment had no observable liver changes, and Arochlor pretreated rats developed uniform centrilobular necrosis, while Aroclor-pretreated controls with no ethylene exposure had only slight hypertrophy."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 76",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Male rats exposed to 10, 25 and 57x10+3 ppm for 4 hr showed increased serum pyruvate and liver weights."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V19 163 (1979)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Ethylene inhaled at a dose of 11.5 g/cu m (10,000 ppm) for 4 hr is acutely hepatotoxic to rats pretreated with the polychlorinated biphenyl Aroclor 1254 given orally at a dose of 300 umol/kg bw once daily for 3 days. It is not acutely toxic without such pretreatment."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 76",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Exposure to 700,000-900,000 ppm causes changes in EEG activity and decrease in stomach emptying time."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 76",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Deep anesthesia occurs in a few seconds with 95% ethene and 5% oxygen, accompanied by marked cyanosis and depression with a slow fall in blood pressure."
+        },
+        {
+            "References": "PMID:413739",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Male rats were pretreated by gavage with the polychlorinated biphenyl mixture (PCB) Aroclor 1254 (300 umol of PCB/kg) for 3 consecutive days. On the 4th day these rats were exposed by inhalation (4 hr) to various concentrations of ethane, ethylene, fluoride monomer (VFM), vinyl chloride monomer (VCM) or vinyl bromide monomer (VBM). Animals were sacrificed 24 hr after exposure and acute hepatic responses were estimated by measurement of serum alanine-alpha-ketoglutarate transaminase (SAKT) and light microscopy. All compounds tested, except ethane, caused significant elevations of SAKT and produced severe degeneration and necrosis of the liver. Typical SAKT values (milligrams of pyruvate per milliliter of serum per hour) were: absolute controls, 0.17 +/- 0.01; PCB pretreated, not exposed, 0.19 +/- 0.02; PCB and 50,000 ppm of ethane, 0.11 +/- 0.02; PCB and 25,000 ppm of ethylene, 1.98 +/- 0.61; PCB and 10,000 ppm of VFM 6.29 +/- 0.99; PCB and 10,000 ppm of VCM 1.11 +/- 0.32; and PCB and 33,000 ppm of VBM, 3.78 +/- 2.28. The relative potencies of these compounds in elevating SAKT were similar, and the spectrum of morphologic changes (e.g., midzonal ballooning of hepatocytes and centrolobular hemorrhagic necrosis) was the same. The acute hepatoxicity of ethylene plus PCB and lack of effect from ethane plus PCB indicate a role for the double bond in these toxic interactions. With the exception of ethane the compounds tested are similar in acute toxicity after PCB pretreatment. This similarity of acute action, in light of the carcinogenicity of VCM, suggests that ethylene, VMF and VBM should be evaluated for chronic effects."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V60 53-4 (1994)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Groups of male and female Sprague-Dawley rats, three to five days of age, were exposed by inhalation to 0 (5 male and 9 female rats) or 10,000 ppm (11,500 mg/cu m, 2 males and 10 females) ethylene (purity unspecified) for 8 hr/day on 5 days/wk for 3 weeks. One week later, the rats received oral administrations of 10 mg/kg body weight Clophen A 50 (a mixture of polychlorinated biphenyls (not otherwise specified) by gavage twice a week for up to eight additional weeks (promotion), at which time the experiment was terminated and the livers were examined for ATPase-deficient foci. The number of ATPase-deficient foci in the, rats exposed to ethylene did not exceed the control values. In the same experiment, ethylene oxide, administered as a positive control, produced a significant increase in the incidence of ATPase-deficient foci in females."
+        },
+        {
+            "References": "Sheftel, V.O.; Indirect Food Additives and Polymers. Migration and Toxicology. Lewis Publishers, Boca Raton, FL. 2000., p. 83",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Mice were dosed by gavage with 3.75 mg/kg bw for 4 months. The treated animals displayed no changes in behavior or in body weight gain and oxygen consumption. Gross pathology examination revealed no changes in the relative weights or in the histological structure of the visceral organs."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 76",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Inhalation exposure to 600,000 ppm continuously for 90 days in rats caused reduced food uptake and activity, peripheral leucopenia, decreased thrombocyte and erythrocyte count, and decrease in bone marrow cellularity."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 76",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ 1-day-old and adult rats continuously exposed to 3 mg/cu m per day for 90 days exhibited hypertension, disruption of the subordination chronaxy, and decreased cholinesterase activity."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Sprague-Dawley rats were exposed by inhalation 6 hours/day, 5 days/week for 14 weeks at 0, 300, 1000, 3000, or 10,000 ppm ethylene. There was no mortality related to exposure. Inspection of all organs at necropsy, comprehensive microscopic analysis of tissue specimens, hematology, clinical chemistry, and urinalysis results revealed no toxic effects."
+        },
+        {
+            "References": "PMID:6745536",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ The toxicity and oncogenicity of inhaled ethylene were determined in Fischer-344 rats. 960 were randomly divided into 4 groups of 120 animals of each sex and were exposed 6 hours/day, 5 days/week, for up to 24 months to concentrations of ethylene in the air of 0, 300, 1000, or 3000 ppm. The maximum tolerated dose was not used as concentrations above 3000 ppm were considered hazardous because of the risks associated with ethylene's explosive properties. ... Randomly selected animals were necropsied and examined after 6, 12, and 18 months of exposure. A complete selection of tissues and organs from all animals in the control and 3000 ppm groups were examined for microscopic lesions. All animals were examined for clinical changes throughout the course of the 2 year study. Gross examination of rats dying during the study, or those that were sacrificed as scheduled, did not reveal any lesions attributable to ethylene exposure. Histologically, a variety of proliferative, degenerative, and inflammatory lesions were observed in both control and 3000 ppm groups. These lesions were typical of those seen in this strain of animal and were ... unrelated to ethylene exposure."
+        },
+        {
+            "References": "Sheftel, V.O.; Indirect Food Additives and Polymers. Migration and Toxicology. Lewis Publishers, Boca Raton, FL. 2000., p. 83",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Experiments proved ethylene to be /metabolized/ in certain species, notably mice and rats, into the carcinogenic and mutagenic ethylene oxide. Carcinogenic effect of ethylene of endogenous origin is suggested. Whether such an effect is possible with oral administration of ethylene is not clear."
+        },
+        {
+            "References": "Aveyard L, Collins CJ; Teratology 55 (1): 47 (1997)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ The study was designed to comply with OECD Guideline 421 and thus to assess the potential of the test substance (ethylene) to affect fertility, pregnancy, maternal and suckling behavior and growth and development of the F1 offspring from conception to Day 4 post-partum, in the rat. Head-only exposure was selected so as to minimize the volume of the exposure chamber and hence the hazards associated with an explosive test article. ... The parental animals were exposed for two weeks prior to pairing, during the pairing period and until the day prior to necropsy for males (minimum 28 days) or until Day 20 of gestation. Females were allowed to litter and rear their offspring to Day 4 post-partum when dams and litters were killed and necropsied. Ten males and ten females per group were held in rodent restraint tubes connected to 1.7 L perspex chambers and exposed by head-only to concentrations of 0 (air control), 200, 1000 or 5000 ppm for 6 hours daily. A further 10 females, mated with untreated males, were maintained concurrently, under the same experimental conditions but without exposure or restraint, to provide comparative data. There were no deaths attributable to the test article and treatment did not adversely affect weight gain or food intake of males or females. All females became pregnant and there was no effect of treatment on fertility, fecundity, litter size, sex ratio, mean pup weight, pup growth or clinical condition. Macroscopic findings and histopathologic examination (including staging of the spermatogenic cycle) of parental animals revealed no treatment-related effects. Comparison of unrestrained, non-exposed animals and control animals revealed no evidence of adverse effects. In conclusion, administration of ethylene by head-only exposure revealed no potential for adverse reproductive effects as assessed by OECD Reproduction/Developmental Toxicity Screening Test 421."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLVs and BEIs with Other World Wide Occupational Exposure Values. 7th Ed. CD-ROM Cincinnati, OH 45240-1634 2013., p. 2",
+            "Value": "/GENOTOXICITY/ Ethylene was not found to be mutagenic with or without a hepatic microsomal activating system (S9) in Salmonella typhimurium strains TA98, TA1537, TA100, or TA1535."
+        },
+        {
+            "References": "PMID:7517513",
+            "Value": "/GENOTOXICITY/ Male Fischer 344 rats and male B6C3F1 mice (10/species/group) were exposed to ethylene 6 hr/day 5 days/week for 4 weeks. The ethylene target concentrations were 0, 40, 1000 and 3000 ppm. An ethylene oxide control group for each species was exposed under the same conditions at a target concentration of 200 ppm. Bone marrow was collected approximately 24 hr after the final exposure. Polychromatic erythrocyte (PCE) to normochromatic erythrocyte (NCE) ratios were determined and 2000 PCE/animal were scored for the presence of micronuclei. Ethylene did not produce statistically significant exposure related increases in the frequency of micronucleated PCE (MNPCE) in the bone marrow of either rats or mice when compared to air exposed control animals. ..."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 77",
+            "Value": "/OTHER TOXICITY INFORMATION/ ... Mice repeatedly exposed at /ethene/ concentrations causing CNS depression showed no histopathological changes in kidneys, adrenals, hearts, or lungs."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 77",
+            "Value": "/OTHER TOXICITY INFORMATION/ ... Liver mitochondrial volume increased in rats treated with ethylene."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Kvenvolden KA, Redden GD; Geochim Cosmochim ACTA 44: 1145-50 (1980)",
+            "Value": "SEDIMENT: In 1977, ethylene concentrations in core samples taken from the Bearing shelf, Bearing slope, and Aleutian basin were: 10-131, 11-91, and 9-150 mL/L interstitial water, respectively(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Jul 13, 2017: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of ethylene can be estimated to be 13(SRC). According to a classification scheme(2), this estimated Koc value suggests that ethylene is expected to have very high mobility in soil(SRC)."
+        }
+    ]
+}

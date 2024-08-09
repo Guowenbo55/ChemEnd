@@ -1,0 +1,86 @@
+{
+    "_id": {
+        "$oid": "6682e848c4e5dba5ffba24d2"
+    },
+    "CID": {
+        "$numberInt": "6403"
+    },
+    "Name": "2,2-DIMETHYLBUTANE",
+    "IUPACName": "2,2-dimethylbutane",
+    "CanonicalSMILES": "CCC(C)(C)C",
+    "Synonyms": [
+        "2,2-DIMETHYLBUTANE",
+        "Neohexane",
+        "75-83-2",
+        "Butane",
+        "2,2-dimethyl-",
+        "2,2-Dimethyl-butane",
+        "DTXSID4025111",
+        "07L56L3MP2",
+        "NSC-74126",
+        "HSDB 75",
+        "CCRIS 6019",
+        "EINECS 200-906-8",
+        "NSC 74126",
+        "UNII-07L56L3MP2",
+        "AI3-16043",
+        "Butane,2-dimethyl-"
+    ],
+    "IsomericSMILES": "CCC(C)(C)C",
+    "INCHI": "InChI=1S/C6H14/c1-5-6(2,3)4/h5H2,1-4H3",
+    "INCHIKEY": "HNRMPXKDFBEGFZ-UHFFFAOYSA-N",
+    "Formula": "C6H14",
+    "MolecularWeight": {
+        "$numberDouble": "86.18"
+    },
+    "Description": {
+        "$numberDouble": "NaN"
+    },
+    "XlogP": {
+        "$numberDouble": "3"
+    },
+    "Complexity": {
+        "$numberInt": "29"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 24 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of October 9, 2013: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 150 was calculated in fish for 2,2-dimethylbutane(SRC), using a log Kow of 3.82(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is high(SRC), provided the compound is not metabolized by the organism(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Solano-Serena F et al; Appl Microbiol Biotechnol 54: 121-5(2000) (2) Prince RC et al; Environ Sci Technol 41: 3316-3321 (2007) (3) Marchal R et al; Oil Gas Sci. Technol: 58: 441-448 (2003)",
+            "Value": "AEROBIC: Under aerobic conditions, 2,2-dimethylbutane was shown to degrade after a 15 day lag period when tested as a mixture of light hydrocarbons in activated sludge (14% of the initial amount remained after 34 days of incubation). However, when tested as the single carbon source little degradation was observed (86% of the initial amount remained; comparable to the abiotic control where 89% remained) suggesting that its degradation may occur via co-metabolism(1). In another aerobic biodegradation study of gasoline hydrocarbons in water from a domestic sewage treatment plant, a degradation half-life for 2,2-dimethylbutane was calculated as 26.5 days(2). Under optimal conditions, biodegradation results for gasoline in activated sludge indicate that 2,2-dimethylbutane constituted a recalcitrant portion of the mixture(3)."
+        },
+        {
+            "References": "Verschueren, K. Handbook of Environmental Data on Organic Chemicals. Volumes 1-2. 4th ed. John Wiley & Sons. New York, NY. 2001, p. 904",
+            "Value": "AEROBIC: Incubation with natural flora in the groundwater - in presence of the other components of high-octane gasoline (100 uL/L): biodegradation: 25% after 192 hr at 13 \u00b0C (initial concentration 0.28 uL/L)."
+        },
+        {
+            "References": "(1) Buswell JA, Jurtshuk P; Arch Mikrobiol 64: 215-22 (1969)",
+            "Value": "PURE CULTURE: Using the Clark oxygen electrode, a resting cell suspension of Corynebacterium sp. oxidized 2,2-dimethylbutane with an activity of 41% that of n-octane; the study indicated that the compound was utilized as a growth substrate by the microorganism(1). Therefore, this compound may have the potential to biodegrade, but is not expected to biodegrade rapidly(SRC)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 24",
+            "Value": "log Kow = 3.82"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Snyder, R. (ed.) Ethel Browning's Toxicity and Metabolism of Industrial Solvents. 2nd ed. Volume 1: Hydrocarbons. Amsterdam - New York - Oxford: Elsevier, 1987., p. 295",
+            "Value": "/OTHER TOXICITY INFORMATION/ ... 2,2-Dimethylbutane at conc of 100,000-250,000 ppm sensitizes the myocardium in dogs to epinephrine-induced cardiac arrhythmias."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. nn (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of October 9, 2013: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of 2,2-dimethylbutane is estimated as 2100(SRC), using a log Kow of 3.82(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that 2,2-dimethylbutane is expected to have slight mobility in soil."
+        }
+    ]
+}

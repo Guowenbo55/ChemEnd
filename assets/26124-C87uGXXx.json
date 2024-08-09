@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "6692712a303528b49832d82a"
+    },
+    "CID": {
+        "$numberInt": "26124"
+    },
+    "Name": "Quinalphos",
+    "IUPACName": "diethoxy-quinoxalin-2-yloxy-sulfanylidene-lambda5-phosphane",
+    "CanonicalSMILES": "CCOP(=S)(OCC)OC1=NC2=CC=CC=C2N=C1",
+    "Synonyms": [
+        "QUINALPHOS",
+        "13593-03-8",
+        "Bayrusil",
+        "Diethquinalphion",
+        "Ekalux",
+        "Quinaltaf",
+        "Savall",
+        "Bayer 77049",
+        "Wie oben",
+        "Sandoz 6538",
+        "O,O-Diethyl O-quinoxalin-2-yl phosphorothioate",
+        "Diethchinalphion",
+        "SRA 7312",
+        "BAY 77049",
+        "Diethyl O-(2-quinoxalyl) phosphorothioate"
+    ],
+    "IsomericSMILES": "CCOP(=S)(OCC)OC1=NC2=CC=CC=C2N=C1",
+    "INCHI": "InChI=1S/C12H15N2O3PS/c1-3-15-18(19,16-4-2)17-12-9-13-10-7-5-6-8-11(10)14-12/h5-9H,3-4H2,1-2H3",
+    "INCHIKEY": "JYQUHIFYBATCCY-UHFFFAOYSA-N",
+    "Formula": "C12H15N2O3PS",
+    "MolecularWeight": {
+        "$numberDouble": "298.3"
+    },
+    "Description": "Quinalphos is an organic thiophosphate and an organothiophosphate insecticide. It has a role as an EC 3.1.1.7 (acetylcholinesterase) inhibitor, an acaricide and an agrochemical. It is functionally related to a quinoxalin-2-ol.",
+    "XlogP": {
+        "$numberDouble": "4.4"
+    },
+    "Complexity": {
+        "$numberInt": "322"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "An in vivo uptake and elimination tracing study based on solid phase microextraction (SPME) was conducted to investigate the accumulation, persistence, and distribution of organochloride pesticides (OCPs) and organophosphorus pesticides (OPPs) in Malabar spinach (Basella alba L.) plants. Uptake and elimination of the pesticides were traced in leaves, stems, and roots of living Malabar spinach plants. Root concentration factor (RCF), distribution concentration factor (DCF), and transpiration stream concentration factor (TSCF) were calculated based on the in vivo tracing data. The tracing data showed that the OCPs were much more accumulative and persistent than the OPPs in roots, while they were similarly accumulative and persistent in leaves and stems. RCF values of the OPPs or OCPs were likely to increase with the increase in LogKow values except fenthion. Obtained DCF values indicated that OPPs and OCPs were more accumulative in the organs containing more lipids. TSCF values showed that the translocation of OPPs and OCPs from roots to foliage was firstly dependent on the hydrophobicity of the compounds, but also significantly affected by the water solubility. This is the first study of generating RCF, DCF, and TSCF data in living plants by in vivo sampling method, which provides a foundation to promote the application of in vivo SPME and improve understanding of contaminant behaviors in living plants.",
+            "reference": "Qiu, J., Chen, G., Xu, J., Luo, E., Liu, Y., Wang, F., ... & Ouyang, G. (2016). In vivo tracing of organochloride and organophosphorus pesticides in different organs of hydroponically grown malabar spinach (Basella alba L.). Journal of hazardous materials, 316, 52-59.",
+            "method": {
+                "Test Plant": "Malabar spinach plants",
+                "Apply Location": "Root/hydroponic exposure",
+                "Plant Grown Condition": "Plants were grown from seeds in a plant growth chamber with controlled conditions - temperature 28\u00b0C/18\u00b0C day/night, 10h light period from 8am-6pm, 70% humidity. Plants were about 3 months old at start with average weight 73.8\u00b18.6g (for OPPs exposure) and 94.6\u00b115.7g (for OCPs exposure). Transpiration rate was 18.5 g/m2/h daytime and 1.23 g/m2/h nighttime.",
+                "Chemical Preparation": "Stock solutions of 100 mg/mL in methanol were prepared for parathion-methyl, propetamphos, endosulfan, fenthion, quinalphos, profenofos, HCB, p'p-DDT, aldrin and mirex (\u226598% purity).",
+                "Pesticide Application Details for the Plant": "Two days before exposure, plants were transferred to hydroponic cultivation buckets with 300 mL nutrient solution spiked to 100 ng/mL concentration for each compound from the stock solutions. Spiked nutrient solutions were renewed daily at 12:00 am.",
+                "Other Information": "Experiments divided into OPPs exposed group and OCPs exposed group"
+            },
+            "result": "[{\"Days after application\": 2, \"Leaf (mg/g)\": 42.187, \"Stem (mg/g)\": 33.913, \"Root (mg/g)\": 601.941}, {\"Days after application\": 4, \"Leaf (mg/g)\": 48.046, \"Stem (mg/g)\": 63.913, \"Root (mg/g)\": 1048.543}, {\"Days after application\": 6, \"Leaf (mg/g)\": 121.875, \"Stem (mg/g)\": 103.043, \"Root (mg/g)\": 1407.766}, {\"Days after application\": 8, \"Leaf (mg/g)\": 130.078, \"Stem (mg/g)\": 107.826, \"Root (mg/g)\": 1087.378}, {\"Days after application\": 10, \"Leaf (mg/g)\": 86.132, \"Stem (mg/g)\": 62.173, \"Root (mg/g)\": 572.815}, {\"Days after application\": 12, \"Leaf (mg/g)\": 75.585, \"Stem (mg/g)\": 47.826, \"Root (mg/g)\": 165.048}, {\"Days after application\": 14, \"Leaf (mg/g)\": 29.296, \"Stem (mg/g)\": 36.521, \"Root (mg/g)\": 97.087}]"
+        }
+    ]
+}

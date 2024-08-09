@@ -1,0 +1,100 @@
+{
+    "_id": {
+        "$oid": "6682e9d3c4e5dba5ffba2c93"
+    },
+    "CID": {
+        "$numberInt": "23676225"
+    },
+    "Name": "ESTROGENIC SUBSTANCES, CONJUGATED",
+    "IUPACName": "sodium;[(9S,13S,14S)-13-methyl-17-oxo-9,11,12,14,15,16-hexahydro-6H-cyclopenta[a]phenanthren-3-yl] sulfate",
+    "CanonicalSMILES": "CC12CCC3C(=CCC4=C3C=CC(=C4)OS(=O)(=O)[O-])C1CCC2=O.[Na+]",
+    "Synonyms": [
+        "16680-47-0",
+        "Sodium equilin sulfate",
+        "Equilin sodium sulfate",
+        "Conjugated Estrogen",
+        "Cenestin",
+        "Estrogens",
+        "Conjugated",
+        "Equilin 3-Sulfate Sodium Salt",
+        "Sodium equilin 3-monosulfate",
+        "12126-59-9",
+        "7XY8FW3E68",
+        "Estra-1,3,5(10),7-tetraen-17-one",
+        "3-(sulfooxy)-",
+        "sodium salt",
+        "Climarest",
+        "Dagynil",
+        "Estratab",
+        "Femavit"
+    ],
+    "IsomericSMILES": "C[C@]12CC[C@H]3C(=CCC4=C3C=CC(=C4)OS(=O)(=O)[O-])[C@@H]1CCC2=O.[Na+]",
+    "INCHI": "InChI=1S/C18H20O5S.Na/c1-18-9-8-14-13-5-3-12(23-24(20,21)22)10-11(13)2-4-15(14)16(18)6-7-17(18)19;/h3-5,10,14,16H,2,6-9H2,1H3,(H,20,21,22);/q;+1/p-1/t14-,16+,18+;/m1./s1",
+    "INCHIKEY": "QTTMOCOWZLSYSV-QWAPEVOJSA-M",
+    "Formula": "C18H19NaO5S",
+    "MolecularWeight": {
+        "$numberDouble": "370.4"
+    },
+    "Description": "Equilin sodium sulfate is a steroid sulfate. It is functionally related to an equilin.",
+    "XlogP": {
+        "$numberDouble": "NaN"
+    },
+    "Complexity": {
+        "$numberInt": "682"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Kuhnle GGC et al; J Agric Food Chem 56: 10099-10104 (2008) (2) Natl Res Council;  Hormonally active agents in the environment. Washington, DC: Natl Acad Press, pp. 54-82 (1999) (3) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Estrone. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Jan 14, 2011: https://www.ars-grin.gov/duke/",
+            "Value": "Phytoestrogens, secondary plant metabolites which are structurally or functionally similar to 17beta-estradiol(1), have been identified in plants(2). Source plants include pomegranate, apples, and corn species in the case of estrone(3)."
+        },
+        {
+            "References": "(1) Kuhnle GGC et al; J Agric Food Chem 56: 7311-7315 (2008)",
+            "Value": "Average phytoestrogen levels in foods purchased in Cambridgeshire, Great Britain (detection limit = 1.5 ug/100 g dry weight)(1).",
+            "Table": "[{'Food': 'Coffee, instant powder', 'Concentration': '1833', 'Food.1': 'Almonds, kernel only', 'Concentration.1': 112.0}, {'Food': 'Coffee, instant decaffeinated powder', 'Concentration': '647', 'Food.1': 'Brazil nuts', 'Concentration.1': 887.0}, {'Food': 'Coffee, infusion average', 'Concentration': '17', 'Food.1': 'Cashews, plain', 'Concentration.1': 182.0}, {'Food': 'Coffee, infusion, decaffeinated', 'Concentration': '11', 'Food.1': 'Coconut, desiccated', 'Concentration.1': 26.0}, {'Food': 'Tea, strong (15 g/L), from tea leaves', 'Concentration': '12', 'Food.1': 'Coconut, fresh', 'Concentration.1': 42.0}, {'Food': 'Tea, weak (10 g/L), from tea leaves', 'Concentration': '8', 'Food.1': 'Hazelnuts', 'Concentration.1': 80.0}, {'Food': 'Tea, standard, from tea bag (4 bags/L)', 'Concentration': '7', 'Food.1': 'Peanuts, fresh', 'Concentration.1': 173.0}, {'Food': 'Tea, decaffeinated, from tea bag', 'Concentration': '10', 'Food.1': 'Peanuts, dry roasted', 'Concentration.1': 173.0}, {'Food': 'Tea, green', 'Concentration': '20', 'Food.1': 'Peanuts, roasted, salted', 'Concentration.1': 427.0}, {'Food': 'Tea, chamomile', 'Concentration': '8', 'Food.1': 'Peanut butter, smooth', 'Concentration.1': 140.0}, {'Food': 'Lager, canned', 'Concentration': '68', 'Food.1': 'Pecans', 'Concentration.1': 51.0}, {'Food': 'Beer, brown ale', 'Concentration': '71', 'Food.1': 'Pine nuts', 'Concentration.1': 103.0}, {'Food': 'Stout, 4-5%', 'Concentration': '45', 'Food.1': 'Pistachios, roasted and salted', 'Concentration.1': 62.0}, {'Food': 'Beer, bitter, best/premium', 'Concentration': '1', 'Food.1': 'Pumpkin seeds', 'Concentration.1': 539.0}, {'Food': 'Wine, red', 'Concentration': '76', 'Food.1': 'Sunflower seeds', 'Concentration.1': 111.0}, {'Food': 'Wine, white, dry', 'Concentration': '14', 'Food.1': 'Walnuts', 'Concentration.1': 175.0}, {'Food': 'Cider, dry', 'Concentration': '55', 'Food.1': 'Flaxseed oil', 'Concentration.1': 23.0}, {'Food': 'Sherry, dry', 'Concentration': '41', 'Food.1': 'Roasted pumpkinseed oil', 'Concentration.1': 56.0}, {'Food': 'Sherry, cream', 'Concentration': '31', 'Food.1': 'Rapeseed oil', 'Concentration.1': 56.0}, {'Food': 'Whiskey', 'Concentration': '5', 'Food.1': nan, 'Concentration.1': nan}, {'Food': 'Gin', 'Concentration': '<1', 'Food.1': nan, 'Concentration.1': nan}]"
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Gross TS et al; in Handbook of Ecotoxicology. Hoffman DJ et al, eds., 2nd ed., Boca Raton, FL: Lewis Pub Chpt 6, pp 1033-98 (2002) (2) Damstra T et al, eds; Global Assessment of the State-of-the-Science of Endocrine Disruptors. International Programme on Chemical Safety. World Health Organization WHO/PCS/EDC/02.2 p. 128 (2002) (3) Aoki J et al; Sci Total Environ 408(3): 660-5 (2010) (4) Nadzialek S et al; Sci Total Environ 408(4): 812-21 (2010)",
+            "Value": "A correlation has been established between estrogenic compounds in effluents from sewage treatment plants and the occurrence of vitellogenin (a female specific egg-yolk precursor) production in males(1) and intersex in fish living in the receiving environment(2). Grey mullet were collected from Ansan, Jeju, Yeoso, Tongyeong, and Busan in Kirea and Nagasaki, Omuta, and Fukuoka in Japan. Contamination by environmental estrogens was evident as indicated by vitellogenin levels in serum greater that 1.0 ug/mL(3). Samples downstream from 2 sewage treatment plants as well as from bleached craft mill industry, 5 rivers in the Walloon region (southern Belgium). Results indicate significant estrogenicity of effluents from STP and BKME; however estradiol equivalents estimated into rivers were probably too low to impact the wild population. Vitellogenin over-expression was found for male fish presenting a feminization of the reproductive tract captured downstream from the STP station in Wegnez in the Vesdre River. Intersexuality , another indicator of the estrogencity impact in fish, was observed in every site(4)."
+        },
+        {
+            "References": "(1) Kuhnle GGC et al; J Agric Food Chem 56: 10099-10104 (2008)",
+            "Value": "Average phytoestrogen levels in foods purchased in Cambridgeshire, Great Britain (detection limit = 1.5 ug/100 g dry weight)(1).",
+            "Table": "[{'Food': 'Salmon', 'Concentration': 4}, {'Food': 'Cod, microwaved', 'Concentration': 2}, {'Food': 'Mussels', 'Concentration': 9}, {'Food': 'Prawns, frozen', 'Concentration': 8}, {'Food': 'Tuna, canned, brine', 'Concentration': 6}]"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "American Society of Health System Pharmacists; AHFS Drug   Information 2010. Bethesda, MD. (2010), p. 3137",
+            "Value": "The principal pharmacologic effects of conjugated estrogens are similar to those of other natural and synthetic estrogens."
+        },
+        {
+            "References": "American Society of Health System Pharmacists; AHFS Drug   Information 2010. Bethesda, MD. (2010), p. 3130",
+            "Value": "Estrogens have an important role in the reproductive, skeletal, cardiovascular, and central nervous systems in women, and act principally by regulating gene expression. Biologic response is initiated when estrogen binds to a ligand-binding domain of the estrogen receptor resulting in a conformational change that leads to gene transcription through specific estrogen response elements (ERE) of target gene promoters; subsequent activation or repression of the target gene is mediated through 2 distinct transactivation domains (ie, AF-1 and AF-2) of the receptor. The estrogen receptor also mediates gene transcription using different response elements (ie, AP-1) and other signal pathways. Recent advances in the molecular pharmacology of estrogen and estrogen receptors have resulted in the development of selective estrogen receptor modulators (eg, clomiphene, raloxifene, tamoxifen, toremifene), agents that bind and activate the estrogen receptor but that exhibit tissue-specific effects distinct from estrogen. Tissue-specific estrogen-agonist or -antagonist activity of these drugs appears to be related to structural differences in their estrogen receptor complex (eg, specifically the surface topography of AF-2 for raloxifene) compared with the estrogen (estradiol)-estrogen receptor complex. A second estrogen receptor also has been identified, and existence of at least 2 estrogen receptors (ER-alpha, ER-beta) may contribute to the tissue-specific activity of selective modulators. While the role of the estrogen receptor in bone, cardiovascular tissue, and the CNS continues to be studied, emerging evidence indicates that the mechanism of action of estrogen receptors in these tissues differs from the manner in which estrogen receptors function in reproductive tissue. /Estrogen General Statement/"
+        },
+        {
+            "References": "American Society of Health System Pharmacists; AHFS Drug   Information 2010. Bethesda, MD. (2010), p. 3130",
+            "Value": "Intracellular cytosol-binding proteins for estrogens have been identified in estrogen-responsive tissues including the female genital organs, breasts, pituitary, and hypothalamus. The estrogen-binding protein complex (ie, cytosol-binding protein and estrogen) distributes into the cell nucleus where it stimulates DNA, RNA, and protein synthesis. The presence of these receptor proteins is responsible for the palliative response to estrogen therapy in women with metastatic carcinoma of the breast. /Estrogen General Statement/"
+        },
+        {
+            "References": "American Society of Health System Pharmacists; AHFS Drug   Information 2010. Bethesda, MD. (2010), p. 3130",
+            "Value": "Estrogens have generally favorable effects on blood cholesterol and phospholipid concentrations. Estrogens reduce LDL-cholesterol and increase HDL-cholesterol concentrations in a dose-related manner. The decrease in LDL-cholesterol concentrations associated with estrogen therapy appears to result from increased LDL catabolism, while the increase in triglyceride concentrations is caused by increased production of large, triglyceride-rich, very-low-density lipoproteins (VLDLs); changes in serum HDL-cholesterol concentrations appear to result principally from an increase in the cholesterol and apolipoprotein A-1 content of HDL2- and a slight increase in HDL3-cholesterol. /Estrogen General Statement/"
+        },
+        {
+            "References": "American Society of Health System Pharmacists; AHFS Drug   Information 2010. Bethesda, MD. (2010), p. 3130",
+            "Value": "Estrogens have a weak anabolic effect and may cause sodium retention with associated fluid retention and edema. Estrogens also affect bone by increasing calcium deposition and accelerating epiphyseal closure, following initial growth stimulation. /Estrogen General Statement/"
+        },
+        {
+            "References": "American Society of Health System Pharmacists; AHFS Drug   Information 2010. Bethesda, MD. (2010), p. 3130",
+            "Value": "Other effects of estrogens that may contribute to effects on cardiovascular risk indicators include reduction of insulin and blood glucose concentrations and direct effects on blood vessels. Estrogen receptors have been identified in the heart and coronary arteries, suggesting that estrogens may have specific effects on these tissues. /Estrogen General Statement/"
+        },
+        {
+            "References": "PMID:16533397",
+            "Value": "Results of the Women's Health Initiative Memory Study (WHIMS) raised concerns regarding the timing and formulation of hormone interventions. Conjugated equine estrogens (CEE), used as the estrogen therapy in the WHIMS trial, is a complex formulation containing multiple estrogens, including several not secreted by human ovaries, as well as other biologically active steroids. Although the full spectrum of estrogenic components present in CEE has not yet been resolved, 10 estrogens have been identified. In the present study, /investigators/ sought to determine which estrogenic components, at concentrations commensurate with their plasma levels achieved following a single oral dose of 0.625 mg CEE (the dose used in the WHIMS trial) in women, are neuroprotective and whether combinations of those neuroprotective estrogens provide added benefit. Further, /investigators/ sought, through computer-aided modeling analyses, to investigate the potential correlation of the molecular mechanisms that conferred estrogen neuroprotection with estrogen interactions with the estrogen receptor (ER). Cultured basal forebrain neurons were exposed to either beta-amyloid(25-35) or excitotoxic glutamate with or without pretreatment with estrogens followed by neuroprotection analyses. Three indicators of neuroprotection that rely on different aspects of neuronal damage and viability, LDH release, intracellular ATP level and MTT formazan formation, were used to assess neuroprotective efficacy. Results of these analyses indicate that the estrogens, 17alpha-estradiol, 17beta-estradiol, equilin, 17alpha-dihydroequilin, equilinen, 17alpha-dihydroequilenin, 17beta-dihydroequilenin, and Delta8,9-dehydroestrone were each significantly neuroprotective in reducing neuronal plasma membrane damage induced by glutamate excitotoxicity. Of these estrogens, 17beta-estradiol and Delta8,9-dehydroestrone were effective in protecting neurons against beta-amyloid25-35-induced intracellular ATP decline. Coadministration of two out of three neuroprotective estrogens, 17beta-estradiol, equilin and Delta8,9-dehydroestrone, exerted greater neuroprotective efficacy than individual estrogens. Computer-aided analyses to determine structure/function relationships between the estrogenic structures and their neuroprotective activity revealed that the predicted intermolecular interactions of estrogen analogues with ER correlate to their overall neuroprotective efficacy."
+        }
+    ]
+}

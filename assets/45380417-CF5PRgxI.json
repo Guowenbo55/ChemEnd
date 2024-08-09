@@ -1,0 +1,63 @@
+{
+    "_id": {
+        "$oid": "669270ef303528b49832d742"
+    },
+    "CID": {
+        "$numberInt": "45380417"
+    },
+    "Name": "Pyraoxystrobin",
+    "IUPACName": "methyl (E)-2-[2-[[5-(4-chlorophenyl)-2-methylpyrazol-3-yl]oxymethyl]phenyl]-3-methoxyprop-2-enoate",
+    "CanonicalSMILES": "CN1C(=CC(=N1)C2=CC=C(C=C2)Cl)OCC3=CC=CC=C3C(=COC)C(=O)OC",
+    "Synonyms": [
+        "PYRAOXYSTROBIN",
+        "862588-11-2",
+        "Pyraoxystrobin [ISO]",
+        "SZ7U7R7ZC8",
+        "CHEBI:83202",
+        "methyl (E)-2-[2-[[5-(4-chlorophenyl)-2-methylpyrazol-3-yl]oxymethyl]phenyl]-3-methoxyprop-2-enoate",
+        "Methyl (2E)-2-(2-(((3-(4-chlorophenyl)-1-methyl-1H-pyrazol-5-yl)oxy)methyl)phenyl)-3-methoxyprop-2-enoate",
+        "Benzeneacetic acid",
+        "2-[[[3-(4-chlorophenyl)-1-methyl-1H-pyrazol-5-yl]oxy]methyl]-a-(methoxymethylene)-",
+        "methyl ester",
+        "(aE)-; Pyraoxystrobin",
+        "methyl (2E)-2-[2-({[3-(4-chlorophenyl)-1-methyl-1H-pyrazol-5-yl]oxy}methyl)phenyl]-3-methoxyprop-2-enoate",
+        "Methyl (alphaE)-2-(((3-(4-chlorophenyl)-1-methyl-1H-pyrazol-5-yl)oxy)methyl)-alpha-(methoxymethylene)benzeneacetate",
+        "methyl (alphaE)-2-[[[3-(4-chlorophenyl)-1-methyl-1H-pyrazol-5-yl]oxy]methyl]-alpha-(methoxymethylene)benzeneacetate",
+        "UNII-SZ7U7R7ZC8",
+        "CHEMBL2285964",
+        "DTXSID7058202",
+        "SCHEMBL20823032"
+    ],
+    "IsomericSMILES": "CN1C(=CC(=N1)C2=CC=C(C=C2)Cl)OCC3=CC=CC=C3/C(=C\\OC)/C(=O)OC",
+    "INCHI": "InChI=1S/C22H21ClN2O4/c1-25-21(12-20(24-25)15-8-10-17(23)11-9-15)29-13-16-6-4-5-7-18(16)19(14-27-2)22(26)28-3/h4-12,14H,13H2,1-3H3/b19-14+",
+    "INCHIKEY": "URXNNPCNKVAQRA-XMHGGMMESA-N",
+    "Formula": "C22H21ClN2O4",
+    "MolecularWeight": {
+        "$numberDouble": "412.9"
+    },
+    "Description": "Pyraoxystrobin is an enoate ester that is the methyl ester of (2E)-2-[2-({[3-(4-chlorophenyl)-1-methyl-1H-pyrazol-5-yl]oxy}methyl)phenyl]-3-methoxyprop-2-enoic acid. A broad spectrum fungicide used to control a variety of diseases on rice, vegetables and teas. It has a role as a mitochondrial cytochrome-bc1 complex inhibitor and an antifungal agrochemical. It is an enoate ester, an enol ether, an aromatic ether, a member of pyrazoles, a member of monochlorobenzenes, a methyl ester and a methoxyacrylate strobilurin antifungal agent.",
+    "XlogP": {
+        "$numberDouble": "4.4"
+    },
+    "Complexity": {
+        "$numberInt": "565"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The investigation on pyraoxystrobin's uptake and distribution in cucumber seedlings revealed its systemic characteristics. Pyraoxystrobin, when applied foliarly, showed rapid penetration into the treated leaf, reaching a substantial uptake of 68% within 5 days. Interestingly, the absorbed pyraoxystrobin exhibited both upward (acropetal) and downward (basipetal) translocation in the cucumber seedlings. However, the majority, over 74%, remained confined within the treated leaves. The distribution sequence within the plant showcased a pattern from the treated leaf to various plant parts, indicating its systemic movement. Seedlings grown in soils containing bound residues of pyraoxystrobin revealed limited absorption or translocation through the roots. Soil type significantly impacted root uptake, with the highest absorption observed in red clay. This systemic behavior indicates that foliar applications of pyraoxystrobin could potentially influence various parts of the cucumber plant within a short period, emphasizing the need for further investigation to assess any potential environmental or health risks.",
+            "reference": "Liu, X., Chen, X., Ding, X., & Wu, H. (2018). Uptake and distribution characteristics of the novel fungicide pyraoxystrobin in cucumber plants. RSC Advances, 8(48), 27152\u201327156. doi:10.1039/c8ra05140b\u00a0",
+            "method": {
+                "Test Plant": "Cucumber",
+                "Apply Location": "Leaf (2 fully expanded leaf treated with 20 mL solution)",
+                "Plant Grown Condition": "Cucumber seeds germinated and seedlings grown in flowerpots containing soil (pH 6.95, silt 20.98%, sand 36.32%, clay 42.70%) in greenhouse at 28/16\u00b0C day/night, 80% humidity, 10h/14h light/dark cycle.",
+                "Chemical preparation": "14C labeled SYP-3343 with specific activity of 4.53 \u00d7 108 Bq/g and radiochemical/chemical purity >98%. Treating solution contained 5 mg/mL 14C-SYP-3343 and 0.25% surfactant Tween-80.",
+                "Received pesticide of plant": "Leaf treated with 20 mL treating solution containing 83 kBq/mL 14C-SYP-3343.",
+                "Other Information": "For leaf treatment, 3 seedlings harvested per time point with 7 harvest times. For soil study, 5 seeds sown in each of 3 replicate pots per treatment."
+            },
+            "result": "[{\"Time after Treatment\": \"0.25 day\", \"Treated Leaf\": \"74.06%\", \"Leaves Above\": \"5.10%\", \"Treated Leaf.1\": \"6.68%\", \"Stalk Above\": \"4.20%\", \"Treated Leaf.2\": \"6.62%\", \"Leaves Below\": \"0.88%\", \"Treated Leaf.3\": \"0.75%\", \"Stalk Below\": NaN, \"Treated Leaf.4\": NaN, \"Cotyledon\": NaN, \"Root\": NaN}, {\"Time after Treatment\": \"0.5 day\", \"Treated Leaf\": \"74.28%\", \"Leaves Above\": \"5.72%\", \"Treated Leaf.1\": \"6.73%\", \"Stalk Above\": \"4.09%\", \"Treated Leaf.2\": \"5.66%\", \"Leaves Below\": \"0.77%\", \"Treated Leaf.3\": \"0.73%\", \"Stalk Below\": NaN, \"Treated Leaf.4\": NaN, \"Cotyledon\": NaN, \"Root\": NaN}, {\"Time after Treatment\": \"1 day\", \"Treated Leaf\": \"74.74%\", \"Leaves Above\": \"5.85%\", \"Treated Leaf.1\": \"6.81%\", \"Stalk Above\": \"4.03%\", \"Treated Leaf.2\": \"5.53%\", \"Leaves Below\": \"0.76%\", \"Treated Leaf.3\": \"0.62%\", \"Stalk Below\": NaN, \"Treated Leaf.4\": NaN, \"Cotyledon\": NaN, \"Root\": NaN}, {\"Time after Treatment\": \"3 days\", \"Treated Leaf\": \"75.76%\", \"Leaves Above\": \"5.89%\", \"Treated Leaf.1\": \"6.95%\", \"Stalk Above\": \"3.87%\", \"Treated Leaf.2\": \"5.42%\", \"Leaves Below\": \"0.65%\", \"Treated Leaf.3\": \"0.63%\", \"Stalk Below\": NaN, \"Treated Leaf.4\": NaN, \"Cotyledon\": NaN, \"Root\": NaN}, {\"Time after Treatment\": \"5 days\", \"Treated Leaf\": \"75.98%\", \"Leaves Above\": \"6.54%\", \"Treated Leaf.1\": \"7.34%\", \"Stalk Above\": \"3.65%\", \"Treated Leaf.2\": \"4.43%\", \"Leaves Below\": \"0.66%\", \"Treated Leaf.3\": \"0.62%\", \"Stalk Below\": NaN, \"Treated Leaf.4\": NaN, \"Cotyledon\": NaN, \"Root\": NaN}, {\"Time after Treatment\": \"8 days\", \"Treated Leaf\": \"76.09%\", \"Leaves Above\": \"6.64%\", \"Treated Leaf.1\": \"7.53%\", \"Stalk Above\": \"3.69%\", \"Treated Leaf.2\": \"4.32%\", \"Leaves Below\": \"0.66%\", \"Treated Leaf.3\": \"0.61%\", \"Stalk Below\": NaN, \"Treated Leaf.4\": NaN, \"Cotyledon\": NaN, \"Root\": NaN}, {\"Time after Treatment\": \"14 days\", \"Treated Leaf\": \"76.15%\", \"Leaves Above\": \"7.23%\", \"Treated Leaf.1\": \"7.37%\", \"Stalk Above\": \"3.63%\", \"Treated Leaf.2\": \"4.29%\", \"Leaves Below\": \"0.60%\", \"Treated Leaf.3\": \"0.58%\", \"Stalk Below\": NaN, \"Treated Leaf.4\": NaN, \"Cotyledon\": NaN, \"Root\": NaN}]"
+        }
+    ]
+}

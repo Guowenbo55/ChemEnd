@@ -1,0 +1,86 @@
+{
+    "_id": {
+        "$oid": "6692710f303528b49832d7c0"
+    },
+    "CID": {
+        "$numberInt": "11158353"
+    },
+    "Name": "Fluopyram",
+    "IUPACName": "N-[2-[3-chloro-5-(trifluoromethyl)pyridin-2-yl]ethyl]-2-(trifluoromethyl)benzamide",
+    "CanonicalSMILES": "C1=CC=C(C(=C1)C(=O)NCCC2=C(C=C(C=N2)C(F)(F)F)Cl)C(F)(F)F",
+    "Synonyms": [
+        "Fluopyram",
+        "658066-35-4",
+        "Fluopyram [ISO]",
+        "N-[2-[3-Chloro-5-(trifluoromethyl)-2-pyridinyl]ethyl]-2-(trifluoromethyl)benzamide",
+        "N-{2-(3-chloro-5-(trifluoromethyl)-2-pyridyl)ethyl}-alpha,alpha,alpha-trifluoro-o-toluamide",
+        "CHEBI:83070",
+        "F0VT7K5302",
+        "N-{2-[3-chloro-5-(trifluoromethyl)pyridin-2-yl]ethyl}-2-(trifluoromethyl)benzamide",
+        "n-[2-[3-chloro-5-(trifluoromethyl)-2-pyridinyl]ethyl]-2-trifluoromethylbenzamide",
+        "N-[2-[3-chloro-5-(trifluoromethyl)pyridin-2-yl]ethyl]-2-(trifluoromethyl)benzamide",
+        "N-[2-[3-Chloro-5-(trifluoromethyl)-2-pyridyl]ethyl]-2-(trifluoromethyl)benzamide",
+        "UNII-F0VT7K5302",
+        "N-(2-(3-CHLORO-5-(TRIFLUOROMETHYL)-2-PYRIDINYL)ETHYL)-2-(TRIFLUOROMETHYL)BENZAMIDE",
+        "N-{2-[3-chloro-5-(trifluoromethyl)-2-pyridyl]ethyl}-alpha,alpha,alpha-trifluoro-o-toluamide",
+        "AE C656948"
+    ],
+    "IsomericSMILES": "C1=CC=C(C(=C1)C(=O)NCCC2=C(C=C(C=N2)C(F)(F)F)Cl)C(F)(F)F",
+    "INCHI": "InChI=1S/C16H11ClF6N2O/c17-12-7-9(15(18,19)20)8-25-13(12)5-6-24-14(26)10-3-1-2-4-11(10)16(21,22)23/h1-4,7-8H,5-6H2,(H,24,26)",
+    "INCHIKEY": "KVDJTXBXMWJJEF-UHFFFAOYSA-N",
+    "Formula": "C16H11ClF6N2O",
+    "MolecularWeight": {
+        "$numberDouble": "396.71"
+    },
+    "Description": "Fluopyram is a member of the class of benzamides, obtained by formal condensation of the carboxy group of 2-(trifluoromethyl)benzoic acid with the amino group of 2-[3-chloro-5-(trifluoromethyl)pyridin-2-yl]ethylamine. A fungicide used for foiliar application and as a seed treatment in order to control botrystis, powdery mildew and other diseases. It has a role as an EC 1.3.5.1 [succinate dehydrogenase (quinone)] inhibitor and an antifungal agrochemical. It is a member of benzamides, an organochlorine compound, a member of pyridines, a member of (trifluoromethyl)benzenes and a benzamide fungicide.",
+    "XlogP": {
+        "$numberDouble": "4.5"
+    },
+    "Complexity": {
+        "$numberInt": "484"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "The study investigated the uptake and distribution of fungicides fluopyram and tebuconazole in tomato and bell pepper plants following soil drench application of their combination product fluopyram 17.7% + tebuconazole 17.7%. The QuEChERS method with LC-MS/MS was used for extraction and cleanup of samples, with LOD and LOQ of 1.5 \u03bcgkg\u22121 and 0.005 mg kg\u22121, respectively. Rapid uptake of the fungicides by both plants was observed from the first day, with major accumulation in tomato roots and in both bell pepper roots and leaves. Residue accumulation in fruits was lowest and well below MRLs, with maximum concentrations in tomato fruits of 0.060 mg kg\u22121 for fluopyram and 0.009 mg kg\u22121 for tebuconazole, and in bell pepper fruits of 0.080 mg kg\u22121 for fluopyram and 0.013 mg kg\u22121 for tebuconazole. In field soil, initial fluopyram residues were 3.18\u20133.570 mg kg\u22121 and dissipated with a half-life of 36 days, while tebuconazole concentrations were 1.57\u20131.892 mg kg\u22121 initially and dissipated with a half-life of 44.5\u201349.5 days. The major metabolite, fluopyram benzamide, was detected in plant tissues and soil, remaining within 12% of the parent compound. These results suggest that the entry of fluopyram and tebuconazole into the food chain through tomato and bell pepper fruits is unlikely if grown in soil contaminated with these fungicides.",
+            "reference": "Matadha, N. Y., Mohapatra, S., Siddamallaiah, L., Udupi, V. R., Gadigeppa, S., & Raja, D. P. (2019). Uptake and distribution of fluopyram and tebuconazole residues in tomato and bell pepper plant tissues. Environmental Science and Pollution Research, 26, 6077-6086.",
+            "method": {
+                "Test Plant": "Solanum lycopersicum variety 'ArkaRakshak' (tomato)",
+                "Apply Location": "soil drench at a rate of 0.5 mL/L of water at the fruiting stage.",
+                "Plant Grown Condition": "The plants were grown in sandy loam soil (Typic Haplustalf) with a pH of 6.6 and organic carbon content of 0.4%. They were maintained in an experimental field at the Indian Institute of Horticulture Research, Bengaluru (latitude 13.13\u00b0N, longitude 77.49\u00b0E), from October 2017 to January 2018.",
+                "Chemical Preparation": "Certified reference materials of fluopyram (purity 99.4%), fluopyram benzamide (purity 99.4%), and tebuconazole (purity 96.6%) were used. LCMS/MS-grade acetonitrile, methanol, acetic acid, ammonium formate, and formic acid were also used.",
+                "Pesticide Application Details for the Plant": "The formulated product was applied as a soil drench at the fruiting stage. The tomato and bell pepper plants were chosen for the study in a randomized block design with a plot size of 5m \u00d7 5m, and a plant-to-plant distance of 60 cm was maintained.",
+                "Other Information": "The field study was conducted with three replications of treatments."
+            },
+            "result": "[{\"Days after application\": 1, \"Fruit (mg/kg)\": \"Not Detected\", \"Leaves (mg/kg)\": 0.01, \"Stem (mg/kg)\": \"Not Detected\", \"Root (mg/kg)\": \"Not Detected\", \"Soil (mg/kg)\": 0.005}, {\"Days after application\": 3, \"Fruit (mg/kg)\": \"Not Detected\", \"Leaves (mg/kg)\": 0.027, \"Stem (mg/kg)\": \"Not Detected\", \"Root (mg/kg)\": \"Not Detected\", \"Soil (mg/kg)\": 0.005}, {\"Days after application\": 5, \"Fruit (mg/kg)\": \"Not Detected\", \"Leaves (mg/kg)\": 0.038, \"Stem (mg/kg)\": \"Not Detected\", \"Root (mg/kg)\": \"0.005\", \"Soil (mg/kg)\": 0.005}, {\"Days after application\": 7, \"Fruit (mg/kg)\": \"Not Detected\", \"Leaves (mg/kg)\": 0.04, \"Stem (mg/kg)\": \"Not Detected\", \"Root (mg/kg)\": \"0.005\", \"Soil (mg/kg)\": 0.005}, {\"Days after application\": 10, \"Fruit (mg/kg)\": \"Not Detected\", \"Leaves (mg/kg)\": 0.041, \"Stem (mg/kg)\": \"Not Detected\", \"Root (mg/kg)\": \"0.005\", \"Soil (mg/kg)\": 0.005}, {\"Days after application\": 15, \"Fruit (mg/kg)\": \"Not Detected\", \"Leaves (mg/kg)\": 0.064, \"Stem (mg/kg)\": \"Not Detected\", \"Root (mg/kg)\": \"0.006\", \"Soil (mg/kg)\": 0.007}, {\"Days after application\": 20, \"Fruit (mg/kg)\": \"Not Detected\", \"Leaves (mg/kg)\": 0.065, \"Stem (mg/kg)\": \"Not Detected\", \"Root (mg/kg)\": \"0.005\", \"Soil (mg/kg)\": 0.022}, {\"Days after application\": 25, \"Fruit (mg/kg)\": \"Not Detected\", \"Leaves (mg/kg)\": 0.087, \"Stem (mg/kg)\": \"0.006\", \"Root (mg/kg)\": \"0.006\", \"Soil (mg/kg)\": 0.025}, {\"Days after application\": 30, \"Fruit (mg/kg)\": \"0.005\", \"Leaves (mg/kg)\": 0.108, \"Stem (mg/kg)\": \"0.005\", \"Root (mg/kg)\": \"0.007\", \"Soil (mg/kg)\": 0.027}, {\"Days after application\": 40, \"Fruit (mg/kg)\": \"0.006\", \"Leaves (mg/kg)\": 0.115, \"Stem (mg/kg)\": \"0.005\", \"Root (mg/kg)\": \"0.008\", \"Soil (mg/kg)\": 0.032}, {\"Days after application\": 50, \"Fruit (mg/kg)\": \"0.007\", \"Leaves (mg/kg)\": 0.124, \"Stem (mg/kg)\": \"0.006\", \"Root (mg/kg)\": \"0.006\", \"Soil (mg/kg)\": 0.037}, {\"Days after application\": 60, \"Fruit (mg/kg)\": \"0.005\", \"Leaves (mg/kg)\": 0.127, \"Stem (mg/kg)\": \"Not Detected\", \"Root (mg/kg)\": \"0.007\", \"Soil (mg/kg)\": 0.08}]"
+        },
+        {
+            "content": "The study investigated the uptake and distribution of fungicides fluopyram and tebuconazole in tomato and bell pepper plants following soil drench application of their combination product fluopyram 17.7% + tebuconazole 17.7%. The QuEChERS method with LC-MS/MS was used for extraction and cleanup of samples, with LOD and LOQ of 1.5 \u03bcgkg\u22121 and 0.005 mg kg\u22121, respectively. Rapid uptake of the fungicides by both plants was observed from the first day, with major accumulation in tomato roots and in both bell pepper roots and leaves. Residue accumulation in fruits was lowest and well below MRLs, with maximum concentrations in tomato fruits of 0.060 mg kg\u22121 for fluopyram and 0.009 mg kg\u22121 for tebuconazole, and in bell pepper fruits of 0.080 mg kg\u22121 for fluopyram and 0.013 mg kg\u22121 for tebuconazole. In field soil, initial fluopyram residues were 3.18\u20133.570 mg kg\u22121 and dissipated with a half-life of 36 days, while tebuconazole concentrations were 1.57\u20131.892 mg kg\u22121 initially and dissipated with a half-life of 44.5\u201349.5 days. The major metabolite, fluopyram benzamide, was detected in plant tissues and soil, remaining within 12% of the parent compound. These results suggest that the entry of fluopyram and tebuconazole into the food chain through tomato and bell pepper fruits is unlikely if grown in soil contaminated with these fungicides.",
+            "reference": "Matadha, N. Y., Mohapatra, S., Siddamallaiah, L., Udupi, V. R., Gadigeppa, S., & Raja, D. P. (2019). Uptake and distribution of fluopyram and tebuconazole residues in tomato and bell pepper plant tissues. Environmental Science and Pollution Research, 26, 6077-6086.",
+            "method": {
+                "Test Plant": "Solanum lycopersicum variety 'ArkaRakshak' (tomato)",
+                "Apply Location": "soil drench at a rate of 0.5 mL/L of water at the fruiting stage.",
+                "Plant Grown Condition": "The plants were grown in sandy loam soil (Typic Haplustalf) with a pH of 6.6 and organic carbon content of 0.4%. They were maintained in an experimental field at the Indian Institute of Horticulture Research, Bengaluru (latitude 13.13\u00b0N, longitude 77.49\u00b0E), from October 2017 to January 2018.",
+                "Chemical Preparation": "Certified reference materials of fluopyram (purity 99.4%), fluopyram benzamide (purity 99.4%), and tebuconazole (purity 96.6%) were used. LCMS/MS-grade acetonitrile, methanol, acetic acid, ammonium formate, and formic acid were also used.",
+                "Pesticide Application Details for the Plant": "The formulated product was applied as a soil drench at the fruiting stage. The tomato and bell pepper plants were chosen for the study in a randomized block design with a plot size of 5m \u00d7 5m, and a plant-to-plant distance of 60 cm was maintained.",
+                "Other Information": "The field study was conducted with three replications of treatments."
+            },
+            "result": "[{\"Days after application\": 1, \"Fruit (mg/kg)\": \"Not Detected\", \"Leaves (mg/kg)\": 0.13, \"Stem (mg/kg)\": 0.058, \"Root (mg/kg)\": 1.355, \"Soil (mg/kg)\": 3.14}, {\"Days after application\": 3, \"Fruit (mg/kg)\": \"Not Detected\", \"Leaves (mg/kg)\": 0.724, \"Stem (mg/kg)\": 0.066, \"Root (mg/kg)\": 1.4, \"Soil (mg/kg)\": 2.77}, {\"Days after application\": 5, \"Fruit (mg/kg)\": \"0.008\", \"Leaves (mg/kg)\": 0.752, \"Stem (mg/kg)\": 0.088, \"Root (mg/kg)\": 1.513, \"Soil (mg/kg)\": 2.585}, {\"Days after application\": 7, \"Fruit (mg/kg)\": \"0.012\", \"Leaves (mg/kg)\": 0.752, \"Stem (mg/kg)\": 0.1, \"Root (mg/kg)\": 1.7, \"Soil (mg/kg)\": 2.4}, {\"Days after application\": 10, \"Fruit (mg/kg)\": \"0.014\", \"Leaves (mg/kg)\": 0.792, \"Stem (mg/kg)\": 0.111, \"Root (mg/kg)\": 1.875, \"Soil (mg/kg)\": 2.16}, {\"Days after application\": 15, \"Fruit (mg/kg)\": \"0.024\", \"Leaves (mg/kg)\": 0.955, \"Stem (mg/kg)\": 0.14, \"Root (mg/kg)\": 1.9, \"Soil (mg/kg)\": 2.0}, {\"Days after application\": 20, \"Fruit (mg/kg)\": \"0.023\", \"Leaves (mg/kg)\": 1.26, \"Stem (mg/kg)\": 0.15, \"Root (mg/kg)\": 1.95, \"Soil (mg/kg)\": 1.775}, {\"Days after application\": 25, \"Fruit (mg/kg)\": \"0.030\", \"Leaves (mg/kg)\": 1.475, \"Stem (mg/kg)\": 0.19, \"Root (mg/kg)\": 1.94, \"Soil (mg/kg)\": 1.56}, {\"Days after application\": 30, \"Fruit (mg/kg)\": \"0.045\", \"Leaves (mg/kg)\": 1.713, \"Stem (mg/kg)\": 0.244, \"Root (mg/kg)\": 1.881, \"Soil (mg/kg)\": 1.49}, {\"Days after application\": 40, \"Fruit (mg/kg)\": \"0.050\", \"Leaves (mg/kg)\": 1.558, \"Stem (mg/kg)\": 0.3, \"Root (mg/kg)\": 1.85, \"Soil (mg/kg)\": 1.32}, {\"Days after application\": 50, \"Fruit (mg/kg)\": \"0.080\", \"Leaves (mg/kg)\": 1.136, \"Stem (mg/kg)\": 0.261, \"Root (mg/kg)\": 1.72, \"Soil (mg/kg)\": 1.17}, {\"Days after application\": 60, \"Fruit (mg/kg)\": \"0.051\", \"Leaves (mg/kg)\": 1.226, \"Stem (mg/kg)\": 0.236, \"Root (mg/kg)\": 1.592, \"Soil (mg/kg)\": 1.08}]"
+        },
+        {
+            "content": "The present study aimed to investigate the distribution and migration of eleven systemic and non-systemic pesticides between the skin and pulp of apples. It also examined the behavior of these pesticides during thermal processes ranging from 40\u00b0C to 150\u00b0C in two apple varieties. Gas and liquid chromatography-tandem mass spectrometry were employed for analytical investigations. Variations in pesticide concentrations between the pulp and skin were observed depending on the apple variety. Pirimicarb showed the highest transfer to the pulp, while boscalid and deltamethrin remained predominantly on the skin. Surprisingly, boscalid was found to be more present in the apple skin than in the pulp. Drying and dry pasteurization processes were the most effective in reducing pesticide levels in apples with and without skin, respectively. Thermal processes resulted in processing factors ranging from 0.06 to 0.98 for ten pesticides, with acetamiprid being the only pesticide whose levels were not decreased. The study discussed the relationship between pesticide distribution, behavior, and physico-chemical properties, particularly water solubility. The findings contribute to a better understanding of pesticide efficacy and removal in apples.",
+            "reference": "Hrynko, I., Kaczy\u0144ski, P., Pietruszy\u0144ska, M., & \u0141ozowicka, B. (2023). The effect of food thermal processes on the residue concentration of systemic and non-systemic pesticides in apples. Food Control, 143, 109267.",
+            "method": {
+                "Test Plant": "Two apple varieties (not specified)",
+                "Apply Location": "Surface application (skin)",
+                "Plant Grown Condition": "-",
+                "Chemical Preparation": "Eleven systemic and non-systemic pesticides - pirimicarb, boscalid, deltamethrin, and 8 others (not specified)",
+                "Pesticide Application Details for the Plant": "Pesticides applied to apple skin surface.  Fruit prepared in such a manner was subjected to artificial inoculation through submersion for 8 h in a solution containing selected plant protection products.",
+                "Other information and Other Information": "Study investigated distribution of pesticides between skin and pulp using GC/LC-MS/MS analysis. Relates pesticide behavior to physico-chemical properties like water solubility"
+            },
+            "result": "[{\"Size\": \"Medium-size apple\", \"% in apple pulp\": 11.3, \"% in apple skin\": 98.7}, {\"Size\": \"Large-size apple\", \"% in apple pulp\": 21.1, \"% in apple skin\": 88.9}]"
+        }
+    ]
+}

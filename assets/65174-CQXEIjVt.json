@@ -1,0 +1,60 @@
+{
+    "_id": {
+        "$oid": "66927116303528b49832d7dc"
+    },
+    "CID": {
+        "$numberInt": "65174"
+    },
+    "Name": "Kasugamycin",
+    "IUPACName": "2-amino-2-[(2R,3S,5S,6R)-5-amino-2-methyl-6-[(2S,3S,5S,6R)-2,3,4,5,6-pentahydroxycyclohexyl]oxyoxan-3-yl]iminoacetic acid",
+    "CanonicalSMILES": "CC1C(CC(C(O1)OC2C(C(C(C(C2O)O)O)O)O)N)N=C(C(=O)O)N",
+    "Synonyms": [
+        "KASUGAMYCIN",
+        "6980-18-3",
+        "Kasumin L",
+        "alpha-D-lyxo-",
+        "Kasumin 2L",
+        "Kasu B",
+        "Kasuminl",
+        "EINECS 234-260-3",
+        "O957UYB9DY",
+        "2-amino-2-[(2R,3S,5S,6R)-5-amino-2-methyl-6-[(2R,3S,5S,6S)-2,3,4,5,6-pentahydroxycyclohexyl]oxyoxan-3-yl]iminoacetic acid",
+        "CHEBI:81419",
+        "11030-24-3",
+        "3-O-(2-Amino-4-((carboxyiminomethyl)amino)-2,3,4,6-tetradeoxy-alpha-D-arabino-hexopyranosyl)-D-chiro-inositol sulphate",
+        "KSM",
+        "(1s,2r,3s,4r,5s,6s)-2,3,4,5,6-Pentahydroxycyclohexyl 2-Amino-4-{[carboxy(Imino)methyl]amino}-2,3,4,6-Tetradeoxy-Alpha-D-Arabino-Hexopyranoside"
+    ],
+    "IsomericSMILES": "C[C@@H]1[C@H](C[C@@H]([C@H](O1)OC2[C@@H]([C@H](C([C@@H]([C@@H]2O)O)O)O)O)N)N=C(C(=O)O)N",
+    "INCHI": "InChI=1S/C14H25N3O9/c1-3-5(17-12(16)13(23)24)2-4(15)14(25-3)26-11-9(21)7(19)6(18)8(20)10(11)22/h3-11,14,18-22H,2,15H2,1H3,(H2,16,17)(H,23,24)/t3-,4+,5+,6?,7+,8+,9-,10+,11?,14-/m1/s1",
+    "INCHIKEY": "PVTHJAPFENJVNC-UQTMRZPGSA-N",
+    "Formula": "C14H25N3O9",
+    "MolecularWeight": {
+        "$numberDouble": "379.36"
+    },
+    "Description": "Kasugamycin is an amino cyclitol glycoside that is isolated from Streptomyces kasugaensis and exhibits antibiotic and fungicidal properties. It has a role as a bacterial metabolite, a protein synthesis inhibitor and an antifungal agrochemical. It is an amino cyclitol glycoside, an aminoglycoside antibiotic, a monosaccharide derivative, a carboxamidine and an antibiotic fungicide.",
+    "XlogP": {
+        "$numberDouble": "-6.7"
+    },
+    "Complexity": {
+        "$numberInt": "532"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Kasugamycin (KSM), an aminoglycoside antibiotic, is commonly used to manage plant diseases, particularly rice blast in Asia. However, its uptake and transport mechanisms in plants have not been well understood. This study used castor bean (Ricinus communis L.) seedlings as a model to investigate KSM's uptake and transport. The results indicated that KSM applied to cotyledons could be transported into the phloem and distributed in the root and shoot of the plant. Factors such as temperature, concentration, and pH significantly influenced KSM uptake, suggesting an active carrier system. Competitive inhibitors of sugar transporters (D-glucose, D-chiroinositol, and phloridzin) and energy inhibitors (dinitrophenol and carbonyl cyanide chlorophenylhydrazone) also affected KSM uptake, indicating that KSM is transported by a sugar transporter. The study provides insights into plant-microbe interactions regarding the transport of microbial secondary metabolites in plants. This understanding is significant for the scientific application of antibiotics, biological control of plant diseases, and the development of bidirectional transport pesticides.",
+            "reference": "Zhang, H., Zhang, C., Xiang, X., Zhang, Q., Zhao, W., Wei, G., & Hu, A. (2022). Uptake and transport of antibiotic kasugamycin in castor bean (Ricinus communis L.) seedlings. Frontiers in Microbiology, 13, 948171.",
+            "method": {
+                "Test Plant": "Castor bean (Ricinus communis cv. Castor bean No. 9)",
+                "Apply Location": "Root application (hydroponic system)",
+                "Plant Grown Condition": "Seeds germinated in humid cotton at 27\u00b0C for 24 h, then transferred to incubator. Grown at 27 \u00b1 1\u00b0C, 80% RH, 14 h photoperiod. 7 and 14-day-old seedlings used for experiments",
+                "Chemical Preparation": "Karakosam C (KSM, 90% pure), phloridzin, dinitrophenol, carbonyl cyanide chlorophenylhydrazone, D-glucose, D-chiro-inositol purchased. KSM-NBD fluorescent conjugate synthesized",
+                "Pesticide Application Details for the Plant": "14-day-old seedlings grown hydroponically in Hoagland solution. Cotyledons incubated in 0.1 mM KSM or KSM-NBD solution (90 \u00b1 5% RH, 27\u00b0C, 14 h photoperiod)",
+                "Other information and Other Information": "Samples extracted in methanol:water (9:1) for HPLC-MS/MS analysis. KSM-NBD treated samples used for fluorescence microscopy. 3 replicates with 1 seedling each for transport study"
+            },
+            "result": "[{\"Hours after application\": 24, \"Leaf (ug/g)\": 0.939, \"Stem (ug/g)\": 0.992, \"Root (ug/g)\": 1.493}, {\"Hours after application\": 48, \"Leaf (ug/g)\": 1.579, \"Stem (ug/g)\": 1.856, \"Root (ug/g)\": 3.19}]"
+        }
+    ]
+}

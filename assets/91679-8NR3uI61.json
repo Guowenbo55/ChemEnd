@@ -1,0 +1,62 @@
+{
+    "_id": {
+        "$oid": "66927107303528b49832d7a3"
+    },
+    "CID": {
+        "$numberInt": "91679"
+    },
+    "Name": "Dimepiperate",
+    "IUPACName": "S-(2-phenylpropan-2-yl) piperidine-1-carbothioate",
+    "CanonicalSMILES": "CC(C)(C1=CC=CC=C1)SC(=O)N2CCCCC2",
+    "Synonyms": [
+        "Dimepiperate",
+        "61432-55-1",
+        "Dimepiperate [ISO]",
+        "1-Piperidinecarbothioic acid",
+        "S-(1-methyl-1-phenylethyl) ester",
+        "S-(2-phenylpropan-2-yl) piperidine-1-carbothioate",
+        "S-1-Methyl-1-phenylethyl piperidine 1-carbothioate",
+        "3WIT88R79X",
+        "Yukamate",
+        "[(2-phenylpropan-2-yl)sulfanyl](piperidin-1-yl)methanone",
+        "MY 93",
+        "MUW 1193",
+        "EINECS 262-784-2",
+        "UNII-3WIT88R79X",
+        "Dimepiperate; MUW 1193; MY 93; Yukamate; 1-Piperidinecarbothioic acid",
+        "S-(1-methyl-1-phenylethyl) ester",
+        "S-(1-Methyl-1-phenylethyl) piperidine-1-carbothioate"
+    ],
+    "IsomericSMILES": "CC(C)(C1=CC=CC=C1)SC(=O)N2CCCCC2",
+    "INCHI": "InChI=1S/C15H21NOS/c1-15(2,13-9-5-3-6-10-13)18-14(17)16-11-7-4-8-12-16/h3,5-6,9-10H,4,7-8,11-12H2,1-2H3",
+    "INCHIKEY": "BWUPSGJXXPATLU-UHFFFAOYSA-N",
+    "Formula": "C15H21NOS",
+    "MolecularWeight": {
+        "$numberDouble": "263.4"
+    },
+    "Description": "Dimepiperate is a monothiocarbamic ester and a piperidinecarboxylate ester.",
+    "XlogP": {
+        "$numberDouble": "3.6"
+    },
+    "Complexity": {
+        "$numberInt": "278"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "To investigate the mode of safening of dimepiperate (S-1-methyl-1-phenyl-ethyl piperidine-1-carbothioate) on clomeprop (2,4-dichloro-3-methylphenoxy) injury to 7-day-old rice seedlings, the effect of dimepiperate on absorption and translocation was studied. Dimepiperate, a safening agent, has a highly selective effect on clomeprop metabolism in rice plants. Clomeprop at a concentration of 10-6 M reduced shoot growth to 81% of the non-treated control, but this inhibition was reversed by the addition of 10-5 M dimepiperate. Dimepiperate did not affect the absorption rate of clomeprop in rice seedlings, nor did it enhance the translocation of 14C-clomeprop from roots to shoots or the metabolism of clomeprop to DMPA (2-(2,4-dichloro-3-methylphenoxy) propionic acid). In roots of dimepiperate-treated rice plants, the amount of the herbicidally active compound, DMPA, was slightly decreased, while the amount of the non-phytotoxic compound, 3-CH2OH-DMPA, was increased compared to untreated plants.",
+            "reference": "\u674e\u5ea6\u93ad, \u81fc\u4e95\u5065\u4e8c, \u677e\u672c\u5b8f, & \u77f3\u585a\u7693\u9020. (1993). Mechanism of safening action of dimepiperate on clomeprop injury in rice seedlings. \u96d1\u8349\u7814\u7a76, 38(4), 294-299.",
+            "method": {
+                "Test Plant": "Rice (Oryza sativa L. cv. Nipponbare)",
+                "Apply Location": "Root application",
+                "Plant Grown Condition": "Rice seeds were germinated by soaking in distilled water and incubating at 30\u00b0C in darkness for 3 days. Germinated seeds were then transferred to plastic trays containing Kasugai nutrient solution and grown for 7 days in a greenhouse controlled at 30/22\u00b0C day/night temperatures.",
+                "Chemical Preparation": "Analytical grade clomeprop (98% pure), 14C-labeled clomeprop (uniformly benzene-ring labeled, 162 kBq/\u03bcmol specific activity), and dimepiperate (97% pure) were used. Clomeprop and 14C-clomeprop solutions were prepared in an unspecified manner.",
+                "Pesticide Application Details for the Plant": "For absorption/translocation study, 7-day-old rice seedling roots were soaked in 1x10^-6 M 14C-clomeprop (162 kBq/l) solution with or without 10^-5 M dimepiperate for 24 and 48 hrs. For metabolism study, roots of 50 seedlings were exposed to the 14C-clomeprop solution for 24 and 48 hrs.",
+                "Other Information": "After treatment, plants were sampled at 3, 8, 24 and 48 hr intervals to quantify 14C in various parts by liquid scintillation spectrometry and autoradiography. For metabolism analysis, roots were extracted, and extracts were analyzed by solvent partitioning and hydrolysis."
+            },
+            "result": "[{\"Hours after application\": 24, \"Shoot (% of absorbed)\": 4.46, \"Root (%)\": 60.9}, {\"Hours after application\": 48, \"Shoot (% of absorbed)\": 3.54, \"Root (%)\": 50.9}]"
+        }
+    ]
+}

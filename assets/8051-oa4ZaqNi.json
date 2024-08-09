@@ -1,0 +1,160 @@
+{
+    "_id": {
+        "$oid": "6682e8a5c4e5dba5ffba26a1"
+    },
+    "CID": {
+        "$numberInt": "8051"
+    },
+    "Name": "2-HEPTANONE",
+    "IUPACName": "heptan-2-one",
+    "CanonicalSMILES": "CCCCCC(=O)C",
+    "Synonyms": [
+        "2-HEPTANONE",
+        "Heptan-2-one",
+        "110-43-0",
+        "Methyl pentyl ketone",
+        "Butylacetone",
+        "Amyl methyl ketone",
+        "Methyl amyl ketone",
+        "Methyl n-amyl ketone",
+        "n-Amyl methyl ketone",
+        "n-Pentyl methyl ketone",
+        "Pentyl methyl ketone",
+        "Methyl n-pentyl ketone",
+        "Heptanone",
+        "Ketone",
+        "methyl pentyl",
+        "Amyl-methyl-cetone"
+    ],
+    "IsomericSMILES": "CCCCCC(=O)C",
+    "INCHI": "InChI=1S/C7H14O/c1-3-4-5-6-7(2)8/h3-6H2,1-2H3",
+    "INCHIKEY": "CATSNJVOTSVZJV-UHFFFAOYSA-N",
+    "Formula": "C7H14O",
+    "MolecularWeight": {
+        "$numberDouble": "114.19"
+    },
+    "Description": "Heptan-2-one is a dialkyl ketone with methyl and pentyl as the alkyl groups. It has a role as a pheromone and a mouse metabolite. It is a dialkyl ketone and a methyl ketone.",
+    "XlogP": {
+        "$numberDouble": "2"
+    },
+    "Complexity": {
+        "$numberInt": "66"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Lande SS et al; Investigation of Selected Environmental Contaminants: Ketonic Solvents USEPA-560/2-76-003 (1976) (2) O'Neil MJ, ed; The Merck Index. 13th ed, Whitehouse  Station, NJ:  Merck and Co., Inc., p. 832 (2001) (3) Tatsuka K et al; J Agric Food Chem 38: 2176-80 (1990)",
+            "Value": "2-Heptanone is a natural product and is a component of foods(1), oil of cloves and cinnamon-bark oil(2) and identified as a volatile constituent of Kiwi fruit flowers(3)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 35 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 7 was calculated for 2-heptanone(SRC), using a log Kow of 1.98(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Malaney GE, Gerhold RM; Proc 17th Ind Waste Conf Eng Bull Purdue Univ Eng Ext Ser 112: 249-57 (1962) (2) Gerhold RM, Malaney GW; J Wat Pollut Control Fed 38: 562-79 (1966) (3) Dore M et al; La Tribune du Cebedeau 28: 3-11 (1975) (4) Heukelekian H, Rand MC; J Water Pollut Contr Assoc 29: 1040-53 (1955) (5) Mills EVJR, Stack VTJR; pp. 492-517 in Proc 8th Ind Waste Conf. Eng Bull Purdue Univ Eng Ext Ser (1962) (6) Perry JJ; Antonie Van Leeuwenhoek 34: 27-36 (1968)",
+            "Value": "AEROBIC: 2-Heptanone was found to undergo aerobic oxidation after a short lag period when inoculated with an unactivated sewage sludge seed(1). 2-Heptanone had a theoretical biological oxygen demand (BOD) of 1.4%, 2.4% and 4.8% after 6, 12 and 24 hr, respectively, when incubated with an activated sludge seed at an initial concentration of 500 ppm(2). 2-Heptanone underwent a 5 day theoretical BOD of 44%(3). In a screening study using a sewage seed, 2-heptanone had a 10 day BOD of 0.50 g/g(4). 2-Heptanone was qualitatively described as degrading in the presence of a sewage sludge seed(5). Organisms isolated from soil and raised on C1-C8 straight chain paraffins were found to oxidize 2-heptanone(6)."
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "PMID:10794623",
+            "Value": "2-Heptanone was found in charybdis feriatus crabs at 5.4 ug/kg, 4.8 ug/kg, and 36 ug/kg in the leg, body and carapace, respectively(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 35",
+            "Value": "log Kow = 1.98"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-1634 2005., p. 1",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Light to moderate congestion of lungs /was found/ in guinea pigs that died from exposure to methyl N-amyl ketone at 2000 ppm.  The duration of exposure  was 890 minutes. Exposure at 1500 ppm was found irritating to mucous membranes, 2000 ppm was strongly... /SRP: CNS depressing/ and 4800 ppm caused ... /SRP: CNS depression/ and death in 4 to 8 hours. Exposure at 200 ppm was associated with tearing and squinting rated as severe, moderate salivation and slight cough."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 1038",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Rated 2 on rabbit eyes. /2-heptanone has been tested externally on eyes of rabbits and has been rated numerically on scale of 1-10 according to degree of injury observed after 24 hours the most severe injury is rated 10/"
+        },
+        {
+            "References": "Opdyke, D.L.J. (ed.). Monographs on Fragrance Raw Materials. New York: Pergamon Press, 1979., p. 532",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Applied full strength to intact or abraded rabbit skin for 24 hours under occlusion was not irritating. It produced a degree of irritation on the uncovered rabbit belly rated as moderate."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 6:272",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The undiluted cmpd in quantities from 5 to 20 mL/kg ... in contact with the depilated skin of guinea pigs under an occlusive wrap for 24 hr produced slight to moderate irritation. No deaths occurred and ..."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 6:271",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Inhalation of 345-545 ppm of methyl n-amyl ketone for 4 hr resulted in significantly decreased duration of the immobility phase (from 27 to 65%, respectively) in a \"behavioral despair\" swimming test /in rats/. The differences were statistically significant at all concentrations."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 6:272",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Rats survived 4-hr exposure to 2000 ppm, whereas 4000 ppm killed all 6 animals. The maximum length of inhalation exposure to a saturated atmosphere of methyl n-amyl ketone with no deaths was 30 min ... All rats survived 6-hr exposures to concentrations of 830-2000 ppm. Clinical signs of toxicity at all concentrations were piloerection, vasodilation, hyperpnea, ataxia, prostration, and dyspnea. When rats were exposed for 6-8 hr to 1500 ppm ... or lower, behavioral changes were not observed ..."
+        },
+        {
+            "References": "PMID:8024467",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ The sensory and pulmonary irritative effects of methyl-propyl-ketone (MPK), methylbutyl-ketone (MBK), methylamyl-ketone (MAK), and methylhexyl-ketone (MHK) were studied in mice. Normal male Ssc:CF1-mice or mice with cannulated tracheas were exposed to 0 to 13,374 ppm MPK, MBK, MAK, or MHK vapor for up to 30 minutes followed by 20 minutes of recovery. Changes in respiration rate and tidal volume (VT) were monitored. Decreases in respiration rate were used as a marker of sensory irritation, which reflected activation of trigeminal nerve endings in the eyes and nose. Changes in VT were used as an indicator of pulmonary irritation. Threshold concentrations (TCs) of the compounds causing decreases in respiration rate or VT and the apparent dissociation constants for the agonist/sensory receptor (KD,app) were calculated for normal mice using dose response curves or the Michaelis-Menten equation. In normal mice, all compounds caused decreases in respiration rate indicative of sensory irritation. The respiration rates gradually increased to baseline values during the recovery period. In mice with cannulated tracheas, no sensory irritation was seen since cannulation had bypassed the trigeminal nerves. The highest concentrations of MPK, MBK, and MHK vapor induced significant increases in respiration rate during the first minutes of exposure, followed by decreases to below the baseline value. In normal mice, the mean TCs of MPK, MBK, MAK, and MHK for reducing the respiration rate were 564, 238, 277, and 75 ppm, respectively. The corresponding mean KD,apps were 4501, 2737, 5246, and 970 ppm. MPK, MBK, and MAK caused decreases in VT. MHK had no effect on VT. In cannulated mice, MPK caused a moderate decrease in VT. High concentrations of MAK caused an increase in VT. MBK and MHK did not affect VT. TCs causing decreases in VT after 11 to 20 minutes for MPK, MBK, and MAK were 178, 300, and 119 ppm, respectively. The KD,app for MPK was 2,190 ppm. KD,apps could not be calculated for MBK and MAK. The authors conclude that pulmonary responses during the first few minutes of exposure to MPK, MBK, MAK, and MHK vapor are dominated by sensory irritation. Some effects on the lower respiratory tract are induced by MAK and the highest concentrations of MBK and MHK. Assuming that the sensory irritation potential for humans can be taken to be equivalent to 20% of the TC (0.2TC), the 0.2TCs based on the first 2 minutes of exposure for MPK, MBK, MAK, and MHK are 167, 60, 53, and 15 ppm, respectively. Those for MPK and MAK are comparable to the American Conference of Governmental Industrial Hygienists standards of 200 and 50 ppm."
+        },
+        {
+            "References": "Gaunt IF et al; Food Cosmet Toxciol 10 (5): 625-636 (1972)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Methyl amyl ketone (a food flavoring constituent) was given to rats, by oral intubation in oil solution, at dose levels of 0 (control), 20, 100 or 500 mg/kg/day for 13 wk. There were no statistically significant differences between treated and control rats in the rate of body-weight gain, food or water consumption, hematological findings, or the results of renal concentration tests. Histological appearance of the tissues was unaffected by treatment. Ketone bodies were found in the urine of a few male rats given 20 mg/kg methyl amyl ketone but this was thought to be due to excretion of the unchanged compound. At 500 mg/kg/day, the liver weight was increased in both sexes and the kidney weight in males only. Some slight increases were also seen at the 100 mg/kg/day level. The excretion of cells in the urine was increased at the 100 and 500 mg/kg/day levels. A mammary adenocarcinoma developed in a female rat given 20 mg/kg/day but this was not thought to be associated with the treatment. The no-untoward-effect level established in this study was 20 mg methyl amyl ketone/kg body weight/day, a level approximately 100 times the estimated maximum likely intake in man."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 6:272",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Exposure of rats for a total of 2300 hr ... to 278 ppm methyl n-amyl ketone resulted in no signs of neurological impairment, and no histologic changes were noted in the peripheral nerves."
+        },
+        {
+            "References": "PMID:7245207",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ A subchronic inhalation study was conducted in which male rats and monkeys were exposed at 0 (controls), 131, or 1025 ppm methyl n-amyl ketone (MAK) for 10 months (6 hr/day, 5 days/week). Comprehensive cardiopulmonary, clinical chemistry, metabolism, and tissue distribution studies were performed. No statistically significant alterations of pulmonary function, electrocardiographic, or clinical chemistry parameters were observed. Methyl n-amyl ketone and methyl n-amyl alcohol were detected in urine and serum from monkeys exposed to MAK for 10 months. Inhaled MAK did not induce rat liver microsomal enzymes. Results of tissue distribution studies of [14C]MAK in rats comparing ip and inhalation routes of exposure were similar, and preexposure to unlabeled MAK did not alter the tissue distribution compared to animals without prior exposure to MAK. Liver tissue had the highest level of radioactivity regardless of the route of administration; however, no liver pathology was observed. Urinary excretion accounted for 25% of the administered dose after 12 hr. In general, a lack of toxicity was noted in both species exposed to MAK."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 6:273",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ ... Groups of male and female rats were exposed to 0, 80, 400, or 1000ppm MnAK. Exposure were conducted 6 hr/day, 7 days/wk. The study consisted of a 14-day premating phase, a mating phase lasting from 1 to 14 days, a gestation phase, and a lactation phase (days 0-4 postpartum). Females received 34-47 exposures and males received 50 exposures ... There were transient reductions in feed consumption and transient body weight change, but no changes in reproductive organ weights, gross pathology, or histopathology of the reproductive organs ... NOEL for reproductive and developmental toxicity was ... 1000 ppm."
+        },
+        {
+            "References": "PMID:117069",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Rats and monkeys exposed to methyl amyl ketone by inhalation showed no neurological effects after 9 months at 1000 ppm.  When given ip at 10-200 mg/kg a decrease in response rate of rats trained on multiple schedule of reinforcement was observed."
+        },
+        {
+            "References": "PMID:8619259",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ The in-vivo anesthetic effects of monoketones in relation to their hydrophobicity and membrane fluidity were study using the log octanol/water partition coefficient (P) to define hydrophobicity, and Na++-ATPase activity to indicate membrane dynamics. Male ddY-mice were anesthetized with 12 different monoketones, and the anesthetic potency (AD50) was the determined as the intraperitoneal dose required to anesthetize 50% of the animals. The AD50 values ranged from 4.4 mmol/kg for the most ketone, methyl-amyl-ketone, to 59.6 mmol/kg for the least potent, acetone. The log (1/AD50) was a parabolic function of log-P, with the value of 2.09 corresponding to the minimum AD50. The time for mice to right themselves after being rolled on their backs varied from 3 to 30 minutes, depending on the kind of ketone. Of four ketones, only methyl-n-propyl-ketone inhibited the Na+/K+-ATPase activity. Membrane diphenyl-hexatriene anisotropy was significantly increased by each ketone, whereas membrane trimethylammoniumphenyl-phenyl-hexatriene anisotropy was significantly increased by methyl-n-propyl-ketone only. The authors conclude that monoketone induced anesthesia is specifically associated with the localization of monoketones in the hydrophobic part of the acyl chains."
+        },
+        {
+            "References": "American Conference of Governmental Industrial Hygienists. Documentation of the TLV's and BEI's with Other World Wide Occupational Exposure Values. CD-ROM Cincinnati, OH 45240-1634 2005., p. 2",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ /Investigators/ using electrodiagnostic measures of motor conduction velocities in sciatic- tibial and ulnar nerves, found no clinical signs of toxicity or neurologic impairment in rats and monkeys exposed 6 hours/day, 5 days/week for 9 months at methyl n-amyl ketone vapor concentrations of 131 and 1025 ppm. Tissues examined for gross and histopathology also indicated no ill effects."
+        },
+        {
+            "References": "PMID:473207",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ Rats (12) were tested daily for 1 hr on a multiple fixed-ratio, fixed-interval (FI) schedule of reinforcement. The rats were given i.p. injections of methyl n-amyl ketone (MAK; 2-heptanone), an industrial solvent, in concentrations ranging from 18-175 mg/kg on 1-8 occasions each, and were tested 15 min after the injections. When compared to the preceding control (saline) day, there was little or no FI response rate change at 18 mg/kg, moderate FI rate decreases at 37 and 74 mg/kg and a near cessation of responding at 175 mg/kg MAK. Changes were statistically significant (P < 0.01) at 37, 74 and 175 mg/kg. The quantity of MAK which altered behavior was the dose that was subsequently determined to be lethal to 2/3 of the test animals. Time course data indicated that the behavioral changes seen at 15 min after 175 mg/kg injections persisted for at least 1 h but had vanished by 2.25 hr after the injections. There was a consistent reduction in the magnitude of the behavioral changes, suggesting that tolerance developed. Inhalation exposures below 1500 ppm did not cause behavioral changes, but those in excess of 1575 ppm had effects similar to the 175 mg/kg injections when testing began 5-10 min after termination of the inhalation exposure. A lack of opportunity for replications made it impossible to achieve statistical significance."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 3:273",
+            "Value": "/LABORATORY ANIMALS: Neurotoxicity/ In brain synaptosomes prepared from MnAK anesthetized mice, membrane 1,6-diphenyl-1,3,5-hexatriene fluidity was decreased."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 6:273",
+            "Value": "/GENOTOXICITY/ MnAK has been shown to be negative in the Ames Salmonella bacterial mutation assay and in an in vitro chromosomal aberration assay."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 3:273",
+            "Value": "/ALTERNATIVE IN VITRO TESTS/ /It was/ reported that MnAK was able to bind to rat liver DNA in vitro to the extent of 400 pmol/mg DNA, and that MnAK given by gavage was also able to bind to rat liver in vivo."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. 3:273",
+            "Value": "/ALTERNATIVE IN VITRO TESTS/ ... Radiolabeled MnAK was added in vitro to rat liver DNA and incubated for 4 hr. No binding to DNA was detectable. In a subsequent study female F344 rat were exposed to 0, 80, 400, or 1000 ppm MnAK, 6 hr/day for 10 day. Liver DNA was purified from the control and high-dose animals and (32)P-postlabeling was used to assay for adducts. No adducts were detected using this technique."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 35 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The Koc of 2-heptonone is estimated as 280(SRC), using a log Kow of 1.98(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that 2-heptanone is expected to have moderate mobility in soil."
+        }
+    ]
+}

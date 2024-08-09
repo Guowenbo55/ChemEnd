@@ -1,0 +1,140 @@
+{
+    "_id": {
+        "$oid": "6682e9a2c4e5dba5ffba2b9e"
+    },
+    "CID": {
+        "$numberInt": "637566"
+    },
+    "Name": "GERANIOL",
+    "IUPACName": "(2E)-3,7-dimethylocta-2,6-dien-1-ol",
+    "CanonicalSMILES": "CC(=CCCC(=CCO)C)C",
+    "Synonyms": [
+        "GERANIOL",
+        "106-24-1",
+        "Geranyl alcohol",
+        "Lemonol",
+        "trans-Geraniol",
+        "(E)-3,7-Dimethylocta-2,6-dien-1-ol",
+        "(E)-Geraniol",
+        "(2E)-3,7-dimethylocta-2,6-dien-1-ol",
+        "(E)-Nerol",
+        "trans-3,7-Dimethyl-2,6-octadien-1-ol",
+        "Geraniol Extra",
+        "Geraniol alcohol",
+        "(E)-3,7-Dimethyl-2,6-octadien-1-ol",
+        "beta-Geraniol",
+        "t-geraniol"
+    ],
+    "IsomericSMILES": "CC(=CCC/C(=C/CO)/C)C",
+    "INCHI": "InChI=1S/C10H18O/c1-9(2)5-4-6-10(3)7-8-11/h5,7,11H,4,6,8H2,1-3H3/b10-7+",
+    "INCHIKEY": "GLZPCOQZEFWAFX-JXMROGBWSA-N",
+    "Formula": "C10H18O",
+    "MolecularWeight": {
+        "$numberDouble": "154.25"
+    },
+    "Description": "Geraniol is a monoterpenoid consisting of two prenyl units linked head-to-tail and functionalised with a hydroxy group at its tail end. It has a role as a fragrance, an allergen, a volatile oil component and a plant metabolite. It is a monoterpenoid, a primary alcohol and a 3,7-dimethylocta-2,6-dien-1-ol.",
+    "XlogP": {
+        "$numberDouble": "2.9"
+    },
+    "Complexity": {
+        "$numberInt": "150"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Schlotzhauer WS et al; J Agric Food Chem 44: 206-9 (1996)",
+            "Value": "Geraniol (trans) is a plant volatile constituent from the flowers of Japanese honeysuckle (Lonicera japonica) at amounts of 107 ug/kg, 48 ug/kg, and trace in freshly opened, 12 hr, and 24 hr flowers, respectively(1)."
+        },
+        {
+            "References": "(1) US Dept Agric; US Dept Agric, Agric Res Service. 1992-2016. Dr. Duke's Phytochemical and Ethnobotanical Databases. Geraniol. Available from, as of June 13, 2016: https://phytochem.nal.usda.gov/phytochem/search",
+            "Value": "Geraniol has been reported to occur in over 200 plants. The top 10 with the highest concentrations are as follows(1):",
+            "Table": "[{'Genus species': 'Nepta cataria', 'Family': 'Lamiaceae', 'Common name(s)': 'Catnip', 'Part': 'Essential Oil', 'Concn (ppm)': '255000'}, {'Genus species': 'Camellia sinensis', 'Family': 'Theaceae', 'Common name(s)': 'Tea', 'Part': 'Leaf Essential Oil', 'Concn (ppm)': '254600'}, {'Genus species': 'Vitis vinifera', 'Family': 'Vitaceae', 'Common name(s)': 'Weinrebe; Vid; Wine Grape; Parra; Grape; Grapevine; European Grape', 'Part': 'Leaf Essential Oil', 'Concn (ppm)': '145200'}, {'Genus species': 'Myristica fragrans', 'Family': 'Myristicaceae', 'Common name(s)': 'nuez moscada; nutmeg; mace; nogal moscado; Muskatnussbaum', 'Part': 'Seed Essential Oil', 'Concn (ppm)': '119000'}, {'Genus species': 'Ocimum basilicum', 'Family': 'Lamiaceae', 'Common name(s)': 'Sweet basil; Cuban basil; Basil', 'Part': 'Essential Oil', 'Concn (ppm)': '100000'}, {'Genus species': 'Coriandrum sativum', 'Family': 'Apiaceae', 'Common name(s)': 'Chinese Parsley; Coriander; Cilantro', 'Part': 'Seed Essential Oil', 'Concn (ppm)': '69700'}, {'Genus species': 'Citrus limon', 'Family': 'Rutaceae', 'Common name(s)': 'Lemon', 'Part': 'Leaf Essential Oil', 'Concn (ppm)': '60200'}, {'Genus species': 'Monarda fitulosa', 'Family': 'Lamiaceae', 'Common name(s)': 'Wild Bergamot', 'Part': 'Plant', 'Concn (ppm)': '29450'}, {'Genus species': 'Ocimum gratissimum', 'Family': 'Lamiaceae', 'Common name(s)': 'Agbo; Shrubby Basil', 'Part': 'Flower; Leaf', 'Concn (ppm)': '14245; 13455'}, {'Genus species': 'Juglans nigra', 'Family': 'Juglandaceae', 'Common name(s)': 'Black walnut', 'Part': 'Essential Oil', 'Concn (ppm)': '13000'}]"
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Griffin S et al; J Chromatog 864: 221-8 (1999) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of June 2, 2016: https://www2.epa.gov/tsca-screening-tools (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 100 was calculated in fish for geraniol(SRC), using a log Kow of 3.56(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is moderate(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) ECHA; Search for Chemicals. Geraniol (106-24-1) Registered Substances Dossier. European Chemical Agency. Available from, as of June 2, 2016: https://echa.europa.eu/ (2) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of June 2, 2016: https://www.safe.nite.go.jp/english/db.html",
+            "Value": "AEROBIC: Geraniol, present at 100 mg/L, reached 94% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/L in the Manometric Respirometry test OECD Guideline 301F(1). Geraniol, present at 100 mg/L, reached 53% of its theoretical BOD in 3 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(2)."
+        },
+        {
+            "References": "PMID:6721493",
+            "Value": "ANAEROBIC: Geraniol, present at 50 ppm carbon, generated 30-75% theoretical methane when incubated for 56 days using a 10% digester sludge(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Griffin S et al; J Chromatog 864: 221-8 (1999)",
+            "Value": "log Kow = 3.56"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:25679220",
+            "Value": "Geraniol (GO) potent antitumor and chemopreventive effects are attributed to its antioxidant and anti-inflammatory properties. In the current study, the potential efficacy of GO (250 mg/kg) in ameliorating metabolic syndrome (MetS) induced by fructose in drinking water /administered to rats/ was elucidated. Moreover, the effect of pioglitazone (5 and 10 mg/kg; PIO) and the possible interaction of the co-treatment of GO with PIO5 were studied in the MetS model. After 4 weeks of treatment, GO and/or PIO reduced the fasting blood glucose and the glycemic excursion in the intraperitoneal glucose tolerance test. GO and PIO5/10 restrained visceral adiposity and partly the body weight gain. The decreased level of peroxisome proliferator activated receptor (PPAR)-gamma transcriptional activity in the visceral adipose tissue of MetS rats was increased by single treatment regimens. Though GO did not affect MetS-induced hyperinsulinemia, PIO5/10 lowered it. Additionally, GO and PIO5/10 suppressed glycated hemoglobin and the receptor for advanced glycated end products (RAGE). These single regimens also ameliorated hyperuricemia, the disrupted lipid profile, and the elevated systolic blood pressure evoked by MetS. The rise in serum transaminases, interleukin-1beta, and tumor necrosis factor-alpha, as well as hepatic lipid peroxides and nitric oxide (NO) was lowered by the single treatments to different extents. Moreover, hepatic non-protein thiols, as well as serum NO and adiponectin were enhanced by single regimens. Similar effects were reached by the combination of GO with PIO5; however, a potentiative interaction was noted on fasting serum insulin level, while synergistic effects were reflected as improved insulin sensitivity, as well as reduced RAGE and triglycerides. Therefore, GO via the transcriptional activation of PPAR-gamma reduces inflammation and free radical injury produced by MetS. Thereby, these effects provide novel mechanistic insights on GO management of MetS associated critical risk factors. Moreover, the co-administration of GO to PIO5 exalted the antidiabetic drug anti-MetS efficacy."
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "PMID:25218494",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Hyperlipidemia is a major, modifiable risk factor for atherosclerosis and cardiovascular disease. In the present study, we have focused on the effect of different doses of geraniol (GOH) on the lipid profile and lipid metabolizing enzymes in atherogenic diet (AD) fed hamsters. Male Syrian hamsters were grouped into seven: group 1 were control animals; group 2 were animals fed GOH alone (200 mg/kg b.w); group 3 were animals fed AD (10 % coconut oil, 0.25% cholesterol, and 0.25% cholic acid); group 4 were animals fed AD + corn oil (2.5 ml/kg b.w); and groups 5, 6, and 7 were fed AD as in group 3 + different doses of GOH (50, 100, and 200 mg/kg b.w), respectively, for 12 weeks. At the end of the experimental period, animals were sacrificed by cervical dislocation and various assays were performed in the plasma and tissues. The AD hamsters showed marked changes in lipid profile and lipid metabolizing enzymes. However, supplementation with GOH counteracted the hyperlipidemia by inhibiting HMG CoA reductase and suppressing lipogenesis. The antihyperlipidemic efficacy of GOH was found to be effective at the dose of 100 mg/kg b.w. This study illustrates that GOH is effective in lowering the risk of hyperlipidemia in AD fed hamsters."
+        },
+        {
+            "References": "PMID:25574396",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ The effects of the inhalation of Cymbopogon martinii essential oil (EO) and geraniol on Wistar rats were evaluated for biochemical parameters and hepatic oxidative stress. Wistar rats were divided into three groups (n = 8): G1 was control group, treated with saline solution; G2 received geraniol; and G3 received C. martinii EO by inhalation during 30 days. No significant differences were observed in glycemia and triacylglycerol levels; G2 and G3 decreased (P < 0.05) total cholesterol level. There were no differences in serum protein, urea, aspartate aminotransferase activity, and total hepatic protein. Creatinine levels increased in G2 but decreased in G3. Alanine aminotransferase activity and lipid hydroperoxide were higher in G2 than in G3. Catalase and superoxide dismutase activities were higher in G3. C. martinii EO and geraniol increased glutathione peroxidase. Oxidative stress caused by geraniol may have triggered some degree of hepatic toxicity, as verified by the increase in serum creatinine and alanine aminotransferase. Therefore, the beneficial effects of EO on oxidative stress can prevent the toxicity in the liver. This proves possible interactions between geraniol and numerous chemical compounds present in C. martinii EO."
+        },
+        {
+            "References": "FAO/WHO Joint Expert Committee on Food Additives; WHO Food Additives Series 52: Aliphatic branched-chain saturated and unsaturated alcohols, aldehydes, acids, and related esters (2004). Available from, as of April 29, 2016: https://www.inchem.org/pages/jecfa.html",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Groups of five male and five female weanling Osborne-Mendel rats were given diet containing geraniol extra, a mixture of 3,7-dimethyl-2,6-octadienol and 3,7-dimethyl-1,6-octadienol, at a concentration of 10,000 mg/kg of diet, calculated  to provide an average daily intake of 500 mg/kg bw, for 16 weeks. In a second study, the same strain and number of animals were given diet containing geraniol extra at a concentration of 1000 mg/kg of diet, calculated to provide an average daily intake of 50 mg/kg bw, for 27-28 weeks. A control group of 10 male and 10 female rats was used in each study. Body weight, food intake and general condition were recorded weekly. Hematological examinations made at the termination of the studies included measurements of leukocyte and erythrocyte counts, hemoglobin and erythrocyte volume fraction. At necropsy, all animals were examined macroscopically and liver, kidneys, heart, spleen, and testes were weighed. For three to four rats of each sex per group, these organs along with abdominal and thoracic viscera and bone, bone marrow, and muscle from one hind leg were preserved and subjected to histopathological examination.  In both studies, no treatment-related effects on growth, hematological parameters or organ weights, or on macroscopic or microscopic changes in the tissues were observed. The NOELs for geraniol were 500 and 50 mg/kg bw per day in the first and second study, respectively, the highest doses tested. /Geraniol extra/"
+        },
+        {
+            "References": "PMID:16332721",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Chemopreventive activities of farnesol (FOH) and geraniol (GOH) were evaluated during the initial phases of hepatocarcinogenesis. Rats received during eight consecutive weeks 25 mg/100 g body weight FOH (FOH group) or GOH (GOH group), or only corn oil (CO group, controls). Incidence (%) and mean number of visible hepatocyte nodules/animal were inhibited in FOH group (13% and 4 +/- 1; p<0.05), but not in GOH group (42% and 18 +/- 17, p>0.05), compared to CO group (100% and 42 +/- 17). Mean area (sq mm) and % liver section area occupied by total hepatic placental glutathione S-transferase positive preneoplastic lesions (PNLs) were reduced in FOH group (0.09 +/- 0.06; 2.8 +/- 1.3; p<0.05) compared to CO group (0.18 +/- 0.12; 10.0 +/- 2.8), while in GOH group only the mean area of these PNL was reduced (0.11 +/- 0.09; p<0.05), but not the % liver section area occupied by them (5.1 +/- 1.1; p>0.05). Compared to CO group, FOH and GOH groups showed reduced (p<0.05) PNL cell proliferation and DNA damage, but only GOH group showed increased PNL apoptosis (p<0.05). FOH group, but not GOH group, presented reduced (p<0.05) total plasma cholesterol levels and increased (p<0.05) hepatic levels of 3-hydroxy-3-methylglutaryl coenzyme A (HMGCoA) reductase mRNA, compared to CO group. No differences (p>0.05) were observed between CO, FOH and GOH regarding hepatic levels of farnesoid X activated receptor (FXR) protein. Results indicate that FOH and GOH could represent promising chemopreventive agents against hepatocarcinogenesis. Inhibition of cell proliferation and DNA damage relate to both isoprenoids' anticarcinogenic actions while induction of apoptosis specifically relates to GOH protective actions. Inhibition of HMGCoA reductase activity could be associated with FOH, but not GOH anticarcinogenic actions. FXR does not seem to be involved in the isoprenoids' chemopreventive activities."
+        },
+        {
+            "References": "PMID:7472655",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ ... the impact of dietary geraniol on the growth of two tumors /was evaluated/. In the first study, geraniol (23 mmol/kg diet, 350 umol/day) was fed to male buffalo rats for 14 days before and for 42 days after the transplant of Morris 7777 hepatomas. Tumor growth was suppressed (p < 0.001). In the second study, the dose-dependent impact of geraniol on the growth of B16 melanomas was assessed. Dietary geraniol (0.65, 6.5 and 65 mmol/kg diet) was fed to female C57BL mice for 14 days before and for 21 days after tumor transplant. Tumor growth was suppressed (p < 0.02) by 6.5 and 65 mmol geraniol/kg diet."
+        },
+        {
+            "References": "PMID:12495555",
+            "Value": "/ENDOCRINE MODULATION/ ... Estrogenic activity was determined by a sensitive and specific bioassay using recombinant yeast cells expressing the human estrogen receptor. At high concentrations, estrogenic activity was detected for citral (geranial and neral), geraniol, nerol and trans-anethole. ... Citral, geraniol, nerol and eugenol were also able to displace ((3)H)17beta-estradiol from isolated alpha- and beta-human estrogen receptors ... ."
+        },
+        {
+            "References": "PMID:12495555",
+            "Value": "/ENDOCRINE MODULATION/ The potential in-vivo estrogenic effects of citral and geraniol were examined in ovariectomized mice, but neither compound showed any ability to stimulate the characteristic estrogenic responses of uterine hypertrophy or acute increase in uterine vascular permeability ..."
+        },
+        {
+            "References": "FAO/WHO Joint Expert Committee on Food Additives; WHO Food Additives Series 52: Aliphatic branched-chain saturated and unsaturated alcohols, aldehydes, acids, and related esters (2004). Available from, as of April 29, 2016: https://www.inchem.org/pages/jecfa.html",
+            "Value": "/GENOTOXICITY/ No evidence of an increase in chromosomal aberrations was reported when geraniol at concentrations of up to 125 ug/mL was incubated with Chinese hamster fibroblast cells in the absence of metabolic activation, although there was an 8% increase in polyploidy."
+        },
+        {
+            "References": "FAO/WHO Joint Expert Committee on Food Additives; WHO Food Additives Series 52: Aliphatic branched-chain saturated and unsaturated alcohols, aldehydes, acids, and related esters (2004). Available from, as of April 29, 2016: https://www.inchem.org/pages/jecfa.html",
+            "Value": "/GENOTOXICITY/ ... Geraniol did not induce sister chromatid exchanges in Chinese hamster ovary cells in the absence of metabolic activation at concentrations up to ... 333 umol/L (51.4 ug/ml) ... ."
+        },
+        {
+            "References": "PMID:23499697",
+            "Value": "/OTHER TOXICITY INFORMATION/ Xenobiotic metabolizing enzymes are chief determinants in both the susceptibility to mutagenic effect of chemical carcinogens and in the response of tumors to chemotherapy. The present study was aimed to analyze the effect of geraniol administration on the activity of phase I and phase II carcinogen metabolizing enzymes through the nuclear factor erythroid 2-related factor-2 (Nrf2) activation against 4-niroquinoline-1-oxide (4NQO) induced oral carcinogenesis. The well-known chemical carcinogen 4NQO (50 ppm) was used to induce oral carcinogenesis through drinking water for 4, 12, and 20 weeks. The degree of cancer progression at each stage was confirmed by histological examination. At the end of the experimental period, 100% tumor formation was observed in the oral cavity of 4NQO induced animals with significant (P<0.05) alteration in the status of tumor markers, tongue and liver phase I and phase II drug metabolizing enzymes indicating progression of disease. Oral administration of geraniol at the dose of 200 mg/kg b.wt., thrice a week to 4NQO induced animals was able to inhibit tumor formation and thereby delayed the progression of oral carcinogenesis by modulating tongue and liver phase I and phase II drug metabolizing enzymes, as substantiated further by the histological and transmission electron microscopic studies. Our results demonstrate that geraniol exerts its chemopreventive potential by altering activities of phases I and II drug metabolizing enzymes to achieve minimum bioactivation of carcinogen and maximum detoxification."
+        },
+        {
+            "References": "PMID:26154255",
+            "Value": "/OTHER TOXICITY INFORMATION/ Geraniol exerts several direct pharmacological effects on tumor cells and, thus, has been suggested as a promising anti-cancer compound. Because vascularization is a major precondition for tumor growth, we analyzed in this study the anti-angiogenic action of geraniol. In vitro, geraniol reduced the migratory activity of endothelial-like eEND2 cells. Western blot analyses further revealed that geraniol downregulates proliferating cell nuclear antigen (PCNA) and upregulates cleaved caspase-3 (Casp-3) expression in eEND2 cells. Moreover, geraniol blocked vascular endothelial growth factor (VEGF)/VEGFR-2 signal transduction, resulting in a suppression of downstream AKT and ERK signaling pathways. In addition, geraniol significantly reduced vascular sprout formation in a rat aortic ring assay. In vivo, geraniol inhibited the vascularization of CT26 tumors in dorsal skinfold chambers of BALB/c mice, which was associated with a smaller tumor size when compared to vehicle-treated controls. Immunohistochemical analyses confirmed a decreased number of Ki67-positive cells and CD31-positive microvessels with reduced VEGFR-2 expression within geraniol-treated tumors. Taken together, these findings indicate that geraniol targets multiple angiogenic mechanisms and, therefore, is an attractive candidate for the anti-angiogenic treatment of tumors."
+        },
+        {
+            "References": "PMID:15374632",
+            "Value": "/OTHER TOXICITY INFORMATION/ ... The anti-tumoral efficacy of geraniol and 5-fluorouracil were also evaluated on TC-118 human tumors transplanted in Swiss nu/nu mice. ... In nude mice, the combined administration of 5-fluorouracil (20 mg/kg /for 5 days) and geraniol (150 mg/kg /for 5 days) caused a 53% reduction of the tumor volume, whereas a 26% reduction was obtained with geraniol alone, 5-fluorouracil alone showed no effect."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of June 2, 2016: https://www2.epa.gov/tsca-screening-tools (2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of geraniol can be estimated to be 90(SRC). According to a classification scheme(2), this estimated Koc value suggests that geraniol is expected to have high mobility in soil."
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "_id": {
+        "$oid": "6682e9d7c4e5dba5ffba2ca5"
+    },
+    "CID": {
+        "$numberInt": "54678486"
+    },
+    "Name": "WARFARIN",
+    "IUPACName": "4-hydroxy-3-(3-oxo-1-phenylbutyl)chromen-2-one",
+    "CanonicalSMILES": "CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O",
+    "Synonyms": [
+        "warfarin",
+        "81-81-2",
+        "Coumadin",
+        "Coumafene",
+        "Zoocoumarin",
+        "Coumafen",
+        "Brumolin",
+        "Coumefene",
+        "Kypfarin",
+        "Solfarin",
+        "Warfarine",
+        "Dethmor",
+        "Dethnel",
+        "Kumader",
+        "Kumadu"
+    ],
+    "IsomericSMILES": "CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O",
+    "INCHI": "InChI=1S/C19H16O4/c1-12(20)11-15(13-7-3-2-4-8-13)17-18(21)14-9-5-6-10-16(14)23-19(17)22/h2-10,15,21H,11H2,1H3",
+    "INCHIKEY": "PJVWKTKQMONHTI-UHFFFAOYSA-N",
+    "Formula": "C19H16O4",
+    "MolecularWeight": {
+        "$numberDouble": "308.3"
+    },
+    "Description": "4-hydroxy-3-(3-oxo-1-phenylbutyl)-1-benzopyran-2-one is a member of the class of coumarins that is 4-hydroxycoumarin which is substituted at position 3 by a 1-phenyl-3-oxo-1-butyl group. It is a methyl ketone, a hydroxycoumarin and a member of benzenes.",
+    "XlogP": {
+        "$numberDouble": "2.7"
+    },
+    "Complexity": {
+        "$numberInt": "502"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "animal_concentrations": [
+        {
+            "References": "(1) Lambert O et al; Bull Environ Contam Toxicol 79: 91-4 (2007) (2) Lemarchand C et al; Chemosphere 80: 1120-4 (2010)",
+            "Value": "Warfarin was not detected (detection limit <0.08 ug/g) in the liver of 4 kestrel falcon, 10 barn-owl, 5 tawny owl, 15 mallard, or 1 common moorhen; but was detected in the livers of 7 of 11 common buzzards at 0.35 to 2 ug/g and in 1 of 13 black coot at 23.52 ug/g(1). The raptors and water birds were collected in 2003 from Loire Atlantique, France(1). Warfarin was not detected (detection limit <0.02 mg/kg) in the livers of 20 Eurasian otters (Lutra lutra) from the upper Loire River catchment, France(2)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 161 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 28 was calculated in fish for warfarin(SRC), using a log Kow of 2.7(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Brorson T et al; Environ Toxicol Chem 13: 543-52 (1994)",
+            "Value": "AEROBIC: In a biodegradation study using an activated sludge inoculum, warfarin (sodium salt) was considered \"not readily biodegradable\" with only a 13% degradation (COD reduction) over a 28-day incubation period(1)."
+        },
+        {
+            "References": "(1) Davis PJ, Rizzo JD; Appl Environ Microbiol 43: 884-90 (1982)",
+            "Value": "PURE CULTURE: Warfarin is reduced by Nocardia and Arthrobacter sp to the alcohol(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 161",
+            "Value": "log Kow = 2.70"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Booth, N.H., L.E. McDonald (eds.). Veterinary Pharmacology and Therapeutics. 5th ed. Ames, Iowa: Iowa State University Press, 1982., p. 954",
+            "Value": "Animals poisoned by warfarin ... die of tissue hypoxia resulting from massive internal bleeding of 2-5 days onset. Bleeding is due to incr capillary permeability & decr blood coagulability. The exact cause of capillary damage is not known, but its presence is evidenced by the fact that hemorrhages occur in tissues not subjected to much mechanical stress. The coagulation defect is the result decreased blood concentrations of the coagulation proteins factor II (prothrombin), factor VII (proconvertin, autoprothrombin I), factor IX (Christmas factor, autoprothrombin II, PTC), and factor X (Stuart factor, autoprothrombin III). These coagulation factors are decreased because their synthesis in the liver has been inhibited. Biosynthesis of these particular proteins is inhibited becaused each one requires adequate activity of vitamin K for biosynthesis, but the rodenticide interferes with the normal function of vitamin K."
+        },
+        {
+            "References": "Booth, N.H., L.E. McDonald (eds.). Veterinary Pharmacology and Therapeutics. 5th ed. Ames, Iowa: Iowa State University Press, 1982., p. 431",
+            "Value": "Hepatic synthesis of prothrombin and factors VII, IX, and X is dependent upon adequate supplies of vitamin K. The molecular and even the cellular mechanism of the anti-vitamin K action of the coumarin compounds remain uncertain. These drugs seem to act as antimetabolites in synthesis of affected clotting factors. Since large doses of vitamin K can overcome or surmount action of dicumarol, competitive type of interaction is thought to be involved. Perhaps coumarin anticoagulants simply inhibit transport of vitamin K to the cellular sites wheresynthesis takes place. In any event, there is some evidence that dicumarol interferes with involvement of vitamin K in synthesis of a prothrombin precursor that may also be common to factors VII, IX, and X."
+        },
+        {
+            "References": "American Medical Association, Council on Drugs. AMA Drug Evaluations Annual 1994. Chicago, IL: American Medical Association, 1994., p. 727",
+            "Value": "Anticoagulants interfere with fibrin formation and are used to prevent thrombus development and extension. Their major therapeutic application has traditionally been for venous thromboembolic disorder in which stasis, rather than vessel wall damage, plays an important etiologic role. Antiplatelet drugs (antithrombotics) are used to prevent arterial occlusions. Thrombolytics dissolve existing fresh thrombi and emboli by catalyzing the conversion of plasminogen to plasmin and thereby activating the endogenous fibrinolytic system."
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 1526",
+            "Value": "The oral anticoagulants are antagonists of vitamin K. Coagulation factors II, VII, IX, & X & the anticoagulant proteins C & S are synthesized mainly in the liver & are biologically inactive unless 9-12 of the amino-terminal glutamic acid residues are carboxylated. The gamma-carboxyglutamate (Gla) residues confer /calcium ion/ binding properties on these proteins that are essential for their assembly into an efficient catalytic complex on a membrane surface. This reaction requires carbon dioxide, molecular oxygen, reduced vitamin K, & a precursor form of the target protein containing a propeptide recognition site. It is catalyzed in the rough endoplasmic reticulum by a 758-residue protein that has been purified, cloned, & characterized. Carboxylation is directly coupled to the oxidation of vitamin K to the epoxide. Reduced vitamin K must be regenerated from the epoxide for sustained carboxylation & synthesis of biologically competent proteins. The vitamin K epoxide reductase is composed of two proteins in the endoplasmic reticulum: microsomal epoxide reductase & a member of the glutathione-S-transferase gene family. This enzyme complex is inhibited by therapeutic doses of oral anticoagulants. Vitamin K (but not vitamin K epoxide) also can be converted to the hydroquinone by a second reductase, DT-diaphorase. The latter enzyme requires high concns of vitamin K & is less sensitive to coumarin drugs, which may explain why admin of sufficient vitamin K can counteract even large doses of oral anticoagulants. /Oral Anticoagulants/"
+        },
+        {
+            "References": "PMID:9360981",
+            "Value": "gamma-Carboxylation of vitamin K-dependent proteins requires a functional  vitamin K cycle to produce the active vitamin K cofactor for the gamma-carboxylase which  posttranslationally modifies precursors of these proteins to contain gamma-carboxyglutamic  acid residues. The warfarin-sensitive enzyme vitamin K epoxide reductase (VKOR) of the cycle  reduces vitamin K 2,3-epoxide to the active vitamin K hydroquinone cofactor. Because of the  importance of warfarin as an anticoagulant in prophylactic medicine and as a poison in rodent  pest control, numerous attempts have been made to understand the molecular mechanism  underlying warfarin-sensitive vitamin K 2,3-epoxide reduction. It is proposed that formation  of VKOR in the endoplasmic reticulum membrane resembles formation of the lipoxygenase enzyme  complex where the glutathione S-transferase-related FLAP protein binds cytosolic lipoxygenase  to form a membrane enzyme complex."
+        },
+        {
+            "References": "PMID:18670159",
+            "Value": "Warfarin is commonly used worldwide as a rodenticide. It inhibits coagulation of blood by inhibiting vitamin K 2,3-epoxide reductase (VKOR) activity. An inadequate supply of vitamin K blocks the production of prothrombin and causes hemorrhage. It has been reported that repeated or long-term treatments with this drug cause resistance in wild rodents. However, the mechanism of warfarin resistance in rodents is still not known precisely. Recent studies reported and identified the function of the molecule, vitamin K epoxide reductase complex subunit 1 (VKORC1), which is the main unit of VKOR. An amino acid substitution in VKORC1 is one of the supposed mechanisms of warfarin resistance. An accelerated detoxification system involving cytochrome P450 (CYP) could also cause the rodenticide resistance. Administration of SKF-525A, a potent inhibitor for P450, increased the mortality due to reduction of warfarin metabolism in warfarin-resistant rats. Meanwhile, the appearance of warfarin-resistant rodents has led to the development of the more effective and toxic rodenticide superwarfarin, which is widely used in Europe and the USA. However, animals resistant to this second-generation rodenticide have already been reported in Europe."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Klecka G et al; Rev Environ Contam Toxicol 207: 1-93 (2010)",
+            "Value": "SEDIMENT: Warfarin was not detected (detection limit 0.5 ng/g dry weight) in 18 sediment samples taken from US streams in the Great Lakes basin; samples were taken 1994 to 2000(1)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Barron L et al; Analyst 134:663-70 (2009) (2) Schuurmann G et al; Environ Sci Technol 40:7005-11 (2006) (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Wiczling P et al; Anal Chem 76: 3069-77 (2004) (5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "The Koc of warfarin is reported as 90(1) and 912(2). The Kd in soil is reported as 8 L/kg and in  sludge as 27 L/kg(1). According to a classification scheme(3), these reported Koc values suggest that warfarin is expected to have high to low mobility in soil. The pKa of warfarin is 5.87(4), indicating that this compound will partially exist in anion form in the environment and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(5)."
+        },
+        {
+            "References": "(1) Tulp HC et al; Environ Sci Technol 43: 9189-95 (2009)",
+            "Value": "The Koc and pKa for warfarin were determined over the pH spectrum(1).",
+            "Table": "[{'pH': 1, 'Koc': 261.3, 'pKa': 4.34}, {'pH': 3, 'Koc': 201.6, 'pKa': 4.75}, {'pH': 4, 'Koc': 74.1, 'pKa': 5.44}, {'pH': 5, 'Koc': 106.2, 'pKa': 5.59}, {'pH': 6, 'Koc': 152.5, 'pKa': 5.61}, {'pH': 7, 'Koc': 30.5, 'pKa': 5.9}, {'pH': 8, 'Koc': 66.3, 'pKa': 5.85}, {'pH': 10, 'Koc': 16.8, 'pKa': 6.31}, {'pH': 11, 'Koc': 30.4, 'pKa': 6.54}, {'pH': 12, 'Koc': 21.7, 'pKa': 6.77}]"
+        }
+    ]
+}

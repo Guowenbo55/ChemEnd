@@ -1,0 +1,98 @@
+{
+    "_id": {
+        "$oid": "6682e838c4e5dba5ffba2480"
+    },
+    "CID": {
+        "$numberInt": "6197"
+    },
+    "Name": "CYCLOHEXIMIDE",
+    "IUPACName": "4-[(2R)-2-[(1S,3S,5S)-3,5-dimethyl-2-oxocyclohexyl]-2-hydroxyethyl]piperidine-2,6-dione",
+    "CanonicalSMILES": "CC1CC(C(=O)C(C1)C(CC2CC(=O)NC(=O)C2)O)C",
+    "Synonyms": [
+        "cycloheximide",
+        "66-81-9",
+        "ACTIDIONE",
+        "Cicloheximide",
+        "NARAMYCIN A",
+        "Kaken",
+        "Actidion",
+        "Actidone",
+        "Hizarocin",
+        "Naramycin",
+        "Neocycloheximide",
+        "Acti-Aid",
+        "Cycloheximid",
+        "Actispray",
+        "Actidione PM"
+    ],
+    "IsomericSMILES": "C[C@H]1C[C@@H](C(=O)[C@@H](C1)[C@@H](CC2CC(=O)NC(=O)C2)O)C",
+    "INCHI": "InChI=1S/C15H23NO4/c1-8-3-9(2)15(20)11(4-8)12(17)5-10-6-13(18)16-14(19)7-10/h8-12,17H,3-7H2,1-2H3,(H,16,18,19)/t8-,9-,11-,12+/m0/s1",
+    "INCHIKEY": "YPHMISFOHDHNIV-FSZOTQKASA-N",
+    "Formula": "C15H23NO4",
+    "MolecularWeight": {
+        "$numberDouble": "281.35"
+    },
+    "Description": "Cycloheximide is a dicarboximide that is 4-(2-hydroxyethyl)piperidine-2,6-dione in which one of the hydrogens attached to the carbon bearing the hydroxy group is replaced by a 3,5-dimethyl-2-oxocyclohexyl group. It is an antibiotic produced by the bacterium Streptomyces griseus. It has a role as a bacterial metabolite, a protein synthesis inhibitor, a neuroprotective agent, an anticoronaviral agent and a ferroptosis inhibitor. It is a member of piperidones, a piperidine antibiotic, an antibiotic fungicide, a dicarboximide, a secondary alcohol and a cyclic ketone. It is functionally related to a piperidine-2,6-dione.",
+    "XlogP": {
+        "$numberDouble": "0.5"
+    },
+    "Complexity": {
+        "$numberInt": "404"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Chem Inspect Test Inst; Biodegradation and Bioaccumulation Data of Existing Chemicals Based on the CSCL Japan; Published by Japan Chemical Industry Ecology- Toxicology & Information Center. ISBN 4-89074-101-1 p. 4-16 (1992) (2) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "At a concentration of 50 ug/l, cycloheximide had a BCF of <0.3 while at 5 ug/l it had a BCF of <2.8 in orange-red killi fish(1). According to a classification scheme(2), these BCF values suggest bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Chem Inspect Test Inst; Biodegradation and Bioaccumulation Data of Existing Chemicals Based on the CSCL Japan; Published by Japan Chemical Industry Ecology-Toxicology and Information Center. ISBN 4-89074-101-1 p. 4-16 (1992)",
+            "Value": "Cycloheximide, present at 100 mg/l, reached 1% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 30 mg/l and the Japanese MITI test(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 136",
+            "Value": "log Kow = 0.55"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:454372",
+            "Value": "STIMULATED TRANSPORT OF NUCLEAR RIBONUCLEOPROTEIN COMPLEXES TO CYTOPLASM AFTER ADMIN CYCLOHEXIMIDE TO RATS WAS STUDIED. ADMIN OF 2 MG/KG CYCLOHEXIMIDE CAUSED A DECR IN CONTENT OF TOTAL LIVER NUCLEAR RIBONUCLEOPROTEIN COMPLEX WITHIN 2 HR. THE OVERALL DECR WAS DUE TO AN INCREASED TRANSPORT INTO THE CYTOPLASM, NOT DECREASED SYNTHESIS. OTHER RESULTS SUGGEST THAT DURING INHIBITORY PHASE OF PROTEIN SYNTHESIS, GENE TRANSCRIPTION CONTINUES & GENE PRODUCT IS TRANSPORTED TO CYTOPLASM FOR TRANSLATION."
+        },
+        {
+            "References": "PMID:456380",
+            "Value": "CYCLOHEXIMIDE (2-5 MG/KG BODY WT) CAUSED COMPLETE INHIBITION OF PROTEIN SYNTHESIS IN RAT LIVER WITHIN 30 MIN, & THE LABELING OF NUCLEAR PROTEINS WAS STRONGLY INHIBITED. UNDER THESE CONDITIONS, THE AMT OF NUCLEOLAR 45 S PRE-rRNA & ITS OROTATE-(14)C LABELING REMAINED UNAFFECTED FOR AT LEAST 4 HR, INDICATING THAT INITIALLY THE RATES OF SYNTHESIS & PROCESSING OF 45 S PRE-rRNA WERE NOT APPRECIABLY ALTERED. DRASTIC ALTERATIONS IN THE 45 S PRE-rRNA PROCESSING PATHWAYS OCCURRED AT THE EARLY STAGES OF CYCLOHEXIMIDE ACTION. THE CHANNELING OF NUCLEAR PRE-rRNA ALONG ALTERNATIVE PROCESSING PATHWAYS IS UNDER STRINGENT CONTROL BY THE CONTINUOUS SUPPLY OF CRITICAL PROTEINS."
+        },
+        {
+            "References": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-265",
+            "Value": "CYCLOHEXIMIDE IS A POTENT INHIBITOR OF PROTEIN SYNTHESIS IN FUNGI & ANIMALS. IT CAUSES AN INCREASE IN ADRENAL RNA, INCREASED PRODUCTION OF GLUCOCORTICOIDS ... & DECREASE IN PYRUVATE UTILIZATION IN ISOLATED ADIPOSE TISSUE."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 136 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Helling CS et al; Phytopathology 64: 1091-1100 (1974)",
+            "Value": "The Koc of cycloheximide is estimated as 47(SRC), using a log Kow of 0.55(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that cycloheximide is expected to have very high mobility in soil. Cycloheximide was classified as a relatively mobile compound in soil based upon a measured Rf value of 0.89 as determined by soil thin-layer chromatography (TLC) in Hagerstown silty clay loam soil(4)."
+        }
+    ],
+    "plant_translocations": [
+        {
+            "content": "The research highlights the systemic activity of cycloheximide in plant fungal disease control, particularly in white pine species. Evidence demonstrates its systemic nature in both eastern and western white pines, revealing its potential as a systemic fungicide. Tritium-labeled cycloheximide was employed to investigate its systemic behavior in eastern white pine seedlings, confirming its upward translocation through the transpiration stream, concentrating in the needles and upper stem after application. While not rapidly degraded by eastern white pine needles, it persists longer, especially at higher concentrations, indicating its systemic nature within the plant tissues for extended periods, up to at least 57 days without significant loss. Although the translocation in eastern white pine might be less efficient compared to western white pine, the persistence of cycloheximide in the former species points to its systemic behavior, offering insights into its application and distribution in plant tissues. This tritium-labeling technique presents an accurate approach for studying cycloheximide's translocation and persistence within pine seedlings, offering wide applicability in systemic studies of this pesticide.",
+            "reference": "Lemin, A. J., & Thomas, R. C. (1961). Systemic Fungicides, The Translocation and Persistence of Tritium-Labeled Cycloheximide in Eastern White Pine Seedlings. Journal of Agricultural and Food Chemistry, 9(4), 254\u2013256. doi:10.1021/jf60116a001\u00a0",
+            "method": {
+                "Test Plant": "Eastern white pine seedlings (Pinus strobus)",
+                "Apply Location": "Hypdermic Application",
+                "Plant Grown Condition": "Eastern white pine seedlings grown under greenhouse conditions",
+                "Chemical preparation": "Tritium-labeled cycloheximide prepared by exposing 10 mg of cycloheximide to 2.5 curies of tritium gas at 300-mm pressure for 21 days, followed by equilibration three times with 50% aqueous ethanol.",
+                "Received pesticide of plant": "An aqueous solution (0.1 ml.) containing 500 PPM of labeled cycloheximide (13 mc/g ) was injected into the stem of an 8-inch eastern white pine seedling 1 inch above soil level.",
+                "Other Information": "-"
+            },
+            "result": "[{\"Time After Application\": \"69h\", \"Total in Application Part (% and ppm)\": \"42.7% (21.53 ppm)\", \"Growing Tip %\": \"0.37%\", \"Needles %\": \"4.16%\", \"Upper Stem %\": \"3.66%\", \"Lower Stem %\": \"5.54%\", \"Roots %\": \"0.9%\"}]"
+        }
+    ]
+}

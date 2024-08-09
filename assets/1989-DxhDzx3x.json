@@ -1,0 +1,65 @@
+{
+    "_id": {
+        "$oid": "6682e7e7c4e5dba5ffba22ee"
+    },
+    "CID": {
+        "$numberInt": "1989"
+    },
+    "Name": "ACETOHEXAMIDE",
+    "IUPACName": "1-(4-acetylphenyl)sulfonyl-3-cyclohexylurea",
+    "CanonicalSMILES": "CC(=O)C1=CC=C(C=C1)S(=O)(=O)NC(=O)NC2CCCCC2",
+    "Synonyms": [
+        "acetohexamide",
+        "968-81-0",
+        "Dymelor",
+        "Acetohexamid",
+        "Dimelor",
+        "Gamadiabet",
+        "Hypoglicil",
+        "Metaglucina",
+        "Tsiklamid",
+        "Minoral",
+        "Ordimel",
+        "Acetohexamida",
+        "Acetohexamidum",
+        "\"N-(p-Acetylphenylsulfonyl)-N-cyclohexylurea\"",
+        "1-((p-Acetylphenyl)sulfonyl)-3-cyclohexylurea"
+    ],
+    "IsomericSMILES": "CC(=O)C1=CC=C(C=C1)S(=O)(=O)NC(=O)NC2CCCCC2",
+    "INCHI": "InChI=1S/C15H20N2O4S/c1-11(18)12-7-9-14(10-8-12)22(20,21)17-15(19)16-13-5-3-2-4-6-13/h7-10,13H,2-6H2,1H3,(H2,16,17,19)",
+    "INCHIKEY": "VGZSUPCWNCWDAN-UHFFFAOYSA-N",
+    "Formula": "C15H20N2O4S",
+    "MolecularWeight": {
+        "$numberDouble": "324.4"
+    },
+    "Description": "Acetohexamide is an N-sulfonylurea that is urea in which a hydrogen attached to one of the nitrogens is replaced by a p-acetylphenylsulfonyl group, while a hydrogen attached to the other nitrogen is replaced by a cyclohexyl group. It has a role as a hypoglycemic agent and an insulin secretagogue. It is a N-sulfonylurea and a member of acetophenones.",
+    "XlogP": {
+        "$numberDouble": "2.4"
+    },
+    "Complexity": {
+        "$numberInt": "498"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Sangster J; LOGKOW Databank. Sangster Res. Lab., Montreal Quebec, Canada (1994)",
+            "Value": "log Kow= 2.44"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Goodman, L.S., and A. Gilman. (eds.) The Pharmacological Basis of Therapeutics. 5th ed. New York: Macmillan Publishing Co., Inc., 1975., p. 1520",
+            "Value": "SULFONYLUREAS STIMULATE ISLET TISSUE TO SECRETE INSULIN. ... ADMIN OF SULFONYLUREAS INCR CONCN OF INSULIN IN PANCREATIC REIN... /SULFONYLUREAS/"
+        },
+        {
+            "References": "Ellenhorn, M.J., S. Schonwald, G. Ordog, J. Wasserberger. Ellenhorn's Medical Toxicology: Diagnosis and Treatment of Human Poisoning. 2nd ed. Baltimore, MD: Williams and Wilkins, 1997., p. 723",
+            "Value": "Sulfonylureas are now...thought to act by a number of different mechanisms. 1. ...produce a depolarization of the pancreatic islet beta cell membrane potassium ion permeability. This results in a release of preformed insulin into the circulation and occurs mostly in non-insulin dependent diabetics. 2. ...reduce basal glucose output from the liver... 3. increase insulin receptor binding... 4. ...increasing intracellular levels of AMP... 5. increase insulin secretion by suppressing the release of glucagon and somatostatin from alpha and delta pancreatic cells. /Sulfonylureas/"
+        },
+        {
+            "References": "USP. Convention. USPDI - Drug Information for the Health  Care Professional. 19th ed. Volume I.Micromedex, Inc.  Englewood, CO., 1999. Content Prepared by the U.S.  Pharmacopieal Convention, Inc., p. 284",
+            "Value": "Sulfonylureas lower blood glucose in NIDDM by directly stimulating the acute release of insulin from functioning beta cells of pancreatic islet tissue by an unknown process that involves a sulfonylurea receptor on the beta cell. Sulfonylureas inhibit the ATP potassium channels on the beta cell membrane and potassium efflux, which results in depolarization and calcium influx, calcium-calmodulin binding, kinase activation, and release of insulin containing granules by exocytosis, an effect similar to that of glucose. Insulin is a hormone that lowers blood glucose and controls the storage and metabolism of carbohydrates, proteins, and fats. Therefore, sulfonylureas are effective only in patients whose pancreata are capable of producing insulin. /Sulfonylurea antidiabetic agents/"
+        }
+    ]
+}

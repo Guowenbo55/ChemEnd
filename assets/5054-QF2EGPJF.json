@@ -1,0 +1,175 @@
+{
+    "_id": {
+        "$oid": "6682e81bc4e5dba5ffba23f1"
+    },
+    "CID": {
+        "$numberInt": "5054"
+    },
+    "Name": "RESORCINOL",
+    "IUPACName": "benzene-1,3-diol",
+    "CanonicalSMILES": "C1=CC(=CC(=C1)O)O",
+    "Synonyms": [
+        "resorcinol",
+        "108-46-3",
+        "benzene-1,3-diol",
+        "1,3-Benzenediol",
+        "Resorcin",
+        "1,3-Dihydroxybenzene",
+        "m-Hydroquinone",
+        "m-Hydroxyphenol",
+        "m-Dihydroxybenzene",
+        "3-Hydroxyphenol",
+        "m-Benzenediol",
+        "Resorcine",
+        "m-Dioxybenzene",
+        "Dihydroxybenzol",
+        "Resorzin"
+    ],
+    "IsomericSMILES": "C1=CC(=CC(=C1)O)O",
+    "INCHI": "InChI=1S/C6H6O2/c7-5-2-1-3-6(8)4-5/h1-4,7-8H",
+    "INCHIKEY": "GHMLBKRAJCXXBS-UHFFFAOYSA-N",
+    "Formula": "C6H6O2",
+    "MolecularWeight": {
+        "$numberDouble": "110.11"
+    },
+    "Description": "Resorcinol is a benzenediol that is benzene dihydroxylated at positions 1 and 3. It has a role as an erythropoietin inhibitor and a sensitiser. It is a benzenediol, a member of resorcinols and a phenolic donor.",
+    "XlogP": {
+        "$numberDouble": "0.8"
+    },
+    "Complexity": {
+        "$numberInt": "64"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Resorcinol. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Aug 29, 2014: https://www.ars-grin.gov/duke/ (2) WHO; Concise International Chemical Assessment Document 71. Resorcinol. Geneva, Switzerland: World Health Org. (2006). Available from, as of Jan 30, 3015: https://www.who.int/ipcs/publications/cicad/cicad71.pdf",
+            "Value": "Resorcinol was detected, not quantified in the wood of Morus alba L. (Moraceae), white mulberry(1). It is also been found in broad bean (Vicia faba), honey mushroom (Armillaria mellea), and in exudates of seedlings of the yellow pond lilly (Nuphar lutea). Resorcinol was detected in extracts of tobacco leaves(2)."
+        }
+    ],
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 20 (1995) (2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of Aug 29, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm/ (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 3 was calculated in fish for resorcinol(SRC), using a log Kow of 0.80(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Aug 29, 2014: https://www.safe.nite.go.jp/english/db.html (2) Kitano M; Biodegradation and Bioaccumulation Test on Chemical Substances. OECD Tokyo Meeting. Reference Book TSU-No. 3 (1978) (3) Kawasaki M; Ecotox Environ Safety 4: 444-54 (1980) (4) Alexander M, Lustigman BK; J Agric Food Chem 14: 410-3 (1966) (5) Heukelekian H, Rand MC; J Water Pollut Control Assoc 29: 1040-53 (1955) (6) Lund FA, Rodriguez DS; J Gen Appl Microbiol 30: 53-61 (1984) (7) Malaney GW; J Water Pollut Control Fed 32: 1300-11 (1960) (8) McKinney RE et al; Sew Indust Wastes 28: 547-57 (1956) (9) Pitter P; Water Res 10: 453-60 (1976) (10) Urushigawa Y et al; Kogai Shigen Kenkyusho Iho 13: 59-65 (1984) (11) Chmielowski J et al; Pol Arch Hydrobiol 22: 327-44 (1975) (12) Gubser H; Gas, Wasser, Abwasser 49: 175-81 (1969) (13) Tabak HH et al; J Bacteriol 87: 910-9 (1964) (14) Lu GH et al; Bull Environ Contam Toxicol 69: 111-116 (2002)",
+            "Value": "AEROBIC: Resorcinol, present at 100 mg/L, reached 100% of its theoretical BOD in 2 weeks using an activated sludge inoculum at 30 mg/L in the Japanese MITI test(1,-3). Complete degradation of resorcinol occurred in 8 days (as determined by a 100% UV absorbancy loss) in a mineral salts medium using a silt loam soil inocula(4). A 5-day 61% theoretical BOD was measured using a sewage inocula(5). A 95% degradation was observed over a 0.4-day incubation period using a Warburg respirometer and an acclimated activated sludge inocula(6). A 6-day 21% theoretical BOD was observed using a Warburg respirometer and an activated sludge acclimated to aniline(7). A 12-hr theoretical BOD of 33-39% was observed using a Warburg respirometer and activated sludge acclimated to either phenol, catechol, or benzoic acid(8). A 5-day COD removal of 90% was measured in an activated sludge system(9). The half-life of resorcinol in an aerobic screening test ranged from 0.16 to 0.24 days using activated sludge acclimated to cresols(10). Half-lives of 0.5 and 4.5 hours were determined for initial concentrations of 20 and 120 ppm resorcinol, respectively, in a treatment plant simulation study over a 1-hr incubation period using inoculum from a coke wastewater treatment plant(11). Degradation of 95% in 1 day and 90% in 8 days was observed in a biological treatment simulation using activated sludge and initial concns of 138 and 500 ppm, respectively(12). Using a Warburg respirometer and a mixed-culture of bacteria adapted to phenol, 95% of initial resorcinol was degraded in 1 to 2 days(13). Resorcinol, present at 2 mg/L, reached 68.6% of its theoretical BOD in 5 days, using 150 mL of river water in the river die-away test. The source of river water inoculum was the Songhua River, Jilan Province, China, which is contaminated with substituted benzenes(14)."
+        },
+        {
+            "References": "(1) Chou WL et al; Biotechnol Bioeng Smyp 8: 391-414 (1979) (2) Horowitz A et al; Dev Ind Microbiol 23: 435-44 (1982) (4) Milligan PW, Haggblom MM; Environ Toxicol Chem 17: 1456-1561 (1998) (5) Deshpande SD, Chakrabarti T; Indian J Environ Hlth 30: 215-221 (1989) (6) Swaminathan K et al; J Environ Sci Health 5: 655-672 (1991)",
+            "Value": "ANAEROBIC: Resorcinol was readily degraded (95% utilization based on TOC) in an anaerobic reactor(1). A 98% of theoretical methane formation was observed in an anaerobic-water screening test using inoculum from one waste treatment facility, but no methane formation was observed using inoculum from a second treatment facility(2).The degradation of resorcinol was examined using anaerobic denitrifying enrichments established in sediments from an estuarine tidal strait in New Jersey(4). Resorcinol half-lives were found to range between 1 and 7 days(4). Activated sludge from an oxidation ditch treating domestic wastewater was separately acclimated to mixed feeds containing m-nitrobenzene sulphonate and resorcinol, m-aminophenol and resorcinol, and catechol and resorcinol(5). Biodegradation half-lives for the three separate feed mixtures were approximately 9 hours, 2.5 hours, and 10 hours, respectively(5). The biodegradation of resorcinol was studied in an upflow anaerobic filter(6). Biodegradation half-lives were found to range from 30 to 250 days, varying with substrate organic loadings(6)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 20",
+            "Value": "log Kow = 0.80"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "PMID:18293213",
+            "Value": "In animal studies resorcinol failed to induce thyroid gland (TG) toxicity, unless pharmacokinetic/toxicokinetic (PK/TK) conditions were manipulated (e.g., injection of resorcinol in oil or application in a slow release formulation). A recently completed two-generation reproductive toxicity study in rats did not detect any adverse effects on either reproductive or TG end points. Resorcinol intake via drinking water up to the palatability limit had resulted in average daily intakes (mg/kg) of 233 in F0 and F1 males and 304 (premating/gestation) or 660 (lactation) in females. Free resorcinol in blood plasma was barely detectable in a few parental animals, indicating rapid metabolism. This short review communication offers a perspective on compromised human skin barrier function as a likely cause of drastic increases in resorcinol absorption. In conjunction with multiple daily applications over many months to hyperemic, inflamed, and lesioned human skin much higher absorption was likely responsible for the reported human TG toxicity."
+        },
+        {
+            "References": "STOM DI, ROGOZINA NA; EKSP VODN TOKSIKOL 6: 111-118 (1976)",
+            "Value": "Phenols oxidizable to quinones cause cessation of protoplasmic streaming in nitella & elodea canadensis, also inhibiting adenosine triphosphatase activity. /Phenols/"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "PMID:17343618",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Resorcinol is a simple aromatic chemical (1,3-benzenediol) that has found widespread use, particularly as a coupler in hair dyes. Clinical experience... shows that resorcinol is a (albeit uncommon) skin sensitizer. .../This study describes/ the outcome of a recent /female mice/ local lymph node assay performed in accordance with Organisation for Economic Co-operation and Development guideline 429, which correctly identified resorcinol as a skin sensitizer. ...Evidence of a dose response was apparent, and an EC3 value of approximately 6% was calculated. This suggests that the skin-sensitizing potency of resorcinol is approximately 2 orders of magnitude lower than that of p-phenylenediamine but similar to that of hexyl cinnamic aldehyde..."
+        },
+        {
+            "References": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 792",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/ Tests of 10% soln on rabbit eyes have caused pain, conjunctival inflammation, & vascularization of cornea. Dry, powdered resorcinol applied to rabbit eyes induced necrosis sufficient to cause perforation of cornea in some & extensive vascularization in others ..."
+        },
+        {
+            "References": "Anonymous; J Am Coll Toxicol 5 (3): 167-204 (1986)",
+            "Value": "/LABORATORY ANIMALS: Acute Exposure/  ... Resorcinol is slightly to moderately toxic.  A chronic dermal study was uneventful. Significant skin effects were observed in mice, but not in rabbits, following dermal application of resorcinol at 5%. At 10% resorcinol solution was not irritating to guinea pigs. ..."
+        },
+        {
+            "References": "WHO/International Programme on Chemical Safety; Concise International Chemical Assessment Document 71 Resorcinol pp.1-72 (2006), Available from, as of 2014: https://www.who.int/ipcs/publications/cicad/en/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ The oral dosing of male F344 rats with 0.8% resorcinol via diet (approximately 480 mg/kg body weight per day) over 8 weeks caused no adverse effects concerning mortality, body weight gain, or food and water consumption, and the examination of the forestomach/ glandular stomach gave no increased incidence of hyperplasia or labelling indices."
+        },
+        {
+            "References": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V4 404",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Groups of 10 male and female F344 (Fischer 344) rats were given 0, 32, 65, 130, 260, or 520 mg/kg resorcinol by gavage 5 days/week for 13 weeks... Most animal at the top dose died.  Daily doses of 65 mg/kg produced increased liver weights, but no other toxic effects were reported..."
+        },
+        {
+            "References": "WHO/International Programme on Chemical Safety; Concise International Chemical Assessment Document 71 Resorcinol pp.1-72 (2006), Available from, as of 2014: https://www.who.int/ipcs/publications/cicad/en/",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Groups of 25 male and 25 female HLA-SD rats were exposed to resorcinol at about 1000 mg/cu m as atomized mist on 8 h/day on 60 days (over more than 4 months) or 90 days (over more than 5.75 months) (Koppers Company, 1977). Two groups of 5 males and 5 females (pair fed and normal controls) were used as controls. Because of high mortality (20% in males; 28% in females), the exposure was temporarily terminated after 64 weeks. Fifty percent of survivors were sacrificed 1 week later, and blood and urine samples were taken. After a 2-week pasture period, the remaining animals were further exposed (total of 90 exposures). Apart from effects such as altered relative organ weights (liver, kidneys, spleen, adrenals) or changes in haematological parameters, the most important changes were seen in the thyroid gland: 39% (15/38 animals) showed a hyperplasia, which was not seen in controls. Although the data are limited due to interruption of the exposure, this study gives an indication of systemic effects after uptake via inhalation."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V71 1121 (1999)",
+            "Value": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Groups of 15 male Fischer 344 rats, six weeks of age, were given resorcinol (purity unspecified) at concentrations of 0 or 0.2% in the diet for 22 weeks either after ligation on one ureter to enhance bladder carcinogenesis or after exposure to 0.05% N-nitrosobutyl-N-(4-hydroxybutyl)amine in the drinking water for two weeks followed by ureteric ligation to initiate bladder carcinogenesis. All animals were killed at 24 weeks. Resorcinol administration did not affect body weight. Resorcinol alone did not induce bladder lesions and did not increase the incidence of any type of tumor when given after the initiator."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V15 171 (1977)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ When tested by repeated skin application, resorcinol showed no carcinogenic effect in mice."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V71 1121-2 (1999)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 16 male Fischer 344 rats, six weeks of age, were given resorcinol (purity, > 99%) at concentrations of 0 or 0.8% in the diet for 51 weeks. Other groups were given 0 or 0.8% resorcinol in the diet for 51 weeks beginning one week after oral gavage of 50 mg/kg body weight N-methyl-N'-nitro-N-nitrosoguanidine to initiate gastric carcinogenesis. Resorcinol reduced the body weights of rats given no initiator and of those given initiator. Resorcinol alone induced a low incidence of mild hyperplasia in the forestomach, but no forestomach tumors. Resorcinol given after the initiator did not increase the incidence of forestomach papillomas or squamous-cell carcinomas induced by the initiator."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V71 1122 (1999)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 10 or 20 male Fischer 344 rats, six weeks of age, were given resorcinol (purity, > 99.5%) at concentrations of 0 or 0.8% in the diet for 36 weeks either alone or after exposure to 0.05% N-nitrosobutyl-N-(4-hydroxybutyl)amine in the drinking water for four weeks to initiate bladder carcinogenesis. Resorcinol did not affect body or bladder weight either when given alone or after initiator. Resorcinol exposure alone did not induce bladder lesions. Feeding of resorcinol after initiation did not increase the incidence or multiplicity of bladder neoplasms resulting from initiation."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V71 1122 (1999)",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Groups of 15 or 20 six week old male Wistar/Crj rats were given resorcinol (purity unspecified) at concentrations of 0, 0.8% in the diet for 36 weeks alone or starting one week after exposure to 0.1% N-nitrosoethyl-N-hydroxyethylamine in the drinking water for three weeks to initiate liver and kidney carcinogenesis. The final body weight of rats given resorcinol were lower than those of rats given basal diet alone or with initiator. Resorcinol also increased the relative liver and kidney weights. Resorcinol treatment after initiation did not affect the incidence of liver or kidney tumors induced by the initiator, but reduced the multiplicity of liver tumors."
+        },
+        {
+            "References": "PMID:10814847",
+            "Value": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Several genetically engineered mouse models are currently being examined for potential use in cancer hazard identification. /This study has/ undertaken an interlaboratory comparison of the performance of the CB6F1-Tg rasH2 transgenic mouse in cancer bioassays concurrently conducted in the United States and Japan. Chemicals selected for study included known human carcinogens (melphalan and cyclosporin A) and known rodent carcinogens (p-cresidine and vinyl carbamate) tested at carcinogenic doses, and non-carcinogens (p-anisidine and resorcinol) tested at appropriate high doses. Because of abdominal adhesions caused by the intraperitoneal dosing vehicle, melphalan was excluded from the study results. The remaining five studies showed similar results between the two laboratories conducting each study. Vinyl carbamate gave the strongest positive response inducing lung adenomas and carcinomas and splenic hemangiosarcomas. p-Cresidine was considered positive for urinary bladder transitional neoplasia. Cyclosporin A, p-anisidine, and resorcinol were negative in all studies."
+        },
+        {
+            "References": "PMID:18293212",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ The potential adverse effects of resorcinol, delivered via drinking water at 0, 120, 360, 1000, and 3000 mg/L (palatability limit), were assessed in a regulatory guideline compliant two-generation reproduction study in Crl:CD(SD) rats. Expanded end points of thyroid gland (TG) function were added because of clinical case reports indicating human TG toxicity. Average daily resorcinol intake (mg/kg) at the 3000 mg/L concentration was 233 in F0 and F1 males, whereas in females it was 304 (premating/gestation) and 660 (lactation). No resorcinol ingestion-related clinical signs of toxicity were observed. Furthermore, neither gross morphologic anomalies nor effects on reproductive function or thyroid hormone levels were detectable. Body weight reductions occurred in 3000 mg/L F0 and F1 animals and were more pronounced in males. However, there was no evidence of either cumulative toxicity in the second generation or of enhanced sensitivity to resorcinol in pregnant/lactating females. Water intake was lower in 3000 mg/L rats of both generations and intermittently, to a lesser extent, at 1000 mg/L; however, concurrent feed intake and utilization were unaffected. Decreased TG follicular colloid content (conventional histopathology; confirmed by quantitative stereomicroscopy) in the 3000 mg/L F0 males was attributed to resorcinol but not considered adverse. The 3000 mg/L intake level appeared to have caused an adaptive thyroid response to a new homeostatic level with no adverse physiological consequences in either males (the more susceptible gender) or females. There were no differences in TG histology in F0 rats of either sex at 1000 mg/L. Thus, resorcinol intake at maximum palatability via a route and mode relevant to potential human exposures via contaminated drinking water at presently unknown environmental concentrations caused no detectable adverse effects on any reproduction or TG end points. The 3000 mg/L resorcinol exposure level was the no-observed-adverse-effect level (NOAEL) for parental systemic and offspring toxicity, while 1000 mg/L was the no-observed-effect level (NOEL)."
+        },
+        {
+            "References": "PMID:4035668",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Dyes were administered by gavage to pregnant Sprague-Dawley rats on gestation Days 6 through 15 at doses ranging from 12.5 to 500 mg/kg. No overt signs of toxicity were observed during the treatment period. The high dose for resorcinol, which exceeded a 100-fold exaggeration of human exposure, did not produce a significant reduction in maternal weight gain. An evaluation of fetal external, visceral, and skeletal anomalies revealed no statistically significant differences between dye-treated and vehicle control groups. Administration of 100,000 units of vitamin A, the positive control, on Day 9 of gestation resulted in a significant increase in abnormal fetuses."
+        },
+        {
+            "References": "Korhonen A et al; Acta Pharmacol Toxicol 52 (2): 95-9 (1983)",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Resorcinol had ED50 values ranging from 2.4 to 22.0 mumol when tested for embryotoxicity on three day chicken embryos."
+        },
+        {
+            "References": "WHO/International Programme on Chemical Safety; Concise International Chemical Assessment Document 71 Resorcinol pp.1-72 (2006), Available from, as of 2014: https://www.who.int/ipcs/publications/cicad/en/",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ In mice, no inhibition of testicular DNA synthesis was seen after single oral dosing with 100 mg/kg body weight. There was also no indication for adverse effects in a sperm head abnormality test with mice after intraperitoneal injections of 0.5-2.0 mmol/kg body weight (55-220 mg/kg body weight)."
+        },
+        {
+            "References": "WHO/International Programme on Chemical Safety; Concise International Chemical Assessment Document 71 Resorcinol pp.1-72 (2006), Available from, as of 2014: https://www.who.int/ipcs/publications/cicad/en/",
+            "Value": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Resorcinol caused no maternal toxicity or embryotoxicity/ teratogenicity in rats dosed via gavage with 0, 40, 80, or 250 mg/kg body weight on gestation days 6-15 (sacrifice on gestation day 19) or in rabbits dosed via gavage with 0, 25, 50, or 100 mg/kg body weight on gestation days 6-18 (sacrifice on gestation day 28)."
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V15 169 (1977)",
+            "Value": "/GENOTOXICITY/ Resorcinol was not mutagenic to Salmonella typhimurium strains TA1535, TA1537, TA98 or TA100 in presence or absence of rat liver postmitochondrial supernatant fraction @ dose of up to 1000 ug/plate catechol, hydroquinone and resorcinol induced chromosome aberrations or karyotypic effects in Allium cepa ... Chara zeylanica ... & Tulbaghia violaces ... ."
+        },
+        {
+            "References": "NTP; Fiscal Year 1986 Annual Plan p.72 (1986) NTP-86-086",
+            "Value": "/GENOTOXICITY/ Chemical test results proved negative for heritable genetic effects in Drosophilia ... . (Sex linked recessive lethal)"
+        },
+        {
+            "References": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work). Available at: https://monographs.iarc.fr/ENG/Classification/index.php, p. V71 1125 (1999)",
+            "Value": "/GENOTOXICITY/ Resorcinol did not induce gene mutations in Salmonella typhimurium or in Escherichia coli strains in either the presence or absence of an exogenous metabolic activation system."
+        },
+        {
+            "References": "PMID:15182471",
+            "Value": "/ALTERNATIVE and IN VITRO TESTS/ Cytotoxicity of resorcinol to 3T3 /mouse embryonic fibroblast cells/  in short- (3 hrs) and long-term (72 hrs or 6 weeks) exposure was investigated. The effects of resorcinol on cell viability (neutral red uptake, NRU assay), mitochondrial function (MTT assay) and total cell protein (Kenacid Blue assay) were estimated. As a model for long-term exposure an INTEGRA CL 6-WELL bioreactor was used. The concentrations of resorcinol producing 20, 50 and 80% inhibition of cell growth in the NRU test were lower than in the MTT test after 3 hrs of exposure. The use of an INTEGRA CL 6-WELL bioreactor allows continuous culturing and exposure to test chemical of cells for several weeks, but the strong adhesiveness of fibroblast and forming aggregates make it difficult to remove them from chambers. Resorcinol in concentration of 1 microg/cu m did not decrease the viability of cells to 50% of control in long-term exposure in the bioreactor."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Boyd SA; Soil Sci 134: 337-43 (1982) (2) Swann RL et al; Res Rev 85: 17-28 (1983) (3) Serjeant EP, Dempsey B; Ionisation Constants of Organic Acids in Aqueous Solution. International Union of Pure and  Applied Chemistry (IUPAC). IUPAC Chemical Data Series  No. 23, 1979. New York, NY: Pergamon Press, Inc. p. 162 (1979) (4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+            "Value": "The Koc of resorcinol in a clay loam soil from the Michigan State University Soils Research Farm was measured to be 10.36(1). According to a classification scheme(2), this estimated Koc value suggests that resorcinol is expected to have very high mobility in soil. The pKa1 of resorcinol is 9.30(3), indicating that this compound will exist partially in the anion form in the environment and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(4)."
+        }
+    ]
+}

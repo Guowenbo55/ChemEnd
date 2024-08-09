@@ -1,0 +1,85 @@
+{
+    "_id": {
+        "$oid": "6682e8dac4e5dba5ffba27ad"
+    },
+    "CID": {
+        "$numberInt": "9782"
+    },
+    "Name": "BETAMETHASONE",
+    "IUPACName": "(8S,9R,10S,11S,13S,14S,16S,17R)-9-fluoro-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13,16-trimethyl-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-3-one",
+    "CanonicalSMILES": "CC1CC2C3CCC4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)CO)O)C)O)F)C",
+    "Synonyms": [
+        "betamethasone",
+        "378-44-9",
+        "Betadexamethasone",
+        "Flubenisolone",
+        "Celestene",
+        "Rinderon",
+        "Visubeta",
+        "Betamethazone",
+        "Becort",
+        "Desacort-Beta",
+        "Betamamallet",
+        "Betametasone",
+        "Betacorlan",
+        "Betacortril",
+        "Betapredol"
+    ],
+    "IsomericSMILES": "C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)F)C",
+    "INCHI": "InChI=1S/C22H29FO5/c1-12-8-16-15-5-4-13-9-14(25)6-7-19(13,2)21(15,23)17(26)10-20(16,3)22(12,28)18(27)11-24/h6-7,9,12,15-17,24,26,28H,4-5,8,10-11H2,1-3H3/t12-,15-,16-,17-,19-,20-,21-,22-/m0/s1",
+    "INCHIKEY": "UREBDLICKHMUKA-DVTGEIKXSA-N",
+    "Formula": "C22H29FO5",
+    "MolecularWeight": {
+        "$numberDouble": "392.5"
+    },
+    "Description": "Betamethasone is a glucocorticoid, a 20-oxo steroid, a 21-hydroxy steroid, a 17alpha-hydroxy steroid, a fluorinated steroid, an 11beta-hydroxy steroid, a 3-oxo-Delta(1),Delta(4)-steroid, a primary alpha-hydroxy ketone and a tertiary alpha-hydroxy ketone. It has a role as an anti-inflammatory drug, an anti-asthmatic agent and an immunosuppressive agent. It derives from a hydride of a pregnane.",
+    "XlogP": {
+        "$numberDouble": "1.9"
+    },
+    "Complexity": {
+        "$numberInt": "805"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 178",
+            "Value": "log Kow= 1.94"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 1657",
+            "Value": "Corticosteroids interact with specific receptor proteins in target tissues to regulate the expression of corticosteroid responsive genes, thereby changing the levels and array of proteins synthesized by the various target tissues. As a consequence of the time required for changes in gene expression and protein synthesis, most effects of corticosteroids are not immediate, but become apparent after several hours. ... Although corticosteroids predominantly act to increase expression of target genes, there are well documented examples where glucocorticoids decrease transcription of target genes ... In contrast to these genomic effects, recent studies have raised the possibility that some actions of corticosteroids are immediate and are mediated by membrane-bound receptors. /Adrenocorticosteroids/"
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 1659",
+            "Value": "The mechanisms by which glucocorticoids inhibit glucose utilization in peripheral tissues are not fully understood. Glucocorticoids decrease glucose uptake in adipose tissue, skin, fibroblasts, thymocytes, and polymorphonuclear leukocytes; these effects are postulated to result from translocation of the glucose transporters from the plasma membrane to an intracellular location. These peripheral effects are associated with a number of catabolic actions, including atrophy of lymphoid tissue, decreased muscle mass, negative nitrogen balance, and thinning of the skin. /Adrenocorticalsteroids/"
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 1659",
+            "Value": "The mechanisms by which the glucocorticoids promote gluconeogenesis are not fully defined. Amino acids mobilized from a number of tissues in response to glucocorticoids reach the liver and provide substrate for the production of glucose and glycogen. In the liver, glucocorticoids induce the transcription of a number of enzymes involved in gluconeogenesis and amino acid metabolism, including phosphoenolpyruvate carboxykinase, glucose-6-phosphatase, and fructose-2,6-bisphosphatase. Analyses of the molecular basis for regulation of phosphoenolpyruvate carboxykinase gene expression have identified complex regulatory influences involving an interplay among glucocorticoids, insulin, glucagon, and catecholamine. The effects of these hormones and amines on phosphoenolpyruvate carboxykinase gene expression mirror the complex regulation of gluconeogenesis in the intact organism. /Adrenocorticalsteroids/"
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 1660",
+            "Value": "... /A/ major action of corticosteroids on the cardiovascular system is to enhance vascular reactivity to other vasoactive substances. Hypoadrenalism generally is associated with hypotension and reduced response to vasoconstrictors such as norepinephrine and angiotensin II. This diminished pressor response is explained partly by recent studies in experimental systems showing that glucocorticoids increase expression of adrenergic receptors in the vascular wall. Conversely, hypertension is seen in patients with excessive glucocorticoid secretion, occurring in most patients with Cushing's syndrome and in a subset of patients treated with synthetic glucocorticoids (even those lacking any significant mineralocorticoid action). /Adrenocorticosteroids/"
+        },
+        {
+            "References": "PMID:7860648",
+            "Value": "The purpose of the present study was to determine the mechanisms by which glucocorticoids increase the activity of CTP:cholinephosphate cytidylyltransferase, a key enzyme required for the synthesis of surfactant phosphatidylcholine. Lung cytidylyltransferase exists as an inactive, light form low in lipids (L-form) and an active, heavy form high in lipid content (H-form). In vitro, fatty acids stimulate and aggregate the active L-form to the active H-form. In vivo, betamethasone incr the amount of H-form while decr the amount of L-form in fetal lung. There is also a coordinate incr in total free fatty acids in the H-form. ... In vivo, betamethasone incr the total amount of free fatty acids associated with the H-form by 62%. Further, the hormone selectively incr the mass of myristic and oleic acids in H-form by 52 and 82%, respectively. However, betamethasone produced the greatest incr in the amount of H-form linoleic acid, which incr four fold relative to control. In vitro, each of the fatty acids incr L-form activity in a dose dependent manner; however, linoleic acid was the most potent. Linoleic and oleic acids also effectively increased L-form aggregations. These observations suggest that in vivo glucocorticoids elevate the level of specific fatty acids which convert cytidylyltransferase to the active form."
+        },
+        {
+            "References": "PMID:8381952",
+            "Value": "/It has been shown/ ... that in the infant rat renal cortex, a saturating dose of glucocorticoid hormones (GC) rapidly incr the abundance of Na+,K(+)-ATPase mRNA. ... This effect is dose dependent. In the renal cortex of 10 day old rats, an incr in renal Na+,K(+)-ATPase mRNA occurs with 2.5 ug betamethasone/100 g body wt. In subsequent experiments, performed 6 hr after a saturating dose (60 ug/100 g body wt) ... the effect is age dependent. The most marked effects on renal cortical alpha-mRNA were found at 10 days of age (5.3- +/- 0.9 fold). A significant incr was also found in 20-day-old rats (1.6- +/- 0.2 fold), but no effect was found in fetal and 5-day-old rats. Studies were also performed on the lung, where the most marked effect was noted in the perinatal period ( 2.0 +/- 0.1 fold 2 days before birth and 1.76 +/- 0.2 at 5 days of age), but no effect on alpha-mRNA was found at 10 and 20 days. In one protocol, the effect of betamethasone on renal Na+K(+)-ATPase mRNAs abundance was determined in adult adrenalectomized rats. In these rats, betamethasone induced a significant 1.6- +/- 0.2 fold and 1.8+/- 0.3 fold incr in renal Na+,K(+)-ATPase mRNA. This effect, however, was significantly smaller than the incr induced in intact 10 day old rats. GC induction of Na+,K(+)-ATPase mRNA is age and tissue dependent and is dependent on factors other than GC receptor availability. The GC sensitive period appears to coincide with the physiologic need for organ maturation ."
+        },
+        {
+            "References": "Blochin B, et al; Pediatr Res 31 (4 Part 2): 347A (1992)",
+            "Value": "Little is known regarding the effect of steroids on the developing brain. Our aims were to examine the prenatal and postnatal development of brain (Na+,K+)-ATPase activity in response to betamethasone (BM) treatment (100 ug/100 g bw x 3 days), and the possible modulation of the steroidal response by a (K+)-load diet (1.7 mEq K+/g of chow). The (Na+,K+)-ATPase activity was measured in brain homogenate at 17 & 21 days of gestation (DOG) and at 4 & 14 days of age in control and steroid treated animals. ... The enzyme activity has been found in premature fetuses and was a moderate, but significant elevation in the last period of intrauterine life followed by a marked elevation after birth. BM incr the (Na+,K+)-ATPase activity only at 14 days of age. There were no significant changes in enzyme activity in response to (K+)-enriched diet in the two groups of animals. The inability to induce higher activity of (Na+,K+)-ATPase activity prenatally by stimulation with betamethasone indicates that steroidal effects can occur only in the late postnatal period. In this stage steroids induced significantly higher levels of (Na+,K+)-ATPase."
+        },
+        {
+            "References": "Hardman, J.G., L.E. Limbird, P.B., A.G. Gilman. Goodman and Gilman's The Pharmacological Basis of Therapeutics. 10th ed. New York, NY: McGraw-Hill, 2001., p. 1465",
+            "Value": "Steroids lyse and possibly induce the redistribution of lymphocytes, causing a rapid, transient decrease in peripheral blood lymphocyte counts. To effect longer-term responses, steroids bind to receptors inside cells, and either these receptors or glucocorticoid-induced proteins bind to DNA in the vicinity of response elements that regulate the transcription of numerous other genes. Additionally, Glucocorticoid-receptor complexes increase IkB expression, thereby curtailing activation of NFkB, which results in increased apoptosis of activated cells. Of central inportance in this regard is the downregulation of inportant proinflammtory cytokines, such as IL-1 and IL-6. T cells are inhibited from making IL-2 and proliferating. The activation of cytotoxic T lymphocytes is inhibited. Neutrophils and monocytes display poor chemotaxis and decreased lysosomal enzyme release. Therefore, glucocorticoids have broad antiinflammatoryeffect on cellular immunity. In contrast, they have relatively little effect on humoral immunity. /Adrenocorticosteroids/"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "_id": {
+        "$oid": "6682e8d5c4e5dba5ffba2794"
+    },
+    "CID": {
+        "$numberInt": "9294"
+    },
+    "Name": "(L)-EPHEDRINE",
+    "IUPACName": "(1R,2S)-2-(methylamino)-1-phenylpropan-1-ol",
+    "CanonicalSMILES": "CC(C(C1=CC=CC=C1)O)NC",
+    "Synonyms": [
+        "Ephedrine",
+        "l-Ephedrine",
+        "(-)-Ephedrine",
+        "299-42-3",
+        "Ephedrin",
+        "L(-)-Ephedrine",
+        "Lexofedrin",
+        "Ephedrol",
+        "Mandrin",
+        "Sanedrine",
+        "Fedrin",
+        "I-Sedrin",
+        "1-Sedrin",
+        "Ephedrine l-form",
+        "(1R,2S)-2-(methylamino)-1-phenylpropan-1-ol"
+    ],
+    "IsomericSMILES": "C[C@@H]([C@@H](C1=CC=CC=C1)O)NC",
+    "INCHI": "InChI=1S/C10H15NO/c1-8(11-2)10(12)9-6-4-3-5-7-9/h3-8,10-12H,1-2H3/t8-,10-/m0/s1",
+    "INCHIKEY": "KWGRBVOPPLSCSI-WPRPVWTQSA-N",
+    "Formula": "C10H15NO",
+    "MolecularWeight": {
+        "$numberDouble": "165.23"
+    },
+    "Description": "(-)-ephedrine is a phenethylamine alkaloid that is 2-phenylethanamine substituted by a methyl group at the amino nitrogen and a methyl and a hydroxy group at position 2 and 1 respectively. It has a role as a nasal decongestant, a sympathomimetic agent, a vasoconstrictor agent, a xenobiotic, an environmental contaminant, a plant metabolite and a bacterial metabolite. It is a member of phenylethanolamines and a phenethylamine alkaloid. It is a conjugate base of a (-)-ephedrinium.",
+    "XlogP": {
+        "$numberDouble": "0.9"
+    },
+    "Complexity": {
+        "$numberInt": "121"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. L-Ephedra. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Jan 17, 2014: https://www.ars-grin.gov/duke/",
+            "Value": "(L)-Ephedrine occurrence in plants(1).",
+            "Table": "[{'Genus species': 'Ephedra sinica', 'Common name': 'Chinese Ephedra, Ma Huang', 'Part': 'Stem', 'Quantity ppm': nan}, {'Genus species': 'Ephedra spp', 'Common name': 'Ma Huang', 'Part': 'Plant', 'Quantity ppm': nan}, {'Genus species': 'Pinellia ternata', 'Common name': 'Ban-Xia, Pan-Hsia', 'Part': 'Stem', 'Quantity ppm': nan}]"
+        },
+        {
+            "References": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. Ephedra. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of Jan 17, 2014: https://www.ars-grin.gov/duke/",
+            "Value": "Ephedrine occurrence in plants(1). /Ephedrine/",
+            "Table": "[{'Genus species': 'Ephedra sinica', 'Common name': 'Chinese Ephedra, Ma Huang', 'Part': 'Plant', 'Quantity ppm': '22,500'}, {'Genus species': 'Ephedra gerardinana', 'Common name': 'Pakistani Ephedra', 'Part': 'Plant', 'Quantity ppm': '7,000'}, {'Genus species': 'Aconitum napellus', 'Common name': \"Aconite, Bear's Foot, Blue Rocket, Friar's Cap, Monkshood, Garden Wolfsbane ...\", 'Part': 'Root', 'Quantity ppm': nan}, {'Genus species': 'Catha edulis', 'Common name': 'Khat', 'Part': 'Leaf', 'Quantity ppm': nan}, {'Genus species': 'Ephedra nevadensis', 'Common name': 'Brigham Tea', 'Part': 'Plant', 'Quantity ppm': nan}, {'Genus species': 'Sida rhombifolia', 'Common name': 'Broomweed', 'Part': 'Root', 'Quantity ppm': nan}, {'Genus species': 'Taxus baccata', 'Common name': 'Common Yew', 'Part': 'Leaf', 'Quantity ppm': nan}]"
+        }
+    ],
+    "logP": [
+        {
+            "References": "Avdeef A; Absorption and Drug Development: Solubility, Permeability, and Charge State, Second Edition, Hoboken, NJ: John Wiley & Sons, Inc., pp. 109 (2012)",
+            "Value": "log Kow = 1.13"
+        }
+    ],
+    "mechanism_of_action": [
+        {
+            "References": "FDA; 21 CFR Part 119 Final Rule Declaring Dietary Supplements Containing Ephedrine Alkaloids Adulterated Because They Present an Unreasonable Risk. Federal Register: February 11, 2004 (Volume 69, Number 28) Page 6787-6854",
+            "Value": "Ephedrine alkaloids are members of a large family of sympathomimetic compounds that include dobutamine and amphetamine. Members of this family increase blood pressure and heart rate by binding to alpha- and beta-adrenergic receptors present in many parts of the body, including the heart and blood vessels. These compounds are called sympathomimetics because they mimic the effects of epinephrine and norepinephrine, which occur naturally in the human body. In addition to their direct pharmacological effects, many of these compounds also stimulate the release of norepinephrine from nerve endings. The release of norepinephrine further increases the sympathomimetic effects of these compounds, at least transiently."
+        },
+        {
+            "References": "Brunton, L. Chabner, B, Knollman, B. Goodman and Gillman's The Pharmaceutical Basis of Therapeutics, Twelth Edition, McGraw Hill Medical, New York, NY. 2011, p. 300",
+            "Value": "Ephedrine does not contain a catechol moiety, and it is effective after oral administration. The drug stimulates heart rate and cardiac output and variably increases peripheral resistance; as a result, ephedrine usually increases blood pressure. Stimulation of the alpha-adrenergic receptors of smooth muscle cells in the bladder base may increase the resistance to the outflow of urine. Activation of beta-adrenergic receptors in the lungs promotes bronchodilation."
+        },
+        {
+            "References": "American Society of Health-System Pharmacists 2013; Drug Information 2013. Bethesda, MD. 2013, p. 1354",
+            "Value": "Ephedrine stimulates both alpha- and beta-adrenergic receptors. It is believed that beta-adrenergic effects result from stimulation of the production of cyclic adenosine 3',5'-monophosphate (AMP) by activation of the enzyme adenyl cyclase, whereas a-adrenergic effects result from inhibition of adenyl cyclase activity. In contrast to epinephrine, ephedrine also has an indirect effect by releasing norepinephrine from its storage sites. With prolonged use or if doses are given frequently, ephedrine may deplete norepinephrine stores in sympathetic nerve endings and tachyphylaxis may develop to the cardiac and pressor effects. Tachyphylaxis to the bronchial effects of the drug may also occur, but it is not the result of norepinephrine depletion."
+        }
+    ]
+}

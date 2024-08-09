@@ -1,0 +1,74 @@
+{
+    "_id": {
+        "$oid": "6692710f303528b49832d7c1"
+    },
+    "CID": {
+        "$numberInt": "27295"
+    },
+    "Name": "Fluorodifen",
+    "IUPACName": "2-nitro-1-(4-nitrophenoxy)-4-(trifluoromethyl)benzene",
+    "CanonicalSMILES": "C1=CC(=CC=C1[N+](=O)[O-])OC2=C(C=C(C=C2)C(F)(F)F)[N+](=O)[O-]",
+    "Synonyms": [
+        "Fluorodifen",
+        "15457-05-3",
+        "Preforan",
+        "Fluorodiphen",
+        "Soyex",
+        "2-Nitro-1-(4-nitrophenoxy)-4-(trifluoromethyl)benzene",
+        "Fluorodifene",
+        "Caswell No. 462AA",
+        "Fluordifen",
+        "Benzene",
+        "2-nitro-1-(4-nitrophenoxy)-4-(trifluoromethyl)-",
+        "2,4-Dinitro-p-trifluoromethyl phenyl ether",
+        "\"4-Trifluoromethyl-2,4-dinitrophenyl ether\"",
+        "p-Nitrophenyl 2-nitro-4-(trifluoromethyl)phenyl ether",
+        "4-Nitrophenyl 4-(trifluoromethyl)-2-nitrophenyl ether",
+        "NSC 58415"
+    ],
+    "IsomericSMILES": "C1=CC(=CC=C1[N+](=O)[O-])OC2=C(C=C(C=C2)C(F)(F)F)[N+](=O)[O-]",
+    "INCHI": "InChI=1S/C13H7F3N2O5/c14-13(15,16)8-1-6-12(11(7-8)18(21)22)23-10-4-2-9(3-5-10)17(19)20/h1-7H",
+    "INCHIKEY": "HHMCAJWVGYGUEF-UHFFFAOYSA-N",
+    "Formula": "C13H7F3N2O5",
+    "MolecularWeight": {
+        "$numberDouble": "328.2"
+    },
+    "Description": "Fluorodifen is an aromatic ether.",
+    "XlogP": {
+        "$numberDouble": "3.7"
+    },
+    "Complexity": {
+        "$numberInt": "440"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_translocations": [
+        {
+            "content": "Autoradiographs and liquid scintillation counts of cucumber (Cucumis sativus L. cv. Ashley) seedlings showed rapid absorption and translocation of radioactivity from fluorodifen-r-14C ((\u00b1)-nitrophenyl-\u03b1,\u03b1,\u03b1-trifluoro-2-nitro-p-tolyl ether labelled with 14C in the 1 position of the nitrophenyl ring). After 24 hours in 1 mg/L of fluorodifen-r-14C, 25% of the absorbed radioactivity was translocated from the roots. Cucumber seedlings degraded fluorodifen-r-14C via a pathway similar to that reported for peanut seedlings but at a slower rate. The major degradation products were p-nitrophenol and an unidentified polar compound (Unknown I). The combination of more rapid absorption and translocation, along with slower degradation, in cucumber compared to peanut seedlings, may contribute to the susceptibility of cucumber to fluorodifen.",
+            "reference": "Eastin, E. F. (1971). MOVEMENT AND FATE OF FLUORODIFEN\u20101\u2032\u201014C IN CUCUMBER SEEDLINGS. Weed Research, 11(1), 63-68.",
+            "method": {
+                "Test Plant": "Cucumber (Cucumis sativus L. cv. Ashley)",
+                "Apply Location": "Root application",
+                "Plant Grown Condition": "Cucumber seeds were germinated in sand for 11 days. The seedlings were then transferred to Hoagland's nutrient solution 2 and grown under conditions described previously (Eastin, 1969b).",
+                "Chemical Preparation": "Fluorodifen-14C with specific activity of 8.3 \u03bcCi/mg was used at 1 mg/l concentration in half-strength nutrient solution.",
+                "Pesticide Application Details for the Plant": "Roots of cucumber plants with three leaves were immersed in the treatment solution containing radiolabeled fluorodifen for 24, 48, 72 or 96 hours. Plants were placed in solution 2 hours after start of the photoperiod.",
+                "Other Information": "After treatment, roots were rinsed three times with distilled water and blotted dry. Visual observations on plant conditions were made at harvest times. Representative plants were autoradiographed"
+            },
+            "result": "[{\"Hours after application\": 24, \"Leaves (% of total absorbed)\": 10.4, \"Stem (%)\": 10.4, \"Cotyledon (%)\": 3.5, \"Root (%)\": 75.7}, {\"Hours after application\": 48, \"Leaves (% of total absorbed)\": 15.5, \"Stem (%)\": 9.9, \"Cotyledon (%)\": 3.8, \"Root (%)\": 70.8}, {\"Hours after application\": 72, \"Leaves (% of total absorbed)\": 20.9, \"Stem (%)\": 8.6, \"Cotyledon (%)\": 3.2, \"Root (%)\": 67.3}, {\"Hours after application\": 96, \"Leaves (% of total absorbed)\": 8.0, \"Stem (%)\": 9.4, \"Cotyledon (%)\": 1.5, \"Root (%)\": 81.1}]"
+        },
+        {
+            "content": "Miller clay and Lufkin sandy loam soils were treated with fluorodifen (4-nitrophenyl 2-nitro-4-trifluoromethylphenyl ether) at 3-4 and 5 kg/ha, and the disappearance was monitored using electron-capture gas chromatography. Less than 10% of the herbicide remained 6 months after application. Persistence was increased by incorporation in the loam but not in the clay soil, and little leaching was detected in either soil. Fluorodifen was applied to both roots and leaves of soybean (Glycine max (L.) Merr.), grain sorghum (Sorghum vulgare Pers.), peanut (Arachis hypogaea L.), and morning glory (Ipomoea purpurea L.). The herbicide was absorbed by the treated tissue, but limited translocation into other plant parts was detected by gas chromatography, autoradiography, and liquid scintillation spectrometry. Following root application, higher concentrations of fluorodifen were found in the lower stems of morning glory and grain sorghum than in other species.",
+            "reference": "Walter, J. P., Eastin, E. F., & Merkle, M. G. (1970). The persistence and movement of fluorodifen in soils and plants. Weed research, 10(2), 165-171.",
+            "method": {
+                "Test Plant": "Morning glory (Ipomoea purpurea cv. Crimson Rambler), grain sorghum (Sorghum vulgare cv. Martin), soybean (Glycine max cv. Lee), and peanut (Arachis hypogaea)",
+                "Apply Location": "Root application.",
+                "Plant Grown Condition": "seedlings were grown in aqueous solutions containing fluorodifen for 1 week before harvest.",
+                "Chemical Preparation": "10 \u03bcg/ml aqueous fluorodifen solutions, and 1 \u03bcg/ml 14C-fluorodifen (6.3 \u03bcCi/mg) for autoradiography.",
+                "Pesticide Application Details for the Plant": "seedling roots immersed in treatment solutions for 1 week. For basipetal study in soybean, 100 \u03bcg applied to one trifoliate leaf.",
+                "Other Information": "samples collected monthly for 6 months from 0-7.5 cm depth, and to 30 cm at later intervals."
+            },
+            "result": "[{\"Plant\": \"Peanut\", \"Treated root (ppm)\": 20.0, \"Lower stem (ppm)\": 0.06, \"Upper stem (ppm)\": 0.03}, {\"Plant\": \"Soybean\", \"Treated root (ppm)\": 125.5, \"Lower stem (ppm)\": 0.12, \"Upper stem (ppm)\": 0.01}, {\"Plant\": \"Grain sorghum\", \"Treated root (ppm)\": 21.7, \"Lower stem (ppm)\": 0.5, \"Upper stem (ppm)\": 0.22}, {\"Plant\": \"Morning glory\", \"Treated root (ppm)\": 11.7, \"Lower stem (ppm)\": 1.25, \"Upper stem (ppm)\": 0.15}]"
+        }
+    ]
+}

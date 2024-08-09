@@ -1,0 +1,66 @@
+{
+    "_id": {
+        "$oid": "6682e9bdc4e5dba5ffba2c25"
+    },
+    "CID": {
+        "$numberInt": "5371578"
+    },
+    "Name": "CIODRIN",
+    "IUPACName": "1-phenylethyl (E)-3-dimethoxyphosphoryloxybut-2-enoate",
+    "CanonicalSMILES": "CC(C1=CC=CC=C1)OC(=O)C=C(C)OP(=O)(OC)OC",
+    "Synonyms": [
+        "Crotoxyphos",
+        "Crotoxyfos",
+        "Ciodrin",
+        "Cyodrin",
+        "Volfazol",
+        "7700-17-6",
+        "Pantozol 1",
+        "Trans-crotoxyphos",
+        "ENT-24717",
+        "326-12-5",
+        "1-phenylethyl (E)-3-dimethoxyphosphoryloxybut-2-enoate",
+        "CHEBI:82110",
+        "2-Butenoic acid",
+        "3-((dimethoxyphosphinyl)oxy)-",
+        "1-phenylethyl ester",
+        "(2E)-",
+        "B05A48683J",
+        "SD-4294"
+    ],
+    "IsomericSMILES": "CC(C1=CC=CC=C1)OC(=O)/C=C(\\C)/OP(=O)(OC)OC",
+    "INCHI": "InChI=1S/C14H19O6P/c1-11(20-21(16,17-3)18-4)10-14(15)19-12(2)13-8-6-5-7-9-13/h5-10,12H,1-4H3/b11-10+",
+    "INCHIKEY": "XXXSILNSXNPGKG-ZHACJKMWSA-N",
+    "Formula": "C14H19O6P",
+    "MolecularWeight": {
+        "$numberDouble": "314.27"
+    },
+    "Description": "Crotoxyphos is a carboxylic ester. It is functionally related to a benzyl alcohol.",
+    "XlogP": {
+        "$numberDouble": "3.3"
+    },
+    "Complexity": {
+        "$numberInt": "406"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Meylan WM, Howard PH; J Pharm Sci 84: 83-92 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods, NY: McGraw-Hill Chapt 5, Eqn 5-2 (1982)",
+            "Value": "Using an estimated log Kow of 1.89(1), one would estimate a BCF of 16 for Ciodrin using a recommended regression equation(2). This would indicate that Ciodrin would not bioconcentrate in aquatic organisms(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Konrad JG, Chesters G; J Agric Food Chem 17: 226-30 (1969) (2) Gretzin LW, Rosefield I; J Agric Food Chem 16: 598-601 (1968) (3) Gretzin LW, Satyanarayana T; Arch Environ Contam Toxicol 8: 661-72 (1979)",
+            "Value": "In experiments performed on the biodegradion of Ciodrin in three soil-water solutions, 14C-Ciodrin concentrations showed a very rapid initial decline resulting from adsorption and then continued to decline at a slower rate due to biodegradation(1). As degradation proceeded, degradation products were released into the solution and all the 14C was found in solution at the end of the experiment. In each soil system, Ciodrin degradation followed first-order kinetics and was related to the extent of initial adsorption. At pH 6.0, the degradation rate in the soil system is two orders of magnitude greater than in aqueous solution. The half-lives of Ciodrin in the soil-water systems are: Poygan silty clay loam (2.2% OC, pH 7.2), 2.00 hr (nonsterile) and 3.75 hr (sterile); Kewanunee Clay (5.8% OC, pH 6.4), 5.50 hr (nonsterile) and 6.00 hr (sterile); and Ella loamy sand (0.93% OC, pH 3.8), 71.0 hr (nonsterile) and 77.0 hr (sterile)(1). The decrease in rate in the electron-beam-sterilized soil was due to decreased Ciodrin adsorption due to the treatment, rather than from retardation of microbial degradation(1). The degradation involves an initial hydrolysis of the ester linkage leading to 3(methoxyphosphinyloxy)crotonic acid(1). The final products are dimethylphosphoric acid, cis-hydroxycrotonic acid, and 1-phenylethanol which are all water soluble(1). In laboratory studies in Chehalis clay loam, 87% of the applied ciodrin degraded in 1 day(2). The enzyme responsible for the degradation exhibits maximum activity at pH 8 and is heat labile(3)."
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hamaker JW, Thompson JM; pp. 49-144 in Organic Chemicals in the Soil Environment Vol 1. Goring CAI, Hamaker JN, eds (1972) (2) Konrad JG, Chesters G; J Agric Food Chem 17: 226-30 (1969) (3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+            "Value": "The mean soil water distribution coefficient of Ciodrin in 3 soils, Poygan silty clay loam (2.2% OC, pH 7.2), Kewanunee Clay (5.8% OC, pH 6.4), and Ella loamy sand (0.93% OC, pH 3.8) was 6.09(1,2). The mean Koc value for these soils was 173(1). According to a suggested classification scheme(3), a Koc value of 173 suggests moderate mobility in soil(SRC)."
+        }
+    ]
+}

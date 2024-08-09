@@ -1,0 +1,88 @@
+{
+    "_id": {
+        "$oid": "6682e89dc4e5dba5ffba2677"
+    },
+    "CID": {
+        "$numberInt": "7953"
+    },
+    "Name": "2,4,6-COLLIDINE",
+    "IUPACName": "2,4,6-trimethylpyridine",
+    "CanonicalSMILES": "CC1=CC(=NC(=C1)C)C",
+    "Synonyms": [
+        "2,4,6-Trimethylpyridine",
+        "108-75-8",
+        "2,4,6-COLLIDINE",
+        "s-Collidine",
+        "Pyridine",
+        "2,4,6-trimethyl-",
+        "gamma-Collidine",
+        "COLLIDINE",
+        "sym-Collidine",
+        "2,4,6-Kollidin",
+        ".gamma.-Collidine",
+        "2,4,6-trimethyl-pyridine",
+        "NSC 460",
+        "MFCD00006338",
+        "\".alpha.,.gamma.,.alpha.-Collidine\"",
+        "2,4,6-trimethyl pyridine"
+    ],
+    "IsomericSMILES": "CC1=CC(=NC(=C1)C)C",
+    "INCHI": "InChI=1S/C8H11N/c1-6-4-7(2)9-8(3)5-6/h4-5H,1-3H3",
+    "INCHIKEY": "BWZVCCNYKMEVEX-UHFFFAOYSA-N",
+    "Formula": "C8H11N",
+    "MolecularWeight": {
+        "$numberDouble": "121.18"
+    },
+    "Description": "2,4,6-Trimethylpyridine is a member of methylpyridines.",
+    "XlogP": {
+        "$numberDouble": "1.9"
+    },
+    "Complexity": {
+        "$numberInt": "80"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "environmental_bioconcentrations": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 45 (1995) (2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999) (3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+            "Value": "An estimated BCF of 6 was calculated for 2,4,6-trimethylpyridine(SRC), using a log Kow of 1.9(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+        }
+    ],
+    "environmental_biodegradations": [
+        {
+            "References": "(1) Naik MN et al; Soil Biol Biochem 4: 313-23 (1972) (2) Kaiser JP, Bollag JM; Soil Biol Biochem 24: 351-57 (1992)",
+            "Value": "AEROBIC: 2,4,6-Trimethylpyridine, present at 1 mM, degraded 100% in >97 days at pH 7 using a 0.5% garden soil suspension with glucose-yeast extract (20 ppm) and a screening test(1). Within 2 weeks, 100% transformation of 2,4,6-trimethylpyridine occurred in soil previously contaminated with pyridine contaminants(2)."
+        },
+        {
+            "References": "(1) Naik MN et al; Soil Biol Biochem 4: 313-23 (1972)",
+            "Value": "ANAEROBIC: 2,4,6-Trimethylpyridine, present at 1 mM, degraded 100% in >97 days at pH 7 using a 0.5% garden soil suspension with glucose-yeast extract (20 ppm) and a screening test(1)."
+        }
+    ],
+    "logP": [
+        {
+            "References": "Hansch, C., Leo, A., D. Hoekman. Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: American Chemical Society., 1995., p. 45",
+            "Value": "log Kow = 1.88"
+        }
+    ],
+    "non_human_toxicity_excerpts": [
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 2724",
+            "Value": "THE AMINO DERIVATIVES, THE 2- & 4-VINYL DERIVATIVES, & COLLIDINE APPEAR TO BE THE MOST POTENT PRIMARY IRRITANTS OF THE /PYRIDINE/ SERIES."
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 2722",
+            "Value": "...RANGE-FINDING STUDIES... /TABLE:/ APPROX LD50 (G/KG) RATS ORAL 0.4; IP 0.05-0.1. MICE ORAL 0.2-0.4; IP 0.1-0.2. APPROX LD50 (ML/KG) GUINEA PIGS PERCUTANEOUS 1.0-2.0. WHERE RANGE IS GIVEN, ALL ANIMALS DIED AT HIGH DOSE & ALL SURVIVED AT LOWER DOSE. WHERE SINGLE FIGURE IS GIVEN, APPROX 1/2 THE ANIMALS DIED AT THAT DOSE."
+        },
+        {
+            "References": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 2723",
+            "Value": "THREE OF THREE RATS DIED FOLLOWING EXPOSURE TO 2500 PPM FOR 2 HR. CONCENTRATED VAPOR PRODUCED BY BUBBLING AIR THROUGH COMPD AT ROOM TEMP. /FROM TABLE/"
+        }
+    ],
+    "soil_absorption_mobility": [
+        {
+            "References": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 45 (1995) (2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990) (3) Swann RL et al; Res Rev 85: 17-28 (1983) (4) Perrin DD; Dissociation Constants of Organic Bases in Aqueous Solution. IUPAC Chem Data Ser, Buttersworth, London (1965) (5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds, Baca Raton, FL: Lewis Publ (2000)",
+            "Value": "The Koc of 2,4,6-trimethylpyridine is estimated as 250(SRC), using a log Kow of 1.9(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that 2,4,6-collidine is expected to have moderate mobility in soil(SRC). The pKa of 2,4,6-trimethylpyridine is 7.4(4), indicating that this compound will partially exist in the protonated form in the environment and cations generally adsorb to organic carbon and clay more strongly than their neutral counterparts(5)."
+        }
+    ]
+}

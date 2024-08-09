@@ -1,0 +1,76 @@
+{
+    "_id": {
+        "$oid": "6682e863c4e5dba5ffba2555"
+    },
+    "CID": {
+        "$numberInt": "6914"
+    },
+    "Name": "2,4,6-TRICHLOROPHENOL",
+    "IUPACName": "2,4,6-trichlorophenol",
+    "CanonicalSMILES": "C1=C(C=C(C(=C1Cl)O)Cl)Cl",
+    "Synonyms": [
+        "2,4,6-TRICHLOROPHENOL",
+        "88-06-2",
+        "Phenachlor",
+        "Phenol",
+        "2,4,6-trichloro-",
+        "Dowicide 2S",
+        "OMAL",
+        "RCRA waste number U231",
+        "1,3,5-Trichloro-2-hydroxybenzene",
+        "2,4,6-TCP",
+        "Dowcide 2S",
+        "2,4,6-trichloro-phenol",
+        "NCI-C02904",
+        "2,4,6-Trichlorfenol",
+        "NSC 2165",
+        "MHS8C5BAUZ"
+    ],
+    "IsomericSMILES": "C1=C(C=C(C(=C1Cl)O)Cl)Cl",
+    "INCHI": "InChI=1S/C6H3Cl3O/c7-3-1-4(8)6(10)5(9)2-3/h1-2,10H",
+    "INCHIKEY": "LINPIYWFGCPVIE-UHFFFAOYSA-N",
+    "Formula": "C6H3Cl3O",
+    "MolecularWeight": {
+        "$numberDouble": "197.4"
+    },
+    "Description": "2,4,6-trichlorophenol is a trichlorophenol with phenolic substituents on positions 2, 4 and 6. It has a role as a carcinogenic agent. It is a conjugate acid of a 2,4,6-trichlorophenolate.",
+    "XlogP": {
+        "$numberDouble": "3.7"
+    },
+    "Complexity": {
+        "$numberInt": "108"
+    },
+    "Charge": {
+        "$numberInt": "0"
+    },
+    "plant_concentrations": [
+        {
+            "References": "(1) Paasivirta J et al; Chemosphere 9: 441-56 (1980) (2) Angels Olivella M et al; Chemosphere 86: 754-8 (2012)",
+            "Value": "2,4,6-Trichlorophenol was detected in 4 of 23 plankton samples from Finnish lake-river system at an average of 2.45 ppb(1). 2,4,6-Trichlorophenol was not detected (detection limit 0.2 ng/g cork) in cork samples collected Jun 2008 from Extremadura, Castile-La Mancha and Catalonia, Spain and Alentejo, Portugal(2)."
+        },
+        {
+            "References": "(1) Sinkkonen S et al; Chemosphere 35: 1175-85 (1997)",
+            "Value": "2,4,6-Trichlorophenol was detected in pine needle wax from 10-20 year old trees near pollution sources; samples were collected from three areas of Finland in 1991-1996(1).",
+            "Table": "[{'Site': 'Waste incinerator', 'Number samples': 5, 'Concn (ng/g dry needle)': '10-30'}, {'Site': 'Metal scrap plant (1993)', 'Number samples': 6, 'Concn (ng/g dry needle)': '5-60'}, {'Site': 'Metal scrap plant (1995)', 'Number samples': 6, 'Concn (ng/g dry needle)': '<1'}, {'Site': 'Pulp and paper mill', 'Number samples': 6, 'Concn (ng/g dry needle)': '<1-2'}, {'Site': 'Remote unpolluted area', 'Number samples': 1, 'Concn (ng/g dry needle)': '50'}]"
+        }
+    ],
+    "animal_concentrations": [
+        {
+            "References": "(1) Lebedev AT et al; Sci Total Environ 212: 153-62 (1998)",
+            "Value": "2,4,6-Trichlorophenol concentrations of <5 to 120 ug/kg dry wt were detected in the birds eggs collected from the Lake Baikal region (Selenga River estuary, Russia)(1).",
+            "Table": "[{'Genus species': 'Anas platyrhynchos', 'Common Name': 'mallard', 'Concn (ug/kg dry wt)': '12'}, {'Genus species': 'Anas acuta', 'Common Name': 'pintail', 'Concn (ug/kg dry wt)': '14.4'}, {'Genus species': 'Anas clypeata', 'Common Name': 'shoveler', 'Concn (ug/kg dry wt)': '54'}, {'Genus species': 'Aythya fuligula', 'Common Name': 'tufted duck', 'Concn (ug/kg dry wt)': '57'}, {'Genus species': 'Aythya ferina', 'Common Name': 'pochard', 'Concn (ug/kg dry wt)': '10'}, {'Genus species': 'Anser anser', 'Common Name': 'goose', 'Concn (ug/kg dry wt)': '<10'}, {'Genus species': 'Gallus gallus (1)', 'Common Name': 'domestic fowl', 'Concn (ug/kg dry wt)': '12.8'}, {'Genus species': 'Gallus gallus (2)', 'Common Name': 'domestic fowl', 'Concn (ug/kg dry wt)': '<5'}, {'Genus species': 'Ardea cinerea', 'Common Name': 'heron', 'Concn (ug/kg dry wt)': '16'}, {'Genus species': 'Larus argentatus', 'Common Name': 'herring gull', 'Concn (ug/kg dry wt)': '<10'}, {'Genus species': 'Larus canus', 'Common Name': 'common gull', 'Concn (ug/kg dry wt)': '<10'}, {'Genus species': 'Sterna hirundo', 'Common Name': 'common tern', 'Concn (ug/kg dry wt)': '10'}, {'Genus species': 'Larus ridibundus', 'Common Name': 'black-headed gull', 'Concn (ug/kg dry wt)': '120'}, {'Genus species': 'Vanellus vanellus', 'Common Name': 'lapwing', 'Concn (ug/kg dry wt)': '23.4'}, {'Genus species': 'Podiceps auritus', 'Common Name': 'Slavonian grebe', 'Concn (ug/kg dry wt)': '13.5'}, {'Genus species': 'Tringa stagnatilis', 'Common Name': 'marsh sandpiper', 'Concn (ug/kg dry wt)': '15.4'}]"
+        }
+    ],
+    "fish_seafood_concentrations": [
+        {
+            "References": "(1) Tavendale MH et al; Chemosphere 33: 2273-89 (1996) (2) Owens JW et al; Chemosphere 29: 89-109 (1994) (3) Devault DS; Arch Environ Contam Toxicol 14: 587-94 (1985) (4) New Brunswick Res and Prod Council; Bioaccumulation of Toxic Compounds in Pulpmill Effluents by Aquatic Organisims in Receiving Waters CPAR Project Report 675-1 (1978) (5) Paasivirta J et al; Chemosphere 14: 469-91 (1985) (6) Vourinen PJ et al; Chemosphere 14: 1729-40 (1985) (7) Paasivirta J; pp 201-33 in Handb Environ Chem Vol 2, Part J, Hutzinger O, ed, Berlin, Germany: Springer-Verlag (2000)",
+            "Value": "2,4,6-Trichlorophenol was detected in goldfish in Lake Maruetai, New Zealand at 0.2-40.5 ug/g(1) and fish from the Peace River in Canada at 0.2-14 ug/g(2). 2,4,6-Trichlorophenol was detected, not quantified, in fish from the Great Lakes(3). Marine and brackish water aquatic organisms from New Brunswick, Canada contained 2,4,6-trichlorophenol at concentrations of 0.51 ppm(4). Baltic salmon contained 2,4,6-trichlorophenol at an average of 2.7 ppb(5). Salmon from the Kemi River, Finland had 2,4,6-trichlorophenol concentrations of 1.9, 5.9 and 5.4 ppb in the muscle, liver and eggs, respectively(6). Trout from the Kemi River, Finland had 2,4,6-trichlorophenol concentrations of 5.9, 15 and 10.7 ppb in muscle, liver and eggs, respectively(6). 2,4,6-Trichlorophenol was detected in pike (Esox lucius) at 2.52-6.99 and 2.52-4.70 ng/g in samples collected Apr 1986 and Mar 1987, respectively, from the Aanekoski watercourse, Finland(7)."
+        }
+    ],
+    "sediment_soil_concentrations": [
+        {
+            "References": "(1) Salkinoja-Salonen MS et al; pp. 668-72 in Current Perspectives in Microbiology Klug MJ, Reddy CA, eds (1984) (2) Xie TM; Chemosphere 12: 1183-91 (1983) (3) Wegman RCC, VandenBroek HH; Water Res 17: 227-30 (1983) (4) Paasivirta J et al; Chemosphere 9: 441-56 (1980) (5) Eder G, Weber K; Chemosphere 9: 111-8 (1980) (6) Wan MT; J Environ Qual 21: 225-31 (1992) (7) Lampi P et al; Chemosphere 24: 1805-24 (1992) (8) Kukkonen JVK et al; Sci Tot Environ 188: 15-27 (1996) (9) Judd MC et al; Chemosphere 33: 2209-2220 (1996) (10) Judd MC et al; Chemosphere 30: 1751-65 (1995)",
+            "Value": "SEDIMENT: 2,4,6-Trichlorophenol was detected in the sediment sampled 3 km from a pulp plant on Lake Saimaa, Finland. Reported concentrations were: 190 ppb (3 cm depth), 70 ppb (5-10 cm depth) and 50 ppb (10-15 cm depth)(1). 2,4,6-Trichlorophenol was detected in the sediment of the Baltic Sea, 2 km from a Swedish sulphate mill at a concentration of 0.4 and 0.1 ppb(2). 2,4,6-Trichlorophenol was detected in 16 of 17 sediment samples from Lake Ketelmeer, Netherlands at a median and maximum of 1.9 and 3.7 ppb, respectively(3); and in the Haringvliet River, Netherlands at a median of 0.9 ppb(3). 2,4,6-Trichlorophenol was detected in the sediment of three lakes in Middle Finland near pulp and saw mills - 14.4 ppb (0-2 cm average of 15 samples; 27.7 ppb maximum average of 5 samples from Lake Vatia)(4). 2,4,6-Trichlorophenol was detected in the sediment of the Weser estuary, Germany at 86.8 parts per trillion in moist sediment and at 105 parts per trillion in suspended matter(5). 2,4,6-Trichlorophenol was detected in the sediment of streams in British Columbia, Canada at concentrations of 25-10,000 ug/kg(6), brooks in Finland at concentrations of 0.001-1.05 ug/g(7) and in the suspended particles and sediment of Lake Saimaa, Finland at concentrations of 0.14-0.99 ug/g(8). 2,4,6-Trichlorophenol was detected in the sediment of the Tarawara River, New Zealand at 0.2-7.5 ng/g(9) and the Waikato River, New Zealand at 9.4 ng/g and 0.4 ng/g(10)."
+        }
+    ]
+}
